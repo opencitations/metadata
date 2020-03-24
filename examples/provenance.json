@@ -1,0 +1,21 @@
+{
+  "@context": "[JSON-LD context URL]",
+  "iri": "gbr:04201/prov/se/2",
+  "a": "metadata_snapshot",
+  "generated": "2016-04-01T00:00:00",
+  "snapshot_of": "gbr:04201",
+  "derived_from": {
+    "iri": "gbr:04201/prov/se/1",
+    "a": "metadata_snapshot",
+    "generated": "2016-02-01T00:00:00",
+    "invalidated": "2016-04-01T00:00:00",
+    "snapshot_of": "gbr:04201",
+    "source": "http://api.crossref.org/works/10.1108/jd-12-2013-0166",
+    "attributed_to": "https://orcid.org/0000-0003-0530-4305",
+    "description": "The entity has been created."
+  },
+  "source": "https://doi.org/10.1108/jd-12-2013-0166",
+  "attributed_to": "https://orcid.org/0000-0003-0530-4305",
+  "description": "The field 'title' of the entity has been modified.",
+  "update_action": "PREFIX gbr: <[dataset URL]br/> PREFIX dcterms: <http://purl.org/dc/terms/> DELETE DATA { gbr:1 dcterms:title 'Setting our bibliographic references free: towards open citation data' }; INSERT DATA { gbr:1 dcterms:title 'Setting Our Bibliographic References Free: Towards Open Citation Data' }"
+}

@@ -1,0 +1,23 @@
+{
+	"@context": "[JSON-LD context URL]",
+	"iri": "grp:04207",
+	"a": "reference_pointer",
+	"content": "Agarwal et al. 2010",
+	"denoted_entry": "gbe:04201",
+	"annotation": {
+		"iri": "gan:04201",
+		"a": "note",
+		"note_content": {
+			"iri": "gci:04201-04025/1",
+			"a": "citation_relationship",
+			"citing_document": "gbr:04201",
+			"cited_document": "gbr:04205",
+			"citation_creation_date": {
+				"value": "2015",
+				"a": "year"
+			},
+			"citation_time_span": "P5Y",
+			"characterization": "f_extends"
+		}
+	}
+}

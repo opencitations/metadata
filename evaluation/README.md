@@ -1,6 +1,13 @@
-# OCO lexical similarity to JATS/XML
+# OCDM evaluation
 
-Includes:
+Includes scripts and data about OCDM evaluation
+
+### `uptake`
+
+ * views (and unique users) of the [data model webpage](http://opencitations.net/model)
+ * `altmetrics.json` [source](https://api.altmetric.com/v1/doi/10.6084/m9.figshare.3443876)
+
+### `oco_jats_lexical_similarity`
 
  * `comm_use-A-B-sample` a corpus of around 2800 JATS/XML documents
  * `oco.xml` the OCO ontology

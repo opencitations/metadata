@@ -1,0 +1,61 @@
+{
+  "@context": "[JSON-LD context URL]",
+  "iri": "[dataset URL]",
+  "a": "ocdm_dataset",
+  "title": "The Dataset following OCDM (DFO)",
+  "description": "The Dataset following OCDM (DFO) is an open repository of scholarly citation data made available under a Creative Commons public domain dedication, which provides in RDF accurate citation information (bibliographic references) harvested from the scholarly literature (described using the SPAR Ontologies) that others may freely build upon, enhance and reuse for any purpose, without restriction under copyright or database law.",
+  "pub_date": "2016-02-01T00:00:00",
+  "mod_date": "2016-04-01T00:00:00",
+  "keyword": [
+    "DFO",
+    "Dataset following OCDM (DFO)",
+    "SPAR Ontologies",
+    "bibliographic references",
+    "citations"
+  ],
+  "subject": [
+    "scholarly_communication",
+    "bibliographic_database",
+    "open_access",
+    "citations"
+  ],
+  "distribution": [
+    {
+      "iri": "gdi:04201",
+      "a": "ocdm_distribution",
+      "title": "The Dataset following OCDM: distribution in Turtle dated 3rd April 2016",
+      "description": "The 3rd April 2016 distribution of the Dataset following OCDM (DFO) stored in Turtle.",
+      "pub_date": "2016-04-03T12:00:00",
+      "license": "cc0",
+      "download": "http://www.dfo.example/distribution/dfo-2016-04-03.ttl.zip",
+      "file_type": "turtle",
+      "byte": "14098371"
+    }
+  ],
+  "webpage": "[Landing Page URL]",
+  "subset": [
+    {
+      "iri": "gbr:",
+      "a": "ocdm_dataset",
+      "title": "Dataset following OCDM (DFO): Bibliographic Resource dataset",
+      "description": "The Dataset following OCDM is an open repository of scholarly citation data made available under a Creative Commons public domain dedication, which provides in RDF accurate citation information (bibliographic references) harvested from the scholarly literature (described using the SPAR Ontologies) that others may freely build upon, enhance and reuse for any purpose, without restriction under copyright or database law. This sub-dataset contains all the 'bibliographic resource' resources.",
+      "pub_date": "2016-02-01T00:00:00",
+      "mod_date": "2016-03-29T00:00:00",
+      "keyword": [
+        "DFO",
+        "Dataset following OCDM",
+        "SPAR Ontologies",
+        "bibliographic references",
+        "citations",
+        "bibliographic resource"
+      ],
+      "subject": [
+        "scholarly_communication",
+        "bibliographic_database",
+        "open_access",
+        "citations"
+      ]
+    }
+  ],
+  "endpoint": "https://w3id.org/dfo/sparql"
+}

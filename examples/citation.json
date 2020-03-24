@@ -1,0 +1,15 @@
+{
+  "@context": "[JSON-LD context URL]",
+  "iri": "gci:04201-04205",
+  "a": "citation_relationship",
+  "citing_document": "gbr:04201",
+  "cited_document": "gbr:04205",
+  "citation_creation_date": { "value": "2015", "a": "year" },
+  "citation_time_span": "P5Y",
+  "identifier": {
+    "iri": "gid:042012",
+    "a": "unique_identifier",
+    "id": "04201-04205",
+    "type": "oci"
+  }
+}

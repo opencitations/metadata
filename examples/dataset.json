@@ -1,0 +1,232 @@
+{
+  "@context": "[JSON-LD context URL]",
+  "iri": "gbr:04201",
+  "a": [ "document", "article" ],
+  "identifier": [
+    {
+      "iri": "gid:04201",
+      "a": "unique_identifier",
+      "id": "10.1108/jd-12-2013-0166",
+      "type": "doi"
+    },
+    {
+      "iri": "gid:04202",
+      "a": "unique_identifier",
+      "id": "http://www.emeraldinsight.com/doi/abs/10.1108/jd-12-2013-0166",
+      "type": "url"
+    },
+    {
+      "iri": "gid:04203",
+      "a": "unique_identifier",
+      "id": "http://dx.doi.org/10.1108/JD-12-2013-0166",
+      "type": "url"
+    }
+  ],
+  "title": "Setting our bibliographic references free: towards open citation data",
+  "date": { "value": "2015", "a": "year" },
+  "related": "http://dx.doi.org/10.1108/jd-12-2013-0166",
+  "contributor": [
+    {
+      "iri": "gar:04201",
+      "a": "role",
+      "role_type": "author",
+      "role_of": {
+        "iri": "gra:04201",
+        "a": "agent",
+        "gname": "Silvio",
+        "fname": "Peroni",
+        "identifier": {
+          "iri": "gid:04204",
+          "a": "unique_identifier",
+          "type": "orcid",
+          "id": "0000-0003-0530-4305"
+        },
+        "related": "http://orcid.org/0000-0003-0530-4305"
+      },
+      "next": "gar:04202"
+    },
+    {
+      "iri": "gar:04202",
+      "a": "role",
+      "role_type": "author",
+      "role_of": {
+        "iri": "gra:04202",
+        "a": "agent",
+        "gname": "Alexander",
+        "fname": "Dutton"
+      },
+      "next": "gar:04203"
+    },
+    {
+      "iri": "gar:04203",
+      "a": "role",
+      "role_type": "author",
+      "role_of": {
+        "iri": "gra:04203",
+        "a": "agent",
+        "gname": "Tanya",
+        "fname": "Grey"
+      },
+      "next": "gar:04204"
+    },
+    {
+      "iri": "gar:04204",
+      "a": "role",
+      "role_type": "author",
+      "role_of": {
+        "iri": "gra:04204",
+        "a": "agent",
+        "gname": "David",
+        "fname": "Shotton",
+        "related": "http://orcid.org/0000-0001-5506-523X"
+      }
+    },
+    {
+      "a": "role",
+      "iri": "gar:04205",
+      "role_type": "publisher",
+      "role_of": {
+        "iri": "gra:04205",
+        "a": "agent",
+        "name": "Emerald"
+      }
+    }
+  ],
+  "format": [
+    {
+      "iri": "gre:04201",
+      "a": [ "generic_format", "digital_format"],
+      "mime_type": "pdf",
+      "fpage": "253",
+      "lpage": "277",
+      "document_url": "http://www.emeraldinsight.com/doi/pdfplus/10.1108/jd-12-2013-0166"
+    },
+    {
+      "iri": "gre:04202",
+      "a": [ "generic_format", "digital_format"],
+      "mime_type": "html",
+      "document_url": "http://www.emeraldinsight.com/doi/full/10.1108/jd-12-2013-0166"
+    }
+  ],
+  "reference": [{
+    "iri": "gbe:04201",
+    "a": "entry",
+    "content": "Agarwal, S., Choubey, L. and Yu, H. (2010), “Automatically classifying the role of citations in biomedical articles”, Proceedings of the 2010 AMIA Annual Symposium, pp. 11-15.",
+    "crossref": "gbr:04205"
+  },
+  {
+    "iri": "gbe:04202",
+    "a": "entry",
+    "content": "Attwood, T. K., Kell, D. B., McDermott, P., Marsh, J., Pettifer, S. R., & Thorne, D. (2010). “Utopia documents: linking scholarly literature with research data”. Bioinformatics, 26(18): i568– i574.",
+    "crossref": "gbr:04206"
+  },
+  {
+    "iri": "gbe:04203",
+    "a": "entry",
+    "content": "Attwood, T. K., Kell, D. B., McDermott, P., Marsh, J., Pettifer, S. R., & Thorne, D. (2009). “Calling International Rescue: knowledge lost in literature and data landslide!”. Biochemical Journal, 424(3): 317–333.",
+    "crossref": "gbr:04207"
+  }],
+  "part": [{
+    "iri": "gde:04201",
+    "a": ["discourse_element", "section"],
+    "identifier": {
+      "iri": "gid:04206",
+      "a": "unique_identifier",
+      "id": "/article/body/sec[2]",
+      "type": "xpath"
+    },
+    "part": [{
+      "iri": "gde:04202",
+      "a": ["discourse_element", "sentence"],
+      "identifier": {
+        "iri": "gid:04207",
+        "a": "unique_identifier",
+        "id": "substring(string(/article/body/sec[2]/p[15]),223,259)",
+        "type": "xpath"
+      },
+      "content": "In the biological field, Agarwal et al. (2010) introduces eight different top-level classes describing different kinds of citations: background, contemporary, contrast, evaluation, explanation of results, material and methods, modality and similarity [10,12].",
+      "context_of": [
+        {
+          "iri": "grp:04207",
+          "a": "reference_pointer",
+          "identifier": {
+            "iri": "gid:04208",
+            "a": "unique_identifier",
+            "id": "substring(string(/article/body/sec[2]/p[15]),248,21)",
+            "type": "xpath"
+          },
+          "content": "Agarwal et al. (2010)",
+          "denoted_entry": "gbe:04201"
+        },
+        {
+          "iri": "gpl:04201",
+          "a": "pointer_list",
+          "identifier": {
+            "iri": "gid:04209",
+            "a": "unique_identifier",
+            "id": "substring(string(/article/body/sec[2]/p[15]),473,7)",
+            "type": "xpath"
+          },
+          "content": "[10,12]",
+          "pointer": [
+            {
+              "iri": "grp:04208",
+              "a": "reference_pointer",
+              "denoted_entry": "gbe:04202",
+              "next": "grp:04209"
+            },
+            {
+              "iri": "grp:04209",
+              "a": "reference_pointer",
+              "denoted_entry": "gbe:04203"
+            }
+          ]
+        }
+      ]
+    }]
+  }],
+  "part_of": {
+    "iri": "gbr:04202",
+    "a":  [ "document", "periodical_issue" ],
+    "number": "2",
+    "part_of": {
+      "iri": "gbr:04203",
+      "a":  [ "document", "periodical_volume" ],
+      "number": "71",
+      "part_of": {
+        "iri": "gbr:04204",
+        "a":  [ "document", "periodical_journal" ],
+        "identifier": [
+          {
+            "iri": "gid:04205",
+            "a": "unique_identifier",
+            "id": "0022-0418",
+            "type": "issn"
+          }
+        ],
+        "title": "Journal of Documentation"
+      }
+    }
+  },
+  "citation": [
+    {
+      "iri": "gbr:04205",
+      "a":  [ "document", "inproceedings" ],
+      "title": "Automatically classifying the role of citations in biomedical articles",
+      "date": { "value": "2010", "a": "year" },
+      "format": [
+        {
+          "iri": "gre:04203",
+          "a": "generic_format",
+          "fpage": "11",
+          "lpage": "15"
+        }
+      ],
+      "part_of": {
+        "iri": "gbr:04206",
+        "a":  [ "document", "proceedings" ],
+        "title": "Proceedings of the 2010 AMIA Annual Symposium"
+      }
+    }
+  ]
+}
