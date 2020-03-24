@@ -1,0 +1,367 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:ali="http://www.niso.org/schemas/ali/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Braz J Microbiol</journal-id><journal-id journal-id-type="iso-abbrev">Braz. J. Microbiol</journal-id><journal-id journal-id-type="publisher-id">bjm</journal-id><journal-title-group><journal-title>Brazilian Journal of Microbiology</journal-title></journal-title-group><issn pub-type="ppub">1517-8382</issn><issn pub-type="epub">1678-4405</issn><publisher><publisher-name>Sociedade Brasileira de Microbiologia</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">26273257</article-id><article-id pub-id-type="pmc">4507534</article-id><article-id pub-id-type="doi">10.1590/S1517-838246220140208</article-id><article-categories><subj-group subj-group-type="heading"><subject>Environmental Microbiology</subject></subj-group></article-categories><title-group><article-title>Isolation of an aryloxyphenoxy propanoate (AOPP) herbicide-degrading
+strain <italic>Rhodococcus ruber</italic> JPL-2 and the cloning of a novel
+carboxylesterase gene (<italic>feh</italic>)</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Hongming</surname><given-names>Liu</given-names></name><xref ref-type="aff" rid="aff01">1</xref></contrib><contrib contrib-type="author"><name><surname>Xu</surname><given-names>Lou</given-names></name><xref ref-type="aff" rid="aff01">1</xref></contrib><contrib contrib-type="author"><name><surname>Zhaojian</surname><given-names>Ge</given-names></name><xref ref-type="aff" rid="aff03">3</xref></contrib><contrib contrib-type="author"><name><surname>Fan</surname><given-names>Yang</given-names></name><xref ref-type="aff" rid="aff01">1</xref></contrib><contrib contrib-type="author"><name><surname>Dingbin</surname><given-names>Chen</given-names></name><xref ref-type="aff" rid="aff01">1</xref></contrib><contrib contrib-type="author"><name><surname>Jianchun</surname><given-names>Zhu</given-names></name><xref ref-type="aff" rid="aff01">1</xref></contrib><contrib contrib-type="author"><name><surname>Jianhong</surname><given-names>Xu</given-names></name><xref ref-type="aff" rid="aff01">1</xref><xref ref-type="aff" rid="aff02">2</xref></contrib><contrib contrib-type="author"><name><surname>Shunpeng</surname><given-names>Li</given-names></name><xref ref-type="aff" rid="aff01">1</xref></contrib><contrib contrib-type="author"><name><surname>Qing</surname><given-names>Hong</given-names></name><xref ref-type="aff" rid="aff01">1</xref><xref rid="c01" ref-type="corresp"/></contrib></contrib-group><aff id="aff01"><label>1</label>Nanjing Agricultural University, College of Life Science, Nanjing Agricultural University, Ministry of Agriculture, Nanjing, China, Key Laboratory of Agricultural Environmental
+Microbiology, College of Life Science, Nanjing Agricultural University, Ministry
+of Agriculture, Nanjing, China.</aff><aff id="aff02"><label>2</label>Jiangsu Center for GMO Evaluation and
+Detection, Jiangsu Academy of Agricultural
+Sciences, Ministry of Agricultrue, Nanjing, China, Key Lab of Agro-Product Safety Risk Evaluation,
+Jiangsu Center for GMO Evaluation and Detection, Jiangsu Academy of Agricultural
+Sciences, Ministry of Agricultrue, Nanjing, China.</aff><aff id="aff03"><label>3</label>Observation and Experimental Station of Saline
+Land of Coastal Area, Institute of Agricultural Sciences in Coastal
+Area of Jiangsu, Ministry of Agriculture, Yancheng, China, Observation and Experimental Station of Saline
+Land of Coastal Area, Institute of Agricultural Sciences in Coastal Area of
+Jiangsu, Ministry of Agriculture, Yancheng, China.</aff><author-notes><corresp id="c01">Send correspondence to H. Qing. Key Laboratory of Agricultural
+Environmental Microbiology, College of Life Science, Nanjing Agricultural
+University, Ministry of Agriculture, 210095 Nanjing, China. E-mail:
+<email>hongqing@njau.edu.cn</email>.</corresp><fn id="fn01" fn-type="other"><p>Associate Editor: Lara Dur&#x000e3;es Sette</p></fn></author-notes><pub-date pub-type="epub"><day>01</day><month>6</month><year>2015</year></pub-date><pub-date pub-type="collection"><month>6</month><year>2015</year></pub-date><volume>46</volume><issue>2</issue><fpage>425</fpage><lpage>432</lpage><history><date date-type="received"><day>07</day><month>3</month><year>2014</year></date><date date-type="accepted"><day>15</day><month>8</month><year>2014</year></date></history><permissions><copyright-statement>Copyright &#x000a9; 2015, Sociedade Brasileira de
+Microbiologia</copyright-statement><copyright-year>2015</copyright-year><license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/3.0/"><license-p>All the content of the journal, except where otherwise noted, is
+licensed under a Creative Commons License CC BY-NC.</license-p></license></permissions><abstract><p>The strain JPL-2, capable of degrading fenoxaprop-P-ethyl (FE), was isolated from
+the soil of a wheat field and identified as <italic>Rhodococcus ruber</italic>.
+This strain could utilize FE as its sole carbon source and degrade 94.6% of 100
+mg L<sup>&#x02212;1</sup> FE in 54 h. Strain JPL-2 could also degrade other
+aryloxyphenoxy propanoate (AOPP) herbicides. The initial step of the degradation
+pathway is to hydrolyze the carboxylic acid ester bond. A novel esterase gene
+<italic>feh</italic>, encoding the FE-hydrolyzing carboxylesterase (FeH)
+responsible for this initial step, was cloned from strain JPL-2. Its molecular
+mass was approximately 39 kDa, and the catalytic efficiency of FeH followed the
+order of FE &#x0003e; quizalofop-P-ethyl &#x0003e; clodinafop-propargyl &#x0003e;
+cyhalofop-butyl &#x0003e; fluazifop-P-butyl &#x0003e; haloxyfop-P-methyl &#x0003e;
+diclofop-methy, which indicated that the chain length of the alcohol moiety
+strongly affected the hydrolysis activity of the FeH toward AOPP herbicides.</p></abstract><kwd-group><kwd>fenoxaprop-P-ethyl</kwd><kwd>microbial degradation</kwd><kwd><italic>Rhodococcus ruber</italic> JPL-2</kwd><kwd>FE -hydrolyzing carboxylesterase gene</kwd></kwd-group><counts><fig-count count="5"/><table-count count="1"/><equation-count count="0"/><ref-count count="23"/><page-count count="8"/></counts></article-meta></front><body><sec sec-type="intro"><title>Introduction</title><p>Fenoxaprop-ethyl{ethyl-2-(4-((6-chloro-2-benzoxazolyl)oxy) phenoxy) propanoate)} (FE)
+is a representative of aryloxyphenoxy propanoate (AOPP) herbicides. It is used to
+control a wide range of grasses in wheat fields due to its high target selectivity
+and low non-target toxicity (<xref rid="B02" ref-type="bibr">Bieringer <italic>et
+al.</italic>, 1982</xref>, <xref rid="B21" ref-type="bibr">Walia <italic>et
+al.</italic>, 1998</xref>). However, research has shown that FE is harmful
+to aquatic organisms (<xref rid="B01" ref-type="bibr">Asshauer <italic>et
+al.</italic>, 1990</xref>). Consequently, the degradation of its residue is
+attracting public attention.</p><p>In general, while FE and other AOPP analogs in the environment are degraded by both
+abiotic and biotic processes (<xref rid="B10" ref-type="bibr">Lin <italic>et
+al.</italic>, 2007</xref>, <xref rid="B09" ref-type="bibr">Lin <italic>et
+al.</italic>, 2008</xref>), microorganisms make the largest contribution.
+AOPP herbicide-degrading microorganisms have been isolated from various genera,
+including <italic>Sphingomonas</italic>, <italic>Acinetobacter</italic>,
+<italic>Chryseomonas</italic>, <italic>Pseudomonas</italic>,
+<italic>Alcaligenes, Rhodococcus</italic>, <italic>Agromyces</italic>,
+<italic>Stenotrophomonas</italic>, <italic>Aquamicrobium</italic>, and
+<italic>Microbacterium</italic> (<xref rid="B15" ref-type="bibr">Smith-Grenier
+and Adkins, 1996a</xref>; <xref rid="B16" ref-type="bibr">Smith-Grenier and
+Adkins, 1996b</xref>; <xref rid="B05" ref-type="bibr">Hoagland and Zablotowicz,
+1998</xref>; <xref rid="B17" ref-type="bibr">Song <italic>et al.</italic>,
+2005a</xref>; <xref rid="B18" ref-type="bibr">Song <italic>et al.</italic>,
+2005b</xref>; <xref rid="B07" ref-type="bibr">Hou <italic>et al.</italic>,
+2011</xref>; <xref rid="B13" ref-type="bibr">Nie <italic>et al.</italic>,
+2011</xref>; <xref rid="B14" ref-type="bibr">Singh, 2013</xref>). The
+degradation pathway of AOPP herbicides has also been investigated and proposed based
+on metabolite identification. For example, <italic>Chryseomonas luteola</italic>
+could degrade diclofop-methyl to diclofop acid and 4-(2,4-dichlorophenoxy) phenol,
+whereas <italic>Sphingomonas paucimobilis</italic> was capable of degrading diclofop
+acid to 4-(2,4-dichlorophenoxy) phenol and 2,4-dichlorophenol and (or) phenol (<xref rid="B15" ref-type="bibr">Smith-Grenier and Adkins, 1996a</xref>; <xref rid="B16" ref-type="bibr">Smith-Grenier and Adkins, 1996b</xref>). In addition,
+<italic>Pseudomonas fluorescens</italic> converted FE to FA (fenoxaprop acid),
+and FA was further transformed to CDHB (6-chloro-2,3-dihydrobenzoxazol-2-one) or
+2-(4-hydroxyphen-oxy) propionic acid (HPP) in FE-TSB cultures (<xref rid="B05" ref-type="bibr">Hoagland and Zablotowicz, 1998</xref>). <xref rid="B07" ref-type="bibr">Hou <italic>et al.</italic> (2011)</xref> isolated an
+FE-degrading bacterium <italic>Rhodococcus</italic> sp. T1, which could hydrolyze FE
+to FA. CyB (Cyhalofop-butyl)-degrading strain <italic>Pseudomona
+azotoformans</italic> QDZ-1 could hydrolyze the carboxylic acid ester linkage of
+AOPP herbicides to their corresponding acid form (<xref rid="B13" ref-type="bibr">Nie <italic>et al.</italic>, 2011</xref>). <italic>Pseudomonas</italic> sp. B2
+could degrade clodinafop propargyl (CF) to clodinafop acid and
+4-(4-Chloro-2-fluoro-phenoxy)-phenol (<xref rid="B14" ref-type="bibr">Singh,
+2013</xref>). To summarize, the initial step in the degradation of AOPP
+herbicides, which is shared among these strains, is the breakdown of the carboxylic
+acid ester bond by a carboxylesterase. Thus far, only two genes encoding this enzyme
+have been cloned: <italic>chbH</italic> from <italic>Pseudomonas
+azotoformans</italic> QDZ-1 and <italic>feh</italic> from
+<italic>Rhodococcus</italic> sp. T1. However, the characteristics of FeH have
+yet to be investigated.</p><p>In this study: JPL-2, an aryloxyphenoxy propanoate (AOPP) herbicide-degrading strain
+of <italic>Rhodococcus ruber</italic>, was isolated and characterized; a novel
+carboxylesterase gene <italic>feh</italic> was cloned and expressed; and the
+characteristics of FeH were studied.</p></sec><sec sec-type="materials|methods"><title>Materials and Methods</title><sec><title>Chemicals and media</title><p>The fenoxaprop-P-ethyl, cyhalofop-butyl, quizalofop-p-ethyl, diclofop-methyl,
+haloxyfop-p-methyl, fluazifop-p-butyl, clodinafop-propargyl, and fenoxaprop acid
+were from Langchem Inc. (Shanghai, China). The Luria-Bertani (LB) medium
+consisted of the following components (in g L<sup>&#x02212;1</sup>): 10.0 tryptone, 5.0
+yeast extract and 10.0 NaCl. Mineral salts medium (MSM) consisted of the
+following components (in g L<sup>&#x02212;1</sup>): 1.5 NH<sub>4</sub>NO<sub>3</sub>,
+0.5 NaCl, 1.5 K<sub>2</sub>HPO<sub>4</sub>, 0.5 KH<sub>2</sub>PO<sub>4</sub> and
+0.2 MgSO<sub>4</sub>&#x000b7;7H<sub>2</sub>O, pH 7.0. For solid medium, 20.0 g agar was
+added. The stock solutions of the above herbicides (10000 mg L<sup>&#x02212;1</sup>,
+w/v) were prepared in dimethyl sulfoxide and sterilized by membrane filtration.
+The solutions were added to the sterilized MSM and used as the carbon source
+when required. Strain JPL-2 could not utilize dimethyl sulfoxide as the sole
+carbon source for growth in MSM medium.</p></sec><sec><title>Isolation and identification of fenoxaprop-P-ethyl -degrading
+bacteria</title><p>To isolate FE-degrading bacteria, a conventional enrichment method was employed.
+The soil sample was collected from a wheat field in Henan province that had been
+subjected to the long-term application of FE. Approximately 2.0 g of the soil
+sample was added to 100 mL MSM, with the addition of FE (50 mg L<sup>&#x02212;1</sup>)
+as the carbon source, and was incubated at 30 &#x000b0;C and 150 rpm for approximately 2
+d. Then, 5 mL of the enrichment culture was transferred into another 100 mL of
+fresh medium for an additional round of enrichment. After three rounds of
+transfer, the enrichment culture was diluted and spread on MSM agar plates with
+50 mg L<sup>&#x02212;1</sup> FE. After 2 d of incubation at 30 &#x000b0;C, colonies that
+degraded FE, as evidenced by the production of a visible transparent halo, were
+picked and purified. The ability to degrade FE was verified by high performance
+liquid chromatography (HPLC).</p><p>Strain JPL-2 was characterized and identified by morphological, physiological
+&#x00026; biochemical characteristics as well as 16S rRNA gene analysis. The
+morphological, physiological and biochemical characterizations were analyzed
+according to Bergey's Manual of Determinative Bacteriology (<xref rid="B06" ref-type="bibr">Holt <italic>et al.</italic>, 1994</xref>). The strain was
+also characterized biochemically using the API CORYNE system according to the
+manufacturer's instructions (API bioM&#x000e9;rieux).</p><p>Genomic DNA was extracted by the high-salt precipitation method. The 16S rRNA
+gene of strain JPL-2 was amplified from the genomic DNA with the primers 27F
+(5&#x02032;-AGAGTTTGATCCTGGCTCAG-3&#x02032;) and 1492R (5&#x02032;-GGTTCCTTGTTACGACTT-3&#x02032;). The PCR
+product was purified with a PCR purification kit (Axygen), ligated into the
+vector pMD18-T (TaKaRa Biotechnology, Dalian, China) and transformed into
+<italic>E. coli</italic> DH5&#x000e1;. An automatic sequencer (Applied Biosystems,
+model 3730) was used to determine the 16S rRNA gene sequence. Pairwise sequence
+similarity was calculated using a global alignment algorithm, implemented by the
+EzTaxon-e server. Following multiple alignments of the sequence data using
+CLUSTAL_X (<xref rid="B20" ref-type="bibr">Thompson <italic>et al.</italic>,
+1997</xref>), phylogenetic analysis was performed using the MEGA version 5.0
+software package (<xref rid="B19" ref-type="bibr">Tamura <italic>et
+al.</italic>, 2011</xref>). The G+C content of the genomic DNA was
+determined by thermal denaturation, with <italic>E.coli</italic> K-12 DNA
+serving as a reference (<xref rid="B12" ref-type="bibr">Mandel and Marmur,
+1968</xref>). DNA-DNA hybridizations were performed according to the method
+of <xref rid="B04" ref-type="bibr">Ezaki <italic>et al.</italic>
+(1989)</xref>.</p></sec><sec><title>Growth and degradation experiments</title><p>Strain JPL-2 was precultured in LB medium for approximately 12 h to mid-log
+phase, and the cells were harvested by centrifugation (6,000 rpm for 5 min at
+room temperature) and washed twice with distilled water. After the cell density
+had been adjusted to approximately 2.0 at OD<sub>600</sub>, a 1%, (v/v) inoculum
+was added to 20 mL MSM, with the addition of 100 mg L<sup>&#x02212;1</sup> FE, and
+incubated at 30 &#x000b0;C and 150 rpm. After 6 h, three flasks were taken from the
+incubator. The bacterial growth was monitored via cell density, and the
+concentration of FE was determined by HPLC. Each treatment was performed in
+triplicate, and the control experiments were conducted under the same conditions
+without inoculation.</p><p>Degradation of other AOPP herbicides (clodinafop-propargyl, cyhalofop-butyl,
+quizalofop-p-ethyl, diclofop-methyl, haloxyfop-p-methyl, and fluazifop-p-butyl)
+by strain JPL-2 was investigated under the same conditions.</p></sec><sec><title>Cloning of the FE-hydrolyzing carboxylesterase gene
+(<italic>feh</italic>)</title><p>To clone the FE-hydrolyzing carboxylesterase gene, the shotgun method was used to
+construct a gene library of strain JPL-2 in <italic>E. coli</italic> DH5&#x000e1;.
+Genomic DNA of strain JPL-2 was extracted by the method described above and
+digested partially with <italic>Sau</italic>3AI. Fractions containing
+approximately 4 to 6 kb DNA fragments were pooled, ligated into the
+<italic>Bam</italic>HI site of the plasmid pUC118 (TaKaRa Biotechnology,
+Dalian, China), and transformed into competent cells of <italic>E.coli</italic>
+DH5|&#x000c1;. The transformants were plated onto LB agar plates containing 100 mg
+L<sup>&#x02212;1</sup> ampicillin and 100 mg L<sup>&#x02212;1</sup> FE and incubated at 37
+&#x000b0;C for 24 h. Colonies that degraded FE produced clear transparent halos and were
+screened and further tested for their degrading capabilities. Analysis of the
+nucleotide and deduced amino acid sequence was performed using Omiga 2.0. BlastN
+and BlastP were used for the nucleotide sequence and amino acid identity
+comparison, respectively. (<ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/Blast">www.ncbi.nlm.nih.gov/Blast</ext-link>).</p></sec><sec><title>Gene expression and purification of FeH</title><p>To express the <italic>feh</italic> gene, the open reading frame (ORF) of
+<italic>feh</italic> lacking a stop codon was amplified by PCR with the
+primer pair <italic>feh</italic>-F
+(5&#x02032;-CTGATTG<underline>CATATG</underline>TCCGACATCCACGGCGTCT-3&#x02032;, the
+<italic>Nde</italic>I site is underlined) and feh-R
+(5&#x02032;-ATGC<underline>CTCGAG</underline>CGGCACGGCGGCGAA-5&#x02032;, the
+<italic>Xho</italic>I site is underlined). The amplicon was inserted into
+the <italic>Nde</italic>I-<italic>Xho</italic>I site of pET29a(+) to generate
+the recombinant plasmid pET-feh, which was transformed into <italic>E.
+coli</italic> BL21(DE3). The transformants were subcultured into 100 mL LB
+medium and allowed to grow until the culture density reached 0.5
+(OD<sub>600nm</sub>). To induce the expression of <italic>feh</italic>,
+isopropyl-&#x003b2;-D-thiogalactopyranoside (IPTG) was added to a final concentration of
+1 mmol L<sup>&#x02212;1</sup>, and the purification of the recombinant
+<italic>feh</italic> was performed according to the methods of <xref rid="B22" ref-type="bibr">Wang <italic>et al.</italic> (2009)</xref>. The
+molecular mass of the denatured protein was determined by sodium dodecyl
+sulfate-polyacrylamide gel electrophoresis (SDS-PAGE) (<xref rid="B08" ref-type="bibr">Laemmli, 1970</xref>), and the protein concentrations were
+determined by the Bradford method (<xref rid="B03" ref-type="bibr">Bradford,
+1976</xref>).</p></sec><sec><title>Enzyme assay</title><p>The enzymatic activity of FeH and its kinetics toward FE and other AOPP
+herbicides were determined according to the method of <xref rid="B13" ref-type="bibr">Nie <italic>et al.</italic> (2011)</xref>
+<italic>.</italic>
+One activity unit was defined as the amount of enzyme required to catalyze the
+formation of 1 &#x003bc;mol of product per min.</p></sec><sec><title>Chemical analysis</title><p>Following culture acidification to a pH 2.0 by the addition of 10% HCl, FE and
+other AOPP herbicide were extracted from the culture with an equal volume of
+dichloromethane. The dichloromethane phase was dried over anhydrous
+Na<sub>2</sub>SO<sub>4</sub>, and the dichloromethane was removed using a
+stream of nitrogen. The final extract was redissolved in 500 &#x003bc;L methanol and
+subjected to measurement by HPLC, equipped with a Zorbax C-18 ODS Spherex column
+(250 mm &#x000d7; 4.6 mm). The mobile phase was 100% methanol, and the flow rate was 1.0
+mL min<sup>&#x02212;1</sup>. Using a 20 &#x003bc;L injection volume, column elutions were
+monitored by measuring at 237 nm with a Waters 2487 wavelength absorbance
+detector.</p></sec><sec><title>Identification of the Metabolite of FE Degradation by FeH</title><p>The enzyme mixture was added with 100 mg L<sup>&#x02212;1</sup> FE and incubated for 30
+min in 30 &#x000b0;C. Control experiments with heat-inactivated enzyme were performed
+under the same conditions. The solution mixture was extracted as described
+above, and the metabolite was identified by LC-MS (LC-MSD-Trap-SL, Agilent, USA)
+as described by <xref rid="B11" ref-type="bibr">Liu <italic>et al.</italic>
+(2012)</xref>.</p></sec><sec><title>Nucleotide sequence accession numbers</title><p>The nucleotide sequences of the 16S rRNA and <italic>feh</italic> genes of strain
+JPL-2 were deposited in the GenBank database under accession numbers JX110619
+and KF601763, respectively.</p></sec></sec><sec sec-type="results"><title>Results</title><sec><title>Isolation and identification of the FE-degrading strain</title><p>The enrichment procedure obtained a pure culture designated as JPL-2. This strain
+was gram positive and aerobic. Colonies grown on LB agar were opaque, convex and
+red. Strain JPL-2 was positive for catalase, hydrolysis of tween-80 and
+tyrosine, but negative for oxidase, casein, Voges-Proskauer and DNase. It could
+produce acid from fermentation of D-Fructose, D-Glucose, Glycerol, D-Mannitol
+and D-Sorbitol but not from L-arabinose, D-cellobiose, D-galactose, inulin,
+lactose, D-raffinose and L-rhamnose. Growth was observed over a temperature
+range of 10&#x02013;42 &#x000b0;C (optimum 30 &#x000b0;C), a salinity range of 0&#x02013;5% NaCl (optimum 1%
+NaCl) and a pH range of 4.0&#x02013;10.0 (optimum 7.0). The 16S rRNA gene sequence of
+strain JPL-2 showed 100% similarity to <italic>Rhodococcus ruber</italic> DSM
+43338<sup>T</sup>(X80625) and 99.48% to <italic>Rhodococcus
+aetherivorans</italic> 10bc312<sup>T</sup>(AF447391). The DNA G+C content of
+strain JPL-2 is 66.5 mol%.</p><p>Strain JPL-2 showed a relatively high DNA-DNA relatedness to strain
+<italic>Rhodococcus ruber</italic> DSM 43338<sup>T</sup> (81.6%), which was
+above the 70% threshold recommended for the delineation of bacterial species
+(<xref rid="B23" ref-type="bibr">Wayne <italic>et al.</italic>,
+1987</xref>). Based on the above characteristics, strain JPL-2 was identified as
+<italic>Rhodococcus ruber</italic> and named <italic>Rhodococcus
+ruber</italic> JPL-2. A phylogenetic tree based on the known representatives
+of the <italic>Rhodococcus</italic> species is presented in <xref rid="f01" ref-type="fig">Figure 1</xref>.</p><fig id="f01" orientation="portrait" position="float"><label>Figure 1</label><caption><title>Phylogenetic tree based on the 16S rRNA gene sequences of strain
+<italic>Rhodococcus ruber</italic> JPL-2 and related species. The
+scale bar indicates 0.005 substitution per nucleotide position.
+Bootstrap values obtained with 1000 resamplings are indicated as
+percentages at all branches.</title></caption><graphic xlink:href="1517-8382-bjm-46-2-425-gf01"/></fig></sec><sec><title>Degradation of FE by strain JPL-2</title><p>The growth of strain JPL-2 on liquid MSM supplemented with 100 mg L<sup>&#x02212;1</sup>
+FE and its ability to degrade fenoxaprop-P-ethyl are shown in <xref rid="f02" ref-type="fig">Figure 2</xref>. The growth curve showed a steady increase in
+the bacterial population. Simultaneously, the HPLC analysis showed a substantial
+reduction in the concentrations of FE. After incubation for 54 h, approximately
+94.6% of the FE was degraded by strain JPL-2. Correspondingly, the
+OD<sub>600</sub> increased to 0.35. No significant change in FE
+concentration was observed in cultures that were not inoculated with strain
+JPL-2, and no growth was observed for strain JPL-2 when it was inoculated into
+the culture without the addition of FE. Thus, we concluded that strain JPL-2 was
+able to degrade and utilize FE as its sole carbon source for growth. For
+degradation of FE, the optimal temperature and initial pH of the medium were 30
+&#x000b0;C and 7.0, respectively (data not shown).</p><fig id="f02" orientation="portrait" position="float"><label>Figure 2</label><caption><title>Degradation and utilization of FE during growth of strain JPL-2 in
+MSM: (n) FE control; (u) degradation of FE; (&#x00394;, &#x025b2;) cell
+Density(OD<sub>600</sub>) of strain JPL-2 with the addition of FE
+and without addition in MSM medium, respectively.</title></caption><graphic xlink:href="1517-8382-bjm-46-2-425-gf02"/></fig><p>The degradation capability of strain JPL-2 toward other AOPP herbicides was also
+investigated. A total of 100 mg L<sup>&#x02212;1</sup> of other AOPP herbicides were
+also used as substrates (<xref rid="f03" ref-type="fig">Figure 3</xref>), and,
+in 54 h, strain JPL-2 could degrade 83.7% of clodinafop-propargyl, 71.7% of
+cyhalofop-butyl, 92.4% of quizalofop-p-ethyl, 51.8% of diclofop-methyl, 57.5% of
+haloxyfop-p-methyl, and 67.7% of fluazifop-p-butyl.</p><fig id="f03" orientation="portrait" position="float"><label>Figure 3</label><caption><title>The degradation of other AOPP herbicides by strain JPL-2: (n)
+Clodinafop-propargyl; (u) Haloxyfop-P-methyl (&#x00394;); Fluazifop-P-butyl (&#x025b2;);
+Cyhalofop-butyl (&#x02666;); Quizalofop-P-ethyl; (x) Diclofop-methyl.</title></caption><graphic xlink:href="1517-8382-bjm-46-2-425-gf03"/></fig></sec><sec><title>Cloning and sequence analysis of the <italic>feh</italic> gene</title><p>On the plate containing 100 mg L<sup>&#x02212;1</sup> FE, a positive clone that produced
+a transparent halo was screened from approximately 6,000 transformants in the
+gene library. The inserted fragment in the transformant was 5,428 bp and
+contained three complete ORFs. The three ORFs were subcloned into the linear
+vector pMD18-T and transformed into <italic>E. coli</italic> DH5&#x000e1;. One ORF was
+confirmed to be the target gene encoding the FE-hydrolyzing carboxylesterase.
+This gene was named <italic>feh</italic>. Sequence analysis indicated that the
+length of the <italic>feh</italic> gene was 1,140 bp, encoding a protein of 380
+amino acids, with a 68.94% G+C content. The <italic>feh</italic> gene showed the
+highest similarity (78%) with <italic>feh</italic> from
+<italic>Rhodococcus</italic> sp. T1 (<xref rid="B07" ref-type="bibr">Hou
+<italic>et al.</italic>, 2011</xref>).</p></sec><sec><title>Expression of the <italic>feh</italic> gene in <italic>E. coli</italic> BL21
+(DE3)</title><p>The FeH produced in <italic>E. coli</italic> BL21(DE3) was purified from crude
+extract using Ni-nitrilotriacetic acid affinity chromatography, and the purified
+FeH showed a single band on SDS-PAGE (<xref rid="f04" ref-type="fig">Figure
+4</xref>). The molecular mass of the denatured enzyme was approximately 39
+kDa, which coincided with the molecular mass calculated from the amino acid
+sequence.</p><fig id="f04" orientation="portrait" position="float"><label>Figure 4</label><caption><title>SDS-PAGE analysis of expression of <italic>feh</italic> gene in
+<italic>Escherichia coli</italic>. Lane 1, protein markers; lane 2,
+purified FeH.</title></caption><graphic xlink:href="1517-8382-bjm-46-2-425-gf04"/></fig></sec><sec><title>Identification of the metabolite</title><p>When FeH was added to the enzyme reaction mixture, a new metabolite with a
+retention time of 2.22 min in the HPLC spectrum was produced (<xref rid="f05" ref-type="fig">Figures 5A and 5C</xref>). Its retention time was similar to
+that of the authentic standards FA (<xref rid="f05" ref-type="fig">Figure
+5B</xref>). In the MS spectrum, this metabolite showed a protonated
+molecular ion at <italic>m/z</italic> 331.9 (<xref rid="f05" ref-type="fig">Figure 5D</xref>), which was consistent with the corresponding mass
+spectrum of authentic standards FA. Based on these results, we confirmed that
+FeH catalyzed the hydrolysis of the carboxylic acid ester bond in FE and
+produced ethanol and FA.</p><fig id="f05" orientation="portrait" position="float"><label>Figure 5</label><caption><title>HPLC-MS profile of the metabolite produced by FeH. A, B, HPLC spectra
+of FE and authentic FA. C, HPLC spectra of FE and its metabolite; D,
+negatively charged ions mass spectra for metabolite (2.22 min).</title></caption><graphic xlink:href="1517-8382-bjm-46-2-425-gf05"/></fig><p>The optimal pH of FeH was observed to be approximately 7.5, but FeH was stable at
+pH 6.0&#x02013;8.0. The enzyme was fairly stable up to 45 &#x000b0;C, had 30% residual activity
+at 60 &#x000b0;C, and was completely inactivated at 70 &#x000b0;C. Many metal ions
+(Ni<sup>2+</sup>, Hg<sup>2+</sup> and Ag<sup>+</sup>; 1 mM) as well as the
+surfactants SDS and Tween80 (10 mM) inhibited enzymatic activity, and the
+chelating agents EDTA and 1,10-phenanthroline (10 mM) had little effect on the
+enzyme activity, indicating that FeH had no requirement for metal ions (data not
+shown).</p></sec><sec><title>Kinetic analysis of FeH</title><p>FeH could hydrolyze these AOPP herbicides with different hydrolysis rates in
+descending order as follows: fenoxaprop-P-ethyl &#x0003e; quizalofop-P-ethyl &#x0003e;
+clodinafop-propargyl &#x0003e; cyhalofop-butyl &#x0003e; fluazifop-P-butyl &#x0003e;
+haloxyfop-P-methyl &#x0003e; diclofop-methy (<xref rid="t01" ref-type="table">Table
+1</xref>). This result indicated that the chain length of the alcohol moiety
+strongly affected the biodegradability of the AOPP herbicides, while the
+catalytic efficiency of the herbicides with methanol moiety was the lowest. We
+inferred that the production of methanol would be harmful to the enzyme.</p><table-wrap id="t01" orientation="portrait" position="float"><label>Table 1</label><caption><title>Kinetic constants of FeH towards different AOPP herbicides.</title></caption><table frame="hsides" rules="groups"><thead><tr><th valign="bottom" align="left" rowspan="1" colspan="1"/><th valign="bottom" align="center" rowspan="1" colspan="1">Specific activity
+(mmol/min/mg)</th><th valign="bottom" align="center" rowspan="1" colspan="1">
+<italic>k</italic>
+<italic><sub>cat</sub></italic>
+(s<sup>&#x02212;1</sup>)</th><th valign="bottom" align="center" rowspan="1" colspan="1">
+<italic>K</italic>
+<italic><sub>m</sub></italic>
+(mM)</th><th valign="bottom" align="center" rowspan="1" colspan="1">
+<italic>k</italic>
+<italic><sub>cat</sub></italic>
+<italic>/K</italic>
+<italic><sub>m</sub></italic>
+(mM<sup>&#x02212;1</sup> . s<sup>&#x02212;1</sup>)</th></tr></thead><tbody><tr><td valign="top" align="left" rowspan="1" colspan="1">fenoxaprop-P-ethyl</td><td valign="top" align="center" rowspan="1" colspan="1">1.08</td><td valign="top" align="center" rowspan="1" colspan="1">0.70</td><td valign="top" align="center" rowspan="1" colspan="1">0.20</td><td valign="top" align="center" rowspan="1" colspan="1">3.52</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">quizalofop-P-ethyl</td><td valign="top" align="center" rowspan="1" colspan="1">1.16</td><td valign="top" align="center" rowspan="1" colspan="1">0.75</td><td valign="top" align="center" rowspan="1" colspan="1">0.23</td><td valign="top" align="center" rowspan="1" colspan="1">3.25</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">clodinafop-propargyl</td><td valign="top" align="center" rowspan="1" colspan="1">0.94</td><td valign="top" align="center" rowspan="1" colspan="1">0.61</td><td valign="top" align="center" rowspan="1" colspan="1">0.29</td><td valign="top" align="center" rowspan="1" colspan="1">2.09</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">cyhalofop-butyl</td><td valign="top" align="center" rowspan="1" colspan="1">0.92</td><td valign="top" align="center" rowspan="1" colspan="1">0.6</td><td valign="top" align="center" rowspan="1" colspan="1">0.32</td><td valign="top" align="center" rowspan="1" colspan="1">1.85</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">fluazifop-P-butyl</td><td valign="top" align="center" rowspan="1" colspan="1">0.90</td><td valign="top" align="center" rowspan="1" colspan="1">0.59</td><td valign="top" align="center" rowspan="1" colspan="1">0.36</td><td valign="top" align="center" rowspan="1" colspan="1">1.65</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">haloxyfop-P-methyl</td><td valign="top" align="center" rowspan="1" colspan="1">0.57</td><td valign="top" align="center" rowspan="1" colspan="1">0.37</td><td valign="top" align="center" rowspan="1" colspan="1">0.39</td><td valign="top" align="center" rowspan="1" colspan="1">0.94</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">diclofop-methyl</td><td valign="top" align="center" rowspan="1" colspan="1">0.51</td><td valign="top" align="center" rowspan="1" colspan="1">0.33</td><td valign="top" align="center" rowspan="1" colspan="1">0.41</td><td valign="top" align="center" rowspan="1" colspan="1">0.81</td></tr></tbody></table></table-wrap></sec></sec><sec sec-type="discussion"><title>Discussion</title><p>In the present study, an AOPP-degrading strain JPL-2 was isolated from a wheat field
+subjected to the long-term application of FE in the Henan province of China. We
+identified the strain as <italic>Rhodococcus ruber</italic>. Some bacteria capable
+of degrading AOPP herbicides have previously been isolated. For example,
+<italic>Alcaligenes</italic> sp. H could degrade 45.8% of 100 mg L<sup>&#x02212;1</sup>
+fenoxaprop-p-ethyl within 5 d (<xref rid="B17" ref-type="bibr">Song <italic>et
+al.</italic>, 2005a</xref>). <italic>Pseudomonas fluorescens</italic>
+strains RA-2 and UA5-40 cultured in tryptic soy broth (TSB) completely hydrolyzed FE
+to FA within 5 d (<xref rid="B05" ref-type="bibr">Hoagland and Zablotowicz,
+1998</xref>). Six nonfermentative Gram-negative bacilli utilized 1.5 mg
+L<sup>&#x02212;l</sup> diclofop-methyl after 31 h of incubation at 25 &#x000b0;C.
+<italic>Chryseomonas luteola</italic> completely degraded 1.5 mg L<sup>&#x02212;l</sup>
+diclofop-methyl to diclofop acid and 4-(2,4-dichlorophenoxy)phenol within 71 h, and
+<italic>Sphingomonas paucimobilis</italic> could mineralize 1.5 mg
+L<sup>&#x02212;l</sup> diclofop-methyl to diclofop acid in 54 h (<xref rid="B15" ref-type="bibr">Smith-Grenier and Adkins, 1996a</xref>; <xref rid="B16" ref-type="bibr">Smith-Grenier and Adkins, 1996b</xref>).
+<italic>Pseudomonas</italic> sp. Strain B2 was able to degrade 87.14% of 80 mg
+L<sup>&#x02212;l</sup> clodinafop propargyl in 9 h (<xref rid="B14" ref-type="bibr">Singh, 2013</xref>). <italic>Rhodococcus</italic> sp. T1 could degrade 94% of
+100 mg L<sup>&#x02212;l</sup> FE within 24 h (<xref rid="B07" ref-type="bibr">Hou <italic>et
+al.</italic>, 2011</xref>). <italic>Pseudomonas azotoformans</italic> QDZ-1
+degraded 84.5% of 100 mg L<sup>&#x02212; l</sup> cyhalofop-butyl after 5 d of incubation
+(<xref rid="B13" ref-type="bibr">Nie <italic>et al.</italic>, 2011</xref>).
+Strain JPL-2 could degrade 94.6% of 100 mg L<sup>&#x02212;1</sup> FE within 54 h and could
+also use other AOPP herbicides like cyhalofop-butyl, quizalofop-p-ethyl,
+diclofop-methyl, haloxyfop-p-methyl, fluazifop-p-butyl and clodinafop-propargyl as
+substrates. In comparison with the reported strains, strain JPL-2 is not only
+capable of rapid FE degradation but it is also a broad substrate degrader.</p><p>In general, the initial step of the metabolism of AOPP herbicides involves the
+breakdown of the carboxylic acid ester bond. Strain JPL-2 hydrolyzed FE to FA and
+ethanol, although the latter was not detectable by HPLC chromatography because
+ethanol cannot absorb UV light. Ethanol could also be further used by strain JPL-2
+(data not show). Currently, two genes encoding carboxylesterase have been cloned:
+chbH, from <italic>Pseudomonas azotoformans</italic> QDZ-1 (<xref rid="B13" ref-type="bibr">Nie <italic>et al.</italic>, 2011</xref>), which was also able
+to hydrolyze the AOPP herbicides, and <italic>feh</italic>. The <italic>feh</italic>
+gene was first cloned from <italic>Rhodococcus</italic> sp. T1 (<xref rid="B07" ref-type="bibr">Hou <italic>et al.</italic>, 2011</xref>), but the
+characteristics of FeH were not extensively investigated. In the present study,
+another <italic>feh</italic> gene was cloned from strain JPL-2, and the
+characteristics of FeH were studied in detail. FeH from strain JPL-2 has 78%
+similarity to that from <italic>Rhodococcus</italic> sp. T1, but it only exhibited a
+10% similarity to ChbH. The Vmax of FeH was approximately 300 times that of ChbH
+toward the substrate FE, and it has a broader substrate spectrum. However, FeH and
+ChbH share a common characteristic: against the tested substrates, their enzymatic
+activity decreased as the length of the aliphatic chain flanking the ester bond of
+the AOPP herbicides increased.</p></sec><sec sec-type="conclusions"><title>Conclusion</title><p>Strain JPL-2 was isolated from the soil of a wheat field and identified as
+<italic>Rhodococcus ruber</italic>. A novel carboxylesterase gene
+(<italic>feh</italic>), enabling the strain to efficiently degrade AOPP
+herbicides, was cloned from JPL-2. FeH from strain JPL-2 has a 78% similarity to
+that from Rhodococcus sp. T1, but it only showed a 10% similarity to ChbH. FeH had a
+broader substrate spectrum and higher catalysis efficiency than ChbH.</p></sec></body><back><ack><title>Acknowledgments</title><p>This work was supported by The National High Technology Research and Development
+Program of China (2011AA100806), Chinese National Natural Science Fund (31370155,
+J1210056) and The Project for Science and Technology of Jiangsu Province
+(BE2012749).</p></ack><ref-list><title>References</title><ref id="B01"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Asshauer</surname><given-names>J</given-names></name><name><surname>Dorn</surname><given-names>E</given-names></name><name><surname>Fischer</surname><given-names>R</given-names></name><etal/></person-group><year>1990</year><article-title>Behaviour of fenoxaprop-ethyl in the environment-degradation and
+effect in the ecosystem</article-title><source>Z Pflanzenk Pflanzen</source><volume>12</volume><fpage>417</fpage><lpage>425</lpage></element-citation></ref><ref id="B02"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bieringer</surname><given-names>H</given-names></name><name><surname>Horlein</surname><given-names>G</given-names></name><name><surname>Langeluddeke</surname><given-names>P</given-names></name><etal/></person-group><year>1982</year><article-title>HOE 3317-A new selective herbicide for the control of annual and
+perennial warm climate grass weeds in broadleaf crops</article-title><source>Proc Brighton Crop Prot Conf-Weeds</source><volume>1</volume><fpage>11</fpage><lpage>17</lpage></element-citation></ref><ref id="B03"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bradford</surname><given-names>MM</given-names></name></person-group><year>1976</year><article-title>A rapid and sensitive method for the quantitation of microgram
+quantities of protein utilizing the principle of protein-dye
+binding</article-title><source>Anal Biochem</source><volume>72</volume><fpage>248</fpage><lpage>254</lpage><pub-id pub-id-type="pmid">942051</pub-id></element-citation></ref><ref id="B04"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ezaki</surname><given-names>T</given-names></name><name><surname>Hashimoto</surname><given-names>Y</given-names></name><name><surname>Yabuuchi</surname><given-names>E</given-names></name></person-group><year>1989</year><article-title>Fluorometric deoxyribonucleic acid-deoxyribonucleic acid
+hybridization in microdilution wells as an alternative to membrane filter
+hybridization in which radioisotopes are used to determine genetic
+relatedness among bacterial strains</article-title><source>Int J Syst Bacteriol</source><volume>39</volume><fpage>224</fpage><lpage>229</lpage></element-citation></ref><ref id="B05"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hoagland</surname><given-names>RE</given-names></name><name><surname>Zablotowicz</surname><given-names>RM</given-names></name></person-group><year>1998</year><article-title>Biotransformations of fenoxaprop-ethyl by <italic>fluorescent
+Pseudomonas</italic> strains</article-title><source>J Agric Food Chem</source><volume>46</volume><fpage>4759</fpage><lpage>4765</lpage></element-citation></ref><ref id="B06"><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Holt</surname><given-names>JG</given-names></name><name><surname>Krieg</surname><given-names>NR</given-names></name><name><surname>Sneath</surname><given-names>pH</given-names></name><etal/></person-group><year>1994</year><source>Bergey's manual of determinative bacteriology</source><publisher-name>Williams and Wilkins</publisher-name><publisher-loc>Baltimore</publisher-loc><fpage>787</fpage></element-citation></ref><ref id="B07"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hou</surname><given-names>Y</given-names></name><name><surname>Tao</surname><given-names>J</given-names></name><name><surname>Shen</surname><given-names>WJ</given-names></name><etal/></person-group><year>2011</year><article-title>Isolation of the fenoxaprop-ethyl (FE)-degrading bacterium
+<italic>Rhodococcus</italic> sp. T1, and cloning of FE hydrolase gene
+feh</article-title><source>FEMS Microbiol Lett</source><volume>323</volume><fpage>196</fpage><lpage>203</lpage><pub-id pub-id-type="pmid">22092720</pub-id></element-citation></ref><ref id="B08"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Laemmli</surname><given-names>U</given-names></name></person-group><year>1970</year><article-title>Most commonly used discontinuous buffer system for SDS
+electrophoresis</article-title><source>nature</source><volume>227</volume><fpage>680</fpage><lpage>685</lpage><pub-id pub-id-type="pmid">5432063</pub-id></element-citation></ref><ref id="B09"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lin</surname><given-names>J</given-names></name><name><surname>Chen</surname><given-names>J</given-names></name><name><surname>Wang</surname><given-names>Y</given-names></name><etal/></person-group><year>2008</year><article-title>More toxic and photoresistant products from photodegradation of
+fenoxaprop-p-ethyl</article-title><source>J Agric Food Chem</source><volume>56</volume><fpage>8226</fpage><lpage>8230</lpage><pub-id pub-id-type="pmid">18683946</pub-id></element-citation></ref><ref id="B10"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lin</surname><given-names>J</given-names></name><name><surname>Chen</surname><given-names>J</given-names></name><name><surname>Cai</surname><given-names>X</given-names></name><etal/></person-group><year>2007</year><article-title>Evolution of toxicity upon hydrolysis of
+fenoxaprop<italic>-p-ethyl</italic>
+</article-title><source>J Agric Food Chem</source><volume>55</volume><fpage>7626</fpage><lpage>7629</lpage><pub-id pub-id-type="pmid">17685541</pub-id></element-citation></ref><ref id="B11"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Liu</surname><given-names>HM</given-names></name><name><surname>Cao</surname><given-names>L</given-names></name><name><surname>Lu</surname><given-names>P</given-names></name><etal/></person-group><year>2012</year><article-title>Biodegradation of butachlor by <italic>Rhodococcus</italic> sp.
+strain B1 and purification of its hydrolase (ChlH) responsible for
+N-dealkylation of chloroacetamide herbicides</article-title><source>J Agric Food Chem</source><volume>60</volume><fpage>12238</fpage><lpage>12244</lpage><pub-id pub-id-type="pmid">23186529</pub-id></element-citation></ref><ref id="B12"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mandel</surname><given-names>M</given-names></name><name><surname>Marmur</surname><given-names>J</given-names></name></person-group><year>1968</year><article-title>Use of ultraviolet absorbance-temperature profile for determining
+the guanine plus cytosine content of DNA</article-title><source>Method Enzymol</source><volume>12</volume><fpage>195</fpage><lpage>206</lpage></element-citation></ref><ref id="B13"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Nie</surname><given-names>ZJ</given-names></name><name><surname>Hang</surname><given-names>BJ</given-names></name><name><surname>Cai</surname><given-names>S</given-names></name><etal/></person-group><year>2011</year><article-title>Degradation of cyhalofop-butyl (Cyb) by <italic>Pseudomonas
+azotoformans</italic> strain qdz-1 and cloning of a novel gene encoding
+cyb-hydrolyzing esterase</article-title><source>J Agric Food Chem</source><volume>59</volume><fpage>6040</fpage><lpage>6046</lpage><pub-id pub-id-type="pmid">21534595</pub-id></element-citation></ref><ref id="B14"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Singh</surname><given-names>B</given-names></name></person-group><year>2013</year><article-title>Degradation of clodinafop propargyl by
+<italic>Pseudomonas</italic> sp. strain B2</article-title><source>Bull Environ Contam Toxicol</source><fpage>1</fpage><lpage>4</lpage></element-citation></ref><ref id="B15"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Smith-Grenier</surname><given-names>L</given-names></name><name><surname>Adkins</surname><given-names>A</given-names></name></person-group><year>1996a</year><article-title>Degradation of diclofop-methyl by pure cultures of bacteria
+isolated from Manitoban soils</article-title><source>Can J Microbiol</source><volume>42</volume><fpage>227</fpage><lpage>233</lpage><pub-id pub-id-type="pmid">8868229</pub-id></element-citation></ref><ref id="B16"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Smith-Grenier</surname><given-names>L</given-names></name><name><surname>Adkins</surname><given-names>A</given-names></name></person-group><year>1996b</year><article-title>Isolation and characterization of soil microorganisms capable of
+utilizing the herbicide diclofop-methyl as a sole source of carbon and
+energy</article-title><source>Can J Microbiol</source><volume>42</volume><fpage>221</fpage><lpage>226</lpage><pub-id pub-id-type="pmid">8868228</pub-id></element-citation></ref><ref id="B17"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Song</surname><given-names>L</given-names></name><name><surname>Hua</surname><given-names>R</given-names></name><name><surname>Zhao</surname><given-names>Y</given-names></name></person-group><year>2005a</year><article-title>Biodegradation of fenoxaprop- p-ethyl by bacteria isolated from
+sludge</article-title><source>J Hazard Mater</source><volume>118</volume><fpage>247</fpage><lpage>251</lpage><pub-id pub-id-type="pmid">15721550</pub-id></element-citation></ref><ref id="B18"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Song</surname><given-names>L</given-names></name><name><surname>Zhao</surname><given-names>Y</given-names></name><name><surname>Hua</surname><given-names>R</given-names></name></person-group><year>2005b</year><article-title>Separation of fenoxaprop-p-ethyl biodegradation products by
+HPTLC</article-title><source>J Planar Chromatogr TLC</source><volume>18</volume><fpage>85</fpage><lpage>88</lpage></element-citation></ref><ref id="B19"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Tamura</surname><given-names>K</given-names></name><name><surname>Peterson</surname><given-names>D</given-names></name><name><surname>Peterson</surname><given-names>N</given-names></name><etal/></person-group><year>2011</year><article-title>MEGA5 Molecular evolutionary genetics analysis using maximum
+likelihood, evolutionary distance, and maximum parsimony
+methods</article-title><source>Mol Biol Evol</source><volume>28</volume><fpage>2731</fpage><lpage>2739</lpage><pub-id pub-id-type="pmid">21546353</pub-id></element-citation></ref><ref id="B20"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Thompson</surname><given-names>JD</given-names></name><name><surname>Gibson</surname><given-names>TJ</given-names></name><name><surname>Plewniak</surname><given-names>F</given-names></name><etal/></person-group><year>1997</year><article-title>The CLUSTAL_X windows interface: flexible strategies for multiple
+sequence alignment aided by quality analysis tools</article-title><source>Nucleic Acids Res</source><volume>25</volume><fpage>4876</fpage><lpage>4882</lpage><pub-id pub-id-type="pmid">9396791</pub-id></element-citation></ref><ref id="B21"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Walia</surname><given-names>U</given-names></name><name><surname>Brar</surname><given-names>L</given-names></name><name><surname>Dhaliwal</surname><given-names>B</given-names></name></person-group><year>1998</year><article-title>Performance of clodinafop and fenoxaprop-p-ethyl for the control
+of phalaris minor in wheat</article-title><source>Ind J Weed Sci</source><volume>30</volume><fpage>48</fpage><lpage>50</lpage></element-citation></ref><ref id="B22"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wang</surname><given-names>BZ</given-names></name><name><surname>Guo</surname><given-names>P</given-names></name><name><surname>Hang</surname><given-names>BJ</given-names></name><etal/></person-group><year>2009</year><article-title>Cloning of a novel pyrethroid-hydrolyzing carboxylesterase gene
+from <italic>Sphingobium</italic> sp. strain JZ-1 and characterization of
+the gene product</article-title><source>Appl Environ Microbiol</source><volume>75</volume><fpage>5496</fpage><lpage>5500</lpage><pub-id pub-id-type="pmid">19581484</pub-id></element-citation></ref><ref id="B23"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wayne</surname><given-names>LG</given-names></name><name><surname>Brenner</surname><given-names>DJ</given-names></name><name><surname>Colwell</surname><given-names>RR</given-names></name><etal/></person-group><year>1987</year><person-group person-group-type="author"><collab>International Committee on Systematic Bacteriology</collab></person-group><article-title>Report of the ad hoc committee on reconciliation of approaches to
+bacterial systematics</article-title><source>Int J Syst Bacteriol</source><volume>37</volume><fpage>463</fpage><lpage>464</lpage></element-citation></ref></ref-list></back></article>

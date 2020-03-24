@@ -1,0 +1,374 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Bone Res</journal-id><journal-id journal-id-type="iso-abbrev">Bone Res</journal-id><journal-title-group><journal-title>Bone Research</journal-title></journal-title-group><issn pub-type="ppub">2095-4700</issn><issn pub-type="epub">2095-6231</issn><publisher><publisher-name>Nature Publishing Group</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">27785372</article-id><article-id pub-id-type="pmc">5057179</article-id><article-id pub-id-type="pii">boneres201633</article-id><article-id pub-id-type="doi">10.1038/boneres.2016.33</article-id><article-categories><subj-group subj-group-type="heading"><subject>Article</subject></subj-group></article-categories><title-group><article-title>DNA N<sup>6</sup>-methyladenine demethylase ALKBH1 enhances osteogenic differentiation of human MSCs</article-title><alt-title alt-title-type="running">ALKBH1 enhances osteogenic differentiation</alt-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Zhou</surname><given-names>Chenchen</given-names></name><xref ref-type="aff" rid="aff1">1</xref></contrib><contrib contrib-type="author"><name><surname>Liu</surname><given-names>Yuting</given-names></name><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-5531-2437</contrib-id><xref ref-type="aff" rid="aff1">1</xref></contrib><contrib contrib-type="author"><name><surname>Li</surname><given-names>Xiaobing</given-names></name><xref ref-type="aff" rid="aff1">1</xref></contrib><contrib contrib-type="author"><name><surname>Zou</surname><given-names>Jing</given-names></name><xref ref-type="aff" rid="aff1">1</xref></contrib><contrib contrib-type="author"><name><surname>Zou</surname><given-names>Shujuan</given-names></name><xref ref-type="aff" rid="aff1">1</xref><xref ref-type="corresp" rid="caf1">*</xref></contrib><aff id="aff1"><label>1</label>
+<institution>State Key Laboratory of Oral Diseases, West China Hospital of Stomatology, Sichuan University</institution>, Chengdu, <country>China</country>
+</aff></contrib-group><author-notes><corresp id="caf1"><label>*</label>
+(<email>shujuanzou@aliyun.com</email>)</corresp></author-notes><pub-date pub-type="epub"><day>11</day><month>10</month><year>2016</year></pub-date><pub-date pub-type="collection"><year>2016</year></pub-date><volume>4</volume><fpage>16033</fpage><lpage/><history><date date-type="received"><day>03</day><month>08</month><year>2016</year></date><date date-type="rev-recd"><day>13</day><month>08</month><year>2016</year></date><date date-type="accepted"><day>14</day><month>08</month><year>2016</year></date></history><permissions><copyright-statement>Copyright &#x000a9; 2016 The Author(s)</copyright-statement><copyright-year>2016</copyright-year><copyright-holder>The Author(s)</copyright-holder><license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/"><!--author-paid--><license-p>This work is licensed under a Creative Commons Attribution 4.0 International License. The images or other third party material in this article are included in the article&#x02019;s Creative Commons license, unless indicated otherwise in the credit line; if the material is not included under the Creative Commons license, users will need to obtain permission from the license holder to reproduce the material. To view a copy of this license, visit <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link></license-p></license></permissions><abstract><p>ALKBH1 was recently discovered as a demethylase for DNA N<sup>6</sup>-methyladenine (N6-mA), a new epigenetic modification, and interacts with the core transcriptional pluripotency network of embryonic stem cells. However, the role of ALKBH1 and DNA N6-mA in regulating osteogenic differentiation is largely unknown. In this study, we demonstrated that the expression of ALKBH1 in human mesenchymal stem cells (MSCs) was upregulated during osteogenic induction. Knockdown of ALKBH1 increased the genomic DNA N6-mA levels and significantly reduced the expression of osteogenic-related genes, alkaline phosphatase activity, and mineralization. ALKBH1-depleted MSCs also exhibited a restricted capacity for bone formation <italic>in vivo</italic>. By contrast, the ectopic overexpression of ALKBH1 enhanced osteoblastic differentiation. Mechanically, we found that the depletion of ALKBH1 resulted in the accumulation of N6-mA on the promoter region of <italic>ATF4</italic>, which subsequently silenced <italic>ATF4</italic> transcription. In addition, restoring the expression of <italic>ATP</italic> by adenovirus-mediated transduction successfully rescued osteogenic differentiation. Taken together, our results demonstrate that ALKBH1 is indispensable for the osteogenic differentiation of MSCs and indicate that DNA N6-mA modifications area new mechanism for the epigenetic regulation of stem cell differentiation.</p></abstract></article-meta></front><body><sec><title>Introduction</title><p>Stem cells are characterized by two features: the ability to differentiate into multiple cell types and the ability to self-renew.<sup><xref ref-type="bibr" rid="bib1">1</xref>,<xref ref-type="bibr" rid="bib2">2</xref></sup> Mesenchymal stem cells (MSCs) are one type of postnatal stem cell with a pluripotent differentiation potential that is broader than originally envisioned or perhaps as broad as that of embryonic stem cells.<sup><xref ref-type="bibr" rid="bib2">2</xref></sup> MSCs have the ability to differentiate into different mesenchymal lineages, such as osteoblasts, chondrocytes, adipocytes, fibroblasts, and adventitial reticular cells.<sup>3</sup> Consequently, MSCs can be seen as bona fide cells for all tissues in which they induce osteoprogenitors and then transform into osteoblasts,which are crucial for the mineralization of the extracellular matrix (ECM) of bone.<sup><xref ref-type="bibr" rid="bib4 bib5 bib6">4&#x02013;6</xref></sup>
+</p><p>The osteogenic differentiation of MSCs is regulated by multiple mechanisms, such as key transcription factors, including runt-related transcription factor 2 and Osterix,<sup><xref ref-type="bibr" rid="bib2">2</xref>,<xref ref-type="bibr" rid="bib5">5</xref>,<xref ref-type="bibr" rid="bib7">7</xref></sup> as well as other hormones.<sup><xref ref-type="bibr" rid="bib1">1</xref>,<xref ref-type="bibr" rid="bib8 bib9 bib10">8&#x02013;10</xref></sup> In addition, epigenetic regulations have an important role in mammalian biology<sup><xref ref-type="bibr" rid="bib11">11</xref>,<xref ref-type="bibr" rid="bib12">12</xref></sup> and regulate tissue-specific gene expression.<sup><xref ref-type="bibr" rid="bib13">13</xref>,<xref ref-type="bibr" rid="bib14">14</xref></sup> Recently, DNA methylation, which is an epigenetic regulation, was found to have a pivotal role in stem cell differentiation.<sup><xref ref-type="bibr" rid="bib15">15</xref></sup> DNA methylation occurs on the fifth position of cytosine (5mC).<sup><xref ref-type="bibr" rid="bib16">16</xref></sup> DNA cytosines experience a series of modifications performed by a variety of enzymes, including DNA methyltransferases,<sup><xref ref-type="bibr" rid="bib17">17</xref></sup> which add a methyl group on the fifth position of cytosine to form 5mC; TET family dioxygenases (TET1, TET2, and TET3),<sup><xref ref-type="bibr" rid="bib18">18</xref>,<xref ref-type="bibr" rid="bib19">19</xref></sup> which then oxidize the methyl group to create 5-hydroxymethylcytosine;<sup><xref ref-type="bibr" rid="bib20">20</xref></sup> and 5-formylcytosine and 5-carboxylcytosine, which complete the cycle.<sup><xref ref-type="bibr" rid="bib21">21</xref></sup> The epigenetic activation of bone-specific genes mediated by promoter demethylation typically occurs when MSCs differentiate into osteoblasts,<sup><xref ref-type="bibr" rid="bib22">22</xref></sup> and the inhibition of stem-cell-specific genes by promoter methylation is a crucial epigenetic mechanism during stem cell differentiation.<sup><xref ref-type="bibr" rid="bib23">23</xref></sup></p><p>Very recently, the methylation of N<sup>6</sup>-methyladenine (N6-mA) has been reported as another DNA methylation event, and ALKBH1 was discovered as a demethylase for DNA N6-mA.<sup><xref ref-type="bibr" rid="bib11">11</xref>,<xref ref-type="bibr" rid="bib24">24</xref></sup> ALKBH1, a member of the AlkB family, is a 2-oxoglutarate and Fe<sup>2+</sup>-dependent hydroxylase.<sup><xref ref-type="bibr" rid="bib25">25</xref>,<xref ref-type="bibr" rid="bib26">26</xref></sup> ALKBH1 has an important role in epigenetic regulation by accommodating the expression of pluripotency markers and genes related to neural differentiation during embryogenesis.<sup><xref ref-type="bibr" rid="bib27">27</xref></sup> ALKBH1 is involved in fine-tuning the level of a core transcriptional network and regulating the developmental regulatory microRNAs involved in pluripotency and differentiation.<sup><xref ref-type="bibr" rid="bib21">21</xref></sup> Most of the <italic>Alkbh1</italic>
+<sup>
+<italic>&#x02212;/&#x02212;</italic>
+</sup>mice died during embryogenesis, and survivors exhibit tissue developmental defects, including prolonging the expression of pluripotency markers,<sup><xref ref-type="bibr" rid="bib28">28</xref></sup> and multiple defects in eyes, craniofacial, sternum, and limb skeleton,<sup><xref ref-type="bibr" rid="bib26">26</xref></sup> which suggests that ALKBH1 is indispensable for stem differentiation and development. However, the role of ALKBH1 and DNA N6-mA in regulating osteogenic differentiation is largely unknown.</p><p>In this study, we demonstrated that the depletion or overexpression of ALKBH1 in human MSCs regulates the levels of genomic DNA N6-mA and significantly affects osteogenic differentiation and bone formation. Mechanically, we found that the depletion of ALKBH1 results in the accumulation of N6-mA on the promoter region of activating transcription factor 4 (ATF4), which subsequently silences <italic>ATF4</italic> transcription.</p></sec><sec><title>Materials and methods</title><sec><title>Cell culture</title><p>Human bone marrow-derived MSCs were obtained from American Type Culture Collection (ATCC, Manassas, VA, USA). Cells were cultured in Dulbecco&#x02019;s modified Eagle&#x02019;s medium (DMEM) supplemented with 10% fetal bovine serum (Gibco, Carlsbad, CA, USA) plus 100&#x02009;U&#x000b7;mL<sup>&#x02212;1</sup> of penicillin and 100&#x02009;mg&#x000b7;mL<sup>&#x02212;1</sup> of streptomycin (Gibco) at 37&#x02009;&#x000b0;C with a humidified atmosphere of 5% CO<sub>2</sub>. To induce osteogenic differentiation, MSCs were seeded in 6- or 24-well plates. After confluence, cells were treated with osteogenic medium containing 50&#x02009;&#x003bc;mol&#x000b7;L<sup>&#x02212;1</sup> ascorbic acid, 10&#x02009;mmol&#x000b7;L<sup>&#x02212;1</sup> &#x003b2;-glycerophosphate, and 10&#x02009;nmol&#x000b7;L<sup>&#x02212;1</sup> dexamethasone (Sigma, Shanghai, China). All experimental protocols and procedures were approved by the State Key Laboratory of Oral Diseases, West China Hospital of Stomatology, Sichuan University.</p></sec><sec><title>Gene knockdown and overexpression</title><p>ALKBH1-targeted and control small interfere RNAs were purchased from Santa Cruz (Dallas, TX, USA). Transfection was performed using Lipofectamine RNAiMAX reagent (Invitrogen) according to the manufacturer's instructions. Knockdown efficiency was determined by reverse transcription-PCR (RT-PCR) and western blot 2 days after the transfection. The lentivirus particles of ALKBH1 and scrambled shRNAs were obtained from Genecopoeia (Guangzhou, China). The stable cell lines were established by puromycin selection.</p><p>For ALKBH1 overexpression, lentiviruses expressing the human ALKBH1 gene were purchased from Genecopoeia. MSCs were infected with ALKBH1 or empty vectors in the presence of polybrene (Sigma) for 24&#x02009;h and were selected with puromycin (Sigma). For ATF4 overexpression, the adenovirus particles expressing human ATF4 or GFP (control) were obtained from Cyagen (Guangzhou, China).</p></sec><sec><title>RNA isolation and RT-PCR</title><p>Total RNA was isolated using the Trizol reagent (Invitrogen) according to the manufacturer&#x02019;s instructions. The complementary DNA was prepared from 2&#x02009;&#x003bc;g aliquots of RNA using a QuantiTec reverse transcription kit (Qiagen, Valencia, CA, USA).<sup><xref ref-type="bibr" rid="bib29 bib30 bib31">29&#x02013;31</xref></sup> Quantitative real-time PCR was performed using SYBR Premix Ex Taq (Takara, Dalian, China) in an ABI7500 real-time PCR system (Applied Biosystems, Foster City, CA, USA). The primer sequences used are listed in <xref rid="tbl1" ref-type="table">Table 1</xref>. Relative expression was calculated using a 2<sup>&#x02212;&#x00394;&#x00394;Ct</sup> method<sup><xref ref-type="bibr" rid="bib32">32</xref></sup> by normalization with <italic>Gapdh</italic> housekeeping gene expression and presented as fold increase relative to control.</p></sec><sec><title>Western blot</title><p>Cells were lysed in RIPA buffer (Pierce, Rockford, IL, USA) supplemented with a protease inhibitor cocktail (Roche, Mannheim, Germany) and centrifuged at 18&#x02009;000&#x02009;<italic>g</italic> for 15&#x02009;min at 4&#x02009;&#x000b0;C. The supernatants were heated at 95&#x02009;&#x000b0;C for 5&#x02009;min in sample buffer containing 2% SDS and 1% 2-mercaptoethanol, separated on 10% SDS&#x02013;polyacrylamide gels, and transferred to polyvinylidene difluoride membranes using a semi-dry transfer apparatus (Bio-Rad).<sup><xref ref-type="bibr" rid="bib33">33</xref></sup> The membranes were blocked with 5% milk for 1&#x02009;h and then incubated with anti-ALKBH1 (Millipore, Billerica, MA, USA, 1:1&#x02009;000), anti-ATF4 (Abcam, Cambridge, MA, USA, 1:1&#x02009;000) or anti-<italic>&#x003b1;</italic>-Tubulin (Sigma, 1:5&#x02009;000) overnight followed by a horseradish peroxidase-conjugated anti-rabbit or anti-mouse IgG (Jackson ImmunoResearch, West Grove, PA, USA). The antibody&#x02013;antigen complexes were visualized with SuperSignal reagents (Pierce, Rockford, IL, USA).</p></sec><sec><title>Dot blot</title><p>Genomic DNA was isolated using a PureLink Genomic DNA kit (Invitrogen) and then denatured at 95&#x02009;&#x000b0;C for 10&#x02009;min in 0.4&#x02009;mol&#x000b7;L<sup>&#x02212;1</sup> NaOH and 10&#x02009;mmol&#x000b7;L<sup>&#x02212;1</sup> EDTA buffer. Samples were spotted on the membrane (Zeta-Probe, Bio-Rad, Hercules, CA, USA) using a Dot-Blot microfiltration apparatus (Bio-Rad) and baked at 80&#x02009;&#x000b0;C for 30&#x02009;min. Membranes were blocked in blocking buffer (5% milk in PBST) for 1&#x02009;h at room temperature and incubated with N6-mA antibody (202-003, Synaptic Systems, Goettingen, Germany, 1:2&#x02009;000) overnight at 4&#x02009;&#x000b0;C. After three washes, membranes were incubated with horseradish peroxidase-linked secondary anti-rabbit IgG (Jackson ImmunoResearch). The antibody&#x02013;antigen complexes were visualized with SuperSignal reagents (Pierce). To ensure an equal amount of DNA was spotted, the same membrane was stained with 0.02% methylene blue in 0.3&#x02009;mol&#x000b7;L<sup>&#x02212;1</sup> sodium acetate (pH 5.2).</p></sec><sec><title>ALP and Alizarin red staining</title><p>For alkaline phosphatase (ALP) staining, cells were grown in osteogenic differentiation medium for 7 days. Cells were then fixed in 70% ethanol and incubated with a staining solution of 0.25% naphthol AS-BI phosphate and 0.75% Fast Blue BB dissolved in 0.1&#x02009;mol&#x000b7;L<sup>&#x02212;1</sup> Tris buffer (pH 9.3). We also quantified the ALP activity using a commercial kit according to the manufacturer&#x02019;s protocol (Cell Biolab, San Diego, CA, USA).</p><p>For mineralization assays, cells were cultured in differentiation medium for 2&#x02013;3 weeks, fixed with 70% ethanol, and stained with 40&#x02009;mmol&#x000b7;L<sup>&#x02212;1</sup> Alizarin red S (pH 4.2, Sigma) for 10 min.<sup><xref ref-type="bibr" rid="bib34">34</xref></sup> Mineralized bone nodules stained with alizarin red were distained with 10% cetylpyridinium chloride in 10&#x02009;mmol&#x000b7;L<sup>&#x02212;1</sup> sodium phosphate (pH 7.0), and the calcium concentration was determined by absorbance measurements at 562&#x02009;nm.</p></sec><sec><title>Ectopic bone formation</title><p>Three-month-old immunocompromised beige mice were obtained from the Experimental Animal Center of the University and housed in pathogen-free facilities under a 12-h light and 12-h dark cycle. All procedures were conducted in accordance with <italic>The Guidelines for the Care and Use</italic> of Laboratory Animals of State Key Laboratory of Oral Diseases, West China Hospital of Stomatology, Sichuan University. Approximately 5&#x000d7;10<sup>6</sup> of cells were mixed with 60&#x02009;mg of pure phase <italic>&#x003b2;</italic>-tricalcium phosphate particles (SynthoGraft, Bicon, Boston, MA, USA) and then transplanted subcutaneously under the dorsal surface as described previously.<sup><xref ref-type="bibr" rid="bib11">11</xref>,<xref ref-type="bibr" rid="bib24">24</xref></sup> Six weeks after transplantation, the transplants were collected, fixed with 10% formalin, and decalcified with 10% EDTA. Paraffin sections were fabricated and stained with hematoxylin and eosin.<sup><xref ref-type="bibr" rid="bib35">35</xref></sup>
+</p></sec><sec><title>Chromatin immunoprecipitation assay</title><p>The chromatin immunoprecipitation assay was performed using a Simple ChIP Assay kit (Cell Signaling Technology, Danvers, MA, USA) according to the manufacturer&#x02019;s protocol<sup><xref ref-type="bibr" rid="bib31">31</xref></sup> with an antibody against N6-mA (cat# 202003, Synaptic Systems) or the control normal rabbit IgG (cat#sc-2027, Santa Cruz). After dissociating the DNA&#x02013;protein complexes, pulled down DNA along with the input DNA (devoid of antibody) were subjected to quantitative PCR analysis with primers to interrogate the ATF4 promoter (<xref rid="tbl1" ref-type="table">Table 1</xref>). The results are expressed as the percentage of input DNA.</p></sec><sec><title>Statistical analysis</title><p>All values were presented as the mean&#x000b1;s.e. Two-tailed Student&#x02019;s <italic>t</italic>-test and one-way analysis of variance followed by the Tukey&#x02019;s test were used for single and multiple comparisons with assess the statistical inference on difference among each pair of data sets, respectively. A <italic>P</italic> value&#x0003c;0.05 was considered statistically significant.</p></sec></sec><sec><title>Results</title><sec><title>ALKBH1 is upregulated during osteogenic differentiation</title><p>We first evaluated the expression profile of ALKBH1 in human MSCs during osteogenic differentiation. As determined by real-time RT-PCR, the ALKBH1 messenger RNA levels were significantly upregulated in response to osteogenic induction (<xref ref-type="fig" rid="fig1">Figure 1a</xref>). This observation was also confirmed by western blot analysis (<xref ref-type="fig" rid="fig1">Figure 1b</xref>). These results suggest that ALKBH1 may have a role in the osteogenic differentiation of MSCs.</p></sec><sec><title>Depletion of ALKBH1 inhibits osteogenic differentiation <italic>in vitro</italic></title><p>To investigate the role of ALKBH1 in osteogenic differentiation, we knocked down ALKBH1 in human MSCs. The knockdown efficiency was confirmed by RT-PCR and western blot (<xref ref-type="fig" rid="fig2">Figure 2a and b</xref>). Given that ALKBH1 was recently discovered as a demethylase for DNA N6-mA, we evaluated the modification of N6-mA using a DNA dot blot assay. As shown in <xref ref-type="fig" rid="fig2">Figure 2c</xref>, depletion of ALKBH1 markedly increased N6-mA levels in whole genomic DNA of MSCs.</p><p>After osteogenic induction for 7 days, we found that the small interfere RNA-mediated depletion of ALKBH1 significantly reduced ALP activity, which is an early marker of osteoblastic differentiation (<xref ref-type="fig" rid="fig2">Figure 2d and e</xref>). We also assessed ECM mineralization by Alizarin red S staining. As shown in <xref ref-type="fig" rid="fig2">Figure 2f and g</xref>, the mineralization was significantly decreased after ALKBH1 depletion. In addition, the knockdown of ALKBH1 inhibited the expression of osteogenic-related genes, such as <italic>RUNX2</italic>, <italic>Osterix</italic> (<italic>SP7</italic>), and <italic>Osteocalcin</italic> (<italic>GBLAP</italic>) (<xref ref-type="fig" rid="fig2">Figure 2h&#x02013;j</xref>).</p></sec><sec><title>Depletion of ALKBH1 inhibits bone formation <italic>in vivo</italic></title><p>To verify our <italic>in vitro</italic> findings, we examined whether the knockdown of ALKBH1 affected MSC-mediated bone formation <italic>in vivo</italic>. To this end, we generated the stable knockdown MSCs using lentiviruses expressing shRNA and implanted them with &#x003b2;-TCP carriers into immunocompromised mice subcutaneously. RT-PCR and western blot analysis showed that &#x0003e;85% of the ALKBH1 was depleted in MSCs expressing ALKBH1 shRNA (shALKBH1) compared with those expressing scrambled shRNA (shScram). The N6-mA levels in whole genomic DNA were increased. Notably, hematoxylin and eosin staining showed that ALKBH1-depleted cells formed less bone tissues (<xref ref-type="fig" rid="fig3">Figure 3d</xref>) than did the shScram cells. Quantitative measurement of mineralized tissue areas revealed a &#x0003e;40% decrease in bone formation (<xref ref-type="fig" rid="fig3">Figure 3e</xref>).</p></sec><sec><title>Overexpression of ALKBH1 enhances osteoblastic differentiation of MSCs</title><p>To investigate the effects of ectopic overexpression of ALKBH1on osteoblastic differentiation, human MSCs were stably transduced with lentiviruses expressing ALKBH1 (<xref ref-type="fig" rid="fig4">Figure 4a and b</xref>). As expected, ALKBH1 overexpression decreased the N6-mA levels in whole genomic DNA (<xref ref-type="fig" rid="fig4">Figure 4c</xref>). In addition, ALP activity and cell mineralization of MSCs were enhanced by the overexpression of ALKBH1 (<xref ref-type="fig" rid="fig4">Figure 4d&#x02013;g</xref>). RT-PCR showed that the expression of osteogenic-related genes, such as <italic>RUNX2</italic>, <italic>SP7</italic>, and <italic>GBLAP</italic>, was significantly elevated after osteogenic induction for 7 days (<xref ref-type="fig" rid="fig4">Figure 4h&#x02013;j</xref>).</p></sec><sec><title>Depletion of ALKBH1 impairs ATF4 transcription</title><p>ATF4 is a transcription factor that has a pivotal role in osteogenesis along with RUNX2 and Osterix. Interestingly, we found that the depletion of ALKBH1 in MSCs significantly reduced the ATF4 messenger RNA and protein levels after osteogenic reduction for 7 days (<xref ref-type="fig" rid="fig5">Figure 5a and b</xref>). More importantly, chromatin immunoprecipitation assays demonstrated that ALKBH1 binds to the promoter region of <italic>ATF4</italic> (<xref ref-type="fig" rid="fig5">Figure 5c</xref>). Knockdown of ALKBH1 restricted this binding (<xref ref-type="fig" rid="fig5">Figure 5c</xref>) and increased the abundance of N6-mA on the promoter (<xref ref-type="fig" rid="fig5">Figure 5d</xref>), which led to transcription silencing. These findings indicated that ALKBH1 may regulate the osteoblastic differentiation of MSCs by removing the N6-mA modifications on <italic>ATF4</italic>.</p></sec><sec><title>ATF4 overexpression rescues the phenotypes</title><p>To further elucidate the mechanism, we performed rescue experiments by overexpressing ATF4 or control GFP in stable ALKBH1-depleted MSCs using adenoviruses. The successful transduction was confirmed by RT-PCR and western blot (<xref ref-type="fig" rid="fig6">Figure 6a and b</xref>). Ectopic ATF4 expression significantly increased the expression of <italic>SP7</italic>, a master transcription factor for osteogenic differentiation (<xref ref-type="fig" rid="fig6">Figure 6c</xref>). In addition, ALP activity and mineralization were rescued (shALKBh1+Ad-ATF4 vs shALKBh1+Ad-GFP; <xref ref-type="fig" rid="fig6">Figure 6d&#x02013;f</xref>).</p></sec></sec><sec><title>Discussion</title><p>MSCs have garnered attention owing to their potential for osteogenic differentiation and regeneration therapy.<sup><xref ref-type="bibr" rid="bib36 bib37 bib38">36&#x02013;38</xref></sup> Exploring the mechanism of MSC lineage specification and differentiation offers a brand-new perspective for clinical applications.<sup><xref ref-type="bibr" rid="bib39">39</xref></sup> In the present study, we found that the expression of ALKBH1 is upregulated during osteogenic differentiation <italic>in vivo</italic>. The depletion of ALKBH1 markedly increased the N6-mA levels and significantly reduced the expression of osteogenic-related genes, ALP activity, and ECM mineralization. By contrast, the ectopic overexpression of ALKBH1 enhanced the osteoblastic differentiation of MSCs. Mechanically, we found that ALKBH1 may regulate osteoblastic differentiation by removing N6-mA modifications on <italic>ATF4</italic>.</p><p>Previous studies have shown that ALKBH1, which was identified as a DNA demethylase for N6-mA in Embryonic stem cells, has a crucial function in early development by regulating genes that are involved in differentiation and pluripotency.<sup><xref ref-type="bibr" rid="bib25">25</xref>,<xref ref-type="bibr" rid="bib26">26</xref></sup> In our study, ALKBH1 depletion inhibits bone formation both <italic>in vivo</italic> and <italic>in vitro</italic>. We further noticed an increase in N6-mA and reduction in osteogenic-related genes and indexes. Ougland <italic>et al.</italic> reported that ALKBH1 interacts with several core transcriptional factors, such as OCT4, SOX2, and NANOG, to maintain the pluripotency of Embryonic stem cell.<sup><xref ref-type="bibr" rid="bib25">25</xref>,<xref ref-type="bibr" rid="bib40">40</xref>,<xref ref-type="bibr" rid="bib41">41</xref></sup> Moreover, ALKBH1 may regulate microRNAs that are associated with the differentiation of neuronal cells.<sup><xref ref-type="bibr" rid="bib21">21</xref></sup> In contrast, mice lacking ALKBH1 display defects of small or missing eyes, especially in the right eye, and multiple defects in the craniofacial, sternum, and limb skeleton.<sup><xref ref-type="bibr" rid="bib26">26</xref></sup> Together with the findings on ALKBH1 by Nordstrand <italic>et al.</italic>, these data indicate that <italic>Alkbh1</italic>
+<sup>
+<italic>&#x02212;/&#x02212;</italic>
+</sup> mice exhibited an incomplete condensation of mesenchymal cells during ossification, which is consistent with our hypothesis.</p><p>Recently, ALKBH1 was discovered as a demethylase for DNA N6-mA, thus offering a new perspective for DNA methylation. However, there is wide acceptance that the DNA methylation always occurs on the C5 position of cytosine residues in CpG sites in DNA.<sup><xref ref-type="bibr" rid="bib20">20</xref>,<xref ref-type="bibr" rid="bib42">42</xref></sup> Fu <italic>et al.</italic>
+<sup><xref ref-type="bibr" rid="bib22">22</xref></sup> demonstrated that epigenetic activation of bone-specific genes mediated by promoter demethylation typically occurs when MSCs differentiate into osteoblasts. Moreover, Dansranjavin <italic>et al.</italic>
+<sup><xref ref-type="bibr" rid="bib23">23</xref></sup> suggested that the inhibition of stem-cell-specific genes by promoter methylation is a crucial epigenetic mechanism during stem cell differentiation. In previous studies, Wu <italic>et al.</italic> demonstrated that an increase of N6-mA in Alkbh1<sup>
+<italic>&#x02212;/&#x02212;</italic>
+</sup> cells leads to gene silencing and that most of these genes are developmental factors and lineage-specifying genes.<sup><xref ref-type="bibr" rid="bib11">11</xref></sup> Intriguingly, these genes are most markedly enriched on the X chromosome and Chr13, indicating that the increase in N6-mA inhibits the transcription on X chromosome, especially on young full-length LINE-1 transposons (L1 elements).<sup><xref ref-type="bibr" rid="bib11">11</xref></sup> Taken together, these data indicate that accumulation of N6-mA at L1 elements is related to the inhibition of nearby gene. Thus, N6-mA modifications have a great influence on the activation of differentiation genes. It would be interesting to explore the relationship between ALKBH1 and N6-mA, and the mechanisms that affect osteogenic differentiation and bone formation. Our result indicated an inverse correlation between ALKBH1 and N6-mA. In addition, the depletion of ALKBH1 <italic>in vivo</italic> leads to less bone tissue and decreased bone formation. However, fewer papers on DNA demethylases have been published compared with RNA demethylases, which needs further exploration.</p><p>In this study, we demonstrated that ALKBH1 binds to the promoter region of <italic>ATF4.</italic> The lack of ALKBH1 restricted this binding and increased N6-mA in this region, which led to transcription silencing. Our outcome suggested that ALKBH1 removes the N6-mA on ATF4 to regulate the osteogenic differentiation of human MSCs. ATF4, an osteoblast-enriched transcriptional factor of the CREB family, is indispensable for the latest phases of osteogenic differentiation,<sup><xref ref-type="bibr" rid="bib43">43</xref></sup> bone formation, and mineralization of the ECM.<sup><xref ref-type="bibr" rid="bib44">44</xref></sup> Previous studies have demonstrated that ATF4 promotes differentiation by upregulating the expression of osteoblast-specific genes, such as <italic>RANKL</italic>, and by promoting the synthesis of type I collagen, which is a main component of the ECM.<sup><xref ref-type="bibr" rid="bib5">5</xref>,<xref ref-type="bibr" rid="bib44">44</xref></sup> These two distinct mechanisms are both dependent on the phosphorylation by RSK2.<sup><xref ref-type="bibr" rid="bib45">45</xref></sup> Taken together, these data suggested that ALKBH1 enhances osteogenic differentiation by interacting with <italic>ATF4</italic>.</p><p>It needs to be noted that our findings are based on the <italic>in vitro</italic> experiments. Further <italic>in vivo</italic> studies are expected. Given that Alkbh1<sup>
+<italic>&#x02212;/&#x02212;</italic>
+</sup> in mice leads to embryonic and postnatal lethality,<sup><xref ref-type="bibr" rid="bib26">26</xref></sup> a tissue-specific mouse model is desired to further elucidate the role of ALKBH1 and DNA N6-mA in regulating osteogenic differentiation.</p><p>Collectively, we demonstrated that ALKBH1 enhances osteogenic differentiation by removing the N6-mA modifications on <italic>ATF4</italic>. Our results indicate that N6-mA modifications area mechanism for epigenetic regulation of osteogenic differentiation.</p></sec></body><back><ack><p>This work was supported by grants from the National Natural Science Foundation of China (No. 81271178 and 81470777).</p></ack><notes><p>The authors declare no conflict of interest.</p></notes><ref-list><ref id="bib1"><mixed-citation publication-type="journal">
+Nombela-Arrieta C
+, 
+Ritz J
+, 
+Silberstein LE
+. <article-title>The elusive nature and function of mesenchymal stem cells</article-title>. <source>Nat Rev Mol Cell Biol</source>
+<year>2011</year>; <volume>12</volume>: <fpage>126</fpage>&#x02013;131.<pub-id pub-id-type="pmid">21253000</pub-id></mixed-citation></ref><ref id="bib2"><mixed-citation publication-type="journal">
+Deng P
+, 
+Chen QM
+, 
+Hong C
+et al. <article-title>Histone methyltransferases and demethylases: regulators in balancing osteogenic and adipogenic differentiation of mesenchymal stem cells</article-title>. <source>Int J Oral Sci</source>
+<year>2015</year>; <volume>7</volume>: <fpage>197</fpage>&#x02013;204.<pub-id pub-id-type="pmid">26674421</pub-id></mixed-citation></ref><ref id="bib3"><mixed-citation publication-type="journal">
+Bianco P
+, 
+Robey PG
+, 
+Simmons PJ
+. <article-title>Mesenchymal stem cells: revisiting history, concepts, and assays</article-title>. <source>Cell Stem Cell</source>
+<year>2008</year>; <volume>2</volume>: <fpage>313</fpage>&#x02013;319.<pub-id pub-id-type="pmid">18397751</pub-id></mixed-citation></ref><ref id="bib4"><mixed-citation publication-type="journal">
+Bianco P
+, 
+Cao X
+, 
+Frenette PS
+et al. <article-title>The meaning, the sense and the significance: translating the science of mesenchymal stem cells into medicine</article-title>. <source>Nat Med</source>
+<year>2013</year>; <volume>19</volume>: <fpage>35</fpage>&#x02013;42.<pub-id pub-id-type="pmid">23296015</pub-id></mixed-citation></ref><ref id="bib5"><mixed-citation publication-type="journal">
+Yu S
+, 
+Zhu K
+, 
+Lai Y
+et al. <article-title>atf4 promotes beta-catenin expression and osteoblastic differentiation of bone marrow mesenchymal stem cells</article-title>. <source>Int J Biol Sci</source>
+<year>2013</year>; <volume>9</volume>: <fpage>256</fpage>&#x02013;266.<pub-id pub-id-type="pmid">23494915</pub-id></mixed-citation></ref><ref id="bib6"><mixed-citation publication-type="journal">
+Crane JL
+, 
+Zhao L
+, 
+Frye JS
+et al. <article-title>IGF-1 signaling is essential for differentiation of mesenchymal stem cells for peak bone mass</article-title>. <source>Bone Res</source>
+<year>2013</year>; <volume>1</volume>: <fpage>186</fpage>&#x02013;194.<pub-id pub-id-type="pmid">26273502</pub-id></mixed-citation></ref><ref id="bib7"><mixed-citation publication-type="journal">
+Rahman MS
+, 
+Akhtar N
+, 
+Jamil HM
+et al. <article-title>TGF-beta/BMP signaling and other molecular events: regulation of osteoblastogenesis and bone formation</article-title>. <source>Bone Res</source>
+<year>2015</year>; <volume>3</volume>: <fpage>15005</fpage>.<pub-id pub-id-type="pmid">26273537</pub-id></mixed-citation></ref><ref id="bib8"><mixed-citation publication-type="journal">
+Chiavistelli S
+, 
+Giustina A
+, 
+Mazziotti G
+. <article-title>Parathyroid hormone pulsatility: physiological and clinical aspects</article-title>. <source>Bone Res</source>
+<year>2015</year>; <volume>3</volume>: <fpage>14049</fpage>.<pub-id pub-id-type="pmid">26273533</pub-id></mixed-citation></ref><ref id="bib9"><mixed-citation publication-type="journal">
+Yuan Q
+, 
+Sato T
+, 
+Densmore M
+et al. <article-title>Deletion of PTH rescues skeletal abnormalities and high osteopontin levels in Klotho-/- mice</article-title>. <source>PLoS Genet</source>
+<year>2012</year>; <volume>8</volume>: <fpage>e1002726</fpage>.<pub-id pub-id-type="pmid">22615584</pub-id></mixed-citation></ref><ref id="bib10"><mixed-citation publication-type="journal">
+Yuan Q
+, 
+Sato T
+, 
+Densmore M
+et al. <article-title>FGF-23/Klotho signaling is not essential for the phosphaturic and anabolic functions of PTH</article-title>. <source>J Bone Miner Res</source>
+<year>2011</year>; <volume>26</volume>: <fpage>2026</fpage>&#x02013;2035.<pub-id pub-id-type="pmid">21590742</pub-id></mixed-citation></ref><ref id="bib11"><mixed-citation publication-type="journal">
+Wu TP
+, 
+Wang T
+, 
+Seetin MG
+et al. <article-title>DNA methylation on N(6)-adenine in mammalian embryonic stem cells</article-title>. <source>Nature</source>
+<year>2016</year>; <volume>532</volume>: <fpage>329</fpage>&#x02013;333.<pub-id pub-id-type="pmid">27027282</pub-id></mixed-citation></ref><ref id="bib12"><mixed-citation publication-type="journal">
+Guo H
+, 
+Zhu P
+, 
+Yan L
+et al. <article-title>The DNA methylation landscape of human early embryos</article-title>. <source>Nature</source>
+<year>2014</year>; <volume>511</volume>: <fpage>606</fpage>&#x02013;610.<pub-id pub-id-type="pmid">25079557</pub-id></mixed-citation></ref><ref id="bib13"><mixed-citation publication-type="journal">
+Bonder MJ
+, 
+Kasela S
+, 
+Kals M
+et al. <article-title>Genetic and epigenetic regulation of gene expression in fetal and adult human livers</article-title>. <source>BMC Genomics</source>
+<year>2014</year>; <volume>15</volume>: <fpage>860</fpage>.<pub-id pub-id-type="pmid">25282492</pub-id></mixed-citation></ref><ref id="bib14"><mixed-citation publication-type="journal">
+Wu Y
+, 
+Zhang S
+, 
+Yuan Q
+. <article-title>N(6)-methyladenosine methyltransferases and demethylases: new regulators of stem cell pluripotency and differentiation</article-title>. <source>Stem Cells Dev</source>
+<year>2016</year>; <volume>25</volume>: <fpage>1050</fpage>&#x02013;1059.<pub-id pub-id-type="pmid">27216987</pub-id></mixed-citation></ref><ref id="bib15"><mixed-citation publication-type="journal">
+Tsankov AM
+, 
+Gu H
+, 
+Akopian V
+et al. <article-title>Transcription factor binding dynamics during human ES cell differentiation</article-title>. <source>Nature</source>
+<year>2015</year>; <volume>518</volume>: <fpage>344</fpage>&#x02013;349.<pub-id pub-id-type="pmid">25693565</pub-id></mixed-citation></ref><ref id="bib16"><mixed-citation publication-type="journal">
+Ye C
+, 
+Li L
+. <article-title>5-hydroxymethylcytosine: a new insight into epigenetics in cancer</article-title>. <source>Cancer Biol Ther</source>
+<year>2014</year>; <volume>15</volume>: <fpage>10</fpage>&#x02013;15.<pub-id pub-id-type="pmid">24253310</pub-id></mixed-citation></ref><ref id="bib17"><mixed-citation publication-type="journal">
+Ooi SK
+, 
+O'Donnell AH
+, 
+Bestor TH
+. <article-title>Mammalian cytosine methylation at a glance</article-title>. <source>J Cell Sci</source>
+<year>2009</year>; <volume>122</volume>: <fpage>2787</fpage>&#x02013;2791.<pub-id pub-id-type="pmid">19657014</pub-id></mixed-citation></ref><ref id="bib18"><mixed-citation publication-type="journal">
+Pastor WA
+, 
+Aravind L
+, 
+Rao A
+. <article-title>TETonic shift: biological roles of TET proteins in DNA demethylation and transcription</article-title>. <source>Nat Rev Mol Cell Biol</source>
+<year>2013</year>; <volume>14</volume>: <fpage>341</fpage>&#x02013;356.<pub-id pub-id-type="pmid">23698584</pub-id></mixed-citation></ref><ref id="bib19"><mixed-citation publication-type="journal">
+Hu L
+, 
+Li Z
+, 
+Cheng J
+et al. <article-title>Crystal structure of TET2-DNA complex: insight into TET-mediated 5mC oxidation</article-title>. <source>Cell</source>
+<year>2013</year>; <volume>155</volume>: <fpage>1545</fpage>&#x02013;1555.<pub-id pub-id-type="pmid">24315485</pub-id></mixed-citation></ref><ref id="bib20"><mixed-citation publication-type="journal">
+Tahiliani M
+, 
+Koh KP
+, 
+Shen Y
+et al. <article-title>Conversion of 5-methylcytosine to 5-hydroxymethylcytosine in mammalian DNA by MLL partner TET1</article-title>. <source>Science</source>
+<year>2009</year>; <volume>324</volume>: <fpage>930</fpage>&#x02013;935.<pub-id pub-id-type="pmid">19372391</pub-id></mixed-citation></ref><ref id="bib21"><mixed-citation publication-type="journal">
+Hon GC
+, 
+Song CX
+, 
+Du T
+et al. <article-title>5mC oxidation by Tet2 modulates enhancer activity and timing of transcriptome reprogramming during differentiation</article-title>. <source>Mol Cell</source>
+<year>2014</year>; <volume>56</volume>: <fpage>286</fpage>&#x02013;297.<pub-id pub-id-type="pmid">25263596</pub-id></mixed-citation></ref><ref id="bib22"><mixed-citation publication-type="journal">
+Fu G
+, 
+Ren A
+, 
+Qiu Y
+et al. <article-title>Epigenetic regulation of osteogenic differentiation of mesenchymal stem cells</article-title>. <source>Curr Stem Cell Res Ther</source>
+<year>2016</year>; <volume>11</volume>: <fpage>235</fpage>&#x02013;246.<pub-id pub-id-type="pmid">26018226</pub-id></mixed-citation></ref><ref id="bib23"><mixed-citation publication-type="journal">
+Dansranjavin T
+, 
+Krehl S
+, 
+Mueller T
+et al. <article-title>The role of promoter CpG methylation in the epigenetic control of stem cell related genes during differentiation</article-title>. <source>Cell Cycle</source>
+<year>2009</year>; <volume>8</volume>: <fpage>916</fpage>&#x02013;924.<pub-id pub-id-type="pmid">19221495</pub-id></mixed-citation></ref><ref id="bib24"><mixed-citation publication-type="journal">
+Greer EL
+, 
+Blanco MA
+, 
+Gu L
+et al. <article-title>DNA Methylation on N6-Adenine in <italic>C. elegans</italic></article-title>. <source>Cell</source>
+<year>2015</year>; <volume>161</volume>: <fpage>868</fpage>&#x02013;878.<pub-id pub-id-type="pmid">25936839</pub-id></mixed-citation></ref><ref id="bib25"><mixed-citation publication-type="journal">
+Ougland R
+, 
+Jonson I
+, 
+Moen MN
+et al. <article-title>Role of ALKBH1 in the core transcriptional network of embryonic stem cells</article-title>. <source>Cell Physiol Biochem</source>
+<year>2016</year>; <volume>38</volume>: <fpage>173</fpage>&#x02013;184.<pub-id pub-id-type="pmid">26765775</pub-id></mixed-citation></ref><ref id="bib26"><mixed-citation publication-type="journal">
+Nordstrand LM
+, 
+Sv&#x000e4;rd J
+, 
+Larsen E
+et al. <article-title>Mice lacking Alkbh1 display sex-ratio distortion and unilateral eye defects</article-title>. <source>PLoS One</source>
+<year>2010</year>; <volume>5</volume>: <fpage>e13827</fpage>.<pub-id pub-id-type="pmid">21072209</pub-id></mixed-citation></ref><ref id="bib27"><mixed-citation publication-type="journal">
+Pan Z
+, 
+Sikandar S
+, 
+Witherspoon M
+et al. <article-title>Impaired placental trophoblast lineage differentiation in Alkbh1(-/-) mice</article-title>. <source>Dev Dyn</source>
+<year>2008</year>; <volume>237</volume>: <fpage>316</fpage>&#x02013;327.<pub-id pub-id-type="pmid">18163532</pub-id></mixed-citation></ref><ref id="bib28"><mixed-citation publication-type="journal">
+Ougland R
+, 
+Lando D
+, 
+Jonson I
+et al. <article-title>ALKBH1 is a histone H2A dioxygenase involved in neural differentiation</article-title>. <source>Stem Cells</source>
+<year>2012</year>; <volume>30</volume>: <fpage>2672</fpage>&#x02013;2682.<pub-id pub-id-type="pmid">22961808</pub-id></mixed-citation></ref><ref id="bib29"><mixed-citation publication-type="journal">
+Yuan Q
+, 
+Jiang Y
+, 
+Zhao X
+et al. <article-title>Increased osteopontin contributes to inhibition of bone mineralization in FGF23-deficient mice</article-title>. <source>J Bone Miner Res</source>
+<year>2014</year>; <volume>29</volume>: <fpage>693</fpage>&#x02013;704.<pub-id pub-id-type="pmid">24038141</pub-id></mixed-citation></ref><ref id="bib30"><mixed-citation publication-type="journal">
+Chen D
+, 
+Jarrell A
+, 
+Guo C
+et al. <article-title>Dermal beta-catenin activity in response to epidermal Wnt ligands is required for fibroblast proliferation and hair follicle initiation</article-title>. <source>Development</source>
+<year>2012</year>; <volume>139</volume>: <fpage>1522</fpage>&#x02013;1533.<pub-id pub-id-type="pmid">22434869</pub-id></mixed-citation></ref><ref id="bib31"><mixed-citation publication-type="journal">
+Peng L
+, 
+Hu Y
+, 
+Chen D
+et al. <article-title>Ubiquitin specific peptidase 21 regulates interleukin-8 expression, stem-cell like property of human renal cell carcinoma</article-title>. <source>Oncotarget</source>
+<year>2016</year>; <volume>7</volume>: <fpage>42007</fpage>&#x02013;42016.</mixed-citation></ref><ref id="bib32"><mixed-citation publication-type="journal">
+Budnick I
+, 
+Hamburg-Shields E
+, 
+Chen D
+et al. <article-title>Defining the identity of mouse embryonic dermal fibroblasts</article-title>. <source>Genesis</source>
+<year>2016</year>; <volume>54</volume>: <fpage>415</fpage>&#x02013;430.<pub-id pub-id-type="pmid">27265328</pub-id></mixed-citation></ref><ref id="bib33"><mixed-citation publication-type="journal">
+Pei M
+, 
+Chen D
+, 
+Li J
+et al. <article-title>Histone deacetylase 4 promotes TGF-beta1-induced synovium-derived stem cell chondrogenesis but inhibits chondrogenically differentiated stem cell hypertrophy</article-title>. <source>Differentiation</source>
+<year>2009</year>; <volume>78</volume>: <fpage>260</fpage>&#x02013;268.<pub-id pub-id-type="pmid">19716643</pub-id></mixed-citation></ref><ref id="bib34"><mixed-citation publication-type="journal">
+Zou H
+, 
+Zhao X
+, 
+Sun N
+et al. <article-title>Effect of chronic kidney disease on the healing of titanium implants</article-title>. <source>Bone</source>
+<year>2013</year>; <volume>56</volume>: <fpage>410</fpage>&#x02013;415.<pub-id pub-id-type="pmid">23876979</pub-id></mixed-citation></ref><ref id="bib35"><mixed-citation publication-type="journal">
+Liang Y
+, 
+Zhu F
+, 
+Zhang H
+et al. <article-title>Conditional ablation of TGF-beta signaling inhibits tumor progression and invasion in an induced mouse bladder cancer model</article-title>. <source>Sci Rep</source>
+<year>2016</year>; <volume>6</volume>: <fpage>29479</fpage>.<pub-id pub-id-type="pmid">27378170</pub-id></mixed-citation></ref><ref id="bib36"><mixed-citation publication-type="journal">
+Henkel J
+, 
+Woodruff MA
+, 
+Epari DR
+et al. <article-title>Bone Regeneration Based on Tissue Engineering Conceptions - A 21st Century Perspective</article-title>. <source>Bone Res</source>
+<year>2013</year>; <volume>1</volume>: <fpage>216</fpage>&#x02013;248.<pub-id pub-id-type="pmid">26273505</pub-id></mixed-citation></ref><ref id="bib37"><mixed-citation publication-type="journal">
+Kim MO
+, 
+Jung H
+, 
+Kim SC
+et al. <article-title>Electromagnetic fields and nanomagnetic particles increase the osteogenic differentiation of human bone marrow-derived mesenchymal stem cells</article-title>. <source>Int J Mol Med</source>
+<year>2015</year>; <volume>35</volume>: <fpage>153</fpage>&#x02013;160.<pub-id pub-id-type="pmid">25352086</pub-id></mixed-citation></ref><ref id="bib38"><mixed-citation publication-type="journal">
+Peng L
+, 
+Ye L
+, 
+Zhou XD
+. <article-title>Mesenchymal stem cells and tooth engineering</article-title>. <source>Int J Oral Sci</source>
+<year>2009</year>; <volume>1</volume>: <fpage>6</fpage>&#x02013;12.<pub-id pub-id-type="pmid">20690498</pub-id></mixed-citation></ref><ref id="bib39"><mixed-citation publication-type="journal">
+Lee J
+, 
+Abdeen AA
+, 
+Kilian KA
+. <article-title>Rewiring mesenchymal stem cell lineage specification by switching the biophysical microenvironment</article-title>. <source>Sci Rep</source>
+<year>2014</year>; <volume>4</volume>: <fpage>5188</fpage>.<pub-id pub-id-type="pmid">24898422</pub-id></mixed-citation></ref><ref id="bib40"><mixed-citation publication-type="journal">
+Tay Y
+, 
+Zhang J
+, 
+Thomson AM
+et al. <article-title>MicroRNAs to Nanog, Oct4 and Sox2 coding regions modulate embryonic stem cell differentiation</article-title>. <source>Nature</source>
+<year>2008</year>; <volume>455</volume>: <fpage>1124</fpage>&#x02013;1128.<pub-id pub-id-type="pmid">18806776</pub-id></mixed-citation></ref><ref id="bib41"><mixed-citation publication-type="journal">
+Olariu V
+, 
+Lovkvist C
+, 
+Sneppen K
+. <article-title>Nanog, Oct4 and Tet1 interplay in establishing pluripotency</article-title>. <source>Sci Rep</source>
+<year>2016</year>; <volume>6</volume>: <fpage>25438</fpage>.<pub-id pub-id-type="pmid">27146218</pub-id></mixed-citation></ref><ref id="bib42"><mixed-citation publication-type="journal">
+Ficz G
+, 
+Branco MR
+, 
+Seisenberger S
+et al. <article-title>Dynamic regulation of 5-hydroxymethylcytosine in mouse ES cells and during differentiation</article-title>. <source>Nature</source>
+<year>2011</year>; <volume>473</volume>: <fpage>398</fpage>&#x02013;402.<pub-id pub-id-type="pmid">21460836</pub-id></mixed-citation></ref><ref id="bib43"><mixed-citation publication-type="journal">
+Elefteriou F
+, 
+Ahn JD
+, 
+Takeda S
+et al. <article-title>Leptin regulation of bone resorption by the sympathetic nervous system and CART</article-title>. <source>Nature</source>
+<year>2005</year>; <volume>434</volume>: <fpage>514</fpage>&#x02013;520.<pub-id pub-id-type="pmid">15724149</pub-id></mixed-citation></ref><ref id="bib44"><mixed-citation publication-type="journal">
+Elefteriou F
+, 
+Benson MD
+, 
+Sowa H
+et al. <article-title>ATF4 mediation of NF1 functions in osteoblast reveals a nutritional basis for congenital skeletal dysplasiae</article-title>. <source>Cell Metab</source>
+<year>2006</year>; <volume>4</volume>: <fpage>441</fpage>&#x02013;451.<pub-id pub-id-type="pmid">17141628</pub-id></mixed-citation></ref><ref id="bib45"><mixed-citation publication-type="journal">
+Yang X
+, 
+Matsuda K
+, 
+Bialek P
+et al. <article-title>ATF4 is a substrate of RSK2 and an essential regulator of osteoblast biology; implication for Coffin-Lowry Syndrome</article-title>. <source>Cell</source>
+<year>2004</year>; <volume>117</volume>: <fpage>387</fpage>&#x02013;398.<pub-id pub-id-type="pmid">15109498</pub-id></mixed-citation></ref></ref-list></back><floats-group><fig id="fig1"><label>Figure 1</label><caption><p>ALKBH1 is upregulated during osteogenic differentiation. (<bold>a</bold>) Real-time RT-PCR of <italic>ALKBH1.n</italic>=3. *<italic>P</italic>&#x0003c;0.05 and **<italic>P</italic>&#x0003c;0.01. (<bold>b</bold>) Western blot analysis.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="boneres201633-f1"/></fig><fig id="fig2"><label>Figure 2</label><caption><p>Depletion of ALKBH1 inhibits osteogenic differentiation. (<bold>a</bold>) Real-time RT-PCR<italic>. n</italic>=3. ***<italic>P</italic>&#x0003c;0.001. (<bold>b</bold>) Western blot analysis. (<bold>c</bold>) Representative images of dot blot assay. (<bold>d</bold>) Representative image of alkaline phosphatase (ALP) staining. (<bold>e</bold>) Quantitative analyses of the ALP activity. <italic>n</italic>=5. **<italic>P</italic>&#x0003c;0.01. (<bold>f</bold>) Representative image of Alizarin red S (ARS) staining of MSCs. (<bold>g</bold>) Quantitative analyses of calcium mineralization. <italic>n</italic>=5. **<italic>P</italic>&#x0003c;0.01. (<bold>h</bold>&#x02013;<bold>j</bold>) Real-time RT-PCR revealed reduced <italic>RUNX2</italic>, <italic>SP7</italic>, and <italic>BGLAP</italic> messenger RNA expression. <italic>n</italic>=3. *<italic>P</italic>&#x0003c;0.05, **<italic>P</italic>&#x0003c;0.01 and ***<italic>P</italic>&#x0003c;0.001.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="boneres201633-f2"/></fig><fig id="fig3"><label>Figure 3</label><caption><p>Depletion of ALKBH1 inhibits bone formation <italic>in vivo</italic>. (<bold>a</bold>) Real-time RT-PCR<italic>. n</italic>=3. ***<italic>P</italic>&#x0003c;0.001. (<bold>b</bold>) Western blot analysis. (<bold>c</bold>) Representative images of dot blot assay. (<bold>d</bold>) Hematoxylin and eosin staining of the ectopic bone formation. (<bold>e</bold>) Quantitative analyses of bone volume versus total tissue volume (BV/TV). <italic>n</italic>=5. *<italic>P</italic>&#x0003c;0.05.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="boneres201633-f3"/></fig><fig id="fig4"><label>Figure 4</label><caption><p>Overexpression of ALKBH1 enhances osteogenic differentiation. (<bold>a</bold>) Real-time RT-PCR<italic>. n</italic>=3. ***<italic>P</italic>&#x0003c;0.001. (<bold>b</bold>) Western blot analysis. (<bold>c</bold>) Representative images of dot blot assay. (<bold>d</bold>) Representative image of ALP staining. (<bold>e</bold>) Quantitative analyses of the ALP activity. <italic>n</italic>=5. *<italic>P</italic>&#x0003c;0.05. (<bold>f</bold>) Representative image of ARS staining of MSCs. (<bold>g</bold>) Quantitative analyses of calcium mineralization. <italic>n</italic>=5. ***<italic>P</italic>&#x0003c;0.001. (<bold>h</bold>&#x02013;<bold>j</bold>) Real-time RT-PCR revealed increased messenger RNA expression of <italic>RUNX2</italic>, <italic>SP7</italic>, and <italic>BGLAP</italic>. <italic>n</italic>=3. *<italic>P</italic>&#x0003c;0.05 and ***<italic>P</italic>&#x0003c;0.001.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="boneres201633-f4"/></fig><fig id="fig5"><label>Figure 5</label><caption><p>Depletion of ALKBH1 impairs ATF4 transcription. (<bold>a</bold>) Real-time RT-PCR showing decreased <italic>ATF4</italic> expression<italic>. n</italic>=3. **<italic>P</italic>&#x0003c;0.01. (<bold>b</bold>) Western blot analysis. (<bold>c</bold>) Chromatin immunoprecipitation (ChIP) assay for ALKBH1. ALKBH1 binds to the promoter region of <italic>ATF4</italic>. <italic>n</italic>=4. **<italic>P</italic>&#x0003c;0.01. (<bold>d</bold>) ChIP assay for N6-mA. Knockdown of ALKBH1 increases N6-mA levels on the promoter region of <italic>ATF4</italic>. <italic>n</italic>=4. **<italic>P</italic>&#x0003c;0.01.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="boneres201633-f5"/></fig><fig id="fig6"><label>Figure 6</label><caption><p>Overexpression of ATF4 rescues the phenotypes. (<bold>a</bold>) Real-time RT-PCR for <italic>ATF4. n</italic>=3. *<italic>P</italic>&#x0003c;0.05, **<italic>P</italic>&#x0003c;0.01 and ***<italic>P</italic>&#x0003c;0.001. (<bold>b</bold>) Western blot analysis for ATP4. (<bold>c</bold>) Real-time RT-PCR for <italic>SP7</italic>. <italic>n</italic>=3. *<italic>P</italic>&#x0003c;0.05, **<italic>P</italic>&#x0003c;0.01 and ***<italic>P</italic>&#x0003c;0.001. (<bold>d</bold>) Representative images of ALP staining and ARS staining. (<bold>e</bold>) Quantitative analyses of the ALP activity. <italic>n</italic>=5. *<italic>P</italic>&#x0003c;0.05, **<italic>P</italic>&#x0003c;0.01 and ***<italic>P</italic>&#x0003c;0.001. (<bold>f</bold>) Quantitative analyses of calcium mineralization. <italic>n</italic>=5. *<italic>P</italic>&#x0003c;0.05, **<italic>P</italic>&#x0003c;0.01 and ***<italic>P</italic>&#x0003c;0.001.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="boneres201633-f6"/></fig><table-wrap id="tbl1"><label>Table 1</label><caption><title>Primers for quantitative RT-PCR and ChIP-qPCR</title></caption><table frame="hsides" rules="groups" border="1"><colgroup><col align="left"/><col align="left"/></colgroup><thead valign="bottom"><tr><th align="left" valign="top" charoff="50">Gene</th><th align="left" valign="top" charoff="50">Primers</th></tr></thead><tbody valign="top"><tr><td colspan="2" align="left" valign="top" charoff="50">For RT-PCR<hr/></td></tr><tr><td align="left" valign="top" charoff="50">&#x02003;<italic>ALKBH1 F</italic>
+</td><td align="left" valign="top" charoff="50">
+AGAAGCGACTAAACGGAGACC
+</td></tr><tr><td align="left" valign="top" charoff="50">&#x02003;<italic>ALKBH1 R</italic>
+</td><td align="left" valign="top" charoff="50">
+GGGAAAGGTGTGTAATGATCTGC
+</td></tr><tr><td align="left" valign="top" charoff="50">&#x02003;<italic>RUNX2 F</italic>
+</td><td align="left" valign="top" charoff="50">
+GCAAGGTTCAACGATCTGAG
+</td></tr><tr><td align="left" valign="top" charoff="50">&#x02003;<italic>RUNX2 R</italic>
+</td><td align="left" valign="top" charoff="50">
+GGAGGATTTGTGAAGACGGT
+</td></tr><tr><td align="left" valign="top" charoff="50">&#x02003;<italic>SP7 F</italic>
+</td><td align="left" valign="top" charoff="50">
+GAGGCAACTGGCTAGGTGG
+</td></tr><tr><td align="left" valign="top" charoff="50">&#x02003;<italic>SP7 R</italic>
+</td><td align="left" valign="top" charoff="50">
+CTGGATTAAGGGGAGCAAAGTC
+</td></tr><tr><td align="left" valign="top" charoff="50">&#x02003;<italic>BGLAP F</italic>
+</td><td align="left" valign="top" charoff="50">
+GGCGCTACCTGTATCAATGG
+</td></tr><tr><td align="left" valign="top" charoff="50">&#x02003;<italic>BGLAP R</italic>
+</td><td align="left" valign="top" charoff="50">
+GTGGTCAGCCAACTCGTCA
+</td></tr><tr><td align="left" valign="top" charoff="50">&#x02003;<italic>ATF4 F</italic>
+</td><td align="left" valign="top" charoff="50">
+ATGACCGAAATGAGCTTCCTG
+</td></tr><tr><td align="left" valign="top" charoff="50">&#x02003;<italic>ATF4 R</italic>
+</td><td align="left" valign="top" charoff="50">
+GCTGGAGAACCCATGAGGT
+</td></tr><tr><td align="left" valign="top" charoff="50">&#x02003;<italic>GAPDH F</italic>
+</td><td align="left" valign="top" charoff="50">
+TCATTGACCTCAACTACATG
+</td></tr><tr><td align="left" valign="top" charoff="50">&#x02003;<italic>GAPDH R</italic>
+</td><td align="left" valign="top" charoff="50">
+TCGCTCCTGGAAGATGGTGAT
+</td></tr><tr><td colspan="2" align="left" valign="top" charoff="50">For ChIP<hr/></td></tr><tr><td align="left" valign="top" charoff="50">&#x02003;<italic>ATF4 F</italic>
+</td><td align="left" valign="top" charoff="50">
+TGGCAGCAACAGCAACCATTA
+</td></tr><tr><td align="left" valign="top" charoff="50">&#x02003;<italic>ATF4 R</italic>
+</td><td align="left" valign="top" charoff="50">
+TGAGCCTCAGTTTCCTCATTTGTA
+</td></tr></tbody></table><table-wrap-foot><fn id="t1-tfoot1"><p>Abbreviations: ChIP-qPCR, chromatin immunoprecipitation-quantitative PCR; RT-PCR, reverse transcription-PCR.</p></fn></table-wrap-foot></table-wrap></floats-group></article>

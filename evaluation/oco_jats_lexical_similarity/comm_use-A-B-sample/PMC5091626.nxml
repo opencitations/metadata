@@ -1,0 +1,882 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Br J Haematol</journal-id><journal-id journal-id-type="iso-abbrev">Br. J. Haematol</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1365-2141</journal-id><journal-id journal-id-type="publisher-id">BJH</journal-id><journal-title-group><journal-title>British Journal of Haematology</journal-title></journal-title-group><issn pub-type="ppub">0007-1048</issn><issn pub-type="epub">1365-2141</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">27612176</article-id><article-id pub-id-type="pmc">5091626</article-id><article-id pub-id-type="doi">10.1111/bjh.14270</article-id><article-id pub-id-type="publisher-id">BJH14270</article-id><article-categories><subj-group subj-group-type="overline"><subject>Research Paper</subject></subj-group><subj-group subj-group-type="heading"><subject>Haematological Malignancy</subject></subj-group></article-categories><title-group><article-title>Unravelling the relevance of CLEC12A as a cancer stem cell marker in myelodysplastic syndrome</article-title><alt-title alt-title-type="left-running-head">M. Toft&#x02010;Petersen <italic>et&#x000a0;al</italic></alt-title></title-group><contrib-group><contrib id="bjh14270-cr-0001" contrib-type="author" corresp="yes"><name><surname>Toft&#x02010;Petersen</surname><given-names>Marie</given-names></name><address><email>marie.toft-petersen@clin.au.dk</email></address><xref ref-type="aff" rid="bjh14270-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="bjh14270-cr-0002" contrib-type="author"><name><surname>Nederby</surname><given-names>Line</given-names></name><xref ref-type="aff" rid="bjh14270-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="bjh14270-cr-0003" contrib-type="author"><name><surname>Kjeldsen</surname><given-names>Eigil</given-names></name><xref ref-type="aff" rid="bjh14270-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="bjh14270-cr-0004" contrib-type="author"><name><surname>Kerndrup</surname><given-names>Gitte B.</given-names></name><xref ref-type="aff" rid="bjh14270-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="bjh14270-cr-0005" contrib-type="author"><name><surname>Brown</surname><given-names>Gordon D.</given-names></name><xref ref-type="aff" rid="bjh14270-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="bjh14270-cr-0006" contrib-type="author"><name><surname>Hokland</surname><given-names>Peter</given-names></name><xref ref-type="aff" rid="bjh14270-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="bjh14270-cr-0007" contrib-type="author"><name><surname>Stidsholt Roug</surname><given-names>Anne</given-names></name><xref ref-type="aff" rid="bjh14270-aff-0001">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="bjh14270-aff-0001"><label><sup>1</sup></label><named-content content-type="organisation-division">Department of Haematology</named-content><institution>Aarhus University Hospital</institution><named-content content-type="city">Aarhus</named-content><country country="DK">Denmark</country></aff><aff id="bjh14270-aff-0002"><label><sup>2</sup></label><named-content content-type="organisation-division">Department of Pathology</named-content><institution>Aarhus University Hospital</institution><named-content content-type="city">Aarhus</named-content><country country="DK">Denmark</country></aff><aff id="bjh14270-aff-0003"><label><sup>3</sup></label><named-content content-type="organisation-division">Immunity</named-content><named-content content-type="organisation-division">Infection and Inflammation Programme</named-content><named-content content-type="organisation-division">Institute of Medical Sciences</named-content><institution>University of Aberdeen</institution><named-content content-type="city">Aberdeen</named-content><country country="GB">UK</country></aff><author-notes><corresp id="correspondenceTo"><label>*</label>
+Correspondence: Marie Toft&#x02010;Petersen, Department of Haematology, Aarhus University Hospital, Tage&#x02010;Hansens Gade 2, entrance 4A, 2nd floor, DK&#x02010;8000 Aarhus C, Denmark.<break/>
+E&#x02010;mail: <email>marie.toft-petersen@clin.au.dk</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>09</day><month>9</month><year>2016</year></pub-date><pub-date pub-type="ppub"><month>11</month><year>2016</year></pub-date><volume>175</volume><issue>3</issue><issue-id pub-id-type="doi">10.1111/bjh.2016.175.issue-3</issue-id><fpage>393</fpage><lpage>401</lpage><history><date date-type="received"><day>18</day><month>3</month><year>2016</year></date><date date-type="accepted"><day>09</day><month>6</month><year>2016</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> Copyright &#x000a9; 2016 John Wiley & Sons Ltd <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2016 The Authors. <italic>British Journal of Haematology</italic> published by John Wiley &#x00026; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:BJH-175-393.pdf"/><abstract id="bjh14270-abs-0001"><title>Summary</title><p>Evidence of distinct disease propagating stem cells in myelodysplastic syndrome (<styled-content style="fixed-case">MDS</styled-content>) has emerged in recent years. However, immunophenotypic characterization of these cancer stem cells remains sparse. In acute myeloid leukaemia (<styled-content style="fixed-case">AML</styled-content>), we have previously described aberrant expression of the C&#x02010;type lectin domain family 12, member A (<styled-content style="fixed-case">CLEC</styled-content>12A) as a stable and reliable marker of leukaemia blasts and as a tool for assessing minimal residual disease. Furthermore, <styled-content style="fixed-case">CLEC</styled-content>12A has been proposed as a promising marker of leukaemic stem cells in <styled-content style="fixed-case">AML</styled-content>. The role of <styled-content style="fixed-case">CLEC</styled-content>12A in <styled-content style="fixed-case">MDS</styled-content>, however, remains to be elucidated. In this study, we found <styled-content style="fixed-case">CLEC</styled-content>12A aberrantly expressed on the <styled-content style="fixed-case">CD</styled-content>34<sup>+</sup>
+<styled-content style="fixed-case">CD</styled-content>38<sup>&#x02212;</sup> cell compartment in 71% (22/31) of <styled-content style="fixed-case">MDS</styled-content> patients, distributed across all Revised International Prognostic Scoring System risk groups. We showed that the <styled-content style="fixed-case">CD</styled-content>34<sup>+</sup>
+<styled-content style="fixed-case">CD</styled-content>38<sup>&#x02212;</sup>
+<styled-content style="fixed-case">CLEC</styled-content>12A<sup>+</sup> cells were indeed malignant and possessed functional stem cell properties in the long&#x02010;term colony&#x02010;initiating cell assay. As opposed to reported findings in <styled-content style="fixed-case">AML</styled-content>, we showed that cancer stem cells from <styled-content style="fixed-case">MDS</styled-content> samples derived from both <styled-content style="fixed-case">CLEC</styled-content>12A positive and negative <styled-content style="fixed-case">CD</styled-content>34<sup>+</sup>
+<styled-content style="fixed-case">CD</styled-content>38<sup>&#x02212;</sup> subpopulations. Due to the absence of <styled-content style="fixed-case">CLEC</styled-content>12A on normal haematopoietic stem cells, <styled-content style="fixed-case">CLEC</styled-content>12A stem cell immunophenotyping may contribute to diagnosing and monitoring <styled-content style="fixed-case">MDS</styled-content> patients and could furthermore add knowledge about disease propagating cells in <styled-content style="fixed-case">MDS</styled-content>.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="bjh14270-kwd-0001">cancer stem cells</kwd><kwd id="bjh14270-kwd-0002">myelodysplastic syndrome</kwd><kwd id="bjh14270-kwd-0003"><styled-content style="fixed-case">hMICL</styled-content></kwd><kwd id="bjh14270-kwd-0004"><styled-content style="fixed-case">CD</styled-content>371</kwd><kwd id="bjh14270-kwd-0005"><styled-content style="fixed-case">LTC</styled-content>&#x02010;IC</kwd></kwd-group><funding-group><award-group><funding-source>Karen Elise Jensen Foundation</funding-source></award-group></funding-group><funding-group><award-group><funding-source>The Meyer Foundation</funding-source></award-group></funding-group><funding-group><award-group><funding-source>The Wellcome Trust</funding-source></award-group></funding-group><funding-group><award-group><funding-source>Danish Cancer Society</funding-source></award-group></funding-group><counts><fig-count count="2"/><table-count count="2"/><page-count count="9"/><word-count count="6549"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>bjh14270</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>November 2016</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:4.9.7 mode:remove_FC converted:10.11.2016</meta-value></custom-meta></custom-meta-group></article-meta></front><body><p>Myelodysplastic syndrome (MDS) is a heterogeneous group of clonal diseases marked by dysplasia in the bone marrow (BM) causing cytopenias in the peripheral blood (PB) and with an inherent tendency to progress to acute myeloid leukaemia (AML). Diagnosis remains a challenge and relies on morphological and cytogenetic evaluation after the exclusion of other causes of cytopenias. When the morphological dysplastic features are mild or even absent and PB cytopenias are persistent the diagnosis is termed idiopathic cytopenias of undetermined significance (ICUS) (Valent <italic>et&#x000a0;al</italic>, <xref rid="bjh14270-bib-0026" ref-type="ref">2012</xref>; Bejar &#x00026; Steensma, <xref rid="bjh14270-bib-0002" ref-type="ref">2014</xref>). Evaluating myelodysplastic features using flow cytometry is a growing field of interest and highly sensitive multicolour immunophenotypic profiling and accompanying scoring systems have proven useful in MDS, both in diagnostic and prognostic terms (Ogata <italic>et&#x000a0;al</italic>, <xref rid="bjh14270-bib-0017" ref-type="ref">2006</xref>; van de Loosdrecht <italic>et&#x000a0;al</italic>, <xref rid="bjh14270-bib-0012" ref-type="ref">2008</xref>).</p><p>The concept of the leukaemic stem cell (LSC) is well established in AML and the frequency of the CD34<sup>+</sup>CD38<sup>&#x02212;</sup> stem cell compartment with aberrant marker expression has proven predictive of adverse outcome in several studies (Vergez <italic>et&#x000a0;al</italic>, <xref rid="bjh14270-bib-0027" ref-type="ref">2011</xref>; Terwijn <italic>et&#x000a0;al</italic>, <xref rid="bjh14270-bib-0025" ref-type="ref">2014</xref>). Following the seminal studies by Bakker <italic>et&#x000a0;al</italic> (<xref rid="bjh14270-bib-0001" ref-type="ref">2004</xref>), we have identified the C&#x02010;type lectin domain family 12, member A (CLEC12A) (also named hMICL and CLL&#x02010;1) as a stable and reliable leukaemia&#x02010;associated marker at diagnosis and as a tool for assessing minimal residual disease in AML (Larsen <italic>et&#x000a0;al</italic>, <xref rid="bjh14270-bib-0009" ref-type="ref">2012</xref>; Roug <italic>et&#x000a0;al</italic>, <xref rid="bjh14270-bib-0021" ref-type="ref">2014</xref>). Furthermore, CLEC12A has been proposed as a possible marker for LSC as it can be found on CD34<sup>+</sup>CD38<sup>&#x02212;</sup> cells in CD34&#x02010;positive AML, but is completely absent on the CD34<sup>+</sup>CD38<sup>&#x02212;</sup> compartment in normal donors and in regenerating BM (van Rhenen <italic>et&#x000a0;al</italic>, <xref rid="bjh14270-bib-0019" ref-type="ref">2007a</xref>). In addition, Terwijn <italic>et&#x000a0;al</italic> (<xref rid="bjh14270-bib-0025" ref-type="ref">2014</xref>) showed that light scatter properties together with aberrant marker expression (including CLEC12A) on the CD34<sup>+</sup>CD38<sup>&#x02212;</sup> cells were able to discriminate leukaemic and normal stem cell compartments in AML validated by xenograft studies.</p><p>Regarding the clonal origin of MDS, the disease entity has generally been regarded as originating in the haematopoietic stem cell (HSC), which recent research has emphasized to hold true also for low&#x02010;risk MDS (Tehranchi <italic>et&#x000a0;al</italic>, <xref rid="bjh14270-bib-0024" ref-type="ref">2010</xref>). Furthermore, for the 5q&#x02010; syndrome, it has been shown that, even at an early time point in the course of the disease, the normal HSC compartment has almost completely been replaced with clonally expanded stem cells that are positive for the cytogenetic 5q&#x02010; aberration (Nilsson <italic>et&#x000a0;al</italic>, <xref rid="bjh14270-bib-0016" ref-type="ref">2007</xref>). Woll <italic>et&#x000a0;al</italic> (<xref rid="bjh14270-bib-0029" ref-type="ref">2014</xref>) provided evidence of distinct cancer stem cells (CSCs) in MDS by tracing all identified somatic mutations in the bulk BM back to the immunophenotypically defined Lin&#x02010;CD34<sup>+</sup>CD38<sup>&#x02212;</sup>CD90<sup>+</sup> stem cell. Furthermore, this particular stem cell subset was the only cell type with functional self&#x02010;renewal potential in the long&#x02010;term colony initiating cell (LTC&#x02010;IC) assay and hence the ability to maintain and propagate the myelodysplastic neoplasm (Woll <italic>et&#x000a0;al</italic>, <xref rid="bjh14270-bib-0029" ref-type="ref">2014</xref>). While the above mentioned studies investigated stem cell subsets defined by the normal immunophenotypic profile of the HSC, other research groups have shown aberrant marker&#x02010;expression on CD34<sup>+</sup>CD38<sup>&#x02212;</sup> cells in MDS, although only in minor fractions of patients (Florian <italic>et&#x000a0;al</italic>, <xref rid="bjh14270-bib-0005" ref-type="ref">2006</xref>; Xie <italic>et&#x000a0;al</italic>, <xref rid="bjh14270-bib-0030" ref-type="ref">2010</xref>; Li <italic>et&#x000a0;al</italic>, <xref rid="bjh14270-bib-0010" ref-type="ref">2014</xref>).</p><p>Given the formal demonstration of CSCs in MDS (Woll <italic>et&#x000a0;al</italic>, <xref rid="bjh14270-bib-0029" ref-type="ref">2014</xref>), and the promising findings of CLEC12A as a surrogate marker of LSCs in AML (van Rhenen <italic>et&#x000a0;al</italic>, <xref rid="bjh14270-bib-0019" ref-type="ref">2007a</xref>), we hypothesized CLEC12A could be used as an immunophenotypic marker of CSCs in MDS. Consequently, we examined the aberrant expression of CLEC12A in the CD34<sup>+</sup>CD38<sup>&#x02212;</sup> cell compartment in BM from a cohort of MDS patients. Furthermore, to functionally validate the stem cell potential and malignant nature of these particular cells, we employed a two&#x02010;pronged strategy by; i) evaluating the self&#x02010;renewal properties of both the CD34<sup>+</sup>CD38<sup>&#x02212;</sup>CLEC12A<sup>+/&#x02212;</sup> subsets in the LTC&#x02010;IC assay and ii) performing interphase fluorescence in&#x000a0;situ hybridization (FISH) analyses of the derived colony&#x02010;forming cells (CFCs).</p><sec id="bjh14270-sec-0002"><title>Methods</title><sec id="bjh14270-sec-0003"><title>Patient samples</title><p>Bone marrow samples were obtained as excess material taken as part of the diagnostic process from 31 MDS patients diagnosed at the Department of Haematology, Aarhus University Hospital. The study was conducted in accordance with the Declaration of Helsinki and was approved by the local ethics committee. All samples were collected before treatment with cytoreductive or demethylating agents. MDS diagnoses were confirmed by morphological examination according to the 2008 World Health Organization (WHO) classification (Swerdlow <italic>et&#x000a0;al</italic>, <xref rid="bjh14270-bib-0022" ref-type="ref">2008</xref>). Risk assessment was done according to the Revised International Prognostic Scoring System (IPPS&#x02010;R) (Greenberg <italic>et&#x000a0;al</italic>, <xref rid="bjh14270-bib-0007" ref-type="ref">2012</xref>). In the immunophenotypic assay, normal BM (NBM) from 19 healthy volunteers and BM from 27 AML patients served as negative and positive controls, respectively.</p></sec><sec id="bjh14270-sec-0004"><title>Flow cytometry</title><p>Bone marrow was analysed either fresh (MDS patients 1&#x02013;19, NBM 1&#x02013;11, AML patients 1&#x02013;8) after red blood cells were lysed using EasyLyse (DAKO, Glostrup, Denmark) or as thawed cryopreserved mononuclear cells (MNCs) (MDS patients 20&#x02013;31, NBM 12&#x02013;19, AML patients 9&#x02013;27). MNCs were obtained by Lymphoprep (Axis&#x02010;Shield plc., Dundee, Scotland) separation according to the manufacturer's instructions, cryopreserved in 10% dimethylsulfoxide and stored in liquid nitrogen. Cryopreserved MNCs were thawed in a 37&#x000b0;C water bath and resuspended in RoboSep Buffer (StemCell Technologies, Vancouver, BC, Canada) with 15% heat inactivated fetal calf serum (Biochrom, GmbH, Berlin, Germany). Subsequently, cells were stained with the following monoclonal antibodies: anti&#x02010;CD34 allophycocyanin (Birma&#x02010;K3), anti&#x02010;CD38 fluorescein&#x02010;isothiocyanate (AT 13/5) (DAKO), anti&#x02010;CD45 peridinin&#x02010;chlorophyll&#x02010;protein&#x02010;cyanine5&#x000b7;5 (HI30) (BioLegend, San Diego, CA, USA) and anti&#x02010;CLEC12A phycoerythrin (HB3) (own laboratory, courtesy of Gordon D. Brown). The anti&#x02010;CLEC12A antibody specificity was previously validated by Marshall <italic>et&#x000a0;al</italic> (<xref rid="bjh14270-bib-0014" ref-type="ref">2006</xref>) and Larsen <italic>et&#x000a0;al</italic> (<xref rid="bjh14270-bib-0009" ref-type="ref">2012</xref>). Data acquisition was performed on a FACSCanto II (BD Biosciences, San Jose, CA, USA) and analysed using FlowJo Data Analysis Software, version X (FlowJo, Ashland, OR, USA). In the gating strategy used, the CD34<sup>+</sup>CD38<sup>&#x02212;</sup> population was identified in CD45lowSSClow leucocytes and analysed for the presence/absence of CLEC12A. The CLEC12A positive gate was defined using the lymphocytes as an internal negative control. The CD34<sup>+</sup>CD38<sup>&#x02212;</sup>CLEC12A<sup>+</sup> population was back&#x02010;gated and was shown to cluster together in a forward scatter &#x02013; side scatter plot. A minimum of five clustered CD34<sup>+</sup>CD38<sup>&#x02212;</sup>CLEC12A<sup>+</sup> events was considered significant.</p></sec><sec id="bjh14270-sec-0005"><title>Fluorescence activated cell sorting</title><p>In four selected MDS patient cases (MDS patients 8, 29, 30 and 31) fluorescence activated cell sorting (FACS) was performed on a BD FACSAria<sup>&#x02122;</sup> III (BD Biosciences). Cells were sorted into two subsets, CD45lowSSClowCD34<sup>+</sup>CD38<sup>&#x02212;</sup>CLEC12A<sup>+</sup> and CD45lowSSClowCD34<sup>+</sup>CD38<sup>&#x02212;</sup>CLEC12A<sup>&#x02212;</sup> using the same gating strategy as described above. The CD45lowSSClowCD34<sup>+</sup>CD38<sup>&#x02212;</sup>CLEC12A<sup>&#x02212;</sup> subset from two NBMs was sorted as controls. Purity of sorted subsets was determined in 5 out of 10 subsets due to the rarity of the cell&#x000a0;populations. For the CD45lowSSClowCD34<sup>+</sup>CD38<sup>&#x02212;</sup>CLEC12A<sup>&#x02212;</sup> subset, purity was &#x0003e;99% (<italic>n</italic>&#x000a0;=&#x000a0;4; MDS patient 8, 30, and 31, NBM 1). For the CD45lowSSClowCD34<sup>+</sup>CD38<sup>&#x02212;</sup>CLEC12A<sup>+</sup> subset, purity was 91&#x000b7;3% (<italic>n</italic>&#x000a0;=&#x000a0;1; MDS patient 30).</p></sec><sec id="bjh14270-sec-0006"><title>Long&#x02010;term colony initiating cell assay</title><p>Fluorescence activated cell sorted subsets were seeded in up to four replicates in 96&#x02010;well collagen&#x02010;coated plates and cultured on irradiated (80 Gy) M2&#x02010;10B4 stromal feeder cells (American Type Culture Collection [ATCC], Manassas, VA, USA) in MyeloCult H5100 medium (StemCell Technologies, Vancouver, BC, Canada) supplemented with penicillin&#x02010;streptomycin (Gibco<sup>&#x000ae;</sup>, Thermo Fischer Scientific Inc., Waltham, MA, USA) and 10<sup>&#x02212;6</sup>&#x000a0;mol/l hydrocortisone 21&#x02010;hemisuccinate (StemCell Technologies) with weekly half&#x02010;change of medium. After 6&#x000a0;weeks of co&#x02010;culture, cells were harvested and transferred to MethoCult H4435 (StemCell Technologies) for an additional 2&#x000a0;weeks. CFCs were counted and scored for multi&#x02010;lineage (colony&#x02010;forming unit&#x02010;granulocyte/erythroid/macrophage/megakaryocyte (CFU&#x02010;GEMM)); erythroid (burst&#x02010;forming unit &#x02010; erythrocyte (BFU&#x02010;E)) and myeloid morphology [colony&#x02010;forming unit &#x02010; granulocyte (CFU&#x02010;G), colony&#x02010;forming unit &#x02010; macrophage (CFU&#x02010;M) and colony&#x02010;forming unit &#x02010; granulocyte/macrophage (CFU&#x02010;GM)]. Ten colonies from each subset of the originally seeded cells were individually picked and cytospun onto poly&#x02010;L&#x02010;lysine coated slides (Thermo Fischer Scientific Inc., Waltham, MA, USA) and allowed to air&#x02010;dry for subsequent FISH analyses.</p></sec><sec id="bjh14270-sec-0007"><title>Interphase fluorescence in&#x000a0;situ hybridization</title><p>FISH analyses were done according to manufacturer's instructions except that all slides containing the cells were pre&#x02010;treated with pepsin for 3&#x000b7;5&#x000a0;min (Histology FISH accessory kit, DAKO, Glostrup, Denmark). The following locus&#x02010;specific directly fluorescent&#x02010;labelled probe set were used: 7pter; D8Z1 (Kreatech, Amsterdam, The Netherlands); MYC split apart probe (DAKO); D1Z5; LSI EGR1/D5S23,D5S721 and LSI ELN/D7S486,D7S522 (Abbott Molecular, Weissbaden, Germany). To estimate the number of FISH&#x02010;positive cells, a median of 100 interphase nuclei were evaluated (range 3&#x02013;100) by two independent observers. Imaging was done as described by Kjeldsen and Roug (<xref rid="bjh14270-bib-0008" ref-type="ref">2012</xref>). Cytospin slides of CFCs from NBM served as negative controls for each of the specific probes used.</p></sec><sec id="bjh14270-sec-0008"><title>Statistical analyses</title><p>All calculations and statistical analyses were conducted with the use of GraphPad Prism version 6 (GraphPad Software, La Jolla, CA, USA). The Mann&#x02010;Whitney test was used to compare the level of CD34<sup>+</sup>CD38<sup>&#x02212;</sup>CLEC12A<sup>+</sup> in untreated MDS BM to NMB and AML BM. Kaplan&#x02010;Meier estimates, together with the log&#x02010;rank test were used to study the impact of a detectable fraction of CLEC12A+ cells in the CD34<sup>+</sup>CD38<sup>&#x02212;</sup> cell compartment on overall survival (OS) and AML&#x02010;free survival. OS was calculated from the sampling date to the date of death by any cause. AML&#x02010;free survival was calculated from the sampling date to the date of progression to AML or death by any cause. <italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0&#x000b7;05 was considered significant.</p></sec></sec><sec id="bjh14270-sec-0009"><title>Results</title><sec id="bjh14270-sec-0010"><title>Demographic data</title><p>The median age of the MDS patients was 69&#x000a0;years (range 29&#x02013;83&#x000a0;years) at the time of sampling. The MDS subtype according to the 2008 WHO Classification, karyotype, IPSS&#x02010;R risk group as well as AML&#x02010;free survival are depicted in Table&#x000a0;<xref rid="bjh14270-tbl-0001" ref-type="table-wrap">1</xref>. As evident herein, all subtypes of MDS were represented and the patients were distributed across all IPSS&#x02010;R risk groups. Seventeen patients (55%) presented with a normal karyotype, which is in accordance with the literature (Bejar &#x00026; Steensma, <xref rid="bjh14270-bib-0002" ref-type="ref">2014</xref>).</p><table-wrap id="bjh14270-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Patient characteristics</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Patient no.</th><th align="left" valign="bottom" rowspan="1" colspan="1">WHO subtype</th><th align="left" valign="bottom" rowspan="1" colspan="1">Clonal chromosomal abnormalities detected</th><th align="left" valign="bottom" rowspan="1" colspan="1">IPSS&#x02010;R Risk group</th><th align="left" valign="bottom" rowspan="1" colspan="1">CD34<sup>+</sup>CD38<sup>&#x02212;</sup>CLEC12A<sup>+</sup>/ CD34<sup>+</sup>CD38<sup>&#x02212;</sup>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">AML&#x02010;free survival (d)</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">RAEB&#x02010;1</td><td align="left" rowspan="1" colspan="1">No aberrations</td><td align="left" rowspan="1" colspan="1">LOW</td><td align="left" rowspan="1" colspan="1">0%</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">RAEB&#x02010;1</td><td align="left" rowspan="1" colspan="1">No aberrations</td><td align="left" rowspan="1" colspan="1">INT</td><td align="left" rowspan="1" colspan="1">0%</td><td align="left" rowspan="1" colspan="1">605</td></tr><tr><td align="left" rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">RCMD</td><td align="left" rowspan="1" colspan="1">No aberrations</td><td align="left" rowspan="1" colspan="1">V&#x02010;LOW</td><td align="left" rowspan="1" colspan="1">0%</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">4</td><td align="left" rowspan="1" colspan="1">RCUD</td><td align="left" rowspan="1" colspan="1">+8</td><td align="left" rowspan="1" colspan="1">LOW</td><td align="left" rowspan="1" colspan="1">37&#x000b7;9%</td><td align="left" rowspan="1" colspan="1">1169</td></tr><tr><td align="left" rowspan="1" colspan="1">5</td><td align="left" rowspan="1" colspan="1">RAEB&#x02010;1</td><td align="left" rowspan="1" colspan="1">inv(3)(p12q26)</td><td align="left" rowspan="1" colspan="1">V&#x02010;HIGH</td><td align="left" rowspan="1" colspan="1">6&#x000b7;3%</td><td align="left" rowspan="1" colspan="1">583</td></tr><tr><td align="left" rowspan="1" colspan="1">6</td><td align="left" rowspan="1" colspan="1">RAEB&#x02010;1</td><td align="left" rowspan="1" colspan="1">No aberrations</td><td align="left" rowspan="1" colspan="1">INT</td><td align="left" rowspan="1" colspan="1">56&#x000b7;7%</td><td align="left" rowspan="1" colspan="1">16</td></tr><tr><td align="left" rowspan="1" colspan="1">7</td><td align="left" rowspan="1" colspan="1">RCUD</td><td align="left" rowspan="1" colspan="1">Complex</td><td align="left" rowspan="1" colspan="1">INT</td><td align="left" rowspan="1" colspan="1">0%</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">8</td><td align="left" rowspan="1" colspan="1">RAEB&#x02010;1</td><td align="left" rowspan="1" colspan="1">+del(1)(p13), +8</td><td align="left" rowspan="1" colspan="1">INT</td><td align="left" rowspan="1" colspan="1">1&#x000b7;5%</td><td align="left" rowspan="1" colspan="1">658</td></tr><tr><td align="left" rowspan="1" colspan="1">9</td><td align="left" rowspan="1" colspan="1">RCUD</td><td align="left" rowspan="1" colspan="1">No aberrations</td><td align="left" rowspan="1" colspan="1">V&#x02010;LOW</td><td align="left" rowspan="1" colspan="1">17&#x000b7;4%</td><td align="left" rowspan="1" colspan="1">154</td></tr><tr><td align="left" rowspan="1" colspan="1">10</td><td align="left" rowspan="1" colspan="1">NA<xref ref-type="fn" rid="bjh14270-note-0002">a</xref>
+</td><td align="left" rowspan="1" colspan="1">ND</td><td align="left" rowspan="1" colspan="1">NA</td><td align="left" rowspan="1" colspan="1">1&#x000b7;8%</td><td align="left" rowspan="1" colspan="1">713</td></tr><tr><td align="left" rowspan="1" colspan="1">11</td><td align="left" rowspan="1" colspan="1">Hypo RCUD</td><td align="left" rowspan="1" colspan="1">No aberrations</td><td align="left" rowspan="1" colspan="1">LOW</td><td align="left" rowspan="1" colspan="1">4&#x000b7;1%</td><td align="left" rowspan="1" colspan="1">91</td></tr><tr><td align="left" rowspan="1" colspan="1">12</td><td align="left" rowspan="1" colspan="1">RAEB&#x02010;1</td><td align="left" rowspan="1" colspan="1">No aberrations</td><td align="left" rowspan="1" colspan="1">HIGH</td><td align="left" rowspan="1" colspan="1">0%</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">13</td><td align="left" rowspan="1" colspan="1">RAEB&#x02010;1</td><td align="left" rowspan="1" colspan="1">No aberrations</td><td align="left" rowspan="1" colspan="1">INT</td><td align="left" rowspan="1" colspan="1">6&#x000b7;4%</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">14</td><td align="left" rowspan="1" colspan="1">RCUD</td><td align="left" rowspan="1" colspan="1">&#x02010;X</td><td align="left" rowspan="1" colspan="1">INT</td><td align="left" rowspan="1" colspan="1">22&#x000b7;6%</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">15</td><td align="left" rowspan="1" colspan="1">RCUD</td><td align="left" rowspan="1" colspan="1">No aberrations</td><td align="left" rowspan="1" colspan="1">LOW</td><td align="left" rowspan="1" colspan="1">11&#x000b7;6%</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">16</td><td align="left" rowspan="1" colspan="1">RCUD</td><td align="left" rowspan="1" colspan="1">No aberrations</td><td align="left" rowspan="1" colspan="1">V&#x02010;LOW</td><td align="left" rowspan="1" colspan="1">14&#x000b7;7%</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">17</td><td align="left" rowspan="1" colspan="1">RARS</td><td align="left" rowspan="1" colspan="1">No aberrations</td><td align="left" rowspan="1" colspan="1">LOW</td><td align="left" rowspan="1" colspan="1">0%</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">18</td><td align="left" rowspan="1" colspan="1">MDS&#x02010;U</td><td align="left" rowspan="1" colspan="1">No aberrations</td><td align="left" rowspan="1" colspan="1">LOW</td><td align="left" rowspan="1" colspan="1">3&#x000b7;2%</td><td align="left" rowspan="1" colspan="1">210</td></tr><tr><td align="left" rowspan="1" colspan="1">19</td><td align="left" rowspan="1" colspan="1">RAEB&#x02010;2</td><td align="left" rowspan="1" colspan="1">No aberrations</td><td align="left" rowspan="1" colspan="1">HIGH</td><td align="left" rowspan="1" colspan="1">4&#x000b7;3%</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">20</td><td align="left" rowspan="1" colspan="1">RCUD</td><td align="left" rowspan="1" colspan="1">del(15)(q22q26)</td><td align="left" rowspan="1" colspan="1">HIGH</td><td align="left" rowspan="1" colspan="1">5&#x000b7;6%</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">21</td><td align="left" rowspan="1" colspan="1">RAEB&#x02010;2</td><td align="left" rowspan="1" colspan="1">Complex, incl. del(5q)(q13q33),&#x02010;7</td><td align="left" rowspan="1" colspan="1">V&#x02010;HIGH</td><td align="left" rowspan="1" colspan="1">0&#x000b7;6%</td><td align="left" rowspan="1" colspan="1">55</td></tr><tr><td align="left" rowspan="1" colspan="1">22</td><td align="left" rowspan="1" colspan="1">RCUD</td><td align="left" rowspan="1" colspan="1">&#x02010;7</td><td align="left" rowspan="1" colspan="1">INT</td><td align="left" rowspan="1" colspan="1">5&#x000b7;6%</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">23</td><td align="left" rowspan="1" colspan="1">RCUD</td><td align="left" rowspan="1" colspan="1">No aberrations</td><td align="left" rowspan="1" colspan="1">LOW</td><td align="left" rowspan="1" colspan="1">1&#x000b7;2%</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">24</td><td align="left" rowspan="1" colspan="1">RCUD</td><td align="left" rowspan="1" colspan="1">No aberrations</td><td align="left" rowspan="1" colspan="1">V&#x02010;LOW</td><td align="left" rowspan="1" colspan="1">6&#x000b7;8%</td><td align="left" rowspan="1" colspan="1">405</td></tr><tr><td align="left" rowspan="1" colspan="1">25</td><td align="left" rowspan="1" colspan="1">MDS&#x02010;U</td><td align="left" rowspan="1" colspan="1">+mar</td><td align="left" rowspan="1" colspan="1">LOW</td><td align="left" rowspan="1" colspan="1">0%</td><td align="left" rowspan="1" colspan="1">670</td></tr><tr><td align="left" rowspan="1" colspan="1">26</td><td align="left" rowspan="1" colspan="1">RCUD</td><td align="left" rowspan="1" colspan="1">No aberrations</td><td align="left" rowspan="1" colspan="1">INT</td><td align="left" rowspan="1" colspan="1">0%</td><td align="left" rowspan="1" colspan="1">554</td></tr><tr><td align="left" rowspan="1" colspan="1">27</td><td align="left" rowspan="1" colspan="1">RCUD</td><td align="left" rowspan="1" colspan="1">&#x02010;Y</td><td align="left" rowspan="1" colspan="1">V&#x02010;LOW</td><td align="left" rowspan="1" colspan="1">0%</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">28</td><td align="left" rowspan="1" colspan="1">RCUD</td><td align="left" rowspan="1" colspan="1">No aberrations</td><td align="left" rowspan="1" colspan="1">V&#x02010;LOW</td><td align="left" rowspan="1" colspan="1">7&#x000b7;4%</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">29</td><td align="left" rowspan="1" colspan="1">RCUD</td><td align="left" rowspan="1" colspan="1">+8</td><td align="left" rowspan="1" colspan="1">INT</td><td align="left" rowspan="1" colspan="1">12&#x000b7;0%</td><td align="left" rowspan="1" colspan="1">482</td></tr><tr><td align="left" rowspan="1" colspan="1">30</td><td align="left" rowspan="1" colspan="1">RCMD</td><td align="left" rowspan="1" colspan="1">Complex, incl. &#x02010;5, &#x02010;7</td><td align="left" rowspan="1" colspan="1">NA<xref ref-type="fn" rid="bjh14270-note-0002">a</xref>
+</td><td align="left" rowspan="1" colspan="1">17&#x000b7;4%</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">31</td><td align="left" rowspan="1" colspan="1">Del(5q)</td><td align="left" rowspan="1" colspan="1">del(5)(q13q31)</td><td align="left" rowspan="1" colspan="1">INT</td><td align="left" rowspan="1" colspan="1">0&#x000b7;1%</td><td align="left" rowspan="1" colspan="1"/></tr></tbody></table><table-wrap-foot><fn id="bjh14270-note-0001"><p>AML, acute myeloid leukaemia; INT, intermediate; IPSS&#x02010;R, Revised International Prognostic Scoring System; MDS&#x02010;U, myelodysplastic syndrome &#x02013; unclassified; NA, not applicable; ND, not done; RAEB&#x02010;1, refractory anaemia with excess blasts type 1; RAEB&#x02010;2, refractory anaemia with excess blasts type 2; RARS, refractory anaemia with ringed sideroblasts; RCMD, refractory cytopenia with multilineage dysplasia; RCUD, refractory cytopenia with unilineage dysplasia; V&#x02010;HIGH, Very High; V&#x02010;LOW, Very Low; WHO, World Health Organization.</p></fn><fn id="bjh14270-note-0002"><label>a</label><p>Insufficient material for complete morphological evaluation.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec id="bjh14270-sec-0011"><title>CLEC12A is aberrantly expressed on the MDS stem cell subset</title><p>We initially set out to determine the immunophenotypic profile of the stem cell subset CD45lowCD34<sup>+</sup>CD38<sup>&#x02212;</sup> with regards to co&#x02010;expression of CLEC12A. The gating strategy for the assay is depicted in Fig&#x000a0;<xref rid="bjh14270-fig-0001" ref-type="fig">1</xref>A. Consistent with previous findings (van Rhenen <italic>et&#x000a0;al</italic>, <xref rid="bjh14270-bib-0019" ref-type="ref">2007a</xref>), CLEC12A was completely absent on the CD34<sup>+</sup>CD38<sup>&#x02212;</sup> cell compartment in all of the 19 NBM examined (0&#x000b7;0%). In contrast, we found CLEC12A to be aberrantly expressed on the CD34<sup>+</sup>CD38<sup>&#x02212;</sup> cell subset in 71% (22/31) of MDS cases. In myeloid neoplasms, the presence of several malignant subclones and evidence of clonal evolution during the course of disease have been studied by several groups (Fialkow <italic>et&#x000a0;al</italic>, <xref rid="bjh14270-bib-0004" ref-type="ref">1991</xref>; Walter <italic>et&#x000a0;al</italic>, <xref rid="bjh14270-bib-0028" ref-type="ref">2012</xref>). Thus, we found it appealing to investigate the aberrant CD34<sup>+</sup>CD38<sup>&#x02212;</sup>CLEC12A<sup>+</sup> subset as a fraction of the immature CD34<sup>+</sup>CD38<sup>&#x02212;</sup> cells. Applying this method, the median percentage of aberrant cells as a fraction of the CD34<sup>+</sup>CD38<sup>&#x02212;</sup> subset was 4&#x000b7;1% (range 0&#x000b7;0&#x02013;56&#x000b7;7%), which was significantly different from NBM (<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0&#x000b7;0001).</p><fig fig-type="Figure" xml:lang="en" id="bjh14270-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>
+<styled-content style="fixed-case">CLEC</styled-content>12A expression on the <styled-content style="fixed-case">CD</styled-content>34<sup>+</sup>
+<styled-content style="fixed-case">CD</styled-content>38<sup>&#x02212;</sup> stem cell subset. (A) Gating strategy (<styled-content style="fixed-case">MDS</styled-content> Patient 9). In the first panel, the <styled-content style="fixed-case">CD</styled-content>45low/<styled-content style="fixed-case">SSC</styled-content>low population was defined. Next, the <styled-content style="fixed-case">CD</styled-content>34<sup>+</sup>
+<styled-content style="fixed-case">CD</styled-content>38<sup>&#x02212;</sup> population was gated and analysed for the presence/absence of <styled-content style="fixed-case">CLEC</styled-content>12A. The last panel shows the <styled-content style="fixed-case">CD</styled-content>34<sup>+</sup>
+<styled-content style="fixed-case">CD</styled-content>38<sup>&#x02212;</sup>
+<styled-content style="fixed-case">CLEC</styled-content>12A<sup>+</sup> population back&#x02010;gated into the <styled-content style="fixed-case">CD</styled-content>34<sup>+</sup>
+<styled-content style="fixed-case">CD</styled-content>38<sup>&#x02212;</sup> plot. (B) <styled-content style="fixed-case">CLEC</styled-content>12A expression on the <styled-content style="fixed-case">CD</styled-content>34<sup>+</sup>
+<styled-content style="fixed-case">CD</styled-content>38<sup>&#x02212;</sup> cell subset in normal bone marrow (<styled-content style="fixed-case">NBM</styled-content>), myelodysplastic syndrome (<styled-content style="fixed-case">MDS</styled-content>), <styled-content style="fixed-case">CD</styled-content>34&#x02010;positive (<styled-content style="fixed-case">CD</styled-content>34<sup>+</sup>) acute myeloid leukaemia (<styled-content style="fixed-case">AML</styled-content>) and <styled-content style="fixed-case">CD</styled-content>34&#x02010;negative (<styled-content style="fixed-case">CD</styled-content>34<sup>&#x02212;</sup>) <styled-content style="fixed-case">AML</styled-content>, respectively. (C) <styled-content style="fixed-case">CLEC</styled-content>12A expression on the <styled-content style="fixed-case">CD</styled-content>34<sup>+</sup>
+<styled-content style="fixed-case">CD</styled-content>38<sup>&#x02212;</sup> cell subset according to <styled-content style="fixed-case">IPSS</styled-content>&#x02010;R risk groups. Filled symbols indicate later progression to <styled-content style="fixed-case">AML</styled-content>.</p></caption><graphic id="nlm-graphic-1" xlink:href="BJH-175-393-g001"/></fig><p>Similarly, for the AML control samples, we determined the fractions of the CLEC12A<sup>+</sup> subsets as a percentage of the CD34<sup>+</sup>CD38<sup>&#x02212;</sup> subset. In CD34&#x02010;positive AML (<italic>n</italic>&#x000a0;=&#x000a0;21) (defined as &#x0003e;2% CD34<sup>+</sup> cells of the blast population), the percentage of CLEC12A&#x02010;positive CD34<sup>+</sup>CD38<sup>&#x02212;</sup> cells amounted a median of 13&#x000b7;1% (range 0&#x000b7;0&#x02013;58&#x000b7;9%), which was significantly different from NBM (<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0&#x000b7;0001), but not from MDS BM (<italic>P</italic>&#x000a0;=&#x000a0;0&#x000b7;08) (Fig&#x000a0;<xref rid="bjh14270-fig-0001" ref-type="fig">1</xref>B). In BM samples with a detectable CLEC12A<sup>+</sup> fraction of the CD34<sup>+</sup>CD38<sup>&#x02212;</sup> cells, there was no significant difference in median fluorescence intensity of CLEC12A between CD34&#x02010;positive AML and MDS (<italic>P</italic>&#x000a0;=&#x000a0;0&#x000b7;12). As expected, expression of CLEC12A was not found on the CD34<sup>+</sup>CD38<sup>&#x02212;</sup> cells in CD34&#x02010;negative AML (<italic>n</italic>&#x000a0;=&#x000a0;6) (Fig&#x000a0;<xref rid="bjh14270-fig-0001" ref-type="fig">1</xref>B). Hence, although with a p&#x02010;value approaching significance in favour of a higher amount of CLEC12A expressing CD34<sup>+</sup>CD38<sup>&#x02212;</sup> cells in CD34<sup>+</sup> AML, in our cohort the level of this particular cell subset is seemingly comparable in MDS and CD34<sup>+</sup> AML. When we evaluated the expression of CLEC12A on the CD34<sup>+</sup>CD38<sup>&#x02212;</sup> compartment across IPPS&#x02010;R risk groups, we found it to be present in all of these and thus not restricted to cases with excess blasts or high&#x02010;risk MDS (Fig&#x000a0;<xref rid="bjh14270-fig-0001" ref-type="fig">1</xref>C).</p><p>Collectively, the immunophenotypic data support the hypothesis of CLEC12A as an aberrantly expressed marker on the stem cell subset in MDS. Furthermore, this finding was not restricted to high risk MDS or MDS with excess blasts, as could be surmised from the established fact of CLEC12A as a marker of blasts and LSCs in AML, suggesting a role for this marker in the broad spectrum of myelodysplastic disorders.</p></sec><sec id="bjh14270-sec-0012"><title>The CD34<sup>+</sup>CD38<sup>&#x02212;</sup>CLEC12A<sup>+</sup> cells are malignant and possess self&#x02010;renewal potential</title><p>While the above&#x02010;described data clearly infers that CLEC12A can be expressed on stem cells in MDS, this does not constitute definite evidence of the functional stem cell properties or the malignancy of these particular cells. Primary human MDS cells grow poorly in most mouse models and highly specific and genetically engineered mouse models are required to study human MDS in the xenograft setting (Zhou <italic>et&#x000a0;al</italic>, <xref rid="bjh14270-bib-0031" ref-type="ref">2015</xref>). Consequently, to functionally assess the self&#x02010;renewal potential of both the CLEC12A positive CD34<sup>+</sup>CD38<sup>&#x02212;</sup> cells and the CD34<sup>+</sup>CD38<sup>&#x02212;</sup> cells lacking CLEC12A expression, four MDS patients with known clonal cytogenetic abnormalities were selected for studies in the LTC&#x02010;IC assay. The cytogenetic abnormalities of the patients are depicted in Table&#x000a0;<xref rid="bjh14270-tbl-0002" ref-type="table-wrap">2</xref> together with the number of seeded cells from each sorted cell subset, CFC counts and origin (erythroid/myeloid), and FISH results.</p><table-wrap id="bjh14270-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Results from LTC&#x02010;IC and subsequent FISH analyses</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" valign="bottom" colspan="1">Patient</th><th align="left" rowspan="2" valign="bottom" colspan="1">Targeted chromosomal aberrations (FISH probe locus)</th><th align="left" rowspan="2" valign="bottom" colspan="1">Sorted subsets</th><th align="left" rowspan="2" valign="bottom" colspan="1">Seeded in LTC&#x02010;IC</th><th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">CFC count<xref ref-type="fn" rid="bjh14270-note-0004">a</xref>
+</th><th align="left" rowspan="2" valign="bottom" colspan="1">FISH positivity</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Erythroid</th><th align="left" valign="bottom" rowspan="1" colspan="1">Myeloid</th></tr></thead><tbody><tr><td align="left" rowspan="2" colspan="1">MDS 8</td><td align="left" rowspan="2" colspan="1">+1q (CEP1) and +8 (SE8)</td><td align="left" rowspan="1" colspan="1">CD34<sup>+</sup>CD38<sup>&#x02212;</sup>CLEC12A<sup>+</sup>
+</td><td align="left" rowspan="1" colspan="1">19</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">24</td><td align="left" rowspan="1" colspan="1">10/10 (100%)</td></tr><tr><td align="left" rowspan="1" colspan="1">CD34<sup>+</sup>CD38<sup>&#x02212;</sup>CLEC12A<sup>&#x02212;</sup>
+</td><td align="left" rowspan="1" colspan="1">500</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">410</td><td align="left" rowspan="1" colspan="1">10/10 (100%)</td></tr><tr><td align="left" rowspan="2" colspan="1">MDS 29</td><td align="left" rowspan="2" colspan="1">+8 (MYC)</td><td align="left" rowspan="1" colspan="1">CD34<sup>+</sup>CD38<sup>&#x02212;</sup>CLEC12A<sup>+</sup>
+</td><td align="left" rowspan="1" colspan="1">146</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">40</td><td align="left" rowspan="1" colspan="1">7/7 (100%)</td></tr><tr><td align="left" rowspan="1" colspan="1">CD34<sup>+</sup>CD38<sup>&#x02212;</sup>CLEC12A<sup>&#x02212;</sup>
+</td><td align="left" rowspan="1" colspan="1">500</td><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">34</td><td align="left" rowspan="1" colspan="1">2/10 (20%)<xref ref-type="fn" rid="bjh14270-note-0005">b</xref>
+</td></tr><tr><td align="left" rowspan="2" colspan="1">MDS 30</td><td align="left" rowspan="2" colspan="1">&#x02010;5 (EGR1) and &#x02010;7 (D7S486,D7S522)</td><td align="left" rowspan="1" colspan="1">CD34<sup>+</sup>CD38<sup>&#x02212;</sup>CLEC12A<sup>+</sup>
+</td><td align="left" rowspan="1" colspan="1">500</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">245</td><td align="left" rowspan="1" colspan="1">10/10 (100%)</td></tr><tr><td align="left" rowspan="1" colspan="1">CD34<sup>+</sup>CD38<sup>&#x02212;</sup>CLEC12A<sup>&#x02212;</sup>
+</td><td align="left" rowspan="1" colspan="1">500</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">438</td><td align="left" rowspan="1" colspan="1">10/10 (100%)</td></tr><tr><td align="left" rowspan="2" colspan="1">MDS 31</td><td align="left" rowspan="2" colspan="1">&#x02010;5 (EGR1)</td><td align="left" rowspan="1" colspan="1">CD34<sup>+</sup>CD38<sup>&#x02212;</sup>CLEC12A<sup>+</sup>
+</td><td align="left" rowspan="1" colspan="1">123</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">1<xref ref-type="fn" rid="bjh14270-note-0006">c</xref>
+</td><td align="left" rowspan="1" colspan="1">No cells</td></tr><tr><td align="left" rowspan="1" colspan="1">CD34<sup>+</sup>CD38<sup>&#x02212;</sup>CLEC12A<sup>&#x02212;</sup>
+</td><td align="left" rowspan="1" colspan="1">500</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">63</td><td align="left" rowspan="1" colspan="1">7/7 (100%)</td></tr><tr><td align="left" rowspan="1" colspan="1">NBM 1</td><td align="left" rowspan="1" colspan="1">(CEP1), (SE8)</td><td align="left" rowspan="1" colspan="1">CD34<sup>+</sup>CD38<sup>&#x02212;</sup>CLEC12A<sup>&#x02212;</sup>
+</td><td align="left" rowspan="1" colspan="1">500</td><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">19</td><td align="left" rowspan="1" colspan="1">No aberrations<xref ref-type="fn" rid="bjh14270-note-0008">e</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">NBM 2</td><td align="left" rowspan="1" colspan="1">(EGR1), (D7S486,D7S522)</td><td align="left" rowspan="1" colspan="1">CD34<sup>+</sup>CD38<sup>&#x02212;</sup>CLEC12A<sup>&#x02212;</sup>
+</td><td align="left" rowspan="1" colspan="1">500</td><td align="left" rowspan="1" colspan="1">4</td><td align="left" rowspan="1" colspan="1">28<xref ref-type="fn" rid="bjh14270-note-0007">d</xref>
+</td><td align="left" rowspan="1" colspan="1">No aberrations<xref ref-type="fn" rid="bjh14270-note-0008">e</xref>
+</td></tr></tbody></table><table-wrap-foot><fn id="bjh14270-note-0003"><p>CFC, colony&#x02010;forming cell; CFU&#x02010;GEMM, colony&#x02010;forming unit&#x02010;granulocyte/erythroid/macrophage/megakaryocyte; FISH, fluorescence in&#x000a0;situ hybridization; LTC&#x02010;IC, long&#x02010;term colony initiating cell assay; MDS, myelodysplastic syndrome; NBM, normal bone marrow.</p></fn><fn id="bjh14270-note-0004"><label>a</label><p>Mean CFC count of 2&#x02013;3 plates normalized to 500 cells, when &#x02265;500 cells originally seeded in LTC&#x02010;IC.</p></fn><fn id="bjh14270-note-0005"><label>b</label><p>FISH&#x02010;negative CFCs were morphologically normal.</p></fn><fn id="bjh14270-note-0006"><label>c</label><p>Scattered cells.</p></fn><fn id="bjh14270-note-0007"><label>d</label><p>In addition 1&#x000a0;CFU&#x02010;GEMM.</p></fn><fn id="bjh14270-note-0008"><label>e</label><p>NBM served as negative controls for all of the applied FISH&#x02010;probes.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><p>When we examined and harvested the single colonies derived from LTC&#x02010;IC, we observed that CFCs from MDS patients (both CLEC12A<sup>+</sup> and CLEC12A<sup>&#x02212;</sup> subsets) were morphologically abnormal and smaller than those from normal controls and were almost exclusively of non&#x02010;erythroid origin (Fig&#x000a0;<xref rid="bjh14270-fig-0002" ref-type="fig">2</xref>A and B). Interestingly, erythroid CFCs were never present in the CD34<sup>+</sup>CD38<sup>&#x02212;</sup>CLEC12A<sup>+</sup> subset in any of the 4 MDS patients studied in LTC&#x02010;IC. This is in line with the general perception of CLEC12A as a myeloid marker.</p><fig fig-type="Figure" xml:lang="en" id="bjh14270-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>
+<styled-content style="fixed-case">LTC</styled-content>&#x02010;<styled-content style="fixed-case">IC</styled-content> and confirmatory <styled-content style="fixed-case">FISH</styled-content>. (A) Representative colony&#x02010;forming cells (<styled-content style="fixed-case">CFC</styled-content>) from the <styled-content style="fixed-case">CD</styled-content>34<sup>+</sup>
+<styled-content style="fixed-case">CD</styled-content>38<sup>&#x02212;</sup>
+<styled-content style="fixed-case">CLEC</styled-content>12A<sup>+</sup> subset in <styled-content style="fixed-case">MDS</styled-content> Patient 30. The colony is smaller and contains fewer cells than myeloid colonies from normal bone marrow (<styled-content style="fixed-case">NBM</styled-content>). (B) Representative <styled-content style="fixed-case">CFC</styled-content> from <styled-content style="fixed-case">NBM</styled-content>. (C) Confirmatory fluorescence in&#x000a0;situ hybridization using the D1Z5 probe (red) and centromeric D8Z1 probe (green) confirming the trisomy 1 and 8 aberrations (<styled-content style="fixed-case">MDS</styled-content> Patient 8) in interphase nuclei (3R3G signal pattern) in a cell from the <styled-content style="fixed-case">CD</styled-content>34<sup>+</sup>
+<styled-content style="fixed-case">CD</styled-content>38<sup>&#x02212;</sup>
+<styled-content style="fixed-case">CLEC</styled-content>12A<sup>+</sup> and <styled-content style="fixed-case">CD</styled-content>34<sup>+</sup>
+<styled-content style="fixed-case">CD</styled-content>38<sup>&#x02212;</sup>
+<styled-content style="fixed-case">CLEC</styled-content>12A<sup>&#x02212;</sup> derived colonies, respectively.</p></caption><graphic id="nlm-graphic-3" xlink:href="BJH-175-393-g002"/></fig><p>In all harvested colonies analysed by FISH, 100% of CFCs from the CD34<sup>+</sup>CD38<sup>&#x02212;</sup>CLEC12A<sup>+</sup> subsets were of malignant origin as evidenced by the presence of specific cytogenetic aberrancies (Table&#x000a0;<xref rid="bjh14270-tbl-0002" ref-type="table-wrap">2</xref>). Interestingly, for MDS Patient 29, CFCs from the CD34<sup>+</sup>CD38<sup>&#x02212;</sup>CLEC12A<sup>&#x02212;</sup> subset were a mixture of the aforementioned abnormal small colonies and morphologically normal CFCs. This observation was supported by and in accordance with the FISH results because the small abnormal CFCs were positive for trisomy 8 and the morphologically normal CFCs presented with a normal karyotype (Table&#x000a0;<xref rid="bjh14270-tbl-0002" ref-type="table-wrap">2</xref>). In the remaining samples examined in LTC&#x02010;IC, CFCs originating from the CD34<sup>+</sup>CD38<sup>&#x02212;</sup>CLEC12A<sup>&#x02212;</sup> subsets were also 100% malignant when cytogenetically evaluated by FISH (Fig&#x000a0;<xref rid="bjh14270-fig-0002" ref-type="fig">2</xref>C). Overall, the data from the LTC&#x02010;IC studies showed the CD34<sup>+</sup>CD38<sup>&#x02212;</sup>CLEC12A<sup>+</sup> to possess self renewal properties and that these particular cells are 100% malignant when evaluated by FISH for known cytogenetic aberrancies, adding support to the concept of CLEC12A as a marker of malignant CSC subsets in MDS.</p></sec><sec id="bjh14270-sec-0013"><title>The presence of CD34<sup>+</sup>CD38<sup>&#x02212;</sup>CLEC12A<sup>+</sup> cells and survival</title><p>Given that CLEC12A was expressed on CD34<sup>+</sup>CD38<sup>&#x02212;</sup> cells across all IPSS&#x02010;R risk groups, we looked at the impact of these cell subsets on the clinical course of the patients studied. The median follow up time was 659&#x000a0;d (range 56&#x02013;2926&#x000a0;d). Progression to AML occurred in 45% (14/31) of cases, and 79% (11/14) of these had a detectable CD34<sup>+</sup>CD38<sup>&#x02212;</sup>CLEC12A<sup>+</sup> fraction at the time of sampling (Table&#x000a0;<xref rid="bjh14270-tbl-0001" ref-type="table-wrap">1</xref>). Survival analysis showed no correlation between the detection of CLEC12A expression on CD34<sup>+</sup>CD38<sup>&#x02212;</sup> cells and neither OS (<italic>P</italic>&#x000a0;=&#x000a0;0&#x000b7;50) nor AML&#x02010;free survival (<italic>P</italic>&#x000a0;=&#x000a0;0&#x000b7;12).</p></sec></sec><sec id="bjh14270-sec-0014"><title>Discussion</title><p>The present study showed that, as in AML, CLEC12A is present on the CD34<sup>+</sup>CD38<sup>&#x02212;</sup> cell compartment in the majority of the 31 MDS cases studied. Moreover, CLEC12A could be found expressed on a fraction of the CD34<sup>+</sup>CD38<sup>&#x02212;</sup> cells in all WHO subtypes of MDS and across the IPPS&#x02010;R risk groups. The percentage of CLEC12A<sup>+</sup> cells in the CD34<sup>+</sup>CD38<sup>&#x02212;</sup> compartment in MDS was comparable to the level found in CD34&#x02010;positive AML. Conversely, expression of CLEC12A was not found on the CD34<sup>+</sup>CD38<sup>&#x02212;</sup> cells in CD34&#x02010;negative AML, which is consistent with previous findings indicating that in CD34&#x02010;negative AML, the small fraction of CD34&#x02010;positive cells in most cases represents normal HSCs (van der Pol <italic>et&#x000a0;al</italic>, <xref rid="bjh14270-bib-0018" ref-type="ref">2003</xref>; Taussig <italic>et&#x000a0;al</italic>, <xref rid="bjh14270-bib-0023" ref-type="ref">2010</xref>). Furthermore, and importantly, we showed that the CD34<sup>+</sup>CD38<sup>&#x02212;</sup>CLEC12A<sup>+</sup> cells are indeed malignant and possess functional stem cell properties in terms of self&#x02010;renewal when evaluated in the LTC&#x02010;IC assay.</p><p>In AML, evidence of the ability of CLEC12A to distinguish between the LSC and its normal counterpart, the HSC, was, to a certain extent, raised by van Rhenen <italic>et&#x000a0;al</italic> (<xref rid="bjh14270-bib-0019" ref-type="ref">2007a</xref>,<xref rid="bjh14270-bib-0020" ref-type="ref">b</xref>), who showed that sorted CD34<sup>+</sup>CD38<sup>&#x02212;</sup>CLEC12A<sup>+</sup> cells were malignant by FISH, while the CD34<sup>+</sup>CD38<sup>&#x02212;</sup>CLEC12A<sup>&#x02212;</sup> cells&#x000a0;proved negative for the AML&#x02010;specific cytogenetic abnormalities. Furthermore, malignant engraftment of CD34<sup>+</sup>CLEC12A<sup>+</sup> cells in non&#x02010;obese diabetic/severe combined immunodeficiency (NOD/SCID) mice was demonstrated. The immunophenotypic studies included patients with refractory anaemia with excess blasts (RAEB) and RAEB in transformation [defined by the French&#x02010;American&#x02010;British (FAB) classification (Bennett <italic>et&#x000a0;al</italic>, <xref rid="bjh14270-bib-0003" ref-type="ref">1982</xref>)], while the FISH analyses and the engraftment studies were done only on AML samples (van Rhenen <italic>et&#x000a0;al</italic>, <xref rid="bjh14270-bib-0019" ref-type="ref">2007a</xref>,<xref rid="bjh14270-bib-0020" ref-type="ref">b</xref>). Thus, to the best of our knowledge, functional studies of CLEC12A as a marker of CSCs in MDS have not been performed up until now. In the present study, we have corroborated the immunophenotypic findings of van Rhenen <italic>et&#x000a0;al</italic> (<xref rid="bjh14270-bib-0019" ref-type="ref">2007a</xref>,<xref rid="bjh14270-bib-0020" ref-type="ref">b</xref>) by confirming the possible aberrant expression of CLEC12A on the CD34<sup>+</sup>CD38<sup>&#x02212;</sup> stem cell subset from MDS patients. In addition, we have extended these findings; firstly by demonstrating aberrant CD34<sup>+</sup>CD38<sup>&#x02212;</sup>CLEC12A<sup>+</sup> cells in all MDS subtypes defined by the current 2008 WHO classification and across all IPSS&#x02010;R risk groups, hence providing evidence that this phenomenon is not restricted to high&#x02010;risk MDS or MDS with excess blasts. This suggests CLEC12A to have an independent role as a CSC marker in MDS and not solely associated with AML, high&#x02010;risk MDS or MDS in transformation to AML. Secondly, by performing functional LTC&#x02010;IC studies, we observed notable differences between MDS and the previous findings in AML. As colonies derived from CD34<sup>+</sup>CD38<sup>&#x02212;</sup>CLEC12A<sup>&#x02212;</sup> cells were predominantly malignant, CLEC12A was not able to distinguish between normal HSCs and CSCs, which might reflect important differences in disease biology between the two disease entities. Whereas MDS has been shown to originate from the earliest haematopoietic stem cell (Lin&#x02010;CD34<sup>+</sup>CD38<sup>&#x02212;</sup>CD90<sup>+</sup>) (Woll <italic>et&#x000a0;al</italic>, <xref rid="bjh14270-bib-0029" ref-type="ref">2014</xref>), recent evidence suggest the majority of AML cases to propagate from more mature progenitors (Mora&#x02010;Jensen <italic>et&#x000a0;al</italic>, <xref rid="bjh14270-bib-0015" ref-type="ref">2015</xref>). Furthermore, in AML more than one LSC population can co&#x02010;exist in the same patient and be hierarchically ordered (Goardon <italic>et&#x000a0;al</italic>, <xref rid="bjh14270-bib-0006" ref-type="ref">2011</xref>). Speculatively, in MDS, CD34<sup>+</sup>CD38<sup>&#x02212;</sup>CLEC12A<sup>+</sup> cells could be a distinct CSC population downstream in a CSC hierarchy.</p><p>Our results from the LTC&#x02010;IC experiments therefore support the prevailing concept of MDS originating in the CD34<sup>+</sup>CD38<sup>&#x02212;</sup> subset. Interestingly, in the case of MDS Patient 29 only 20% of the CD34<sup>+</sup>CD38<sup>&#x02212;</sup>CLEC12A<sup>&#x02212;</sup> CFCs were trisomy 8 positive, indicating a relatively large proportion of remaining normal HSCs in the BM of this particular patient. In line with this finding, Woll <italic>et&#x000a0;al</italic> (<xref rid="bjh14270-bib-0029" ref-type="ref">2014</xref>) showed the frequency of Lin&#x02010;CD34<sup>+</sup>CD38<sup>&#x02212;</sup>CD90<sup>+</sup> cells harbouring the trisomy 8 aberration to be &#x0003c; 80%, while for the 5q&#x02010; cases the stem cell compartment was almost entirely replaced by the malignant clone. Thus, our results also substantiate that residual normal HSCs &#x02010; if present &#x02010; are always contained in the CD34<sup>+</sup>CD38<sup>&#x02212;</sup>CLEC12A<sup>&#x02212;</sup> cell subset.</p><p>Importantly, given the complete absence of CLEC12A on normal CD34<sup>+</sup>CD38<sup>&#x02212;</sup> cells, evaluating CLEC12A expression on CD34<sup>+</sup>CD38<sup>&#x02212;</sup> cells might be a useful diagnostic tool in MDS, representing a &#x0201c;different from normal&#x0201d;&#x02010;approach. Diagnosis of MDS stays a challenge and our study shows that CD34<sup>+</sup>CD38<sup>&#x02212;</sup>CLEC12A<sup>+</sup> cells are also present in cases that are in the very low or low IPSS&#x02010;R risk groups. Thus, monitoring CLEC12A expression on the CD34<sup>+</sup>CD38<sup>&#x02212;</sup> compartment longitudinally in a cohort of ICUS patients could add important knowledge to the diagnostic value of this easily applicable flow cytometry&#x02010;based assay.</p><p>Several recent studies have investigated the intraclonal heterogeneity in various myeloid malignancies. Using whole genome sequencing of myeloblasts from secondary AML (sAML) with subsequent deep resequencing of paired skin, MDS and sAML samples, Walter <italic>et&#x000a0;al</italic> (<xref rid="bjh14270-bib-0028" ref-type="ref">2012</xref>) showed MDS and sAML to be highly oligoclonal with outgrowth of smaller MDS clones acquiring additional mutations at the time of progression to sAML. In addition, Lindsley <italic>et&#x000a0;al</italic> (<xref rid="bjh14270-bib-0011" ref-type="ref">2015</xref>) recently examined 17 paired MDS/sAML samples and found AML&#x02010;related mutations in myeloid transcription factor and signalling genes down to an allele frequency of 1% at the time of MDS (Lindsley <italic>et&#x000a0;al</italic>, <xref rid="bjh14270-bib-0011" ref-type="ref">2015</xref>). Thus, studying even minute fractions of stem cells with aberrant expression of, for example, CLEC12A by flow cytometry could be of high relevance considering this pronounced intraclonal diversity in the myelodysplastic neoplasm. In this regard, future studies are warranted to evaluate the possible genetic/epigenetic differences between the CD34<sup>+</sup>CD38<sup>&#x02212;</sup>CLEC12A<sup>+/&#x02212;</sup> subsets in MDS. One interesting approach would be studies to evaluate if CLEC12A positive CSCs are more prone to transformation to AML, e.g. through activated proliferative pathways and/or a different mutational status. Such studies might also shed light on a possible functional role of CLEC12A in myeloid neoplasms.</p><p>The most interesting hallmark of CLEC12A is its absence on the CD34<sup>+</sup>CD38<sup>&#x02212;</sup> cell subset from normal donors. Consequently, CLEC12A has been proposed as a potential target in the future treatment of AML because residual normal HSCs would be spared. Basic research is currently investigating different approaches in this regard: for example, Lu <italic>et&#x000a0;al</italic> (<xref rid="bjh14270-bib-0013" ref-type="ref">2014</xref>) developed a novel immunotherapeutic bispecific antibody for the recruitment of cytotoxic T&#x02010;cells to CLEC12A&#x02010;positive AML cells. As mentioned, our results show that CLEC12A does not have the potential of distinguishing CSCs from their normal counterparts in MDS. Despite this, the CD34<sup>+</sup>CD38<sup>&#x02212;</sup>CLEC12A<sup>+</sup> cells might represent a more proliferative subclone in the pool of malignant cells. Hence speculatively, targeting CLEC12A in MDS would not eradicate all malignant clones, but could theoretically target a potentially more aggressive subclone.</p></sec><sec id="bjh14270-sec-0016"><title>Authorship contributions</title><p>M.T.P., L.N. and A.S.R. designed the study, performed the experiments and analysed the data. M.T.P. wrote the manuscript with input and critical reviews from L.N., P.H., E.K. and A.S.R.. E.K. performed and analysed the FISH&#x02010;experiments. G.B.K. performed morphological examination of MDS BM samples. G.D.B. provided the anti&#x02010;CLEC12A hybridoma. All authors read and approved the final manuscript.</p></sec><sec id="bjh14270-sec-0017"><title>Disclosure of conflicts of interest</title><p>The authors declare no competing interests.</p></sec></body><back><ack id="bjh14270-sec-0015"><title>Acknowledgements</title><p>The authors would like to thank Petter S. Woll, MSc, PhD, Karolinska Institutet, Stockholm, Sweden, for the kind and generous supervision of the LTC&#x02010;IC experiments. We thank the FACS Core Facility at Aarhus University for access to the&#x000a0;cell sorter and Pia S. Kristensen, Department of Haematology, Aarhus University Hospital for her excellent technical assistance conducting the FISH experiments. The Karen Elise Jensen Foundation, The Meyer Foundation, The Wellcome Trust and the Danish Cancer Society supported the study.</p></ack><ref-list content-type="cited-references" id="bjh14270-bibl-0001"><title>References</title><ref id="bjh14270-bib-0001"><mixed-citation publication-type="journal" id="bjh14270-cit-0001">
+<string-name>
+<surname>Bakker</surname>, <given-names>A.B.H.</given-names>
+</string-name>, <string-name>
+<surname>van den Oudenrijn</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Bakker</surname>, <given-names>A.Q.</given-names>
+</string-name>, <string-name>
+<surname>Feller</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>van Meijer</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Bia</surname>, <given-names>J.A.</given-names>
+</string-name>, <string-name>
+<surname>Jongeneelen</surname>, <given-names>M.A.C.</given-names>
+</string-name>, <string-name>
+<surname>Visser</surname>, <given-names>T.J.</given-names>
+</string-name>, <string-name>
+<surname>Bijl</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Geuijen</surname>, <given-names>C.A.W.</given-names>
+</string-name>, <string-name>
+<surname>Marissen</surname>, <given-names>W.E.</given-names>
+</string-name>, <string-name>
+<surname>Radosevic</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Throsby</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Schuurhuis</surname>, <given-names>G.J.</given-names>
+</string-name>, <string-name>
+<surname>Ossenkoppele</surname>, <given-names>G.J.</given-names>
+</string-name>, <string-name>
+<surname>de Kruif</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Goudsmit</surname>, <given-names>J.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Kruisbeek</surname>, <given-names>A.M.</given-names>
+</string-name> (<year>2004</year>) <article-title>C&#x02010;type lectin&#x02010;like molecule&#x02010;1: a novel myeloid&#x000a0;cell surface marker associated with acute myeloid leukemia</article-title>. <source>Cancer Research</source>, <volume>64</volume>, <fpage>8443</fpage>&#x02013;<lpage>8450</lpage>.<pub-id pub-id-type="pmid">15548716</pub-id></mixed-citation></ref><ref id="bjh14270-bib-0002"><mixed-citation publication-type="journal" id="bjh14270-cit-0002">
+<string-name>
+<surname>Bejar</surname>, <given-names>R.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Steensma</surname>, <given-names>D.P.</given-names>
+</string-name> (<year>2014</year>) <article-title>Recent developments in myelodysplastic syndromes</article-title>. <source>Blood</source>, <volume>124</volume>, <fpage>2793</fpage>&#x02013;<lpage>2803</lpage>.<pub-id pub-id-type="pmid">25237199</pub-id></mixed-citation></ref><ref id="bjh14270-bib-0003"><mixed-citation publication-type="journal" id="bjh14270-cit-0003">
+<string-name>
+<surname>Bennett</surname>, <given-names>J.M.</given-names>
+</string-name>, <string-name>
+<surname>Catovsky</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Daniel</surname>, <given-names>M.T.</given-names>
+</string-name>, <string-name>
+<surname>Flandrin</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Galton</surname>, <given-names>D.A.</given-names>
+</string-name>, <string-name>
+<surname>Gralnick</surname>, <given-names>H.R.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Sultan</surname>, <given-names>C.</given-names>
+</string-name> (<year>1982</year>) <article-title>Proposals for the classification of the myelodysplastic syndromes</article-title>. <source>British Journal of Haematology</source>, <volume>51</volume>, <fpage>189</fpage>&#x02013;<lpage>199</lpage>.<pub-id pub-id-type="pmid">6952920</pub-id></mixed-citation></ref><ref id="bjh14270-bib-0004"><mixed-citation publication-type="journal" id="bjh14270-cit-0004">
+<string-name>
+<surname>Fialkow</surname>, <given-names>P.J.</given-names>
+</string-name>, <string-name>
+<surname>Janssen</surname>, <given-names>J.W.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Bartram</surname>, <given-names>C.R.</given-names>
+</string-name> (<year>1991</year>) <article-title>Clonal remissions in acute nonlymphocytic leukemia: evidence for a multistep pathogenesis of the malignancy</article-title>. <source>Blood</source>, <volume>77</volume>, <fpage>1415</fpage>&#x02013;<lpage>1417</lpage>.<pub-id pub-id-type="pmid">2009365</pub-id></mixed-citation></ref><ref id="bjh14270-bib-0005"><mixed-citation publication-type="journal" id="bjh14270-cit-0005">
+<string-name>
+<surname>Florian</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Sonneck</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Hauswirth</surname>, <given-names>A.W.</given-names>
+</string-name>, <string-name>
+<surname>Krauth</surname>, <given-names>M.&#x02010;T.</given-names>
+</string-name>, <string-name>
+<surname>Schernthaner</surname>, <given-names>G.&#x02010;H.</given-names>
+</string-name>, <string-name>
+<surname>Sperr</surname>, <given-names>W.R.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Valent</surname>, <given-names>P.</given-names>
+</string-name> (<year>2006</year>) <article-title>Detection of molecular targets on the surface of CD34<sup>+</sup>/CD38<sup>&#x02212;</sup> stem cells in various myeloid malignancies</article-title>. <source>Leukemia &#x00026; Lymphoma</source>, <volume>47</volume>, <fpage>207</fpage>&#x02013;<lpage>222</lpage>.<pub-id pub-id-type="pmid">16321850</pub-id></mixed-citation></ref><ref id="bjh14270-bib-0006"><mixed-citation publication-type="journal" id="bjh14270-cit-0006">
+<string-name>
+<surname>Goardon</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Marchi</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Atzberger</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Quek</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Schuh</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Soneji</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Woll</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Mead</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Alford</surname>, <given-names>K.A.</given-names>
+</string-name>, <string-name>
+<surname>Rout</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Chaudhury</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Gilkes</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Knapper</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Beldjord</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Begum</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Rose</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Geddes</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Griffiths</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Standen</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Sternberg</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Cavenagh</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Hunter</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Bowen</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Killick</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Robinson</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Price</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Macintyre</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Virgo</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Burnett</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Craddock</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Enver</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Jacobsen</surname>, <given-names>S.E.</given-names>
+</string-name>, <string-name>
+<surname>Porcher</surname>, <given-names>C.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Vyas</surname>, <given-names>P.</given-names>
+</string-name> (<year>2011</year>) <article-title>Coexistence of LMPP&#x02010;like and GMP&#x02010;like leukemia stem cells in acute myeloid leukemia</article-title>. <source>Cancer Cell</source>, <volume>19</volume>, <fpage>138</fpage>&#x02013;<lpage>152</lpage>.<pub-id pub-id-type="pmid">21251617</pub-id></mixed-citation></ref><ref id="bjh14270-bib-0007"><mixed-citation publication-type="journal" id="bjh14270-cit-0007">
+<string-name>
+<surname>Greenberg</surname>, <given-names>P.L.</given-names>
+</string-name>, <string-name>
+<surname>Tuechler</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Schanz</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Sanz</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Garcia&#x02010;Manero</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Sol&#x000e9;</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Bennett</surname>, <given-names>J.M.</given-names>
+</string-name>, <string-name>
+<surname>Bowen</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Fenaux</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Dreyfus</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Kantarjian</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Kuendgen</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Levis</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Malcovati</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Cazzola</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Cermak</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Fonatsch</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Le Beau</surname>, <given-names>M.M.</given-names>
+</string-name>, <string-name>
+<surname>Slovak</surname>, <given-names>M.L.</given-names>
+</string-name>, <string-name>
+<surname>Krieger</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Luebbert</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Maciejewski</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Magalhaes</surname>, <given-names>S.M.</given-names>
+</string-name>, <string-name>
+<surname>Miyazaki</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Pfeilst&#x000f6;cker</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Sekeres</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Sperr</surname>, <given-names>W.R.</given-names>
+</string-name>, <string-name>
+<surname>Stauder</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Tauro</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Valent</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Vallespi</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>van de Loosdrecht</surname>, <given-names>A.A.</given-names>
+</string-name>, <string-name>
+<surname>Germing</surname>, <given-names>U.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Haase</surname>, <given-names>D.</given-names>
+</string-name> (<year>2012</year>) <article-title>Revised international prognostic scoring system for myelodysplastic syndromes</article-title>. <source>Blood</source>, <volume>120</volume>, <fpage>2454</fpage>&#x02013;<lpage>2465</lpage>.<pub-id pub-id-type="pmid">22740453</pub-id></mixed-citation></ref><ref id="bjh14270-bib-0008"><mixed-citation publication-type="journal" id="bjh14270-cit-0008">
+<string-name>
+<surname>Kjeldsen</surname>, <given-names>E.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Roug</surname>, <given-names>A.S.</given-names>
+</string-name> (<year>2012</year>) <article-title>A novel unbalanced de novo translocation der(5)t(4;5)(q26;q21.1) in adult T&#x02010;cell precursor lymphoblastic leukemia</article-title>. <source>Molecular Cytogenetics</source>, <volume>5</volume>, <fpage>21</fpage>.<pub-id pub-id-type="pmid">22548894</pub-id></mixed-citation></ref><ref id="bjh14270-bib-0009"><mixed-citation publication-type="journal" id="bjh14270-cit-0009">
+<string-name>
+<surname>Larsen</surname>, <given-names>H.&#x000d8;.</given-names>
+</string-name>, <string-name>
+<surname>Roug</surname>, <given-names>A.S.</given-names>
+</string-name>, <string-name>
+<surname>Just</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Brown</surname>, <given-names>G.D.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Hokland</surname>, <given-names>P.</given-names>
+</string-name> (<year>2012</year>) <article-title>Expression of the hMICL in acute myeloid leukemia&#x02010;a highly reliable disease marker at diagnosis and during follow&#x02010;up</article-title>. <source>Cytometry. Part B</source>, <volume>82</volume>, <fpage>3</fpage>&#x02013;<lpage>8</lpage>.</mixed-citation></ref><ref id="bjh14270-bib-0010"><mixed-citation publication-type="journal" id="bjh14270-cit-0010">
+<string-name>
+<surname>Li</surname>, <given-names>L.J.</given-names>
+</string-name>, <string-name>
+<surname>Tao</surname>, <given-names>J.L.</given-names>
+</string-name>, <string-name>
+<surname>Fu</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>H.Q.</given-names>
+</string-name>, <string-name>
+<surname>Jiang</surname>, <given-names>H.J.</given-names>
+</string-name>, <string-name>
+<surname>Yue</surname>, <given-names>L.Z.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>H.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Shao</surname>, <given-names>Z.H.</given-names>
+</string-name> (<year>2014</year>) <article-title>Increased CD34(<sup>+</sup>)CD38 (<sup>&#x02212;</sup>)CD123 (<sup>+</sup>) cells in myelodysplastic syndrome displaying malignant features similar to those in AML</article-title>. <source> International Journal of Hematology</source>, <volume>100</volume>, <fpage>60</fpage>&#x02013;<lpage>69</lpage>.<pub-id pub-id-type="pmid">24846193</pub-id></mixed-citation></ref><ref id="bjh14270-bib-0011"><mixed-citation publication-type="journal" id="bjh14270-cit-0011">
+<string-name>
+<surname>Lindsley</surname>, <given-names>R.C.</given-names>
+</string-name>, <string-name>
+<surname>Mar</surname>, <given-names>B.G.</given-names>
+</string-name>, <string-name>
+<surname>Mazzola</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Grauman</surname>, <given-names>P.V.</given-names>
+</string-name>, <string-name>
+<surname>Shareef</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Allen</surname>, <given-names>S.L.</given-names>
+</string-name>, <string-name>
+<surname>Pigneux</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Wetzler</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Stuart</surname>, <given-names>R.K.</given-names>
+</string-name>, <string-name>
+<surname>Erba</surname>, <given-names>H.P.</given-names>
+</string-name>, <string-name>
+<surname>Damon</surname>, <given-names>L.E.</given-names>
+</string-name>, <string-name>
+<surname>Powell</surname>, <given-names>B.L.</given-names>
+</string-name>, <string-name>
+<surname>Lindeman</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Steensma</surname>, <given-names>D.P.</given-names>
+</string-name>, <string-name>
+<surname>Wadleigh</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>DeAngelo</surname>, <given-names>D.J.</given-names>
+</string-name>, <string-name>
+<surname>Neuberg</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Stone</surname>, <given-names>R.M.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Ebert</surname>, <given-names>B.L.</given-names>
+</string-name> (<year>2015</year>) <article-title>Acute myeloid leukemia ontogeny is defined by distinct somatic mutations</article-title>. <source>Blood</source>, <volume>125</volume>, <fpage>1367</fpage>&#x02013;<lpage>1376</lpage>.<pub-id pub-id-type="pmid">25550361</pub-id></mixed-citation></ref><ref id="bjh14270-bib-0012"><mixed-citation publication-type="journal" id="bjh14270-cit-0012">
+<string-name>
+<surname>van de Loosdrecht</surname>, <given-names>A.A.</given-names>
+</string-name>, <string-name>
+<surname>Westers</surname>, <given-names>T.M.</given-names>
+</string-name>, <string-name>
+<surname>Westra</surname>, <given-names>A.H.</given-names>
+</string-name>, <string-name>
+<surname>Dr&#x000e4;ger</surname>, <given-names>A.M.</given-names>
+</string-name>, <string-name>
+<surname>van der Velden</surname>, <given-names>V.H.J.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Ossenkoppele</surname>, <given-names>G.J.</given-names>
+</string-name> (<year>2008</year>) <article-title>Identification of distinct prognostic subgroups in low&#x02010; and intermediate&#x02010;1&#x02010;risk myelodysplastic syndromes by flow cytometry</article-title>. <source>Blood</source>, <volume>111</volume>, <fpage>1067</fpage>&#x02013;<lpage>1077</lpage>.<pub-id pub-id-type="pmid">17971483</pub-id></mixed-citation></ref><ref id="bjh14270-bib-0013"><mixed-citation publication-type="journal" id="bjh14270-cit-0013">
+<string-name>
+<surname>Lu</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>Deshmukh</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Phull</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Ma</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Tardif</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Naik</surname>, <given-names>R.R.</given-names>
+</string-name>, <string-name>
+<surname>Bouvard</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Choi</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Lawson</surname>, <given-names>B.R.</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>, <given-names>C.H.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Schultz</surname>, <given-names>P.G.</given-names>
+</string-name> (<year>2014</year>) <article-title>Targeting Human C&#x02010;Type Lectin&#x02010;Like Molecule&#x02010;1 (CLL1) with a Bispecific Antibody for Immunotherapy of Acute Myeloid Leukemia</article-title>. <source>Angewandte Chemie (International ed. in English)</source>, <volume>53</volume>, <fpage>9841</fpage>&#x02013;<lpage>9845</lpage>.<pub-id pub-id-type="pmid">25056598</pub-id></mixed-citation></ref><ref id="bjh14270-bib-0014"><mixed-citation publication-type="journal" id="bjh14270-cit-0014">
+<string-name>
+<surname>Marshall</surname>, <given-names>A.S.J.</given-names>
+</string-name>, <string-name>
+<surname>Willment</surname>, <given-names>J.A.</given-names>
+</string-name>, <string-name>
+<surname>Pyz</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Dennehy</surname>, <given-names>K.M.</given-names>
+</string-name>, <string-name>
+<surname>Reid</surname>, <given-names>D.M.</given-names>
+</string-name>, <string-name>
+<surname>Dri</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Gordon</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Wong</surname>, <given-names>S.Y.C.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Brown</surname>, <given-names>G.D.</given-names>
+</string-name> (<year>2006</year>) <article-title>Human MICL (CLEC12A) is differentially glycosylated and is&#x000a0;down&#x02010;regulated following cellular activation</article-title>.&#x000a0;<source>European Journal of Immunology</source>, <volume>36</volume>, <fpage>2159</fpage>&#x02013;<lpage>2169</lpage>.<pub-id pub-id-type="pmid">16838277</pub-id></mixed-citation></ref><ref id="bjh14270-bib-0015"><mixed-citation publication-type="journal" id="bjh14270-cit-0015">
+<string-name>
+<surname>Mora&#x02010;Jensen</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Jendholm</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Rapin</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Andersen</surname>, <given-names>M.K.</given-names>
+</string-name>, <string-name>
+<surname>Roug</surname>, <given-names>A.S.</given-names>
+</string-name>, <string-name>
+<surname>Bagger</surname>, <given-names>F.O.</given-names>
+</string-name>, <string-name>
+<surname>Bullinger</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Winther</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Borregaard</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Porse</surname>, <given-names>B.T.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Theilgaard&#x02010;M&#x000f6;nch</surname>, <given-names>K.</given-names>
+</string-name> (<year>2015</year>) <article-title>Cellular origin of prognostic chromosomal aberrations in AML patients</article-title>. <source>Leukemia</source>, <volume>29</volume>, <fpage>1785</fpage>&#x02013;<lpage>1789</lpage>.<pub-id pub-id-type="pmid">25670329</pub-id></mixed-citation></ref><ref id="bjh14270-bib-0016"><mixed-citation publication-type="journal" id="bjh14270-cit-0016">
+<string-name>
+<surname>Nilsson</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Ed&#x000e9;n</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Olsson</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>M&#x000e5;nsson</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Astrand&#x02010;Grundstr&#x000f6;m</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Str&#x000f6;mbeck</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Theilgaard&#x02010;M&#x000f6;nch</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Anderson</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Hast</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Hellstr&#x000f6;m&#x02010;Lindberg</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Samuelsson</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Bergh</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Nerlov</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Johansson</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Sigvardsson</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Borg</surname>, <given-names>A.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Jacobsen</surname>, <given-names>S.E.W.</given-names>
+</string-name> (<year>2007</year>) <article-title>The molecular signature of MDS stem cells supports a stem&#x02010;cell origin of 5q myelodysplastic syndromes</article-title>. <source>Blood</source>, <volume>110</volume>, <fpage>3005</fpage>&#x02013;<lpage>3014</lpage>.<pub-id pub-id-type="pmid">17616640</pub-id></mixed-citation></ref><ref id="bjh14270-bib-0017"><mixed-citation publication-type="journal" id="bjh14270-cit-0017">
+<string-name>
+<surname>Ogata</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Kishikawa</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Satoh</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Tamura</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Dan</surname>, <given-names>K.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Hayashi</surname>, <given-names>A.</given-names>
+</string-name> (<year>2006</year>) <article-title>Diagnostic application of flow cytometric characteristics of CD34<sup>+</sup> cells in low&#x02010;grade myelodysplastic syndromes</article-title>. <source>Blood</source>, <volume>108</volume>, <fpage>1037</fpage>&#x02013;<lpage>1044</lpage>.<pub-id pub-id-type="pmid">16574954</pub-id></mixed-citation></ref><ref id="bjh14270-bib-0018"><mixed-citation publication-type="journal" id="bjh14270-cit-0018">
+<string-name>
+<surname>van der Pol</surname>, <given-names>M.A.</given-names>
+</string-name>, <string-name>
+<surname>Feller</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Roseboom</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Moshaver</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Westra</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Broxterman</surname>, <given-names>H.J.</given-names>
+</string-name>, <string-name>
+<surname>Ossenkoppele</surname>, <given-names>G.J.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Schuurhuis</surname>, <given-names>G.J.</given-names>
+</string-name> (<year>2003</year>) <article-title>Assessment of the normal or leukemic nature of CD34<sup>+</sup> cells in acute myeloid leukemia with low percentages of CD34 cells</article-title>. <source>Haematologica</source>, <volume>88</volume>, <fpage>983</fpage>&#x02013;<lpage>993</lpage>.<pub-id pub-id-type="pmid">12969806</pub-id></mixed-citation></ref><ref id="bjh14270-bib-0019"><mixed-citation publication-type="journal" id="bjh14270-cit-0019">
+<string-name>
+<surname>van Rhenen</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Moshaver</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Kelder</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Feller</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Nieuwint</surname>, <given-names>A.W.M.</given-names>
+</string-name>, <string-name>
+<surname>Zweegman</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Ossenkoppele</surname>, <given-names>G.J.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Schuurhuis</surname>, <given-names>G.J.</given-names>
+</string-name> (<year>2007a</year>) <article-title>Aberrant marker expression patterns on the CD34<sup>+</sup>CD38<sup>&#x02212;</sup> stem cell compartment in acute myeloid leukemia allows to distinguish the malignant from the normal stem cell compartment both at diagnosis and in remission</article-title>. <source>Leukemia</source>, <volume>21</volume>, <fpage>1700</fpage>&#x02013;<lpage>1707</lpage>.<pub-id pub-id-type="pmid">17525725</pub-id></mixed-citation></ref><ref id="bjh14270-bib-0020"><mixed-citation publication-type="journal" id="bjh14270-cit-0020">
+<string-name>
+<surname>van Rhenen</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>van Dongen</surname>, <given-names>G.A.M.S.</given-names>
+</string-name>, <string-name>
+<surname>Kelder</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Rombouts</surname>, <given-names>E.J.</given-names>
+</string-name>, <string-name>
+<surname>Feller</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Moshaver</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Stigter&#x02010;van Walsum</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Zweegman</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Ossenkoppele</surname>, <given-names>G.J.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Jan Schuurhuis</surname>, <given-names>G.</given-names>
+</string-name> (<year>2007b</year>) <article-title>The novel AML stem cell associated antigen CLL&#x02010;1 aids in discrimination between normal and leukemic stem cells</article-title>. <source>Blood</source>, <volume>110</volume>, <fpage>2659</fpage>&#x02013;<lpage>2666</lpage>.<pub-id pub-id-type="pmid">17609428</pub-id></mixed-citation></ref><ref id="bjh14270-bib-0021"><mixed-citation publication-type="journal" id="bjh14270-cit-0021">
+<string-name>
+<surname>Roug</surname>, <given-names>A.S.</given-names>
+</string-name>, <string-name>
+<surname>Larsen</surname>, <given-names>H.&#x000d8;.</given-names>
+</string-name>, <string-name>
+<surname>Nederby</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Just</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Brown</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Nyvold</surname>, <given-names>C.G.</given-names>
+</string-name>, <string-name>
+<surname>Ommen</surname>, <given-names>H.B.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Hokland</surname>, <given-names>P.</given-names>
+</string-name> (<year>2014</year>) <article-title>hMICL and CD123 in combination with a CD45/CD34/CD117 backbone &#x02010; a universal marker combination for the detection of minimal residual disease in acute myeloid leukaemia</article-title>. <source>British Journal of Haematology</source>, <volume>164</volume>, <fpage>212</fpage>&#x02013;<lpage>222</lpage>.<pub-id pub-id-type="pmid">24152218</pub-id></mixed-citation></ref><ref id="bjh14270-bib-0022"><mixed-citation publication-type="book" id="bjh14270-cit-0022">
+<person-group person-group-type="editor"><name><surname>Swerdlow</surname><given-names>S.H.</given-names></name></person-group>, <person-group person-group-type="editor"><name><surname>Campo</surname><given-names>E.</given-names></name></person-group>, <person-group person-group-type="editor"><name><surname>Harris</surname><given-names>N.L.</given-names></name></person-group>, <person-group person-group-type="editor"><name><surname>Jaffe</surname><given-names>E.S.</given-names></name></person-group>, <person-group person-group-type="editor"><name><surname>Pileri</surname><given-names>S.A.</given-names></name></person-group> &#x00026; <person-group person-group-type="editor"><name><surname>Stein</surname><given-names>H.</given-names></name></person-group> (eds.) (<year>2008</year>) <source>WHO Classification of Tumours of Haematopoietic and Lymphoid Tissues</source>, <edition>4th edn</edition>
+<publisher-name>International Agency for Research on Cancer (IARC) Press, Lyon</publisher-name>, <publisher-loc>France</publisher-loc>.</mixed-citation></ref><ref id="bjh14270-bib-0023"><mixed-citation publication-type="journal" id="bjh14270-cit-0023">
+<string-name>
+<surname>Taussig</surname>, <given-names>D.C.</given-names>
+</string-name>, <string-name>
+<surname>Vargaftig</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Miraki&#x02010;Moud</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Griessinger</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Sharrock</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Luke</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Lillington</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Oakervee</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Cavenagh</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Agrawal</surname>, <given-names>S.G.</given-names>
+</string-name>, <string-name>
+<surname>Lister</surname>, <given-names>T.A.</given-names>
+</string-name>, <string-name>
+<surname>Gribben</surname>, <given-names>J.G.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Bonnet</surname>, <given-names>D.</given-names>
+</string-name> (<year>2010</year>) <article-title>Leukemia&#x02010;initiating cells from some acute myeloid leukemia patients with mutated nucleophosmin reside in the CD34(<sup>&#x02212;</sup>) fraction</article-title>. <source>Blood</source>, <volume>115</volume>, <fpage>1976</fpage>&#x02013;<lpage>1984</lpage>.<pub-id pub-id-type="pmid">20053758</pub-id></mixed-citation></ref><ref id="bjh14270-bib-0024"><mixed-citation publication-type="journal" id="bjh14270-cit-0024">
+<string-name>
+<surname>Tehranchi</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Woll</surname>, <given-names>P.S.</given-names>
+</string-name>, <string-name>
+<surname>Anderson</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Buza&#x02010;Vidas</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Mizukami</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Mead</surname>, <given-names>A.J.</given-names>
+</string-name>, <string-name>
+<surname>Astrand&#x02010;Grundstr&#x000f6;m</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Str&#x000f6;mbeck</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Horvat</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Ferry</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Dhanda</surname>, <given-names>R.S.</given-names>
+</string-name>, <string-name>
+<surname>Hast</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Ryd&#x000e9;n</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Vyas</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>G&#x000f6;hring</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Schlegelberger</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Johansson</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Hellstr&#x000f6;m&#x02010;Lindberg</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>List</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Nilsson</surname>, <given-names>L.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Jacobsen</surname>, <given-names>S.E.</given-names>
+</string-name> (<year>2010</year>) <article-title>Persistent malignant stem cells in del(5q) myelodysplasia in remission</article-title>. <source>New England Journal of Medicine</source>, <volume>363</volume>, <fpage>1025</fpage>&#x02013;<lpage>1037</lpage>.<pub-id pub-id-type="pmid">20825315</pub-id></mixed-citation></ref><ref id="bjh14270-bib-0025"><mixed-citation publication-type="journal" id="bjh14270-cit-0025">
+<string-name>
+<surname>Terwijn</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Zeijlemaker</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Kelder</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Rutten</surname>, <given-names>A.P.</given-names>
+</string-name>, <string-name>
+<surname>Snel</surname>, <given-names>A.N.</given-names>
+</string-name>, <string-name>
+<surname>Scholten</surname>, <given-names>W.J.</given-names>
+</string-name>, <string-name>
+<surname>Pabst</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Verhoef</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>L&#x000f6;wenberg</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Zweegman</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Ossenkoppele</surname>, <given-names>G.J.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Schuurhuis</surname>, <given-names>G.J.</given-names>
+</string-name> (<year>2014</year>) <article-title>Leukemic Stem Cell Frequency: a Strong Biomarker for Clinical Outcome in Acute Myeloid Leukemia</article-title>. <source>PLoS ONE</source>, <volume>9</volume>, <fpage>e107587</fpage>.<pub-id pub-id-type="pmid">25244440</pub-id></mixed-citation></ref><ref id="bjh14270-bib-0026"><mixed-citation publication-type="journal" id="bjh14270-cit-0026">
+<string-name>
+<surname>Valent</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Bain</surname>, <given-names>B.J.</given-names>
+</string-name>, <string-name>
+<surname>Bennett</surname>, <given-names>J.M.</given-names>
+</string-name>, <string-name>
+<surname>Wimazal</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Sperr</surname>, <given-names>W.R.</given-names>
+</string-name>, <string-name>
+<surname>Mufti</surname>, <given-names>G.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Horny</surname>, <given-names>H.&#x02010;P.</given-names>
+</string-name> (<year>2012</year>) <article-title>Idiopathic cytopenia of undetermined significance (ICUS) and idiopathic dysplasia of uncertain significance (IDUS), and their distinction from low risk MDS</article-title>. <source>Leukemia Research</source>, <volume>36</volume>, <fpage>1</fpage>&#x02013;<lpage>5</lpage>.<pub-id pub-id-type="pmid">21920601</pub-id></mixed-citation></ref><ref id="bjh14270-bib-0027"><mixed-citation publication-type="journal" id="bjh14270-cit-0027">
+<string-name>
+<surname>Vergez</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Green</surname>, <given-names>A.S.</given-names>
+</string-name>, <string-name>
+<surname>Tamburini</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Sarry</surname>, <given-names>J.&#x02010;E.</given-names>
+</string-name>, <string-name>
+<surname>Gaillard</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Cornillet&#x02010;Lefebvre</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Pannetier</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Neyret</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Chapuis</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Ifrah</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Dreyfus</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Manenti</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Demur</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Delabesse</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Lacombe</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Mayeux</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Bouscary</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Recher</surname>, <given-names>C.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Bardet</surname>, <given-names>V.</given-names>
+</string-name> (<year>2011</year>) <article-title>High levels of CD34<sup>+</sup>CD38low/&#x02010;CD123<sup>+</sup> blasts are predictive of an adverse outcome in acute myeloid leukemia: a Groupe Ouest&#x02010;Est des Leucemies Aigues et Maladies du Sang (GOELAMS) study</article-title>. <source>Haematologica</source>, <volume>96</volume>, <fpage>1792</fpage>&#x02013;<lpage>1798</lpage>.<pub-id pub-id-type="pmid">21933861</pub-id></mixed-citation></ref><ref id="bjh14270-bib-0028"><mixed-citation publication-type="journal" id="bjh14270-cit-0028">
+<string-name>
+<surname>Walter</surname>, <given-names>M.J.</given-names>
+</string-name>, <string-name>
+<surname>Shen</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Ding</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Shao</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Koboldt</surname>, <given-names>D.C.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Larson</surname>, <given-names>D.E.</given-names>
+</string-name>, <string-name>
+<surname>McLellan</surname>, <given-names>M.D.</given-names>
+</string-name>, <string-name>
+<surname>Dooling</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Abbott</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Fulton</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Magrini</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Schmidt</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Kalicki&#x02010;Veizer</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>O'Laughlin</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Fan</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Grillot</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Witowski</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Heath</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Frater</surname>, <given-names>J.L.</given-names>
+</string-name>, <string-name>
+<surname>Eades</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Tomasson</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Westervelt</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>DiPersio</surname>, <given-names>J.F.</given-names>
+</string-name>, <string-name>
+<surname>Link</surname>, <given-names>D.C.</given-names>
+</string-name>, <string-name>
+<surname>Mardis</surname>, <given-names>E.R.</given-names>
+</string-name>, <string-name>
+<surname>Ley</surname>, <given-names>T.J.</given-names>
+</string-name>, <string-name>
+<surname>Wilson</surname>, <given-names>R.K.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Graubert</surname>, <given-names>T.A.</given-names>
+</string-name> (<year>2012</year>) <article-title>Clonal architecture of secondary acute myeloid leukemia</article-title>. <source>New England Journal of Medicine</source>, <volume>366</volume>, <fpage>1090</fpage>&#x02013;<lpage>1098</lpage>.<pub-id pub-id-type="pmid">22417201</pub-id></mixed-citation></ref><ref id="bjh14270-bib-0029"><mixed-citation publication-type="journal" id="bjh14270-cit-0029">
+<string-name>
+<surname>Woll</surname>, <given-names>P.S.</given-names>
+</string-name>, <string-name>
+<surname>Kj&#x000e4;llquist</surname>, <given-names>U.</given-names>
+</string-name>, <string-name>
+<surname>Chowdhury</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Doolittle</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Wedge</surname>, <given-names>D.C.</given-names>
+</string-name>, <string-name>
+<surname>Thongjuea</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Erlandsson</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Ngara</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Anderson</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Deng</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>Mead</surname>, <given-names>A.J.</given-names>
+</string-name>, <string-name>
+<surname>Stenson</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Giustacchini</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Duarte</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Giannoulatou</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Taylor</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Karimi</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Scharenberg</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Mortera&#x02010;Blanco</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Macaulay</surname>, <given-names>I.C.</given-names>
+</string-name>, <string-name>
+<surname>Clark</surname>, <given-names>S.A.</given-names>
+</string-name>, <string-name>
+<surname>Dybedal</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Josefsen</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Fenaux</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Hokland</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Holm</surname>, <given-names>M.S.</given-names>
+</string-name>, <string-name>
+<surname>Cazzola</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Malcovati</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Tauro</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Bowen</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Boultwood</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Pellagatti</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Pimanda</surname>, <given-names>J.E.</given-names>
+</string-name>, <string-name>
+<surname>Unnikrishnan</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Vyas</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>G&#x000f6;hring</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Schlegelberger</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Tobiasson</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Kvalheim</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Constantinescu</surname>, <given-names>S.N.</given-names>
+</string-name>, <string-name>
+<surname>Nerlov</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Nilsson</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Campbell</surname>, <given-names>P.J.</given-names>
+</string-name>, <string-name>
+<surname>Sandberg</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Papaemmanuil</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Hellstr&#x000f6;m&#x02010;Lindberg</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Linnarsson</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Jacobsen</surname>, <given-names>S.E.</given-names>
+</string-name> (<year>2014</year>) <article-title>Myelodysplastic syndromes are propagated by rare and distinct human cancer stem cells in&#x000a0;vivo</article-title>. <source>Cancer Cell</source>, <volume>25</volume>, <fpage>794</fpage>&#x02013;<lpage>808</lpage>.<pub-id pub-id-type="pmid">24835589</pub-id></mixed-citation></ref><ref id="bjh14270-bib-0030"><mixed-citation publication-type="journal" id="bjh14270-cit-0030">
+<string-name>
+<surname>Xie</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Du</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Qin</surname>, <given-names>X.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Huang</surname>, <given-names>S.</given-names>
+</string-name> (<year>2010</year>) <article-title>Detection of molecular targets on the surface of CD34<sup>+</sup>CD38<sup>&#x02212;</sup> bone marrow cells in myelodysplastic syndromes</article-title>. <source>Cytometry. Part A</source>, <volume>77</volume>, <fpage>840</fpage>&#x02013;<lpage>848</lpage>.</mixed-citation></ref><ref id="bjh14270-bib-0031"><mixed-citation publication-type="journal" id="bjh14270-cit-0031">
+<string-name>
+<surname>Zhou</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Kinney</surname>, <given-names>M.C.</given-names>
+</string-name>, <string-name>
+<surname>Scott</surname>, <given-names>L.M.</given-names>
+</string-name>, <string-name>
+<surname>Zinkel</surname>, <given-names>S.S.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Rebel</surname>, <given-names>V.I.</given-names>
+</string-name> (<year>2015</year>) <article-title>Revisiting the case for genetically engineered mouse models in human myelodysplastic syndrome research</article-title>. <source>Blood</source>, <volume>126</volume>, <fpage>1057</fpage>&#x02013;<lpage>1068</lpage>.<pub-id pub-id-type="pmid">26077396</pub-id></mixed-citation></ref></ref-list></back></article>

@@ -1,0 +1,1161 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="review-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Br J Haematol</journal-id><journal-id journal-id-type="iso-abbrev">Br. J. Haematol</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1365-2141</journal-id><journal-id journal-id-type="publisher-id">BJH</journal-id><journal-title-group><journal-title>British Journal of Haematology</journal-title></journal-title-group><issn pub-type="ppub">0007-1048</issn><issn pub-type="epub">1365-2141</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">28233897</article-id><article-id pub-id-type="pmc">5484289</article-id><article-id pub-id-type="doi">10.1111/bjh.14591</article-id><article-id pub-id-type="publisher-id">BJH14591</article-id><article-categories><subj-group subj-group-type="overline"><subject>Review</subject></subj-group><subj-group subj-group-type="heading"><subject>Platelets and Haemostasis</subject></subj-group></article-categories><title-group><article-title>Haemotoxic snake venoms: their functional activity, impact on snakebite victims and pharmaceutical promise</article-title><alt-title alt-title-type="left-running-head">Review</alt-title></title-group><contrib-group><contrib id="bjh14591-cr-0101" contrib-type="editor"><name><surname>Roberts</surname><given-names>David J</given-names></name></contrib><contrib id="bjh14591-cr-0102" contrib-type="editor"><name><surname>Cooper</surname><given-names>Nichola</given-names></name></contrib><contrib id="bjh14591-cr-0103" contrib-type="editor"><name><surname>Bates</surname><given-names>Imelda</given-names></name></contrib></contrib-group><contrib-group><contrib id="bjh14591-cr-0001" contrib-type="author"><name><surname>Slagboom</surname><given-names>Julien</given-names></name><xref ref-type="aff" rid="bjh14591-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="bjh14591-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="bjh14591-cr-0002" contrib-type="author"><name><surname>Kool</surname><given-names>Jeroen</given-names></name><xref ref-type="aff" rid="bjh14591-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="bjh14591-cr-0003" contrib-type="author"><name><surname>Harrison</surname><given-names>Robert A.</given-names></name><xref ref-type="aff" rid="bjh14591-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="bjh14591-cr-0004" contrib-type="author" corresp="yes"><name><surname>Casewell</surname><given-names>Nicholas R.</given-names></name><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-8035-4719</contrib-id><address><email>nicholas.casewell@lstmed.ac.uk</email></address><xref ref-type="aff" rid="bjh14591-aff-0001">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="bjh14591-aff-0001"><label><sup>1</sup></label><named-content content-type="organisation-division">Alistair Reid Venom Research Unit</named-content><named-content content-type="organisation-division">Parasitology Department</named-content><institution>Liverpool School of Tropical Medicine</institution><named-content content-type="city">Liverpool</named-content><country country="GB">UK</country></aff><aff id="bjh14591-aff-0002"><label><sup>2</sup></label><named-content content-type="organisation-division">Division of BioAnalytical Chemistry</named-content><named-content content-type="organisation-division">Department of Chemistry and Pharmaceutical Sciences</named-content><named-content content-type="organisation-division">Faculty of Sciences</named-content><institution>Vrije Universiteit Amsterdam</institution><named-content content-type="city">Amsterdam</named-content><country country="NL">The Netherlands</country></aff><author-notes><corresp id="correspondenceTo"><label>*</label>
+Correspondence: Dr Nicholas R. Casewell, Senior Lecturer &#x00026; Wellcome Trust &#x00026; Royal Society Research Fellow, Alistair Reid Venom Research Unit, Liverpool School of Tropical Medicine, Pembroke Place, Liverpool L3 5QA, UK<break/>
+E&#x02010;mail: <email>nicholas.casewell@lstmed.ac.uk</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>24</day><month>2</month><year>2017</year></pub-date><pub-date pub-type="ppub"><month>6</month><year>2017</year></pub-date><volume>177</volume><issue>6</issue><issue-id pub-id-type="doi">10.1111/bjh.2017.177.issue-6</issue-id><issue-title content-type="special-issue-title">Low to middle income countries (LMIC)</issue-title><fpage>947</fpage><lpage>959</lpage><history><date date-type="received"><day>31</day><month>12</month><year>2016</year></date><date date-type="accepted"><day>09</day><month>1</month><year>2017</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> Copyright &#x000a9; 2017 John Wiley & Sons Ltd <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2017 The Authors. <italic>British Journal of Haematology</italic> published by John Wiley &#x00026; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:BJH-177-947.pdf"/><abstract id="bjh14591-abs-0001"><title>Summary</title><p>Snake venoms are mixtures of numerous proteinacious components that exert diverse functional activities on a variety of physiological targets. Because the toxic constituents found in venom vary from species to species, snakebite victims can present with a variety of life&#x02010;threatening pathologies related to the neurotoxic, cytotoxic and haemotoxic effects of venom. Of the 1&#x000b7;8 million people envenomed by snakes every year, up to 125&#x000a0;000 die, while hundreds of thousands survive only to suffer with life&#x02010;changing long&#x02010;term morbidity. Consequently, snakebite is one of the world's most severe neglected tropical diseases. Many snake venoms exhibit strong haemotoxic properties by interfering with blood pressure, clotting factors and platelets, and by directly causing haemorrhage. In this review we provide an overview of the functional activities of haemotoxic venom proteins, the pathologies they cause in snakebite victims and how their exquisite selectivity and potency make them amenable for use as therapeutic and diagnostic tools relevant for human medicine.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="bjh14591-kwd-0001">envenoming</kwd><kwd id="bjh14591-kwd-0002">neglected tropical diseases</kwd><kwd id="bjh14591-kwd-0003">toxin</kwd><kwd id="bjh14591-kwd-0004">haemorrhage</kwd><kwd id="bjh14591-kwd-0005">venom&#x02010;induced consumption coagulopathy</kwd></kwd-group><funding-group><award-group><funding-source>Sir Henry Dale Fellowship</funding-source><award-id>200517/Z/16/Z</award-id></award-group></funding-group><funding-group><award-group><funding-source>Wellcome Trust</funding-source></award-group></funding-group><funding-group><award-group><funding-source>Royal Society</funding-source></award-group></funding-group><funding-group><award-group><funding-source>UK Medical Research Council</funding-source></award-group></funding-group><counts><fig-count count="4"/><table-count count="0"/><page-count count="13"/><word-count count="10319"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>bjh14591</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>June 2017</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:5.1.2 mode:remove_FC converted:26.06.2017</meta-value></custom-meta></custom-meta-group></article-meta></front><body><p>Venomous snakes are a species&#x02010;rich (~2500) group of squamate reptiles that are widely distributed across most of the Earth's landmasses and many of its oceans (Greene, <xref rid="bjh14591-bib-0034" ref-type="ref">1997</xref>). These snakes primarily use venom for facilitating prey capture, although when threatened or provoked they use venom defensively, as observed in cases of human snakebite. The snake venom system consists of a pair of venom secretory glands, found either side of the head on the upper jaw, that are connected to ducts which transmit venom from the gland to the base of modified teeth (fangs) used for injection (Kerkkamp <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0049" ref-type="ref">2015</xref>). Despite much morphological variation observed in the venom system of these animals, particularly pertaining to the structure of venom glands and the morphology and dental location of fangs, developmental and molecular evidence suggests that these structures are homologous and that venom originated on one occasion in snake ancestors at least 60 million years ago (Fry <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0032" ref-type="ref">2008</xref>; Vonk <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0090" ref-type="ref">2008</xref>; Vidal <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0088" ref-type="ref">2009</xref>; Kerkkamp <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0049" ref-type="ref">2015</xref>).</p><p>Despite this common evolutionary origin, we find considerable variation in the toxic constituents found in the venom of different snake species (Chippaux <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0021" ref-type="ref">1991</xref>; Fry <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0032" ref-type="ref">2008</xref>). Venoms consist of complex mixtures of proteinacious components (circa 50&#x02013;200), which are commonly referred to as toxins. These toxins have evolved from a number of non&#x02010;toxic housekeeping genes by a variety of processes, most commonly gene duplication followed by neofunctionalization under the action of positive selection, but also via alternative splicing, recombination and simple modification of expression (Cousin <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0022" ref-type="ref">1998</xref>; Lynch, <xref rid="bjh14591-bib-0053" ref-type="ref">2007</xref>; Casewell <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0014" ref-type="ref">2011</xref>; Moura&#x02010;da&#x02010;Silva <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0063" ref-type="ref">2011</xref>; Vonk <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0091" ref-type="ref">2013</xref>). Over millions of years of evolutionary time these ancestral venom toxins have diversified further via subsequent gene duplication events, ultimately giving rise to related toxin isoforms that are encoded by the same multi&#x02010;locus gene family, but which often have distinct and/or complimentary functional activities (Fry <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0031" ref-type="ref">2003</xref>; Lynch, <xref rid="bjh14591-bib-0053" ref-type="ref">2007</xref>; Casewell <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0014" ref-type="ref">2011</xref>; Vonk <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0091" ref-type="ref">2013</xref>). Crucially, the rapid rate at which snake venom toxins have evolved, and their lineage&#x02010;specific gene duplication and loss events, result in different snake species having different venom toxins. Consequently, variation in venom composition is observed across all taxonomic levels of snakes, between families, genera, species and even over the lifetime of an individual (Chippaux <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0021" ref-type="ref">1991</xref>; Durban <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0024" ref-type="ref">2013</xref>; Casewell <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0016" ref-type="ref">2014</xref>). A schematic overview of how variation in snake venom composition has evolved is presented in Fig&#x000a0;<xref rid="bjh14591-fig-0001" ref-type="fig">1</xref>.</p><fig fig-type="Figure" xml:lang="en" id="bjh14591-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>A simplified schematic demonstrating how snake venoms have evolved into variable toxin mixtures over evolutionary timescales. Ovals represent venom glands in different snakes (hypothetical ancestors or modern day species) and coloured circles represent different toxin types. Non&#x02010;venomous ancestors had no toxins in their venom gland (or expressed them at very low levels), but early venomous snake ancestors recruited a number of toxin types into their venom. Over evolutionary time, as lineages diverged, different toxin types became utilised in the venom of certain snakes, and these toxin types diversified differentially via the process of gene duplication and loss, resulting in variation in venom composition observed between different groups of snakes.</p></caption><graphic id="nlm-graphic-1" xlink:href="BJH-177-947-g001"/></fig><p>Ultimately, these variable toxin components underpin the functional bioactivity of venom. Snake venoms can be broadly classified as haemotoxic, neurotoxic or cytotoxic (World Health Organization, <xref rid="bjh14591-bib-0096" ref-type="ref">2010a</xref>). Many species possess multi&#x02010;functional venoms that contain toxins capable of inducing different toxicities and, while there are general rules as to what to expect from human envenomings by many species, there are also many exceptions. For example, the two major medically important snake families are the vipers (family Viperidae; e.g. rattlesnakes, adders, vipers) and the elapids (family Elapidae; e.g. cobras, mambas, coral snakes) (Fig&#x000a0;<xref rid="bjh14591-fig-0002" ref-type="fig">2</xref>). A simplified historical overview is that viper venoms are predominately haemorrhagic and elapid venoms neurotoxic. While this simplification holds for many species there are a number of examples of vipers causing neurotoxicity (Silva <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0079" ref-type="ref">2017</xref>) and elapids causing bleeding disturbances (Berling <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0009" ref-type="ref">2015</xref>). Consequently, venom variation is a crucial factor that significantly impacts upon snakebite pathology and the treatment of snakebite.</p><fig fig-type="Figure" xml:lang="en" id="bjh14591-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Representative venomous snakes and the pathology they cause in sub&#x02010;Saharan Africa. (A) Examples of medically&#x02010;important venomous snakes. From left: Joger's saw&#x02010;scaled viper (<italic>Echis jogeri</italic>) from Senegal; the puff adder (<italic>Bitis arietans</italic>) from Kenya; the Mozambique spitting cobra (<italic>Naja mossambica</italic>) from South Africa. Photographs courtesy of Wolfgang W&#x000fc;ster. (B) Pathology caused by venomous snakes. Clockwise from top left: A dedicated ward for snakebite victims in Kaltungo, Nigeria; extensive local tissue damage following a bite by an unknown cytotoxic snake (probably the spitting cobra <italic>Naja nigricollis</italic>) in north&#x02010;east Nigeria; blood filled blisters following a bite by the cytotoxic puff adder (<italic>Bitis arietans</italic>) in the area of Kilifi, Kenya; local and systemic haemorrhage (two images) facilitated by venom&#x02010;induced consumption coagulopathy following bites by saw&#x02010;scaled vipers (<italic>Echis ocellatus</italic>) in north&#x02010;east Nigeria; a patient receiving a slow intravenous infusion of antivenom following a bite by a saw&#x02010;scaled viper (<italic>E.&#x000a0;ocellatus</italic>) in north&#x02010;east Nigeria. Photographs courtesy of the Alistair Reid Venom Research Unit, Liverpool School of Tropical Medicine.</p></caption><graphic id="nlm-graphic-3" xlink:href="BJH-177-947-g002"/></fig><sec id="bjh14591-sec-0002"><title>Snakebite is a neglected tropical disease</title><p>Venomous snakes bite up to 5&#x000b7;5 million people every year (Kasturiratne <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0047" ref-type="ref">2008</xref>). These bites are responsible for causing as many as 1&#x000b7;8 million envenomings and 125&#x000a0;000 deaths annually, with three to five times that number of people thought to suffer from long&#x02010;term morbidity (Chippaux, <xref rid="bjh14591-bib-0019" ref-type="ref">1998</xref>; Kasturiratne <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0047" ref-type="ref">2008</xref>; Habib <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0037" ref-type="ref">2015</xref>). Consequently, snakebite is one of the world's most lethal neglected tropical diseases. Despite this, snakebite receives little attention from global health agencies, charities or governments, perhaps best exemplified by the World Health Organization (WHO) currently omitting snakebite from their formal list of neglected tropical diseases (<ext-link ext-link-type="uri" xlink:href="http://www.who.int/neglected_diseases/diseases/en/">http://www.who.int/neglected_diseases/diseases/en/</ext-link>). Despite this, the snakebite community continues to lobby for greater recognition surrounding this issue (Williams, <xref rid="bjh14591-bib-0094" ref-type="ref">2015</xref>; Arnold, <xref rid="bjh14591-bib-0008" ref-type="ref">2016</xref>), and recent progress has led to the WHO formally considering recognising snakebite as a neglected tropical disease at the upcoming World Health Assembly in 2017 (Harrison &#x00026; Guti&#x000e9;rrez, <xref rid="bjh14591-bib-0039" ref-type="ref">2016</xref>).</p><p>Snakebite predominately affects people living in the tropical and sub&#x02010;tropical regions of the world. While venomous snakes inhabit every continent, the vast majority of deaths occur in sub&#x02010;Saharan Africa and South and South&#x02010;East Asia (Fig&#x000a0;<xref rid="bjh14591-fig-0003" ref-type="fig">3</xref>) (Kasturiratne <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0047" ref-type="ref">2008</xref>). Males are bitten more often than females, and bites are most common in younger adults and children, with children and the elderly seemingly suffering the greatest risk of mortality (World Health Organization, <xref rid="bjh14591-bib-0097" ref-type="ref">2010b</xref>). Fundamentally, snakebite most greatly affects the rural impoverished people of the tropics (Harrison <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0040" ref-type="ref">2009</xref>). There is a significant association between snakebite&#x02010;induced mortality and (i) the human developmental index, (ii) the percentage of the labour force working in agriculture, (iii) the per capita government expenditure on health and (iv) the gross domestic product (GDP) per capita of a country (Harrison <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0040" ref-type="ref">2009</xref>). In part these associations are due to the rural people of the tropics frequently encountering snakes due to working in their habitat, typically in agricultural areas, and therefore are bitten more frequently. But also because the health infrastructure and economic status of these countries is less developed, meaning that victims often cannot afford protective footwear [&#x0003e;80% of bites are on the lower limb (Chippaux, <xref rid="bjh14591-bib-0020" ref-type="ref">2010</xref>)], they have to travel for many hours to receive treatment (if they seek healthcare at all), and treatments are often not available within their available health infrastructure or, if they are, are unaffordable to many.</p><fig fig-type="Figure" xml:lang="en" id="bjh14591-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Estimates of annual deaths caused by snakebite in different global burden of disease (<styled-content style="fixed-case">GBD</styled-content>) regions. Conservative estimates are displayed by different colour shadings on the map and upper estimates are annotated for each major region where the number of snakebite deaths is greater than 1000. The world map image is reproduced from Kasturiratne <italic>et&#x000a0;al,</italic> (<xref rid="bjh14591-bib-0047" ref-type="ref">2008</xref>)under the Creative Commons Attribution License and the overlaid upper estimates of snakebite death are taken from the same publication.</p></caption><graphic id="nlm-graphic-5" xlink:href="BJH-177-947-g003"/></fig><p>The only specific therapy available for treating snakebite is antivenom. Antivenom consists of polyclonal antibodies that are generated by immunising animals (horses or sheep) with small amounts of snake venom. The resulting antibodies are purified from serum or plasma and formulated into intact IgG or F(ab&#x02019;)<sub>2</sub>&#x02010; or Fab&#x02010;fragment therapies, which are administered intravenously following snakebite. While antivenoms are effective therapies for neutralising the toxicity of snake venoms if delivered promptly, there are a number of deficiencies with these products. First is the issue of venom variation, described earlier. The antibodies present in any antivenom are specific to those venoms that were used for immunisation. Whilst these antibodies might cross&#x02010;react with and neutralise similar venom toxins present in different species than those used for immunisation, there will be a limit to their cross&#x02010;efficacy, and this is often restricted to the same genus of snakes (Williams <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0095" ref-type="ref">2011</xref>; Tan <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0084" ref-type="ref">2016a</xref>,<xref rid="bjh14591-bib-0085" ref-type="ref">b</xref>). Despite a number of recent reports suggesting that certain antivenoms might have greater paraspecificity than previously anticipated (e.g. Pla <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0069" ref-type="ref">2014</xref>; Tan <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0083" ref-type="ref">2015</xref>), there are also a number of reports describing the poor performance or failure of antivenoms at neutralising venom from snakes related to those used for immunisation (Casewell <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0013" ref-type="ref">2010</xref>; Segura <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0076" ref-type="ref">2010</xref>; Tan <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0085" ref-type="ref">2016b</xref>). Limitations with the paraspecificity of antivenoms are best exemplified by reports from sub&#x02010;Saharan Africa where geographically inappropriate products were used to treat snakebite in the Central African Republic and Ghana, resulting in increases in case fatality rates from 0&#x000b7;4% and 1&#x000b7;0% to 10&#x000b7;0% and 12&#x000b7;1% respectively (Visser <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0089" ref-type="ref">2008</xref>; Alirol <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0003" ref-type="ref">2015</xref>).</p><p>To try and circumvent these limitations, many manufacturers generate antivenoms by immunising animals with multiple different snake venoms. These products have the benefit of generating antibodies against a wider pool of antigens (i.e. the variety of toxins found in different snake venoms) and they also circumvent clinical challenges surrounding identifying the snake that has bitten a patient required to inform antivenom choice. However, the consequences of this approach are that the antivenom contains fewer specific antibodies to the single snake species that envenomed the patient, effectively making them more dilute. Therefore, larger therapeutic doses are required to effect cure (Abubakar <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0001" ref-type="ref">2010</xref>). This in turn brings two challenges, a potential increased risk of adverse reactions as larger doses of foreign protein are delivered to human victims, and an increased treatment cost as more vials are required to effect cure. Considering that the incidence of adverse reactions reported after antivenom therapy can be as high as 55% (Deshpande <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0023" ref-type="ref">2013</xref>) and the average cost of a vial of antivenom varies from $100&#x02013;250 in Africa for example, with upwards of 10&#x02013;20 vials being required to effect cure (World Health Organization, <xref rid="bjh14591-bib-0096" ref-type="ref">2010a</xref>), these characteristics are far from ideal. There is therefore an urgent need for the development of new, low&#x02010;dose, low&#x02010;cost and paraspecifically effective antivenoms for treating snakebite victims in the tropical regions of the world (Harrison <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0041" ref-type="ref">2011</xref>).</p></sec><sec id="bjh14591-sec-0003"><title>Snakebite causes a multitude of pathologies</title><p>Because of the diversity of toxic components found in the venom of any one snake, the pathological consequences of envenoming can be diverse and multifactorial. Moreover, variables such as the location of the bite site and the amount of venom injected [which in turn can be highly variable (Alirol <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0002" ref-type="ref">2010</xref>)] can contribute to the severity of clinical signs observed in snakebite victims. While pathology can be limited to local effects surrounding the bite site, such as pain, oedema and bruising, many envenomings also result in systemic pathology, which can be severe and lethal if untreated. Clinical patterns of envenoming can be broadly classified into three groups: neurotoxic, cytotoxic and haemotoxic, although myotoxicity can also present in certain cases (World Health Organization, <xref rid="bjh14591-bib-0096" ref-type="ref">2010a</xref>). It is important to note that certain snake species are capable of causing combinations of these different toxicities, and there are also examples of the same snake species causing different pathologies in human patients across different parts of their range (Antonypillai <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0006" ref-type="ref">2011</xref>; Massey <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0058" ref-type="ref">2012</xref>).</p><p>Neurotoxic envenoming is characterised by descending neuromuscular paralysis, beginning with the eyes (ptosis), facial muscles and other muscles innervated by the cranial nerves, before progressing to respiratory and generalised flaccid paralysis (Warrell, <xref rid="bjh14591-bib-0092" ref-type="ref">1995a</xref>,<xref rid="bjh14591-bib-0093" ref-type="ref">b</xref>; Chippaux, <xref rid="bjh14591-bib-0020" ref-type="ref">2010</xref>; World Health Organization, <xref rid="bjh14591-bib-0096" ref-type="ref">2010a</xref>,<xref rid="bjh14591-bib-0097" ref-type="ref">b</xref>). The toxins predominately responsible for neurotoxic venom effects are members of the diverse phospholipases A<sub>2</sub> (PLA<sub>2</sub>) and three&#x02010;finger toxin (3FTX) families (Fry <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0031" ref-type="ref">2003</xref>; Lynch, <xref rid="bjh14591-bib-0053" ref-type="ref">2007</xref>). These toxins are capable of acting on the pre&#x02010; and/or post&#x02010;synaptic junction, where they can have a multitude of actions, from blocking potassium or sodium channels, to acting as nicotinic or muscarinic receptor antagonists (Fry <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0031" ref-type="ref">2003</xref>; Lynch, <xref rid="bjh14591-bib-0053" ref-type="ref">2007</xref>; Casewell <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0015" ref-type="ref">2013</xref>). Ultimately, many snakes contain multiple different neurotoxins in their venom that perturb neurotransmission at the neuromuscular junction, resulting in paralysis.</p><p>Snakebite victims suffering from cytotoxic envenoming are characterised by painful and progressive swelling at the bite site, developing into blistering and bruising, that are sometimes coupled with systemic effects, which include hypovolaemic shock (World Health Organization, <xref rid="bjh14591-bib-0096" ref-type="ref">2010a</xref>,<xref rid="bjh14591-bib-0097" ref-type="ref">b</xref>). Often, extensive local tissue damage develops (Fig&#x000a0;<xref rid="bjh14591-fig-0002" ref-type="fig">2</xref>), characterised by necrosis of the affected limb and requiring surgical debridement or amputation if left untreated. Hydrolytic enzymes, such as snake venom metalloproteinases (SVMPs) and PLA<sub>2</sub>s, and non&#x02010;enzymatic cytotoxic 3FTXs have been implicated as the causative agents found in different snake venoms (Escalante <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0026" ref-type="ref">2009</xref>; Rivel <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0072" ref-type="ref">2016</xref>). Recently it was shown that the destruction of local tissue may also be promoted by snake venom inducing the formation of neutrophil extracellular traps (NETs), which in turn block blood vessels and contain the venom toxins to bite site, thereby promoting cytotoxic pathology (Katkar <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0048" ref-type="ref">2016</xref>).</p><p>For the remainder of this review we focus on haemotoxicity caused by snake venoms. Haemotoxicity is one of the most common clinical signs in victims of snakebite, particularly when viperid snakes are responsible for envenomings. Broadly speaking, haemotoxic venoms can have cardiovascular and/or haemostatic effects. Cardiovascular effects are perhaps best characterised by a dramatic fall in blood pressure and this can be caused by a number of different venom toxins. For example, SVMPs indirectly contribute to hypotension by increasing vascular permeability via the degradation of capillary basement membranes, resulting in leakage and reductions in blood pressure (Guti&#x000e9;rrez <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0036" ref-type="ref">2016</xref>). Snakes can also directly induce vasodilatory effects via the injection of bradykinin potentiating peptides (BPPs) present in their venom, and this activity can be further enhanced by certain snake venom serine protease (SVSP) toxins exhibiting kallikrein&#x02010;like functionalities, causing the release of bradykinins from plasma kininogens (Phillips <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0067" ref-type="ref">2010</xref>; Camargo <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0012" ref-type="ref">2012</xref>). Ultimately, these various venom toxins, whether acting alone or in combination, can cause shock in envenomed patients due to systemic hypotension (Fig&#x000a0;<xref rid="bjh14591-fig-0004" ref-type="fig">4</xref>A).</p><fig fig-type="Figure" xml:lang="en" id="bjh14591-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>A schematic overview of the physiological targets of haemotoxic snake venom toxins. (A) The targets for venom toxins that cause cardiovascular effects, which present clinically as hypotension. (B) The targets for venom toxins that cause haemostatic effects, which present as coagulopathy. Each physiological target is indicated by a red circle and the venom toxin type(s) that target these sites are listed. <styled-content style="fixed-case">ACE</styled-content>, angiotensin&#x02010;converting enzyme; <styled-content style="fixed-case">FV</styled-content> &#x02013; Factor V; <styled-content style="fixed-case">FV</styled-content>a, activated Factor V; <styled-content style="fixed-case">FX</styled-content>, Factor X; <styled-content style="fixed-case">FX</styled-content>a, activated Factor X; <styled-content style="fixed-case">FII</styled-content>, prothrombin.</p></caption><graphic id="nlm-graphic-7" xlink:href="BJH-177-947-g004"/></fig><p>Haemostatic effects caused by snake venoms are best characterised by local and systemic haemorrhage. Overt signs include bleeding from the gums, recently healed wounds, the bite site, the gastro&#x02010;intestinal and/or genito&#x02010;urinary tracts and/or haematemesis and haemoptysis (Fig&#x000a0;<xref rid="bjh14591-fig-0002" ref-type="fig">2</xref>) (Warrell, <xref rid="bjh14591-bib-0092" ref-type="ref">1995a</xref>,<xref rid="bjh14591-bib-0093" ref-type="ref">b</xref>; World Health Organization, <xref rid="bjh14591-bib-0097" ref-type="ref">2010b</xref>). As described above, SVMP toxins increase the vascular permeability of blood vessels by degrading capillary basement membranes, resulting in extravasation (Guti&#x000e9;rrez <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0036" ref-type="ref">2016</xref>), and therefore these toxins also exert haemorrhagic activities (Fig&#x000a0;<xref rid="bjh14591-fig-0004" ref-type="fig">4</xref>A). While spontaneous systemic bleeding therefore contributes to deaths caused by shock (hypotension), snake venom is also responsible for causing fatalities via haemorrhage, particularly when intracranial bleeding occurs (Mosquera <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0062" ref-type="ref">2003</xref>).</p><p>Haemorrhage caused by snake venom is often complicated and exacerbated by patients presenting with blood clotting disturbances as the result of venom&#x02010;induced consumption coagulopathy (VICC). VICC, a disseminated intravascular coagulation (DIC)&#x02010;like syndrome, is characterised by low or undetectable levels of fibrinogen, resulting in incoagulable blood (Fig&#x000a0;<xref rid="bjh14591-fig-0002" ref-type="fig">2</xref>) (Isbister, <xref rid="bjh14591-bib-0044" ref-type="ref">2010</xref>; Maduwage &#x00026; Isbister, <xref rid="bjh14591-bib-0054" ref-type="ref">2014</xref>). However, unlike DIC, VICC does not usually result in systemic microthrombi and end&#x02010;organ failure and it presents with a rapid onset and resolution (Isbister, <xref rid="bjh14591-bib-0044" ref-type="ref">2010</xref>). Although the majority of snakes known to cause VICC are vipers, certain elapid snakes from Australasia and colubrid and natricine snakes from Africa and Asia have also been reported to cause consumptive coagulopathies via the action of their procoagulant toxins (Maduwage &#x00026; Isbister, <xref rid="bjh14591-bib-0054" ref-type="ref">2014</xref>). These toxins are diverse and include SVMPs, SVSPs and toxic forms of Factor X and Factor V (Phillips <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0067" ref-type="ref">2010</xref>; Rosing &#x00026; Tans, <xref rid="bjh14591-bib-0073" ref-type="ref">2010</xref>; Kini &#x00026; Koh, <xref rid="bjh14591-bib-0051" ref-type="ref">2016</xref>). The targets for these toxins are also varied, with many activating clotting factors found towards the end of the clotting cascade, such as Factor X and prothrombin, while others are fibrinogenolytic (Fig&#x000a0;<xref rid="bjh14591-fig-0004" ref-type="fig">4</xref>B) (Maduwage &#x00026; Isbister, <xref rid="bjh14591-bib-0054" ref-type="ref">2014</xref>; Kini &#x00026; Koh, <xref rid="bjh14591-bib-0051" ref-type="ref">2016</xref>). Consequently, in addition to the depletion of fibrinogen, patients suffering from VICC often exhibit other factor deficiencies due to their consumption, including Factor II, Factor V, Factor VIII and Factor X (Isbister <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0045" ref-type="ref">2010</xref>, <xref rid="bjh14591-bib-0046" ref-type="ref">2015</xref>; Maduwage &#x00026; Isbister, <xref rid="bjh14591-bib-0054" ref-type="ref">2014</xref>). Although many of the countries where snakebite is abundant rely on simple bedside tests to detect incoagulable blood (e.g. the 20&#x02010;min&#x02010; whole blood clotting test), a number of studies have demonstrated that patients suffering from VICC present with a prolonged prothrombin time (PT), and an international normalised ratio and activated partial thromboplastin time (aPTT) that are either very high or exceed the upper limits of detection (Isbister <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0045" ref-type="ref">2010</xref>, <xref rid="bjh14591-bib-0046" ref-type="ref">2015</xref>). Finally, many snake venom toxins are known to act on platelets. C&#x02010;type lectins, disintegrins and certain metalloproteinases, to name a few, are capable of either inducing the aggregation of platelets, for example by von Willebrand factor&#x02010; or collagen&#x02010;mediated activation, or inhibiting their aggregation, by potently blocking integrin receptors found on the surface of platelets, such as &#x003b1;<sub>2</sub>&#x003b2;<sub>3</sub> (Rucavado <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0074" ref-type="ref">2005</xref>; Chakrabarty &#x00026; Chanda, <xref rid="bjh14591-bib-0018" ref-type="ref">2015</xref>; Kini &#x00026; Koh, <xref rid="bjh14591-bib-0051" ref-type="ref">2016</xref>). Both inhibition and activation (via hypoaggregation) result in these toxins contributing to venom&#x02010;induced coagulopathies by depleting platelets, and this presents clinically as marked thrombocytopenia (Warrell, <xref rid="bjh14591-bib-0092" ref-type="ref">1995a</xref>,<xref rid="bjh14591-bib-0093" ref-type="ref">b</xref>; Rucavado <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0074" ref-type="ref">2005</xref>).</p><p>The consequences of venom&#x02010;induced coagulopathies are an increased risk of serious and life&#x02010;threatening haemorrhage, particularly when envenoming is the result of bites by snakes that also contain haemorrhagic SVMPs in their venom. Indeed, in many fatal cases involving intracranial haemorrhage, snakebite victims were found to also be suffering from clotting disorders (Mosquera <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0062" ref-type="ref">2003</xref>; Berling <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0009" ref-type="ref">2015</xref>). Consequently, coagulopathy has been described as the most common, important, systemic, clinical syndrome caused by snake envenoming (Maduwage &#x00026; Isbister, <xref rid="bjh14591-bib-0054" ref-type="ref">2014</xref>).</p></sec><sec id="bjh14591-sec-0004"><title>Haemotoxic snake venom components</title><p>In this section we provide an overview of the snake venom toxin types that exhibit haemotoxic properties, with a particular focus on the SVMPs and SVSPs. We summarise the various haemotoxic activities of these toxins in Fig&#x000a0;<xref rid="bjh14591-fig-0004" ref-type="fig">4</xref>. SVMPs are a diverse enzymatic toxin family that are found in the venom of most advanced snakes, although they are most commonly key components in viperid species (Casewell <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0017" ref-type="ref">2015</xref>). Having diversified extensively via gene duplication followed by the loss of functional domains (Casewell <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0014" ref-type="ref">2011</xref>), a single snake species can contain more than a dozen SVMPs in its venom, and these structural variants (classified as P&#x02010;I, P&#x02010;II and P&#x02010;III SVMPs) can exhibit diverse functionalities (including being multi&#x02010;functional), ranging from haemorrhagic, fibrinogenolytic, Factor X or prothrombin activating activities to inhibiting platelet aggregation (Fox &#x00026; Serrano, <xref rid="bjh14591-bib-0030" ref-type="ref">2005</xref>; Casewell <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0017" ref-type="ref">2015</xref>). Many SVMPs are haemorrhagic, with the P&#x02010;III class being broadly more haemorrhagic than the P&#x02010;IIs, and P&#x02010;IIs more so than the P&#x02010;Is (Fox &#x00026; Serrano, <xref rid="bjh14591-bib-0030" ref-type="ref">2005</xref>; Guti&#x000e9;rrez <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0035" ref-type="ref">2010</xref>). Such SVMPs ultimately affect the integrity of endothelial cells in blood vessels, causing them to swell and burst and thereby promoting extravasation. However, this action is not due to direct cytotoxic effects, but instead by SVMPs binding and hydrolysing structural components of the basement membrane of capillary vessels, such as type IV collagen and perlecan, that link the membrane to the extracellular matrix (Guti&#x000e9;rrez <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0036" ref-type="ref">2016</xref>). This cleavage weakens the scaffold structure and subsequently, haemodynamic forces (hydrostatic pressure and shear stress) induce a distention of the vessel wall, ultimately leading to rupture and haemorrhage (Guti&#x000e9;rrez <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0036" ref-type="ref">2016</xref>).</p><p>Many SVMPs, particularly P&#x02010;Is, are fibrinogenolytic (Fox &#x00026; Serrano, <xref rid="bjh14591-bib-0030" ref-type="ref">2005</xref>). The majority of SVMPs actively cleave the &#x003b1;&#x02010;chain of fibrinogen into fibrinopeptides, and while some of these proteins also exhibit a lower degree of activity on the &#x003b2;&#x02010;chain, there are relatively few SVMPs that preferentially degrade the &#x003b2;&#x02010;chain (Markland, <xref rid="bjh14591-bib-0055" ref-type="ref">1998</xref>). Ultimately, such degradation results in defibrination, which in turn contributes to coagulopathy and bleeding disturbances. Certain SVMPs have also been described as procoagulants by activating the clotting factors prothrombin or Factor X. Many of these toxins are derivations of P&#x02010;III SVMPs, and they are often found natively complexed to other venom toxins like C&#x02010;type lectins, although non&#x02010;complexed P&#x02010;I SVMPs with prothrombin activating capabilities have also been described (Fox &#x00026; Serrano, <xref rid="bjh14591-bib-0030" ref-type="ref">2005</xref>; Modesto <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0060" ref-type="ref">2005</xref>; Guti&#x000e9;rrez <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0035" ref-type="ref">2010</xref>). Factor X activators have been isolated from a number of snake venoms, including from both vipers and elapids, and the most well&#x02010;studied of these is the P&#x02010;III SVMP known as RVV&#x02010;X from the Russell's viper (<italic>Daboia russelii</italic>) (Siigur &#x00026; Siigur, <xref rid="bjh14591-bib-0078" ref-type="ref">2010</xref>). RVV&#x02010;X cleaves Factor X in the same manner as that which happens during the physiological activation of this clotting factor, resulting in the release of the serine protease known as activated Factor X (Factor Xa), which in turn acts on prothrombin in conjunction with activated Factor V (Factor Va) (Siigur &#x00026; Siigur, <xref rid="bjh14591-bib-0078" ref-type="ref">2010</xref>). RVV&#x02010;X requires the presence of Ca<sup>2+</sup> for activation, as this induces a conformational change in Factor X that is a prerequisite for proteolysis by this SVMP (Siigur &#x00026; Siigur, <xref rid="bjh14591-bib-0078" ref-type="ref">2010</xref>). As described above, prothrombin is physiologically activated by the prothrombinase complex (Factor Xa and Factor Va), and this requires the presence of Ca<sup>2+</sup> and phospholipases as cofactors. A number of SVMPs directly activate prothrombin to release thrombin, which in turn acts on fibrinogen to generate fibrin clotting. In doing so, these toxins (and also the Factor X activator RVV&#x02010;X) contribute strongly to VICC, by consuming the limited amounts of clotting factors physiologically available via their continual activation. Some SVMP&#x02010;based prothrombin activators are capable of functioning in the absence of cofactors, whereas others rely on the presence of calcium, and have thus been classified as either group A or group B prothrombin activators respectively (Rosing &#x00026; Tans, <xref rid="bjh14591-bib-0073" ref-type="ref">2010</xref>). Examples include the calcium&#x02010;independent activator ecarin, and the calcium&#x02010;dependent SVMP carinactivase&#x02010;1, both of which are found in the venom of the saw&#x02010;scaled viper <italic>Echis carinatus</italic> (Rosing &#x00026; Tans, <xref rid="bjh14591-bib-0073" ref-type="ref">2010</xref>).</p><p>Disintegrins are small (40&#x02013;100 amino acid) cysteine&#x02010;rich polypeptides that are derived from the proteolytic cleavage of P&#x02010;II SVMPs or from genes solely encoding disintegrins (so&#x000a0;called true or short&#x02010;coding disintegrins) (Calvete <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0010" ref-type="ref">2005</xref>). Disintegrins are structurally diverse and best known for their action as integrin receptor antagonists, with different toxins capable of selectively blocking different cell&#x02010;surface integrins relevant to a variety of pathological conditions (e.g. &#x003b1;<sub>2</sub>&#x003b2;<sub>3</sub> integrins for acute coronary ischaemia and thrombosis; &#x003b1;<sub>v</sub>&#x003b2;<sub>3</sub> for tumour metastasis, osteoporosis and rheumatoid arthritis; &#x003b1;<sub>4</sub>&#x003b2;<sub>1</sub>, &#x003b1;<sub>7</sub>&#x003b2;<sub>1</sub> and &#x003b1;<sub>9</sub>&#x003b2;<sub>1</sub> for inflammation and autoimmune diseases, etc.) (Calvete <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0011" ref-type="ref">2010</xref>). The most relevant to this review are those disintegrins that bind to &#x003b1;<sub>2B</sub>&#x003b2;<sub>3</sub> integrins (the glycoprotein IIb/IIIa &#x02018;platelet fibrinogen&#x02019; receptor), thereby preventing fibrinogen binding to platelets and inhibiting platelet aggregation (Calvete <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0010" ref-type="ref">2005</xref>). These &#x02018;RGD&#x02019; motif&#x02010;containing peptides have only been described from viperid snakes and it is not uncommon for such snakes to contain multiple different disintegrins in their venom (Calvete <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0011" ref-type="ref">2010</xref>). In addition, some proteolytically processed P&#x02010;III SVMPs, consisting of disintegrin&#x02010;like domains coupled to cysteine&#x02010;rich domains, also appear to inhibit platelets via interactions with &#x003b1;<sub>2</sub>&#x003b2;<sub>1</sub> integrins; resulting in the inhibition of collagen&#x02010;stimulated platelet aggregation (Shimokawa <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0077" ref-type="ref">1997</xref>; Calvete <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0010" ref-type="ref">2005</xref>). However, it remains unclear whether the disintegrin&#x02010;like domains of these toxins are responsible for this activity. In summary, SVMPs and related toxins exhibit various functions that impair haemostasis, including inducing haemorrhage, depleting various clotting factors and inhibiting platelet function. Their diversity and abundance in many snake venoms make them one of the most important toxin families relevant to venom&#x02010;induced haemotoxicity.</p><p>Snake venom serine proteases (SVSPs) are often referred to as thrombin&#x02010;like enzymes (TLEs) due to many exhibiting fibrinogenolytic functional activities analogous to thrombin. The majority of these serine protease enzymes have been isolated from viperid snakes, and many are known to effectively degrade fibrinogen into fibrinopeptides via proteolytic cleavage (Phillips <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0067" ref-type="ref">2010</xref>). However, in contrast to thrombin, which readily cleaves both the &#x003b1; and &#x003b2; chains of fibrinogen, TLEs are typically more selective and usually only cleave one of these chains. Similarly to the SVMPs, most TLEs characterised to date act on the &#x003b1; chain, although there are examples of SVSPs that only cleave the &#x003b2; chain and a few that act on both &#x003b1; and &#x003b2; chains (Pirkle, <xref rid="bjh14591-bib-0068" ref-type="ref">1998</xref>; Phillips <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0067" ref-type="ref">2010</xref>). This cleavage of fibrinogen results in the polymerisation of fibrin monomers, but because TLEs do not stimulate factor XIII to cross&#x02010;link these polymers, as thrombin would, this results in unstable clots that are readily dissolved by plasmin (Phillips <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0067" ref-type="ref">2010</xref>). Ultimately, the continual generation and destruction of fibrin thrombi results in a consumptive coagulopathy that depletes fibrinogen physiologically.</p><p>Thrombin&#x02010;like enzymes also exhibit other functionalities relevant to haemostasis by mimicking thrombin, which is itself a multi&#x02010;functional enzyme. For example, certain TLEs from the venom of the copperhead (<italic>Agkistrodon contortrix contortrix</italic>) and the horned desert viper (<italic>Cerastes cerastes</italic>) activate Factor XIII and either Factor V or Factor X, respectively (Marrakchi <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0056" ref-type="ref">1995</xref>; Amiconi <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0004" ref-type="ref">2000</xref>). Others induce the release and aggregation of platelets, potentially via their interaction with the protease&#x02010;activated receptor&#x02010;1 (PAR&#x02010;1) or the membrane glycoprotein receptor GpIb, both of which are found on the surface of platelets (Phillips <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0067" ref-type="ref">2010</xref>). Certain TLE SVSPs have been described that exhibit kallikrein&#x02010;like functionalities by inducing the release of kinins, such as Lys&#x02010;bradykinin, by acting directly on plasma kininogens (Oyama &#x00026; Takahashi, <xref rid="bjh14591-bib-0065" ref-type="ref">2003</xref>). Finally, some TLEs are also capable of activating plasminogen by cleaving their peptide bonds, resulting in the release of plasmin and the degradation of fibrin, and therefore seem likely to contribute to consumption coaguloapathies via different mechanisms (Zhang <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0100" ref-type="ref">1995</xref>).</p><p>There are two other types of serine protease toxins found in snake venom, and these are structurally and genetically distinct from the TLEs described above. Both of these serine proteases are only found in the venom of certain Australasian elapid snakes and they mimic activated versions of the clotting factors Factor X and Factor V, having evolved via the duplication of genes encoding these physiological blood clotting components (Reza <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0071" ref-type="ref">2007</xref>; Reza &#x00026; Kini, <xref rid="bjh14591-bib-0070" ref-type="ref">2010</xref>). Consequently, these toxins activate prothrombin and are classified as group C and group D prothrombin activators (Rosing &#x00026; Tans, <xref rid="bjh14591-bib-0073" ref-type="ref">2010</xref>). Group C prothrombin activators, such as pseutarin C from the venom of the Eastern brown snake (<italic>Pseudonaja textilis</italic>) and oscutarin from the coastal taipan (<italic>Oxyuranus scutellatus</italic>), are large multi&#x02010;subunit proteases consisting of both Factor Xa&#x02010;like and Factor Va&#x02010;like subunits and therefore effectively mimic the prothrombinase complex (Rosing &#x00026; Tans, <xref rid="bjh14591-bib-0073" ref-type="ref">2010</xref>). These toxins are abundant in brown snake and taipan venom and they rely on Ca<sup>2+</sup> and phospholipids to effectively activate prothrombin, resulting in the production of thrombin and the consumption of clotting factors, causing VICC (Reza <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0071" ref-type="ref">2007</xref>; Isbister <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0045" ref-type="ref">2010</xref>; Rosing &#x00026; Tans, <xref rid="bjh14591-bib-0073" ref-type="ref">2010</xref>; Maduwage &#x00026; Isbister, <xref rid="bjh14591-bib-0054" ref-type="ref">2014</xref>). Many more Australasian snakes have the less potent group D prothrombin activators in their venom. Similar to those described above, these toxins require Ca<sup>2+</sup> and phospholipids as cofactors, but, unlike the group C activators, they also require the presence of Factor Va, as these toxins do not consist of multiple subunits and therefore do not mimic the prothrombinase complex, instead mimicking only activated Factor X (Reza &#x00026; Kini, <xref rid="bjh14591-bib-0070" ref-type="ref">2010</xref>; Rosing &#x00026; Tans, <xref rid="bjh14591-bib-0073" ref-type="ref">2010</xref>). As with group C activators, these toxins effectively cleave prothrombin into thrombin and initiate continual activation of the blood clotting cascade (Reza &#x00026; Kini, <xref rid="bjh14591-bib-0070" ref-type="ref">2010</xref>).</p><p>In addition to the SVMPs and SVSPs, there are many other snake venom toxin types that play a role in perturbing haemostasis. For example, certain kunitz&#x02010;type serine protease inhibitors found in venom (e.g. Textilinin&#x02010;1 and &#x02010;2, also from the Eastern brown snake <italic>P.&#x000a0;textilis</italic>) potently inhibit plasmin (and also thrombin), and thereby act as antifibrinolytic agents (Flight <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0028" ref-type="ref">2005</xref>, <xref rid="bjh14591-bib-0029" ref-type="ref">2009</xref>). Bradykinin&#x02010;potentiating peptides (BPPs), so called because they potentiate the effects of bradykinin, have been isolated from numerous pit viper species. These peptides have been demonstrated to inhibit angiotensin&#x02010;converting enzyme (ACE), thereby preventing the conversion of the hormone angiotensin I into the vasoconstrictor angiotensin II, resulting in a reduction in systemic blood pressure (Xu <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0099" ref-type="ref">2015</xref>). Consequently, BPPs can contribute to hypotension observed following envenoming, and their effect is probably exacerbated by haemorrhagic SVMPs and SVSPs that exhibit kallikrein&#x02010;like functions (Fig&#x000a0;<xref rid="bjh14591-fig-0004" ref-type="fig">4</xref>A). Furthermore, certain snake venom PLA<sub>2</sub>s have also been demonstrated to induce hypotensive effects <italic>in&#x000a0;vivo</italic>, and some of these functionally diverse proteins are also known to exert anticoagulant effects by inhibiting platelet aggregation (Andri&#x000e3;o&#x02010;Escarso <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0005" ref-type="ref">2002</xref>; Teixeira <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0086" ref-type="ref">2011</xref>). Another toxin family known to affect platelet function are the C&#x02010;type lectin&#x02010;like proteins (CTLs). In fact, various CTLs have been described that exhibit a number of functional activities relating to haemostasis, including binding to Factor IX and X to inhibit blood coagulation, inhibiting the binding of thrombin to fibrinogen, and inhibiting or activating platelet aggregation by interacting with von Willebrand factor or collagen receptors (Lu <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0052" ref-type="ref">2007</xref>; Arlinghaus <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0007" ref-type="ref">2015</xref>).</p></sec><sec id="bjh14591-sec-0005"><title>Pharmaceutical utility of snake venom haemotoxins</title><p>Venom components are gaining renewed interest as potential sources of new pharmacological compounds relevant for human therapeutics and diagnostics. Such developments are not limited to snake venoms, with toxins isolated from the toxic secretions of cone snails, sea anemones, spiders and scorpions exhibiting bioactivities relevant for the management of chronic pain, stroke and various autoimmune diseases (King, <xref rid="bjh14591-bib-0050" ref-type="ref">2011</xref>). Nonetheless, snake venoms represent the most comprehensively studied of all venomous lineages and, consequently, have the most numerous lead compounds associated with them. Because of the specificity of many snake venom toxins, and their activity in targeting specific components related to cardiovascular processes, almost all of the snake venom derived pharmaceuticals available today have therapeutic or diagnostic indications relevant to haemostasis.</p><p>The first blockbuster drug developed from a venom toxin was Captopril (Capoten). Captropril was developed following the identification of an ACE inhibitor in the venom of the jararaca pit viper (<italic>Bothrops jararaca</italic>). This BPP inhibits the conversion of angiotensin I into angiotensin II, thereby reducing systemic blood pressure by preventing the production of a crucial vasoconstrictor (Ferreira <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0027" ref-type="ref">1970</xref>). Consequently, captopril was developed in the 1970's as a synthetic analogue of this toxin and indicated for use as a hypotensive drug. It achieved US Food and Drug Administration approval in the early 1980's, subsequently becoming Squibb's first billion dollar drug, and the success of this product resulted in the development of many analogues (e.g. enalapril, lisinopril, perindopril and ramipril) being introduced into the market (Smith &#x00026; Vane, <xref rid="bjh14591-bib-0080" ref-type="ref">2003</xref>; McCleary <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0059" ref-type="ref">2015</xref>).</p><p>Other snake venom toxin types have been successfully translated into human therapeutics. Both Tirofiban (Aggrastat) and Eptifibatide (Integrillin) are derived from disintegrin molecules found in the venoms of the saw&#x02010;scaled viper (<italic>Echis carinatus</italic>) and the dusky pygmy rattlesnake (<italic>Sistrurus miliarius barbouri</italic>) respectively. Both these disintegrins exhibit potent inhibition of the integrin receptor &#x003b1;<sub>2</sub>&#x003b2;<sub>3</sub>, thereby preventing the aggregation of platelets. Both toxins were developed synthetically; as a non&#x02010;peptidic molecule in the case of Tirofiban and as a cyclic heptapeptide analogue for Eptifibatide (McCleary <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0059" ref-type="ref">2015</xref>). Consequently, these anticoagulant therapeutics function by effectively inhibiting platelet aggregation and they are indicated for use in patients suffering from unstable angina and myocardial infarctions (Peerlinck <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0066" ref-type="ref">1993</xref>; Scarborough, <xref rid="bjh14591-bib-0075" ref-type="ref">1999</xref>).</p><p>Batroxobin is a drug developed from a serine protease toxin (SVSP) isolated from the venom of the Brazilian lancehead viper (<italic>Bothrops moojeni</italic>). As with many SVSPs, this enzymatic toxin exhibits potent specificity for fibrinogen, in this case effectively releasing fibrinopeptide A via cleavage of the &#x003b1;&#x02010;chain of fibrinogen (McCleary <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0059" ref-type="ref">2015</xref>). Such thrombin&#x02010;like SVSP enzymes also benefit from not being inhibited by classical serine protease inhibitors, whether endogenous (e.g. antithrombin III) or exogenous (e.g. hirudin) (Hutton &#x00026; Warrell, <xref rid="bjh14591-bib-0042" ref-type="ref">1993</xref>; McCleary <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0059" ref-type="ref">2015</xref>). Although the fibrinogenolytic activity of batroxobin initially promotes the formation of clots, it is an anticoagulant drug of relevance for treating thrombotic disorders, as the degradation of fibrinogen leads to defibrination and, secondarily and indirectly, this in turn induces the release of tissue plasminogen activator, which converts plasminogen into plasmin and promotes the degradation of clots (McCleary <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0059" ref-type="ref">2015</xref>). Specific indications for batroxobin include the treatment of ischaemic stroke, angina, myocardial and cerebral infraction and wound management after surgical interventions (Xu <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0098" ref-type="ref">2007</xref>; Phillips <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0067" ref-type="ref">2010</xref>).</p><p>Similarly, Ancrod (Arvin/Arwin/Viprinex), isolated from the venom of the Malayan pit viper (<italic>Calloselasma rhodostoma</italic>), is another well&#x02010;known SVSP that readily degrades fibrinogen, resulting in defibrination. Ancrod was also developed for use as an anticoagulant and indicated for the treatment of ischaemic stroke, myocardial infarction and&#x000a0;deep&#x02010;vein thrombosis (Marsh &#x00026; Williams, <xref rid="bjh14591-bib-0057" ref-type="ref">2005</xref>), and showed potential benefit to patients suffering from heparin&#x02010;associated thrombocytopenia and thrombosis syndrome (Illig &#x00026; Ouriel, <xref rid="bjh14591-bib-0043" ref-type="ref">1996</xref>). However, over the course of many years equivocal results from clinical trials have since resulted in Ancrod being suspended from use (McCleary <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0059" ref-type="ref">2015</xref>). Similarly, another defibrinating toxin, this time a synthetic form of an SVMP found in the venom of the copperhead (<italic>Agkistrodon contortrix</italic>), failed to meet desired endpoints in phase III clinical trials, despite positive results in phase I and II trials (Moll <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0061" ref-type="ref">2006</xref>; Han <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0038" ref-type="ref">2010</xref>). Consequently, the manufacturer withdrew this therapeutic, known as Alfimeprase, from further development.</p><p>Despite these setbacks, pharmaceutical manufacturers continue to pursue the development of venom components as future therapeutic agents for treating haemostatic disturbances. For example, other fibrinogenolytic SVSPs are currently in development, including &#x02018;hemocogulase agkistrodon&#x02019; isolated from the Chinese moccasin (<italic>Deinagkistrodon acutus</italic>) and &#x02018;crotalase&#x02019; from the Eastern diamondback rattlesnake (<italic>Crotalus adamanteus</italic>) (McCleary <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0059" ref-type="ref">2015</xref>). Both of these serine protease toxins are in early development as anticoagulant therapeutics, with predicted indications including decreasing clotting times during surgical procedures (McCleary <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0059" ref-type="ref">2015</xref>). Various venom toxins isolated from the venom of the Eastern brown snake (<italic>P.&#x000a0;textilis</italic>) are also currently in development as haemostatic agents. The kunitz&#x02010;type serine protease inhibitor Textilinin&#x02010;1 inhibits plasmin, and has little&#x02010;to&#x02010;no effect on other serine proteases. This toxin therefore exhibits desirable characteristics as an anti&#x02010;fibrinolytic drug and, under the moniker Q8008, is being developed for use for reducing blood loss associated with complex surgeries (Earl <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0025" ref-type="ref">2010</xref>). In addition, the activated Factor X&#x02010; and Factor V&#x02010;like toxins found in <italic>P.&#x000a0;textilis</italic> venom are also being translated into novel therapeutics to control bleeding. The Factor Xa&#x02010;like protein is being developed under the name of Haempatch to control bleeding at sites of trauma or surgery, whereas the Factor Va&#x02010;like protein, CoVase, is being assessed for its utility for combating non&#x02010;compressible haemorrhage (Earl <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0025" ref-type="ref">2010</xref>; McCleary <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0059" ref-type="ref">2015</xref>).</p><p>Haemotoxic components isolated from snake venoms are also commonly used for diagnostic purposes, particularly relating to blood clotting tests. For example, the SVMP toxin ecarin, a calcium independent prothrombin activator from the saw&#x02010;scaled viper (<italic>E.&#x000a0;carinatus</italic>), has been used for over two decades as a standard in the ecarin clotting time test. This assay is used for the quantification of direct thrombin inhibitors, and has proven particularly useful as a means to monitor levels of drugs, such as hirudin, during anticoagulant therapy (Nowak, <xref rid="bjh14591-bib-0064" ref-type="ref">2004</xref>). Ecarin is also used in a diagnostic test for lupus anticoagulants, alongside textarin from the Eastern brown snake (<italic>P.&#x000a0;textilis</italic>) (Stocker <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0082" ref-type="ref">1994</xref>). Using the variable specificity of these two procoagulant venom toxins, of which ecarin acts independently of cofactors whereas textarin requires phospholipids, calcium and factor V, to compare patient clotting times circumvents issues with lupus antibodies interfering with phospholipids, which other coagulation tests typically rely upon (Triplett <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0087" ref-type="ref">1993</xref>). One such assay, the dilute Russell's viper venom time test (dRVVT test), also harnesses the procoagulant effect of snake venom as a clotting standard. In this case, coagulation is primarily the result of the SVMP Factor X activator RVV&#x02010;X and the SVSP Factor V activator RVV&#x02010;V and, consequently, Russell's viper venom has been used to assay blood clotting factors V and X, as well as lupus anticoagulants (Marsh &#x00026; Williams, <xref rid="bjh14591-bib-0057" ref-type="ref">2005</xref>). Finally, a protein C activating SVSP, protac, isolated from venom of the copperhead (<italic>Agkistrodon contortrix</italic>) (Stocker <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0081" ref-type="ref">1987</xref>) is used in protein C and protein S diagnostic assays to test for activated protein C resistance, whereas the SVSP reptilase, from the lancehead viper (<italic>Bothrops atrox</italic>), is used to screen for heparin contamination in plasma, as its fibrinogenolytic activity is unaffected by heparin (Funk <italic>et&#x000a0;al</italic>, <xref rid="bjh14591-bib-0033" ref-type="ref">1971</xref>).</p></sec><sec id="bjh14591-sec-0006"><title>Summary</title><p>Snake venom haemotoxins exhibit diverse functionalities that can result in haemorrhagic, coagulopathic and/or hypotensive pathology in snakebite victims. The functional diversity of these toxins and their relative abundance in many venoms, particularly those of vipers, mean that such haemotoxins are likely to act in a synergistic manner to perturb haemostasis. While providing an effective means for the snakes to catch their prey, for example by causing ischaemic or haemorrhagic events or shock due to systemic hypotension, the consequences for human snakebite victims can also be lethal. Consequently, furthering our understanding of the bioactivity of venom haemotoxins and their variation from one snake species to the next is essential for the design of next&#x02010;generation antivenom therapies. In addition, venom haemotoxins remain highly relevant for use as investigational ligands for understanding vertebrate physiology due to their high levels of selectivity and potency, and also for the development of new therapeutic and diagnostic pharmaceuticals relevant for human medicine.</p></sec></body><back><ack id="bjh14591-sec-0007"><title>Acknowledgments</title><p>All authors contributed to the literature analysis and the drafting of the manuscript. NRC produced the figures. NRC is supported by a Sir Henry Dale Fellowship (200517/Z/16/Z) jointly funded by the Wellcome Trust and the Royal Society. RAH and NRC also acknowledge funding from the UK Medical Research Council (standard grant MR/L01839X/1 and Confidence in Concept grant MC_PC_15040).</p></ack><ref-list content-type="cited-references" id="bjh14591-bibl-0001"><title>References</title><ref id="bjh14591-bib-0001"><mixed-citation publication-type="journal" id="bjh14591-cit-0001">
+<string-name>
+<surname>Abubakar</surname>, <given-names>I.S.</given-names>
+</string-name>, <string-name>
+<surname>Abubakar</surname>, <given-names>S.B.</given-names>
+</string-name>, <string-name>
+<surname>Habib</surname>, <given-names>A.G.</given-names>
+</string-name>, <string-name>
+<surname>Nasidi</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Durfa</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Yusuf</surname>, <given-names>P.O.</given-names>
+</string-name>, <string-name>
+<surname>Larnyang</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Garnvwa</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Sokomba</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Salako</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Theakston</surname>, <given-names>R.D.G.</given-names>
+</string-name>, <string-name>
+<surname>Juszczak</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Alder</surname>, <given-names>N.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Warrell</surname>, <given-names>D.A.</given-names>
+</string-name> (<year>2010</year>) <article-title>Randomised controlled double&#x02010;blind non&#x02010;inferiority trial of two antivenoms for saw&#x02010;scaled or carpet viper (<italic>Echis ocellatus</italic>) envenoming in Nigeria</article-title>. <source>PLoS Neglected Tropical Diseases</source>, <volume>4</volume>, <fpage>e767</fpage>.<pub-id pub-id-type="pmid">20668549</pub-id></mixed-citation></ref><ref id="bjh14591-bib-0002"><mixed-citation publication-type="journal" id="bjh14591-cit-0002">
+<string-name>
+<surname>Alirol</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Sharma</surname>, <given-names>S.K.</given-names>
+</string-name>, <string-name>
+<surname>Bawaskar</surname>, <given-names>H.S.</given-names>
+</string-name>, <string-name>
+<surname>Kuch</surname>, <given-names>U.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Chappuis</surname>, <given-names>F.</given-names>
+</string-name> (<year>2010</year>) <article-title>Snake bite in South Asia: a review</article-title>. <source>PLoS Neglected Tropical Diseases</source>, <volume>4</volume>, <fpage>e603</fpage>.<pub-id pub-id-type="pmid">20126271</pub-id></mixed-citation></ref><ref id="bjh14591-bib-0003"><mixed-citation publication-type="journal" id="bjh14591-cit-0003">
+<string-name>
+<surname>Alirol</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Lechevalier</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Zamatto</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Chappuis</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Alcoba</surname>, <given-names>G.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Potet</surname>, <given-names>J.</given-names>
+</string-name> (<year>2015</year>) <article-title>Antivenoms for snakebite envenoming: what is in the research pipeline?</article-title>
+<source>PLOS Neglected Tropical Diseases</source>, <volume>9</volume>, <fpage>e0003896</fpage>.<pub-id pub-id-type="pmid">26355744</pub-id></mixed-citation></ref><ref id="bjh14591-bib-0004"><mixed-citation publication-type="journal" id="bjh14591-cit-0004">
+<string-name>
+<surname>Amiconi</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Amoresano</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Boumis</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Brancaccio</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>De Cristofaro</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>De Pascalis</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Di Girolamo</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Maras</surname>, <given-names>B.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Scaloni</surname>, <given-names>A.</given-names>
+</string-name> (<year>2000</year>) <article-title>A novel venombin B from <italic>Agkistrodon contortrix contortrix</italic>: evidence for recognition properties in the surface around the primary specificity pocket different from thrombin</article-title>. <source>Biochemistry</source>, <volume>39</volume>, <fpage>10294</fpage>&#x02013;<lpage>10308</lpage>.<pub-id pub-id-type="pmid">10956019</pub-id></mixed-citation></ref><ref id="bjh14591-bib-0005"><mixed-citation publication-type="journal" id="bjh14591-cit-0005">
+<string-name>
+<surname>Andri&#x000e3;o&#x02010;Escarso</surname>, <given-names>S.H.</given-names>
+</string-name>, <string-name>
+<surname>Soares</surname>, <given-names>A.M.</given-names>
+</string-name>, <string-name>
+<surname>Fontes</surname>, <given-names>M.R.</given-names>
+</string-name>, <string-name>
+<surname>Fuly</surname>, <given-names>A.L.</given-names>
+</string-name>, <string-name>
+<surname>Corr&#x000ea;a</surname>, <given-names>F.M.</given-names>
+</string-name>, <string-name>
+<surname>Rosa</surname>, <given-names>J.C.</given-names>
+</string-name>, <string-name>
+<surname>Greene</surname>, <given-names>L.J.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Giglio</surname>, <given-names>J.R.</given-names>
+</string-name> (<year>2002</year>) <article-title>Structural and functional characterization of an acidic platelet aggregation inhibitor and hypotensive phospholipase A2 from <italic>Bothrops jararacussu</italic> snake venom</article-title>. <source>Biochemical Pharmacology</source>, <volume>64</volume>, <fpage>723</fpage>&#x02013;<lpage>732</lpage>.<pub-id pub-id-type="pmid">12167491</pub-id></mixed-citation></ref><ref id="bjh14591-bib-0006"><mixed-citation publication-type="journal" id="bjh14591-cit-0006">
+<string-name>
+<surname>Antonypillai</surname>, <given-names>C.N.</given-names>
+</string-name>, <string-name>
+<surname>Wass</surname>, <given-names>J.A.H.</given-names>
+</string-name>, <string-name>
+<surname>Warrell</surname>, <given-names>D.A.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Rajaratnam</surname>, <given-names>H.N.</given-names>
+</string-name> (<year>2011</year>) <article-title>Hypopituitarism following envenoming by Russell's vipers (<italic>Daboia siamensis and D. russelii</italic>) resembling Sheehan's syndrome: first case report from Sri Lanka, a review of the literature and recommendations for endocrine management</article-title>. <source>QJM</source>, <volume>104</volume>, <fpage>97</fpage>&#x02013;<lpage>108</lpage>.<pub-id pub-id-type="pmid">21115460</pub-id></mixed-citation></ref><ref id="bjh14591-bib-0007"><mixed-citation publication-type="book" id="bjh14591-cit-0007">
+<string-name>
+<surname>Arlinghaus</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Fry</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Sunagar</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Jackson</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Eble</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Reeks</surname>, <given-names>T.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Clemetson</surname>, <given-names>K.</given-names>
+</string-name> (<year>2015</year>) <chapter-title>Lectin proteins</chapter-title> In: <source>Venomous Reptiles &#x00026; Their Toxins: Evolution, Pathophysiology &#x00026; Biodiscovery</source> (ed. by <person-group person-group-type="editor"><name><surname>Fry</surname><given-names>B.</given-names></name></person-group>), pp. <fpage>299</fpage>&#x02013;<lpage>3311</lpage>. <publisher-name>Oxford University Press</publisher-name>, <publisher-loc>New York</publisher-loc>.</mixed-citation></ref><ref id="bjh14591-bib-0008"><mixed-citation publication-type="journal" id="bjh14591-cit-0008">
+<string-name>
+<surname>Arnold</surname>, <given-names>C.</given-names>
+</string-name> (<year>2016</year>) <article-title>Vipers, mambas and taipans: the escalating health crisis over snakebites</article-title>. <source>Nature</source>, <volume>537</volume>, <fpage>26</fpage>&#x02013;<lpage>28</lpage>.<pub-id pub-id-type="pmid">27582205</pub-id></mixed-citation></ref><ref id="bjh14591-bib-0009"><mixed-citation publication-type="journal" id="bjh14591-cit-0009">
+<string-name>
+<surname>Berling</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Brown</surname>, <given-names>S.G.A.</given-names>
+</string-name>, <string-name>
+<surname>Miteff</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Levi</surname>, <given-names>C.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Isbister</surname>, <given-names>G.K.</given-names>
+</string-name> (<year>2015</year>) <article-title>Intracranial haemorrhages associated with venom induced consumption coagulopathy in Australian snakebites (ASP&#x02010;21)</article-title>. <source>Toxicon</source>, <volume>102</volume>, <fpage>8</fpage>&#x02013;<lpage>13</lpage>.<pub-id pub-id-type="pmid">26003794</pub-id></mixed-citation></ref><ref id="bjh14591-bib-0010"><mixed-citation publication-type="journal" id="bjh14591-cit-0010">
+<string-name>
+<surname>Calvete</surname>, <given-names>J.J.</given-names>
+</string-name>, <string-name>
+<surname>Marcinkiewicz</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Monle&#x000f3;n</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Esteve</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Celda</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Ju&#x000e1;rez</surname>, <given-names>P.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Sanz</surname>, <given-names>L.</given-names>
+</string-name> (<year>2005</year>) <article-title>Snake venom disintegrins: evolution of structure and function</article-title>. <source>Toxicon</source>, <volume>45</volume>, <fpage>1063</fpage>&#x02013;<lpage>1074</lpage>.<pub-id pub-id-type="pmid">15922775</pub-id></mixed-citation></ref><ref id="bjh14591-bib-0011"><mixed-citation publication-type="book" id="bjh14591-cit-0011">
+<string-name>
+<surname>Calvete</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Juarez</surname>, <given-names>P.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Sanz</surname>, <given-names>L.</given-names>
+</string-name> (<year>2010</year>) <chapter-title>Snake venomics and disintegrins: potrait and evolution of a family of snake venom integrin antagonists</chapter-title> In: <source>Handbook of Venom and Toxins of Reptiles</source> (ed. by <person-group person-group-type="editor"><name><surname>Mackessy</surname><given-names>S.P.</given-names></name></person-group>), pp. <fpage>337</fpage>&#x02013;<lpage>357</lpage>. <publisher-name>CRC Press</publisher-name>, <publisher-loc>Boca Raton</publisher-loc>.</mixed-citation></ref><ref id="bjh14591-bib-0012"><mixed-citation publication-type="journal" id="bjh14591-cit-0012">
+<string-name>
+<surname>Camargo</surname>, <given-names>A.C.M.</given-names>
+</string-name>, <string-name>
+<surname>Ianzer</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Guerreiro</surname>, <given-names>J.R.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Serrano</surname>, <given-names>S.M.T.</given-names>
+</string-name> (<year>2012</year>) <article-title>Bradykinin&#x02010;potentiating peptides: beyond captopril</article-title>. <source>Toxicon</source>, <volume>59</volume>, <fpage>516</fpage>&#x02013;<lpage>523</lpage>.<pub-id pub-id-type="pmid">21835190</pub-id></mixed-citation></ref><ref id="bjh14591-bib-0013"><mixed-citation publication-type="journal" id="bjh14591-cit-0013">
+<string-name>
+<surname>Casewell</surname>, <given-names>N.R.</given-names>
+</string-name>, <string-name>
+<surname>Cook</surname>, <given-names>D.A.N.</given-names>
+</string-name>, <string-name>
+<surname>Wagstaff</surname>, <given-names>S.C.</given-names>
+</string-name>, <string-name>
+<surname>Nasidi</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Durfa</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>W&#x000fc;ster</surname>, <given-names>W.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Harrison</surname>, <given-names>R.A.</given-names>
+</string-name> (<year>2010</year>) <article-title>Pre&#x02010;clinical assays predict pan&#x02010;African <italic>Echis</italic> viper efficacy for a species&#x02010;specific antivenom</article-title>. <source>PLoS Neglected Tropical Diseases</source>, <volume>4</volume>, <fpage>e851</fpage>.<pub-id pub-id-type="pmid">21049058</pub-id></mixed-citation></ref><ref id="bjh14591-bib-0014"><mixed-citation publication-type="journal" id="bjh14591-cit-0014">
+<string-name>
+<surname>Casewell</surname>, <given-names>N.R.</given-names>
+</string-name>, <string-name>
+<surname>Wagstaff</surname>, <given-names>S.C.</given-names>
+</string-name>, <string-name>
+<surname>Harrison</surname>, <given-names>R.A.</given-names>
+</string-name>, <string-name>
+<surname>Renjifo</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Wuster</surname>, <given-names>W.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>W&#x000fc;ster</surname>, <given-names>W.</given-names>
+</string-name> (<year>2011</year>) <article-title>Domain loss facilitates accelerated evolution and neofunctionalization of duplicate snake venom metalloproteinase toxin genes</article-title>. <source>Molecular Biology and Evolution</source>, <volume>28</volume>, <fpage>2637</fpage>&#x02013;<lpage>2649</lpage>.<pub-id pub-id-type="pmid">21478373</pub-id></mixed-citation></ref><ref id="bjh14591-bib-0015"><mixed-citation publication-type="journal" id="bjh14591-cit-0015">
+<string-name>
+<surname>Casewell</surname>, <given-names>N.R.</given-names>
+</string-name>, <string-name>
+<surname>W&#x000fc;ster</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Vonk</surname>, <given-names>F.J.</given-names>
+</string-name>, <string-name>
+<surname>Harrison</surname>, <given-names>R.A.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Fry</surname>, <given-names>B.G.</given-names>
+</string-name> (<year>2013</year>) <article-title>Complex cocktails: the evolutionary novelty of venoms</article-title>. <source>Trends in Ecology &#x00026; Evolution</source>, <volume>28</volume>, <fpage>219</fpage>&#x02013;<lpage>229</lpage>.<pub-id pub-id-type="pmid">23219381</pub-id></mixed-citation></ref><ref id="bjh14591-bib-0016"><mixed-citation publication-type="journal" id="bjh14591-cit-0016">
+<string-name>
+<surname>Casewell</surname>, <given-names>N.R.</given-names>
+</string-name>, <string-name>
+<surname>Wagstaff</surname>, <given-names>S.C.</given-names>
+</string-name>, <string-name>
+<surname>W&#x000fc;ster</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Cook</surname>, <given-names>D.A.N.</given-names>
+</string-name>, <string-name>
+<surname>Bolton</surname>, <given-names>F.M.S.</given-names>
+</string-name>, <string-name>
+<surname>King</surname>, <given-names>S.I.</given-names>
+</string-name>, <string-name>
+<surname>Pla</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Sanz</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Calvete</surname>, <given-names>J.J.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Harrison</surname>, <given-names>R.A.</given-names>
+</string-name> (<year>2014</year>) <article-title>Medically important differences in snake venom composition are dictated by distinct postgenomic mechanisms</article-title>. <source>Proceedings of the National Academy of Sciences of the United States of America</source>, <volume>111</volume>, <fpage>9205</fpage>&#x02013;<lpage>9210</lpage>.<pub-id pub-id-type="pmid">24927555</pub-id></mixed-citation></ref><ref id="bjh14591-bib-0017"><mixed-citation publication-type="book" id="bjh14591-cit-0017">
+<string-name>
+<surname>Casewell</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Sunagar</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Takacs</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Calvete</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Jackson</surname>, <given-names>T.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Fry</surname>, <given-names>B.</given-names>
+</string-name> (<year>2015</year>) <chapter-title>Snake venom metalloprotease enzymes</chapter-title> In: <source>Venomous Reptiles &#x00026; Their Toxins: Evolution, Pathophysiology &#x00026; Biodiscovery</source> (ed. by <person-group person-group-type="editor"><name><surname>Fry</surname><given-names>B.</given-names></name></person-group>), pp. <fpage>347</fpage>&#x02013;<lpage>363</lpage>. <publisher-name>Oxford University Press</publisher-name>, <publisher-loc>New York</publisher-loc>.</mixed-citation></ref><ref id="bjh14591-bib-0018"><mixed-citation publication-type="book" id="bjh14591-cit-0018">
+<string-name>
+<surname>Chakrabarty</surname>, <given-names>D.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Chanda</surname>, <given-names>C.</given-names>
+</string-name> (<year>2015</year>) <chapter-title>Snake venom disintegrins</chapter-title> In: <source>Snake Venoms</source>, (ed. by <person-group person-group-type="editor"><name><surname>Gopalkrishnakone</surname><given-names>P.</given-names></name></person-group>), pp. <fpage>1</fpage>&#x02013;<lpage>11</lpage>. Living Reference Work, <publisher-name>Springer</publisher-name>, <publisher-loc>Dordrecht</publisher-loc>.</mixed-citation></ref><ref id="bjh14591-bib-0019"><mixed-citation publication-type="journal" id="bjh14591-cit-0019">
+<string-name>
+<surname>Chippaux</surname>, <given-names>J.P.</given-names>
+</string-name> (<year>1998</year>) <article-title>Snakebites: appraisal of the global situation</article-title>. <source>Bulletin of the World Health Organisation</source>, <volume>76</volume>, <fpage>515</fpage>&#x02013;<lpage>524</lpage>.</mixed-citation></ref><ref id="bjh14591-bib-0020"><mixed-citation publication-type="book" id="bjh14591-cit-0020">
+<string-name>
+<surname>Chippaux</surname>, <given-names>J.P.</given-names>
+</string-name> (<year>2010</year>) <chapter-title>Snakebite in Africa: current situation and urgent needs</chapter-title> In: <source>Handbook of Venom and Toxins of Reptiles</source> (ed. by <person-group person-group-type="editor"><name><surname>Mackessy</surname><given-names>S.P.</given-names></name></person-group>), pp. <fpage>453</fpage>&#x02013;<lpage>474</lpage>. <publisher-name>CRC Press</publisher-name>, <publisher-loc>Boca Raton</publisher-loc>.</mixed-citation></ref><ref id="bjh14591-bib-0021"><mixed-citation publication-type="journal" id="bjh14591-cit-0021">
+<string-name>
+<surname>Chippaux</surname>, <given-names>J.P.</given-names>
+</string-name>, <string-name>
+<surname>Williams</surname>, <given-names>V.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>White</surname>, <given-names>J.</given-names>
+</string-name> (<year>1991</year>) <article-title>Snake venom variability: methods of study, results and interpretation</article-title>. <source>Toxicon</source>, <volume>29</volume>, <fpage>1279</fpage>&#x02013;<lpage>1303</lpage>.<pub-id pub-id-type="pmid">1814005</pub-id></mixed-citation></ref><ref id="bjh14591-bib-0022"><mixed-citation publication-type="journal" id="bjh14591-cit-0022">
+<string-name>
+<surname>Cousin</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Bon</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Massouli&#x000e9;</surname>, <given-names>J.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Bon</surname>, <given-names>C.</given-names>
+</string-name> (<year>1998</year>) <article-title>Identification of a novel type of alternatively spliced exon from the acetylcholinesterase gene of <italic>Bungarus fasciatus</italic>. Molecular forms of acetylcholinesterase in the snake liver and muscle</article-title>. <source>The Journal of Biological Chemistry</source>, <volume>273</volume>, <fpage>9812</fpage>&#x02013;<lpage>9820</lpage>.<pub-id pub-id-type="pmid">9545320</pub-id></mixed-citation></ref><ref id="bjh14591-bib-0023"><mixed-citation publication-type="journal" id="bjh14591-cit-0023">
+<string-name>
+<surname>Deshpande</surname>, <given-names>R.P.</given-names>
+</string-name>, <string-name>
+<surname>Motghare</surname>, <given-names>V.M.</given-names>
+</string-name>, <string-name>
+<surname>Padwal</surname>, <given-names>S.L.</given-names>
+</string-name>, <string-name>
+<surname>Pore</surname>, <given-names>R.R.</given-names>
+</string-name>, <string-name>
+<surname>Bhamare</surname>, <given-names>C.G.</given-names>
+</string-name>, <string-name>
+<surname>Deshmukh</surname>, <given-names>V.S.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Pise</surname>, <given-names>H.N.</given-names>
+</string-name> (<year>2013</year>) <article-title>Adverse drug reaction profile of anti&#x02010;snake venom in a rural tertiary care teaching hospital</article-title>. <source>Journal of Young Pharmacists</source>, <volume>5</volume>, <fpage>41</fpage>&#x02013;<lpage>45</lpage>.<pub-id pub-id-type="pmid">24396245</pub-id></mixed-citation></ref><ref id="bjh14591-bib-0024"><mixed-citation publication-type="journal" id="bjh14591-cit-0024">
+<string-name>
+<surname>Durban</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>P&#x000e9;rez</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Sanz</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>G&#x000f3;mez</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Bonilla</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Rodr&#x000ed;guez</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Chac&#x000f3;n</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Sasa</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Angulo</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Guti&#x000e9;rrez</surname>, <given-names>J.M.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Calvete</surname>, <given-names>J.J.</given-names>
+</string-name> (<year>2013</year>) <article-title>Integrated &#x02018;omics&#x02019; profiling indicates that miRNAs are modulators of the ontogenetic venom composition shift in the Central American rattlesnake, Crotalus simus simus</article-title>. <source>BMC Genomics</source>, <volume>14</volume>, <fpage>234</fpage>.<pub-id pub-id-type="pmid">23575160</pub-id></mixed-citation></ref><ref id="bjh14591-bib-0025"><mixed-citation publication-type="journal" id="bjh14591-cit-0025">
+<string-name>
+<surname>Earl</surname>, <given-names>S.T.H.</given-names>
+</string-name>, <string-name>
+<surname>Masci</surname>, <given-names>P.P.</given-names>
+</string-name>, <string-name>
+<surname>De Jersey</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Lavin</surname>, <given-names>M.F.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Dixon</surname>, <given-names>J.</given-names>
+</string-name> (<year>2010</year>) <article-title>Drug development from Australian elapid snake venoms and the Venomics pipeline of candidates for haemostasis: Textilinin&#x02010;1 (Q8008), Haempatch<sup>TM</sup> (Q8009) and CoVase<sup>&#x02122;</sup> (V0801)</article-title>. <source>Toxicon</source>, <volume>1</volume>, <fpage>1</fpage>&#x02013;<lpage>8</lpage>.</mixed-citation></ref><ref id="bjh14591-bib-0026"><mixed-citation publication-type="journal" id="bjh14591-cit-0026">
+<string-name>
+<surname>Escalante</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Rucavado</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Pinto</surname>, <given-names>A.F.M.</given-names>
+</string-name>, <string-name>
+<surname>Terra</surname>, <given-names>R.M.S.</given-names>
+</string-name>, <string-name>
+<surname>Guti&#x000e9;rrez</surname>, <given-names>J.M.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Fox</surname>, <given-names>J.W.</given-names>
+</string-name> (<year>2009</year>) <article-title>Wound exudate as a proteomic window to reveal different mechanisms of tissue damage by snake venom toxins</article-title>. <source>Journal of Proteome Research</source>, <volume>8</volume>, <fpage>5120</fpage>&#x02013;<lpage>5131</lpage>.<pub-id pub-id-type="pmid">19764775</pub-id></mixed-citation></ref><ref id="bjh14591-bib-0027"><mixed-citation publication-type="journal" id="bjh14591-cit-0027">
+<string-name>
+<surname>Ferreira</surname>, <given-names>S.H.</given-names>
+</string-name>, <string-name>
+<surname>Bartelt</surname>, <given-names>D.C.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Greene</surname>, <given-names>L.J.</given-names>
+</string-name> (<year>1970</year>) <article-title>Isolation of bradykinin&#x02010;potentiating peptides from <italic>Bothrops jararaca</italic> venom</article-title>. <source>Biochemistry</source>, <volume>9</volume>, <fpage>2583</fpage>&#x02013;<lpage>2593</lpage>.<pub-id pub-id-type="pmid">4317874</pub-id></mixed-citation></ref><ref id="bjh14591-bib-0028"><mixed-citation publication-type="journal" id="bjh14591-cit-0028">
+<string-name>
+<surname>Flight</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Johnson</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Trabi</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Gaffney</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Lavin</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>de Jersey</surname>, <given-names>J.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Masci</surname>, <given-names>P.</given-names>
+</string-name> (<year>2005</year>) <article-title>Comparison of textilinin&#x02010;1 with aprotinin as serine protease inhibitors and as antifibrinolytic agents</article-title>. <source>Pathophysiology of Haemostasis and Thrombosis</source>, <volume>34</volume>, <fpage>188</fpage>&#x02013;<lpage>193</lpage>.<pub-id pub-id-type="pmid">16707925</pub-id></mixed-citation></ref><ref id="bjh14591-bib-0029"><mixed-citation publication-type="journal" id="bjh14591-cit-0029">
+<string-name>
+<surname>Flight</surname>, <given-names>S.M.</given-names>
+</string-name>, <string-name>
+<surname>Johnson</surname>, <given-names>L.A.</given-names>
+</string-name>, <string-name>
+<surname>Du</surname>, <given-names>Q.S.</given-names>
+</string-name>, <string-name>
+<surname>Warner</surname>, <given-names>R.L.</given-names>
+</string-name>, <string-name>
+<surname>Trabi</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Gaffney</surname>, <given-names>P.J.</given-names>
+</string-name>, <string-name>
+<surname>Lavin</surname>, <given-names>M.F.</given-names>
+</string-name>, <string-name>
+<surname>de Jersey</surname>, <given-names>J.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Masci</surname>, <given-names>P.P.</given-names>
+</string-name> (<year>2009</year>) <article-title>Textilinin&#x02010;1, an alternative anti&#x02010;bleeding agent to aprotinin: importance of plasmin inhibition in controlling blood loss</article-title>. <source>British Journal of Haematology</source>, <volume>145</volume>, <fpage>207</fpage>&#x02013;<lpage>211</lpage>.<pub-id pub-id-type="pmid">19236611</pub-id></mixed-citation></ref><ref id="bjh14591-bib-0030"><mixed-citation publication-type="journal" id="bjh14591-cit-0030">
+<string-name>
+<surname>Fox</surname>, <given-names>J.W.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Serrano</surname>, <given-names>S.M.T.</given-names>
+</string-name> (<year>2005</year>) <article-title>Structural considerations of the snake venom metalloproteinases, key members of the M12 reprolysin family of metalloproteinases</article-title>. <source>Toxicon</source>, <volume>45</volume>, <fpage>969</fpage>&#x02013;<lpage>985</lpage>.<pub-id pub-id-type="pmid">15922769</pub-id></mixed-citation></ref><ref id="bjh14591-bib-0031"><mixed-citation publication-type="journal" id="bjh14591-cit-0031">
+<string-name>
+<surname>Fry</surname>, <given-names>B.G.</given-names>
+</string-name>, <string-name>
+<surname>W&#x000fc;ster</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Kini</surname>, <given-names>R.M.</given-names>
+</string-name>, <string-name>
+<surname>Brusic</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Khan</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Venkataraman</surname>, <given-names>D.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Rooney</surname>, <given-names>A.P.</given-names>
+</string-name> (<year>2003</year>) <article-title>Molecular evolution and phylogeny of elapid snake venom three&#x02010;finger toxins</article-title>. <source>Journal of Molecular Evolution</source>, <volume>57</volume>, <fpage>110</fpage>&#x02013;<lpage>129</lpage>.<pub-id pub-id-type="pmid">12962311</pub-id></mixed-citation></ref><ref id="bjh14591-bib-0032"><mixed-citation publication-type="journal" id="bjh14591-cit-0032">
+<string-name>
+<surname>Fry</surname>, <given-names>B.G.</given-names>
+</string-name>, <string-name>
+<surname>Scheib</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>van der Weerd</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Young</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>McNaughtan</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Ramjan</surname>, <given-names>S.F.R.</given-names>
+</string-name>, <string-name>
+<surname>Vidal</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Poelmann</surname>, <given-names>R.E.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Norman</surname>, <given-names>J.A.</given-names>
+</string-name> (<year>2008</year>) <article-title>Evolution of an arsenal: structural and functional diversification of the venom system in the advanced snakes (Caenophidia)</article-title>. <source>Molecular &#x00026; Cellular Proteomics</source>, <volume>7</volume>, <fpage>215</fpage>&#x02013;<lpage>246</lpage>.<pub-id pub-id-type="pmid">17855442</pub-id></mixed-citation></ref><ref id="bjh14591-bib-0033"><mixed-citation publication-type="journal" id="bjh14591-cit-0033">
+<string-name>
+<surname>Funk</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Gm&#x000fc;r</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Herold</surname>, <given-names>R.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Straub</surname>, <given-names>P.W.</given-names>
+</string-name> (<year>1971</year>) <article-title>Reptilase&#x02010;R &#x02010; a new reagent in blood coagulation</article-title>. <source>British Journal of Haematology</source>, <volume>21</volume>, <fpage>43</fpage>&#x02013;<lpage>52</lpage>.<pub-id pub-id-type="pmid">5105276</pub-id></mixed-citation></ref><ref id="bjh14591-bib-0034"><mixed-citation publication-type="book" id="bjh14591-cit-0034">
+<string-name>
+<surname>Greene</surname>, <given-names>H.W.</given-names>
+</string-name> (<year>1997</year>) <source>Snakes : The Evolution of Mystery in Nature</source>. <publisher-name>University of California Press</publisher-name>, <publisher-loc>Berkeley</publisher-loc>.</mixed-citation></ref><ref id="bjh14591-bib-0035"><mixed-citation publication-type="book" id="bjh14591-cit-0035">
+<string-name>
+<surname>Guti&#x000e9;rrez</surname>, <given-names>J.M.</given-names>
+</string-name>, <string-name>
+<surname>Rucavado</surname>, <given-names>A.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Escalante</surname>, <given-names>T.</given-names>
+</string-name> (<year>2010</year>) <chapter-title>Snake venom metalloproteinases: biological roles and participation in the pathophysiology of envenoming</chapter-title> In: <source>Handbook of Venom and Toxins of Reptiles</source> (ed. by <person-group person-group-type="editor"><name><surname>Mackessy</surname><given-names>S.P.</given-names></name></person-group>), pp. <fpage>115</fpage>&#x02013;<lpage>137</lpage>. <publisher-name>CRC Press</publisher-name>, <publisher-loc>Boca Raton</publisher-loc>.</mixed-citation></ref><ref id="bjh14591-bib-0036"><mixed-citation publication-type="journal" id="bjh14591-cit-0036">
+<string-name>
+<surname>Guti&#x000e9;rrez</surname>, <given-names>J.M.</given-names>
+</string-name>, <string-name>
+<surname>Escalante</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Rucavado</surname>, <given-names>A.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Herrera</surname>, <given-names>C.</given-names>
+</string-name> (<year>2016</year>) <article-title>Hemorrhage caused by snake venom metalloproteinases: a journey of discovery and understanding</article-title>. <source>Toxins</source>, <volume>8</volume>, <fpage>93</fpage>.<pub-id pub-id-type="pmid">27023608</pub-id></mixed-citation></ref><ref id="bjh14591-bib-0037"><mixed-citation publication-type="journal" id="bjh14591-cit-0037">
+<string-name>
+<surname>Habib</surname>, <given-names>A.G.</given-names>
+</string-name>, <string-name>
+<surname>Kuznik</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Hamza</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Abdullahi</surname>, <given-names>M.I.</given-names>
+</string-name>, <string-name>
+<surname>Chedi</surname>, <given-names>B.A.</given-names>
+</string-name>, <string-name>
+<surname>Chippaux</surname>, <given-names>J.&#x02010;P.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Warrell</surname>, <given-names>D.A.</given-names>
+</string-name> (<year>2015</year>) <article-title>Snakebite is under appreciated: appraisal of burden from West Africa</article-title>. <source>PLOS Neglected Tropical Diseases</source>, <volume>9</volume>, <fpage>e0004088</fpage>.<pub-id pub-id-type="pmid">26398046</pub-id></mixed-citation></ref><ref id="bjh14591-bib-0038"><mixed-citation publication-type="journal" id="bjh14591-cit-0038">
+<string-name>
+<surname>Han</surname>, <given-names>S.M.</given-names>
+</string-name>, <string-name>
+<surname>Weaver</surname>, <given-names>F.A.</given-names>
+</string-name>, <string-name>
+<surname>Comerota</surname>, <given-names>A.J.</given-names>
+</string-name>, <string-name>
+<surname>Perler</surname>, <given-names>B.A.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Joing</surname>, <given-names>M.</given-names>
+</string-name> (<year>2010</year>) <article-title>Efficacy and safety of alfimeprase in patients with acute peripheral arterial occlusion (PAO)</article-title>. <source>Journal of Vascular Surgery</source>, <volume>51</volume>, <fpage>600</fpage>&#x02013;<lpage>609</lpage>.<pub-id pub-id-type="pmid">20110153</pub-id></mixed-citation></ref><ref id="bjh14591-bib-0039"><mixed-citation publication-type="journal" id="bjh14591-cit-0039">
+<string-name>
+<surname>Harrison</surname>, <given-names>R.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Guti&#x000e9;rrez</surname>, <given-names>J.</given-names>
+</string-name> (<year>2016</year>) <article-title>Priority actions and progress to substantially and sustainably reduce the mortality, morbidity and socioeconomic burden of tropical snakebite</article-title>. <source>Toxins</source>, <volume>8</volume>, <fpage>351</fpage>.</mixed-citation></ref><ref id="bjh14591-bib-0040"><mixed-citation publication-type="journal" id="bjh14591-cit-0040">
+<string-name>
+<surname>Harrison</surname>, <given-names>R.A.</given-names>
+</string-name>, <string-name>
+<surname>Hargreaves</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Wagstaff</surname>, <given-names>S.C.</given-names>
+</string-name>, <string-name>
+<surname>Faragher</surname>, <given-names>B.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Lalloo</surname>, <given-names>D.G.</given-names>
+</string-name> (<year>2009</year>) <article-title>Snake envenoming: a disease of poverty</article-title>. <source>PLoS Neglected Tropical Diseases</source>, <volume>3</volume>, <fpage>e569</fpage>.<pub-id pub-id-type="pmid">20027216</pub-id></mixed-citation></ref><ref id="bjh14591-bib-0041"><mixed-citation publication-type="journal" id="bjh14591-cit-0041">
+<string-name>
+<surname>Harrison</surname>, <given-names>R.A.</given-names>
+</string-name>, <string-name>
+<surname>Cook</surname>, <given-names>D.A.</given-names>
+</string-name>, <string-name>
+<surname>Renjifo</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Casewell</surname>, <given-names>N.R.</given-names>
+</string-name>, <string-name>
+<surname>Currier</surname>, <given-names>R.B.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Wagstaff</surname>, <given-names>S.C.</given-names>
+</string-name> (<year>2011</year>) <article-title>Research strategies to improve snakebite treatment: challenges and progress</article-title>. <source>Journal of Proteomics</source>, <volume>74</volume>, <fpage>1768</fpage>&#x02013;<lpage>1780</lpage>.<pub-id pub-id-type="pmid">21723969</pub-id></mixed-citation></ref><ref id="bjh14591-bib-0042"><mixed-citation publication-type="journal" id="bjh14591-cit-0042">
+<string-name>
+<surname>Hutton</surname>, <given-names>R.A.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Warrell</surname>, <given-names>D.A.</given-names>
+</string-name> (<year>1993</year>) <article-title>Action of snake venom components on the haemostatic system</article-title>. <source>Blood Reviews</source>, <volume>7</volume>, <fpage>176</fpage>&#x02013;<lpage>189</lpage>.<pub-id pub-id-type="pmid">8241832</pub-id></mixed-citation></ref><ref id="bjh14591-bib-0043"><mixed-citation publication-type="journal" id="bjh14591-cit-0043">
+<string-name>
+<surname>Illig</surname>, <given-names>K.A.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Ouriel</surname>, <given-names>K.</given-names>
+</string-name> (<year>1996</year>) <article-title>Ancrod: understanding the agent</article-title>. <source>Seminars in Vascular Surgery</source>, <volume>9</volume>, <fpage>303</fpage>&#x02013;<lpage>314</lpage>.<pub-id pub-id-type="pmid">8958607</pub-id></mixed-citation></ref><ref id="bjh14591-bib-0044"><mixed-citation publication-type="journal" id="bjh14591-cit-0044">
+<string-name>
+<surname>Isbister</surname>, <given-names>G.</given-names>
+</string-name> (<year>2010</year>) <article-title>Snakebite doesn't cause disseminated intravascular coagulation: coagulopathy and thrombotic microangiopathy in snake envenoming</article-title>. <source>Seminars in Thrombosis and Hemostasis</source>, <volume>36</volume>, <fpage>444</fpage>&#x02013;<lpage>451</lpage>.<pub-id pub-id-type="pmid">20614396</pub-id></mixed-citation></ref><ref id="bjh14591-bib-0045"><mixed-citation publication-type="journal" id="bjh14591-cit-0045">
+<string-name>
+<surname>Isbister</surname>, <given-names>G.K.</given-names>
+</string-name>, <string-name>
+<surname>Scorgie</surname>, <given-names>F.E.</given-names>
+</string-name>, <string-name>
+<surname>O'Leary</surname>, <given-names>M.A.</given-names>
+</string-name>, <string-name>
+<surname>Seldon</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Brown</surname>, <given-names>S.G.A.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Linz</surname>, <given-names>L.F.</given-names>
+</string-name> (<year>2010</year>) <article-title>Factor deficiencies in venom&#x02010;induced consumption coagulopathy resulting from Australian elapid envenomation: Australian Snakebite Project (ASP&#x02010;10)</article-title>. <source>Journal of Thrombosis and Haemostasis</source>, <volume>8</volume>, <fpage>2504</fpage>&#x02013;<lpage>2513</lpage>.<pub-id pub-id-type="pmid">20831619</pub-id></mixed-citation></ref><ref id="bjh14591-bib-0046"><mixed-citation publication-type="journal" id="bjh14591-cit-0046">
+<string-name>
+<surname>Isbister</surname>, <given-names>G.K.</given-names>
+</string-name>, <string-name>
+<surname>Maduwage</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Scorgie</surname>, <given-names>F.E.</given-names>
+</string-name>, <string-name>
+<surname>Shahmy</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Mohamed</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Abeysinghe</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Karunathilake</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>O'Leary</surname>, <given-names>M.A.</given-names>
+</string-name>, <string-name>
+<surname>Gnanathasan</surname>, <given-names>C.A.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Lincz</surname>, <given-names>L.F.</given-names>
+</string-name> (<year>2015</year>) <article-title>Venom concentrations and clotting factor levels in a prospective cohort of Russell's viper bites with coagulopathy</article-title>. <source>PLoS Neglected Tropical Diseases</source>, <volume>9</volume>, <fpage>e0003968</fpage>.<pub-id pub-id-type="pmid">26296235</pub-id></mixed-citation></ref><ref id="bjh14591-bib-0047"><mixed-citation publication-type="journal" id="bjh14591-cit-0047">
+<string-name>
+<surname>Kasturiratne</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Wickremasinghe</surname>, <given-names>A.R.</given-names>
+</string-name>, <string-name>
+<surname>de Silva</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Gunawardena</surname>, <given-names>N.K.</given-names>
+</string-name>, <string-name>
+<surname>Pathmeswaran</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Premaratna</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Savioli</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Lalloo</surname>, <given-names>D.G.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>de Silva</surname>, <given-names>H.J.</given-names>
+</string-name> (<year>2008</year>) <article-title>The global burden of snakebite: a literature analysis and modelling based on regional estimates of envenoming and deaths</article-title>. <source>PLoS Medicine</source>, <volume>5</volume>, <fpage>e218</fpage>.<pub-id pub-id-type="pmid">18986210</pub-id></mixed-citation></ref><ref id="bjh14591-bib-0048"><mixed-citation publication-type="journal" id="bjh14591-cit-0048">
+<string-name>
+<surname>Katkar</surname>, <given-names>G.D.</given-names>
+</string-name>, <string-name>
+<surname>Sundaram</surname>, <given-names>M.S.</given-names>
+</string-name>, <string-name>
+<surname>NaveenKumar</surname>, <given-names>S.K.</given-names>
+</string-name>, <string-name>
+<surname>Swethakumar</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Sharma</surname>, <given-names>R.D.</given-names>
+</string-name>, <string-name>
+<surname>Paul</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Vishalakshi</surname>, <given-names>G.J.</given-names>
+</string-name>, <string-name>
+<surname>Devaraja</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Girish</surname>, <given-names>K.S.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Kemparaju</surname>, <given-names>K.</given-names>
+</string-name> (<year>2016</year>) <article-title>NETosis and lack of DNase activity are key factors in <italic>Echis carinatus</italic> venom&#x02010;induced tissue destruction</article-title>. <source>Nature Communications</source>, <volume>7</volume>, <fpage>11361</fpage>.</mixed-citation></ref><ref id="bjh14591-bib-0049"><mixed-citation publication-type="book" id="bjh14591-cit-0049">
+<string-name>
+<surname>Kerkkamp</surname>, <given-names>H.M.I.</given-names>
+</string-name>, <string-name>
+<surname>Casewell</surname>, <given-names>N.R.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Vonk</surname>, <given-names>F.J.</given-names>
+</string-name> (<year>2015</year>) <chapter-title>Evolution of the Snake Venom Delivery System</chapter-title> In: <source>Evolution of Venomous Animals and Their Toxins</source>, (ed. by <person-group person-group-type="editor"><name><surname>Gopalkrishnakone</surname><given-names>P.</given-names></name></person-group> &#x00026; <person-group person-group-type="editor"><name><surname>Malhotra</surname><given-names>A.</given-names></name></person-group>), pp. <fpage>1</fpage>&#x02013;<lpage>11</lpage>. Living Reference Work, <publisher-name>Springer</publisher-name>, <publisher-loc>Dordrecht</publisher-loc>.</mixed-citation></ref><ref id="bjh14591-bib-0050"><mixed-citation publication-type="journal" id="bjh14591-cit-0050">
+<string-name>
+<surname>King</surname>, <given-names>G.F.</given-names>
+</string-name> (<year>2011</year>) <article-title>Venoms as a platform for human drugs: translating toxins into therapeutics</article-title>. <source>Expert Opinion on Biological Therapy</source>, <volume>11</volume>, <fpage>1469</fpage>&#x02013;<lpage>1484</lpage>.<pub-id pub-id-type="pmid">21939428</pub-id></mixed-citation></ref><ref id="bjh14591-bib-0051"><mixed-citation publication-type="journal" id="bjh14591-cit-0051">
+<string-name>
+<surname>Kini</surname>, <given-names>R.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Koh</surname>, <given-names>C.</given-names>
+</string-name> (<year>2016</year>) <article-title>Metalloproteases affecting blood coagulation, fibrinolysis and platelet aggregation from snake venoms: definition and nomenclature of interaction sites</article-title>. <source>Toxins</source>, <volume>8</volume>, <fpage>284</fpage>.</mixed-citation></ref><ref id="bjh14591-bib-0052"><mixed-citation publication-type="journal" id="bjh14591-cit-0052">
+<string-name>
+<surname>Lu</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>Clemetson</surname>, <given-names>J.M.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Clemetson</surname>, <given-names>K.J.</given-names>
+</string-name> (<year>2007</year>) <article-title>Snake venom C&#x02010;type lectins interacting with platelet receptors</article-title>. <source>Toxin Reviews</source>, <volume>26</volume>, <fpage>77</fpage>&#x02013;<lpage>93</lpage>.</mixed-citation></ref><ref id="bjh14591-bib-0053"><mixed-citation publication-type="journal" id="bjh14591-cit-0053">
+<string-name>
+<surname>Lynch</surname>, <given-names>V.J.</given-names>
+</string-name> (<year>2007</year>) <article-title>Inventing an arsenal: adaptive evolution and neofunctionalization of snake venom phospholipase A2 genes</article-title>. <source>BMC Evolutionary Biology</source>, <volume>7</volume>, <fpage>2</fpage>.<pub-id pub-id-type="pmid">17233905</pub-id></mixed-citation></ref><ref id="bjh14591-bib-0054"><mixed-citation publication-type="journal" id="bjh14591-cit-0054">
+<string-name>
+<surname>Maduwage</surname>, <given-names>K.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Isbister</surname>, <given-names>G.K.</given-names>
+</string-name> (<year>2014</year>) <article-title>Current treatment for venom&#x02010;induced consumption coagulopathy resulting from snakebite</article-title>. <source>PLoS Neglected Tropical Diseases</source>, <volume>8</volume>, <fpage>e3220</fpage>.<pub-id pub-id-type="pmid">25340841</pub-id></mixed-citation></ref><ref id="bjh14591-bib-0055"><mixed-citation publication-type="journal" id="bjh14591-cit-0055">
+<string-name>
+<surname>Markland</surname>, <given-names>F.S.</given-names>
+</string-name> (<year>1998</year>) <article-title>Snake venom fibrinogenolytic and fibrinolytic enzymes: an updated inventory. Registry of Exogenous Hemostatic Factors of the Scientific and Standardization Committee of the International Society on Thrombosis and Haemostasis</article-title>. <source>Thrombosis and Haemostasis</source>, <volume>79</volume>, <fpage>668</fpage>&#x02013;<lpage>674</lpage>.<pub-id pub-id-type="pmid">9531060</pub-id></mixed-citation></ref><ref id="bjh14591-bib-0056"><mixed-citation publication-type="journal" id="bjh14591-cit-0056">
+<string-name>
+<surname>Marrakchi</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Zingali</surname>, <given-names>R.B.</given-names>
+</string-name>, <string-name>
+<surname>Karoui</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Bon</surname>, <given-names>C.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>el Ayeb</surname>, <given-names>M.</given-names>
+</string-name> (<year>1995</year>) <article-title>Cerastocytin, a new thrombin&#x02010;like platelet activator from the venom of the Tunisian viper <italic>Cerastes cerastes</italic>
+</article-title>. <source>Biochimica et Biophysica Acta</source>, <volume>1244</volume>, <fpage>147</fpage>&#x02013;<lpage>156</lpage>.<pub-id pub-id-type="pmid">7766651</pub-id></mixed-citation></ref><ref id="bjh14591-bib-0057"><mixed-citation publication-type="journal" id="bjh14591-cit-0057">
+<string-name>
+<surname>Marsh</surname>, <given-names>N.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Williams</surname>, <given-names>V.</given-names>
+</string-name> (<year>2005</year>) <article-title>Practical applications of snake venom toxins in haemostasis</article-title>. <source>Toxicon</source>, <volume>45</volume>, <fpage>1171</fpage>&#x02013;<lpage>1181</lpage>.<pub-id pub-id-type="pmid">15922782</pub-id></mixed-citation></ref><ref id="bjh14591-bib-0058"><mixed-citation publication-type="journal" id="bjh14591-cit-0058">
+<string-name>
+<surname>Massey</surname>, <given-names>D.J.</given-names>
+</string-name>, <string-name>
+<surname>Calvete</surname>, <given-names>J.J.</given-names>
+</string-name>, <string-name>
+<surname>S&#x000e1;nchez</surname>, <given-names>E.E.</given-names>
+</string-name>, <string-name>
+<surname>Sanz</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Richards</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Curtis</surname>, <given-names>R.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Boesen</surname>, <given-names>K.</given-names>
+</string-name> (<year>2012</year>) <article-title>Venom variability and envenoming severity outcomes of the <italic>Crotalus scutulatus scutulatus</italic> (Mojave rattlesnake) from Southern Arizona</article-title>. <source>Journal of Proteomics</source>, <volume>75</volume>, <fpage>2576</fpage>&#x02013;<lpage>2587</lpage>.<pub-id pub-id-type="pmid">22446891</pub-id></mixed-citation></ref><ref id="bjh14591-bib-0059"><mixed-citation publication-type="book" id="bjh14591-cit-0059">
+<string-name>
+<surname>McCleary</surname>, <given-names>R.J.R.</given-names>
+</string-name>, <string-name>
+<surname>Kang</surname>, <given-names>T.S.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Kini</surname>, <given-names>R.M.</given-names>
+</string-name> (<year>2015</year>) <chapter-title>Reptile venoms as a platform for drugdevelopment</chapter-title> In: <source>Venoms to Drugs: Venoms as a Source for the Development of Human Therapeutics</source> (ed. by <person-group person-group-type="editor"><name><surname>King</surname><given-names>G.F.</given-names></name></person-group>), pp. <fpage>129</fpage>&#x02013;<lpage>162</lpage>. <publisher-name>Royal Society of Chemistry</publisher-name>, <publisher-loc>Cambridge</publisher-loc>.</mixed-citation></ref><ref id="bjh14591-bib-0060"><mixed-citation publication-type="journal" id="bjh14591-cit-0060">
+<string-name>
+<surname>Modesto</surname>, <given-names>J.C.</given-names>
+</string-name>, <string-name>
+<surname>Junqueira&#x02010;de&#x02010;Azevedo</surname>, <given-names>I.L.M.</given-names>
+</string-name>, <string-name>
+<surname>Neves&#x02010;Ferreira</surname>, <given-names>A.G.C.</given-names>
+</string-name>, <string-name>
+<surname>Fritzen</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Oliva</surname>, <given-names>M.L.V.</given-names>
+</string-name>, <string-name>
+<surname>Ho</surname>, <given-names>P.L.</given-names>
+</string-name>, <string-name>
+<surname>Perales</surname>, <given-names>J.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Chudzinski&#x02010;Tavassi</surname>, <given-names>A.M.</given-names>
+</string-name> (<year>2005</year>) <article-title>Insularinase A, a prothrombin activator from <italic>Bothrops insularis</italic> venom, is a metalloprotease derived from a gene encoding protease and disintegrin domains</article-title>. <source>Biological Chemistry</source>, <volume>386</volume>, <fpage>589</fpage>&#x02013;<lpage>600</lpage>.<pub-id pub-id-type="pmid">16006246</pub-id></mixed-citation></ref><ref id="bjh14591-bib-0061"><mixed-citation publication-type="journal" id="bjh14591-cit-0061">
+<string-name>
+<surname>Moll</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Kenyon</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Bertoli</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>De Maio</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Homesley</surname>, <given-names>H.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Deitcher</surname>, <given-names>S.R.</given-names>
+</string-name> (<year>2006</year>) <article-title>Phase II trial of alfimeprase, a novel&#x02010;acting fibrin degradation agent, for occluded central venous access devices</article-title>. <source>Journal of Clinical Oncology</source>, <volume>24</volume>, <fpage>3056</fpage>&#x02013;<lpage>3060</lpage>.<pub-id pub-id-type="pmid">16809729</pub-id></mixed-citation></ref><ref id="bjh14591-bib-0062"><mixed-citation publication-type="journal" id="bjh14591-cit-0062">
+<string-name>
+<surname>Mosquera</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Idrovo</surname>, <given-names>L.A.</given-names>
+</string-name>, <string-name>
+<surname>Tafur</surname>, <given-names>A.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Del Brutto</surname>, <given-names>O.H.</given-names>
+</string-name> (<year>2003</year>) <article-title>Stroke following <italic>Bothrops spp</italic>. snakebite</article-title>. <source>Neurology</source>, <volume>60</volume>, <fpage>1577</fpage>&#x02013;<lpage>1580</lpage>.<pub-id pub-id-type="pmid">12771244</pub-id></mixed-citation></ref><ref id="bjh14591-bib-0063"><mixed-citation publication-type="journal" id="bjh14591-cit-0063">
+<string-name>
+<surname>Moura&#x02010;da&#x02010;Silva</surname>, <given-names>A.M.</given-names>
+</string-name>, <string-name>
+<surname>Furlan</surname>, <given-names>M.S.</given-names>
+</string-name>, <string-name>
+<surname>Caporrino</surname>, <given-names>M.C.</given-names>
+</string-name>, <string-name>
+<surname>Grego</surname>, <given-names>K.F.</given-names>
+</string-name>, <string-name>
+<surname>Portes&#x02010;Junior</surname>, <given-names>J.A.</given-names>
+</string-name>, <string-name>
+<surname>Clissa</surname>, <given-names>P.B.</given-names>
+</string-name>, <string-name>
+<surname>Valente</surname>, <given-names>R.H.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Magalh&#x000e3;es</surname>, <given-names>G.S.</given-names>
+</string-name> (<year>2011</year>) <article-title>Diversity of metalloproteinases in <italic>Bothrops neuwiedi</italic> snake venom transcripts: evidences for recombination between different classes of SVMPs</article-title>. <source>BMC Genetics</source>, <volume>12</volume>, <fpage>94</fpage>.<pub-id pub-id-type="pmid">22044657</pub-id></mixed-citation></ref><ref id="bjh14591-bib-0064"><mixed-citation publication-type="journal" id="bjh14591-cit-0064">
+<string-name>
+<surname>Nowak</surname>, <given-names>G.</given-names>
+</string-name> (<year>2004</year>) <article-title>The ecarin clotting time, a universal method to quantify direct thrombin inhibitors</article-title>. <source>Pathophysiology of Haemostasis and Thrombosis</source>, <volume>33</volume>, <fpage>173</fpage>&#x02013;<lpage>183</lpage>.</mixed-citation></ref><ref id="bjh14591-bib-0065"><mixed-citation publication-type="journal" id="bjh14591-cit-0065">
+<string-name>
+<surname>Oyama</surname>, <given-names>E.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Takahashi</surname>, <given-names>H.</given-names>
+</string-name> (<year>2003</year>) <article-title>Purification and characterization of a thrombin like enzyme, elegaxobin II, with lys&#x02010;bradykinin releasing activity from the venom of <italic>Trimeresurus elegans</italic> (Sakishima&#x02010;Habu)</article-title>. <source>Toxicon</source>, <volume>41</volume>, <fpage>559</fpage>&#x02013;<lpage>568</lpage>.<pub-id pub-id-type="pmid">12676434</pub-id></mixed-citation></ref><ref id="bjh14591-bib-0066"><mixed-citation publication-type="journal" id="bjh14591-cit-0066">
+<string-name>
+<surname>Peerlinck</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>De Lepeleire</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Goldberg</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Farrell</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Barrett</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Hand</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Panebianco</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Deckmyn</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Vermylen</surname>, <given-names>J.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Arnout</surname>, <given-names>J.</given-names>
+</string-name> (<year>1993</year>) <article-title>MK&#x02010;383 (L&#x02010;700,462), a selective nonpeptide platelet glycoprotein IIb/IIIa antagonist, is active in man</article-title>. <source>Circulation</source>, <volume>88</volume>, <fpage>1512</fpage>&#x02013;<lpage>1517</lpage>.<pub-id pub-id-type="pmid">8403299</pub-id></mixed-citation></ref><ref id="bjh14591-bib-0067"><mixed-citation publication-type="book" id="bjh14591-cit-0067">
+<string-name>
+<surname>Phillips</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Swenson</surname>, <given-names>S.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Markland</surname>, <given-names>F.</given-names>
+<suffix>Jr</suffix>
+</string-name> (<year>2010</year>) <chapter-title>Thrombin&#x02010;like snake venom serine proteases</chapter-title> In: <source>Handbook of Venom and Toxins of Reptiles</source> (ed. by <person-group person-group-type="editor"><name><surname>Mackessy</surname><given-names>S.P.</given-names></name></person-group>), pp. <fpage>139</fpage>&#x02013;<lpage>154</lpage>. <publisher-name>CRC Press</publisher-name>, <publisher-loc>Boca Raton</publisher-loc>.</mixed-citation></ref><ref id="bjh14591-bib-0068"><mixed-citation publication-type="journal" id="bjh14591-cit-0068">
+<string-name>
+<surname>Pirkle</surname>, <given-names>H.</given-names>
+</string-name> (<year>1998</year>) <article-title>Thrombin&#x02010;like enzymes from snake venoms: an updated inventory. Scientific and Standardization Committee's Registry of Exogenous Hemostatic Factors</article-title>. <source>Thrombosis and Haemostasis</source>, <volume>79</volume>, <fpage>675</fpage>&#x02013;<lpage>683</lpage>.<pub-id pub-id-type="pmid">9531061</pub-id></mixed-citation></ref><ref id="bjh14591-bib-0069"><mixed-citation publication-type="journal" id="bjh14591-cit-0069">
+<string-name>
+<surname>Pla</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Paiva</surname>, <given-names>O.K.</given-names>
+</string-name>, <string-name>
+<surname>Sanz</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Beutler</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Wright</surname>, <given-names>C.E.</given-names>
+</string-name>, <string-name>
+<surname>Calvete</surname>, <given-names>J.J.</given-names>
+</string-name>, <string-name>
+<surname>Williams</surname>, <given-names>D.J.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Guti&#x000e9;rrez</surname>, <given-names>J.M.</given-names>
+</string-name> (<year>2014</year>) <article-title>Preclinical efficacy of Australian antivenoms against the venom of the small&#x02010;eyed snake, <italic>Micropechis ikaheka</italic>, from Papua New Guinea: an antivenomics and neutralization study</article-title>. <source>Journal of Proteomics</source>, <volume>110</volume>, <fpage>198</fpage>&#x02013;<lpage>208</lpage>.<pub-id pub-id-type="pmid">24980637</pub-id></mixed-citation></ref><ref id="bjh14591-bib-0070"><mixed-citation publication-type="book" id="bjh14591-cit-0070">
+<string-name>
+<surname>Reza</surname>, <given-names>M.A.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Kini</surname>, <given-names>R.</given-names>
+</string-name> (<year>2010</year>) <chapter-title>Origin and evolution of snake vneom prothrombin activators</chapter-title> In: <source>Toxins and Haemostasis: From Bench to Bedside</source> (eds. by <person-group person-group-type="editor"><name><surname>Kini</surname><given-names>R.</given-names></name></person-group>, <person-group person-group-type="editor"><name><surname>Clemetson</surname><given-names>K.</given-names></name></person-group>, <person-group person-group-type="editor"><name><surname>Markland</surname><given-names>F.</given-names></name></person-group>, <person-group person-group-type="editor"><name><surname>McLane</surname><given-names>M.</given-names></name></person-group> &#x00026; <person-group person-group-type="editor"><name><surname>Morita</surname><given-names>T.</given-names></name></person-group>), pp. <fpage>501</fpage>&#x02013;<lpage>518</lpage>. <publisher-name>Springer</publisher-name>, <publisher-loc>Dordrecht</publisher-loc>.</mixed-citation></ref><ref id="bjh14591-bib-0071"><mixed-citation publication-type="journal" id="bjh14591-cit-0071">
+<string-name>
+<surname>Reza</surname>, <given-names>M.A.</given-names>
+</string-name>, <string-name>
+<surname>Swarup</surname>, <given-names>S.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Kini</surname>, <given-names>R.M.</given-names>
+</string-name> (<year>2007</year>) <article-title>Structure of two genes encoding parallel prothrombin activators in <italic>Tropidechis carinatus</italic> snake: gene duplication and recruitment of factor X gene to the venom gland</article-title>. <source>Journal of Thrombosis and Haemostasis</source>, <volume>5</volume>, <fpage>117</fpage>&#x02013;<lpage>126</lpage>.<pub-id pub-id-type="pmid">17239167</pub-id></mixed-citation></ref><ref id="bjh14591-bib-0072"><mixed-citation publication-type="journal" id="bjh14591-cit-0072">
+<string-name>
+<surname>Rivel</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Solano</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Herrera</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Vargas</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Villalta</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Segura</surname>, <given-names>&#x000c1;.</given-names>
+</string-name>, <string-name>
+<surname>Arias</surname>, <given-names>A.S.</given-names>
+</string-name>, <string-name>
+<surname>Le&#x000f3;n</surname>, <given-names>G.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Guti&#x000e9;rrez</surname>, <given-names>J.M.</given-names>
+</string-name> (<year>2016</year>) <article-title>Pathogenesis of dermonecrosis induced by venom of the spitting cobra, <italic>Naja nigricollis</italic>: an experimental study in mice</article-title>. <source>Toxicon</source>, <volume>119</volume>, <fpage>171</fpage>&#x02013;<lpage>179</lpage>.<pub-id pub-id-type="pmid">27288896</pub-id></mixed-citation></ref><ref id="bjh14591-bib-0073"><mixed-citation publication-type="book" id="bjh14591-cit-0073">
+<string-name>
+<surname>Rosing</surname>, <given-names>J.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Tans</surname>, <given-names>G.</given-names>
+</string-name> (<year>2010</year>) <chapter-title>Snake venom prothrombin activators &#x02010; the history</chapter-title> In: <source>Toxins and Haemostasis: From Bench to Bedside</source> (eds. by <person-group person-group-type="editor"><name><surname>Kini</surname><given-names>R.</given-names></name></person-group>, <person-group person-group-type="editor"><name><surname>Clemetson</surname><given-names>K.</given-names></name></person-group>, <person-group person-group-type="editor"><name><surname>Markland</surname><given-names>F.</given-names></name></person-group>, <person-group person-group-type="editor"><name><surname>McLane</surname><given-names>M.</given-names></name></person-group> &#x00026; <person-group person-group-type="editor"><name><surname>Morita</surname><given-names>T.</given-names></name></person-group>), pp. <fpage>485</fpage>&#x02013;<lpage>499</lpage>. <publisher-name>Springer</publisher-name>, <publisher-loc>Dordrecht</publisher-loc>.</mixed-citation></ref><ref id="bjh14591-bib-0074"><mixed-citation publication-type="journal" id="bjh14591-cit-0074">
+<string-name>
+<surname>Rucavado</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Soto</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Escalante</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Lor&#x000ed;a</surname>, <given-names>G.D.</given-names>
+</string-name>, <string-name>
+<surname>Arni</surname>, <given-names>R.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Guti&#x000e9;rrez</surname>, <given-names>J.M.</given-names>
+</string-name> (<year>2005</year>) <article-title>Thrombocytopenia and platelet hypoaggregation induced by <italic>Bothrops asper</italic> snake venom: toxins involved and their contribution to metalloproteinase&#x02010;induced pulmonary hemorrhage</article-title>. <source>Thrombosis and Haemostasis</source>, <volume>94</volume>, <fpage>123</fpage>&#x02013;<lpage>131</lpage>.<pub-id pub-id-type="pmid">16113795</pub-id></mixed-citation></ref><ref id="bjh14591-bib-0075"><mixed-citation publication-type="journal" id="bjh14591-cit-0075">
+<string-name>
+<surname>Scarborough</surname>, <given-names>R.M.</given-names>
+</string-name> (<year>1999</year>) <article-title>Development of eptifibatide</article-title>. <source>American Heart Journal</source>, <volume>138</volume>, <fpage>1093</fpage>&#x02013;<lpage>1104</lpage>.<pub-id pub-id-type="pmid">10577440</pub-id></mixed-citation></ref><ref id="bjh14591-bib-0076"><mixed-citation publication-type="journal" id="bjh14591-cit-0076">
+<string-name>
+<surname>Segura</surname>, <given-names>&#x000c1;.</given-names>
+</string-name>, <string-name>
+<surname>Villalta</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Herrera</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Le&#x000f3;n</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Harrison</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Durfa</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Nasidi</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Calvete</surname>, <given-names>J.J.</given-names>
+</string-name>, <string-name>
+<surname>Theakston</surname>, <given-names>R.D.G.</given-names>
+</string-name>, <string-name>
+<surname>Warrell</surname>, <given-names>D.A.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Guti&#x000e9;rrez</surname>, <given-names>J.M.</given-names>
+</string-name> (<year>2010</year>) <article-title>Preclinical assessment of the efficacy of a new antivenom (EchiTAb&#x02010;Plus&#x02010;ICP<sup>&#x000ae;</sup>) for the treatment of viper envenoming in sub&#x02010;Saharan Africa</article-title>. <source>Toxicon</source>, <volume>55</volume>, <fpage>369</fpage>&#x02013;<lpage>374</lpage>.<pub-id pub-id-type="pmid">19699756</pub-id></mixed-citation></ref><ref id="bjh14591-bib-0077"><mixed-citation publication-type="journal" id="bjh14591-cit-0077">
+<string-name>
+<surname>Shimokawa</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Shannon</surname>, <given-names>J.D.</given-names>
+</string-name>, <string-name>
+<surname>Jia</surname>, <given-names>L.G.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Fox</surname>, <given-names>J.W.</given-names>
+</string-name> (<year>1997</year>) <article-title>Sequence and biological activity of catrocollastatin&#x02010;C: a disintegrin&#x02010;like/cysteine&#x02010;rich two&#x02010;domain protein from <italic>Crotalus atrox</italic> venom</article-title>. <source>Archives of Biochemistry and Biophysics</source>, <volume>343</volume>, <fpage>35</fpage>&#x02013;<lpage>43</lpage>.<pub-id pub-id-type="pmid">9210644</pub-id></mixed-citation></ref><ref id="bjh14591-bib-0078"><mixed-citation publication-type="book" id="bjh14591-cit-0078">
+<string-name>
+<surname>Siigur</surname>, <given-names>J.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Siigur</surname>, <given-names>E.</given-names>
+</string-name> (<year>2010</year>) <chapter-title>Activation of Factor X by snake venom proteases</chapter-title> In: <source>Toxins and Haemostasis: From Bench to Bedside</source> (eds. by <person-group person-group-type="editor"><name><surname>Kini</surname><given-names>R.</given-names></name></person-group>, <person-group person-group-type="editor"><name><surname>Clemetson</surname><given-names>K.</given-names></name></person-group>, <person-group person-group-type="editor"><name><surname>Markland</surname><given-names>F.</given-names></name></person-group>, <person-group person-group-type="editor"><name><surname>McLane</surname><given-names>M.</given-names></name></person-group> &#x00026; <person-group person-group-type="editor"><name><surname>Morita</surname><given-names>T.</given-names></name></person-group>), pp. <fpage>447</fpage>&#x02013;<lpage>464</lpage>. <publisher-name>Springer</publisher-name>, <publisher-loc>Dordrecht</publisher-loc>.</mixed-citation></ref><ref id="bjh14591-bib-0079"><mixed-citation publication-type="journal" id="bjh14591-cit-0079">
+<string-name>
+<surname>Silva</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Kuruppu</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Othman</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Goode</surname>, <given-names>R.J.A.</given-names>
+</string-name>, <string-name>
+<surname>Hodgson</surname>, <given-names>W.C.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Isbister</surname>, <given-names>G.K.</given-names>
+</string-name> (<year>2017</year>) <article-title>Neurotoxicity in Sri Lankan Russell's Viper (<italic>Daboia russelii</italic>) Envenoming is Primarily due to U1&#x02010;viperitoxin&#x02010;Dr1a, a Pre&#x02010;Synaptic Neurotoxin</article-title>. <source>Neurotoxicity Research</source>. <volume>31</volume>, <fpage>11</fpage>&#x02013;<lpage>19</lpage>.<pub-id pub-id-type="pmid">27401825</pub-id></mixed-citation></ref><ref id="bjh14591-bib-0080"><mixed-citation publication-type="journal" id="bjh14591-cit-0080">
+<string-name>
+<surname>Smith</surname>, <given-names>C.G.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Vane</surname>, <given-names>J.R.</given-names>
+</string-name> (<year>2003</year>) <article-title>The discovery of captopril</article-title>. <source>FASEB Journal</source>, <volume>17</volume>, <fpage>788</fpage>&#x02013;<lpage>789</lpage>.<pub-id pub-id-type="pmid">12724335</pub-id></mixed-citation></ref><ref id="bjh14591-bib-0081"><mixed-citation publication-type="journal" id="bjh14591-cit-0081">
+<string-name>
+<surname>Stocker</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Fischer</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Meier</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Brogli</surname>, <given-names>M.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Svendsen</surname>, <given-names>L.</given-names>
+</string-name> (<year>1987</year>) <article-title>Characterization of the protein C activator Protac from the venom of the southern copperhead (<italic>Agkistrodon contortrix</italic>) snake</article-title>. <source>Toxicon</source>, <volume>25</volume>, <fpage>239</fpage>&#x02013;<lpage>252</lpage>.<pub-id pub-id-type="pmid">3590209</pub-id></mixed-citation></ref><ref id="bjh14591-bib-0082"><mixed-citation publication-type="journal" id="bjh14591-cit-0082">
+<string-name>
+<surname>Stocker</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Hauer</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>M&#x000fc;ller</surname>, <given-names>C.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Triplett</surname>, <given-names>D.A.</given-names>
+</string-name> (<year>1994</year>) <article-title>Isolation and characterization of TextarinR, a prothrombin activator from eastern brown snake (<italic>Pseudonaja textilis</italic>) venom</article-title>. <source>Toxicon</source>, <volume>32</volume>, <fpage>1227</fpage>&#x02013;<lpage>1236</lpage>.<pub-id pub-id-type="pmid">7846693</pub-id></mixed-citation></ref><ref id="bjh14591-bib-0083"><mixed-citation publication-type="journal" id="bjh14591-cit-0083">
+<string-name>
+<surname>Tan</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Tan</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Tan</surname>, <given-names>K.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Kwong</surname>, <given-names>K.</given-names>
+</string-name> (<year>2015</year>) <article-title>Antivenom cross&#x02010;neutralization of the venoms of <italic>Hydrophis schistosus</italic> and <italic>Hydrophis curtus</italic>, two common sea snakes in Malaysian waters</article-title>. <source>Toxins</source>, <volume>7</volume>, <fpage>572</fpage>&#x02013;<lpage>581</lpage>.<pub-id pub-id-type="pmid">25690691</pub-id></mixed-citation></ref><ref id="bjh14591-bib-0084"><mixed-citation publication-type="journal" id="bjh14591-cit-0084">
+<string-name>
+<surname>Tan</surname>, <given-names>C.H.</given-names>
+</string-name>, <string-name>
+<surname>Liew</surname>, <given-names>J.L.</given-names>
+</string-name>, <string-name>
+<surname>Tan</surname>, <given-names>K.Y.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Tan</surname>, <given-names>N.H.</given-names>
+</string-name> (<year>2016a</year>) <article-title>Genus <italic>Calliophis</italic> of Asiatic coral snakes: a deficiency of venom cross&#x02010;reactivity and neutralization against seven regional elapid antivenoms</article-title>. <source>Toxicon</source>, <volume>121</volume>, <fpage>130</fpage>&#x02013;<lpage>133</lpage>.<pub-id pub-id-type="pmid">27616455</pub-id></mixed-citation></ref><ref id="bjh14591-bib-0085"><mixed-citation publication-type="journal" id="bjh14591-cit-0085">
+<string-name>
+<surname>Tan</surname>, <given-names>C.H.</given-names>
+</string-name>, <string-name>
+<surname>Liew</surname>, <given-names>J.L.</given-names>
+</string-name>, <string-name>
+<surname>Tan</surname>, <given-names>K.Y.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Tan</surname>, <given-names>N.H.</given-names>
+</string-name> (<year>2016b</year>) <article-title>Assessing SABU (Serum Anti Bisa Ular), the sole Indonesian antivenom: a proteomic analysis and neutralization efficacy study</article-title>. <source>Scientific Reports</source>, <volume>6</volume>, <fpage>37299</fpage>.<pub-id pub-id-type="pmid">27869134</pub-id></mixed-citation></ref><ref id="bjh14591-bib-0086"><mixed-citation publication-type="journal" id="bjh14591-cit-0086">
+<string-name>
+<surname>Teixeira</surname>, <given-names>S.S.</given-names>
+</string-name>, <string-name>
+<surname>Silveira</surname>, <given-names>L.B.</given-names>
+</string-name>, <string-name>
+<surname>da Silva</surname>, <given-names>F.M.N.</given-names>
+</string-name>, <string-name>
+<surname>Marchi&#x02010;Salvador</surname>, <given-names>D.P.</given-names>
+</string-name>, <string-name>
+<surname>Silva</surname>, <given-names>F.P.</given-names>
+</string-name>, <string-name>
+<surname>Izidoro</surname>, <given-names>L.F.M.</given-names>
+</string-name>, <string-name>
+<surname>Fuly</surname>, <given-names>A.L.</given-names>
+</string-name>, <string-name>
+<surname>Juliano</surname>, <given-names>M.A.</given-names>
+</string-name>, <string-name>
+<surname>dos Santos</surname>, <given-names>C.R.</given-names>
+</string-name>, <string-name>
+<surname>Murakami</surname>, <given-names>M.T.</given-names>
+</string-name>, <string-name>
+<surname>Sampaio</surname>, <given-names>S.V.</given-names>
+</string-name>, <string-name>
+<surname>da Silva</surname>, <given-names>S.L.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Soares</surname>, <given-names>A.M.</given-names>
+</string-name> (<year>2011</year>) <article-title>Molecular characterization of an acidic phospholipase A2 from <italic>Bothrops pirajai</italic> snake venom: synthetic C&#x02010;terminal peptide identifies its antiplatelet region</article-title>. <source>Archives of Toxicology</source>, <volume>85</volume>, <fpage>1219</fpage>&#x02013;<lpage>1233</lpage>.<pub-id pub-id-type="pmid">21331602</pub-id></mixed-citation></ref><ref id="bjh14591-bib-0087"><mixed-citation publication-type="journal" id="bjh14591-cit-0087">
+<string-name>
+<surname>Triplett</surname>, <given-names>D.A.</given-names>
+</string-name>, <string-name>
+<surname>Stocker</surname>, <given-names>K.F.</given-names>
+</string-name>, <string-name>
+<surname>Unger</surname>, <given-names>G.A.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Barna</surname>, <given-names>L.K.</given-names>
+</string-name> (<year>1993</year>) <article-title>The Textarin/Ecarin ratio: a confirmatory test for lupus anticoagulants</article-title>. <source>Thrombosis and Haemostasis</source>, <volume>70</volume>, <fpage>925</fpage>&#x02013;<lpage>931</lpage>.<pub-id pub-id-type="pmid">8165613</pub-id></mixed-citation></ref><ref id="bjh14591-bib-0088"><mixed-citation publication-type="book" id="bjh14591-cit-0088">
+<string-name>
+<surname>Vidal</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Rage</surname>, <given-names>J.&#x02010;C.</given-names>
+</string-name>, <string-name>
+<surname>Couloux</surname>, <given-names>A.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Hedges</surname>, <given-names>S.B.</given-names>
+</string-name> (<year>2009</year>) <chapter-title>Snakes (Serpentes)</chapter-title> In: <source>The Timetree of Life</source> (eds. by <person-group person-group-type="editor"><name><surname>Hedges</surname><given-names>S.B.</given-names></name></person-group> &#x00026; <person-group person-group-type="editor"><name><surname>Kumar</surname><given-names>S.</given-names></name></person-group>), pp. <fpage>390</fpage>&#x02013;<lpage>397</lpage>. <publisher-name>Oxford University Press</publisher-name>, <publisher-loc>New York</publisher-loc>.</mixed-citation></ref><ref id="bjh14591-bib-0089"><mixed-citation publication-type="journal" id="bjh14591-cit-0089">
+<string-name>
+<surname>Visser</surname>, <given-names>L.E.</given-names>
+</string-name>, <string-name>
+<surname>Kyei&#x02010;Faried</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Belcher</surname>, <given-names>D.W.</given-names>
+</string-name>, <string-name>
+<surname>Geelhoed</surname>, <given-names>D.W.</given-names>
+</string-name>, <string-name>
+<surname>van Leeuwen</surname>, <given-names>J.S.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>van Roosmalen</surname>, <given-names>J.</given-names>
+</string-name> (<year>2008</year>) <article-title>Failure of a new antivenom to treat <italic>Echis ocellatus</italic> snake bite in rural Ghana: the importance of quality surveillance</article-title>. <source>Transactions of the Royal Society of Tropical Medicine and Hygiene</source>, <volume>102</volume>, <fpage>445</fpage>&#x02013;<lpage>450</lpage>.<pub-id pub-id-type="pmid">18190937</pub-id></mixed-citation></ref><ref id="bjh14591-bib-0090"><mixed-citation publication-type="journal" id="bjh14591-cit-0090">
+<string-name>
+<surname>Vonk</surname>, <given-names>F.J.</given-names>
+</string-name>, <string-name>
+<surname>Admiraal</surname>, <given-names>J.F.</given-names>
+</string-name>, <string-name>
+<surname>Jackson</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Reshef</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>de Bakker</surname>, <given-names>M.A.G.</given-names>
+</string-name>, <string-name>
+<surname>Vanderschoot</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>van den Berge</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>van Atten</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Burgerhout</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Beck</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Mirtschin</surname>, <given-names>P.J.</given-names>
+</string-name>, <string-name>
+<surname>Kochva</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Witte</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Fry</surname>, <given-names>B.G.</given-names>
+</string-name>, <string-name>
+<surname>Woods</surname>, <given-names>A.E.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Richardson</surname>, <given-names>M.K.</given-names>
+</string-name> (<year>2008</year>) <article-title>Evolutionary origin and development of snake fangs</article-title>. <source>Nature</source>, <volume>454</volume>, <fpage>630</fpage>&#x02013;<lpage>633</lpage>.<pub-id pub-id-type="pmid">18668106</pub-id></mixed-citation></ref><ref id="bjh14591-bib-0091"><mixed-citation publication-type="journal" id="bjh14591-cit-0091">
+<string-name>
+<surname>Vonk</surname>, <given-names>F.J.</given-names>
+</string-name>, <string-name>
+<surname>Casewell</surname>, <given-names>N.R.</given-names>
+</string-name>, <string-name>
+<surname>Henkel</surname>, <given-names>C.V.</given-names>
+</string-name>, <string-name>
+<surname>Heimberg</surname>, <given-names>A.M.</given-names>
+</string-name>, <string-name>
+<surname>Jansen</surname>, <given-names>H.J.</given-names>
+</string-name>, <string-name>
+<surname>McCleary</surname>, <given-names>R.J.R.</given-names>
+</string-name>, <string-name>
+<surname>Kerkkamp</surname>, <given-names>H.M.E.</given-names>
+</string-name>, <string-name>
+<surname>Vos</surname>, <given-names>R.A.</given-names>
+</string-name>, <string-name>
+<surname>Guerreiro</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Calvete</surname>, <given-names>J.J.</given-names>
+</string-name>, <string-name>
+<surname>W&#x000fc;ster</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Woods</surname>, <given-names>A.E.</given-names>
+</string-name>, <string-name>
+<surname>Logan</surname>, <given-names>J.M.</given-names>
+</string-name>, <string-name>
+<surname>Harrison</surname>, <given-names>R.A.</given-names>
+</string-name>, <string-name>
+<surname>Castoe</surname>, <given-names>T.A.</given-names>
+</string-name>, <string-name>
+<surname>de Koning</surname>, <given-names>A.P.J.</given-names>
+</string-name>, <string-name>
+<surname>Pollock</surname>, <given-names>D.D.</given-names>
+</string-name>, <string-name>
+<surname>Yandell</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Calderon</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Renjifo</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Currier</surname>, <given-names>R.B.</given-names>
+</string-name>, <string-name>
+<surname>Salgado</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Pla</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Sanz</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Hyder</surname>, <given-names>A.S.</given-names>
+</string-name>, <string-name>
+<surname>Ribeiro</surname>, <given-names>J.M.</given-names>
+</string-name>, <string-name>
+<surname>Arntzen</surname>, <given-names>J.W.</given-names>
+</string-name>, <string-name>
+<surname>van den Thillart</surname>, <given-names>G.E.</given-names>
+</string-name>, <string-name>
+<surname>Boetzer</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Pirovano</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Dirks</surname>, <given-names>R.P.</given-names>
+</string-name>, <string-name>
+<surname>Spaink</surname>, <given-names>H.P.</given-names>
+</string-name>, <string-name>
+<surname>Duboule</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>McGlinn</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Kini</surname>, <given-names>R.M.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Richardson</surname>, <given-names>M.K.</given-names>
+</string-name> (<year>2013</year>) <article-title>The king cobra genome reveals dynamic gene evolution and adaptation in the snake venom system</article-title>. <source>Proceedings of the National Academy of Sciences of the United States of America</source>, <volume>110</volume>, <fpage>20651</fpage>&#x02013;<lpage>20656</lpage>.<pub-id pub-id-type="pmid">24297900</pub-id></mixed-citation></ref><ref id="bjh14591-bib-0092"><mixed-citation publication-type="book" id="bjh14591-cit-0092">
+<string-name>
+<surname>Warrell</surname>, <given-names>D.</given-names>
+</string-name> (<year>1995a</year>) <chapter-title>Clinical Toxicology of Snakebite in Africa and the Middle East/Arabian Peninsula</chapter-title> In: <source>Handbook of Clinical Toxicology of Animal Venoms and Poisons</source> (eds. by <person-group person-group-type="editor"><name><surname>White</surname><given-names>J.</given-names></name></person-group> &#x00026; <person-group person-group-type="editor"><name><surname>Meier</surname><given-names>J.</given-names></name></person-group>), pp. <fpage>455</fpage>&#x02013;<lpage>492</lpage>. <publisher-name>CRC Press</publisher-name>, <publisher-loc>Boca Raton</publisher-loc>.</mixed-citation></ref><ref id="bjh14591-bib-0093"><mixed-citation publication-type="book" id="bjh14591-cit-0093">
+<string-name>
+<surname>Warrell</surname>, <given-names>D.</given-names>
+</string-name> (<year>1995b</year>) <chapter-title>Clinical toxicology of snakebite in Asia</chapter-title> In: <source>Handbook of Clinical Toxicology of Animal Venoms and Poisons</source> (eds. by <person-group person-group-type="editor"><name><surname>White</surname><given-names>J.</given-names></name></person-group> &#x00026; <person-group person-group-type="editor"><name><surname>Meier</surname><given-names>J.</given-names></name></person-group>), pp. <fpage>534</fpage>&#x02013;<lpage>594</lpage>. <publisher-name>CRC Press</publisher-name>, <publisher-loc>Boca Raton</publisher-loc>.</mixed-citation></ref><ref id="bjh14591-bib-0094"><mixed-citation publication-type="journal" id="bjh14591-cit-0094">
+<string-name>
+<surname>Williams</surname>, <given-names>D.J.</given-names>
+</string-name> (<year>2015</year>) <article-title>Snake bite: a global failure to act costs thousands of lives each year</article-title>. <source>BMJ</source>, <volume>351</volume>, <fpage>h5378</fpage>.<pub-id pub-id-type="pmid">26508421</pub-id></mixed-citation></ref><ref id="bjh14591-bib-0095"><mixed-citation publication-type="journal" id="bjh14591-cit-0095">
+<string-name>
+<surname>Williams</surname>, <given-names>D.J.</given-names>
+</string-name>, <string-name>
+<surname>Guti&#x000e9;rrez</surname>, <given-names>J.&#x02010;M.</given-names>
+</string-name>, <string-name>
+<surname>Calvete</surname>, <given-names>J.J.</given-names>
+</string-name>, <string-name>
+<surname>W&#x000fc;ster</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Ratanabanangkoon</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Paiva</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Brown</surname>, <given-names>N.I.</given-names>
+</string-name>, <string-name>
+<surname>Casewell</surname>, <given-names>N.R.</given-names>
+</string-name>, <string-name>
+<surname>Harrison</surname>, <given-names>R.A.</given-names>
+</string-name>, <string-name>
+<surname>Rowley</surname>, <given-names>P.D.</given-names>
+</string-name>, <string-name>
+<surname>O'Shea</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Jensen</surname>, <given-names>S.D.</given-names>
+</string-name>, <string-name>
+<surname>Winkel</surname>, <given-names>K.D.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Warrell</surname>, <given-names>D.A.</given-names>
+</string-name> (<year>2011</year>) <article-title>Ending the drought: new strategies for improving the flow of affordable, effective antivenoms in Asia and Africa</article-title>. <source>Journal of Proteomics</source>, <volume>74</volume>, <fpage>1735</fpage>&#x02013;<lpage>1767</lpage>.<pub-id pub-id-type="pmid">21640209</pub-id></mixed-citation></ref><ref id="bjh14591-bib-0096"><mixed-citation publication-type="miscellaneous" id="bjh14591-cit-0096">
+<collab collab-type="authors">World Health Organization</collab>
+(<year>2010a</year>) <article-title>Guidelines for the prevention and clinical management of snakebite in Africa</article-title>. Available at: <ext-link ext-link-type="uri" xlink:href="http://apps.who.int/iris/bitstream/10665/204458/1/9789290231684.pdf?ua=1">http://apps.who.int/iris/bitstream/10665/204458/1/9789290231684.pdf?ua=1</ext-link> (accessed 16th December 2016).</mixed-citation></ref><ref id="bjh14591-bib-0097"><mixed-citation publication-type="miscellaneous" id="bjh14591-cit-0097">
+<collab collab-type="authors">World Health Organization</collab>
+(<year>2010b</year>) <article-title>Guidelines for the management of snake&#x02010;bite: South East Asia</article-title>. Available at: <ext-link ext-link-type="uri" xlink:href="http://apps.who.int/iris/bitstream/10665/204464/1/B4508.pdf?ua=1">http://apps.who.int/iris/bitstream/10665/204464/1/B4508.pdf?ua=1</ext-link> (Accessed 16th December 2016).</mixed-citation></ref><ref id="bjh14591-bib-0098"><mixed-citation publication-type="journal" id="bjh14591-cit-0098">
+<string-name>
+<surname>Xu</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Yin</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>R.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Fan</surname>, <given-names>X.</given-names>
+</string-name> (<year>2007</year>) <article-title>Feasibility of treating hyperfibrinogenemia with intermittently administered batroxobin in patients with ischemic stroke/transient ischemic attack for secondary prevention</article-title>. <source>Blood Coagulation &#x00026; Fibrinolysis</source>, <volume>18</volume>, <fpage>193</fpage>&#x02013;<lpage>197</lpage>.<pub-id pub-id-type="pmid">17287638</pub-id></mixed-citation></ref><ref id="bjh14591-bib-0099"><mixed-citation publication-type="journal" id="bjh14591-cit-0099">
+<string-name>
+<surname>Xu</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>, <given-names>S.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Rong</surname>, <given-names>R.</given-names>
+</string-name> (<year>2015</year>) <article-title>Hypotensive peptides from snake venoms: structure, function and mechanism</article-title>. <source>Current Topics in Medicinal Chemistry</source>, <volume>15</volume>, <fpage>658</fpage>&#x02013;<lpage>669</lpage>.<pub-id pub-id-type="pmid">25686732</pub-id></mixed-citation></ref><ref id="bjh14591-bib-0100"><mixed-citation publication-type="journal" id="bjh14591-cit-0100">
+<string-name>
+<surname>Zhang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Wisner</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Xiong</surname>, <given-names>Y.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Bon</surname>, <given-names>C.</given-names>
+</string-name> (<year>1995</year>) <article-title>A novel plasminogen activator from snake venom. Purification, characterization, and molecular cloning</article-title>. <source>The Journal of Biological Chemistry</source>, <volume>270</volume>, <fpage>10246</fpage>&#x02013;<lpage>10255</lpage>.<pub-id pub-id-type="pmid">7730329</pub-id></mixed-citation></ref></ref-list></back></article>

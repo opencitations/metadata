@@ -1,0 +1,597 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Bull Math Biol</journal-id><journal-id journal-id-type="iso-abbrev">Bull. Math. Biol</journal-id><journal-title-group><journal-title>Bulletin of Mathematical Biology</journal-title></journal-title-group><issn pub-type="ppub">0092-8240</issn><issn pub-type="epub">1522-9602</issn><publisher><publisher-name>Springer US</publisher-name><publisher-loc>New York</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">30535846</article-id><article-id pub-id-type="pmc">6373330</article-id><article-id pub-id-type="publisher-id">549</article-id><article-id pub-id-type="doi">10.1007/s11538-018-00549-x</article-id><article-categories><subj-group subj-group-type="heading"><subject>Article</subject></subj-group></article-categories><title-group><article-title>The Final Size of a Serious Epidemic</article-title></title-group><contrib-group><contrib contrib-type="author" corresp="yes"><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-2436-2837</contrib-id><name><surname>Brauer</surname><given-names>Fred</given-names></name><address><email>brauer@math.ubc.ca</email></address><xref ref-type="aff" rid="Aff1"/></contrib><aff id="Aff1"><institution-wrap><institution-id institution-id-type="GRID">grid.17091.3e</institution-id><institution-id institution-id-type="ISNI">0000 0001 2288 9830</institution-id><institution>Department of Mathematics, </institution><institution>University of British Columbia, </institution></institution-wrap>Vancouver, BC Canada </aff></contrib-group><pub-date pub-type="epub"><day>7</day><month>12</month><year>2018</year></pub-date><pub-date pub-type="pmc-release"><day>7</day><month>12</month><year>2018</year></pub-date><pub-date pub-type="ppub"><year>2019</year></pub-date><volume>81</volume><issue>3</issue><fpage>869</fpage><lpage>877</lpage><history><date date-type="received"><day>18</day><month>6</month><year>2018</year></date><date date-type="accepted"><day>30</day><month>11</month><year>2018</year></date></history><permissions><copyright-statement>&#x000a9; The Author(s) 2018</copyright-statement><license license-type="OpenAccess"><license-p><bold>OpenAccess</bold>This article is distributed under the terms of the Creative Commons Attribution 4.0 International License (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made.</license-p></license></permissions><abstract id="Abs1"><p id="Par1">In an epidemic of a serious disease, there is likely to be behavioral response that decreases the epidemic size considerably, and taking this into account may lead to estimates of the final epidemic size that are much smaller and more realistic than estimates that do not take this into account.</p></abstract><kwd-group xml:lang="en"><title>Keywords</title><kwd>Epidemic models</kwd><kwd>Final size relations</kwd><kwd>Behavioral response</kwd></kwd-group><funding-group><award-group><funding-source><institution>Canadian Network for Research and Natural Sciences and Engineering Research Council of Canada (CA)</institution></funding-source><award-id>OGPIN 203901-99</award-id><principal-award-recipient><name><surname>Brauer</surname><given-names>Fred</given-names></name></principal-award-recipient></award-group></funding-group><custom-meta-group><custom-meta><meta-name>issue-copyright-statement</meta-name><meta-value>&#x000a9; Society for Mathematical Biology 2019</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec id="Sec1"><title>Introduction</title><p id="Par2">It has been standard practice in analyzing disease outbreaks to formulate a dynamical system as a deterministic compartmental model, then to use observed early outbreak data to fit parameters to the model, and finally to analyze the dynamical system to predict the course of the disease outbreak and to compare the effects of different management strategies. In general, such models predict an initial stochastic stage (while the number of infectious individuals is small), followed by a period of exponential growth. Measurement of this early exponential growth rate is an essential step in estimating contact rate parameters for the model. A thorough description of the analysis of compartmental models may be found in Hethcote (<xref ref-type="bibr" rid="CR12">2000</xref>).</p><p id="Par3">However, instances have been noted where the growth rate of an epidemic is clearly slower than exponential, especially for diseases which are viewed as very serious. For example, the initial apparently exponential spread of the 2013&#x02013;2015 Ebola epidemic in West Africa can be viewed as a composition of locally asynchronous outbreaks at local level displaying sub-exponential growth patterns during several generations (Chowell et&#x000a0;al. <xref ref-type="bibr" rid="CR4">2015</xref>). One of the earliest examples (Colgate et&#x000a0;al. <xref ref-type="bibr" rid="CR7">1989</xref>) concerns the growth of HIV/AIDS in the USA, and a possible explanation might be the mixture of short-term and long-term contacts. This could be a factor in other diseases where there are repeated contacts in family groups and less frequent contacts outside the home. There may be more than one mechanism influencing the early epidemic growth rate, and it may not be possible to estimate the effects of different mechanisms from incidence data.</p><p id="Par4">A variety of epidemiological situations in which slower than exponential epidemic growth might be possible have been described (Chowell et&#x000a0;al. <xref ref-type="bibr" rid="CR6">2016b</xref>, <xref ref-type="bibr" rid="CR5">a</xref>). Ultimately, the challenge for epidemiological modeling would be to determine which of these situations allow slower than exponential growth by deriving and analyzing mechanistic models to describe each of these situations. This is an important new direction for epidemic modeling. Some suggestions include metapopulation models with spatial structure including cross-coupling and mobility, clustering in spatial structure, dynamic contacts, agent-based models with differences in infectivity and susceptibility of individuals, and reactive behavioral changes early in a disease outbreak (Chowell et&#x000a0;al. <xref ref-type="bibr" rid="CR5">2016a</xref>). It may well turn out that slower than exponential growth may be ruled out in some cases but is possible in others. For example, heterogeneity of mixing in a single location can be modeled by an autonomous dynamical system and the linearization theory of dynamical systems at an equilibrium shows that early epidemic growth for such a system is always exponential. On the other hand, metapopulation models may well allow many varieties of behaviors. It is likely that more than one mechanism is at work in decreasing the growth rate, and this would complicate disentangling the mechanisms involved form the incidence data.</p><p id="Par5">There have been several approaches to the question of modeling disease outbreaks which grow more slowly than might be expected. It has been pointed out (Chowell et&#x000a0;al. <xref ref-type="bibr" rid="CR5">2016a</xref>, <xref ref-type="bibr" rid="CR6">b</xref>, <xref ref-type="bibr" rid="CR4">2015</xref>; Viboud et&#x000a0;al. <xref ref-type="bibr" rid="CR20">2016</xref>) that a so-called general growth model of the form<disp-formula id="Equ4"><alternatives><tex-math id="M1">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\begin{aligned} C'(t) = r C(t)^p, \end{aligned}$$\end{document}</tex-math><mml:math id="M2" display="block"><mml:mrow><mml:mtable><mml:mtr><mml:mtd columnalign="right"><mml:mrow><mml:msup><mml:mi>C</mml:mi><mml:mo>&#x02032;</mml:mo></mml:msup><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi>t</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:mi>r</mml:mi><mml:mi>C</mml:mi><mml:msup><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi>t</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mi>p</mml:mi></mml:msup><mml:mo>,</mml:mo></mml:mrow></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:math><graphic xlink:href="11538_2018_549_Article_Equ4.gif" position="anchor"/></alternatives></disp-formula>where <italic>C</italic>(<italic>t</italic>) is the number of disease cases occurring up to time <italic>t</italic>, and <inline-formula id="IEq1"><alternatives><tex-math id="M3">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$p, 0 \le p \le 1,$$\end{document}</tex-math><mml:math id="M4"><mml:mrow><mml:mi>p</mml:mi><mml:mo>,</mml:mo><mml:mn>0</mml:mn><mml:mo>&#x02264;</mml:mo><mml:mi>p</mml:mi><mml:mo>&#x02264;</mml:mo><mml:mn>1</mml:mn><mml:mo>,</mml:mo></mml:mrow></mml:math><inline-graphic xlink:href="11538_2018_549_Article_IEq1.gif"/></alternatives></inline-formula> is a &#x0201c;deceleration of growth&#x0201d; parameter, has exponential solutions if <inline-formula id="IEq2"><alternatives><tex-math id="M5">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$p = 1$$\end{document}</tex-math><mml:math id="M6"><mml:mrow><mml:mi>p</mml:mi><mml:mo>=</mml:mo><mml:mn>1</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="11538_2018_549_Article_IEq2.gif"/></alternatives></inline-formula> but solutions with polynomial growth if <inline-formula id="IEq3"><alternatives><tex-math id="M7">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$0&#x0003c; p &#x0003c; 1$$\end{document}</tex-math><mml:math id="M8"><mml:mrow><mml:mn>0</mml:mn><mml:mo>&#x0003c;</mml:mo><mml:mi>p</mml:mi><mml:mo>&#x0003c;</mml:mo><mml:mn>1</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="11538_2018_549_Article_IEq3.gif"/></alternatives></inline-formula>. This is not and does not claim to be a mechanistic epidemic model, but it has proved to be remarkably successful for fitting epidemic growth and predicting the future course of an epidemic (Pell et&#x000a0;al. <xref ref-type="bibr" rid="CR15">2018</xref>; Shanafelt et&#x000a0;al. <xref ref-type="bibr" rid="CR18">2018</xref>). For example, it has provided much better estimates of epidemic final size than the exponential growth assumption for the Ebola epidemic of 2014. Such phenomenological models are particularly likely to be suitable in situations where it is difficult to construct a mechanistic approach because of multiple transmission routes, interactions of spatial influences, or other aspects of uncertainty.</p><p id="Par6">We suggest that an assumption of a contact rate that decreases in time, because of behavioral response to an outbreak of a disease that is often fatal, is a very plausible assumption. For example, during the SARS epidemic of 2002&#x02013;2003 many people began to wear face masks to try to prevent disease spread through contact with airborne particles, even though this may have in fact been counter-productive.</p><p id="Par7">Another example of a behavioral response is given by the Great Plague in the village of Eyam near Sheffield, England, which suffered an outbreak of bubonic plague in 1665&#x02013;1666, the source of which is generally believed to be the Great Plague of London (Raggett <xref ref-type="bibr" rid="CR16">1982</xref>). The Eyam plague was survived by only 83 of an initial population of 350 persons.</p><p id="Par8">In Eyam, the rector persuaded the entire community to quarantine itself to prevent the spread of disease to other communities. He assumed that infection was transmitted directly between people. While this is possible, it was thought that bubonic plague is transmitted mainly by rat fleas. When an infected rat is bitten by a flea, the flea becomes extremely hungry and bites the host rat repeatedly, spreading the infection in the rat. When the host rat dies, its fleas move on to other rats, spreading the disease further. As the number of available rats decreases, the fleas move to human hosts, and this is how plague starts in a human population. It is believed now that fleas were the main agents of the spread of plague (Dean et&#x000a0;al. <xref ref-type="bibr" rid="CR8">2018</xref>).</p><p id="Par9">One effect of this policy was to increase the infection rate in the village by keeping fleas, rats, and people in close contact with one another, and the mortality rate from bubonic plague was much higher in Eyam than in London. Further, the quarantine could do nothing to prevent the travel of rats and thus did little to prevent the spread of disease to other communities.</p></sec><sec id="Sec2"><title>A Variable-Contact-Rate Epidemic Model</title><p id="Par10">Another direction that would be well worth further exploration would be contact rates decreasing in time because of individual behavioral changes in response to a disease outbreak. A contact rate which is a decreasing function of time can certainly lead to early epidemic growth slower than exponential. A step in this direction has been initiated in a discrete model (Fisman et&#x000a0;al. <xref ref-type="bibr" rid="CR9">2013</xref>) that has been applied to an Ebola model in Fisman et&#x000a0;al. (<xref ref-type="bibr" rid="CR10">2014</xref>).</p><p id="Par11">Our goal is to develop a simple approach to the question of making estimates early in an outbreak of a dangerous disease for the eventual size of the epidemic, considering the total size of the epidemic over a country rather than the more complicated growth in separate villages. Study of the local structure of an epidemic is essential for attempts to control the epidemic; our intent is only to obtain early estimates of the full extent of an epidemic in order to judge the resources necessary for management.</p><p id="Par12">The idea of a contact rate decreasing exponentially in time has been suggested in Chowell et&#x000a0;al. (<xref ref-type="bibr" rid="CR3">2004</xref>). In Althaus (<xref ref-type="bibr" rid="CR1">2014</xref>), a model for Ebola has been described consisting of a standard <italic>SEIR</italic> epidemic model with disease deaths but with a contact rate which decreases exponentially in time,<disp-formula id="Equ1"><label>1</label><alternatives><tex-math id="M9">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\begin{aligned} S'= &#x00026; {} - \beta e^{- \kappa t}S \frac{I}{P} \nonumber \\ E'= &#x00026; {} \beta e^{- \kappa t}S \frac{I}{P} - \eta E \nonumber \\ I'= &#x00026; {} \eta E - \gamma I \nonumber \\ R'= &#x00026; {} (1 - f)\gamma I . \end{aligned}$$\end{document}</tex-math><mml:math id="M10" display="block"><mml:mrow><mml:mtable><mml:mtr><mml:mtd columnalign="right"><mml:mrow><mml:msup><mml:mi>S</mml:mi><mml:mo>&#x02032;</mml:mo></mml:msup><mml:mo>=</mml:mo></mml:mrow></mml:mtd><mml:mtd columnalign="left"><mml:mrow><mml:mrow/><mml:mo>-</mml:mo><mml:mi>&#x003b2;</mml:mi><mml:msup><mml:mi>e</mml:mi><mml:mrow><mml:mo>-</mml:mo><mml:mi>&#x003ba;</mml:mi><mml:mi>t</mml:mi></mml:mrow></mml:msup><mml:mi>S</mml:mi><mml:mfrac><mml:mi>I</mml:mi><mml:mi>P</mml:mi></mml:mfrac></mml:mrow></mml:mtd></mml:mtr><mml:mtr><mml:mtd columnalign="right"><mml:mrow><mml:mrow/><mml:msup><mml:mi>E</mml:mi><mml:mo>&#x02032;</mml:mo></mml:msup><mml:mo>=</mml:mo></mml:mrow></mml:mtd><mml:mtd columnalign="left"><mml:mrow><mml:mrow/><mml:mi>&#x003b2;</mml:mi><mml:msup><mml:mi>e</mml:mi><mml:mrow><mml:mo>-</mml:mo><mml:mi>&#x003ba;</mml:mi><mml:mi>t</mml:mi></mml:mrow></mml:msup><mml:mi>S</mml:mi><mml:mfrac><mml:mi>I</mml:mi><mml:mi>P</mml:mi></mml:mfrac><mml:mo>-</mml:mo><mml:mi>&#x003b7;</mml:mi><mml:mi>E</mml:mi></mml:mrow></mml:mtd></mml:mtr><mml:mtr><mml:mtd columnalign="right"><mml:mrow><mml:mrow/><mml:msup><mml:mi>I</mml:mi><mml:mo>&#x02032;</mml:mo></mml:msup><mml:mo>=</mml:mo></mml:mrow></mml:mtd><mml:mtd columnalign="left"><mml:mrow><mml:mrow/><mml:mi>&#x003b7;</mml:mi><mml:mi>E</mml:mi><mml:mo>-</mml:mo><mml:mi>&#x003b3;</mml:mi><mml:mi>I</mml:mi></mml:mrow></mml:mtd></mml:mtr><mml:mtr><mml:mtd columnalign="right"><mml:mrow><mml:mrow/><mml:msup><mml:mi>R</mml:mi><mml:mo>&#x02032;</mml:mo></mml:msup><mml:mo>=</mml:mo></mml:mrow></mml:mtd><mml:mtd columnalign="left"><mml:mrow><mml:mrow/><mml:mo stretchy="false">(</mml:mo><mml:mn>1</mml:mn><mml:mo>-</mml:mo><mml:mi>f</mml:mi><mml:mo stretchy="false">)</mml:mo><mml:mi>&#x003b3;</mml:mi><mml:mi>I</mml:mi><mml:mo>.</mml:mo></mml:mrow></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:math><graphic xlink:href="11538_2018_549_Article_Equ1.gif" position="anchor"/></alternatives></disp-formula>Here, <inline-formula id="IEq4"><alternatives><tex-math id="M11">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\beta $$\end{document}</tex-math><mml:math id="M12"><mml:mi>&#x003b2;</mml:mi></mml:math><inline-graphic xlink:href="11538_2018_549_Article_IEq4.gif"/></alternatives></inline-formula> represents the transmission rate in unit time, depending on the mean number of contacts sufficient to transmit infection in unit time and the probability of transmission in a contact, <inline-formula id="IEq5"><alternatives><tex-math id="M13">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\kappa $$\end{document}</tex-math><mml:math id="M14"><mml:mi>&#x003ba;</mml:mi></mml:math><inline-graphic xlink:href="11538_2018_549_Article_IEq5.gif"/></alternatives></inline-formula> represents the rate at which exposed individuals become infective, <inline-formula id="IEq6"><alternatives><tex-math id="M15">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\gamma $$\end{document}</tex-math><mml:math id="M16"><mml:mi>&#x003b3;</mml:mi></mml:math><inline-graphic xlink:href="11538_2018_549_Article_IEq6.gif"/></alternatives></inline-formula> represents the recovery rate of infective individuals, and <italic>f</italic> represents the disease mortality rate. <italic>P</italic> is the number of live individuals, <inline-formula id="IEq7"><alternatives><tex-math id="M17">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$P = S + E + I + R$$\end{document}</tex-math><mml:math id="M18"><mml:mrow><mml:mi>P</mml:mi><mml:mo>=</mml:mo><mml:mi>S</mml:mi><mml:mo>+</mml:mo><mml:mi>E</mml:mi><mml:mo>+</mml:mo><mml:mi>I</mml:mi><mml:mo>+</mml:mo><mml:mi>R</mml:mi></mml:mrow></mml:math><inline-graphic xlink:href="11538_2018_549_Article_IEq7.gif"/></alternatives></inline-formula>.</p><p id="Par13">The basic reproduction number is<disp-formula id="Equ2"><label>2</label><alternatives><tex-math id="M19">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\begin{aligned} \mathcal {R}_0 = \frac{\beta }{\gamma }. \end{aligned}$$\end{document}</tex-math><mml:math id="M20" display="block"><mml:mrow><mml:mtable><mml:mtr><mml:mtd columnalign="right"><mml:mrow><mml:msub><mml:mi mathvariant="script">R</mml:mi><mml:mn>0</mml:mn></mml:msub><mml:mo>=</mml:mo><mml:mfrac><mml:mi>&#x003b2;</mml:mi><mml:mi>&#x003b3;</mml:mi></mml:mfrac><mml:mo>.</mml:mo></mml:mrow></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:math><graphic xlink:href="11538_2018_549_Article_Equ2.gif" position="anchor"/></alternatives></disp-formula>The (time-dependent) effective reproduction number is<disp-formula id="Equ5"><alternatives><tex-math id="M21">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\begin{aligned} \mathcal {R}_t = \frac{\beta e^{-\kappa t}}{\gamma }\frac{S(t)}{P(t)}, \end{aligned}$$\end{document}</tex-math><mml:math id="M22" display="block"><mml:mrow><mml:mtable><mml:mtr><mml:mtd columnalign="right"><mml:mrow><mml:msub><mml:mi mathvariant="script">R</mml:mi><mml:mi>t</mml:mi></mml:msub><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:mi>&#x003b2;</mml:mi><mml:msup><mml:mi>e</mml:mi><mml:mrow><mml:mo>-</mml:mo><mml:mi>&#x003ba;</mml:mi><mml:mi>t</mml:mi></mml:mrow></mml:msup></mml:mrow><mml:mi>&#x003b3;</mml:mi></mml:mfrac><mml:mfrac><mml:mrow><mml:mi>S</mml:mi><mml:mo stretchy="false">(</mml:mo><mml:mi>t</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mrow><mml:mi>P</mml:mi><mml:mo stretchy="false">(</mml:mo><mml:mi>t</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:mfrac><mml:mo>,</mml:mo></mml:mrow></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:math><graphic xlink:href="11538_2018_549_Article_Equ5.gif" position="anchor"/></alternatives></disp-formula>and so long as the number of disease cases is small compared to the initial population size, this is approximately<disp-formula id="Equ6"><alternatives><tex-math id="M23">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\begin{aligned} \frac{\beta e^{-\kappa t}}{\gamma }. \end{aligned}$$\end{document}</tex-math><mml:math id="M24" display="block"><mml:mrow><mml:mtable><mml:mtr><mml:mtd columnalign="right"><mml:mrow><mml:mfrac><mml:mrow><mml:mi>&#x003b2;</mml:mi><mml:msup><mml:mi>e</mml:mi><mml:mrow><mml:mo>-</mml:mo><mml:mi>&#x003ba;</mml:mi><mml:mi>t</mml:mi></mml:mrow></mml:msup></mml:mrow><mml:mi>&#x003b3;</mml:mi></mml:mfrac><mml:mo>.</mml:mo></mml:mrow></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:math><graphic xlink:href="11538_2018_549_Article_Equ6.gif" position="anchor"/></alternatives></disp-formula>Because the model (<xref rid="Equ1" ref-type="">1</xref>) is non-autonomous, there is no final size relation available, but it is not difficult to simulate the model numerically for a given set of parameter values.</p></sec><sec id="Sec3"><title>Heterogeneity in epidemic models</title><p id="Par14">Another possible explanation for epidemic sizes smaller than expected is heterogeneity of mixing of individuals, and we will extend our model to epidemics which include heterogeneity.</p><p id="Par15">It has been observed that in many disease outbreaks, the phenomenon of superspreading events, situations in which a small fraction of the population causes more than its share of disease cases, has been significant (Lloyd-Smith et&#x000a0;al. <xref ref-type="bibr" rid="CR14">2005</xref>). For example, superspreading events were important in the SARS outbreak of 2002&#x02013;2003 (Riley et&#x000a0;al. <xref ref-type="bibr" rid="CR17">2003</xref>), in which there was a cluster of at least 125 cases apparently infected by a single index patient as well as another cluster of perhaps 300 cases. For a given basic reproduction number, the number of disease cases is generally fewer if there is superspreading than if the population mixing is homogeneous.</p><p id="Par16">In the 2014&#x02013;2015 West Africa Ebola epidemic, there is also evidence of superspreading (Lau et&#x000a0;al. <xref ref-type="bibr" rid="CR13">2017</xref>). It is suggested in Galvani and May (<xref ref-type="bibr" rid="CR11">2005</xref>) that commonly roughly 20% of the individuals in a population are responsible for 80% of the disease cases.</p><p id="Par17">We have described a simple superspreading epidemic model in Brauer (<xref ref-type="bibr" rid="CR2">2018</xref>). Here, we extend this model to include a time-dependent contact rate and disease deaths.</p><p id="Par18">We consider an <italic>SEIR</italic> epidemic model in a population divided into two groups. Group 1 members (superspreaders), forming a fraction <inline-formula id="IEq8"><alternatives><tex-math id="M25">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\rho $$\end{document}</tex-math><mml:math id="M26"><mml:mi>&#x003c1;</mml:mi></mml:math><inline-graphic xlink:href="11538_2018_549_Article_IEq8.gif"/></alternatives></inline-formula> of the total population, have a contact rate <inline-formula id="IEq9"><alternatives><tex-math id="M27">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\sigma a$$\end{document}</tex-math><mml:math id="M28"><mml:mrow><mml:mi>&#x003c3;</mml:mi><mml:mi>a</mml:mi></mml:mrow></mml:math><inline-graphic xlink:href="11538_2018_549_Article_IEq9.gif"/></alternatives></inline-formula> and Group 2 members have a contact rate <italic>a</italic>, with <inline-formula id="IEq10"><alternatives><tex-math id="M29">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\sigma &#x0003e; 1$$\end{document}</tex-math><mml:math id="M30"><mml:mrow><mml:mi>&#x003c3;</mml:mi><mml:mo>&#x0003e;</mml:mo><mml:mn>1</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="11538_2018_549_Article_IEq10.gif"/></alternatives></inline-formula>. Mixing between groups is proportionate. We take <inline-formula id="IEq11"><alternatives><tex-math id="M31">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\sigma = 16,\rho = 0.2$$\end{document}</tex-math><mml:math id="M32"><mml:mrow><mml:mi>&#x003c3;</mml:mi><mml:mo>=</mml:mo><mml:mn>16</mml:mn><mml:mo>,</mml:mo><mml:mi>&#x003c1;</mml:mi><mml:mo>=</mml:mo><mml:mn>0.2</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="11538_2018_549_Article_IEq11.gif"/></alternatives></inline-formula> in order to conform to the suggestion in Galvani and May (<xref ref-type="bibr" rid="CR11">2005</xref>) that commonly roughly <inline-formula id="IEq12"><alternatives><tex-math id="M33">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$20 \%$$\end{document}</tex-math><mml:math id="M34"><mml:mrow><mml:mn>20</mml:mn><mml:mo>%</mml:mo></mml:mrow></mml:math><inline-graphic xlink:href="11538_2018_549_Article_IEq12.gif"/></alternatives></inline-formula> of the individuals in a population are responsible for <inline-formula id="IEq13"><alternatives><tex-math id="M35">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$80 \%$$\end{document}</tex-math><mml:math id="M36"><mml:mrow><mml:mn>80</mml:mn><mml:mo>%</mml:mo></mml:mrow></mml:math><inline-graphic xlink:href="11538_2018_549_Article_IEq13.gif"/></alternatives></inline-formula> of the disease cases.</p><p id="Par19">We assume<list list-type="bullet"><list-item><p id="Par20">Total initial population size is <italic>N</italic>. Group 1 initial population size is <inline-formula id="IEq14"><alternatives><tex-math id="M37">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$N_1 = \rho N$$\end{document}</tex-math><mml:math id="M38"><mml:mrow><mml:msub><mml:mi>N</mml:mi><mml:mn>1</mml:mn></mml:msub><mml:mo>=</mml:mo><mml:mi>&#x003c1;</mml:mi><mml:mi>N</mml:mi></mml:mrow></mml:math><inline-graphic xlink:href="11538_2018_549_Article_IEq14.gif"/></alternatives></inline-formula>. Group 2 initial population size is <inline-formula id="IEq15"><alternatives><tex-math id="M39">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$N_2 = (1 - \rho )N$$\end{document}</tex-math><mml:math id="M40"><mml:mrow><mml:msub><mml:mi>N</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mo>=</mml:mo><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mn>1</mml:mn><mml:mo>-</mml:mo><mml:mi>&#x003c1;</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mi>N</mml:mi></mml:mrow></mml:math><inline-graphic xlink:href="11538_2018_549_Article_IEq15.gif"/></alternatives></inline-formula>.</p></list-item><list-item><p id="Par21">Group <italic>i</italic> is divided into susceptibles (<inline-formula id="IEq16"><alternatives><tex-math id="M41">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$S_i$$\end{document}</tex-math><mml:math id="M42"><mml:msub><mml:mi>S</mml:mi><mml:mi>i</mml:mi></mml:msub></mml:math><inline-graphic xlink:href="11538_2018_549_Article_IEq16.gif"/></alternatives></inline-formula>), exposed members (<inline-formula id="IEq17"><alternatives><tex-math id="M43">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$E_i $$\end{document}</tex-math><mml:math id="M44"><mml:msub><mml:mi>E</mml:mi><mml:mi>i</mml:mi></mml:msub></mml:math><inline-graphic xlink:href="11538_2018_549_Article_IEq17.gif"/></alternatives></inline-formula>), infectives (<inline-formula id="IEq18"><alternatives><tex-math id="M45">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$I_i$$\end{document}</tex-math><mml:math id="M46"><mml:msub><mml:mi>I</mml:mi><mml:mi>i</mml:mi></mml:msub></mml:math><inline-graphic xlink:href="11538_2018_549_Article_IEq18.gif"/></alternatives></inline-formula>), and recovered members (<inline-formula id="IEq19"><alternatives><tex-math id="M47">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$R_i$$\end{document}</tex-math><mml:math id="M48"><mml:msub><mml:mi>R</mml:mi><mml:mi>i</mml:mi></mml:msub></mml:math><inline-graphic xlink:href="11538_2018_549_Article_IEq19.gif"/></alternatives></inline-formula>).</p></list-item><list-item><p id="Par22">Mixing between groups is proportionate. The fraction of contacts of susceptibles with groups 1 and 2, respectively, are <disp-formula id="Equ7"><alternatives><tex-math id="M49">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\begin{aligned} p_1 = \frac{\rho \sigma }{\rho \sigma + (1 - \rho )}, \quad p_2 = \frac{1 - \rho }{\rho \sigma + (1 - \rho )}. \end{aligned}$$\end{document}</tex-math><mml:math id="M50" display="block"><mml:mrow><mml:mtable><mml:mtr><mml:mtd columnalign="right"><mml:mrow><mml:msub><mml:mi>p</mml:mi><mml:mn>1</mml:mn></mml:msub><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:mi>&#x003c1;</mml:mi><mml:mi>&#x003c3;</mml:mi></mml:mrow><mml:mrow><mml:mi>&#x003c1;</mml:mi><mml:mi>&#x003c3;</mml:mi><mml:mo>+</mml:mo><mml:mo stretchy="false">(</mml:mo><mml:mn>1</mml:mn><mml:mo>-</mml:mo><mml:mi>&#x003c1;</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:mfrac><mml:mo>,</mml:mo><mml:mspace width="1em"/><mml:msub><mml:mi>p</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:mn>1</mml:mn><mml:mo>-</mml:mo><mml:mi>&#x003c1;</mml:mi></mml:mrow><mml:mrow><mml:mi>&#x003c1;</mml:mi><mml:mi>&#x003c3;</mml:mi><mml:mo>+</mml:mo><mml:mo stretchy="false">(</mml:mo><mml:mn>1</mml:mn><mml:mo>-</mml:mo><mml:mi>&#x003c1;</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:mfrac><mml:mo>.</mml:mo></mml:mrow></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:math><graphic xlink:href="11538_2018_549_Article_Equ7.gif" position="anchor"/></alternatives></disp-formula></p></list-item><list-item><p id="Par23">Infections in each group recover at rate <inline-formula id="IEq20"><alternatives><tex-math id="M51">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\gamma $$\end{document}</tex-math><mml:math id="M52"><mml:mi>&#x003b3;</mml:mi></mml:math><inline-graphic xlink:href="11538_2018_549_Article_IEq20.gif"/></alternatives></inline-formula>.</p></list-item><list-item><p id="Par24">There is a disease death rate <italic>f</italic>.</p></list-item><list-item><p id="Par25">There are no demographic effects (births, deaths, migration) on the population.</p></list-item></list>Then, the total population sizes at time <italic>t</italic> in the two groups are<disp-formula id="Equ8"><alternatives><tex-math id="M53">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\begin{aligned} P_1 = S_1 + E_1 +I_1 + R_1, \quad P_2 = S_2 + E_2 +I_2 + R_2. \end{aligned}$$\end{document}</tex-math><mml:math id="M54" display="block"><mml:mrow><mml:mtable><mml:mtr><mml:mtd columnalign="right"><mml:mrow><mml:msub><mml:mi>P</mml:mi><mml:mn>1</mml:mn></mml:msub><mml:mo>=</mml:mo><mml:msub><mml:mi>S</mml:mi><mml:mn>1</mml:mn></mml:msub><mml:mo>+</mml:mo><mml:msub><mml:mi>E</mml:mi><mml:mn>1</mml:mn></mml:msub><mml:mo>+</mml:mo><mml:msub><mml:mi>I</mml:mi><mml:mn>1</mml:mn></mml:msub><mml:mo>+</mml:mo><mml:msub><mml:mi>R</mml:mi><mml:mn>1</mml:mn></mml:msub><mml:mo>,</mml:mo><mml:mspace width="1em"/><mml:msub><mml:mi>P</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mo>=</mml:mo><mml:msub><mml:mi>S</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mo>+</mml:mo><mml:msub><mml:mi>E</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mo>+</mml:mo><mml:msub><mml:mi>I</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mo>+</mml:mo><mml:msub><mml:mi>R</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mo>.</mml:mo></mml:mrow></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:math><graphic xlink:href="11538_2018_549_Article_Equ8.gif" position="anchor"/></alternatives></disp-formula>The model is (Brauer <xref ref-type="bibr" rid="CR2">2018</xref>)<disp-formula id="Equ3"><label>3</label><alternatives><tex-math id="M55">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\begin{aligned} S_1'= &#x00026; {} - \sigma \beta ^* e^{- \kappa t}S_1 \left[ \frac{\rho \sigma }{\rho \sigma +(1-\rho )}\frac{I_1}{P_1} - \frac{1-\rho }{\rho \sigma + (1-\rho )}\frac{I_2}{P_2}\right] \nonumber \\ E_1'= &#x00026; {} \sigma \beta ^* e^{- \kappa t}S_1 \left[ \frac{\rho \sigma }{\rho \sigma + (1-\rho )}\frac{I_1}{P_1} + \frac{1-\rho }{\rho \sigma + (1-\rho )}\frac{I_2}{P_2}\right] - \eta E_1 \nonumber \\ I_1'= &#x00026; {} \eta E_1 - \gamma I_1 \\ R_1'= &#x00026; {} (1 - f) \gamma I_1 \nonumber \\ S_2'= &#x00026; {} - \beta ^* e^{- \kappa t}S_2\left[ \frac{\rho \sigma }{\rho \sigma + (1-\rho )}\frac{I_1}{P_1} - \frac{1-\rho }{\rho \sigma + (1-\rho )}\frac{I_2}{P_2}\right] \nonumber \\ E_2'= &#x00026; {} \beta ^* e^{- \kappa t}S_2 \left[ \frac{\rho \sigma }{\rho \sigma + (1-\rho )}\frac{I_1}{P_1} + \frac{1-\rho }{\rho \sigma + (1-\rho )}\frac{I_2}{P_2}\right] - \eta E_2 \nonumber \\ I_1'= &#x00026; {} \eta E_2 - \gamma I_2 \nonumber \\ R_1'= &#x00026; {} (1 - f) \gamma I_2 \nonumber \end{aligned}$$\end{document}</tex-math><mml:math id="M56" display="block"><mml:mrow><mml:mtable><mml:mtr><mml:mtd columnalign="right"><mml:mrow><mml:msubsup><mml:mi>S</mml:mi><mml:mn>1</mml:mn><mml:mo>&#x02032;</mml:mo></mml:msubsup><mml:mo>=</mml:mo></mml:mrow></mml:mtd><mml:mtd columnalign="left"><mml:mrow><mml:mrow/><mml:mo>-</mml:mo><mml:mi>&#x003c3;</mml:mi><mml:msup><mml:mi>&#x003b2;</mml:mi><mml:mo>&#x02217;</mml:mo></mml:msup><mml:msup><mml:mi>e</mml:mi><mml:mrow><mml:mo>-</mml:mo><mml:mi>&#x003ba;</mml:mi><mml:mi>t</mml:mi></mml:mrow></mml:msup><mml:msub><mml:mi>S</mml:mi><mml:mn>1</mml:mn></mml:msub><mml:mfenced close="]" open="["><mml:mfrac><mml:mrow><mml:mi>&#x003c1;</mml:mi><mml:mi>&#x003c3;</mml:mi></mml:mrow><mml:mrow><mml:mi>&#x003c1;</mml:mi><mml:mi>&#x003c3;</mml:mi><mml:mo>+</mml:mo><mml:mo stretchy="false">(</mml:mo><mml:mn>1</mml:mn><mml:mo>-</mml:mo><mml:mi>&#x003c1;</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:mfrac><mml:mfrac><mml:msub><mml:mi>I</mml:mi><mml:mn>1</mml:mn></mml:msub><mml:msub><mml:mi>P</mml:mi><mml:mn>1</mml:mn></mml:msub></mml:mfrac><mml:mo>-</mml:mo><mml:mfrac><mml:mrow><mml:mn>1</mml:mn><mml:mo>-</mml:mo><mml:mi>&#x003c1;</mml:mi></mml:mrow><mml:mrow><mml:mi>&#x003c1;</mml:mi><mml:mi>&#x003c3;</mml:mi><mml:mo>+</mml:mo><mml:mo stretchy="false">(</mml:mo><mml:mn>1</mml:mn><mml:mo>-</mml:mo><mml:mi>&#x003c1;</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:mfrac><mml:mfrac><mml:msub><mml:mi>I</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:msub><mml:mi>P</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mfrac></mml:mfenced></mml:mrow></mml:mtd></mml:mtr><mml:mtr><mml:mtd columnalign="right"><mml:mrow><mml:mrow/><mml:msubsup><mml:mi>E</mml:mi><mml:mn>1</mml:mn><mml:mo>&#x02032;</mml:mo></mml:msubsup><mml:mo>=</mml:mo></mml:mrow></mml:mtd><mml:mtd columnalign="left"><mml:mrow><mml:mrow/><mml:mi>&#x003c3;</mml:mi><mml:msup><mml:mi>&#x003b2;</mml:mi><mml:mo>&#x02217;</mml:mo></mml:msup><mml:msup><mml:mi>e</mml:mi><mml:mrow><mml:mo>-</mml:mo><mml:mi>&#x003ba;</mml:mi><mml:mi>t</mml:mi></mml:mrow></mml:msup><mml:msub><mml:mi>S</mml:mi><mml:mn>1</mml:mn></mml:msub><mml:mfenced close="]" open="["><mml:mfrac><mml:mrow><mml:mi>&#x003c1;</mml:mi><mml:mi>&#x003c3;</mml:mi></mml:mrow><mml:mrow><mml:mi>&#x003c1;</mml:mi><mml:mi>&#x003c3;</mml:mi><mml:mo>+</mml:mo><mml:mo stretchy="false">(</mml:mo><mml:mn>1</mml:mn><mml:mo>-</mml:mo><mml:mi>&#x003c1;</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:mfrac><mml:mfrac><mml:msub><mml:mi>I</mml:mi><mml:mn>1</mml:mn></mml:msub><mml:msub><mml:mi>P</mml:mi><mml:mn>1</mml:mn></mml:msub></mml:mfrac><mml:mo>+</mml:mo><mml:mfrac><mml:mrow><mml:mn>1</mml:mn><mml:mo>-</mml:mo><mml:mi>&#x003c1;</mml:mi></mml:mrow><mml:mrow><mml:mi>&#x003c1;</mml:mi><mml:mi>&#x003c3;</mml:mi><mml:mo>+</mml:mo><mml:mo stretchy="false">(</mml:mo><mml:mn>1</mml:mn><mml:mo>-</mml:mo><mml:mi>&#x003c1;</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:mfrac><mml:mfrac><mml:msub><mml:mi>I</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:msub><mml:mi>P</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mfrac></mml:mfenced><mml:mo>-</mml:mo><mml:mi>&#x003b7;</mml:mi><mml:msub><mml:mi>E</mml:mi><mml:mn>1</mml:mn></mml:msub></mml:mrow></mml:mtd></mml:mtr><mml:mtr><mml:mtd columnalign="right"><mml:mrow><mml:mrow/><mml:msubsup><mml:mi>I</mml:mi><mml:mn>1</mml:mn><mml:mo>&#x02032;</mml:mo></mml:msubsup><mml:mo>=</mml:mo></mml:mrow></mml:mtd><mml:mtd columnalign="left"><mml:mrow><mml:mrow/><mml:mi>&#x003b7;</mml:mi><mml:msub><mml:mi>E</mml:mi><mml:mn>1</mml:mn></mml:msub><mml:mo>-</mml:mo><mml:mi>&#x003b3;</mml:mi><mml:msub><mml:mi>I</mml:mi><mml:mn>1</mml:mn></mml:msub></mml:mrow></mml:mtd></mml:mtr><mml:mtr><mml:mtd columnalign="right"><mml:mrow><mml:mrow/><mml:msubsup><mml:mi>R</mml:mi><mml:mn>1</mml:mn><mml:mo>&#x02032;</mml:mo></mml:msubsup><mml:mo>=</mml:mo></mml:mrow></mml:mtd><mml:mtd columnalign="left"><mml:mrow><mml:mrow/><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mn>1</mml:mn><mml:mo>-</mml:mo><mml:mi>f</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mi>&#x003b3;</mml:mi><mml:msub><mml:mi>I</mml:mi><mml:mn>1</mml:mn></mml:msub></mml:mrow></mml:mtd></mml:mtr><mml:mtr><mml:mtd columnalign="right"><mml:mrow><mml:mrow/><mml:msubsup><mml:mi>S</mml:mi><mml:mn>2</mml:mn><mml:mo>&#x02032;</mml:mo></mml:msubsup><mml:mo>=</mml:mo></mml:mrow></mml:mtd><mml:mtd columnalign="left"><mml:mrow><mml:mrow/><mml:mo>-</mml:mo><mml:msup><mml:mi>&#x003b2;</mml:mi><mml:mo>&#x02217;</mml:mo></mml:msup><mml:msup><mml:mi>e</mml:mi><mml:mrow><mml:mo>-</mml:mo><mml:mi>&#x003ba;</mml:mi><mml:mi>t</mml:mi></mml:mrow></mml:msup><mml:msub><mml:mi>S</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mfenced close="]" open="["><mml:mfrac><mml:mrow><mml:mi>&#x003c1;</mml:mi><mml:mi>&#x003c3;</mml:mi></mml:mrow><mml:mrow><mml:mi>&#x003c1;</mml:mi><mml:mi>&#x003c3;</mml:mi><mml:mo>+</mml:mo><mml:mo stretchy="false">(</mml:mo><mml:mn>1</mml:mn><mml:mo>-</mml:mo><mml:mi>&#x003c1;</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:mfrac><mml:mfrac><mml:msub><mml:mi>I</mml:mi><mml:mn>1</mml:mn></mml:msub><mml:msub><mml:mi>P</mml:mi><mml:mn>1</mml:mn></mml:msub></mml:mfrac><mml:mo>-</mml:mo><mml:mfrac><mml:mrow><mml:mn>1</mml:mn><mml:mo>-</mml:mo><mml:mi>&#x003c1;</mml:mi></mml:mrow><mml:mrow><mml:mi>&#x003c1;</mml:mi><mml:mi>&#x003c3;</mml:mi><mml:mo>+</mml:mo><mml:mo stretchy="false">(</mml:mo><mml:mn>1</mml:mn><mml:mo>-</mml:mo><mml:mi>&#x003c1;</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:mfrac><mml:mfrac><mml:msub><mml:mi>I</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:msub><mml:mi>P</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mfrac></mml:mfenced></mml:mrow></mml:mtd></mml:mtr><mml:mtr><mml:mtd columnalign="right"><mml:mrow><mml:mrow/><mml:msubsup><mml:mi>E</mml:mi><mml:mn>2</mml:mn><mml:mo>&#x02032;</mml:mo></mml:msubsup><mml:mo>=</mml:mo></mml:mrow></mml:mtd><mml:mtd columnalign="left"><mml:mrow><mml:mrow/><mml:msup><mml:mi>&#x003b2;</mml:mi><mml:mo>&#x02217;</mml:mo></mml:msup><mml:msup><mml:mi>e</mml:mi><mml:mrow><mml:mo>-</mml:mo><mml:mi>&#x003ba;</mml:mi><mml:mi>t</mml:mi></mml:mrow></mml:msup><mml:msub><mml:mi>S</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mfenced close="]" open="["><mml:mfrac><mml:mrow><mml:mi>&#x003c1;</mml:mi><mml:mi>&#x003c3;</mml:mi></mml:mrow><mml:mrow><mml:mi>&#x003c1;</mml:mi><mml:mi>&#x003c3;</mml:mi><mml:mo>+</mml:mo><mml:mo stretchy="false">(</mml:mo><mml:mn>1</mml:mn><mml:mo>-</mml:mo><mml:mi>&#x003c1;</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:mfrac><mml:mfrac><mml:msub><mml:mi>I</mml:mi><mml:mn>1</mml:mn></mml:msub><mml:msub><mml:mi>P</mml:mi><mml:mn>1</mml:mn></mml:msub></mml:mfrac><mml:mo>+</mml:mo><mml:mfrac><mml:mrow><mml:mn>1</mml:mn><mml:mo>-</mml:mo><mml:mi>&#x003c1;</mml:mi></mml:mrow><mml:mrow><mml:mi>&#x003c1;</mml:mi><mml:mi>&#x003c3;</mml:mi><mml:mo>+</mml:mo><mml:mo stretchy="false">(</mml:mo><mml:mn>1</mml:mn><mml:mo>-</mml:mo><mml:mi>&#x003c1;</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:mfrac><mml:mfrac><mml:msub><mml:mi>I</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:msub><mml:mi>P</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mfrac></mml:mfenced><mml:mo>-</mml:mo><mml:mi>&#x003b7;</mml:mi><mml:msub><mml:mi>E</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mrow></mml:mtd></mml:mtr><mml:mtr><mml:mtd columnalign="right"><mml:mrow><mml:mrow/><mml:msubsup><mml:mi>I</mml:mi><mml:mn>1</mml:mn><mml:mo>&#x02032;</mml:mo></mml:msubsup><mml:mo>=</mml:mo></mml:mrow></mml:mtd><mml:mtd columnalign="left"><mml:mrow><mml:mrow/><mml:mi>&#x003b7;</mml:mi><mml:msub><mml:mi>E</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mo>-</mml:mo><mml:mi>&#x003b3;</mml:mi><mml:msub><mml:mi>I</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mrow></mml:mtd></mml:mtr><mml:mtr><mml:mtd columnalign="right"><mml:mrow><mml:mrow/><mml:msubsup><mml:mi>R</mml:mi><mml:mn>1</mml:mn><mml:mo>&#x02032;</mml:mo></mml:msubsup><mml:mo>=</mml:mo></mml:mrow></mml:mtd><mml:mtd columnalign="left"><mml:mrow><mml:mrow/><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mn>1</mml:mn><mml:mo>-</mml:mo><mml:mi>f</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mi>&#x003b3;</mml:mi><mml:msub><mml:mi>I</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mrow></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:math><graphic xlink:href="11538_2018_549_Article_Equ3.gif" position="anchor"/></alternatives></disp-formula>We let<disp-formula id="Equ9"><alternatives><tex-math id="M57">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\begin{aligned} \theta = \rho \sigma + (1 - \rho ). \end{aligned}$$\end{document}</tex-math><mml:math id="M58" display="block"><mml:mrow><mml:mtable><mml:mtr><mml:mtd columnalign="right"><mml:mrow><mml:mi>&#x003b8;</mml:mi><mml:mo>=</mml:mo><mml:mi>&#x003c1;</mml:mi><mml:mi>&#x003c3;</mml:mi><mml:mo>+</mml:mo><mml:mo stretchy="false">(</mml:mo><mml:mn>1</mml:mn><mml:mo>-</mml:mo><mml:mi>&#x003c1;</mml:mi><mml:mo stretchy="false">)</mml:mo><mml:mo>.</mml:mo></mml:mrow></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:math><graphic xlink:href="11538_2018_549_Article_Equ9.gif" position="anchor"/></alternatives></disp-formula>To calculate the reproduction number using the next-generation method (van den Driessche and Watmough <xref ref-type="bibr" rid="CR19">2002</xref>) for <inline-formula id="IEq21"><alternatives><tex-math id="M59">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$t=0$$\end{document}</tex-math><mml:math id="M60"><mml:mrow><mml:mi>t</mml:mi><mml:mo>=</mml:mo><mml:mn>0</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="11538_2018_549_Article_IEq21.gif"/></alternatives></inline-formula> using the disease-free equilibrium with<disp-formula id="Equ10"><alternatives><tex-math id="M61">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\begin{aligned} P_1 = N_1 = \rho N, P_2 = N_2 = (1-\rho )N \end{aligned}$$\end{document}</tex-math><mml:math id="M62" display="block"><mml:mrow><mml:mtable><mml:mtr><mml:mtd columnalign="right"><mml:mrow><mml:msub><mml:mi>P</mml:mi><mml:mn>1</mml:mn></mml:msub><mml:mo>=</mml:mo><mml:msub><mml:mi>N</mml:mi><mml:mn>1</mml:mn></mml:msub><mml:mo>=</mml:mo><mml:mi>&#x003c1;</mml:mi><mml:mi>N</mml:mi><mml:mo>,</mml:mo><mml:msub><mml:mi>P</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mo>=</mml:mo><mml:msub><mml:mi>N</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mo>=</mml:mo><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mn>1</mml:mn><mml:mo>-</mml:mo><mml:mi>&#x003c1;</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mi>N</mml:mi></mml:mrow></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:math><graphic xlink:href="11538_2018_549_Article_Equ10.gif" position="anchor"/></alternatives></disp-formula>and<disp-formula id="Equ11"><alternatives><tex-math id="M63">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\begin{aligned} S_1 = \rho N, S_2 = (1-\rho )N, E-1 = E_2\,{=}\,!_1 = I_2 = R_1 = R_2 = 0, \end{aligned}$$\end{document}</tex-math><mml:math id="M64" display="block"><mml:mrow><mml:mtable><mml:mtr><mml:mtd columnalign="right"><mml:mrow><mml:msub><mml:mi>S</mml:mi><mml:mn>1</mml:mn></mml:msub><mml:mo>=</mml:mo><mml:mi>&#x003c1;</mml:mi><mml:mi>N</mml:mi><mml:mo>,</mml:mo><mml:msub><mml:mi>S</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mo>=</mml:mo><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mn>1</mml:mn><mml:mo>-</mml:mo><mml:mi>&#x003c1;</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mi>N</mml:mi><mml:mo>,</mml:mo><mml:mi>E</mml:mi><mml:mo>-</mml:mo><mml:mn>1</mml:mn><mml:mo>=</mml:mo><mml:msub><mml:mi>E</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mspace width="0.166667em"/><mml:mo>=</mml:mo><mml:mspace width="0.166667em"/><mml:msub><mml:mo>!</mml:mo><mml:mn>1</mml:mn></mml:msub><mml:mo>=</mml:mo><mml:msub><mml:mi>I</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mo>=</mml:mo><mml:msub><mml:mi>R</mml:mi><mml:mn>1</mml:mn></mml:msub><mml:mo>=</mml:mo><mml:msub><mml:mi>R</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mo>=</mml:mo><mml:mn>0</mml:mn><mml:mo>,</mml:mo></mml:mrow></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:math><graphic xlink:href="11538_2018_549_Article_Equ11.gif" position="anchor"/></alternatives></disp-formula>we write<disp-formula id="Equ12"><alternatives><tex-math id="M65">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\begin{aligned} F = \begin{bmatrix} 0&#x00026;\quad \frac{\rho \sigma ^2 \beta ^*}{\theta }&#x00026;\quad 0&#x00026;\quad \frac{\sigma \rho \beta ^*}{\theta } \\ 0&#x00026;\quad 0&#x00026;\quad 0&#x00026;\quad 0 \\ 0&#x00026;\quad \frac{(1 - \rho )\sigma \beta ^*}{\theta }&#x00026;\quad 0&#x00026;\quad \frac{(1 - \rho )\beta ^*}{\theta } \\ 0&#x00026;\quad 0&#x00026;\quad 0&#x00026;\quad 0 \end{bmatrix}, \quad V = \begin{bmatrix} \sigma&#x00026;\quad 0&#x00026;\quad 0&#x00026;\quad 0 \\ - \sigma&#x00026;\quad \alpha&#x00026;\quad 0&#x00026;\quad 0 \\ 0&#x00026;\quad 0&#x00026;\quad \sigma&#x00026;\quad 0 \\ 0&#x00026;\quad 0&#x00026;\quad -\sigma&#x00026;\quad \alpha \\ \end{bmatrix} \end{aligned}$$\end{document}</tex-math><mml:math id="M66" display="block"><mml:mrow><mml:mtable><mml:mtr><mml:mtd columnalign="right"><mml:mrow><mml:mi>F</mml:mi><mml:mo>=</mml:mo><mml:mfenced close="]" open="["><mml:mrow><mml:mtable><mml:mtr><mml:mtd><mml:mn>0</mml:mn></mml:mtd><mml:mtd><mml:mrow><mml:mspace width="1em"/><mml:mfrac><mml:mrow><mml:mi>&#x003c1;</mml:mi><mml:msup><mml:mi>&#x003c3;</mml:mi><mml:mn>2</mml:mn></mml:msup><mml:msup><mml:mi>&#x003b2;</mml:mi><mml:mo>&#x02217;</mml:mo></mml:msup></mml:mrow><mml:mi>&#x003b8;</mml:mi></mml:mfrac></mml:mrow></mml:mtd><mml:mtd><mml:mrow><mml:mspace width="1em"/><mml:mn>0</mml:mn></mml:mrow></mml:mtd><mml:mtd><mml:mrow><mml:mspace width="1em"/><mml:mfrac><mml:mrow><mml:mi>&#x003c3;</mml:mi><mml:mi>&#x003c1;</mml:mi><mml:msup><mml:mi>&#x003b2;</mml:mi><mml:mo>&#x02217;</mml:mo></mml:msup></mml:mrow><mml:mi>&#x003b8;</mml:mi></mml:mfrac></mml:mrow></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:mrow><mml:mrow/><mml:mn>0</mml:mn></mml:mrow></mml:mtd><mml:mtd><mml:mrow><mml:mspace width="1em"/><mml:mn>0</mml:mn></mml:mrow></mml:mtd><mml:mtd><mml:mrow><mml:mspace width="1em"/><mml:mn>0</mml:mn></mml:mrow></mml:mtd><mml:mtd><mml:mrow><mml:mspace width="1em"/><mml:mn>0</mml:mn></mml:mrow></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:mrow><mml:mrow/><mml:mn>0</mml:mn></mml:mrow></mml:mtd><mml:mtd><mml:mrow><mml:mspace width="1em"/><mml:mfrac><mml:mrow><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mn>1</mml:mn><mml:mo>-</mml:mo><mml:mi>&#x003c1;</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mi>&#x003c3;</mml:mi><mml:msup><mml:mi>&#x003b2;</mml:mi><mml:mo>&#x02217;</mml:mo></mml:msup></mml:mrow><mml:mi>&#x003b8;</mml:mi></mml:mfrac></mml:mrow></mml:mtd><mml:mtd><mml:mrow><mml:mspace width="1em"/><mml:mn>0</mml:mn></mml:mrow></mml:mtd><mml:mtd><mml:mrow><mml:mspace width="1em"/><mml:mfrac><mml:mrow><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mn>1</mml:mn><mml:mo>-</mml:mo><mml:mi>&#x003c1;</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:msup><mml:mi>&#x003b2;</mml:mi><mml:mo>&#x02217;</mml:mo></mml:msup></mml:mrow><mml:mi>&#x003b8;</mml:mi></mml:mfrac></mml:mrow></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:mrow><mml:mrow/><mml:mn>0</mml:mn></mml:mrow></mml:mtd><mml:mtd><mml:mrow><mml:mspace width="1em"/><mml:mn>0</mml:mn></mml:mrow></mml:mtd><mml:mtd><mml:mrow><mml:mspace width="1em"/><mml:mn>0</mml:mn></mml:mrow></mml:mtd><mml:mtd><mml:mrow><mml:mspace width="1em"/><mml:mn>0</mml:mn></mml:mrow></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:mfenced><mml:mo>,</mml:mo><mml:mspace width="1em"/><mml:mi>V</mml:mi><mml:mo>=</mml:mo><mml:mfenced close="]" open="["><mml:mrow><mml:mtable><mml:mtr><mml:mtd><mml:mi>&#x003c3;</mml:mi></mml:mtd><mml:mtd><mml:mrow><mml:mspace width="1em"/><mml:mn>0</mml:mn></mml:mrow></mml:mtd><mml:mtd><mml:mrow><mml:mspace width="1em"/><mml:mn>0</mml:mn></mml:mrow></mml:mtd><mml:mtd><mml:mrow><mml:mspace width="1em"/><mml:mn>0</mml:mn></mml:mrow></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:mrow><mml:mrow/><mml:mo>-</mml:mo><mml:mi>&#x003c3;</mml:mi></mml:mrow></mml:mtd><mml:mtd><mml:mrow><mml:mspace width="1em"/><mml:mi>&#x003b1;</mml:mi></mml:mrow></mml:mtd><mml:mtd><mml:mrow><mml:mspace width="1em"/><mml:mn>0</mml:mn></mml:mrow></mml:mtd><mml:mtd><mml:mrow><mml:mspace width="1em"/><mml:mn>0</mml:mn></mml:mrow></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:mrow><mml:mrow/><mml:mn>0</mml:mn></mml:mrow></mml:mtd><mml:mtd><mml:mrow><mml:mspace width="1em"/><mml:mn>0</mml:mn></mml:mrow></mml:mtd><mml:mtd><mml:mrow><mml:mspace width="1em"/><mml:mi>&#x003c3;</mml:mi></mml:mrow></mml:mtd><mml:mtd><mml:mrow><mml:mspace width="1em"/><mml:mn>0</mml:mn></mml:mrow></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:mrow><mml:mrow/><mml:mn>0</mml:mn></mml:mrow></mml:mtd><mml:mtd><mml:mrow><mml:mspace width="1em"/><mml:mn>0</mml:mn></mml:mrow></mml:mtd><mml:mtd><mml:mrow><mml:mspace width="1em"/><mml:mo>-</mml:mo><mml:mi>&#x003c3;</mml:mi></mml:mrow></mml:mtd><mml:mtd><mml:mrow><mml:mspace width="1em"/><mml:mi>&#x003b1;</mml:mi></mml:mrow></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:mrow/></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:mfenced></mml:mrow></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:math><graphic xlink:href="11538_2018_549_Article_Equ12.gif" position="anchor"/></alternatives></disp-formula>Thus, the next-generation matrix is<disp-formula id="Equ13"><alternatives><tex-math id="M67">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\begin{aligned} FV^{-1} = \begin{bmatrix} \frac{\rho \sigma ^2 \beta ^*}{\alpha \theta }&#x00026;\frac{\rho \sigma ^2 \beta ^*}{\alpha \theta }&#x00026;\frac{\rho \sigma \beta ^*}{\alpha \theta }&#x00026;\frac{\rho \sigma \beta ^*}{\alpha \theta } \\ 0&#x00026;0&#x00026;0&#x00026;0 \\ \frac{(1 - \rho )\sigma \beta ^*}{\alpha \theta }&#x00026;\frac{(1 - \rho )\sigma \beta ^*}{\alpha \theta }&#x00026;\frac{\beta ^*(1 - \rho )}{\alpha \theta }&#x00026;\frac{\beta ^*(1 - \rho )}{\alpha \theta } \\ 0&#x00026;0&#x00026;0&#x00026;0 \end{bmatrix}. \end{aligned}$$\end{document}</tex-math><mml:math id="M68" display="block"><mml:mrow><mml:mtable><mml:mtr><mml:mtd columnalign="right"><mml:mrow><mml:mi>F</mml:mi><mml:msup><mml:mi>V</mml:mi><mml:mrow><mml:mo>-</mml:mo><mml:mn>1</mml:mn></mml:mrow></mml:msup><mml:mo>=</mml:mo><mml:mfenced close="]" open="["><mml:mrow><mml:mtable><mml:mtr><mml:mtd><mml:mfrac><mml:mrow><mml:mi>&#x003c1;</mml:mi><mml:msup><mml:mi>&#x003c3;</mml:mi><mml:mn>2</mml:mn></mml:msup><mml:msup><mml:mi>&#x003b2;</mml:mi><mml:mo>&#x02217;</mml:mo></mml:msup></mml:mrow><mml:mrow><mml:mi>&#x003b1;</mml:mi><mml:mi>&#x003b8;</mml:mi></mml:mrow></mml:mfrac></mml:mtd><mml:mtd><mml:mfrac><mml:mrow><mml:mi>&#x003c1;</mml:mi><mml:msup><mml:mi>&#x003c3;</mml:mi><mml:mn>2</mml:mn></mml:msup><mml:msup><mml:mi>&#x003b2;</mml:mi><mml:mo>&#x02217;</mml:mo></mml:msup></mml:mrow><mml:mrow><mml:mi>&#x003b1;</mml:mi><mml:mi>&#x003b8;</mml:mi></mml:mrow></mml:mfrac></mml:mtd><mml:mtd><mml:mfrac><mml:mrow><mml:mi>&#x003c1;</mml:mi><mml:mi>&#x003c3;</mml:mi><mml:msup><mml:mi>&#x003b2;</mml:mi><mml:mo>&#x02217;</mml:mo></mml:msup></mml:mrow><mml:mrow><mml:mi>&#x003b1;</mml:mi><mml:mi>&#x003b8;</mml:mi></mml:mrow></mml:mfrac></mml:mtd><mml:mtd><mml:mfrac><mml:mrow><mml:mi>&#x003c1;</mml:mi><mml:mi>&#x003c3;</mml:mi><mml:msup><mml:mi>&#x003b2;</mml:mi><mml:mo>&#x02217;</mml:mo></mml:msup></mml:mrow><mml:mrow><mml:mi>&#x003b1;</mml:mi><mml:mi>&#x003b8;</mml:mi></mml:mrow></mml:mfrac></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:mrow><mml:mrow/><mml:mn>0</mml:mn></mml:mrow></mml:mtd><mml:mtd><mml:mn>0</mml:mn></mml:mtd><mml:mtd><mml:mn>0</mml:mn></mml:mtd><mml:mtd><mml:mn>0</mml:mn></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:mrow><mml:mrow/><mml:mfrac><mml:mrow><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mn>1</mml:mn><mml:mo>-</mml:mo><mml:mi>&#x003c1;</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mi>&#x003c3;</mml:mi><mml:msup><mml:mi>&#x003b2;</mml:mi><mml:mo>&#x02217;</mml:mo></mml:msup></mml:mrow><mml:mrow><mml:mi>&#x003b1;</mml:mi><mml:mi>&#x003b8;</mml:mi></mml:mrow></mml:mfrac></mml:mrow></mml:mtd><mml:mtd><mml:mfrac><mml:mrow><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mn>1</mml:mn><mml:mo>-</mml:mo><mml:mi>&#x003c1;</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mi>&#x003c3;</mml:mi><mml:msup><mml:mi>&#x003b2;</mml:mi><mml:mo>&#x02217;</mml:mo></mml:msup></mml:mrow><mml:mrow><mml:mi>&#x003b1;</mml:mi><mml:mi>&#x003b8;</mml:mi></mml:mrow></mml:mfrac></mml:mtd><mml:mtd><mml:mfrac><mml:mrow><mml:msup><mml:mi>&#x003b2;</mml:mi><mml:mo>&#x02217;</mml:mo></mml:msup><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mn>1</mml:mn><mml:mo>-</mml:mo><mml:mi>&#x003c1;</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:mrow><mml:mrow><mml:mi>&#x003b1;</mml:mi><mml:mi>&#x003b8;</mml:mi></mml:mrow></mml:mfrac></mml:mtd><mml:mtd><mml:mfrac><mml:mrow><mml:msup><mml:mi>&#x003b2;</mml:mi><mml:mo>&#x02217;</mml:mo></mml:msup><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mn>1</mml:mn><mml:mo>-</mml:mo><mml:mi>&#x003c1;</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:mrow><mml:mrow><mml:mi>&#x003b1;</mml:mi><mml:mi>&#x003b8;</mml:mi></mml:mrow></mml:mfrac></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:mrow><mml:mrow/><mml:mn>0</mml:mn></mml:mrow></mml:mtd><mml:mtd><mml:mn>0</mml:mn></mml:mtd><mml:mtd><mml:mn>0</mml:mn></mml:mtd><mml:mtd><mml:mn>0</mml:mn></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:mfenced><mml:mo>.</mml:mo></mml:mrow></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:math><graphic xlink:href="11538_2018_549_Article_Equ13.gif" position="anchor"/></alternatives></disp-formula>This matrix has the same nonzero eigenvalues as the <inline-formula id="IEq22"><alternatives><tex-math id="M69">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$2 \times 2$$\end{document}</tex-math><mml:math id="M70"><mml:mrow><mml:mn>2</mml:mn><mml:mo>&#x000d7;</mml:mo><mml:mn>2</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="11538_2018_549_Article_IEq22.gif"/></alternatives></inline-formula> matrix<disp-formula id="Equ14"><alternatives><tex-math id="M71">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\begin{aligned} K_L = \begin{bmatrix} \frac{\rho \sigma ^2 \beta ^*}{\alpha \theta }&#x00026;\frac{\rho \sigma \beta ^*}{\alpha \theta } \\ \frac{\beta ^*(1 - \rho )}{\alpha \theta }&#x00026;\frac{\beta ^*(1 - \rho )}{\alpha \theta } \\ \end{bmatrix} \end{aligned}$$\end{document}</tex-math><mml:math id="M72" display="block"><mml:mrow><mml:mtable><mml:mtr><mml:mtd columnalign="right"><mml:mrow><mml:msub><mml:mi>K</mml:mi><mml:mi>L</mml:mi></mml:msub><mml:mo>=</mml:mo><mml:mfenced close="]" open="["><mml:mrow><mml:mtable><mml:mtr><mml:mtd><mml:mfrac><mml:mrow><mml:mi>&#x003c1;</mml:mi><mml:msup><mml:mi>&#x003c3;</mml:mi><mml:mn>2</mml:mn></mml:msup><mml:msup><mml:mi>&#x003b2;</mml:mi><mml:mo>&#x02217;</mml:mo></mml:msup></mml:mrow><mml:mrow><mml:mi>&#x003b1;</mml:mi><mml:mi>&#x003b8;</mml:mi></mml:mrow></mml:mfrac></mml:mtd><mml:mtd><mml:mfrac><mml:mrow><mml:mi>&#x003c1;</mml:mi><mml:mi>&#x003c3;</mml:mi><mml:msup><mml:mi>&#x003b2;</mml:mi><mml:mo>&#x02217;</mml:mo></mml:msup></mml:mrow><mml:mrow><mml:mi>&#x003b1;</mml:mi><mml:mi>&#x003b8;</mml:mi></mml:mrow></mml:mfrac></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:mrow><mml:mrow/><mml:mfrac><mml:mrow><mml:msup><mml:mi>&#x003b2;</mml:mi><mml:mo>&#x02217;</mml:mo></mml:msup><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mn>1</mml:mn><mml:mo>-</mml:mo><mml:mi>&#x003c1;</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:mrow><mml:mrow><mml:mi>&#x003b1;</mml:mi><mml:mi>&#x003b8;</mml:mi></mml:mrow></mml:mfrac></mml:mrow></mml:mtd><mml:mtd><mml:mfrac><mml:mrow><mml:msup><mml:mi>&#x003b2;</mml:mi><mml:mo>&#x02217;</mml:mo></mml:msup><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mn>1</mml:mn><mml:mo>-</mml:mo><mml:mi>&#x003c1;</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:mrow><mml:mrow><mml:mi>&#x003b1;</mml:mi><mml:mi>&#x003b8;</mml:mi></mml:mrow></mml:mfrac></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:mrow/></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:mfenced></mml:mrow></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:math><graphic xlink:href="11538_2018_549_Article_Equ14.gif" position="anchor"/></alternatives></disp-formula>(the next-generation matrix with least domain). The matrix <inline-formula id="IEq23"><alternatives><tex-math id="M73">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$K_L$$\end{document}</tex-math><mml:math id="M74"><mml:msub><mml:mi>K</mml:mi><mml:mi>L</mml:mi></mml:msub></mml:math><inline-graphic xlink:href="11538_2018_549_Article_IEq23.gif"/></alternatives></inline-formula> has determinant zero. Thus, the nonzero eigenvalue is the trace of this matrix, and<disp-formula id="Equ15"><alternatives><tex-math id="M75">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\begin{aligned} \mathcal {R}_0 = \frac{\beta ^*}{\alpha \theta }[\sigma ^2\rho + (1 - \rho )] = \frac{\beta ^*}{\alpha } \frac{\sigma ^2 \rho + (1 - \rho )}{\sigma \rho + (1 - \rho )} \end{aligned}$$\end{document}</tex-math><mml:math id="M76" display="block"><mml:mrow><mml:mtable><mml:mtr><mml:mtd columnalign="right"><mml:mrow><mml:msub><mml:mi mathvariant="script">R</mml:mi><mml:mn>0</mml:mn></mml:msub><mml:mo>=</mml:mo><mml:mfrac><mml:msup><mml:mi>&#x003b2;</mml:mi><mml:mo>&#x02217;</mml:mo></mml:msup><mml:mrow><mml:mi>&#x003b1;</mml:mi><mml:mi>&#x003b8;</mml:mi></mml:mrow></mml:mfrac><mml:mrow><mml:mo stretchy="false">[</mml:mo><mml:msup><mml:mi>&#x003c3;</mml:mi><mml:mn>2</mml:mn></mml:msup><mml:mi>&#x003c1;</mml:mi><mml:mo>+</mml:mo><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mn>1</mml:mn><mml:mo>-</mml:mo><mml:mi>&#x003c1;</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mo stretchy="false">]</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:mfrac><mml:msup><mml:mi>&#x003b2;</mml:mi><mml:mo>&#x02217;</mml:mo></mml:msup><mml:mi>&#x003b1;</mml:mi></mml:mfrac><mml:mfrac><mml:mrow><mml:msup><mml:mi>&#x003c3;</mml:mi><mml:mn>2</mml:mn></mml:msup><mml:mi>&#x003c1;</mml:mi><mml:mo>+</mml:mo><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mn>1</mml:mn><mml:mo>-</mml:mo><mml:mi>&#x003c1;</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:mrow><mml:mrow><mml:mi>&#x003c3;</mml:mi><mml:mi>&#x003c1;</mml:mi><mml:mo>+</mml:mo><mml:mo stretchy="false">(</mml:mo><mml:mn>1</mml:mn><mml:mo>-</mml:mo><mml:mi>&#x003c1;</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:mfrac></mml:mrow></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:math><graphic xlink:href="11538_2018_549_Article_Equ15.gif" position="anchor"/></alternatives></disp-formula>In order to have a superspreading model with the same reproduction number as the original model (<xref rid="Equ1" ref-type="">1</xref>), we must take<disp-formula id="Equ16"><alternatives><tex-math id="M77">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\begin{aligned} \beta ^* = \beta \frac{\theta }{\sigma ^2 \rho + (1 - \rho )}. \end{aligned}$$\end{document}</tex-math><mml:math id="M78" display="block"><mml:mrow><mml:mtable><mml:mtr><mml:mtd columnalign="right"><mml:mrow><mml:msup><mml:mi>&#x003b2;</mml:mi><mml:mo>&#x02217;</mml:mo></mml:msup><mml:mo>=</mml:mo><mml:mi>&#x003b2;</mml:mi><mml:mfrac><mml:mi>&#x003b8;</mml:mi><mml:mrow><mml:msup><mml:mi>&#x003c3;</mml:mi><mml:mn>2</mml:mn></mml:msup><mml:mi>&#x003c1;</mml:mi><mml:mo>+</mml:mo><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mn>1</mml:mn><mml:mo>-</mml:mo><mml:mi>&#x003c1;</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:mrow></mml:mfrac><mml:mo>.</mml:mo></mml:mrow></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:math><graphic xlink:href="11538_2018_549_Article_Equ16.gif" position="anchor"/></alternatives></disp-formula></p></sec><sec id="Sec4"><title>Guinea: An Example</title><p id="Par26">The first country to experience an outbreak of Ebola in 2014 was Guinea, where the index case occurred on December 2, 2013. The development of the disease in Guinea was modeled by (<xref rid="Equ1" ref-type="">1</xref>) with parameter values<disp-formula id="Equ17"><alternatives><tex-math id="M79">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\begin{aligned} N = 10{,}589{,}000, \quad \beta = 0.27, \quad \eta = 1/5.3, \quad \gamma = 1/5.61, \quad \kappa = 0.0023, f = 0.71, \end{aligned}$$\end{document}</tex-math><mml:math id="M80" display="block"><mml:mrow><mml:mtable><mml:mtr><mml:mtd columnalign="right"><mml:mrow><mml:mi>N</mml:mi><mml:mo>=</mml:mo><mml:mn>10</mml:mn><mml:mo>,</mml:mo><mml:mn>589</mml:mn><mml:mo>,</mml:mo><mml:mn>000</mml:mn><mml:mo>,</mml:mo><mml:mspace width="1em"/><mml:mi>&#x003b2;</mml:mi><mml:mo>=</mml:mo><mml:mn>0.27</mml:mn><mml:mo>,</mml:mo><mml:mspace width="1em"/><mml:mi>&#x003b7;</mml:mi><mml:mo>=</mml:mo><mml:mn>1</mml:mn><mml:mo stretchy="false">/</mml:mo><mml:mn>5.3</mml:mn><mml:mo>,</mml:mo><mml:mspace width="1em"/><mml:mi>&#x003b3;</mml:mi><mml:mo>=</mml:mo><mml:mn>1</mml:mn><mml:mo stretchy="false">/</mml:mo><mml:mn>5.61</mml:mn><mml:mo>,</mml:mo><mml:mspace width="1em"/><mml:mi>&#x003ba;</mml:mi><mml:mo>=</mml:mo><mml:mn>0.0023</mml:mn><mml:mo>,</mml:mo><mml:mi>f</mml:mi><mml:mo>=</mml:mo><mml:mn>0.71</mml:mn><mml:mo>,</mml:mo></mml:mrow></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:math><graphic xlink:href="11538_2018_549_Article_Equ17.gif" position="anchor"/></alternatives></disp-formula>giving a basic reproduction number <inline-formula id="IEq24"><alternatives><tex-math id="M81">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\mathcal {R}_0 = 1.51$$\end{document}</tex-math><mml:math id="M82"><mml:mrow><mml:msub><mml:mi mathvariant="script">R</mml:mi><mml:mn>0</mml:mn></mml:msub><mml:mo>=</mml:mo><mml:mn>1.51</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="11538_2018_549_Article_IEq24.gif"/></alternatives></inline-formula>. In fact, there were 3814 cases of disease in Guinea.</p><p id="Par27">The model (<xref rid="Equ1" ref-type="">1</xref>) was simulated using Maple, with initial values<disp-formula id="Equ18"><alternatives><tex-math id="M83">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\begin{aligned} S(0) = N - 40, \quad E(0) = 0, \quad I(0) = 40, \quad R(0) = 0. \end{aligned}$$\end{document}</tex-math><mml:math id="M84" display="block"><mml:mrow><mml:mtable><mml:mtr><mml:mtd columnalign="right"><mml:mrow><mml:mi>S</mml:mi><mml:mo stretchy="false">(</mml:mo><mml:mn>0</mml:mn><mml:mo stretchy="false">)</mml:mo><mml:mo>=</mml:mo><mml:mi>N</mml:mi><mml:mo>-</mml:mo><mml:mn>40</mml:mn><mml:mo>,</mml:mo><mml:mspace width="1em"/><mml:mi>E</mml:mi><mml:mo stretchy="false">(</mml:mo><mml:mn>0</mml:mn><mml:mo stretchy="false">)</mml:mo><mml:mo>=</mml:mo><mml:mn>0</mml:mn><mml:mo>,</mml:mo><mml:mspace width="1em"/><mml:mi>I</mml:mi><mml:mo stretchy="false">(</mml:mo><mml:mn>0</mml:mn><mml:mo stretchy="false">)</mml:mo><mml:mo>=</mml:mo><mml:mn>40</mml:mn><mml:mo>,</mml:mo><mml:mspace width="1em"/><mml:mi>R</mml:mi><mml:mo stretchy="false">(</mml:mo><mml:mn>0</mml:mn><mml:mo stretchy="false">)</mml:mo><mml:mo>=</mml:mo><mml:mn>0</mml:mn><mml:mo>.</mml:mo></mml:mrow></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:math><graphic xlink:href="11538_2018_549_Article_Equ18.gif" position="anchor"/></alternatives></disp-formula>If <inline-formula id="IEq25"><alternatives><tex-math id="M85">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\kappa = 0$$\end{document}</tex-math><mml:math id="M86"><mml:mrow><mml:mi>&#x003ba;</mml:mi><mml:mo>=</mml:mo><mml:mn>0</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="11538_2018_549_Article_IEq25.gif"/></alternatives></inline-formula>, the situation in which there is no decrease in the basic reproduction number, we would obtain <inline-formula id="IEq26"><alternatives><tex-math id="M87">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$S_\infty = 1{,}182{,}015$$\end{document}</tex-math><mml:math id="M88"><mml:mrow><mml:msub><mml:mi>S</mml:mi><mml:mi>&#x0221e;</mml:mi></mml:msub><mml:mo>=</mml:mo><mml:mn>1</mml:mn><mml:mo>,</mml:mo><mml:mn>182</mml:mn><mml:mo>,</mml:mo><mml:mn>015</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="11538_2018_549_Article_IEq26.gif"/></alternatives></inline-formula>, corresponding to 9,&#x000a0;406,&#x000a0;985 disease cases (including the initial infectives). With the given estimate of <inline-formula id="IEq27"><alternatives><tex-math id="M89">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\kappa $$\end{document}</tex-math><mml:math id="M90"><mml:mi>&#x003ba;</mml:mi></mml:math><inline-graphic xlink:href="11538_2018_549_Article_IEq27.gif"/></alternatives></inline-formula>, we would obtain <inline-formula id="IEq28"><alternatives><tex-math id="M91">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$S_\infty = 10{,}561{,}299$$\end{document}</tex-math><mml:math id="M92"><mml:mrow><mml:msub><mml:mi>S</mml:mi><mml:mi>&#x0221e;</mml:mi></mml:msub><mml:mo>=</mml:mo><mml:mn>10</mml:mn><mml:mo>,</mml:mo><mml:mn>561</mml:mn><mml:mo>,</mml:mo><mml:mn>299</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="11538_2018_549_Article_IEq28.gif"/></alternatives></inline-formula>, corresponding to 27,&#x000a0;701 disease cases, much closer to the actual number of cases.</p><p id="Par28">Simulation, using Maple, of the superspreader model (<xref rid="Equ3" ref-type="">3</xref>), with <inline-formula id="IEq29"><alternatives><tex-math id="M93">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$S_1(0) = 2{,}117{,}792, S_2(0) = 8{,}491{,}168$$\end{document}</tex-math><mml:math id="M94"><mml:mrow><mml:msub><mml:mi>S</mml:mi><mml:mn>1</mml:mn></mml:msub><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mn>0</mml:mn><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:mn>2</mml:mn><mml:mo>,</mml:mo><mml:mn>117</mml:mn><mml:mo>,</mml:mo><mml:mn>792</mml:mn><mml:mo>,</mml:mo><mml:msub><mml:mi>S</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mn>0</mml:mn><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:mn>8</mml:mn><mml:mo>,</mml:mo><mml:mn>491</mml:mn><mml:mo>,</mml:mo><mml:mn>168</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="11538_2018_549_Article_IEq29.gif"/></alternatives></inline-formula>, lead to <inline-formula id="IEq30"><alternatives><tex-math id="M95">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$S_1(\infty ) = 2{,}099{,}272, S_2(\infty ) = 8{,}486{,}508$$\end{document}</tex-math><mml:math id="M96"><mml:mrow><mml:msub><mml:mi>S</mml:mi><mml:mn>1</mml:mn></mml:msub><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi>&#x0221e;</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:mn>2</mml:mn><mml:mo>,</mml:mo><mml:mn>099</mml:mn><mml:mo>,</mml:mo><mml:mn>272</mml:mn><mml:mo>,</mml:mo><mml:msub><mml:mi>S</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi>&#x0221e;</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:mn>8</mml:mn><mml:mo>,</mml:mo><mml:mn>486</mml:mn><mml:mo>,</mml:mo><mml:mn>508</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="11538_2018_549_Article_IEq30.gif"/></alternatives></inline-formula> corresponding to 23,&#x000a0;220 disease cases. a slightly better estimate.</p></sec><sec id="Sec5"><title>Sierra Leone: An Example</title><p id="Par29">The first cases of Ebola in Sierra Leone were reported on May 27, 2014. The development of the disease in Guinea was modeled by (<xref rid="Equ1" ref-type="">1</xref>) with parameter values<disp-formula id="Equ19"><alternatives><tex-math id="M97">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\begin{aligned} N = 5{,}364{,}000, \beta = 0.45, \eta = 1/5.3, \gamma = 1/5.61, \kappa = 0.0097, f = 0.48, \end{aligned}$$\end{document}</tex-math><mml:math id="M98" display="block"><mml:mrow><mml:mtable><mml:mtr><mml:mtd columnalign="right"><mml:mrow><mml:mi>N</mml:mi><mml:mo>=</mml:mo><mml:mn>5</mml:mn><mml:mo>,</mml:mo><mml:mn>364</mml:mn><mml:mo>,</mml:mo><mml:mn>000</mml:mn><mml:mo>,</mml:mo><mml:mi>&#x003b2;</mml:mi><mml:mo>=</mml:mo><mml:mn>0.45</mml:mn><mml:mo>,</mml:mo><mml:mi>&#x003b7;</mml:mi><mml:mo>=</mml:mo><mml:mn>1</mml:mn><mml:mo stretchy="false">/</mml:mo><mml:mn>5.3</mml:mn><mml:mo>,</mml:mo><mml:mi>&#x003b3;</mml:mi><mml:mo>=</mml:mo><mml:mn>1</mml:mn><mml:mo stretchy="false">/</mml:mo><mml:mn>5.61</mml:mn><mml:mo>,</mml:mo><mml:mi>&#x003ba;</mml:mi><mml:mo>=</mml:mo><mml:mn>0.0097</mml:mn><mml:mo>,</mml:mo><mml:mi>f</mml:mi><mml:mo>=</mml:mo><mml:mn>0.48</mml:mn><mml:mo>,</mml:mo></mml:mrow></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:math><graphic xlink:href="11538_2018_549_Article_Equ19.gif" position="anchor"/></alternatives></disp-formula>giving a basic reproduction number <inline-formula id="IEq31"><alternatives><tex-math id="M99">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\mathcal {R}_0 = 2.53$$\end{document}</tex-math><mml:math id="M100"><mml:mrow><mml:msub><mml:mi mathvariant="script">R</mml:mi><mml:mn>0</mml:mn></mml:msub><mml:mo>=</mml:mo><mml:mn>2.53</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="11538_2018_549_Article_IEq31.gif"/></alternatives></inline-formula>. In fact, there were 14,124 cases of disease in Guinea.</p><p id="Par30">The model (<xref rid="Equ1" ref-type="">1</xref>) was simulated using Maple, with initial values<disp-formula id="Equ20"><alternatives><tex-math id="M101">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\begin{aligned} S(0) = N - 20, \quad E(0) = 0, \quad I(0) = 20, \quad R(0) = 0. \end{aligned}$$\end{document}</tex-math><mml:math id="M102" display="block"><mml:mrow><mml:mtable><mml:mtr><mml:mtd columnalign="right"><mml:mrow><mml:mi>S</mml:mi><mml:mo stretchy="false">(</mml:mo><mml:mn>0</mml:mn><mml:mo stretchy="false">)</mml:mo><mml:mo>=</mml:mo><mml:mi>N</mml:mi><mml:mo>-</mml:mo><mml:mn>20</mml:mn><mml:mo>,</mml:mo><mml:mspace width="1em"/><mml:mi>E</mml:mi><mml:mo stretchy="false">(</mml:mo><mml:mn>0</mml:mn><mml:mo stretchy="false">)</mml:mo><mml:mo>=</mml:mo><mml:mn>0</mml:mn><mml:mo>,</mml:mo><mml:mspace width="1em"/><mml:mi>I</mml:mi><mml:mo stretchy="false">(</mml:mo><mml:mn>0</mml:mn><mml:mo stretchy="false">)</mml:mo><mml:mo>=</mml:mo><mml:mn>20</mml:mn><mml:mo>,</mml:mo><mml:mspace width="1em"/><mml:mi>R</mml:mi><mml:mo stretchy="false">(</mml:mo><mml:mn>0</mml:mn><mml:mo stretchy="false">)</mml:mo><mml:mo>=</mml:mo><mml:mn>0</mml:mn><mml:mo>.</mml:mo></mml:mrow></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:math><graphic xlink:href="11538_2018_549_Article_Equ20.gif" position="anchor"/></alternatives></disp-formula>If <inline-formula id="IEq32"><alternatives><tex-math id="M103">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\kappa = 0$$\end{document}</tex-math><mml:math id="M104"><mml:mrow><mml:mi>&#x003ba;</mml:mi><mml:mo>=</mml:mo><mml:mn>0</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="11538_2018_549_Article_IEq32.gif"/></alternatives></inline-formula>, the situation in which there is no decrease in the basic reproduction number, we would obtain <inline-formula id="IEq33"><alternatives><tex-math id="M105">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$S_\infty = 206{,}896$$\end{document}</tex-math><mml:math id="M106"><mml:mrow><mml:msub><mml:mi>S</mml:mi><mml:mi>&#x0221e;</mml:mi></mml:msub><mml:mo>=</mml:mo><mml:mn>206</mml:mn><mml:mo>,</mml:mo><mml:mn>896</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="11538_2018_549_Article_IEq33.gif"/></alternatives></inline-formula>, corresponding to 5,&#x000a0;157,&#x000a0;104 disease cases (including the initial infectives). With the given estimate of <inline-formula id="IEq34"><alternatives><tex-math id="M107">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\kappa $$\end{document}</tex-math><mml:math id="M108"><mml:mi>&#x003ba;</mml:mi></mml:math><inline-graphic xlink:href="11538_2018_549_Article_IEq34.gif"/></alternatives></inline-formula>, we would obtain <inline-formula id="IEq35"><alternatives><tex-math id="M109">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$S_\infty = 5{,}341{,}699$$\end{document}</tex-math><mml:math id="M110"><mml:mrow><mml:msub><mml:mi>S</mml:mi><mml:mi>&#x0221e;</mml:mi></mml:msub><mml:mo>=</mml:mo><mml:mn>5</mml:mn><mml:mo>,</mml:mo><mml:mn>341</mml:mn><mml:mo>,</mml:mo><mml:mn>699</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="11538_2018_549_Article_IEq35.gif"/></alternatives></inline-formula>, corresponding to 22,&#x000a0;301 disease cases, much closer to the actual number of cases.</p><p id="Par31">Simulation, using Maple, of the superspreader model (<xref rid="Equ3" ref-type="">3</xref>), with <inline-formula id="IEq36"><alternatives><tex-math id="M111">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$S_1(0) = 106{,}919, S_2(0) = 4{,}276{,}784$$\end{document}</tex-math><mml:math id="M112"><mml:mrow><mml:msub><mml:mi>S</mml:mi><mml:mn>1</mml:mn></mml:msub><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mn>0</mml:mn><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:mn>106</mml:mn><mml:mo>,</mml:mo><mml:mn>919</mml:mn><mml:mo>,</mml:mo><mml:msub><mml:mi>S</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mn>0</mml:mn><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:mn>4</mml:mn><mml:mo>,</mml:mo><mml:mn>276</mml:mn><mml:mo>,</mml:mo><mml:mn>784</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="11538_2018_549_Article_IEq36.gif"/></alternatives></inline-formula>, leads to <inline-formula id="IEq37"><alternatives><tex-math id="M113">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$S_1(\infty ) =1{,}058{,}093, S_2(\infty ) = 4{,}273{,}995$$\end{document}</tex-math><mml:math id="M114"><mml:mrow><mml:msub><mml:mi>S</mml:mi><mml:mn>1</mml:mn></mml:msub><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi>&#x0221e;</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:mn>1</mml:mn><mml:mo>,</mml:mo><mml:mn>058</mml:mn><mml:mo>,</mml:mo><mml:mn>093</mml:mn><mml:mo>,</mml:mo><mml:msub><mml:mi>S</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi>&#x0221e;</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:mn>4</mml:mn><mml:mo>,</mml:mo><mml:mn>273</mml:mn><mml:mo>,</mml:mo><mml:mn>995</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="11538_2018_549_Article_IEq37.gif"/></alternatives></inline-formula> corresponding to 13,&#x000a0;912 disease cases. a slightly better estimate.</p></sec><sec id="Sec6"><title>Liberia: An Example</title><p id="Par32">The Ebola epidemic in Liberia began somewhat later than the epidemics in Guinea and Sierra Leone. There was a minor outbreak in April 2014, and the first cases in the full epidemic were reported on June 16, 2014. Fisman et&#x000a0;al. (<xref ref-type="bibr" rid="CR10">2014</xref>) found no decrease in the reproduction number by early September 2014. The data after early September are incomplete and unreliable, and the only available estimate of a decrease in the reproduction number for Ebola in Liberia is in WHO Ebola Response Team (<xref ref-type="bibr" rid="CR21">2014</xref>) which leads to a decrease rate of <inline-formula id="IEq38"><alternatives><tex-math id="M115">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\kappa = 0.0018$$\end{document}</tex-math><mml:math id="M116"><mml:mrow><mml:mi>&#x003ba;</mml:mi><mml:mo>=</mml:mo><mml:mn>0.0018</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="11538_2018_549_Article_IEq38.gif"/></alternatives></inline-formula>, probably smaller than the actual rate.</p><p id="Par33">Simulation of the model (<xref rid="Equ1" ref-type="">1</xref>) using Maple was carried out, with parameter values<disp-formula id="Equ21"><alternatives><tex-math id="M117">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\begin{aligned} N = 3{,}787{,}000, \beta = 0.28, \eta = 1/5.3, \gamma = 1/5.61, \kappa = 0.0018, f = 0.71, \end{aligned}$$\end{document}</tex-math><mml:math id="M118" display="block"><mml:mrow><mml:mtable><mml:mtr><mml:mtd columnalign="right"><mml:mrow><mml:mi>N</mml:mi><mml:mo>=</mml:mo><mml:mn>3</mml:mn><mml:mo>,</mml:mo><mml:mn>787</mml:mn><mml:mo>,</mml:mo><mml:mn>000</mml:mn><mml:mo>,</mml:mo><mml:mi>&#x003b2;</mml:mi><mml:mo>=</mml:mo><mml:mn>0.28</mml:mn><mml:mo>,</mml:mo><mml:mi>&#x003b7;</mml:mi><mml:mo>=</mml:mo><mml:mn>1</mml:mn><mml:mo stretchy="false">/</mml:mo><mml:mn>5.3</mml:mn><mml:mo>,</mml:mo><mml:mi>&#x003b3;</mml:mi><mml:mo>=</mml:mo><mml:mn>1</mml:mn><mml:mo stretchy="false">/</mml:mo><mml:mn>5.61</mml:mn><mml:mo>,</mml:mo><mml:mi>&#x003ba;</mml:mi><mml:mo>=</mml:mo><mml:mn>0.0018</mml:mn><mml:mo>,</mml:mo><mml:mi>f</mml:mi><mml:mo>=</mml:mo><mml:mn>0.71</mml:mn><mml:mo>,</mml:mo></mml:mrow></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:math><graphic xlink:href="11538_2018_549_Article_Equ21.gif" position="anchor"/></alternatives></disp-formula>and initial values<disp-formula id="Equ22"><alternatives><tex-math id="M119">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\begin{aligned} S(0) = N - 20, \quad E(0) = 0, \quad I(0) = 20, \quad R(0) = 0. \end{aligned}$$\end{document}</tex-math><mml:math id="M120" display="block"><mml:mrow><mml:mtable><mml:mtr><mml:mtd columnalign="right"><mml:mrow><mml:mi>S</mml:mi><mml:mo stretchy="false">(</mml:mo><mml:mn>0</mml:mn><mml:mo stretchy="false">)</mml:mo><mml:mo>=</mml:mo><mml:mi>N</mml:mi><mml:mo>-</mml:mo><mml:mn>20</mml:mn><mml:mo>,</mml:mo><mml:mspace width="1em"/><mml:mi>E</mml:mi><mml:mo stretchy="false">(</mml:mo><mml:mn>0</mml:mn><mml:mo stretchy="false">)</mml:mo><mml:mo>=</mml:mo><mml:mn>0</mml:mn><mml:mo>,</mml:mo><mml:mspace width="1em"/><mml:mi>I</mml:mi><mml:mo stretchy="false">(</mml:mo><mml:mn>0</mml:mn><mml:mo stretchy="false">)</mml:mo><mml:mo>=</mml:mo><mml:mn>20</mml:mn><mml:mo>,</mml:mo><mml:mspace width="1em"/><mml:mi>R</mml:mi><mml:mo stretchy="false">(</mml:mo><mml:mn>0</mml:mn><mml:mo stretchy="false">)</mml:mo><mml:mo>=</mml:mo><mml:mn>0</mml:mn><mml:mo>.</mml:mo></mml:mrow></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:math><graphic xlink:href="11538_2018_549_Article_Equ22.gif" position="anchor"/></alternatives></disp-formula>If <inline-formula id="IEq39"><alternatives><tex-math id="M121">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\kappa = 0$$\end{document}</tex-math><mml:math id="M122"><mml:mrow><mml:mi>&#x003ba;</mml:mi><mml:mo>=</mml:mo><mml:mn>0</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="11538_2018_549_Article_IEq39.gif"/></alternatives></inline-formula>, the situation in which there is no decrease in the basic reproduction number, we would obtain <inline-formula id="IEq40"><alternatives><tex-math id="M123">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$S_\infty = 585{,}843$$\end{document}</tex-math><mml:math id="M124"><mml:mrow><mml:msub><mml:mi>S</mml:mi><mml:mi>&#x0221e;</mml:mi></mml:msub><mml:mo>=</mml:mo><mml:mn>585</mml:mn><mml:mo>,</mml:mo><mml:mn>843</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="11538_2018_549_Article_IEq40.gif"/></alternatives></inline-formula>, corresponding to 3,&#x000a0;701,&#x000a0;157 disease cases (including the initial infectives). With the given estimate of <inline-formula id="IEq41"><alternatives><tex-math id="M125">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\kappa $$\end{document}</tex-math><mml:math id="M126"><mml:mi>&#x003ba;</mml:mi></mml:math><inline-graphic xlink:href="11538_2018_549_Article_IEq41.gif"/></alternatives></inline-formula>, we would obtain <inline-formula id="IEq42"><alternatives><tex-math id="M127">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$S_\infty = 3{,}683{,}495$$\end{document}</tex-math><mml:math id="M128"><mml:mrow><mml:msub><mml:mi>S</mml:mi><mml:mi>&#x0221e;</mml:mi></mml:msub><mml:mo>=</mml:mo><mml:mn>3</mml:mn><mml:mo>,</mml:mo><mml:mn>683</mml:mn><mml:mo>,</mml:mo><mml:mn>495</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="11538_2018_549_Article_IEq42.gif"/></alternatives></inline-formula>, corresponding to 103,&#x000a0;505 disease cases, much closer to the actual number of cases but still quite large.</p><p id="Par34">Simulation, using Maple, of the superspreader model (<xref rid="Equ3" ref-type="">3</xref>), with <inline-formula id="IEq43"><alternatives><tex-math id="M129">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$S_1(0) = 757{,}396, S_2(0) = 3{,}029{,}584$$\end{document}</tex-math><mml:math id="M130"><mml:mrow><mml:msub><mml:mi>S</mml:mi><mml:mn>1</mml:mn></mml:msub><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mn>0</mml:mn><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:mn>757</mml:mn><mml:mo>,</mml:mo><mml:mn>396</mml:mn><mml:mo>,</mml:mo><mml:msub><mml:mi>S</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mn>0</mml:mn><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:mn>3</mml:mn><mml:mo>,</mml:mo><mml:mn>029</mml:mn><mml:mo>,</mml:mo><mml:mn>584</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="11538_2018_549_Article_IEq43.gif"/></alternatives></inline-formula>, leads to <inline-formula id="IEq44"><alternatives><tex-math id="M131">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$S_1(\infty ) =724{,}293, S_2(\infty ) = 3{,}021{,}121$$\end{document}</tex-math><mml:math id="M132"><mml:mrow><mml:msub><mml:mi>S</mml:mi><mml:mn>1</mml:mn></mml:msub><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi>&#x0221e;</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:mn>724</mml:mn><mml:mo>,</mml:mo><mml:mn>293</mml:mn><mml:mo>,</mml:mo><mml:msub><mml:mi>S</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi>&#x0221e;</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:mn>3</mml:mn><mml:mo>,</mml:mo><mml:mn>021</mml:mn><mml:mo>,</mml:mo><mml:mn>121</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="11538_2018_549_Article_IEq44.gif"/></alternatives></inline-formula> corresponding to 41,&#x000a0;636 disease cases, a considerably better estimate.</p></sec><sec id="Sec7"><title>Conclusions</title><p id="Par35">In order to plan management strategies for an outbreak of an epidemic, it is important to have an estimate early in the epidemic of how serious the epidemic will be. For an epidemic that may spread very widely, an estimate based on a simple <italic>SIR</italic> or <italic>SEIR</italic> model may predict a very large number of disease cases. If the disease is viewed as very dangerous, there may be substantial behavioral changes in the affected population even before official control measures are begun. These may lead to a decrease in the reproduction number of the epidemic and a much smaller number of disease cases than an initial prediction. We suggest that it would be very useful to estimate both the (initial) basic reproduction number and an effective reproduction number a little later in the epidemic in order to estimate how the reproduction number changes over the course of the epidemic. The estimate may be improved further by assuming heterogeneity of mixing, which appears to be an extremely common phenomenon. Reasonably accurate initial estimates are useful in planning the overall management of an epidemic, which may be quite distinct from the problems of management in individual regions.</p><p id="Par36">There is a possible contradiction in this procedure. Behavioral response to an epidemic may be much larger if the public estimates of epidemic size are estimates that do not assume behavioral response. It would be important to emphasize how large the effect of even small decreases in reproduction number can be on the size of an epidemic.</p></sec></body><back><ack><title>Acknowledgements</title><p>The author is grateful to an anonymous reviewer who supplied several useful comments and references, as well as for the funding support received from the Natural Sciences and Engineering Research Council (Canada) Grant OGPIN 203901-99</p></ack><ref-list id="Bib1"><title>References</title><ref id="CR1"><mixed-citation publication-type="other">Althaus CL (2014) Estimating the reproduction number of Ebola virus (EBOV) during the 2014 outbreak in West Africa. PLoS Curr Outbreaks. 2014 Sept 2 Edition. 10.1371/currents.outbreaks.91afb5e0f279e7f29e7056095255b288</mixed-citation></ref><ref id="CR2"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Brauer</surname><given-names>Fred</given-names></name></person-group><article-title>Early estimates of epidemic final sizes</article-title><source>Journal of Biological Dynamics</source><year>2018</year><volume>13</volume><issue>sup1</issue><fpage>23</fpage><lpage>30</lpage><pub-id pub-id-type="doi">10.1080/17513758.2018.1469792</pub-id><pub-id pub-id-type="pmid">29742981</pub-id></element-citation></ref><ref id="CR3"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Chowell</surname><given-names>G</given-names></name><name><surname>Hengartner</surname><given-names>NW</given-names></name><name><surname>Castillo-Chavez</surname><given-names>C</given-names></name><name><surname>Fenimore</surname><given-names>PW</given-names></name><name><surname>Hyman</surname><given-names>JM</given-names></name></person-group><article-title>The basic reproductive number of Ebola and the effect of public health measures</article-title><source>J Theor Biol</source><year>2004</year><volume>229</volume><fpage>119</fpage><lpage>126</lpage><pub-id pub-id-type="doi">10.1016/j.jtbi.2004.03.006</pub-id><pub-id pub-id-type="pmid">15178190</pub-id></element-citation></ref><ref id="CR4"><mixed-citation publication-type="other">Chowell G, Viboud C, Hyman JM, Simonsen L (2015) The Western Africa Ebola virus disease epidemic exhibits both global exponential and local polynomial growth rates. PLoS Curr. 10.1371/currents.outbreaks.8b55f4bad99ac5c5db3663e916803261</mixed-citation></ref><ref id="CR5"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Chowell</surname><given-names>Gerardo</given-names></name><name><surname>Sattenspiel</surname><given-names>Lisa</given-names></name><name><surname>Bansal</surname><given-names>Shweta</given-names></name><name><surname>Viboud</surname><given-names>C&#x000e9;cile</given-names></name></person-group><article-title>Mathematical models to characterize early epidemic growth: A review</article-title><source>Physics of Life Reviews</source><year>2016</year><volume>18</volume><fpage>66</fpage><lpage>97</lpage><pub-id pub-id-type="doi">10.1016/j.plrev.2016.07.005</pub-id><pub-id pub-id-type="pmid">27451336</pub-id></element-citation></ref><ref id="CR6"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Chowell</surname><given-names>Gerardo</given-names></name><name><surname>Viboud</surname><given-names>C&#x000e9;cile</given-names></name><name><surname>Simonsen</surname><given-names>Lone</given-names></name><name><surname>Moghadas</surname><given-names>Seyed M.</given-names></name></person-group><article-title>Characterizing the reproduction number of epidemics with early subexponential growth dynamics</article-title><source>Journal of The Royal Society Interface</source><year>2016</year><volume>13</volume><issue>123</issue><fpage>20160659</fpage><pub-id pub-id-type="doi">10.1098/rsif.2016.0659</pub-id></element-citation></ref><ref id="CR7"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Colgate</surname><given-names>SA</given-names></name><name><surname>Stanley</surname><given-names>EA</given-names></name><name><surname>Hyman</surname><given-names>JM</given-names></name><name><surname>Layne</surname><given-names>SP</given-names></name><name><surname>Qualls</surname><given-names>C</given-names></name></person-group><article-title>Risk-behavior based modelof the cubic growth of acquired immunodeficiency syndrome in the United States</article-title><source>Proc Natl Acad Sci</source><year>1989</year><volume>86</volume><fpage>4793</fpage><lpage>4797</lpage><pub-id pub-id-type="doi">10.1073/pnas.86.12.4793</pub-id><pub-id pub-id-type="pmid">2543987</pub-id></element-citation></ref><ref id="CR8"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Dean</surname><given-names>KR</given-names></name><name><surname>Krauer</surname><given-names>F</given-names></name><name><surname>Wall&#x000f8;e</surname><given-names>L</given-names></name><name><surname>Lingjaerde</surname><given-names>OC</given-names></name><name><surname>Bramanti</surname><given-names>B</given-names></name><name><surname>Stenseth</surname><given-names>NC</given-names></name><name><surname>Schmid</surname><given-names>BV</given-names></name></person-group><article-title>Human ectoparasites and the spread of plague in Europe during the Second Pandemic</article-title><source>Proc Natl Acad Sci</source><year>2018</year><volume>115</volume><fpage>1304</fpage><lpage>1309</lpage><pub-id pub-id-type="doi">10.1073/pnas.1715640115</pub-id><pub-id pub-id-type="pmid">29339508</pub-id></element-citation></ref><ref id="CR9"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Fisman</surname><given-names>DN</given-names></name><name><surname>Hauck</surname><given-names>TS</given-names></name><name><surname>Tuite</surname><given-names>AR</given-names></name><name><surname>Greer</surname><given-names>AL</given-names></name></person-group><article-title>An IDEA for short term outbreak projection:nearcasting using the basic reproduction number</article-title><source>PLoS ONE</source><year>2013</year><volume>8</volume><fpage>1</fpage><lpage>8</lpage><pub-id pub-id-type="doi">10.1371/journal.pone.0083622</pub-id></element-citation></ref><ref id="CR10"><mixed-citation publication-type="other">Fisman DN, Khoo E, Tuite AR (2014) Early epidemic dynamics of the West Africa 2014 Ebola outbreak: estimates derived with a simple two-parameter model. PLoS Curr. 10.1371/currents.outbreaks.89c0d3783f36958d96ebbae97348d571</mixed-citation></ref><ref id="CR11"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Galvani</surname><given-names>AP</given-names></name><name><surname>May</surname><given-names>RM</given-names></name></person-group><article-title>Dimensions of superspreading</article-title><source>Nature</source><year>2005</year><volume>438</volume><fpage>293</fpage><lpage>295</lpage><pub-id pub-id-type="doi">10.1038/438293a</pub-id><pub-id pub-id-type="pmid">16292292</pub-id></element-citation></ref><ref id="CR12"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hethcote</surname><given-names>HW</given-names></name></person-group><article-title>The mathematics of infectious diseases</article-title><source>SIAM Rev</source><year>2000</year><volume>41</volume><fpage>599</fpage><lpage>653</lpage><pub-id pub-id-type="doi">10.1137/S0036144500371907</pub-id></element-citation></ref><ref id="CR13"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lau</surname><given-names>MSY</given-names></name><name><surname>Dalziel</surname><given-names>BD</given-names></name><name><surname>Funk</surname><given-names>S</given-names></name><name><surname>McClelland</surname><given-names>A</given-names></name><name><surname>Tiffany</surname><given-names>A</given-names></name><name><surname>Riley</surname><given-names>S</given-names></name><name><surname>Metcalf</surname><given-names>CJE</given-names></name><name><surname>Grenfell</surname><given-names>BT</given-names></name></person-group><article-title>Spatial and temporal dynamics of superspreading events in the 2014&#x02013;2015 West Africa Ebola epidemic</article-title><source>Proc Natl Acad Sci</source><year>2017</year><volume>114</volume><fpage>2337</fpage><lpage>2342</lpage><pub-id pub-id-type="doi">10.1073/pnas.1614595114</pub-id><pub-id pub-id-type="pmid">28193880</pub-id></element-citation></ref><ref id="CR14"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lloyd-Smith</surname><given-names>JO</given-names></name><name><surname>Schreiber</surname><given-names>SJ</given-names></name><name><surname>Kopp</surname><given-names>PE</given-names></name><name><surname>Getz</surname><given-names>WM</given-names></name></person-group><article-title>Superspreading and the effect of individual variation on disease emergence</article-title><source>Nature</source><year>2005</year><volume>438</volume><fpage>355</fpage><lpage>359</lpage><pub-id pub-id-type="doi">10.1038/nature04153</pub-id><pub-id pub-id-type="pmid">16292310</pub-id></element-citation></ref><ref id="CR15"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Pell</surname><given-names>B</given-names></name><name><surname>Phan</surname><given-names>T</given-names></name><name><surname>Rutter</surname><given-names>EM</given-names></name><name><surname>Chowell</surname><given-names>G</given-names></name><name><surname>Kuang</surname><given-names>Y</given-names></name></person-group><article-title>Simple multi-scale modeling of the transmission dynamics of the 1905 plague epidemic in Bombay</article-title><source>Math Biosci</source><year>2018</year><volume>301</volume><fpage>83</fpage><lpage>92</lpage><pub-id pub-id-type="doi">10.1016/j.mbs.2018.04.003</pub-id><pub-id pub-id-type="pmid">29673967</pub-id></element-citation></ref><ref id="CR16"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Raggett</surname><given-names>GF</given-names></name></person-group><article-title>Modeling the Eyam plague</article-title><source>IMA J</source><year>1982</year><volume>18</volume><fpage>221</fpage><lpage>226</lpage></element-citation></ref><ref id="CR17"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Riley</surname><given-names>S</given-names></name><name><surname>Fraser</surname><given-names>C</given-names></name><name><surname>Donnelly</surname><given-names>CA</given-names></name><name><surname>Ghani</surname><given-names>AC</given-names></name><name><surname>Laith</surname><given-names>JA</given-names></name><name><surname>Hedley</surname><given-names>A</given-names></name><name><surname>Leung</surname><given-names>GM</given-names></name><name><surname>Ho</surname><given-names>L-M</given-names></name><name><surname>Lam</surname><given-names>T-H</given-names></name><name><surname>Thach</surname><given-names>TQ</given-names></name><name><surname>Chau</surname><given-names>P</given-names></name><name><surname>Chan</surname><given-names>K-P</given-names></name><name><surname>Lo</surname><given-names>S-V</given-names></name><name><surname>Leung</surname><given-names>P-Y</given-names></name><name><surname>Tsang</surname><given-names>T</given-names></name><name><surname>Ho</surname><given-names>W</given-names></name><name><surname>Lee</surname><given-names>K-H</given-names></name><name><surname>Lau</surname><given-names>EMC</given-names></name><name><surname>Freguson</surname><given-names>NM</given-names></name><name><surname>Anderson</surname><given-names>RM</given-names></name></person-group><article-title>Transmission dynamics of the etiological agent of SARS in Hong Kong: impact of public health interventions</article-title><source>Science</source><year>2003</year><volume>300</volume><fpage>1961</fpage><lpage>1965</lpage><pub-id pub-id-type="doi">10.1126/science.1086478</pub-id><pub-id pub-id-type="pmid">12766206</pub-id></element-citation></ref><ref id="CR18"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Shanafelt</surname><given-names>DW</given-names></name><name><surname>Jones</surname><given-names>G</given-names></name><name><surname>Lima</surname><given-names>M</given-names></name><name><surname>Perrings</surname><given-names>C</given-names></name><name><surname>Chowell</surname><given-names>G</given-names></name></person-group><article-title>Forecasting the 2001 foot-and-mouth disease epidemic in the UK</article-title><source>EcoHealth</source><year>2018</year><volume>15</volume><fpage>338</fpage><lpage>347</lpage><pub-id pub-id-type="doi">10.1007/s10393-017-1293-2</pub-id><pub-id pub-id-type="pmid">29238900</pub-id></element-citation></ref><ref id="CR19"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>van den Driessche</surname><given-names>P</given-names></name><name><surname>Watmough</surname><given-names>J</given-names></name></person-group><article-title>Reproduction numbers and subthreshold endemic equilibria for compartmental models of disease transmission</article-title><source>Math Biosci</source><year>2002</year><volume>180</volume><fpage>29</fpage><lpage>48</lpage><pub-id pub-id-type="doi">10.1016/S0025-5564(02)00108-6</pub-id><pub-id pub-id-type="pmid">12387915</pub-id></element-citation></ref><ref id="CR20"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Viboud</surname><given-names>C</given-names></name><name><surname>Simonsen</surname><given-names>L</given-names></name><name><surname>Chowell</surname><given-names>G</given-names></name></person-group><article-title>A generalized-growth model to characterize the early ascending phase of infectious disease outbreaks</article-title><source>Epidemics</source><year>2016</year><volume>15</volume><fpage>27</fpage><lpage>37</lpage><pub-id pub-id-type="doi">10.1016/j.epidem.2016.01.002</pub-id><pub-id pub-id-type="pmid">27266847</pub-id></element-citation></ref><ref id="CR21"><mixed-citation publication-type="other">WHO Ebola Response Team (2014) Ebola virus disease in West Africa&#x02014;the first 9 months of the epidemic and forward projections, New England. J Med 371:1481&#x02013;1495</mixed-citation></ref></ref-list></back></article>

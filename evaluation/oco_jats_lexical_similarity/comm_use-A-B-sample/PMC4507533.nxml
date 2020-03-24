@@ -1,0 +1,432 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:ali="http://www.niso.org/schemas/ali/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Braz J Microbiol</journal-id><journal-id journal-id-type="iso-abbrev">Braz. J. Microbiol</journal-id><journal-id journal-id-type="publisher-id">bjm</journal-id><journal-title-group><journal-title>Brazilian Journal of Microbiology</journal-title></journal-title-group><issn pub-type="ppub">1517-8382</issn><issn pub-type="epub">1678-4405</issn><publisher><publisher-name>Sociedade Brasileira de Microbiologia</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">26273256</article-id><article-id pub-id-type="pmc">4507533</article-id><article-id pub-id-type="doi">10.1590/S1517-838246246220140167</article-id><article-categories><subj-group subj-group-type="heading"><subject>Environmental Microbiology</subject></subj-group></article-categories><title-group><article-title>Efficacy of fungal decolorization of a mixture of dyes belonging to
+different classes</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Przystas</surname><given-names>Wioletta</given-names></name><xref ref-type="aff" rid="aff01"/><xref rid="c01" ref-type="corresp"/></contrib><contrib contrib-type="author"><name><surname>Zablocka-Godlewska</surname><given-names>Ewa</given-names></name><xref ref-type="aff" rid="aff01"/></contrib><contrib contrib-type="author"><name><surname>Grabinska-Sota</surname><given-names>Elzbieta</given-names></name><xref ref-type="aff" rid="aff01"/></contrib><aff id="aff01">Environmental Biotechnology
+Department, Silesian University of
+Technology, Gliwice, Poland, Environmental Biotechnology Department,
+Silesian University of Technology, Gliwice, Poland.</aff></contrib-group><author-notes><corresp id="c01">Send correspondence to W. Przystas. Environmental Biotechnology
+Department, Silesian University of Technology, Akademicka 2A, 44-100 Gliwice,
+Poland. E-mail: <email>wioletta.przystas@polsl.pl</email>.</corresp><fn id="fn01" fn-type="other"><p>Associate Editor: Lara Dur&#x000e3;es Sette</p></fn></author-notes><pub-date pub-type="epub"><day>01</day><month>6</month><year>2015</year></pub-date><pub-date pub-type="collection"><month>6</month><year>2015</year></pub-date><volume>46</volume><issue>2</issue><fpage>415</fpage><lpage>424</lpage><history><date date-type="received"><day>21</day><month>2</month><year>2014</year></date><date date-type="accepted"><day>09</day><month>10</month><year>2014</year></date></history><permissions><copyright-statement>Copyright &#x000a9; 2015, Sociedade Brasileira de
+Microbiologia</copyright-statement><copyright-year>2015</copyright-year><license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/3.0/"><license-p>All the content of the journal, except where otherwise noted, is
+licensed under a Creative Commons License CC BY-NC.</license-p></license></permissions><abstract><p>Dyes are the most difficult constituents to remove by conventional biological
+wastewater treatment. Colored wastewater is mainly eliminated by physical and
+chemical procedures, which are very expensive and have drawbacks. Therefore, the
+advantage of using biological processes, such as the biotransformation of dyes,
+is that they may lead to complete mineralization or formation of less toxic
+products. To prove the possibility of using fungal processes for decolorization
+and other applications, the analysis of the toxicity of the processes' products
+is required. The decolorization of the mixture of two dyes from different
+classes - triphenylmethane brilliant green and azo Evans blue (GB - total
+concentration 0.08 g/L, proportion 1:1 w/w) - by <italic>Pleurotus
+ostreatus</italic> (BWPH and MB), <italic>Gloeophyllum odoratum</italic>
+(DCa), RWP17 (<italic>Polyporus picipes</italic>) and <italic>Fusarium
+oxysporum</italic> (G1) was studied. Zootoxicity (<italic>Daphnia
+magna</italic>) and phytotoxicity (<italic>Lemna minor</italic>) changes
+were estimated at the end of the experiment. The mixture of dyes was
+significantly removed by all the strains that were tested with 96 h of
+experimental time. However, differences among strains from the same species
+(<italic>P. ostreatus</italic>) were noted. Shaking improved the efficacy
+and rate of the dye removal. In static samples, the removal of the mixture
+reached more than 51.9% and in shaken samples, more than 79.2%. Tests using the
+dead biomass of the fungi only adsorbed up to 37% of the dye mixture (strain
+BWPH), which suggests that the process with the living biomass involves the
+biotransformation of the dyes. The best results were reached for the MB strain,
+which removed 90% of the tested mixture under shaking conditions. Regardless of
+the efficacy of the dye removal, toxicity decreased from class V to class III in
+tests with <italic>D. magna</italic>. Tests with <italic>L. minor</italic>
+control samples were classified as class IV, and samples with certain strains
+were non-toxic. The highest phytotoxicity decrease was noted in shaken samples
+where the elimination of dye mixture was the best.</p></abstract><kwd-group><kwd>decolorization</kwd><kwd>fungal dye removal</kwd><kwd>dye mixture</kwd><kwd>zootoxicity</kwd><kwd>phytotoxicity</kwd></kwd-group><counts><fig-count count="5"/><table-count count="2"/><equation-count count="2"/><ref-count count="45"/><page-count count="10"/></counts></article-meta></front><body><sec sec-type="intro"><title>Introduction</title><p>Synthetic azo, triphenylmethane and anthraquinone dyes are used in textile, food,
+cosmetics, papermaking and pharmaceutical industries (<xref rid="B36" ref-type="bibr">Swamy and Ramsay, 1999</xref>; <xref rid="B22" ref-type="bibr">Padamavathy <italic>et al.</italic>, 2003</xref>). Their complex aromatic
+structure allows for their resistance to light and water oxidation and
+biodegradation. It is a feature desired by the industry using the dye, but it is
+dangerous for the environment. The non-biodegradable nature of most of the dyes
+causes their accumulation in surface water and sediments, especially at places of
+wastewater discharge. It reduces aquatic diversity by blocking the passage of
+sunlight through the water and creates problems for photosynthetic aquatic plants
+and algae, thus, affecting the ecological balance in the aquatic system. Many
+synthetic dyes are toxic, mutagenic and carcinogenic (<xref rid="B19" ref-type="bibr">Namasivayam and Sumithra, 2005</xref>; <xref rid="B07" ref-type="bibr">Divaniyam <italic>et al.</italic>, 2010</xref>). Textile
+finishing wastewater and house effluents may contain different classes of organic
+dyes, chemicals and auxiliaries (<xref rid="B17" ref-type="bibr">Lin and Chen,
+1997</xref>; <xref rid="B08" ref-type="bibr">Dos Santos <italic>et al.</italic>,
+2007</xref>). They are characterized by a strong color and large amount of
+suspended solids (<xref rid="B12" ref-type="bibr">Golob <italic>et al.</italic>,
+2005</xref>). The presence of these dyes in wastewater effluents is highly
+visible even in small concentrations. Dyes are the most difficult constituents to
+treat by conventional biological wastewater treatment (<xref rid="B11" ref-type="bibr">Gill <italic>et al.</italic>, 2001</xref>; <xref rid="B31" ref-type="bibr">Robinson <italic>et al.</italic>, 2001</xref>; <xref rid="B43" ref-type="bibr">Yesilada <italic>et al.</italic>, 2003</xref>; <xref rid="B08" ref-type="bibr">Dos Santos <italic>et al.</italic>, 2007</xref>; <xref rid="B14" ref-type="bibr">Khan <italic>et al.</italic>, 2013</xref>). Effective dye
+removal is required due to stringent government legislation and strict environmental
+regulations (<xref rid="B23" ref-type="bibr">Pandey <italic>et al.</italic>,
+2007</xref>).</p><p>Colored wastewater from the textile industry is one of the most serious problems in
+the world. In some regions, the textile industry is a significant contributor to the
+economic growth of a country. During normal textile dyeing and finishing, the dye
+used during operations may be changed from day to day and sometimes even several
+times a day. Approximately 10,000 different dyes are commercially available.
+Imperfections in textile dyeing processes cause a 10&#x02013;15% loss of the applied dyes
+(<xref rid="B11" ref-type="bibr">Gill <italic>et al.</italic>, 2001</xref>;
+<xref rid="B31" ref-type="bibr">Robinson <italic>et al.</italic>, 2001</xref>;
+<xref rid="B43" ref-type="bibr">Yesilada <italic>et al.</italic>, 2003</xref>;
+<xref rid="B07" ref-type="bibr">Divaniyam <italic>et al.</italic>, 2010</xref>).
+Colored wastewater is mainly eliminated by physical and chemical processes, such as
+coagulation, flocculation, adsorption, flotation, precipitation, oxidation and
+reduction, ozonation and membrane separation. However, they are very expensive and
+have drawbacks (<xref rid="B03" ref-type="bibr">Azmi <italic>et al.</italic>,
+1998</xref>; <xref rid="B31" ref-type="bibr">Robinson <italic>et al.</italic>,
+2001</xref>). The most widely used treatment system, conventional activated
+sludge, poorly removes the most widely used dyes and is clearly ineffective at
+decolorizing textile effluent, even when mixed and treated together with sewage
+(<xref rid="B31" ref-type="bibr">Robinson <italic>et al.</italic>, 2001</xref>;
+<xref rid="B01" ref-type="bibr">Al-Kdasi <italic>et al.</italic>, 2004</xref>).
+Environmentally friendly and cost-competitive bioremediation by microorganisms
+should be improved. Treatment of textile effluent requires a sound and efficient
+system able to achieve adequate color removal. There are many publications
+confirming the high potential of bacterial, fungal and algal species in dye removal
+(<xref rid="B04" ref-type="bibr">Banat <italic>et al.</italic>, 1996</xref>;
+<xref rid="B03" ref-type="bibr">Azmi <italic>et al.</italic>, 1998</xref>; <xref rid="B25" ref-type="bibr">Pointing and Vrijmoed, 2000</xref>; <xref rid="B10" ref-type="bibr">Fu and Viraraghavan, 2001</xref>; <xref rid="B31" ref-type="bibr">Robinson <italic>et al.</italic>, 2001</xref>; <xref rid="B33" ref-type="bibr">Sharma <italic>et al.</italic>, 2004</xref>; <xref rid="B06" ref-type="bibr">Deng <italic>et al.</italic>, 2008</xref>; <xref rid="B26" ref-type="bibr">Przystas <italic>et al.</italic>, 2009</xref>; <xref rid="B14" ref-type="bibr">Khan <italic>et al.</italic>, 2013</xref>). The removal of dyes
+is achieved due to biodegradation (mineralization or biotransformation) and/or
+adsorption on biomass. These processes use low-cost biological materials, as living
+or dead microorganisms, industrial waste from the breeding of mushrooms, chitosan,
+peat and plant wastes. The advantage of using biological processes is
+biotransformation, which may lead to complete mineralization of the dyes or the
+formation of less toxic products (<xref rid="B03" ref-type="bibr">Azmi <italic>et
+al.</italic>, 1998</xref>; <xref rid="B25" ref-type="bibr">Pointing and
+Vrijmoed, 2000</xref>; <xref rid="B31" ref-type="bibr">Robinson <italic>et
+al.</italic>, 2001</xref>; <xref rid="B06" ref-type="bibr">Deng <italic>et
+al.</italic>, 2008</xref>).</p><p>Fungi could be an excellent candidate for dye removal. Most of them use an
+extracellular enzymatic system that transforms aromatic substances, such as lignin,
+PAH or pesticides. Much attention is currently focused on fungal decolorization
+processes. The most widely studied are white rot fungi. They produce non-specific
+enzymes, such as lignin peroxidase, manganese peroxidase and laccase, which degrade
+many aromatic compounds. Fungi are used as sorbents and/or enzyme producers involved
+in biodegradation/biotransformation (<xref rid="B15" ref-type="bibr">Knapp
+<italic>et al.</italic>, 1995</xref>; <xref rid="B03" ref-type="bibr">Azmi
+<italic>et al.</italic>, 1998</xref>; <xref rid="B04" ref-type="bibr">Banat
+<italic>et al.</italic>, 1996</xref>; <xref rid="B36" ref-type="bibr">Swamy
+and Ramsay, 1999</xref>; <xref rid="B25" ref-type="bibr">Pointing and Vrijmoed,
+2000</xref>; <xref rid="B10" ref-type="bibr">Fu and Viraraghavan, 2001</xref>;
+<xref rid="B11" ref-type="bibr">Gill <italic>et al.</italic>, 2001</xref>; <xref rid="B38" ref-type="bibr">Toh <italic>et al.</italic>, 2003</xref>; <xref rid="B41" ref-type="bibr">Wesenberg <italic>et al.</italic>, 2003</xref>; <xref rid="B22" ref-type="bibr">Padamavathy <italic>et al.</italic>, 2003</xref>;
+<xref rid="B21" ref-type="bibr">Novotny <italic>et al.</italic>, 2004</xref>;
+<xref rid="B09" ref-type="bibr">Forgacs <italic>et al.</italic>, 2004</xref>;
+<xref rid="B08" ref-type="bibr">Dos Santos <italic>et al.</italic>, 2007</xref>;
+<xref rid="B06" ref-type="bibr">Deng <italic>et al.</italic>, 2008</xref>; <xref rid="B44" ref-type="bibr">Zablocka-Godlewska <italic>et al.</italic>,
+2009</xref>; <xref rid="B26" ref-type="bibr">Przystas <italic>et al.</italic>,
+2009</xref>; <xref rid="B07" ref-type="bibr">Divaniyam <italic>et al.</italic>,
+2010</xref>; <xref rid="B28" ref-type="bibr">Przystas <italic>et al.</italic>,
+2013</xref>; <xref rid="B13" ref-type="bibr">Hadibarata <italic>et al.</italic>,
+2013</xref>; <xref rid="B34" ref-type="bibr">Si <italic>et al.</italic>,
+2013</xref>).</p><p>The main objective of our study is to assess the efficacy of dye mixture
+decolorization by fungal strains <italic>Pleurotus ostreatus</italic> (BWPH and MB),
+<italic>Polyporus picipes</italic> (RWP17), <italic>Gloeophyllum
+odoratum</italic> (DCa) and <italic>Fusarium oxysporum</italic> (G1). Dyes used
+for the mixture were from different classes, which are not frequently tested during
+decolorization studies. To test for environmental safety, the zootoxicity and
+phytotoxicity of the dye mixture, as well as the byproducts produced during the
+decolorization process, were determined.</p></sec><sec sec-type="materials|methods"><title>Materials and Methods</title><sec><title>Tested organisms and culture conditions</title><p>Fungal strains <italic>Pleurotus ostreatus</italic> (BWPH and MB),
+<italic>Gloeophyllum odoratum</italic> (DCa), RWP17 (<italic>Polyporus
+picipes</italic>) and <italic>Fusarium oxysporum</italic> (G1)
+(bankit1276596 544 bp DNA linear PLN 15-OCT-2009) were isolated by the tissue
+method (MEA medium (Difco)) from the fruiting bodies of fungi collected in the
+woods near Gliwice (southern Poland, Upper Silesia). Samples were incubated at
+26 &#x000b0;C. Cultures were maintained in MEA slants and stored at 4 &#x000b0;C.</p></sec><sec><title>Decolorization experiment</title><p>The aim of this study was to determine the effectiveness of dye mixture
+decolorization using single strains. The dye concentration for the main
+experiment was determined experimentally. The influence of five different
+concentrations (0.02, 0.04, 0.06, 0.08, 0.1 and 0.12 g/L) of Evans blue and
+brilliant green on the decolorization effectiveness was estimated. The dye
+mixture was prepared with an equal proportion (1:1 w/w) of both dyes. Tube tests
+on liquid YEPG medium were performed in triplicate. The absorbance was measured
+after 7 days of incubation.</p><p>Samples in the main experiment were prepared by the addition of two pieces of
+mycelium (&#x000d8; 5 mm) cultured for 7 days on MEA (Fluka Analytical Sigma-Aldrich,
+India) in Erlenmeyer flasks with 150 mL of YEPG medium (glucose 10 g/L, peptone
+5 g/L, yeast extract 2 g/L, MgSO<sub>4</sub> 0.5 g/L,
+KH<sub>2</sub>PO<sub>4</sub> 1 g/L, pH 5.6).</p><p>Water solutions of triphenylmethane dye brilliant green (POCh) and diazo dye
+Evans blue (Sigma-Aldrich) were filter sterilized (Millipore cellulose filters &#x000d8;
+0.20 &#x003bc;m) and added to 5-day-old fungal cultures. The characteristics of both
+dyes are presented in <xref rid="t01" ref-type="table">Table 1</xref>, and the
+UV-Vis scans are presented in <xref rid="f01" ref-type="fig">Figure 1</xref>.
+The final concentration of the dye mixture was 0.08 g/L (0.04 g/L of brilliant
+green and 0.04 g/L of Evans blue). Control samples with the dyes were prepared
+in sterile medium used for microorganisms cultures and were shaken the same as
+the inoculated samples. The influence of process conditions (shaking and static
+cultures) on the decolorization effectiveness was evaluated. As suggested
+previously by us (<xref rid="B27" ref-type="bibr">Przystas <italic>et
+al.</italic>, 2012</xref>) and other authors (<xref rid="B41" ref-type="bibr">Wesenberg <italic>et al.</italic>, 2003</xref>; <xref rid="B16" ref-type="bibr">Kwang-Soo, 2004</xref>), some strains remove dyes
+more effectively under shaking conditions and some under static conditions.
+Cultures were incubated at 26 &#x000b0;C. Dead biomass was used to estimate biosorption
+and was obtained by autoclaving (15 min., 121 &#x000b0;C, 1.5 atm) 5-day-old cultures
+prepared the same as samples with living biomass. All modifications, as well as
+controls, were performed four times.</p><table-wrap id="t01" orientation="portrait" position="float"><label>Table 1</label><caption><title>Characteristics of the dyes used.</title></caption><graphic xlink:href="1517-8382-bjm-46-2-415-gf06"/></table-wrap><fig id="f01" orientation="portrait" position="float"><label>Figure 1</label><caption><title>UV-vis scan of the dyes and dye mixture used.</title></caption><graphic xlink:href="1517-8382-bjm-46-2-415-gf01"/></fig></sec><sec><title>Measurement of the decolorization effectiveness and sample toxicity</title><p>Absorbance was measured after 1, 6, 24, 48, 72 and 96 h (UV VIS spectrophotometer
+Hitachi U1900). The dye mixture was examined at three wavelengths (for brilliant
+green: 624 nm, Evans blue: 606 nm and the dye mixture: 591 nm). All wavelengths
+were determined experimentally as the wave with maximal absorbance. The
+percentage of dye removal was calculated according to the formula:</p><disp-formula id="e01"><label>(1)</label><mml:math id="m1"><mml:mrow><mml:mtext>R</mml:mtext><mml:mo stretchy="false">(</mml:mo><mml:mo>%</mml:mo><mml:mo stretchy="false">)</mml:mo><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:mtext>C</mml:mtext><mml:mo>-</mml:mo><mml:mtext>S</mml:mtext></mml:mrow><mml:mtext>C</mml:mtext></mml:mfrac><mml:mo>&#x000d7;</mml:mo><mml:mn>100</mml:mn><mml:mo>%</mml:mo></mml:mrow></mml:math></disp-formula><p>where C is the current concentration of dye/dyes in a control sample [mg/L]; S is
+the current residual concentration of dye/dyes in the samples with fungal
+biomass [mg/L].</p><p>The zootoxicity was evaluated using <italic>Daphnia magna</italic> (OECD 202) and
+phytotoxicity using an OECD <italic>Lemna</italic> sp. growth inhibition test
+No. 221. The tests were performed four times. On the base of these results, the
+acute toxicity units (TU<sub>a</sub>) were calculated, and toxicity classes were
+established.</p><disp-formula id="e02"><label>(2)</label><mml:math id="m2"><mml:mrow><mml:msub><mml:mrow><mml:mrow><mml:mtext>TU</mml:mtext></mml:mrow></mml:mrow><mml:mtext>a</mml:mtext></mml:msub><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:mn>100</mml:mn></mml:mrow><mml:mrow><mml:msub><mml:mrow><mml:mrow><mml:mtext>EC</mml:mtext></mml:mrow></mml:mrow><mml:mrow><mml:mn>50</mml:mn></mml:mrow></mml:msub></mml:mrow></mml:mfrac></mml:mrow></mml:math></disp-formula><p>EC<sub>50</sub> is the Effective Concentration of a wastewater sample that causes
+an inhibition of test organisms by 50%. Samples were classified according to ACE
+89/BE 2/D3 Final Report Commission EC (TUa &#x0003c; 0.4 - non-toxic (I class); 0.4 &#x02264;
+TUa &#x0003c; 1.0 - low toxicity (II class); 1.0 &#x02264; TUa &#x0003c; 10 - toxic (III class);
+10 &#x02264; TUa &#x02264; 100 - high toxicity (IV class); TUa &#x0003e; 100 - extremely toxic (V
+class)).</p></sec></sec><sec><title>Results and Discussion</title><p>Structurally different dyes were used for the mixture preparation: Evans blue and
+brilliant green. Brilliant green is a triphenylmethane dye that has three phenyl
+groups bound by a central carbon atom. Evans blue is diazo dye characterized by the
+presence of chromophoric azo groups. Both groups of dyes are used for coloring
+paper, food, cosmetics, textiles, leather and in medical treatment and analysis
+(<xref rid="B11" ref-type="bibr">Gill <italic>et al.</italic>, 2001</xref>;
+<xref rid="B31" ref-type="bibr">Robinson <italic>et al.</italic>, 2001</xref>;
+<xref rid="B43" ref-type="bibr">Yesilada <italic>et al.</italic>, 2003</xref>;
+<xref rid="B08" ref-type="bibr">Dos Santos <italic>et al.</italic>,
+2007</xref>). Because of such wide areas of application, they are often present in
+surface water.</p><p>Different concentrations of the dye mixture were used to examine the effect of
+concentration on the decolorization effectiveness. An increase in the dye
+concentration caused a decrease in the removal effectiveness (<xref rid="f02" ref-type="fig">Figure 2</xref>). <xref rid="B35" ref-type="bibr">Singh and
+Pakshirajan (2010)</xref> tested <italic>Phanerochaete chrysosporium</italic>
+for the decolorization of single and mixed dyes. As they described, the efficiency
+of the dye decolorization depended upon their initial concentration. Lower
+concentrations of the dyes favored easy decolorization. The decolorization
+efficiency of C.I. Reactive Black 5 by <italic>Debaryomyces polymorphus</italic> was
+tested by <xref rid="B42" ref-type="bibr">Yang <italic>et al.</italic>
+(2005)</xref>. An increase in the dye concentration from 200 mg/L to 400 mg/L
+decreased the final removal from 100% to 80%. A further increase in the
+concentration of C.I. Reactive Black 5 (to 1000 mg/L) resulted in a final removal of
+approximately 30%. <xref rid="B45" ref-type="bibr">Zhuo <italic>et al.</italic>
+(2011)</xref> tested the influence of malachite green, crystal violet, methyl
+orange and bromophenol blue concentration on the effectiveness of the
+decolorization. In the case of malachite green and bromophenol blue, an increase in
+the concentration from 25 mg/L to 200 mg/L had no significant impact on the final
+dye removal. An increase in the methyl orange concentration from 25 mg/L to 100 mg/L
+reduced the decolorization efficacy from approximately 100% to less than 60%.</p><fig id="f02" orientation="portrait" position="float"><label>Figure 2</label><caption><title>Influence of the dye mixture concentration on the decolorization
+effectiveness.</title></caption><graphic xlink:href="1517-8382-bjm-46-2-415-gf02"/></fig><p>Among the tested fungi, both strains of <italic>Pleurotus ostreatus</italic> (BWPH
+and MB) were the most effective in the decolorization (<xref rid="f02" ref-type="fig">Figure 2</xref>). They removed more than 60% of the mixture, even
+at a concentration of 0.12 g/L (62.3% and 65.5%, respectively) and more than 80% of
+the mixture at a concentration 0.08 g/L (81.1% and 96.2%, respectively). A high
+effectiveness of decolorization was also reached by strain RWP17 belonging to the
+species <italic>Polyporus picipes</italic> (81.9% at a concentration of 0.08 g/L and
+71.3% at a concentration of 0.12 g/L). A lower effectiveness was reached in samples
+with strain G1 (56.7% at a concentration of 0.12 g/L and 77.7% at a concentration of
+0.02 g/L). Based on these results, for further research, a concentration of 0.08 g/L
+was chosen; most of the strains removed more than 80% of the dye mixture at this
+concentration. Dyes used in the mixture were previously tested as a single dye
+(<xref rid="B27" ref-type="bibr">Przystas <italic>et al.</italic>, 2012</xref>)
+at higher concentrations. As visible in <xref rid="f01" ref-type="fig">Figure
+1</xref>, dyes in the mixture interfere. The results of this preliminary test
+suggest that their toxicity to the tested organisms increased. As proven by <xref rid="B24" ref-type="bibr">Park <italic>et al.</italic> (2007)</xref>, even small
+differences in the dye structure, including steric effect and redox potential, may
+significantly affect the decolorization rate.</p><p>The results of the main decolorization studies are presented in <xref rid="t02" ref-type="table">Table 2</xref> and in <xref rid="f03" ref-type="fig">Figures
+3</xref>
+<xref rid="f04" ref-type="fig"/>&#x02013;<xref rid="f05" ref-type="fig">5</xref>. At the beginning of the main experiment, in all samples with strains G1,
+BWPH and MB, an increase in color was observed. Growth of these strains in media was
+always connected with changes in the media color from yellow to red. This phenomenon
+had an influence on the value of absorbance in these samples (absorbance increased
+in approximately 3&#x02013;8% of samples with dead biomass and in 10&#x02013;22.3% of samples with
+living biomass).</p><table-wrap id="t02" orientation="portrait" position="float"><label>Table 2</label><caption><title>Results of the decolorization experiment and zoo- and phytotoxicity tests
+after 96 h of the experiment.</title></caption><table frame="hsides" rules="groups"><thead><tr><th valign="bottom" align="left" rowspan="1" colspan="1">Strains</th><th valign="bottom" align="center" rowspan="1" colspan="1">Modification</th><th valign="bottom" align="center" rowspan="1" colspan="1">BWPH</th><th valign="bottom" align="center" rowspan="1" colspan="1">RWP17</th><th valign="bottom" align="center" rowspan="1" colspan="1">G1</th><th valign="bottom" align="center" rowspan="1" colspan="1">DCa</th><th valign="bottom" align="center" rowspan="1" colspan="1">MB</th><th valign="bottom" align="center" rowspan="1" colspan="1">Controls</th></tr></thead><tbody><tr><td rowspan="3" valign="top" align="left" colspan="1">% removal of GB after 96
+h</td><td valign="top" align="center" rowspan="1" colspan="1">shaken biomass</td><td valign="top" align="center" rowspan="1" colspan="1">83.58 &#x000b1; 1.1<xref rid="TFN01" ref-type="table-fn">*</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">87.13 &#x000b1; 1.0</td><td valign="top" align="center" rowspan="1" colspan="1">79.20 &#x000b1; 0.6<xref rid="TFN01" ref-type="table-fn">*</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">84.67 &#x000b1; 0.6<xref rid="TFN01" ref-type="table-fn">*</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">90.13 &#x000b1; 1.7</td><td valign="top" align="center" rowspan="1" colspan="1"/></tr><tr><td valign="top" align="center" rowspan="1" colspan="1">static biomass</td><td valign="top" align="center" rowspan="1" colspan="1">67.50 &#x000b1; 0.5</td><td valign="top" align="center" rowspan="1" colspan="1">71.00 &#x000b1; 0.1</td><td valign="top" align="center" rowspan="1" colspan="1">51.93 &#x000b1; 1.8</td><td valign="top" align="center" rowspan="1" colspan="1">65.61 &#x000b1; 0.1</td><td valign="top" align="center" rowspan="1" colspan="1">78 &#x000b1; 1.9</td><td valign="top" align="center" rowspan="1" colspan="1"/></tr><tr><td valign="top" align="center" rowspan="1" colspan="1">Dead biomass</td><td valign="top" align="center" rowspan="1" colspan="1">36.96 &#x000b1; 0.8<xref rid="TFN01" ref-type="table-fn">*</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">34.6 &#x000b1; 0.8</td><td valign="top" align="center" rowspan="1" colspan="1">22.3 &#x000b1; 0.4<xref rid="TFN01" ref-type="table-fn">*</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">7.02 &#x000b1; 0.2<xref rid="TFN01" ref-type="table-fn">*</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">26.4 &#x000b1; 3.06</td><td valign="top" align="center" rowspan="1" colspan="1"/></tr><tr><td rowspan="3" valign="top" align="left" colspan="1">Zootoxicity class in test with
+<italic>Daphnia magna</italic> (TUa)</td><td valign="top" align="center" rowspan="1" colspan="1">shaken biomass</td><td valign="top" align="center" rowspan="1" colspan="1">III (8.3)<xref rid="TFN01" ref-type="table-fn">*</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">III (9.09)</td><td valign="top" align="center" rowspan="1" colspan="1">III (4.5)<xref rid="TFN01" ref-type="table-fn">*</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">III (6.3)<xref rid="TFN01" ref-type="table-fn">*</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">III (9.09)</td><td rowspan="3" valign="top" align="center" colspan="1">V(139.9)<xref rid="TFN01" ref-type="table-fn">*</xref>
+</td></tr><tr><td valign="top" align="center" rowspan="1" colspan="1">static biomass</td><td valign="top" align="center" rowspan="1" colspan="1">III (9.25)</td><td valign="top" align="center" rowspan="1" colspan="1">III (9.09)</td><td valign="top" align="center" rowspan="1" colspan="1">III (9.52)</td><td valign="top" align="center" rowspan="1" colspan="1">III (9.09)</td><td valign="top" align="center" rowspan="1" colspan="1">III (9.09)</td></tr><tr><td valign="top" align="center" rowspan="1" colspan="1">Dead biomass</td><td valign="top" align="center" rowspan="1" colspan="1">III (8.0)<xref rid="TFN01" ref-type="table-fn">*</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">III (9.09)</td><td valign="top" align="center" rowspan="1" colspan="1">III (2.0)<xref rid="TFN01" ref-type="table-fn">*</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">III (9.1)<xref rid="TFN01" ref-type="table-fn">*</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">III (9.09)</td></tr><tr><td rowspan="3" valign="top" align="left" colspan="1">Phytotoxicity class in test
+with <italic>Lemna minor</italic> (TUa)</td><td valign="top" align="center" rowspan="1" colspan="1">shaken biomass</td><td valign="top" align="center" rowspan="1" colspan="1">Non-toxic<xref rid="TFN01" ref-type="table-fn">*</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">Non-toxic</td><td valign="top" align="center" rowspan="1" colspan="1">Non-toxic<xref rid="TFN01" ref-type="table-fn">*</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">III (4.7)<xref rid="TFN01" ref-type="table-fn">*</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">Non-toxic</td><td rowspan="3" valign="top" align="center" colspan="1">IV(83.4)<xref rid="TFN01" ref-type="table-fn">*</xref>
+</td></tr><tr><td valign="top" align="center" rowspan="1" colspan="1">static biomass</td><td valign="top" align="center" rowspan="1" colspan="1">I (0.24)</td><td valign="top" align="center" rowspan="1" colspan="1">Non-toxic</td><td valign="top" align="center" rowspan="1" colspan="1">III (4.97)</td><td valign="top" align="center" rowspan="1" colspan="1">III (2.76)</td><td valign="top" align="center" rowspan="1" colspan="1">II (0.44)</td></tr><tr><td valign="top" align="center" rowspan="1" colspan="1">Dead biomass</td><td valign="top" align="center" rowspan="1" colspan="1">Non-toxic<xref rid="TFN01" ref-type="table-fn">*</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">Non-toxic</td><td valign="top" align="center" rowspan="1" colspan="1">II (0.9)<xref rid="TFN01" ref-type="table-fn">*</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">III (8.2)<xref rid="TFN01" ref-type="table-fn">*</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">Non-toxic</td></tr></tbody></table><table-wrap-foot><fn id="TFN01"><label>*</label><p>Results were published in <xref rid="B28" ref-type="bibr">Przystas
+<italic>et al.</italic> (2013)</xref>.</p></fn></table-wrap-foot></table-wrap><fig id="f03" orientation="portrait" position="float"><label>Figure 3</label><caption><title>Percentage of removal of the dye mixture at a concentration of 0.08 g/L
+in static samples.</title></caption><graphic xlink:href="1517-8382-bjm-46-2-415-gf03"/></fig><fig id="f04" orientation="portrait" position="float"><label>Figure 4</label><caption><title>Percentage of removal of the dye mixture at a concentration of 0.08 g/L
+in shaken samples. (Data for strains BWPH, G1 and DCa were presented
+previously (<xref rid="B28" ref-type="bibr">Przystas <italic>et
+al.</italic>, 2013</xref>).)</title></caption><graphic xlink:href="1517-8382-bjm-46-2-415-gf04"/></fig><fig id="f05" orientation="portrait" position="float"><label>Figure 5</label><caption><title>Percentage of removal of the dye mixture at a concentration of 0.08 g/L
+by the dead biomass of the fungal strains. (Data for strains BWPH, G1 and
+DCa were presented previously (<xref rid="B28" ref-type="bibr">Przystas
+<italic>et al.</italic>, 2013</xref>).</title></caption><graphic xlink:href="1517-8382-bjm-46-2-415-gf05"/></fig><p>Among two strains of <italic>P. ostreatus</italic> (MB and BWPH), the most effective
+was MB, which removed, after 3 h, 15.4% of the dye mixture in shaken samples and
+24.4% in static samples. Some fluctuations that were observed for this strain at the
+beginning of the experiment in static samples were probably connected with
+adsorption and desorption of the dyes. This result is also confirmed by the results
+reached using the dead biomass (<xref rid="f05" ref-type="fig">Figure 5</xref>). The
+decolorization process was faster in shaken than in static samples; after 24 h,
+removal was 68.6% and 19.4%, respectively. The final decolorization (after 96 h)
+reached 78% in static and 90.1% in shaken conditions. BWPH removed 11.8% of the
+mixture in static and 12.5% in shaken samples after 24 h. At the end of the
+experiment, the results were a bit worse than in the case of strain MB (67.5% and
+83.6%, respectively). The results of a previous study (<xref rid="B27" ref-type="bibr">Przystas <italic>et al.</italic>, 2012</xref>) showed that
+single dyes were also better removed in shaken conditions. Brilliant green
+decolorization was the most effective in samples with strain BWPH and the
+decolorization of Evans blue in samples with strain MB. Brilliant green was
+eliminated to 95% (shaken samples) and Evans blue to 89% (static conditions) after
+120 h. As presented above, both dyes were used in a previous experiment (<xref rid="B27" ref-type="bibr">Przystas <italic>et al.</italic>, 2012</xref>) in
+higher concentrations (0.06 and 0.15 g/L, respectively) than in the present study
+(0.08 g/L &#x02212; 0.04 g/L EB and 0.04 g/L BG).</p><p>Experimental conditions also had an influence on the dye mixture removal by strain
+RWP17. The first changes in sample color were observed after 6 h of the experiment
+(11.2% removal in static samples and 12.6% in shaken). Slight changes in the color
+were noted after 24 h (13.3% and 18.4%, respectively). At the end of the experiment,
+this strain removed 71.0% and 87.1%, respectively, in static and shaken
+conditions.</p><p>The rate of dye mixture removal by strains DCa and G1 was significantly lower than
+that of other tested samples. After up to 24 h, color reduction was approximately
+10%. After 48 h, a significant increase in removal (45.3%) was observed, but only
+for strain G1 in shaken conditions. The final decolorization effect was 51.9% for
+strain G1 and 65.6% for DCa in static samples. In shaken samples, it was 79.2% and
+84.6%, respectively. Agitation improved the oxygenation of the samples and the
+contact of the dyes with biomass, which explains why the final results of the
+decolorization were better. Differences between the results in shaken and static
+samples were previously reported by <xref rid="B16" ref-type="bibr">Kwang-Soo
+(2004)</xref>, <xref rid="B30" ref-type="bibr">Revankar and Lele (2007)</xref>,
+<xref rid="B41" ref-type="bibr">Wesenberg <italic>et al.</italic> (2003)</xref>,
+<xref rid="B13" ref-type="bibr">Hadibarata <italic>et al.</italic> (2013)</xref>
+and <xref rid="B14" ref-type="bibr">Khan <italic>et al.</italic> (2013)</xref>. As
+described by all the above authors, shaking improved the effectiveness of the
+decolorization. As mentioned by <xref rid="B13" ref-type="bibr">Hadibarata
+<italic>et al.</italic> (2013)</xref>, agitation has a positive effect only
+to an exact level. Agitation that is too strong can limit the decolorization. <xref rid="B41" ref-type="bibr">Wesenberg <italic>et al.</italic> (2003)</xref>
+described the influence of oxygen and agitation conditions on the activity of
+enzymes. The synthesis and secretion of the ligninolytic enzymes of fungi is often
+induced by limited nutrient levels (mostly C and/or N) and high oxygen tension. LiP
+and MnP are especially produced generally at high oxygen tension, but agitation
+represses this in liquid culture. Another enzyme involved in the process of
+decolorization, laccase, is produced better in agitated samples. Frequently, more
+than one isoform of ligninolytic enzymes is expressed by different strains and in
+culture conditions. This is important to remember during the optimization of fungal
+decolorization processes (<xref rid="B41" ref-type="bibr">Wesenberg <italic>et
+al.</italic>, 2003</xref>).</p><p>The high effectiveness of dye mixture elimination by fungal strains was also
+described by other authors. <xref rid="B45" ref-type="bibr">Zhuo <italic>et
+al.</italic> (2011)</xref> reached approximately 90% of decolorization of
+simulated dye effluents within 8 days with strain <italic>Ganoderma</italic> sp.
+En3. <xref rid="B40" ref-type="bibr">Verma <italic>et al.</italic> (2010)</xref>
+reached the decolorization and detoxification of textile effluents with a mixture of
+reactive dyes by using 4 strains of marine-derived fungi. The highest decolorization
+was noted after 6 days for strain NIOCC#C3 (<italic>Pestalotiopsis
+maculans</italic>). <italic>Bjercandera adusta</italic> was used for the elimination
+of color of simulated dye effluents by <xref rid="B18" ref-type="bibr">Mohorcic
+<italic>et al.</italic> (2006)</xref>. The final decolorization (after 17
+days) reached 90%. Additionally, <italic>Geotrichum candidum</italic>,
+<italic>Trametes versicolor</italic>, <italic>Phanerochaete
+chrysosporium</italic> and <italic>Schizophyllum commune</italic> were using to
+decolorize this effluent effectively (60&#x02013;80%). The decolorization of the dye mixture
+was also studied by <xref rid="B37" ref-type="bibr">Tilli <italic>et al.</italic>
+(2011)</xref>. A few mixtures of dyes belonging to azo and anthraquinonic
+classes were employed for enzymatic decolorization studies with the extracellular
+extracts from the white rot fungus <italic>Funalia trogii</italic>. Fungal extracts
+containing laccase were capable of partially decolorizing dye mixtures. The usage of
+extracts containing different enzymes resulted in a substantial increase in
+decolorization for all mixtures of the dyes, which were recalcitrant to the action
+of laccase alone. All this research confirms that the decolorization effectiveness
+depends on: the specific structure and composition of the dye, form and composition
+of the medium, the strain used in the experiment and the site of strain isolation
+(<xref rid="B08" ref-type="bibr">Dos Santos <italic>et al.</italic>,
+2007</xref>; <xref rid="B32" ref-type="bibr">Sani and Chand Banerjee,
+1999</xref>).</p><p>Dead biomass of the tested strains removed up to 37% of the dye mixture (<xref rid="f05" ref-type="fig">Figure 5</xref>). The most effective was strain BWPH.
+Another representative of <italic>P. ostreatus</italic> (strain MB) ultimately
+adsorbed 26.4%. The lowest adsorption was noted for strain DCa and reached only 7%.
+Adsorption was first noticeable after 48 h of experiment, and no desorption of the
+dyes was observed. <xref rid="B24" ref-type="bibr">Park <italic>et al.</italic>
+(2007)</xref> reached approximately 10% of biosorption of reactive orange 16,
+reactive blue 19, reactive black 5 and acid violet 43 and 40% of acid red by
+<italic>Funalia trogii</italic>.</p><p>To prove the possibility of the application of fungal processes, not only
+decolorization but also the toxicity analysis of the decolorized products was
+required. It is difficult to explain why, regardless of the results of the dye
+removal, in all samples, a decrease in toxicity was noted (<xref rid="t02" ref-type="table">Table 2</xref>). Zootoxicity of the controls with the dyes was
+very high, and the samples were classified as extremely toxic. A decrease in
+toxicity to <italic>Daphnia magna</italic> was observed in all process conditions
+and for all the strains used, even in samples with dead biomass where the mixture
+removal was low. After the decolorization, all samples were classified as toxic (III
+class). Although the samples were classified the same class, differences in the TUa
+value were observed. Mostly, in shaken samples, the TUa values were lower than in
+static samples. Controls with the dyes were very toxic (IV class) to
+<italic>Lemna</italic> sp. In all samples with strain RWP17, after the
+experiment, no toxicity was observed regardless of the process conditions and
+effectiveness of the dye removal. In the case of both strains of <italic>P.
+ostreatus</italic>, shaken samples, as well as samples with dead biomass, were
+also non-toxic. Static samples were classified to class I (BWPH) or class II (MB)
+toxicity. The highest phytotoxicity was noted in all samples using strain DCa (class
+III). As in the case of the zootoxicity, the TUa values in the phytotoxicity tests
+were also lower in shaken conditions. The toxicity of the stimulated textile
+effluents was evaluated by <xref rid="B45" ref-type="bibr">Zhuo <italic>et
+al.</italic> (2011)</xref>, who proved the toxic impact of effluents on the
+germination of plant seeds and the growth of shoots and roots. After decolorization
+by <italic>Ganoderma</italic> sp.En3, the phytotoxicity was lower, the same as in
+the present study. Apart from the high usefulness of fungal strains in
+decolorization processes (by biosorption and/or biotransformation), the decrease in
+the dye toxicity has been frequently proved (<xref rid="B05" ref-type="bibr">Casieri
+<italic>et al.</italic>, 2008</xref>; <xref rid="B29" ref-type="bibr">Przystas <italic>et al.</italic>, 2010</xref>; <xref rid="B20" ref-type="bibr">Nascimento <italic>et al.</italic>, 2011</xref>; <xref rid="B02" ref-type="bibr">Anastasi <italic>et al.</italic>, 2011</xref>; <xref rid="B27" ref-type="bibr">Przystas <italic>et al.</italic>, 2012</xref>).</p><p>A mixture of dyes belonging to different classes is rarely tested; thus, we
+concentrated our study on the evaluation of brilliant green (triphenylmethane dye)
+and Evans blue (azo dye) mixture removal. Such a mixture may be more difficult for
+the biological treatment than a single dye because interactions between the dyes are
+observed.</p><p>A very high effectiveness of dye removal by living biomass of all the strains used
+was demonstrated. Up to 90% of the mixture was removed during 96 h of the
+experiment. Incubation conditions had an influence on the process. Decolorization
+was the most effective and fastest in shaken samples. The best results were reached
+for strain MB (representative of <italic>Pleurotus ostreatus</italic> species),
+which removed more than 90% of the dyes in the shaken samples, as mentioned above.
+Another representative of <italic>P. ostreatus</italic> (BWPH) removed up to 83.4%,
+which suggests that the ability for the dye removal is connected to individual
+features of the strain, not to species. Decolorization was probably connected to
+biotransformation because dead biomass of the tested fungi absorbed only up to 37%
+of the dye mixture (strain BWPH). Regardless of the degree of the dye removal, a
+significant decrease in toxicity was observed, from class V to class III in tests
+with <italic>D. magna</italic>, and from class IV to non-toxic in tests with
+<italic>L. minor</italic>. The highest decrease in toxicity was noted in samples
+with shaken biomass, where the effect on the dye mixture elimination was the best.
+In summary, our research indicates a very high potential of the tested strains,
+especially representatives of <italic>Pleurotus ostreatus</italic> and
+<italic>Polyporus picipes</italic>, to be used for decolorization and
+detoxification of dye mixtures.</p></sec></body><back><ack><title>Acknowledgments</title><p>This research has been supported by the Ministry of Science and Higher Education
+grant (2007&#x02013;2010) - research project number N523 17 85 33 and co-financed by
+BK-282/RIE-8/2014.</p></ack><ref-list><title>References</title><ref id="B01"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Al-Kdasi</surname><given-names>A</given-names></name><name><surname>Idris</surname><given-names>A</given-names></name><name><surname>Saed</surname><given-names>K</given-names></name><etal/></person-group><year>2004</year><article-title>Treatment of textile wastewater by advanced oxidation processes -
+a review</article-title><source>Global Nest: the International Journal</source><volume>6</volume><fpage>222</fpage><lpage>230</lpage></element-citation></ref><ref id="B02"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Anastasi</surname><given-names>A</given-names></name><name><surname>Parato</surname><given-names>B</given-names></name><name><surname>Spina</surname><given-names>F</given-names></name><etal/></person-group><year>2011</year><article-title>Decolourisation and detoxification in the fungal treatment of
+textile wastewaters from dyeing processes</article-title><source>New Biotechnol</source><volume>29</volume><fpage>38</fpage><lpage>45</lpage></element-citation></ref><ref id="B03"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Azmi</surname><given-names>W</given-names></name><name><surname>Sani</surname><given-names>RK</given-names></name><name><surname>Banerjee</surname><given-names>UC</given-names></name></person-group><year>1998</year><article-title>Biodegradation of triphenylmethane dyes</article-title><source>Enzyme Microb Technol</source><volume>22</volume><fpage>185</fpage><lpage>191</lpage><pub-id pub-id-type="pmid">9463944</pub-id></element-citation></ref><ref id="B04"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Banat</surname><given-names>IM</given-names></name><name><surname>Nigam</surname><given-names>P</given-names></name><name><surname>Singh</surname><given-names>D</given-names></name><etal/></person-group><year>1996</year><article-title>Microbial decolorization of textile-dye-containing effluents: a
+review</article-title><source>Bioresource Technol</source><volume>58</volume><fpage>217</fpage><lpage>227</lpage></element-citation></ref><ref id="B05"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Casieri</surname><given-names>L</given-names></name><name><surname>Varese</surname><given-names>GC</given-names></name><name><surname>Anastasi</surname><given-names>A</given-names></name><etal/></person-group><year>2008</year><article-title>Decoloration and detoxification of reactive industrial dyes by
+immobilized fungi Trametes pubescens and Pleurotus ostreatus</article-title><source>Folia Microbiol</source><volume>53</volume><fpage>44</fpage><lpage>52</lpage><pub-id pub-id-type="pmid">18481217</pub-id></element-citation></ref><ref id="B06"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Deng</surname><given-names>D</given-names></name><name><surname>Guo</surname><given-names>J</given-names></name><name><surname>Zeng</surname><given-names>G</given-names></name><etal/></person-group><year>2008</year><article-title>Decolorization of anthraquinone, triphenylmethane and azo dyes by
+a new isolated Bacillus cereus strain DC11q</article-title><source>Int Biodeter Biodegr</source><volume>62</volume><fpage>263</fpage><lpage>269</lpage></element-citation></ref><ref id="B07"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Diwaniyan</surname><given-names>S</given-names></name><name><surname>Kharb</surname><given-names>D</given-names></name><name><surname>Raghukumar</surname><given-names>C</given-names></name><etal/></person-group><year>2010</year><article-title>Decolorization of synthetic dyes and textile effluents by
+basidiomycetous fungi</article-title><source>Water Air Soil Pollut</source><volume>210</volume><fpage>409</fpage><lpage>419</lpage></element-citation></ref><ref id="B08"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Dos Santos</surname><given-names>A</given-names></name><name><surname>Cervantes</surname><given-names>FJ</given-names></name><name><surname>van Lier</surname><given-names>JB</given-names></name></person-group><year>2007</year><article-title>Review paper on current technologies for decolourisation of
+textile wastewaters: Perspectives for anaerobic
+biotechnology</article-title><source>Bioresour Technol</source><volume>98</volume><fpage>2369</fpage><lpage>2385</lpage><pub-id pub-id-type="pmid">17204423</pub-id></element-citation></ref><ref id="B09"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Forgacs</surname><given-names>E</given-names></name><name><surname>Cserhati</surname><given-names>T</given-names></name><name><surname>Oros</surname><given-names>G</given-names></name></person-group><year>2004</year><article-title>Removal of synthetic dyes from wastewaters: a
+review</article-title><source>Environmental International</source><volume>30</volume><fpage>953</fpage><lpage>971</lpage></element-citation></ref><ref id="B10"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Fu</surname><given-names>Y</given-names></name><name><surname>Viraraghavan</surname><given-names>T</given-names></name></person-group><year>2001</year><article-title>Fungal decolorization of dye wastewater: a review</article-title><source>Bioresour Technol</source><volume>79</volume><fpage>251</fpage><lpage>262</lpage><pub-id pub-id-type="pmid">11499579</pub-id></element-citation></ref><ref id="B11"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gill</surname><given-names>PK</given-names></name><name><surname>Arora</surname><given-names>DS</given-names></name><name><surname>Chander</surname><given-names>M</given-names></name></person-group><year>2001</year><article-title>Biodecolourization of azo and triphenylmethane dyes by Dichomitus
+squalens and Phelbia spp</article-title><source>J Ind Microbiol Biotechnol</source><volume>28</volume><fpage>201</fpage><lpage>203</lpage><pub-id pub-id-type="pmid">11986919</pub-id></element-citation></ref><ref id="B12"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Golob</surname><given-names>V</given-names></name><name><surname>Vinder</surname><given-names>A</given-names></name><name><surname>Simonic</surname><given-names>M</given-names></name></person-group><year>2005</year><article-title>Efficiency of coagulation/flocculation method for treatment of
+dye bath effluents</article-title><source>Dyes Pigments</source><volume>67</volume><fpage>93</fpage><lpage>97</lpage></element-citation></ref><ref id="B13"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hadibarata</surname><given-names>T</given-names></name><name><surname>Adnan</surname><given-names>LA</given-names></name><name><surname>Mohd Yusoff</surname><given-names>AR</given-names></name><etal/></person-group><year>2013</year><article-title>Microbial Decolorization of an Azo Dye Reactive Black 5 Using
+White-Rot Fungus Pleurotus eryngii F032</article-title><source>Water Air Soil Pollut</source><volume>224</volume><fpage>1595</fpage></element-citation></ref><ref id="B14"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Khan</surname><given-names>R</given-names></name><name><surname>Bhawana</surname><given-names>P</given-names></name><name><surname>Fulekar</surname><given-names>MH</given-names></name></person-group><year>2013</year><article-title>Microbial decolorization and degradation of synthetic dyes: a
+review</article-title><source>Rev Environ Sci Biotechnol</source><volume>12</volume><fpage>75</fpage><lpage>97</lpage></element-citation></ref><ref id="B15"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Knapp</surname><given-names>JS</given-names></name><name><surname>Newby</surname><given-names>PS</given-names></name><name><surname>Reece</surname><given-names>LP</given-names></name></person-group><year>1995</year><article-title>Decolorization of wood-rotting basidiomycete
+fungi</article-title><source>Enzyme Microb Tech</source><volume>17</volume><fpage>664</fpage><lpage>668</lpage></element-citation></ref><ref id="B16"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kwang-Soo</surname><given-names>S</given-names></name></person-group><year>2004</year><article-title>The role of enzymes produced by white-rot fungus Irpex lacteus in
+the decolorization of the textile industry effluent</article-title><source>J Microbiol</source><volume>41</volume><fpage>37</fpage><lpage>41</lpage></element-citation></ref><ref id="B17"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lin</surname><given-names>SH</given-names></name><name><surname>Chen</surname><given-names>ML</given-names></name></person-group><year>1997</year><article-title>Treatment of Textile Wastewater by Chemical Methods for
+Reuse</article-title><source>Water Resour</source><volume>31</volume><fpage>868</fpage><lpage>76</lpage></element-citation></ref><ref id="B18"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mohorcic</surname><given-names>M</given-names></name><name><surname>Teodorovic</surname><given-names>S</given-names></name><name><surname>Golob</surname><given-names>V</given-names></name><etal/></person-group><year>2006</year><article-title>Fungal and enzymatic decolourisation of artificial textile dye
+baths</article-title><source>Chemosphere</source><volume>63</volume><fpage>1709</fpage><lpage>17</lpage><pub-id pub-id-type="pmid">16310823</pub-id></element-citation></ref><ref id="B19"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Namasivayam</surname><given-names>C</given-names></name><name><surname>Sumithra</surname><given-names>S</given-names></name></person-group><year>2005</year><article-title>Removal of direct red 12B and methylene blue from water by
+adsorption onto Fe(III)/Cr(III) hydroxide, an industrial solid
+waste</article-title><source>J Environ Manage</source><volume>74</volume><fpage>207</fpage><lpage>215</lpage><pub-id pub-id-type="pmid">15644261</pub-id></element-citation></ref><ref id="B20"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Nascimento</surname><given-names>C</given-names></name><name><surname>de Paiva Magalh&#x000e3;es</surname><given-names>D</given-names></name><name><surname>Brand&#x000e3;o</surname><given-names>M</given-names></name><etal/></person-group><year>2011</year><article-title>Degradation and detoxification of three textile azo dyes by mixed
+fungal cultures from Semi-Arid region of Brazilian Northeast</article-title><source>Braz Arch Biol Techn</source><volume>54</volume><fpage>621</fpage><lpage>628</lpage></element-citation></ref><ref id="B21"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Novotny</surname><given-names>C</given-names></name><name><surname>Svobodova</surname><given-names>K</given-names></name><name><surname>Kasinath</surname><given-names>A</given-names></name><etal/></person-group><year>2004</year><article-title>Biodegradation of synthetic dyes by Irpex lacteus under various
+growth conditions</article-title><source>Int Biodeter Biodegr</source><volume>54</volume><fpage>215</fpage><lpage>22</lpage></element-citation></ref><ref id="B22"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Padamavathy</surname><given-names>S</given-names></name><name><surname>Sandhya</surname><given-names>S</given-names></name><name><surname>Swaminathan</surname><given-names>K</given-names></name><etal/></person-group><year>2003</year><article-title>Comparison of decolorization of reactive azo dyes by
+microorganisms isolated from various source</article-title><source>J Environ Sci</source><volume>15</volume><fpage>628</fpage><lpage>632</lpage></element-citation></ref><ref id="B23"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Pandey</surname><given-names>A</given-names></name><name><surname>Singh</surname><given-names>P</given-names></name><name><surname>Iyengar</surname><given-names>L</given-names></name></person-group><year>2007</year><article-title>Review bacterial decolorization and degradation of azo
+dyes</article-title><source>Int Biodeter Biodegr</source><volume>59</volume><fpage>73</fpage><lpage>84</lpage></element-citation></ref><ref id="B24"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Park</surname><given-names>C</given-names></name><name><surname>Lee</surname><given-names>M</given-names></name><name><surname>Lee</surname><given-names>B</given-names></name><etal/></person-group><year>2007</year><article-title>Biodegradation and biosorption for decolourisation of synthetic
+dyes by Funalia trogii</article-title><source>Biochem Eng J</source><volume>36</volume><fpage>59</fpage><lpage>65</lpage></element-citation></ref><ref id="B25"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Pointing</surname><given-names>SB</given-names></name><name><surname>Vrijmoed</surname><given-names>LLP</given-names></name></person-group><year>2000</year><article-title>Decolorization of azo and triphenylmethane dyes by Pycnoporus
+sanguineus producing laccase as the sole phenoloxidase</article-title><source>World J Microb Biot</source><volume>16</volume><fpage>317</fpage><lpage>318</lpage></element-citation></ref><ref id="B26"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Przystas</surname><given-names>W</given-names></name><name><surname>Zablocka-Godlewska</surname><given-names>E</given-names></name><name><surname>Grabinska-Sota</surname><given-names>E</given-names></name></person-group><year>2009</year><article-title>Screening of dyes decolorizing microorganisms
+strains</article-title><source>Pol J Environ Stud</source><volume>18</volume><fpage>69</fpage><lpage>73</lpage></element-citation></ref><ref id="B27"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Przystas</surname><given-names>W</given-names></name><name><surname>Zablocka-Godlewska</surname><given-names>E</given-names></name><name><surname>Grabinska-Sota</surname><given-names>E</given-names></name></person-group><year>2012</year><article-title>Biological Removal of Azo and Triphenylmethane Dyes and Toxicity
+of Process By-Products</article-title><source>Water Air Soil Pollut</source><volume>223</volume><fpage>1581</fpage><lpage>1592</lpage><pub-id pub-id-type="pmid">22593606</pub-id></element-citation></ref><ref id="B28"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Przystas</surname><given-names>W</given-names></name><name><surname>Zablocka-Godlewska</surname><given-names>E</given-names></name><name><surname>Grabinska-Sota</surname><given-names>E</given-names></name></person-group><year>2013</year><article-title>Effectiveness of dyes removal by mixed fungal cultures and
+toxicity of their metabolites</article-title><source>Water Air Soil Pollut</source><volume>224</volume><fpage>1534</fpage><lpage>1543</lpage><pub-id pub-id-type="pmid">23687394</pub-id></element-citation></ref><ref id="B29"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Przystas</surname><given-names>W</given-names></name><name><surname>Zablocka-Godlewska</surname><given-names>E</given-names></name><name><surname>Grabinska-Sota</surname><given-names>E</given-names></name><etal/></person-group><year>2010</year><article-title>Potential Ability of Some Ligninolytical Fungal Strains to
+Decolorize Synthetic Dyes</article-title><source>Environ Pollut Control</source><volume>32</volume><fpage>15</fpage><lpage>20</lpage><comment>(in Polish)</comment></element-citation></ref><ref id="B30"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Revankar</surname><given-names>MS</given-names></name><name><surname>Lele</surname><given-names>SS</given-names></name></person-group><year>2007</year><article-title>Synthetic dye decolorization by white rot fungus, Ganoderma sp.
+WR-1</article-title><source>Bioresour Technol</source><volume>98</volume><fpage>775</fpage><lpage>780</lpage><pub-id pub-id-type="pmid">16730976</pub-id></element-citation></ref><ref id="B31"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Robinson</surname><given-names>T</given-names></name><name><surname>McMullan</surname><given-names>G</given-names></name><name><surname>Marchant</surname><given-names>R</given-names></name><etal/></person-group><year>2001</year><article-title>Remediation of dyes in textile effluents: a critical review on
+current treatment technologies with a proposed alternative</article-title><source>Bioresour Technol</source><volume>77</volume><fpage>247</fpage><lpage>255</lpage><pub-id pub-id-type="pmid">11272011</pub-id></element-citation></ref><ref id="B32"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sani</surname><given-names>KR</given-names></name><name><surname>Chand Banerjee</surname><given-names>U</given-names></name></person-group><year>1999</year><article-title>Decolorization of triphenylmethane dyes and textile and dye-stuff
+effluent by Kurthia sp</article-title><source>Enzyme Microb Technol</source><volume>24</volume><fpage>433</fpage><lpage>437</lpage></element-citation></ref><ref id="B33"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sharma</surname><given-names>DK</given-names></name><name><surname>Saini</surname><given-names>HS</given-names></name><name><surname>Singh</surname><given-names>M</given-names></name><etal/></person-group><year>2004</year><article-title>Isolation and characterization of microorganisms capable of
+decolorizing various triphenylmethane dyes</article-title><source>J Basic Microb</source><volume>44</volume><fpage>59</fpage><lpage>65</lpage></element-citation></ref><ref id="B34"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Si</surname><given-names>J</given-names></name><name><surname>Cui</surname><given-names>B-K</given-names></name><name><surname>Dai</surname><given-names>Y-Ch</given-names></name></person-group><year>2013</year><article-title>Decolorization of chemically different dyes by white-rot fungi in
+submerged cultures</article-title><source>Ann Microbiol</source><volume>63</volume><fpage>1099</fpage><lpage>1108</lpage></element-citation></ref><ref id="B35"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Singh</surname><given-names>S</given-names></name><name><surname>Pakshirajan</surname><given-names>K</given-names></name></person-group><year>2010</year><article-title>Enzyme activities and decolourization of single and mixed azo
+dyes by white-rot fungus Phanerochaete chrysosporium</article-title><source>Int Biodeter Biodegr</source><volume>64</volume><fpage>146</fpage><lpage>150</lpage></element-citation></ref><ref id="B36"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Swamy</surname><given-names>J</given-names></name><name><surname>Ramsay</surname><given-names>JA</given-names></name></person-group><year>1999</year><article-title>The evaluation of white-rot fungi in the decoloration of textile
+dyes</article-title><source>Enzyme Microb Tech</source><volume>24</volume><fpage>130</fpage><lpage>137</lpage></element-citation></ref><ref id="B37"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Tilli</surname><given-names>S</given-names></name><name><surname>Ciullini</surname><given-names>I</given-names></name><name><surname>Scozzafava</surname><given-names>A</given-names></name><etal/></person-group><year>2011</year><article-title>Differential decolorization of textile dyes in mixtures and the
+joint effect of laccase and cellobiose dehydrogenase activities present in
+extracellular extracts from Funalia trogii</article-title><source>Enzyme Microb Tech</source><volume>49</volume><fpage>465</fpage><lpage>471</lpage></element-citation></ref><ref id="B38"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Toh</surname><given-names>Y-C</given-names></name><name><surname>Jia</surname><given-names>J</given-names></name><name><surname>Yen</surname><given-names>L</given-names></name><etal/></person-group><year>2003</year><article-title>Decolourisation of azo dyes by white-rot fungi (WRF) isolated in
+Singapore</article-title><source>Enzyme Microb Tech</source><volume>33</volume><fpage>569</fpage><lpage>575</lpage></element-citation></ref><ref id="B39"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Tychanowicz</surname><given-names>GK</given-names></name><name><surname>Zilly</surname><given-names>A</given-names></name><name><surname>Marquez de Souza</surname><given-names>CG</given-names></name><etal/></person-group><year>2004</year><article-title>Decolorization of industrial dyes by solid-state cultures of
+Pleurotus pulmonaris</article-title><source>Process Biochem</source><volume>39</volume><fpage>855</fpage><lpage>859</lpage></element-citation></ref><ref id="B40"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Verma</surname><given-names>AK</given-names></name><name><surname>Raghukumar</surname><given-names>Ch</given-names></name><name><surname>Verma</surname><given-names>P</given-names></name><etal/></person-group><year>2010</year><article-title>Four marine-derived fungi for bioremediation of raw textile mill
+effluents</article-title><source>Biodegradation</source><volume>21</volume><fpage>217</fpage><lpage>233</lpage><pub-id pub-id-type="pmid">19763847</pub-id></element-citation></ref><ref id="B41"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wesenberg</surname><given-names>D</given-names></name><name><surname>Kyriakides</surname><given-names>I</given-names></name><name><surname>Agathos</surname><given-names>SN</given-names></name></person-group><year>2003</year><article-title>White-rot fungi and their enzymes for the treatment of industrial
+dye effluents</article-title><source>Biotechnol Adv</source><volume>22</volume><fpage>161</fpage><lpage>187</lpage><pub-id pub-id-type="pmid">14623049</pub-id></element-citation></ref><ref id="B42"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Yang</surname><given-names>CL</given-names></name><name><surname>McGarrahan</surname><given-names>J</given-names></name></person-group><year>2005</year><article-title>Electrochemical coagulation for textile effluent
+decolorization</article-title><source>J Hazard Mater B</source><volume>127</volume><fpage>40</fpage><lpage>47</lpage></element-citation></ref><ref id="B43"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Yesilada</surname><given-names>O</given-names></name><name><surname>Asma</surname><given-names>D</given-names></name><name><surname>Cing</surname><given-names>S</given-names></name></person-group><year>2003</year><article-title>Decolorization of textile dyes by fungal pellets</article-title><source>Process Biochem</source><volume>38</volume><fpage>933</fpage><lpage>938</lpage></element-citation></ref><ref id="B44"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zablocka-Godlewska</surname><given-names>E</given-names></name><name><surname>Przystas</surname><given-names>W</given-names></name><name><surname>Grabinska-Sota</surname><given-names>E</given-names></name></person-group><year>2009</year><article-title>Decolorization of triphenylmethane dyes and ecotoxicity of their
+end products</article-title><source>Environment Protection Engineering</source><volume>35</volume><fpage>161</fpage><lpage>169</lpage></element-citation></ref><ref id="B45"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zhuo</surname><given-names>R</given-names></name><name><surname>Ma</surname><given-names>L</given-names></name><name><surname>Fan</surname><given-names>F</given-names></name><etal/></person-group><year>2011</year><article-title>Decolorization of different dyes by a newly isolated white-rot
+fungi strain Ganoderma sp</article-title><source>J Hazard Mater</source><volume>192</volume><fpage>855</fpage><lpage>73</lpage><pub-id pub-id-type="pmid">21733624</pub-id></element-citation></ref></ref-list></back></article>

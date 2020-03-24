@@ -1,0 +1,604 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:ali="http://www.niso.org/schemas/ali/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Braz J Microbiol</journal-id><journal-id journal-id-type="iso-abbrev">Braz. J. Microbiol</journal-id><journal-id journal-id-type="publisher-id">bjm</journal-id><journal-title-group><journal-title>Brazilian Journal of Microbiology</journal-title></journal-title-group><issn pub-type="ppub">1517-8382</issn><issn pub-type="epub">1678-4405</issn><publisher><publisher-name>Sociedade Brasileira de Microbiologia</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">26273271</article-id><article-id pub-id-type="pmc">4507548</article-id><article-id pub-id-type="doi">10.1590/S1517-838246220131164</article-id><article-categories><subj-group subj-group-type="heading"><subject>Veterinary Microbiology</subject></subj-group></article-categories><title-group><article-title>Clonal profile, virulence and resistance of <italic>Staphylococcus
+aureus</italic> isolated from sheep milk</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Martins</surname><given-names>Katheryne Benini</given-names></name><xref ref-type="aff" rid="aff01">1</xref><xref rid="c01" ref-type="corresp"/></contrib><contrib contrib-type="author"><name><surname>Faccioli-Martins</surname><given-names>Patricia Yoshida</given-names></name><xref ref-type="aff" rid="aff01">1</xref></contrib><contrib contrib-type="author"><name><surname>Riboli</surname><given-names>Danilo Fl&#x000e1;vio Moraes</given-names></name><xref ref-type="aff" rid="aff01">1</xref></contrib><contrib contrib-type="author"><name><surname>Pereira</surname><given-names>Val&#x000e9;ria Cataneli</given-names></name><xref ref-type="aff" rid="aff01">1</xref></contrib><contrib contrib-type="author"><name><surname>Fernandes</surname><given-names>Simone</given-names></name><xref ref-type="aff" rid="aff02">2</xref></contrib><contrib contrib-type="author"><name><surname>Oliveira</surname><given-names>Aline A.</given-names></name><xref ref-type="aff" rid="aff02">2</xref></contrib><contrib contrib-type="author"><name><surname>Dantas</surname><given-names>Ariane</given-names></name><xref ref-type="aff" rid="aff02">2</xref></contrib><contrib contrib-type="author"><name><surname>Zafalon</surname><given-names>Luiz Francisco</given-names></name><xref ref-type="aff" rid="aff03">3</xref></contrib><contrib contrib-type="author"><name><surname>da Cunha</surname><given-names>Maria de Lourdes Ribeiro de Souza</given-names></name><xref ref-type="aff" rid="aff01">1</xref></contrib></contrib-group><aff id="aff01"><label>1</label>Universidade Estadual Paulista, Departamento de Microbiologia e
+Imunologia, Instituto de Bioci&#x000ea;ncias, Universidade Estadual Paulista, Botucatu, SP, Brasil, Departamento de Microbiologia e Imunologia,
+Instituto de Bioci&#x000ea;ncias, Universidade Estadual Paulista "J&#x000fa;lio de Mesquita
+Filho", Botucatu, SP, Brazil.</aff><aff id="aff02"><label>2</label>Universidade Estadual Paulista, Departamento de Produ&#x000e7;&#x000e3;o Animal, Faculdade de Medicina Veterin&#x000e1;ria e
+Zootecnia, Universidade Estadual Paulista, Botucatu, SP, Brasil, Departamento de Produ&#x000e7;&#x000e3;o Animal, Faculdade de
+Medicina Veterin&#x000e1;ria e Zootecnia, Universidade Estadual Paulista "J&#x000fa;lio de
+Mesquita Filho", Botucatu, SP, Brazil.</aff><aff id="aff03"><label>3</label>Embrapa Pecu&#x000e1;ria Sudeste, Embrapa Pecu&#x000e1;ria Sudeste, S&#x000e3;o Carlos, SP, Brasil, Embrapa Pecu&#x000e1;ria Sudeste, Empresa Brasileira de
+Pesquisa Agropecu&#x000e1;ria, S&#x000e3;o Carlos, SP, Brazil.</aff><author-notes><corresp id="c01">Send correspondence to K.B. Martins. Departamento de Microbiologia
+e Imunologia, Instituto de Bioci&#x000ea;ncias, Universidade Estadual Paulista "J&#x000fa;lio de
+Mesquita Filho", Botucatu, SP, Brazil. E-mail:
+<email>katheryne_bm@yahoo.com.br</email>.</corresp><fn id="fn01" fn-type="other"><p>Associate Editor: Odir Antonio Dellagostin</p></fn></author-notes><pub-date pub-type="epub"><day>01</day><month>6</month><year>2015</year></pub-date><pub-date pub-type="collection"><month>6</month><year>2015</year></pub-date><volume>46</volume><issue>2</issue><fpage>535</fpage><lpage>543</lpage><history><date date-type="received"><day>01</day><month>11</month><year>2013</year></date><date date-type="accepted"><day>07</day><month>10</month><year>2014</year></date></history><permissions><copyright-statement>Copyright &#x000a9; 2015, Sociedade Brasileira de
+Microbiologia</copyright-statement><copyright-year>2015</copyright-year><license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/3.0/"><license-p>All the content of the journal, except where otherwise noted, is
+licensed under a Creative Commons License CC BY-NC.</license-p></license></permissions><abstract><p>The objective of this study was to characterize the clonal profile, virulence
+factors and antimicrobial resistance, particularly oxacillin resistance, of
+<italic>Staphylococcus aureus</italic> isolated from sheep milk. Milk
+samples were collected from all teats for the California Mastitis Test (CMT),
+somatic cell count, identification of <italic>S. aureus</italic>, investigation
+in these strains of genes encoding toxins (<italic>sea</italic>,
+<italic>seb</italic>, <italic>sec</italic>, <italic>sed, tst</italic>),
+biofilm (<italic>icaA</italic>, <italic>icaC</italic>, <italic>icaD</italic>,
+<italic>bap</italic>), leukocidin (<italic>luk-PV</italic>) oxacillin
+resistance by <italic>mecA</italic> gene detection and susceptibility testing
+(12 antibiotics). Messenger RNA expression was evaluated by RT-PCR in isolates
+carrying toxin and biofilm genes. Biofilm formation was also evaluated
+phenotypically by adherence to polystyrene plates. The clonal profile of
+<italic>S. aureus</italic> was investigated by pulsed-field gel
+electrophoresis. A total of 473 milk samples were collected from 242 animals on
+three farms and 20 <italic>S. aureus</italic> strains were isolated and none
+carried the <italic>mecA</italic> gene. The two <italic>sec</italic>
+gene-positive isolates and the isolates carrying the <italic>tst</italic> and
+<italic>luk</italic>-<italic>PV</italic> genes were positive by RT-PCR.
+<italic>Staphylococcus aureus</italic> isolated from the three flocks
+studied showed high susceptibility to the drugs tested and none was biofilm
+producer, indicating that biofilm formation was not a virulence factor causing
+infection by these strains. The typing of 17 <italic>S. aureus</italic> isolates
+revealed the presence of a common clone on the three farms studied, and the
+presence and expression of the <italic>sec</italic> and <italic>tst</italic>
+genes in one strain of this clone suggest the possible acquisition of virulence
+genes by this clone, a fact that is important for animal health and food
+hygiene.</p></abstract><kwd-group><kwd>mastitis</kwd><kwd>sheep</kwd><kwd><italic>Staphylococcus aureus</italic></kwd><kwd>antibiotic resistance</kwd><kwd>virulence factors</kwd></kwd-group><counts><fig-count count="1"/><table-count count="4"/><equation-count count="0"/><ref-count count="43"/><page-count count="9"/></counts></article-meta></front><body><sec sec-type="intro"><title>Introduction</title><p>Mastitis is an inflammation of the mammary gland which is characterized by physical,
+chemical and microbiological alterations in milk and tissue abnormalities.
+Furthermore, the disease is associated with premature culling of ewes with udder
+abnormalities and reduced weight gain of lambs. In the study of <xref rid="B24" ref-type="bibr">Moroni <italic>et al.</italic> (2007)</xref>, the weight gain of
+lambs nursing dams without mastitis was higher than that of animals nursing ewes
+with subclinical mastitis. Among the latter, lambs nursing dams with subclinical
+infection caused by <italic>S. aureus</italic> showed lower weight gain than those
+nursing dams with mastitis caused by other infectious agents such as
+coagulase-negative staphylococci, streptococci, and Gram-negative bacteria.</p><p>In small ruminants such as sheep, coagulase-negative staphylococci are the
+microorganisms most frequently isolated from cases of subclinical mastitis (<xref rid="B07" ref-type="bibr">Bergonier <italic>et al.</italic>, 2003</xref>; <xref rid="B38" ref-type="bibr">Vautor <italic>et al.</italic>, 2009</xref>), whereas
+<italic>S. aureus</italic> can cause clinical and subclinical mastitis (<xref rid="B11" ref-type="bibr">Contreras <italic>et al.</italic>, 2007</xref>).
+<italic>S. aureus</italic> was the microorganism most frequently isolated from
+milk of Awassi sheep with subclinical mastitis, accounting for 39% of all isolates,
+followed by <italic>Streptococcus</italic> spp. (25%), <italic>Escherichia
+coli</italic> (19.6%), and coagulase-negative staphylococci (17.9%) (<xref rid="B03" ref-type="bibr">Al-Majali and Jawabreh, 2003</xref>). <xref rid="B33" ref-type="bibr">Santos <italic>et al.</italic> (2007)</xref> studied the
+clinical aspects and milk characteristics of 10 Santa In&#x000ea;s sheep with clinical
+mastitis after experimental inoculation of their mammary glands with <italic>S.
+aureus</italic>. The results showed a reduction in milk production and fat
+content, in addition to alterations in the physicochemical properties of milk. After
+treatment, although the animals had recovered from the disease, the function of
+their mammary glands was completely lost.</p><p>Mastitis caused by <italic>S. aureus</italic> can result in long-term infection and
+can become chronic, with a low rate of cure and consequent loss of milk production
+(<xref rid="B31" ref-type="bibr">Sabour <italic>et al.</italic>, 2004</xref>),
+since this microorganism possesses different virulence factors that contribute to
+its persistence in mammary tissue (<xref rid="B32" ref-type="bibr">Santos <italic>et
+al.</italic>, 2003</xref>). Different virulence factors such as
+enterotoxins, leukocidins and biofilms (<xref rid="B28" ref-type="bibr">Peacock
+<italic>et al.</italic>, 2002</xref>) are important since they contribute to
+aggravation of the disease and are a matter of public health. Biofilm formation
+permits adherence and colonization of the mammary gland epithelium (<xref rid="B27" ref-type="bibr">Otto, 2008</xref>), leukocidin causes tissues necrosis and
+leukocyte destruction, and enterotoxins can cause food poisoning (<xref rid="B05" ref-type="bibr">Argud&#x000ed;n <italic>et al.</italic>, 2010</xref>).</p><p>In addition to virulence, a major concern in the control of mastitis is resistance of
+the etiological agents to antibiotics. Therapeutic success is compromised by the
+growing number of strains resistant to drugs used indiscriminately in veterinary
+medicine. Staphylococcal resistance to methicillin is associated with the
+acquisition of the staphylococcal cassette chromosome <italic>mec</italic>
+(SCC<italic>mec</italic>), a resistance island consisting of the structural
+gene, <italic>mecA</italic>. <italic>S. aureus</italic> strains carrying this gene
+are classified as methicillin (oxacillin)-resistant <italic>S. aureus</italic>
+(MRSA). These strains are frequently resistant to most antimicrobial agents,
+including aminoglycosides, macrolides, chloramphenicol, tetracycline, and
+fluoroquinolones (<xref rid="B41" ref-type="bibr">Wang <italic>et al.</italic>,
+2008</xref>; <xref rid="B20" ref-type="bibr">Kumar <italic>et al.</italic>,
+2010</xref>).</p><p>Therefore, the objective of the present study was to characterize the clonal profile,
+virulence factors and antibiotic resistance of <italic>S. aureus</italic> isolated
+from raw milk of sheep with subclinical mastitis.</p></sec><sec sec-type="materials|methods"><title>Materials and Methods</title><sec><title>Origin of the isolates</title><p>Milk samples were collected from each teat of 242 sheep belonging to the
+following experimental flocks: 37 from the flock of Instituto de Zootecnia, Nova
+Odessa, 150 from the flock of Embrapa Pecu&#x000e1;ria Sudeste, S&#x000e3;o Carlos, and 55 from
+the Edgardia Farm, Faculdade de Medicina Veterin&#x000e1;ria e Zootecnia, Botucatu. All
+facilities are located in the State of S&#x000e3;o Paulo, Brazil. The flocks from S&#x000e3;o
+Carlos and Nova Odessa were Santa In&#x000ea;s sheep and those from Botucatu were
+Bergamacia sheep. Milk samples were collected from all animals for
+microbiological tests for the isolation of <italic>S. aureus</italic>.</p><p>Screening for subclinical cases was performed immediately before the collection
+of milk samples for the microbiological diagnosis of mastitis by the California
+Mastitis Test (CMT) according to the technique of <xref rid="B34" ref-type="bibr">Schalm and Noorlander (1957)</xref>. Samples were also
+collected for somatic cell count (SCC) into flasks containing bronopol for
+counting in an electronic Somacount 300 (Bentley Instruments<sup>&#x000ae;</sup>).
+Mammary glands with a positive reaction in the CMT or SCC &#x0003e; 3.0 &#x000d7;
+10<sup>5</sup> cells/mL milk (<xref rid="B23" ref-type="bibr">McDougall
+<italic>et al.</italic>, 2001</xref>) and that were bacteriologically
+positive were classified as subclinical mastitis.</p></sec><sec><title>Isolation and identification of <italic>S. aureus</italic>
+</title><p>The milk samples were cultured on blood agar at 37 &#x000b0;C for 72 h. Suspected
+bacterial colonies were stained by the Gram method for inspection of morphology.
+Colonies characterized as Gram-positive cocci were submitted to catalase and
+coagulase tests. The genus <italic>Staphylococcus</italic> was differentiated
+from <italic>Micrococcus</italic> based on the oxidation and fermentation of
+glucose, resistance to bacitracin (0.04 U), and susceptibility to furazolidone
+(100 mg). <italic>S. aureus</italic> was identified based on the fermentation of
+maltose, trehalose, and mannitol (<xref rid="B14" ref-type="bibr">Cunha
+<italic>et al.</italic>, 2004</xref>).</p></sec><sec><title>Antimicrobial susceptibility testing</title><p>Twenty <italic>S. aureus</italic> isolates were submitted to <italic>in
+vitro</italic> susceptibility testing by the disk diffusion method according
+to the guidelines of the <xref rid="B10" ref-type="bibr">Clinical Laboratory
+Standard Institute (2012)</xref>. The following 12 antibiotics were tested:
+rifampicin (5 &#x003bc;g), linezolid (30 &#x003bc;g), vancomycin (30 &#x003bc;g), clindamycin (2 &#x003bc;g),
+erythromycin (15 &#x003bc;g), penicillin (10 UI), oxacillin (1 &#x003bc;g), cefoxitin (30 &#x003bc;g),
+tetracycline (30 &#x003bc;g), gentamicin (10 &#x003bc;g), ciprofloxacin (5 &#x003bc;g), and
+cotrimoxazole (25 &#x003bc;g).</p></sec><sec><title>DNA extraction and amplification by PCR for detection of the
+<italic>mecA</italic>, biofilm (<italic>icaADBC</italic> and
+<italic>bap</italic>) and exotoxin genes (<italic>sea</italic>,
+<italic>seb</italic>, <italic>sec</italic>, <italic>sed</italic>,
+<italic>tst and luk-PV</italic>)</title><p>Total nucleic acid was extracted from Staphylococcus spp. strains cultured on
+blood agar, inoculated individually into brain-heart infusion (BHI) broth, and
+incubated for 24 h at 37 &#x000b0;C. The Illustra<sup>&#x000ae;</sup> kit (GE Healthcare) was
+used for extraction. Briefly, staphylococcal cells were first digested with 10
+mg/mL lysozyme and 20 mg/mL proteinase K. Next, 500 &#x003bc;L lysis solution was added
+and the mixture was centrifuged at 5,000 &#x000d7; <italic>g</italic> for 1 min. The
+supernatant was transferred to a column and centrifuged at 11,000 &#x000d7;
+<italic>g</italic> for 1 min. The liquid part was discarded and 500 &#x003bc;L lysis
+solution was again added to the column. After centrifugation at 11,000 &#x000d7;
+<italic>g</italic> for 1 min and discarding the liquid part, 500 &#x003bc;L washing
+solution was added and the column was centrifuged at 11,000 &#x000d7; <italic>g</italic>
+for 3 min. Next, the column was transferred to a 1.5-mL tube and 200 &#x003bc;L Milli-Q
+water (Millipore, Eschborn, Germany) heated to 70 &#x000b0;C was used for elution. The
+samples were centrifuged at 5,000 &#x000d7; <italic>g</italic> for 1 min and the column
+was discarded. The extracted DNA was stored at &#x02212;20 &#x000b0;C. For detection of the
+<italic>mecA</italic>, biofilm (<italic>icaADBC</italic>,
+<italic>bap</italic>) and exotoxin genes (<italic>sea</italic>,
+<italic>seb</italic>, <italic>sec</italic>, <italic>sed</italic>,
+<italic>tst and luk-PV</italic>), the primers shown in <xref rid="t01" ref-type="table">Table 1</xref> and the parameters recommended by the
+respective authors were used: <xref rid="B25" ref-type="bibr">Murakami
+<italic>et al.</italic> (1991)</xref>, <xref rid="B30" ref-type="bibr">Rohde <italic>et al.</italic> (2007)</xref>, <xref rid="B04" ref-type="bibr">Arciola <italic>et al.</italic> (2005)</xref>, <xref rid="B12" ref-type="bibr">Cucarella <italic>et al.</italic> (2001)</xref>,
+<xref rid="B18" ref-type="bibr">Johnson <italic>et al.</italic>
+(1991)</xref>, and <xref rid="B21" ref-type="bibr">Lina <italic>et
+al.</italic> (1999)</xref>.</p><table-wrap id="t01" orientation="portrait" position="float"><label>Table 1</label><caption><title>Primers used for PCR.</title></caption><table frame="hsides" rules="groups"><thead><tr><th valign="bottom" align="left" rowspan="1" colspan="1">Gene</th><th valign="bottom" align="left" rowspan="1" colspan="1">5&#x02032;-3&#x02032; Nucleotide sequence</th><th valign="bottom" align="center" rowspan="1" colspan="1">Amplification product (bp)</th><th valign="bottom" align="left" rowspan="1" colspan="1">Reference</th></tr></thead><tbody><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>icaA</italic>
+</td><td valign="top" align="left" rowspan="1" colspan="1">TGG CTG TAT TAA GCG AAG TC</td><td valign="top" align="center" rowspan="1" colspan="1">669</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="B30" ref-type="bibr">Rohde <italic>et al</italic>.,
+2007</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1">CCT CTG TCT GGG CTT GAC C</td><td valign="top" align="center" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1"/></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>icaC</italic>
+</td><td valign="top" align="left" rowspan="1" colspan="1">TAA CTT TAG GCG CAT ATG TTT</td><td valign="top" align="center" rowspan="1" colspan="1">400</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="B04" ref-type="bibr">Arciola <italic>et al</italic>.,
+2005</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1">TTC CAG TTA GGC TGG TAT TG</td><td valign="top" align="center" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1"/></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>icaD</italic>
+</td><td valign="top" align="left" rowspan="1" colspan="1">ATG GTC AAG CCC AGA CAG AG</td><td valign="top" align="center" rowspan="1" colspan="1">198</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="B04" ref-type="bibr">Arciola <italic>et al</italic>.,
+2005</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1">CGTGTTTTCAACATTTAATGCAA</td><td valign="top" align="center" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1"/></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>icaB</italic>
+</td><td valign="top" align="left" rowspan="1" colspan="1">CTGATCAAGAATTTAAATCACAAA</td><td valign="top" align="center" rowspan="1" colspan="1">302</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="B04" ref-type="bibr">Arciola <italic>et al</italic>.,
+2005</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1">AAA GTC CCA TAA GCC TGT TT</td><td valign="top" align="center" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1"/></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>bap</italic>
+</td><td valign="top" align="left" rowspan="1" colspan="1">CCC TAT ATC GAA GGT GTA GAA TTG
+CAC</td><td valign="top" align="center" rowspan="1" colspan="1">971</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="B12" ref-type="bibr">Cucarella <italic>et
+al</italic>., 2001</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1">GCT GTT GAA GTT AAT ACT GTA CCT
+GC</td><td valign="top" align="center" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1"/></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>bap</italic>
+</td><td valign="top" align="left" rowspan="1" colspan="1">CCC TAT ATC GAA GGT GTA GAA TTG
+CAC</td><td valign="top" align="center" rowspan="1" colspan="1">971</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="B12" ref-type="bibr">Cucarella <italic>et
+al</italic>., 2001</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1">GCT GTT GAA GTT AAT ACT GTA CCT
+GC</td><td valign="top" align="center" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1"/></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>sea</italic>
+</td><td valign="top" align="left" rowspan="1" colspan="1">TTG GAA ACG GTT AAA ACG AA</td><td valign="top" align="center" rowspan="1" colspan="1">120</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="B18" ref-type="bibr">Johnson <italic>et al</italic>.,
+1991</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1">GAA CCT TCC CAT CAA AAA CA</td><td valign="top" align="center" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1"/></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>seb</italic>
+</td><td valign="top" align="left" rowspan="1" colspan="1">TCG CAT CAA ACT GAC AAA CG</td><td valign="top" align="center" rowspan="1" colspan="1">478</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="B18" ref-type="bibr">Johnson <italic>et al</italic>.,
+1991</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1">GCA GGT ACT CTA TAA GTG CC</td><td valign="top" align="center" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1"/></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>sec</italic>
+</td><td valign="top" align="left" rowspan="1" colspan="1">GAC ATA AAA GCT AGG AAT TT</td><td valign="top" align="center" rowspan="1" colspan="1">257</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="B18" ref-type="bibr">Johnson <italic>et al</italic>.,
+1991</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1">AAA TCG GAT TAA CAT TAT CC</td><td valign="top" align="center" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1"/></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>sed</italic>
+</td><td valign="top" align="left" rowspan="1" colspan="1">CTA GTT TGG TAA TAT CTC CT</td><td valign="top" align="center" rowspan="1" colspan="1">317</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="B18" ref-type="bibr">Johnson <italic>et al.,</italic>
+1991</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1">TAA TGC TAT ATC TTA TAG GG</td><td valign="top" align="center" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1"/></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>tst</italic>
+</td><td valign="top" align="left" rowspan="1" colspan="1">ATG GCA GCA TCA GCT TGA TA</td><td valign="top" align="center" rowspan="1" colspan="1">350</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="B18" ref-type="bibr">Johnson <italic>et al.</italic>,
+1991</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1">TTT CCA ATA ACC ACC CGT TT</td><td valign="top" align="center" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1"/></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>luk</italic>-PVL</td><td valign="top" align="left" rowspan="1" colspan="1">ATC ATT AGG TAA AAT GTC TGG ACA TGA
+TCC</td><td valign="top" align="center" rowspan="1" colspan="1">433</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="B21" ref-type="bibr">Lina <italic>et al</italic>.,
+1999</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1">GCA TCA ATT GTA TTG GAT AGC AAA
+AGC</td><td valign="top" align="center" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1"/></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>mecA</italic>
+</td><td valign="top" align="left" rowspan="1" colspan="1">ATC GAT GGT AAA GGT TGG</td><td valign="top" align="center" rowspan="1" colspan="1">533</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="B25" ref-type="bibr">Murakami <italic>et
+al</italic>., 1991</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1">AGT TCT GCA GTA CCG GAT TTG</td><td valign="top" align="center" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1"/></tr></tbody></table></table-wrap><p>The agarose gels were prepared at a concentration of 2% in 1X TBE, stained with
+SYBR Safe DNA Gel Stain<sup>&#x000ae;</sup> (Invitrogen), and visualized under a UV
+transilluminator. Reactions that amplified fragments larger than 1,000 bp were
+submitted to electrophoresis on 0.8% agarose gel.</p></sec><sec><title>Confirmation of the expression of virulence factors</title><p>The expression of the genes encoding enterotoxin A, B, C, D or toxic shock
+syndrome toxin 1 (TSST-1), biofilm genes (<italic>icaADBC</italic> and
+<italic>bap</italic>) and <italic>luk-PV</italic> in the <italic>S.
+aureus</italic> isolates in which these genes were amplified by PCR was
+confirmed by RT-PCR as described below.</p><sec><title>RNA extraction</title><p>Total RNA was extracted from <italic>S. aureus</italic> cultured on blood
+agar, inoculated individually into BHI broth, and incubated for 24 h at 37
+&#x000b0;C. The Illustra RNAspin Mini RNA kit was used for extraction according to
+manufacturer instructions. For this purpose, 200 &#x003bc;L of the <italic>S.
+aureus</italic> culture was transferred to a sterile 1.5-mL Eppendorf
+tube and centrifuged at 10,000 &#x000d7; <italic>g</italic> for 1 min. Next, the
+supernatant was discarded, 100 &#x003bc;L TE containing 2 mg/mL lysozyme was added,
+and the mixture was incubated for 10 min at 37 &#x000b0;C. For cell lysis, 350 &#x003bc;L
+RA1 buffer was added together with 3.5 &#x003bc;L &#x003b2;-mercaptoethanol. The solution
+was applied to RNAspin Mini Filter units and centrifuged at 11,000 &#x000d7;
+<italic>g</italic> for 1 min. The filters were discarded after
+centrifugation. For adjustment of the binding conditions, 350 &#x003bc;L 70% ethanol
+was added to the filtrate and the mixture was transferred to an RNAspin Mini
+Column and centrifuged at 8,000 &#x000d7; <italic>g</italic> for 30 s. For
+adsorption of RNA to the membrane, 350 &#x003bc;L membrane desalting buffer was
+added and the mixture was centrifuged at 11,000 &#x000d7; <italic>g</italic> for 1
+min. The samples were then washed in two steps. First, 600 &#x003bc;L RA3 buffer was
+added and the column was centrifuged at 11,000 &#x000d7; <italic>g</italic> for 1
+min. For the second wash, 250 &#x003bc;L RA3 buffer was added and the column was
+centrifuged at 11,000 &#x000d7; <italic>g</italic> for 2 min. The column was then
+transferred to a new 1.5-mL Eppendorf tube for the elution of RNA. For this
+purpose, 45 &#x003bc;L RNA-free water containing 5 &#x003bc;L guard RNA was added and the
+column was centrifuged at 11,000 &#x000d7; <italic>g</italic> for 1 min. DNase
+treatment for complete elimination of possible DNA residues consisted of the
+addition of 2 &#x003bc;L buffer and 2 &#x003bc;L DNase and incubation of the mixture for 1 h
+at 37 &#x000b0;C. Next, 2 &#x003bc;L Stop DNase was added and the mixture was incubated for
+10 min at 65 &#x000b0;C for the inhibition of DNase. The extracted RNA was
+immediately stored at &#x02212;80 &#x000b0;C.</p></sec><sec><title>Preparation of cDNA</title><p>Two mixtures were prepared (Mix 1 and Mix 2). For Mix 1, 14 &#x003bc;L RNA (divided
+into aliquots and treated with DNase), 1 &#x003bc;L dNTP, and 4 &#x003bc;L nuclease-free
+water were used (extraction kit). For Mix 2, 4 &#x003bc;L 5X First-Strand Buffer, 1
+&#x003bc;L DTT (0.1 M), and 1 &#x003bc;L SuperScript III (200 U/&#x003bc;L) were used. Mix 1 was
+incubated in a thermocycler for 5 min at 65 &#x000b0;C, removed from the
+thermocycler, and immediately put on ice for approximately 5 min. Next, Mix
+2 (6 &#x003bc;L) was added and the sample was again placed in the thermocycler and
+the program was continued with 30 cycles at 65 &#x000b0;C for 5 min, 25 &#x000b0;C for 5
+min, 50 &#x000b0;C for 60 min, 70 &#x000b0;C for 15 min, and finished at 20 &#x000b0;C. The cDNA was
+then frozen at &#x02212;80 &#x000b0;C.</p></sec><sec><title>PCR amplification of cDNA</title><p>The cDNA obtained was submitted to RT-PCR to determine the expression of
+toxin and biofilm genes using the primers described in <xref rid="t01" ref-type="table">Table 1</xref>. The amplified products were visualized
+by electrophoresis as described in item 2.4.</p></sec></sec><sec><title>Investigation of biofilm formation by adherence to polystyrene plates (<xref rid="B09" ref-type="bibr">Christensen <italic>et al.</italic>, 1985</xref>)
+modified by <xref rid="B26" ref-type="bibr">Oliveira and Cunha
+(2010)</xref>
+</title><p>The method of biofilm formation on culture plates proposed by <xref rid="B09" ref-type="bibr">Christensen <italic>et al.</italic> (1985)</xref> and
+modified by <xref rid="B26" ref-type="bibr">Oliveira and Cunha (2010)</xref> was
+used. This method is based on the spectrophotometric determination of the
+optical density of the adherent material produced by the bacteria.</p><p>Cultures grown in TSB for 24 h and subsequently diluted 1:1 in TSB prepared with
+2% glucose were used. The tests were carried out in 96-well flat-bottom plates
+(Costar, model 3599, Corning). The wells were filled in quadruplicate with 200
+&#x003bc;L of the diluted culture. The following international reference strains were
+included in all tests: <italic>S. aureus</italic> ATCC 29213 (biofilm producer)
+as positive control and ATCC 33591 (non-producer) as negative control, and
+<italic>S. epidermidis</italic> ATCC 35983 (biofilm producer) as positive
+control and ATCC 12228 (non-producer) as negative control, as well as sterile
+TSB. The plates were incubated for 24 h at 37 &#x000b0;C. After this period, the content
+of each well was carefully aspirated with a multichannel pipette and the wells
+were washed four times with 200 &#x003bc;L phosphate-buffer saline, pH 7.2. The plates
+were dried at room temperature for 1 h. Next, the wells were stained with 2%
+crystal violet for one minute, the volume was aspirated, and excess dye was
+removed by washing the plates with distilled water using a multichannel pipette.
+The plates were then dried at room temperature for 60 min and optical density
+was read in a Labsystem Multiskan EX microplate reader equipped with a 540-nm
+filter. The strains were classified as negative when the cut-off value
+corresponded to the classification of non-adherent, and as positive when the
+cut-off value corresponded to the classification of weakly or strongly
+adherent.</p></sec><sec><title>Pulsed-field gel electrophoresis (PFGE)</title><p>PFGE of the <italic>S. aureus</italic> isolates was done according to a
+modification of the protocol of <xref rid="B22" ref-type="bibr">McDougal
+<italic>et al.</italic> (2003)</xref>. In a previously weighed
+microtube, 0.5 mL of an overnight culture of <italic>S. aureus</italic> was
+centrifuged at 12,000 rpm for 50 s. After discarding the supernatant, the
+microtube was weighed again and 300 &#x003bc;L TE (10 mM Tris, 1 mM EDTA, pH 8.0) plus
+the difference between the final and initial weight in mL were added. The
+samples were left to stand in a water bath for 10 min at 37 &#x000b0;C. After
+homogenization, 5 &#x003bc;L lysostaphin (1 mg/mL in 20 mM sodium acetate, pH 4.5) and
+300 &#x003bc;L low-melting agarose were added. The mixtures were poured into plug molds
+and the plugs were allowed to solidify. The plugs were then placed in 2 mL EC
+solution (6 mM Tris-HCl, 1 M NaCl, 100 mM EDTA, 0.5% Brij-58, 0.2% sodium
+deoxycholate, 0.5% sodium lauryl sarcosinate) and incubated at 37 &#x000b0;C for at
+least 4 h. The EC solution was discarded and the plugs were washed four times
+with 2 mL TE for 30 min at room temperature.</p><p>Genomic DNA was restricted with <italic>Sma</italic>I (Fast Digest
+SmaI<sup>&#x000ae;</sup>, Fermentas Life Science, Canada) in 50 &#x003bc;L restriction
+buffer using half the plug. Electrophoresis was carried out in a CHEF-DR III
+System<sup>&#x000ae;</sup> (BioRad Laboratories, USA) using 1% agarose gel (Pulsed
+Field Certified Agarose, BioRad Laboratories, USA) prepared in 0.5X TBE under
+the following running conditions: pulse time of 5 to 40 s for 21 h; linear ramp;
+6 V/cm; angle of 120&#x000b0;; 14&#x000b0;C; 0.5X TBE as running buffer. The Lambda Ladder PFG
+Marker<sup>&#x000ae;</sup> (New England BioLabs) was used as molecular marker. The
+gels were stained with GelRed<sup>&#x000ae;</sup> (10,000X in water, Biotium, USA) for
+45 min and photographed under UV transillumination. For analysis of similarity,
+the Dice correlation coefficient was calculated and a dendrogram was constructed
+by the UPGMA method (unweighted pair group method using arithmetic averages)
+using the BioNumerics<sup>&#x000ae;</sup> software (version 6.1; Applied Maths,
+Belgium).</p></sec></sec><sec sec-type="results"><title>Results</title><p>Microorganisms were detected in 169 (35.7%) of the 473 milk samples collected from
+the 242 animals included in the study. Twenty (11.8%) of the microorganisms isolated
+were identified as <italic>S. aureus</italic>, including 18 (90%) strains isolated
+from cases of subclinical mastitis and only two (10%) from animals without mastitis.
+Four of the 20 strains were isolated in the flock from Botucatu, two in the flock
+from Nova Odessa, and 14 in the flock from S&#x000e3;o Carlos.</p><sec><title>Antimicrobial resistance</title><p>The <italic>mecA</italic> gene was not detected in any of the <italic>S.
+aureus</italic> strains and most isolates were susceptible to all
+antimicrobial agents tested, except for one strain that was resistant to
+tetracycline.</p></sec><sec><title>Toxin detection</title><p>Seven (35%) of the <italic>S. aureus</italic> isolates carried one or more
+exotoxin genes (<xref rid="t02" ref-type="table">Table 2</xref>). Three (15%) of
+these seven strains that tested positive by PCR for exotoxin genes were positive
+by RT-PCR. One isolate carrying the <italic>sec</italic>+<italic>tst</italic>
+genes expressed the two genes concomitantly, one isolate carrying the
+<italic>sea</italic>+<italic>seb</italic>+<italic>luk-PV</italic> genes
+expressed only the luk-PV gene, and the third isolate positive for the
+<italic>sea</italic>+<italic>sec</italic> genes expressed only the
+<italic>sec</italic> gene.</p><table-wrap id="t02" orientation="portrait" position="float"><label>Table 2</label><caption><title>Detection and expression of exotoxin genes.</title></caption><table frame="hsides" rules="groups"><thead><tr><th valign="bottom" align="left" rowspan="1" colspan="1">Gene/expression</th><th valign="bottom" align="center" rowspan="1" colspan="1">PCR N (%)</th><th valign="bottom" align="center" rowspan="1" colspan="1">RT-PCR N (%)</th></tr></thead><tbody><tr><td valign="top" align="left" rowspan="1" colspan="1">sea+<italic>seb</italic>+<italic>luk-PV/</italic>PVL</td><td valign="top" align="center" rowspan="1" colspan="1">1 (5.0)</td><td valign="top" align="center" rowspan="1" colspan="1">1 (5.0)</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>sea+seb</italic>
+</td><td valign="top" align="center" rowspan="1" colspan="1">2 (10.0)</td><td valign="top" align="center" rowspan="1" colspan="1">0</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>sec</italic>+tst/SEC+TSST-1</td><td valign="top" align="center" rowspan="1" colspan="1">1 (5.0)</td><td valign="top" align="center" rowspan="1" colspan="1">1 (5.0)</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>sea+sec/</italic>SEC</td><td valign="top" align="center" rowspan="1" colspan="1">1 (5.0)</td><td valign="top" align="center" rowspan="1" colspan="1">1 (5.0)</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">Total</td><td valign="top" align="center" rowspan="1" colspan="1">7 (35.0)</td><td valign="top" align="center" rowspan="1" colspan="1">3 (15.0)</td></tr></tbody></table><table-wrap-foot><fn id="TFN01"><p>
+<italic>sea</italic>, <italic>seb</italic>, <italic>sec</italic>,
+<italic>tst</italic>, <italic>luk-pv</italic>: presence of the
+genes encoding toxins A, B, C, TSST-1, and Panton-Valentine
+leukocidin (PVL). PVL, TSST-1 and SEC: Toxin expression. N: number
+of isolates; %: percentage of isolates.</p></fn></table-wrap-foot></table-wrap></sec><sec><title>Biofilm detection</title><p>With respect to biofilm genes (<xref rid="t03" ref-type="table">Table 3</xref>),
+the complete <italic>icaADBC</italic> operon was detected in one of the
+isolates. The <italic>icaA</italic> + <italic>icaD</italic> +
+<italic>icaB</italic> were concomitantly present in five isolates,
+<italic>icaA + icaD</italic> in six isolates, three isolates only carried
+the <italic>icaD</italic> gene, and one isolate only carried the
+<italic>icaB</italic> gene. The <italic>bap</italic> gene was detected in
+four (20%) isolates, but none of the strains expressed this gene.</p><table-wrap id="t03" orientation="portrait" position="float"><label>Table 3</label><caption><title>Detection and expression of biofilm genes.</title></caption><table frame="hsides" rules="groups"><thead><tr><th valign="bottom" align="left" rowspan="1" colspan="1">Genes</th><th valign="bottom" align="center" rowspan="1" colspan="1">PCR N (%)</th><th valign="bottom" align="center" rowspan="1" colspan="1">RT-PCRN (%)</th></tr></thead><tbody><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>icaADBC</italic>
+</td><td valign="top" align="center" rowspan="1" colspan="1">1 (5.0)</td><td valign="top" align="center" rowspan="1" colspan="1">0</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>icaA+ icaD + icaB</italic>
+</td><td valign="top" align="center" rowspan="1" colspan="1">5 (25.0)</td><td valign="top" align="center" rowspan="1" colspan="1">0</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>icaA + icaD</italic>
+</td><td valign="top" align="center" rowspan="1" colspan="1">3 (15.0)</td><td valign="top" align="center" rowspan="1" colspan="1">0</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>icaA + icaD + bap</italic>
+</td><td valign="top" align="center" rowspan="1" colspan="1">3 (15.0)</td><td valign="top" align="center" rowspan="1" colspan="1">0</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>icaD+bap</italic>
+</td><td valign="top" align="center" rowspan="1" colspan="1">1 (5.0)</td><td valign="top" align="center" rowspan="1" colspan="1">0</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>icaD</italic>
+</td><td valign="top" align="center" rowspan="1" colspan="1">3 (15.0)</td><td valign="top" align="center" rowspan="1" colspan="1">0</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>icaB</italic>
+</td><td valign="top" align="center" rowspan="1" colspan="1">1 (5.0)</td><td valign="top" align="center" rowspan="1" colspan="1">0</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">Total</td><td valign="top" align="center" rowspan="1" colspan="1">17 (85.0)</td><td valign="top" align="center" rowspan="1" colspan="1">0</td></tr></tbody></table><table-wrap-foot><fn id="TFN02"><p>
+<italic>icaA</italic>, <italic>icaD</italic>, <italic>icaB</italic>,
+<italic>icaC</italic>, <italic>bap</italic>: biofilm genes; N:
+number of isolates; %: percentage of isolates.</p></fn></table-wrap-foot></table-wrap><p>None of the isolates exhibited a positive result in the phenotypic test of
+biofilm formation on polystyrene plates.</p></sec><sec><title>Typing</title><p>Molecular typing by PFGE was performed on only 17 strains since three isolates
+from the S&#x000e3;o Carlos flock could not be typed. PFGE (<xref rid="f01" ref-type="fig">Figure 1</xref>) revealed the presence of two clones, a
+larger one (clone 1) comprising 10 isolates (one from Nova Odessa, five from S&#x000e3;o
+Carlos, and four from Botucatu) and a smaller one (clone 2) comprising only two
+isolates from S&#x000e3;o Carlos. The remaining five isolates (one from Nova Odessa and
+four from S&#x000e3;o Carlos) exhibited a polyclonal profile.</p><fig id="f01" orientation="portrait" position="float"><label>Figure 1</label><caption><title>Dendrogram generated by Dice analysis/UPGMA (Bionumerics, Applied
+Maths) of the <italic>Sma</italic>I PFGE profiles of 17 <italic>S.
+aureus</italic> isolates (similarity &#x02265; 80%).</title></caption><graphic xlink:href="1517-8382-bjm-46-2-535-gf01"/></fig><p>With respect to virulence factors (<xref rid="t04" ref-type="table">Table
+4</xref>), in clone 1 (10 isolates) only one strain carried an enterotoxin
+gene and the TSST-1 gene and expressed the two genes. The <italic>bap</italic>
+gene was detected in one isolate and the <italic>icaB</italic> gene of the
+<italic>icaADBC</italic> operon was detected in five isolates, but no
+expression of these genes related to biofilm formation was observed.</p><table-wrap id="t04" orientation="portrait" position="float"><label>Table 4</label><caption><title>Characteristics of the <italic>S. aureus</italic> clones isolated
+from sheep milk samples.</title></caption><table frame="hsides" rules="groups"><thead><tr><th valign="top" align="left" rowspan="1" colspan="1">Clone</th><th valign="top" align="center" rowspan="1" colspan="1">Toxin gene</th><th valign="top" align="center" rowspan="1" colspan="1">Toxin expression</th><th valign="top" align="center" rowspan="1" colspan="1">Biofilm genes</th><th valign="top" align="center" rowspan="1" colspan="1">Biofilm expression</th></tr></thead><tbody><tr><td valign="top" align="left" rowspan="1" colspan="1">1 (10 isolates)</td><td valign="top" align="center" rowspan="1" colspan="1">
+<italic>sea</italic> (0)</td><td valign="top" align="center" rowspan="1" colspan="1">SEA (0)</td><td valign="top" align="center" rowspan="1" colspan="1">
+<italic>icaA</italic> (9)</td><td valign="top" align="center" rowspan="1" colspan="1">
+<italic>icaA</italic> (0)</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="center" rowspan="1" colspan="1">
+<italic>seb</italic> (0)</td><td valign="top" align="center" rowspan="1" colspan="1">SEB (0)</td><td valign="top" align="center" rowspan="1" colspan="1">
+<italic>icaD</italic> (10)</td><td valign="top" align="center" rowspan="1" colspan="1">
+<italic>icaD</italic> (0)</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="center" rowspan="1" colspan="1">
+<italic>sec</italic> (1)</td><td valign="top" align="center" rowspan="1" colspan="1">SEC (1)</td><td valign="top" align="center" rowspan="1" colspan="1">
+<italic>icaB</italic> (5)</td><td valign="top" align="center" rowspan="1" colspan="1">
+<italic>icaB</italic> (0)</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="center" rowspan="1" colspan="1">
+<italic>sed</italic> (0)</td><td valign="top" align="center" rowspan="1" colspan="1">SED (0)</td><td valign="top" align="center" rowspan="1" colspan="1">
+<italic>icaC</italic> (0)</td><td valign="top" align="center" rowspan="1" colspan="1">
+<italic>icaC</italic> (0)</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="center" rowspan="1" colspan="1">
+<italic>tst</italic> (1)</td><td valign="top" align="center" rowspan="1" colspan="1">TSST-1 (1)</td><td valign="top" align="center" rowspan="1" colspan="1">
+<italic>bap</italic> (1)</td><td valign="top" align="center" rowspan="1" colspan="1">
+<italic>bap</italic> (0)</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="center" rowspan="1" colspan="1">
+<italic>luk</italic>-PV (0)</td><td valign="top" align="center" rowspan="1" colspan="1">PVL (0)</td><td valign="top" align="center" rowspan="1" colspan="1"/><td valign="top" align="center" rowspan="1" colspan="1"/></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">2 (2 isolates)</td><td valign="top" align="center" rowspan="1" colspan="1">
+<italic>sea</italic> (0)</td><td valign="top" align="center" rowspan="1" colspan="1">SEA (0)</td><td valign="top" align="center" rowspan="1" colspan="1">
+<italic>icaA</italic> (2)</td><td valign="top" align="center" rowspan="1" colspan="1">
+<italic>icaA</italic> (0)</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="center" rowspan="1" colspan="1">
+<italic>seb</italic> (0)</td><td valign="top" align="center" rowspan="1" colspan="1">SEB (0)</td><td valign="top" align="center" rowspan="1" colspan="1">
+<italic>icaD</italic> (2)</td><td valign="top" align="center" rowspan="1" colspan="1">
+<italic>icaD</italic> (0)</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="center" rowspan="1" colspan="1">
+<italic>sec</italic> (0)</td><td valign="top" align="center" rowspan="1" colspan="1">SEC (0)</td><td valign="top" align="center" rowspan="1" colspan="1">
+<italic>icaB</italic> (0)</td><td valign="top" align="center" rowspan="1" colspan="1">
+<italic>icaB</italic> (0)</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="center" rowspan="1" colspan="1">
+<italic>sed</italic> (0)</td><td valign="top" align="center" rowspan="1" colspan="1">SED (0)</td><td valign="top" align="center" rowspan="1" colspan="1">
+<italic>icaC</italic> (0)</td><td valign="top" align="center" rowspan="1" colspan="1">
+<italic>icaC</italic> (0)</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="center" rowspan="1" colspan="1">
+<italic>tst</italic> (0)</td><td valign="top" align="center" rowspan="1" colspan="1">TSST-1 (0)</td><td valign="top" align="center" rowspan="1" colspan="1">
+<italic>bap</italic> (2)</td><td valign="top" align="center" rowspan="1" colspan="1">
+<italic>bap</italic> (0)</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="center" rowspan="1" colspan="1">
+<italic>luk</italic>-PV (0)</td><td valign="top" align="center" rowspan="1" colspan="1">PVL (0)</td><td valign="top" align="center" rowspan="1" colspan="1"/><td valign="top" align="center" rowspan="1" colspan="1"/></tr></tbody></table></table-wrap><p>None of the toxin genes studied was detected in clone 2 (two isolates). Regarding
+the genes for biofilm formation, only the <italic>bap</italic> gene was detected
+in two isolates by PCR, but not by RT-PCR. The genes of the
+<italic>icaADBC</italic> operon were not detected in any of the isolates by
+RT-PCR.</p><p>With respect to the virulence of <italic>S. aureus</italic> isolated from
+different flocks, it is important to highlight the detection of the
+<italic>sea</italic> + <italic>sec</italic> and <italic>sec + tst</italic>
+genes in two strains isolated from the farm in Nova Odessa, with the expression
+of SEC and TSST-1 being confirmed by RT-PCR (<xref rid="f01" ref-type="fig">Figure 1</xref>). In the flock from S&#x000e3;o Carlos, the
+<italic>luk</italic>-<italic>PV</italic> gene was detected and expressed in
+one isolate. Additionally, four <italic>bap</italic> gene-positive isolates were
+from this farm and one isolate carried the complete <italic>icaADBC</italic>
+operon. No toxigenic <italic>S. aureus</italic> strains were isolated from the
+farm in Botucatu; however, the <italic>icaADC</italic> genes were detected in
+four strains isolated from animals of this flock.</p></sec></sec><sec sec-type="discussion"><title>Discussion</title><p>
+<italic>S. aureus</italic> is a versatile microorganism that causes infection in
+different hosts. Moreover, this bacterium is one of the most important pathogens in
+the etiology of infectious mastitis in cows, goats, and sheep, causing chronic
+infection of the mammary tissue that is difficult to treat (<xref rid="B02" ref-type="bibr">Aires-de-Souza <italic>et al.</italic>, 2007</xref>). In the
+present study, <italic>S. aureus</italic> was identified in 20 (11.8%) milk samples
+collected from sheep with subclinical mastitis.</p><p>The <italic>mecA</italic> gene was not detected in any of the <italic>S.
+aureus</italic> strains studied. <xref rid="B39" ref-type="bibr">Vyletelov&#x000e1;
+<italic>et al.</italic> (2011)</xref> also did not find the
+<italic>mecA</italic> gene in <italic>S. aureus</italic> strains isolated from
+sheep milk, whereas the gene was detected in 20 (6.1%) <italic>S. aureus</italic>
+strains isolated from cow milk. According to <xref rid="B42" ref-type="bibr">Zafalon
+<italic>et al.</italic> (2012)</xref>, <italic>S. aureus</italic> strains
+that carry oxacillin resistance mediated by the <italic>mecA</italic> gene are
+generally more resistant to other antibiotics than oxacillin-sensitive
+microorganisms. In the present study, antimicrobial susceptibility testing revealed
+only one <italic>S. aureus</italic> isolate that was resistant to tetracycline. The
+remaining isolates were susceptibility to all drugs tested. Similar results have
+been reported by <xref rid="B39" ref-type="bibr">Vyletelov&#x000e1; <italic>et al.</italic>
+(2011)</xref> for <italic>S. aureus</italic> isolates from sheep. <xref rid="B29" ref-type="bibr">Pengov and Ceru (2003)</xref>, investigating
+<italic>S. aureus</italic> isolates obtained from sheep milk samples,
+demonstrated high rates of susceptibility to the drugs tested. A resistance rate of
+6.3% was only observed for penicillin and ampicillin.</p><p>Intramammary infections caused by <italic>S. aureus</italic> can have severe
+consequences for human health because of the production of toxins by this
+microorganism. These toxins are secreted and remain stable in milk, causing food
+poisoning (<xref rid="B06" ref-type="bibr">Balaban and Rasooly, 2000</xref>; <xref rid="B16" ref-type="bibr">Fagundes and Oliveira, 2004</xref>). In the present
+study, seven isolates carried at least one enterotoxin gene or the TSST-1 gene, with
+the <italic>seb</italic> gene being the most frequent enterotoxin followed by the
+<italic>sea</italic> and <italic>sec</italic> genes. The <italic>sed</italic>
+gene was not detected in any of the isolates. In contrast, the <italic>sec</italic>
+gene was the most frequent in the study of <xref rid="B35" ref-type="bibr">Scherrer
+<italic>et al.</italic> (2004)</xref>. The authors detected this gene in 123
+(64.4%) of 191 <italic>S. aureus</italic> strains isolated from milk samples of
+sheep and goats, followed by <italic>seg</italic> (16.2%), <italic>sea</italic>
+(14.6%), <italic>sej</italic> (13.6%), <italic>sei</italic> (12.6%),
+<italic>seb</italic> (2.1%), and <italic>sed</italic> (2.1%). In the literature,
+<italic>sea</italic> and <italic>seg</italic> (<xref rid="B35" ref-type="bibr">Scherrer <italic>et al.</italic>, 2004</xref>; <xref rid="B40" ref-type="bibr">Wang <italic>et al.</italic>, 2009</xref>) and <italic>sec</italic>,
+<italic>sed</italic>, <italic>seg</italic> and <italic>sei</italic> (<xref rid="B43" ref-type="bibr">Zecconi <italic>et al.</italic>, 2006</xref>) are the
+genes most frequently detected in <italic>S. aureus</italic> isolated from
+animals.</p><p>Although the <italic>seb</italic> gene was the most frequent, it was not expressed in
+any of the <italic>S. aureus</italic> isolates. Only two (10%) isolates expressed
+the <italic>sec</italic> gene and one (5%) the <italic>tst</italic> gene.
+Enterotoxins A and D are the toxins most frequently implicated in outbreaks of food
+poisoning (<xref rid="B15" ref-type="bibr">Ertas <italic>et al.</italic>,
+2010</xref>). However, the present results demonstrate the importance of
+enterotoxin C and TSST-1 in strains isolated from sheep. Enterotoxin C has been
+frequently detected in cases of clinical mastitis in cattle, goats and sheep (<xref rid="B19" ref-type="bibr">Jones and Wieneke, 1986</xref>). In England, <xref rid="B08" ref-type="bibr">Bone <italic>et al.</italic> (1989)</xref> reported
+cases of food poisoning caused by the consumption of sheep milk and cheese. Analysis
+of the cheese samples showed the presence of enterotoxins. Further analysis of milk
+and cheese samples led the authors to conclude that food contamination with
+<italic>S. aureus</italic> did not occur during production, but was the result
+of infection of the milk-producing animals.</p><p>The exotoxin Panton-Valentine leukocidin (PVL) was detected in only one strain and
+its expression was confirmed. PVL is one of the most important virulence factors
+produced by <italic>S. aureus</italic>, contributing to the pathogenicity of this
+microorganism. This toxin is associated with different diseases in humans, such as
+pneumonia and necrotizing dermatitis (<xref rid="B17" ref-type="bibr">Giudice
+<italic>et al.</italic>, 2009</xref>). The <italic>luk-PV</italic> gene has
+also been identified in <italic>S. aureus</italic> strains isolated from cases of
+mastitis (<xref rid="B43" ref-type="bibr">Zecconi <italic>et al.</italic>,
+2006</xref>; <xref rid="B02" ref-type="bibr">Aires-de-Souza <italic>et
+al.</italic>, 2007</xref>; <xref rid="B37" ref-type="bibr">Unal <italic>et
+al.</italic>, 2012</xref>). However, this is the first report showing the
+expression of this toxin in <italic>S. aureus</italic> isolated from sheep.</p><p>Among the different <italic>S. aureus</italic> virulence factors studied, biofilm
+formation in isolates obtained from cases of sheep mastitis is a poorly investigated
+aspect. The <italic>icaADBC</italic> operon is responsible for the synthesis of
+polysaccharide intercellular adhesin (PIA), the main component of the staphylococcal
+biofilm (<xref rid="B27" ref-type="bibr">Otto, 2008</xref>). In the present study,
+only one isolate carried the complete <italic>icaADBC</italic> operon, whereas other
+genes of the operon, mainly <italic>icaA</italic> + <italic>icaD</italic>, were
+detected in most isolates (<xref rid="t03" ref-type="table">Table 3</xref>).
+However, none of the isolates expressed the <italic>ica</italic> genes detected. The
+<italic>bap</italic> gene encodes a protein that plays an important
+PIA-independent role in biofilm formation (<xref rid="B13" ref-type="bibr">Cucarella
+<italic>et al.</italic>, 2004</xref>). This gene was detected in four
+strains (<xref rid="t04" ref-type="table">Table 4</xref>). However, RT-PCR showed no
+expression of this gene in any of the <italic>S. aureus</italic> isolates. The
+<italic>bap</italic> gene is usually not detected and its presence has only been
+reported in a few <italic>S. aureus</italic> strains isolated from cases of bovine
+subclinical mastitis (<xref rid="B12" ref-type="bibr">Cucarella <italic>et
+al.</italic>, 2001</xref>). The present results differ from those reported
+by <xref rid="B36" ref-type="bibr">Tel <italic>et al.</italic> (2012)</xref> who
+analyzed 110 <italic>S. aureus</italic> strains isolated from cases of sheep
+clinical mastitis. The isolates did not carry the <italic>bap</italic> gene, but
+were positive for the <italic>icaA</italic> and <italic>icaD</italic> genes.
+According to <xref rid="B01" ref-type="bibr">Aguilar <italic>et al.</italic>
+(2001)</xref>, most <italic>S. aureus</italic> strains isolated from mastitis
+cases are surrounded by a biofilm layer that facilitates adhesion and colonization
+of the mammary gland epithelium. However, the 20 isolates from sheep studied here
+did not express the genes studied (<italic>icaADBC</italic> and
+<italic>bap</italic>).</p><p>Typing of 17 <italic>S. aureus</italic> strains revealed the presence of a common
+clone on the three farms studied. The characterization of the genetic diversity of
+<italic>S. aureus</italic> is important to understand the pattern of dispersion
+of the pathogen. The results showed no major heterogeneity among <italic>S.
+aureus</italic> strains, with half the isolates belonging to a single clone.
+With respect to the virulence profile of these strains, only one expressed the
+<italic>sec</italic> and <italic>tst</italic> genes, while the other strains
+expressed none of the factors studied. These findings suggest that other virulence
+factors are related to the capacity of this clone to spread among flocks and to
+successfully establish an infection in the mammary gland of sheep, causing mastitis.
+The <italic>sec</italic> and <italic>tst</italic> genes are located on a plasmid and
+pathogenicity island, respectively, and can be transferred from one bacterium to
+another. The presence of these genes in one strain suggests that this clone, which
+is able to spread among the flocks studied, probably acquired these virulence genes
+from other staphylococci, rendering it more virulent.</p></sec><sec sec-type="conclusions"><title>Conclusion</title><p>Most of the <italic>S. aureus</italic> strains identified were isolated from cases of
+subclinical mastitis. Only two isolates did not cause infection, a finding
+demonstrating the importance of <italic>S. aureus</italic> in the etiology of sheep
+mastitis. All <italic>S. aureus</italic> strains isolated from the three flocks
+showed high susceptibility to the drugs tested. None of the isolates was a biofilm
+producer, indicating that biofilm formation was not a virulence factor causing
+infection by these strains. However, a toxigenic potential was demonstrated for some
+of the isolates, which expressed SEC, TSST-1 and PVL. A clone that had spread among
+sheep flocks was identified among the <italic>S. aureus</italic> strains isolated
+from sheep milk. In addition, the presence and expression of the
+<italic>sec</italic> and <italic>tst</italic> genes in one strain of this clone
+suggest the possible acquisition of virulence genes by this clone, a fact that is
+important for animal health and food hygiene.</p></sec></body><back><ack><title>Acknowledgments</title><p>The authors thank the Funda&#x000e7;&#x000e3;o de Amparo a Pesquisa do Estado de S&#x000e3;o Paulo and
+Conselho Nacional de Desenvolvimento Cient&#x000ed;fico e Tecnol&#x000f3;gico (CNPq) for financial
+support.</p></ack><ref-list><title>References</title><ref id="B01"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Aguilar</surname><given-names>B</given-names></name><name><surname>Amorena</surname><given-names>B</given-names></name><name><surname>Iturralde</surname><given-names>M</given-names></name></person-group><year>2001</year><article-title>Effect of slime on adherence of <italic>Staphylococcus
+aureus</italic> isolated from bovine and ovine mastitis</article-title><source>Vet Microbiol</source><volume>78</volume><fpage>183</fpage><lpage>191</lpage><pub-id pub-id-type="pmid">11163708</pub-id></element-citation></ref><ref id="B02"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Aires-de-Sousa</surname><given-names>M</given-names></name><name><surname>Parente</surname><given-names>CESR</given-names></name><name><surname>Vieira-da-Mota</surname><given-names>OV</given-names></name><etal/></person-group><year>2007</year><article-title>Characterization of <italic>Staphylococcus aureus</italic>
+isolates from buffalo, bovine, ovine, and caprine milk samples collected in
+Rio de Janeiro State, Brazil</article-title><source>Appl Environ Microbiol</source><volume>73</volume><fpage>3845</fpage><lpage>3849</lpage><pub-id pub-id-type="pmid">17449696</pub-id></element-citation></ref><ref id="B03"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Al-Majali</surname><given-names>AM</given-names></name><name><surname>Jawabreh</surname><given-names>S</given-names></name></person-group><year>2003</year><article-title>Period prevalence and etiology of subclinical mastitis in Awassi
+sheep in southern Jordan</article-title><source>Small Rum Res</source><volume>47</volume><fpage>243</fpage><lpage>248</lpage></element-citation></ref><ref id="B04"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Arciola</surname><given-names>CR</given-names></name><name><surname>Gamberini</surname><given-names>S</given-names></name><name><surname>Campoccia</surname><given-names>D</given-names></name><etal/></person-group><year>2005</year><article-title>A multiplex PCR method for the detection of all five individual
+genes of ica locus in <italic>Staphylococcus epidermidis</italic>. A survey
+on 400 clinical isolates from prosthesis-associated
+infections</article-title><source>J Biomed Mater Res A</source><volume>75</volume><fpage>408</fpage><lpage>413</lpage><pub-id pub-id-type="pmid">16088896</pub-id></element-citation></ref><ref id="B05"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Argud&#x000ed;n</surname><given-names>MA</given-names></name><name><surname>Mendoza</surname><given-names>MC</given-names></name><name><surname>Rodicio</surname><given-names>MR</given-names></name></person-group><year>2010</year><article-title>Food poisoning and <italic>Staphylococcus aureus</italic>
+enterotoxins</article-title><source>Toxins</source><volume>2</volume><fpage>1751</fpage><lpage>1773</lpage><pub-id pub-id-type="pmid">22069659</pub-id></element-citation></ref><ref id="B06"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Balaban</surname><given-names>N</given-names></name><name><surname>Rasooly</surname><given-names>A</given-names></name></person-group><year>2000</year><article-title>Staphylococcal enterotoxins: a review</article-title><source>Int J Food Microbiol</source><volume>61</volume><fpage>1</fpage><lpage>10</lpage><pub-id pub-id-type="pmid">11028954</pub-id></element-citation></ref><ref id="B07"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bergonier</surname><given-names>D</given-names></name><name><surname>Cremoux</surname><given-names>R</given-names></name><name><surname>Rupp</surname><given-names>R</given-names></name><etal/></person-group><year>2003</year><article-title>Mastitis of dairy ruminants</article-title><source>Vet Res</source><volume>34</volume><fpage>689</fpage><lpage>716</lpage><pub-id pub-id-type="pmid">14556701</pub-id></element-citation></ref><ref id="B08"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bone</surname><given-names>FJ</given-names></name><name><surname>Bogie</surname><given-names>D</given-names></name><name><surname>Morgan-Jones</surname><given-names>SC</given-names></name></person-group><year>1989</year><article-title>Staphylococcal food poisoning from sheep milk
+cheese</article-title><source>Epidemiol Infect</source><volume>103</volume><fpage>449</fpage><lpage>458</lpage><pub-id pub-id-type="pmid">2691265</pub-id></element-citation></ref><ref id="B09"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Christensen</surname><given-names>GD</given-names></name><name><surname>Simpson</surname><given-names>WA</given-names></name><name><surname>Yonger</surname><given-names>JJ</given-names></name><etal/></person-group><year>1985</year><article-title>Adherence of coagulase-negative Staphylococci to plastic tissue
+culture plates: a quantitative model for the adherence of Staphylococci to
+medical devices</article-title><source>J Clin Microbiol</source><volume>22</volume><fpage>996</fpage><lpage>06</lpage><pub-id pub-id-type="pmid">3905855</pub-id></element-citation></ref><ref id="B10"><element-citation publication-type="book"><person-group person-group-type="author"><collab>Clinical and Laboratory Standards Institute</collab></person-group><year>2012</year><source>Performance Standards for Antimicrobial Susceptibility Testing: Approved
+Standard M100-S22</source><publisher-name>CLSI</publisher-name><publisher-loc>Wayne, PA, USA</publisher-loc></element-citation></ref><ref id="B11"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Contreras</surname><given-names>A</given-names></name><name><surname>Sierra</surname><given-names>D</given-names></name><name><surname>Sanchez</surname><given-names>A</given-names></name><etal/></person-group><year>2007</year><article-title>Mastitis in small ruminants</article-title><source>Small Ruminant Res</source><volume>68</volume><fpage>145</fpage><lpage>153</lpage></element-citation></ref><ref id="B12"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cucarella</surname><given-names>C</given-names></name><name><surname>Solano</surname><given-names>C</given-names></name><name><surname>Valle</surname><given-names>J</given-names></name><etal/></person-group><year>2001</year><article-title>Bap, a <italic>Staphylococcus aureus</italic> surface protein
+involved in biofilm formation</article-title><source>J Bacteriol</source><volume>183</volume><fpage>2888</fpage><lpage>2896</lpage><pub-id pub-id-type="pmid">11292810</pub-id></element-citation></ref><ref id="B13"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cucarella</surname><given-names>C</given-names></name><name><surname>Tormo</surname><given-names>MA</given-names></name><name><surname>&#x000da;beda</surname><given-names>C</given-names></name><etal/></person-group><year>2004</year><article-title>Role of biofilm-associated protein Bap in the pathogenesis of
+bovine <italic>Staphylococcus aureus</italic>
+</article-title><source>Infect Immun</source><volume>72</volume><fpage>2177</fpage><lpage>2185</lpage><pub-id pub-id-type="pmid">15039341</pub-id></element-citation></ref><ref id="B14"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cunha</surname><given-names>MLRS</given-names></name><name><surname>Sinzato</surname><given-names>YK</given-names></name><name><surname>Silveira</surname><given-names>LVA</given-names></name></person-group><year>2004</year><article-title>Comparison of methods for the identification of
+coagulase-negative <italic>Staphylococcus</italic>
+</article-title><source>Mem Inst Oswaldo Cruz</source><volume>99</volume><fpage>855</fpage><lpage>860</lpage><pub-id pub-id-type="pmid">15761602</pub-id></element-citation></ref><ref id="B15"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ertas</surname><given-names>N</given-names></name><name><surname>Gonulalan</surname><given-names>Z</given-names></name><name><surname>Yildirim</surname><given-names>Y</given-names></name><etal/></person-group><year>2010</year><article-title>Detection of <italic>Staphylococcus aureus</italic> enterotoxins
+in sheep cheese and dairy desserts by multiplex PCR
+technique</article-title><source>Int J Food Microbiol</source><volume>142</volume><fpage>74</fpage><lpage>77</lpage><pub-id pub-id-type="pmid">20573416</pub-id></element-citation></ref><ref id="B16"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Fagundes</surname><given-names>H</given-names></name><name><surname>Oliveira</surname><given-names>CAF</given-names></name></person-group><year>2004</year><article-title>Infec&#x000e7;&#x000f5;es intramam&#x000e1;rias causadas por <italic>Staphylococcus
+aureus</italic> e suas implica&#x000e7;&#x000f5;es em sa&#x000fa;de p&#x000fa;blica</article-title><source>Cienc Rural</source><volume>34</volume><fpage>1315</fpage><lpage>132</lpage></element-citation></ref><ref id="B17"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Giudice</surname><given-names>P</given-names></name><name><surname>Blanc</surname><given-names>V</given-names></name><name><surname>de Rougemont</surname><given-names>A</given-names></name><etal/></person-group><year>2009</year><article-title>Primary skin abscesses are mainly caused by Panton-Valentine
+leukocidin-positive <italic>Staphylococcus aureus</italic>
+strains</article-title><source>Dermatology</source><volume>219</volume><fpage>299</fpage><lpage>202</lpage><pub-id pub-id-type="pmid">19648730</pub-id></element-citation></ref><ref id="B18"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Johnson</surname><given-names>WM</given-names></name><name><surname>Tyler</surname><given-names>SD</given-names></name><name><surname>Ewan</surname><given-names>EP</given-names></name><etal/></person-group><year>1991</year><article-title>Detection of genes for enterotoxins, exfoliative toxins, and
+toxic shock syndrome toxin 1 in <italic>Staphylococcus aureus</italic> by
+the polymerase chain reaction</article-title><source>J Clin Microbiol</source><volume>29</volume><fpage>426</fpage><lpage>430</lpage><pub-id pub-id-type="pmid">2037659</pub-id></element-citation></ref><ref id="B19"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Jones</surname><given-names>TO</given-names></name><name><surname>Wieneke</surname><given-names>AA</given-names></name></person-group><year>1986</year><article-title>Staphylococcal toxic shock syndrome</article-title><source>Vet Rec</source><volume>119</volume><fpage>34</fpage><lpage>45</lpage><pub-id pub-id-type="pmid">3750767</pub-id></element-citation></ref><ref id="B20"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kumar</surname><given-names>R</given-names></name><name><surname>Yadav</surname><given-names>BR</given-names></name><name><surname>Singh</surname><given-names>RS</given-names></name></person-group><year>2010</year><article-title>Genetic determinants of antibiotic resistance in
+<italic>Staphylococcus aureus</italic> isolates from milk of mastitic
+crossbred cattle</article-title><source>Curr Microbiol</source><volume>60</volume><fpage>379</fpage><lpage>386</lpage><pub-id pub-id-type="pmid">19957184</pub-id></element-citation></ref><ref id="B21"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lina</surname><given-names>G</given-names></name><name><surname>Piemont</surname><given-names>Y</given-names></name><name><surname>Godail-Gamot</surname><given-names>F</given-names></name><etal/></person-group><year>1999</year><article-title>Involvement of Panton-Valentine leukocidin-producing
+<italic>Staphylococcus aureus</italic> in primary skin infections and
+pneumonia</article-title><source>Clin Infect Dis</source><volume>29</volume><fpage>1128</fpage><lpage>1132</lpage><pub-id pub-id-type="pmid">10524952</pub-id></element-citation></ref><ref id="B22"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>McDougal</surname><given-names>LK</given-names></name><name><surname>Steward</surname><given-names>CD</given-names></name><name><surname>Killgore</surname><given-names>GE</given-names></name><etal/></person-group><year>2003</year><article-title>Pulsed-field gel electrophoresis typing of oxacillin-resistant
+<italic>Staphylococcus aureus</italic> isolates from the United States:
+Establishing a national database</article-title><source>J Clin Microbiol</source><volume>41</volume><fpage>5113</fpage><lpage>5120</lpage><pub-id pub-id-type="pmid">14605147</pub-id></element-citation></ref><ref id="B23"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>McDougall</surname><given-names>S</given-names></name><name><surname>Murdough</surname><given-names>P</given-names></name><name><surname>Pankey</surname><given-names>W</given-names></name><etal/></person-group><year>2001</year><article-title>Relationship among somatic cell count, California mastitis test,
+impedance and bacteriological status of milk in goats and sheep in early
+lactation</article-title><source>Small Ruminant Res</source><volume>40</volume><fpage>245</fpage><lpage>254</lpage></element-citation></ref><ref id="B24"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Moroni</surname><given-names>P</given-names></name><name><surname>Pisoni</surname><given-names>G</given-names></name><name><surname>Varisco</surname><given-names>G</given-names></name><etal/></person-group><year>2007</year><article-title>Effect of intramammary infection in Bergamasca meat sheep on milk
+parameters and lamb growth</article-title><source>J Dairy Res</source><volume>74</volume><fpage>340</fpage><lpage>344</lpage><pub-id pub-id-type="pmid">17451625</pub-id></element-citation></ref><ref id="B25"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Murakami</surname><given-names>K</given-names></name><name><surname>Minamide</surname><given-names>K</given-names></name><name><surname>Wada</surname><given-names>K</given-names></name><etal/></person-group><year>1991</year><article-title>Identification of methicillin-resistant strains of staphylococci
+by polymerase chain reaction</article-title><source>J Clin Microbiol</source><volume>29</volume><fpage>2240</fpage><lpage>2244</lpage><pub-id pub-id-type="pmid">1939577</pub-id></element-citation></ref><ref id="B26"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Oliveira</surname><given-names>A</given-names></name><name><surname>Cunha</surname><given-names>MLRS</given-names></name></person-group><year>2010</year><article-title>Comparison of methods for the detection of biofilm production in
+coagulase-negative staphylococci</article-title><source>BMC Res Notes</source><volume>3</volume><fpage>260</fpage><pub-id pub-id-type="pmid">20946672</pub-id></element-citation></ref><ref id="B27"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Otto</surname><given-names>M</given-names></name></person-group><year>2008</year><article-title>Staphylococcal biofilm</article-title><source>Curr Top Microbiol Immunol</source><volume>322</volume><fpage>207</fpage><lpage>228</lpage><pub-id pub-id-type="pmid">18453278</pub-id></element-citation></ref><ref id="B28"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Peacock</surname><given-names>SJ</given-names></name><name><surname>Moore</surname><given-names>CE</given-names></name><name><surname>Justice</surname><given-names>A</given-names></name><etal/></person-group><year>2002</year><article-title>Virulent combinations of adhesin and toxin genes in natural
+populations of <italic>Staphylococcus aureus</italic>
+</article-title><source>Infect Immun</source><volume>70</volume><fpage>4987</fpage><lpage>4996</lpage><pub-id pub-id-type="pmid">12183545</pub-id></element-citation></ref><ref id="B29"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Pengov</surname><given-names>A</given-names></name><name><surname>Ceru</surname><given-names>S</given-names></name></person-group><year>2003</year><article-title>Antimicrobial drug susceptibility of <italic>Staphylococcus
+aureus</italic> strains isolated from bovine and ovine mammary
+glands</article-title><source>J Dairy Sci</source><volume>86</volume><fpage>3157</fpage><lpage>3163</lpage><pub-id pub-id-type="pmid">14594234</pub-id></element-citation></ref><ref id="B30"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rohde</surname><given-names>H</given-names></name><name><surname>Burandt</surname><given-names>EC</given-names></name><name><surname>Siemssen</surname><given-names>N</given-names></name><etal/></person-group><year>2007</year><article-title>Polysaccharide intercellular adhesin or protein factors in
+biofilm accumulation of <italic>Staphylococcus epidermidis</italic> and
+<italic>Staphylococcus aureus</italic> isolated from prosthetic hip and
+knee joint infections</article-title><source>Biomaterials</source><volume>28</volume><fpage>1711</fpage><lpage>1720</lpage><pub-id pub-id-type="pmid">17187854</pub-id></element-citation></ref><ref id="B31"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sabour</surname><given-names>PM</given-names></name><name><surname>Gill</surname><given-names>JJ</given-names></name><name><surname>Lepp</surname><given-names>D</given-names></name><etal/></person-group><year>2004</year><article-title>Molecular Typing and Distribution of <italic>Staphylococcus
+aureus</italic> Isolates in Eastern Canadian Dairy Herds</article-title><source>J Clin Microbiol</source><volume>42</volume><fpage>3449</fpage><lpage>3455</lpage><pub-id pub-id-type="pmid">15297482</pub-id></element-citation></ref><ref id="B32"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Santos</surname><given-names>FGP</given-names></name><name><surname>Mota</surname><given-names>RA</given-names></name><name><surname>Silveira</surname><given-names>VM</given-names><suffix>Filho</suffix></name><etal/></person-group><year>2003</year><article-title>Tipagem molecular de <italic>Staphylococcus aureus</italic>
+isolados de leite de vacas com mastite subcl&#x000ed;nica e equipamentos de ordenha
+procedentes do estado do Pernambuco</article-title><source>Revista Napgama</source><volume>6</volume><fpage>19</fpage><lpage>23</lpage></element-citation></ref><ref id="B33"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Santos</surname><given-names>RA</given-names></name><name><surname>Mendon&#x000e7;a</surname><given-names>CL</given-names></name><name><surname>Afonso</surname><given-names>JA</given-names></name><etal/></person-group><year>2007</year><article-title>Aspectos cl&#x000ed;nicos do leite em ovelhas com mastite induzidas
+experimentalmente com <italic>Staphylococcus aureus</italic>
+</article-title><source>Pesq Vet Bras</source><volume>27</volume><fpage>6</fpage><lpage>12</lpage></element-citation></ref><ref id="B34"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Schalm</surname><given-names>OW</given-names></name><name><surname>Noorlander</surname><given-names>DO</given-names></name></person-group><year>1957</year><article-title>Experiments and observations leading to development of the
+California Mastitis Test</article-title><source>J Am Vet Med Assoc</source><volume>30</volume><fpage>199</fpage><lpage>207</lpage><pub-id pub-id-type="pmid">13416088</pub-id></element-citation></ref><ref id="B35"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Scherrer</surname><given-names>D</given-names></name><name><surname>Corti</surname><given-names>S</given-names></name><name><surname>Muehlherr</surname><given-names>JE</given-names></name><etal/></person-group><year>2004</year><article-title>Phenotypic and genotypic characteristics of
+<italic>Staphylococcus aureus</italic> isolates from raw bulk-tank milk
+samples of goats and sheep</article-title><source>Vet Microbiol</source><volume>101</volume><fpage>101</fpage><lpage>107</lpage><pub-id pub-id-type="pmid">15172692</pub-id></element-citation></ref><ref id="B36"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Tel</surname><given-names>OU</given-names></name><name><surname>Aslantas</surname><given-names>O</given-names></name><name><surname>Keskey</surname><given-names>K</given-names></name><etal/></person-group><year>2012</year><article-title>Investigation of the antibiotic resistance and biofilm of
+<italic>Staphylococcus aureus</italic> strains isolated from gangrenous
+mastitis of ewe</article-title><source>Acta Vet Hung</source><volume>60</volume><fpage>189</fpage><lpage>197</lpage><pub-id pub-id-type="pmid">22609990</pub-id></element-citation></ref><ref id="B37"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Unal</surname><given-names>N</given-names></name><name><surname>Askar</surname><given-names>S</given-names></name><name><surname>Macun</surname><given-names>HC</given-names></name><etal/></person-group><year>2012</year><article-title>Panton-Valentine leukocidin and some exotoxins of
+<italic>Staphylococcus aureus</italic> and antibiotic susceptibility
+profiles os staphylococci isolated from milk of small
+ruminants</article-title><source>Trop Anim Health Prod</source><volume>44</volume><fpage>573</fpage><lpage>579</lpage><pub-id pub-id-type="pmid">21800213</pub-id></element-citation></ref><ref id="B38"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Vautor</surname><given-names>E</given-names></name><name><surname>Cockfield</surname><given-names>J</given-names></name><name><surname>Le Marechal</surname><given-names>C</given-names></name><etal/></person-group><year>2009</year><article-title>Difference in virulence between <italic>Staphylococcus
+aureus</italic> isolates causing gangrenous mastitis
+<italic>vs</italic>. subclinical mastitis in a dairy sheep
+flock</article-title><source>Vet Res</source><volume>40</volume><fpage>56</fpage><pub-id pub-id-type="pmid">19576164</pub-id></element-citation></ref><ref id="B39"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Vyletelov&#x000e1;</surname><given-names>M</given-names></name><name><surname>Vlkov&#x000e1;</surname><given-names>H</given-names></name><name><surname>Manga</surname><given-names>I</given-names></name></person-group><year>2011</year><article-title>Occurrence and characteristics of methicillin resistant
+Staphylococcus aureus and methicillin resistant coagulase-negative
+staphylococci in raw milk manufacturing</article-title><source>Czech J Food Sci</source><volume>29</volume><fpage>11</fpage><lpage>16</lpage></element-citation></ref><ref id="B40"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wang</surname><given-names>SC</given-names></name><name><surname>Wu</surname><given-names>CM</given-names></name><name><surname>Xia</surname></name><etal/></person-group><year>2009</year><article-title>Distribution of superantigenic toxin genes in
+<italic>Staphylococcus aureus</italic> isolates from milk samples of
+bovine subclinical mastitis cases in two major dairy production regions of
+China</article-title><source>Vet Microbiol</source><volume>137</volume><fpage>276</fpage><lpage>281</lpage><pub-id pub-id-type="pmid">19217725</pub-id></element-citation></ref><ref id="B41"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wang</surname><given-names>Y</given-names></name><name><surname>Wu</surname><given-names>CM</given-names></name><name><surname>Lu</surname><given-names>LM</given-names></name><etal/></person-group><year>2008</year><article-title>Macrolide-lincosamide-resistant phenotypes and genotypes of
+<italic>Staphylococcus aureus</italic> isolated from bovine clinical
+mastitis</article-title><source>Vet Microbiol</source><volume>130</volume><fpage>118</fpage><lpage>125</lpage><pub-id pub-id-type="pmid">18272297</pub-id></element-citation></ref><ref id="B42"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zafalon</surname><given-names>LF</given-names></name><name><surname>Verissimo</surname><given-names>CJ</given-names></name><name><surname>Mamizuka</surname><given-names>EM</given-names></name><etal/></person-group><year>2012</year><article-title>Estafilococos resistentes a oxacilina isolados dos casos de
+mastite subclinica em ovinos</article-title><source>Arq Inst Biol</source><volume>79</volume><fpage>1</fpage><lpage>7</lpage></element-citation></ref><ref id="B43"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zecconi</surname><given-names>A</given-names></name><name><surname>Cesaris</surname><given-names>L</given-names></name><name><surname>Liandris</surname><given-names>E</given-names></name><etal/></person-group><year>2006</year><article-title>Role of several <italic>Staphylococcus aureus</italic> virulence
+factors on the inflammatory response in bovine mammary gland</article-title><source>Microb Pathogenesis</source><volume>40</volume><fpage>177</fpage><lpage>183</lpage></element-citation></ref></ref-list></back></article>

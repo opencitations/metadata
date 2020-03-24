@@ -1,0 +1,554 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:ali="http://www.niso.org/schemas/ali/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Braz J Microbiol</journal-id><journal-id journal-id-type="iso-abbrev">Braz. J. Microbiol</journal-id><journal-id journal-id-type="publisher-id">bjm</journal-id><journal-title-group><journal-title>Brazilian Journal of Microbiology</journal-title></journal-title-group><issn pub-type="ppub">1517-8382</issn><issn pub-type="epub">1678-4405</issn><publisher><publisher-name>Sociedade Brasileira de Microbiologia</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">26273280</article-id><article-id pub-id-type="pmc">4507557</article-id><article-id pub-id-type="doi">10.1590/S1517-838246220131018</article-id><article-categories><subj-group subj-group-type="heading"><subject>Microbial Physiology</subject></subj-group></article-categories><title-group><article-title>Characteristics of <italic>dr1790</italic> disruptant and its
+functional analysis in <italic>Deinococcus radiodurans</italic>
+</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Cheng</surname><given-names>Jianhui</given-names></name><xref ref-type="aff" rid="aff01">1</xref></contrib><contrib contrib-type="author"><name><surname>Wang</surname><given-names>Hu</given-names></name><xref ref-type="aff" rid="aff03">3</xref></contrib><contrib contrib-type="author"><name><surname>Xu</surname><given-names>Xin</given-names></name><xref ref-type="aff" rid="aff02">2</xref></contrib><contrib contrib-type="author"><name><surname>Wang</surname><given-names>Liangyan</given-names></name><xref ref-type="aff" rid="aff02">2</xref></contrib><contrib contrib-type="author"><name><surname>Tian</surname><given-names>Bing</given-names></name><xref ref-type="aff" rid="aff02">2</xref></contrib><contrib contrib-type="author"><name><surname>Hua</surname><given-names>Yuejin</given-names></name><xref ref-type="aff" rid="aff02">2</xref><xref rid="c01" ref-type="corresp"/></contrib></contrib-group><aff id="aff01"><label>1</label>Institute of Horticulture, Zhejiang Academy of Agricultural
+Sciences, Hangzhou, China, Institute of Horticulture, Zhejiang Academy of
+Agricultural Sciences, Hangzhou, China.</aff><aff id="aff02"><label>2</label>Zhejiang University, Institute of Nuclear-Agricultural
+Sciences, Zhejiang University, Hangzhou, China, Institute of Nuclear-Agricultural Sciences,
+Zhejiang University, Hangzhou, China.</aff><aff id="aff03"><label>3</label>Institute of Ageing Research, Hangzhou Normal University, Hangzhou, China, Institute of Ageing Research, Hangzhou Normal
+University, Hangzhou, China.</aff><author-notes><corresp id="c01">Send correspondence to Y. Hua. Institute of Nuclear-Agricultural
+Sciences, Zhejiang University, 310029 Hangzhou, China. E-mail:
+<email>yjhua@zju.edu.cn</email>.</corresp><fn id="fn01" fn-type="other"><p>Associate Editor: Luis Henrique Souza Guimar&#x000e3;es</p></fn></author-notes><pub-date pub-type="epub"><day>01</day><month>6</month><year>2015</year></pub-date><pub-date pub-type="collection"><month>6</month><year>2015</year></pub-date><volume>46</volume><issue>2</issue><fpage>601</fpage><lpage>611</lpage><history><date date-type="received"><day>03</day><month>5</month><year>2013</year></date><date date-type="accepted"><day>19</day><month>12</month><year>2014</year></date></history><permissions><copyright-statement>Copyright &#x000a9; 2015, Sociedade Brasileira de
+Microbiologia</copyright-statement><copyright-year>2015</copyright-year><license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/3.0/"><license-p>All the content of the journal, except where otherwise noted, is
+licensed under a Creative Commons License CC BY-NC.</license-p></license></permissions><abstract><p>
+<italic>Deinococcus radiodurans</italic> (DR) is an extremophile that is well
+known for its resistance to radiation, oxidants and desiccation. The gene
+<italic>dr1790</italic> of <italic>D</italic>. <italic>radiodurans</italic>
+was predicted to encode a yellow-related protein. The primary objective of the
+present study was to characterize the biological function of the DR1790 protein,
+which is a member of the ancient yellow/major royal jelly (MRJ) protein family,
+in prokaryotes. Fluorescence labeling demonstrated that the yellow-related
+protein encoded by <italic>dr1790</italic> is a membrane protein. The deletion
+of the <italic>dr1790</italic> gene decreased the cell growth rate and
+sensitivity to hydrogen peroxide and radiation and increased the membrane
+permeability of <italic>D</italic>. <italic>radiodurans</italic>. Transcript
+profiling by microarray and RT-PCR analyses of the <italic>dr1790</italic>
+deletion mutant suggested that some genes that are involved in protein secretion
+and transport were strongly suppressed, while other genes that are involved in
+protein quality control, such as chaperones and proteases, were induced. In
+addition, the expression of genes with predicted functions that are involved in
+antioxidant systems, electron transport, and energy metabolism was significantly
+altered through the disruption of <italic>dr1790</italic>. Moreover, the results
+of proteomic analyses using 2-DE and MS also demonstrated that DR1790
+contributed to <italic>D</italic>. <italic>radiodurans</italic> survival. Taken
+together, these results indicate that the DR1790 protein from the ancient yellow
+protein family plays a pleiotropic role in the survival of prokaryotic cells and
+contributes to the extraordinary resistance of <italic>D. radiodurans</italic>
+against oxidative and radiation stresses.</p></abstract><kwd-group><kwd><italic>Deinococcus radiodurans</italic></kwd><kwd><italic>dr1790</italic> disruptant</kwd><kwd>characteristics</kwd><kwd>functional analysis</kwd></kwd-group><counts><fig-count count="6"/><table-count count="4"/><equation-count count="0"/><ref-count count="40"/><page-count count="11"/></counts></article-meta></front><body><sec sec-type="intro"><title>Introduction</title><p>D. <italic>radiodurans</italic> exhibits resistance to the lethal and mutagenic
+effects of DNA damaging agents, including &#x003b3;-ray and UV radiation, hydrogen peroxide
+and desiccation (<xref rid="B01" ref-type="bibr">Battista, 1997</xref>; <xref rid="B20" ref-type="bibr">Makarova <italic>et al.</italic>, 2001</xref>; <xref rid="B31" ref-type="bibr">Shu and Tian, 2010</xref>; <xref rid="B14" ref-type="bibr">Ghosal <italic>et al.</italic>, 2005</xref>). These bacteria can
+survive ~12 kGy &#x003b3;-ray irradiation, which generates approximately 200 double-strand
+and 3000 single-strand breaks per genome (<xref rid="B02" ref-type="bibr">Battista,
+2000</xref>). The robustness of this bacterium reflects strong oxidative stress
+resistance mechanisms that protect proteins from oxidative damage (<xref rid="B36" ref-type="bibr">Wang <italic>et al.</italic>, 1995</xref>; <xref rid="B23" ref-type="bibr">Markillie <italic>et al.</italic>, 1999</xref>; <xref rid="B06" ref-type="bibr">Daly <italic>et al.</italic>, 2007</xref>) and a DNA repair
+process that efficiently and precisely reassembles DNA fragments (<xref rid="B26" ref-type="bibr">Minton 1994</xref>; <xref rid="B33" ref-type="bibr">Slade
+<italic>et al.</italic>, 2009</xref>). Antioxidant protection and repair
+mechanisms for DNA and other proteins enable these molecules to retain their
+catalytic activity and to provide a swift response under oxidative stress conditions
+(<xref rid="B34" ref-type="bibr">Slade and Radman, 2011</xref>). Genetic
+engineering techniques may be applied to <italic>D. radiodurans</italic>, which has
+extreme resistance, as well as the ability to self-repair DNA damage, to
+bioremediate radioactive waste sites, to breed plants for resistance and to treat
+human cancer. Therefore, <italic>D. radiodurans</italic>, which is of interest to
+many researchers, represents a microbial resource with great development prospects.
+<italic>D. radiodurans</italic> strains that express the cloned Hg(II)
+resistance gene (<italic>merA</italic>) from the <italic>E. coli</italic> strain
+BL308 exhibit growth in the presence of both 60 Gy/h of <sup>137</sup>Cs radiation
+(a dose rate that exceeds those in most radioactive waste sites) and 30&#x02013;50 &#x003bc;M Hg(II)
+and that effectively reduce Hg(II) to the less toxic volatile elemental Hg(0) (<xref rid="B04" ref-type="bibr">Brim <italic>et al.</italic>, 2000</xref>). The
+cloning of toluene dioxygenase <italic>tod</italic> genes from <italic>Pseudomonas
+putida</italic> F1 into the chromosome of <italic>D. radiodurans</italic>
+conferred the ability to oxidize toluene, chlorobenzene, 3,4-dichloro-1-butene, and
+indole in a highly irradiating environment (<xref rid="B18" ref-type="bibr">Lange
+<italic>et al.</italic>, 1998</xref>). The expression of
+<italic>IrrE</italic>, which is a global regulator for extreme radiation
+resistance in <italic>D. radiodurans</italic>, significantly enhanced salt tolerance
+in <italic>Brassica napus</italic> plants. Transgenic <italic>B. napus</italic>
+plants that express the <italic>IrrE</italic> can tolerate 350 mM NaCl, which is a
+concentration that inhibits the growth of almost all crop plants (<xref rid="B28" ref-type="bibr">Pan <italic>et al.</italic>, 2009</xref>). The human bone marrow
+cell line KG1a, which was transformed with <italic>dr1709</italic> from <italic>D.
+radiodurans</italic>, exhibited a much higher survival fraction than the
+original KG1a cells when treated with &#x003b3;-ray radiation (<xref rid="B32" ref-type="bibr">Shu and Tian, 2012</xref>). However, the underlying mechanisms
+of <italic>D. radiodurans</italic> resistance to stresses remain unclear. Therefore,
+the identification and functional analysis of new genes that are associated with
+anti-radiation, DNA repair and antioxidants will improve our understanding of the
+extreme radiation resistance mechanisms of this strain and provide strategies for
+research regarding the radiation damage defense and oxidative stress resistance
+systems of organisms.</p><p>
+<italic>dr1790</italic>, which is a gene that encodes a putative yellow-related
+protein homolog, was identified in the <italic>D. radiodurans</italic> genome (<xref rid="B20" ref-type="bibr">Makarova <italic>et al.</italic>, 2001</xref>).
+Interestingly, this yellow-related protein is typically detected in insects and
+plays important roles in pigmentation and insect behaviors. The deletion of the
+yellow protein gene locus in <italic>Drosophila</italic> not only affects larval
+pigmentation but also appears to affect insect behavior (<xref rid="B22" ref-type="bibr">Maleszka and Kucharski, 2000</xref>; <xref rid="B07" ref-type="bibr">Drapeau et <italic>al</italic>., 2006</xref>). Yellow protein
+can be secreted from cells because this protein contains a secretion signal peptide
+(<xref rid="B08" ref-type="bibr">Drapeau, 2003</xref>). Furthermore, other
+members of the Yellow/Major Royal Jelly (MRJ) protein family are expressed in not
+only insects but also some bacterial and fungi species, suggesting that yellow
+proteins are evolutionarily ancient (<xref rid="B07" ref-type="bibr">Drapeau
+<italic>et al.</italic>, 2006</xref>). Although a few studies have
+demonstrated an association between melanization and behavior in
+<italic>Drosophila</italic>, and a unique clade of genes from <italic>Apis
+mellifera</italic> may be involved in caste specification, the function of most
+yellow protein family members remains largely unknown (<xref rid="B11" ref-type="bibr">Ferguson <italic>et al.</italic>, 2011</xref>). Currently, no
+studies concerning the function of yellow-related proteins in prokaryotes exist.
+DR1790 expression was induced in a <italic>D. radiodurans</italic> mutant strain
+that was deficient in OxyR, which is a peroxide sensor and transcription regulator
+that senses the presence of reactive oxygen species and that induces the antioxidant
+system of <italic>D</italic>. <italic>radiodurans</italic> (<xref rid="B05" ref-type="bibr">Chen <italic>et al.</italic>, 2008</xref>). These findings
+prompted us to investigate the functions of this yellow-related protein homolog in
+this extremophilic bacterium<italic>.</italic>
+</p></sec><sec sec-type="materials|methods"><title>Materials and Methods</title><sec><title>Bacterial strains and materials</title><p>All <italic>D. radiodurans</italic> cultures were grown at 30 &#x000b0;C in
+tryptone-yeast extract-glucose (TGY) media (0.5% bacto-tryptone, 0.3%
+bacto-yeast extract, and 0.1% glucose) with aeration or on TGY plates solidified
+with 1.5% agar. Overnight cultures were incubated in fresh TGY medium, and
+exponential-phase cells (OD<sub>600nm</sub> = 0.8) were used for all
+experiments. The <italic>E. coli</italic> strain JM109 was grown in
+Luria-Bertani (LB) broth (1.0% bacto-tryptone, 0.5% bacto-yeast extract, and
+1.0% NaCl) or on LB plates solidified with 1.5% agar at 37 &#x000b0;C.</p></sec><sec><title>Construction of mutant strains</title><p>The <italic>D. radiodurans</italic> strain R1&#x00394;<italic>dr1790</italic> was
+constructed using a deletion replacement method as described previously (<xref rid="B40" ref-type="bibr">Xu <italic>et al.</italic>, 2008</xref>). The
+primers that were used in this study are listed in <xref rid="t01" ref-type="table">Table 1</xref>. The primers p1 and p2 were used to amplify
+a <italic>Bam</italic>HI fragment upstream of the targeted genes, and the
+primers p3 and p4 were used to amplify a <italic>Hind</italic>III fragment
+downstream of the targeted genes. The kanamycin resistance cassette containing
+the <italic>GroEL</italic> promoter was obtained from the pRADK shuttle plasmid
+(<xref rid="B12" ref-type="bibr">Gao <italic>et al.</italic>, 2005</xref>).
+The three DNA fragments were digested and ligated; then, the ligation products
+were used as templates for PCR (30 cycles at 94 &#x000b0;C for 1 min, 55 &#x000b0;C for 45 s,
+and 72 &#x000b0;C for 1 min) with p1 and p4. The resulting PCR fragments were
+transformed into <italic>D. radiodurans</italic> cells using the
+CaCl<sub>2</sub> technique, and the mutant strains were selected on TGY agar
+plates supplemented with 20 &#x003bc;g/mL kanamycin.</p><table-wrap id="t01" orientation="portrait" position="float"><label>Table 1</label><caption><title>Primers used in this study.</title></caption><table frame="hsides" rules="groups"><thead><tr><th valign="bottom" align="left" rowspan="1" colspan="1">Primer</th><th valign="bottom" align="left" rowspan="1" colspan="1">Sequence</th></tr></thead><tbody><tr><td colspan="2" valign="top" align="left" rowspan="1">Construction of the
+R1&#x00394;<italic>dr1790</italic> mutant</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">p1</td><td valign="top" align="left" rowspan="1" colspan="1">5&#x02032; GGTGTGTTTGACTGAGGCCGAGGAC 3&#x02032;</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">p2</td><td valign="top" align="left" rowspan="1" colspan="1">5&#x02032;
+GTT<underline>GGATCC</underline>CAGGGGTATAAGACGC 3&#x02032;</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">p3</td><td valign="top" align="left" rowspan="1" colspan="1">5&#x02032;
+TTT<underline>AAGCTT</underline>GCTGCACGTTGACCCT 3&#x02032;</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">p4</td><td valign="top" align="left" rowspan="1" colspan="1">5&#x02032; TGTTGTGTTGCCTACCTGGCGATTG 3&#x02032;</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">Kanamycin F</td><td valign="top" align="left" rowspan="1" colspan="1">5&#x02032; CACACAGGAAACAGCTATGACCATGATTA
+3&#x02032;</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">Kanamycin R</td><td valign="top" align="left" rowspan="1" colspan="1">5&#x02032;
+ACAGAC<underline>GGATCC</underline>TAGAAAAACTCATCGAGCATC 3&#x02032;</td></tr><tr><td colspan="2" valign="top" align="left" rowspan="1">Complementation of the
+R1&#x00394;<italic>dr1790</italic> mutant</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">DR1790<sub>com</sub> F</td><td valign="top" align="left" rowspan="1" colspan="1">5&#x02032;
+TTT<underline>CATATG</underline>ATGAAAATCAAGCTGACCGC 3&#x02032;</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">DR1790<sub>com</sub> R</td><td valign="top" align="left" rowspan="1" colspan="1">5&#x02032;
+TTT<underline>GGATCC</underline>TTATTTCAGCAGCACCGGC 3&#x02032;</td></tr><tr><td colspan="2" valign="top" align="left" rowspan="1">Real-time quantitative
+PCR</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">DR0089</td><td valign="top" align="left" rowspan="1" colspan="1">F: 5&#x02032; TACCGCTCTTACCCCGACTC 3&#x02032;</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1">R: 5&#x02032; CGTGTAGATGGCGAACACCA 3&#x02032;</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">DR0126</td><td valign="top" align="left" rowspan="1" colspan="1">F: 5&#x02032; TGACGACTACGGTGGATGTGC 3&#x02032;</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1">R: 5&#x02032; CTCGTCGCTGAGGTCTTTGG 3&#x02032;</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">DR0128</td><td valign="top" align="left" rowspan="1" colspan="1">F: 5&#x02032; GCAACCGCACCACCATCG 3&#x02032;</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1">R: 5&#x02032; TTCGTCTTCGTCACCAGCAAC 3&#x02032;</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">DR0129</td><td valign="top" align="left" rowspan="1" colspan="1">F: 5&#x02032; CGCAAGGGCAACGAAACTG 3&#x02032;</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1">R: 5&#x02032; GGTGATGAAGGGCAGGGAGAT 3&#x02032;</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">DR0194</td><td valign="top" align="left" rowspan="1" colspan="1">F: 5&#x02032; CTCACCGACCACTACGACCCG 3&#x02032;</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1">R: 5&#x02032; CGCCCCGCCGAACAGAAT 3&#x02032;</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">DR0350</td><td valign="top" align="left" rowspan="1" colspan="1">F: 5&#x02032; CAGATAGCCACGCTCAACGC 3&#x02032;</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1">R: 5&#x02032; CGACCCGGAAGCCCTTTT 3&#x02032;</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">DR0606</td><td valign="top" align="left" rowspan="1" colspan="1">F: 5&#x02032; CGAAGAAGCCGAGCAGAAGA 3&#x02032;</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1">R: 5&#x02032; GGTGCCGTTGTCCAGGGTC 3&#x02032;</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">DR0607</td><td valign="top" align="left" rowspan="1" colspan="1">F: 5&#x02032; AGCACCGACTCCGACTACGC 3&#x02032;</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1">R: 5&#x02032; GCCTGCCACGATGCCTTCT 3&#x02032;</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">DR0888</td><td valign="top" align="left" rowspan="1" colspan="1">F: 5&#x02032; AGGTGACGGGTGAGGTGGC 3&#x02032;</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1">R: 5&#x02032; GCTGGGGCTGGTTTGTGC 3&#x02032;</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">DR1046</td><td valign="top" align="left" rowspan="1" colspan="1">F: 5&#x02032; CGGCGACAGTTTCGTGGC 3&#x02032;</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1">R: 5&#x02032; GCTGTTCACTGGTTTTGTTGGTC 3&#x02032;</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">DR1114</td><td valign="top" align="left" rowspan="1" colspan="1">F: 5&#x02032; CCCCGAACTTCACTCCCA 3&#x02032;</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1">R: 5&#x02032; CGGTCAGGGTCTGGTTTTCA 3&#x02032;</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">DR1148</td><td valign="top" align="left" rowspan="1" colspan="1">F: 5&#x02032; CATATGGTTTTTCATGGACGGCTCC3&#x02032;</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1">R: 5&#x02032; GGATCCTCAAGAGTCGGCCCCGCTA3&#x02032;</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">DR1172</td><td valign="top" align="left" rowspan="1" colspan="1">F: 5&#x02032; GTCTGTTGCTGCTCGGTGCC 3&#x02032;</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1">R: 5&#x02032; TGGTCTTTTCCCAGCCCTTG 3&#x02032;</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">DR1909</td><td valign="top" align="left" rowspan="1" colspan="1">F: 5&#x02032; GCCTACACGCACGTTTCCG 3&#x02032;</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1">R: 5&#x02032; CCTCACGCACCACGCAGA 3&#x02032;</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">DR1974</td><td valign="top" align="left" rowspan="1" colspan="1">F: 5&#x02032; GCCACCTGGACCCCTGAG 3&#x02032;</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1">R: 5&#x02032; GCATTCCGGCTTCTTCGAT 3&#x02032;</td></tr></tbody></table></table-wrap></sec><sec><title>Complementation of R1&#x00394;<italic>dr1790</italic>
+</title><p>The complementation plasmid was constructed as described previously (<xref rid="B12" ref-type="bibr">Gao <italic>et al.</italic>, 2005</xref>; <xref rid="B39" ref-type="bibr">Wu <italic>et al.</italic>, 2009</xref>). Briefly,
+chromosomal DNA was isolated from wild type strains. The 1167-bp region
+containing the <italic>dr1790</italic> gene was PCR-amplified (35 cycles at 94
+&#x000b0;C for 1 min, 58 &#x000b0;C for 50 s and 72 &#x000b0;C for 1 min) using the primers
+DR1790<sub>com</sub>F and DR1790<sub>com</sub>R (<xref rid="t01" ref-type="table">Table 1</xref>) and ligated into the pMD18 T-Easy vector
+(Takara, JP); the resulting construct was designated as
+pMD-<italic>dr1790</italic>. After digestion with <italic>Nde</italic>I and
+<italic>Bam</italic>HI, the target gene <italic>dr1790</italic> was ligated
+into <italic>Nde</italic>I- and <italic>Bam</italic>HI-pre-digested pRADK, and
+the resulting construct was designated as pRAD-<italic>dr1790</italic>. The
+complementation plasmids were confirmed by PCR and DNA sequence analyses; thus,
+transformation into R1&#x00394;<italic>dr1790</italic> generated the functional
+complementation strain mutant Dr1790com.</p></sec><sec><title>Measurement of growth rate</title><p>The growth rate was measured as described previously (<xref rid="B24" ref-type="bibr">Mattimore <italic>et al.</italic>, 1995</xref>). Briefly,
+500 &#x003bc;L overnight culture of each strain was transferred to 50 mL TGY medium. The
+culture was grown at 30 &#x000b0;C with agitation (200 rpm). Then, the culture dilutions
+were spread onto TGY agar plates after 2 (t<sub>1</sub>) and 4 h
+(t<sub>2</sub>). The plates were incubated at 30 &#x000b0;C for 5 days, and
+subsequently, the number of colony-forming units (CFU) was determined. The
+double time (<italic>g</italic>) was calculated according to the following
+formula: <italic>g</italic> = ln2 / ((log<sub>10</sub>N<sub>2</sub> -
+log<sub>10</sub>N<sub>1</sub>) 2.303/&#x00394;t), where N<sub>1</sub> is CFU per
+milliliter at t<sub>1</sub>, and N<sub>2</sub> is CFU per milliliter at
+t<sub>2</sub>.</p></sec><sec><title>Cell survival under oxidative stress and ionizing radiation</title><p>The hydrogen peroxide sensitivity of <italic>D. radiodurans</italic> cells was
+assayed as described previously (<xref rid="B37" ref-type="bibr">Wang <italic>et
+al.</italic>, 2008</xref>), with some modifications. The cells were
+harvested during the early stationary phase (OD<sub>600nm</sub> = 1.0), washed
+twice and re-suspended with phosphate buffer (20 mM, pH 7.4). An aliquot was
+removed as a control, and the remaining suspension was treated with hydrogen
+peroxide at a final concentration of 20 mM. The mixture was incubated at 30 &#x000b0;C
+in an orbital shaker. Catalase (Sigma-Aldrich) was added in excess (15 U) to
+terminate the H<sub>2</sub>O<sub>2</sub> treatment. Then, the cells were diluted
+and spread onto solid TGY media to determine the number of CFUs. The survival
+fractions were defined as a percentage of the CFU obtained in the treated sample
+compared with the control. The data are presented as the means &#x000b1; SD of three
+independent experiments.</p><p>The cell survival fractions under ionizing radiation were determined using a
+previously described method (<xref rid="B37" ref-type="bibr">Wang <italic>et
+al.</italic>, 2008</xref>).</p></sec><sec><title>Measurement of protein carbonylation levels</title><p>Protein carbonylation, which is an indicator of intracellular protein oxidation,
+was measured using the DNPH (2,4-dinitrophenyl hydrazine) method (<xref rid="B35" ref-type="bibr">Tian <italic>et al.</italic>, 2009</xref>).</p></sec><sec><title>Membrane localization of the DR1790 protein</title><p>The plasmid pRADG-<italic>dr1790</italic> was constructed as described previously
+(<xref rid="B13" ref-type="bibr">Gao <italic>et al.</italic>, 2008</xref>).
+pRADG-<italic>dr1790</italic> was transformed into the
+R1&#x00394;<italic>dr1790</italic> mutant strain. The transformant was obtained by
+chloramphenicol-resistance selection. The transformant was grown to the
+exponential phase (OD<sub>600nm</sub> is approximately 0.8), spread on a glass
+slide and examined using a laser confocal microscope (Zeiss LSM510,
+Germany).</p></sec><sec><title>Membrane integrity assessment</title><p>Differences in membrane permeability between the varying strains were assessed
+using a LIVE/DEAD BacLight Bacterial Viability Kit (Invitrogen, Carlsbad, CA,
+USA). This system employs two nucleic acid stains: green-fluorescent SYTO9 stain
+and red-fluorescent propidium iodide (PI) stain. Live cells with intact
+membranes fluoresced green, while dead cells or cells with compromised membranes
+fluoresced red. Bacterial cells were grown to mid-exponential phase, and a 1-mL
+aliquot of the culture was normalized to an OD<sub>600nm</sub> equal to 0.6,
+washed twice with PBS, and resuspended in 1 mL PBS. The bacterial suspensions
+were stained with the nucleic acid dyes according to the manufacturer's
+protocol; then, 10 &#x003bc;L stained bacteria was spotted onto glass coverslips and
+visualized using a Leica DM4000B wide-field epifluorescence microscope (Leica
+Microsystems, Wetzlar, Germany). In total, 10 different fields were viewed for
+each strain, and the numbers of green, red or mixed cells were counted for each
+field.</p></sec><sec><title>Transcriptome analysis</title><p>The procedures used for microarray hybridization and data analyses were performed
+as described previously (<xref rid="B05" ref-type="bibr">Chen <italic>et
+al.</italic>, 2008</xref>). Briefly, total RNA was prepared from three
+replicates of wild type and R1&#x00394;<italic>dr1790</italic> mutant cells.
+Approximately 16 &#x003bc;g total RNA was annealed with 10 &#x003bc;g random hexamer primers in
+a total volume of 20 &#x003bc;L at 70 &#x000b0;C for 10 min, followed by incubation on ice for 2
+min. cDNA synthesis was performed at 42 &#x000b0;C overnight in a 31-&#x003bc;L reaction mixture
+using SuperScript III Reverse Transcriptase (Invitrogen) with 0.5 mM dNTP mix
+containing amino allyl-dUTP (GE, Piscataway, NJ, USA). The reaction was
+terminated by adding 20 &#x003bc;L 0.5 M EDTA and 20 &#x003bc;L 1 M NaOH, followed by heating at
+65 &#x000b0;C for 20 min. The reaction mixture was neutralized with 50 &#x003bc;L 1 M HEPES
+buffer (pH 7.0), and unincorporated amino allyl-dUTPs were removed by
+ultra-filtration using YM 30 columns (Millipore). The cDNA was coupled to 1 pmol
+Cy3 or Cy5 dye (GE) in 0.1 M sodium carbonate buffer for 2 h at room
+temperature, and free Cy3 or Cy5 was removed. The labeled pools of wild type and
+R1&#x00394;<italic>dr1790</italic> mutant cDNA were mixed and simultaneously
+hybridized with the DNA chips in a solution containing 3X saline sodium citrate
+(SSC), 0.3% SDS, and 24 &#x003bc;g unlabeled herring sperm DNA (Gibco BRL, Gaithersburg,
+MD, USA). Normalization and statistical analysis were performed in the R
+computing environment (version 2.2.0, R with Aqua for Windows) using the linear
+modeling features of the Limma microarray data package (<xref rid="B38" ref-type="bibr">Wettenhall <italic>et al.</italic>, 2004</xref>). Before
+channel normalization, microarray outputs were filtered using Limma to remove
+spots with poor signal quality by excluding data points with a mean intensity
+less than two standard deviations above the background in both channels. Then,
+global LOESS normalization was used to normalize all data, and three replicate
+spots per gene in each array were used to maximize the robustness of the
+differential expression measurement of each gene via the "lmFit" function. The
+transcriptome analysis data were deposited in the Gene Expression Omnibus
+database under accession no. GSE22628.</p></sec><sec><title>Real-time quantitative PCR</title><p>The genes of interest were identified using real-time quantitative PCR to
+validate the results of the microarray data. <italic>dr0089</italic>, which is a
+gene whose expression is unaffected by H<sub>2</sub>O<sub>2</sub> and ionizing
+radiation, was used for normalization. Briefly, first-strand cDNA synthesis was
+performed in 20-&#x003bc;L reactions containing 1 &#x003bc;g each DNase I-treated and purified
+total RNA sample and 3 &#x003bc;g random hexamers. The real-time PCR amplification was
+performed using a Toyobo SYBR Green I Real Time PCR kit (Japan) according to the
+manufacturer's instructions under the following conditions: 94 &#x000b0;C for 2 min,
+followed by 40 cycles at 94 &#x000b0;C for 10 s, annealing at 56&#x02013;62 &#x000b0;C for 15 s and 72
+&#x000b0;C for 30 s. All assays were performed using a Stratagene Mx3005P qPCR system
+(Stratagene, Cedar Creek, TX, USA).</p></sec><sec><title>Proteomics analysis</title><p>Proteomic analysis of the mutant compared with the wild type strain was performed
+using 2-DE and data analyses, in-gel digestion, MALDI-TOF MS analysis and a PMF
+spectra-based database search (<xref rid="B19" ref-type="bibr">Lu <italic>et
+al.</italic>, 2009</xref>).</p></sec></sec><sec sec-type="results"><title>Results</title><sec><title>Growth of the deletion mutant</title><p>We assayed the doubling time of cells in the lag and log phases. The
+R1&#x00394;<italic>dr1790</italic> mutant doubling time (2.1 &#x000b1; 0.4 h) was not
+significantly slower than the doubling time (1.5 &#x000b1; 0.4 h) of the wild type R1
+strain under aerobic conditions during the lag phase (<italic>p</italic> &#x0003e;
+0.05) (<xref rid="f01" ref-type="fig">Figure 1A</xref>). However, the
+R1&#x00394;<italic>dr1790</italic> mutant doubling time (3.1 &#x000b1; 0.5 h) was slightly
+slower than the doubling time (1.6 &#x000b1; 0.2 h) of the wild type R1 strain under
+aerobic conditions during the log phase (<italic>p</italic> &#x0003c; 0.05) (<xref rid="f01" ref-type="fig">Figure 1B</xref>).</p><fig id="f01" orientation="portrait" position="float"><label>Figure 1</label><caption><title>Growth of wild type <italic>D. radiodurans</italic> R1 compared with
+the R1&#x00394;<italic>dr1790</italic> mutant strain under normal conditions in
+the lag (A) and log (B) phases. The error bars represent the standard
+deviations from three experiments.</title></caption><graphic xlink:href="1517-8382-bjm-46-2-601-gf01"/></fig></sec><sec><title>The deletion mutant was sensitive to oxidative stress and radiation</title><p>The yellow-related protein homolog DR1790 from <italic>D. radiodurans</italic>
+functions has been implicated in cell resistance to oxidative stress and
+radiation. The R1&#x00394;<italic>dr1790</italic> mutant was sensitive to hydrogen
+peroxide treatment and &#x003b3;-ray radiation. Compared with the wild type strains, the
+survival of the R1&#x00394;<italic>dr1790</italic> mutant cells decreased nearly 15-fold
+in response to 30 mM hydrogen peroxide (<xref rid="f02" ref-type="fig">Figure
+2A</xref>) and nearly 3-fold in response to a 8 kGy dose (<xref rid="f02" ref-type="fig">Figure 2B</xref>).</p><fig id="f02" orientation="portrait" position="float"><label>Figure 2</label><caption><title>Survival curves for <italic>D. radiodurans</italic> following
+exposure to H<sub>2</sub>O<sub>2</sub> (A) and gamma radiation (B). Each
+data point represents the mean of three replicates (bars indicate the
+standard deviations).</title></caption><graphic xlink:href="1517-8382-bjm-46-2-601-gf02"/></fig><p>To determine whether the loss of DNA damage tolerance in the
+R1&#x00394;<italic>dr1790</italic> mutant reflected the absence of
+<italic>dr1790</italic> and not a polar effect of this mutation, the wild
+type allele of this gene was cloned into pRADgro, which is a
+<italic>Deinococcus</italic> expression vector, and the protein was
+expressed in R1&#x00394;<italic>dr1790</italic> mutant cells. The radiation and
+oxidative resistance of the complemented mutant Dr1790com strain nearly
+recovered to the phenotype of the wild type strain (<xref rid="f02" ref-type="fig">Figure 2</xref>), suggesting that the sensitivity of the
+R1&#x00394;<italic>dr1790</italic> mutant reflected the absence of the
+<italic>dr1790</italic> gene.</p></sec><sec><title>Comparison of intracellular protein oxidation levels between the wild type R1
+strain and the R1&#x00394;<italic>dr1790</italic> mutant strain</title><p>The level of protein oxidation in the R1&#x00394;<italic>dr1790</italic> mutant was
+analyzed and compared with that of the wild type R1 strain (<xref rid="f03" ref-type="fig">Figure 3</xref>). The total protein carbonyl contents
+measured in the wild type and mutant strains were 0.012 and 0.015 mmol/mg,
+respectively, indicating that the mutant strain exhibited relatively higher
+levels of protein oxidation compared with the wild type strain in the absence of
+oxygen stress. Following H<sub>2</sub>O<sub>2</sub> treatment, intracellular
+protein carbonylation significantly increased in both the wild type and
+R1&#x00394;<italic>dr1790</italic> mutant strains. The carbonyl content in the
+R1&#x00394;<italic>dr1790</italic> mutant post-H<sub>2</sub>O<sub>2</sub> treatment
+was 0.023 mmol/mg protein, which was significantly higher than the content in
+the wild type cells (0.017 mmol/mg protein, <italic>p</italic> &#x0003c; 0.05),
+suggesting that the intracellular proteins in the mutant cells lacking DR1790
+were more sensitive to oxidative damage than those in the wild type cells.</p><fig id="f03" orientation="portrait" position="float"><label>Figure 3</label><caption><title>Comparison of the intracellular protein carbonylation levels between
+wild type R1 and R1&#x00394;<italic>dr1790</italic> mutant strains following
+H<sub>2</sub>O<sub>2</sub> treatment. R1 and M represent wild type
+R1 and R1&#x00394;<italic>dr1790</italic> mutant strains under normal
+conditions, respectively. R1+ and M+ represent wild type R1 and
+R1&#x00394;<italic>dr1790</italic> mutant strains following
+H<sub>2</sub>O<sub>2</sub> treatment, respectively. Each data point
+represents the mean of three replicates (bars indicate the standard
+deviations). The results were assessed using Student's
+<italic>t</italic>-test, and statistical significance was considered
+at p &#x0003c; 0.05.</title></caption><graphic xlink:href="1517-8382-bjm-46-2-601-gf03"/></fig></sec><sec><title>Membrane localization of the DR1790 protein and membrane integrity of the
+R1&#x00394;<italic>dr1790</italic> mutant strain</title><p>Fusion gene expression of the green fluorescence protein (eGFP) gene and
+<italic>dr1790</italic> was performed and analyzed by fluorescence
+microscopy to confirm the localization of the DR1790 protein (<xref rid="B13" ref-type="bibr">Gao <italic>et al.</italic>, 2008</xref>). <xref rid="f04" ref-type="fig">Figure 4</xref> shows that eGFP-labeled protein (green
+fluorescence) was localized to the cell membrane; the yellow fluorescence
+displayed in the merged picture indicates the co-localization of eGFP-labeled
+proteins and FM4-64 (red fluorescence)-labeled membranes, confirming that DR1790
+is a membrane protein.</p><fig id="f04" orientation="portrait" position="float"><label>Figure 4</label><caption><title>Analysis of DR1790 protein localization by fluorescence labeling.
+Images show FM4-64-stained membranes (red), DAPI-stained DNA (blue),
+eGFP-labeled proteins (green), and the merged image shows eGFP labeling
+and FM4-64 and DAPI staining (630).</title></caption><graphic xlink:href="1517-8382-bjm-46-2-601-gf04"/></fig><p>The membrane integrity of the mutant strain was analyzed based on permeability
+assays using membrane-permeant and membrane-impermeant fluorescence-labeled
+nucleic acids. The R1&#x00394;<italic>dr1790</italic> mutant incorporated both the
+membrane-impermeant dye propidium iodide (PI) and the membrane-permeant dye
+SYTO9 (<xref rid="f05" ref-type="fig">Figure 5</xref>). Of 1384 mutant bacterial
+cells counted in 10 different fields, 20% of the cells incorporated PI (red). In
+contrast, wild type R1 and complemented mutant Dr1790com strains incorporated
+SYTO9 (green); however, only 1% of the cells were PI-positive among the 1464
+wild type and 1538 complemented mutant bacteria that were counted in 10
+independent fields (<xref rid="f05" ref-type="fig">Figure 5</xref>). Thus, the
+R1&#x00394;<italic>dr1790</italic> mutant showed a high proportion of damaged
+membranes (20% red cells observed in the mutant field) compared with wild type
+and complemented mutant strains. This result suggests that the DR1790 protein
+contributes to membrane permeability.</p><fig id="f05" orientation="portrait" position="float"><label>Figure 5</label><caption><title>Stained images of wild type R1, R1&#x00394;<italic>dr1790</italic> and
+complemented Mutant Dr1790com strains using a LIVE/DEAD kit (100). Live
+cells with intact membranes only incorporated SYTO9 (green), whereas
+dead cells or cells with compromised membranes incorporated PI
+(red).</title></caption><graphic xlink:href="1517-8382-bjm-46-2-601-gf05"/></fig></sec><sec><title>Transcriptional and translational profiles of the DR1790 mutant
+<italic>vs.</italic> the wild type strain</title><p>2-DE and MS analyses were applied to compare the differential protein expression
+profiles of the R1&#x00394;<italic>dr1790</italic> mutant and the wild type R1 strains
+(<xref rid="f06" ref-type="fig">Figure 6</xref>). Ten protein spots showing
+two-fold changes in intensity in the R1&#x00394;<italic>dr1790</italic> mutant compared
+with the wild type R1 were observed, including growth-related metabolism enzymes
+(IDH, MDH and FBP2), the predicted transmembrane protein transporter DR1909, and
+the chaperone protein DnaJ (<xref rid="t02" ref-type="table">Table 2</xref>).
+The limited information acquired by 2-DE analysis prompted the use of DNA
+microarray analysis to investigate this issue further.</p><fig id="f06" orientation="portrait" position="float"><label>Figure 6</label><caption><title>2-D gel images visualized by Coomassie Blue staining. The cells were
+analyzed by 2-DE and visualized by Coomassie Blue staining as described
+in the Materials and methods section. (M) R1&#x00394;<italic>dr1790</italic>
+mutant, (R) R1.</title></caption><graphic xlink:href="1517-8382-bjm-46-2-601-gf06"/></fig><table-wrap id="t02" orientation="portrait" position="float"><label>Table 2</label><caption><title>Mass spectrometry identification of the protein spots that were
+separated by 2-DE analysis.</title></caption><table frame="hsides" rules="groups"><thead><tr><th valign="bottom" align="left" rowspan="1" colspan="1">Protein spot</th><th valign="bottom" align="center" rowspan="1" colspan="1">Locus</th><th valign="bottom" align="center" rowspan="1" colspan="1">Length (aa)</th><th valign="bottom" align="left" rowspan="1" colspan="1">Functional category</th><th valign="bottom" align="center" rowspan="1" colspan="1">Expression ratio, mutant 1790/WT
+(fold)</th></tr></thead><tbody><tr><td valign="top" align="left" rowspan="1" colspan="1">1</td><td valign="top" align="center" rowspan="1" colspan="1">DR1540</td><td valign="top" align="center" rowspan="1" colspan="1">430</td><td valign="top" align="left" rowspan="1" colspan="1">Isocitrate dehydrogenase (IDH)</td><td valign="top" align="center" rowspan="1" colspan="1">0.05</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">2</td><td valign="top" align="center" rowspan="1" colspan="1">DR2013</td><td valign="top" align="center" rowspan="1" colspan="1">268</td><td valign="top" align="left" rowspan="1" colspan="1">Fructose 1,6-bisphosphatase II
+(FBP2)</td><td valign="top" align="center" rowspan="1" colspan="1">0.09</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">3</td><td valign="top" align="center" rowspan="1" colspan="1">DR0325</td><td valign="top" align="center" rowspan="1" colspan="1">330</td><td valign="top" align="left" rowspan="1" colspan="1">Malate dehydrogenase (MDH)</td><td valign="top" align="center" rowspan="1" colspan="1">0.03</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">4</td><td valign="top" align="center" rowspan="1" colspan="1">DR1512</td><td valign="top" align="center" rowspan="1" colspan="1">264</td><td valign="top" align="left" rowspan="1" colspan="1">Elongation factor Ts</td><td valign="top" align="center" rowspan="1" colspan="1">0.09</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">5</td><td valign="top" align="center" rowspan="1" colspan="1">DR0350</td><td valign="top" align="center" rowspan="1" colspan="1">571</td><td valign="top" align="left" rowspan="1" colspan="1">Serine/threonine protein kinase</td><td valign="top" align="center" rowspan="1" colspan="1">0.29</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">6</td><td valign="top" align="center" rowspan="1" colspan="1">DRA0337</td><td valign="top" align="center" rowspan="1" colspan="1">386</td><td valign="top" align="left" rowspan="1" colspan="1">Glutaryl-CoA dehydrogenase</td><td valign="top" align="center" rowspan="1" colspan="1">2.49</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">7</td><td valign="top" align="center" rowspan="1" colspan="1">DR1172</td><td valign="top" align="center" rowspan="1" colspan="1">298</td><td valign="top" align="left" rowspan="1" colspan="1">Cell envelope integrity inner membrane
+protein</td><td valign="top" align="center" rowspan="1" colspan="1">0.18</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">8</td><td valign="top" align="center" rowspan="1" colspan="1">DR1909</td><td valign="top" align="center" rowspan="1" colspan="1">212</td><td valign="top" align="left" rowspan="1" colspan="1">Predicted transmembrane protein
+transporter</td><td valign="top" align="center" rowspan="1" colspan="1">0.09</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">9</td><td valign="top" align="center" rowspan="1" colspan="1">DR1148</td><td valign="top" align="center" rowspan="1" colspan="1">175</td><td valign="top" align="left" rowspan="1" colspan="1">Putative TrkA-C domain protein
+Tyrosine kinase</td><td valign="top" align="center" rowspan="1" colspan="1">2.56</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">10</td><td valign="top" align="center" rowspan="1" colspan="1">DR0126</td><td valign="top" align="center" rowspan="1" colspan="1">312</td><td valign="top" align="left" rowspan="1" colspan="1">Chaperone protein DnaJ</td><td valign="top" align="center" rowspan="1" colspan="1">3.39</td></tr></tbody></table></table-wrap><p>The transcriptome of the R1&#x00394;dr1790 mutant was analyzed and compared with that of
+the wild type strain under normal growth conditions using oligonucleotide
+microarray to examine the expression of the entire gene repertoire of <italic>D.
+radiodurans</italic> in response to <italic>dr1790</italic> knockout. In the
+present study, a two-fold difference in the relative transcription level was
+selected as the threshold for microarray data analysis as described previously
+by <xref rid="B05" ref-type="bibr">Chen <italic>et al.</italic> (2008)</xref>.
+We observed that 1.5% of the genes represented on the microarray
+(<italic>n</italic> = 46) were differentially transcribed in the
+R1&#x00394;<italic>dr1790</italic> mutant compared with the WT. Among these genes,
+27 were up-regulated (<xref rid="t03" ref-type="table">Table 3</xref>), and 19
+were down-regulated (<xref rid="t03" ref-type="table">Table 3</xref>). These
+genes were involved in DNA/RNA repair, energy metabolism, various transporters,
+proteases and chaperones, stress responses, and translation and transcription
+functions.</p><table-wrap id="t03" orientation="portrait" position="float"><label>Table 3</label><caption><title>Summary of the gene expression results from microarray data. The 27
+most highly repressed genes in the R1&#x00394;<italic>dr1790</italic> mutant.
+The 19 most highly induced genes in the R1&#x00394;<italic>dr1790</italic>
+mutant.</title></caption><table frame="hsides" rules="groups"><thead><tr><th valign="bottom" align="left" rowspan="1" colspan="1">Locus</th><th valign="bottom" align="left" rowspan="1" colspan="1">Annotation</th><th valign="bottom" align="center" rowspan="1" colspan="1">Fold decrease</th><th valign="bottom" align="center" rowspan="1" colspan="1">p value</th></tr></thead><tbody><tr><td valign="top" align="left" rowspan="1" colspan="1">DR1900</td><td valign="top" align="left" rowspan="1" colspan="1">Predicted secreted protein</td><td valign="top" align="center" rowspan="1" colspan="1">&#x02212;23.35015</td><td valign="top" align="center" rowspan="1" colspan="1">6.9E-06</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">DRB0006</td><td valign="top" align="left" rowspan="1" colspan="1">Hypothetical protein</td><td valign="top" align="center" rowspan="1" colspan="1">&#x02212;6.61064</td><td valign="top" align="center" rowspan="1" colspan="1">0.004</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">DR1702</td><td valign="top" align="left" rowspan="1" colspan="1">NH2 acetyltransferase</td><td valign="top" align="center" rowspan="1" colspan="1">&#x02212;6.322434</td><td valign="top" align="center" rowspan="1" colspan="1">0.005</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">DRB0045</td><td valign="top" align="left" rowspan="1" colspan="1">Hypothetical protein</td><td valign="top" align="center" rowspan="1" colspan="1">&#x02212;5.757131</td><td valign="top" align="center" rowspan="1" colspan="1">0.005</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">DR1085</td><td valign="top" align="left" rowspan="1" colspan="1">SAM-dependent methyltransferase</td><td valign="top" align="center" rowspan="1" colspan="1">&#x02212;5.548009</td><td valign="top" align="center" rowspan="1" colspan="1">0.005</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">DR0763</td><td valign="top" align="left" rowspan="1" colspan="1">Acetyltransferase</td><td valign="top" align="center" rowspan="1" colspan="1">&#x02212;5.013164</td><td valign="top" align="center" rowspan="1" colspan="1">0.006</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">DR1913</td><td valign="top" align="left" rowspan="1" colspan="1">DNA gyrase, subunit A (gyrA)</td><td valign="top" align="center" rowspan="1" colspan="1">&#x02212;4.815689</td><td valign="top" align="center" rowspan="1" colspan="1">0.011</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">DR2312</td><td valign="top" align="left" rowspan="1" colspan="1">Carbohydrate kinase, PfkB family</td><td valign="top" align="center" rowspan="1" colspan="1">&#x02212;4.445003</td><td valign="top" align="center" rowspan="1" colspan="1">0.007</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">DR1901</td><td valign="top" align="left" rowspan="1" colspan="1">Predicted secreted protein</td><td valign="top" align="center" rowspan="1" colspan="1">&#x02212;3.834828</td><td valign="top" align="center" rowspan="1" colspan="1">0.019</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">DR2625</td><td valign="top" align="left" rowspan="1" colspan="1">Lipid A disaccharide synthase-related
+enzyme</td><td valign="top" align="center" rowspan="1" colspan="1">&#x02212;3.64618</td><td valign="top" align="center" rowspan="1" colspan="1">0.009</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">DR2307</td><td valign="top" align="left" rowspan="1" colspan="1">Multidrug-efflux transporter,
+putative</td><td valign="top" align="center" rowspan="1" colspan="1">&#x02212;3.451829</td><td valign="top" align="center" rowspan="1" colspan="1">0.010</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">DR1912</td><td valign="top" align="left" rowspan="1" colspan="1">Protein-tyrosine phosphatase,
+putative</td><td valign="top" align="center" rowspan="1" colspan="1">&#x02212;3.427269</td><td valign="top" align="center" rowspan="1" colspan="1">0.011</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">DR1157</td><td valign="top" align="left" rowspan="1" colspan="1">Hydroxypyruvate reductase,
+putative</td><td valign="top" align="center" rowspan="1" colspan="1">&#x02212;3.409991</td><td valign="top" align="center" rowspan="1" colspan="1">0.010</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">DR2333</td><td valign="top" align="left" rowspan="1" colspan="1">NADH oxidase-related protein</td><td valign="top" align="center" rowspan="1" colspan="1">&#x02212;3.152435</td><td valign="top" align="center" rowspan="1" colspan="1">0.011</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">DR1591</td><td valign="top" align="left" rowspan="1" colspan="1">Hypothetical protein</td><td valign="top" align="center" rowspan="1" colspan="1">&#x02212;3.149012</td><td valign="top" align="center" rowspan="1" colspan="1">0.011</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">DR1481</td><td valign="top" align="left" rowspan="1" colspan="1">Chlorite dismutase family enzyme</td><td valign="top" align="center" rowspan="1" colspan="1">&#x02212;2.949308</td><td valign="top" align="center" rowspan="1" colspan="1">4E-03</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">DR2285</td><td valign="top" align="left" rowspan="1" colspan="1">A-G-specific adenine glycosylase
+(mutY)</td><td valign="top" align="center" rowspan="1" colspan="1">&#x02212;2.799988</td><td valign="top" align="center" rowspan="1" colspan="1">0.013</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">DRC0037</td><td valign="top" align="left" rowspan="1" colspan="1">Nodulation protein-related
+protein</td><td valign="top" align="center" rowspan="1" colspan="1">&#x02212;2.666197</td><td valign="top" align="center" rowspan="1" colspan="1">0.015</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">DRA0300</td><td valign="top" align="left" rowspan="1" colspan="1">Predicted secreted protein</td><td valign="top" align="center" rowspan="1" colspan="1">&#x02212;2.620658</td><td valign="top" align="center" rowspan="1" colspan="1">4E-03</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">DR2544</td><td valign="top" align="left" rowspan="1" colspan="1">Predicted secreted protein</td><td valign="top" align="center" rowspan="1" colspan="1">&#x02212;2.604338</td><td valign="top" align="center" rowspan="1" colspan="1">0.015</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">DRA0302</td><td valign="top" align="left" rowspan="1" colspan="1">Hypothetical protein</td><td valign="top" align="center" rowspan="1" colspan="1">&#x02212;2.590681</td><td valign="top" align="center" rowspan="1" colspan="1">2E-03</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">DR1916</td><td valign="top" align="left" rowspan="1" colspan="1">DNA helicase RecG (recG)</td><td valign="top" align="center" rowspan="1" colspan="1">&#x02212;2.543044</td><td valign="top" align="center" rowspan="1" colspan="1">0.011</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">DR1359</td><td valign="top" align="left" rowspan="1" colspan="1">ABC-type metal ion transport
+system</td><td valign="top" align="center" rowspan="1" colspan="1">&#x02212;2.518423</td><td valign="top" align="center" rowspan="1" colspan="1">0.060</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">DR2259</td><td valign="top" align="left" rowspan="1" colspan="1">Transcriptional regulator</td><td valign="top" align="center" rowspan="1" colspan="1">&#x02212;2.45463</td><td valign="top" align="center" rowspan="1" colspan="1">0.017</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">DRA0061</td><td valign="top" align="left" rowspan="1" colspan="1">Permease MDR-type</td><td valign="top" align="center" rowspan="1" colspan="1">&#x02212;2.111218</td><td valign="top" align="center" rowspan="1" colspan="1">0.023</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">DR0610</td><td valign="top" align="left" rowspan="1" colspan="1">P-loop ATPase of adenylate kinase
+family</td><td valign="top" align="center" rowspan="1" colspan="1">&#x02212;2.086652</td><td valign="top" align="center" rowspan="1" colspan="1">0.058</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">DR2213</td><td valign="top" align="left" rowspan="1" colspan="1">Conserved hypothetical protein</td><td valign="top" align="center" rowspan="1" colspan="1">&#x02212;2.079364</td><td valign="top" align="center" rowspan="1" colspan="1">0.024</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">Locus</td><td valign="top" align="left" rowspan="1" colspan="1">Annotation</td><td valign="top" align="center" rowspan="1" colspan="1">Fold increase</td><td valign="top" align="center" rowspan="1" colspan="1">
+<italic>p</italic> value</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">DR0888</td><td valign="top" align="left" rowspan="1" colspan="1">Distant homolog of OsmY</td><td valign="top" align="center" rowspan="1" colspan="1">2.02588</td><td valign="top" align="center" rowspan="1" colspan="1">5E-03</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">DR2403</td><td valign="top" align="left" rowspan="1" colspan="1">Predicted membrane protein</td><td valign="top" align="center" rowspan="1" colspan="1">2.03289</td><td valign="top" align="center" rowspan="1" colspan="1">0.025</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">DR1306</td><td valign="top" align="left" rowspan="1" colspan="1">Predicted secreted protein</td><td valign="top" align="center" rowspan="1" colspan="1">2.03588</td><td valign="top" align="center" rowspan="1" colspan="1">0.007</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">DRA0234</td><td valign="top" align="left" rowspan="1" colspan="1">Hypothetical protein</td><td valign="top" align="center" rowspan="1" colspan="1">2.04611</td><td valign="top" align="center" rowspan="1" colspan="1">0.004</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">DR1114</td><td valign="top" align="left" rowspan="1" colspan="1">HSP20</td><td valign="top" align="center" rowspan="1" colspan="1">2.06477</td><td valign="top" align="center" rowspan="1" colspan="1">0.005</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">DR0201</td><td valign="top" align="left" rowspan="1" colspan="1">Hypothetical protein</td><td valign="top" align="center" rowspan="1" colspan="1">2.08698</td><td valign="top" align="center" rowspan="1" colspan="1">0.033</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">DRA0143</td><td valign="top" align="left" rowspan="1" colspan="1">3-Hydroxyacyl-CoA dehydrogenase</td><td valign="top" align="center" rowspan="1" colspan="1">2.08777</td><td valign="top" align="center" rowspan="1" colspan="1">0.024</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">DR2385</td><td valign="top" align="left" rowspan="1" colspan="1">Phenylacetic acid degradation protein
+PaaB</td><td valign="top" align="center" rowspan="1" colspan="1">2.16397</td><td valign="top" align="center" rowspan="1" colspan="1">0.008</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">DRA0290</td><td valign="top" align="left" rowspan="1" colspan="1">Cell division protein FtsH
+(ftsH-3)</td><td valign="top" align="center" rowspan="1" colspan="1">2.21667</td><td valign="top" align="center" rowspan="1" colspan="1">0.007</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">DR0607</td><td valign="top" align="left" rowspan="1" colspan="1">GroEL protein (groEL)</td><td valign="top" align="center" rowspan="1" colspan="1">2.28587</td><td valign="top" align="center" rowspan="1" colspan="1">0.001</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">DR1046</td><td valign="top" align="left" rowspan="1" colspan="1">ATP-dependent Clp protease,
+ATP-binding subunit ClpB (clpB)</td><td valign="top" align="center" rowspan="1" colspan="1">2.34619</td><td valign="top" align="center" rowspan="1" colspan="1">0.012</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">DR0194</td><td valign="top" align="left" rowspan="1" colspan="1">Predicted Zn-dependent protease</td><td valign="top" align="center" rowspan="1" colspan="1">2.39411</td><td valign="top" align="center" rowspan="1" colspan="1">0.003</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">DR0128</td><td valign="top" align="left" rowspan="1" colspan="1">GrpE protein (grpE), HSP20
+cofactor</td><td valign="top" align="center" rowspan="1" colspan="1">2.46405</td><td valign="top" align="center" rowspan="1" colspan="1">0.026</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">DR0129</td><td valign="top" align="left" rowspan="1" colspan="1">DnaK protein (dnaK)</td><td valign="top" align="center" rowspan="1" colspan="1">2.47161</td><td valign="top" align="center" rowspan="1" colspan="1">8E-03</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">DRA0028</td><td valign="top" align="left" rowspan="1" colspan="1">Hypothetical protein</td><td valign="top" align="center" rowspan="1" colspan="1">2.47212</td><td valign="top" align="center" rowspan="1" colspan="1">0.043</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">DRA0027</td><td valign="top" align="left" rowspan="1" colspan="1">Putative L-lysine 2,3-aminomutase,
+Lysine degradation</td><td valign="top" align="center" rowspan="1" colspan="1">2.54777</td><td valign="top" align="center" rowspan="1" colspan="1">0.016</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">DR0126</td><td valign="top" align="left" rowspan="1" colspan="1">DnaJ protein (dnaJ-1)</td><td valign="top" align="center" rowspan="1" colspan="1">2.59145</td><td valign="top" align="center" rowspan="1" colspan="1">0.003</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">DR1974</td><td valign="top" align="left" rowspan="1" colspan="1">ATP-dependent protease LA (Lon1)</td><td valign="top" align="center" rowspan="1" colspan="1">2.72752</td><td valign="top" align="center" rowspan="1" colspan="1">0.003</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">DR0606</td><td valign="top" align="left" rowspan="1" colspan="1">Chaperonin (groES)</td><td valign="top" align="center" rowspan="1" colspan="1">2.76172</td><td valign="top" align="center" rowspan="1" colspan="1">7E-03</td></tr></tbody></table></table-wrap><p>Among the up-regulated genes in the R1&#x00394;<italic>dr1790</italic> mutant, three
+genes were categorized as proteinase genes, six genes were related to protein
+quality control, and some genes encoded unknown/hypothetical proteins.
+Similarly, the down-regulated genes in the R1&#x00394;<italic>dr1790</italic> mutant
+included four genes that were related to secreted proteins. The effectiveness of
+the microarray data was further confirmed by real-time quantitative RT-PCR
+(<xref rid="t04" ref-type="table">Table 4</xref>). Notably, many molecular
+chaperones and proteinases were positively regulated in the
+R1&#x00394;<italic>dr1790</italic> mutant, and transporters and kinases were
+negatively regulated in the R1&#x00394;<italic>dr1790</italic> mutant. These data
+demonstrate that the deletion of the <italic>dr1790</italic> gene significantly
+increased the amount of misfolded proteins in the cell<italic>.</italic> Some
+secreted proteins and transmembrane protein transporters were repressed,
+indicating that the DR1790 protein could be associated with secretory factors in
+the membrane.</p><table-wrap id="t04" orientation="portrait" position="float"><label>Table 4</label><caption><title>Real-time PCR relative quantification of the expression of repressed
+and induced genes in the R1&#x00394;<italic>dr1790</italic> mutant compared with
+the <italic>D. radiodurans</italic> wild type strain.</title></caption><table frame="hsides" rules="groups"><thead><tr><th valign="bottom" align="left" rowspan="1" colspan="1">Function</th><th valign="bottom" align="center" rowspan="1" colspan="1">Gene name</th><th valign="bottom" align="center" rowspan="1" colspan="1">Locus</th><th valign="bottom" align="left" rowspan="1" colspan="1">Annotation</th><th valign="bottom" align="center" rowspan="1" colspan="1">qRT-PCR Fold change</th></tr></thead><tbody><tr><td valign="top" align="left" rowspan="1" colspan="1">Heat, General</td><td valign="top" align="center" rowspan="1" colspan="1">DnaJ-1</td><td valign="top" align="center" rowspan="1" colspan="1">DR0126</td><td valign="top" align="left" rowspan="1" colspan="1">HSP70 cofactor</td><td valign="top" align="center" rowspan="1" colspan="1">2.13</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="center" rowspan="1" colspan="1">GrpE</td><td valign="top" align="center" rowspan="1" colspan="1">DR0128</td><td valign="top" align="left" rowspan="1" colspan="1">HSP20 chaperonin</td><td valign="top" align="center" rowspan="1" colspan="1">2.45</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="center" rowspan="1" colspan="1">DnaK</td><td valign="top" align="center" rowspan="1" colspan="1">DR0129</td><td valign="top" align="left" rowspan="1" colspan="1">HSP70 chaperonin</td><td valign="top" align="center" rowspan="1" colspan="1">2.53</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="center" rowspan="1" colspan="1">GroES</td><td valign="top" align="center" rowspan="1" colspan="1">DR0606</td><td valign="top" align="left" rowspan="1" colspan="1">Hsp10 chaperonin</td><td valign="top" align="center" rowspan="1" colspan="1">2.18</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="center" rowspan="1" colspan="1">GroEL</td><td valign="top" align="center" rowspan="1" colspan="1">DR0607</td><td valign="top" align="left" rowspan="1" colspan="1">Hsp60 chaperonin</td><td valign="top" align="center" rowspan="1" colspan="1">2.27</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="center" rowspan="1" colspan="1">Hsp20</td><td valign="top" align="center" rowspan="1" colspan="1">DR1114</td><td valign="top" align="left" rowspan="1" colspan="1">Molecular chaperone</td><td valign="top" align="center" rowspan="1" colspan="1">4.57</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">General</td><td valign="top" align="center" rowspan="1" colspan="1">HtpX</td><td valign="top" align="center" rowspan="1" colspan="1">DR0194</td><td valign="top" align="left" rowspan="1" colspan="1">Zn-dependent protease, Bacillus yugP
+ortholog</td><td valign="top" align="center" rowspan="1" colspan="1">2.38</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="center" rowspan="1" colspan="1">ClpB</td><td valign="top" align="center" rowspan="1" colspan="1">DR1046</td><td valign="top" align="left" rowspan="1" colspan="1">ClpB, AAA superfamily ATPase</td><td valign="top" align="center" rowspan="1" colspan="1">31.55</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="center" rowspan="1" colspan="1">Lon</td><td valign="top" align="center" rowspan="1" colspan="1">DR1974</td><td valign="top" align="left" rowspan="1" colspan="1">ATP-dependent Lon protease, bacterial
+type</td><td valign="top" align="center" rowspan="1" colspan="1">4.68</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">Osmotic</td><td valign="top" align="center" rowspan="1" colspan="1">OsmY</td><td valign="top" align="center" rowspan="1" colspan="1">DR0888</td><td valign="top" align="left" rowspan="1" colspan="1">Distant homolog of OsmY</td><td valign="top" align="center" rowspan="1" colspan="1">4.86</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">Others</td><td valign="top" align="center" rowspan="1" colspan="1"/><td valign="top" align="center" rowspan="1" colspan="1">DR0350</td><td valign="top" align="left" rowspan="1" colspan="1">Serine/threonine protein kinase</td><td valign="top" align="center" rowspan="1" colspan="1">&#x02212;2.14</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="center" rowspan="1" colspan="1"/><td valign="top" align="center" rowspan="1" colspan="1">DR1172</td><td valign="top" align="left" rowspan="1" colspan="1">Cell envelope integrity inner membrane
+protein</td><td valign="top" align="center" rowspan="1" colspan="1">&#x02212;2.32</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="center" rowspan="1" colspan="1"/><td valign="top" align="center" rowspan="1" colspan="1">DR1909</td><td valign="top" align="left" rowspan="1" colspan="1">Predicted transmembrane protein
+transporter</td><td valign="top" align="center" rowspan="1" colspan="1">&#x02212;1.14</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="center" rowspan="1" colspan="1"/><td valign="top" align="center" rowspan="1" colspan="1">DR1148</td><td valign="top" align="left" rowspan="1" colspan="1">Putative TrkA-C domain protein
+Tyrosine kinase</td><td valign="top" align="center" rowspan="1" colspan="1">&#x02212;2.83</td></tr></tbody></table></table-wrap></sec></sec><sec sec-type="discussion"><title>Discussion</title><p>The extreme resilience of <italic>D. radiodurans</italic> to oxidative and radiation
+stresses is imparted synergistically by the efficient protection of proteins against
+oxidative stress and efficient DNA repair mechanisms, enhanced by functional
+redundancies in both systems (<xref rid="B34" ref-type="bibr">Slade and Radman,
+2011</xref>). <xref rid="B22" ref-type="bibr">Maleszka <italic>et al.</italic>
+(2000)</xref> identified an orphan protein (DR1790) in <italic>D.
+radiodurans</italic> belonging to the yellow-related protein family, which was
+originally identified in <italic>Drosophila</italic>. A mutation in the
+yellow-related protein in <italic>Drosophila</italic> affects the pigmentation of
+larvae and exerts some effects on insect behavior (<xref rid="B07" ref-type="bibr">Drapeau <italic>et al.</italic>, 2006</xref>). In the present study, the
+predicted yellow-related protein DR1790, which belongs to the ancient Yellow/MRJ
+protein family, was confirmed to be a membrane-binding protein. A null-mutant strain
+(R1&#x00394;<italic>dr1790</italic>) exhibited reduced survival after gamma irradiation
+and H<sub>2</sub>O<sub>2</sub> treatment, demonstrating that DR1790 is involved in
+the radioresistance and antioxidant mechanisms of <italic>D. radiodurans</italic>.
+Protein, rather than DNA, was suggested to be the principal target of radiation and
+free radicals, and the degree of cell resistance was determined based on the level
+of oxidative protein damage (<xref rid="B06" ref-type="bibr">Daly <italic>et
+al.</italic>, 2007</xref>). We observed that the total protein carbonyl
+contents increased in the R1&#x00394;<italic>dr1790</italic> mutant under normal conditions
+and H<sub>2</sub>O<sub>2</sub> treatment, demonstrating that the absence of DR1790
+increased oxidative damage in cells.</p><p>Cellular membranes, which are composed of lipids, proteins, and carbohydrates, are
+damaged by radiation. The melting of membranes under stress results in permeability
+barrier loss and leakage, as well as the inability to maintain a proton gradient for
+respiration. The <italic>D. radiodurans</italic> cell envelope consists of at least
+five layers (<xref rid="B17" ref-type="bibr">Lancy <italic>et al.</italic>,
+1978</xref>). <italic>D. radiodurans</italic> irradiated with 4 kGy loses up to
+30% wet weight resulting from the loss of polysaccharides into the growth medium,
+which suggests permeability alterations in the cell envelope (<xref rid="B27" ref-type="bibr">Mitchel, 1976</xref>). For retaining membrane integrity,
+<italic>D. radiodurans</italic> cells were much more resistant to high
+temperatures when exposed in the dried state as opposed to cells in suspension
+(<xref rid="B03" ref-type="bibr">Bauermeister <italic>et al.</italic>,
+2012</xref>). The R1&#x00394;<italic>dr1790</italic> mutant showed a high proportion of
+damaged membranes (20% red cells observed in the mutant field) compared with wild
+type and complemented mutant strains. This result suggests that the DR1790 protein
+contributes to membrane permeability. Consequently, the mutant strain was more
+sensitive to both ionizing radiation and oxidative stress. However, how DR1790
+contributes to bacterial membrane integrity remains unclear. DR1790 may be required
+for the stability of membrane protein complexes to restore the osmotic imbalance
+rapidly, and the absence of DR1790 may result in less stability or improperly gated
+channels or pores. Thus, the isolation of the protein partners of DR1790 may help to
+clarify the role of this protein in membrane homeostasis. Alterations in membrane
+integrity may also contribute to the increased sensitivity of
+R1&#x00394;<italic>dr1790</italic> mutants to oxidative and radiation stresses.</p><p>In the present study, some genes that are involved in protein quality control, such
+as <italic>dr1114</italic> (HSP20), <italic>dr0129</italic> (dnaK),
+<italic>dr0126</italic> (dnaJ), <italic>dr0607</italic> (groEL),
+<italic>dr1046</italic> (ATP-binding subunit ClpB), and <italic>dr1974</italic>
+(ATP-dependent protease LA, Lon1), were strongly induced in
+R1&#x00394;<italic>dr1790</italic> mutants. The induction of these chaperones and
+proteases suggested that many damaged proteins aggregated in the
+R1&#x00394;<italic>dr1790</italic> mutant. Chaperones assist in non-covalent folding or
+unfolding and in the assembly or disassembly of protein structures in the cell, but
+do not occur in these structures during the performance of normal biological
+functions after having completed folding and/or assembly. DnaK/DnaJ/GrpE and
+GroEL/ES are the two primary chaperone foldase systems in prokaryotic cells (<xref rid="B16" ref-type="bibr">Hoffmann <italic>et al.</italic>, 2004</xref>).
+ATP-dependent proteases function in protein processing and play an essential role in
+diverse stress responses (<xref rid="B15" ref-type="bibr">Gottesman, 2003</xref>).
+In <italic>D. radiodurans</italic>, the majority of cellular proteolysis is
+performed by ATP-dependent proteases that belong to the Lon (Lon1 and Lon2) and Clp
+families (ClpA, ClpB, ClpC, ClpX and ClpP). The ClpPX protease is required for
+radioresistance and regulates cell division after &#x003b3;-irradiation in <italic>D.
+Radiodurans</italic> (<xref rid="B30" ref-type="bibr">Servant <italic>et
+al.</italic>, 2007</xref>). ClpB from <italic>Myxococcus xanthus</italic>
+functions as a chaperone protein and plays an important role in cellular heat and
+osmotic stress tolerance mechanisms during both vegetative growth and development
+(<xref rid="B29" ref-type="bibr">Pan <italic>et al.</italic>, 2012</xref>). ClpB
+and the DnaK system act synergistically to remodel proteins and to dissolve
+aggregates (<xref rid="B09" ref-type="bibr">Doyle <italic>et al.</italic>,
+2007</xref>). HSPs function as molecular chaperones that prevent protein
+denaturation and aggregation (<xref rid="B10" ref-type="bibr">Feder and Hofmann,
+1999</xref>; <xref rid="B25" ref-type="bibr">Matuszewska <italic>et
+al.</italic>, 2008</xref>). Additionally, some genes that are involved in
+protein secretion and transport are strongly suppressed in
+R1&#x00394;<italic>dr1790</italic> mutants, such as secreted proteins (DR1900, DR1901,
+DRA0300, and DR2544) and transmembrane transporter proteins (DR1909), indicating
+that the DR1790 protein could be related to secretory factors in the membrane.
+<italic>D. radiodurans</italic> contains many secreted proteases and
+transporters that provide exogenous amino acids as protein building blocks and
+peptides as components of manganese complexes (<xref rid="B34" ref-type="bibr">Slade
+and Radman, 2011</xref>). After irradiation in <italic>D. radiodurans</italic>,
+10 secreted subtilisin-like proteases, and 4 peptide and amino acid ABC transporters
+were highly induced (<xref rid="B21" ref-type="bibr">Makarova <italic>et
+al.</italic>, 2000</xref>; <xref rid="B14" ref-type="bibr">Ghosal <italic>et
+al.</italic>, 2005</xref>). Thus, the low growth rate and sensitivity to
+hydrogen peroxide and radiation in the R1&#x00394;<italic>dr1790</italic> mutant were
+closely associated with the induction of these chaperones and proteases and with the
+suppression of secreted and transported proteins. Additionally, the expression of
+some genes involved in antioxidant systems, electron transport, and energy
+metabolism were also significantly altered by the disruption of DR1790.</p><p>In conclusion, we presented the first experimental evidence that a protein from the
+ancient yellow protein family plays a role in the survival of prokaryote cells
+during a damage response. The DR1790 protein from the ancient yellow protein family
+plays a pleiotropic role in the survival of prokaryotic cells and contributes to the
+extraordinary resistance of <italic>D. radiodurans</italic> against oxidative and
+radiation stresses. Further studies are required to understand the mechanisms of the
+action that are mediated by DR1790 during this process and to identify critical
+protein interactions.</p></sec></body><back><ack><title>Acknowledgments</title><p>This work was supported by grants from National Natural Science Foundation of China
+(31370102), the project for genetically modified organisms breeding from the
+Ministry of Agriculture of China (2014ZX08009-003), a grant from Special Fund for
+Agro-scientific Research in the Public Interest from the Ministry of Agriculture of
+China (201103007), the Natural Science Foundation of Zhejiang Province
+(LY13C010001), the Public Project of Zhejiang Province (2014C33024), the Fundamental
+Research Funds for the Central Universities from Zhejiang University (2012FZA6014),
+and the Project for Zhejiang Provincial Construction of Technology Innovation Team
+(2010R50033).</p></ack><ref-list><title>References</title><ref id="B01"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Battista</surname><given-names>JR</given-names></name></person-group><year>1997</year><article-title>Against all odds: the survival strategies of <italic>Deinococcus
+radiodurans</italic>
+</article-title><source>Annu Rev Microbiol</source><volume>51</volume><fpage>203</fpage><lpage>224</lpage><pub-id pub-id-type="pmid">9343349</pub-id></element-citation></ref><ref id="B02"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Battista</surname><given-names>JR</given-names></name></person-group><year>2000</year><article-title>Radiation resistance: the fragments that remain</article-title><source>Curr Biol</source><volume>10</volume><fpage>204</fpage><lpage>205</lpage></element-citation></ref><ref id="B03"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bauermeister</surname><given-names>A</given-names></name><name><surname>Hahn</surname><given-names>C</given-names></name><name><surname>Rettberg</surname><given-names>P</given-names></name><etal/></person-group><year>2012</year><article-title>Roles of DNA repair and membrane integrity in heat resistance of
+<italic>Deinococcus radiodurans</italic>
+</article-title><source>Arch Microbiol</source><volume>194</volume><fpage>959</fpage><lpage>966</lpage><pub-id pub-id-type="pmid">23011749</pub-id></element-citation></ref><ref id="B04"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Brim</surname><given-names>H</given-names></name><name><surname>McFarlan</surname><given-names>SC</given-names></name><name><surname>Fredrickson</surname><given-names>JK</given-names></name><etal/></person-group><year>2000</year><article-title>Engineering <italic>Deinococcus radiodurans</italic> for metal
+remediation in radioactive mixed waste environments</article-title><source>Nat Biotechnol</source><volume>18</volume><fpage>85</fpage><lpage>90</lpage><pub-id pub-id-type="pmid">10625398</pub-id></element-citation></ref><ref id="B05"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Chen</surname><given-names>H</given-names></name><name><surname>Xu</surname><given-names>G</given-names></name><name><surname>Zhao</surname><given-names>Y</given-names></name><etal/></person-group><year>2008</year><article-title>A Novel OxyR Sensor and Regulator of Hydrogen Peroxide Stress
+with One Cysteine Residue in <italic>Deinococcus
+radiodurans</italic>
+</article-title><source>PLoS One</source><volume>3</volume><fpage>e1602</fpage><pub-id pub-id-type="pmid">18270589</pub-id></element-citation></ref><ref id="B06"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Daly</surname><given-names>MJ</given-names></name><name><surname>Gaidamakova</surname><given-names>EK</given-names></name><name><surname>Matrosova</surname><given-names>VY</given-names></name><etal/></person-group><year>2007</year><article-title>Protein oxidation implicated as the primary determinant of
+bacterial radioresistance</article-title><source>PLoS Biol</source><volume>5</volume><fpage>e92</fpage><pub-id pub-id-type="pmid">17373858</pub-id></element-citation></ref><ref id="B07"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Drapeau</surname><given-names>MD</given-names></name><name><surname>Albert</surname><given-names>S</given-names></name><name><surname>Kucharski</surname><given-names>R</given-names></name><etal/></person-group><year>2006</year><article-title>Evolution of the Yellow/Major Royal Jelly Protein family and the
+emergence of social behavior in honey bees</article-title><source>Genome Res</source><volume>11</volume><fpage>1385</fpage><lpage>1394</lpage><pub-id pub-id-type="pmid">17065613</pub-id></element-citation></ref><ref id="B08"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Drapeau</surname><given-names>MD</given-names></name></person-group><year>2003</year><article-title>A novel hypothesis on the biochemical role of the
+<italic>Drosophila</italic> Yellow protein</article-title><source>Biochem Biophys Res Commun</source><volume>311</volume><fpage>1</fpage><lpage>3</lpage><pub-id pub-id-type="pmid">14575686</pub-id></element-citation></ref><ref id="B09"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Doyle</surname><given-names>SM</given-names></name><name><surname>Hoskins</surname><given-names>JR</given-names></name><name><surname>Wickner</surname><given-names>S</given-names></name></person-group><year>2007</year><article-title>Collaboration between the ClpB AAA+ remodeling protein and the
+DnaK chaperone system</article-title><source>Proc Natl Acad Sci USA</source><volume>104</volume><fpage>11138</fpage><lpage>11144</lpage><pub-id pub-id-type="pmid">17545305</pub-id></element-citation></ref><ref id="B10"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Feder</surname><given-names>ME</given-names></name><name><surname>Hofmann</surname><given-names>GE</given-names></name></person-group><year>1999</year><article-title>Heat shock proteins, molecular chaperones, and the stress
+response</article-title><source>Annu Rev Physiol</source><volume>61</volume><fpage>243</fpage><lpage>282</lpage><pub-id pub-id-type="pmid">10099689</pub-id></element-citation></ref><ref id="B11"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ferguson</surname><given-names>LC</given-names></name><name><surname>Green</surname><given-names>J</given-names></name><name><surname>Surridge</surname><given-names>A</given-names></name><etal/></person-group><year>2011</year><article-title>Evolution of the Insect Yellow Gene Family</article-title><source>Mol Biol Evol</source><volume>28</volume><fpage>257</fpage><lpage>272</lpage><pub-id pub-id-type="pmid">20656794</pub-id></element-citation></ref><ref id="B12"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gao</surname><given-names>G</given-names></name><name><surname>Lu</surname><given-names>H</given-names></name><name><surname>Huang</surname><given-names>L</given-names></name><etal/></person-group><year>2005</year><article-title>Construction of DNA damage response gene pprI function-deficient
+and function-complementary mutants in <italic>Deinococcus
+radiodurans</italic>
+</article-title><source>Chinese Sci Bull</source><volume>50</volume><fpage>311</fpage><lpage>316</lpage></element-citation></ref><ref id="B13"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gao</surname><given-names>G</given-names></name><name><surname>Fan</surname><given-names>L</given-names></name><name><surname>Lu</surname><given-names>H</given-names></name><etal/></person-group><year>2008</year><article-title>Engineering <italic>Deinococcus radiodurans</italic> into
+biosensor to monitor radioactivity and genotoxicity in
+environment</article-title><source>Chinese Sci Bull</source><volume>53</volume><fpage>1675</fpage><lpage>1681</lpage></element-citation></ref><ref id="B14"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ghosal</surname><given-names>D</given-names></name><name><surname>Omelchenko</surname><given-names>MV</given-names></name><name><surname>Gaidamakova</surname><given-names>EK</given-names></name><etal/></person-group><year>2005</year><article-title>How radiation kills cells: survival of <italic>Deinococcus
+radiodurans</italic> and Shewanella oneidensis under oxidative
+stress</article-title><source>FEMS Microbiol Rev</source><volume>29</volume><fpage>361</fpage><lpage>375</lpage><pub-id pub-id-type="pmid">15808748</pub-id></element-citation></ref><ref id="B15"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gottesman</surname><given-names>S</given-names></name></person-group><year>2003</year><article-title>Proteolysis in bacterial regulatory circuits</article-title><source>Annu Rev Cell Dev Biol</source><volume>19</volume><fpage>565</fpage><lpage>587</lpage><pub-id pub-id-type="pmid">14570582</pub-id></element-citation></ref><ref id="B16"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hoffmann</surname><given-names>JH</given-names></name><name><surname>Linke</surname><given-names>K</given-names></name><name><surname>Graf</surname><given-names>PCF</given-names></name><etal/></person-group><year>2004</year><article-title>Identification of a redox-regulated chaperone
+network</article-title><source>EMBO J</source><volume>23</volume><fpage>160</fpage><lpage>168</lpage><pub-id pub-id-type="pmid">14685279</pub-id></element-citation></ref><ref id="B17"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lancy</surname><given-names>PJ</given-names></name><name><surname>Murray</surname><given-names>RG</given-names></name></person-group><year>1978</year><article-title>The envelope of <italic>Micrococcus radiodurans</italic>:
+isolation, purification, and preliminary analysis of the wall
+layers</article-title><source>Can J Microbiol</source><volume>24</volume><fpage>162</fpage><lpage>176</lpage><pub-id pub-id-type="pmid">647473</pub-id></element-citation></ref><ref id="B18"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lange</surname><given-names>CC</given-names></name><name><surname>Wackett</surname><given-names>LP</given-names></name><name><surname>Minton</surname><given-names>KW</given-names></name><etal/></person-group><year>1998</year><article-title>Engineering a recombinant <italic>Deinococcus
+radiodurans</italic> for organopollutant degradation in radioactive
+mixed waste environments</article-title><source>Nat Biotechnol</source><volume>16</volume><fpage>929</fpage><lpage>933</lpage><pub-id pub-id-type="pmid">9788348</pub-id></element-citation></ref><ref id="B19"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lu</surname><given-names>H</given-names></name><name><surname>Gao</surname><given-names>G</given-names></name><name><surname>Xu</surname><given-names>G</given-names></name><etal/></person-group><year>2009</year><article-title>
+<italic>Deinococcus radiodurans</italic> PprI switches on DNA
+damage response and cellular survival networks after radiation
+damage</article-title><source>Mol Cell Proteomics</source><volume>8</volume><fpage>481</fpage><lpage>494</lpage><pub-id pub-id-type="pmid">18953020</pub-id></element-citation></ref><ref id="B20"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Makarova</surname><given-names>KS</given-names></name><name><surname>Aravind</surname><given-names>L</given-names></name><name><surname>Wolf</surname><given-names>YI</given-names></name><etal/></person-group><year>2001</year><article-title>Genome of the extremely radiation-resistant bacterium
+<italic>Deinococcus radiodurans</italic> viewed from the perspective of
+comparative genomics</article-title><source>Microbiol Mol Biol Rev</source><volume>65</volume><fpage>44</fpage><lpage>79</lpage><pub-id pub-id-type="pmid">11238985</pub-id></element-citation></ref><ref id="B21"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Makarova</surname><given-names>KS</given-names></name><name><surname>Aravind</surname><given-names>L</given-names></name><name><surname>Daly</surname><given-names>MJ</given-names></name><etal/></person-group><year>2000</year><article-title>Specific expansion of protein families in the radioresistant
+bacterium <italic>Deinococcus radiodurans</italic>
+</article-title><source>Genetica</source><volume>108</volume><fpage>25</fpage><lpage>34</lpage><pub-id pub-id-type="pmid">11145417</pub-id></element-citation></ref><ref id="B22"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Maleszka</surname><given-names>R</given-names></name><name><surname>Kucharski</surname><given-names>R</given-names></name></person-group><year>2000</year><article-title>Analysis of Drosophila yellow-B cDNA reveals a new family of
+proteins related to the royal jelly proteins in the honeybee and to an
+orphan protein in an unusual bacterium <italic>Deinococcus
+radiodurans</italic>
+</article-title><source>Biochem Biophys Res Commun</source><volume>270</volume><fpage>773</fpage><lpage>776</lpage><pub-id pub-id-type="pmid">10772900</pub-id></element-citation></ref><ref id="B23"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Markillie</surname><given-names>LM</given-names></name><name><surname>Varnum</surname><given-names>SM</given-names></name><name><surname>Hradecky</surname><given-names>P</given-names></name><etal/></person-group><year>1999</year><article-title>Targeted mutagenesis by duplication insertion in the
+radioresistant bacterium <italic>Deinococcus radiodurans</italic>: radiation
+sensitivities of catalase (<italic>katA</italic>) and superoxide dismutase
+(<italic>sodA</italic>) mutants</article-title><source>J Bacteriol</source><volume>181</volume><fpage>666</fpage><lpage>669</lpage><pub-id pub-id-type="pmid">9882685</pub-id></element-citation></ref><ref id="B24"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mattimore</surname><given-names>V</given-names></name><name><surname>Udupa</surname><given-names>KS</given-names></name><name><surname>Berne</surname><given-names>GA</given-names></name><etal/></person-group><year>1995</year><article-title>Genetic characterization of forty ionizing radiation-sensitive
+strains of <italic>Deinococcus radiodurans</italic>: linkage information
+from transformation</article-title><source>J Bacteriol</source><volume>177</volume><fpage>5232</fpage><lpage>5237</lpage><pub-id pub-id-type="pmid">7665511</pub-id></element-citation></ref><ref id="B25"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Matuszewska</surname><given-names>E</given-names></name><name><surname>Kwiatkowska</surname><given-names>J</given-names></name><name><surname>Kuczynska-Wisnik</surname><given-names>D</given-names></name><etal/></person-group><year>2008</year><article-title>
+<italic>Escherichia coli</italic> heat-shock proteins IbpA/B are
+involved in resistance to oxidative stress induced by copper</article-title><source>Microbiol</source><volume>154</volume><fpage>1739</fpage><lpage>1747</lpage></element-citation></ref><ref id="B26"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Minton</surname><given-names>KW</given-names></name></person-group><year>1994</year><article-title>DNA repair in the extremely radioresistant bacterium
+<italic>Deinococcus radiodurans</italic>
+</article-title><source>Mol Microbiol</source><volume>13</volume><fpage>9</fpage><lpage>15</lpage><pub-id pub-id-type="pmid">7984097</pub-id></element-citation></ref><ref id="B27"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mitchel</surname><given-names>RE</given-names></name></person-group><year>1976</year><article-title>Ionizing radiation damage in <italic>Micrococcus
+radiodurans</italic> cell wall: release of
+polysaccharide</article-title><source>Radiat Res</source><volume>66</volume><fpage>158</fpage><lpage>169</lpage><pub-id pub-id-type="pmid">1257407</pub-id></element-citation></ref><ref id="B28"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Pan</surname><given-names>J</given-names></name><name><surname>Wang</surname><given-names>J</given-names></name><name><surname>Zhou</surname><given-names>Z</given-names></name><etal/></person-group><year>2009</year><article-title>IrrE, a global regulator of extreme radiation resistance in
+<italic>Deinococcus radiodurans</italic>, enhances salt tolerance in
+<italic>Escherichia coli</italic> and <italic>Brassica
+napus</italic>
+</article-title><source>PLoS One</source><volume>2</volume><fpage>e4422</fpage><pub-id pub-id-type="pmid">19204796</pub-id></element-citation></ref><ref id="B29"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Pan</surname><given-names>H</given-names></name><name><surname>Luan</surname><given-names>J</given-names></name><name><surname>He</surname><given-names>X</given-names></name><etal/></person-group><year>2012</year><article-title>The clpB gene is involved in the stress response of Myxococcus
+xanthus during vegetative growth and development</article-title><source>Microbiol</source><volume>158</volume><fpage>2336</fpage><lpage>2343</lpage></element-citation></ref><ref id="B30"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Servant</surname><given-names>P</given-names></name><name><surname>Jolivet</surname><given-names>E</given-names></name><name><surname>Bentchikou</surname><given-names>E</given-names></name><etal/></person-group><year>2007</year><article-title>The ClpPX protease is required for radioresistance and regulates
+cell division after gamma-irradiation in <italic>Deinococcus
+radiodurans</italic>
+</article-title><source>Mol Microbiol</source><volume>66</volume><fpage>1231</fpage><lpage>1239</lpage><pub-id pub-id-type="pmid">17986186</pub-id></element-citation></ref><ref id="B31"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Shu</surname><given-names>H</given-names></name><name><surname>Tian</surname><given-names>B</given-names></name></person-group><year>2010</year><article-title>Radioresistance analysis of <italic>Deinococcus
+radiodurans</italic> gene DR1709 in <italic>Escherichia
+coli</italic>
+</article-title><source>Afr J Microbiol Res</source><volume>13</volume><fpage>1412</fpage><lpage>1418</lpage></element-citation></ref><ref id="B32"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Shu</surname><given-names>H</given-names></name><name><surname>Tian</surname><given-names>B</given-names></name></person-group><year>2012</year><article-title>The radioresistance analysis of the <italic>Deinococcus
+radiodurans</italic> gene DR1709 in human bone marrow cell line
+KG1a</article-title><source>Afr J Microbiol Res</source><volume>6</volume><fpage>40</fpage><lpage>45</lpage></element-citation></ref><ref id="B33"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Slade</surname><given-names>D</given-names></name><name><surname>Lindner</surname><given-names>AB</given-names></name><name><surname>Paul</surname><given-names>G</given-names></name><etal/></person-group><year>2009</year><article-title>Recombination and replication in DNA repair of heavily irradiated
+<italic>Deinococcus radiodurans</italic>
+</article-title><source>Cell</source><volume>136</volume><fpage>1044</fpage><lpage>1055</lpage><pub-id pub-id-type="pmid">19303848</pub-id></element-citation></ref><ref id="B34"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Slade</surname><given-names>D</given-names></name><name><surname>Radman</surname><given-names>M</given-names></name></person-group><year>2011</year><article-title>Oxidative Stress Resistance in <italic>Deinococcus
+radiodurans</italic>
+</article-title><source>Mol Biol Rev</source><volume>75</volume><fpage>133</fpage><lpage>191</lpage></element-citation></ref><ref id="B35"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Tian</surname><given-names>B</given-names></name><name><surname>Sun</surname><given-names>Z</given-names></name><name><surname>Shen</surname><given-names>S</given-names></name><etal/></person-group><year>2009</year><article-title>Effects of carotenoids from <italic>Deinococcus
+radiodurans</italic> on protein oxidation</article-title><source>Lett Appl Microbiol</source><volume>49</volume><fpage>689</fpage><lpage>694</lpage><pub-id pub-id-type="pmid">19780959</pub-id></element-citation></ref><ref id="B36"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wang</surname><given-names>P</given-names></name><name><surname>Schellhorn</surname><given-names>HE</given-names></name></person-group><year>1995</year><article-title>Induction of resistance to hydrogen peroxide and radiation in
+<italic>Deinococcus radiodurans</italic>
+</article-title><source>Can J Microbiol</source><volume>41</volume><fpage>170</fpage><lpage>176</lpage><pub-id pub-id-type="pmid">7720013</pub-id></element-citation></ref><ref id="B37"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wang</surname><given-names>L</given-names></name><name><surname>Xu</surname><given-names>G</given-names></name><name><surname>Chen</surname><given-names>H</given-names></name><etal/></person-group><year>2008</year><article-title>DrRRA: a novel response regulator essential for the extreme
+radioresistance of <italic>Deinococcus radiodurans</italic>
+</article-title><source>Mol Microbiol</source><volume>67</volume><fpage>1211</fpage><lpage>1222</lpage><pub-id pub-id-type="pmid">18208531</pub-id></element-citation></ref><ref id="B38"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wettenhall</surname><given-names>JM</given-names></name><name><surname>Smyth</surname><given-names>GK</given-names></name></person-group><year>2004</year><article-title>limmaGUI: a graphical user interface for linear modeling of
+microarray data</article-title><source>Bioinformatics</source><volume>20</volume><fpage>3705</fpage><lpage>3706</lpage><pub-id pub-id-type="pmid">15297296</pub-id></element-citation></ref><ref id="B39"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wu</surname><given-names>Y</given-names></name><name><surname>Chen</surname><given-names>W</given-names></name><name><surname>Zhao</surname><given-names>Y</given-names></name><etal/></person-group><year>2009</year><article-title>Involvement of RecG in H<sub>2</sub>O<sub>2</sub>-induced damage
+repair in <italic>Deinococcus radiodurans</italic>
+</article-title><source>Can J Microbiol</source><volume>55</volume><fpage>841</fpage><lpage>848</lpage><pub-id pub-id-type="pmid">19767856</pub-id></element-citation></ref><ref id="B40"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Xu</surname><given-names>G</given-names></name><name><surname>Wang</surname><given-names>L</given-names></name><name><surname>Chen</surname><given-names>H</given-names></name><etal/></person-group><year>2008</year><article-title>RecO is essential for DNA damage repair in <italic>Deinococcus
+radiodurans</italic>
+</article-title><source>J Bacteriol</source><volume>190</volume><fpage>2624</fpage><lpage>2628</lpage><pub-id pub-id-type="pmid">18223077</pub-id></element-citation></ref></ref-list></back></article>

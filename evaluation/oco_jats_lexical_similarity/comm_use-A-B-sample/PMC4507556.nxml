@@ -1,0 +1,586 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:ali="http://www.niso.org/schemas/ali/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Braz J Microbiol</journal-id><journal-id journal-id-type="iso-abbrev">Braz. J. Microbiol</journal-id><journal-id journal-id-type="publisher-id">bjm</journal-id><journal-title-group><journal-title>Brazilian Journal of Microbiology</journal-title></journal-title-group><issn pub-type="ppub">1517-8382</issn><issn pub-type="epub">1678-4405</issn><publisher><publisher-name>Sociedade Brasileira de Microbiologia</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">26273279</article-id><article-id pub-id-type="pmc">4507556</article-id><article-id pub-id-type="doi">10.1590/S1517-838246220131201</article-id><article-categories><subj-group subj-group-type="heading"><subject>Food Microbiology</subject></subj-group></article-categories><title-group><article-title>Effect of rosemary essential oil and modified-atmosphere packaging
+(MAP) on meat quality and survival of pathogens in poultry
+fillets</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Kahraman</surname><given-names>Tolga</given-names></name><xref ref-type="aff" rid="aff01">1</xref></contrib><contrib contrib-type="author"><name><surname>Issa</surname><given-names>Ghassan</given-names></name><xref ref-type="aff" rid="aff02">2</xref></contrib><contrib contrib-type="author"><name><surname>Bingol</surname><given-names>Enver Baris</given-names></name><xref ref-type="aff" rid="aff01">1</xref><xref rid="c01" ref-type="corresp"/></contrib><contrib contrib-type="author"><name><surname>Kahraman</surname><given-names>Beren Basaran</given-names></name><xref ref-type="aff" rid="aff03">3</xref></contrib><contrib contrib-type="author"><name><surname>Dumen</surname><given-names>Emek</given-names></name><xref ref-type="aff" rid="aff01">1</xref></contrib></contrib-group><aff id="aff01"><label>1</label>Istanbul University, Department of Food Hygiene and
+Technology, Faculty of Veterinary Medicine, Istanbul University, Istanbul, Turkey, Department of Food Hygiene and Technology,
+Faculty of Veterinary Medicine, Istanbul University, Istanbul,
+Turkey.</aff><aff id="aff02"><label>2</label>Culinary Program, Avrupa Vocational School, Istanbul, Turkey, Culinary Program, Avrupa Vocational School,
+Istanbul, Turkey.</aff><aff id="aff03"><label>3</label>Istanbul University, Department of Microbiology, Faculty of Veterinary Medicine, Istanbul University, Istanbul, Turkey, Department of Microbiology, Faculty of
+Veterinary Medicine, Istanbul University, Istanbul, Turkey.</aff><author-notes><corresp id="c01">Send correspondence to E.B. Bingol. Department of Food Hygiene and
+Technology, Faculty of Veterinary Medicine, Istanbul University, Istanbul,
+Turkey. E-mail: <email>bingolb@istanbul.edu.tr</email>.</corresp><fn id="fn01" fn-type="other"><p>Associate Editor: Elaine Cristina Pereira De Martinis</p></fn></author-notes><pub-date pub-type="epub"><day>01</day><month>6</month><year>2015</year></pub-date><pub-date pub-type="collection"><month>6</month><year>2015</year></pub-date><volume>46</volume><issue>2</issue><fpage>591</fpage><lpage>599</lpage><history><date date-type="received"><day>12</day><month>11</month><year>2013</year></date><date date-type="accepted"><day>19</day><month>12</month><year>2014</year></date></history><permissions><copyright-statement>Copyright &#x000a9; 2015, Sociedade Brasileira de
+Microbiologia</copyright-statement><copyright-year>2015</copyright-year><license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/3.0/"><license-p>All the content of the journal, except where otherwise noted, is
+licensed under a Creative Commons License CC BY-NC.</license-p></license></permissions><abstract><p>The effect of rosemary (<italic>Rosmarinus officinalis L.</italic>) essential oil
+(REO) and modified-atmosphere packaging (MAP) on the survival of certain
+pathogens (<italic>Salmonella</italic> Typhimurium and <italic>Listeria
+monocytogenes</italic>) in poultry fillets and on their meat quality during
+7 days of refrigerated storage were investigated. Because REO at 0.05% and 0.1%
+had weak antibacterial activity and REO at 0.3%, 0.5% and 1.0% imparted
+unacceptable organoleptic properties, only REO at 0.2% was used to treat the
+poultry meat. The results showed that adding 0.2% REO to poultry fillets did not
+reduce the size of the population of <italic>S.</italic> Typhimurium and
+<italic>L. monocytogenes.</italic> However, REO treatment significantly
+decreased the L* (lightness) value and increased the <italic>a</italic>*
+(redness) value of stored fillets, and adding REO in combination with MAP
+reduced the level of lipid oxidation. In conclusion, in a suitable combination,
+REO can be applied to improve the quality of meat, but further studies should be
+conducted to determine the appropriate commercial level for different meat
+products.</p></abstract><kwd-group><kwd>rosemary</kwd><kwd>essential oil</kwd><kwd>modified-atmosphere packaging</kwd><kwd>poultry</kwd><kwd>pathogens</kwd></kwd-group><counts><fig-count count="2"/><table-count count="3"/><equation-count count="0"/><ref-count count="58"/><page-count count="9"/></counts></article-meta></front><body><sec sec-type="intro"><title>Introduction</title><p>The production of poultry meat products has increased throughout the world due to its
+specific sensory attributes and the consumer's belief that white meat is healthier
+than red meat. Poultry products are highly perishable foods. Therefore, the industry
+is focused on methods to increase the shelf-life and the overall safety and quality
+of poultry products (<xref rid="B23" ref-type="bibr">Geornaras <italic>et
+al.</italic>, 1995</xref>; <xref rid="B12" ref-type="bibr">Colak <italic>et
+al.</italic>, 2011</xref>).</p><p>The hygienic quality of poultry products depends on the personal hygiene of the
+handlers, the production method, the qualities of all of the ingredients and the raw
+meat used (<xref rid="B12" ref-type="bibr">Colak <italic>et al.</italic>,
+2011</xref>). Many researchers have reported that poultry meat and its products
+were contaminated by several pathogenic bacteria (<xref rid="B03" ref-type="bibr">Basaran Kahraman and Ak, 2012</xref>; <xref rid="B11" ref-type="bibr">Cetinkaya
+<italic>et al.</italic>, 2008</xref>; <xref rid="B38" ref-type="bibr">Mataragas <italic>et al.</italic>, 2008</xref>; <xref rid="B56" ref-type="bibr">Urumova <italic>et al.</italic>, 2014</xref>). Consumption of products prepared
+using contaminated poultry meat has been found to be the cause of large outbreaks of
+salmonellosis and listeriosis (<xref rid="B17" ref-type="bibr">EFSA, 2012</xref>).
+The causative agents of these foodborne pathogens can be present in the
+gastrointestinal tracts of food-producing animals and can subsequently be
+transferred to humans through the production, handling and consumption of meat and
+meat products (<xref rid="B40" ref-type="bibr">Norrung and Buncic, 2008</xref>).
+Salmonella infections were reported to cause approximately 1.4 million cases of
+foodborne illness and more than 500 deaths per year in the USA (<xref rid="B11" ref-type="bibr">Cetinkaya <italic>et al.</italic>, 2008</xref>). In 2010, 99020
+cases of human salmonellosis were reported in the EU countries, whereas there were
+1,601 cases of human listeriosis in the EU countries that year (<xref rid="B17" ref-type="bibr">EFSA, 2012</xref>). To solve these serious food safety problems
+for consumers, producers are seeking new and improved manufacturing practices to
+prevent microbiological contamination, survival and growth (<xref rid="B05" ref-type="bibr">Bingol <italic>et al.</italic>, 2013</xref>).</p><p>Consumers are increasingly focused on the use of natural products rather than
+synthetic additives in foods. This trend was reflected in the recently issued EU
+Directive 2006/52/EC (<xref rid="B19" ref-type="bibr">EU 2006</xref>) referring to
+the necessity of reducing the use of nitrites in processed food. The largest groups
+of natural compounds are the essential oils and plant extracts. Essential oils are
+aromatic and volatile oily liquids that are obtained from plant materials, such as
+leaves, fruits, seeds, and fruits (<xref rid="B24" ref-type="bibr">Gutierrez
+<italic>et al.</italic>, 2008</xref>).</p><p>Among the essential oils, rosemary (<italic>Rosmarinus officinalis L.</italic>) oil
+is widely used for preservation by the food industry. Studies have demonstrated the
+beneficial effects of rosemary essential oil (REO) as a natural antioxidant that
+prevented color deterioration and/or lipid oxidation (<xref rid="B01" ref-type="bibr">Aruoma <italic>et al.</italic>, 1992</xref>; <xref rid="B02" ref-type="bibr">Balentine <italic>et al.</italic>, 2006</xref>; <xref rid="B29" ref-type="bibr">Hussain <italic>et al.</italic>, 2010</xref>; <xref rid="B58" ref-type="bibr">Yu <italic>et al.</italic>, 2002</xref>). In addition to its
+strong antioxidative properties, REO was shown to inhibit the growth of various
+foodborne pathogens in vitro (<xref rid="B25" ref-type="bibr">Hammer <italic>et
+al.</italic>, 1999</xref>; <xref rid="B52" ref-type="bibr">Smith-Palmer
+<italic>et al.</italic>, 1998</xref>); however, its effectiveness when
+applied to food has not been extensively investigated.</p><p>The practical application of several essential oils in foods is limited due to the
+strong flavor they impart and their interaction with some food ingredients. The
+preservative effect of essential oils and extracts may be achieved by using them at
+lower concentrations in combination with other preservation strategies, such as
+modified-atmosphere packaging (MAP) (<xref rid="B37" ref-type="bibr">Mastromatteo
+<italic>et al.</italic>, 2010</xref>). MAP has gained considerable
+acceptance as a modern method for food preservation. MAP is a well-known method for
+extending the shelf-life of a variety of foods, including poultry and fresh meat
+(<xref rid="B13" ref-type="bibr">Davies 1995</xref>).</p><p>The aim of this study was to determine the effect of REO and MAP on the survival of
+certain pathogens (<italic>S.</italic> Typhimurium and <italic>L.
+monocytogenes</italic>) in poultry fillets and on their meat quality.</p></sec><sec sec-type="materials|methods"><title>Materials and Methods</title><sec><title>Extraction of REO</title><p>Leaves collected from rosemary (<italic>Rosmarinus officinalis L.</italic>)
+plants in the Aegean region of Turkey were air dried at room temperature (20 &#x000b1; 2
+&#x000b0;C), and their essential oils were obtained by a 3-h continuous steam
+distillation using a Clevenger-type apparatus. The essential oil was collected,
+dried over anhydrous sodium sulfate and stored at 4 &#x000b0;C until analysis.</p></sec><sec><title>Gas Chromatography</title><p>A 0.4-&#x003bc;L aliquot of essential oil was subjected to analysis using capillary gas
+chromatography. A Thermo Finnigan Trace GC Ultra system (Thermo Electron
+Corporation, Milan Italy) equipped with an HP-5MS capillary column (30 m x 0.25
+mm) with a 0.25-&#x003bc;m film thickness was used for this study. The detector and
+injector were maintained at 275 &#x000b0;C and 200 &#x000b0;C, respectively. Helium was used as
+the carrier gas, at a flow rate of 1.0 mL/min, and the split ratio was set to
+100:1. The column temperature was programmed as follows: isothermal at 60 &#x000b0;C for
+1 min, ramp to 300 &#x000b0;C at 3 &#x000b0;C/min and isothermal for 1 min. The constituents
+were identified by comparing their mass spectra with those in the computer
+library and those of authentic compounds. The identifications were confirmed by
+comparing their retention times (RT) with those of authentic compounds
+(1.8-cineole, &#x003b1;-pinene, camphor, 2&#x003b1;-pinene, camphen and caryophyllene).</p></sec><sec><title>Mass spectrometric analysis</title><p>The chemical composition of the REO was determined from gas chromatography-mass
+spectrometry (GC-MS) analysis. Thermo Finnigan Trace DSQ system (Thermo Electron
+Corporation, Milan Italy), equipped with an HP-5MS capillary column (30 m x 0.25
+mm) with a 0.25-&#x003bc;m film thickness was used. The chromatographic conditions were
+identical to those used for the gas chromatographic analysis.</p></sec><sec><title>Culture preparation</title><p>Samples of the <italic>S.</italic> Typhimurium (ATCC 14028) and <italic>L.
+monocytogenes</italic> (ATCC 7644) strains were obtained from
+Microbiologics&#x000ae; (Minnesota, USA). Both strains were stored in glycerol (30%) at
+&#x02212;80 &#x000b0;C. Samples were streaked on Tryptone Soya Agar (Oxoid CM131, Basingstoke,
+England) plates and were incubated at 35 &#x000b0;C overnight. After 24 h,
+<italic>S.</italic> Typhimurium and <italic>L. monocytogenes</italic> were
+grown in aerobically Tryptone Soya Broth (TSB; Oxoid CM129) at 37 &#x000b0;C until
+used.</p></sec><sec><title>Assays for antibacterial activity</title><p>The antibacterial activity of the REO was assayed as follows: samples of both
+bacterial cultures (10<sup>8</sup> cfu/mL) were inoculated into 10 mL of TSB.
+Appropriate amounts of the REO solution were added to TSB to achieve final
+concentrations of 0.05%, 0.1%, 0.2%, 0.3%, 0.5% and 1.0% (w/v). Broth samples of
+all the tested treatments were incubated at 37 &#x000b0;C for 24 h. To determine the
+inhibitory effects of REO, samples of the inoculated broth were taken for
+microbiological analysis at 0, 4, 8, 12 and 24 h of incubation; all of the
+analyses were performed in duplicate. The antibacterial activity was determined
+from the growth of viable <italic>S.</italic> Typhimurium and <italic>L.
+monocytogenes</italic> cells on Xylose Lysine Deoxycholate Agar (Oxoid
+CM469) or Chromogenic Listeria Agar (Oxoid CM1080) for (<xref rid="B53" ref-type="bibr">Solomakos <italic>et al.</italic>, 2008</xref>),
+respectively.</p></sec><sec><title>Inoculation of the poultry fillets</title><p>The <italic>S.</italic> Typhimurium and <italic>L. monocytogenes</italic> strains
+were individually prepared by growing samples in 10 mL of TSB at 30 &#x000b0;C for 24 h.
+The bacterial strains were sub-cultured twice using TSB before use. The bacteria
+were centrifuged (8000 x <italic>g</italic>) at 4 &#x000b0;C for 10 min, washed using
+sterile phosphate-buffered saline (PBS) and serially diluted using PBS to a
+concentration capable of providing approximately 10<sup>4</sup> cfu/g of poultry
+samples.</p><p>Poultry breast meat (totally 21 kg) was obtained from a poultry (broiler)
+processing plant within 12 h of slaughter. Immediately after delivery, the meat
+was filleted in small pieces (20 g). The poultry fillets were divided into three
+equal groups, and each portion was placed in a polyethylene bag. The samples in
+the first group were contaminated with only <italic>S.</italic> Typhimurium and
+those in the second group were contaminated with only <italic>L.
+monocytogenes</italic>. The samples in the non-inoculated group were used
+for physicochemical and sensorial analyses. The samples of poultry fillets were
+placed in stomacher bags and were inoculated with a single pathogenic strain.
+The inoculated samples were manually massaged for 10 min at room temperature (20
+&#x000b1; 2 &#x000b0;C) to ensure proper distribution of the pathogens. Prior to inoculation,
+the fillets were examined for contamination by the tested pathogens.</p><p>Following homogenization, the inoculated and non-inoculated samples
+(<italic>S.</italic> Typhimurium, <italic>L. monocytogenes</italic> and no
+bacterial inoculum) were treated using four different methods. The treatments
+were (1) air packaging (2) air packaging + the addition of REO at 0.2%, (3) MAP,
+(4) MAP + the addition of REO at 0.2%. REO levels of 0.05% and 0.1% were not
+further tested due to their weak antibacterial activities against the selected
+pathogens. In addition, 0.3%, 0.5% or 1.0% REO solutions were not applied in the
+experimental design because of the unacceptable organoleptic properties they
+imparted to the poultry meat.</p><p>Immediately after treatment, all of subgroup samples (300&#x02013;350 g) were placed in
+low-O<sub>2-</sub>permeable (8&#x02013;12 cm<sup>3</sup>/m<sup>2</sup>/24 h at STP)
+polystyrene/ethylvinylalcohol (EVOH)/polyethylene (PE) trays. For air packaging,
+the PE trays were over-wrapped using non-barrier polyvinylchloride (PVC) cling
+film but not sealed to allow exposure to the atmospheric air. For MAP, the PE
+trays were over-wrapped using oxygen-permeable (6000&#x02013;8000
+cm<sup>3</sup>/m<sup>2</sup>/24 h at STP) polyvinyl-chloride film (Wrap Film
+Systems Ltd., Shropshire, England) into which a gas mixture of 30%
+CO<sub>2</sub>/70% N<sub>2</sub> was injected using a Ponapack packaging
+machine (VTK 40 SC, Ponapack, Istanbul, Turkey). The packages were stored at 4
+&#x000b0;C and were analyzed at 0, 1, 3, 5 and 7 days to determine the microbiological,
+physico-chemical (pH, TBA, instrumental color) and sensorial (color, odor, taste
+and flavor) characteristics, using six packages from each group on each sampling
+date.</p></sec><sec><title>Gas analysis of the package atmospheres</title><p>Gas analyses of the atmosphere within the packages were conducted in duplicate at
+1, 3, 5 and 7 days of storage. The CO<sub>2</sub>, O<sub>2</sub> and
+N<sub>2</sub> contents within the packages were determined by injecting 0.5
+mL of gas that had been removed from the headspace using a syringe (B. Braun,
+Melsungen, Germany) into a PDI gas chromatography system (PBI-Dansensor A/B,
+Ronnedevaj 18, Ringsted, Denmark) fitted with a thermal-conductivity detector.
+The headspace gas levels were calculated by subtracting the O<sub>2</sub>% and
+CO<sub>2</sub>% after a single direct reading of each package's
+atmosphere.</p></sec><sec><title>Microbiological analysis</title><p>Samples (25 g) were added to 225 mL of buffered peptone water (Oxoid CM509) in
+sterile stomacher bags (Seward, Worthing, England) and were homogenized for 2
+min using a stomacher device (Interscience, St. Nom la Breteche, France).
+Following homogenization, 10-fold serial dilutions were prepared using sterile
+the Maximum Recovery Diluent (Oxoid CM317), and the diluted samples (0.1 mL)
+were streaked onto Xylose Lysine Deoxycholate Agar (Oxoid CM469) and Chromogenic
+Listeria Agar (Oxoid CM1080) supplemented with Listeria Selective Supplement
+(Oxoid SR227) and Listeria Differential Supplement (Oxoid SR228) for enumeration
+of the <italic>S.</italic> Typhimurium and <italic>L. monocytogenes</italic>,
+respectively (<xref rid="B26" ref-type="bibr">Harrigan, 1998</xref>; <xref rid="B27" ref-type="bibr">Hitchins, 1995</xref>). The microbiological
+analyses were conducted in triplicate.</p></sec><sec><title>Physicochemical analysis</title><p>The pH value of each poultry sample was determined after each exposure period by
+blending it with 100 mL of distilled-deionized water (ddH<sub>2</sub>O) and
+measuring the value using a pH meter (Hanna HI 1131, Germany) equipped with a
+combined electrode (HI 9321 Microprocessor pH meter, Hanna Instruments, Germany)
+(AOAC 1984).</p><p>The color of each sample was measured using a Colorflex HunterLab
+spectrophotometer (Hunter Associates Laboratory Inc., Reston, VA, USA). Before
+each measurement, the apparatus was calibrated using a white, a black and a
+reference standard. Color coordinate values, including the <italic>L</italic>*
+(lightness), <italic>a</italic>* (redness), and <italic>b</italic>* (yellowness)
+values were determined based on the average of five readings that were performed
+at different locations on the surface of the sample. The color was evaluated
+using diffuse illumination (D65 2&#x000b0; observer) with an 8-mm viewing aperture and a
+25-mm port size, with the specular component excluded (<xref rid="B28" ref-type="bibr">Hunt <italic>et al.</italic>, 1991</xref>).</p><p>The thiobarbituric acid (TBA) content was determined according to the method
+described by <xref rid="B45" ref-type="bibr">Pearson <italic>et al.</italic>
+(1991)</xref>. The absorbance at 538 nm was measured using a T80+ UV/VIS
+spectrometer (PG Instruments Ltd., London, UK). The TBA content was expressed as
+mg of malondialdehyde (MDA) and was calculated by multiplying the absorbance
+values by the standard (K) value.</p></sec><sec><title>Sensory evaluation of poultry fillets</title><p>The sensorial attributes of the poultry fillets were evaluated by eight
+experienced panelists ranging from 26 and 45 years of age (2 females and 6
+males) who were trained according to the <xref rid="B30" ref-type="bibr">ISO
+protocol (1993)</xref>. Prior to performing the analysis, the panelists were
+taught the vocabularies of the sensory attributes (color intensity, taste and
+flavor: flavor intensity, spicy taste, salty taste, sweet taste, acidic taste
+and odor: odor intensity, sour odor, sweet odor, spicy odor) using a
+standardized procedure (<xref rid="B31" ref-type="bibr">ISO 1998</xref>) in two
+separate sessions of approximately 2 h for each of the selected attributes,
+which was followed by an open-discussion session to familiarize the panelists
+with the attributes and the scales they would use.</p><p>The panelists evaluated the perceived intensity of each sensory attribute on
+10-cm long unstructured linear scales that were verbally anchored at each end.
+Simultaneously, the overall acceptability of the poultry meat was assessed using
+a 5-point descriptive scale in which 1 referred to "dislike extremely" and 5
+referred to "like extremely".</p><p>The panel members were seated in individual booths in a temperature- and
+light-controlled room (fluorescent lighting at 2000 lx; Philips 40-W Cool White
+bulbs) and were given a set of six samples in a completely randomized order.
+Before the evaluations were performed, the poultry samples were removed from the
+packages and wrapped in aluminum foil and then were individually cooked in an
+oven (at 220 &#x000b0;C) for 20 min. Each of the samples was served warm in a dish
+encoded using a three-digit number. Unsalted crackers and water were served to
+the panelists to freshen their mouths between assessing each sub-sample. The
+sensory evaluations of the fillets were performed at 1, 3, 5 and 7 days of
+refrigerated storage at 4 &#x000b0;C.</p></sec><sec><title>Statistical analysis</title><p>An analysis of variance was conducted for each variable to investigate the effect
+of the antibacterial activities of REO during the storage period. The trials
+were performed in triplicate, and the General Linear Model procedure (PROC GLM)
+of the SPSS 13.0 package was used to analyze the data (<xref rid="B54" ref-type="bibr">SPSS 2001</xref>), with significant differences defined as p
+&#x0003c; 0.05. The microbial counts were expressed as log cfu/g and the mean
+differences were determined using Duncan's multiple-range tests.</p></sec></sec><sec><title>Results and Discussion</title><p>The main volatile components of the REO that was used to treat the poultry fillets
+were characterized according to the contents of the prominent (&#x0003e; 1%) components,
+including those of 1.8-cineole (44.80%), &#x003b1;-pinene (13.17%), camphor (10.43%),
+2&#x003b1;-pinene (8.08%), camphen (5.16%) and caryophyllene (5.07%). In the present study,
+1.8-cineole and &#x003b1;-pinene were found to be the major constituents of the REO. Similar
+results were found in previous studies (<xref rid="B32" ref-type="bibr">Jiang
+<italic>et al.</italic>, 2011</xref>; <xref rid="B46" ref-type="bibr">Pintore <italic>et al.</italic>, 2002</xref>). <xref rid="B07" ref-type="bibr">Boutekedjiret <italic>et al.</italic> (1999)</xref> reported that the main
+component of Tunisian, Turkish and Italian REOs was 1.8-cineole, which accounted for
+more than 40% of the total contents. The composition of an REO is affected by the
+plant variety, the geographical region of cultivation and the extraction method used
+(<xref rid="B08" ref-type="bibr">Burt 2004</xref>).</p><p>The antibacterial activities of the REO as determined in TSB units are shown in <xref rid="f01" ref-type="fig">Figures 1</xref> and <xref rid="f02" ref-type="fig">2</xref>. In this study, the growth of <italic>S.</italic> Typhimurium and
+<italic>L. monocytogenes</italic> were inhibited by the REO at 0.2%, 0.3%, 0.5%
+and 1.0%. Consistent with this result, it has been reported that REO at various
+concentrations was effective in preventing the growth of food-borne pathogens, such
+as <italic>S.</italic> Typhimurium (<xref rid="B25" ref-type="bibr">Hammer
+<italic>et al.</italic>, 1999</xref>) and <italic>L. monocytogenes</italic>
+(<xref rid="B52" ref-type="bibr">Smith-Palmer <italic>et al.</italic>,
+1998</xref>). In another study, <xref rid="B48" ref-type="bibr">Sagdic and Ozcan
+(2003)</xref> reported that hydrosols of rosemary had no effect on the growth of
+<italic>S.</italic> Typhimurium. These results showed that the antibacterial
+activity of REO is affected by the composition of the oil and the strains of
+bacteria tested. A relationship between the chemical composition of the tested oil
+and its antimicrobial activity has been reported (<xref rid="B14" ref-type="bibr">Dimitrijevic <italic>et al.</italic>, 2007</xref>). <xref rid="B32" ref-type="bibr">Jiang <italic>et al.</italic> (2011)</xref> found that the
+bacteriostatic properties of REO appeared to be associated with its 1.8-cineole and
+&#x003b1;-pinene contents.</p><fig id="f01" orientation="portrait" position="float"><label>Figure 1</label><caption><title>Effect of the REO on the survival of <italic>S.</italic> Typhimurium in
+TSB.</title></caption><graphic xlink:href="1517-8382-bjm-46-2-591-gf01"/></fig><fig id="f02" orientation="portrait" position="float"><label>Figure 2</label><caption><title>Effect of the REO on the survival of <italic>L. monocytogenes</italic> in
+TSB.</title></caption><graphic xlink:href="1517-8382-bjm-46-2-591-gf02"/></fig><p>The mean measured headspace compositions of the packages were as follows: 70.4 &#x000b1; 2.8%
+N<sub>2</sub>, 27.1 &#x000b1; 0.9% CO<sub>2</sub> and 1.3 &#x000b1; 0.7% O<sub>2</sub>. The gas
+composition of each type of packaging were nearly constant during the tested storage
+period. Similar results have been reported by <xref rid="B06" ref-type="bibr">Bingol
+and Ergun (2011)</xref> and <xref rid="B16" ref-type="bibr">Doherty <italic>et
+al.</italic> (1996)</xref>. These results may be due to the permeability of
+the packaging material and the respiration rate of the product. The reduction in the
+CO<sub>2</sub> content of the packaged poultry meat was reported to be due to
+the solubility of CO<sub>2</sub> in the aqueous phase of the poultry meats (<xref rid="B50" ref-type="bibr">Seydim <italic>et al.</italic>, 2006</xref>).</p><p>The sensory properties (odor and taste) of the fillets that had been treated using
+REO at 0.2% were assessed by the panelists, who gave scores above (p &#x0003c; 0.001) the
+rejection limit (a score of 5), whereas the scores given samples that had been
+treated using the REO at 0.3%, 0.5% and 1.0% were scored below the rejection limit
+(p &#x0003c; 0.001). Based on these sensory scores, treatment using 0.2% REO yielded the
+highest acceptability scores between 5 and 7 days of storage. Due to the very strong
+odor and taste of the REO when used at a concentration of 0.3%, 0.5% or 1.0% during
+storage, these concentrations were not utilized in the further experiments. <xref rid="B33" ref-type="bibr">Karabagias <italic>et al.</italic> (2011)</xref>
+evaluated the effect of oregano oil on the odor of lamb meat and found that the
+sensory data were not generally in agreement with the microbiological data. <xref rid="B41" ref-type="bibr">Ntzimani <italic>et al.</italic> (2010)</xref> found
+that applying REO (0.2%) to cooked chicken produced an acceptable odor and taste.
+Our findings were similar to these results.</p><p>Extracts of volatile compounds obtained from plants are widely used in the food
+industry due to their ability to inhibit the growth and reduce the number of
+food-borne pathogens (<xref rid="B34" ref-type="bibr">Kotzekidou <italic>et
+al.</italic>, 2008</xref>). The inhibitory effects of REO on the growth of
+<italic>S.</italic> Typhimurium and <italic>L. monocytogenes</italic> in poultry
+fillets are shown in <xref rid="t01" ref-type="table">Tables 1</xref> and <xref rid="t02" ref-type="table">2</xref>. In this study, treating poultry meat with
+0.2% REO did not reduce the populations of <italic>S.</italic> Typhimurium or
+<italic>L. monocytogenes</italic> (p &#x0003e; 0.05). Our results are agree with
+those of <xref rid="B21" ref-type="bibr">Fernandez-Lopez <italic>et al.</italic>
+(2005)</xref>, who studied cooked meatballs. <xref rid="B20" ref-type="bibr">Farbood <italic>et al.</italic> (1976)</xref> showed that 1.0% REO reduced the
+growth rate of <italic>S.</italic> Typhimurium by 43.2%. <xref rid="B43" ref-type="bibr">Pandit and Shelef (1994)</xref> reported that 1.0% REO inhibited
+the growth of <italic>L. monocytogenes</italic> in a pork liver sausage. Moreover,
+<xref rid="B51" ref-type="bibr">Shelef <italic>et al.</italic> (1980)</xref>
+demonstrated that Gram-positive bacteria were more sensitive to REO than were
+Gram-negative bacteria to REO. The differences in susceptibility might be attributed
+to several factors, including the composition of the REO, the bacterial strain
+challenged, the pH of the food product and the storage temperature of the product
+tested. Moreover, the concentration required to achieve a significant antibacterial
+effect was considerably higher than the MIC that was determined in vitro (<xref rid="B08" ref-type="bibr">Burt 2004</xref>). Notably, the growth of the tested
+pathogens was not affected by air packaging or MAP. No significant differences were
+found between the groups (p &#x0003e; 0.05). This result is in agreement with that of a
+previous study published by <xref rid="B57" ref-type="bibr">Vongsawasdi <italic>et
+al.</italic> (2008)</xref>.</p><table-wrap id="t01" orientation="portrait" position="float"><label>Table 1</label><caption><title>Effect of the REO and MAP on the survival of <italic>S.</italic>
+Typhimurium in the poultry fillets (log cfu/g).</title></caption><table frame="hsides" rules="groups"><thead><tr><th valign="top" align="left" rowspan="1" colspan="1">Storage period (day)</th><th colspan="4" valign="top" align="center" rowspan="1">Group</th></tr><tr><th valign="top" align="left" rowspan="1" colspan="1"/><th colspan="4" valign="top" align="left" rowspan="1">
+<hr/>
+</th></tr><tr><th valign="top" align="left" rowspan="1" colspan="1"/><th valign="top" align="center" rowspan="1" colspan="1">Air</th><th valign="top" align="center" rowspan="1" colspan="1">Air + 0.2% REO</th><th valign="top" align="center" rowspan="1" colspan="1">MAP</th><th valign="top" align="center" rowspan="1" colspan="1">MAP + 0.2% REO</th></tr></thead><tbody><tr><td valign="top" align="left" rowspan="1" colspan="1">0</td><td valign="top" align="center" rowspan="1" colspan="1">4.64 &#x000b1; 0.07<xref rid="TFN01" ref-type="table-fn">C</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">4.62 &#x000b1; 0.05<xref rid="TFN01" ref-type="table-fn">C</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">4.66 &#x000b1; 0.03<xref rid="TFN01" ref-type="table-fn">C</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">4.62 &#x000b1; 0.04<xref rid="TFN01" ref-type="table-fn">C</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">1</td><td valign="top" align="center" rowspan="1" colspan="1">4.78 &#x000b1; 0.06<xref rid="TFN01" ref-type="table-fn">C</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">4.75 &#x000b1; 0.05<xref rid="TFN01" ref-type="table-fn">C</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">4.78 &#x000b1; 0.05<xref rid="TFN01" ref-type="table-fn">C</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">4.75 &#x000b1; 0.05<xref rid="TFN01" ref-type="table-fn">C</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">3</td><td valign="top" align="center" rowspan="1" colspan="1">5.5 &#x000b1; 0.07<xref rid="TFN01" ref-type="table-fn">B</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">5.53 &#x000b1; 0.06<xref rid="TFN01" ref-type="table-fn">B</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">5.52 &#x000b1; 0.06<xref rid="TFN01" ref-type="table-fn">B</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">5.53 &#x000b1; 0.06<xref rid="TFN01" ref-type="table-fn">B</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">5</td><td valign="top" align="center" rowspan="1" colspan="1">5.65 &#x000b1; 0.07<xref rid="TFN01" ref-type="table-fn">AB</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">5.70 &#x000b1; 0.08<xref rid="TFN01" ref-type="table-fn">A</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">5.70 &#x000b1; 0.05<xref rid="TFN01" ref-type="table-fn">A</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">5.66 &#x000b1; 0.07<xref rid="TFN01" ref-type="table-fn">AB</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">7</td><td valign="top" align="center" rowspan="1" colspan="1">5.78 &#x000b1; 0.06<xref rid="TFN01" ref-type="table-fn">A</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">5.76 &#x000b1; 0.03<xref rid="TFN01" ref-type="table-fn">A</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">5.76 &#x000b1; 0.04<xref rid="TFN01" ref-type="table-fn">A</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">5.76 &#x000b1; 0.06<xref rid="TFN01" ref-type="table-fn">A</xref>
+</td></tr></tbody></table><table-wrap-foot><fn id="TFN01"><label>A&#x02013;C</label><p>The mean values within a column indicated using different superscripted
+letters were significantly different (p &#x0003c; 0.05).</p></fn></table-wrap-foot></table-wrap><table-wrap id="t02" orientation="portrait" position="float"><label>Table 2</label><caption><title>Effect of the REO and MAP on the survival of <italic>L.
+monocytogenes</italic> in the poultry fillets (log cfu/g).</title></caption><table frame="hsides" rules="groups"><thead><tr><th valign="top" align="left" rowspan="1" colspan="1">Storage period (day)</th><th colspan="4" valign="top" align="center" rowspan="1">Group</th></tr><tr><th valign="top" align="left" rowspan="1" colspan="1"/><th colspan="4" valign="top" align="left" rowspan="1">
+<hr/>
+</th></tr><tr><th valign="top" align="left" rowspan="1" colspan="1"/><th valign="top" align="center" rowspan="1" colspan="1">Air</th><th valign="top" align="center" rowspan="1" colspan="1">Air + 0.2% REO</th><th valign="top" align="center" rowspan="1" colspan="1">MAP</th><th valign="top" align="center" rowspan="1" colspan="1">MAP + 0.2% REO</th></tr></thead><tbody><tr><td valign="top" align="left" rowspan="1" colspan="1">0</td><td valign="top" align="center" rowspan="1" colspan="1">5.22 &#x000b1; 0.05<sup>C</sup>
+</td><td valign="top" align="center" rowspan="1" colspan="1">5.20 &#x000b1; 0.04<sup>D</sup>
+</td><td valign="top" align="center" rowspan="1" colspan="1">5.16 &#x000b1; 0.04<sup>C</sup>
+</td><td valign="top" align="center" rowspan="1" colspan="1">5.16 &#x000b1; 0.04<sup>D</sup>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">1</td><td valign="top" align="center" rowspan="1" colspan="1">5.43 &#x000b1; 0.04<sup>B</sup>
+</td><td valign="top" align="center" rowspan="1" colspan="1">5.32 &#x000b1; 0.03<sup>C</sup>
+</td><td valign="top" align="center" rowspan="1" colspan="1">5.33 &#x000b1; 0.03<sup>B</sup>
+</td><td valign="top" align="center" rowspan="1" colspan="1">5.31 &#x000b1; 0.03<sup>C</sup>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">3</td><td valign="top" align="center" rowspan="1" colspan="1">5.47 &#x000b1; 0.05<sup>B</sup>
+</td><td valign="top" align="center" rowspan="1" colspan="1">5.44 &#x000b1; 0.04<sup>B</sup>
+</td><td valign="top" align="center" rowspan="1" colspan="1">5.44 &#x000b1; 0.04<sup>B</sup>
+</td><td valign="top" align="center" rowspan="1" colspan="1">5.44 &#x000b1; 0.03<sup>B</sup>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">5</td><td valign="top" align="center" rowspan="1" colspan="1">5.68 &#x000b1; 0.03<sup>A</sup>
+</td><td valign="top" align="center" rowspan="1" colspan="1">5.64 &#x000b1; 0.04<sup>A</sup>
+</td><td valign="top" align="center" rowspan="1" colspan="1">5.65 &#x000b1; 0.06<sup>A</sup>
+</td><td valign="top" align="center" rowspan="1" colspan="1">5.65 &#x000b1; 0.03<sup>A</sup>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">7</td><td valign="top" align="center" rowspan="1" colspan="1">5.74 &#x000b1; 0.04<sup>A</sup>
+</td><td valign="top" align="center" rowspan="1" colspan="1">5.75 &#x000b1; 0.04<sup>A</sup>
+</td><td valign="top" align="center" rowspan="1" colspan="1">5.71 &#x000b1; 0.05<sup>A</sup>
+</td><td valign="top" align="center" rowspan="1" colspan="1">5.72 &#x000b1; 0.05<sup>A</sup>
+</td></tr></tbody></table><table-wrap-foot><fn id="TFN02"><p>The mean values within a column indicated using different superscripted
+letters were significantly different.</p></fn></table-wrap-foot></table-wrap><p>The effect of the combining REO treatment with air packaging or MAP on the pH, color
+parameter and TBA values of the poultry samples are presented in <xref rid="t03" ref-type="table">Table 3</xref>. In the present study, the pH value was not
+affected (p &#x0003e; 0.05). During storage, the pH values ranged from 5.92 to 6.07.
+Similar results for pH values were reported by Cajun <italic>et al.</italic> (2008).
+Adding REO significantly decreased the <italic>L</italic>* values (p &#x0003c; 0.001),
+whereas a significant increase in the <italic>a</italic>* values (p &#x0003c; 0.001) was
+observed at 5 and 7 days of storage; the <italic>b</italic>* values of the samples
+in the groups remained more similar (p &#x0003e; 0.05) throughout the entire storage
+period. The results indicated that the MAP conditions had no additional effects on
+the color-parameter values (p &#x0003e; 0.05). <xref rid="B35" ref-type="bibr">Liu
+<italic>et al.</italic> (2009)</xref> and <xref rid="B49" ref-type="bibr">Sebranek <italic>et al.</italic> (2005)</xref> reported similar findings for
+chicken meat and pork sausages, respectively. <xref rid="B15" ref-type="bibr">Dogan
+and Dogan (2004)</xref> determined that the polyphenol oxidases, which are
+enzymes found in many plants, are responsible for a browning reaction. However,
+<xref rid="B39" ref-type="bibr">McCarthy <italic>et al.</italic> (2001)</xref>
+and <xref rid="B18" ref-type="bibr">Estevez <italic>et al.</italic> (2006)</xref>
+found no change in the <italic>a</italic>* values of frozen pork patties and porcine
+liver pate, respectively. <xref rid="B02" ref-type="bibr">Balentine <italic>et
+al.</italic> (2006)</xref> stated that adding REO to ground beef caused an
+increase in the <italic>b</italic>* (more yellow) value. The differences among the
+results may be due to differences in the oxidation pattern of oxymyoglobin in the
+samples, the storage temperature used, the particular muscle type, the light
+intensity and the meat species (<xref rid="B22" ref-type="bibr">Georgantelis
+<italic>et al.</italic>, 2007</xref>).</p><table-wrap id="t03" orientation="portrait" position="float"><label>Table 3</label><caption><title>Effect of the REO and MAP on the pH, color-parameter and TBA values of
+the poultry fillets.</title></caption><table frame="hsides" rules="groups"><thead><tr><th valign="top" align="left" rowspan="1" colspan="1">Item</th><th valign="top" align="left" rowspan="1" colspan="1">Group</th><th colspan="5" valign="top" align="center" rowspan="1">Days of storage</th></tr><tr><th valign="top" align="left" rowspan="1" colspan="1"/><th valign="top" align="left" rowspan="1" colspan="1"/><th colspan="5" valign="top" align="left" rowspan="1">
+<hr/>
+</th></tr><tr><th valign="top" align="left" rowspan="1" colspan="1"/><th valign="top" align="left" rowspan="1" colspan="1"/><th valign="top" align="center" rowspan="1" colspan="1">0</th><th valign="top" align="center" rowspan="1" colspan="1">1</th><th valign="top" align="center" rowspan="1" colspan="1">3</th><th valign="top" align="center" rowspan="1" colspan="1">5</th><th valign="top" align="center" rowspan="1" colspan="1">7</th></tr></thead><tbody><tr><td valign="top" align="left" rowspan="1" colspan="1">pH</td><td valign="top" align="left" rowspan="1" colspan="1">Air</td><td valign="top" align="center" rowspan="1" colspan="1">5.92 &#x000b1; 0.04<xref rid="TFN03" ref-type="table-fn">D</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">5.93 &#x000b1; 0.04<xref rid="TFN03" ref-type="table-fn">D</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">5.97 &#x000b1; 0.05<xref rid="TFN03" ref-type="table-fn">C</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">6.02 &#x000b1; 0.09<xref rid="TFN03" ref-type="table-fn">B</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">6.06 &#x000b1; 0.05<xref rid="TFN03" ref-type="table-fn">A</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1">Air+ 0.2% REO</td><td valign="top" align="center" rowspan="1" colspan="1">5.92 &#x000b1; 0.05<xref rid="TFN03" ref-type="table-fn">D</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">5.93 &#x000b1; 0.06<xref rid="TFN03" ref-type="table-fn">D</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">5.97 &#x000b1; 0.04<xref rid="TFN03" ref-type="table-fn">C</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">6.01 &#x000b1; 0.05<xref rid="TFN03" ref-type="table-fn">B</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">6.06 &#x000b1; 0.05<xref rid="TFN03" ref-type="table-fn">A</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1">MAP</td><td valign="top" align="center" rowspan="1" colspan="1">5.92 &#x000b1; 0.03<xref rid="TFN03" ref-type="table-fn">D</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">5.93 &#x000b1; 0.04<xref rid="TFN03" ref-type="table-fn">D</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">5.97 &#x000b1; 0.06<xref rid="TFN03" ref-type="table-fn">C</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">6.02 &#x000b1; 0.07<xref rid="TFN03" ref-type="table-fn">B</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">6.07 &#x000b1; 0.02<xref rid="TFN03" ref-type="table-fn">A</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1">MAP+0.2% REO</td><td valign="top" align="center" rowspan="1" colspan="1">5.92 &#x000b1; 0.04<xref rid="TFN03" ref-type="table-fn">E</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">5.93 &#x000b1; 0.04 <xref rid="TFN03" ref-type="table-fn">D</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">5.97 &#x000b1; 0.06<xref rid="TFN03" ref-type="table-fn">DC</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">6.01 &#x000b1; 0.02<xref rid="TFN03" ref-type="table-fn">B</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">6.06 &#x000b1; 0.05<xref rid="TFN03" ref-type="table-fn">A</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>L</italic>*</td><td valign="top" align="left" rowspan="1" colspan="1">Air</td><td valign="top" align="center" rowspan="1" colspan="1">49.46 &#x000b1; 0.07</td><td valign="top" align="center" rowspan="1" colspan="1">49.40 &#x000b1; 0.10<xref rid="TFN04" ref-type="table-fn">a</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">49.36 &#x000b1; 0.09<xref rid="TFN04" ref-type="table-fn">a</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">49.33 &#x000b1; 0.14<xref rid="TFN04" ref-type="table-fn">a</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">49.29 &#x000b1; 0.04<xref rid="TFN04" ref-type="table-fn">a</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1">Air + 0.2% REO</td><td valign="top" align="center" rowspan="1" colspan="1">49.46 &#x000b1; 0.07<xref rid="TFN03" ref-type="table-fn">A</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">48.54 &#x000b1; 0.08<xref rid="TFN04" ref-type="table-fn">b</xref>
+<xref rid="TFN03" ref-type="table-fn">B</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">47.54 &#x000b1; 0.12<xref rid="TFN04" ref-type="table-fn">b</xref>
+<xref rid="TFN03" ref-type="table-fn">C</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">47.48 &#x000b1; 0.12<xref rid="TFN04" ref-type="table-fn">b</xref>
+<xref rid="TFN03" ref-type="table-fn">C</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">46.52 &#x000b1; 0.11<xref rid="TFN04" ref-type="table-fn">b</xref>
+<xref rid="TFN03" ref-type="table-fn">D</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1">MAP</td><td valign="top" align="center" rowspan="1" colspan="1">49.46 &#x000b1; 0.08</td><td valign="top" align="center" rowspan="1" colspan="1">49.53 &#x000b1; 0.09<xref rid="TFN04" ref-type="table-fn">a</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">49.31 &#x000b1; 0.07<xref rid="TFN04" ref-type="table-fn">a</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">49.45 &#x000b1; 0.13<xref rid="TFN04" ref-type="table-fn">a</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">49.46 &#x000b1; 0.12<xref rid="TFN04" ref-type="table-fn">a</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1">MAP+0.2% REO</td><td valign="top" align="center" rowspan="1" colspan="1">49.45 &#x000b1; 0.08<xref rid="TFN03" ref-type="table-fn">A</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">48.51 &#x000b1; 0.10<xref rid="TFN04" ref-type="table-fn">b</xref>
+<xref rid="TFN03" ref-type="table-fn">B</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">47.51 &#x000b1; 0.08<xref rid="TFN04" ref-type="table-fn">b</xref>
+<xref rid="TFN03" ref-type="table-fn">C</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">47.46 &#x000b1; 0.12<xref rid="TFN04" ref-type="table-fn">b</xref>
+<xref rid="TFN03" ref-type="table-fn">C</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">46.56 &#x000b1; 0.07<xref rid="TFN04" ref-type="table-fn">b</xref>
+<xref rid="TFN03" ref-type="table-fn">D</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>a</italic>*</td><td valign="top" align="left" rowspan="1" colspan="1">Air</td><td valign="top" align="center" rowspan="1" colspan="1">6.44 &#x000b1; 0.12</td><td valign="top" align="center" rowspan="1" colspan="1">6.46 &#x000b1; 0.10</td><td valign="top" align="center" rowspan="1" colspan="1">6.50 &#x000b1; 0.11</td><td valign="top" align="center" rowspan="1" colspan="1">6.42 &#x000b1; 0.12<xref rid="TFN04" ref-type="table-fn">b</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">6.48 &#x000b1; 0.10<xref rid="TFN04" ref-type="table-fn">b</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1">Air+0.2% REO</td><td valign="top" align="center" rowspan="1" colspan="1">6.39 &#x000b1; 0.10<xref rid="TFN03" ref-type="table-fn">C</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">6.40 &#x000b1; 0.09<xref rid="TFN03" ref-type="table-fn">C</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">7.01 &#x000b1; 0.22<xref rid="TFN03" ref-type="table-fn">B</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">7.53 &#x000b1; 0.11<xref rid="TFN04" ref-type="table-fn">a</xref>
+<xref rid="TFN03" ref-type="table-fn">A</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">7.58 &#x000b1; 0.12<xref rid="TFN04" ref-type="table-fn">a</xref>
+<xref rid="TFN03" ref-type="table-fn">A</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1">MAP</td><td valign="top" align="center" rowspan="1" colspan="1">6.37 &#x000b1; 0.08</td><td valign="top" align="center" rowspan="1" colspan="1">6.50 &#x000b1; 0.10</td><td valign="top" align="center" rowspan="1" colspan="1">6.44 &#x000b1; 0.09</td><td valign="top" align="center" rowspan="1" colspan="1">6.34 &#x000b1; 0.07<xref rid="TFN04" ref-type="table-fn">b</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">6.40 &#x000b1; 0.10<xref rid="TFN04" ref-type="table-fn">b</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1">MAP+0.2% REO</td><td valign="top" align="center" rowspan="1" colspan="1">6.40 &#x000b1; 0.12<xref rid="TFN03" ref-type="table-fn">C</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">6.42 &#x000b1; 0.10<xref rid="TFN03" ref-type="table-fn">C</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">6.88 &#x000b1; 0.30<xref rid="TFN03" ref-type="table-fn">BC</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">7.43 &#x000b1; 0.27<xref rid="TFN04" ref-type="table-fn">a</xref>
+<xref rid="TFN03" ref-type="table-fn">AB</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">7.60 &#x000b1; 0.14<xref rid="TFN04" ref-type="table-fn">a</xref>
+<xref rid="TFN03" ref-type="table-fn">A</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>b</italic>*</td><td valign="top" align="left" rowspan="1" colspan="1">Air</td><td valign="top" align="center" rowspan="1" colspan="1">15.58 &#x000b1; 0.09</td><td valign="top" align="center" rowspan="1" colspan="1">15.40 &#x000b1; 0.05</td><td valign="top" align="center" rowspan="1" colspan="1">15.54 &#x000b1; 0.04</td><td valign="top" align="center" rowspan="1" colspan="1">15.60 &#x000b1; 0.06</td><td valign="top" align="center" rowspan="1" colspan="1">15.57 &#x000b1; 0.08</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1">Air+0.2% REO</td><td valign="top" align="center" rowspan="1" colspan="1">15.59 &#x000b1; 0.07</td><td valign="top" align="center" rowspan="1" colspan="1">15.42 &#x000b1; 0.10</td><td valign="top" align="center" rowspan="1" colspan="1">15.42 &#x000b1; 0.11</td><td valign="top" align="center" rowspan="1" colspan="1">15.53 &#x000b1; 0.12</td><td valign="top" align="center" rowspan="1" colspan="1">15.67 &#x000b1; 0.08</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1">MAP</td><td valign="top" align="center" rowspan="1" colspan="1">15.56 &#x000b1; 0.07<xref rid="TFN03" ref-type="table-fn">B</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">15.43 &#x000b1; 0.06<xref rid="TFN03" ref-type="table-fn">AB</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">15.39 &#x000b1; 0.08<xref rid="TFN03" ref-type="table-fn">AB</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">15.51 &#x000b1; 0.12<xref rid="TFN03" ref-type="table-fn">AB</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">15.66 &#x000b1; 0.07<xref rid="TFN03" ref-type="table-fn">A</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1">MAP+0.2% REO</td><td valign="top" align="center" rowspan="1" colspan="1">15.62 &#x000b1; 0.11</td><td valign="top" align="center" rowspan="1" colspan="1">15.37 &#x000b1; 0.09</td><td valign="top" align="center" rowspan="1" colspan="1">15.41 &#x000b1; 0.09</td><td valign="top" align="center" rowspan="1" colspan="1">15.42 &#x000b1; 0.13</td><td valign="top" align="center" rowspan="1" colspan="1">15.67 &#x000b1; 0.03</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">TBA</td><td valign="top" align="left" rowspan="1" colspan="1">Air</td><td valign="top" align="center" rowspan="1" colspan="1">0.29 &#x000b1; 0.04<xref rid="TFN03" ref-type="table-fn">E</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">0.51 &#x000b1; 0.07<xref rid="TFN04" ref-type="table-fn">a</xref>
+<xref rid="TFN03" ref-type="table-fn">D</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">0.67 &#x000b1; 0.05<xref rid="TFN04" ref-type="table-fn">a</xref>
+<xref rid="TFN03" ref-type="table-fn">C</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">0.98 &#x000b1; 0.05<xref rid="TFN04" ref-type="table-fn">a</xref>
+<xref rid="TFN03" ref-type="table-fn">B</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">1.26 &#x000b1; 0.06<xref rid="TFN04" ref-type="table-fn">a</xref>
+<xref rid="TFN03" ref-type="table-fn">A</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1">Air+ 0.2% REO</td><td valign="top" align="center" rowspan="1" colspan="1">0.29 &#x000b1; 0.04<xref rid="TFN03" ref-type="table-fn">E</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">0.39 &#x000b1; 0.06<xref rid="TFN04" ref-type="table-fn">b</xref>
+<xref rid="TFN03" ref-type="table-fn">D</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">0.47 &#x000b1; 0.07<xref rid="TFN04" ref-type="table-fn">b</xref>
+<xref rid="TFN03" ref-type="table-fn">C</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">0.62 &#x000b1; 0.08<xref rid="TFN04" ref-type="table-fn">c</xref>
+<xref rid="TFN03" ref-type="table-fn">B</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">0.79 &#x000b1; 0.05<xref rid="TFN04" ref-type="table-fn">c</xref>
+<xref rid="TFN03" ref-type="table-fn">A</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1">MAP</td><td valign="top" align="center" rowspan="1" colspan="1">0.29 &#x000b1; 0.02<xref rid="TFN03" ref-type="table-fn">E</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">0.41 &#x000b1; 0.05<xref rid="TFN04" ref-type="table-fn">a</xref>
+<xref rid="TFN03" ref-type="table-fn">D</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">0.48 &#x000b1; 0.04<xref rid="TFN04" ref-type="table-fn">b</xref>
+<xref rid="TFN03" ref-type="table-fn">C</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">0.64 &#x000b1; 0.04<xref rid="TFN04" ref-type="table-fn">b</xref>
+<xref rid="TFN03" ref-type="table-fn">B</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">0.81 &#x000b1; 0.04<xref rid="TFN04" ref-type="table-fn">b</xref>
+<xref rid="TFN03" ref-type="table-fn">A</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1">MAP+0.2% REO</td><td valign="top" align="center" rowspan="1" colspan="1">0.29 &#x000b1; 0.02<xref rid="TFN03" ref-type="table-fn">E</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">0.33 &#x000b1; 0.05<xref rid="TFN04" ref-type="table-fn">c</xref>
+<xref rid="TFN03" ref-type="table-fn">D</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">0.38 &#x000b1; 0.04<xref rid="TFN04" ref-type="table-fn">c</xref>
+<xref rid="TFN03" ref-type="table-fn">C</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">0.57 &#x000b1; 0.07<xref rid="TFN04" ref-type="table-fn">d</xref>
+<xref rid="TFN03" ref-type="table-fn">B</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">0.75 &#x000b1; 0.06<xref rid="TFN04" ref-type="table-fn">d</xref>
+<xref rid="TFN03" ref-type="table-fn">A</xref>
+</td></tr></tbody></table><table-wrap-foot><fn id="TFN03"><label>A, B, C</label><p>The mean values within a row indicated using different superscripted
+letters were significantly different p &#x0003c; 0.05).</p></fn><fn id="TFN04"><label>a, b, c</label><p>The mean values within a column indicated using different superscripted
+letters were significantly different (p &#x0003c; 0.05).</p></fn></table-wrap-foot></table-wrap><p>The panelists judged the color attributes of the poultry fillets to be similar to
+those evaluated instrumentally, in which a slight decrease in the brightness of the
+samples was observed and a slight increase in the redness was noted in REO-treated
+fillets. The odor and taste of the air-packaged fillet samples became stronger over
+time due to the increasing level of lipid oxidation; however, the REO- plus
+MAP-treated samples remained acceptable throughout storage period. Additionally, the
+MAP-stored samples were more acceptable than were the samples stored with air in
+terms of odor (data not shown).</p><p>The TBA assay is used to measure of the content of MDA, one of the degradation
+products of lipid hydroperoxides that is formed through the oxidation of unsaturated
+fatty acids (<xref rid="B44" ref-type="bibr">Patsias <italic>et al.</italic>,
+2006</xref>). Fillets to which REO was added had significantly lower TBA values
+(p &#x0003c; 0.001) than did the untreated fillets, and the TBA values increased in all
+of the groups during the storage period (p &#x0003c; 0.001). The results also showed that
+adding REO combined with MAP had a strong inhibitory effect on the level of lipid
+oxidation, whereas the air-packaged fillets had unacceptable TBA values in untreated
+samples according to the Turkish Standards (<xref rid="B55" ref-type="bibr">TS
+2008</xref>), with TBA values corresponding to up to 1 mg MDA/kg after the
+5<sup>th</sup> day of storage. It is well known that the development of
+rancidity as a result of lipid oxidation is one of the major factors limiting the
+storage life of meat products (<xref rid="B04" ref-type="bibr">Bingol <italic>et
+al.</italic>, 2012</xref>). The beneficial effects of REO that were observed
+in the present study are in agreement with the results of <xref rid="B58" ref-type="bibr">Yu <italic>et al.</italic> (2002)</xref> for turkey and <xref rid="B02" ref-type="bibr">Balentine <italic>et al.</italic> (2006)</xref> for
+ground beef. Additionally, <xref rid="B01" ref-type="bibr">Aruoma <italic>et
+al.</italic> (1992)</xref> reported that carnosic acid and carnosol
+accounted for more than 90% of the antioxidant properties of a rosemary extract;
+these compounds are powerful inhibitors of lipid peroxidation. In another study,
+<xref rid="B10" ref-type="bibr">Chan <italic>et al.</italic> (1997)</xref>
+determined that controlling its autoxidation using rosemary extract reduced the rate
+of myoglobin color degradation. In contrast, <xref rid="B47" ref-type="bibr">Rojas
+and Brewer (2007)</xref> reported that the addition of REO did not retard the
+rate of lipid oxidation in cooked pork patties during 8 days of storage. The amount
+of REO added and the composition of its active compounds may be primarily
+responsible for the different results (<xref rid="B02" ref-type="bibr">Balentine
+<italic>et al.</italic>, 2006</xref>). According to the Turkish Standards
+(<xref rid="B55" ref-type="bibr">TS 2008</xref>), poultry meat with TBA values
+of greater than 1 mg MDA/kg is not suitable for human consumption. In the present
+study, the TBA values were less than 1 mg MDA/kg in the REO plus MAP poultry fillet
+samples. The O<sub>2</sub> concentration is the determining factor for lipid
+oxidation in chicken meat (<xref rid="B50" ref-type="bibr">Seydim <italic>et
+al.</italic>, 2006</xref>) as it is deferred in air packages.</p></sec><sec sec-type="conclusions"><title>Conclusion</title><p>The results of this study showed that adding 0.2% REO to poultry meat did not reduce
+the growth rate of <italic>S.</italic> Typhimurium or <italic>L.
+monocytogenes</italic> at 4 &#x000b0;C during a 7-day storage period. During storage,
+the presence of REO significantly decreased the <italic>L</italic>* values and
+increased the <italic>a</italic>* values of the fillets. Adding REO in combination
+with MAP resulted in lower TBA values in the fillets. In conclusion, in a suitable
+combination, REO can be applied to improve the quality of meat because it retarded
+lipid oxidation and prevented the development of rancidity; however, REO did not
+affect the growth of pathogens when used at the lower levels. Further studies should
+therefore be conducted to determine the commercial level of REO appropriate for
+different meat products to allow its application by the food industry.</p></sec></body><back><ack><title>Acknowledgement</title><p>The authors thank Baran Celik, Samet Topcuoglu and Sukru Sungur from Istanbul
+University, Faculty of Veterinary Medicine. The authors also thank Turer Tarym for
+providing the rosemary essential oil. This study was supported by the Research Fund
+of the University of Istanbul, project number 31911.</p></ack><ref-list><title>References</title><ref id="B01"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Arouma</surname><given-names>OI</given-names></name><name><surname>Halliwell</surname><given-names>B</given-names></name><name><surname>Aeschbach</surname><given-names>R</given-names></name><etal/></person-group><year>1992</year><article-title>Antioxidant and prooxidant properties of active rosemary
+constituents: Carnosol and carnosic acid</article-title><source>Xenobiotica</source><volume>22</volume><fpage>257</fpage><lpage>268</lpage><pub-id pub-id-type="pmid">1378672</pub-id></element-citation></ref><ref id="B02"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Balentine</surname><given-names>CW</given-names></name><name><surname>Crandall</surname><given-names>PG</given-names></name><name><surname>O'Bryan</surname><given-names>CA</given-names></name><etal/></person-group><year>2006</year><article-title>The pre- and post-grinding application of rosemary and its effect
+of lipid oxidation and color during storage of ground beef</article-title><source>Meat Sci</source><volume>73</volume><fpage>413</fpage><lpage>421</lpage><pub-id pub-id-type="pmid">22062478</pub-id></element-citation></ref><ref id="B03"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Basaran Kahraman</surname><given-names>B</given-names></name><name><surname>Ak</surname><given-names>S</given-names></name></person-group><year>2012</year><article-title>A new pathogen in poultry: <italic>Helicobacter
+pullorum</italic>
+</article-title><source>J Fac Vet Med Istanbul Univ</source><volume>38</volume><fpage>197</fpage><lpage>205</lpage></element-citation></ref><ref id="B04"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bingol</surname><given-names>EB</given-names></name><name><surname>Colak</surname><given-names>H</given-names></name><name><surname>Cetin</surname><given-names>O</given-names></name><etal/></person-group><year>2012</year><article-title>Effects of high-oxygen modified atmosphere packaging on the
+microbiological quality and shelf life of Tekirdag kofte - A Turkish type
+meatball</article-title><source>J Anim Vet Adv</source><volume>11</volume><fpage>3148</fpage><lpage>3155</lpage></element-citation></ref><ref id="B05"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bingol</surname><given-names>EB</given-names></name><name><surname>Dumen</surname><given-names>E</given-names></name><name><surname>Kahraman</surname><given-names>T</given-names></name><etal/></person-group><year>2013</year><article-title>Prevalence of <italic>Salmonella</italic> spp., <italic>Listeria
+monocytogenes</italic> and <italic>Escherichia coli O157</italic> in
+meat and meat products consumed in Istanbul</article-title><source>Med Weter</source><volume>69</volume><fpage>488</fpage><lpage>491</lpage></element-citation></ref><ref id="B06"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bingol</surname><given-names>EB</given-names></name><name><surname>Ergun</surname><given-names>O</given-names></name></person-group><year>2011</year><article-title>Effects of modified atmosphere packaging (MAP) on the
+microbiological quality and shelf life of ostrich meat</article-title><source>Meat Sci</source><volume>88</volume><fpage>774</fpage><lpage>785</lpage><pub-id pub-id-type="pmid">21474253</pub-id></element-citation></ref><ref id="B07"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Boutekedjiret</surname><given-names>C</given-names></name><name><surname>Belabbes</surname><given-names>R</given-names></name><name><surname>Bentahar</surname><given-names>F</given-names></name><etal/></person-group><year>1999</year><article-title>Study of <italic>Rosmarinus officinalis</italic> L. essential oil
+yield and composition as a function of the plant life cycle</article-title><source>J Essent Oil Res</source><volume>11</volume><fpage>238</fpage><lpage>240</lpage></element-citation></ref><ref id="B08"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Burt</surname><given-names>S</given-names></name></person-group><year>2004</year><article-title>Essential oils: their antibacterial properties and potential
+applications in foods-a review</article-title><source>Int J Food Microbiol</source><volume>94</volume><fpage>223</fpage><lpage>253</lpage><pub-id pub-id-type="pmid">15246235</pub-id></element-citation></ref><ref id="B09"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cadun</surname><given-names>A</given-names></name><name><surname>Kisla</surname><given-names>D</given-names></name><name><surname>Cakli</surname><given-names>S</given-names></name></person-group><year>2008</year><article-title>Marination of deep-water pink shrimp with rosemary extract and
+the determination of its shelf-life</article-title><source>Food Chem</source><volume>109</volume><fpage>81</fpage><lpage>87</lpage><pub-id pub-id-type="pmid">26054267</pub-id></element-citation></ref><ref id="B10"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Chan</surname><given-names>WKM</given-names></name><name><surname>Faustman</surname><given-names>C</given-names></name><name><surname>Decker</surname><given-names>EA</given-names></name></person-group><year>1997</year><article-title>Oxymyoglobin oxidation as effected by oxidation products of
+phosphatidylcholine liposomes</article-title><source>J Food Sci</source><volume>62</volume><fpage>709</fpage><lpage>712</lpage></element-citation></ref><ref id="B11"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cetinkaya</surname><given-names>F</given-names></name><name><surname>Cibik</surname><given-names>R</given-names></name><name><surname>Soyutemiz</surname><given-names>EG</given-names></name><etal/></person-group><year>2008</year><article-title>Shigella and Salmonella contamination in various foodstuffs in
+Turkey</article-title><source>Food Control</source><volume>19</volume><fpage>1059</fpage><lpage>1063</lpage></element-citation></ref><ref id="B12"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Colak</surname><given-names>H</given-names></name><name><surname>Ugurluay</surname><given-names>G</given-names></name><name><surname>Nazli</surname><given-names>B</given-names></name><etal/></person-group><year>2011</year><article-title>The effect of humidity absorbing filters used as packing material
+on the shelf life of turkey meat</article-title><source>J Fac Vet Med Istanbul &#x000dc;niv</source><volume>37</volume><fpage>107</fpage><lpage>116</lpage></element-citation></ref><ref id="B13"><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Davies</surname><given-names>AP</given-names></name></person-group><year>1995</year><chapter-title>Advances of MAP</chapter-title><person-group person-group-type="editor"><name><surname>Gould</surname><given-names>GW</given-names></name></person-group><source>Natural antimicrobial systems and Food Preservation</source><publisher-name>Blackie</publisher-name><publisher-loc>Glasgow</publisher-loc><fpage>304</fpage><lpage>320</lpage></element-citation></ref><ref id="B14"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Dimitrijevic</surname><given-names>SI</given-names></name><name><surname>Mihajlovski</surname><given-names>KR</given-names></name><name><surname>Antonovic</surname><given-names>DG</given-names></name><etal/></person-group><year>2007</year><article-title>A study of the synergistic antilisterial effects of a sub-lethal
+dose of lactic acid and essential oils from <italic>Thymus vulgaris
+L</italic>., <italic>Rosmarinus officinalis</italic> and
+<italic>Origanum vulgare L</italic>
+</article-title><source>Food Chem</source><volume>104</volume><fpage>774</fpage><lpage>782</lpage></element-citation></ref><ref id="B15"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Dogan</surname><given-names>S</given-names></name><name><surname>Dogan</surname><given-names>M</given-names></name></person-group><year>2004</year><article-title>Determination of kinetic properties of polyphenol oxidase from
+Thymus (<italic>Thymus longicaulis subsp. chaubardii var.
+chaubardii</italic>)</article-title><source>Food Chem</source><volume>88</volume><fpage>69</fpage><lpage>77</lpage></element-citation></ref><ref id="B16"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Doherty</surname><given-names>MA</given-names></name><name><surname>Sheridan</surname><given-names>JJ</given-names></name><name><surname>Allen</surname><given-names>P</given-names></name><etal/></person-group><year>1996</year><article-title>Physical characteristics of lamb primal packaged under vacuum or
+modified atmospheres</article-title><source>Meat Sci</source><volume>42</volume><fpage>315</fpage><lpage>324</lpage><pub-id pub-id-type="pmid">22060778</pub-id></element-citation></ref><ref id="B17"><element-citation publication-type="journal"><person-group person-group-type="author"><collab>EFSA Journal</collab></person-group><year>2012</year><article-title>The European Union Summary Report on trends and sources of
+zoonoses, zoonotic agents and food-borne outbreaks in 2010</article-title><source>EFSA Journal</source><volume>10</volume><fpage>2597</fpage></element-citation></ref><ref id="B18"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Estevez</surname><given-names>M</given-names></name><name><surname>Ventanas</surname><given-names>S</given-names></name><name><surname>Cava</surname><given-names>R</given-names></name></person-group><year>2006</year><article-title>Effect of natural and synthetic antioxidants on the protein
+oxidation and colour and texture changes in refrigerated stored porcine
+liver p&#x000e2;t&#x000e9;</article-title><source>Meat Sci</source><volume>74</volume><fpage>396</fpage><lpage>403</lpage><pub-id pub-id-type="pmid">22062851</pub-id></element-citation></ref><ref id="B19"><element-citation publication-type="journal"><person-group person-group-type="author"><collab>European Union</collab></person-group><year>2006</year><article-title>Directive 2006/52/EC of the European Parliament and of the
+Council of 5 July 2006 amending Directive 95/2/EC on food additives other
+than colours and sweeteners and Directive 94/35/ EC on sweeteners for use in
+foodstuffs</article-title><source>Official Journal of the European Union</source><volume>L204</volume><fpage>10</fpage><lpage>22</lpage></element-citation></ref><ref id="B20"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Farbood</surname><given-names>MI</given-names></name><name><surname>Macneil</surname><given-names>JH</given-names></name><name><surname>Ostovar</surname><given-names>K</given-names></name></person-group><year>1976</year><article-title>Effect of rosemary spice extractive on growth of microorganisms
+in meats</article-title><source>J Milk Food Technol</source><volume>39</volume><fpage>675</fpage><lpage>679</lpage></element-citation></ref><ref id="B21"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Fernandez-Lopez</surname><given-names>J</given-names></name><name><surname>Zhi</surname><given-names>N</given-names></name><name><surname>Aleson-Carbonell</surname><given-names>L</given-names></name><etal/></person-group><year>2005</year><article-title>Antioxidant and antibacterial activities of natural extracts:
+Application in beef meatballs</article-title><source>Meat Sci</source><volume>69</volume><fpage>371</fpage><lpage>380</lpage><pub-id pub-id-type="pmid">22062974</pub-id></element-citation></ref><ref id="B22"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Georgantelis</surname><given-names>D</given-names></name><name><surname>Blekas</surname><given-names>G</given-names></name><name><surname>Katikou</surname><given-names>P</given-names></name><etal/></person-group><year>2007</year><article-title>Effect of rosemary extract, chitosan and a-tocopherol on lipid
+oxidation and colour stability during frozen storage of beef
+burgers</article-title><source>Meat Sci</source><volume>75</volume><fpage>256</fpage><lpage>264</lpage><pub-id pub-id-type="pmid">22063657</pub-id></element-citation></ref><ref id="B23"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Geornaras</surname><given-names>I</given-names></name><name><surname>Dykes</surname><given-names>GA</given-names></name><name><surname>Von Holy</surname><given-names>A</given-names></name></person-group><year>1995</year><article-title>Biogenic amine formation by chicken-associated spoilage and
+pathogenic bacteria</article-title><source>Lett Appl Microbiol</source><volume>21</volume><fpage>164</fpage><lpage>166</lpage><pub-id pub-id-type="pmid">7576501</pub-id></element-citation></ref><ref id="B24"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gutierrez</surname><given-names>J</given-names></name><name><surname>Barry-Ryan</surname><given-names>C</given-names></name><name><surname>Bourke</surname><given-names>P</given-names></name></person-group><year>2008</year><article-title>The antimicrobial efficacy of plant essential oil combinations
+and interactions with food ingredients</article-title><source>Int J Food Microbiol</source><volume>124</volume><fpage>91</fpage><lpage>97</lpage><pub-id pub-id-type="pmid">18378032</pub-id></element-citation></ref><ref id="B25"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hammer</surname><given-names>KA</given-names></name><name><surname>Carson</surname><given-names>CF</given-names></name><name><surname>Riley</surname><given-names>TV</given-names></name></person-group><year>1999</year><article-title>Antimicrobial activity of essential oils and other plant
+extracts</article-title><source>J Appl Microbiol</source><volume>86</volume><fpage>985</fpage><lpage>990</lpage><pub-id pub-id-type="pmid">10438227</pub-id></element-citation></ref><ref id="B26"><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Harrigan</surname><given-names>WF</given-names></name></person-group><year>1998</year><source>Laboratory methods in food microbiology</source><publisher-name>Academic Press Ltd</publisher-name><publisher-loc>California</publisher-loc></element-citation></ref><ref id="B27"><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Hitchins</surname><given-names>AD</given-names></name></person-group><year>1995</year><source>Food and drug administrations, bacteriological analytical
+manual</source><edition>8th Edition</edition><publisher-loc>Gaithersburg, USA</publisher-loc><publisher-name>AOAC International</publisher-name><fpage>10.01</fpage><lpage>10.13</lpage></element-citation></ref><ref id="B28"><element-citation publication-type="confproc"><person-group person-group-type="author"><name><surname>Hunt</surname><given-names>MC</given-names></name><name><surname>Acton</surname><given-names>JC</given-names></name><name><surname>Benedict</surname><given-names>RC</given-names></name><etal/></person-group><year>1991</year><conf-name>Proceedings 44th Annual Reciprocal Meat Conference</conf-name><source>AMSA guidelines for meat color evaluation</source><fpage>3</fpage><lpage>17</lpage></element-citation></ref><ref id="B29"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hussain</surname><given-names>AI</given-names></name><name><surname>Anwar</surname><given-names>F</given-names></name><name><surname>Chatha</surname><given-names>SAS</given-names></name><etal/></person-group><year>2010</year><article-title>
+<italic>Rosmarinus officinalis</italic> essential oil:
+antiproliferative, antioxidant and antibacterial activities</article-title><source>Braz J Microbiol</source><volume>41</volume><fpage>1070</fpage><lpage>1078</lpage><pub-id pub-id-type="pmid">24031588</pub-id></element-citation></ref><ref id="B30"><element-citation publication-type="book"><person-group person-group-type="author"><collab>International Standardization Organization (ISO) 8586-1</collab></person-group><year>1993</year><chapter-title>Sensory analysis</chapter-title><source>General guidance for the selection, training and monitoring of
+assessors. Part 1: Selected assessors</source><publisher-loc>Switzerland</publisher-loc></element-citation></ref><ref id="B31"><element-citation publication-type="book"><person-group person-group-type="author"><collab>International Standardization Organization (ISO) 8589</collab></person-group><year>1998</year><source>Sensory analysis-General guidance for design of test rooms</source><publisher-loc>Paris</publisher-loc></element-citation></ref><ref id="B32"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Jiang</surname><given-names>Y</given-names></name><name><surname>Wu</surname><given-names>N</given-names></name><name><surname>Fu</surname><given-names>Y</given-names></name><etal/></person-group><year>2011</year><article-title>Chemical composition and antimicrobial activity of the essential
+oil of rosemary</article-title><source>Environ Toxicol Pharmacol</source><volume>32</volume><fpage>63</fpage><lpage>68</lpage><pub-id pub-id-type="pmid">21787731</pub-id></element-citation></ref><ref id="B33"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Karabagias</surname><given-names>I</given-names></name><name><surname>Badeka</surname><given-names>A</given-names></name><name><surname>Kontominas</surname><given-names>BG</given-names></name></person-group><year>2011</year><article-title>Shelf life extension of lamb meat using thyme or oregano
+essential oils and modified atmosphere packaging</article-title><source>Meat Sci</source><volume>88</volume><fpage>109</fpage><lpage>116</lpage><pub-id pub-id-type="pmid">21211912</pub-id></element-citation></ref><ref id="B34"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kotzekidou</surname><given-names>P</given-names></name><name><surname>Giannakidis</surname><given-names>P</given-names></name><name><surname>Boulamatsis</surname><given-names>A</given-names></name></person-group><year>2008</year><article-title>Antimicrobial activity of some plant extracts and essential oils
+against foodborne pathogens in vitro and on the fate of inoculated pathogens
+in chocolate</article-title><source>Lebensm Wiss Technol</source><volume>41</volume><fpage>119</fpage><lpage>127</lpage></element-citation></ref><ref id="B35"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Liu</surname><given-names>DC</given-names></name><name><surname>Tsau</surname><given-names>RT</given-names></name><name><surname>Lin</surname><given-names>YC</given-names></name><etal/></person-group><year>2009</year><article-title>Effect of various levels of rosemary or Chinese mahogany on the
+quality of fresh chicken sausage during refrigerated storage</article-title><source>Food Chem</source><volume>117</volume><fpage>106</fpage><lpage>113</lpage></element-citation></ref><ref id="B36"><element-citation publication-type="journal"><person-group person-group-type="author">Machado<name><surname>de
+Melo</surname><given-names>AA</given-names></name><name><surname>Geraldine</surname><given-names>RM</given-names></name><name><surname>Silveira</surname><given-names>MFA</given-names></name><etal/></person-group><year>2012</year><article-title>Microbiological quality and other characteristics of refrigerated
+chicken meat in contact with cellulose acetate-based film incorporated with
+rosemary essential oil</article-title><source>Braz J Microbiol</source><volume>43</volume><fpage>1419</fpage><lpage>1427</lpage><pub-id pub-id-type="pmid">24031972</pub-id></element-citation></ref><ref id="B37"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mastromatteo</surname><given-names>M</given-names></name><name><surname>Conte</surname><given-names>A</given-names></name><name><surname>Del Nobile</surname><given-names>MA</given-names></name></person-group><year>2010</year><article-title>Combined use of modified atmosphere packaging and natural
+compounds for food preservation</article-title><source>Food Eng Rev</source><volume>2</volume><fpage>28</fpage><lpage>38</lpage></element-citation></ref><ref id="B38"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mataragas</surname><given-names>M</given-names></name><name><surname>Skandamis</surname><given-names>PN</given-names></name><name><surname>Drosinos</surname><given-names>EH</given-names></name></person-group><year>2008</year><article-title>Risk profiles of pork and poultry meat and risk ratings of
+various pathogen/product combinations</article-title><source>Intl J Food Microbiol</source><volume>126</volume><fpage>1</fpage><lpage>12</lpage></element-citation></ref><ref id="B39"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>McCarthy</surname><given-names>TL</given-names></name><name><surname>Kerry</surname><given-names>JP</given-names></name><name><surname>Kerry</surname><given-names>JF</given-names></name><etal/></person-group><year>2001</year><article-title>Assessment of the antioxidant potential of natural food and plant
+extracts in fresh and previously frozen pork patties</article-title><source>Meat Sci</source><volume>57</volume><fpage>177</fpage><lpage>184</lpage><pub-id pub-id-type="pmid">22061361</pub-id></element-citation></ref><ref id="B40"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Norrung</surname><given-names>B</given-names></name><name><surname>Buncic</surname><given-names>S</given-names></name></person-group><year>2008</year><article-title>Microbial safety of meat in the Eurepean Union</article-title><source>Meat Sci</source><volume>78</volume><fpage>14</fpage><lpage>24</lpage><pub-id pub-id-type="pmid">22062091</pub-id></element-citation></ref><ref id="B41"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ntzimani</surname><given-names>AG</given-names></name><name><surname>Giatrakou</surname><given-names>VI</given-names></name><name><surname>Savvaidis</surname><given-names>IN</given-names></name></person-group><year>2010</year><article-title>Combined natural antimicrobial treatments (EDTA, lysozyme,
+rosemary and oregano oil) on semi cooked coated chicken meat stored in
+vacuum packages at 4 &#x000b0;C: Microbiological and sensory
+evaluation</article-title><source>Innov Food Sci Emerg Technol</source><volume>11</volume><fpage>187</fpage><lpage>196</lpage></element-citation></ref><ref id="B42"><element-citation publication-type="book"><source>Official Methods of Analysis (AOAC)</source><year>1984</year><publisher-loc>Washington D.C., USA</publisher-loc><publisher-name>Association of Official Analytical Chemists</publisher-name></element-citation></ref><ref id="B43"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Pandit</surname><given-names>VA</given-names></name><name><surname>Shelef</surname><given-names>LA</given-names></name></person-group><year>1994</year><article-title>Sensitivity of <italic>Listeria monocytogenes</italic> to
+rosemary (<italic>Rosmarinus officinalis</italic> L.)</article-title><source>Food Microbiol</source><volume>11</volume><fpage>57</fpage><lpage>63</lpage></element-citation></ref><ref id="B44"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Patsias</surname><given-names>A</given-names></name><name><surname>Chouliara</surname><given-names>I</given-names></name><name><surname>Badeka</surname><given-names>A</given-names></name><etal/></person-group><year>2006</year><article-title>Shelf life of a chilled precooked chicken product stored in air
+and under modified atmospheres: microbiological, chemical and sensory
+attributes</article-title><source>Food Microbiol</source><volume>23</volume><fpage>423</fpage><lpage>429</lpage><pub-id pub-id-type="pmid">16943033</pub-id></element-citation></ref><ref id="B45"><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Pearson</surname><given-names>D</given-names></name><name><surname>Kirk</surname><given-names>R</given-names></name><name><surname>Sawyer</surname><given-names>R</given-names></name></person-group><year>1991</year><source>Composition and Analysis of Foods</source><publisher-name>Longman Scientific &#x00026; Technical</publisher-name><publisher-loc>Harlow</publisher-loc></element-citation></ref><ref id="B46"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Pintore</surname><given-names>G</given-names></name><name><surname>Usai</surname><given-names>M</given-names></name><name><surname>Bradesi</surname><given-names>P</given-names></name><etal/></person-group><year>2002</year><article-title>Chemical composition and antimicrobial activity of
+<italic>Rosmarinus officinalis</italic> L. oils from Sardinia and
+Corsica</article-title><source>Flavour Frag J</source><volume>17</volume><fpage>15</fpage><lpage>19</lpage></element-citation></ref><ref id="B47"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rojas</surname><given-names>MC</given-names></name><name><surname>Brewer</surname><given-names>MS</given-names></name></person-group><year>2007</year><article-title>Effect of natural antioxidants on oxidative stability of cooked,
+refrigerated beef and pork</article-title><source>J Food Sci</source><volume>72</volume><fpage>282</fpage><lpage>288</lpage></element-citation></ref><ref id="B48"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sagdic</surname><given-names>O</given-names></name><name><surname>Ozcan</surname><given-names>M</given-names></name></person-group><year>2003</year><article-title>Antimicrobial activity of Turkish spice hydrosols</article-title><source>Food Control</source><volume>14</volume><fpage>141</fpage><lpage>143</lpage></element-citation></ref><ref id="B49"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sebranek</surname><given-names>JG</given-names></name><name><surname>Sewalt</surname><given-names>VJH</given-names></name><name><surname>Robbins</surname><given-names>KL</given-names></name><etal/></person-group><year>2005</year><article-title>Comparison of a natural rosemary extract and BHA/BHT for relative
+antioxidant effectiveness in pork sausage</article-title><source>Meat Sci</source><volume>69</volume><fpage>289</fpage><lpage>296</lpage><pub-id pub-id-type="pmid">22062821</pub-id></element-citation></ref><ref id="B50"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Seydim</surname><given-names>AC</given-names></name><name><surname>Acton</surname><given-names>JC</given-names></name><name><surname>Hall</surname><given-names>MA</given-names></name><etal/></person-group><year>2006</year><article-title>Effects of packaging atmospheres on shelf-life quality of ground
+ostrich meat</article-title><source>Meat Sci</source><volume>73</volume><fpage>503</fpage><lpage>510</lpage><pub-id pub-id-type="pmid">22062490</pub-id></element-citation></ref><ref id="B51"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Shelef</surname><given-names>LA</given-names></name><name><surname>Naglik</surname><given-names>OA</given-names></name><name><surname>Bogen</surname><given-names>DW</given-names></name></person-group><year>1980</year><article-title>Sensitivity of some common foodborne bacteria to the spices sage,
+rosemary and allspice</article-title><source>J Food Sci</source><volume>45</volume><fpage>1042</fpage><lpage>1044</lpage></element-citation></ref><ref id="B52"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Smith-Palmer</surname><given-names>A</given-names></name><name><surname>Stewart</surname><given-names>J</given-names></name><name><surname>Fyfe</surname><given-names>L</given-names></name></person-group><year>1998</year><article-title>Antimicrobial properties of plant essential oils and essences
+against five important food-borne pathogens</article-title><source>Lett Food Microbiol</source><volume>26</volume><fpage>118</fpage><lpage>122</lpage></element-citation></ref><ref id="B53"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Solomakos</surname><given-names>N</given-names></name><name><surname>Govaris</surname><given-names>A</given-names></name><name><surname>Koidis</surname><given-names>P</given-names></name><etal/></person-group><year>2008</year><article-title>The antimicrobial effect of thyme essential oil, nisin and their
+combination against <italic>Escherichia coli</italic> O157:H7 in minced beef
+during refrigerated storage</article-title><source>Meat Sci</source><volume>80</volume><fpage>159</fpage><lpage>166</lpage><pub-id pub-id-type="pmid">22063318</pub-id></element-citation></ref><ref id="B54"><element-citation publication-type="book"><person-group person-group-type="author"><collab>Statistical Package for the Social Sciences (SPSS)</collab></person-group><year>2001</year><source>Release 13.0</source><publisher-loc>IL, Chicago</publisher-loc></element-citation></ref><ref id="B55"><element-citation publication-type="book"><person-group person-group-type="author"><collab>Turkish Standard (TS) 2409</collab></person-group><year>2008</year><source>Poultry Carcass</source><publisher-name>ICS 67.120.20</publisher-name><publisher-loc>Ankara</publisher-loc></element-citation></ref><ref id="B56"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Urumova</surname><given-names>V</given-names></name><name><surname>Stoyanchev</surname><given-names>T</given-names></name><name><surname>Lyutskanov</surname><given-names>M</given-names></name><etal/></person-group><year>2014</year><article-title>Antimicrobial sensitivity of <italic>Campylobacter
+jejuni</italic> poultry isolates from the Republic of
+Bulgaria</article-title><source>J Fac Vet Med Istanbul Univ</source><volume>40</volume><fpage>29</fpage><lpage>34</lpage></element-citation></ref><ref id="B57"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Vongsawasdi</surname><given-names>P</given-names></name><name><surname>Wongwichan</surname><given-names>A</given-names></name><name><surname>Khunajakr</surname><given-names>N</given-names></name><etal/></person-group><year>2008</year><article-title>Shelf-life extension of fried battered chicken by modified
+atmosphere packaging</article-title><source>As J Food Ag-Ind</source><volume>1</volume><fpage>197</fpage><lpage>204</lpage></element-citation></ref><ref id="B58"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Yu</surname><given-names>L</given-names></name><name><surname>Scanlin</surname><given-names>L</given-names></name><name><surname>Wilson</surname><given-names>J</given-names></name><etal/></person-group><year>2002</year><article-title>Rosemary extracts as Inhibitors of lipid oxidation and color
+change in cooked turkey products during refrigerated storage</article-title><source>J Food Sci</source><volume>67</volume><fpage>582</fpage><lpage>585</lpage></element-citation></ref></ref-list></back></article>

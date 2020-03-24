@@ -1,0 +1,894 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?properties manuscript?><front><journal-meta><journal-id journal-id-type="nlm-journal-id">101740247</journal-id><journal-id journal-id-type="pubmed-jr-id">48338</journal-id><journal-id journal-id-type="nlm-ta">AAS Open Res</journal-id><journal-id journal-id-type="iso-abbrev">AAS Open Res</journal-id><journal-title-group><journal-title>AAS open research</journal-title></journal-title-group><issn pub-type="epub">2515-9321</issn></journal-meta><article-meta><article-id pub-id-type="pmid">30714023</article-id><article-id pub-id-type="pmc">6354903</article-id><article-id pub-id-type="doi">10.12688/aasopenres.12844.1</article-id><article-id pub-id-type="manuscript">EMS80338</article-id><article-categories><subj-group subj-group-type="heading"><subject>Article</subject></subj-group></article-categories><title-group><article-title>Model framework for governance of genomic research and biobanking in
+Africa &#x02013; a content description</article-title><fn-group content-type="pub-status"><fn id="FN1"><p id="P1">[version 1; referees: 3 approved]</p></fn></fn-group></title-group><contrib-group><contrib contrib-type="author" corresp="yes"><name><surname>Yakubu</surname><given-names>Aminu</given-names></name><role content-type="http://credit.casrai.org/">Conceptualization</role><role content-type="http://credit.casrai.org/">Writing &#x02013; Original Draft
+Preparation</role><role content-type="http://credit.casrai.org/">Writing &#x02013; Review &#x00026;
+Editing</role><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-7821-184X</contrib-id><xref rid="C1" ref-type="corresp">a</xref><xref ref-type="aff" rid="A1">1</xref></contrib><contrib contrib-type="author" corresp="no"><name><surname>Tindana</surname><given-names>Paulina</given-names></name><role content-type="http://credit.casrai.org/">Conceptualization</role><role content-type="http://credit.casrai.org/">Writing &#x02013; Review &#x00026;
+Editing</role><xref ref-type="aff" rid="A2">2</xref></contrib><contrib contrib-type="author" corresp="no"><name><surname>Matimba</surname><given-names>Alice</given-names></name><role content-type="http://credit.casrai.org/">Writing &#x02013; Review &#x00026;
+Editing</role><xref ref-type="aff" rid="A3">3</xref></contrib><contrib contrib-type="author" corresp="no"><name><surname>Littler</surname><given-names>Katherine</given-names></name><role content-type="http://credit.casrai.org/">Writing &#x02013; Review &#x00026;
+Editing</role><xref ref-type="aff" rid="A4">4</xref></contrib><contrib contrib-type="author" corresp="no"><name><surname>Munung</surname><given-names>Nchangwi Syntia</given-names></name><role content-type="http://credit.casrai.org/">Writing &#x02013; Review &#x00026;
+Editing</role><xref ref-type="aff" rid="A5">5</xref></contrib><contrib contrib-type="author" corresp="no"><name><surname>Madden</surname><given-names>Ebony</given-names></name><role content-type="http://credit.casrai.org/">Writing &#x02013; Review &#x00026;
+Editing</role><xref ref-type="aff" rid="A6">6</xref></contrib><contrib contrib-type="author" corresp="no"><name><surname>Staunton</surname><given-names>Ciara</given-names></name><role content-type="http://credit.casrai.org/">Writing &#x02013; Review &#x00026;
+Editing</role><xref ref-type="aff" rid="A7">7</xref></contrib><contrib contrib-type="author" corresp="no"><name><surname>De Vries</surname><given-names>Jantina</given-names></name><role content-type="http://credit.casrai.org/">Conceptualization</role><role content-type="http://credit.casrai.org/">Writing &#x02013; Review &#x00026;
+Editing</role><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0001-7192-2633</contrib-id><xref ref-type="aff" rid="A5">5</xref></contrib><aff id="A1">
+<label>1</label>Department of Health Planning, Research &#x00026; Statistics,
+Federal Ministry of Health, Abuja, Nigeria</aff><aff id="A2">
+<label>2</label>Navrongo Health Research Centre, Ghana Health Service, Navrongo,
+Ghana</aff><aff id="A3">
+<label>3</label>Wellcome Genome Campus Advanced Courses and Scientific
+Conferences, Cambridge, UK</aff><aff id="A4">
+<label>4</label>Global Policy, Wellcome Trust, London, UK</aff><aff id="A5">
+<label>5</label>Department of Medicine, University of Cape Town, Cape Town,
+South Africa</aff><aff id="A6">
+<label>6</label>Division of Genomic Medicine, National Human Genome Research
+Institute, National Institutes of Health, Rockville, MD, USA</aff><aff id="A7">
+<label>7</label>Law Department, Middlesex University, London, UK</aff></contrib-group><author-notes><corresp id="C1"><label>a</label><email xlink:href="mailto:yakubu.aminu@gmail.com">yakubu.aminu@gmail.com</email></corresp><fn fn-type="COI-statement" id="FN2"><p id="P2">No competing interests were disclosed.</p></fn></author-notes><pub-date pub-type="epub"><day>18</day><month>4</month><year>2018</year></pub-date><pub-date pub-type="pmc-release"><day>31</day><month>1</month><year>2019</year></pub-date><volume>1</volume><elocation-id>13</elocation-id><permissions><license xlink:href="http://creativecommons.org/licenses/by/4.0/"><license-p>This is an open access article distributed under the terms of the
+Creative Commons Attribution Licence, which permits unrestricted use,
+distribution, and reproduction in any medium, provided the original work is
+properly cited.</license-p></license></permissions><self-uri xlink:href="http://aasopenresearch.org/articles/1-13"/><abstract><p id="P3">Genomic research and biobanking are expanding globally, with a promise to
+fast-track the research needed to improve approaches to disease treatment and
+prevention through scientific collaborations such as the Human Heredity and
+Health in Africa (H3Africa) initiative. Integral to this type of research is the
+availability of samples and data for research. The need for broad access brings
+along a host of ethical concerns, including those related to privacy and
+confidentiality, as well as fairness and equity in access and capacity to
+utilise these samples between scientists from the high income and low income
+countries. Addressing these concerns while promoting genomic research,
+especially in Africa, requires the implementation of a sound governance
+framework. In this paper, we describe the contents of a Framework for Best
+Practice for Genomics Research and biobanking in Africa that was developed,
+under the auspices of the H3Africa initiative. This framework is broad enough to
+be used and adapted by African countries to facilitate the development of
+country-specific guidelines and to help improve the conduct and governance of
+genomics research.</p></abstract><kwd-group kwd-group-type="author"><kwd>genomics research</kwd><kwd>biobanking</kwd><kwd>governance</kwd></kwd-group></article-meta></front><body><sec sec-type="intro" id="S1"><title>Introduction</title><p id="P4">The complete mapping of the human genome<xref rid="R1" ref-type="bibr">1</xref> brought along with it possibilities to better understand human health
+and its determinants which would help improve the way diseases and health conditions
+are managed. Since then, the number of genomic research studies and the need for
+biobanking has been growing globally<xref rid="R2" ref-type="bibr">2</xref>&#x02013;<xref rid="R4" ref-type="bibr">4</xref>, with a steady increase
+in the number of such studies being conducted on the African continent<xref rid="R5" ref-type="bibr">5</xref>. Further scaling up genomics research with samples and
+data from diverse African populations<xref rid="R6" ref-type="bibr">6</xref> has
+great value considering that only a small portion of human diversity is found
+outside Africa<xref rid="R7" ref-type="bibr">7</xref>. Towards addressing this gap,
+a $76 million initiative referred to as the Human Heredity and Health in Africa
+Initiative (H3Africa) was funded jointly by the National Institutes of Health in the
+US and Wellcome Trust in the UK<xref rid="R3" ref-type="bibr">3</xref>. In order to
+fast-track realization of the benefits inherent in genomics research, the global
+community agreed to principles of &#x02018;open science&#x02019;, which promotes the
+value of sharing and reuse of data and samples as a critical component of the
+contemporary scientific landscape<xref rid="R8" ref-type="bibr">8</xref>&#x02013;<xref rid="R10" ref-type="bibr">10</xref>. Although this has
+the strong potential to facilitate scientific discovery, it also raises a number of
+ethical concerns which includes appropriate model of consent that will allow for
+such sharing of data and samples while upholding participant autonomy<xref rid="R11" ref-type="bibr">11</xref>&#x02013;<xref rid="R14" ref-type="bibr">14</xref>;
+issues of withdrawal of consent<xref rid="R15" ref-type="bibr">15</xref>,<xref rid="R16" ref-type="bibr">16</xref>; ownership of samples and data<xref rid="R17" ref-type="bibr">17</xref>&#x02013;<xref rid="R20" ref-type="bibr">20</xref>; privacy and confidentiality<xref rid="R15" ref-type="bibr">15</xref>,<xref rid="R21" ref-type="bibr">21</xref>&#x02013;<xref rid="R23" ref-type="bibr">23</xref>; and benefit sharing<xref rid="R24" ref-type="bibr">24</xref>&#x02013;<xref rid="R26" ref-type="bibr">26</xref>. Such issues are not
+peculiar to African countries, but require a different lens in further elucidating
+the contextual concerns in African settings. Furthermore, there are concerns about
+trust<xref rid="R27" ref-type="bibr">27</xref> and fairness in research
+collaborations<xref rid="R10" ref-type="bibr">10</xref>,<xref rid="R28" ref-type="bibr">28</xref>, increased vulnerability of research participants due
+to lower socio-economic levels, a history of exploitation of local populations and
+researchers<xref rid="R29" ref-type="bibr">29</xref>, and cultural issues that
+all must be considered in the governance of genomics research and biobanking in
+Africa.</p><p id="P5">In addition to these ethical concerns, regulatory frameworks for health
+research in Africa are either non-existent, or where they exist, do not respond to
+the specific concerns raised by genomics research and biobanking<xref rid="R10" ref-type="bibr">10</xref>,<xref rid="R23" ref-type="bibr">23</xref>,<xref rid="R30" ref-type="bibr">30</xref>. Towards addressing this gap, the H3Africa
+Initiative considered it expedient to develop an ethics framework describing best
+practice for genomics research and biobanking. Described in terms of core principles
+and elements, the Framework considered African political history of exploitations
+from the West and accounts of ethical concerns in conducting genomics research and
+biobanking<xref rid="R30" ref-type="bibr">30</xref>&#x02013;<xref rid="R33" ref-type="bibr">33</xref> to inform the choice of these core principles and
+elements. The phenomenon of &#x0201c;parachute research&#x0201d; &#x02013; where fully
+equipped research teams from other countries arrive at the site where research is
+needed, conduct their research independently of others, and then leave, has been
+long cited as a challenge for genuine collaborative research in Africa as well as
+other developing countries in the world. That such practices are not part of the
+past was highlighted during the recent Ebola epidemic in some West African countries
+where international researchers are said to have carted specimens away from the
+affected countries without any form of oversight or recourse to local regulations or
+regulators<xref rid="R29" ref-type="bibr">29</xref>. A permutation of these
+practices is where African researchers are reduced to the role of data and sample
+collectors, without genuine attempts to ensure their involvement beyond such
+functions. One way to remedy such practices is by fostering sustainable capacity
+building for African intellectual leadership in the conceptualization, design,
+implementation and reporting of locally appropriate studies<xref rid="R30" ref-type="bibr">30</xref>,<xref rid="R34" ref-type="bibr">34</xref>,<xref rid="R35" ref-type="bibr">35</xref> &#x02013; this is one of the core elements of
+the framework described here. It is also one of the main goals of the H3Africa
+initiative including support for equipment and infrastructure to enable researchers
+to develop biobanks and conduct large-scale genomics studies.</p><p id="P6">The aim of this framework is to guide governance, address sample and data
+sharing concerns, as well as to serve as a resource for countries to develop their
+local regulations. The process of engagement that led to the development of this
+framework is reported in another manuscript. This paper highlights the key contents
+of this framework and plans for its implementation across the African continent.</p></sec><sec id="S2"><title>An overarching philosophical basis</title><p id="P7">In developing this ethics framework, it was important for key stakeholders to
+identity the overarching philosophical basis that should guide the development of
+ethical best practice for genomic research and biobanking. The issues of unfair
+research collaboration, lack of trust in research collaborations with scientists
+from the &#x0201c;West&#x0201d; and the related scepticisms among experts and
+community representatives<xref rid="R30" ref-type="bibr">30</xref>,<xref rid="R36" ref-type="bibr">36</xref>&#x02013;<xref rid="R38" ref-type="bibr">38</xref> were
+key considerations. These remain genuine concerns that need to be addressed to
+promote inclusion of Africans in genomics research as the field progresses and the
+world benefits from its outcomes<xref rid="R6" ref-type="bibr">6</xref>. To ensure
+that African patients and researchers partake in genomic research to optimal
+benefit, we thought it important to adopt a normative basis from African cultural
+philosophy. &#x0201c;Ubuntu&#x0201d; is a largely South African worldview that focuses
+on the interrelatedness of humans in their quest for mutual co-existence and is one
+such African philosophy that was initially selected as a foundation for the
+framework<xref rid="R39" ref-type="bibr">39</xref>. However, given its strong
+historical links to an era of struggle in apartheid South Africa and several
+accounts limiting it as a southern African philosophy, its acceptance during our
+consultations as a philosophical basis for the framework met with some resistance
+from stakeholders in other parts of Africa. Instead, upon consultation we agreed
+that the framework should adopt a more generic communal or solidarity-based
+worldview. Such a worldview recognises that individuals are shaped by their
+relations to people around them and emphasizes respectful and harmonious
+relationships between them. In the African research context, we agreed that a
+communitarian perspective would place central importance on reciprocity,
+consultation and accountability as key ethical values.</p></sec><sec id="S3"><title>Core Principles and Elements</title><p id="P8">The framework proposes a set of five core principles that ought to underpin
+guidance for genomic research and biobanking initiatives in Africa. Whilst these
+principles are not new, they need to keep of being emphasized to address particular
+concerns of African communities and scientists regarding trust and unfairness in
+research collaborations. A number of these principles have been echoed in a parallel
+initiative, the San Code of Ethics, which seeks to define how researchers ought to
+conduct their work when dealing with the San population in South Africa<xref rid="R40" ref-type="bibr">40</xref>,<xref rid="R41" ref-type="bibr">41</xref>.
+The five core principles of our framework emphasize the need for research to: a) be
+sensitive and respectful of African values and cultures; b) be designed primarily to
+benefit the African people, while acknowledged it may equally benefit the global
+population; c) ensure genuine and active intellectual participation of African
+investigators and other stakeholders in research and in dissemination of findings;
+and d) promote relationships characterised by respect, fairness, equity and
+reciprocity. As core principles, these aspects are non-negotiable and should be
+incorporated in the design and conduct of genomics research and biobanking
+initiatives in Africa.</p></sec><sec id="S4"><title>Key elements of the Framework for Best Practice</title><p id="P9">In addition to these core principles, the Framework also describes ten key
+areas that need to be addressed in order to ensure that the core principles
+elucidated in the framework are realised. They include: African intellectual
+leadership; Consent; Community engagement; Ethics review; Avoidance of group harm
+and stigma; Benefit sharing; Capacity building; International collaboration and
+export of samples; Feedback of individual genetic findings; and Good governance.
+These core elements are not mutually exclusive. For instance, high-level capacity
+building is key to ensuring African intellectual leadership.</p></sec><sec id="S5"><title>Highlights of the key elements of the framework</title><p id="P10">Because sample and data sharing are essential to genomics research and
+biobanking, it is important that the <bold>consent process</bold> allows sharing and
+re-use whilst still respecting participant choice. While there are several models of
+informed consent that may support genomics research<xref rid="R42" ref-type="bibr">42</xref>, our framework promotes the use of broad consent. It is important to
+differentiate this from blanket consent, which is consent for sharing and use of
+data and specimen without any restrictions. Broad consent as understood in the
+framework allows for &#x0201c; <italic>use of samples and/or data for unspecified
+future studies, but with conditions. These conditions can involve, for instance
+a restriction on the types of studies or diseases that samples/data can be used
+for; a specified oversight and approval process for future use; ongoing
+consultation with sample donors about future use, if possible; and a process
+allowing participants to withdraw samples or data from the storage facility that
+holds them</italic>&#x0201d;. Although debates about appropriate consent models
+for genomics and biobanking continue, there is growing consensus that it may be the
+&#x02018;best compromise&#x02019; consent model<xref rid="R43" ref-type="bibr">43</xref>. In their critical presentation of the outcomes of a workshop which
+aimed to identify the appropriate consent model for collection of biospecimen for
+use in future research, Grady <italic>et al.</italic> (2015) submitted that broad
+consent was considered &#x0201c;ethically appropriate, and preferable to lack of
+consent for the majority of biospecimen collection for future research
+uses&#x0201d;<xref rid="R42" ref-type="bibr">42</xref>. Furthermore, Tindana and
+De Vries (2016) in their paper on the perspectives of broad consent for genomics
+research in LMICs concluded that there are no <italic>a priori</italic> reasons
+against the use of broad consent for genomics research in Africa<xref rid="R44" ref-type="bibr">44</xref>. Empirical research conducted since then suggests that
+participants may also be supportive of broad consent if done sensitively and
+respectfully<xref rid="R45" ref-type="bibr">45</xref>&#x02013;<xref rid="R47" ref-type="bibr">47</xref>. The proposed framework for acceptable broad consent
+includes initial consent, oversight of future research projects, and, when feasible,
+mechanisms for maintaining contact and communication with specimen donors. There is,
+however, an agreement among most proponents of broad consent that for optimal
+participant protection, whenever broad consent is used in genomics research to allow
+for future research use, it needs to be accompanied with a mechanism that promotes
+accountability and equity<xref rid="R48" ref-type="bibr">48</xref> in sharing
+specimen and/or data with other researchers while also ensuring that
+participants&#x02019; choice are respected<xref rid="R42" ref-type="bibr">42</xref>,<xref rid="R44" ref-type="bibr">44</xref>.</p><p id="P11">The Framework considers that genuine <bold>community engagement</bold> is a
+key component of ensuring best practice in genomics research and biobanking in
+Africa, not in the least because it promotes respect for community values and
+perspectives and maximizes the social value of research<xref rid="R49" ref-type="bibr">49</xref>. Community engagement is one way to ensure that
+research conduct is aligned with a communitarian worldview. Furthermore, genuine
+community engagement is proposed as a condition for the use of broad consent<xref rid="R42" ref-type="bibr">42</xref>,<xref rid="R44" ref-type="bibr">44</xref>.
+Community engagement should take place along the entire spectrum of research
+activities, from initial planning phases and data collection, to include the return
+of general study findings when projects end.</p><p id="P12">The framework recommends that all primary genomic research and biobanking
+studies must be reviewed by a competent research <bold>ethics review</bold>
+committee based in the country where samples are collected or stored. Research
+ethics review fulfils an important role in promoting ethical best practice and is
+key to the protection of research participants Such a role is very important in the
+African research that takes place in the context of a high burden of disease, poor
+access to basic necessities and healthcare, low average income and literacy levels
+as well as unfamiliarity of most of the people with biomedical research generally
+and genomic research specifically. A particular challenge is the limited capacity of
+research ethics committees in Africa to review genomics research and biobanking
+projects<xref rid="R50" ref-type="bibr">50</xref>,<xref rid="R51" ref-type="bibr">51</xref>. Using a matrix that maps the various elements of this
+framework against important issues that ethics committees are recommended to
+consider, <xref rid="T1" ref-type="table">Table 1</xref> is proposed as a practical
+tool for ethics committees to provide oversight for good governance in genomics
+research and biobanking.</p><p id="P13">The <bold>avoidance of group harm or stigma</bold> is considered important
+particularly in the African research context where researchers may work with members
+of many different population groups, each characterised by their own language,
+culture and belief systems, some of which may be marginalised or discriminated
+against. Research may also involve groups of people suffering from stigmatised
+conditions or outlawed or stigmatising behaviours, phenotypes or lifestyles. In such
+a context, the reporting of genomic research results could aggravate existing stigma
+or marginalisation. An example is the way in which genomic research on the San
+included findings that were considered potentially stigmatising<xref rid="R41" ref-type="bibr">41</xref>. In this example, Namibian San leaders were approached
+for participation in genomics research<xref rid="R52" ref-type="bibr">52</xref>,
+without involvement of San political leadership or individuals with experience in
+science who could have properly explained the research project and who could have
+helped the research team in designing more appropriate consent processes. Whilst
+presented internationally as an example of &#x02018;best practice&#x02019; for the
+involvement of &#x02018;indigenous&#x02019; African populations<xref rid="R53" ref-type="bibr">53</xref>, this project, as well as its inconsiderate
+presentation of research results, was perceived as deeply offensive by the Namibian
+and South African San Councils and led to the development of the San Code for Ethics
+referenced earlier.</p><p id="P14">Because of this and other experiences, the framework requires researchers to
+be mindful of whether and how groups are identified in genomics research, and how
+research results are reported. Importantly, the framework suggests that community
+engagement may be one way to alleviate the potential for stigma. Genuine
+intellectual leadership by senior African researchers and their meaningful
+involvement in the preparation of manuscripts is equally important to ensure the
+respectful engagement with African populations and the responsible reporting of
+study findings.</p><p id="P15">In terms of <bold>benefit sharing</bold>, the framework proposes that
+genomics research and biobanking may bring intangible benefits in the form of
+general study results, social recognition, knowledge production and translation of
+relevant knowledge to healthcare practice. Whilst there may be some tangible
+benefits emanating from genomics research and biobanking in the form of (patentable)
+innovations or technologies, these are rare and should not be the focus of benefit
+sharing discussions. The framework describes, first, that it is imperative that
+researchers ensure that intangible benefits accrue to researchers and communities
+and they should be aware of this. It also describes that researchers should be
+mindful not to raise unrealistic expectations, and to clearly describe to
+communities and individuals the nature of potential benefits they can expect and
+those that they cannot.</p><p id="P16">
+<bold>Capacity building</bold> for African scientists is one of the central elements
+of the framework, and has been identified as one of the primary benefits emanating
+out of ongoing research endeavours such as H3Africa<xref rid="R25" ref-type="bibr">25</xref>,<xref rid="R54" ref-type="bibr">54</xref>. Building a critical mass
+of scholars in genomics and biobanking is essential to ensure the sustainability of
+these research approaches in Africa. Similarly, such a critical mass is needed to
+ensure that this research can be conducted by African research teams and under
+African intellectual leadership in the future, provided that capacity is built along
+the entire academic hierarchy and includes junior scientists as well as more senior
+ones. Importantly, capacity building would need to focus not just on training in
+genomics science and bioinformatics, but also in grants administration, contract
+negotiation, ethics and in transferable skills such as grant writing which enables
+sustainability of the genomics research. The expectation is that broad capacity
+building would ensure that research is responsive to the health needs of Africans,
+is sensitive to African ethical, legal and social issues, and that there is a strong
+avenue for the implementation of relevant research findings into national health
+policy and clinical practice.</p><p id="P17">With regard to the <bold>export of samples</bold> to other countries, the
+framework acknowledges that this is often viewed as problematic by research ethics
+committees and other regulators, not in the least because it is viewed as
+perpetuating inequality. For this reason, the framework proposes that export should
+only be permitted where researchers can outline how their work will contribute to
+reducing global health inequality and what measures they have put in place to
+strengthen the research system in the country where the samples were collected. One
+example would be where junior and senior African students and researchers are
+meaningfully involved in all aspects of the research process, including aspects that
+happen in non-African laboratories and universities. Material Transfer Agreements
+are fundamental to underpin the fair export of samples, and guidance offered for
+instance by the</p><p id="P18">Whilst the framework offers some guidance on the <bold>feedback of
+individual genetic research results</bold>, it mainly proposes a range of
+questions that need to be considered in determining whether and under which
+conditions the return of research results may be appropriate in the African research
+context. Given the complexity of the issues, the H3Africa Consortium is developing a
+policy guiding researchers in how to decide which results to feedback, which expands
+on the summary guidance given in the framework.</p><p id="P19">Lastly, implementing a <bold>good governance</bold> regime is recommended in
+order to tie all these elements together towards optimal protection of participant
+in genomics research and biobanking. This should be a mechanism that provides
+oversight for re-use of samples and data sharing in line with the principles and
+elements set out in the framework. Such oversight is expected to among other things,
+ensure that decisions to provide access to sample and data for secondary use are
+sensitive to the need to promote genomics scholarship from African scientists and
+facilitate preferential use of data and access to samples for such scientists for a
+reasonable period of time. Such a preferential use provision is expected to further
+support African scientists, who may have challenges in engaging with the data and
+specimen available as fast as their counterparts due to systemic challenges such as
+poor power supply, poor access to academic databases for research, poor access to
+fast and reliable internet and so forth; or infrastructural challenges such as the
+availability of databases with comparable security protections that will allow for
+sharing data across countries and continents. In making these decisions however, it
+is important to find an appropriate balance between over-protection, which may
+hinder good science with potential benefit to humanity derivable from it. Typically,
+such a governance regime is achieved through the establishment of Sample Access
+Committees and Data Access Committee<xref rid="R55" ref-type="bibr">55</xref>.
+However, each country that seeks to use the framework, as a guide may have to
+develop a structure that works best considering local peculiarities.</p></sec><sec id="S6"><title>Implementation mechanisms and amendments</title><p id="P20">The next step in our quest to consolidate and harmonize standards for
+African genomics research and biobanking is to engage broadly around the framework,
+and to develop template guidelines for adaptation.</p><p id="P21">Firstly, the framework provides the basis for further discussions and
+engagement with professional organisations, regulators and ethics committees across
+Africa. Through our consultation processes, we have built up a rich network of
+contacts with regulators and ethics committees at local, regional and national
+levels across the continent, and we are liaising with all of these to create
+awareness of the minimal standards described in the Framework. We are also liaising
+with professional science organisations including for instance the African Academy
+of Sciences (AAS), to explore how that organisation can take a leadership role in
+advancing ethical standards of genomics research and biobanking on the
+continent.</p><p id="P22">In terms of ensuring the incorporation of the standards outlined in the
+Framework into research practice, we are preparing more detailed guidelines that
+expand on the items in the Framework. This resource will be publicly available for
+use by ethics committees across the continent, and the hope is that ethics
+committees and national ethics councils will adapt and adopt the guidelines so that
+they become the gold standard for national regulation of genomics and biobanking. In
+order to ensure that they do, we will continue our engagement activities with
+committees and national councils. In addition, we are increasingly involved in
+offering training to national and local ethics committees, which are invaluable in
+ensuring awareness of the Framework and guidelines emanating from them.</p></sec><sec id="S7"><title>Disclaimer</title><p id="P23">The views expressed in this article are those of the author(s). Publication
+in <italic>AAS Open Research</italic> does not imply endorsement by the AAS.</p></sec><sec sec-type="data-availability" id="S8"><title>Data availability</title><p id="P24">No data are associated with this article.</p></sec></body><back><ack id="SA1"><title>Acknowledgements</title><p id="P25">The development of the Framework was initiated and driven by the H3Africa
+Working Group on Ethics. All authors are part of the task force assigned by this
+Working Group to develop the Framework. They are reporting on the Framework on
+behalf of the Working Group. The process involved consultations with funding
+institutions - NIH and Wellcome Trust, stakeholders involved in genomics research
+and biobanking &#x02013; the Bridging Biobanking and Biomedical Research across
+Europe and Africa (B3Africa) initiative and the Academy of Science of South Africa,
+as well as selected ethics committee members from Botswana, Uganda and Ethiopia.
+Akin Abayomi, Adamu Addissie, Julius Ecuru, Mark Guyer, Mary Kasule, Michael Pepper
+and Godfrey Tangwa, Ebony Madden, Patricia Marshall, Odile Ouwe Missi Oukem-Boyer
+provided comments through the H3A Working Group on Ethics. Clement Adebamowo and
+Michele Ramsay provided extensive comments through the H3Africa Steering Committee.
+The following provided comments at some stage in the development of the Framework:
+Anne-Marie Tass&#x000e9; and Emily Kirby of the Public Population Project in Genomics
+and Society (P3G); Maimuna Mendy, Jane Reichel, Erisa Mwaka of B3Africa and BCNet;
+M&#x02019;an Zawati and Bartha Maria Knoppers of the Centre of Genomics and Policy of
+McGill University; Doris Schroeder, Roger Chennels, Klaus Leisinger and Michelle
+Singh of the Trust Project; Colleagues from the Global Emerging Pathogens Treatment
+(GET) Consortium; Thaddeus Metz of the Philosophy Department of the University of
+Witwatersrand; Victoria de Menhil of the Broad Institute; Ilina Singh of the
+Department of Psychiatry of the University of Oxford.</p><p id="P26">The Framework for the Responsible Sharing of Genomic and Health-Related Data
+developed by the Global Alliance for Genomics and Health (GA4GH) was a key resource
+as well as the OECD Guidelines on Human Biobanks and Genetic Research Databases, the
+Wellcome Trust Framework on the Feedback of Health-Related Findings in Research, the
+EC report &#x02018;Global Governance of Science&#x02019;, the EC report
+&#x02018;Ethical and Regulatory Challenges to Science and Research Policy at the
+Global Level&#x02019; and country-specific ethics guidelines from 22 African
+countries, some of which were specific to genomic research and biobanking<xref rid="R56" ref-type="bibr">56</xref>.</p><p id="P27">A number of professionals and experts from organisations across Africa,
+Europe and the United States contributed to the development of the Framework
+&#x02013; all are duly acknowledged in the Framework and this paper.</p><sec id="SA2"><title>Grant Information</title><p id="PF1">This work is supported by the Human Heredity and Health in Africa
+(H3Africa) in Partnership with the <funding-source>African
+Academy of Sciences</funding-source>. The Framework drafting meeting was
+supported by a grant from the Wellcome Trust (WT201245/Z/16/Z). During the
+development of this Framework, Jantina de Vries was supported by the RHDGen
+grant, a H3Africa grant funded by the Wellcome Trust (WT099313MA) and the Stigma
+in African Genomics grant funded by the National Human Genome Research Institute
+of the <funding-source>National Institutes of
+Health</funding-source> under Award Number
+<award-id>U01HG008226</award-id>.</p><p id="PF2">
+<italic>The funders had no role in study design, data collection and analysis,
+decision to publish, or preparation of the manuscript.</italic>
+</p></sec></ack><ref-list><ref id="R1"><label>1</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Collins</surname><given-names>FS</given-names></name><name><surname>Morgan</surname><given-names>M</given-names></name><name><surname>Patrinos</surname><given-names>A</given-names></name></person-group>: <article-title>The Human Genome Project: lessons from
+large-scale biology.</article-title>
+<source><italic>Science.</italic></source>
+<year>2003</year>;<volume>300</volume>(<issue>5617</issue>):<fpage>286</fpage>&#x02013;<lpage>90</lpage>.
+<pub-id pub-id-type="doi">10.1126/science.1084564</pub-id>
+<pub-id pub-id-type="pmid">12690187</pub-id></mixed-citation></ref><ref id="R2"><label>2</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>McCarthy</surname><given-names>JJ</given-names></name><name><surname>McLeod</surname><given-names>HL</given-names></name><name><surname>Ginsburg</surname><given-names>GS</given-names></name></person-group>: <article-title>Genomic medicine: a decade of successes,
+challenges, and opportunities.</article-title>
+<source><italic>Sci Transl Med.</italic></source>
+<year>2013</year>;<volume>5</volume>(<issue>189</issue>):<fpage>189sr4</fpage>.
+<pub-id pub-id-type="doi">10.1126/scitranslmed.3005785</pub-id>
+<pub-id pub-id-type="pmid">23761042</pub-id></mixed-citation></ref><ref id="R3"><label>3</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><collab>H3Africa Consortium, </collab><name><surname>Rotimi</surname><given-names>C</given-names></name><name><surname>Abayomi</surname><given-names>A</given-names></name><etal/></person-group>: <article-title>Research capacity. Enabling the genomic
+revolution in Africa.</article-title>
+<source><italic>Science.</italic></source>
+<year>2014</year>;<volume>344</volume>(<issue>6190</issue>):<fpage>1346</fpage>&#x02013;<lpage>1348</lpage>.
+<pub-id pub-id-type="doi">10.1126/science.1251546</pub-id>
+<!--<pub-id pub-id-type="pmcid">4138491</pub-id>-->
+<pub-id pub-id-type="pmid">24948725</pub-id></mixed-citation></ref><ref id="R4"><label>4</label><mixed-citation publication-type="journal">
+<collab>International HapMap Consortium: </collab>
+<article-title>The International HapMap Project.</article-title>
+<source><italic>Nature.</italic></source>
+<year>2003</year>;<volume>426</volume>(<issue>6968</issue>):<fpage>789</fpage>&#x02013;<lpage>96</lpage>.
+<pub-id pub-id-type="doi">10.1038/nature02168</pub-id>
+<pub-id pub-id-type="pmid">14685227</pub-id></mixed-citation></ref><ref id="R5"><label>5</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gurdasani</surname><given-names>D</given-names></name><name><surname>Carstensen</surname><given-names>T</given-names></name><name><surname>Tekola-Ayele</surname><given-names>F</given-names></name><etal/></person-group>: <article-title>The African Genome Variation Project shapes
+medical genetics in Africa.</article-title>
+<source><italic>Nature.</italic></source>
+<year>2015</year>;<volume>517</volume>(<issue>7534</issue>):<fpage>327</fpage>&#x02013;<lpage>32</lpage>.
+<pub-id pub-id-type="doi">10.1038/nature13997</pub-id>
+<!--<pub-id pub-id-type="pmcid">4297536</pub-id>-->
+<pub-id pub-id-type="pmid">25470054</pub-id></mixed-citation></ref><ref id="R6"><label>6</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bentley</surname><given-names>AR</given-names></name><name><surname>Callier</surname><given-names>S</given-names></name><name><surname>Rotimi</surname><given-names>CN</given-names></name></person-group>: <article-title>Diversity and inclusion in genomic research: why
+the uneven progress?</article-title>
+<source><italic>J Community Genet.</italic></source>
+<year>2017</year>;<volume>8</volume>(<issue>4</issue>):<fpage>255</fpage>&#x02013;<lpage>266</lpage>.
+<pub-id pub-id-type="doi">10.1007/s12687-017-0316-6</pub-id>
+<!--<pub-id pub-id-type="pmcid">5614884</pub-id>-->
+<pub-id pub-id-type="pmid">28770442</pub-id></mixed-citation></ref><ref id="R7"><label>7</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tishkoff</surname><given-names>SA</given-names></name><name><surname>Reed</surname><given-names>FA</given-names></name><name><surname>Friedlaender</surname><given-names>FR</given-names></name><etal/></person-group>: <article-title>The genetic structure and history of Africans
+and African Americans.</article-title>
+<source><italic>Science.</italic></source>
+<year>2009</year>;<volume>324</volume>(<issue>5930</issue>):<fpage>1035</fpage>&#x02013;<lpage>44</lpage>.
+<pub-id pub-id-type="doi">10.1126/science.1172257</pub-id>
+<!--<pub-id pub-id-type="pmcid">2947357</pub-id>-->
+<pub-id pub-id-type="pmid">19407144</pub-id></mixed-citation></ref><ref id="R8"><label>8</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Marshall</surname><given-names>E</given-names></name></person-group>: <article-title>Bermuda rules: community spirit, with
+teeth.</article-title>
+<source><italic>Science.</italic></source>
+<year>2001</year>;<volume>291</volume>(<issue>5507</issue>):<fpage>1192</fpage>.
+<pub-id pub-id-type="doi">10.1126/science.291.5507.1192</pub-id>
+<pub-id pub-id-type="pmid">11233433</pub-id></mixed-citation></ref><ref id="R9"><label>9</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><collab>Toronto International Data Release Workshop
+Authors, </collab><name><surname>Birney</surname><given-names>E</given-names></name><name><surname>Hudson</surname><given-names>TJ</given-names></name><etal/></person-group>: <article-title>Prepublication data sharing.</article-title>
+<source><italic>Nature.</italic></source>
+<year>2009</year>;<volume>461</volume>(<issue>7261</issue>):<fpage>168</fpage>&#x02013;<lpage>70</lpage>.
+<pub-id pub-id-type="doi">10.1038/461168a</pub-id>
+<!--<pub-id pub-id-type="pmcid">3073843</pub-id>-->
+<pub-id pub-id-type="pmid">19741685</pub-id></mixed-citation></ref><ref id="R10"><label>10</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>de Vries</surname><given-names>J</given-names></name><name><surname>Tindana</surname><given-names>P</given-names></name><name><surname>Littler</surname><given-names>K</given-names></name><etal/></person-group>: <article-title>The H3Africa policy framework: negotiating
+fairness in genomics.</article-title>
+<source><italic>Trends Genet.</italic></source>
+<year>2015</year>;<volume>31</volume>(<issue>3</issue>):<fpage>117</fpage>&#x02013;<lpage>9</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.tig.2014.11.004</pub-id>
+<!--<pub-id pub-id-type="pmcid">4471134</pub-id>-->
+<pub-id pub-id-type="pmid">25601285</pub-id></mixed-citation></ref><ref id="R11"><label>11</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Boddington</surname><given-names>P</given-names></name><name><surname>Curren</surname><given-names>L</given-names></name><name><surname>Kaye</surname><given-names>J</given-names></name><etal/></person-group>: <article-title>Consent forms in genomics: the difference
+between law and practice.</article-title>
+<source><italic>Eur J Health Law.</italic></source>
+<year>2011</year>;<volume>18</volume>(<issue>5</issue>):<fpage>491</fpage>&#x02013;<lpage>519</lpage>.
+<pub-id pub-id-type="doi">10.1163/157180911X598744</pub-id>
+<pub-id pub-id-type="pmid">22128519</pub-id></mixed-citation></ref><ref id="R12"><label>12</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>McGuire</surname><given-names>AL</given-names></name><name><surname>Beskow</surname><given-names>LM</given-names></name></person-group>: <article-title>Informed consent in genomics and genetic
+research.</article-title>
+<source><italic>Annu Rev Genomics Hum Genet.</italic></source>
+<year>2010</year>;<volume>11</volume>:<fpage>361</fpage>&#x02013;<lpage>81</lpage>.
+<pub-id pub-id-type="doi">10.1146/annurev-genom-082509-141711</pub-id>
+<!--<pub-id pub-id-type="pmcid">3216676</pub-id>-->
+<pub-id pub-id-type="pmid">20477535</pub-id></mixed-citation></ref><ref id="R13"><label>13</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wendler</surname><given-names>D</given-names></name></person-group>: <article-title>Broad versus blanket consent for research with
+human biological samples.</article-title>
+<source><italic>Hastings Cent Rep.</italic></source>
+<year>2013</year>;<volume>43</volume>(<issue>5</issue>):<fpage>3</fpage>&#x02013;<lpage>4</lpage>.
+<pub-id pub-id-type="doi">10.1002/hast.200</pub-id>
+<!--<pub-id pub-id-type="pmcid">5520538</pub-id>-->
+<pub-id pub-id-type="pmid">24092578</pub-id></mixed-citation></ref><ref id="R14"><label>14</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Nnamuchi</surname><given-names>O</given-names></name></person-group>: <article-title>H3Africa: An Africa exemplar? Exploring its
+framework on protecting human research participants.</article-title>
+<source><italic>Dev World Bioeth.</italic></source>
+<year>2017</year>; n/a&#x02013;n/a.
+<pub-id pub-id-type="doi">10.1111/dewb.12150</pub-id>
+<pub-id pub-id-type="pmid">28470782</pub-id></mixed-citation></ref><ref id="R15"><label>15</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kaye</surname><given-names>J</given-names></name></person-group>: <article-title>The tension between data sharing and the
+protection of privacy in genomics research.</article-title>
+<source><italic>Annu Rev Genomics Hum Genet.</italic></source>
+<year>2012</year>;<volume>13</volume>(<issue>1</issue>):<fpage>415</fpage>&#x02013;<lpage>431</lpage>.
+<pub-id pub-id-type="doi">10.1146/annurev-genom-082410-101454</pub-id>
+<!--<pub-id pub-id-type="pmcid">4337968</pub-id>-->
+<pub-id pub-id-type="pmid">22404490</pub-id></mixed-citation></ref><ref id="R16"><label>16</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lowenthal</surname><given-names>J</given-names></name><name><surname>Hull</surname><given-names>SC</given-names></name></person-group>: <article-title>Framing the "Right to Withdraw" in the Use of
+Biospecimens for iPSC Research.</article-title>
+<source><italic>Ethics in Biology, Engineering and Medicine: An International
+Journal.</italic></source>
+<year>2013</year>;<volume>4</volume>(<issue>1</issue>):<fpage>1</fpage>&#x02013;<lpage>14</lpage>.
+<pub-id pub-id-type="doi">10.1615/EthicsBiologyEngMed.2013007265</pub-id>
+</mixed-citation></ref><ref id="R17"><label>17</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hawkins</surname><given-names>AK</given-names></name><name><surname>O'Doherty</surname><given-names>KC</given-names></name></person-group>: <article-title>&#x0201c;Who owns your poop?&#x0201d;: insights
+regarding the intersection of human microbiome research and the ELSI aspects
+of biobanking and related studies.</article-title>
+<source><italic>BMC Med Genomics.</italic></source>
+<year>2011</year>;<volume>4</volume>:<fpage>72</fpage>.
+<pub-id pub-id-type="doi">10.1186/1755-8794-4-72</pub-id>
+<!--<pub-id pub-id-type="pmcid">3199231</pub-id>-->
+<pub-id pub-id-type="pmid">21982589</pub-id></mixed-citation></ref><ref id="R18"><label>18</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Haga</surname><given-names>SB</given-names></name><name><surname>Beskow</surname><given-names>LM</given-names></name></person-group>: <article-title>Ethical, legal, and social implications of
+biobanks for genetics research.</article-title>
+<source><italic>Adv Genet.</italic></source>
+<year>2008</year>;<volume>60</volume>:<fpage>505</fpage>&#x02013;<lpage>44</lpage>.
+<pub-id pub-id-type="doi">10.1016/S0065-2660(07)00418-X</pub-id>
+<pub-id pub-id-type="pmid">18358331</pub-id></mixed-citation></ref><ref id="R19"><label>19</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Caulfield</surname><given-names>T</given-names></name><name><surname>Rachul</surname><given-names>C</given-names></name><name><surname>Nelson</surname><given-names>E</given-names></name></person-group>: <article-title>Biobanking, consent, and control: a survey of
+Albertans on key research ethics issues.</article-title>
+<source><italic>Biopreserv Biobank.</italic></source>
+<year>2012</year>;<volume>10</volume>(<issue>5</issue>):<fpage>433</fpage>&#x02013;<lpage>8</lpage>.
+<pub-id pub-id-type="doi">10.1089/bio.2012.0029</pub-id>
+<pub-id pub-id-type="pmid">24845044</pub-id></mixed-citation></ref><ref id="R20"><label>20</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>de Vries</surname><given-names>J</given-names></name><name><surname>Abayomi</surname><given-names>A</given-names></name><name><surname>Brandful</surname><given-names>J</given-names></name><etal/></person-group>: <article-title>A perpetual source of DNA or something really
+different: ethical issues in the creation of cell lines for African genomics
+research.</article-title>
+<source><italic>BMC Med Ethics.</italic></source>
+<year>2014</year>;<volume>15</volume>(<issue>1</issue>):<fpage>60</fpage>.
+<pub-id pub-id-type="doi">10.1186/1472-6939-15-60</pub-id>
+<!--<pub-id pub-id-type="pmcid">4134117</pub-id>-->
+<pub-id pub-id-type="pmid">25104115</pub-id></mixed-citation></ref><ref id="R21"><label>21</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Heeney</surname><given-names>C</given-names></name><name><surname>Hawkins</surname><given-names>N</given-names></name><name><surname>de Vries</surname><given-names>J</given-names></name><etal/></person-group>: <article-title>Assessing the privacy risks of data sharing in
+genomics.</article-title>
+<source><italic>Public Health Genomics.</italic></source>
+<year>2011</year>;<volume>14</volume>(<issue>1</issue>):<fpage>17</fpage>&#x02013;<lpage>25</lpage>.
+<pub-id pub-id-type="doi">10.1159/000294150</pub-id>
+<!--<pub-id pub-id-type="pmcid">2872768</pub-id>-->
+<pub-id pub-id-type="pmid">20339285</pub-id></mixed-citation></ref><ref id="R22"><label>22</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>McGuire</surname><given-names>AL</given-names></name><name><surname>Gibbs</surname><given-names>RA</given-names></name></person-group>: <article-title>Genetics. No longer
+de-identified.</article-title>
+<source><italic>Science.</italic></source>
+<year>2006</year>;<volume>312</volume>(<issue>5772</issue>):<fpage>370</fpage>&#x02013;<lpage>371</lpage>.
+<pub-id pub-id-type="doi">10.1126/science.1125339</pub-id>
+<pub-id pub-id-type="pmid">16627725</pub-id></mixed-citation></ref><ref id="R23"><label>23</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Nnamuchi</surname><given-names>O</given-names></name></person-group>: <article-title>Biobank/Genomic Research in Nigeria: Examining
+Relevant Privacy and Confidentiality Frameworks.</article-title>
+<source><italic>J Law Med Ethics.</italic></source>
+<year>2015</year>;<volume>43</volume>(<issue>4</issue>):<fpage>776</fpage>&#x02013;<lpage>786</lpage>.
+<pub-id pub-id-type="pmid">26711417</pub-id></mixed-citation></ref><ref id="R24"><label>24</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dauda</surname><given-names>B</given-names></name><name><surname>Dierickx</surname><given-names>K</given-names></name></person-group>: <article-title>Benefit sharing: an exploration on the
+contextual discourse of a changing concept.</article-title>
+<source><italic>BMC Med Ethics.</italic></source>
+<year>2013</year>;<volume>14</volume>:<fpage>36</fpage>.
+<pub-id pub-id-type="doi">10.1186/1472-6939-14-36</pub-id>
+<!--<pub-id pub-id-type="pmcid">3847211</pub-id>-->
+<pub-id pub-id-type="pmid">24028325</pub-id></mixed-citation></ref><ref id="R25"><label>25</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dauda</surname><given-names>B</given-names></name><name><surname>Joffe</surname><given-names>S</given-names></name></person-group>: <article-title>The benefit sharing vision of
+H3Africa.</article-title>
+<source><italic>Dev World Bioeth.</italic></source>
+<year>2018</year>.
+<pub-id pub-id-type="doi">10.1111/dewb.12185</pub-id>
+<pub-id pub-id-type="pmid">29446211</pub-id></mixed-citation></ref><ref id="R26"><label>26</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Simm</surname><given-names>K</given-names></name></person-group>: <article-title>Benefit-sharing: an inquiry regarding the
+meaning and limits of the concept in human genetic research.</article-title>
+<source><italic>Genomics Soc Policy.</italic></source>
+<year>2005</year>;<volume>1</volume>(<issue>2</issue>):<fpage>29</fpage>
+<pub-id pub-id-type="doi">10.1186/1746-5354-1-2-29</pub-id>
+<!--<pub-id pub-id-type="pmcid">5424952</pub-id>-->
+</mixed-citation></ref><ref id="R27"><label>27</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Moodley</surname><given-names>K</given-names></name><name><surname>Singh</surname><given-names>S</given-names></name></person-group>: <article-title>"It's all about trust": reflections of
+researchers on the complexity and controversy surrounding biobanking in
+South Africa.</article-title>
+<source><italic>BMC Med Ethics.</italic></source>
+<year>2016</year>;<volume>17</volume>(<issue>1</issue>):<fpage>57</fpage>.
+<pub-id pub-id-type="doi">10.1186/s12910-016-0140-2</pub-id>
+<!--<pub-id pub-id-type="pmcid">5057490</pub-id>-->
+<pub-id pub-id-type="pmid">27724893</pub-id></mixed-citation></ref><ref id="R28"><label>28</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>O'Daniel</surname><given-names>J</given-names></name><name><surname>Haga</surname><given-names>SB</given-names></name></person-group>: <article-title>Public perspectives on returning genetics and
+genomics research results.</article-title>
+<source><italic>Public Health Genomics.</italic></source>
+<year>2011</year>;<volume>14</volume>(<issue>6</issue>):<fpage>346</fpage>&#x02013;<lpage>55</lpage>.
+<pub-id pub-id-type="doi">10.1159/000324933</pub-id>
+<!--<pub-id pub-id-type="pmcid">3221258</pub-id>-->
+<pub-id pub-id-type="pmid">21555865</pub-id></mixed-citation></ref><ref id="R29"><label>29</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Heymann</surname><given-names>DL</given-names></name><name><surname>Liu</surname><given-names>J</given-names></name><name><surname>Lillywhite</surname><given-names>L</given-names></name></person-group>: <article-title>Partnerships, Not Parachutists, for Zika
+Research.</article-title>
+<source><italic>N Engl J Med.</italic></source>
+<year>2016</year>;<volume>374</volume>(<issue>16</issue>):<fpage>1504</fpage>&#x02013;<lpage>1505</lpage>.
+<pub-id pub-id-type="doi">10.1056/NEJMp1602278</pub-id>
+<pub-id pub-id-type="pmid">26958936</pub-id></mixed-citation></ref><ref id="R30"><label>30</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Staunton</surname><given-names>C</given-names></name><name><surname>Moodley</surname><given-names>K</given-names></name></person-group>: <article-title>Challenges in biobank governance in Sub-Saharan
+Africa.</article-title>
+<source><italic>BMC Med Ethics.</italic></source>
+<year>2013</year>;<volume>14</volume>:<fpage>35</fpage>.
+<pub-id pub-id-type="doi">10.1186/1472-6939-14-35</pub-id>
+<!--<pub-id pub-id-type="pmcid">3849982</pub-id>-->
+<pub-id pub-id-type="pmid">24025667</pub-id></mixed-citation></ref><ref id="R31"><label>31</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>de Vries</surname><given-names>J</given-names></name><name><surname>Bull</surname><given-names>SJ</given-names></name><name><surname>Doumbo</surname><given-names>O</given-names></name><etal/></person-group>: <article-title>Ethical issues in human genomics research in
+developing countries.</article-title>
+<source><italic>BMC Med Ethics.</italic></source>
+<year>2011</year>;<volume>12</volume>(<issue>1</issue>):<fpage>5</fpage>.
+<pub-id pub-id-type="doi">10.1186/1472-6939-12-5</pub-id>
+<!--<pub-id pub-id-type="pmcid">3076260</pub-id>-->
+<pub-id pub-id-type="pmid">21418562</pub-id></mixed-citation></ref><ref id="R32"><label>32</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wonkam</surname><given-names>A</given-names></name><name><surname>Tekendo</surname><given-names>CN</given-names></name><name><surname>Sama</surname><given-names>DJ</given-names></name><etal/></person-group>: <article-title>Initiation of a medical genetics service in
+sub-Saharan Africa: experience of prenatal diagnosis in
+Cameroon.</article-title>
+<source><italic>Eur J Med Genet.</italic></source>
+<year>2011</year>;<volume>54</volume>(<issue>4</issue>):<fpage>e399</fpage>&#x02013;<lpage>404</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.ejmg.2011.03.013</pub-id>
+<pub-id pub-id-type="pmid">21473937</pub-id></mixed-citation></ref><ref id="R33"><label>33</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wright</surname><given-names>KM</given-names></name><name><surname>Bomblies</surname><given-names>K</given-names></name></person-group>: <article-title>Evolutionary genetics: inheritance of a complex
+pollination syndrome.</article-title>
+<source><italic>Curr Biol.</italic></source>
+<year>2013</year>;<volume>23</volume>(<issue>12</issue>):<fpage>R525</fpage>&#x02013;<lpage>7</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.cub.2013.04.069</pub-id>
+<pub-id pub-id-type="pmid">23787048</pub-id></mixed-citation></ref><ref id="R34"><label>34</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>MacDonald</surname><given-names>NE</given-names></name><name><surname>Bortolussi</surname><given-names>R</given-names></name><name><surname>Pemba</surname><given-names>S</given-names></name><etal/></person-group>: <article-title>Supporting research leadership in
+Africa.</article-title>
+<source><italic>Lancet Glob Health.</italic></source>
+<year>2016</year>;<volume>4</volume>(<issue>6</issue>):<fpage>e362</fpage>.
+<pub-id pub-id-type="doi">10.1016/S2214-109X(16)30061-4</pub-id>
+<pub-id pub-id-type="pmid">27198835</pub-id></mixed-citation></ref><ref id="R35"><label>35</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Davies</surname><given-names>J</given-names></name><name><surname>Mullan</surname><given-names>Z</given-names></name></person-group>: <article-title>Research capacity in Africa--will the sun rise
+again?</article-title>
+<source><italic>Lancet Glob Health.</italic></source>
+<year>2016</year>;<volume>4</volume>(<issue>5</issue>):<fpage>e287</fpage>.
+<pub-id pub-id-type="doi">10.1016/S2214-109X(16)30046-8</pub-id>
+<pub-id pub-id-type="pmid">27049454</pub-id></mixed-citation></ref><ref id="R36"><label>36</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bylstra</surname><given-names>Y</given-names></name><name><surname>Lysaght</surname><given-names>T</given-names></name><name><surname>Thrivikraman</surname><given-names>J</given-names></name><etal/></person-group>: <article-title>Ethical frameworks for obtaining informed
+consent in tumour profiling: an evidence-based case for
+Singapore.</article-title>
+<source><italic>Hum Genomics.</italic></source>
+<year>2017</year>;<volume>11</volume>(<issue>1</issue>):<fpage>31</fpage>.
+<pub-id pub-id-type="doi">10.1186/s40246-017-0127-1</pub-id>
+<!--<pub-id pub-id-type="pmcid">5723075</pub-id>-->
+<pub-id pub-id-type="pmid">29221462</pub-id></mixed-citation></ref><ref id="R37"><label>37</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sieber</surname><given-names>J</given-names></name></person-group>: <article-title>Data Sharing in Historical
+Perspective.</article-title>
+<source><italic>J Empir Res Hum Res Ethics.</italic></source>
+<year>2015</year>;<volume>10</volume>(<issue>3</issue>):<fpage>215</fpage>&#x02013;<lpage>216</lpage>.
+<pub-id pub-id-type="doi">10.1177/1556264615594607</pub-id>
+<pub-id pub-id-type="pmid">26297743</pub-id></mixed-citation></ref><ref id="R38"><label>38</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tangwa</surname><given-names>GB</given-names></name></person-group>: <article-title>Giving voice to African thought in medical
+research ethics.</article-title>
+<source><italic>Theor Med Bioeth.</italic></source>
+<year>2017</year>;<volume>38</volume>(<issue>2</issue>):<fpage>101</fpage>&#x02013;<lpage>110</lpage>.
+<pub-id pub-id-type="doi">10.1007/s11017-017-9402-3</pub-id>
+<pub-id pub-id-type="pmid">28343255</pub-id></mixed-citation></ref><ref id="R39"><label>39</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Swanson</surname><given-names>D</given-names></name></person-group>: <article-title>Ubuntu: An African contribution to (re)search
+for/with a &#x02018;humble togetherness&#x02019;.</article-title>
+<source><italic>Journal of Contemporary Issues in Education.</italic></source>
+<year>2007</year>;<volume>2</volume>(<issue>2</issue>):<fpage>15</fpage>
+<pub-id pub-id-type="doi">10.20355/C5PP4X</pub-id>
+</mixed-citation></ref><ref id="R40"><label>40</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Callaway</surname><given-names>E</given-names></name></person-group>: <article-title>South Africa's San people issue ethics code to
+scientists.</article-title>
+<source><italic>Nature.</italic></source>
+<year>2017</year>;<volume>543</volume>(<issue>7646</issue>):<fpage>475</fpage>&#x02013;<lpage>476</lpage>.
+<pub-id pub-id-type="doi">10.1038/543475a</pub-id>
+<pub-id pub-id-type="pmid">28332548</pub-id></mixed-citation></ref><ref id="R41"><label>41</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chennells</surname><given-names>R</given-names></name><name><surname>Steenkamp</surname><given-names>A</given-names></name></person-group>: <article-title>International Genomics Research Involving the
+San People</article-title>. In <source><italic>Ethics Dumping: Case Studies from North-South Research
+Collaborations.</italic></source>D. Schroeder, <italic>et al.,</italic>Editors. Springer International
+Publishing: Cham.<year>2018</year>;<fpage>15</fpage>&#x02013;<lpage>22</lpage>.
+<ext-link ext-link-type="uri" xlink:href="https://books.google.co.in/books?id=qNpCDwAAQBAJ&#x00026;pg=PA15">Reference Source</ext-link>
+</mixed-citation></ref><ref id="R42"><label>42</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Grady</surname><given-names>C</given-names></name><name><surname>Eckstein</surname><given-names>L</given-names></name><name><surname>Berkman</surname><given-names>B</given-names></name><etal/></person-group>: <article-title>Broad Consent for Research With Biological
+Samples: Workshop Conclusions.</article-title>
+<source><italic>Am J Bioeth.</italic></source>
+<year>2015</year>;<volume>15</volume>(<issue>9</issue>):<fpage>34</fpage>&#x02013;<lpage>42</lpage>.
+<pub-id pub-id-type="doi">10.1080/15265161.2015.1062162</pub-id>
+<!--<pub-id pub-id-type="pmcid">4791589</pub-id>-->
+<pub-id pub-id-type="pmid">26305750</pub-id></mixed-citation></ref><ref id="R43"><label>43</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Jao</surname><given-names>I</given-names></name><name><surname>Kombe</surname><given-names>F</given-names></name><name><surname>Mwalukore</surname><given-names>S</given-names></name><etal/></person-group>: <article-title>Involving Research Stakeholders in Developing
+Policy on Sharing Public Health Research Data in Kenya: Views on Fair
+Process for Informed Consent, Access Oversight, and Community
+Engagement.</article-title>
+<source><italic>J Empir Res Hum Res Ethics.</italic></source>
+<year>2015</year>;<volume>10</volume>(<issue>3</issue>):<fpage>264</fpage>&#x02013;<lpage>277</lpage>.
+<pub-id pub-id-type="doi">10.1177/1556264615592385</pub-id>
+<!--<pub-id pub-id-type="pmcid">4548475</pub-id>-->
+<pub-id pub-id-type="pmid">26297748</pub-id></mixed-citation></ref><ref id="R44"><label>44</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tindana</surname><given-names>P</given-names></name><name><surname>de Vries</surname><given-names>J</given-names></name></person-group>: <article-title>Broad Consent for Genomic Research and
+Biobanking: Perspectives from Low- and Middle-Income
+Countries.</article-title>
+<source><italic>Annu Rev Genomics Hum Genet.</italic></source>
+<year>2016</year>;<volume>17</volume>(<issue>1</issue>):<fpage>375</fpage>&#x02013;<lpage>393</lpage>.
+<pub-id pub-id-type="doi">10.1146/annurev-genom-083115-022456</pub-id>
+<pub-id pub-id-type="pmid">26905784</pub-id></mixed-citation></ref><ref id="R45"><label>45</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sanderson</surname><given-names>SC</given-names></name><name><surname>Brothers</surname><given-names>KB</given-names></name><name><surname>Mercaldo</surname><given-names>ND</given-names></name><etal/></person-group>: <article-title>Public Attitudes toward Consent and Data Sharing
+in Biobank Research: A Large Multi-site Experimental Survey in the
+US.</article-title>
+<source><italic>Am J Hum Genet.</italic></source>
+<year>2017</year>;<volume>100</volume>(<issue>3</issue>):<fpage>414</fpage>&#x02013;<lpage>427</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.ajhg.2017.01.021</pub-id>
+<!--<pub-id pub-id-type="pmcid">5339111</pub-id>-->
+<pub-id pub-id-type="pmid">28190457</pub-id></mixed-citation></ref><ref id="R46"><label>46</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tindana</surname><given-names>P</given-names></name><name><surname>Molyneux</surname><given-names>S</given-names></name><name><surname>Bull</surname><given-names>S</given-names></name><etal/></person-group>: <article-title>
+<italic>&#x02018;It is an entrustment&#x02019;</italic>: Broad consent for
+genomic research and biobanks in Sub-Saharan Africa.</article-title>
+<source><italic>Dev World Bioeth.</italic></source>
+<year>2017</year>.
+<pub-id pub-id-type="doi">10.1111/dewb.12178</pub-id>
+<pub-id pub-id-type="pmid">29063669</pub-id></mixed-citation></ref><ref id="R47"><label>47</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Warner</surname><given-names>TD</given-names></name><name><surname>Weil</surname><given-names>CJ</given-names></name><name><surname>Andry</surname><given-names>Cm</given-names></name><etal/></person-group>: <article-title>Broad Consent for Research on Biospecimens: The
+Views of Actual Donors at Four U.S. Medical Centers.</article-title>
+<source><italic>J Empir Res Hum Res Ethics.</italic></source>
+<year>2018</year>;<volume>13</volume>(<issue>2</issue>):<fpage>115</fpage>&#x02013;<lpage>124</lpage>.
+<pub-id pub-id-type="doi">10.1177/1556264617751204</pub-id>
+<!--<pub-id pub-id-type="pmcid">5869128</pub-id>-->
+<pub-id pub-id-type="pmid">29390947</pub-id></mixed-citation></ref><ref id="R48"><label>48</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bull</surname><given-names>S</given-names></name></person-group>: <article-title>Review: Ensuring global equity in open
+research</article-title>. Wellcome Trust.<year>2016</year>
+<ext-link ext-link-type="uri" xlink:href="https://figshare.com/articles/Review_Ensuring_global_equity_in_open_research/4055181">Reference Source</ext-link>
+</mixed-citation></ref><ref id="R49"><label>49</label><mixed-citation publication-type="journal">
+<collab>Participants in the Community Engagement and Consent
+Workshop, Kilifi, Kenya, March 2011: </collab>
+<article-title>Consent and community engagement in diverse research
+contexts.</article-title>
+<source><italic>J Empir Res Hum Res Ethics.</italic></source>
+<year>2013</year>;<volume>8</volume>(<issue>4</issue>):<fpage>1</fpage>&#x02013;<lpage>18</lpage>.
+<pub-id pub-id-type="doi">10.1525/jer.2013.8.4.1</pub-id>
+<!--<pub-id pub-id-type="pmcid">4836561</pub-id>-->
+<pub-id pub-id-type="pmid">24169417</pub-id></mixed-citation></ref><ref id="R50"><label>50</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ramsay</surname><given-names>M</given-names></name><name><surname>de Vries</surname><given-names>J</given-names></name><name><surname>Soodyall</surname><given-names>H</given-names></name><etal/></person-group>: <article-title>Ethical issues in genomic research on the
+African continent: experiences and challenges to ethics review
+committees.</article-title>
+<source><italic>Hum Genomics.</italic></source>
+<year>2014</year>;<volume>8</volume>:<fpage>15</fpage>.
+<pub-id pub-id-type="doi">10.1186/s40246-014-0015-x</pub-id>
+<!--<pub-id pub-id-type="pmcid">4420849</pub-id>-->
+<pub-id pub-id-type="pmid">25145346</pub-id></mixed-citation></ref><ref id="R51"><label>51</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Barchi</surname><given-names>F</given-names></name><name><surname>Matlhagela</surname><given-names>K</given-names></name><name><surname>Jones</surname><given-names>N</given-names></name><etal/></person-group>: <article-title>
+<italic>&#x0201c;The keeping is the problem&#x0201d;</italic>: A qualitative
+study of IRB-member perspectives in Botswana on the collection, use, and
+storage of human biological samples for research.</article-title>
+<source><italic>BMC Med Ethics.</italic></source>
+<year>2015</year>;<volume>16</volume>:<fpage>54</fpage>.
+<pub-id pub-id-type="doi">10.1186/s12910-015-0047-3</pub-id>
+<!--<pub-id pub-id-type="pmcid">4544805</pub-id>-->
+<pub-id pub-id-type="pmid">26286519</pub-id></mixed-citation></ref><ref id="R52"><label>52</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Schuster</surname><given-names>SC</given-names></name><name><surname>Miller</surname><given-names>W</given-names></name><name><surname>Ratan</surname><given-names>A</given-names></name><etal/></person-group>: <article-title>Complete Khoisan and Bantu genomes from southern
+Africa.</article-title>
+<source><italic>Nature.</italic></source>
+<year>2010</year>;<volume>463</volume>(<issue>7283</issue>):<fpage>943</fpage>&#x02013;<lpage>947</lpage>.
+<pub-id pub-id-type="doi">10.1038/nature08795</pub-id>
+<!--<pub-id pub-id-type="pmcid">3890430</pub-id>-->
+<pub-id pub-id-type="pmid">20164927</pub-id></mixed-citation></ref><ref id="R53"><label>53</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hayes</surname><given-names>V</given-names></name></person-group>: <article-title>Indigenous genomics.</article-title>
+<source><italic>Science.</italic></source>
+<year>2011</year>;<volume>332</volume>(<issue>6030</issue>):<fpage>639</fpage>.
+<pub-id pub-id-type="doi">10.1126/science.1205999</pub-id>
+<pub-id pub-id-type="pmid">21551033</pub-id></mixed-citation></ref><ref id="R54"><label>54</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Munung</surname><given-names>NS</given-names></name><name><surname>Mayosi</surname><given-names>BM</given-names></name><name><surname>de Vries</surname><given-names>J</given-names></name></person-group>: <article-title>Equity in international health research
+collaborations in Africa: Perceptions and expectations of African
+researchers.</article-title>
+<source><italic>PLoS One.</italic></source>
+<year>2017</year>;<volume>12</volume>(<issue>10</issue>):<fpage>e0186237</fpage>.
+<pub-id pub-id-type="doi">10.1371/journal.pone.0186237</pub-id>
+<!--<pub-id pub-id-type="pmcid">5643046</pub-id>-->
+<pub-id pub-id-type="pmid">29036174</pub-id></mixed-citation></ref><ref id="R55"><label>55</label><mixed-citation publication-type="journal">
+<collab>H3Africa Consortium</collab>:
+<article-title>H3Africa Consortium Data Sharing, Access and Release
+Policy</article-title>.<year>2014</year>
+<ext-link ext-link-type="uri" xlink:href="http://www.ibru.mak.ac.ug/old_website/admin/uploads/H3Africa%20Consortium%20Data%20Access%20%20Release%20Policy%2004112013%20(2)myg.pdf">Reference Source</ext-link>
+</mixed-citation></ref><ref id="R56"><label>56</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>de Vries</surname><given-names>J</given-names></name><name><surname>Munung</surname><given-names>SN</given-names></name><name><surname>Matimba</surname><given-names>A</given-names></name><etal/></person-group>: <article-title>Regulation of genomic and biobanking research in
+Africa: a content analysis of ethics guidelines, policies and procedures
+from 22 African countries.</article-title>
+<source><italic>BMC Med Ethics.</italic></source>
+<year>2017</year>;<volume>18</volume>(<issue>1</issue>):<fpage>8</fpage>.
+<pub-id pub-id-type="doi">10.1186/s12910-016-0165-6</pub-id>
+<!--<pub-id pub-id-type="pmcid">5289015</pub-id>-->
+<pub-id pub-id-type="pmid">28153006</pub-id></mixed-citation></ref></ref-list></back><floats-group><table-wrap orientation="portrait" id="T1" position="float"><label>Table 1. </label><caption><title>Checklist for Ethics Committee Review of Governance Arrangements in Proposed
+Genomics Research Studies.</title></caption><table frame="hsides" rules="groups" content-type="article-table"><thead><tr><th align="left" rowspan="1" colspan="1">Element</th><th align="left" rowspan="1" colspan="1">Explanation</th><th align="left" rowspan="1" colspan="1">Criteria</th></tr></thead><tbody><tr><td valign="top" rowspan="1" colspan="1">African intellectual
+<break/>leadership</td><td valign="top" rowspan="1" colspan="1">The substantive contribution of
+scientists based at African <break/>institutions</td><td valign="top" rowspan="1" colspan="1">Intellectual leadership or
+co-leadership of scientists at African institutions</td></tr><tr><td valign="top" rowspan="1" colspan="1">Broad consent</td><td valign="top" rowspan="1" colspan="1">Consent for the use of samples
+and/or data for unspecified <break/>future studies subject to
+conditions</td><td valign="top" rowspan="1" colspan="1">Must be fully informed and
+voluntary <break/>Participants must be informed about the manner and
+extent to which they may withdraw <break/>from the study <break/>Must be
+supported by community engagement <break/>Must be supported by a good
+governance framework <break/>Must be subject to ethical review</td></tr><tr><td valign="top" rowspan="1" colspan="1">Community <break/>engagement
+(CE)</td><td valign="top" rowspan="1" colspan="1">The process of informing,
+consulting and actively involving <break/>relevant communities that have
+a legitimate interest in the <break/>research process</td><td valign="top" rowspan="1" colspan="1">Must be an integral part of each
+research project <break/>Goals and process of CE must be clearly
+defined, planned and designed collaboratively <break/>This must be done
+at the start of the research <break/>CE must be evaluated</td></tr><tr><td valign="top" rowspan="1" colspan="1">Ethics review</td><td valign="top" rowspan="1" colspan="1">Ethics review promotes ethical
+conduct of research while <break/>providing assurances to the public
+that their welfare is being <break/>well taken care of as they
+contribute to knowledge and <break/>development</td><td valign="top" rowspan="1" colspan="1">Every genomic research and
+biobanking study must be subject to ethics review <break/>Re-use of
+samples must be subject to review by a designated committee <break/>The
+use of samples must be subject to a sample access committee <break/>The
+use of data must be subject to data access committee review</td></tr><tr><td valign="top" rowspan="1" colspan="1">Avoiding group harm <break/>or
+stigma</td><td valign="top" rowspan="1" colspan="1">The reporting of genomic research
+results has the potential to <break/>aggravate existing stigma or
+marginalization, or punishment</td><td valign="top" rowspan="1" colspan="1">Donors and research ethics
+comittees must be told about any risk of group harm or stigma
+<break/>with the use or re-use of samples <break/>Stigma related
+concerns about the sharing of genomic samples and data should be subject
+<break/>to stakeholder engagement <break/>Where there are stigma related
+concerns, individuals from the countries and/or institutions
+<break/>where obtained should be considered <break/>Descriptors that may
+be perceived to be stigmatizing or prejudicial must be avoided</td></tr><tr><td valign="top" rowspan="1" colspan="1">Benefit sharing</td><td valign="top" rowspan="1" colspan="1">Benefit sharing regulates that
+benefits and burdens are <break/>distributed fairly and it is therefore
+key to ensuring that <break/>research collaboration is fair</td><td valign="top" rowspan="1" colspan="1">Genomics research may likely yield
+intangible benefits like knowledge generation and <break/>capacity
+building, some of which may only translate into tangible benefits in
+future <break/>generations. General study results can count as one study
+benefit and should be fed back <break/>to communities in which research
+is conducted. This is essential to maintaining trust and <break/>can be
+incorporated in community engagement activities. <break/>If there is a
+realistic expectation of tangible benefit to a group, a benefit sharing
+plan must <break/>be agreed to after stakeholder engagement
+<break/>Consideration must be given to how genomic and biobanking
+research may confer benefits <break/>on participants</td></tr><tr><td valign="top" rowspan="1" colspan="1">Capacity building</td><td valign="top" rowspan="1" colspan="1">Genomic research and biobanking
+conducted in Africa <break/>should lead to substantive building of
+research capacity, <break/>including both human resources and research
+infrastructure</td><td valign="top" rowspan="1" colspan="1">A capacity building plan must be
+included as part of each research project <break/>This must include
+infrastructure, personnel and administrative capacity building</td></tr><tr><td valign="top" rowspan="1" colspan="1">International <break/>collaboration
+and <break/>export of samples</td><td valign="top" rowspan="1" colspan="1">International collaboration and
+export of samples should <break/>promote the goals of reducing global
+health inequality and <break/>exploitation and strengthening the
+research system in the <break/>country where the samples were
+collected</td><td valign="top" rowspan="1" colspan="1">Export of samples must be subject
+to ethics review <break/>Exportation of samples and collaboration must
+help build local capacity <break/>Exportation of samples must be
+indicated in the consent documents <break/>Exportation of samples must
+be subject to materials transfer agreements</td></tr><tr><td valign="top" rowspan="1" colspan="1">Feedback of <break/>individual
+genetic <break/>research results</td><td valign="top" rowspan="1" colspan="1">The feedback of findings in the
+African context considering <break/>difficulties of validating research
+findings in a diagnostic <break/>facility, the absence of healthcare
+workers trained in genetics <break/>that could provide feedback, and
+limited validation of <break/>genomic research findings in African
+populations</td><td valign="top" rowspan="1" colspan="1">There is a need for wide
+stakeholder engagement to determine when feedback of findings
+<break/>should be provided and a plan on how this would be applied.</td></tr><tr><td valign="top" rowspan="1" colspan="1">Good governance</td><td valign="top" rowspan="1" colspan="1">Good governance helps build and
+maintain public trust and <break/>ensure transparency of genomic and
+biobanking research</td><td valign="top" rowspan="1" colspan="1">Governance framework must include
+oversight on the use and reuse of samples <break/>There must be
+compliance with local, national and international guidelines and
+regulations <break/>Entities controlling access to samples must be
+comprised of members primarily residing on <break/>the African
+continent</td></tr></tbody></table></table-wrap></floats-group><sub-article id="REPORT26458" article-type="peer-review"><front-stub><title-group><article-title>Referee response for version 1</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Chalmers</surname><given-names>Don</given-names></name><xref ref-type="aff" rid="A8">1</xref><role>Referee</role></contrib><aff id="A8">
+<label>1</label>Centre for Law and Genetics, Faculty of Law, University of
+Tasmania, Hobart, Tas, Australia</aff></contrib-group><author-notes><fn fn-type="COI-statement" id="FN3"><p id="P28">
+<bold>Competing interests: </bold>No competing interests were disclosed.</p></fn></author-notes><pub-date pub-type="epub"><day>26</day><month>6</month><year>2018</year></pub-date><custom-meta-group><custom-meta><meta-name>recommendation</meta-name><meta-value>approve</meta-value></custom-meta></custom-meta-group></front-stub><body><p id="P29">This is a very well written and valuable account of the development of an
+ethical governance framework for genomic research and biobanking in Africa.</p><p id="P31"> I strongly recommend indexing for the following reasons</p><p id="P32"> &#x000a0; <list list-type="order" id="L1"><list-item><p id="P33">The article sets a clear context for the H3Africa and the
+development of an autochthonous African model of consent for sharing
+genomic data and samples which respects autonomy; consent; ownership of
+samples and data; privacy and confidentiality; and, benefit sharing.</p></list-item><list-item><p id="P34">The article makes a valuable contribution to the continuing
+development of an overarching African philosophical basis for a
+&#x0201c;.. framework &#x02026;[with]a more generic communal or
+solidarity-based worldview&#x0201d;. This is different, as is the focus
+on the &#x0201c;..central importance on reciprocity, consultation and
+accountability&#x02019;. This draws a clear distinction between the
+proposed African model and conventional western participant-focused
+ethical approaches, which can accompany &#x0201c;parachute
+research&#x0201d;, mentioned in the Introduction.&#x000a0;</p></list-item><list-item><p id="P35">The article details the elements of this African best-practice
+genomics and biobanking framework based on &#x0201c;African intellectual
+leadership; Consent; Community engagement; Ethics review; Avoidance of
+group harm and stigma; Benefit sharing; Capacity building; International
+collaboration and export of samples; Feedback of individual genetic
+findings; and Good governance.</p></list-item><list-item><p id="P36">The implementation agenda for the H3Africa framework is briefly
+set out. Specifically noted is future engagement with professional
+organisations, regulators and ethics committees before drafting more
+detailed guidelines and engagement activities with ethics committees and
+national councils.</p></list-item></list> &#x000a0;</p><p id="P37"> I have some suggestions for the authors</p><p id="P38"> &#x000a0; <list list-type="order" id="L2"><list-item><p id="P39">The brief mention of the principle of &#x0201c;ubuntu&#x0201d; is
+interesting and is there any more recent discussion since the footnote
+35 2007 reference?</p></list-item><list-item><p id="P40">In the section on &#x0201c;Core Principles and elements&#x02019;,
+the authors mention &#x02018;five core principles&#x0201d; but only list
+four (a to d). They need to add the fifth</p></list-item><list-item><p id="P41">The authors highlight the elements of their proposed framework
+(see 3 above) but do not include any discussion on the principle of
+&#x0201c;African intellectual leadership&#x0201d;.</p></list-item><list-item><p id="P42">There has been a working connection between the H3Africa and the
+GA4GH and a reference could be included to this at: <ext-link ext-link-type="uri" xlink:href="https://www.ga4gh.org/news/ffY_2As3q-iv39gB2Un4Bw.article">https://www.ga4gh.org/news/ffY_2As3q-iv39gB2Un4Bw.article</ext-link>.&#x000a0;</p></list-item><list-item><p id="P43">In the acknowledgements, the authors list the key resources
+of&#x000a0;the Global Alliance for Genomics and Health (GA4GH)
+<italic>Framework for the Responsible Sharing of Genomic and
+Health-Related Data</italic>; the OECD <italic>Guidelines on Human
+Biobanks and Genetic Research Databases</italic>, 2009 the Wellcome
+Trust <italic>Framework on the</italic>
+<italic>feedback of health-related findings in research</italic>, 2014
+the European Commission&#x02019;s reports on <italic>Global Governance of
+Science</italic>, 2009 and <italic>Ethical and Regulatory Challenges
+to Science and Research Policy at the Global Leve</italic>l 2012 and
+the 22 African country-specific ethics guidelines.</p><p id="P44"> These global collaborations and interactions are worthy of
+reference and comment in the text at the section &#x0201c;Key elements of
+the Framework for Best Practice&#x02019;. This records that the authors
+are striking out on a path for Africa but one informed by international
+developments and collaborations.</p></list-item></list> &#x000a0;</p><p id="P45"> Declaration of interest I have met Littler K and De Vries J but have never
+published with either.</p><p id="P46">I have read this submission. I believe that I have an appropriate level of
+expertise to confirm that it is of an acceptable scientific standard.</p></body></sub-article><sub-article id="REPORT26476" article-type="peer-review"><front-stub><title-group><article-title>Referee response for version 1</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Clayton</surname><given-names>Ellen Wright</given-names></name><xref ref-type="aff" rid="A9">1</xref><role>Referee</role><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-0308-4110</contrib-id></contrib><aff id="A9">
+<label>1</label>Center for Biomedical Ethics and Society, Vanderbilt University
+Medical Center&#x000a0;(VUMC), Nashville, TN, USA</aff></contrib-group><author-notes><fn fn-type="COI-statement" id="FN4"><p id="P47">
+<bold>Competing interests: </bold>No competing interests were disclosed.</p></fn></author-notes><pub-date pub-type="epub"><day>25</day><month>6</month><year>2018</year></pub-date><custom-meta-group><custom-meta><meta-name>recommendation</meta-name><meta-value>approve</meta-value></custom-meta></custom-meta-group></front-stub><body><p id="P48">This is an important paper setting forth guiding principles for genomics
+research in Africa.&#x000a0; The document is clear and well written and will be quite
+helpful for the work of putting concrete mechanisms in place that protect the
+interests of individuals and communities while building local capacity and advancing
+research to improve health.&#x000a0;</p><p id="P50"> I have only one substantive comment, which is that it would be helpful to
+say more about what the authors mean by community engagement, specifying to what
+extent and on what topics the community should have input.&#x000a0; This is often a
+contested issue.</p><p id="P52"> My other comments are minor:</p><p id="P54"> Under core principles, there is an extra "of" on the second line.</p><p id="P56"> I saw only four principles, not five.</p><p id="P58"> On line 9 under consent process, I assume that "it" refers to broad
+consent.&#x000a0; If so, that should be stated explicitly.</p><p id="P60"> Under avoidance of group harm, there should not be a comma after note
+52.</p><p id="P61">I have read this submission. I believe that I have an appropriate level of
+expertise to confirm that it is of an acceptable scientific standard.</p></body></sub-article><sub-article id="REPORT26442" article-type="peer-review"><front-stub><title-group><article-title>Referee response for version 1</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>O'Doherty</surname><given-names>Kieran</given-names></name><xref ref-type="aff" rid="A10">1</xref><role>Referee</role><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-9242-2061</contrib-id></contrib><contrib contrib-type="author"><name><surname>Chuong</surname><given-names>Kim</given-names></name><xref ref-type="aff" rid="A10">1</xref><role>Co-referee</role></contrib><aff id="A10">
+<label>1</label>Department of Psychology, University of Guelph, Guelph, ON,
+Canada</aff></contrib-group><author-notes><fn fn-type="COI-statement" id="FN5"><p id="P62">
+<bold>Competing interests: </bold>No competing interests were disclosed.</p></fn></author-notes><pub-date pub-type="epub"><day>21</day><month>6</month><year>2018</year></pub-date><custom-meta-group><custom-meta><meta-name>recommendation</meta-name><meta-value>approve</meta-value></custom-meta></custom-meta-group></front-stub><body><p id="P63">This article describes an ethics framework for genomics research and
+biobanking in Africa, which is valuable in the African public health context and to
+address global health inequality. The article is well-written and concise in its
+summary of the core principles and key elements of the framework. We see the
+contribution of the framework in the context of ELS implications of genomics and
+biobanks in its emphasis on the need for research to be sensitive and respectful of
+diverse cultures, values and belief systems of African populations. Also of
+significance is the goal to enhance capacity building and genuine intellectual
+participation of African researchers and stakeholders in genomics research. The
+authors of this article are to be commended for this important work.</p><p id="P65"> Overall, the manuscript will make an important contribution. We have only
+minor suggestions for improvement. Although the key elements of the framework are
+well-presented, the authors do not address potential challenges that may be
+encountered while applying those key elements. We realise that the purpose of the
+article is to lay out the framework, and so does not address implementation issues.
+However, some additional detail may be good to add, in particular in the context of
+community engagement, which the authors emphasize as a key component for ensuring
+best practice in genomics research and biobanking in Africa. However, it is not
+clear from the framework what the authors mean by &#x0201c;genuine community
+engagement&#x0201d;. There is a&#x000a0;rich literature on engaging community members in
+research and the values and challenges of doing so. Community engagement goes beyond
+the meaningful involvement of African researchers to include individuals from the
+broader population and specific groups, and will need to address issues such as
+power dynamics between researchers who are considered experts and community
+members.</p><p id="P67">
+<underline>Other issues:</underline>
+</p><p id="P69"> On p. 3. The authors mention that &#x0201c;The process of engagement that
+led to the development of this framework is reported in another manuscript.&#x0201d;
+A reference to this manuscript should be provided.</p><p id="P71"> The paragraph on export of samples to other countries is incomplete (p.
+6).&#x000a0;</p><p id="P73"> The &#x0201c;implementation mechanisms and amendments&#x0201d; section (p. 7)
+describes the next steps for raising awareness and engaging health organisations and
+national councils with the framework. It would be great to have more detail
+regarding future evaluation of the framework and the Working Group&#x02019;s
+engagement activities.</p><p id="P74">We have read this submission. We believe that we have an appropriate level
+of expertise to confirm that it is of an acceptable scientific standard.</p></body></sub-article></article>

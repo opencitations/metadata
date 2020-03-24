@@ -1,0 +1,1176 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">3 Biotech</journal-id><journal-id journal-id-type="iso-abbrev">3 Biotech</journal-id><journal-title-group><journal-title>3 Biotech</journal-title></journal-title-group><issn pub-type="ppub">2190-572X</issn><issn pub-type="epub">2190-5738</issn><publisher><publisher-name>Springer Berlin Heidelberg</publisher-name><publisher-loc>Berlin/Heidelberg</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">28330089</article-id><article-id pub-id-type="pmc">4706832</article-id><article-id pub-id-type="publisher-id">336</article-id><article-id pub-id-type="doi">10.1007/s13205-015-0336-z</article-id><article-categories><subj-group subj-group-type="heading"><subject>Original Article</subject></subj-group></article-categories><title-group><article-title>Discovery of potential ALK inhibitors by virtual screening approach</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Kumar</surname><given-names>Anish</given-names></name><xref ref-type="aff" rid="Aff1"/></contrib><contrib contrib-type="author"><name><surname>Shanthi</surname><given-names>V.</given-names></name><xref ref-type="aff" rid="Aff1"/></contrib><contrib contrib-type="author" corresp="yes"><name><surname>Ramanathan</surname><given-names>K.</given-names></name><address><phone>+91 4162242545</phone><email>kramanathan@vit.ac.in</email></address><xref ref-type="aff" rid="Aff1"/></contrib><aff id="Aff1">Industrial Biotechnology Division, School of Bio Sciences and Technology, VIT University, Vellore, Tamil Nadu 632014 India </aff></contrib-group><pub-date pub-type="epub"><day>9</day><month>1</month><year>2016</year></pub-date><pub-date pub-type="pmc-release"><day>9</day><month>1</month><year>2016</year></pub-date><pub-date pub-type="ppub"><month>6</month><year>2016</year></pub-date><volume>6</volume><issue>1</issue><elocation-id>21</elocation-id><history><date date-type="received"><day>27</day><month>3</month><year>2015</year></date><date date-type="accepted"><day>6</day><month>7</month><year>2015</year></date></history><permissions><copyright-statement>&#x000a9; The Author(s) 2016</copyright-statement><license license-type="OpenAccess"><license-p>
+<bold>Open Access</bold>This article is distributed under the terms of the Creative Commons Attribution 4.0 International License (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made.</license-p></license></permissions><abstract id="Abs1"><p>Crizotinib is an anticancer drug used for the treatment of non-small cell lung cancer. Evidences available suggest that there is a development of an acquired resistance against crizotinib action due to the emergence of several mutations in the ALK gene. It is therefore necessary to develop potent anti-cancer drugs for the treatment of crizotinib resistance non-small cell lung cancer types. In the present study, a novel class of lead molecule was identified using virtual screening, molecular docking and molecular dynamic 
+approach. The virtual screening analysis was done using PubChem database by employing crizotinib as query and the data reduction was carried out by using molecular docking techniques. The bioavailability of the lead compounds was examined with the help of Lipinski rule of five. The screened lead molecules were analyzed for toxicity profiles, drug-likeness and other physico-chemical properties of drugs by OSIRIS program. Finally, molecular dynamics simulation was also performed to validate the binding property of the lead compound. Our analysis clearly indicates that CID 11562217, a nitrile containing compound (pyrazole-substituted aminoheteroaryl), could be the potential ALK inhibitor certainly helpful to overcome the drug resistance in non-small cell lung cancer.</p></abstract><kwd-group xml:lang="en"><title>Keywords</title><kwd>Non-small cell lung cancer</kwd><kwd>Crizotinib</kwd><kwd>Mutation</kwd><kwd>Virtual screening</kwd><kwd>Molecular docking</kwd><kwd>Molecular dynamic simulation</kwd></kwd-group><custom-meta-group><custom-meta><meta-name>issue-copyright-statement</meta-name><meta-value>&#x000a9; King Abdulaziz City for Science and Technology 2016</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec id="Sec1"><title>Introduction</title><p>Lung cancer is the prominent cause of cancer deaths in the world and a global issue to be addressed (Siegel et al. <xref ref-type="bibr" rid="CR28">2012</xref>). Lung cancer is broadly classified into two main types based upon their histology, which are non-small cell lung cancer (NSCLC) and small cell lung cancer (SCLC). The most common forms of NSCLC are adenocarcinoma (ADC) and squamous cell carcinoma (SCC) (Skarda et al. <xref ref-type="bibr" rid="CR29">2008</xref>). Chromosomal rearrangements in the anaplastic lymphoma kinase (ALK) gene that codes for anaplastic lymphoma kinase has been identified as one of the causes of NSCLC. There are two types of tyrosine kinase, receptor and cytoplasmic tyrosine kinase. The ALK is a cytoplasmic tyrosine kinase where crizotinib (a potential anticancer drug used in the treatment of NSCLC) is bound. Chromosomal rearrangements involving the ALK gene occur in different malignant conditions, including anaplastic large cell lymphoma (ALCL) and inflammatory myofibroblastic tumor (IMT) (Chiarle et al. <xref ref-type="bibr" rid="CR5">2008</xref>). These rearrangements lead to the expression of ALK fusion genes. ALK fusion gene possesses different properties from the two genes that it was originally derived from, can then code for the new ALK fusion protein, which is abnormally and constitutively activated. The new protein contains the tyrosine kinase domain of ALK and the coiled coil domain of EML4. The coiled coil domain of EML4 allows this protein to bind with other ALK fusion proteins and form dimerised and activated fusion proteins (Katayama et al. <xref ref-type="bibr" rid="CR14">2012</xref>). The most prevalent ALK fusion oncogene in NSCLC is the echinoderm microtubule-associated protein-like 4 (EML4)&#x02013;ALK fusion gene and is present in 4&#x02013;5&#x000a0;% of cases of NSCLC (Young et al. <xref ref-type="bibr" rid="CR35">2010</xref>). An inversion in the chromosome 2 brings together the 5&#x02032; end of the EML4 gene and the 3&#x02032; end of the ALK gene resulting in the formation of the EML4-ALK fusion gene (Shaw and Solomon <xref ref-type="bibr" rid="CR25">2011</xref>). The affected person tend to have typical clinical features like early age of onset, little or absence of any smoking history (Shaw et al. <xref ref-type="bibr" rid="CR26">2009</xref>). Some of the drugs commonly used for the chemotherapeutic treatment of lung cancer are Bevacizumab, Carboplatin, Cisplatin, Crizotinib, Docetaxel, Erlotinib, Etoposide, Gemcitabine, Irinotecan, Paclitaxel, Pemetrexed, and Vinorelbine. Targeted drug therapy is used against NSCLC of which tyrosine kinase inhibitors are amongst the best method in treatment methodology. In particular, crizotinib is one such tyrosine kinase inhibitor which is the first drug to have gained FDA approval for the treatment of NSCLC in 2011 (Ou, <xref ref-type="bibr" rid="CR21">2011</xref>). Although crizotinib has proved itself as an efficient counter to ALK type NSCLC, acquired resistance has made its beneficial effects temporary and has emerged as a major roadblock for crizotinib. The literature evidences available indicates that L1196M (the &#x0201c;gatekeeper&#x0201d; mutation) and G1269A are the two most commonly found secondary mutations in the <italic>ALK</italic> kinase domain. In a few cases, patient harbored with both mutation (Kim et al. <xref ref-type="bibr" rid="CR15">2013</xref>). Of note, the available evidence indicates that ALK double mutation (L1196M, G1269A) is one of the main causes for crizotinib resistance (Doebele et al. <xref ref-type="bibr" rid="CR8">2012</xref>; Molina et al. <xref ref-type="bibr" rid="CR18">2008</xref>). The prevalence of ALK double mutation (L1196M, G1269A) is also significantly higher than other mutation. These situations urge the development of new and more effective ALK inhibitors especially for the treatment of drug resistance NSCLC. For years, computational techniques in particular virtual screening (VS) have proven to be of great use to make the drug development process faster and less expensive. The available literature evidences also suggested that VS techniques proved to be efficacious in making qualitative predictions that discriminated active from inactive compounds (Oprea <xref ref-type="bibr" rid="CR20">2000</xref>; Chen <xref ref-type="bibr" rid="CR4">2008</xref>). Therefore, in the present investigation, we have employed VS technique to address the crizotinib resistance in NSCLC. We hope that this approach certainly helpful for the experimental biologist to figure out the potent candidates for NSCLC.</p></sec><sec id="Sec2"><title>Materials and methods</title><sec id="Sec3"><title>Data set</title><p>The three-dimensional (3D) structure of native and mutant (L1196M, G1269A) ALK structures were retrieved from the crystal structures of the Brookhaven Protein Data Bank (PDB) for the analysis (Berman et al. <xref ref-type="bibr" rid="CR1">2000</xref>). The corresponding PDB codes were 2XP2 and 4ANS for the native and mutant structures, respectively (Cui et al. <xref ref-type="bibr" rid="CR6">2011</xref>). Crizotinib was used as the small molecule for our study. The SMILES strings of the crizotinib and the lead molecules were collected from PubChem (Feldman et al. <xref ref-type="bibr" rid="CR10">2006</xref>) and submitted to CORINA for constructing the 3D structure of molecule (Gasteiger et al. <xref ref-type="bibr" rid="CR11">1990</xref>). The 3D structure of target proteins (2XP2 and 4ANS) drug molecule and lead compounds was energy-minimized using GROMACS package 4.5.3 adopting the GROMOS43a1 force field parameters before performing the computational analysis (Hess et al. <xref ref-type="bibr" rid="CR12">2008</xref>; Spoel et al. <xref ref-type="bibr" rid="CR30">2005</xref>).</p></sec><sec id="Sec4"><title>Virtual screening</title><p>Virtual Screening (Shoichet <xref ref-type="bibr" rid="CR27">2004</xref>) is an important technique in computer-assisted drug discovery for screening of potential molecule from the database. This approach becomes popular in the pharmaceutical research for lead identification. Diminution of the massive virtual chemical space of small organic molecules and to screen against a specific target protein is the basic goal of the virtual screening (Tondi et al. <xref ref-type="bibr" rid="CR32">1999</xref>). In the present study,</p><p>virtual screening technique performed with the help of PubChem database by employing crizotinib as a query (Bolton et al. <xref ref-type="bibr" rid="CR2">2008</xref>). It is worth stressing that PubChem database holds over 27 million records of unique chemical structures of compounds (CID) derived from nearly 70 million substance depositions (SID). The publicly available PubChem database provides great opportunities for scientists to perform VS process (Xie <xref ref-type="bibr" rid="CR34">2010</xref>). Several hits were obtained from the PubChem database, which were further analyzed using molecular docking studies.</p></sec><sec id="Sec5"><title>ADME and toxicity</title><p>The bioavailability of the lead compounds was examined with the help of Lipinski&#x02019;s rule of five (Lipinski et al. <xref ref-type="bibr" rid="CR16">1997</xref>). The molecular properties such as logP (partition coefficient), molecular weight (MW), or counts of hydrogen bond acceptors and donors in a molecule were utilized in formulating &#x02018;&#x02018;rule of five&#x02019;&#x02019; (Ertl et al. <xref ref-type="bibr" rid="CR9">2000</xref>). The rule states that most molecules with good membrane permeability should have molecular weight &#x02264;500, calculated octanol&#x02013;water partition coefficient, log <italic>P</italic>&#x000a0;&#x02264;&#x000a0;5, hydrogen bond donors &#x02264;5, acceptors &#x02264;10 and van der Waals bumps polar surface area (PSA) &#x0003c;120&#x000a0;&#x000c5;<sup>2</sup> (Muegge <xref ref-type="bibr" rid="CR19">2003</xref>). In the present study, all the molecular properties for all the lead compounds were estimated by using Molinspiration program (<ext-link ext-link-type="uri" xlink:href="http://www.molinspiration.com/cgi-bin/properties">http://www.molinspiration.com/cgi-bin/properties</ext-link>) (Buntrock <xref ref-type="bibr" rid="CR3">2002</xref>). Toxicity is the second important parameter need to be considered in the analysis of lead compounds. Infact, toxicity will account the failure of majority of the lead cases. In the present study, toxicity of the lead compound examined with the help of OSIRIS program (<ext-link ext-link-type="uri" xlink:href="http://www.organic-chemistry.org/prog/peo/">http://www.organic-chemistry.org/prog/peo/</ext-link>). The program was also helpful to evaluate the drug likeliness and drug score of the lead compounds. Nearly 5300 distinct substructure fragments created by 3300 traded drugs as well as 15,000 commercially available chemicals yielding a complete list of all available fragments with the associated drug likeliness. The drug score consolidates drug-likeliness, cLogP, logS, molecular weight, and toxicity risks. It is a total value which may be used to judge the compound&#x02019;s overall potential to qualify for a drug.</p></sec><sec id="Sec6"><title>Molecular docking</title><p>The docking study is immensely important to understand the bioactivity of the screened lead compounds. Initially, SMILES strings were used for constructing three dimensional structures of all the lead compounds. Subsequently, docking algorithm was performed with the help of Patch dock server (Schneidman et al. <xref ref-type="bibr" rid="CR23">2005</xref>). It is a molecular docking algorithm based on geometry. The energy minimized PDB coordinate file corresponds to the protein and the ligand molecule is the input parameters for the docking. This algorithm has three major stages (1) molecular shape representation (2) surface patch matching and (3) filtering and scoring. The Patch Dock services were available at <ext-link ext-link-type="uri" xlink:href="http://bioinfo3d.cs.tau.ac.il/PatchDock/">http://bioinfo3d.cs.tau.ac.il/PatchDock/</ext-link>. The docked complexes were ranked based on the geometric matching score with target proteins. The geometric matching score of crizotinib with target proteins (native and mutant structures) were used as reference for filtering the lead compounds.</p></sec><sec id="Sec7"><title>Molecular dynamics simulation</title><p>GROMACS Package 4.5.3 implemented with Gromos 43a1 force field was utilized to perform molecular dynamics (MD) of docked complexes such as native-type ALK-crizotinib complex, mutant-type ALK-crizotinib complex, native-type ALK-CID11562217 complex and mutant-type ALK-CID11562217 complex (Hess et al. <xref ref-type="bibr" rid="CR12">2008</xref>; Spoel et al. <xref ref-type="bibr" rid="CR30">2005</xref>). The protein was solvated in cubic 0.9&#x000a0;nm with the help of periodic boundary conditions and the SPC water model (Meagher and Carlson <xref ref-type="bibr" rid="CR17">2005</xref>).This resulted in the addition of 22,269 and 23,506 water molecules to the native and mutant complex structures, respectively. PRODRG server was used to generate topology of the ligand (Schuttelkopf and Van Aalten <xref ref-type="bibr" rid="CR24">2004</xref>). This server uses the GROMOS force field for generating topology file and assigning atom types. Six sodium (6 Na+ ions) counter ions were added to neutralize the total charge of the system and one thousand steps of steepest descent energy minimization were carried out for the proteins. After the energy minimization step, the system was equilibrated at constant temperature and pressure. Using an atom-based cutoff of 8&#x000a0;&#x000c5;, the non bonded list was generated. Constrains bond lengths at their equilibrium values were handled by SHAKE algorithm and the long range electrostatic interactions were handled by particle-mesh Ewald algorithm (Darden et al. <xref ref-type="bibr" rid="CR7">1999</xref>; Van Gunsteren and Berendsen <xref ref-type="bibr" rid="CR33">1977</xref>). The total simulation time was set to 20,000&#x000a0;ps with integration time step of 2&#x000a0;fs. Structural analysis was done at every picosecond and trajectories were stored in traj.trr file. For instance, root mean square deviation (RMSD) was analyzed with the help of Gromacs utilities g_rms.</p></sec></sec><sec id="Sec8"><title>Results and discussion</title><sec id="Sec9"><title>Virtual screening and bioavailability analysis</title><p>The present study initiated by extracting structurally similar compounds to crizotinib from the Pubchem database. The crizotinib was used was used as a query molecule. About 99&#x000a0;% similarity cutoff was maintained in the analysis. The results yield a total of 63 compounds. These compounds were utilized for our further study. Molinspiration program was used to predict the bioavailability of crizotinib and the lead compounds. Initially, crizotinib properties were calculated with the help of Molinspiration program (Fig.&#x000a0;<xref rid="Fig1" ref-type="fig">1</xref>) and used as a control for screening the other lead compounds. The result is shown in Table&#x000a0;<xref rid="Tab1" ref-type="table">1</xref>. It is clear from the table that 3 compound such as CID:&#x000a0;11656144, CID:&#x000a0;11502981 and CID:&#x000a0;58659185 showed violations for the rule of five. The remaining 60 compounds have zero violations for the rule of five. This brings to the conclusion that bioavailability of these 60 compounds was significantly better in our dataset.<fig id="Fig1"><label>Fig.&#x000a0;1</label><caption><p>Molinspiration property explorer showing molecular properties of crizotinib</p></caption><graphic xlink:href="13205_2015_336_Fig1_HTML" id="MO1"/></fig>
+<table-wrap id="Tab1"><label>Table&#x000a0;1</label><caption><p>Calculations of molecular properties of crizotinib and lead compound using molinspiration</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left">S. no</th><th align="left">Compound</th><th align="left">miLogP</th><th align="left">TPSA</th><th align="left">MW</th><th align="left">nON</th><th align="left">nOHNH</th><th align="left">nviolations</th><th align="left">Volume</th></tr></thead><tbody><tr><td align="left">
+<bold>1</bold>
+</td><td align="left">Crizotinib</td><td char="." align="char">4.006</td><td char="." align="char">78.002</td><td char="." align="char">450.345</td><td char="." align="char">6</td><td char="." align="char">3</td><td char="." align="char">0</td><td char="." align="char">375.175</td></tr><tr><td align="left">
+<bold>2</bold>
+</td><td align="left">
+<bold>CID:11597571</bold>
+</td><td char="." align="char">
+<bold>4.006</bold>
+</td><td char="." align="char">
+<bold>78.002</bold>
+</td><td char="." align="char">
+<bold>450.345</bold>
+</td><td char="." align="char">
+<bold>6</bold>
+</td><td char="." align="char">
+<bold>3</bold>
+</td><td char="." align="char">
+<bold>0</bold>
+</td><td char="." align="char">
+<bold>375.175</bold>
+</td></tr><tr><td align="left">
+<bold>3</bold>
+</td><td align="left">
+<bold>CID: 11626560</bold>
+</td><td char="." align="char">
+<bold>4.006</bold>
+</td><td char="." align="char">
+<bold>78.002</bold>
+</td><td char="." align="char">
+<bold>450.345</bold>
+</td><td char="." align="char">
+<bold>6</bold>
+</td><td char="." align="char">
+<bold>3</bold>
+</td><td char="." align="char">
+<bold>0</bold>
+</td><td char="." align="char">
+<bold>375.175</bold>
+</td></tr><tr><td align="left">
+<bold>4</bold>
+</td><td align="left">
+<bold>CID: 53234260</bold>
+</td><td char="." align="char">
+<bold>4.006</bold>
+</td><td char="." align="char">
+<bold>78.002</bold>
+</td><td char="." align="char">
+<bold>450.345</bold>
+</td><td char="." align="char">
+<bold>6</bold>
+</td><td char="." align="char">
+<bold>3</bold>
+</td><td char="." align="char">
+<bold>0</bold>
+</td><td char="." align="char">
+<bold>375.175</bold>
+</td></tr><tr><td align="left">
+<bold>5</bold>
+</td><td align="left">
+<bold>CID:</bold>&#x000a0;<bold>53234326</bold>
+</td><td char="." align="char">
+<bold>4.006</bold>
+</td><td char="." align="char">
+<bold>78.002</bold>
+</td><td char="." align="char">
+<bold>450.345</bold>
+</td><td char="." align="char">
+<bold>6</bold>
+</td><td char="." align="char">
+<bold>3</bold>
+</td><td char="." align="char">
+<bold>0</bold>
+</td><td char="." align="char">
+<bold>375.175</bold>
+</td></tr><tr><td align="left">
+<bold>6</bold>
+</td><td align="left">
+<bold>CID:</bold>&#x000a0;<bold>56671814</bold>
+</td><td char="." align="char">
+<bold>4.006</bold>
+</td><td char="." align="char">
+<bold>78.002</bold>
+</td><td char="." align="char">
+<bold>450.345</bold>
+</td><td char="." align="char">
+<bold>6</bold>
+</td><td char="." align="char">
+<bold>3</bold>
+</td><td char="." align="char">
+<bold>0</bold>
+</td><td char="." align="char">
+<bold>375.175</bold>
+</td></tr><tr><td align="left">
+<bold>7</bold>
+</td><td align="left">
+<bold>CID:</bold>&#x000a0;<bold>60197531</bold>
+</td><td char="." align="char">
+<bold>4.006</bold>
+</td><td char="." align="char">
+<bold>78.002</bold>
+</td><td char="." align="char">
+<bold>450.345</bold>
+</td><td char="." align="char">
+<bold>6</bold>
+</td><td char="." align="char">
+<bold>3</bold>
+</td><td char="." align="char">
+<bold>0</bold>
+</td><td char="." align="char">
+<bold>375.175</bold>
+</td></tr><tr><td align="left">
+<bold>8</bold>
+</td><td align="left">
+<bold>CID:</bold>&#x000a0;<bold>60197626</bold>
+</td><td char="." align="char">
+<bold>4.006</bold>
+</td><td char="." align="char">
+<bold>78.002</bold>
+</td><td char="." align="char">
+<bold>450.345</bold>
+</td><td char="." align="char">
+<bold>6</bold>
+</td><td char="." align="char">
+<bold>3</bold>
+</td><td char="." align="char">
+<bold>0</bold>
+</td><td char="." align="char">
+<bold>375.175</bold>
+</td></tr><tr><td align="left">
+<bold>9</bold>
+</td><td align="left">
+<bold>CID:</bold>&#x000a0;<bold>60198523</bold>
+</td><td char="." align="char">
+<bold>4.006</bold>
+</td><td char="." align="char">
+<bold>78.002</bold>
+</td><td char="." align="char">
+<bold>450.345</bold>
+</td><td char="." align="char">
+<bold>6</bold>
+</td><td char="." align="char">
+<bold>3</bold>
+</td><td char="." align="char">
+<bold>0</bold>
+</td><td char="." align="char">
+<bold>375.175</bold>
+</td></tr><tr><td align="left">
+<bold>10</bold>
+</td><td align="left">
+<bold>CID:</bold>&#x000a0;<bold>60198524</bold>
+</td><td char="." align="char">
+<bold>4.006</bold>
+</td><td char="." align="char">
+<bold>78.002</bold>
+</td><td char="." align="char">
+<bold>450.345</bold>
+</td><td char="." align="char">
+<bold>6</bold>
+</td><td char="." align="char">
+<bold>3</bold>
+</td><td char="." align="char">
+<bold>0</bold>
+</td><td char="." align="char">
+<bold>375.175</bold>
+</td></tr><tr><td align="left">
+<bold>11</bold>
+</td><td align="left">
+<bold>CID:</bold>&#x000a0;<bold>60198525</bold>
+</td><td char="." align="char">
+<bold>4.006</bold>
+</td><td char="." align="char">
+<bold>78.002</bold>
+</td><td char="." align="char">
+<bold>450.345</bold>
+</td><td char="." align="char">
+<bold>6</bold>
+</td><td char="." align="char">
+<bold>3</bold>
+</td><td char="." align="char">
+<bold>0</bold>
+</td><td char="." align="char">
+<bold>375.175</bold>
+</td></tr><tr><td align="left">
+<bold>12</bold>
+</td><td align="left">
+<bold>CID:</bold>&#x000a0;<bold>60199015</bold>
+</td><td char="." align="char">
+<bold>4.006</bold>
+</td><td char="." align="char">
+<bold>78.002</bold>
+</td><td char="." align="char">
+<bold>450.345</bold>
+</td><td char="." align="char">
+<bold>6</bold>
+</td><td char="." align="char">
+<bold>3</bold>
+</td><td char="." align="char">
+<bold>0</bold>
+</td><td char="." align="char">
+<bold>375.175</bold>
+</td></tr><tr><td align="left">
+<bold>13</bold>
+</td><td align="left">
+<bold>CID:</bold>&#x000a0;<bold>60199016</bold>
+</td><td char="." align="char">
+<bold>4.006</bold>
+</td><td char="." align="char">
+<bold>78.002</bold>
+</td><td char="." align="char">
+<bold>450.345</bold>
+</td><td char="." align="char">
+<bold>6</bold>
+</td><td char="." align="char">
+<bold>3</bold>
+</td><td char="." align="char">
+<bold>0</bold>
+</td><td char="." align="char">
+<bold>375.175</bold>
+</td></tr><tr><td align="left">
+<bold>14</bold>
+</td><td align="left">
+<bold>CID:</bold>&#x000a0;<bold>60199073</bold>
+</td><td char="." align="char">
+<bold>4.006</bold>
+</td><td char="." align="char">
+<bold>78.002</bold>
+</td><td char="." align="char">
+<bold>450.345</bold>
+</td><td char="." align="char">
+<bold>6</bold>
+</td><td char="." align="char">
+<bold>3</bold>
+</td><td char="." align="char">
+<bold>0</bold>
+</td><td char="." align="char">
+<bold>375.175</bold>
+</td></tr><tr><td align="left">
+<bold>15</bold>
+</td><td align="left">
+<bold>CID:</bold>&#x000a0;<bold>60199075</bold>
+</td><td char="." align="char">
+<bold>4.006</bold>
+</td><td char="." align="char">
+<bold>78.002</bold>
+</td><td char="." align="char">
+<bold>450.345</bold>
+</td><td char="." align="char">
+<bold>6</bold>
+</td><td char="." align="char">
+<bold>3</bold>
+</td><td char="." align="char">
+<bold>0</bold>
+</td><td char="." align="char">
+<bold>375.175</bold>
+</td></tr><tr><td align="left">
+<bold>16</bold>
+</td><td align="left">
+<bold>CID:</bold>&#x000a0;<bold>60199076</bold>
+</td><td char="." align="char">
+<bold>4.006</bold>
+</td><td char="." align="char">
+<bold>78.002</bold>
+</td><td char="." align="char">
+<bold>450.345</bold>
+</td><td char="." align="char">
+<bold>6</bold>
+</td><td char="." align="char">
+<bold>3</bold>
+</td><td char="." align="char">
+<bold>0</bold>
+</td><td char="." align="char">
+<bold>375.175</bold>
+</td></tr><tr><td align="left">
+<bold>17</bold>
+</td><td align="left">
+<bold>CID:</bold>&#x000a0;<bold>60199077</bold>
+</td><td char="." align="char">
+<bold>4.006</bold>
+</td><td char="." align="char">
+<bold>78.002</bold>
+</td><td char="." align="char">
+<bold>450.345</bold>
+</td><td char="." align="char">
+<bold>6</bold>
+</td><td char="." align="char">
+<bold>3</bold>
+</td><td char="." align="char">
+<bold>0</bold>
+</td><td char="." align="char">
+<bold>375.175</bold>
+</td></tr><tr><td align="left">
+<bold>18</bold>
+</td><td align="left">
+<bold>CID:</bold>&#x000a0;<bold>62705017</bold>
+</td><td char="." align="char">
+<bold>4.006</bold>
+</td><td char="." align="char">
+<bold>78.002</bold>
+</td><td char="." align="char">
+<bold>450.345</bold>
+</td><td char="." align="char">
+<bold>6</bold>
+</td><td char="." align="char">
+<bold>3</bold>
+</td><td char="." align="char">
+<bold>0</bold>
+</td><td char="." align="char">
+<bold>375.175</bold>
+</td></tr><tr><td align="left">
+<bold>19</bold>
+</td><td align="left">
+<bold>CID:</bold>&#x000a0;<bold>68625002</bold>
+</td><td char="." align="char">
+<bold>4.752</bold>
+</td><td char="." align="char">
+<bold>78.002</bold>
+</td><td char="." align="char">
+<bold>478.399</bold>
+</td><td char="." align="char">
+<bold>6</bold>
+</td><td char="." align="char">
+<bold>3</bold>
+</td><td char="." align="char">
+<bold>0</bold>
+</td><td char="." align="char">
+<bold>408.564</bold>
+</td></tr><tr><td align="left">
+<bold>20</bold>
+</td><td align="left">
+<bold>CID:</bold>&#x000a0;<bold>54613769</bold>
+</td><td char="." align="char">
+<bold>4.006</bold>
+</td><td char="." align="char">
+<bold>78.002</bold>
+</td><td char="." align="char">
+<bold>450.345</bold>
+</td><td char="." align="char">
+<bold>6</bold>
+</td><td char="." align="char">
+<bold>3</bold>
+</td><td char="." align="char">
+<bold>0</bold>
+</td><td char="." align="char">
+<bold>375.175</bold>
+</td></tr><tr><td align="left">
+<bold>21</bold>
+</td><td align="left">
+<bold>CID:</bold>&#x000a0;<bold>11662380</bold>
+</td><td char="." align="char">
+<bold>4.006</bold>
+</td><td char="." align="char">
+<bold>78.002</bold>
+</td><td char="." align="char">
+<bold>450.345</bold>
+</td><td char="." align="char">
+<bold>6</bold>
+</td><td char="." align="char">
+<bold>3</bold>
+</td><td char="." align="char">
+<bold>0</bold>
+</td><td char="." align="char">
+<bold>375.175</bold>
+</td></tr><tr><td align="left">
+<bold>22</bold>
+</td><td align="left">
+<bold>CID:</bold>&#x000a0;<bold>11626823</bold>
+</td><td char="." align="char">
+<bold>4.389</bold>
+</td><td char="." align="char">
+<bold>78.002</bold>
+</td><td char="." align="char">
+<bold>464.372</bold>
+</td><td char="." align="char">
+<bold>6</bold>
+</td><td char="." align="char">
+<bold>3</bold>
+</td><td char="." align="char">
+<bold>0</bold>
+</td><td char="." align="char">
+<bold>391.977</bold>
+</td></tr><tr><td align="left">
+<bold>23</bold>
+</td><td align="left">
+<bold>CID:</bold>&#x000a0;<bold>58659191</bold>
+</td><td char="." align="char">
+<bold>4.098</bold>
+</td><td char="." align="char">
+<bold>78.002</bold>
+</td><td char="." align="char">
+<bold>468.335</bold>
+</td><td char="." align="char">
+<bold>6</bold>
+</td><td char="." align="char">
+<bold>3</bold>
+</td><td char="." align="char">
+<bold>0</bold>
+</td><td char="." align="char">
+<bold>380.107</bold>
+</td></tr><tr><td align="left">
+<bold>24</bold>
+</td><td align="left">
+<bold>CID:</bold>&#x000a0;<bold>44560358</bold>
+</td><td char="." align="char">
+<bold>3.643</bold>
+</td><td char="." align="char">
+<bold>78.002</bold>
+</td><td char="." align="char">
+<bold>436.318</bold>
+</td><td char="." align="char">
+<bold>6</bold>
+</td><td char="." align="char">
+<bold>3</bold>
+</td><td char="." align="char">
+<bold>0</bold>
+</td><td char="." align="char">
+<bold>358.589</bold>
+</td></tr><tr><td align="left">
+<bold>25</bold>
+</td><td align="left">
+<bold>CID: 71239831</bold>
+</td><td char="." align="char">
+<bold>4.479</bold>
+</td><td char="." align="char">
+<bold>78.002</bold>
+</td><td char="." align="char">
+<bold>490.41</bold>
+</td><td char="." align="char">
+<bold>6</bold>
+</td><td char="." align="char">
+<bold>3</bold>
+</td><td char="." align="char">
+<bold>0</bold>
+</td><td char="." align="char">
+<bold>414.441</bold>
+</td></tr><tr><td align="left">
+<bold>26</bold>
+</td><td align="left">
+<bold>CID:</bold>&#x000a0;<bold>71239833</bold>
+</td><td char="." align="char">
+<bold>4.479</bold>
+</td><td char="." align="char">
+<bold>78.002</bold>
+</td><td char="." align="char">
+<bold>490.41</bold>
+</td><td char="." align="char">
+<bold>6</bold>
+</td><td char="." align="char">
+<bold>3</bold>
+</td><td char="." align="char">
+<bold>0</bold>
+</td><td char="." align="char">
+<bold>414.441</bold>
+</td></tr><tr><td align="left">
+<bold>27</bold>
+</td><td align="left">
+<bold>CID:</bold>&#x000a0;<bold>71240010</bold>
+</td><td char="." align="char">
+<bold>4.479</bold>
+</td><td char="." align="char">
+<bold>78.002</bold>
+</td><td char="." align="char">
+<bold>490.41</bold>
+</td><td char="." align="char">
+<bold>6</bold>
+</td><td char="." align="char">
+<bold>3</bold>
+</td><td char="." align="char">
+<bold>0</bold>
+</td><td char="." align="char">
+<bold>414.441</bold>
+</td></tr><tr><td align="left">
+<bold>28</bold>
+</td><td align="left">
+<bold>CID:</bold>&#x000a0;<bold>71240011</bold>
+</td><td char="." align="char">
+<bold>4.479</bold>
+</td><td char="." align="char">
+<bold>78.002</bold>
+</td><td char="." align="char">
+<bold>490.41</bold>
+</td><td char="." align="char">
+<bold>6</bold>
+</td><td char="." align="char">
+<bold>3</bold>
+</td><td char="." align="char">
+<bold>0</bold>
+</td><td char="." align="char">
+<bold>414.441</bold>
+</td></tr><tr><td align="left">
+<bold>29</bold>
+</td><td align="left">
+<bold>CID:</bold>&#x000a0;<bold>11496366</bold>
+</td><td char="." align="char">
+<bold>4.602</bold>
+</td><td char="." align="char">
+<bold>69.213</bold>
+</td><td char="." align="char">
+<bold>464.372</bold>
+</td><td char="." align="char">
+<bold>6</bold>
+</td><td char="." align="char">
+<bold>2</bold>
+</td><td char="." align="char">
+<bold>0</bold>
+</td><td char="." align="char">
+<bold>392.118</bold>
+</td></tr><tr><td align="left">
+<bold>30</bold>
+</td><td align="left">
+<bold>CID:</bold>&#x000a0;<bold>11562021</bold>
+</td><td char="." align="char">
+<bold>4.978</bold>
+</td><td char="." align="char">
+<bold>69.213</bold>
+</td><td char="." align="char">
+<bold>478.399</bold>
+</td><td char="." align="char">
+<bold>6</bold>
+</td><td char="." align="char">
+<bold>2</bold>
+</td><td char="." align="char">
+<bold>0</bold>
+</td><td char="." align="char">
+<bold>408.92</bold>
+</td></tr><tr><td align="left">
+<bold>31</bold>
+</td><td align="left">
+<bold>CID:</bold>&#x000a0;<bold>11626824</bold>
+</td><td char="." align="char">
+<bold>4.602</bold>
+</td><td char="." align="char">
+<bold>69.213</bold>
+</td><td char="." align="char">
+<bold>464.372</bold>
+</td><td char="." align="char">
+<bold>6</bold>
+</td><td char="." align="char">
+<bold>2</bold>
+</td><td char="." align="char">
+<bold>0</bold>
+</td><td char="." align="char">
+<bold>392.118</bold>
+</td></tr><tr><td align="left">32</td><td align="left">CID:&#x000a0;11656144</td><td char="." align="char">5.275</td><td char="." align="char">69.213</td><td char="." align="char">492.426</td><td char="." align="char">6</td><td char="." align="char">2</td><td char="." align="char">1</td><td char="." align="char">425.507</td></tr><tr><td align="left">
+<bold>33</bold>
+</td><td align="left">
+<bold>CID:</bold>&#x000a0;<bold>11598102</bold>
+</td><td char="." align="char">
+<bold>4.734</bold>
+</td><td char="." align="char">
+<bold>78.002</bold>
+</td><td char="." align="char">
+<bold>476.383</bold>
+</td><td char="." align="char">
+<bold>6</bold>
+</td><td char="." align="char">
+<bold>3</bold>
+</td><td char="." align="char">
+<bold>0</bold>
+</td><td char="." align="char">
+<bold>397.989</bold>
+</td></tr><tr><td align="left">
+<bold>34</bold>
+</td><td align="left">
+<bold>CID:</bold>&#x000a0;<bold>11641497</bold>
+</td><td char="." align="char">
+<bold>3.508</bold>
+</td><td char="." align="char">
+<bold>81.24</bold>
+</td><td char="." align="char">
+<bold>479.387</bold>
+</td><td char="." align="char">
+<bold>7</bold>
+</td><td char="." align="char">
+<bold>3</bold>
+</td><td char="." align="char">
+<bold>0</bold>
+</td><td char="." align="char">
+<bold>404.735</bold>
+</td></tr><tr><td align="left">
+<bold>35</bold>
+</td><td align="left">
+<bold>CID:</bold>&#x000a0;<bold>11690598</bold>
+</td><td char="." align="char">
+<bold>3.492</bold>
+</td><td char="." align="char">
+<bold>78.002</bold>
+</td><td char="." align="char">
+<bold>433.89</bold>
+</td><td char="." align="char">
+<bold>6</bold>
+</td><td char="." align="char">
+<bold>3</bold>
+</td><td char="." align="char">
+<bold>0</bold>
+</td><td char="." align="char">
+<bold>366.571</bold>
+</td></tr><tr><td align="left">
+<bold>36</bold>
+</td><td align="left">
+<bold>CID:</bold>&#x000a0;<bold>68563708</bold>
+</td><td char="." align="char">
+<bold>3.492</bold>
+</td><td char="." align="char">
+<bold>78.002</bold>
+</td><td char="." align="char">
+<bold>433.89</bold>
+</td><td char="." align="char">
+<bold>6</bold>
+</td><td char="." align="char">
+<bold>3</bold>
+</td><td char="." align="char">
+<bold>0</bold>
+</td><td char="." align="char">
+<bold>366.571</bold>
+</td></tr><tr><td align="left">
+<bold>37</bold>
+</td><td align="left">
+<bold>CID:</bold>&#x000a0;<bold>11562217</bold>
+</td><td char="." align="char">
+<bold>4.387</bold>
+</td><td char="." align="char">
+<bold>93.005</bold>
+</td><td char="." align="char">
+<bold>489.382</bold>
+</td><td char="." align="char">
+<bold>7</bold>
+</td><td char="." align="char">
+<bold>2</bold>
+</td><td char="." align="char">
+<bold>0</bold>
+</td><td char="." align="char">
+<bold>409.218</bold>
+</td></tr><tr><td align="left">
+<bold>38</bold>
+</td><td align="left">
+<bold>CID:</bold>&#x000a0;<bold>11612136</bold>
+</td><td char="." align="char">
+<bold>4.556</bold>
+</td><td char="." align="char">
+<bold>75.209</bold>
+</td><td char="." align="char">
+<bold>451.329</bold>
+</td><td char="." align="char">
+<bold>6</bold>
+</td><td char="." align="char">
+<bold>2</bold>
+</td><td char="." align="char">
+<bold>0</bold>
+</td><td char="." align="char">
+<bold>371.758</bold>
+</td></tr><tr><td align="left">
+<bold>39</bold>
+</td><td align="left">
+<bold>CID:</bold>&#x000a0;<bold>58659130</bold>
+</td><td char="." align="char">
+<bold>3.492</bold>
+</td><td char="." align="char">
+<bold>78.002</bold>
+</td><td char="." align="char">
+<bold>433.89</bold>
+</td><td char="." align="char">
+<bold>6</bold>
+</td><td char="." align="char">
+<bold>3</bold>
+</td><td char="." align="char">
+<bold>0</bold>
+</td><td char="." align="char">
+<bold>366.571</bold>
+</td></tr><tr><td align="left">
+<bold>40</bold>
+</td><td align="left">
+<bold>CID:</bold>&#x000a0;<bold>11625675</bold>
+</td><td char="." align="char">
+<bold>4.921</bold>
+</td><td char="." align="char">
+<bold>65.975</bold>
+</td><td char="." align="char">
+<bold>409.292</bold>
+</td><td char="." align="char">
+<bold>5</bold>
+</td><td char="." align="char">
+<bold>2</bold>
+</td><td char="." align="char">
+<bold>0</bold>
+</td><td char="." align="char">
+<bold>339.53</bold>
+</td></tr><tr><td align="left">
+<bold>41</bold>
+</td><td align="left">
+<bold>CID:</bold>&#x000a0;<bold>67084493</bold>
+</td><td char="." align="char">
+<bold>4.58</bold>
+</td><td char="." align="char">
+<bold>78.002</bold>
+</td><td char="." align="char">
+<bold>476.383</bold>
+</td><td char="." align="char">
+<bold>6</bold>
+</td><td char="." align="char">
+<bold>3</bold>
+</td><td char="." align="char">
+<bold>0</bold>
+</td><td char="." align="char">
+<bold>398.204</bold>
+</td></tr><tr><td align="left">
+<bold>42</bold>
+</td><td align="left">
+<bold>CID:</bold>&#x000a0;<bold>11676204</bold>
+</td><td char="." align="char">
+<bold>3.967</bold>
+</td><td char="." align="char">
+<bold>78.002</bold>
+</td><td char="." align="char">
+<bold>424.307</bold>
+</td><td char="." align="char">
+<bold>6</bold>
+</td><td char="." align="char">
+<bold>3</bold>
+</td><td char="." align="char">
+<bold>0</bold>
+</td><td char="." align="char">
+<bold>352.147</bold>
+</td></tr><tr><td align="left">
+<bold>43</bold>
+</td><td align="left">
+<bold>CID:</bold>&#x000a0;<bold>11684380</bold>
+</td><td char="." align="char">
+<bold>4.985</bold>
+</td><td char="." align="char">
+<bold>69.213</bold>
+</td><td char="." align="char">
+<bold>478.399</bold>
+</td><td char="." align="char">
+<bold>6</bold>
+</td><td char="." align="char">
+<bold>2</bold>
+</td><td char="." align="char">
+<bold>0</bold>
+</td><td char="." align="char">
+<bold>408.92</bold>
+</td></tr><tr><td align="left">
+<bold>44</bold>
+</td><td align="left">
+<bold>CID:</bold>&#x000a0;<bold>58659192</bold>
+</td><td char="." align="char">
+<bold>4.825</bold>
+</td><td char="." align="char">
+<bold>78.002</bold>
+</td><td char="." align="char">
+<bold>494.373</bold>
+</td><td char="." align="char">
+<bold>6</bold>
+</td><td char="." align="char">
+<bold>3</bold>
+</td><td char="." align="char">
+<bold>0</bold>
+</td><td char="." align="char">
+<bold>402.92</bold>
+</td></tr><tr><td align="left">
+<bold>45</bold>
+</td><td align="left">
+<bold>CID:</bold>&#x000a0;<bold>59599446</bold>
+</td><td char="." align="char">
+<bold>3.445</bold>
+</td><td char="." align="char">
+<bold>98.230</bold>
+</td><td char="." align="char">
+<bold>480.371</bold>
+</td><td char="." align="char">
+<bold>7</bold>
+</td><td char="." align="char">
+<bold>4</bold>
+</td><td char="." align="char">
+<bold>0</bold>
+</td><td char="." align="char">
+<bold>399.671</bold>
+</td></tr><tr><td align="left">
+<bold>46</bold>
+</td><td align="left">
+<bold>CID:</bold>&#x000a0;<bold>11503318</bold>
+</td><td char="." align="char">
+<bold>4.357</bold>
+</td><td char="." align="char">
+<bold>78.002</bold>
+</td><td char="." align="char">
+<bold>450.345</bold>
+</td><td char="." align="char">
+<bold>6</bold>
+</td><td char="." align="char">
+<bold>3</bold>
+</td><td char="." align="char">
+<bold>0</bold>
+</td><td char="." align="char">
+<bold>375.175</bold>
+</td></tr><tr><td align="left">
+<bold>47</bold>
+</td><td align="left">
+<bold>CID:</bold>&#x000a0;<bold>11510387</bold>
+</td><td char="." align="char">
+<bold>4.086</bold>
+</td><td char="." align="char">
+<bold>78.002</bold>
+</td><td char="." align="char">
+<bold>436.318</bold>
+</td><td char="." align="char">
+<bold>6</bold>
+</td><td char="." align="char">
+<bold>3</bold>
+</td><td char="." align="char">
+<bold>0</bold>
+</td><td char="." align="char">
+<bold>358.374</bold>
+</td></tr><tr><td align="left">
+<bold>48</bold>
+</td><td align="left">
+<bold>CID:</bold>&#x000a0;<bold>11568619</bold>
+</td><td char="." align="char">
+<bold>4.357</bold>
+</td><td char="." align="char">
+<bold>78.002</bold>
+</td><td char="." align="char">
+<bold>450.345</bold>
+</td><td char="." align="char">
+<bold>6</bold>
+</td><td char="." align="char">
+<bold>3</bold>
+</td><td char="." align="char">
+<bold>0</bold>
+</td><td char="." align="char">
+<bold>375.175</bold>
+</td></tr><tr><td align="left">
+<bold>49</bold>
+</td><td align="left">
+<bold>CID:</bold>&#x000a0;<bold>11575401</bold>
+</td><td char="." align="char">
+<bold>3.816</bold>
+</td><td char="." align="char">
+<bold>78.002</bold>
+</td><td char="." align="char">
+<bold>422.291</bold>
+</td><td char="." align="char">
+<bold>6</bold>
+</td><td char="." align="char">
+<bold>3</bold>
+</td><td char="." align="char">
+<bold>0</bold>
+</td><td char="." align="char">
+<bold>341.572</bold>
+</td></tr><tr><td align="left">
+<bold>50</bold>
+</td><td align="left">
+<bold>CID:</bold>&#x000a0;<bold>11647760</bold>
+</td><td char="." align="char">
+<bold>4.086</bold>
+</td><td char="." align="char">
+<bold>78.002</bold>
+</td><td char="." align="char">
+<bold>436.318</bold>
+</td><td char="." align="char">
+<bold>6</bold>
+</td><td char="." align="char">
+<bold>3</bold>
+</td><td char="." align="char">
+<bold>0</bold>
+</td><td char="." align="char">
+<bold>358.374</bold>
+</td></tr><tr><td align="left">
+<bold>51</bold>
+</td><td align="left">
+<bold>CID:</bold>&#x000a0;<bold>58659136</bold>
+</td><td char="." align="char">
+<bold>4.086</bold>
+</td><td char="." align="char">
+<bold>78.002</bold>
+</td><td char="." align="char">
+<bold>436.318</bold>
+</td><td char="." align="char">
+<bold>6</bold>
+</td><td char="." align="char">
+<bold>3</bold>
+</td><td char="." align="char">
+<bold>0</bold>
+</td><td char="." align="char">
+<bold>358.374</bold>
+</td></tr><tr><td align="left">
+<bold>52</bold>
+</td><td align="left">
+<bold>CID:</bold>&#x000a0;<bold>58659189</bold>
+</td><td char="." align="char">
+<bold>4.291</bold>
+</td><td char="." align="char">
+<bold>78.002</bold>
+</td><td char="." align="char">
+<bold>446.382</bold>
+</td><td char="." align="char">
+<bold>6</bold>
+</td><td char="." align="char">
+<bold>3</bold>
+</td><td char="." align="char">
+<bold>0</bold>
+</td><td char="." align="char">
+<bold>386.805</bold>
+</td></tr><tr><td align="left">
+<bold>53</bold>
+</td><td align="left">
+<bold>CID:</bold>&#x000a0;<bold>72986690</bold>
+</td><td char="." align="char">
+<bold>4.357</bold>
+</td><td char="." align="char">
+<bold>78.002</bold>
+</td><td char="." align="char">
+<bold>450.345</bold>
+</td><td char="." align="char">
+<bold>6</bold>
+</td><td char="." align="char">
+<bold>3</bold>
+</td><td char="." align="char">
+<bold>0</bold>
+</td><td char="." align="char">
+<bold>375.175</bold>
+</td></tr><tr><td align="left">
+<bold>54</bold>
+</td><td align="left">CID:&#x000a0;11502981</td><td char="." align="char">5.581</td><td char="." align="char">65.975</td><td char="." align="char">435.33</td><td char="." align="char">5</td><td char="." align="char">2</td><td char="." align="char">1</td><td char="." align="char">362.773</td></tr><tr><td align="left">
+<bold>55</bold>
+</td><td align="left">
+<bold>CID:</bold>&#x000a0;<bold>11676140</bold>
+</td><td char="." align="char">
+<bold>4.842</bold>
+</td><td char="." align="char">
+<bold>65.975</bold>
+</td><td char="." align="char">
+<bold>421.303</bold>
+</td><td char="." align="char">
+<bold>5</bold>
+</td><td char="." align="char">
+<bold>2</bold>
+</td><td char="." align="char">
+<bold>0</bold>
+</td><td char="." align="char">
+<bold>345.971</bold>
+</td></tr><tr><td align="left">
+<bold>56</bold>
+</td><td align="left">
+<bold>CID:</bold>&#x000a0;<bold>58659141</bold>
+</td><td char="." align="char">
+<bold>4.939</bold>
+</td><td char="." align="char">
+<bold>75.209</bold>
+</td><td char="." align="char">
+<bold>465.356</bold>
+</td><td char="." align="char">
+<bold>6</bold>
+</td><td char="." align="char">
+<bold>2</bold>
+</td><td char="." align="char">
+<bold>0</bold>
+</td><td char="." align="char">
+<bold>388.56</bold>
+</td></tr><tr><td align="left">
+<bold>57</bold>
+</td><td align="left">
+<bold>CID:</bold>&#x000a0;<bold>11705849</bold>
+</td><td char="." align="char">
+<bold>4.978</bold>
+</td><td char="." align="char">
+<bold>69.213</bold>
+</td><td char="." align="char">
+<bold>490.41</bold>
+</td><td char="." align="char">
+<bold>6</bold>
+</td><td char="." align="char">
+<bold>2</bold>
+</td><td char="." align="char">
+<bold>0</bold>
+</td><td char="." align="char">
+<bold>414.932</bold>
+</td></tr><tr><td align="left">
+<bold>58</bold>
+</td><td align="left">
+<bold>CID:</bold>&#x000a0;<bold>11719356</bold>
+</td><td char="." align="char">
+<bold>3.956</bold>
+</td><td char="." align="char">
+<bold>78.002</bold>
+</td><td char="." align="char">
+<bold>450.345</bold>
+</td><td char="." align="char">
+<bold>6</bold>
+</td><td char="." align="char">
+<bold>3</bold>
+</td><td char="." align="char">
+<bold>0</bold>
+</td><td char="." align="char">
+<bold>375.175</bold>
+</td></tr><tr><td align="left">
+<bold>59</bold>
+</td><td align="left">
+<bold>CID:</bold>&#x000a0;<bold>11647759</bold>
+</td><td char="." align="char">
+<bold>4.199</bold>
+</td><td char="." align="char">
+<bold>78.002</bold>
+</td><td char="." align="char">
+<bold>436.318</bold>
+</td><td char="." align="char">
+<bold>6</bold>
+</td><td char="." align="char">
+<bold>3</bold>
+</td><td char="." align="char">
+<bold>0</bold>
+</td><td char="." align="char">
+<bold>358.374</bold>
+</td></tr><tr><td align="left">
+<bold>60</bold>
+</td><td align="left">
+<bold>CID:</bold>&#x000a0;<bold>21110753</bold>
+</td><td char="." align="char">
+<bold>4.058</bold>
+</td><td char="." align="char">
+<bold>78.447</bold>
+</td><td char="." align="char">
+<bold>480.371</bold>
+</td><td char="." align="char">
+<bold>7</bold>
+</td><td char="." align="char">
+<bold>2</bold>
+</td><td char="." align="char">
+<bold>0</bold>
+</td><td char="." align="char">
+<bold>401.318</bold>
+</td></tr><tr><td align="left">
+<bold>61</bold>
+</td><td align="left">CID:&#x000a0;58659185</td><td char="." align="char">5.304</td><td char="." align="char">65.975</td><td char="." align="char">423.319</td><td char="." align="char">5</td><td char="." align="char">2</td><td char="." align="char">1</td><td char="." align="char">356.331</td></tr><tr><td align="left">62</td><td align="left">
+<bold>CID:</bold>&#x000a0;<bold>21110757</bold>
+</td><td char="." align="char">
+<bold>4.182</bold>
+</td><td char="." align="char">
+<bold>65.975</bold>
+</td><td char="." align="char">
+<bold>381.238</bold>
+</td><td char="." align="char">
+<bold>5</bold>
+</td><td char="." align="char">
+<bold>2</bold>
+</td><td char="." align="char">
+<bold>0</bold>
+</td><td char="." align="char">
+<bold>306.141</bold>
+</td></tr><tr><td align="left">
+<bold>63</bold>
+</td><td align="left">
+<bold>CID:</bold>&#x000a0;<bold>73386634</bold>
+</td><td char="." align="char">
+<bold>4.182</bold>
+</td><td char="." align="char">
+<bold>65.975</bold>
+</td><td char="." align="char">
+<bold>381.238</bold>
+</td><td char="." align="char">
+<bold>5</bold>
+</td><td char="." align="char">
+<bold>2</bold>
+</td><td char="." align="char">
+<bold>0</bold>
+</td><td char="." align="char">
+<bold>306.141</bold>
+</td></tr><tr><td align="left">
+<bold>64</bold>
+</td><td align="left">
+<bold>CID:</bold>&#x000a0;<bold>11647795</bold>
+</td><td char="." align="char">
+<bold>4.285</bold>
+</td><td char="." align="char">
+<bold>75.209</bold>
+</td><td char="." align="char">
+<bold>437.302</bold>
+</td><td char="." align="char">
+<bold>6</bold>
+</td><td char="." align="char">
+<bold>2</bold>
+</td><td char="." align="char">
+<bold>0</bold>
+</td><td char="." align="char">
+<bold>354.956</bold>
+</td></tr></tbody></table><table-wrap-foot><p>Bold indicates ADME screened compounds based on Lipinsiki rule of 5</p></table-wrap-foot></table-wrap>
+</p><p>It is bare that for passing oral bioavailability criteria, number of rotatable bond should be &#x0003c;10 (Oprea <xref ref-type="bibr" rid="CR20">2000</xref>). Therefore, we have made the further refinement of these hits by restricting the number of rotatable bonds to 10. The result is presented in Table&#x000a0;<xref rid="Tab2" ref-type="table">2</xref>. It is clear from the Table&#x000a0;<xref rid="Tab2" ref-type="table">2</xref> that almost all the 60 compounds screened from the ADME analysis possess reasonable number of rotatable bonds (&#x0003c;10). This result indicates that these compounds may have the potential to become a lead compound. However, toxicity is also one of the important issue could be addressed for all the lead compounds before its selection.<table-wrap id="Tab2"><label>Table&#x000a0;2</label><caption><p>Details of number of rotatable bonds</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left">S. no</th><th align="left">Compound</th><th align="left">nrotb</th></tr></thead><tbody><tr><td align="left">1</td><td align="left">Crizotinib</td><td char="." align="char">5</td></tr><tr><td align="left">2</td><td align="left">CID: 11597571</td><td char="." align="char">5</td></tr><tr><td align="left">3</td><td align="left">CID: 11626560</td><td char="." align="char">5</td></tr><tr><td align="left">4</td><td align="left">CID: 53234260</td><td char="." align="char">5</td></tr><tr><td align="left">5</td><td align="left">CID:&#x000a0;53234326</td><td char="." align="char">5</td></tr><tr><td align="left">6</td><td align="left">CID:&#x000a0;56671814</td><td char="." align="char">5</td></tr><tr><td align="left">7</td><td align="left">CID:&#x000a0;60197531</td><td char="." align="char">5</td></tr><tr><td align="left">8</td><td align="left">CID:&#x000a0;60197626</td><td char="." align="char">5</td></tr><tr><td align="left">9</td><td align="left">CID:&#x000a0;60198523</td><td char="." align="char">5</td></tr><tr><td align="left">10</td><td align="left">CID:&#x000a0;60198524</td><td char="." align="char">5</td></tr><tr><td align="left">11</td><td align="left">CID:&#x000a0;60198525</td><td char="." align="char">5</td></tr><tr><td align="left">12</td><td align="left">CID:&#x000a0;60199015</td><td char="." align="char">5</td></tr><tr><td align="left">13</td><td align="left">CID:&#x000a0;60199016</td><td char="." align="char">5</td></tr><tr><td align="left">14</td><td align="left">CID:&#x000a0;60199073</td><td char="." align="char">5</td></tr><tr><td align="left">15</td><td align="left">CID:&#x000a0;60199075</td><td char="." align="char">5</td></tr><tr><td align="left">16</td><td align="left">CID:&#x000a0;60199076</td><td char="." align="char">5</td></tr><tr><td align="left">17</td><td align="left">CID:&#x000a0;60199077</td><td char="." align="char">5</td></tr><tr><td align="left">18</td><td align="left">CID:&#x000a0;62705017</td><td char="." align="char">5</td></tr><tr><td align="left">19</td><td align="left">CID:&#x000a0;68625002</td><td char="." align="char">6</td></tr><tr><td align="left">20</td><td align="left">CID:&#x000a0;54613769</td><td char="." align="char">5</td></tr><tr><td align="left">21</td><td align="left">CID:&#x000a0;11662380</td><td char="." align="char">5</td></tr><tr><td align="left">22</td><td align="left">CID:&#x000a0;11626823</td><td char="." align="char">6</td></tr><tr><td align="left">23</td><td align="left">CID:&#x000a0;58659191</td><td char="." align="char">5</td></tr><tr><td align="left">24</td><td align="left">CID:&#x000a0;44560358</td><td char="." align="char">5</td></tr><tr><td align="left">25</td><td align="left">CID: 71239831</td><td char="." align="char">5</td></tr><tr><td align="left">26</td><td align="left">CID:&#x000a0;71239833</td><td char="." align="char">5</td></tr><tr><td align="left">27</td><td align="left">CID:&#x000a0;71240010</td><td char="." align="char">5</td></tr><tr><td align="left">28</td><td align="left">CID:&#x000a0;71240011</td><td char="." align="char">5</td></tr><tr><td align="left">29</td><td align="left">CID:&#x000a0;11496366</td><td char="." align="char">5</td></tr><tr><td align="left">30</td><td align="left">CID:&#x000a0;11562021</td><td char="." align="char">6</td></tr><tr><td align="left">31</td><td align="left">CID:&#x000a0;11626824</td><td char="." align="char">5</td></tr><tr><td align="left">32</td><td align="left">CID:&#x000a0;11598102</td><td char="." align="char">5</td></tr><tr><td align="left">33</td><td align="left">CID:&#x000a0;11641497</td><td char="." align="char">7</td></tr><tr><td align="left">34</td><td align="left">CID:&#x000a0;11690598</td><td char="." align="char">5</td></tr><tr><td align="left">35</td><td align="left">CID:&#x000a0;68563708</td><td char="." align="char">5</td></tr><tr><td align="left">36</td><td align="left">CID:&#x000a0;11562217</td><td char="." align="char">5</td></tr><tr><td align="left">37</td><td align="left">CID:&#x000a0;11612136</td><td char="." align="char">5</td></tr><tr><td align="left">38</td><td align="left">CID:&#x000a0;58659130</td><td char="." align="char">5</td></tr><tr><td align="left">39</td><td align="left">CID:&#x000a0;11625675</td><td char="." align="char">5</td></tr><tr><td align="left">40</td><td align="left">CID:&#x000a0;67084493</td><td char="." align="char">6</td></tr><tr><td align="left">41</td><td align="left">CID:&#x000a0;11676204</td><td char="." align="char">7</td></tr><tr><td align="left">42</td><td align="left">CID:&#x000a0;11684380</td><td char="." align="char">6</td></tr><tr><td align="left">43</td><td align="left">CID:&#x000a0;58659192</td><td char="." align="char">5</td></tr><tr><td align="left">44</td><td align="left">CID:&#x000a0;58659228</td><td char="." align="char">5</td></tr><tr><td align="left">45</td><td align="left">CID:&#x000a0;11503318</td><td char="." align="char">6</td></tr><tr><td align="left">46</td><td align="left">CID:&#x000a0;11510387</td><td char="." align="char">5</td></tr><tr><td align="left">47</td><td align="left">CID:&#x000a0;11568619</td><td char="." align="char">6</td></tr><tr><td align="left">48</td><td align="left">CID:&#x000a0;11575401</td><td char="." align="char">5</td></tr><tr><td align="left">49</td><td align="left">CID:&#x000a0;11647760</td><td char="." align="char">5</td></tr><tr><td align="left">50</td><td align="left">CID:&#x000a0;58659136</td><td char="." align="char">5</td></tr><tr><td align="left">51</td><td align="left">CID:&#x000a0;58659189</td><td char="." align="char">5</td></tr><tr><td align="left">52</td><td align="left">CID:&#x000a0;72986690</td><td char="." align="char">6</td></tr><tr><td align="left">53</td><td align="left">CID:&#x000a0;11676140</td><td char="." align="char">5</td></tr><tr><td align="left">54</td><td align="left">CID:&#x000a0;58659141</td><td char="." align="char">6</td></tr><tr><td align="left">55</td><td align="left">CID:&#x000a0;11705849</td><td char="." align="char">5</td></tr><tr><td align="left">56</td><td align="left">CID:&#x000a0;11719356</td><td char="." align="char">5</td></tr><tr><td align="left">57</td><td align="left">CID:&#x000a0;11647759</td><td char="." align="char">6</td></tr><tr><td align="left">58</td><td align="left">CID:&#x000a0;21110753</td><td char="." align="char">7</td></tr><tr><td align="left">59</td><td align="left">CID:&#x000a0;21110757</td><td char="." align="char">4</td></tr><tr><td align="left">60</td><td align="left">CID:&#x000a0;73386634</td><td char="." align="char">4</td></tr><tr><td align="left">61</td><td align="left">CID:&#x000a0;11647795</td><td char="." align="char">5</td></tr></tbody></table><table-wrap-foot><p>Number of rotatable bonds &#x0003c;10</p></table-wrap-foot></table-wrap>
+</p></sec><sec id="Sec10"><title>Toxicity analysis</title><p>The primary objective behind the failure of the majority of compounds in drug discovery process is the issues related to pharmacokinetics and toxicity. In the present investigation, these issues were addressed with the help of OSIRIS property explorer program. The pharmacokinetic property of a lead compound can be investigated by utilizing the parameters such as clogP and logS. The result is shown in Table&#x000a0;<xref rid="Tab3" ref-type="table">3</xref>. clogP is an entrenched measure of the compound&#x02019;s hydrophilicity. The high log <italic>P</italic>&#x000a0;values may cause poor retention because of the compound&#x02019;s low hydrophilicity. It has been demonstrated that for compounds to have a reasonable probability of being well absorbed, their log <italic>P</italic>&#x000a0;value must not be greater than 5.0. It is clear from the table that log <italic>P</italic>&#x000a0;values of all the 60 compounds found to be in the acceptable criteria.<table-wrap id="Tab3"><label>Table&#x000a0;3</label><caption><p>Toxicity risks and physicochemical properties of crizotinib and virtual compounds predicted by OSIRIS property explorer</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left">S. no</th><th align="left">Compound ID</th><th align="left">Mutagenic</th><th align="left">Tumorigenic</th><th align="left">Reproductive effective</th><th align="left">cLogP</th><th align="left">Solubility</th><th align="left">Drug likeness</th><th align="left">Drug score</th></tr></thead><tbody><tr><td align="left">1</td><td align="left">Crizotinib</td><td align="left">No</td><td align="left">No</td><td align="left">No</td><td char="." align="char">3.54</td><td char="." align="char">&#x02212;5.26</td><td char="." align="char">3.12</td><td char="." align="char">0.52</td></tr><tr><td align="left">2</td><td align="left">CID: 11597571</td><td align="left">No</td><td align="left">No</td><td align="left">No</td><td char="." align="char">3.54</td><td char="." align="char">&#x02212;5.26</td><td char="." align="char">3.12</td><td char="." align="char">0.52</td></tr><tr><td align="left">3</td><td align="left">CID:&#x000a0;11626560</td><td align="left">No</td><td align="left">No</td><td align="left">No</td><td char="." align="char">3.54</td><td char="." align="char">&#x02212;5.26</td><td char="." align="char">3.12</td><td char="." align="char">0.52</td></tr><tr><td align="left">4</td><td align="left">CID:&#x000a0;53234260</td><td align="left">No</td><td align="left">No</td><td align="left">No</td><td char="." align="char">3.54</td><td char="." align="char">&#x02212;5.26</td><td char="." align="char">3.12</td><td char="." align="char">0.52</td></tr><tr><td align="left">5</td><td align="left">CID:&#x000a0;53234326</td><td align="left">No</td><td align="left">No</td><td align="left">No</td><td char="." align="char">3.54</td><td char="." align="char">&#x02212;5.26</td><td char="." align="char">3.12</td><td char="." align="char">0.52</td></tr><tr><td align="left">6</td><td align="left">CID:&#x000a0;56671814</td><td align="left">No</td><td align="left">No</td><td align="left">No</td><td char="." align="char">3.54</td><td char="." align="char">&#x02212;5.26</td><td char="." align="char">3.12</td><td char="." align="char">0.52</td></tr><tr><td align="left">7</td><td align="left">CID:&#x000a0;60197531</td><td align="left">No</td><td align="left">No</td><td align="left">No</td><td char="." align="char">3.54</td><td char="." align="char">&#x02212;5.26</td><td char="." align="char">3.12</td><td char="." align="char">0.52</td></tr><tr><td align="left">8</td><td align="left">CID:&#x000a0;60197626</td><td align="left">No</td><td align="left">No</td><td align="left">No</td><td char="." align="char">3.54</td><td char="." align="char">&#x02212;5.26</td><td char="." align="char">3.12</td><td char="." align="char">0.52</td></tr><tr><td align="left">9</td><td align="left">CID:&#x000a0;60198523</td><td align="left">No</td><td align="left">No</td><td align="left">No</td><td char="." align="char">3.54</td><td char="." align="char">&#x02212;5.26</td><td char="." align="char">3.12</td><td char="." align="char">0.52</td></tr><tr><td align="left">10</td><td align="left">CID:&#x000a0;60198524</td><td align="left">No</td><td align="left">No</td><td align="left">No</td><td char="." align="char">3.54</td><td char="." align="char">&#x02212;5.26</td><td char="." align="char">3.12</td><td char="." align="char">0.52</td></tr><tr><td align="left">11</td><td align="left">CID:&#x000a0;60198525</td><td align="left">No</td><td align="left">No</td><td align="left">No</td><td char="." align="char">3.54</td><td char="." align="char">&#x02212;5.26</td><td char="." align="char">3.12</td><td char="." align="char">0.52</td></tr><tr><td align="left">12</td><td align="left">CID:&#x000a0;60199015</td><td align="left">No</td><td align="left">No</td><td align="left">No</td><td char="." align="char">3.54</td><td char="." align="char">&#x02212;5.26</td><td char="." align="char">3.12</td><td char="." align="char">0.52</td></tr><tr><td align="left">13</td><td align="left">CID:&#x000a0;60199016</td><td align="left">No</td><td align="left">No</td><td align="left">No</td><td char="." align="char">3.54</td><td char="." align="char">&#x02212;5.26</td><td char="." align="char">3.12</td><td char="." align="char">0.52</td></tr><tr><td align="left">14</td><td align="left">CID:&#x000a0;60199073</td><td align="left">No</td><td align="left">No</td><td align="left">No</td><td char="." align="char">3.54</td><td char="." align="char">&#x02212;5.26</td><td char="." align="char">3.12</td><td char="." align="char">0.52</td></tr><tr><td align="left">15</td><td align="left">CID:&#x000a0;60199075</td><td align="left">No</td><td align="left">No</td><td align="left">No</td><td char="." align="char">3.54</td><td char="." align="char">&#x02212;5.26</td><td char="." align="char">3.12</td><td char="." align="char">0.52</td></tr><tr><td align="left">16</td><td align="left">CID:&#x000a0;60199076</td><td align="left">No</td><td align="left">No</td><td align="left">No</td><td char="." align="char">3.54</td><td char="." align="char">&#x02212;5.26</td><td char="." align="char">3.12</td><td char="." align="char">0.52</td></tr><tr><td align="left">17</td><td align="left">CID:&#x000a0;60199077</td><td align="left">No</td><td align="left">No</td><td align="left">No</td><td char="." align="char">3.54</td><td char="." align="char">&#x02212;5.26</td><td char="." align="char">3.12</td><td char="." align="char">0.52</td></tr><tr><td align="left">18</td><td align="left">CID:&#x000a0;62705017</td><td align="left">No</td><td align="left">No</td><td align="left">No</td><td char="." align="char">3.54</td><td char="." align="char">&#x02212;5.26</td><td char="." align="char">3.12</td><td char="." align="char">0.52</td></tr><tr><td align="left">19</td><td align="left">CID:&#x000a0;68625002</td><td align="left">No</td><td align="left">No</td><td align="left">No</td><td char="." align="char">3.78</td><td char="." align="char">&#x02212;5.69</td><td char="." align="char">3.68</td><td char="." align="char">0.46</td></tr><tr><td align="left">20</td><td align="left">CID:&#x000a0;54613769</td><td align="left">No</td><td align="left">No</td><td align="left">No</td><td char="." align="char">3.54</td><td char="." align="char">&#x02212;5.26</td><td char="." align="char">3.22</td><td char="." align="char">0.53</td></tr><tr><td align="left">21</td><td align="left">CID:&#x000a0;11662380</td><td align="left">No</td><td align="left">No</td><td align="left">Yes</td><td char="." align="char">3.54</td><td char="." align="char">&#x02212;5.26</td><td char="." align="char">2.78</td><td char="." align="char">0.42</td></tr><tr><td align="left">22</td><td align="left">CID:&#x000a0;11626823</td><td align="left">No</td><td align="left">No</td><td align="left">No</td><td char="." align="char">3.29</td><td char="." align="char">&#x02212;5.78</td><td char="." align="char">3.45</td><td char="." align="char">0.48</td></tr><tr><td align="left">23</td><td align="left">CID:&#x000a0;58659191</td><td align="left">No</td><td align="left">Yes</td><td align="left">No</td><td char="." align="char">3.64</td><td char="." align="char">&#x02212;5.58</td><td char="." align="char">3.17</td><td char="." align="char">0.29</td></tr><tr><td align="left">24</td><td align="left">CID:&#x000a0;44560358</td><td align="left">No</td><td align="left">No</td><td align="left">No</td><td char="." align="char">3.25</td><td char="." align="char">&#x02212;5.19</td><td char="." align="char">2.42</td><td char="." align="char">0.54</td></tr><tr><td align="left">25</td><td align="left">CID:&#x000a0;71239831</td><td align="left">No</td><td align="left">No</td><td align="left">No</td><td char="." align="char">4.19</td><td char="." align="char">&#x02212;5.96</td><td char="." align="char">1.79</td><td char="." align="char">0.38</td></tr><tr><td align="left">26</td><td align="left">CID:&#x000a0;71239833</td><td align="left">No</td><td align="left">No</td><td align="left">No</td><td char="." align="char">4.19</td><td char="." align="char">&#x02212;5.96</td><td char="." align="char">1.45</td><td char="." align="char">0.37</td></tr><tr><td align="left">27</td><td align="left">CID:&#x000a0;71240010</td><td align="left">No</td><td align="left">No</td><td align="left">No</td><td char="." align="char">4.19</td><td char="." align="char">&#x02212;5.96</td><td char="." align="char">1.79</td><td char="." align="char">0.38</td></tr><tr><td align="left">28</td><td align="left">CID:&#x000a0;71240011</td><td align="left">No</td><td align="left">No</td><td align="left">No</td><td char="." align="char">4.19</td><td char="." align="char">&#x02212;5.96</td><td char="." align="char">1.79</td><td char="." align="char">0.38</td></tr><tr><td align="left">29</td><td align="left">CID:&#x000a0;11496366</td><td align="left">No</td><td align="left">No</td><td align="left">No</td><td char="." align="char">3.79</td><td char="." align="char">&#x02212;4.90</td><td char="." align="char">7.62</td><td char="." align="char">0.54</td></tr><tr><td align="left">30</td><td align="left">CID:&#x000a0;11562021</td><td align="left">No</td><td align="left">No</td><td align="left">No</td><td char="." align="char">4.2</td><td char="." align="char">&#x02212;5.22</td><td char="." align="char">7.51</td><td char="." align="char">0.48</td></tr><tr><td align="left">31</td><td align="left">CID:&#x000a0;11626824</td><td align="left">No</td><td align="left">No</td><td align="left">No</td><td char="." align="char">3.79</td><td char="." align="char">&#x02212;4.90</td><td char="." align="char">7.62</td><td char="." align="char">0.54</td></tr><tr><td align="left">32</td><td align="left">CID:&#x000a0;11598102</td><td align="left">No</td><td align="left">No</td><td align="left">No</td><td char="." align="char">3.89</td><td char="." align="char">&#x02212;6.11</td><td char="." align="char">2.11</td><td char="." align="char">0.41</td></tr><tr><td align="left">33</td><td align="left">CID:&#x000a0;11641497</td><td align="left">No</td><td align="left">No</td><td align="left">No</td><td char="." align="char">2.38</td><td char="." align="char">&#x02212;4.53</td><td char="." align="char">4.34</td><td char="." align="char">0.49</td></tr><tr><td align="left">34</td><td align="left">CID:&#x000a0;11690598</td><td align="left">No</td><td align="left">No</td><td align="left">No</td><td char="." align="char">3.03</td><td char="." align="char">&#x02212;4.84</td><td char="." align="char">3.12</td><td char="." align="char">0.6</td></tr><tr><td align="left">35</td><td align="left">CID:&#x000a0;68563708</td><td align="left">No</td><td align="left">No</td><td align="left">No</td><td char="." align="char">3.03</td><td char="." align="char">&#x02212;4.84</td><td char="." align="char">3.12</td><td char="." align="char">0.6</td></tr><tr><td align="left">36</td><td align="left">CID:&#x000a0;11562217</td><td align="left">No</td><td align="left">No</td><td align="left">No</td><td char="." align="char">3.44</td><td char="." align="char">&#x02212;5.35</td><td char="." align="char">2.82</td><td char="." align="char">0.29</td></tr><tr><td align="left">37</td><td align="left">CID:&#x000a0;11612136</td><td align="left">No</td><td align="left">No</td><td align="left">No</td><td char="." align="char">3.68</td><td char="." align="char">&#x02212;5.4</td><td char="." align="char">&#x02212;0.93</td><td char="." align="char">0.33</td></tr><tr><td align="left">38</td><td align="left">CID:&#x000a0;58659130</td><td align="left">No</td><td align="left">No</td><td align="left">No</td><td char="." align="char">3.03</td><td char="." align="char">&#x02212;4.84</td><td char="." align="char">3.22</td><td char="." align="char">0.60</td></tr><tr><td align="left">39</td><td align="left">CID:&#x000a0;11625675</td><td align="left">No</td><td align="left">No</td><td align="left">No</td><td char="." align="char">3.75</td><td char="." align="char">&#x02212;5.39</td><td char="." align="char">2.56</td><td char="." align="char">0.53</td></tr><tr><td align="left">40</td><td align="left">CID:&#x000a0;67084493</td><td align="left">No</td><td align="left">No</td><td align="left">No</td><td char="." align="char">4.04</td><td char="." align="char">&#x02212;6.15</td><td char="." align="char">1.21</td><td char="." align="char">0.37</td></tr><tr><td align="left">41</td><td align="left">CID:&#x000a0;11676204</td><td align="left">No</td><td align="left">No</td><td align="left">No</td><td char="." align="char">2.28</td><td char="." align="char">&#x02212;4.96</td><td char="." align="char">3.76</td><td char="." align="char">0.62</td></tr><tr><td align="left">42</td><td align="left">CID:&#x000a0;11684380</td><td align="left">No</td><td align="left">No</td><td align="left">No</td><td char="." align="char">3.55</td><td char="." align="char">&#x02212;5.42</td><td char="." align="char">7.62</td><td char="." align="char">0.54</td></tr><tr><td align="left">43</td><td align="left">CID:&#x000a0;58659192</td><td align="left">No</td><td align="left">Yes</td><td align="left">No</td><td char="." align="char">4</td><td char="." align="char">&#x02212;6.42</td><td char="." align="char">2.17</td><td char="." align="char">0.22</td></tr><tr><td align="left">44</td><td align="left">CID:&#x000a0;59599446</td><td align="left">No</td><td align="left">No</td><td align="left">No</td><td char="." align="char">2.47</td><td char="." align="char">&#x02212;5.33</td><td char="." align="char">4.07</td><td char="." align="char">0.53</td></tr><tr><td align="left">45</td><td align="left">CID:&#x000a0;11503318</td><td align="left">No</td><td align="left">No</td><td align="left">No</td><td char="." align="char">3.01</td><td char="." align="char">&#x02212;5.73</td><td char="." align="char">0.63</td><td char="." align="char">0.42</td></tr><tr><td align="left">46</td><td align="left">CID:&#x000a0;11510387</td><td align="left">No</td><td align="left">No</td><td align="left">No</td><td char="." align="char">3.30</td><td char="." align="char">&#x02212;6.39</td><td char="." align="char">3.37</td><td char="." align="char">0.47</td></tr><tr><td align="left">47</td><td align="left">CID:&#x000a0;11568619</td><td align="left">No</td><td align="left">No</td><td align="left">No</td><td char="." align="char">3.01</td><td char="." align="char">&#x02212;5.73</td><td char="." align="char">0.63</td><td char="." align="char">0.42</td></tr><tr><td align="left">48</td><td align="left">CID:&#x000a0;11575401</td><td align="left">No</td><td align="left">No</td><td align="left">No</td><td char="." align="char">2.85</td><td char="." align="char">&#x02212;4.72</td><td char="." align="char">3.34</td><td char="." align="char">0.63</td></tr><tr><td align="left">49</td><td align="left">CID:&#x000a0;11647760</td><td align="left">No</td><td align="left">No</td><td align="left">No</td><td char="." align="char">3.20</td><td char="." align="char">&#x02212;4.99</td><td char="." align="char">3.81</td><td char="." align="char">0.58</td></tr><tr><td align="left">50</td><td align="left">CID:&#x000a0;58659136</td><td align="left">No</td><td align="left">No</td><td align="left">No</td><td char="." align="char">3.20</td><td char="." align="char">&#x02212;4.99</td><td char="." align="char">3.81</td><td char="." align="char">0.48</td></tr><tr><td align="left">51</td><td align="left">CID:&#x000a0;58659189</td><td align="left">Yes</td><td align="left">No</td><td align="left">No</td><td char="." align="char">3.78</td><td char="." align="char">&#x02212;5.29</td><td char="." align="char">4.46</td><td char="." align="char">0.31</td></tr><tr><td align="left">52</td><td align="left">CID:&#x000a0;72986690</td><td align="left">No</td><td align="left">No</td><td align="left">No</td><td char="." align="char">3.01</td><td char="." align="char">&#x02212;5.73</td><td char="." align="char">0.63</td><td char="." align="char">0.42</td></tr><tr><td align="left">53</td><td align="left">CID:&#x000a0;11676140</td><td align="left">No</td><td align="left">No</td><td align="left">No</td><td char="." align="char">4.16</td><td char="." align="char">&#x02212;5.75</td><td char="." align="char">1.66</td><td char="." align="char">0.44</td></tr><tr><td align="left">54</td><td align="left">CID:&#x000a0;58659141</td><td align="left">No</td><td align="left">No</td><td align="left">No</td><td char="." align="char">3.44</td><td char="." align="char">&#x02212;5.91</td><td char="." align="char">&#x02212;0.32</td><td char="." align="char">0.33</td></tr><tr><td align="left">55</td><td align="left">CID:&#x000a0;11705849</td><td align="left">No</td><td align="left">No</td><td align="left">No</td><td char="." align="char">4.15</td><td char="." align="char">&#x02212;5.74</td><td char="." align="char">2.96</td><td char="." align="char">0.42</td></tr><tr><td align="left">56</td><td align="left">CID:&#x000a0;11719356</td><td align="left">No</td><td align="left">No</td><td align="left">No</td><td char="." align="char">3.63</td><td char="." align="char">&#x02212;4.96</td><td char="." align="char">2.31</td><td char="." align="char">0.53</td></tr><tr><td align="left">57</td><td align="left">CID:&#x000a0;11647759</td><td align="left">No</td><td align="left">No</td><td align="left">No</td><td char="." align="char">2.61</td><td char="." align="char">&#x02212;5.24</td><td char="." align="char">3.45</td><td char="." align="char">0.57</td></tr><tr><td align="left">58</td><td align="left">CID:&#x000a0;21110753</td><td align="left">No</td><td align="left">No</td><td align="left">No</td><td char="." align="char">2.52</td><td char="." align="char">&#x02212;4.67</td><td char="." align="char">3.67</td><td char="." align="char">0.59</td></tr><tr><td align="left">59</td><td align="left">CID:&#x000a0;21110757</td><td align="left">No</td><td align="left">No</td><td align="left">No</td><td char="." align="char">3.00</td><td char="." align="char">&#x02212;5.47</td><td char="." align="char">2.35</td><td char="." align="char">0.56</td></tr><tr><td align="left">60</td><td align="left">CID:&#x000a0;73386634</td><td align="left">No</td><td align="left">No</td><td align="left">No</td><td char="." align="char">3.00</td><td char="." align="char">&#x02212;5.47</td><td char="." align="char">2.35</td><td char="." align="char">0.56</td></tr><tr><td align="left">61</td><td align="left">CID:&#x000a0;11647795</td><td align="left">No</td><td align="left">No</td><td align="left">No</td><td char="." align="char">3.34</td><td char="." align="char">&#x02212;5.13</td><td char="." align="char">0.85</td><td char="." align="char">0.48</td></tr></tbody></table></table-wrap>
+</p><p>Drug solubility normally affects the absorption and distribution characteristics of a compound. Infact, insufficient solubility of drug can lead to poor absorption (Lipinski et al. <xref ref-type="bibr" rid="CR16">1997</xref>). Our evaluated log <italic>S</italic> worth is a unit stripped logarithm (base 10) of a compound&#x02019;s dissolvability measured in mol/liter. There are more than 80&#x000a0;% of the drugs available in the market have an (expected) log <italic>S</italic> value greater than &#x02212;4. It is clear from the Table&#x000a0;<xref rid="Tab3" ref-type="table">3</xref> that the solubility of the 60 lead compounds was found in the comparable zone with that of standard drugs to fulfill the requirements of solubility and this could be regarded as a candidate drug for oral absorption.</p></sec><sec id="Sec11"><title>Drug likeness</title><p>The drug likeliness is imperative parameter because drug like molecules exhibit favorable absorption, distribution, metabolism, excretion, toxicological (ADMET) parameters (Tetko <xref ref-type="bibr" rid="CR31">2005</xref>). In this study, Osiris program was utilized to calculate the drug-likeness of crizotinib and other virtually screened compounds (Sander <xref ref-type="bibr" rid="CR22">2001</xref>). It is worth stressing that the drug likeness value of 60 lead compounds was found to be in acceptable criteria.</p></sec><sec id="Sec12"><title>Drug score and toxicity</title><p>The information assessed in Table&#x000a0;<xref rid="Tab3" ref-type="table">3</xref> shows that the 57 lead compounds should be non-mutagenic and non-tumorigenic impacts when run through the mutagenicity assessment system comparable with standard drugs used. The compounds such as CID:&#x000a0;11662380, CID:&#x000a0;58659189, CID:&#x000a0;58659191, and CID:&#x000a0;58659192 failed to pass through the Osiris program and showed mutagenic and tumorigenic effects. We have also analyzed the overall drug score (DS) for all the lead compounds and compared with that of crizotinib. The score consolidates drug- likeness, miLogP, logS, molecular weight, and toxicity risks. The DS score could also be an important parameter to judge the compound&#x02019;s potential to meet all requirements to qualify for a drug. The result is demonstrated in Table&#x000a0;<xref rid="Tab3" ref-type="table">3</xref>. The reported lead compounds demonstrated moderate to good DS as compared with standard drug crizotinib. In our dataset, 17 lead compounds showed similar drug score as that of crizotinib. About five compounds such as CID:&#x000a0;11690598, CID:&#x000a0;68563708, CID:&#x000a0;58659130, CID:&#x000a0;11676204 and CID:&#x000a0;11575401 showed a drug score of 0.6 and above. Therefore, further examination was carried out with 57 compounds.</p></sec><sec id="Sec13"><title>Molecular docking</title><p>Molecular docking program was employed to find out the binding affinity of lead compounds with the target protein. Docking analysis was performed twice to eliminate the false positive. The docking results are shown in Table&#x000a0;<xref rid="Tab4" ref-type="table">4</xref>. The docking score of native-type ALK-crizotinib complex was found to be 5312 and for the mutant-type ALK-crizotinib complex was found to be 4602. The lesser docking score of mutant complex clearly indicates that double mutation (L1196M and G1269A) significantly affects the binding of crizotinib with the ALK structures. It is believed that a potential lead compound is the one should have higher docking scoring than the existing drug molecule, crizotinib. Therefore, we have examined docking score for all the 57 hits both with the native type and with mutant type ALK systems. 16 hits showed higher docking score only with mutant type ALK than native type ALK and 17 more hits from our dataset showed similar dock score to that of crizotinib. Most importantly, 10 hits from our dataset showed higher score both in the native type as well as with mutant type. For instance, CID 11562217 molecule showed the highest docking score among the 10 hits in our data set. The docking score of native-type ALK-CID 11562217 complex was found to be 5662 and for the mutant-type ALK-CID 11562217 complex was found to be 5908. This result indicates that CID 11562217 has a better binding affinity not only with the native type but also with mutant ALK as compared to the crizotinib.<table-wrap id="Tab4"><label>Table&#x000a0;4</label><caption><p>Docking score of the crizotinib and lead compounds obtained from PubChem database against the target structure</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left" rowspan="2">S. no</th><th align="left" rowspan="2">Compound ID</th><th align="left" colspan="2">Score</th></tr><tr><th align="left">2XP2</th><th align="left">4ANS</th></tr></thead><tbody><tr><td align="left">1</td><td align="left">Crizotinib</td><td char="." align="char">5312</td><td char="." align="char">5226</td></tr><tr><td align="left">2</td><td align="left">CID: 11597571</td><td char="." align="char">5312</td><td char="." align="char">5226</td></tr><tr><td align="left">3</td><td align="left">CID:&#x000a0;11626560</td><td char="." align="char">5312</td><td char="." align="char">5226</td></tr><tr><td align="left">4</td><td align="left">CID:&#x000a0;53234260</td><td char="." align="char">5312</td><td char="." align="char">5226</td></tr><tr><td align="left">5</td><td align="left">CID:&#x000a0;53234326</td><td char="." align="char">5312</td><td char="." align="char">5226</td></tr><tr><td align="left">6</td><td align="left">CID:&#x000a0;56671814</td><td char="." align="char">5312</td><td char="." align="char">5226</td></tr><tr><td align="left">7</td><td align="left">CID:&#x000a0;60197531</td><td char="." align="char">5312</td><td char="." align="char">5226</td></tr><tr><td align="left">8</td><td align="left">CID:&#x000a0;60197626</td><td char="." align="char">5312</td><td char="." align="char">5226</td></tr><tr><td align="left">9</td><td align="left">CID:&#x000a0;60198523</td><td char="." align="char">5312</td><td char="." align="char">5226</td></tr><tr><td align="left">10</td><td align="left">CID:&#x000a0;60198524</td><td char="." align="char">5312</td><td char="." align="char">5226</td></tr><tr><td align="left">11</td><td align="left">CID:&#x000a0;60198525</td><td char="." align="char">5312</td><td char="." align="char">5226</td></tr><tr><td align="left">12</td><td align="left">CID:&#x000a0;60199015</td><td char="." align="char">5312</td><td char="." align="char">5226</td></tr><tr><td align="left">13</td><td align="left">CID:&#x000a0;60199016</td><td char="." align="char">5312</td><td char="." align="char">5226</td></tr><tr><td align="left">14</td><td align="left">CID:&#x000a0;60199073</td><td char="." align="char">5312</td><td char="." align="char">5226</td></tr><tr><td align="left">15</td><td align="left">CID:&#x000a0;60199075</td><td char="." align="char">5312</td><td char="." align="char">5226</td></tr><tr><td align="left">16</td><td align="left">CID:&#x000a0;60199076</td><td char="." align="char">5312</td><td char="." align="char">5226</td></tr><tr><td align="left">17</td><td align="left">CID:&#x000a0;60199077</td><td char="." align="char">5312</td><td char="." align="char">5226</td></tr><tr><td align="left">18</td><td align="left">CID:&#x000a0;62705017</td><td char="." align="char">5312</td><td char="." align="char">5226</td></tr><tr><td align="left">19</td><td align="left">CID:&#x000a0;68625002</td><td char="." align="char">5200</td><td char="." align="char">5342</td></tr><tr><td align="left">20</td><td align="left">CID:&#x000a0;54613769</td><td char="." align="char">5298</td><td char="." align="char">5308</td></tr><tr><td align="left">21</td><td align="left">CID:&#x000a0;11626823</td><td char="." align="char">5048</td><td char="." align="char">5226</td></tr><tr><td align="left">22</td><td align="left">CID:&#x000a0;44560358</td><td char="." align="char">5012</td><td char="." align="char">5386</td></tr><tr><td align="left">
+<bold>23</bold>
+</td><td align="left">
+<bold>CID:</bold>&#x000a0;<bold>71239831</bold>
+</td><td char="." align="char">
+<bold>5440</bold>
+</td><td char="." align="char">
+<bold>5776</bold>
+</td></tr><tr><td align="left">
+<bold>24</bold>
+</td><td align="left">
+<bold>CID:</bold>&#x000a0;<bold>71239833</bold>
+</td><td char="." align="char">
+<bold>5440</bold>
+</td><td char="." align="char">
+<bold>5776</bold>
+</td></tr><tr><td align="left">
+<bold>25</bold>
+</td><td align="left">
+<bold>CID:</bold>&#x000a0;<bold>71240010</bold>
+</td><td char="." align="char">
+<bold>5426</bold>
+</td><td char="." align="char">
+<bold>5504</bold>
+</td></tr><tr><td align="left">
+<bold>26</bold>
+</td><td align="left">
+<bold>CID:</bold>&#x000a0;<bold>71240011</bold>
+</td><td char="." align="char">
+<bold>5426</bold>
+</td><td char="." align="char">
+<bold>5504</bold>
+</td></tr><tr><td align="left">
+<bold>27</bold>
+</td><td align="left">
+<bold>CID:</bold>&#x000a0;<bold>11496366</bold>
+</td><td char="." align="char">
+<bold>5412</bold>
+</td><td char="." align="char">
+<bold>5420</bold>
+</td></tr><tr><td align="left">
+<bold>28</bold>
+</td><td align="left">
+<bold>CID:</bold>&#x000a0;<bold>11562021</bold>
+</td><td char="." align="char">
+<bold>5510</bold>
+</td><td char="." align="char">
+<bold>5492</bold>
+</td></tr><tr><td align="left">
+<bold>29</bold>
+</td><td align="left">
+<bold>CID:</bold>&#x000a0;<bold>11626824</bold>
+</td><td char="." align="char">
+<bold>5412</bold>
+</td><td char="." align="char">
+<bold>5420</bold>
+</td></tr><tr><td align="left">30</td><td align="left">CID:&#x000a0;11598102</td><td char="." align="char">5292</td><td char="." align="char">5294</td></tr><tr><td align="left">31</td><td align="left">CID:&#x000a0;11641497</td><td char="." align="char">5450</td><td char="." align="char">5138</td></tr><tr><td align="left">32</td><td align="left">CID:&#x000a0;11690598</td><td char="." align="char">4906</td><td char="." align="char">5138</td></tr><tr><td align="left">33</td><td align="left">CID:&#x000a0;68563708</td><td char="." align="char">4906</td><td char="." align="char">5138</td></tr><tr><td align="left">
+<bold>34</bold>
+</td><td align="left">
+<bold>CID:</bold>&#x000a0;<bold>11562217</bold>
+</td><td char="." align="char">
+<bold>5662</bold>
+</td><td char="." align="char">
+<bold>5908</bold>
+</td></tr><tr><td align="left">35</td><td align="left">CID:&#x000a0;11612136</td><td char="." align="char">5144</td><td char="." align="char">5032</td></tr><tr><td align="left">36</td><td align="left">CID:&#x000a0;58659130</td><td char="." align="char">5108</td><td char="." align="char">5294</td></tr><tr><td align="left">37</td><td align="left">CID:&#x000a0;11625675</td><td char="." align="char">4746</td><td char="." align="char">5052</td></tr><tr><td align="left">38</td><td align="left">CID:&#x000a0;67084493</td><td char="." align="char">4950</td><td char="." align="char">5334</td></tr><tr><td align="left">39</td><td align="left">CID:&#x000a0;11676204</td><td char="." align="char">4964</td><td char="." align="char">4962</td></tr><tr><td align="left">40</td><td align="left">CID:&#x000a0;11684380</td><td char="." align="char">4964</td><td char="." align="char">5424</td></tr><tr><td align="left">
+<bold>41</bold>
+</td><td align="left">
+<bold>CID:</bold>&#x000a0;<bold>59599446</bold>
+</td><td char="." align="char">
+<bold>5434</bold>
+</td><td char="." align="char">
+<bold>5704</bold>
+</td></tr><tr><td align="left">42</td><td align="left">CID:&#x000a0;11503318</td><td char="." align="char">5110</td><td char="." align="char">5138</td></tr><tr><td align="left">43</td><td align="left">CID:&#x000a0;11510387</td><td char="." align="char">5124</td><td char="." align="char">5372</td></tr><tr><td align="left">44</td><td align="left">CID:&#x000a0;11568619</td><td char="." align="char">5110</td><td char="." align="char">5138</td></tr><tr><td align="left">45</td><td align="left">CID:&#x000a0;11575401</td><td char="." align="char">4886</td><td char="." align="char">4826</td></tr><tr><td align="left">46</td><td align="left">CID:&#x000a0;11647760</td><td char="." align="char">5124</td><td char="." align="char">5372</td></tr><tr><td align="left">47</td><td align="left">CID:&#x000a0;58659136</td><td char="." align="char">5124</td><td char="." align="char">5372</td></tr><tr><td align="left">48</td><td align="left">CID:&#x000a0;72986690</td><td char="." align="char">5110</td><td char="." align="char">5138</td></tr><tr><td align="left">49</td><td align="left">CID:&#x000a0;11676140</td><td char="." align="char">4906</td><td char="." align="char">5484</td></tr><tr><td align="left">50</td><td align="left">CID:&#x000a0;58659141</td><td char="." align="char">5118</td><td char="." align="char">5278</td></tr><tr><td align="left">51</td><td align="left">CID:&#x000a0;11705849</td><td char="." align="char">5186</td><td char="." align="char">5370</td></tr><tr><td align="left">52</td><td align="left">CID:&#x000a0;11719356</td><td char="." align="char">5040</td><td char="." align="char">5238</td></tr><tr><td align="left">53</td><td align="left">CID:&#x000a0;11647759</td><td char="." align="char">5026</td><td char="." align="char">5118</td></tr><tr><td align="left">
+<bold>54</bold>
+</td><td align="left">
+<bold>CID:</bold>&#x000a0;<bold>21110753</bold>
+</td><td char="." align="char">
+<bold>5390</bold>
+</td><td char="." align="char">
+<bold>5526</bold>
+</td></tr><tr><td align="left">55</td><td align="left">CID:&#x000a0;21110757</td><td char="." align="char">4408</td><td char="." align="char">4604</td></tr><tr><td align="left">56</td><td align="left">CID:&#x000a0;73386634</td><td char="." align="char">4408</td><td char="." align="char">4604</td></tr><tr><td align="left">57</td><td align="left">CID:&#x000a0;11647795</td><td char="." align="char">5268</td><td char="." align="char">5212</td></tr></tbody></table><table-wrap-foot><p>Bold indicates the lead compounds showed higher binding score than crizotinib</p></table-wrap-foot></table-wrap>
+</p><p>It is also to be noted that the pharmacokinetic and pharmacodynamic investigation of CID 11562217 indicated better results than the other lead compounds explored in our study (Fig.&#x000a0;<xref rid="Fig2" ref-type="fig">2</xref>). The two dimensional structure of crizotinib was compared with CID 11562217 to get the structural attributes and the result is demonstrated in Fig.&#x000a0;<xref rid="Fig3" ref-type="fig">3</xref>. It demonstrates that CID11562217 is a nitrile enhanced crizotinib. It is worth stressing that nitrile compounds with cyanide functional group could possess potential anti-tumor effects (US Patent 20060128724). The literature evidence also highlights that our lead molecule has kinase inhibiting effects. Further, the cyano-containing analogues were able to produce DNA&#x02013;DNA cross-linking. The reduced DNA cross-linking was paralleled by a similar reduction in cytotoxicity indicating a relationship between cross-linking and anti-tumor effect (Jesson et al. <xref ref-type="bibr" rid="CR13">1987</xref>). Therefore, further validation of CID 11562217 compound was done with the help of molecular dynamics simulation study.<fig id="Fig2"><label>Fig.&#x000a0;2</label><caption><p>Osiris property explorer showing drug-likeliness properties of CID11562217</p></caption><graphic xlink:href="13205_2015_336_Fig2_HTML" id="MO2"/></fig>
+<fig id="Fig3"><label>Fig.&#x000a0;3</label><caption><p>Structure comparison between (<bold>a</bold>) crizotinib and (<bold>b</bold>) CID11562217</p></caption><graphic xlink:href="13205_2015_336_Fig3_HTML" id="MO3"/></fig>
+</p></sec><sec id="Sec14"><title>Molecular dynamics simulation</title><p>Molecular dynamics simulation study was carried out with the help of GROMACS package 4.5.3 to explore the stability of the complex structures. In particular, the parameter, RMSD, was examined from the trajectory file and used for analyzing the complex stability. RMSD investigation can give a thought of how much the three-dimensional structure has deviated over the time. The result is shown in Fig.&#x000a0;<xref rid="Fig4" ref-type="fig">4</xref>. Native type ALK-crizotinib complex structure acquired ~0.34&#x000a0;nm at 1000&#x000a0;ps during the simulations, while mutant type ALK-crizotinib complex structure acquired ~0.28&#x000a0;nm of backbone RMSD at 1000&#x000a0;ps. On the other hand, native-type ALK-CID11562217 structure acquired ~0.18&#x000a0;nm of backbone RMSD while mutant-type ALK-CID11562217 complex structure acquired ~0.22&#x000a0;nm of backbone RMSD at 1000&#x000a0;ps. Between a period of 2000&#x02013;5000&#x000a0;ps, native type ALK-crizotinib complex structure maintains a RMSD value of ~0.30&#x000a0;nm whereas mutant type ALK-crizotinib complex structure showed a deviation from ~0.25 to ~0.36&#x000a0;nm. In the virtual complex, native-type ALK-CID11562217 structure showed a RMSD value between ~0.18 and ~0.20&#x000a0;nm and mutant type ALK-CID11562217 complex structure maintains a RMSD value of ~0.24&#x000a0;nm. From the period of 5000&#x02013;10,000&#x000a0;ps, native-type ALK-crizotinib complex structure maintains a RMSD value of ~0.34&#x000a0;nm while, mutant type ALK-crizotinib complex has deviated from ~0.32 to ~0.36&#x000a0;nm. On the contrary, native-type ALK-CID11562217 complex structure maintains a RMSD value of ~0.25&#x000a0;nm while mutant type ALK-CID11562217 complex structure maintains a RMSD value of ~0.20 to ~0.24&#x000a0;nm. From the beginning of 11,000&#x000a0;ps to the end of 15,000&#x000a0;ps, mutant type ALK-crizotinib complex structure showed higher deviation and attains a RMSD value of ~0.44&#x000a0;nm while native-type ALK-crizotinib complex structure maintains a RMSD value of ~0.23&#x000a0;nm. Mutant type ALK-CID11562217 complex structure maintains a RMSD value of ~0.25&#x000a0;nm in this simulation period. Between a period of 16,000&#x02013;19,000&#x000a0;ps, native type ALK-crizotinib complex structure maintains a RMSD value of ~0.35&#x000a0;nm whereas mutant type ALK-crizotinib complex structure showed a deviation from ~0.43 to ~0.45&#x000a0;nm. For instance, native-type ALK-CID11562217 structure showed a RMSD value of ~0.25&#x000a0;nm and mutant type ALK-CID11562217 complex structure maintains a RMSD value of ~0.22&#x000a0;nm. At the end of 20,000&#x000a0;ps the mutant type ALK-crizotinib complex structure attained RMSD of ~0.40&#x000a0;nm and native type ALK-crizotinib complex structure attained RMSD of ~0.35&#x000a0;nm. This clearly indicates that ALK double mutation disturb the structural stability and also its function. It is worth stressing that native and mutant type ALK-CID 11562217 able to maintain a RMSD of ~0.24&#x000a0;nm. Overall, significant difference in RMSD value observed between the crizotinib and CID 11562217 complex system. The lesser RMSD value of CID 11562217 complex demonstrates the stable binding of CID 11562217 with both native and mutant type ALK structures.<fig id="Fig4"><label>Fig.&#x000a0;4</label><caption><p>Root mean square deviations correspond to native-type ALK-crizotinib complex (<italic>black</italic>), mutant-type ALK-crizotinib complex (<italic>red</italic>), native-type ALK-CID11562217 complex (<italic>green</italic>) and mutant-type ALK-CID11562217 complex (<italic>blue</italic>) along the MD simulation at 300&#x000a0;K</p></caption><graphic xlink:href="13205_2015_336_Fig4_HTML" id="MO4"/></fig>
+</p></sec></sec><sec id="Sec15"><title>Conclusion</title><p>In the present investigation, we have addressed the crizotinib resistance in NSCLC with the help of virtual screening approach. CID 11562217 was discovered to be more drug like as it productively passed through the parameters of pharmacokinetics and toxicity. Docking study demonstrated that CID 11562217 has the highest binding affinity not only with native type ALK but also with the mutant type ALK system among the lead compounds screened from the Pubchem database. RMSD data obtained from molecular dynamic simulation revealed structural stability of the ALK-CID11562217 complex structure. It is worth stressing that our results correlate well with available experimental evidences. Of note, the available data suggests that pyrazole-substituted aminoheteroaryl compounds have potential anti-tumor effects. We hope that the findings reported here might give helpful signs to design powerful drugs against drug resistant lung cancer types.</p></sec></body><back><ack><p>The authors express a deep sense of gratitude to the Management of Vellore Institute of Technology for all the support, assistance and constant encouragement provided by them to carry out this work.</p></ack><notes notes-type="COI-statement"><title>Compliance with ethical standards</title><sec id="d29e7533"><title>Conflict of interest</title><p>The authors declare that they have no conflict of interest.</p></sec></notes><ref-list id="Bib1"><title>References</title><ref id="CR1"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Berman</surname><given-names>HM</given-names></name><name><surname>Westbrook</surname><given-names>J</given-names></name><name><surname>Feng</surname><given-names>Z</given-names></name><name><surname>Gilliland</surname><given-names>G</given-names></name><name><surname>Bhat</surname><given-names>TN</given-names></name><name><surname>Weissig</surname><given-names>H</given-names></name><name><surname>Shindyalov</surname><given-names>IN</given-names></name><name><surname>Bourne</surname><given-names>PE</given-names></name></person-group><article-title>The protein data bank</article-title><source>Nucl Acids Res</source><year>2000</year><volume>28</volume><fpage>235</fpage><lpage>242</lpage><pub-id pub-id-type="doi">10.1093/nar/28.1.235</pub-id><pub-id pub-id-type="pmid">10592235</pub-id></element-citation></ref><ref id="CR2"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bolton</surname><given-names>E</given-names></name><name><surname>Wang</surname><given-names>Y</given-names></name><name><surname>Thiessen</surname><given-names>PA</given-names></name><name><surname>Bryant</surname><given-names>SH</given-names></name></person-group><article-title>PubChem: integrated platform of small molecules and biological activities</article-title><source>Annu Rep Comput Chem</source><year>2008</year><volume>4</volume><fpage>217</fpage><lpage>241</lpage><pub-id pub-id-type="doi">10.1016/S1574-1400(08)00012-1</pub-id></element-citation></ref><ref id="CR3"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Buntrock</surname><given-names>RE</given-names></name></person-group><article-title>ChemOffice Ultra 7.0</article-title><source>J Chem Inf Comput Sci</source><year>2002</year><volume>42</volume><fpage>1505</fpage><lpage>1506</lpage><pub-id pub-id-type="doi">10.1021/ci025575p</pub-id><pub-id pub-id-type="pmid">12444749</pub-id></element-citation></ref><ref id="CR4"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Chen</surname><given-names>CYC</given-names></name></person-group><article-title>Discovery of novel inhibitors for c-met by virtual screening and pharmacophore analysis</article-title><source>J Chin Inst Chem Eng,</source><year>2008</year><volume>39</volume><fpage>617</fpage><lpage>624</lpage><pub-id pub-id-type="doi">10.1016/j.jcice.2008.05.009</pub-id></element-citation></ref><ref id="CR5"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Chiarle</surname><given-names>R</given-names></name><name><surname>Voena</surname><given-names>C</given-names></name><name><surname>Ambrogio</surname><given-names>C</given-names></name><name><surname>Piva</surname><given-names>R</given-names></name><name><surname>Inghirami</surname><given-names>G</given-names></name></person-group><article-title>The anaplastic lymphoma kinase in the pathogenesis of cancer</article-title><source>Nat Rev Cancer</source><year>2008</year><volume>8</volume><fpage>11</fpage><lpage>23</lpage><pub-id pub-id-type="doi">10.1038/nrc2291</pub-id><pub-id pub-id-type="pmid">18097461</pub-id></element-citation></ref><ref id="CR6"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cui</surname><given-names>JJ</given-names></name><name><surname>Tran-DubeM</surname><given-names>Shen H</given-names></name><name><surname>NambuM</surname><given-names>Kung PP</given-names></name><name><surname>PairishM</surname><given-names>Jia L</given-names></name><name><surname>Meng</surname><given-names>J</given-names></name><name><surname>Funk</surname><given-names>L</given-names></name><name><surname>Botrous</surname><given-names>I</given-names></name><name><surname>McTigue</surname><given-names>M</given-names></name><name><surname>Grodsky</surname><given-names>N</given-names></name><name><surname>Ryan</surname><given-names>K</given-names></name><name><surname>Padrique</surname><given-names>E</given-names></name><name><surname>Alton</surname><given-names>G</given-names></name><name><surname>Timofeevski</surname><given-names>S</given-names></name><name><surname>Yamazaki</surname><given-names>S</given-names></name><name><surname>Li</surname><given-names>Q</given-names></name><name><surname>Zou</surname><given-names>H</given-names></name><name><surname>Christensen</surname><given-names>J</given-names></name><name><surname>Mroczkowski</surname><given-names>B</given-names></name><name><surname>Bender</surname><given-names>S</given-names></name><name><surname>Kania</surname><given-names>RS</given-names></name><name><surname>Edwards</surname><given-names>MP</given-names></name></person-group><article-title>Structure based drug design of crizotinib, a potent and selective dual inhibitor of mesenchymal- epithelial transition factor (c-MET) kinase and anaplastic lymphoma kinase (ALK)</article-title><source>J Med Chem</source><year>2011</year><volume>54</volume><fpage>6342</fpage><lpage>6363</lpage><pub-id pub-id-type="doi">10.1021/jm2007613</pub-id><pub-id pub-id-type="pmid">21812414</pub-id></element-citation></ref><ref id="CR7"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Darden</surname><given-names>T</given-names></name><name><surname>Perera</surname><given-names>L</given-names></name><name><surname>Li</surname><given-names>L</given-names></name><name><surname>Pedersen</surname><given-names>L</given-names></name></person-group><article-title>New tricks for modelers from the crystallography toolkit: the particle mesh Ewald algorithm and its use in nucleic acid simulations</article-title><source>Structure</source><year>1999</year><volume>7</volume><fpage>55</fpage><lpage>60</lpage><pub-id pub-id-type="doi">10.1016/S0969-2126(99)80033-1</pub-id><pub-id pub-id-type="pmid">10368273</pub-id></element-citation></ref><ref id="CR8"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Doebele</surname><given-names>RC</given-names></name><name><surname>Pilling</surname><given-names>AB</given-names></name><name><surname>Aisner</surname><given-names>DL</given-names></name><name><surname>Kutateladze</surname><given-names>TG</given-names></name><name><surname>Le</surname><given-names>AT</given-names></name><name><surname>Weickhardt</surname><given-names>AJ</given-names></name><name><surname>Camidge</surname><given-names>DR</given-names></name></person-group><article-title>Mechanisms of resistance to crizotinib in patients with ALK gene rearranged non-small cell lung cancer</article-title><source>Clin Cancer Res</source><year>2012</year><volume>18</volume><issue>5</issue><fpage>1472</fpage><lpage>1482</lpage><pub-id pub-id-type="doi">10.1158/1078-0432.CCR-11-2906</pub-id><pub-id pub-id-type="pmid">22235099</pub-id></element-citation></ref><ref id="CR9"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ertl</surname><given-names>P</given-names></name><name><surname>Rohde</surname><given-names>B</given-names></name><name><surname>Selzer</surname><given-names>P</given-names></name></person-group><article-title>Fast calculation of molecular polar surface area as a sum of fragment based contributions and its application to the prediction of drug transport properties</article-title><source>J Med Chem</source><year>2000</year><volume>43</volume><fpage>3714</fpage><lpage>3717</lpage><pub-id pub-id-type="doi">10.1021/jm000942e</pub-id><pub-id pub-id-type="pmid">11020286</pub-id></element-citation></ref><ref id="CR10"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Feldman</surname><given-names>J</given-names></name><name><surname>Snyder</surname><given-names>KA</given-names></name><name><surname>Ticoll</surname><given-names>A</given-names></name><name><surname>Pintilie</surname><given-names>G</given-names></name><name><surname>Hogue</surname><given-names>CW</given-names></name></person-group><article-title>A complete small molecule dataset from the protein data bank</article-title><source>FEBS Lett</source><year>2006</year><volume>580</volume><fpage>1649</fpage><lpage>1653</lpage><pub-id pub-id-type="doi">10.1016/j.febslet.2006.02.003</pub-id><pub-id pub-id-type="pmid">16494871</pub-id></element-citation></ref><ref id="CR11"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gasteiger</surname><given-names>J</given-names></name><name><surname>Rudolph</surname><given-names>C</given-names></name><name><surname>Sadowski</surname><given-names>J</given-names></name></person-group><article-title>Automatic generation of 3D-atomic coordinates for organic molecules</article-title><source>Tetrahedron Comput Meth</source><year>1990</year><volume>3</volume><fpage>537</fpage><lpage>547</lpage><pub-id pub-id-type="doi">10.1016/0898-5529(90)90156-3</pub-id></element-citation></ref><ref id="CR12"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hess</surname><given-names>B</given-names></name><name><surname>Kutzner</surname><given-names>C</given-names></name><name><surname>Spoel</surname><given-names>D</given-names></name><name><surname>Lindahl</surname><given-names>E</given-names></name></person-group><article-title>GROMACS 4: algorithms for highly efficient, load-balanced, and scalable molecular simulation</article-title><source>J Chem Theory Comput</source><year>2008</year><volume>4</volume><fpage>435</fpage><lpage>447</lpage><pub-id pub-id-type="doi">10.1021/ct700301q</pub-id><pub-id pub-id-type="pmid">26620784</pub-id></element-citation></ref><ref id="CR13"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Jesson</surname><given-names>MI</given-names></name><name><surname>Johnston</surname><given-names>BJ</given-names></name><name><surname>Anhalt</surname><given-names>DC</given-names></name><name><surname>Begleiter</surname><given-names>A</given-names></name></person-group><article-title>Effects of 3&#x02032;-(3-Cyano-4-morpholinyl)-3&#x02032;-deaminoadriamycin and structural analogues on DNA in HT-29 Human Colon Carcinoma Cells</article-title><source>Cancer Res</source><year>1987</year><volume>47</volume><fpage>5935</fpage><lpage>5938</lpage><pub-id pub-id-type="pmid">3664494</pub-id></element-citation></ref><ref id="CR14"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Katayama</surname><given-names>R</given-names></name><name><surname>Alice</surname><given-names>TS</given-names></name><name><surname>Tahsin</surname><given-names>MK</given-names></name><name><surname>Mari</surname><given-names>MK</given-names></name><name><surname>Benjamin</surname><given-names>JS</given-names></name><name><surname>Balazs</surname><given-names>H</given-names></name><name><surname>Nicholas</surname><given-names>AJ</given-names></name><name><surname>John</surname><given-names>CW</given-names></name><name><surname>Alan</surname><given-names>TY</given-names></name><name><surname>Cyril</surname><given-names>B</given-names></name><name><surname>Lisa</surname><given-names>D</given-names></name><name><surname>Jamal Carlos</surname><given-names>S</given-names></name><name><surname>Katherine</surname><given-names>C</given-names></name><name><surname>Lecia</surname><given-names>VS</given-names></name><name><surname>John</surname><given-names>I</given-names></name><name><surname>Jeffrey</surname><given-names>AE</given-names></name></person-group><article-title>Mechanisms of acquired crizotinib resistance in ALK rearranged lung cancers</article-title><source>Sci Transl Med</source><year>2012</year><volume>4</volume><issue>120</issue><fpage>120</fpage><pub-id pub-id-type="doi">10.1126/scitranslmed.3003316</pub-id></element-citation></ref><ref id="CR15"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kim</surname><given-names>S</given-names></name><name><surname>Kim</surname><given-names>TM</given-names></name><name><surname>Kim</surname><given-names>DW</given-names></name><name><surname>Go</surname><given-names>H</given-names></name><name><surname>Keam</surname><given-names>B</given-names></name><name><surname>Lee</surname><given-names>SH</given-names></name><name><surname>Ku</surname><given-names>JL</given-names></name><name><surname>Chung</surname><given-names>DH</given-names></name><name><surname>Heo</surname><given-names>DS</given-names></name></person-group><article-title>Heterogeneity of genetic changes associated with acquired crizotinib resistance in ALK-rearranged lung cancer</article-title><source>J Thorac Oncol</source><year>2013</year><volume>8</volume><issue>4</issue><fpage>415</fpage><lpage>422</lpage><pub-id pub-id-type="doi">10.1097/JTO.0b013e318283dcc0</pub-id><pub-id pub-id-type="pmid">23344087</pub-id></element-citation></ref><ref id="CR16"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lipinski</surname><given-names>CA</given-names></name><name><surname>Lombardo</surname><given-names>F</given-names></name><name><surname>Dominy</surname><given-names>BW</given-names></name><name><surname>Feeney</surname><given-names>PJ</given-names></name></person-group><article-title>Experimental and computational approaches to estimate solubility and permeability in drug discovery and development settings</article-title><source>Adv Drug Deliv Rev</source><year>1997</year><volume>23</volume><fpage>3</fpage><lpage>25</lpage><pub-id pub-id-type="doi">10.1016/S0169-409X(96)00423-1</pub-id></element-citation></ref><ref id="CR17"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Meagher</surname><given-names>KL</given-names></name><name><surname>Carlson</surname><given-names>HA</given-names></name></person-group><article-title>Solvation influences flap collapse in HIV-1 protease</article-title><source>Proteins</source><year>2005</year><volume>58</volume><fpage>119</fpage><lpage>125</lpage><pub-id pub-id-type="doi">10.1002/prot.20274</pub-id><pub-id pub-id-type="pmid">15521062</pub-id></element-citation></ref><ref id="CR18"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Molina</surname><given-names>JR</given-names></name><name><surname>Yang</surname><given-names>P</given-names></name><name><surname>Cassivi</surname><given-names>SD</given-names></name><name><surname>Schild</surname><given-names>SE</given-names></name><name><surname>Adjei</surname><given-names>AA</given-names></name></person-group><article-title>Non&#x02013;small cell lung cancer: epidemiology, risk factors, treatment, and survivorship</article-title><source>Mayo Clin Proc</source><year>2008</year><volume>83</volume><issue>5</issue><fpage>584</fpage><lpage>594</lpage><pub-id pub-id-type="doi">10.1016/S0025-6196(11)60735-0</pub-id><pub-id pub-id-type="pmid">18452692</pub-id></element-citation></ref><ref id="CR19"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Muegge</surname><given-names>I</given-names></name></person-group><article-title>Selection criteria for drug-like compounds</article-title><source>Med Res Rev</source><year>2003</year><volume>23</volume><fpage>302</fpage><lpage>321</lpage><pub-id pub-id-type="doi">10.1002/med.10041</pub-id><pub-id pub-id-type="pmid">12647312</pub-id></element-citation></ref><ref id="CR20"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Oprea</surname><given-names>TI</given-names></name></person-group><article-title>Property distribution of drug-related chemical databases</article-title><source>J Comput Aided Mol Des</source><year>2000</year><volume>14</volume><fpage>64</fpage><lpage>251</lpage><pub-id pub-id-type="doi">10.1023/A:1008130001697</pub-id></element-citation></ref><ref id="CR21"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ou</surname><given-names>SHI</given-names></name></person-group><article-title>Crizotinib: a novel and first-in-class multitargeted tyrosine kinase inhibitor for the treatment of anaplastic lymphoma kinase rearranged non-small cell lung cancer and beyond</article-title><source>Drug Des Devel Ther</source><year>2011</year><volume>5</volume><fpage>471</fpage><lpage>485</lpage><pub-id pub-id-type="doi">10.2147/DDDT.S19045</pub-id></element-citation></ref><ref id="CR22"><mixed-citation publication-type="other">Sander T (2001) OSIRIS Property Explorer. Actelion Pharma Ltd 81:6&#x02013;16. <ext-link ext-link-type="uri" xlink:href="http://www.organicchemistry.org/prog/peo/">http://www.organicchemistry.org/prog/peo/</ext-link></mixed-citation></ref><ref id="CR23"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Schneidman</surname><given-names>D</given-names></name><name><surname>Inbar</surname><given-names>Y</given-names></name><name><surname>Nussinov</surname><given-names>R</given-names></name><name><surname>Wolfson</surname><given-names>HJ</given-names></name></person-group><article-title>PatchDock and SymmDock: servers for rigid and symmetric docking</article-title><source>Nucl Acids Res</source><year>2005</year><volume>33</volume><fpage>363</fpage><lpage>367</lpage><pub-id pub-id-type="doi">10.1093/nar/gki481</pub-id></element-citation></ref><ref id="CR24"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Schuttelkopf</surname><given-names>AW</given-names></name><name><surname>Van Aalten</surname><given-names>DMF</given-names></name></person-group><article-title>PRODRG&#x02014;a tool for high-throughput crystallography of protein-ligand complexes</article-title><source>Acta Crystallogr</source><year>2004</year><volume>60</volume><fpage>1355</fpage><lpage>1363</lpage></element-citation></ref><ref id="CR25"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Shaw</surname><given-names>AT</given-names></name><name><surname>Solomon</surname><given-names>B</given-names></name></person-group><article-title>Targeting anaplastic lymphoma kinase in lung cancer</article-title><source>Clin Cancer Res</source><year>2011</year><volume>17</volume><fpage>2081</fpage><pub-id pub-id-type="doi">10.1158/1078-0432.CCR-10-1591</pub-id><pub-id pub-id-type="pmid">21288922</pub-id></element-citation></ref><ref id="CR26"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Shaw</surname><given-names>AT</given-names></name><name><surname>Yeap</surname><given-names>BY</given-names></name><name><surname>Mino-Kenudson</surname><given-names>M</given-names></name><name><surname>Digumarthy</surname><given-names>SR</given-names></name><name><surname>Costa</surname><given-names>DB</given-names></name><name><surname>Heist</surname><given-names>RS</given-names></name><name><surname>Solomon</surname><given-names>B</given-names></name><name><surname>Stubbs</surname><given-names>H</given-names></name><name><surname>Admane</surname><given-names>S</given-names></name><name><surname>McDermott</surname><given-names>U</given-names></name><name><surname>Settleman</surname><given-names>J</given-names></name><name><surname>Kobayashi</surname><given-names>S</given-names></name><name><surname>Mark</surname><given-names>EJ</given-names></name><name><surname>Rodig</surname><given-names>SJ</given-names></name><name><surname>Chirieac</surname><given-names>LR</given-names></name><name><surname>Kwak</surname><given-names>EL</given-names></name><name><surname>Lynch</surname><given-names>TJ</given-names></name><name><surname>Iafrate</surname><given-names>AJ</given-names></name></person-group><article-title>Clinical features and outcome of patients with non&#x02013;small-cell lung cancer who harbor EML4-ALK</article-title><source>J Clin Oncol</source><year>2009</year><volume>2</volume><issue>27</issue><fpage>4247</fpage><lpage>4253</lpage><pub-id pub-id-type="doi">10.1200/JCO.2009.22.6993</pub-id><pub-id pub-id-type="pmid">19667264</pub-id></element-citation></ref><ref id="CR27"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Shoichet</surname><given-names>BK</given-names></name></person-group><article-title>Virtual screening of chemical libraries</article-title><source>Nature</source><year>2004</year><volume>432</volume><fpage>862</fpage><lpage>865</lpage><pub-id pub-id-type="doi">10.1038/nature03197</pub-id><pub-id pub-id-type="pmid">15602552</pub-id></element-citation></ref><ref id="CR28"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Siegel</surname><given-names>R</given-names></name><name><surname>Naishadham</surname><given-names>D</given-names></name><name><surname>Jemal</surname><given-names>A</given-names></name></person-group><article-title>Cancer Statistics</article-title><source>CA Cancer J Clin</source><year>2012</year><volume>62</volume><fpage>10</fpage><lpage>29</lpage><pub-id pub-id-type="doi">10.3322/caac.20138</pub-id><pub-id pub-id-type="pmid">22237781</pub-id></element-citation></ref><ref id="CR29"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Skarda</surname><given-names>J</given-names></name><name><surname>Marian</surname><given-names>H</given-names></name><name><surname>V&#x000ed;tezslav</surname><given-names>K</given-names></name></person-group><article-title>Drug resistance in lung cancer</article-title><source>Cancer Therapy.</source><year>2008</year><volume>6</volume><fpage>377</fpage><lpage>388</lpage></element-citation></ref><ref id="CR30"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Spoel</surname><given-names>D</given-names></name><name><surname>Lindahl</surname><given-names>E</given-names></name><name><surname>Hess</surname><given-names>B</given-names></name><name><surname>Groenhof</surname><given-names>G</given-names></name><name><surname>Mark</surname><given-names>AE</given-names></name><name><surname>Berendsen</surname><given-names>HJ</given-names></name></person-group><article-title>GROMACS: fast, flexible, and free</article-title><source>J Comput Chem</source><year>2005</year><volume>26</volume><fpage>1701</fpage><lpage>1718</lpage><pub-id pub-id-type="doi">10.1002/jcc.20291</pub-id><pub-id pub-id-type="pmid">16211538</pub-id></element-citation></ref><ref id="CR31"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Tetko</surname><given-names>IV</given-names></name></person-group><article-title>Computing chemistry on the web</article-title><source>Drug Discov Today</source><year>2005</year><volume>10</volume><fpage>497</fpage><lpage>1500</lpage><pub-id pub-id-type="doi">10.1016/S1359-6446(05)03584-1</pub-id></element-citation></ref><ref id="CR32"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Tondi</surname><given-names>D</given-names></name><name><surname>Slomczynska</surname><given-names>U</given-names></name><name><surname>Costi</surname><given-names>MP</given-names></name><name><surname>Watterson</surname><given-names>DM</given-names></name><name><surname>Ghelli</surname><given-names>S</given-names></name><name><surname>Shoichet</surname><given-names>BK</given-names></name></person-group><article-title>Structure-based discovery and in-parallel optimization of novel competitive inhibitors of thymidylate synthase</article-title><source>Chem Biol</source><year>1999</year><volume>6</volume><fpage>319</fpage><lpage>331</lpage><pub-id pub-id-type="doi">10.1016/S1074-5521(99)80077-5</pub-id><pub-id pub-id-type="pmid">10322126</pub-id></element-citation></ref><ref id="CR33"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Van Gunsteren</surname><given-names>WF</given-names></name><name><surname>Berendsen</surname><given-names>HJC</given-names></name></person-group><article-title>Algorithms for macromolecular dynamics and constraint dynamics</article-title><source>Mol Phys</source><year>1977</year><volume>34</volume><fpage>1311</fpage><lpage>1327</lpage><pub-id pub-id-type="doi">10.1080/00268977700102571</pub-id></element-citation></ref><ref id="CR34"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Xie</surname><given-names>XQ</given-names></name></person-group><article-title>Exploiting PubChem for virtual screening</article-title><source>Expert Opin Drug Discov</source><year>2010</year><volume>5</volume><fpage>1205</fpage><lpage>1220</lpage><pub-id pub-id-type="doi">10.1517/17460441.2010.524924</pub-id><pub-id pub-id-type="pmid">21691435</pub-id></element-citation></ref><ref id="CR35"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Young</surname><given-names>LC</given-names></name><name><surname>Manabu</surname><given-names>S</given-names></name><name><surname>Yoshihiro</surname><given-names>Y</given-names></name><name><surname>Junpei</surname><given-names>T</given-names></name><name><surname>Takahiro</surname><given-names>N</given-names></name><name><surname>YasushiY</surname><given-names>Kengo T</given-names></name><name><surname>Toru</surname><given-names>H</given-names></name><name><surname>Yuichi</surname><given-names>I</given-names></name><name><surname>Hidenori</surname><given-names>H</given-names></name><name><surname>Hideki</surname><given-names>K</given-names></name></person-group><article-title>EML4-ALK Mutations in Lung Cancer that Confer Resistance to ALK Inhibitors</article-title><source>N Engl J Med</source><year>2010</year><volume>363</volume><fpage>1734</fpage><lpage>1739</lpage><pub-id pub-id-type="doi">10.1056/NEJMp1005843</pub-id><pub-id pub-id-type="pmid">20979473</pub-id></element-citation></ref></ref-list></back></article>

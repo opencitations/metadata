@@ -1,0 +1,1166 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="review-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Bone Res</journal-id><journal-id journal-id-type="iso-abbrev">Bone Res</journal-id><journal-title-group><journal-title>Bone Research</journal-title></journal-title-group><issn pub-type="ppub">2095-4700</issn><issn pub-type="epub">2095-6231</issn><publisher><publisher-name>Nature Publishing Group</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">29354304</article-id><article-id pub-id-type="pmc">5764120</article-id><article-id pub-id-type="pii">boneres201756</article-id><article-id pub-id-type="doi">10.1038/boneres.2017.56</article-id><article-categories><subj-group subj-group-type="heading"><subject>Review Article</subject></subj-group></article-categories><title-group><article-title>Calcium phosphate cements for bone engineering and their biological properties</article-title><alt-title alt-title-type="running">Calcium phosphate cements and bone engineering</alt-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Xu</surname><given-names>Hockin HK</given-names></name><xref ref-type="aff" rid="aff1">1</xref><xref ref-type="aff" rid="aff2">2</xref><xref ref-type="aff" rid="aff3">3</xref><xref ref-type="aff" rid="aff4">4</xref><xref ref-type="author-notes" rid="note1"><sup>&#x0271d;</sup></xref></contrib><contrib contrib-type="author"><name><surname>Wang</surname><given-names>Ping</given-names></name><xref ref-type="aff" rid="aff1">1</xref><xref ref-type="aff" rid="aff5">5</xref><xref ref-type="author-notes" rid="note1"><sup>&#x0271d;</sup></xref></contrib><contrib contrib-type="author"><name><surname>Wang</surname><given-names>Lin</given-names></name><xref ref-type="aff" rid="aff1">1</xref><xref ref-type="aff" rid="aff6">6</xref><xref ref-type="author-notes" rid="note1"><sup>&#x0271d;</sup></xref></contrib><contrib contrib-type="author"><name><surname>Bao</surname><given-names>Chongyun</given-names></name><xref ref-type="aff" rid="aff5">5</xref></contrib><contrib contrib-type="author"><name><surname>Chen</surname><given-names>Qianming</given-names></name><xref ref-type="aff" rid="aff5">5</xref></contrib><contrib contrib-type="author"><name><surname>Weir</surname><given-names>Michael D</given-names></name><xref ref-type="aff" rid="aff1">1</xref></contrib><contrib contrib-type="author"><name><surname>Chow</surname><given-names>Laurence C</given-names></name><xref ref-type="aff" rid="aff7">7</xref></contrib><contrib contrib-type="author"><name><surname>Zhao</surname><given-names>Liang</given-names></name><xref ref-type="aff" rid="aff1">1</xref><xref ref-type="aff" rid="aff8">8</xref><xref ref-type="corresp" rid="caf1">*</xref></contrib><contrib contrib-type="author"><name><surname>Zhou</surname><given-names>Xuedong</given-names></name><xref ref-type="aff" rid="aff5">5</xref><xref ref-type="corresp" rid="caf2">*</xref></contrib><contrib contrib-type="author"><name><surname>Reynolds</surname><given-names>Mark A</given-names></name><xref ref-type="aff" rid="aff1">1</xref></contrib><aff id="aff1"><label>1</label><institution>Department of Endodontics, Periodontics and
+Prosthodontics, University of Maryland School of Dentistry</institution>,
+Baltimore, MD
+21201, <country>USA</country></aff><aff id="aff2"><label>2</label><institution>Center for Stem Cell Biology and Regenerative
+Medicine, University of Maryland School of Medicine</institution>, Baltimore,
+MD
+21201, <country>USA</country></aff><aff id="aff3"><label>3</label><institution>University of Maryland Marlene and Stewart
+Greenebaum Cancer Center, University of Maryland School of Medicine</institution>,
+Baltimore, MD
+21201, <country>USA</country></aff><aff id="aff4"><label>4</label><institution>Mechanical Engineering Department, University
+of Maryland Baltimore County</institution>, Baltimore, MD
+21250, <country>USA</country></aff><aff id="aff5"><label>5</label><institution>State Key Laboratory of Oral Diseases, West
+China Hospital of Stomatology, Sichuan University</institution>, Chengdu,
+Sichuan
+610041, <country>China</country></aff><aff id="aff6"><label>6</label><institution>VIP Integrated Department, Stomatological
+Hospital of Jilin University</institution>, Changchun, Jilin
+130011, <country>China</country></aff><aff id="aff7"><label>7</label><institution>Volpe Research Center, American Dental
+Association Foundation, National Institute of Standards &#x00026; Technology</institution>,
+Gaithersburg, MD
+20899, <country>USA</country></aff><aff id="aff8"><label>8</label><institution>Department of Orthopaedic Surgery, Nanfang
+Hospital, Southern Medical University</institution>, Guangzhou,
+Guangdong
+510515, <country>China</country></aff></contrib-group><author-notes><corresp id="caf1"><label>*</label> (<email>lzhaonf@126.com</email></corresp><corresp id="caf2"><label>*</label>
+<email>zhouxd@scu.edu.cn</email>)</corresp><fn id="note1" fn-type="equal"><label>&#x0271d;</label><p>These authors contributed equally to this work.</p></fn></author-notes><pub-date pub-type="epub"><day>20</day><month>12</month><year>2017</year></pub-date><pub-date pub-type="collection"><year>2017</year></pub-date><volume>5</volume><fpage>17056</fpage><lpage/><history><date date-type="received"><day>28</day><month>04</month><year>2017</year></date><date date-type="rev-recd"><day>13</day><month>07</month><year>2017</year></date><date date-type="accepted"><day>09</day><month>08</month><year>2017</year></date></history><permissions><copyright-statement>Copyright &#x000a9; 2017 The Author(s)</copyright-statement><copyright-year>2017</copyright-year><copyright-holder>The Author(s)</copyright-holder><license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/"><!--author-paid--><license-p>This work is licensed under a Creative Commons Attribution 4.0 International
+License. The images or other third party material in this article are included in the
+article&#x02019;s Creative Commons license, unless indicated otherwise in the credit line;
+if the material is not included under the Creative Commons license, users will need to
+obtain permission from the license holder to reproduce the material. To view a copy of
+this license, visit <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link></license-p></license></permissions><abstract><p>Calcium phosphate cements (CPCs) are frequently used to repair bone defects. Since their
+discovery in the 1980s, extensive research has been conducted to improve their properties,
+and emerging evidence supports their increased application in bone tissue engineering.
+Much effort has been made to enhance the biological performance of CPCs, including their
+biocompatibility, osteoconductivity, osteoinductivity, biodegradability, bioactivity, and
+interactions with cells. This review article focuses on the major recent developments in
+CPCs, including 3D printing, injectability, stem cell delivery, growth factor and drug
+delivery, and pre-vascularization of CPC scaffolds via co-culture and tri-culture
+techniques to enhance angiogenesis and osteogenesis.</p></abstract></article-meta></front><body><sec><title>Introduction</title><p>There has been a continuous and fast-paced emergence of new synthetic biomaterials
+developed for bone repair and regeneration over the past several decades. These
+biomaterials include metals, polymers, ceramics, bioactive glasses, calcium sulfates,
+calcium carbonates and calcium phosphates (CaPs). Among them, calcium phosphate cements
+(CPCs) are promising for clinical applications due to their advantageous properties
+including bioactivity, osteoconductivity, injectability and moldability. The discovery of
+the first CPC occurred inadvertently via the observation of calcium phosphate solubility
+behavior.<sup><xref ref-type="bibr" rid="bib1 bib2 bib3">1&#x02013;3</xref></sup> Brown and Chow
+found that the solubilities of tetracalcium phosphate [TTCP:
+Ca<sub>4</sub>(PO<sub>4</sub>)<sub>2</sub>O], dicalcium phosphate (DCPA:
+CaHPO<sub>4</sub>) and dicalcium phosphate dehydrate (DCPD: CaHPO<sub>4</sub>
+2H<sub>2</sub>O) were much greater than that of hydroxyapatite (HA) under neutral pH
+conditions.<sup><xref ref-type="bibr" rid="bib4">4</xref></sup> A slurry containing appropriate
+amounts of TTCP and DCPD (or DCPA) led to HA precipitation as an end product and was
+capable of self-setting to form a hard mass.<sup><xref ref-type="bibr" rid="bib2">2</xref>,<xref ref-type="bibr" rid="bib3">3</xref></sup> In the decade following this first discovery, CPCs were
+approved by the Food and Drug Administration (FDA) and were introduced into clinical
+practice for the treatment of craniofacial defects<sup><xref ref-type="bibr" rid="bib5">5</xref></sup> and bone fractures.<sup><xref ref-type="bibr" rid="bib6">6</xref></sup> Since
+then, other CPC formulations have been developed, and a large amount of research has been
+conducted.<sup><xref ref-type="bibr" rid="bib7 bib8 bib9 bib10 bib11 bib12 bib13 bib14 bib15 bib16 bib17 bib18">7&#x02013;18</xref></sup> Currently, CPCs are defined as a combination of one or
+more calcium phosphate powders which, upon mixing with a liquid phase, form a paste able
+to self-set and harden <italic>in situ</italic> in the bone defect site to form a
+scaffold.<sup><xref ref-type="bibr" rid="bib19">19</xref></sup></p><p>One of the most important characteristics of CPCs is their ability to form <italic>in
+situ</italic> through a body-temperature dissolution-precipitation reaction.<sup><xref ref-type="bibr" rid="bib19">19</xref></sup> This feature gives rise to other beneficial properties
+such as molding capability upon mixing,<sup><xref ref-type="bibr" rid="bib20">20</xref></sup>
+injectability that enables minimally invasive application,<sup><xref ref-type="bibr" rid="bib21">21</xref></sup> and the ability to serve as a carrier for drug and biological
+molecule delivery.<sup><xref ref-type="bibr" rid="bib22">22</xref></sup> Early research on CPCs
+primarily focused on improved setting, handling and mechanical properties of CPCs through
+the tailoring of many processing parameters such as cement composition, additives,
+porogens, and particle size.<sup><xref ref-type="bibr" rid="bib23 bib24 bib25 bib26 bib27 bib28">23&#x02013;28</xref></sup> In recent years, in addition to the development of new
+processing technologies in CPC manufacturing, the paradigm has shifted toward biological
+responses by emphasizing the enhancement of biological interactions of CPCs with cells and
+tissues as well as their applications in bone tissue engineering.<sup><xref ref-type="bibr" rid="bib29 bib30 bib31 bib32 bib33">29&#x02013;33</xref></sup> Biological responses
+of scaffolds are a key factor in the translational application of biomaterials and their
+commercialization for clinic applications. Several meritorious reviews on CPCs have
+described their mechanical properties,<sup><xref ref-type="bibr" rid="bib34 bib35 bib36">34&#x02013;36</xref></sup> processing approaches,<sup><xref ref-type="bibr" rid="bib37">37</xref>,<xref ref-type="bibr" rid="bib38">38</xref></sup> drug delivery,<sup><xref ref-type="bibr" rid="bib19">19</xref>,<xref ref-type="bibr" rid="bib22">22</xref>,<xref ref-type="bibr" rid="bib39">39</xref>,<xref ref-type="bibr" rid="bib40">40</xref></sup> and functional enhancement by
+polymeric additives,<sup><xref ref-type="bibr" rid="bib41">41</xref></sup> which will not be
+repeated here. The present article reviews the major new developments in CPC processing
+technologies in recent years and focuses on novel biological interactions of CPCs,
+particularly in the context of stem cell responses and delivery as well as <italic>in
+vivo</italic> bone regeneration. The various CPC categories described in this article and
+their major biological properties are summarized in the diagram in <xref ref-type="fig" rid="fig1">Figure 1</xref>.</p></sec><sec><title>Pre-fabricated CPC scaffolds and 3D printing</title><p>Although injectability is one of the advantages of CPCs, pre-fabricated CPC scaffolds are
+often prepared for two reasons: (1) To ensure a complete setting reaction because only
+fully set CPCs demonstrate excellent tissue responses. When CPCs fail to set, they cause
+inflammatory reactions.<sup><xref ref-type="bibr" rid="bib42">42</xref></sup> Therefore,
+manufacturing pre-fabricated CPCs ensures complete setting prior to <italic>in vivo</italic>
+application. (2) To facilitate the creation of interconnected macroporous structures into
+CPCs. Self-setting CPC scaffolds without any modification are microporous but not
+macroporous and have limited pore interconnections.<sup><xref ref-type="bibr" rid="bib43">43</xref></sup> To promote tissue in-growth and accelerate the CPC degradation rate
+and subsequent replacement by bone, macropores were incorporated into CPCs via two
+methods: particle leaching (the addition of water-soluble particles, such as sodium
+bicarbonate, mannitol, salt or glucose, that dissolve or degrade after setting) and
+gas-foaming (the formation of air bubbles during the setting period).<sup><xref ref-type="bibr" rid="bib37">37</xref>,<xref ref-type="bibr" rid="bib44">44</xref></sup>
+<italic>In situ</italic> setting with particle leaching has several disadvantages. First, because
+the porogens inside the cement have limited exposure to body fluids, the degradation or
+solubility of the particles may be compromised, which leads to limited
+porosity.<sup><xref ref-type="bibr" rid="bib45">45</xref></sup> Second, the <italic>in vivo</italic>
+dissolution of some particles may result in hyperosmosis.<sup><xref ref-type="bibr" rid="bib46">46</xref></sup> Third, some porogens may increase the paste viscosity and impede
+the injectability of CPC. The major drawback of <italic>in situ</italic> application of the
+gas-foaming method is the risk of air emboli or emphysema. Therefore, pre-fabricated CPC
+scaffolds have been developed to allow more delicate control of the setting process and
+macroporous architecture of the scaffolds before <italic>in vivo</italic> implantation.</p><p>Recently, three-dimensional (3D) printing has rapidly developed to allow the fabrication
+of pre-set CPC scaffolds. 3D printing is an additive manufacturing process in which
+geometrical data are used to produce 3D structures by depositing materials layer by
+layer.<sup><xref ref-type="bibr" rid="bib47">47</xref></sup> 3D-printed CPC scaffolds are
+favored over customization to meet the specific needs of each patient/defect. The benefits
+for clinical applications include easy adaptation and fixation, reduced surgical time,
+favorable esthetic results and minimal waste products. There are several different
+techniques for 3D printing, including direct 3D printing (direct ink writing), fused
+deposition modeling (FDM), stereolithography (SLA), and selective laser sintering (SLS).
+For a detailed description of each technique, readers are encouraged to read previous
+review papers on this topic.<sup><xref ref-type="bibr" rid="bib48">48</xref>,<xref ref-type="bibr" rid="bib49">49</xref></sup> For CPC scaffolds, binder jetting is the most commonly employed 3D
+printing technique.<sup><xref ref-type="bibr" rid="bib50">50</xref></sup> Briefly, one or several
+print heads spray a binder solution (for example, an aqueous solution) precisely onto a
+bed layer of CPC powder. The binder locally joins adjacent powder particles together and
+hardens the wetted areas through the dissolution-precipitation reaction. The process
+repeats by spreading another layer of powder and ejecting binders according to a pass
+designed by the computer. This continues until the complete 3D structure is
+formed.<sup><xref ref-type="bibr" rid="bib48">48</xref></sup> The printability of the material
+is related to many parameters such as particle size and size distribution, morphology and
+surface area of the powder, roughness and flowability of the powders, the
+solubility/wettability/reactivity of the powder with the binder, and binder drop
+size.<sup><xref ref-type="bibr" rid="bib51">51</xref></sup> A study investigating
+beta-tricalcium phosphate powder suggested that 3D printing was not feasible with
+particles either too small (with a mean particle size of 7 &#x003bc;m) or too large (with a
+mean particle size of 51 &#x003bc;m), while mean particle sizes in the range of 20&#x02013;35
+&#x003bc;m resulted in good printing accuracy.<sup><xref ref-type="bibr" rid="bib51">51</xref></sup>
+Small particles tend to agglomerate under the influence of van der Waals forces. Very fine
+or porous particles exhibit low flowability and high surface roughness. Therefore, these
+factors greatly affect the smoothness and homogeneity of the powder bed, resulting in
+smearing and poor resolution.<sup><xref ref-type="bibr" rid="bib51">51</xref></sup> However,
+although large particles have better flowability, they tend to yield layer displacements
+due to low powder bed stability and low accuracy because the resolution is at least twice
+the particle size.<sup><xref ref-type="bibr" rid="bib52">52</xref></sup> Flowability was shown to be
+significantly reduced by decreasing the HA granule size.<sup><xref ref-type="bibr" rid="bib53">53</xref></sup> To work with small particle sizes to achieve a high resolution,
+strategies such as plasma coating<sup><xref ref-type="bibr" rid="bib51">51</xref></sup> and moisture
+application<sup><xref ref-type="bibr" rid="bib54">54</xref></sup> were attempted to stabilize
+the top layer surface and allow particle rearrangement and wetting while avoiding particle
+ejection out of the powder bed. Furthermore, by adding reactive minerals such as calcium
+sulfates into calcium phosphate, significant improvements to 3D printing parameters are
+achieved.<sup><xref ref-type="bibr" rid="bib55">55</xref></sup> The dimensional accuracy of
+printed CPC scaffolds (powder: alfa-TCP; liquid: Na<sub>2</sub>HPO<sub>4</sub>) is
+~200&#x000b7;&#x003bc;m, which indicates a good degree of fitting to craniofacial defects in
+anatomical models.<sup><xref ref-type="bibr" rid="bib56">56</xref></sup> A critical step for
+powder-based 3D printing is the removal of the loose powder inside the pores of the
+printed scaffold after printing, a process known as depowdering. Depowdering is especially
+challenging when the pores and pore interconnections are small and found in the innermost
+parts of the scaffolds with large dimensions. One possible solution may be the use of
+depowdering-friendly designs with large windows and free-to-move fillers.<sup><xref ref-type="bibr" rid="bib57">57</xref></sup> In addition, layer thickness and printing orientations
+(parallel to the <italic>X</italic>, <italic>Y</italic> and <italic>Z</italic> directions) are important for
+depowdering.<sup><xref ref-type="bibr" rid="bib58">58</xref></sup> Shear forces at the powder
+bed increase with reduced layer thickness, which leads to the deterioration of the final
+printed samples upon depowdering. Depowdering is easier in scaffolds printed in the
+<italic>X</italic> and <italic>Y</italic> directions than that in scaffolds printed in the <italic>Z</italic>
+direction because of the distortion in samples printed in the <italic>Z</italic>
+direction.<sup><xref ref-type="bibr" rid="bib58">58</xref></sup> However, the relationship
+between 3D printing parameters and CPC scaffold quality and performance has yet to be
+established and warrants further study.</p><p>3D plotting (direct ink writing, direct write assembly, material extrusion) is another
+common technique for CPC 3D printing.<sup><xref ref-type="bibr" rid="bib59">59</xref></sup> This is
+an extrusion-based printing technology in which a paste or viscous materials, instead of
+powders, are used as the starting form and deposited as strands via a nozzle in a
+layer-by-layer fashion based on predesigned structures.<sup><xref ref-type="bibr" rid="bib60">60</xref></sup> For 3D plotting, the printability is dependent on even dispersion,
+viscosity, fluidity, extrusion performance, setting time of the paste, and the shape
+stability of the printed strands to withstand the weight of the structure during assembly.
+The setting time for CPCs plays an important role in controlling the printable time period
+of the paste. One study reported the printable time of a CPC (powder: TECP:DCPA=1:1 molar
+ratio, liquid/binder: polyvinyl alcohol) as only 10&#x000b7;min, which makes printing
+difficult.<sup><xref ref-type="bibr" rid="bib61">61</xref></sup> With the addition of a
+mesoporous calcium silicate, the printable time was increased to approximately
+120&#x000b7;min.<sup><xref ref-type="bibr" rid="bib61">61</xref></sup> Other optimizations of the
+direct printing ink formulation have included the addition of gelatin to introduce an
+induction time for the onset of the CPC setting reaction.<sup><xref ref-type="bibr" rid="bib62">62</xref></sup> Specifically, this formula includes Targon 1128 as the dispersant,
+hydroxypropyl methylcellulose (HPMC) as the thickening agent, polyethylenimine (PEI) as
+the jellifying agent,<sup><xref ref-type="bibr" rid="bib63">63</xref></sup> and a ready-to-use
+oil-based CPC paste that sets only upon contact with water and thus has no time limit for
+printing.<sup><xref ref-type="bibr" rid="bib59">59</xref></sup></p><p>A critical issue for printing resolution is nozzle diameter and the stability of the
+extruded strands.<sup><xref ref-type="bibr" rid="bib50">50</xref></sup> 3D plotting has two
+advantages: (1) it enables easy printing of a combination of different
+materials,<sup><xref ref-type="bibr" rid="bib64">64</xref></sup> and (2) due to the mild
+conditions, it allows simultaneous cell or growth factor plotting, known as
+bioprinting.<sup><xref ref-type="bibr" rid="bib64">64</xref>,<xref ref-type="bibr" rid="bib65">65</xref></sup> Using a two-channel plotting method, a scaffold with the combination
+of an oil-based CPC and an alginate-gellan hydrogel was fabricated and laden with growth
+factor VEGF, involving a highly sophisticated strand arrangement, pore structure and
+geometry (<xref ref-type="fig" rid="fig2">Figure 2</xref>).<sup><xref ref-type="bibr" rid="bib64">64</xref></sup> In another study, a bone morphogenetic protein 2 (BMP2)-loaded
+mesoporous silica/CPC porous scaffold was 3D-plotted and tested in <italic>in vitro</italic> cell
+culture and in a rabbit femur defect model.<sup><xref ref-type="bibr" rid="bib66">66</xref></sup>
+The scaffold promoted the osteogenic differentiation of human bone marrow stromal cells
+(hBMSCs) and enhanced vascularization and osteogenesis compared to the CPC
+control.<sup><xref ref-type="bibr" rid="bib66">66</xref></sup> In terms of cell-containing
+bioprinting, hydrogels such as alginate,<sup><xref ref-type="bibr" rid="bib67">67</xref></sup>
+collagen,<sup><xref ref-type="bibr" rid="bib68">68</xref></sup> synthetic polymers such as PLGA,
+and PEG<sup><xref ref-type="bibr" rid="bib69">69</xref></sup> are primarily used as bioinks due to
+their resemblance to the extracellular matrix (ECM) and good printability. In some cases,
+calcium phosphates are added to enhance cell attachment and osteogenic differentiation,
+thus favoring the use of bioink for bone tissue engineering applications.<sup><xref ref-type="bibr" rid="bib67">67</xref></sup></p><p>In general, due to the incremental addition of materials, 3D printing allows for not only
+the easy control of scaffold shape and geometry but also the control of fine features such
+as interconnected porosity, pore size and distribution, and complex spatial heterogeneity,
+which are not achievable with traditional strategies.<sup><xref ref-type="bibr" rid="bib50">50</xref></sup> The possibility of manufacturing customized implants with almost
+no design limitations makes 3D printing highly valuable in reconstructive surgery.
+However, more extensive research is needed to optimize the key parameters for successful
+3D printing of CPC scaffolds.</p></sec><sec><title>Injectable CPC scaffolds</title><p>Traditional bone grafting requires an open surgical approach to graft application sites
+and may be associated with complications such as a large surgical scar, increased pain and
+a longer post-operative recovery. To overcome these drawbacks, injectable bone graft
+substitutes are used for minimally invasive surgery. Two main obstacles that inhibit CPC
+injectability are liquid-solid phase separation during injection<sup><xref ref-type="bibr" rid="bib70">70</xref></sup> and paste disintegration upon contact with blood or body
+fluids.<sup><xref ref-type="bibr" rid="bib71">71</xref></sup> Phase separation leads to not only
+the presence of non-extrudable paste left in the syringe but also extravasation at the
+injection site and a decrease in the viscosity and mechanical strength of CPCs. The
+disintegration of CPCs in the body causes inflammatory responses and even severe
+consequences such as cement embolism and cardiovascular deterioration by simulating blood
+coagulation.<sup><xref ref-type="bibr" rid="bib72">72</xref></sup> Therefore, efforts have been
+made to improve CPC injectability. These strategies include the following: (1) increasing
+the viscosity of the liquid phase by adding viscous binders such as chitosan,<sup><xref ref-type="bibr" rid="bib24">24</xref></sup> gelatin,<sup><xref ref-type="bibr" rid="bib73">73</xref></sup>
+hyaluronic acid,<sup><xref ref-type="bibr" rid="bib74">74</xref></sup> methylcellulose,<sup><xref ref-type="bibr" rid="bib75">75</xref></sup> and others; (2) optimizing the CPC powder in terms of
+the particle size, particle size distribution, particle shape, and particle-particle
+interactions;<sup><xref ref-type="bibr" rid="bib76">76</xref></sup> (3) regulating the setting
+reaction;<sup><xref ref-type="bibr" rid="bib77">77</xref></sup> and (4) modifying the extrusion
+parameters such as CPC mixing and the sizes of the syringes and/or needles.<sup><xref ref-type="bibr" rid="bib78">78</xref></sup> All of these factors were discussed in detail in a
+recent review on CPC injectability.<sup><xref ref-type="bibr" rid="bib70">70</xref></sup></p><p>Recently, many studies have applied various injectable CPC formulations into animal
+models for bone regeneration.<sup><xref ref-type="bibr" rid="bib79">79</xref>,<xref ref-type="bibr" rid="bib80">80</xref></sup> Injectable CPCs containing 50% (volume ratio) microspheres
+(poly(lactic-co-glycolic acid) (PLGA), gelatin (GEL) or poly(trimethylene carbonate)
+(PTMC)) were implanted into rabbit femoral bone defects. CPC/GEL had a significantly lower
+score than all other groups at the cement-bone interface. Both CPC and CPC/PLGA showed a
+better response than CPC/PTMC at 4 weeks, but there were no significant differences among
+these three groups at 8 and 12 weeks.<sup><xref ref-type="bibr" rid="bib79">79</xref></sup> A recent
+study applied a commercially injectable CPC (Calcibon) with platelet lysates in bilateral
+calvarial defects in rats.<sup><xref ref-type="bibr" rid="bib81">81</xref></sup> The delivery of the
+platelet lysate enhanced bone healing with an injectable CPC at early healing times. In
+large animal models, injectable CPCs have also shown promise for bone regeneration. For
+example, injectable CPC/PLGA composites demonstrated biocompatibility and direct bone
+contact for sinus floor augmentation procedures in a sheep model.<sup><xref ref-type="bibr" rid="bib82">82</xref></sup> Another study evaluated the efficiency of local bisphosphonate
+delivery via injectable CPC in vertebral bodies of the lumbar spine of an osteoporotic
+sheep model where the consequences of osteoporotic fractures were highly deleterious in
+patients. The bisphosphonate-combined cement in vertebral body bone defects had a
+beneficial impact on both bone content and the micro-architectural properties of the
+trabecular bone surrounding the implant.<sup><xref ref-type="bibr" rid="bib83">83</xref></sup> These
+animal studies demonstrated the promise of using injectable CPCs for bone repair and
+regeneration.</p><p>Indeed, CPCs have gained clinical acceptance as valuable bone substitution biomaterials
+for over 20 years, and several CPCs are commercially available. Injectable CPCs were used
+to repair human periodontal intrabony defects and showed favorable radiographic
+results.<sup><xref ref-type="bibr" rid="bib84">84</xref></sup> CPCs were also used in young
+patients for balloon kyphoplasty instead of polymethylmethacrylate cement. In most cases,
+good integration of CPCs in the vertebra was observed with no radiological signs of
+osteolysis or osteonecrosis. Only a few patients showed demineralization in follow-up CT
+scans.<sup><xref ref-type="bibr" rid="bib85">85</xref></sup> Several papers reviewing the
+properties of injectable CPCs are available for readers who want additional
+detail.<sup><xref ref-type="bibr" rid="bib86 bib87 bib88">86&#x02013;88</xref></sup> The present
+review focuses on new developments in CPCs with an emphasis on their biological
+interactions and cell delivery as detailed in subsequent sections.</p></sec><sec><title>Biological requirements and biological responses of CPCs</title><sec><title>Biocompatibility</title><p>Biocompatibility is defined as the property of a material being compatible with living
+tissues. Biocompatible materials do not induce a toxic response when implanted in the
+body.<sup><xref ref-type="bibr" rid="bib89">89</xref></sup> Biocompatibility is an essential
+requirement for tissue-engineered products to support cellular activities and optimize
+tissue regeneration without eliciting a cytotoxic effect in those cells or causing
+undesirable local or systemic responses in the host. The end products of the
+dissolution-precipitation reactions for CPCs include brushite (DCPD) and apatite (HA or
+calcium deficient HA (CDHA)), which are known to be biocompatible.<sup><xref ref-type="bibr" rid="bib90">90</xref></sup> Pre-set CPCs exhibit favorable short-term and
+long-term biocompatibility, as evidenced by many studies evaluating tissue responses in
+rats,<sup><xref ref-type="bibr" rid="bib91">91</xref>,<xref ref-type="bibr" rid="bib92">92</xref></sup>
+rabbits,<sup><xref ref-type="bibr" rid="bib93">93</xref></sup> dogs,<sup><xref ref-type="bibr" rid="bib94">94</xref></sup> sheep,<sup><xref ref-type="bibr" rid="bib16">16</xref>,<xref ref-type="bibr" rid="bib32">32</xref></sup> and goats,<sup><xref ref-type="bibr" rid="bib95">95</xref></sup> as well as various types of cultured cells.<sup><xref ref-type="bibr" rid="bib24">24</xref>,<xref ref-type="bibr" rid="bib93">93</xref>,<xref ref-type="bibr" rid="bib96">96</xref></sup> However, injectable CPCs require the completion of the setting
+reaction to avoid cytotoxicity, as unset or disintegrated CPCs cause severe inflammatory
+responses, blood clotting, and cement embolism.<sup><xref ref-type="bibr" rid="bib72">72</xref>,<xref ref-type="bibr" rid="bib97">97</xref></sup> Incorporating polymers into
+CPCs is a strategy used to improve CPC properties.<sup><xref ref-type="bibr" rid="bib41">41</xref></sup> In a recent study, an injectable macroporous CPC was prepared by
+the syringe-foaming method using a hydrophilic viscous polymeric solution known as
+silanized-hydroxypropyl methylcellulose (Si-HPMC).<sup><xref ref-type="bibr" rid="bib98">98</xref></sup> Si-HPMC not only acts as a foaming agent to create macroporous
+structures inside CPCs but also endows the CPC paste with an appealing rheological
+behavior at the early stage of setting due to its self-crosslinking properties, thus
+improving its injectability and cohesion.<sup><xref ref-type="bibr" rid="bib98">98</xref></sup>
+Indeed, when this CPC was injected into defective rabbit femurs, no adverse foreign body
+reaction was observed at 1 week and 6 weeks post-implantation.<sup><xref ref-type="bibr" rid="bib98">98</xref></sup></p></sec><sec><title>Bioactivity</title><p>Bioactivity refers to the ability of bone scaffolds to bind directly to the surrounding
+bone without the formation of fibrous tissue.<sup><xref ref-type="bibr" rid="bib99">99</xref></sup> Bioactivity is often evaluated by examining the ability to form
+apatite on the biomaterial in a simulated body fluid (SBF) with ion concentrations close
+to those in human blood plasma.<sup><xref ref-type="bibr" rid="bib100">100</xref></sup> A
+bioactive material is defined as one that accelerates apatite crystallization in a
+solution supersaturated with respect to hydroxyapatite.<sup><xref ref-type="bibr" rid="bib100">100</xref></sup> However, the validity of using an <italic>in vitro</italic> SBF test to
+predict the <italic>in vivo</italic> bioactivity of a material has been questioned.<sup><xref ref-type="bibr" rid="bib101">101</xref></sup> For example, Bohner and Lemaitre showed that a
+bioactivity test with SBF may not only give false-positive results but also
+false-negative results.<sup><xref ref-type="bibr" rid="bib101">101</xref></sup> The authors
+concluded that &#x0201c;<italic>in vitro</italic> bioactivity tests in SBF solutions cannot be
+used to predict the <italic>in vivo</italic> bone bonding ability of a material&#x0201d;. With
+some improvements to the protocol, these tests may be used for initial screening.
+However, the most reliable evaluation method remains <italic>in vivo</italic> implantation in a
+bone defect.</p><p>Bioactivity is one of the most important properties of CPCs.<sup><xref ref-type="bibr" rid="bib19">19</xref></sup> To further enhance CPC bioactivity, bioactive glass, which is
+known for its bioactivity, was incorporated into CPCs.<sup><xref ref-type="bibr" rid="bib102">102</xref>,<xref ref-type="bibr" rid="bib103">103</xref></sup> The bioactive glass acted
+as a source of calcium and phosphate ions in the cement setting reaction. With this
+addition, increasing apatite formation was detected on the surface of the CaP compound
+after soaking in SBF for 7 days.<sup><xref ref-type="bibr" rid="bib103">103</xref></sup>
+<italic>In vivo</italic> examination of samples implanted into rabbit femoral bones indeed
+showed a better healing process and more bone growth with the addition of bioactive
+glass.<sup><xref ref-type="bibr" rid="bib103">103</xref></sup></p></sec><sec><title>Osteoconductivity</title><p>Osteoconductivity is defined as a biomaterial property that facilitates the in-growth
+of new bone into a surface or a volume in which the biomaterial serves as a scaffold to
+guide new bone formation.<sup><xref ref-type="bibr" rid="bib104">104</xref></sup> CPCs are
+osteoconductive because they permit the attachment, proliferation, migration and
+phenotypic expression of bone cells, leading to the formation of new bone.<sup><xref ref-type="bibr" rid="bib105">105</xref>,<xref ref-type="bibr" rid="bib106">106</xref></sup> Osteoconduction
+is related to the architectural geometry of the scaffold.<sup><xref ref-type="bibr" rid="bib106">106</xref></sup> Intimate adaptation, fixation and stability of the implant to
+the defect site are of critical importance to facilitate the in-growth of bone tissue.
+In addition, the scaffold should have high porosity and interconnectivity with optimal
+pore sizes to ensure cell penetration, nutrient exchange and waste elimination. For bone
+tissue engineering, an ideal scaffold should have 60%&#x02013;80% interconnected porosity
+with pore sizes ranging from 150 to 500 &#x003bc;m.<sup><xref ref-type="bibr" rid="bib107">107</xref></sup></p><p>Osteoconduction also depends on the chemical composition of the scaffold. The
+incorporation of several types of ions benefit CPC osteoconductivity. For instance, a
+silicon CPC (Si-CPC) was developed,<sup><xref ref-type="bibr" rid="bib108">108</xref></sup> and
+the cytocompatibility of the Si-doped cement was tested with a human osteoblast-like
+cell line (MG-63), which showed enhanced cell proliferation (up to threefold) over that
+without Si. When implanted in a rabbit parietal bone defect model, significantly greater
+amounts of new bone were detected in the 10% Si-CPC group compared to that in the CPC
+control group.<sup><xref ref-type="bibr" rid="bib108">108</xref></sup> In another study, strontium
+was incorporated into CPC (Sr-CPC) to enhance its osteoconductivity and accelerate its
+degradation.<sup><xref ref-type="bibr" rid="bib109">109</xref></sup>
+<italic>In vitro</italic> studies showed higher osteoblastic cell proliferation rates in Sr-CPC
+groups. <italic>In vivo</italic> studies demonstrated more rapid degradation and advanced
+osteoconductivity in the 10% Sr-CPC group compared to those in the CPC control at 2, 4,
+8, 16, and 32 weeks after the operation.<sup><xref ref-type="bibr" rid="bib109">109</xref></sup></p></sec><sec><title>Osteoinductivity</title><p>Osteoinduction is defined as the recruitment and stimulation of progenitor cells to
+differentiate toward the osteoblastic lineage.<sup><xref ref-type="bibr" rid="bib104">104</xref></sup> CPCs are generally osteoconductive but not
+osteoinductive.<sup><xref ref-type="bibr" rid="bib20">20</xref></sup> However, several CPCs
+reportedly have the ability to form bone in nonosseous sites <italic>in vivo</italic> without
+the addition of osteogenic factors.<sup><xref ref-type="bibr" rid="bib110">110</xref></sup> Since
+this osteoinductive property is observed for some CPCs but not others, these materials
+are described as having &#x0201c;intrinsic&#x0201d; osteoinductivity.<sup><xref ref-type="bibr" rid="bib111">111</xref></sup> This inductive phenomenon is likely attributable to
+the combined effects of topography, composition, and micro and macroporosity of the CPC
+scaffolds.<sup><xref ref-type="bibr" rid="bib111">111</xref></sup> It is likely that the
+intricate architecture of the scaffold permits the entrapment and concentration of
+circulating growth factors, such as BMPs and osteoprogenitor cells, <italic>in vivo</italic>
+thus conferring osteoinduction capability upon the CPCs.<sup><xref ref-type="bibr" rid="bib111">111</xref></sup> In addition, CPCs serve as calcium and phosphate ion sources
+<italic>in vivo</italic>. Ca<sup>2+</sup>, PO<sub>4</sub><sup>3-</sup> and
+HPO<sub>4</sub><sup>2-</sup> ions are released into the surrounding tissues, regulate
+osteoblast functions<sup><xref ref-type="bibr" rid="bib112">112</xref></sup> and induce localized
+ion supersaturation, which causes the reprecipitation of carbonated apatite on the
+scaffold.<sup><xref ref-type="bibr" rid="bib113">113</xref>,<xref ref-type="bibr" rid="bib114">114</xref></sup> A previous study proposed a new strategy to regulate bone
+marrow mesenchymal stem cell (BMSC) adhesion and osteogenic differentiation by adding
+magnesium into the CPC, thus improving its osteoinductivity.<sup><xref ref-type="bibr" rid="bib115">115</xref></sup> A CPC containing 5 wt% and 10 wt% magnesium not only enhanced
+BMSC adhesion but also upregulated osteogenic gene and protein expression <italic>in
+vitro</italic>. An <italic>in vivo</italic> study demonstrated that CPC with 5 wt% magnesium
+achieved the greatest bone volume at 2 and 8 weeks, confirming its beneficial
+osteogenesis effects via the addition of magnesium.<sup><xref ref-type="bibr" rid="bib115">115</xref></sup> To gain or enhance CPC osteoinductivity, novel strategies such
+as the addition of osteoprogenitor cells,<sup><xref ref-type="bibr" rid="bib116">116</xref>,<xref ref-type="bibr" rid="bib117">117</xref></sup> growth
+factors,<sup><xref ref-type="bibr" rid="bib118">118</xref>,<xref ref-type="bibr" rid="bib119">119</xref></sup> bioactive proteins<sup><xref ref-type="bibr" rid="bib120">120</xref>,<xref ref-type="bibr" rid="bib121">121</xref></sup> or peptides<sup><xref ref-type="bibr" rid="bib122">122</xref>,<xref ref-type="bibr" rid="bib123">123</xref></sup> into CPCs have
+exhibited favorable effects. Therefore, novel CPC compositions with intrinsic and
+engineered osteoinductivity are highly promising to enhance bone regeneration.</p></sec><sec><title>Biodegradability</title><p>Ideally, a CPC scaffold should degrade at the same rate that new bone forms. CPCs
+biodegrade primarily via two mechanisms: a passive resorption process via chemical
+dissolution and an active resorption through a cell-mediated process.<sup><xref ref-type="bibr" rid="bib124">124</xref></sup> The degradation of CPCs is tailored by controlling
+several factors: (1) physical factors such as the physical form of the CPC (particulate
+or bulk), porosity, surface area, and crystallinity (crystal size, crystal perfection,
+and grain size), and so on; (2) chemical factors such as the composition and ionic
+substitutions; and (3) biological factors such as the activation of macrophages or
+osteoclasts.<sup><xref ref-type="bibr" rid="bib125">125</xref></sup> Enhancing CPC degradation
+is achieved by adding rapidly degradable porogens such as PLGA to generate macropores
+upon PLGA degradation. PLGA degrades hydrolytically, leading to the production of lactic
+and glycolic acid monomers. The acidic nature of the resulting byproducts is an
+additional advantage of PLGAs in combination with poorly degradable CPCs because CPCs
+degrade by acid dissolution.<sup><xref ref-type="bibr" rid="bib126">126</xref></sup> After being
+injected into a rabbit femoral bone defect model, CPC-PLGA exhibited favorable bone
+responses with &#x0003e;55% degradation and &#x0003e;13% bone formation at 6 weeks and &#x0003e;90%
+degradation and &#x0003e;40% bone formation at 26 weeks postoperation.<sup><xref ref-type="bibr" rid="bib127">127</xref></sup> Based on this same mechanism, glucono delta-lactone
+(GDL), which has a faster degradation rate than PLGA, was incorporated into CPCs as
+acid-producing microparticles to accelerate CPC degradation.<sup><xref ref-type="bibr" rid="bib128">128</xref></sup> Indeed, histomorphometrical evaluation revealed that CPCs
+containing 10% of GDL degraded more rapidly and were replaced by more bone tissue
+(32.8%) than CPC-PLGA at 2 weeks after implantation in a rabbit femoral bone
+defect.<sup><xref ref-type="bibr" rid="bib128">128</xref></sup></p></sec></sec><sec><title>CPC scaffold constructs for bone tissue engineering</title><sec><title>Cell delivery</title><p>Recent advancements in tissue engineering and regenerative medicine have indicated that
+cell-based therapeutics achieve robust regeneration with greater efficacy and better
+predictability than methods that do not involve cell seeding.<sup><xref ref-type="bibr" rid="bib129">129</xref></sup> These novel approaches employ scaffold constructs in
+combination with living cells to generate cell-driven, functional tissue rather than
+filling a defect with a nonliving scaffold. A tissue-engineered construct acts both as a
+scaffold to bridge the defect and as a cell delivery vehicle. The biomaterial-cell
+interactions of CPCs with various types of stem cells, such as BMSCs, umbilical cord
+mesenchymal stem cells (UCMSCs), embryonic stem cells (ESCs), induced pluripotent stem
+cells (iPSCs), were previously reviewed.<sup><xref ref-type="bibr" rid="bib130">130</xref>,<xref ref-type="bibr" rid="bib131">131</xref></sup> The present article
+specifically explores recent advances in strategies for cell delivery, specifically
+highlighting the design of CPC-based scaffolds.</p><p>Direct cell seeding onto the porous surfaces of preformed CPC scaffolds is a common
+approach due to its simplicity. However, this type of static cell seeding has
+limitations, including low seeding efficiency and minimal cell penetration into the
+scaffold, leading to non-uniform cell distribution.<sup><xref ref-type="bibr" rid="bib132">132</xref></sup> It is not feasible to directly mix cells into the CPC paste
+because the mixing forces, ionic exchanges and pH fluctuation during CPC setting are
+detrimental to cell viability. To address this problem, cell encapsulation has been
+proposed to protect cells during CPC mixing and injection (<xref ref-type="fig" rid="fig3">Figure
+3</xref>). In a recent study, human iPSC-derived MSCs (hiPSC-MSCs) were either
+pre-osteoinduced for 2 weeks (OS-hiPSC-MSCs) or transduced with BMP2 (BMP2-hiPSC-MSCs)
+to enhance their osteogenic capacity.<sup><xref ref-type="bibr" rid="bib133">133</xref></sup> The
+cells were then encapsulated in rapidly degradable alginate microbeads. The microbeads
+were mixed with CPC paste at a ratio of 1:1 and filled into cranial defects in nude
+rats.<sup><xref ref-type="bibr" rid="bib133">133</xref></sup> The results showed that the
+cells maintained good viability inside the microbeads after injection. Once the CPC set
+to form a scaffold, the cells were released as early as 3 days and demonstrated the
+up-regulation of osteogenic markers and bone mineral deposition. Cell-encapsulated
+groups produced greater amounts of new bone area <italic>in vivo</italic>, with 22.5%&#x000b1;7.6%,
+38.9%&#x000b1;18.4%, and 44.7%&#x000b1;22.8% for the CPC-hiPSC-MSC, CPC-OS-hiPSC-MSC, and
+CPC-BMP2-hiPSC-MSC groups, respectively, compared to that for the non-cell CPC control
+group (15.6%&#x000b1;11.2%) at 12 weeks.<sup><xref ref-type="bibr" rid="bib133">133</xref></sup>
+Furthermore, the incorporation of cells accelerated the resorption of the CPC scaffold.
+The amount of residual CPC in the CPC-BMP2-hiPSC-MSC group was sevenfold less than that
+in the CPC control.<sup><xref ref-type="bibr" rid="bib133">133</xref></sup></p><p>Recently, rapidly degradable hydrogel fibers were developed for cell encapsulation and
+delivery.<sup><xref ref-type="bibr" rid="bib134">134</xref></sup> Encapsulation of cells
+inside microfibers possesses several advantages over microbeads. (1) Microfibers are
+easily fabricated by using a simple needle extrusion/external gelation method. To
+generate microbeads, air injection and electronic injection are needed to break up
+alginate droplets to form microbeads in sizes of several hundred microns.<sup><xref ref-type="bibr" rid="bib135">135</xref></sup> The air flow or electrostatic force during
+microbead formation may impose harsh shearing forces on the cells. Furthermore, the air
+flow forms &#x0201c;tails&#x0201d; on the microbeads, which may cause an immune response
+<italic>in vivo</italic>.<sup><xref ref-type="bibr" rid="bib135">135</xref></sup> (2) Microfibers with
+diameters of several hundred microns and millimeter-scale lengths are relatively easy to
+handle. (3) Microfibers provide more space for cellular self-assembly, through which
+living cells organize into functional units, allowing cells to grow, migrate and
+differentiate in the extracellular matrix.<sup><xref ref-type="bibr" rid="bib136">136</xref></sup>
+(4) Long microfibers form long macroporous channels with interconnectivity upon alginate
+degradation inside CPCs, while microbeads only form spherical pores with limited
+interconnectivity. These long channels improve osteoconductivity and nutrient and waste
+exchange of the scaffold. (5) Long microfibers potentially facilitate the formation of
+blood vessels in CPCs for bone engineering via co-seeding of endothelial cells and
+osteoblasts.</p><p>Recent studies have encapsulated six types of stem cells, specifically hBMSCs, human
+dental pulp stem cells (hDPSCs), hUCMSCs, hESC-MSCs, and hiPSC-MSCs derived from bone
+marrow (BM-hiPSC-MSCs) and foreskin (FS-hiPSC-MSCs), in hydrogel microfibers and then
+delivered them inside an injectable CPC.<sup><xref ref-type="bibr" rid="bib126">126</xref>,<xref ref-type="bibr" rid="bib127">127</xref></sup> The CPC paste encapsulating
+the stem cells was fully injectable under a small injection force, and the injection
+exerted no harmful effects on cell viability.<sup><xref ref-type="bibr" rid="bib137">137</xref></sup> The porosity of the microfiber-CPC construct was
+62%.<sup><xref ref-type="bibr" rid="bib138">138</xref></sup> All six types of cells
+proliferated well and differentiated down the osteogenic lineage. hUCMSCs, hESC-MSCs,
+hDPSCs, BM-hiPSC-MSCs and hBMSCs exhibited high ALP, RUNX2, COL1A1, and OC gene
+expression. Cell-synthesized bone minerals increased with time, with no significant
+differences among hUCMSCs, hESC-MSCs, hDPSCs, BM-hiPSC-MSCs and hBMSCs, indicating good
+bone regeneration potential similar to gold-standard hBMSCs.<sup><xref ref-type="bibr" rid="bib137">137</xref>,<xref ref-type="bibr" rid="bib138">138</xref></sup> However, FS-hiPSC-MSCs were
+inferior in terms of osteogenic differentiation compared to other cell types (<xref ref-type="fig" rid="fig4">Figure 4</xref>).<sup><xref ref-type="bibr" rid="bib138">138</xref></sup> In
+another <italic>in vivo</italic> study, an hBMSC-encapsulated microfiber-CPC paste was applied
+to repair rat cranial defects,<sup><xref ref-type="bibr" rid="bib138">138</xref></sup> and the
+hBMSC-encapsulated microfiber-CPC tissue engineering construct exhibited a robust
+capacity for bone regeneration. At 12 weeks, an osseous bridge in the rat mandibular
+defect was observed in the CPC-microfiber-hBMSCs group with a new bone area fraction of
+42.1%&#x000b1;7.8%, which was threefold greater than that of the control group (<xref ref-type="fig" rid="fig5">Figure 5</xref>).<sup><xref ref-type="bibr" rid="bib139">139</xref></sup>
+Therefore, these results demonstrate that injectable hydrogel microfiber-CPC paste is a
+promising carrier for cell delivery and greatly enhances bone regeneration <italic>in
+vivo</italic>.</p></sec><sec><title>Drug delivery</title><p>The non-exothermic setting reaction and the intrinsic porosity of CPCs allow the
+incorporation of drugs and biologically active molecules with low risk of thermal
+denaturalization or loss of activity during preparation or implantation.<sup><xref ref-type="bibr" rid="bib19">19</xref></sup> For drug incorporation into CPCs, the drug is simply
+mixed with either the liquid or solid components of the cement.<sup><xref ref-type="bibr" rid="bib140">140</xref></sup> Alternatively, it is added by adsorption onto the
+pre-set scaffold<sup><xref ref-type="bibr" rid="bib141">141</xref></sup> or incorporated into
+polymeric microspheres or microfibers before blending with CPC paste.<sup><xref ref-type="bibr" rid="bib142">142</xref></sup> Several factors influence the loading and release
+of therapeutic substances. These include the microstructure, porosity and surface area
+of the CPCs, the way in which the drug is incorporated into the CPCs, and the
+interaction between the drug and the CPC matrix.<sup><xref ref-type="bibr" rid="bib19">19</xref>,<xref ref-type="bibr" rid="bib143">143</xref></sup> CPCs have been used as drug
+carriers for antibiotics<sup><xref ref-type="bibr" rid="bib144">144</xref></sup> as well as
+anti-cancer,<sup><xref ref-type="bibr" rid="bib145">145</xref></sup>
+anti-inflammatory,<sup><xref ref-type="bibr" rid="bib146">146</xref></sup> and anti-resorptive
+(anti-osteoporotic) drugs.<sup><xref ref-type="bibr" rid="bib147">147</xref></sup> CPCs have also
+been used as drug carriers for therapeutically active proteins or growth factors that
+foster local bone generation.<sup><xref ref-type="bibr" rid="bib148">148</xref></sup> Recently,
+ionically modified CPCs (for example, with Sr<sup>2+</sup>,
+SiO<sub>4</sub><sup>4&#x02212;</sup>, Zn<sup>2+</sup>, Mg<sup>2+</sup>) with the
+capability of influencing bone modeling and remodeling processes were
+investigated.<sup><xref ref-type="bibr" rid="bib115">115</xref>,<xref ref-type="bibr" rid="bib149">149</xref>,<xref ref-type="bibr" rid="bib150">150</xref></sup> For additional details,
+readers are referred to a review on the use of CPCs for drug delivery.<sup><xref ref-type="bibr" rid="bib19">19</xref></sup> Of note, the incorporation of the second phase of a
+degradable carrier into CPCs for drug delivery is beneficial for a more sustained
+release than directly loading the drugs into CPCs.<sup><xref ref-type="bibr" rid="bib148">148</xref></sup> For this purpose, gelatin microspheres,<sup><xref ref-type="bibr" rid="bib151">151</xref></sup> PLGA microparticles,<sup><xref ref-type="bibr" rid="bib152">152</xref></sup> bioactive glass,<sup><xref ref-type="bibr" rid="bib148">148</xref></sup>
+and chitosan/dextran sulfate microparticles<sup><xref ref-type="bibr" rid="bib153">153</xref></sup> have been used in CPCs to deliver drugs with tailored degradation
+rates to control the release profiles.</p></sec><sec><title>Vascularized CPC scaffolds</title><p>Adequate and rapid vascularization is essential for successful bone regeneration.
+Failure of the bone healing process, including delayed healing or non-unions, is often
+attributable to a lack of adequate vascularization.<sup><xref ref-type="bibr" rid="bib154">154</xref></sup> Furthermore, vascularization is critical for the viability of
+seeded cells in the scaffold. If the distance between cells and the nearest capillary
+network is greater than 100&#x02013;200&#x000b7;&#x003bc;m, which exceeds the diffusion or
+perfusion limits of nutrients and oxygen, the viability of the seeded cells is
+compromised.<sup><xref ref-type="bibr" rid="bib89">89</xref></sup></p><p>Improvement in CPC vascularization is stimulated by modifications to the material
+itself. Physical features such as porosity and pore sizes are known to impact
+vascularization.<sup><xref ref-type="bibr" rid="bib155">155</xref>,<xref ref-type="bibr" rid="bib156">156</xref></sup> To this end, a study fabricated a self-setting CPC composite
+with gelatin fibers to create interconnected hollow channels in the CPC after
+dissolution of the gelatin fibers.<sup><xref ref-type="bibr" rid="bib157">157</xref></sup>
+<italic>In vivo</italic> subcutaneous implantation showed that the resulting channels in CPC
+indeed facilitated vascular infiltration into the construct.<sup><xref ref-type="bibr" rid="bib157">157</xref></sup> In addition, different channel sizes induced different
+vascularization behaviors <italic>in vivo</italic>. Channels with a 250-&#x003bc;m diameter
+increased the expression of the representative angiogenic factors HIF1&#x003b1;, PLGF and
+migration factor CXCR4, which induce the formation of small vessels. Channels with a
+larger diameter of 500 &#x003bc;m enhanced VEGF expression, which induces the development
+of large vessels. More HIF1&#x003b1;-positive cells were found in the interconnected
+intersections of several channels, indicating high levels of sprouting and
+vasculogenesis potential under hypoxic conditions.<sup><xref ref-type="bibr" rid="bib157">157</xref></sup> While the majority of research has focused on modifying the
+physical features of CPCs to improve vascularization, chemical features, such as the
+release of ionic calcium and phosphate, have also been suggested to play a role in
+regulating vascularization.<sup><xref ref-type="bibr" rid="bib158">158</xref></sup> In a recent
+study, CPCs were coated with a graphene oxide-copper nanocomposite with the rationale
+that the oxygen-containing functional groups in graphene oxide would provide more
+binding sites for serum proteins and thereby enhance initial cell adhesion and other
+bioactivities.<sup><xref ref-type="bibr" rid="bib159">159</xref></sup> When incubated with rat
+BMSCs, CPCs with the novel graphene oxide-copper nanocomposite coating activated
+Hif-1&#x003b1; and further enhanced the expression of VEGF and BMP-2 via the Erk1/2
+signaling pathway. Indeed, an <italic>in vivo</italic> study found more blood vessel volume and
+bone regeneration in the coated-CPC group.<sup><xref ref-type="bibr" rid="bib159">159</xref></sup>
+However, the mechanism underlying vascularization and the impact on bone regeneration
+efficacy via CPCs require additional experiments, particularly <italic>in vivo</italic>
+studies.</p><p>From a biological point of view, angiogenic growth factors, stem cells and
+vessel-forming cells are highly promising approaches to promote vascularization. A
+recent study investigated the use of autologous BMSCs in combination with autologous
+platelet-rich plasma (PRP) delivered via a macroporous CPC to regenerate large bone
+defects in minipigs.<sup><xref ref-type="bibr" rid="bib160">160</xref></sup> The CPC-BMSC-PRP
+group generated twofold more new bone and twofold higher blood vessel density compared
+to those of the macroporous CPC control at 12 weeks.<sup><xref ref-type="bibr" rid="bib160">160</xref></sup> In addition, recombinant growth factors and cell signaling
+molecules are alternatives to autologous growth factors that provide more flexible and
+delicate control over the dose and factors to be incorporated. Several studies have
+loaded dual agents, specifically BMPs and VEGF, in a single CPC scaffold, which
+demonstrated excellent angiogenic activity <italic>in vitro</italic> and <italic>in
+vivo</italic>.<sup><xref ref-type="bibr" rid="bib161">161</xref>,<xref ref-type="bibr" rid="bib162">162</xref></sup> In addition to using growth factors, CPC pre-vascularization
+<italic>in vitro</italic> was investigated.<sup><xref ref-type="bibr" rid="bib163">163</xref></sup> In
+this method, vessel-forming cells were co-seeded with bone-forming cells on the
+engineered tissue construct to form microvascular structures before implantation <italic>in
+vivo</italic>. The co-culture of human osteoblasts and human umbilical vein endothelial
+cells (HUVECs) on gas-foaming macroporous CPCs <italic>in vitro</italic> successfully generated
+microcapillary-like structures and elevated the expression of angiogenic and osteogenic
+markers.<sup><xref ref-type="bibr" rid="bib163">163</xref></sup> Furthermore, the beneficial
+effects of co-culture were amplified by using an Arg&#x02013;Gly&#x02013;Asp (RGD)
+modification for the CPC scaffold.<sup><xref ref-type="bibr" rid="bib164">164</xref></sup>
+Similarly, the co-culture of hiPSC-MSCs and HUVECs on a macroporous CPC <italic>in
+vitro</italic> also generated microcapillary-like structures (<xref ref-type="fig" rid="fig6">Figure
+6</xref>).<sup><xref ref-type="bibr" rid="bib165">165</xref></sup> In an animal study, HUVECs
+were co-cultured with four types of stem cells, specifically hUCMSCs, hBMSCs, hiPSC-MSCs
+and hESC-MSCs, on CPCs and then implanted in an 8-mm critical cranial bone defect in
+rats for 12 weeks.<sup><xref ref-type="bibr" rid="bib166">166</xref></sup> Microcapillary-like
+structures were successfully formed on CPCs <italic>in vitro</italic> in all four co-culture
+groups. New bone formation and the blood vessel densities of the co-cultured groups
+<italic>in vivo</italic> were much greater than that of the CPC control without cell seeding
+or the CPC-BMSCs group without co-culture (<italic>P</italic>&#x0003c;0.05).<sup><xref ref-type="bibr" rid="bib166">166</xref></sup> These results demonstrated the promise of
+co-culture and CPC pre-vascularization to greatly enhance osteogenesis and angiogenesis
+<italic>in vivo</italic>.</p><p>For successful bone regeneration, it is important to establish vascularization in a
+timely manner, but the stabilization of such a vascular network is of similar
+importance, although it is often neglected. Angiogenesis without vessel maturation
+produces abnormal, defective blood vessels that are prone to regression.<sup><xref ref-type="bibr" rid="bib167">167</xref></sup> Perivascular cells such as pericytes play important
+roles in the stabilization and maturation of blood vessels by guiding the developing
+vessels to respond to angiogenic stimuli.<sup><xref ref-type="bibr" rid="bib168">168</xref></sup>
+Enlightened by this fact, further improvement of the pre-vascularization strategy with
+the addition of pericytes was attempted.<sup><xref ref-type="bibr" rid="bib169">169</xref></sup> A
+tri-culture system comprising hiPSC-MSCs, HUVECs and pericytes was developed to
+pre-vascularize the CPC scaffolds.<sup><xref ref-type="bibr" rid="bib169">169</xref></sup> Both
+the bi-culture and tri-culture groups exhibited the formation of vessel-like structures
+<italic>in vitro</italic>, greatly elevated levels of angiogenic and osteogenic markers, and
+bone matrix mineralization. After implantation in a rat model with a cranial bone defect
+for 12 weeks, the tri-culture group demonstrated much higher amounts of new bone than
+the bi-culture and monoculture groups and the CPC control (<xref ref-type="fig" rid="fig7">Figure
+7</xref>).<sup><xref ref-type="bibr" rid="bib169">169</xref></sup> The substantial increase in
+bone formation in the tri-culture group was likely related to enhanced vascularization
+and the stabilization and maturation of blood vessels.</p><p><italic>In vivo</italic> pre-vascularization is also achieved using a surgical method involving
+the implantation of a scaffold into a well-vascularized and easily accessible body
+tissue such as a subcutaneous pocket or a muscle pouch. Microvascular structures are
+formed as a result of invasion and outgrowth of the surrounding host
+microvasculature.<sup><xref ref-type="bibr" rid="bib170">170</xref>,<xref ref-type="bibr" rid="bib171">171</xref></sup> After the completion of pre-vascularization, the tissue
+construct is harvested and grafted into the defect site, where the preformed
+microvessels inside the construct inosculate and anastomose with the host blood vessels.
+The disadvantages of this approach are obvious: the invasive nature of the surgery,
+higher cost, and a relatively longer treatment process. Therefore, new tissue
+engineering methods utilizing CPC scaffolds with co-culture and tri-culture represent
+exciting alternative strategies that warrant further research for continued improvement
+to achieve wide clinical applications.</p></sec></sec><sec><title>Conclusions</title><p>Due to their injectability, bioactivity and biocompatibility, CPCs are highly promising
+for bone tissue engineering applications and are used as scaffolds and carriers to deliver
+stem cells, drugs and growth factors. CPCs are either used as pre-set scaffolds or
+injectable pastes. 3D printing is a promising technology for fabricating CPC scaffolds
+with a high degree of accuracy and is used to develop intricately detailed biomimetic
+structures that are not achievable via traditional manufacturing methods. 3D printing has
+the potential to facilitate the next generation of smart and functional CPCs. Furthermore,
+with recent advances in tissue engineering, a new emphasis on &#x0201c;tissue regeneration
+by natural tissues&#x0201d; instead of &#x0201c;tissue replacement by biomaterials&#x0201d;
+has been proposed. Thus, CPCs with excellent biological interactions, such as
+osteoconductivity, osteoinductivity, biodegradability and bioactivity, are promising to
+meet this need. CPC composite constructs and hybrid systems involving the incorporation of
+cells, growth factors, bioactive molecules, bioinorganics, polymers, and bioactive glass
+are likely to yield favorable bone regenerative outcomes and greatly widen the clinical
+applications of CPCs. In addition, the co-culture and tri-culture of various tailored cell
+types with CPC scaffolds offer exciting potential for vascularization in bone tissue
+regeneration, which is especially important for treating large-sized bone defects. Further
+studies are needed to realize these promises and understand the underlying mechanisms to
+further the development of tissue engineering and regenerative medicine.</p></sec></body><back><ack><p>This study was supported by NIH R01 DE14190 and R21 DE22625 (HX), the National Science
+Foundation of China 81401794 (PW) and 81400487 (LW), the Youth Fund of Science and
+Technology of Jilin Province 20150520043JH (LW), the China Postdoctoral Science Foundation
+2015M581405 (LW) and the University of Maryland School of Dentistry bridge fund (HX).</p></ack><fn-group><fn fn-type="COI-statement"><p>The authors declare no conflict of interest.</p></fn></fn-group><ref-list><ref id="bib1"><mixed-citation publication-type="journal">Chow LC, Takagi S. <article-title>A natural bone cement-A laboratory novelty led to the development of revolutionary
+new biomaterials</article-title>. <source>J Res Natl Inst Stand Technol</source>
+<year>2001</year>; <volume>106</volume>: <fpage>1029</fpage>&#x02013;1033.<pub-id pub-id-type="pmid">27500062</pub-id></mixed-citation></ref><ref id="bib2"><mixed-citation publication-type="book">Brown WE, Chow LC. <article-title>A new calcium phosphate, water setting cement</article-title>. Brown PW (Ed). <source>Cements Res Progress</source>. Westerville: American Ceramic Society. <year>1986</year>, <fpage>352</fpage>&#x02013;379.</mixed-citation></ref><ref id="bib3"><mixed-citation publication-type="journal">Brown W, Chow LC. <article-title>A new calcium phosphate setting cement</article-title>. <source>J Dent Res</source>
+<year>1983</year>; <volume>63</volume>: <fpage>672</fpage>&#x02013;679.</mixed-citation></ref><ref id="bib4"><mixed-citation publication-type="book">Brown WE. <article-title>Solubilities of phosphates and other sparingly soluble compounds</article-title>. Griffith EJ, Beeton A, Spencer JM (eds). <source>Environmental phosphorus handbook</source>. New York: John Wiley &#x00026; Sons. <year>1973</year>, <fpage>203</fpage>&#x02013;239.</mixed-citation></ref><ref id="bib5"><mixed-citation publication-type="journal">Friedman CD, Costantino PD, Takagi S
+et al.
+<article-title>Bone Source hydroxyapatite cement: a novel biomaterial for craniofacial skeletal
+tissue engineering and reconstruction</article-title>. <source>J Biomed Mater Res</source>
+<year>1998</year>; <volume>43</volume>: <fpage>428</fpage>&#x02013;432.<pub-id pub-id-type="pmid">9855201</pub-id></mixed-citation></ref><ref id="bib6"><mixed-citation publication-type="journal">Constantz BR, Ison IC, Fulmer MT
+et al.
+<article-title>Skeletal repair by <italic>in situ</italic> formation of the mineral phase of bone</article-title>. <source>Science</source>
+<year>1995</year>; <volume>267</volume>: <fpage>1796</fpage>&#x02013;1799.<pub-id pub-id-type="pmid">7892603</pub-id></mixed-citation></ref><ref id="bib7"><mixed-citation publication-type="journal">Ginebra MP, Fernandez E, De Maeyer EA
+et al.
+<article-title>Setting reaction and hardening of an apatitic calcium phosphate cement</article-title>. <source>J Dent Res</source>
+<year>1997</year>; <volume>76</volume>: <fpage>905</fpage>&#x02013;912.<pub-id pub-id-type="pmid">9126187</pub-id></mixed-citation></ref><ref id="bib8"><mixed-citation publication-type="journal">Constantz BR, Barr BM, Ison IC
+et al.
+<article-title>Histological, chemical, and crystallographic analysis of four calcium phosphate
+cements in different rabbit osseous sites</article-title>. <source>J Biomed Mater Res A</source>
+<year>1998</year>; <volume>43</volume>: <fpage>451</fpage>&#x02013;461.</mixed-citation></ref><ref id="bib9"><mixed-citation publication-type="journal">Knaack D, Goad MEP, Aiolova M
+et al.
+<article-title>Resorbable calcium phosphate bone substitute</article-title>. <source>J Biomed Mater Res A</source>
+<year>1998</year>; <volume>43</volume>: <fpage>399</fpage>&#x02013;409.</mixed-citation></ref><ref id="bib10"><mixed-citation publication-type="journal">Miyamoto Y, Ishikawa K, Takechi M
+et al.
+<article-title>Histological and compositional evaluations of three types of calcium phosphate
+cements when implanted in subcutaneous tissue immediately after mixing</article-title>. <source>J Biomed Mater Res A</source>
+<year>1999</year>; <volume>48</volume>: <fpage>36</fpage>&#x02013;42.</mixed-citation></ref><ref id="bib11"><mixed-citation publication-type="journal">Barralet JE, Gaunt T, Wright AJ
+et al.
+<article-title>Effect of porosity reduction by compaction on compressive strength and
+microstructure of calcium phosphate cement</article-title>. <source>J Biomed Mater Res</source>
+<year>2002</year>; <volume>63</volume>: <fpage>1</fpage>&#x02013;9.<pub-id pub-id-type="pmid">11787022</pub-id></mixed-citation></ref><ref id="bib12"><mixed-citation publication-type="journal">Yokoyama A, Yamamoto S, Kawasaki T
+et al.
+<article-title>Development of calcium phosphate cement using chitosan and citric acid for bone
+substitute materials</article-title>. <source>Biomaterials</source>
+<year>2002</year>; <volume>23</volume>: <fpage>1091</fpage>&#x02013;1101.<pub-id pub-id-type="pmid">11791912</pub-id></mixed-citation></ref><ref id="bib13"><mixed-citation publication-type="journal">Gisep A, Wieling R, Bohner M
+et al.
+<article-title>Resorption patterns of calcium-phosphate cements in bone</article-title>. <source>J Biomed Mater Res A</source>
+<year>2003</year>; <volume>66</volume>: <fpage>532</fpage>&#x02013;540.<pub-id pub-id-type="pmid">12918036</pub-id></mixed-citation></ref><ref id="bib14"><mixed-citation publication-type="journal">Ehara A, Ogata K, Imazato S
+et al.
+<article-title>Effects of alpha-TCP and TetCP on MC3T3-E1 proliferation, differentiation and
+mineralization</article-title>. <source>Biomaterials</source>
+<year>2003</year>; <volume>24</volume>: <fpage>831</fpage>&#x02013;836.<pub-id pub-id-type="pmid">12485801</pub-id></mixed-citation></ref><ref id="bib15"><mixed-citation publication-type="journal">Yuasa T, Miyamoto Y, Ishikawa K
+et al.
+<article-title>Effects of apatite cements on proliferation and differentiation of human osteoblasts
+<italic>in vitro</italic></article-title>. <source>Biomaterials</source>
+<year>2004</year>; <volume>25</volume>: <fpage>1159</fpage>&#x02013;1166.<pub-id pub-id-type="pmid">14643589</pub-id></mixed-citation></ref><ref id="bib16"><mixed-citation publication-type="journal">Apelt D, Theiss F, El-Warrak AO
+et al.
+<article-title><italic>In vivo</italic> behavior of three different injectable hydraulic calcium phosphate
+cements</article-title>. <source>Biomaterials</source>
+<year>2004</year>; <volume>25</volume>: <fpage>1439</fpage>&#x02013;1451.<pub-id pub-id-type="pmid">14643619</pub-id></mixed-citation></ref><ref id="bib17"><mixed-citation publication-type="journal">Fernandez E, Vlad MD, Gel MM
+et al.
+<article-title>Modulation of porosity in apatitic cements by the use of alpha-tricalcium
+phosphate-calcium sulphate dihydrate mixtures</article-title>. <source>Biomaterials</source>
+<year>2005</year>; <volume>26</volume>: <fpage>3395</fpage>&#x02013;3404.<pub-id pub-id-type="pmid">15621228</pub-id></mixed-citation></ref><ref id="bib18"><mixed-citation publication-type="journal">del Real RP, Wolke JG, Vallet-Regi M, Jansen JA. <article-title>A new method to produce macropores in calcium phosphate cements</article-title>. <source>Biomaterials</source>
+<year>2002</year>; <volume>23</volume>: <fpage>3673</fpage>&#x02013;3680.<pub-id pub-id-type="pmid">12109693</pub-id></mixed-citation></ref><ref id="bib19"><mixed-citation publication-type="journal">Ginebra MP, Canal C, Espanol M
+et al.
+<article-title>Calcium phosphate cements as drug delivery materials</article-title>. <source>Adv Drug Deliv Rev</source>
+<year>2012</year>; <volume>64</volume>: <fpage>1090</fpage>&#x02013;1110.<pub-id pub-id-type="pmid">22310160</pub-id></mixed-citation></ref><ref id="bib20"><mixed-citation publication-type="journal">Chow LC. <article-title>Calcium phosphate cements: chemistry, properties, and applications</article-title>. <source>MRS Proc</source>
+<year>1999</year>; <volume>599</volume>: <fpage>27</fpage>.</mixed-citation></ref><ref id="bib21"><mixed-citation publication-type="journal">Xu HH, Weir MD, Burguera EF
+et al.
+<article-title>Injectable and macroporous calcium phosphate cement scaffold</article-title>. <source>Biomaterials</source>
+<year>2006</year>; <volume>27</volume>: <fpage>4279</fpage>&#x02013;4287.<pub-id pub-id-type="pmid">16650891</pub-id></mixed-citation></ref><ref id="bib22"><mixed-citation publication-type="journal">Ginebra MP, Traykova T, Planell JA. <article-title>Calcium phosphate cements as bone drug delivery systems: a review</article-title>. <source>J Control Release</source>
+<year>2006</year>; <volume>113</volume>: <fpage>102</fpage>&#x02013;110.<pub-id pub-id-type="pmid">16740332</pub-id></mixed-citation></ref><ref id="bib23"><mixed-citation publication-type="journal">An J, Wolke JG, Jansen JA
+et al.
+<article-title>Influence of polymeric additives on the cohesion and mechanical properties of
+calcium phosphate cements</article-title>. <source>J Mater Sci Mater Med</source>
+<year>2016</year>; <volume>27</volume>: <fpage>58</fpage>.<pub-id pub-id-type="pmid">26787490</pub-id></mixed-citation></ref><ref id="bib24"><mixed-citation publication-type="journal">Xu HH, Simon CG Jr. <article-title>Fast setting calcium phosphate-chitosan scaffold: mechanical properties and
+biocompatibility</article-title>. <source>Biomaterials</source>
+<year>2005</year>; <volume>26</volume>: <fpage>1337</fpage>&#x02013;1348.<pub-id pub-id-type="pmid">15482821</pub-id></mixed-citation></ref><ref id="bib25"><mixed-citation publication-type="journal">Cherng A, Takagi S, Chow LC. <article-title>Effects of hydroxypropyl methylcellulose and other gelling agents on the handling
+properties of calcium phosphate cement</article-title>. <source>J Biomed Mater Res A</source>
+<year>1997</year>; <volume>35</volume>: <fpage>273</fpage>&#x02013;277.</mixed-citation></ref><ref id="bib26"><mixed-citation publication-type="journal">Fukase Y, Eanes ED, Takagi S
+et al.
+<article-title>Setting reactions and compressive strengths of calcium phosphate cements</article-title>. <source>J Dent Res</source>
+<year>1990</year>; <volume>69</volume>: <fpage>1852</fpage>&#x02013;1856.<pub-id pub-id-type="pmid">2250090</pub-id></mixed-citation></ref><ref id="bib27"><mixed-citation publication-type="journal">Hesaraki S, Zamanian A, Moztarzadeh F. <article-title>The influence of the acidic component of the gas-foaming porogen used in preparing
+an injectable porous calcium phosphate cement on its properties: acetic acid versus citric
+acid</article-title>. <source>J Biomed Mater Res B Appl Biomater</source>
+<year>2008</year>; <volume>86</volume>: <fpage>208</fpage>&#x02013;216.<pub-id pub-id-type="pmid">18161816</pub-id></mixed-citation></ref><ref id="bib28"><mixed-citation publication-type="journal">Ginebra MP, Driessens FC, Planell JA. <article-title>Effect of the particle size on the micro and nanostructural features of a calcium
+phosphate cement: a kinetic analysis</article-title>. <source>Biomaterials</source>
+<year>2004</year>; <volume>25</volume>: <fpage>3453</fpage>&#x02013;3462.<pub-id pub-id-type="pmid">15020119</pub-id></mixed-citation></ref><ref id="bib29"><mixed-citation publication-type="journal">Weir MD, Xu HH. <article-title>Osteoblastic induction on calcium phosphate cement-chitosan constructs for bone
+tissue engineering</article-title>. <source>J Biomed Mater Res A</source>
+<year>2010</year>; <volume>94</volume>: <fpage>223</fpage>&#x02013;233.<pub-id pub-id-type="pmid">20166217</pub-id></mixed-citation></ref><ref id="bib30"><mixed-citation publication-type="journal">Mestres G, Le Van C, Ginebra MP. <article-title>Silicon-stabilized &#x003b1;-tricalcium phosphate and its use in a calcium phosphate
+cement: characterization and cell response</article-title>. <source>Acta Biomater</source>
+<year>2012</year>; <volume>8</volume>: <fpage>1169</fpage>&#x02013;1179.<pub-id pub-id-type="pmid">22154863</pub-id></mixed-citation></ref><ref id="bib31"><mixed-citation publication-type="journal">Lanao RPF, Leeuwenburgh SC, Wolke JG
+et al.
+<article-title>Bone response to fast-degrading, injectable calcium phosphate cements containing
+PLGA microparticles</article-title>. <source>Biomaterials</source>
+<year>2011</year>; <volume>32</volume>: <fpage>8839</fpage>&#x02013;8847.<pub-id pub-id-type="pmid">21871661</pub-id></mixed-citation></ref><ref id="bib32"><mixed-citation publication-type="journal">Theiss F, Apelt D, Brand B
+et al.
+<article-title>Biocompatibility and resorption of a brushite calcium phosphate cement</article-title>. <source>Biomaterials</source>
+<year>2005</year>; <volume>26</volume>: <fpage>4383</fpage>&#x02013;4394.<pub-id pub-id-type="pmid">15701367</pub-id></mixed-citation></ref><ref id="bib33"><mixed-citation publication-type="journal">Noetzel J, &#x000d6;zer K, Reisshauer B-H
+et al.
+<article-title>Tissue responses to an experimental calcium phosphate cement and mineral trioxide
+aggregate as materials for furcation perforation repair: a histological study in
+dogs</article-title>. <source>Clin Oral Investig</source>
+<year>2006</year>; <volume>10</volume>: <fpage>77</fpage>.</mixed-citation></ref><ref id="bib34"><mixed-citation publication-type="journal">Ambard AJ, Mueninghoff L. <article-title>Calcium phosphate cement: review of mechanical and biological properties</article-title>. <source>J Prosthodont</source>
+<year>2006</year>; <volume>15</volume>: <fpage>321</fpage>&#x02013;328.<pub-id pub-id-type="pmid">16958734</pub-id></mixed-citation></ref><ref id="bib35"><mixed-citation publication-type="journal">Canal C, Ginebra MP. <article-title>Fibre-reinforced calcium phosphate cements: a review</article-title>. <source>J Mech Behav Biomed Mater</source>
+<year>2011</year>; <volume>4</volume>: <fpage>1658</fpage>&#x02013;1671.<pub-id pub-id-type="pmid">22098867</pub-id></mixed-citation></ref><ref id="bib36"><mixed-citation publication-type="journal">Zhang J, Liu W, Schnitzler V
+et al.
+<article-title>Calcium phosphate cements for bone substitution: chemistry, handling and mechanical
+properties</article-title>. <source>Acta Biomater</source>
+<year>2014</year>; <volume>10</volume>: <fpage>1035</fpage>&#x02013;1049.<pub-id pub-id-type="pmid">24231047</pub-id></mixed-citation></ref><ref id="bib37"><mixed-citation publication-type="journal">Ginebra MP, Espanol M, Montufar EB
+et al.
+<article-title>New processing approaches in calcium phosphate cements and their applications in
+regenerative medicine</article-title>. <source>Acta Biomater</source>
+<year>2010</year>; <volume>6</volume>: <fpage>2863</fpage>&#x02013;2873.<pub-id pub-id-type="pmid">20123046</pub-id></mixed-citation></ref><ref id="bib38"><mixed-citation publication-type="journal">Bohner M, Gbureck U, Barralet JE. <article-title>Technological issues for the development of more efficient calcium phosphate bone
+cements: a critical assessment</article-title>. <source>Biomaterials</source>
+<year>2005</year>; <volume>26</volume>: <fpage>6423</fpage>&#x02013;6429.<pub-id pub-id-type="pmid">15964620</pub-id></mixed-citation></ref><ref id="bib39"><mixed-citation publication-type="journal">Verron E, Khairoun I, Guicheux J
+et al.
+<article-title>Calcium phosphate biomaterials as bone drug delivery systems: a review</article-title>. <source>Drug Discov Today</source>
+<year>2010</year>; <volume>15</volume>: <fpage>547</fpage>&#x02013;552.<pub-id pub-id-type="pmid">20546919</pub-id></mixed-citation></ref><ref id="bib40"><mixed-citation publication-type="journal">Ginebra M-P, Traykova T, Planell JA. <article-title>Calcium phosphate cements: competitive drug carriers for the musculoskeletal
+system?</article-title>
+<source>Biomaterials</source>
+<year>2006</year>; <volume>27</volume>: <fpage>2171</fpage>&#x02013;2177.<pub-id pub-id-type="pmid">16332349</pub-id></mixed-citation></ref><ref id="bib41"><mixed-citation publication-type="journal">Perez RA, Kim HW, Ginebra MP. <article-title>Polymeric additives to enhance the functional properties of calcium phosphate
+cements</article-title>. <source>J Tissue Eng</source>
+<year>2012</year>; <volume>3</volume>: <fpage>2041731412439555</fpage>.<pub-id pub-id-type="pmid">22511991</pub-id></mixed-citation></ref><ref id="bib42"><mixed-citation publication-type="book">Ishikawa K. <article-title>Calcium phosphate cement</article-title>. Ben-Nissan B (ed.). <source>Advances in Calcium Phosphate Biomaterials</source>. Berlin: Springer. <year>2014</year>, <fpage>199</fpage>&#x02013;227.</mixed-citation></ref><ref id="bib43"><mixed-citation publication-type="journal">Chow LC. <article-title>Next generation calcium phosphate-based biomaterials</article-title>. <source>Dent Mater J</source>
+<year>2009</year>; <volume>28</volume>: <fpage>1</fpage>&#x02013;10.<pub-id pub-id-type="pmid">19280963</pub-id></mixed-citation></ref><ref id="bib44"><mixed-citation publication-type="journal">Murphy WL, Dennis RG, Kileny JL
+et al.
+<article-title>Salt fusion: an approach to improve pore interconnectivity within tissue engineering
+scaffolds</article-title>. <source>Tissue Eng</source>
+<year>2002</year>; <volume>8</volume>: <fpage>43</fpage>&#x02013;52.<pub-id pub-id-type="pmid">11886653</pub-id></mixed-citation></ref><ref id="bib45"><mixed-citation publication-type="journal">Smith BT, Santoro M, Grosfeld EC
+et al.
+<article-title>Incorporation of fast dissolving glucose porogens into an injectable calcium
+phosphate cement for bone tissue engineering</article-title>. <source>Acta Biomater</source>
+<year>2017</year>; <volume>50</volume>: <fpage>68</fpage>&#x02013;77.<pub-id pub-id-type="pmid">27956363</pub-id></mixed-citation></ref><ref id="bib46"><mixed-citation publication-type="journal">Assaad E, Maire M, Lerouge S. <article-title>Injectable thermosensitive chitosan hydrogels with controlled gelation kinetics and
+enhanced mechanical resistance</article-title>. <source>Carbohydr Polym</source>
+<year>2015</year>; <volume>130</volume>: <fpage>87</fpage>&#x02013;96.<pub-id pub-id-type="pmid">26076604</pub-id></mixed-citation></ref><ref id="bib47"><mixed-citation publication-type="journal">Guvendiren M, Molde J, Soares RMD
+et al.
+<article-title>Designing biomaterials for 3D printing</article-title>. <source>ACS Biomater Sci Eng</source>
+<year>2016</year>; <volume>2</volume>: <fpage>1679</fpage>&#x02013;1693.<pub-id pub-id-type="pmid">28025653</pub-id></mixed-citation></ref><ref id="bib48"><mixed-citation publication-type="journal">Do AV, Khorsand B, Geary SM
+et al.
+<article-title>3D printing of scaffolds for tissue regeneration applications</article-title>. <source>Adv Healthc Mater</source>
+<year>2015</year>; <volume>4</volume>: <fpage>1742</fpage>&#x02013;1762.<pub-id pub-id-type="pmid">26097108</pub-id></mixed-citation></ref><ref id="bib49"><mixed-citation publication-type="journal">Bose S, Vahabzadeh S, Bandyopadhyay A. <article-title>Bone tissue engineering using 3D printing</article-title>. <source>Mater Today</source>
+<year>2013</year>; <volume>16</volume>: <fpage>496</fpage>&#x02013;504.</mixed-citation></ref><ref id="bib50"><mixed-citation publication-type="journal">Trombetta R, Inzana JA, Schwarz EM
+et al.
+<article-title>3D printing of calcium phosphate ceramics for bone tissue engineering and drug
+delivery</article-title>. <source>Ann Biomed Eng</source>
+<year>2017</year>; <volume>45</volume>: <fpage>23</fpage>&#x02013;44.<pub-id pub-id-type="pmid">27324800</pub-id></mixed-citation></ref><ref id="bib51"><mixed-citation publication-type="journal">Butscher A, Bohner M, Roth C
+et al.
+<article-title>Printability of calcium phosphate powders for three-dimensional printing of tissue
+engineering scaffolds</article-title>. <source>Acta Biomater</source>
+<year>2012</year>; <volume>8</volume>: <fpage>373</fpage>&#x02013;385.<pub-id pub-id-type="pmid">21925623</pub-id></mixed-citation></ref><ref id="bib52"><mixed-citation publication-type="other">Vacanti JP, Cima LG, Cima MJ. Vascularized tissue regeneration matrices formed by solid free form fabrication
+techniques. Google Patents. 2000; US Patent 6139574.</mixed-citation></ref><ref id="bib53"><mixed-citation publication-type="journal">Spath S, Seitz H. <article-title>Influence of grain size and grain-size distribution on workability of granules with
+3D printing</article-title>. <source>Int J Adv Manuf Technol</source>
+<year>2014</year>; <volume>70</volume>: <fpage>135</fpage>&#x02013;144.</mixed-citation></ref><ref id="bib54"><mixed-citation publication-type="journal">Butscher A, Bohner M, Doebelin N
+et al.
+<article-title>Moisture based three-dimensional printing of calcium phosphate structures for
+scaffold engineering</article-title>. <source>Acta Biomater</source>
+<year>2013</year>; <volume>9</volume>: <fpage>5369</fpage>&#x02013;5378.<pub-id pub-id-type="pmid">23069318</pub-id></mixed-citation></ref><ref id="bib55"><mixed-citation publication-type="journal">Zhou Z, Buchanan F, Mitchell C
+et al.
+<article-title>Printability of calcium phosphate: calcium sulfate powders for the application of
+tissue engineered bone scaffolds using the 3D printing technique</article-title>. <source>Mater Sci Eng C Mater Biol Appl</source>
+<year>2014</year>; <volume>38</volume>: <fpage>1</fpage>&#x02013;10.<pub-id pub-id-type="pmid">24656346</pub-id></mixed-citation></ref><ref id="bib56"><mixed-citation publication-type="journal">Bertol LS, Schabbach R, dos Santos LAL. <article-title>Dimensional evaluation of patient-specific 3D printing using calcium phosphate
+cement for craniofacial bone reconstruction</article-title>. <source>J Biomater Appl</source>
+<year>2017</year>; <volume>31</volume>: <fpage>799</fpage>&#x02013;806.</mixed-citation></ref><ref id="bib57"><mixed-citation publication-type="journal">Butscher A, Bohner M, Doebelin N
+et al.
+<article-title>New depowdering-friendly designs for three-dimensional printing of calcium phosphate
+bone substitutes</article-title>. <source>Acta Biomater</source>
+<year>2013</year>; <volume>9</volume>: <fpage>9149</fpage>&#x02013;9158.<pub-id pub-id-type="pmid">23891808</pub-id></mixed-citation></ref><ref id="bib58"><mixed-citation publication-type="journal">Farzadi A, Solati-Hashjin M, Asadi-Eydivand M
+et al.
+<article-title>Effect of layer thickness and printing orientation on mechanical properties and
+dimensional accuracy of 3D printed porous samples for bone tissue engineering</article-title>. <source>PLoS ONE</source>
+<year>2014</year>; <volume>9</volume>: <fpage>e108252</fpage>.<pub-id pub-id-type="pmid">25233468</pub-id></mixed-citation></ref><ref id="bib59"><mixed-citation publication-type="journal">Lode A, Meissner K, Luo Y
+et al.
+<article-title>Fabrication of porous scaffolds by three-dimensional plotting of a pasty calcium
+phosphate bone cement under mild conditions</article-title>. <source>J Tissue Eng Regen Med</source>
+<year>2014</year>; <volume>8</volume>: <fpage>682</fpage>&#x02013;693.<pub-id pub-id-type="pmid">22933381</pub-id></mixed-citation></ref><ref id="bib60"><mixed-citation publication-type="book">Luo Y, Lode A, Wu C, Gelinsky M. <article-title>3D plotting of bioceramic scaffolds under physiological conditions for bone tissue
+engineering</article-title>. In: Wu C, Chang J, Xiao Y (eds.). <source>Advanced Bioactive Inorganic Materials for Bone Regeneration and Drug
+Delivery</source>. Boca Raton: CRC Press. <year>2013</year>, <fpage>83</fpage>&#x02013;103.</mixed-citation></ref><ref id="bib61"><mixed-citation publication-type="journal">Li C, Gao L, Chen F
+et al.
+<article-title>Fabrication of mesoporous calcium silicate/calcium phosphate cement scaffolds with
+high mechanical strength by freeform fabrication system with micro-droplet
+jetting</article-title>. <source>Journal of Materials Science</source>
+<year>2015</year>; <volume>50</volume>: <fpage>7182</fpage>&#x02013;7191.</mixed-citation></ref><ref id="bib62"><mixed-citation publication-type="journal">Maazouz Y, Montufar EB, Guillem-Marti J
+et al.
+<article-title>Robocasting of biomimetic hydroxyapatite scaffolds using self-setting inks</article-title>. <source>J Mater Chem B</source>
+<year>2014</year>; <volume>2</volume>: <fpage>5378</fpage>&#x02013;5386.</mixed-citation></ref><ref id="bib63"><mixed-citation publication-type="journal">Marques CF, Perera FH, Marote A
+et al.
+<article-title>Biphasic calcium phosphate scaffolds fabricated by direct write assembly:
+mechanical, anti-microbial and osteoblastic properties</article-title>. <source>J Eur Ceram Soc</source>
+<year>2017</year>; <volume>37</volume>: <fpage>359</fpage>&#x02013;368.</mixed-citation></ref><ref id="bib64"><mixed-citation publication-type="journal">Ahlfeld T, Akkineni AR, Forster Y
+et al.
+<article-title>Design and fabrication of complex scaffolds for bone defect healing: combined 3D
+plotting of a calcium phosphate cement and a growth factor-loaded hydrogel</article-title>. <source>Ann Biomed Eng</source>
+<year>2017</year>; <volume>45</volume>: <fpage>224</fpage>&#x02013;236.<pub-id pub-id-type="pmid">27384939</pub-id></mixed-citation></ref><ref id="bib65"><mixed-citation publication-type="journal">Billiet T, Gevaert E, De Schryver T
+et al.
+<article-title>The 3D printing of gelatin methacrylamide cell-laden tissue-engineered constructs
+with high cell viability</article-title>. <source>Biomaterials</source>
+<year>2014</year>; <volume>35</volume>: <fpage>49</fpage>&#x02013;62.<pub-id pub-id-type="pmid">24112804</pub-id></mixed-citation></ref><ref id="bib66"><mixed-citation publication-type="journal">Li C, Jiang C, Deng Y
+et al.
+<article-title>RhBMP-2 loaded 3D-printed mesoporous silica/calcium phosphate cement porous
+scaffolds with enhanced vascularization and osteogenesis properties</article-title>. <source>Sci Rep</source>
+<year>2017</year>; <volume>7</volume>: <fpage>41331</fpage>.<pub-id pub-id-type="pmid">28128363</pub-id></mixed-citation></ref><ref id="bib67"><mixed-citation publication-type="journal">Wust S, Godla ME, Muller R
+et al.
+<article-title>Tunable hydrogel composite with two-step processing in combination with innovative
+hardware upgrade for cell-based three-dimensional bioprinting</article-title>. <source>Acta Biomater</source>
+<year>2014</year>; <volume>10</volume>: <fpage>630</fpage>&#x02013;640.<pub-id pub-id-type="pmid">24157694</pub-id></mixed-citation></ref><ref id="bib68"><mixed-citation publication-type="journal">Park JY, Choi JC, Shim JH
+et al.
+<article-title>A comparative study on collagen type I and hyaluronic acid dependent cell behavior
+for osteochondral tissue bioprinting</article-title>. <source>Biofabrication</source>
+<year>2014</year>; <volume>6</volume>: <fpage>035004</fpage>.<pub-id pub-id-type="pmid">24758832</pub-id></mixed-citation></ref><ref id="bib69"><mixed-citation publication-type="journal">Sawkins MJ, Mistry P, Brown BN
+et al.
+<article-title>Cell and protein compatible 3D bioprinting of mechanically strong constructs for
+bone repair</article-title>. <source>Biofabrication</source>
+<year>2015</year>; <volume>7</volume>: <fpage>035004</fpage>.<pub-id pub-id-type="pmid">26133398</pub-id></mixed-citation></ref><ref id="bib70"><mixed-citation publication-type="journal">O'Neill R, McCarthy HO, Montufar EB
+et al.
+<article-title>Critical review: injectability of calcium phosphate pastes and cements</article-title>. <source>Acta Biomater</source>
+<year>2017</year>; <volume>50</volume>: <fpage>1</fpage>&#x02013;19.<pub-id pub-id-type="pmid">27838464</pub-id></mixed-citation></ref><ref id="bib71"><mixed-citation publication-type="journal">Khairoun I, Driessens FC, Boltong MG
+et al.
+<article-title>Addition of cohesion promotors to calcium phosphate cements</article-title>. <source>Biomaterials</source>
+<year>1999</year>; <volume>20</volume>: <fpage>393</fpage>&#x02013;398.<pub-id pub-id-type="pmid">10048413</pub-id></mixed-citation></ref><ref id="bib72"><mixed-citation publication-type="journal">Krebs J, Aebli N, Goss BG
+et al.
+<article-title>Cardiovascular changes after pulmonary embolism from injecting calcium phosphate
+cement</article-title>. <source>J Biomed Mater Res B Appl Biomater</source>
+<year>2007</year>; <volume>82</volume>: <fpage>526</fpage>&#x02013;532.<pub-id pub-id-type="pmid">17285605</pub-id></mixed-citation></ref><ref id="bib73"><mixed-citation publication-type="journal">Bigi A, Bracci B, Panzavolta S. <article-title>Effect of added gelatin on the properties of calcium phosphate cement</article-title>. <source>Biomaterials</source>
+<year>2004</year>; <volume>25</volume>: <fpage>2893</fpage>&#x02013;2899.<pub-id pub-id-type="pmid">14962568</pub-id></mixed-citation></ref><ref id="bib74"><mixed-citation publication-type="journal">Alkhraisat MH, Rueda C, Marino FT
+et al.
+<article-title>The effect of hyaluronic acid on brushite cement cohesion</article-title>. <source>Acta Biomater</source>
+<year>2009</year>; <volume>5</volume>: <fpage>3150</fpage>&#x02013;3156.<pub-id pub-id-type="pmid">19409871</pub-id></mixed-citation></ref><ref id="bib75"><mixed-citation publication-type="journal">Liu W, Zhang J, Weiss P
+et al.
+<article-title>The influence of different cellulose ethers on both the handling and mechanical
+properties of calcium phosphate cements for bone substitution</article-title>. <source>Acta Biomater</source>
+<year>2013</year>; <volume>9</volume>: <fpage>5740</fpage>&#x02013;5750.<pub-id pub-id-type="pmid">23201018</pub-id></mixed-citation></ref><ref id="bib76"><mixed-citation publication-type="journal">O'Hara RM, Dunne NJ, Orr JF
+et al.
+<article-title>Optimisation of the mechanical and handling properties of an injectable calcium
+phosphate cement</article-title>. <source>J Mater Sci Mater Med</source>
+<year>2010</year>; <volume>21</volume>: <fpage>2299</fpage>&#x02013;2305.<pub-id pub-id-type="pmid">20094904</pub-id></mixed-citation></ref><ref id="bib77"><mixed-citation publication-type="journal">Khairoun I, Boltong MG, Driessens FCM
+et al.
+<article-title>Some factors controlling the injectability of calcium phosphate bone
+cements</article-title>. <source>J Mater Sci Mater Med</source>
+<year>1998</year>; <volume>9</volume>: <fpage>425</fpage>&#x02013;428.<pub-id pub-id-type="pmid">15348854</pub-id></mixed-citation></ref><ref id="bib78"><mixed-citation publication-type="journal">Burguera EF, Xu HH, Sun L. <article-title>Injectable calcium phosphate cement: effects of powder-to-liquid ratio and needle
+size</article-title>. <source>J Biomed Mater Res B Appl Biomater</source>
+<year>2008</year>; <volume>84</volume>: <fpage>493</fpage>&#x02013;502.<pub-id pub-id-type="pmid">17635038</pub-id></mixed-citation></ref><ref id="bib79"><mixed-citation publication-type="journal">Liao H, Walboomers XF, Habraken WJ
+et al.
+<article-title>Injectable calcium phosphate cement with PLGA, gelatin and PTMC microspheres in a
+rabbit femoral defect</article-title>. <source>Acta Biomater</source>
+<year>2011</year>; <volume>7</volume>: <fpage>1752</fpage>&#x02013;1759.<pub-id pub-id-type="pmid">21185953</pub-id></mixed-citation></ref><ref id="bib80"><mixed-citation publication-type="journal">Yang HL, Zhu XS, Chen L
+et al.
+<article-title>Bone healing response to a synthetic calcium sulfate/beta-tricalcium phosphate graft
+material in a sheep vertebral body defect model</article-title>. <source>J Biomed Mater Res B Appl Biomater</source>
+<year>2012</year>; <volume>100</volume>: <fpage>1911</fpage>&#x02013;1921.<pub-id pub-id-type="pmid">22847979</pub-id></mixed-citation></ref><ref id="bib81"><mixed-citation publication-type="journal">Babo PS, Carvalho PP, Santo VE
+et al.
+<article-title>Assessment of bone healing ability of calcium phosphate cements loaded with platelet
+lysate in rat calvarial defects</article-title>. <source>J Biomater Appl</source>
+<year>2016</year>; <volume>31</volume>: <fpage>637</fpage>&#x02013;649.<pub-id pub-id-type="pmid">27638154</pub-id></mixed-citation></ref><ref id="bib82"><mixed-citation publication-type="journal">Hoekstra JW, Klijn RJ, Meijer GJ
+et al.
+<article-title>Maxillary sinus floor augmentation with injectable calcium phosphate cements: a
+pre-clinical study in sheep</article-title>. <source>Clin Oral Implants Res</source>
+<year>2013</year>; <volume>24</volume>: <fpage>210</fpage>&#x02013;216.<pub-id pub-id-type="pmid">22335192</pub-id></mixed-citation></ref><ref id="bib83"><mixed-citation publication-type="journal">Verron E, Pissonnier ML, Lesoeur J
+et al.
+<article-title>Vertebroplasty using bisphosphonate-loaded calcium phosphate cement in a
+standardized vertebral body bone defect in an osteoporotic sheep model</article-title>. <source>Acta Biomater</source>
+<year>2014</year>; <volume>10</volume>: <fpage>4887</fpage>&#x02013;4895.<pub-id pub-id-type="pmid">25050773</pub-id></mixed-citation></ref><ref id="bib84"><mixed-citation publication-type="journal">Shirakata Y, Setoguchi T, Machigashira M
+et al.
+<article-title>Comparison of injectable calcium phosphate bone cement grafting and open flap
+debridement in periodontal intrabony defects: a randomized clinical trial</article-title>. <source>J Periodontol</source>
+<year>2008</year>; <volume>79</volume>: <fpage>25</fpage>&#x02013;32.<pub-id pub-id-type="pmid">18166089</pub-id></mixed-citation></ref><ref id="bib85"><mixed-citation publication-type="journal">Gumpert R, Bodo K, Spuller E
+et al.
+<article-title>Demineralization after balloon kyphoplasty with calcium phosphate cement: a
+histological evaluation in ten patients</article-title>. <source>Eur Spine J</source>
+<year>2014</year>; <volume>23</volume>: <fpage>1361</fpage>&#x02013;1368.<pub-id pub-id-type="pmid">24566944</pub-id></mixed-citation></ref><ref id="bib86"><mixed-citation publication-type="journal">Larsson S, Bauer TW. <article-title>Use of injectable calcium phosphate cement for fracture fixation: a review</article-title>. <source>Clin Orthop Relat Res</source>
+<year>2002</year>; <volume>395</volume>: <fpage>23</fpage>&#x02013;32.</mixed-citation></ref><ref id="bib87"><mixed-citation publication-type="journal">Jansen J, Ooms E, Verdonschot N
+et al.
+<article-title>Injectable calcium phosphate cement for bone repair and implant fixation</article-title>. <source>Orthop Clin North Am</source>
+<year>2005</year>; <volume>36</volume>: <fpage>89</fpage>&#x02013;95.<pub-id pub-id-type="pmid">15542127</pub-id></mixed-citation></ref><ref id="bib88"><mixed-citation publication-type="journal">Lewis G. <article-title>Injectable bone cements for use in vertebroplasty and kyphoplasty: state-of-the-art
+review</article-title>. <source>J Biomed Mater Res B Appl Biomater</source>
+<year>2006</year>; <volume>76</volume>: <fpage>456</fpage>&#x02013;468.<pub-id pub-id-type="pmid">16196037</pub-id></mixed-citation></ref><ref id="bib89"><mixed-citation publication-type="journal">Williams DF. <article-title>On the mechanisms of biocompatibility</article-title>. <source>Biomaterials</source>
+<year>2008</year>; <volume>29</volume>: <fpage>2941</fpage>&#x02013;2953.<pub-id pub-id-type="pmid">18440630</pub-id></mixed-citation></ref><ref id="bib90"><mixed-citation publication-type="journal">Bohner M. <article-title>Reactivity of calcium phosphate cements</article-title>. <source>J Mater Chem</source>
+<year>2007</year>; <volume>17</volume>: <fpage>3980</fpage>&#x02013;3986.</mixed-citation></ref><ref id="bib91"><mixed-citation publication-type="journal">Ruhe PQ, Hedberg-Dirk EL, Padron NT
+et al.
+<article-title>Porous poly(DL-lactic-co-glycolic acid)/calcium phosphate cement composite for
+reconstruction of bone defects</article-title>. <source>Tissue Eng</source>
+<year>2006</year>; <volume>12</volume>: <fpage>789</fpage>&#x02013;800.<pub-id pub-id-type="pmid">16674292</pub-id></mixed-citation></ref><ref id="bib92"><mixed-citation publication-type="journal">Takechi M, Miyamoto Y, Ishikawa K
+et al.
+<article-title>Initial histological evaluation of anti-washout type fast-setting calcium phosphate
+cement following subcutaneous implantation</article-title>. <source>Biomaterials</source>
+<year>1998</year>; <volume>19</volume>: <fpage>2057</fpage>&#x02013;2063.<pub-id pub-id-type="pmid">9870757</pub-id></mixed-citation></ref><ref id="bib93"><mixed-citation publication-type="journal">Guo H, Su J, Wei J
+et al.
+<article-title>Biocompatibility and osteogenicity of degradable Ca-deficient hydroxyapatite
+scaffolds from calcium phosphate cement for bone tissue engineering</article-title>. <source>Acta Biomater</source>
+<year>2009</year>; <volume>5</volume>: <fpage>268</fpage>&#x02013;278.<pub-id pub-id-type="pmid">18722167</pub-id></mixed-citation></ref><ref id="bib94"><mixed-citation publication-type="journal">Lanao RF, Hoekstra J, Wolke J
+et al.
+<article-title>Porous calcium phosphate cement for alveolar bone regeneration</article-title>. <source>J Tissue Eng Regen Med</source>
+<year>2014</year>; <volume>8</volume>: <fpage>473</fpage>&#x02013;482.<pub-id pub-id-type="pmid">22777771</pub-id></mixed-citation></ref><ref id="bib95"><mixed-citation publication-type="journal">del Real RP, Ooms E, Wolke JG
+et al.
+<article-title>In vivo bone response to porous calcium phosphate cement</article-title>. <source>J Biomed Mater Res A</source>
+<year>2003</year>; <volume>65</volume>: <fpage>30</fpage>&#x02013;36.<pub-id pub-id-type="pmid">12635151</pub-id></mixed-citation></ref><ref id="bib96"><mixed-citation publication-type="journal">Xu HHK, Carey LE, Simon CG
+et al.
+<article-title>Premixed calcium phosphate cements: synthesis, physical properties, and cell
+cytotoxicity</article-title>. <source>Dent Mater</source>
+<year>2007</year>; <volume>23</volume>: <fpage>433</fpage>&#x02013;441.<pub-id pub-id-type="pmid">16678895</pub-id></mixed-citation></ref><ref id="bib97"><mixed-citation publication-type="journal">Ueyama Y, Ishikawa K, Mano T
+et al.
+<article-title>Initial tissue response to anti-washout apatite cement in the rat palatal region:
+comparison with conventional apatite cement</article-title>. <source>J Biomed Mater Res A</source>
+<year>2001</year>; <volume>55</volume>: <fpage>652</fpage>&#x02013;660.</mixed-citation></ref><ref id="bib98"><mixed-citation publication-type="journal">Zhang J, Liu W, Gauthier O
+et al.
+<article-title>A simple and effective approach to prepare injectable macroporous calcium phosphate
+cement for bone repair: syringe-foaming using a viscous hydrophilic polymeric
+solution</article-title>. <source>Acta Biomater</source>
+<year>2016</year>; <volume>31</volume>: <fpage>326</fpage>&#x02013;338.<pub-id pub-id-type="pmid">26631875</pub-id></mixed-citation></ref><ref id="bib99"><mixed-citation publication-type="journal">Hench LL, Splinter RJ, Allen WC
+et al.
+<article-title>Bonding mechanisms at the interface of ceramic prosthetic materials</article-title>. <source>J Biomed Mater Res A</source>
+<year>1971</year>; <volume>5</volume>: <fpage>117</fpage>&#x02013;141.</mixed-citation></ref><ref id="bib100"><mixed-citation publication-type="journal">Kokubo T, Takadama H. <article-title>How useful is SBF in predicting <italic>in vivo</italic> bone bioactivity?</article-title>
+<source>Biomaterials</source>
+<year>2006</year>; <volume>27</volume>: <fpage>2907</fpage>&#x02013;2915.<pub-id pub-id-type="pmid">16448693</pub-id></mixed-citation></ref><ref id="bib101"><mixed-citation publication-type="journal">Bohner M, Lemaitre J. <article-title>Can bioactivity be tested <italic>in vitro</italic> with SBF solution?</article-title>
+<source>Biomaterials</source>
+<year>2009</year>; <volume>30</volume>: <fpage>2175</fpage>&#x02013;2179.<pub-id pub-id-type="pmid">19176246</pub-id></mixed-citation></ref><ref id="bib102"><mixed-citation publication-type="journal">D'Onofrio A, Kent NW, Shahdad SA
+et al.
+<article-title>Development of novel strontium containing bioactive glass based calcium phosphate
+cement</article-title>. <source>Dent Mater</source>
+<year>2016</year>; <volume>32</volume>: <fpage>703</fpage>&#x02013;712.<pub-id pub-id-type="pmid">27033459</pub-id></mixed-citation></ref><ref id="bib103"><mixed-citation publication-type="journal">Sadiasa A, Sarkar SK, Franco RA
+et al.
+<article-title>Bioactive glass incorporation in calcium phosphate cement-based injectable bone
+substitute for improved in vitro biocompatibility and in vivo bone regeneration</article-title>. <source>J Biomater Appl</source>
+<year>2014</year>; <volume>28</volume>: <fpage>739</fpage>&#x02013;756.<pub-id pub-id-type="pmid">23470354</pub-id></mixed-citation></ref><ref id="bib104"><mixed-citation publication-type="journal">Albrektsson T, Johansson C. <article-title>Osteoinduction, osteoconduction and osseointegration</article-title>. <source>Eur Spine J</source>
+<year>2001</year>; <volume>10</volume>: <fpage>S96</fpage>&#x02013;S101.<pub-id pub-id-type="pmid">11716023</pub-id></mixed-citation></ref><ref id="bib105"><mixed-citation publication-type="journal">Moreau JL, Xu HH. <article-title>Mesenchymal stem cell proliferation and differentiation on an injectable calcium
+phosphate-chitosan composite scaffold</article-title>. <source>Biomaterials</source>
+<year>2009</year>; <volume>30</volume>: <fpage>2675</fpage>&#x02013;2682.<pub-id pub-id-type="pmid">19187958</pub-id></mixed-citation></ref><ref id="bib106"><mixed-citation publication-type="journal">LeGeros RZ. <article-title>Properties of osteoconductive biomaterials: calcium phosphates</article-title>. <source>Clin Orthop Relat Res</source>
+<year>2002</year>; <volume>395</volume>: <fpage>81</fpage>&#x02013;98.</mixed-citation></ref><ref id="bib107"><mixed-citation publication-type="journal">Denry I, Kuhn LT. <article-title>Design and characterization of calcium phosphate ceramic scaffolds for bone tissue
+engineering</article-title>. <source>Dent Mater</source>
+<year>2016</year>; <volume>32</volume>: <fpage>43</fpage>&#x02013;53.<pub-id pub-id-type="pmid">26423007</pub-id></mixed-citation></ref><ref id="bib108"><mixed-citation publication-type="journal">Aparicio JL, Rueda C, Manchon A
+et al.
+<article-title>Effect of physicochemical properties of a cement based on silicocarnotite/calcium
+silicate on <italic>in vitro</italic> cell adhesion and <italic>in vivo</italic> cement
+degradation</article-title>. <source>Biomed Mater</source>
+<year>2016</year>; <volume>11</volume>: <fpage>045005</fpage>.<pub-id pub-id-type="pmid">27481549</pub-id></mixed-citation></ref><ref id="bib109"><mixed-citation publication-type="journal">Kuang GM, Yau WP, Wu J
+et al.
+<article-title>Strontium exerts dual effects on calcium phosphate cement: accelerating the
+degradation and enhancing the osteoconductivity both <italic>in vitro</italic> and <italic>in
+vivo</italic></article-title>. <source>J Biomed Mater Res A</source>
+<year>2015</year>; <volume>103</volume>: <fpage>1613</fpage>&#x02013;1621.<pub-id pub-id-type="pmid">25087971</pub-id></mixed-citation></ref><ref id="bib110"><mixed-citation publication-type="journal">Yuan H, Li Y, de Bruijn JD
+et al.
+<article-title>Tissue responses of calcium phosphate cement: a study in dogs</article-title>. <source>Biomaterials</source>
+<year>2000</year>; <volume>21</volume>: <fpage>1283</fpage>&#x02013;1290.<pub-id pub-id-type="pmid">10811310</pub-id></mixed-citation></ref><ref id="bib111"><mixed-citation publication-type="journal">LeGeros RZ. <article-title>Calcium phosphate-based osteoinductive materials</article-title>. <source>Chem Rev</source>
+<year>2008</year>; <volume>108</volume>: <fpage>4742</fpage>&#x02013;4753.<pub-id pub-id-type="pmid">19006399</pub-id></mixed-citation></ref><ref id="bib112"><mixed-citation publication-type="journal">Wu X, Itoh N, Taniguchi T
+et al.
+<article-title>Requirement of calcium and phosphate ions in expression of sodium-dependent vitamin
+C transporter 2 and osteopontin in MC3T3-E1 osteoblastic cells</article-title>. <source>Biochim Biophys Acta</source>
+<year>2003</year>; <volume>1641</volume>: <fpage>65</fpage>&#x02013;70.<pub-id pub-id-type="pmid">12788230</pub-id></mixed-citation></ref><ref id="bib113"><mixed-citation publication-type="journal">Barradas AM, Yuan H, van Blitterswijk CA
+et al.
+<article-title>Osteoinductive biomaterials: current knowledge of properties, experimental models
+and biological mechanisms</article-title>. <source>Eur Cell Mater</source>
+<year>2011</year>; <volume>21</volume>: <fpage>407</fpage>&#x02013;429.<pub-id pub-id-type="pmid">21604242</pub-id></mixed-citation></ref><ref id="bib114"><mixed-citation publication-type="journal">Habibovic P, Bassett DC, Doillon CJ
+et al.
+<article-title>Collagen biomineralization <italic>in vivo</italic> by sustained release of inorganic
+phosphate ions</article-title>. <source>Adv Mater</source>
+<year>2010</year>; <volume>22</volume>: <fpage>1858</fpage>&#x02013;1862.<pub-id pub-id-type="pmid">20512962</pub-id></mixed-citation></ref><ref id="bib115"><mixed-citation publication-type="journal">Zhang J, Ma X, Lin D
+et al.
+<article-title>Magnesium modification of a calcium phosphate cement alters bone marrow stromal cell
+behavior via an integrin-mediated mechanism</article-title>. <source>Biomaterials</source>
+<year>2015</year>; <volume>53</volume>: <fpage>251</fpage>&#x02013;264.<pub-id pub-id-type="pmid">25890724</pub-id></mixed-citation></ref><ref id="bib116"><mixed-citation publication-type="journal">Thein-Han W, Liu J, Tang M
+et al.
+<article-title>Induced pluripotent stem cell-derived mesenchymal stem cell seeding on
+biofunctionalized calcium phosphate cements</article-title>. <source>Bone Res</source>
+<year>2013</year>; <volume>4</volume>: <fpage>371</fpage>&#x02013;384.<pub-id pub-id-type="pmid">24839581</pub-id></mixed-citation></ref><ref id="bib117"><mixed-citation publication-type="journal">Song G, Habibovic P, Bao C
+et al.
+<article-title>The homing of bone marrow MSCs to non-osseous sites for ectopic bone formation
+induced by osteoinductive calcium phosphate</article-title>. <source>Biomaterials</source>
+<year>2013</year>; <volume>34</volume>: <fpage>2167</fpage>&#x02013;2176.<pub-id pub-id-type="pmid">23298780</pub-id></mixed-citation></ref><ref id="bib118"><mixed-citation publication-type="journal">Zhang J, Zhou H, Yang K
+et al.
+<article-title>RhBMP-2-loaded calcium silicate/calcium phosphate cement scaffold with
+hierarchically porous structure for enhanced bone tissue regeneration</article-title>. <source>Biomaterials</source>
+<year>2013</year>; <volume>34</volume>: <fpage>9381</fpage>&#x02013;9392.<pub-id pub-id-type="pmid">24044997</pub-id></mixed-citation></ref><ref id="bib119"><mixed-citation publication-type="journal">Lee GH, Makkar P, Paul K
+et al.
+<article-title>Incorporation of BMP-2 loaded collagen conjugated BCP granules in calcium phosphate
+cement based injectable bone substitutes for improved bone regeneration</article-title>. <source>Mater Sci Eng C</source>
+<year>2017</year>; <volume>77</volume>: <fpage>713</fpage>&#x02013;724.</mixed-citation></ref><ref id="bib120"><mixed-citation publication-type="journal">Dong J, Cui G, Bi L
+et al.
+<article-title>The mechanical and biological studies of calcium phosphate cement-fibrin glue for
+bone reconstruction of rabbit femoral defects</article-title>. <source>Int J Nanomedicine</source>
+<year>2013</year>; <volume>8</volume>: <fpage>1317</fpage>&#x02013;1324.<pub-id pub-id-type="pmid">23576869</pub-id></mixed-citation></ref><ref id="bib121"><mixed-citation publication-type="journal">Takechi M, Ninomiya Y, Ohta K
+et al.
+<article-title>Effects of apatite cement containing atelocollagen on attachment to and
+proliferation and differentiation of MC3T3-E1 osteoblastic cells</article-title>. <source>Materials</source>
+<year>2016</year>; <volume>9</volume>: <fpage>283</fpage>.</mixed-citation></ref><ref id="bib122"><mixed-citation publication-type="journal">Liu R, Wu X, Li J
+et al.
+<article-title>The promotion of bone tissue regeneration by BMP2-derived peptide P24-loaded calcium
+phosphate cement microspheres</article-title>. <source>Ceram Int</source>
+<year>2016</year>; <volume>42</volume>: <fpage>3177</fpage>&#x02013;3189.</mixed-citation></ref><ref id="bib123"><mixed-citation publication-type="journal">Wang T, Wu D, Li Y
+et al.
+<article-title>Substance P incorporation in calcium phosphate cement for dental alveolar bone
+defect restoration</article-title>. <source>Mater Sci Eng C Mater Biol Appl</source>
+<year>2016</year>; <volume>69</volume>: <fpage>546</fpage>&#x02013;553.<pub-id pub-id-type="pmid">27612746</pub-id></mixed-citation></ref><ref id="bib124"><mixed-citation publication-type="journal">Sheikh Z, Abdallah MN, Hanafi AA
+et al.
+<article-title>Mechanisms of <italic>in vivo</italic> degradation and resorption of calcium phosphate based
+biomaterials</article-title>. <source>Materials</source>
+<year>2015</year>; <volume>8</volume>: <fpage>7913</fpage>&#x02013;7925.<pub-id pub-id-type="pmid">28793687</pub-id></mixed-citation></ref><ref id="bib125"><mixed-citation publication-type="journal">Lu J, Descamps M, Dejou J
+et al.
+<article-title>The biodegradation mechanism of calcium phosphate biomaterials in bone</article-title>. <source>J Biomed Mater Res A</source>
+<year>2002</year>; <volume>63</volume>: <fpage>408</fpage>&#x02013;412.</mixed-citation></ref><ref id="bib126"><mixed-citation publication-type="journal">Lanao RPF, Leeuwenburgh SC, Wolke JG
+et al.
+<article-title>In vitro degradation rate of apatitic calcium phosphate cement with incorporated
+PLGA microspheres</article-title>. <source>Acta Biomater</source>
+<year>2011</year>; <volume>7</volume>: <fpage>3459</fpage>&#x02013;3468.<pub-id pub-id-type="pmid">21689794</pub-id></mixed-citation></ref><ref id="bib127"><mixed-citation publication-type="journal">Grosfeld EC, Hoekstra JW, Herber RP
+et al.
+<article-title>Long-term biological performance of injectable and degradable calcium phosphate
+cement</article-title>. <source>Biomed Mater</source>
+<year>2016</year>; <volume>12</volume>: <fpage>015009</fpage>.<pub-id pub-id-type="pmid">27934787</pub-id></mixed-citation></ref><ref id="bib128"><mixed-citation publication-type="journal">Lanao RPF, Sariibrahimoglu K, Wang H
+et al.
+<article-title>Accelerated calcium phosphate cement degradation due to incorporation of
+glucono-delta-lactone microparticles</article-title>. <source>Tissue Eng A</source>
+<year>2014</year>; <volume>20</volume>: <fpage>378</fpage>&#x02013;388.</mixed-citation></ref><ref id="bib129"><mixed-citation publication-type="journal">Schwarz KA, Leonard JN. <article-title>Engineering cell-based therapies to interface robustly with host physiology</article-title>. <source>Adv Drug Deliv Rev</source>
+<year>2016</year>; <volume>105</volume>: <fpage>55</fpage>&#x02013;65.<pub-id pub-id-type="pmid">27266446</pub-id></mixed-citation></ref><ref id="bib130"><mixed-citation publication-type="journal">Wang P, Zhao L, Liu J
+et al.
+<article-title>Bone tissue engineering via nanostructured calcium phosphate biomaterials and stem
+cells</article-title>. <source>Bone Res</source>
+<year>2014</year>; <volume>2</volume>: <fpage>14017</fpage>.<pub-id pub-id-type="pmid">26273526</pub-id></mixed-citation></ref><ref id="bib131"><mixed-citation publication-type="journal">Wang P, Zhao L, Chen W
+et al.
+<article-title>Stem cells and calcium phosphate cement scaffolds for bone regeneration</article-title>. <source>J Dent Res</source>
+<year>2014</year>; <volume>93</volume>: <fpage>618</fpage>&#x02013;625.<pub-id pub-id-type="pmid">24799422</pub-id></mixed-citation></ref><ref id="bib132"><mixed-citation publication-type="journal">Villalona GA, Udelsman B, Duncan DR
+et al.
+<article-title>Cell-seeding techniques in vascular tissue engineering</article-title>. <source>Tissue Eng Part B Rev</source>
+<year>2010</year>; <volume>16</volume>: <fpage>341</fpage>&#x02013;350.<pub-id pub-id-type="pmid">20085439</pub-id></mixed-citation></ref><ref id="bib133"><mixed-citation publication-type="journal">Wang P, Song Y, Weir MD
+et al.
+<article-title>A self-setting iPSMSC-alginate-calcium phosphate paste for bone tissue
+engineering</article-title>. <source>Dent Mater</source>
+<year>2016</year>; <volume>32</volume>: <fpage>252</fpage>&#x02013;263.<pub-id pub-id-type="pmid">26743965</pub-id></mixed-citation></ref><ref id="bib134"><mixed-citation publication-type="journal">Mihaila SM, Popa EG, Reis RL
+et al.
+<article-title>Fabrication of endothelial cell-laden carrageenan microfibers for microvascularized
+bone tissue engineering applications</article-title>. <source>Biomacromolecules</source>
+<year>2014</year>; <volume>15</volume>: <fpage>2849</fpage>&#x02013;2860.<pub-id pub-id-type="pmid">24963559</pub-id></mixed-citation></ref><ref id="bib135"><mixed-citation publication-type="journal">Kang A, Park J, Ju J
+et al.
+<article-title>Cell encapsulation via microtechnologies</article-title>. <source>Biomaterials</source>
+<year>2014</year>; <volume>35</volume>: <fpage>2651</fpage>&#x02013;2663.<pub-id pub-id-type="pmid">24439405</pub-id></mixed-citation></ref><ref id="bib136"><mixed-citation publication-type="journal">Raof NA, Padgen MR, Gracias AR
+et al.
+<article-title>One-dimensional self-assembly of mouse embryonic stem cells using an array of
+hydrogel microstrands</article-title>. <source>Biomaterials</source>
+<year>2011</year>; <volume>32</volume>: <fpage>4498</fpage>&#x02013;4505.<pub-id pub-id-type="pmid">21459438</pub-id></mixed-citation></ref><ref id="bib137"><mixed-citation publication-type="journal">Wang L, Wang P, Weir MD
+et al.
+<article-title>Hydrogel fibers encapsulating human stem cells in an injectable calcium phosphate
+scaffold for bone tissue engineering</article-title>. <source>Biomed Mater</source>
+<year>2016</year>; <volume>11</volume>: <fpage>065008</fpage>.<pub-id pub-id-type="pmid">27811389</pub-id></mixed-citation></ref><ref id="bib138"><mixed-citation publication-type="journal">Wang L, Zhang C, Li C
+et al.
+<article-title>Injectable calcium phosphate with hydrogel fibers encapsulating induced pluripotent,
+dental pulp and bone marrow stem cells for bone repair</article-title>. <source>Mater Sci Eng C Mater Biol Appl</source>
+<year>2016</year>; <volume>69</volume>: <fpage>1125</fpage>&#x02013;1136.<pub-id pub-id-type="pmid">27612810</pub-id></mixed-citation></ref><ref id="bib139"><mixed-citation publication-type="journal">Song Y, Zhang C, Wang P
+et al.
+<article-title>Engineering bone regeneration with novel cell-laden hydrogel microfiber-injectable
+calcium phosphate scaffold</article-title>. <source>Mater Sci Eng C Mater Biol Appl</source>
+<year>2017</year>; <volume>75</volume>: <fpage>895</fpage>&#x02013;905.<pub-id pub-id-type="pmid">28415545</pub-id></mixed-citation></ref><ref id="bib140"><mixed-citation publication-type="journal">Bohner M, Lemaitre J, Van Landuyt P
+et al.
+<article-title>Gentamicin-loaded hydraulic calcium phosphate bone cement as antibiotic delivery
+system</article-title>. <source>J Pharm Sci</source>
+<year>1997</year>; <volume>86</volume>: <fpage>565</fpage>&#x02013;572.<pub-id pub-id-type="pmid">9145380</pub-id></mixed-citation></ref><ref id="bib141"><mixed-citation publication-type="journal">Le Nihouannen D, Hacking SA, Gbureck U
+et al.
+<article-title>The use of RANKL-coated brushite cement to stimulate bone remodelling</article-title>. <source>Biomaterials</source>
+<year>2008</year>; <volume>29</volume>: <fpage>3253</fpage>&#x02013;3259.<pub-id pub-id-type="pmid">18455230</pub-id></mixed-citation></ref><ref id="bib142"><mixed-citation publication-type="journal">Farokhi M, Mottaghitalab F, Ai J
+et al.
+<article-title>Sustained release of platelet-derived growth factor and vascular endothelial growth
+factor from silk/calcium phosphate/PLGA based nanocomposite scaffold</article-title>. <source>Int J Pharm</source>
+<year>2013</year>; <volume>454</volume>: <fpage>216</fpage>&#x02013;225.<pub-id pub-id-type="pmid">23856159</pub-id></mixed-citation></ref><ref id="bib143"><mixed-citation publication-type="journal">Parent M, Baradari H, Champion E
+et al.
+<article-title>Design of calcium phosphate ceramics for drug delivery applications in bone
+diseases: a review of the parameters affecting the loading and release of the therapeutic
+substance</article-title>. <source>J Control Release</source>
+<year>2017</year>; <volume>252</volume>: <fpage>1</fpage>&#x02013;17.<pub-id pub-id-type="pmid">28232225</pub-id></mixed-citation></ref><ref id="bib144"><mixed-citation publication-type="journal">Ghosh S, Wu V, Pernal S
+et al.
+<article-title>Self-setting calcium phosphate cements with tunable antibiotic release rates for
+advanced antimicrobial applications</article-title>. <source>ACS Appl Mater Interfaces</source>
+<year>2016</year>; <volume>8</volume>: <fpage>7691</fpage>&#x02013;7708.<pub-id pub-id-type="pmid">26958867</pub-id></mixed-citation></ref><ref id="bib145"><mixed-citation publication-type="journal">Lopez-Heredia MA, Kamphuis GJ, Thune PC
+et al.
+<article-title>An injectable calcium phosphate cement for the local delivery of paclitaxel to
+bone</article-title>. <source>Biomaterials</source>
+<year>2011</year>; <volume>32</volume>: <fpage>5411</fpage>&#x02013;5416.<pub-id pub-id-type="pmid">21529931</pub-id></mixed-citation></ref><ref id="bib146"><mixed-citation publication-type="journal">Renaudin G, Laquerriere P, Filinchuk Y
+et al.
+<article-title>Structural characterization of sol-gel derived Sr-substituted calcium phosphates
+with anti-osteoporotic and anti-inflammatory properties</article-title>. <source>J Mater Chem</source>
+<year>2008</year>; <volume>18</volume>: <fpage>3593</fpage>&#x02013;3600.</mixed-citation></ref><ref id="bib147"><mixed-citation publication-type="journal">Gong T, Chen Y, Zhang Y
+et al.
+<article-title>Osteogenic and anti-osteoporotic effects of risedronate-added calcium phosphate
+silicate cement</article-title>. <source>Biomed Mater</source>
+<year>2016</year>; <volume>11</volume>: <fpage>045002</fpage>.<pub-id pub-id-type="pmid">27388334</pub-id></mixed-citation></ref><ref id="bib148"><mixed-citation publication-type="journal">Schumacher M, Reither L, Thomas J
+et al.
+<article-title>Calcium phosphate bone cement/mesoporous bioactive glass composites for controlled
+growth factor delivery</article-title>. <source>Biomater Sci</source>
+<year>2017</year>; <volume>5</volume>: <fpage>578</fpage>&#x02013;588.<pub-id pub-id-type="pmid">28154869</pub-id></mixed-citation></ref><ref id="bib149"><mixed-citation publication-type="journal">Zhu H, Guo D, Qi W
+et al.
+<article-title>Development of Sr-incorporated biphasic calcium phosphate bone cement</article-title>. <source>Biomed Mater</source>
+<year>2017</year>; <volume>12</volume>: <fpage>015016</fpage>.<pub-id pub-id-type="pmid">28094246</pub-id></mixed-citation></ref><ref id="bib150"><mixed-citation publication-type="journal">Li X, Sogo Y, Ito A
+et al.
+<article-title>The optimum zinc content in set calcium phosphate cement for promoting bone
+formation <italic>in vivo</italic></article-title>. <source>Mater Sci Eng C Mater Biol Appl</source>
+<year>2009</year>; <volume>29</volume>: <fpage>969</fpage>&#x02013;975.<pub-id pub-id-type="pmid">21461346</pub-id></mixed-citation></ref><ref id="bib151"><mixed-citation publication-type="journal">Li M, Liu X, Liu X
+et al.
+<article-title>Calcium phosphate cement with BMP-2-loaded gelatin microspheres enhances bone
+healing in osteoporosis: a pilot study</article-title>. <source>Clin Orthop Relat Res</source>
+<year>2010</year>; <volume>468</volume>: <fpage>1978</fpage>&#x02013;1985.<pub-id pub-id-type="pmid">20306162</pub-id></mixed-citation></ref><ref id="bib152"><mixed-citation publication-type="journal">Ruhe PQ, Boerman OC, Russel FG
+et al.
+<article-title>Controlled release of rhBMP-2 loaded poly(dl-lactic-co-glycolic acid)/calcium
+phosphate cement composites <italic>in vivo</italic></article-title>. <source>J Control Release</source>
+<year>2005</year>; <volume>106</volume>: <fpage>162</fpage>&#x02013;171.<pub-id pub-id-type="pmid">15972241</pub-id></mixed-citation></ref><ref id="bib153"><mixed-citation publication-type="journal">Akkineni AR, Luo Y, Schumacher M
+et al.
+<article-title>3D plotting of growth factor loaded calcium phosphate cement scaffolds</article-title>. <source>Acta Biomater</source>
+<year>2015</year>; <volume>27</volume>: <fpage>264</fpage>&#x02013;274.<pub-id pub-id-type="pmid">26318366</pub-id></mixed-citation></ref><ref id="bib154"><mixed-citation publication-type="journal">Schmidt-Bleek K, Schell H, Schulz N
+et al.
+<article-title>Inflammatory phase of bone healing initiates the regenerative healing
+cascade</article-title>. <source>Cell Tissue Res</source>
+<year>2012</year>; <volume>347</volume>: <fpage>567</fpage>&#x02013;573.<pub-id pub-id-type="pmid">21789579</pub-id></mixed-citation></ref><ref id="bib155"><mixed-citation publication-type="journal">Feng B, Jinkang Z, Zhen W
+et al.
+<article-title>The effect of pore size on tissue ingrowth and neovascularization in porous
+bioceramics of controlled architecture <italic>in vivo</italic></article-title>. <source>Biomed Mater</source>
+<year>2011</year>; <volume>6</volume>: <fpage>015007</fpage>.<pub-id pub-id-type="pmid">21206002</pub-id></mixed-citation></ref><ref id="bib156"><mixed-citation publication-type="journal">Xiao X, Wang W, Liu D
+et al.
+<article-title>The promotion of angiogenesis induced by three-dimensional porous beta-tricalcium
+phosphate scaffold with different interconnection sizes via activation of PI3K/Akt
+pathways</article-title>. <source>Sci Rep</source>
+<year>2015</year>; <volume>5</volume>: <fpage>9409</fpage>.<pub-id pub-id-type="pmid">25797242</pub-id></mixed-citation></ref><ref id="bib157"><mixed-citation publication-type="journal">Yu T, Dong C, Shen Z
+et al.
+<article-title>Vascularization of plastic calcium phosphate cement <italic>in vivo</italic> induced by
+in-situ-generated hollow channels</article-title>. <source>Mater Sci Eng C Mater Biol Appl</source>
+<year>2016</year>; <volume>68</volume>: <fpage>153</fpage>&#x02013;162.<pub-id pub-id-type="pmid">27524007</pub-id></mixed-citation></ref><ref id="bib158"><mixed-citation publication-type="journal">Malhotra A, Habibovic P. <article-title>Calcium phosphates and angiogenesis: implications and advances for bone
+regeneration</article-title>. <source>Trends Biotechnol</source>
+<year>2016</year>; <volume>34</volume>: <fpage>983</fpage>&#x02013;992.<pub-id pub-id-type="pmid">27481474</pub-id></mixed-citation></ref><ref id="bib159"><mixed-citation publication-type="journal">Zhang W, Chang Q, Xu L
+et al.
+<article-title>Graphene oxide-copper nanocomposite-coated porous CaP scaffold for vascularized bone
+regeneration via activation of hif-1alpha</article-title>. <source>Adv Healthc Mater</source>
+<year>2016</year>; <volume>5</volume>: <fpage>1299</fpage>&#x02013;1309.<pub-id pub-id-type="pmid">26945787</pub-id></mixed-citation></ref><ref id="bib160"><mixed-citation publication-type="other">Qiu G, Shi Z, Xu HHK
+et al.
+<article-title>Bone regeneration in minipigs via calcium phosphate cement scaffold delivering
+autologous bone marrow mesenchymal stem cells and platelet-rich plasma</article-title>. <source>J Tissue Eng Regen Med</source>
+<year>2017</year> [Epub ahead of print].</mixed-citation></ref><ref id="bib161"><mixed-citation publication-type="journal">Patel ZS, Young S, Tabata Y
+et al.
+<article-title>Dual delivery of an angiogenic and an osteogenic growth factor for bone regeneration
+in a critical size defect model</article-title>. <source>Bone</source>
+<year>2008</year>; <volume>43</volume>: <fpage>931</fpage>&#x02013;940.<pub-id pub-id-type="pmid">18675385</pub-id></mixed-citation></ref><ref id="bib162"><mixed-citation publication-type="journal">Zhang HX, Zhang XP, Xiao GY
+et al.
+<article-title><italic>In vitro</italic> and <italic>in vivo</italic> evaluation of calcium phosphate composite
+scaffolds containing BMP-VEGF loaded PLGA microspheres for the treatment of avascular
+necrosis of the femoral head</article-title>. <source>Mater Sci Eng C Mater Biol Appl</source>
+<year>2016</year>; <volume>60</volume>: <fpage>298</fpage>&#x02013;307.<pub-id pub-id-type="pmid">26706534</pub-id></mixed-citation></ref><ref id="bib163"><mixed-citation publication-type="journal">Thein-Han W, Xu HH. <article-title>Prevascularization of a gas-foaming macroporous calcium phosphate cement scaffold
+via coculture of human umbilical vein endothelial cells and osteoblasts</article-title>. <source>Tissue Eng Part A</source>
+<year>2013</year>; <volume>19</volume>: <fpage>1675</fpage>&#x02013;1685.<pub-id pub-id-type="pmid">23470207</pub-id></mixed-citation></ref><ref id="bib164"><mixed-citation publication-type="journal">Chen W, Thein-Han W, Weir MD
+et al.
+<article-title>Prevascularization of biofunctional calcium phosphate cement for dental and
+craniofacial repairs</article-title>. <source>Dent Mater</source>
+<year>2014</year>; <volume>30</volume>: <fpage>535</fpage>&#x02013;544.<pub-id pub-id-type="pmid">24731858</pub-id></mixed-citation></ref><ref id="bib165"><mixed-citation publication-type="journal">Liu X, Chen W, Zhang C
+et al.
+<article-title>Co-seeding human endothelial cells with human-induced pluripotent stem cell-derived
+mesenchymal stem cells on calcium phosphate scaffold enhances osteogenesis and
+vascularization in rats</article-title>. <source>Tissue Eng Part A</source>
+<year>2017</year>; <volume>23</volume>: <fpage>546</fpage>&#x02013;555.<pub-id pub-id-type="pmid">28287922</pub-id></mixed-citation></ref><ref id="bib166"><mixed-citation publication-type="other">Chen W, Liu X, Chen Q
+et al.
+<article-title>Angiogenic and osteogenic regeneration in rats via calcium phosphate scaffold and
+endothelial cell co-culture with human bone marrow mesenchymal stem cells (MSCs), human
+umbilical cord MSCs, human induced pluripotent stem cell-derived MSCs and human embryonic
+stem cell-derived MSCs</article-title>. <source>J Tissue Eng Regen Med</source>
+<year>2017</year> [Epub ahead of print].</mixed-citation></ref><ref id="bib167"><mixed-citation publication-type="journal">Jain RK, Au P, Tam J, Duda DG, Fukumura D. <article-title>Engineering vascularized tissue</article-title>. <source>Nat Biotechnol</source>
+<year>2005</year>; <volume>23</volume>: <fpage>821</fpage>&#x02013;823.<pub-id pub-id-type="pmid">16003365</pub-id></mixed-citation></ref><ref id="bib168"><mixed-citation publication-type="journal">Bergers G, Song S. <article-title>The role of pericytes in blood-vessel formation and maintenance</article-title>. <source>Neuro Oncol</source>
+<year>2005</year>; <volume>7</volume>: <fpage>452</fpage>&#x02013;464.<pub-id pub-id-type="pmid">16212810</pub-id></mixed-citation></ref><ref id="bib169"><mixed-citation publication-type="journal">Zhang C, Hu K, Liu X
+et al.
+<article-title>Novel hiPSC-based tri-culture for pre-vascularization of calcium phosphate scaffold
+to enhance bone and vessel formation</article-title>. <source>Mater Sci Eng C Mater Biol Appl</source>
+<year>2017</year>; <volume>79</volume>: <fpage>296</fpage>&#x02013;304.<pub-id pub-id-type="pmid">28629021</pub-id></mixed-citation></ref><ref id="bib170"><mixed-citation publication-type="journal">Laschke MW, Vollmar B, Menger MD. <article-title>Inosculation: connecting the life-sustaining pipelines</article-title>. <source>Tissue Eng Part B Rev</source>
+<year>2009</year>; <volume>15</volume>: <fpage>455</fpage>&#x02013;465.<pub-id pub-id-type="pmid">19552605</pub-id></mixed-citation></ref><ref id="bib171"><mixed-citation publication-type="journal">Beier JP, Horch RE, Hess A
+et al.
+<article-title>Axial vascularization of a large volume calcium phosphate ceramic bone substitute in
+the sheep AV loop model</article-title>. <source>J Tissue Eng Regen Med</source>
+<year>2010</year>; <volume>4</volume>: <fpage>216</fpage>&#x02013;223.<pub-id pub-id-type="pmid">19960489</pub-id></mixed-citation></ref></ref-list></back><floats-group><fig id="fig1"><label>Figure 1</label><caption><p>Schematic diagram summarizing the various CPC categories described in this article and
+their major biological properties.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="boneres201756-f1"/></fig><fig id="fig2"><label>Figure 2</label><caption><p>Highly sophisticated CPC scaffold structures via 3D plotting. Stereomicroscopic images
+of CPC scaffolds plotted with 15&#x000b0; (<bold>a</bold>), 45&#x000b0; (<bold>b</bold>), 60&#x000b0;
+(<bold>c</bold>) and 90&#x000b0; (<bold>d</bold>) configurations (change in orientation relative to
+the layer underneath). Design and printing of a CPC-hydrogel biphasic scaffold: model of
+biphasic scaffolds with CPC (white) and a growth factor-loaded hydrogel (red)
+(<bold>e</bold>); the printed scaffold (<bold>f</bold>); 3D reconstructions from micro-CT data of
+the biphasic scaffold (<bold>g</bold>,<bold> h</bold>). CPC is grayish white. Alginate-gellan
+hydrogel is blue. (Adapted from Ahlfeld <italic>et al</italic>.<xref ref-type="bibr" rid="bib64"><sup>64</sup></xref> with permission.)</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="boneres201756-f2"/></fig><fig id="fig3"><label>Figure 3</label><caption><p>Methods of cell delivery via CPCs. Live-dead staining of (1) direct cell seeding on CPC
+surfaces (<bold>a&#x02013;c</bold>); (2) cell encapsulation in alginate&#x02013;fibrin
+microbeads (Alg-Fb MB) (<bold>d-i</bold>); (3) cell encapsulation in alginate&#x02013;fibrin
+microfibers (Alg-Fb MaF) (<bold>j&#x02013;o</bold>). (Adapted from Wang <italic>et
+al</italic>.<sup><xref ref-type="bibr" rid="bib133">133</xref>,</sup> and Song <italic>et
+al</italic>.<sup><xref ref-type="bibr" rid="bib139">139</xref></sup> with permission.)</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="boneres201756-f3"/></fig><fig id="fig4"><label>Figure 4</label><caption><p>Synthesis of bone minerals by encapsulated stem cells. Images of (<bold>a&#x02013;c</bold>)
+hBMSCs, (<bold>d&#x02013;f</bold>) BM-hiPSC-MSCs, and (<bold>g&#x02013;i</bold>) FS-hiPSC-MSCs stained
+with Xylenol orange (images of hESC-MSCs, hUCMSCs, and hDPSCs are similar to those of
+hBMSCs). (<bold>j</bold>) ARS staining of hBMSCs, BM-hiPSC-MSCs and FS-hiPSC-MSCs in CPC-CAF
+(images of hESC-MSCs, hUCMSCs, hDPSCs are similar to those of hBMSCs). (<bold>k</bold>)
+Xylenol orange mineral staining area (mean&#x000b1;s.d.; <italic>n</italic>=6). (<bold>l</bold>) ARS
+mineral concentration synthesized by cells in CPC-CAF (mean&#x000b1;s.d.; <italic>n</italic>=6).
+ARS: Alizarin red S, CAF: cell-encapsulating alginate&#x02013;fibrin fibers. (Adapted
+from Wang <italic>et al</italic>.<sup><xref ref-type="bibr" rid="bib137">137</xref>&#x02013;</sup><sup><xref ref-type="bibr" rid="bib138">138</xref></sup> with
+permission.)</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="boneres201756-f4"/></fig><fig id="fig5"><label>Figure 5</label><caption><p>Representative h&#x00026;e images at 12 weeks after surgery with the CPC-microfiber control
+group (<bold>a</bold>&#x02013;<bold>c</bold>) and the CPC-microfiber-hBMSCs group (<bold>d&#x02013;f</bold>)
+as well as quantification of the new bone area fraction (<bold>g</bold>) and residual CPC area
+fraction (<bold>h</bold>). Bone bridging was achieved in rat critical-sized mandibular defects
+in the CPC-microfiber-hBMSC group. The defect was closed with newly formed bone.
+(<bold>b</bold>) and (<bold>c</bold>), (<bold>e</bold>) and (<bold>f</bold>) are high-magnification images.
+Bars with dissimilar letters indicate significantly different values
+(<italic>P</italic>&#x0003c;0.05). Each value is the mean&#x000b1;SD (<italic>n</italic>=6). MF: microfibers.
+(Adapted from Song <italic>et al</italic>.<xref ref-type="bibr" rid="bib139"><sup>139</sup></xref> with
+permission.)</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="boneres201756-f5"/></fig><fig id="fig6"><label>Figure 6</label><caption><p>Formation of microcapillary-like structures by HUVECs and hiPSC-MSCs co-cultured on CPC
+scaffolds at 21 days (<bold>a</bold>-<bold>c</bold>). HUVECs were identified by immunostaining with
+the endothelial marker PECAM1 in green on the cell membrane, and nuclei were stained
+with DAPI in blue. hiPSC-MSCs were identified by nuclei counterstained with DAPI in blue
+but lacking green staining on the cell membrane. Microcapillary-like structures
+increased with culture time. d shows the HUVEC monoculture control group, which
+exhibited no evidence of vascular-like structures. Representative SEM images of
+microcapillary-like structures via the co-culture system (<bold>e</bold>,<bold>f</bold>). (<bold>f</bold>)
+A higher magnification image of the image in <bold>e</bold>. (Adapted from Liu <italic>et
+al</italic>.<xref ref-type="bibr" rid="bib165"><sup>165</sup></xref> with
+permission.)</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="boneres201756-f6"/></fig><fig id="fig7"><label>Figure 7</label><caption><p>Representative h&#x00026;e images at 12 weeks after the implantation of CPC scaffolds
+generated utilizing different pre-vascularization strategies in rat cranial bone
+defects. Mineralized new bone is stained in red (black arrows). The white area is
+attributable to slight detachment of the tissue. The dura is at the bottom. Cell-seeded
+groups had more new bone than the CPC control. Much higher amounts of new bone formed in
+the tri-culture group. Histomorphometric analysis of the fraction of new bone (g) and
+new blood vessel density (h). The tri-culture group had the greatest amount of new bone
+and new blood vessel density among all groups (<italic>P</italic>&#x0003c;0.05). Each value
+represents the mean&#x000b1;sd (<italic>n</italic>=6). Dissimilar letters indicated significantly
+different values (<italic>P</italic>&#x0003c;0.05). (Adapted from Zhang <italic>et al</italic>.<sup><xref ref-type="bibr" rid="bib169">169</xref></sup> with permission.)</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="boneres201756-f7"/></fig></floats-group></article>

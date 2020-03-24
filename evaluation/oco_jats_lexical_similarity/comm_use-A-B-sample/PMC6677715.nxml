@@ -1,0 +1,725 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Bull Math Biol</journal-id><journal-id journal-id-type="iso-abbrev">Bull. Math. Biol</journal-id><journal-title-group><journal-title>Bulletin of Mathematical Biology</journal-title></journal-title-group><issn pub-type="ppub">0092-8240</issn><issn pub-type="epub">1522-9602</issn><publisher><publisher-name>Springer US</publisher-name><publisher-loc>New York</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">29926381</article-id><article-id pub-id-type="pmc">6677715</article-id><article-id pub-id-type="publisher-id">454</article-id><article-id pub-id-type="doi">10.1007/s11538-018-0454-y</article-id><article-categories><subj-group subj-group-type="heading"><subject>Special Issue: Gillespie and His Algorithms</subject></subj-group></article-categories><title-group><article-title>Stochastic Simulation of Pattern Formation in Growing Tissue: A Multilevel Approach</article-title></title-group><contrib-group><contrib contrib-type="author" corresp="yes"><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-3614-1732</contrib-id><name><surname>Engblom</surname><given-names>Stefan</given-names></name><address><phone>+46-18-471 27 54</phone><email>stefane@it.uu.se</email><uri>http://user.it.uu.se/~stefane</uri></address><xref ref-type="aff" rid="Aff1"/></contrib><aff id="Aff1"><institution-wrap><institution-id institution-id-type="ISNI">0000 0004 1936 9457</institution-id><institution-id institution-id-type="GRID">grid.8993.b</institution-id><institution>Division of Scientific Computing, Department of Information Technology, </institution><institution>Uppsala University, </institution></institution-wrap>751 05 Uppsala, Sweden </aff></contrib-group><pub-date pub-type="epub"><day>20</day><month>6</month><year>2018</year></pub-date><pub-date pub-type="pmc-release"><day>20</day><month>6</month><year>2018</year></pub-date><pub-date pub-type="ppub"><year>2019</year></pub-date><volume>81</volume><issue>8</issue><fpage>3010</fpage><lpage>3023</lpage><history><date date-type="received"><day>2</day><month>2</month><year>2018</year></date><date date-type="accepted"><day>8</day><month>6</month><year>2018</year></date></history><permissions><copyright-statement>&#x000a9; The Author(s) 2018</copyright-statement><license license-type="OpenAccess"><license-p><bold>Open Access</bold>This article is distributed under the terms of the Creative Commons Attribution 4.0 International License (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0">http://creativecommons.org/licenses/by/4.0</ext-link>/), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made.</license-p></license></permissions><abstract id="Abs1"><p id="Par1">We take up the challenge of designing realistic computational models of large interacting cell populations. The goal is essentially to bring Gillespie&#x02019;s celebrated stochastic methodology to the level of an interacting population of cells. Specifically, we are interested in how the gold standard of single-cell computational modeling, here taken to be spatial stochastic reaction&#x02013;diffusion models, may be efficiently coupled with a similar approach at the cell population level. Concretely, we target a recently proposed set of pathways for pattern formation involving Notch&#x02013;Delta signaling mechanisms. These involve cell-to-cell communication as mediated both via direct membrane contact sites and via cellular protrusions. We explain how to simulate the process in growing tissue using a multilevel approach and we discuss implications for future development of the associated computational methods.</p></abstract><kwd-group xml:lang="en"><title>Keywords</title><kwd>Reaction&#x02013;diffusion master equation</kwd><kwd>Discrete Laplacian cell mechanics</kwd><kwd>Single-cell model</kwd><kwd>Cell population model</kwd><kwd>Notch signaling pathway</kwd></kwd-group><kwd-group xml:lang="--"><title>Mathematics Subject Classification</title><kwd>60J28</kwd><kwd>92-08</kwd><kwd>65C40</kwd></kwd-group><funding-group><award-group><funding-source><institution>Uppsala University</institution></funding-source></award-group></funding-group><custom-meta-group><custom-meta><meta-name>issue-copyright-statement</meta-name><meta-value>&#x000a9; Society for Mathematical Biology 2019</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec id="Sec1"><title>Introduction</title><p id="Par2">An important challenge in computational cell biology is to study the emergent behavior of single-cell pathways at the scale of a large interacting cell population. In this paper, we tackle this challenge by, in essence, attempting to generalize Gillespie&#x02019;s stochastic simulation methodology to the level of the multicellular environment. In order to do so, clearly, the modeling physics of the extracellular space, of the cell population, and of the single cells need to be prescribed. A suitable computational methodology should additionally allow for cell-to-cell signaling in a flexible and general way. There are several possible interesting applications for such a kind of modeling framework, regulating processes in embryonic development, angiogenesis, neurogenesis, wound healing, and tumor growth, to mention just a few.</p><p id="Par3">In the interest of focusing our work around a concrete, yet fairly demanding modeling situation, we pick as our target a specific set of network models which involve single-cell pathways together with non-trivial signaling between the individual cells. The Notch signaling pathway is a highly conserved mechanism which is present in most multicellular organisms (Artavanis-Tsakonas et&#x000a0;al. <xref ref-type="bibr" rid="CR2">1999</xref>), ranging from, e.g., <italic>Drosophila</italic> and <italic>C.&#x000a0;elegans</italic> to mammals. Indeed, the fundamental importance of Notch signaling made it an early target for mathematical models (Collier et&#x000a0;al. <xref ref-type="bibr" rid="CR10">1996</xref>), where feedback regulation between neighbor cells was modeled. It has since been realized that cell-to-cell signaling not only is short range, taking place at direct junctional contact sites, but also is mediated via long range cellular protrusions (Cohen et&#x000a0;al. <xref ref-type="bibr" rid="CR9">2010</xref>). Mathematical models including these effects have recently been investigated (Sprinzak et&#x000a0;al. <xref ref-type="bibr" rid="CR28">2011</xref>; Hadjivasiliou et&#x000a0;al. <xref ref-type="bibr" rid="CR19">2016</xref>), and we choose a family of such models as the concrete target in this paper.</p><p id="Par4">To be able to realistically resolve the geometrical details of the single cell, unstructured meshes (e.g., triangularizations) stand out as a ubiquitous tool. Also, an important part of Dan Gillespie&#x02019;s heritage to computational biology is that noisy cellular processes at the molecular level should be understood in a <italic>stochastic</italic> framework. These observations together suggest the <italic>reaction&#x02013;diffusion master equation</italic> (RDME) over an unstructured mesh (Engblom et&#x000a0;al. <xref ref-type="bibr" rid="CR16">2009</xref>), and we shall regard it herein as a gold standard in single-cell modeling. The RDME is based on first principles and is reasonably effective computationally. Additionally, this description, or simplified versions of it, has been successful at delivering important insights for a range of cellular phenomena (Fange and Elf <xref ref-type="bibr" rid="CR17">2006</xref>; Raj and van Oudenaarden <xref ref-type="bibr" rid="CR25">2008</xref>; Lestas et&#x000a0;al. <xref ref-type="bibr" rid="CR21">2010</xref>; Barkai and Leibler <xref ref-type="bibr" rid="CR4">2000</xref>).</p><p id="Par5">At the scale of a population of cells, cell-based computational modeling is an <italic>in silico</italic> approach to test hypotheses concerning the contributions of various mechanisms to observed macro-level behaviors. Examples of recent applications of cell-based models include embryonic development (Atwell et&#x000a0;al. <xref ref-type="bibr" rid="CR3">2015</xref>), wound healing (Vermolen and Gefen <xref ref-type="bibr" rid="CR32">2013</xref>; Ziraldo et&#x000a0;al. <xref ref-type="bibr" rid="CR33">2013</xref>), and tumor growth (Naumov et&#x000a0;al. <xref ref-type="bibr" rid="CR23">2011</xref>). The natural analog of the RDME at the cell population level is found in the class of <italic>on-lattice</italic> cell-based models. As in the RDME, space is here discretized in a grid of voxels over which the cells are distributed. State update rules are then formulated over this grid where signaling processes and factor concentrations may be included via, e.g., differential equations (Robertson-Tessi et&#x000a0;al. <xref ref-type="bibr" rid="CR26">2015</xref>).</p><p id="Par6">In this work, we will focus on the novel on-lattice method proposed in Engblom et&#x000a0;al. (<xref ref-type="bibr" rid="CR15">2018</xref>), which is promising from a scaling point of view, yet also is very expressive. The method is referred to as <italic>discrete Laplacian cell mechanics</italic> (DLCM) and is formed by developing constitutive equations for the dynamics of the cell population at a given discretization of space. The update rules are stochastic and are established from global calculations. Importantly, the simulations take place in continuous time, thus allowing for a meaningful coupling to arbitrary continuous-time processes, including inter-cellular signals. In summary, we focus our attention to single-cell models described in the RDME framework and the main contribution of the paper is to investigate the feasibility of the two-level RDME-DLCM approach.</p><p id="Par7">In the next section, we work through the specific, but fairly general, pattern forming mechanism we wish to study and we subsequently express it within the RDME-DLCM computational framework. As will be demonstrated, this enables us to simulate a range of intriguing patterns in an unprecedented detailed and bottom-up fashion. The paper is concluded with a discussion of some ideas concerning possible future developments of the presented computational methodology.</p></sec><sec id="Sec2"><title>Models and Methods</title><p id="Par8">Below we start by presenting the specific Notch pathway model, we will target in the paper. Throughout we consider a single non-dimensional model, originating from an attempt to map to the situation of explaining the organization of bristles on the <italic>Drosphila</italic> notum (Cohen et&#x000a0;al. <xref ref-type="bibr" rid="CR9">2010</xref>). Such patterns are remarkably precise and are therefore good model systems to study the genetic basis of pattern formation. The model we decided to employ can be found in Hadjivasiliou et&#x000a0;al. (<xref ref-type="bibr" rid="CR19">2016</xref>). We make a slight extension of the model in Sect.&#x000a0;<xref rid="Sec4" ref-type="sec">2.2</xref> by bringing it into the spatial setting, essentially by deciding on a system volume and settling for suitable diffusion constants. In Sect.&#x000a0;<xref rid="Sec5" ref-type="sec">2.3</xref>, we explain how to use the methodology in Engblom et&#x000a0;al. (<xref ref-type="bibr" rid="CR15">2018</xref>) to efficiently simulate a growing cell population. The two computational layers, i.e., the single-cell and the cell population layer, are put together in Sect.&#x000a0;<xref rid="Sec6" ref-type="sec">2.4</xref> where we present a few selected simulation results. In order to concentrate on the possibilities with the computational framework, we select spatial and cell population parameters rather freely, and we do not claim our resulting model to map to any specific real-world scenario.</p><sec id="Sec3"><title>Protrusion Mediated Notch&#x02013;Delta Pattern Formation</title><p id="Par9">An early attempt to mathematically explain pattern formation mechanisms in tissue without resorting to the postulated existence of <italic>morphogens</italic>, i.e., as done early on by Turing (<xref ref-type="bibr" rid="CR31">1952</xref>), was based on lateral inhibition with feedback (Collier et&#x000a0;al. <xref ref-type="bibr" rid="CR10">1996</xref>). This mechanism takes place in between the transmembrane proteins Notch and Delta, respectively. In a non-dimensional setting, with <inline-formula id="IEq1"><alternatives><tex-math id="M1">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$(n_i,d_i)$$\end{document}</tex-math><mml:math id="M2"><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:msub><mml:mi>n</mml:mi><mml:mi>i</mml:mi></mml:msub><mml:mo>,</mml:mo><mml:msub><mml:mi>d</mml:mi><mml:mi>i</mml:mi></mml:msub><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:math><inline-graphic xlink:href="11538_2018_454_Article_IEq1.gif"/></alternatives></inline-formula> denoting the Notch- and Delta concentrations within cell <italic>i</italic>, the original model has the form (Collier et&#x000a0;al. <xref ref-type="bibr" rid="CR10">1996</xref>)<disp-formula id="Equ1"><label>1</label><alternatives><tex-math id="M3">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\begin{aligned}&#x00026;\left. \begin{array}{rcl} n'_i &#x00026;{}=&#x00026;{} f(\langle d \rangle _i)-n_i \\ d'_i &#x00026;{}=&#x00026;{} \text{ const. } \times \left( g(n_i)-d_i \right) \\ \end{array} \right\} \end{aligned}$$\end{document}</tex-math><mml:math id="M4" display="block"><mml:mrow><mml:mtable><mml:mtr><mml:mtd/><mml:mtd columnalign="left"><mml:mfenced close="}"><mml:mrow><mml:mtable><mml:mtr><mml:mtd columnalign="right"><mml:msubsup><mml:mi>n</mml:mi><mml:mi>i</mml:mi><mml:mo>&#x02032;</mml:mo></mml:msubsup></mml:mtd><mml:mtd><mml:mrow><mml:mrow/><mml:mo>=</mml:mo></mml:mrow></mml:mtd><mml:mtd columnalign="left"><mml:mrow><mml:mrow/><mml:mi>f</mml:mi><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:msub><mml:mrow><mml:mo stretchy="false">&#x027e8;</mml:mo><mml:mi>d</mml:mi><mml:mo stretchy="false">&#x027e9;</mml:mo></mml:mrow><mml:mi>i</mml:mi></mml:msub><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mo>-</mml:mo><mml:msub><mml:mi>n</mml:mi><mml:mi>i</mml:mi></mml:msub></mml:mrow></mml:mtd></mml:mtr><mml:mtr><mml:mtd columnalign="right"><mml:mrow><mml:mrow/><mml:msubsup><mml:mi>d</mml:mi><mml:mi>i</mml:mi><mml:mo>&#x02032;</mml:mo></mml:msubsup></mml:mrow></mml:mtd><mml:mtd><mml:mrow><mml:mrow/><mml:mo>=</mml:mo></mml:mrow></mml:mtd><mml:mtd columnalign="left"><mml:mrow><mml:mrow/><mml:mspace width="0.333333em"/><mml:mtext>const.</mml:mtext><mml:mspace width="0.333333em"/><mml:mo>&#x000d7;</mml:mo><mml:mfenced close=")" open="("><mml:mi>g</mml:mi><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:msub><mml:mi>n</mml:mi><mml:mi>i</mml:mi></mml:msub><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mo>-</mml:mo><mml:msub><mml:mi>d</mml:mi><mml:mi>i</mml:mi></mml:msub></mml:mfenced></mml:mrow></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:mfenced></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:math><graphic xlink:href="11538_2018_454_Article_Equ1.gif" position="anchor"/></alternatives></disp-formula>where <inline-formula id="IEq2"><alternatives><tex-math id="M5">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$'$$\end{document}</tex-math><mml:math id="M6"><mml:msup><mml:mrow/><mml:mo>&#x02032;</mml:mo></mml:msup></mml:math><inline-graphic xlink:href="11538_2018_454_Article_IEq2.gif"/></alternatives></inline-formula> denotes differentiation with respect to time and where <inline-formula id="IEq3"><alternatives><tex-math id="M7">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\langle d \rangle _i$$\end{document}</tex-math><mml:math id="M8"><mml:msub><mml:mrow><mml:mo stretchy="false">&#x027e8;</mml:mo><mml:mi>d</mml:mi><mml:mo stretchy="false">&#x027e9;</mml:mo></mml:mrow><mml:mi>i</mml:mi></mml:msub></mml:math><inline-graphic xlink:href="11538_2018_454_Article_IEq3.gif"/></alternatives></inline-formula> denotes the incoming Delta signal, averaged from the cells surrounding cell <italic>i</italic>. In (<xref rid="Equ1" ref-type="">1</xref>), <italic>f</italic> and <italic>g</italic> denote monotonically increasing and decreasing functions of their single argument, respectively.</p><p id="Par10">Whereas the classical Notch&#x02013;Delta model gives an alternating pattern of &#x02019;black&#x02019; (e.g., high Delta) and &#x02019;white&#x02019; (low Delta), patterns in Nature are often much more involved, e.g., with sparse dots, or spots, stripes, and labyrinth-like patterns. In an attempt to explain the dot-like pattern of the notum (dorsal portion of the thoracic segment) of <italic>Drosophila</italic>, communication of Delta via cellular protrusions was added to the model in Cohen et&#x000a0;al. (<xref ref-type="bibr" rid="CR9">2010</xref>). Later details were added in Sprinzak et&#x000a0;al. (<xref ref-type="bibr" rid="CR28">2011</xref>), Hadjivasiliou et&#x000a0;al. (<xref ref-type="bibr" rid="CR19">2016</xref>), including differential weighting of the incoming signals and an addition of the concentration of a Notch reporter molecule <inline-formula id="IEq4"><alternatives><tex-math id="M9">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$r_i$$\end{document}</tex-math><mml:math id="M10"><mml:msub><mml:mi>r</mml:mi><mml:mi>i</mml:mi></mml:msub></mml:math><inline-graphic xlink:href="11538_2018_454_Article_IEq4.gif"/></alternatives></inline-formula>. More specifically, the model from Hadjivasiliou et&#x000a0;al. (<xref ref-type="bibr" rid="CR19">2016</xref>) reads<disp-formula id="Equ2"><label>2</label><alternatives><tex-math id="M11">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\begin{aligned}&#x00026;\left. \begin{array}{rcl} n'_i &#x00026;{}=&#x00026;{} \beta _n-\frac{\langle d_\mathrm{in} \rangle n_i}{k_t}-\frac{d_in_i}{k_c}-n_i \\ d'_i &#x00026;{}=&#x00026;{} \beta _d\frac{1}{1+r_i^m}-\frac{d_i\langle n_\mathrm{in} \rangle }{k_t}- \frac{d_in_i}{k_c}-d_i \\ r'_i &#x00026;{}=&#x00026;{} \beta _r\frac{(\langle d_\mathrm{out} \rangle n_i)^s}{k_{rs}+(\langle d_\mathrm{out} \rangle n_i)^s}-r_i \\ \end{array} \right\} \end{aligned}$$\end{document}</tex-math><mml:math id="M12" display="block"><mml:mrow><mml:mtable><mml:mtr><mml:mtd/><mml:mtd columnalign="left"><mml:mfenced close="}"><mml:mrow><mml:mtable><mml:mtr><mml:mtd columnalign="right"><mml:msubsup><mml:mi>n</mml:mi><mml:mi>i</mml:mi><mml:mo>&#x02032;</mml:mo></mml:msubsup></mml:mtd><mml:mtd><mml:mrow><mml:mrow/><mml:mo>=</mml:mo></mml:mrow></mml:mtd><mml:mtd columnalign="left"><mml:mrow><mml:mrow/><mml:msub><mml:mi>&#x003b2;</mml:mi><mml:mi>n</mml:mi></mml:msub><mml:mo>-</mml:mo><mml:mfrac><mml:mrow><mml:mrow><mml:mo stretchy="false">&#x027e8;</mml:mo><mml:msub><mml:mi>d</mml:mi><mml:mi mathvariant="normal">in</mml:mi></mml:msub><mml:mo stretchy="false">&#x027e9;</mml:mo></mml:mrow><mml:msub><mml:mi>n</mml:mi><mml:mi>i</mml:mi></mml:msub></mml:mrow><mml:msub><mml:mi>k</mml:mi><mml:mi>t</mml:mi></mml:msub></mml:mfrac><mml:mo>-</mml:mo><mml:mfrac><mml:mrow><mml:msub><mml:mi>d</mml:mi><mml:mi>i</mml:mi></mml:msub><mml:msub><mml:mi>n</mml:mi><mml:mi>i</mml:mi></mml:msub></mml:mrow><mml:msub><mml:mi>k</mml:mi><mml:mi>c</mml:mi></mml:msub></mml:mfrac><mml:mo>-</mml:mo><mml:msub><mml:mi>n</mml:mi><mml:mi>i</mml:mi></mml:msub></mml:mrow></mml:mtd></mml:mtr><mml:mtr><mml:mtd columnalign="right"><mml:mrow><mml:mrow/><mml:msubsup><mml:mi>d</mml:mi><mml:mi>i</mml:mi><mml:mo>&#x02032;</mml:mo></mml:msubsup></mml:mrow></mml:mtd><mml:mtd><mml:mrow><mml:mrow/><mml:mo>=</mml:mo></mml:mrow></mml:mtd><mml:mtd columnalign="left"><mml:mrow><mml:mrow/><mml:msub><mml:mi>&#x003b2;</mml:mi><mml:mi>d</mml:mi></mml:msub><mml:mfrac><mml:mn>1</mml:mn><mml:mrow><mml:mn>1</mml:mn><mml:mo>+</mml:mo><mml:msubsup><mml:mi>r</mml:mi><mml:mi>i</mml:mi><mml:mi>m</mml:mi></mml:msubsup></mml:mrow></mml:mfrac><mml:mo>-</mml:mo><mml:mfrac><mml:mrow><mml:msub><mml:mi>d</mml:mi><mml:mi>i</mml:mi></mml:msub><mml:mrow><mml:mo stretchy="false">&#x027e8;</mml:mo><mml:msub><mml:mi>n</mml:mi><mml:mi mathvariant="normal">in</mml:mi></mml:msub><mml:mo stretchy="false">&#x027e9;</mml:mo></mml:mrow></mml:mrow><mml:msub><mml:mi>k</mml:mi><mml:mi>t</mml:mi></mml:msub></mml:mfrac><mml:mo>-</mml:mo><mml:mfrac><mml:mrow><mml:msub><mml:mi>d</mml:mi><mml:mi>i</mml:mi></mml:msub><mml:msub><mml:mi>n</mml:mi><mml:mi>i</mml:mi></mml:msub></mml:mrow><mml:msub><mml:mi>k</mml:mi><mml:mi>c</mml:mi></mml:msub></mml:mfrac><mml:mo>-</mml:mo><mml:msub><mml:mi>d</mml:mi><mml:mi>i</mml:mi></mml:msub></mml:mrow></mml:mtd></mml:mtr><mml:mtr><mml:mtd columnalign="right"><mml:mrow><mml:mrow/><mml:msubsup><mml:mi>r</mml:mi><mml:mi>i</mml:mi><mml:mo>&#x02032;</mml:mo></mml:msubsup></mml:mrow></mml:mtd><mml:mtd><mml:mrow><mml:mrow/><mml:mo>=</mml:mo></mml:mrow></mml:mtd><mml:mtd columnalign="left"><mml:mrow><mml:mrow/><mml:msub><mml:mi>&#x003b2;</mml:mi><mml:mi>r</mml:mi></mml:msub><mml:mfrac><mml:msup><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mrow><mml:mo stretchy="false">&#x027e8;</mml:mo><mml:msub><mml:mi>d</mml:mi><mml:mi mathvariant="normal">out</mml:mi></mml:msub><mml:mo stretchy="false">&#x027e9;</mml:mo></mml:mrow><mml:msub><mml:mi>n</mml:mi><mml:mi>i</mml:mi></mml:msub><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mi>s</mml:mi></mml:msup><mml:mrow><mml:msub><mml:mi>k</mml:mi><mml:mrow><mml:mi mathvariant="italic">rs</mml:mi></mml:mrow></mml:msub><mml:mo>+</mml:mo><mml:msup><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mrow><mml:mo stretchy="false">&#x027e8;</mml:mo><mml:msub><mml:mi>d</mml:mi><mml:mi mathvariant="normal">out</mml:mi></mml:msub><mml:mo stretchy="false">&#x027e9;</mml:mo></mml:mrow><mml:msub><mml:mi>n</mml:mi><mml:mi>i</mml:mi></mml:msub><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mi>s</mml:mi></mml:msup></mml:mrow></mml:mfrac><mml:mo>-</mml:mo><mml:msub><mml:mi>r</mml:mi><mml:mi>i</mml:mi></mml:msub></mml:mrow></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:mfenced></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:math><graphic xlink:href="11538_2018_454_Article_Equ2.gif" position="anchor"/></alternatives></disp-formula>In (<xref rid="Equ2" ref-type="">2</xref>), Delta <inline-formula id="IEq5"><alternatives><tex-math id="M13">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$d_i$$\end{document}</tex-math><mml:math id="M14"><mml:msub><mml:mi>d</mml:mi><mml:mi>i</mml:mi></mml:msub></mml:math><inline-graphic xlink:href="11538_2018_454_Article_IEq5.gif"/></alternatives></inline-formula> is down-regulated by the Notch reporter <inline-formula id="IEq6"><alternatives><tex-math id="M15">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$r_i$$\end{document}</tex-math><mml:math id="M16"><mml:msub><mml:mi>r</mml:mi><mml:mi>i</mml:mi></mml:msub></mml:math><inline-graphic xlink:href="11538_2018_454_Article_IEq6.gif"/></alternatives></inline-formula>, which in turn is up-regulated by Notch <inline-formula id="IEq7"><alternatives><tex-math id="M17">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$n_i$$\end{document}</tex-math><mml:math id="M18"><mml:msub><mml:mi>n</mml:mi><mml:mi>i</mml:mi></mml:msub></mml:math><inline-graphic xlink:href="11538_2018_454_Article_IEq7.gif"/></alternatives></inline-formula> and, respectively, the outgoing Delta <inline-formula id="IEq8"><alternatives><tex-math id="M19">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\langle d_\mathrm{out} \rangle $$\end{document}</tex-math><mml:math id="M20"><mml:mrow><mml:mo stretchy="false">&#x027e8;</mml:mo><mml:msub><mml:mi>d</mml:mi><mml:mi mathvariant="normal">out</mml:mi></mml:msub><mml:mo stretchy="false">&#x027e9;</mml:mo></mml:mrow></mml:math><inline-graphic xlink:href="11538_2018_454_Article_IEq8.gif"/></alternatives></inline-formula>, as discussed below. The Hill coefficients in these regulations are taken to be <inline-formula id="IEq9"><alternatives><tex-math id="M21">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$m = s = 2$$\end{document}</tex-math><mml:math id="M22"><mml:mrow><mml:mi>m</mml:mi><mml:mo>=</mml:mo><mml:mi>s</mml:mi><mml:mo>=</mml:mo><mml:mn>2</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="11538_2018_454_Article_IEq9.gif"/></alternatives></inline-formula> throughout the paper.<fig id="Fig1"><label>Fig. 1</label><caption><p>Signaling via protrusions: the symmetric contact <inline-formula id="IEq10"><alternatives><tex-math id="M23">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$A \longleftrightarrow B$$\end{document}</tex-math><mml:math id="M24"><mml:mrow><mml:mi>A</mml:mi><mml:mo stretchy="false">&#x027f7;</mml:mo><mml:mi>B</mml:mi></mml:mrow></mml:math><inline-graphic xlink:href="11538_2018_454_Article_IEq10.gif"/></alternatives></inline-formula> is protrusion mediated, <inline-formula id="IEq11"><alternatives><tex-math id="M25">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$C \longrightarrow B$$\end{document}</tex-math><mml:math id="M26"><mml:mrow><mml:mi>C</mml:mi><mml:mo stretchy="false">&#x027f6;</mml:mo><mml:mi>B</mml:mi></mml:mrow></mml:math><inline-graphic xlink:href="11538_2018_454_Article_IEq11.gif"/></alternatives></inline-formula> is protrusion to membrane, and <inline-formula id="IEq12"><alternatives><tex-math id="M27">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$B \longrightarrow C$$\end{document}</tex-math><mml:math id="M28"><mml:mrow><mml:mi>B</mml:mi><mml:mo stretchy="false">&#x027f6;</mml:mo><mml:mi>C</mml:mi></mml:mrow></mml:math><inline-graphic xlink:href="11538_2018_454_Article_IEq12.gif"/></alternatives></inline-formula> is membrane to protrusion. A junctional contact is also possible between neighbor cells (not shown). In the running model of the paper, the first two types of contacts are understood to be protrusional [superscript (<italic>b</italic>)], while the two latter types are junctional [superscript (<italic>a</italic>)]. Protrusions are parameterized by the protrusion length <italic>l</italic>, direction <inline-formula id="IEq13"><alternatives><tex-math id="M29">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\theta $$\end{document}</tex-math><mml:math id="M30"><mml:mi>&#x003b8;</mml:mi></mml:math><inline-graphic xlink:href="11538_2018_454_Article_IEq13.gif"/></alternatives></inline-formula>, and angular width <inline-formula id="IEq14"><alternatives><tex-math id="M31">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$d\theta $$\end{document}</tex-math><mml:math id="M32"><mml:mrow><mml:mi>d</mml:mi><mml:mi>&#x003b8;</mml:mi></mml:mrow></mml:math><inline-graphic xlink:href="11538_2018_454_Article_IEq14.gif"/></alternatives></inline-formula></p></caption><graphic xlink:href="11538_2018_454_Fig1_HTML" id="MO24"/></fig></p><p id="Par11">The existence of protrusional communication clearly implies more cell-to-cell signaling possibilities (Fig.&#x000a0;<xref rid="Fig1" ref-type="fig">1</xref>). In (<xref rid="Equ2" ref-type="">2</xref>), the amount of incoming and outgoing Delta and Notch, respectively, is given by<disp-formula id="Equ3"><label>3</label><alternatives><tex-math id="M33">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\begin{aligned}&#x00026;\left. \begin{array}{rcl} \langle d_\mathrm{in} \rangle &#x00026;{}=&#x00026;{} w_a \langle d \rangle _i^{(a)}+w_b \langle d \rangle _i^{(b)} \\ \langle d_\mathrm{out} \rangle &#x00026;{}=&#x00026;{} q_a \langle d \rangle _i^{(a)}+q_b \langle d \rangle _i^{(b)} \\ \langle n_\mathrm{in} \rangle &#x00026;{}=&#x00026;{} w_a \langle n \rangle _i^{(a)}+w_b \langle n \rangle _i^{(b)} \end{array} \right\} \end{aligned}$$\end{document}</tex-math><mml:math id="M34" display="block"><mml:mrow><mml:mtable><mml:mtr><mml:mtd/><mml:mtd columnalign="left"><mml:mfenced close="}"><mml:mrow><mml:mtable><mml:mtr><mml:mtd columnalign="right"><mml:mrow><mml:mo stretchy="false">&#x027e8;</mml:mo><mml:msub><mml:mi>d</mml:mi><mml:mi mathvariant="normal">in</mml:mi></mml:msub><mml:mo stretchy="false">&#x027e9;</mml:mo></mml:mrow></mml:mtd><mml:mtd><mml:mrow><mml:mrow/><mml:mo>=</mml:mo></mml:mrow></mml:mtd><mml:mtd columnalign="left"><mml:mrow><mml:mrow/><mml:msub><mml:mi>w</mml:mi><mml:mi>a</mml:mi></mml:msub><mml:msubsup><mml:mrow><mml:mo stretchy="false">&#x027e8;</mml:mo><mml:mi>d</mml:mi><mml:mo stretchy="false">&#x027e9;</mml:mo></mml:mrow><mml:mi>i</mml:mi><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi>a</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:msubsup><mml:mo>+</mml:mo><mml:msub><mml:mi>w</mml:mi><mml:mi>b</mml:mi></mml:msub><mml:msubsup><mml:mrow><mml:mo stretchy="false">&#x027e8;</mml:mo><mml:mi>d</mml:mi><mml:mo stretchy="false">&#x027e9;</mml:mo></mml:mrow><mml:mi>i</mml:mi><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi>b</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:msubsup></mml:mrow></mml:mtd></mml:mtr><mml:mtr><mml:mtd columnalign="right"><mml:mrow><mml:mrow/><mml:mo stretchy="false">&#x027e8;</mml:mo><mml:msub><mml:mi>d</mml:mi><mml:mi mathvariant="normal">out</mml:mi></mml:msub><mml:mo stretchy="false">&#x027e9;</mml:mo></mml:mrow></mml:mtd><mml:mtd><mml:mrow><mml:mrow/><mml:mo>=</mml:mo></mml:mrow></mml:mtd><mml:mtd columnalign="left"><mml:mrow><mml:mrow/><mml:msub><mml:mi>q</mml:mi><mml:mi>a</mml:mi></mml:msub><mml:msubsup><mml:mrow><mml:mo stretchy="false">&#x027e8;</mml:mo><mml:mi>d</mml:mi><mml:mo stretchy="false">&#x027e9;</mml:mo></mml:mrow><mml:mi>i</mml:mi><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi>a</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:msubsup><mml:mo>+</mml:mo><mml:msub><mml:mi>q</mml:mi><mml:mi>b</mml:mi></mml:msub><mml:msubsup><mml:mrow><mml:mo stretchy="false">&#x027e8;</mml:mo><mml:mi>d</mml:mi><mml:mo stretchy="false">&#x027e9;</mml:mo></mml:mrow><mml:mi>i</mml:mi><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi>b</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:msubsup></mml:mrow></mml:mtd></mml:mtr><mml:mtr><mml:mtd columnalign="right"><mml:mrow><mml:mrow/><mml:mo stretchy="false">&#x027e8;</mml:mo><mml:msub><mml:mi>n</mml:mi><mml:mi mathvariant="normal">in</mml:mi></mml:msub><mml:mo stretchy="false">&#x027e9;</mml:mo></mml:mrow></mml:mtd><mml:mtd><mml:mrow><mml:mrow/><mml:mo>=</mml:mo></mml:mrow></mml:mtd><mml:mtd columnalign="left"><mml:mrow><mml:mrow/><mml:msub><mml:mi>w</mml:mi><mml:mi>a</mml:mi></mml:msub><mml:msubsup><mml:mrow><mml:mo stretchy="false">&#x027e8;</mml:mo><mml:mi>n</mml:mi><mml:mo stretchy="false">&#x027e9;</mml:mo></mml:mrow><mml:mi>i</mml:mi><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi>a</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:msubsup><mml:mo>+</mml:mo><mml:msub><mml:mi>w</mml:mi><mml:mi>b</mml:mi></mml:msub><mml:msubsup><mml:mrow><mml:mo stretchy="false">&#x027e8;</mml:mo><mml:mi>n</mml:mi><mml:mo stretchy="false">&#x027e9;</mml:mo></mml:mrow><mml:mi>i</mml:mi><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi>b</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:msubsup></mml:mrow></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:mfenced></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:math><graphic xlink:href="11538_2018_454_Article_Equ3.gif" position="anchor"/></alternatives></disp-formula>The superscript (<italic>a</italic>) and (<italic>b</italic>) denote the sum of the signal over all cells making <italic>junctional</italic> and, respectively, <italic>protrusional</italic> contact (see Fig.&#x000a0;<xref rid="Fig1" ref-type="fig">1</xref>). More concretely,<disp-formula id="Equ4"><label>4</label><alternatives><tex-math id="M35">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\begin{aligned} \langle d \rangle _i^{(a)}&#x00026;:= \sum _{j \in J(i)} d_j, \qquad \langle d \rangle _i^{(b)} := \sum _{j \in P(i)} d_j, \end{aligned}$$\end{document}</tex-math><mml:math id="M36" display="block"><mml:mrow><mml:mtable><mml:mtr><mml:mtd columnalign="right"><mml:msubsup><mml:mrow><mml:mo stretchy="false">&#x027e8;</mml:mo><mml:mi>d</mml:mi><mml:mo stretchy="false">&#x027e9;</mml:mo></mml:mrow><mml:mi>i</mml:mi><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi>a</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:msubsup></mml:mtd><mml:mtd columnalign="left"><mml:mrow><mml:mo>:</mml:mo><mml:mo>=</mml:mo><mml:munder><mml:mo>&#x02211;</mml:mo><mml:mrow><mml:mi>j</mml:mi><mml:mo>&#x02208;</mml:mo><mml:mi>J</mml:mi><mml:mo stretchy="false">(</mml:mo><mml:mi>i</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:munder><mml:msub><mml:mi>d</mml:mi><mml:mi>j</mml:mi></mml:msub><mml:mo>,</mml:mo><mml:mspace width="2em"/><mml:msubsup><mml:mrow><mml:mo stretchy="false">&#x027e8;</mml:mo><mml:mi>d</mml:mi><mml:mo stretchy="false">&#x027e9;</mml:mo></mml:mrow><mml:mi>i</mml:mi><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi>b</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:msubsup><mml:mo>:</mml:mo><mml:mo>=</mml:mo><mml:munder><mml:mo>&#x02211;</mml:mo><mml:mrow><mml:mi>j</mml:mi><mml:mo>&#x02208;</mml:mo><mml:mi>P</mml:mi><mml:mo stretchy="false">(</mml:mo><mml:mi>i</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:munder><mml:msub><mml:mi>d</mml:mi><mml:mi>j</mml:mi></mml:msub><mml:mo>,</mml:mo></mml:mrow></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:math><graphic xlink:href="11538_2018_454_Article_Equ4.gif" position="anchor"/></alternatives></disp-formula>in which <italic>J</italic>(<italic>i</italic>) and <italic>P</italic>(<italic>i</italic>) denote the set of junctional and protrusional contacts for cell <italic>i</italic>. A specific novelty with this model is <inline-formula id="IEq15"><alternatives><tex-math id="M37">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\langle d_{rm out} \rangle $$\end{document}</tex-math><mml:math id="M38"><mml:mrow><mml:mo stretchy="false">&#x027e8;</mml:mo><mml:msub><mml:mi>d</mml:mi><mml:mrow><mml:mi mathvariant="italic">rmout</mml:mi></mml:mrow></mml:msub><mml:mo stretchy="false">&#x027e9;</mml:mo></mml:mrow></mml:math><inline-graphic xlink:href="11538_2018_454_Article_IEq15.gif"/></alternatives></inline-formula>, the total amount of bound Delta that leads to activation of the Notch receptor. Differential weighting of the signals is achieved by assuming different constant weights <inline-formula id="IEq16"><alternatives><tex-math id="M39">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$[w_a,w_b,q_a,q_b]$$\end{document}</tex-math><mml:math id="M40"><mml:mrow><mml:mo stretchy="false">[</mml:mo><mml:msub><mml:mi>w</mml:mi><mml:mi>a</mml:mi></mml:msub><mml:mo>,</mml:mo><mml:msub><mml:mi>w</mml:mi><mml:mi>b</mml:mi></mml:msub><mml:mo>,</mml:mo><mml:msub><mml:mi>q</mml:mi><mml:mi>a</mml:mi></mml:msub><mml:mo>,</mml:mo><mml:msub><mml:mi>q</mml:mi><mml:mi>b</mml:mi></mml:msub><mml:mo stretchy="false">]</mml:mo></mml:mrow></mml:math><inline-graphic xlink:href="11538_2018_454_Article_IEq16.gif"/></alternatives></inline-formula> of the incoming signals.</p><p id="Par12">To formulate a stochastic well-stirred interpretation of (<xref rid="Equ2" ref-type="">2</xref>), we understand the concentrations (<italic>n</italic>,&#x000a0;<italic>d</italic>,&#x000a0;<italic>r</italic>) in cell <italic>i</italic> as absolute molecular counts (<italic>N</italic>,&#x000a0;<italic>D</italic>,&#x000a0;<italic>R</italic>) at some fix system volume <inline-formula id="IEq17"><alternatives><tex-math id="M41">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\Omega $$\end{document}</tex-math><mml:math id="M42"><mml:mi mathvariant="normal">&#x003a9;</mml:mi></mml:math><inline-graphic xlink:href="11538_2018_454_Article_IEq17.gif"/></alternatives></inline-formula>. From (<xref rid="Equ2" ref-type="">2</xref>), we propose the transitions<disp-formula id="Equ5"><label>5</label><alternatives><tex-math id="M43">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\begin{aligned}&#x00026;\left. \begin{array}{lll} \emptyset \xrightarrow {\beta _n \Omega } N &#x00026;{} \quad \emptyset \xrightarrow {\beta _d \Omega \, r_1} D &#x00026;{} \quad \emptyset \xrightarrow {\beta _r \Omega \, r_2} R \\ N \xrightarrow {\langle D_\mathrm{in} \rangle /(k_t\Omega )} \emptyset &#x00026;{} \quad D \xrightarrow {\langle N_\mathrm{in} \rangle /(k_t\Omega )} \emptyset &#x00026;{} \quad N+D \xrightarrow {1/(k_c \Omega )} \emptyset \\ N \xrightarrow {1} \emptyset &#x00026;{} \quad D \xrightarrow {1} \emptyset &#x00026;{} \quad R \xrightarrow {1} \emptyset \end{array} \right\} \end{aligned}$$\end{document}</tex-math><mml:math id="M44" display="block"><mml:mrow><mml:mtable><mml:mtr><mml:mtd/><mml:mtd columnalign="left"><mml:mfenced close="}"><mml:mrow><mml:mtable><mml:mtr><mml:mtd columnalign="left"><mml:mrow><mml:mi mathvariant="normal">&#x02205;</mml:mi><mml:mover><mml:mo stretchy="false">&#x02192;</mml:mo><mml:mrow><mml:msub><mml:mi>&#x003b2;</mml:mi><mml:mi>n</mml:mi></mml:msub><mml:mi mathvariant="normal">&#x003a9;</mml:mi></mml:mrow></mml:mover><mml:mi>N</mml:mi></mml:mrow></mml:mtd><mml:mtd columnalign="left"><mml:mrow><mml:mrow/><mml:mspace width="1em"/><mml:mi mathvariant="normal">&#x02205;</mml:mi><mml:mover><mml:mo stretchy="false">&#x02192;</mml:mo><mml:mrow><mml:msub><mml:mi>&#x003b2;</mml:mi><mml:mi>d</mml:mi></mml:msub><mml:mi mathvariant="normal">&#x003a9;</mml:mi><mml:mspace width="0.166667em"/><mml:msub><mml:mi>r</mml:mi><mml:mn>1</mml:mn></mml:msub></mml:mrow></mml:mover><mml:mi>D</mml:mi></mml:mrow></mml:mtd><mml:mtd columnalign="left"><mml:mrow><mml:mrow/><mml:mspace width="1em"/><mml:mi mathvariant="normal">&#x02205;</mml:mi><mml:mover><mml:mo stretchy="false">&#x02192;</mml:mo><mml:mrow><mml:msub><mml:mi>&#x003b2;</mml:mi><mml:mi>r</mml:mi></mml:msub><mml:mi mathvariant="normal">&#x003a9;</mml:mi><mml:mspace width="0.166667em"/><mml:msub><mml:mi>r</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mrow></mml:mover><mml:mi>R</mml:mi></mml:mrow></mml:mtd></mml:mtr><mml:mtr><mml:mtd columnalign="left"><mml:mrow><mml:mrow/><mml:mi>N</mml:mi><mml:mover><mml:mo stretchy="false">&#x02192;</mml:mo><mml:mrow><mml:mrow><mml:mo stretchy="false">&#x027e8;</mml:mo><mml:msub><mml:mi>D</mml:mi><mml:mi mathvariant="normal">in</mml:mi></mml:msub><mml:mo stretchy="false">&#x027e9;</mml:mo></mml:mrow><mml:mo stretchy="false">/</mml:mo><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:msub><mml:mi>k</mml:mi><mml:mi>t</mml:mi></mml:msub><mml:mi mathvariant="normal">&#x003a9;</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:mrow></mml:mover><mml:mi mathvariant="normal">&#x02205;</mml:mi></mml:mrow></mml:mtd><mml:mtd columnalign="left"><mml:mrow><mml:mrow/><mml:mspace width="1em"/><mml:mi>D</mml:mi><mml:mover><mml:mo stretchy="false">&#x02192;</mml:mo><mml:mrow><mml:mrow><mml:mo stretchy="false">&#x027e8;</mml:mo><mml:msub><mml:mi>N</mml:mi><mml:mi mathvariant="normal">in</mml:mi></mml:msub><mml:mo stretchy="false">&#x027e9;</mml:mo></mml:mrow><mml:mo stretchy="false">/</mml:mo><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:msub><mml:mi>k</mml:mi><mml:mi>t</mml:mi></mml:msub><mml:mi mathvariant="normal">&#x003a9;</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:mrow></mml:mover><mml:mi mathvariant="normal">&#x02205;</mml:mi></mml:mrow></mml:mtd><mml:mtd columnalign="left"><mml:mrow><mml:mrow/><mml:mspace width="1em"/><mml:mi>N</mml:mi><mml:mo>+</mml:mo><mml:mi>D</mml:mi><mml:mover><mml:mo stretchy="false">&#x02192;</mml:mo><mml:mrow><mml:mn>1</mml:mn><mml:mo stretchy="false">/</mml:mo><mml:mo stretchy="false">(</mml:mo><mml:msub><mml:mi>k</mml:mi><mml:mi>c</mml:mi></mml:msub><mml:mi mathvariant="normal">&#x003a9;</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:mover><mml:mi mathvariant="normal">&#x02205;</mml:mi></mml:mrow></mml:mtd></mml:mtr><mml:mtr><mml:mtd columnalign="left"><mml:mrow><mml:mrow/><mml:mi>N</mml:mi><mml:mover><mml:mo stretchy="false">&#x02192;</mml:mo><mml:mn>1</mml:mn></mml:mover><mml:mi mathvariant="normal">&#x02205;</mml:mi></mml:mrow></mml:mtd><mml:mtd columnalign="left"><mml:mrow><mml:mrow/><mml:mspace width="1em"/><mml:mi>D</mml:mi><mml:mover><mml:mo stretchy="false">&#x02192;</mml:mo><mml:mn>1</mml:mn></mml:mover><mml:mi mathvariant="normal">&#x02205;</mml:mi></mml:mrow></mml:mtd><mml:mtd columnalign="left"><mml:mrow><mml:mrow/><mml:mspace width="1em"/><mml:mi>R</mml:mi><mml:mover><mml:mo stretchy="false">&#x02192;</mml:mo><mml:mn>1</mml:mn></mml:mover><mml:mi mathvariant="normal">&#x02205;</mml:mi></mml:mrow></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:mfenced></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:math><graphic xlink:href="11538_2018_454_Article_Equ5.gif" position="anchor"/></alternatives></disp-formula>in terms of<disp-formula id="Equ6"><label>6</label><alternatives><tex-math id="M45">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\begin{aligned} r_1&#x00026;\equiv \frac{1}{1+(R/\Omega )^2}, \quad r_2 \equiv \frac{(\langle D_\mathrm{out} \rangle N/\Omega ^2)^2}{k_{rs}+(\langle D_\mathrm{out} \rangle N/\Omega ^2)^2}. \end{aligned}$$\end{document}</tex-math><mml:math id="M46" display="block"><mml:mrow><mml:mtable><mml:mtr><mml:mtd columnalign="right"><mml:msub><mml:mi>r</mml:mi><mml:mn>1</mml:mn></mml:msub></mml:mtd><mml:mtd columnalign="left"><mml:mrow><mml:mo>&#x02261;</mml:mo><mml:mfrac><mml:mn>1</mml:mn><mml:mrow><mml:mn>1</mml:mn><mml:mo>+</mml:mo><mml:msup><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi>R</mml:mi><mml:mo stretchy="false">/</mml:mo><mml:mi mathvariant="normal">&#x003a9;</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mn>2</mml:mn></mml:msup></mml:mrow></mml:mfrac><mml:mo>,</mml:mo><mml:mspace width="1em"/><mml:msub><mml:mi>r</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mo>&#x02261;</mml:mo><mml:mfrac><mml:msup><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mrow><mml:mo stretchy="false">&#x027e8;</mml:mo><mml:msub><mml:mi>D</mml:mi><mml:mi mathvariant="normal">out</mml:mi></mml:msub><mml:mo stretchy="false">&#x027e9;</mml:mo></mml:mrow><mml:mi>N</mml:mi><mml:mo stretchy="false">/</mml:mo><mml:msup><mml:mi mathvariant="normal">&#x003a9;</mml:mi><mml:mn>2</mml:mn></mml:msup><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mn>2</mml:mn></mml:msup><mml:mrow><mml:msub><mml:mi>k</mml:mi><mml:mrow><mml:mi mathvariant="italic">rs</mml:mi></mml:mrow></mml:msub><mml:mo>+</mml:mo><mml:msup><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mrow><mml:mo stretchy="false">&#x027e8;</mml:mo><mml:msub><mml:mi>D</mml:mi><mml:mi mathvariant="normal">out</mml:mi></mml:msub><mml:mo stretchy="false">&#x027e9;</mml:mo></mml:mrow><mml:mi>N</mml:mi><mml:mo stretchy="false">/</mml:mo><mml:msup><mml:mi mathvariant="normal">&#x003a9;</mml:mi><mml:mn>2</mml:mn></mml:msup><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mn>2</mml:mn></mml:msup></mml:mrow></mml:mfrac><mml:mo>.</mml:mo></mml:mrow></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:math><graphic xlink:href="11538_2018_454_Article_Equ6.gif" position="anchor"/></alternatives></disp-formula><fig id="Fig2"><label>Fig. 2</label><caption><p>Stochastic pattern development over a static population of cells. Here the 0-dimensional interpretation of model (<xref rid="Equ5" ref-type="">5</xref>) with system volume <inline-formula id="IEq18"><alternatives><tex-math id="M47">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\Omega = 400$$\end{document}</tex-math><mml:math id="M48"><mml:mrow><mml:mi mathvariant="normal">&#x003a9;</mml:mi><mml:mo>=</mml:mo><mml:mn>400</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="11538_2018_454_Article_IEq18.gif"/></alternatives></inline-formula> is employed and is simulated using Gillespie&#x02019;s direct method. From left to right: time <inline-formula id="IEq19"><alternatives><tex-math id="M49">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$t = [4,20,40,200]$$\end{document}</tex-math><mml:math id="M50"><mml:mrow><mml:mi>t</mml:mi><mml:mo>=</mml:mo><mml:mo stretchy="false">[</mml:mo><mml:mn>4</mml:mn><mml:mo>,</mml:mo><mml:mn>20</mml:mn><mml:mo>,</mml:mo><mml:mn>40</mml:mn><mml:mo>,</mml:mo><mml:mn>200</mml:mn><mml:mo stretchy="false">]</mml:mo></mml:mrow></mml:math><inline-graphic xlink:href="11538_2018_454_Article_IEq19.gif"/></alternatives></inline-formula>. Color codes low (white) and high Delta (orange, light, and dark brown). Parameters are adopted from Hadjivasiliou et&#x000a0;al. (<xref ref-type="bibr" rid="CR19">2016</xref>): <inline-formula id="IEq20"><alternatives><tex-math id="M51">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$[\beta _n,\beta _d,\beta _r] = [100,500,3 \cdot 10^5]$$\end{document}</tex-math><mml:math id="M52"><mml:mrow><mml:mrow><mml:mo stretchy="false">[</mml:mo><mml:msub><mml:mi>&#x003b2;</mml:mi><mml:mi>n</mml:mi></mml:msub><mml:mo>,</mml:mo><mml:msub><mml:mi>&#x003b2;</mml:mi><mml:mi>d</mml:mi></mml:msub><mml:mo>,</mml:mo><mml:msub><mml:mi>&#x003b2;</mml:mi><mml:mi>r</mml:mi></mml:msub><mml:mo stretchy="false">]</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:mrow><mml:mo stretchy="false">[</mml:mo><mml:mn>100</mml:mn><mml:mo>,</mml:mo><mml:mn>500</mml:mn><mml:mo>,</mml:mo><mml:mn>3</mml:mn><mml:mo>&#x000b7;</mml:mo><mml:msup><mml:mn>10</mml:mn><mml:mn>5</mml:mn></mml:msup><mml:mo stretchy="false">]</mml:mo></mml:mrow></mml:mrow></mml:math><inline-graphic xlink:href="11538_2018_454_Article_IEq20.gif"/></alternatives></inline-formula>, <inline-formula id="IEq21"><alternatives><tex-math id="M53">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$[k_t,k_c,k_{rs}] = [2,0.5,10^7]$$\end{document}</tex-math><mml:math id="M54"><mml:mrow><mml:mrow><mml:mo stretchy="false">[</mml:mo><mml:msub><mml:mi>k</mml:mi><mml:mi>t</mml:mi></mml:msub><mml:mo>,</mml:mo><mml:msub><mml:mi>k</mml:mi><mml:mi>c</mml:mi></mml:msub><mml:mo>,</mml:mo><mml:msub><mml:mi>k</mml:mi><mml:mrow><mml:mi mathvariant="italic">rs</mml:mi></mml:mrow></mml:msub><mml:mo stretchy="false">]</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:mrow><mml:mo stretchy="false">[</mml:mo><mml:mn>2</mml:mn><mml:mo>,</mml:mo><mml:mn>0.5</mml:mn><mml:mo>,</mml:mo><mml:msup><mml:mn>10</mml:mn><mml:mn>7</mml:mn></mml:msup><mml:mo stretchy="false">]</mml:mo></mml:mrow></mml:mrow></mml:math><inline-graphic xlink:href="11538_2018_454_Article_IEq21.gif"/></alternatives></inline-formula>, protrusion length <inline-formula id="IEq22"><alternatives><tex-math id="M55">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$= 3.5$$\end{document}</tex-math><mml:math id="M56"><mml:mrow><mml:mo>=</mml:mo><mml:mn>3.5</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="11538_2018_454_Article_IEq22.gif"/></alternatives></inline-formula> cell radii, angular width <inline-formula id="IEq23"><alternatives><tex-math id="M57">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$= 2\pi $$\end{document}</tex-math><mml:math id="M58"><mml:mrow><mml:mo>=</mml:mo><mml:mn>2</mml:mn><mml:mi>&#x003c0;</mml:mi></mml:mrow></mml:math><inline-graphic xlink:href="11538_2018_454_Article_IEq23.gif"/></alternatives></inline-formula>, <inline-formula id="IEq24"><alternatives><tex-math id="M59">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$[w_a,q_a,w_b,q_b] = [1,1,1,1]$$\end{document}</tex-math><mml:math id="M60"><mml:mrow><mml:mrow><mml:mo stretchy="false">[</mml:mo><mml:msub><mml:mi>w</mml:mi><mml:mi>a</mml:mi></mml:msub><mml:mo>,</mml:mo><mml:msub><mml:mi>q</mml:mi><mml:mi>a</mml:mi></mml:msub><mml:mo>,</mml:mo><mml:msub><mml:mi>w</mml:mi><mml:mi>b</mml:mi></mml:msub><mml:mo>,</mml:mo><mml:msub><mml:mi>q</mml:mi><mml:mi>b</mml:mi></mml:msub><mml:mo stretchy="false">]</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:mrow><mml:mo stretchy="false">[</mml:mo><mml:mn>1</mml:mn><mml:mo>,</mml:mo><mml:mn>1</mml:mn><mml:mo>,</mml:mo><mml:mn>1</mml:mn><mml:mo>,</mml:mo><mml:mn>1</mml:mn><mml:mo stretchy="false">]</mml:mo></mml:mrow></mml:mrow></mml:math><inline-graphic xlink:href="11538_2018_454_Article_IEq24.gif"/></alternatives></inline-formula></p></caption><graphic xlink:href="11538_2018_454_Fig2_HTML" id="MO25"/></fig></p><p id="Par13">We test this model over a static hexagonal grid using Gillespie&#x02019;s direct method for the simulation (Fig.&#x000a0;<xref rid="Fig2" ref-type="fig">2</xref>). To practically evaluate the various incoming signals <inline-formula id="IEq25"><alternatives><tex-math id="M61">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\langle D_\mathrm{in} \rangle $$\end{document}</tex-math><mml:math id="M62"><mml:mrow><mml:mo stretchy="false">&#x027e8;</mml:mo><mml:msub><mml:mi>D</mml:mi><mml:mi mathvariant="normal">in</mml:mi></mml:msub><mml:mo stretchy="false">&#x027e9;</mml:mo></mml:mrow></mml:math><inline-graphic xlink:href="11538_2018_454_Article_IEq25.gif"/></alternatives></inline-formula>, <inline-formula id="IEq26"><alternatives><tex-math id="M63">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\langle N_\mathrm{in} \rangle $$\end{document}</tex-math><mml:math id="M64"><mml:mrow><mml:mo stretchy="false">&#x027e8;</mml:mo><mml:msub><mml:mi>N</mml:mi><mml:mi mathvariant="normal">in</mml:mi></mml:msub><mml:mo stretchy="false">&#x027e9;</mml:mo></mml:mrow></mml:math><inline-graphic xlink:href="11538_2018_454_Article_IEq26.gif"/></alternatives></inline-formula>, and <inline-formula id="IEq27"><alternatives><tex-math id="M65">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\langle D_\mathrm{out} \rangle $$\end{document}</tex-math><mml:math id="M66"><mml:mrow><mml:mo stretchy="false">&#x027e8;</mml:mo><mml:msub><mml:mi>D</mml:mi><mml:mi mathvariant="normal">out</mml:mi></mml:msub><mml:mo stretchy="false">&#x027e9;</mml:mo></mml:mrow></mml:math><inline-graphic xlink:href="11538_2018_454_Article_IEq27.gif"/></alternatives></inline-formula>, we settle for a small time-step <inline-formula id="IEq28"><alternatives><tex-math id="M67">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$d\tau $$\end{document}</tex-math><mml:math id="M68"><mml:mrow><mml:mi>d</mml:mi><mml:mi>&#x003c4;</mml:mi></mml:mrow></mml:math><inline-graphic xlink:href="11538_2018_454_Article_IEq28.gif"/></alternatives></inline-formula> and make the approximation that signals (<xref rid="Equ3" ref-type="">3</xref>) remain constant in the interval of time <inline-formula id="IEq29"><alternatives><tex-math id="M69">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$[t,t+d\tau ]$$\end{document}</tex-math><mml:math id="M70"><mml:mrow><mml:mo stretchy="false">[</mml:mo><mml:mi>t</mml:mi><mml:mo>,</mml:mo><mml:mi>t</mml:mi><mml:mo>+</mml:mo><mml:mi>d</mml:mi><mml:mi>&#x003c4;</mml:mi><mml:mo stretchy="false">]</mml:mo></mml:mrow></mml:math><inline-graphic xlink:href="11538_2018_454_Article_IEq29.gif"/></alternatives></inline-formula>, in line with, e.g., the approach taken in Puchalka and Kierzek (<xref ref-type="bibr" rid="CR24">2004</xref>). The time interval was here chosen in a quite conservative way such that a forward Euler step of original ODE model (<xref rid="Equ2" ref-type="">2</xref>) would imply a 5% change of state in a norm-wise sense,<disp-formula id="Equ7"><label>7</label><alternatives><tex-math id="M71">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\begin{aligned} d\tau&#x00026;= 0.05 \times \frac{\Vert x\Vert }{\Vert f(x)\Vert }, \end{aligned}$$\end{document}</tex-math><mml:math id="M72" display="block"><mml:mrow><mml:mtable><mml:mtr><mml:mtd columnalign="right"><mml:mrow><mml:mi>d</mml:mi><mml:mi>&#x003c4;</mml:mi></mml:mrow></mml:mtd><mml:mtd columnalign="left"><mml:mrow><mml:mo>=</mml:mo><mml:mn>0.05</mml:mn><mml:mo>&#x000d7;</mml:mo><mml:mfrac><mml:mrow><mml:mo stretchy="false">&#x02016;</mml:mo><mml:mi>x</mml:mi><mml:mo stretchy="false">&#x02016;</mml:mo></mml:mrow><mml:mrow><mml:mo stretchy="false">&#x02016;</mml:mo><mml:mi>f</mml:mi><mml:mo stretchy="false">(</mml:mo><mml:mi>x</mml:mi><mml:mo stretchy="false">)</mml:mo><mml:mo stretchy="false">&#x02016;</mml:mo></mml:mrow></mml:mfrac><mml:mo>,</mml:mo></mml:mrow></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:math><graphic xlink:href="11538_2018_454_Article_Equ7.gif" position="anchor"/></alternatives></disp-formula>where <inline-formula id="IEq30"><alternatives><tex-math id="M73">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$x = [n,d,r] {= [N,D,R]/\Omega }$$\end{document}</tex-math><mml:math id="M74"><mml:mrow><mml:mi>x</mml:mi><mml:mo>=</mml:mo><mml:mo stretchy="false">[</mml:mo><mml:mi>n</mml:mi><mml:mo>,</mml:mo><mml:mi>d</mml:mi><mml:mo>,</mml:mo><mml:mi>r</mml:mi><mml:mo stretchy="false">]</mml:mo><mml:mrow><mml:mo>=</mml:mo><mml:mo stretchy="false">[</mml:mo><mml:mi>N</mml:mi><mml:mo>,</mml:mo><mml:mi>D</mml:mi><mml:mo>,</mml:mo><mml:mi>R</mml:mi><mml:mo stretchy="false">]</mml:mo><mml:mo stretchy="false">/</mml:mo><mml:mi mathvariant="normal">&#x003a9;</mml:mi></mml:mrow></mml:mrow></mml:math><inline-graphic xlink:href="11538_2018_454_Article_IEq30.gif"/></alternatives></inline-formula> is the concentration vector for the whole cell population and where <inline-formula id="IEq31"><alternatives><tex-math id="M75">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$f(\cdot )$$\end{document}</tex-math><mml:math id="M76"><mml:mrow><mml:mi>f</mml:mi><mml:mo stretchy="false">(</mml:mo><mml:mo>&#x000b7;</mml:mo><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:math><inline-graphic xlink:href="11538_2018_454_Article_IEq31.gif"/></alternatives></inline-formula> is the right-hand side of (<xref rid="Equ2" ref-type="">2</xref>).</p><p id="Par14">Simulation results for this model when starting from a random initial configuration are summarized in Fig.&#x000a0;<xref rid="Fig2" ref-type="fig">2</xref> at a system volume <inline-formula id="IEq32"><alternatives><tex-math id="M77">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\Omega = 400$$\end{document}</tex-math><mml:math id="M78"><mml:mrow><mml:mi mathvariant="normal">&#x003a9;</mml:mi><mml:mo>=</mml:mo><mml:mn>400</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="11538_2018_454_Article_IEq32.gif"/></alternatives></inline-formula>. We now proceed to make an immediate spatial extension of this model.</p></sec><sec id="Sec4"><title>Spatial Stochastic Reaction&#x02013;Diffusion Models of Single Cells</title><p id="Par15">Living cells are inherently inhomogeneous objects, and the assumption of well-stirredness can rightly be questioned (Dobrzy&#x00144;ski et&#x000a0;al. <xref ref-type="bibr" rid="CR11">2007</xref>; Fange and Elf <xref ref-type="bibr" rid="CR17">2006</xref>). The reaction&#x02013;diffusion master equation (RDME) attempts to strike a balance between accuracy and computational efficiency (Gardiner <xref ref-type="bibr" rid="CR18">2004</xref>). Here the domain under consideration is discretized in small enough compartments, or <italic>voxels</italic>, such that diffusion is enough to regard each voxel as well stirred. Diffusion in between voxels is handled as a special set of reactions with rates obtained so as to match with macroscopic diffusion properties (Engblom et&#x000a0;al. <xref ref-type="bibr" rid="CR16">2009</xref>). An efficient algorithm for spatial stochastic simulation is the Next subvolume method (NSM) (Fange and Elf <xref ref-type="bibr" rid="CR17">2006</xref>), which can be thought of as a blend of Gillespie&#x02019;s Direct method with the Next reaction method. The algorithm is summarized in &#x0201c;Appendix&#x000a0;<xref rid="Sec9" ref-type="sec">A</xref>.&#x0201d;</p><p id="Par16">We like to regard the RDME as a kind of &#x0201c;gold standard&#x0201d; in single cell modeling. Although it is possible to make more accurate computational models in the sense of bringing in more physical details, say at the level of single molecules (Andrews and Bray <xref ref-type="bibr" rid="CR1">2004</xref>), this comes at large computational costs. There is also the issue with uncertainties in rate parameters, and the risk of over-modeling in many situations of practical biological interest.<fig id="Fig3"><label>Fig. 3</label><caption><p>Single-cell discretization mesh used in the running model. Left: triangularization of a basic two-dimensional cell geometry consisting of a cytoplasm and a nuclei, right: the associated dual mesh consisting of the computational compartments (voxels)</p></caption><graphic xlink:href="11538_2018_454_Fig3_HTML" id="MO26"/></fig></p><p id="Par17">To illustrate the single cell population-level approach we have in mind, we make an immediate version of pathway model (<xref rid="Equ5" ref-type="">5</xref>) as follows. As a single-cell discretization, we take the triangularization depicted in Fig.&#x000a0;<xref rid="Fig3" ref-type="fig">3</xref> which consists of a modest number of 40 voxels. We make no particular distinction of the membrane, the cytoplasm, or the nuclei, but allow all reactions in (<xref rid="Equ5" ref-type="">5</xref>) to take place in all of the voxels. We let the geometry be of total volume <inline-formula id="IEq33"><alternatives><tex-math id="M79">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\Omega = 400$$\end{document}</tex-math><mml:math id="M80"><mml:mrow><mml:mi mathvariant="normal">&#x003a9;</mml:mi><mml:mo>=</mml:mo><mml:mn>400</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="11538_2018_454_Article_IEq33.gif"/></alternatives></inline-formula> and use the scalar diffusion constant <inline-formula id="IEq34"><alternatives><tex-math id="M81">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$1/\Omega $$\end{document}</tex-math><mml:math id="M82"><mml:mrow><mml:mn>1</mml:mn><mml:mo stretchy="false">/</mml:mo><mml:mi mathvariant="normal">&#x003a9;</mml:mi></mml:mrow></mml:math><inline-graphic xlink:href="11538_2018_454_Article_IEq34.gif"/></alternatives></inline-formula> across the whole cell geometry and for all species [<italic>N</italic>,&#x000a0;<italic>D</italic>,&#x000a0;<italic>R</italic>]. Although there are clearly many potential improvements to this basic model, it will serve as an interesting load case to our simulation approach. We thus have to postpone for another occasion the interesting quest for additional modeling realism including, e.g., nuclei- and membrane specific transitions.</p></sec><sec id="Sec5"><title>Stochastic Simulation of Growing Cell Populations</title><p id="Par18">Given the relative efficiency of the RDME approach, one can wonder if not a similar idea could be useful at the cell population level. Unlike the various molecules inside the living cell, however, cells in multicellular structures do not generally diffuse around freely. Instead, cells may actively crawl, adhere to other cells, and are pushed into position. An RDME-like framework for this situation was recently developed, and we now briefly review this idea (Engblom et&#x000a0;al. <xref ref-type="bibr" rid="CR15">2018</xref>).</p><p id="Par19">We assume a two- or three-dimensional computational grid consisting of voxels <inline-formula id="IEq35"><alternatives><tex-math id="M83">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$(v_i)$$\end{document}</tex-math><mml:math id="M84"><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:msub><mml:mi>v</mml:mi><mml:mi>i</mml:mi></mml:msub><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:math><inline-graphic xlink:href="11538_2018_454_Article_IEq35.gif"/></alternatives></inline-formula>, <inline-formula id="IEq36"><alternatives><tex-math id="M85">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$i = 1,\ldots ,N_{{\mathrm{vox}}}$$\end{document}</tex-math><mml:math id="M86"><mml:mrow><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:mn>1</mml:mn><mml:mo>,</mml:mo><mml:mo>&#x02026;</mml:mo><mml:mo>,</mml:mo><mml:msub><mml:mi>N</mml:mi><mml:mi mathvariant="normal">vox</mml:mi></mml:msub></mml:mrow></mml:math><inline-graphic xlink:href="11538_2018_454_Article_IEq36.gif"/></alternatives></inline-formula> (Fig.&#x000a0;<xref rid="Fig4" ref-type="fig">4</xref>). At this level of description, the individual cells are placed in the single voxels of a typically structured grid, e.g., squares or hexagonals, although unstructured grids are certainly also a possibility. As in the RDME, it is fundamental that a consistent Laplace operator may be defined over this grid, hence the name discrete Laplacian cell mechanics, or DLCM.<fig id="Fig4"><label>Fig. 4</label><caption><p>Schematic illustration of the DLCM method (adapted from Engblom et&#x000a0;al. <xref ref-type="bibr" rid="CR15">2018</xref>). Green voxels contain single cells and red voxels contain two cells, giving rise to a cellular pressure. A discrete Laplace operator is employed to propagate this pressure, thus inducing a rate to move for the cells in the voxels as indicated by the arrows. Cells in boundary voxels may move into empty voxels and cells in doubly populated voxels may move into voxels containing fewer cells</p></caption><graphic xlink:href="11538_2018_454_Fig4_HTML" id="MO27"/></fig></p><p id="Par20">The voxels are either empty or may contain a certain number of cells, here taken to be either 1 or 2. If the number of cells in all voxels is either 0 or 1, i.e., below the carrying capacity, then the system is in equilibrium given that there are no other active processes. If the number of cells in one or more voxels is 2, a cellular pressure is exerted toward the neighbor voxels. This state is eventually changed by an event where one of the cells moves into a neighboring voxel, and then, the pressure distribution changes. This process continues until, possibly, the system relaxes into equilibrium.<fig id="Fig5"><label>Fig. 5</label><caption><p>Growth of cell population. Nutrition is made available at the boundaries and diffuses through the population and is consumed by individual cells. From left to right: time <inline-formula id="IEq37"><alternatives><tex-math id="M87">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$t = [14.4,21.8,31.9,197.9]$$\end{document}</tex-math><mml:math id="M88"><mml:mrow><mml:mi>t</mml:mi><mml:mo>=</mml:mo><mml:mo stretchy="false">[</mml:mo><mml:mn>14.4</mml:mn><mml:mo>,</mml:mo><mml:mn>21.8</mml:mn><mml:mo>,</mml:mo><mml:mn>31.9</mml:mn><mml:mo>,</mml:mo><mml:mn>197.9</mml:mn><mml:mo stretchy="false">]</mml:mo></mml:mrow></mml:math><inline-graphic xlink:href="11538_2018_454_Article_IEq37.gif"/></alternatives></inline-formula></p></caption><graphic xlink:href="11538_2018_454_Fig5_HTML" id="MO28"/></fig></p><p id="Par21">What is then the physics for this cellular pressure which drives the shape of the cell population? A detailed derivation is made in Engblom et&#x000a0;al. (<xref ref-type="bibr" rid="CR15">2018</xref>), but in short, the answer is that a suitable physics is formed by letting the pressure be spread according to the negative Laplacian, and with source terms for all over-occupied voxels (see Fig.&#x000a0;<xref rid="Fig4" ref-type="fig">4</xref>). Let <inline-formula id="IEq38"><alternatives><tex-math id="M89">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$(u_i)$$\end{document}</tex-math><mml:math id="M90"><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:msub><mml:mi>u</mml:mi><mml:mi>i</mml:mi></mml:msub><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:math><inline-graphic xlink:href="11538_2018_454_Article_IEq38.gif"/></alternatives></inline-formula>, <inline-formula id="IEq39"><alternatives><tex-math id="M91">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$i = 1,\ldots ,N_{{\mathrm{vox}}}$$\end{document}</tex-math><mml:math id="M92"><mml:mrow><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:mn>1</mml:mn><mml:mo>,</mml:mo><mml:mo>&#x02026;</mml:mo><mml:mo>,</mml:mo><mml:msub><mml:mi>N</mml:mi><mml:mi mathvariant="normal">vox</mml:mi></mml:msub></mml:mrow></mml:math><inline-graphic xlink:href="11538_2018_454_Article_IEq39.gif"/></alternatives></inline-formula> denote the number of cells in voxel <italic>i</italic> and let <inline-formula id="IEq40"><alternatives><tex-math id="M93">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$(p_i)$$\end{document}</tex-math><mml:math id="M94"><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:msub><mml:mi>p</mml:mi><mml:mi>i</mml:mi></mml:msub><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:math><inline-graphic xlink:href="11538_2018_454_Article_IEq40.gif"/></alternatives></inline-formula> be the corresponding cellular pressure. Denote by <inline-formula id="IEq41"><alternatives><tex-math id="M95">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\Omega _h$$\end{document}</tex-math><mml:math id="M96"><mml:msub><mml:mi mathvariant="normal">&#x003a9;</mml:mi><mml:mi>h</mml:mi></mml:msub></mml:math><inline-graphic xlink:href="11538_2018_454_Article_IEq41.gif"/></alternatives></inline-formula> the subset of voxels <inline-formula id="IEq42"><alternatives><tex-math id="M97">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$v_i$$\end{document}</tex-math><mml:math id="M98"><mml:msub><mml:mi>v</mml:mi><mml:mi>i</mml:mi></mml:msub></mml:math><inline-graphic xlink:href="11538_2018_454_Article_IEq42.gif"/></alternatives></inline-formula> for which <inline-formula id="IEq43"><alternatives><tex-math id="M99">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$u_i \not = 0$$\end{document}</tex-math><mml:math id="M100"><mml:mrow><mml:msub><mml:mi>u</mml:mi><mml:mi>i</mml:mi></mml:msub><mml:mo>&#x02260;</mml:mo><mml:mn>0</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="11538_2018_454_Article_IEq43.gif"/></alternatives></inline-formula> and let <inline-formula id="IEq44"><alternatives><tex-math id="M101">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\partial \Omega _h$$\end{document}</tex-math><mml:math id="M102"><mml:mrow><mml:mi>&#x02202;</mml:mi><mml:msub><mml:mi mathvariant="normal">&#x003a9;</mml:mi><mml:mi>h</mml:mi></mml:msub></mml:mrow></mml:math><inline-graphic xlink:href="11538_2018_454_Article_IEq44.gif"/></alternatives></inline-formula> denote the discrete boundary, the set of unpopulated voxels that share an edge with a voxel in <inline-formula id="IEq45"><alternatives><tex-math id="M103">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\Omega _h$$\end{document}</tex-math><mml:math id="M104"><mml:msub><mml:mi mathvariant="normal">&#x003a9;</mml:mi><mml:mi>h</mml:mi></mml:msub></mml:math><inline-graphic xlink:href="11538_2018_454_Article_IEq45.gif"/></alternatives></inline-formula>. At any instant in time <italic>t</italic>, we solve for the cellular pressure,<disp-formula id="Equ8"><label>8</label><alternatives><tex-math id="M105">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\begin{aligned} -L p&#x00026;= s(u), \quad i \in \Omega _h, \end{aligned}$$\end{document}</tex-math><mml:math id="M106" display="block"><mml:mrow><mml:mtable><mml:mtr><mml:mtd columnalign="right"><mml:mrow><mml:mo>-</mml:mo><mml:mi>L</mml:mi><mml:mi>p</mml:mi></mml:mrow></mml:mtd><mml:mtd columnalign="left"><mml:mrow><mml:mo>=</mml:mo><mml:mi>s</mml:mi><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi>u</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mo>,</mml:mo><mml:mspace width="1em"/><mml:mi>i</mml:mi><mml:mo>&#x02208;</mml:mo><mml:msub><mml:mi mathvariant="normal">&#x003a9;</mml:mi><mml:mi>h</mml:mi></mml:msub><mml:mo>,</mml:mo></mml:mrow></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:math><graphic xlink:href="11538_2018_454_Article_Equ8.gif" position="anchor"/></alternatives></disp-formula><disp-formula id="Equ9"><label>9</label><alternatives><tex-math id="M107">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\begin{aligned} p_i&#x00026;= 0, \quad i \in \partial \Omega _h, \end{aligned}$$\end{document}</tex-math><mml:math id="M108" display="block"><mml:mrow><mml:mtable><mml:mtr><mml:mtd columnalign="right"><mml:msub><mml:mi>p</mml:mi><mml:mi>i</mml:mi></mml:msub></mml:mtd><mml:mtd columnalign="left"><mml:mrow><mml:mo>=</mml:mo><mml:mn>0</mml:mn><mml:mo>,</mml:mo><mml:mspace width="1em"/><mml:mi>i</mml:mi><mml:mo>&#x02208;</mml:mo><mml:mi>&#x02202;</mml:mi><mml:msub><mml:mi mathvariant="normal">&#x003a9;</mml:mi><mml:mi>h</mml:mi></mml:msub><mml:mo>,</mml:mo></mml:mrow></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:math><graphic xlink:href="11538_2018_454_Article_Equ9.gif" position="anchor"/></alternatives></disp-formula>in which <italic>L</italic> is a consistent discretization of <inline-formula id="IEq46"><alternatives><tex-math id="M109">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\Delta $$\end{document}</tex-math><mml:math id="M110"><mml:mi mathvariant="normal">&#x00394;</mml:mi></mml:math><inline-graphic xlink:href="11538_2018_454_Article_IEq46.gif"/></alternatives></inline-formula> over <inline-formula id="IEq47"><alternatives><tex-math id="M111">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\Omega _h$$\end{document}</tex-math><mml:math id="M112"><mml:msub><mml:mi mathvariant="normal">&#x003a9;</mml:mi><mml:mi>h</mml:mi></mml:msub></mml:math><inline-graphic xlink:href="11538_2018_454_Article_IEq47.gif"/></alternatives></inline-formula> and where the source term is <inline-formula id="IEq48"><alternatives><tex-math id="M113">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$s(u_i) = 0$$\end{document}</tex-math><mml:math id="M114"><mml:mrow><mml:mi>s</mml:mi><mml:mo stretchy="false">(</mml:mo><mml:msub><mml:mi>u</mml:mi><mml:mi>i</mml:mi></mml:msub><mml:mo stretchy="false">)</mml:mo><mml:mo>=</mml:mo><mml:mn>0</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="11538_2018_454_Article_IEq48.gif"/></alternatives></inline-formula> for <inline-formula id="IEq49"><alternatives><tex-math id="M115">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$u_i \le 1$$\end{document}</tex-math><mml:math id="M116"><mml:mrow><mml:msub><mml:mi>u</mml:mi><mml:mi>i</mml:mi></mml:msub><mml:mo>&#x02264;</mml:mo><mml:mn>1</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="11538_2018_454_Article_IEq49.gif"/></alternatives></inline-formula> and <inline-formula id="IEq50"><alternatives><tex-math id="M117">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$s(u_i) = 1$$\end{document}</tex-math><mml:math id="M118"><mml:mrow><mml:mi>s</mml:mi><mml:mo stretchy="false">(</mml:mo><mml:msub><mml:mi>u</mml:mi><mml:mi>i</mml:mi></mml:msub><mml:mo stretchy="false">)</mml:mo><mml:mo>=</mml:mo><mml:mn>1</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="11538_2018_454_Article_IEq50.gif"/></alternatives></inline-formula> whenever <inline-formula id="IEq51"><alternatives><tex-math id="M119">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$u_i = 2$$\end{document}</tex-math><mml:math id="M120"><mml:mrow><mml:msub><mml:mi>u</mml:mi><mml:mi>i</mml:mi></mml:msub><mml:mo>=</mml:mo><mml:mn>2</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="11538_2018_454_Article_IEq51.gif"/></alternatives></inline-formula>. This normalization ensures that <inline-formula id="IEq52"><alternatives><tex-math id="M121">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$p = 0$$\end{document}</tex-math><mml:math id="M122"><mml:mrow><mml:mi>p</mml:mi><mml:mo>=</mml:mo><mml:mn>0</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="11538_2018_454_Article_IEq52.gif"/></alternatives></inline-formula> at equilibrium. It is doable to rely on this setup also for unstructured meshes by postulating that the cellular pressure is proportional to the difference in volume occupancy and voxel volume. However, there are biological specifics which should rightly be considered in this case, such as adhesion effects in voxels populated under their carrying capacity, and also details concerning the volume characteristics of the individual cells.</p><p id="Par22">The movements in the cell population are induced by a pressure gradient between two voxels. Denote by <inline-formula id="IEq53"><alternatives><tex-math id="M123">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$I(i \rightarrow j) = I_{ij}$$\end{document}</tex-math><mml:math id="M124"><mml:mrow><mml:mi>I</mml:mi><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi>i</mml:mi><mml:mo stretchy="false">&#x02192;</mml:mo><mml:mi>j</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:msub><mml:mi>I</mml:mi><mml:mrow><mml:mi mathvariant="italic">ij</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:math><inline-graphic xlink:href="11538_2018_454_Article_IEq53.gif"/></alternatives></inline-formula> the current from voxel <inline-formula id="IEq54"><alternatives><tex-math id="M125">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$v_i$$\end{document}</tex-math><mml:math id="M126"><mml:msub><mml:mi>v</mml:mi><mml:mi>i</mml:mi></mml:msub></mml:math><inline-graphic xlink:href="11538_2018_454_Article_IEq54.gif"/></alternatives></inline-formula> to the neighbor voxel <inline-formula id="IEq55"><alternatives><tex-math id="M127">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$v_j$$\end{document}</tex-math><mml:math id="M128"><mml:msub><mml:mi>v</mml:mi><mml:mi>j</mml:mi></mml:msub></mml:math><inline-graphic xlink:href="11538_2018_454_Article_IEq55.gif"/></alternatives></inline-formula>. This current is found by integrating the pressure gradient across the edge between the two voxels,<disp-formula id="Equ10"><label>10</label><alternatives><tex-math id="M129">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\begin{aligned} I_{ij}&#x00026;= -\int _{v_i \cap v_j} \nabla p(x) \, \cdot \mathrm{d}S = \frac{e_{ij}}{d_{ij}} (p_i-p_j), \end{aligned}$$\end{document}</tex-math><mml:math id="M130" display="block"><mml:mrow><mml:mtable><mml:mtr><mml:mtd columnalign="right"><mml:msub><mml:mi>I</mml:mi><mml:mrow><mml:mi mathvariant="italic">ij</mml:mi></mml:mrow></mml:msub></mml:mtd><mml:mtd columnalign="left"><mml:mrow><mml:mo>=</mml:mo><mml:mo>-</mml:mo><mml:msub><mml:mo>&#x0222b;</mml:mo><mml:mrow><mml:msub><mml:mi>v</mml:mi><mml:mi>i</mml:mi></mml:msub><mml:mo>&#x02229;</mml:mo><mml:msub><mml:mi>v</mml:mi><mml:mi>j</mml:mi></mml:msub></mml:mrow></mml:msub><mml:mi mathvariant="normal">&#x02207;</mml:mi><mml:mi>p</mml:mi><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi>x</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mspace width="0.166667em"/><mml:mo>&#x000b7;</mml:mo><mml:mi mathvariant="normal">d</mml:mi><mml:mi>S</mml:mi><mml:mo>=</mml:mo><mml:mfrac><mml:msub><mml:mi>e</mml:mi><mml:mrow><mml:mi mathvariant="italic">ij</mml:mi></mml:mrow></mml:msub><mml:msub><mml:mi>d</mml:mi><mml:mrow><mml:mi mathvariant="italic">ij</mml:mi></mml:mrow></mml:msub></mml:mfrac><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:msub><mml:mi>p</mml:mi><mml:mi>i</mml:mi></mml:msub><mml:mo>-</mml:mo><mml:msub><mml:mi>p</mml:mi><mml:mi>j</mml:mi></mml:msub><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mo>,</mml:mo></mml:mrow></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:math><graphic xlink:href="11538_2018_454_Article_Equ10.gif" position="anchor"/></alternatives></disp-formula>with <inline-formula id="IEq56"><alternatives><tex-math id="M131">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$d_{ij}$$\end{document}</tex-math><mml:math id="M132"><mml:msub><mml:mi>d</mml:mi><mml:mrow><mml:mi mathvariant="italic">ij</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="11538_2018_454_Article_IEq56.gif"/></alternatives></inline-formula> the distance between voxel centers and <inline-formula id="IEq57"><alternatives><tex-math id="M133">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$e_{ij}$$\end{document}</tex-math><mml:math id="M134"><mml:msub><mml:mi>e</mml:mi><mml:mrow><mml:mi mathvariant="italic">ij</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="11538_2018_454_Article_IEq57.gif"/></alternatives></inline-formula> the common edge length. The <italic>rate</italic> for the event that one cell moves from voxel <italic>i</italic> to <italic>j</italic> is taken to be<disp-formula id="Equ11"><label>11</label><alternatives><tex-math id="M135">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\begin{aligned} R(i \rightarrow j) = R_{ij} = D I_{ij}, \end{aligned}$$\end{document}</tex-math><mml:math id="M136" display="block"><mml:mrow><mml:mtable><mml:mtr><mml:mtd columnalign="right"><mml:mrow><mml:mi>R</mml:mi><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi>i</mml:mi><mml:mo stretchy="false">&#x02192;</mml:mo><mml:mi>j</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:msub><mml:mi>R</mml:mi><mml:mrow><mml:mi mathvariant="italic">ij</mml:mi></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mi>D</mml:mi><mml:msub><mml:mi>I</mml:mi><mml:mrow><mml:mi mathvariant="italic">ij</mml:mi></mml:mrow></mml:msub><mml:mo>,</mml:mo></mml:mrow></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:math><graphic xlink:href="11538_2018_454_Article_Equ11.gif" position="anchor"/></alternatives></disp-formula>where the conversion factor <italic>D</italic> may depend on position and on the type of movement. We take <inline-formula id="IEq58"><alternatives><tex-math id="M137">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$D = 0$$\end{document}</tex-math><mml:math id="M138"><mml:mrow><mml:mi>D</mml:mi><mml:mo>=</mml:mo><mml:mn>0</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="11538_2018_454_Article_IEq58.gif"/></alternatives></inline-formula> for movements into voxels containing an equal number of cells, thus limiting the cellular movements to less crowded voxels only.</p><p id="Par23">The implied simulation method is event based and is directly based on Gillespie&#x02019;s direct method; see &#x0201c;Appendix&#x000a0;<xref rid="Sec9" ref-type="sec">A</xref>,&#x0201d; Algorithm&#x000a0;A.2. Chiefly, for any given state of the cell population, the rates of all events are determined and the time and kind of the next event is sampled. Until the time of this next event, any other processes local to each voxel may be simulated. When the event is processed, a new cell population state is obtained and the process starts anew.<fig id="Fig6"><label>Fig. 6</label><caption><p>Inner-outer structure of the RDME-DLCM simulation approach. Left: the single-cell model is simulated across all cells in the population displayed in the middle. The coupling between the cells which is required to capture, e.g., signaling processes, can be handled by a split-step time-discretization strategy. Middle: this continues until an event at the population layer is sampled. After executing this event and updating the internal states of the individual cells accordingly, the single-cell model is evolved anew. Right: the effective grid induced by this computational process can be understood as replicas of the single-cell discretization</p></caption><graphic xlink:href="11538_2018_454_Fig6_HTML" id="MO29"/></fig></p><p id="Par24">We exemplify the process by growing a small population of 1000 cells, starting from a single cell and allowing it to proliferate at a certain rate provided it has enough concentration of &#x0201c;nutrition.&#x0201d; The nutrition is distributed at the boundaries <inline-formula id="IEq59"><alternatives><tex-math id="M139">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\Omega _h$$\end{document}</tex-math><mml:math id="M140"><mml:msub><mml:mi mathvariant="normal">&#x003a9;</mml:mi><mml:mi>h</mml:mi></mml:msub></mml:math><inline-graphic xlink:href="11538_2018_454_Article_IEq59.gif"/></alternatives></inline-formula> of the cell population, and we let it diffuse by the Laplace operator. At any given time, cells consume nutrition for their own metabolism and so this scheme will favor the proliferation of cells near the boundary where the nutrition concentration is the highest (see Fig.&#x000a0;<xref rid="Fig5" ref-type="fig">5</xref>). In the next section, we proceed by coupling this DLCM layer growth process to the previously developed RDME-layer description of the Notch&#x02013;Delta pattern formation mechanism. Hence, the fine RDME discretization as depicted in Fig.&#x000a0;<xref rid="Fig3" ref-type="fig">3</xref> is used to describe the physics of the individual cell, whereas the DLCM grid is used for the cell population.</p></sec><sec id="Sec6"><title>A Range of Notch&#x02013;Delta Patterns in Growing Tissue</title><p id="Par25">In the present case, the cellular growth process is independent from the single-cell model and the two layers can be conveniently simulated under a simple one-way coupling. That is, in a first run we simulate the growth process and record all associated events separately. Next, the RDME-layer model is simulated in continuous time and in between all the recorded events, thus realizing the overall dynamics. This coupling restriction is only used for convenience here: the DLCM simulation, cf.&#x000a0;Algorithm&#x000a0;A.2 in &#x0201c;Appendix&#x000a0;<xref rid="Sec9" ref-type="sec">A</xref>,&#x0201d; allows for a completely general two-way coupling. However, in practice, it usually makes sense to assume some kind of scale separation between the two layers (Shimoni et&#x000a0;al. <xref ref-type="bibr" rid="CR27">2011</xref>), such that the inner split-step <inline-formula id="IEq60"><alternatives><tex-math id="M141">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$d\tau $$\end{document}</tex-math><mml:math id="M142"><mml:mrow><mml:mi>d</mml:mi><mml:mi>&#x003c4;</mml:mi></mml:mrow></mml:math><inline-graphic xlink:href="11538_2018_454_Article_IEq60.gif"/></alternatives></inline-formula> need not be much smaller than what is required to resolve the dynamics at the outer layer. Regardless of such an assumption, the split-step strategy can be expected to be strongly convergent in the stochastic sense (Engblom <xref ref-type="bibr" rid="CR14">2015</xref>), although the split-step <inline-formula id="IEq61"><alternatives><tex-math id="M143">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$d\tau $$\end{document}</tex-math><mml:math id="M144"><mml:mrow><mml:mi>d</mml:mi><mml:mi>&#x003c4;</mml:mi></mml:mrow></mml:math><inline-graphic xlink:href="11538_2018_454_Article_IEq61.gif"/></alternatives></inline-formula> might be severely restricted for accuracy reasons.<graphic position="anchor" xlink:href="11538_2018_454_Figa_HTML" id="MO18"/></p><p id="Par26">In Algorithm&#x000a0;2.1, we expand the details of the inner layer simulation where the discretization in time chunks <inline-formula id="IEq72"><alternatives><tex-math id="M145">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$[t,t+d\tau )$$\end{document}</tex-math><mml:math id="M146"><mml:mrow><mml:mo stretchy="false">[</mml:mo><mml:mi>t</mml:mi><mml:mo>,</mml:mo><mml:mi>t</mml:mi><mml:mo>+</mml:mo><mml:mi>d</mml:mi><mml:mi>&#x003c4;</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:math><inline-graphic xlink:href="11538_2018_454_Article_IEq72.gif"/></alternatives></inline-formula> is made explicit. It follows that the assumption made here is essentially that the Notch&#x02013;Delta dynamics takes place on a faster timescale than the growth process, a quite reasonable assumption in this case. Without this assumption, the simulation efficiency will deteriorate whenever <inline-formula id="IEq73"><alternatives><tex-math id="M147">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$d\tau $$\end{document}</tex-math><mml:math id="M148"><mml:mrow><mml:mi>d</mml:mi><mml:mi>&#x003c4;</mml:mi></mml:mrow></mml:math><inline-graphic xlink:href="11538_2018_454_Article_IEq73.gif"/></alternatives></inline-formula> for accuracy reasons has to be chosen small.</p><p id="Par27">The coupled inner-outer algorithm can be understood as a highly detailed simulation on a very fine mesh covering the whole cell population (see Fig.&#x000a0;<xref rid="Fig6" ref-type="fig">6</xref>). In Fig.&#x000a0;<xref rid="Fig7" ref-type="fig">7</xref>, we visualize results from the full Notch&#x02013;Delta-Reporter model (<xref rid="Equ2" ref-type="">2</xref>), interpreted in a spatial stochastic sense as explained in Sect.&#x000a0;<xref rid="Sec4" ref-type="sec">2.2</xref>, and simulated together with the growth process as described in Sect.&#x000a0;<xref rid="Sec5" ref-type="sec">2.3</xref>. A small extension to the model was made here in that proliferating cells randomly share Notch and Delta in between each other, thus adding some noise to the overall dynamics. The model itself exhibits a range of intriguing patterns as discussed in Hadjivasiliou et&#x000a0;al. (<xref ref-type="bibr" rid="CR19">2016</xref>). Two such examples are further investigated in Fig.&#x000a0;<xref rid="Fig8" ref-type="fig">8</xref>.<fig id="Fig7"><label>Fig. 7</label><caption><p>Notch&#x02013;Delta-Reporter model in a growing domain. The RDME is used to describe the individual cells and the DLCM models the cell population growth. The parameters are as in Figs.&#x000a0;<xref rid="Fig2" ref-type="fig">2</xref> and <xref rid="Fig5" ref-type="fig">5</xref></p></caption><graphic xlink:href="11538_2018_454_Fig7_HTML" id="MO30"/></fig><fig id="Fig8"><label>Fig. 8</label><caption><p>Top row: development of spots by differential weighting. The parameters are as in Fig.&#x000a0;<xref rid="Fig7" ref-type="fig">7</xref>, but with <inline-formula id="IEq74"><alternatives><tex-math id="M149">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$[w_a,q_a,w_b,q_b] = [1,0.001,0.06,0.06]$$\end{document}</tex-math><mml:math id="M150"><mml:mrow><mml:mrow><mml:mo stretchy="false">[</mml:mo><mml:msub><mml:mi>w</mml:mi><mml:mi>a</mml:mi></mml:msub><mml:mo>,</mml:mo><mml:msub><mml:mi>q</mml:mi><mml:mi>a</mml:mi></mml:msub><mml:mo>,</mml:mo><mml:msub><mml:mi>w</mml:mi><mml:mi>b</mml:mi></mml:msub><mml:mo>,</mml:mo><mml:msub><mml:mi>q</mml:mi><mml:mi>b</mml:mi></mml:msub><mml:mo stretchy="false">]</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:mrow><mml:mo stretchy="false">[</mml:mo><mml:mn>1</mml:mn><mml:mo>,</mml:mo><mml:mn>0.001</mml:mn><mml:mo>,</mml:mo><mml:mn>0.06</mml:mn><mml:mo>,</mml:mo><mml:mn>0.06</mml:mn><mml:mo stretchy="false">]</mml:mo></mml:mrow></mml:mrow></mml:math><inline-graphic xlink:href="11538_2018_454_Article_IEq74.gif"/></alternatives></inline-formula>. Bottom row: the effect of polarized protrusions. Here the protrusions stretch horizontally, <inline-formula id="IEq75"><alternatives><tex-math id="M151">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\theta = \pm \pi $$\end{document}</tex-math><mml:math id="M152"><mml:mrow><mml:mi>&#x003b8;</mml:mi><mml:mo>=</mml:mo><mml:mo>&#x000b1;</mml:mo><mml:mi>&#x003c0;</mml:mi></mml:mrow></mml:math><inline-graphic xlink:href="11538_2018_454_Article_IEq75.gif"/></alternatives></inline-formula>, at an angular width <inline-formula id="IEq76"><alternatives><tex-math id="M153">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$[0,\pi /20]$$\end{document}</tex-math><mml:math id="M154"><mml:mrow><mml:mo stretchy="false">[</mml:mo><mml:mn>0</mml:mn><mml:mo>,</mml:mo><mml:mi>&#x003c0;</mml:mi><mml:mo stretchy="false">/</mml:mo><mml:mn>20</mml:mn><mml:mo stretchy="false">]</mml:mo></mml:mrow></mml:math><inline-graphic xlink:href="11538_2018_454_Article_IEq76.gif"/></alternatives></inline-formula> and a length of 5 cell radii. The parameters are again as in Fig.&#x000a0;<xref rid="Fig7" ref-type="fig">7</xref> but with <inline-formula id="IEq77"><alternatives><tex-math id="M155">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$[w_a,q_a,w_b,q_b] = [1,0.001,0.2,0.15]$$\end{document}</tex-math><mml:math id="M156"><mml:mrow><mml:mrow><mml:mo stretchy="false">[</mml:mo><mml:msub><mml:mi>w</mml:mi><mml:mi>a</mml:mi></mml:msub><mml:mo>,</mml:mo><mml:msub><mml:mi>q</mml:mi><mml:mi>a</mml:mi></mml:msub><mml:mo>,</mml:mo><mml:msub><mml:mi>w</mml:mi><mml:mi>b</mml:mi></mml:msub><mml:mo>,</mml:mo><mml:msub><mml:mi>q</mml:mi><mml:mi>b</mml:mi></mml:msub><mml:mo stretchy="false">]</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:mrow><mml:mo stretchy="false">[</mml:mo><mml:mn>1</mml:mn><mml:mo>,</mml:mo><mml:mn>0.001</mml:mn><mml:mo>,</mml:mo><mml:mn>0.2</mml:mn><mml:mo>,</mml:mo><mml:mn>0.15</mml:mn><mml:mo stretchy="false">]</mml:mo></mml:mrow></mml:mrow></mml:math><inline-graphic xlink:href="11538_2018_454_Article_IEq77.gif"/></alternatives></inline-formula></p></caption><graphic xlink:href="11538_2018_454_Fig8_HTML" id="MO31"/></fig></p></sec></sec><sec id="Sec7"><title>Conclusions</title><p id="Par28">The main focus of this paper has been to investigate the feasibility of a two-level RDME-DLCM approach. We choose the RDME description of a single cell as a gold standard modeling approach. This is a detailed, flexible, yet also comparably effective simulation methodology. At the cell population level, the related DLCM method was used and the two layers of description were coupled together with relative ease.</p><p id="Par29">The main reason this combination is convenient is the fact that both layers take place in continuous time and can be simulated by Gillespie-style event-driven algorithms. We also point out that the overall method combination is promising from the point of view of deriving approximate simulation algorithms, as, for example, shown in detail for the RDME framework in Chevallier and Engblom (<xref ref-type="bibr" rid="CR8">2018</xref>). A concrete example is that, for practical reasons in the implementation, we had to discretize time for the cell-to-cell signaling process of the model, cf.&#x000a0;(<xref rid="Equ7" ref-type="">7</xref>). Although not discussed here, one can expect that this method has a strong error of order <inline-formula id="IEq78"><alternatives><tex-math id="M157">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$O(d\tau ^{1/2})$$\end{document}</tex-math><mml:math id="M158"><mml:mrow><mml:mi>O</mml:mi><mml:mo stretchy="false">(</mml:mo><mml:mi>d</mml:mi><mml:msup><mml:mi>&#x003c4;</mml:mi><mml:mrow><mml:mn>1</mml:mn><mml:mo stretchy="false">/</mml:mo><mml:mn>2</mml:mn></mml:mrow></mml:msup><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:math><inline-graphic xlink:href="11538_2018_454_Article_IEq78.gif"/></alternatives></inline-formula> Engblom (<xref ref-type="bibr" rid="CR14">2015</xref>). Since we selected a quite conservative time step in (<xref rid="Equ7" ref-type="">7</xref>), we believe that our implementation is a bit inefficient in that the time-step restriction is too restrictive given the accuracy demands of the application at hand. This is an issue which could clearly be of interest to target in future research toward faster algorithms. Other related ideas are deterministic-stochastic hybrid algorithms Chevallier and Engblom (<xref ref-type="bibr" rid="CR8">2018</xref>), Haseltine and Rawlings (<xref ref-type="bibr" rid="CR20">2002</xref>), Lo et&#x000a0;al. (<xref ref-type="bibr" rid="CR22">2016</xref>) and, more generally, multiscale solvers based on ideas from stochastic homogenization techniques (Ea et&#x000a0;al. <xref ref-type="bibr" rid="CR13">2005</xref>; Cao et&#x000a0;al. <xref ref-type="bibr" rid="CR7">2005b</xref>, <xref ref-type="bibr" rid="CR6">a</xref>; Cao and Petzold <xref ref-type="bibr" rid="CR5">2008</xref>). At the DLCM layer, the computational bottleneck lies in factorizing the Laplacian operator. Real savings in computing time here can be expected from employing traditional multigrid techniques&#x000a0;St&#x000fc;ben (<xref ref-type="bibr" rid="CR29">2001</xref>), Trotter et&#x000a0;al. (<xref ref-type="bibr" rid="CR30">2001</xref>).</p><p id="Par30">Lastly but not the least, the computational framework described clearly opens up for many interesting applications where the emerging cell population behavior of detailed whole-cell models is to be approached.</p><sec id="Sec8"><title>Availability and Reproducibility</title><p id="Par31">The computational results can be reproduced within the upcoming release 1.4 of the URDME open-source simulation framework Drawert et&#x000a0;al. (<xref ref-type="bibr" rid="CR12">2012</xref>), available for download at <ext-link ext-link-type="uri" xlink:href="http://www.urdme.org">www.urdme.org</ext-link>.</p></sec></sec></body><back><app-group><app id="App1"><sec id="Sec9"><title>Simulation Algorithms</title><p id="Par32">
+<graphic position="anchor" xlink:href="11538_2018_454_Figb_HTML" id="MO21"/>
+<graphic position="anchor" xlink:href="11538_2018_454_Figc_HTML" id="MO22"/>
+</p></sec></app></app-group><ack><title>Acknowledgements</title><p>Zena Hadjivasiliou kindly and patiently detailed several aspects of the running model used throughout this paper (Hadjivasiliou et&#x000a0;al. <xref ref-type="bibr" rid="CR19">2016</xref>).</p></ack><ref-list id="Bib1"><title>References</title><ref id="CR1"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Andrews</surname><given-names>SS</given-names></name><name><surname>Bray</surname><given-names>D</given-names></name></person-group><article-title>Stochastic simulation of chemical reactions with spatial resolution and single molecule detail</article-title><source>Phys Biol</source><year>2004</year><volume>1</volume><issue>3</issue><fpage>137</fpage><lpage>151</lpage><pub-id pub-id-type="doi">10.1088/1478-3967/1/3/001</pub-id><pub-id pub-id-type="pmid">16204833</pub-id></element-citation></ref><ref id="CR2"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Artavanis-Tsakonas</surname><given-names>S</given-names></name><name><surname>Rand</surname><given-names>MD</given-names></name><name><surname>Lake</surname><given-names>RJ</given-names></name></person-group><article-title>Notch signaling: cell fate control and signal integration in development</article-title><source>Science</source><year>1999</year><volume>284</volume><issue>5415</issue><fpage>770</fpage><lpage>776</lpage><pub-id pub-id-type="doi">10.1126/science.284.5415.770</pub-id><pub-id pub-id-type="pmid">10221902</pub-id></element-citation></ref><ref id="CR3"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Atwell</surname><given-names>K</given-names></name><name><surname>Qin</surname><given-names>Z</given-names></name><name><surname>Gavaghan</surname><given-names>D</given-names></name><name><surname>Kugler</surname><given-names>H</given-names></name><name><surname>Hubbard</surname><given-names>EJA</given-names></name><name><surname>Osborne</surname><given-names>JM</given-names></name></person-group><article-title>Mechano-logical model of C.&#x000a0;elegans germ line suggests feedback on the cell cycle</article-title><source>Development</source><year>2015</year><volume>142</volume><issue>22</issue><fpage>3902</fpage><pub-id pub-id-type="doi">10.1242/dev.126359</pub-id><pub-id pub-id-type="pmid">26428008</pub-id></element-citation></ref><ref id="CR4"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Barkai</surname><given-names>N</given-names></name><name><surname>Leibler</surname><given-names>S</given-names></name></person-group><article-title>Circadian clocks limited by noise</article-title><source>Nature</source><year>2000</year><volume>403</volume><fpage>267</fpage><lpage>268</lpage><pub-id pub-id-type="doi">10.1038/35002258</pub-id><pub-id pub-id-type="pmid">10659837</pub-id></element-citation></ref><ref id="CR5"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cao</surname><given-names>Y</given-names></name><name><surname>Petzold</surname><given-names>LR</given-names></name></person-group><article-title>Slow scale tau-leaping method</article-title><source>Comput Methods Appl Mech Eng</source><year>2008</year><volume>197</volume><issue>43</issue><fpage>3472</fpage><lpage>3479</lpage><pub-id pub-id-type="doi">10.1016/j.cma.2008.02.024</pub-id><pub-id pub-id-type="pmid">19794828</pub-id></element-citation></ref><ref id="CR6"><mixed-citation publication-type="other">Cao Y, Gillespie DT, Petzold LR (2005a) The slow-scale stochastic simulation algorithm. J Chem Phys 122(1):014116. 10.1063/1.1824902</mixed-citation></ref><ref id="CR7"><mixed-citation publication-type="other">Cao Y, Gillespie DT, Petzold LR (2005b) Multiscale stochastic simulation algorithm with stochastic partial equilibrium assumption for chemically reacting systems. J Comput Phys 206:395&#x02013;411. 10.1016/j.jcp.2004.12.014</mixed-citation></ref><ref id="CR8"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Chevallier</surname><given-names>A</given-names></name><name><surname>Engblom</surname><given-names>S</given-names></name></person-group><article-title>Pathwise error bounds in multiscale variable splitting methods for spatial stochastic kinetics</article-title><source>SIAM J Numer Anal</source><year>2018</year><volume>56</volume><issue>1</issue><fpage>469</fpage><lpage>498</lpage><pub-id pub-id-type="doi">10.1137/16M1083086</pub-id></element-citation></ref><ref id="CR9"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cohen</surname><given-names>M</given-names></name><name><surname>Georgiou</surname><given-names>M</given-names></name><name><surname>Stevenson</surname><given-names>NL</given-names></name><name><surname>Miodownik</surname><given-names>M</given-names></name><name><surname>Baum</surname><given-names>B</given-names></name></person-group><article-title>Dynamic filopodia transmit intermittent delta-notch signaling to drive pattern refinement during lateral inhibition</article-title><source>Dev Cell</source><year>2010</year><volume>19</volume><issue>1</issue><fpage>78</fpage><lpage>89</lpage><pub-id pub-id-type="doi">10.1016/j.devcel.2010.06.006</pub-id><pub-id pub-id-type="pmid">20643352</pub-id></element-citation></ref><ref id="CR10"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Collier</surname><given-names>JR</given-names></name><name><surname>Monk</surname><given-names>NA</given-names></name><name><surname>Maini</surname><given-names>PK</given-names></name><name><surname>Lewis</surname><given-names>JH</given-names></name></person-group><article-title>Pattern formation by lateral inhibition with feedback: a mathematical model of Delta-Notch intercellular signalling</article-title><source>J Theor Biol</source><year>1996</year><volume>183</volume><issue>4</issue><fpage>429</fpage><lpage>446</lpage><pub-id pub-id-type="doi">10.1006/jtbi.1996.0233</pub-id><pub-id pub-id-type="pmid">9015458</pub-id></element-citation></ref><ref id="CR11"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Dobrzy&#x00144;ski</surname><given-names>M</given-names></name><name><surname>Rodr&#x000ed;guez</surname><given-names>JV</given-names></name><name><surname>Kaandorp</surname><given-names>JA</given-names></name><name><surname>Blom</surname><given-names>JG</given-names></name></person-group><article-title>Computational methods for diffusion-influenced biochemical reactions</article-title><source>Bioinformatics</source><year>2007</year><volume>23</volume><issue>15</issue><fpage>1969</fpage><lpage>1977</lpage><pub-id pub-id-type="doi">10.1093/bioinformatics/btm278</pub-id><pub-id pub-id-type="pmid">17537752</pub-id></element-citation></ref><ref id="CR12"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Drawert</surname><given-names>B</given-names></name><name><surname>Engblom</surname><given-names>S</given-names></name><name><surname>Hellander</surname><given-names>A</given-names></name></person-group><article-title>URDME: a modular framework for stochastic simulation of reaction-transport processes in complex geometries</article-title><source>BMC Syst Biol</source><year>2012</year><volume>6</volume><issue>76</issue><fpage>1</fpage><lpage>17</lpage><pub-id pub-id-type="pmid">22222070</pub-id></element-citation></ref><ref id="CR13"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ea</surname><given-names>W</given-names></name><name><surname>Liu</surname><given-names>D</given-names></name><name><surname>Vanden-Eijnden</surname><given-names>E</given-names></name></person-group><article-title>Nested stochastic simulation algorithm for chemical kinetic systems with disparate rates</article-title><source>J Chem Phys</source><year>2005</year><volume>123</volume><issue>19</issue><fpage>194107</fpage><pub-id pub-id-type="doi">10.1063/1.2109987</pub-id><pub-id pub-id-type="pmid">16321076</pub-id></element-citation></ref><ref id="CR14"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Engblom</surname><given-names>S</given-names></name></person-group><article-title>Strong convergence for split-step methods in stochastic jump kinetics</article-title><source>SIAM J Numer Anal</source><year>2015</year><volume>53</volume><issue>6</issue><fpage>2655</fpage><lpage>2676</lpage><pub-id pub-id-type="doi">10.1137/141000841</pub-id></element-citation></ref><ref id="CR15"><mixed-citation publication-type="other">Engblom S, Wilson D, Baker R (2018) Scalable population-level modeling of biological cells incorporating mechanics and kinetics in continuous time. Accepted for publication in R Soc Open Sci. <ext-link ext-link-type="uri" xlink:href="http://arxiv.org/abs/1706.03375">arxiv:1706.03375</ext-link></mixed-citation></ref><ref id="CR16"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Engblom</surname><given-names>S</given-names></name><name><surname>Ferm</surname><given-names>L</given-names></name><name><surname>Hellander</surname><given-names>A</given-names></name><name><surname>L&#x000f6;tstedt</surname><given-names>P</given-names></name></person-group><article-title>Simulation of stochastic reaction&#x02013;diffusion processes on unstructured meshes</article-title><source>SIAM J Sci Comput</source><year>2009</year><volume>31</volume><issue>3</issue><fpage>1774</fpage><lpage>1797</lpage><pub-id pub-id-type="doi">10.1137/080721388</pub-id></element-citation></ref><ref id="CR17"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Fange</surname><given-names>D</given-names></name><name><surname>Elf</surname><given-names>J</given-names></name></person-group><article-title>Noise-induced Min phenotypes in <inline-formula id="IEq101"><alternatives><tex-math id="M159">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$E. coli$$\end{document}</tex-math><mml:math id="M160"><mml:mrow><mml:mi>E</mml:mi><mml:mo>.</mml:mo><mml:mi>c</mml:mi><mml:mi>o</mml:mi><mml:mi>l</mml:mi><mml:mi>i</mml:mi></mml:mrow></mml:math><inline-graphic xlink:href="11538_2018_454_Article_IEq101.gif"/></alternatives></inline-formula></article-title><source>PLoS Comput Biol</source><year>2006</year><volume>2</volume><issue>6</issue><fpage>637</fpage><lpage>648</lpage><pub-id pub-id-type="doi">10.1371/journal.pcbi.0020080</pub-id></element-citation></ref><ref id="CR18"><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Gardiner</surname><given-names>CW</given-names></name></person-group><source>Handbook of stochastic methods. Springer series in synergetics</source><year>2004</year><edition>3</edition><publisher-loc>Berlin</publisher-loc><publisher-name>Springer</publisher-name></element-citation></ref><ref id="CR19"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hadjivasiliou</surname><given-names>Z</given-names></name><name><surname>Hunter</surname><given-names>GL</given-names></name><name><surname>Baum</surname><given-names>B</given-names></name></person-group><article-title>A new mechanism for spatial pattern formation via lateral and protrusion-mediated lateral signalling</article-title><source>J R Soc Interface</source><year>2016</year><volume>13</volume><issue>124</issue><fpage>1</fpage><lpage>10</lpage><pub-id pub-id-type="doi">10.1098/rsif.2016.0484</pub-id></element-citation></ref><ref id="CR20"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Haseltine</surname><given-names>EL</given-names></name><name><surname>Rawlings</surname><given-names>JB</given-names></name></person-group><article-title>Approximate simulation of coupled fast and slow reactions for stochastic chemical kinetics</article-title><source>J Chem Phys</source><year>2002</year><volume>117</volume><issue>15</issue><fpage>6959</fpage><lpage>6969</lpage><pub-id pub-id-type="doi">10.1063/1.1505860</pub-id></element-citation></ref><ref id="CR21"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lestas</surname><given-names>I</given-names></name><name><surname>Vinnicombe</surname><given-names>G</given-names></name><name><surname>Paulsson</surname><given-names>J</given-names></name></person-group><article-title>Fundamental limits on the suppression of molecular fluctuations</article-title><source>Nature</source><year>2010</year><volume>467</volume><issue>7312</issue><fpage>174</fpage><lpage>178</lpage><pub-id pub-id-type="doi">10.1038/nature09333</pub-id><pub-id pub-id-type="pmid">20829788</pub-id></element-citation></ref><ref id="CR22"><mixed-citation publication-type="other">Lo W-C, Zheng L, Nie Q (2016) A hybrid continuous-discrete method for stochastic reaction&#x02013;diffusion processes. R Soc Open Sci 3(9). 10.1098/rsos.160485</mixed-citation></ref><ref id="CR23"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Naumov</surname><given-names>L</given-names></name><name><surname>Hoekstra</surname><given-names>A</given-names></name><name><surname>Sloot</surname><given-names>P</given-names></name></person-group><article-title>Cellular automata models of tumour natural shrinkage</article-title><source>Physica A</source><year>2011</year><volume>390</volume><issue>12</issue><fpage>2283</fpage><lpage>2290</lpage><pub-id pub-id-type="doi">10.1016/j.physa.2011.02.006</pub-id></element-citation></ref><ref id="CR24"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Puchalka</surname><given-names>J</given-names></name><name><surname>Kierzek</surname><given-names>AM</given-names></name></person-group><article-title>Bridging the gap between stochastic and deterministic regimes in the kinetic simulations of the biochemical reaction networks</article-title><source>Biophys J</source><year>2004</year><volume>86</volume><issue>3</issue><fpage>1357</fpage><lpage>1372</lpage><pub-id pub-id-type="doi">10.1016/S0006-3495(04)74207-1</pub-id><pub-id pub-id-type="pmid">14990466</pub-id></element-citation></ref><ref id="CR25"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Raj</surname><given-names>A</given-names></name><name><surname>van Oudenaarden</surname><given-names>A</given-names></name></person-group><article-title>Nature, nurture, or chance: stochastic gene expression and its consequences</article-title><source>Cell</source><year>2008</year><volume>135</volume><issue>2</issue><fpage>216</fpage><lpage>226</lpage><pub-id pub-id-type="doi">10.1016/j.cell.2008.09.050</pub-id><pub-id pub-id-type="pmid">18957198</pub-id></element-citation></ref><ref id="CR26"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Robertson-Tessi</surname><given-names>M</given-names></name><name><surname>Gillies</surname><given-names>RJ</given-names></name><name><surname>Gatenby</surname><given-names>RA</given-names></name><name><surname>Anderson</surname><given-names>AR</given-names></name></person-group><article-title>Impact of metabolic heterogeneity on tumor growth, invasion, and treatment outcomes</article-title><source>Cancer Res</source><year>2015</year><volume>75</volume><issue>8</issue><fpage>1567</fpage><lpage>1579</lpage><pub-id pub-id-type="doi">10.1158/0008-5472.CAN-14-1428</pub-id><pub-id pub-id-type="pmid">25878146</pub-id></element-citation></ref><ref id="CR27"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Shimoni</surname><given-names>Y</given-names></name><name><surname>Nudelman</surname><given-names>G</given-names></name><name><surname>Hayot</surname><given-names>F</given-names></name><name><surname>Sealfon</surname><given-names>SC</given-names></name></person-group><article-title>Multi-scale stochastic simulation of diffusion-coupled agents and its application to cell culture simulation</article-title><source>PLoS ONE</source><year>2011</year><volume>6</volume><issue>12</issue><fpage>1</fpage><lpage>9</lpage><pub-id pub-id-type="doi">10.1371/journal.pone.0029298</pub-id></element-citation></ref><ref id="CR28"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sprinzak</surname><given-names>D</given-names></name><name><surname>Lakhanpal</surname><given-names>A</given-names></name><name><surname>LeBon</surname><given-names>L</given-names></name><name><surname>Garcia-Ojalvo</surname><given-names>J</given-names></name><name><surname>Elowitz</surname><given-names>MB</given-names></name></person-group><article-title>Mutual inactivation of notch receptors and ligands facilitates developmental patterning</article-title><source>J R Soc Interface</source><year>2011</year><volume>7</volume><issue>6</issue><fpage>1</fpage><lpage>11</lpage></element-citation></ref><ref id="CR29"><mixed-citation publication-type="other">St&#x000fc;ben K (2001) A review of algebraic multigrid. J Comput Appl Math 128(1&#x02013;2):281&#x02013;309. Numerical analysis 2000. Partial differential equations, vol VII. 10.1016/S0377-0427(00)00516-1</mixed-citation></ref><ref id="CR30"><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Trotter</surname><given-names>U</given-names></name><name><surname>Oosterlee</surname><given-names>CW</given-names></name><name><surname>Sh&#x000fc;ller</surname><given-names>A</given-names></name></person-group><source>Multigrid</source><year>2001</year><publisher-loc>London</publisher-loc><publisher-name>Academic Press</publisher-name></element-citation></ref><ref id="CR31"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Turing</surname><given-names>AM</given-names></name></person-group><article-title>The chemical basis of morphogenesis</article-title><source>Philos Trans R Soc Lond B</source><year>1952</year><volume>237</volume><issue>641</issue><fpage>37</fpage><lpage>72</lpage><pub-id pub-id-type="doi">10.1098/rstb.1952.0012</pub-id></element-citation></ref><ref id="CR32"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Vermolen</surname><given-names>FJ</given-names></name><name><surname>Gefen</surname><given-names>A</given-names></name></person-group><article-title>A semi-stochastic cell-based model for in vitro infected &#x02018;wound&#x02019; healing through motility reduction: a simulation study</article-title><source>J Theor Biol</source><year>2013</year><volume>318</volume><fpage>68</fpage><lpage>80</lpage><pub-id pub-id-type="doi">10.1016/j.jtbi.2012.11.007</pub-id><pub-id pub-id-type="pmid">23147230</pub-id></element-citation></ref><ref id="CR33"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ziraldo</surname><given-names>C</given-names></name><name><surname>Mi</surname><given-names>Q</given-names></name><name><surname>An</surname><given-names>G</given-names></name><name><surname>Vodovotz</surname><given-names>Y</given-names></name></person-group><article-title>Computational modeling of inflammation and wound healing</article-title><source>Adv Wound Care</source><year>2013</year><volume>2</volume><issue>9</issue><fpage>527</fpage><lpage>537</lpage><pub-id pub-id-type="doi">10.1089/wound.2012.0416</pub-id></element-citation></ref></ref-list></back></article>

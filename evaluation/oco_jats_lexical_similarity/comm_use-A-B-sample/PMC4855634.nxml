@@ -1,0 +1,782 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Br J Haematol</journal-id><journal-id journal-id-type="iso-abbrev">Br. J. Haematol</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1365-2141</journal-id><journal-id journal-id-type="publisher-id">BJH</journal-id><journal-title-group><journal-title>British Journal of Haematology</journal-title></journal-title-group><issn pub-type="ppub">0007-1048</issn><issn pub-type="epub">1365-2141</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">26847745</article-id><article-id pub-id-type="pmc">4855634</article-id><article-id pub-id-type="doi">10.1111/bjh.13873</article-id><article-id pub-id-type="publisher-id">BJH13873</article-id><article-categories><subj-group subj-group-type="overline"><subject>Research Paper</subject></subj-group><subj-group subj-group-type="heading"><subject>Haematological Malignancy</subject></subj-group></article-categories><title-group><article-title>The value of molecular stratification for <italic>CEBPA</italic>
+<sup>DM</sup> and <italic>NPM1</italic>
+<sup>MUT</sup>
+<italic>FLT3</italic>
+<sup>WT</sup> genotypes in older patients with acute myeloid leukaemia</article-title><alt-title alt-title-type="left-running-head">G. J. Dickson <italic>et&#x000a0;al</italic></alt-title></title-group><contrib-group><contrib id="bjh13873-cr-0001" contrib-type="author"><name><surname>Dickson</surname><given-names>Glenda J.</given-names></name><xref ref-type="aff" rid="bjh13873-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="bjh13873-curr-0001">
+<sup>4</sup>
+</xref></contrib><contrib id="bjh13873-cr-0002" contrib-type="author"><name><surname>Bustraan</surname><given-names>Sophia</given-names></name><xref ref-type="aff" rid="bjh13873-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="bjh13873-cr-0003" contrib-type="author"><name><surname>Hills</surname><given-names>Robert K.</given-names></name><xref ref-type="aff" rid="bjh13873-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="bjh13873-cr-0004" contrib-type="author"><name><surname>Ali</surname><given-names>Akbar</given-names></name><xref ref-type="aff" rid="bjh13873-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="bjh13873-curr-0002">
+<sup>5</sup>
+</xref></contrib><contrib id="bjh13873-cr-0005" contrib-type="author"><name><surname>Goldstone</surname><given-names>Anthony H.</given-names></name><xref ref-type="aff" rid="bjh13873-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="bjh13873-cr-0006" contrib-type="author"><name><surname>Burnett</surname><given-names>Alan K.</given-names></name><xref ref-type="aff" rid="bjh13873-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="bjh13873-curr-0003">
+<sup>6</sup>
+</xref></contrib><contrib id="bjh13873-cr-0007" contrib-type="author"><name><surname>Linch</surname><given-names>David C.</given-names></name><xref ref-type="aff" rid="bjh13873-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="bjh13873-cr-0008" contrib-type="author" corresp="yes"><name><surname>Gale</surname><given-names>Rosemary E.</given-names></name><xref ref-type="aff" rid="bjh13873-aff-0001">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="bjh13873-aff-0001"><label><sup>1</sup></label><named-content content-type="organisation-division">Department of Haematology</named-content><institution>University College London Cancer Institute</institution><named-content content-type="city">London</named-content><country country="GB">UK</country></aff><aff id="bjh13873-aff-0002"><label><sup>2</sup></label><named-content content-type="organisation-division">Department of Haematology</named-content><institution>Cardiff University School of Medicine</institution><named-content content-type="city">Cardiff</named-content><country country="GB">UK</country></aff><aff id="bjh13873-aff-0003"><label><sup>3</sup></label><named-content content-type="organisation-division">Department of Haematology</named-content><institution>University College London Hospital</institution><named-content content-type="city">London</named-content><country country="GB">UK</country></aff><aff id="bjh13873-curr-0001"><label><sup>4</sup></label>Present address: <named-content content-type="organisation-division">Department of Haemato&#x02010;Oncology</named-content><institution>King's College London</institution><named-content content-type="city">London</named-content><country country="GB">UK</country></aff><aff id="bjh13873-curr-0002"><label><sup>5</sup></label>Present address: <named-content content-type="organisation-division">Faculty of Pharmacy</named-content><institution>Northern Border University</institution><named-content content-type="city">Rafha</named-content><country country="SA">Saudi Arabia</country></aff><aff id="bjh13873-curr-0003"><label><sup>6</sup></label>Present address: <institution>CTI Life Sciences Ltd.</institution><named-content content-type="city">Uxbridge</named-content><country country="GB">UK</country></aff><author-notes><corresp id="correspondenceTo"><label>*</label>
+Correspondence: Rosemary E. Gale, Department of Haematology, UCL Cancer Institute, Paul O'Gorman Building, 72 Huntley Street, London WC1E 6DD, UK.<break/>
+E&#x02010;mail: <email>rosemary.gale@ucl.ac.uk</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>21</day><month>12</month><year>2015</year></pub-date><pub-date pub-type="ppub"><month>2</month><year>2016</year></pub-date><volume>172</volume><issue>4</issue><issue-id pub-id-type="doi">10.1111/bjh.2016.172.issue-4</issue-id><fpage>573</fpage><lpage>580</lpage><history><date date-type="received"><day>07</day><month>9</month><year>2015</year></date><date date-type="accepted"><day>30</day><month>10</month><year>2015</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> Copyright &#x000a9; 2016 John Wiley & Sons Ltd <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2015 The Authors. <italic>British Journal of Haematology</italic> published by John Wiley &#x00026; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:BJH-172-573.pdf"/><abstract id="bjh13873-abs-0001"><title>Summary</title><p>Older adult patients (&#x02265;60&#x000a0;years) with acute myeloid leukaemia (<styled-content style="fixed-case">AML</styled-content>) are generally considered to be poor&#x02010;risk and there is limited information available regarding risk stratification based on molecular characterization in this age group, particularly for the double&#x02010;mutant <italic>CEBPA</italic> (<italic>CEBPA</italic>
+<sup>DM</sup>) genotype. To investigate whether a molecular favourable&#x02010;risk genotype can be identified, we investigated <italic>CEBPA</italic>,<italic> NPM1</italic> and <italic>FLT3</italic> status and prognostic impact in a cohort of 301 patients aged 60&#x000a0;years or more with intermediate&#x02010;risk cytogenetics, all treated intensively. Overall survival (<styled-content style="fixed-case">OS</styled-content>) at 1&#x000a0;year was highest in the 12 patients (4%) that were <italic>CEBPA</italic>
+<sup>DM</sup> compared to the 76 (28%) with a mutant <italic>NPM1</italic> and wild&#x02010;type <italic>FLT3</italic> (<italic>NPM1</italic>
+<sup>MUT</sup>
+<italic>FLT3</italic>
+<sup>WT</sup>) genotype or all other patients (75%, 54%, 33% respectively), with median survival 15&#x000b7;2, 13&#x000b7;6 and 6&#x000b7;6&#x000a0;months, although the benefit was short&#x02010;term (<styled-content style="fixed-case">OS</styled-content> at 3&#x000a0;years 17%, 29%, 12% respectively). Combination of the <italic>CEBPA</italic>
+<sup>DM</sup> and <italic>NPM1</italic>
+<sup>MUT</sup>
+<italic>FLT3</italic>
+<sup>WT</sup> genotype patients defined a molecular group with favourable prognosis (<italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0&#x000b7;0001 in multivariate analysis), with 57% of patients alive at 1&#x000a0;year compared to 33% for all other patients. Knowledge of genotype in older cytogenetically intermediate&#x02010;risk patients might influence therapy decisions.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="bjh13873-kwd-0001">acute myeloid leukaemia</kwd><kwd id="bjh13873-kwd-0002">molecular prognostication</kwd><kwd id="bjh13873-kwd-0003"><italic>CEBPA</italic> genotype</kwd><kwd id="bjh13873-kwd-0004"><italic>NPM1</italic> and <italic>FLT3</italic> genotype</kwd></kwd-group><funding-group><award-group><funding-source>Leukaemia and Lymphoma Research, UK</funding-source></award-group></funding-group><funding-group><award-group><funding-source>Department of Health's NIHR Biomedical Research Centres</funding-source></award-group></funding-group><counts><page-count count="8"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>bjh13873</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>February 2016</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:4.9.1 mode:remove_FC converted:23.06.2016</meta-value></custom-meta></custom-meta-group></article-meta></front><body><p>In recent decades there have been considerable improvements in the long&#x02010;term outlook for younger adult patients with acute myeloid leukaemia (AML) (Burnett <italic>et&#x000a0;al</italic>, <xref rid="bjh13873-bib-0004" ref-type="ref">2011</xref>). Current therapy is risk&#x02010;adapted, based predominantly on cytogenetics and molecular characterization (Dohner <italic>et&#x000a0;al</italic>, <xref rid="bjh13873-bib-0008" ref-type="ref">2010</xref>; Dohner &#x00026; Gaidzik, <xref rid="bjh13873-bib-0007" ref-type="ref">2011</xref>; Ofran &#x00026; Rowe, <xref rid="bjh13873-bib-0017" ref-type="ref">2013</xref>), and consolidation of first remission by allogeneic transplantation is not usually considered in patients with either good&#x02010;risk cytogenetics or a favourable mutation profile, defined as either mutant for nucleophosmin 1 and lacking a fms&#x02010;like tyrosine kinase 3 internal tandem duplication (<italic>NPM1</italic>
+<sup>MUT</sup>
+<italic>FLT3</italic>
+<sup>WT</sup>) or double mutant for CCAAT/enhancer binding protein&#x02010;&#x003b1; (<italic>CEBPA</italic>
+<sup>DM</sup>) (Cornelissen <italic>et&#x000a0;al</italic>, <xref rid="bjh13873-bib-0005" ref-type="ref">2012</xref>; O'Donnell <italic>et&#x000a0;al</italic>, <xref rid="bjh13873-bib-0016" ref-type="ref">2012</xref>). These two mutational categories are almost totally mutually exclusive (Green <italic>et&#x000a0;al</italic>, <xref rid="bjh13873-bib-0013" ref-type="ref">2010</xref>). In our study of younger patients, the presence of an <italic>NPM1</italic>
+<sup>MUT</sup>
+<italic>FLT3</italic>
+<sup>WT</sup> genotype was associated with a higher complete remission (CR) rate and a lower relapse rate, both contributing to improved survival (Gale <italic>et&#x000a0;al</italic>, <xref rid="bjh13873-bib-0011" ref-type="ref">2008</xref>). The presence of a <italic>CEBPA</italic>
+<sup>DM</sup> genotype was associated with a non&#x02010;significantly higher CR rate and a significantly lower relapse rate, leading to improved long&#x02010;term survival (Green <italic>et&#x000a0;al</italic>, <xref rid="bjh13873-bib-0013" ref-type="ref">2010</xref>).</p><p>However, the median age of AML at diagnosis approximates 70&#x000a0;years (Derolf <italic>et&#x000a0;al</italic>, <xref rid="bjh13873-bib-0006" ref-type="ref">2009</xref>), so that the majority of patients are considered to be elderly (&#x02265;60&#x000a0;years), and the improvements seen in the prognosis of younger patients have not been matched by improvements in this older age group (Derolf <italic>et&#x000a0;al</italic>, <xref rid="bjh13873-bib-0006" ref-type="ref">2009</xref>; Burnett <italic>et&#x000a0;al</italic>, <xref rid="bjh13873-bib-0004" ref-type="ref">2011</xref>; Thein <italic>et&#x000a0;al</italic>, <xref rid="bjh13873-bib-0024" ref-type="ref">2013</xref>). This is attributable to both biological factors (e.g. co&#x02010;morbidities, poor performance status, pharmacokinetics and pharmacodynamics) and disease&#x02010;related factors (e.g. adverse cytogenetic and molecular aberrations, multidrug resistance and antecedent haematological disorders) (Pollyea <italic>et&#x000a0;al</italic>, <xref rid="bjh13873-bib-0021" ref-type="ref">2011</xref>; Ossenkoppele &#x00026; Lowenberg, <xref rid="bjh13873-bib-0019" ref-type="ref">2015</xref>).</p><p>There is limited information concerning risk stratification in the older compared to younger patients, partly because all older patients have been considered as poor&#x02010;risk. The reasons for risk stratification in the older age group, however, are different from those in younger patients. In the older patient fit enough to receive intensive therapy, there is a growing consensus that more intensive therapy, similar to that used in younger patients, results in prolonged survival (Derolf <italic>et&#x000a0;al</italic>, <xref rid="bjh13873-bib-0006" ref-type="ref">2009</xref>; Oran &#x00026; Weisdorf, <xref rid="bjh13873-bib-0018" ref-type="ref">2012</xref>), and the quality of life is probably no worse than in those receiving best supportive care or non&#x02010;intensive therapy (Alibhai <italic>et&#x000a0;al</italic>, <xref rid="bjh13873-bib-0001" ref-type="ref">2015</xref>). This does not imply that living with AML is not extremely difficult for older patients, and some informed patients might choose not to receive life&#x02010;extending therapy. One of the factors to be considered in making this decision is how long patients are likely to live if they elect to receive intensive therapy, and prognostic stratification in the elderly is clearly relevant to this issue.</p><p>There is some data suggesting a better outcome, at least in the short&#x02010; to medium&#x02010;term, in those older patients with intermediate&#x02010;risk (IR) cytogenetics and an <italic>NPM1</italic>
+<sup>MUT</sup> or <italic>NPM1</italic>
+<sup>MUT</sup>
+<italic>FLT3</italic>
+<sup>WT</sup> genotype, although this largely manifests as increased duration of survival rather than cure (Buchner <italic>et&#x000a0;al</italic>, <xref rid="bjh13873-bib-0003" ref-type="ref">2009</xref>; Becker <italic>et&#x000a0;al</italic>, <xref rid="bjh13873-bib-0002" ref-type="ref">2010</xref>; Lazenby <italic>et&#x000a0;al</italic>, <xref rid="bjh13873-bib-0014" ref-type="ref">2014</xref>), and may be limited to those &#x02264;65&#x000a0;years of age (Ostronoff <italic>et&#x000a0;al</italic>, <xref rid="bjh13873-bib-0020" ref-type="ref">2015</xref>). There is very little data on the impact of <italic>CEBPA</italic>
+<sup>DM</sup> specifically in the older age group. We have therefore determined the impact on survival of the <italic>NPM1</italic>,<italic> FLT3</italic> and <italic>CEBPA</italic> mutation status in a cohort of 301 patients aged 60&#x000a0;years or more with IR cytogenetics who received intensive therapy. We first examined the impact of the presence of a <italic>CEBPA</italic>
+<sup>DM</sup> genotype and then considered the outcome of the combined <italic>NPM1</italic>
+<sup>MUT</sup>
+<italic>FLT3</italic>
+<sup>WT</sup> and <italic>CEBPA</italic>
+<sup>DM</sup> subgroup (considered as the favourable mutational profile in younger patients) compared to those with any other genotype.</p><sec id="bjh13873-sec-0002"><title>Methods</title><sec id="bjh13873-sec-0003"><title>Patients and mutation analysis</title><p>Genomic DNA was available from diagnostic samples of 301 (45%) of the 662 patients aged &#x02265;60&#x000a0;years with IR cytogenetics and entered on the UK Medical Research Council (MRC) AML11 trial between 1990 and 1998. Median age was 67&#x000a0;years (range, 60&#x02013;85). Compared to the 361 patients with IR cytogenetics that were not included in the study, there was no difference in age, sex or type of leukaemia (<italic>de novo</italic>/secondary), CR rate or overall survival (OS), but patients studied were more likely to have a higher presenting white blood cell count (WBC) (Table&#x000a0;SI). Ethical approval for the trial was obtained from participating institution's ethics review committees and patients gave informed consent. <italic>FLT3</italic>,<italic> NPM1</italic> and <italic>CEBPA</italic> screening were performed as previously described (Gale <italic>et&#x000a0;al</italic>, <xref rid="bjh13873-bib-0011" ref-type="ref">2008</xref>; Green <italic>et&#x000a0;al</italic>, <xref rid="bjh13873-bib-0013" ref-type="ref">2010</xref>).</p></sec><sec id="bjh13873-sec-0004"><title>Therapy, clinical endpoints and statistical methods</title><p>Details of the trial protocol have been published elsewhere (Goldstone <italic>et&#x000a0;al</italic>, <xref rid="bjh13873-bib-0012" ref-type="ref">2001</xref>). CR was defined as a normocellular bone marrow (BM) containing &#x0003c;5% blasts and showing evidence of normal maturation of other marrow elements. Persistence of myelodysplastic features did not preclude the diagnosis of CR. OS was the time from trial entry to death. For patients achieving CR, relapse&#x02010;free survival (RFS) was the time from the date of first CR to an event (death in first CR or relapse) and cumulative incidence of relapse (CIR) was the incidence of relapse after CR, with death in CR as a competing risk.</p><p>Mantel&#x02010;Haenszel and chi&#x02010;squared tests were used to test for differences in demographic and clinical data by genotype. Kaplan&#x02013;Meier curves were constructed for survival data and compared by means of the log&#x02010;rank test. Surviving patients were censored on 9 August, 2010, with follow&#x02010;up complete for 98% of patients. Median follow&#x02010;up for survival was 16&#x000b7;1&#x000a0;years (range, 13&#x000b7;7&#x02013;19&#x000b7;5&#x000a0;years). Multivariate Cox models were used to analyse CIR and OS, adjusting for age, secondary leukaemia, WBC, performance status and molecular genotype. Models were fitted using forward selection, with variables added to the model if they had a <italic>P</italic> value, derived using the deviance statistic, of &#x0003c;0&#x000b7;05. Odds ratios (OR) or hazard ratios (HR) and 95% confidence intervals (CI) are quoted for endpoints. In all cases a ratio of &#x0003c;1 indicates benefit. All <italic>P</italic> values are two&#x02010;tailed.</p></sec></sec><sec id="bjh13873-sec-0005"><title>Results</title><sec id="bjh13873-sec-0006"><title>Patient characteristics according to CEBPA genotype</title><p>Details of the cohort studied are shown in Table&#x000a0;<xref rid="bjh13873-tbl-0001" ref-type="table-wrap">1</xref>. Overall, 28 patients (9%) were <italic>CEBPA</italic>
+<sup>MUT</sup>, 16 (57%; 5% of total cohort) had a single mutation (<italic>CEBPA</italic>
+<sup>SM</sup>) and 12 (43%; 4%) were <italic>CEBPA</italic>
+<sup>DM</sup> (Fig&#x000a0;<xref rid="bjh13873-fig-0001" ref-type="fig">1</xref>, Table&#x000a0;SII). All <italic>CEBPA</italic>
+<sup>DM</sup> patients had mutations that would be predicted to lead to complete loss of normal C/EBP&#x02010;&#x003b1; activity, with N&#x02010;terminal mutations leading to production of the p30 isoform or frameshift or nonsense mutations leading to a truncated protein and/or C&#x02010;terminal mutations disrupting the DNA binding or leucine zipper domains. There was no significant difference between <italic>CEBPA</italic>
+<sup>DM</sup>, <italic>CEBPA</italic>
+<sup>SM</sup> and <italic>CEBPA</italic>
+<sup>WT</sup> patients in age, sex, type of leukaemia, WBC and incidence of either <italic>FLT3</italic>
+<sup>ITD</sup> or <italic>NPM1</italic>
+<sup>MUT</sup>, although it should be noted that no patient with a <italic>CEBPA</italic>
+<sup>DM</sup> had the <italic>NPM1</italic>
+<sup>MUT</sup>
+<italic>FLT3</italic>
+<sup>WT</sup> genotype (<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0&#x000b7;02) (Table&#x000a0;<xref rid="bjh13873-tbl-0001" ref-type="table-wrap">1</xref>).</p><table-wrap id="bjh13873-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Characteristics of the patients studied according to <italic>CEBPA</italic> genotype</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Parameter</th><th align="char" valign="top" rowspan="1" colspan="1">
+<italic>CEBPA</italic>
+<sup>WT</sup> (<italic>n</italic>&#x000a0;=&#x000a0;273)</th><th align="char" valign="top" rowspan="1" colspan="1">
+<italic>CEBPA</italic>
+<sup>SM</sup> (<italic>n</italic>&#x000a0;=&#x000a0;16)</th><th align="char" valign="top" rowspan="1" colspan="1">
+<italic>CEBPA</italic>
+<sup>DM</sup> (<italic>n</italic>&#x000a0;=&#x000a0;12)</th><th align="left" valign="top" rowspan="1" colspan="1">WT <italic>versus</italic> Single <italic>versus</italic> Double</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Age, years</td><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">0&#x000b7;19<xref ref-type="fn" rid="bjh13873-note-0003">b</xref>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">60&#x02013;64</td><td align="char" char=" " rowspan="1" colspan="1">92 (34%)</td><td align="char" char=" " rowspan="1" colspan="1">6 (38%)</td><td align="char" char=" " rowspan="1" colspan="1">7 (58%)</td><td align="left" rowspan="3" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">65&#x02013;69</td><td align="char" char=" " rowspan="1" colspan="1">96 (35%)</td><td align="char" char=" " rowspan="1" colspan="1">5 (31%)</td><td align="char" char=" " rowspan="1" colspan="1">3 (25%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x02265;70</td><td align="char" char=" " rowspan="1" colspan="1">85 (31%)</td><td align="char" char=" " rowspan="1" colspan="1">5 (31%)</td><td align="char" char=" " rowspan="1" colspan="1">2 (17%)</td></tr><tr><td align="left" rowspan="1" colspan="1">Median (range)</td><td align="char" char=" " rowspan="1" colspan="1">67 (60&#x02013;85)</td><td align="char" char=" " rowspan="1" colspan="1">66 (60&#x02013;75)</td><td align="char" char=" " rowspan="1" colspan="1">63 (60&#x02013;74)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Sex</td><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">0&#x000b7;5<xref ref-type="fn" rid="bjh13873-note-0002">a</xref>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Female</td><td align="char" char=" " rowspan="1" colspan="1">117 (43%)</td><td align="char" char=" " rowspan="1" colspan="1">8 (50%)</td><td align="char" char=" " rowspan="1" colspan="1">6 (50%)</td><td align="left" rowspan="2" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Male</td><td align="char" char=" " rowspan="1" colspan="1">156 (57%)</td><td align="char" char=" " rowspan="1" colspan="1">8 (50%)</td><td align="char" char=" " rowspan="1" colspan="1">6 (50%)</td></tr><tr><td align="left" rowspan="1" colspan="1">Performance Status</td><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">0&#x000b7;8<xref ref-type="fn" rid="bjh13873-note-0002">a</xref>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">WHO 0</td><td align="char" char=" " rowspan="1" colspan="1">105 (38%)</td><td align="char" char=" " rowspan="1" colspan="1">8 (50%)</td><td align="char" char=" " rowspan="1" colspan="1">4 (33%)</td><td align="left" rowspan="5" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">WHO 1</td><td align="char" char=" " rowspan="1" colspan="1">121 (44%)</td><td align="char" char=" " rowspan="1" colspan="1">5 (31%)</td><td align="char" char=" " rowspan="1" colspan="1">7 (58%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">WHO 2</td><td align="char" char=" " rowspan="1" colspan="1">18 (7%)</td><td align="char" char=" " rowspan="1" colspan="1">1 (6%)</td><td align="char" char=" " rowspan="1" colspan="1">0</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">WHO 3</td><td align="char" char=" " rowspan="1" colspan="1">23 (8%)</td><td align="char" char=" " rowspan="1" colspan="1">1 (6%)</td><td align="char" char=" " rowspan="1" colspan="1">1 (8%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">WHO 4</td><td align="char" char=" " rowspan="1" colspan="1">6 (2%)</td><td align="char" char=" " rowspan="1" colspan="1">1 (6%)</td><td align="char" char=" " rowspan="1" colspan="1">0</td></tr><tr><td align="left" rowspan="1" colspan="1">Diagnosis</td><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">0&#x000b7;5<xref ref-type="fn" rid="bjh13873-note-0002">a</xref>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<italic>De Novo</italic>
+</td><td align="char" char=" " rowspan="1" colspan="1">202 (74%)</td><td align="char" char=" " rowspan="1" colspan="1">12 (75%)</td><td align="char" char=" " rowspan="1" colspan="1">10 (83%)</td><td align="left" rowspan="2" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Secondary</td><td align="char" char=" " rowspan="1" colspan="1">71 (26%)</td><td align="char" char=" " rowspan="1" colspan="1">4 (25%)</td><td align="char" char=" " rowspan="1" colspan="1">2 (17%)</td></tr><tr><td align="left" colspan="4" rowspan="1">WBC, &#x000d7;10<sup>9</sup>/l</td><td align="left" rowspan="1" colspan="1">0&#x000b7;14<xref ref-type="fn" rid="bjh13873-note-0003">b</xref>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">0&#x02013;9&#x000b7;9</td><td align="char" char=" " rowspan="1" colspan="1">90 (33%)</td><td align="char" char=" " rowspan="1" colspan="1">5 (31%)</td><td align="char" char=" " rowspan="1" colspan="1">2 (17%)</td><td align="left" rowspan="4" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">10&#x02013;49&#x000b7;9</td><td align="char" char=" " rowspan="1" colspan="1">91 (34%)</td><td align="char" char=" " rowspan="1" colspan="1">4 (25%)</td><td align="char" char=" " rowspan="1" colspan="1">6 (50%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">50&#x02013;99&#x000b7;9</td><td align="char" char=" " rowspan="1" colspan="1">53 (20%)</td><td align="char" char=" " rowspan="1" colspan="1">3 (19%)</td><td align="char" char=" " rowspan="1" colspan="1">1 (8%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x02265;100</td><td align="char" char=" " rowspan="1" colspan="1">37 (14%)</td><td align="char" char=" " rowspan="1" colspan="1">4 (25%)</td><td align="char" char=" " rowspan="1" colspan="1">3 (25%)</td></tr><tr><td align="left" rowspan="1" colspan="1">Median (range)</td><td align="char" char=" " rowspan="1" colspan="1">26&#x000b7;6 (0&#x000b7;3&#x02013;513&#x000b7;0)</td><td align="char" char=" " rowspan="1" colspan="1">30&#x000b7;5 (1&#x000b7;8&#x02013;349)</td><td align="char" char=" " rowspan="1" colspan="1">40&#x000b7;2 (4&#x000b7;2&#x02013;301)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>FLT3</italic>
+<sup>ITD</sup>
+</td><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">0&#x000b7;8<xref ref-type="fn" rid="bjh13873-note-0002">a</xref>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">WT</td><td align="char" char=" " rowspan="1" colspan="1">206 (75%)</td><td align="char" char=" " rowspan="1" colspan="1">9 (56%)</td><td align="char" char=" " rowspan="1" colspan="1">11 (92%)</td><td align="left" rowspan="2" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Mutant</td><td align="char" char=" " rowspan="1" colspan="1">67 (25%)</td><td align="char" char=" " rowspan="1" colspan="1">7 (44%)</td><td align="char" char=" " rowspan="1" colspan="1">1 (8%)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>NPM1</italic>
+<sup>MUT</sup>
+</td><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">0&#x000b7;3<xref ref-type="fn" rid="bjh13873-note-0002">a</xref>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">WT</td><td align="char" char=" " rowspan="1" colspan="1">157 (58%)</td><td align="char" char=" " rowspan="1" colspan="1">5 (31%)</td><td align="char" char=" " rowspan="1" colspan="1">11 (92%)</td><td align="left" rowspan="2" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Mutant</td><td align="char" char=" " rowspan="1" colspan="1">116 (42%)</td><td align="char" char=" " rowspan="1" colspan="1">11 (69%)</td><td align="char" char=" " rowspan="1" colspan="1">1 (8%)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>NPM1</italic>
+<sup>MUT</sup>
+<italic>FLT3</italic>
+<sup>WT</sup>
+</td><td align="char" char=" " rowspan="1" colspan="1">76 (28%)</td><td align="char" char=" " rowspan="1" colspan="1">7 (44%)</td><td align="char" char=" " rowspan="1" colspan="1">0 (0%)</td><td align="left" rowspan="1" colspan="1">0&#x000b7;02<xref ref-type="fn" rid="bjh13873-note-0004">c</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Other</td><td align="char" char=" " rowspan="1" colspan="1">197 (72%)</td><td align="char" char=" " rowspan="1" colspan="1">9 (56%)</td><td align="char" char=" " rowspan="1" colspan="1">12 (100%)</td><td align="left" rowspan="1" colspan="1"/></tr></tbody></table><table-wrap-foot><fn id="bjh13873-note-0001"><p>DM, double mutant; SM, single mutant; ITD, internal tandem duplication; MUT, mutant; WT, wild&#x02010;type; WBC, white blood cell count; WHO, World Health Organization.</p></fn><fn id="bjh13873-note-0002"><label>a</label><p>Test for trend.</p></fn><fn id="bjh13873-note-0003"><label>b</label><p>Spearman correlation.</p></fn><fn id="bjh13873-note-0004"><label>c</label><p>Fisher's exact test.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><fig fig-type="Figure" xml:lang="en" id="bjh13873-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Location and type of mutation detected in <italic>CEBPA</italic>&#x02010;single mutant and <italic>CEBPA</italic>&#x02010;double mutant patients. Amino acids (<styled-content style="fixed-case">AA</styled-content>) encoding the transactivation domains (<styled-content style="fixed-case">TAD</styled-content>1 and <styled-content style="fixed-case">TAD</styled-content>2), DNA&#x02010;binding domain (<styled-content style="fixed-case">DBD</styled-content>) and leucine zipper domain (<styled-content style="fixed-case">LZD</styled-content>) and the <styled-content style="fixed-case">ATG</styled-content> start site for the p30 isoform are indicated.</p></caption><graphic id="nlm-graphic-1" xlink:href="BJH-172-573-g001"/></fig></sec><sec id="bjh13873-sec-0007"><title>Response to therapy and outcome of patients with CEBPA mutations</title><p>There was no evidence of a benefit in <italic>CEBPA</italic>
+<sup>SM</sup> patients, where response to therapy and outcome were either the same or worse than <italic>CEBPA</italic>
+<sup>WT</sup> patients (Table&#x000a0;<xref rid="bjh13873-tbl-0002" ref-type="table-wrap">2</xref>). <italic>CEBPA</italic>
+<sup>DM</sup> patients had a higher CR rate than <italic>CEBPA</italic>
+<sup>WT</sup> patients (75% vs. 59%). Although a relatively large difference, this was not significant in multivariate analysis adjusting for baseline characteristics (OR&#x000a0;=&#x000a0;0&#x000b7;33, CI&#x000a0;=&#x000a0;0&#x000b7;08&#x02013;1&#x000b7;38; <italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0&#x000b7;12), which is not unexpected as the number of such cases is small (<italic>n</italic>&#x000a0;=&#x000a0;12) (Table&#x000a0;<xref rid="bjh13873-tbl-0002" ref-type="table-wrap">2</xref>). CIR was lower in the <italic>CEBPA</italic>
+<sup>DM</sup> patients compared to the <italic>CEBPA</italic>
+<sup>WT</sup> patients, being 44% vs. 55%, respectively, at 1&#x000a0;year and 67% vs. 73% at 3&#x000a0;years (Fig&#x000a0;<xref rid="bjh13873-fig-0002" ref-type="fig">2</xref>A), but again this did not achieve statistical significance (<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0&#x000b7;4 for <italic>CEBPA</italic>
+<sup>DM</sup>
+<italic>versus</italic> all others). Short&#x02010;term survival was improved for <italic>CEBPA</italic>
+<sup>DM</sup> patients (median 471&#x000a0;d for <italic>CEBPA</italic>
+<sup>DM</sup> and 248&#x000a0;d for <italic>CEBPA</italic>
+<sup>WT</sup>), although the benefit was lost by 3&#x000a0;years when the OS was the same (17% vs. 18%) (Fig&#x000a0;<xref rid="bjh13873-fig-0002" ref-type="fig">2</xref>B). In multivariate analysis, there was a trend for a better OS in the <italic>CEBPA</italic>
+<sup>DM</sup> patients when compared to other patients (HR&#x000a0;=&#x000a0;0&#x000b7;57, CI&#x000a0;=&#x000a0;0&#x000b7;31&#x02013;1&#x000b7;08; <italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0&#x000b7;08).</p><table-wrap id="bjh13873-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Outcome data according to <italic>CEBPA</italic> genotype</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" valign="top" colspan="1">Outcome</th><th align="char" rowspan="2" valign="top" colspan="1">
+<italic>CEBPA</italic>
+<sup>WT</sup> (<italic>n</italic>&#x000a0;=&#x000a0;273)</th><th align="char" rowspan="2" valign="top" colspan="1">
+<italic>CEBPA</italic>
+<sup>SM</sup> (<italic>n</italic>&#x000a0;=&#x000a0;16)</th><th align="char" rowspan="2" valign="top" colspan="1">
+<italic>CEBPA</italic>
+<sup>DM</sup> (<italic>n</italic>&#x000a0;=&#x000a0;12)</th><th align="char" colspan="2" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">
+<italic>CEBPA</italic>
+<sup>WT</sup>
+<italic>versus CEBPA</italic>
+<sup>SM</sup>
+<italic>versus CEBPA</italic>
+<sup>DM</sup> OR or HR (95% CI), <italic>P</italic>&#x02010;value</th><th align="char" colspan="2" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">
+<italic>CEBPA</italic>
+<sup>DM</sup>
+<italic>versus</italic> not OR or HR (95% CI), <italic>P</italic>&#x02010;value</th></tr><tr style="border-bottom:solid 1px #000000"><th align="char" valign="top" rowspan="1" colspan="1">Univariate</th><th align="char" valign="top" rowspan="1" colspan="1">
+<xref ref-type="fn" rid="bjh13873-note-0006">a</xref>Multivariate</th><th align="char" valign="top" rowspan="1" colspan="1">Univariate</th><th align="char" valign="top" rowspan="1" colspan="1">
+<xref ref-type="fn" rid="bjh13873-note-0006">a</xref>Multivariate</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">CR/CRi</td><td align="char" char="." rowspan="1" colspan="1">59%</td><td align="char" char="." rowspan="1" colspan="1">56%</td><td align="char" char="." rowspan="1" colspan="1">75%</td><td align="char" char=" " rowspan="1" colspan="1">0&#x000b7;79 (0&#x000b7;46&#x02013;1&#x000b7;37), <italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0&#x000b7;4</td><td align="char" char=" " rowspan="1" colspan="1">0&#x000b7;71 (0&#x000b7;39&#x02013;1&#x000b7;27), <italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0&#x000b7;2</td><td align="char" char=" " rowspan="1" colspan="1">0&#x000b7;51 (0&#x000b7;16&#x02013;1&#x000b7;66), <italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0&#x000b7;3</td><td align="char" char=" " rowspan="1" colspan="1">0&#x000b7;33 (0&#x000b7;08&#x02013;1&#x000b7;38), <italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0&#x000b7;12</td></tr><tr><td align="left" rowspan="1" colspan="1">30&#x02010;d mortality</td><td align="char" char="." rowspan="1" colspan="1">20%</td><td align="char" char="." rowspan="1" colspan="1">25%</td><td align="char" char="." rowspan="1" colspan="1">8%</td><td align="char" char=" " rowspan="1" colspan="1">0&#x000b7;82 (0&#x000b7;42&#x02013;1&#x000b7;57), <italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0&#x000b7;5</td><td align="char" char=" " rowspan="1" colspan="1">0&#x000b7;76 (0&#x000b7;38&#x02013;1&#x000b7;51), <italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0&#x000b7;4</td><td align="char" char=" " rowspan="1" colspan="1">0&#x000b7;53 (0&#x000b7;15&#x02013;1&#x000b7;84), <italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0&#x000b7;3</td><td align="char" char=" " rowspan="1" colspan="1">0&#x000b7;35 (0&#x000b7;05&#x02013;2&#x000b7;60), <italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0&#x000b7;3</td></tr><tr><td align="left" rowspan="1" colspan="1">3&#x02010;year OS</td><td align="char" char="." rowspan="1" colspan="1">18%</td><td align="char" char="." rowspan="1" colspan="1">6%</td><td align="char" char="." rowspan="1" colspan="1">17%</td><td align="char" char=" " rowspan="1" colspan="1">0&#x000b7;92 (0&#x000b7;71&#x02013;1&#x000b7;19), <italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0&#x000b7;5</td><td align="char" char=" " rowspan="1" colspan="1">0&#x000b7;87 (0&#x000b7;67&#x02013;1&#x000b7;13), <italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0&#x000b7;3</td><td align="char" char=" " rowspan="1" colspan="1">0&#x000b7;75 (0&#x000b7;45&#x02013;1&#x000b7;27), <italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0&#x000b7;3</td><td align="char" char=" " rowspan="1" colspan="1">0&#x000b7;57 (0&#x000b7;31&#x02013;1&#x000b7;08), <italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0&#x000b7;08</td></tr><tr><td align="left" rowspan="1" colspan="1">3&#x02010;year RFS</td><td align="char" char="." rowspan="1" colspan="1">21%</td><td align="char" char="." rowspan="1" colspan="1">11%</td><td align="char" char="." rowspan="1" colspan="1">22%</td><td align="char" char=" " rowspan="1" colspan="1">0&#x000b7;95 (0&#x000b7;69&#x02013;1&#x000b7;31), <italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0&#x000b7;8</td><td align="char" char=" " rowspan="1" colspan="1">0&#x000b7;93 (0&#x000b7;68&#x02013;1&#x000b7;29), <italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0&#x000b7;7</td><td align="char" char=" " rowspan="1" colspan="1">0&#x000b7;83 (0&#x000b7;43&#x02013;1&#x000b7;59), <italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0&#x000b7;6</td><td align="char" char=" " rowspan="1" colspan="1">0&#x000b7;74 (0&#x000b7;36&#x02013;1&#x000b7;55), <italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0&#x000b7;4</td></tr><tr><td align="left" rowspan="1" colspan="1">3&#x02010;year CIR</td><td align="char" char="." rowspan="1" colspan="1">73%</td><td align="char" char="." rowspan="1" colspan="1">89%</td><td align="char" char="." rowspan="1" colspan="1">67%</td><td align="char" char=" " rowspan="1" colspan="1">0&#x000b7;96 (0&#x000b7;68&#x02013;1&#x000b7;35), <italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0&#x000b7;8</td><td align="char" char=" " rowspan="1" colspan="1">0&#x000b7;94 (0&#x000b7;66&#x02013;1&#x000b7;34), <italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0&#x000b7;7</td><td align="char" char=" " rowspan="1" colspan="1">0&#x000b7;75 (0&#x000b7;37&#x02013;1&#x000b7;52), <italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0&#x000b7;4</td><td align="char" char=" " rowspan="1" colspan="1">0&#x000b7;68 (0&#x000b7;29&#x02013;1&#x000b7;58), <italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0&#x000b7;4</td></tr></tbody></table><table-wrap-foot><fn id="bjh13873-note-0005"><p>95% CI, 95% confidence intervals; CIR, cumulative incidence of relapse; CR, complete remission; CRi, complete remission with incomplete haematological recovery; DM, double mutant; HR, hazard ratio; OR, odds ratio; OS, overall survival; RFS, relapse&#x02010;free survival; SM, single mutant; WT, wild&#x02010;type.</p></fn><fn id="bjh13873-note-0006"><label>a</label><p>Adjusted for age, secondary leukaemia, white blood cell count, performance status, <italic>FLT3</italic> and <italic>NPM1</italic> genotype.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><fig fig-type="Figure" xml:lang="en" id="bjh13873-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Kaplan&#x02013;Meier curves stratified according to <italic>CEBPA</italic> genotype. (A) Cumulative incidence of relapse. (B) Overall survival. WT, wild type.</p></caption><graphic id="nlm-graphic-3" xlink:href="BJH-172-573-g002"/></fig></sec><sec id="bjh13873-sec-0008"><title>Comparison of response to therapy and outcome in patients with CEBPA<sup>DM</sup>, NPM1<sup>MUT</sup>FLT3<sup>WT</sup> and Other genotypes</title><p>Although the <italic>CEBPA</italic>
+<sup>DM</sup> genotype appeared to be associated with only a limited benefit in outcome, the above analysis is likely to be influenced by the presence of good&#x02010;risk <italic>NPM1</italic>
+<sup>MUT</sup>
+<italic>FLT3</italic>
+<sup>WT</sup> patients in the non&#x02010;<italic>CEBPA</italic>
+<sup>DM</sup> group, which would attenuate any difference between <italic>CEBPA</italic>
+<sup>DM</sup> patients and those with a poor&#x02010;risk genotype. Overall, 83 patients (28%) had an <italic>NPM1</italic>
+<sup>MUT</sup>
+<italic>FLT3</italic>
+<sup>WT</sup> genotype and it was mutually exclusive with a <italic>CEBPA</italic>
+<sup>DM</sup> genotype. We therefore divided the patients into three groups, <italic>NPM1</italic>
+<sup>MUT</sup>
+<italic>FLT3</italic>
+<sup>WT</sup> patients, <italic>CEBPA</italic>
+<sup>DM</sup> patients, and all other patients (i.e. those with an <italic>NPM1</italic>
+<sup>WT</sup> or <italic>NPM1</italic>
+<sup>MUT</sup>
+<italic>FLT3</italic>
+<sup>ITD</sup> genotype), hereafter called &#x02018;Other&#x02019; genotypes. The CR rate in patients with an <italic>NPM1</italic>
+<sup>MUT</sup>
+<italic>FLT3</italic>
+<sup>WT</sup> genotype was 71% compared to 75% in the <italic>CEBPA</italic>
+<sup>DM</sup> patients and 54% in those with &#x02018;Other&#x02019; genotypes (Table&#x000a0;<xref rid="bjh13873-tbl-0003" ref-type="table-wrap">3</xref>). <italic>NPM1</italic>
+<sup><italic>MUT</italic></sup>
+<italic>FLT3</italic>
+<sup><italic>WT</italic></sup> or <italic>CEBPA</italic>
+<sup>DM</sup> patients had a lower CIR at 1&#x000a0;year than the remaining patients (44%, 56% and 62% respectively). However, this difference was less apparent by 3&#x000a0;years (66%, 67% and 78% respectively) and, although it was statistically significant in univariate analysis (<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0&#x000b7;01 for the 3&#x02010;way comparison), it did not retain significance after adjustment for other factors (<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0&#x000b7;3) (Fig&#x000a0;<xref rid="bjh13873-fig-0003" ref-type="fig">3</xref>A). Survival at 1&#x000a0;year was highest in the <italic>CEBPA</italic>
+<sup>DM</sup> group, but this then fell towards the level of the patients in the &#x02018;Other&#x02019; genotype category and showed no difference by 2&#x000a0;years (Fig&#x000a0;<xref rid="bjh13873-fig-0003" ref-type="fig">3</xref>B). Even so, multivariate analysis showed that the OS was significantly better in the <italic>CEBPA</italic>
+<sup>DM</sup> patients than in the &#x02018;Other&#x02019; genotypic group (HR&#x000a0;=&#x000a0;0&#x000b7;52, CI&#x000a0;=&#x000a0;0&#x000b7;28&#x02013;0&#x000b7;97, <italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0&#x000b7;04). Similarly, OS was significantly better in the <italic>NPM1</italic>
+<sup>MUT</sup>
+<italic>FLT3</italic>
+<sup>WT</sup> group compared to the &#x02018;Other&#x02019; genotype group (<italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0&#x000b7;0001 for univariate analysis; <italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0&#x000b7;002 for multivariate analysis). Median survival was 13&#x000b7;6, 15&#x000b7;2 and 6&#x000b7;6&#x000a0;months, respectively, in the <italic>NPM1</italic>
+<sup>MUT</sup>
+<italic>FLT3</italic>
+<sup>WT</sup>, <italic>CEBPA</italic>
+<sup>DM</sup> and &#x02018;Other&#x02019; groups.</p><table-wrap id="bjh13873-tbl-0003" xml:lang="en" orientation="portrait" position="float"><label>Table 3</label><caption><p>Outcome data comparing the <italic>CEBPA</italic>
+<sup>DM</sup> and <italic>NPM1</italic>
+<sup>MUT</sup>
+<italic>FLT3</italic>
+<sup>WT</sup> favourable&#x02010;risk groups</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" valign="top" colspan="1">Outcome</th><th align="left" rowspan="2" valign="top" colspan="1">
+<italic>CEBPA</italic>
+<sup>DM</sup> (<italic>n</italic>&#x000a0;=&#x000a0;12)</th><th align="left" rowspan="2" valign="top" colspan="1">
+<italic>NPM1</italic>
+<sup>MUT</sup>
+<italic>FLT3</italic>
+<sup>WT</sup> (<italic>n</italic>&#x000a0;=&#x000a0;83)</th><th align="left" rowspan="2" valign="top" colspan="1">Others (<italic>n</italic>&#x000a0;=&#x000a0;206)</th><th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">
+<italic>CEBPA</italic>
+<sup>DM</sup>
+<italic>versus NPM1</italic>
+<sup>MUT</sup>
+<italic>FLT3</italic>
+<sup>WT</sup>
+</th><th align="char" colspan="2" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">
+<italic>CEBPA</italic>
+<sup>DM</sup>
+<italic>versus</italic> Others</th><th align="char" colspan="2" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">
+<italic>NPM1</italic>
+<sup>MUT</sup>
+<italic>FLT3</italic>
+<sup>WT</sup>
+<italic>versus</italic> Others</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Univariate</th><th align="left" valign="top" rowspan="1" colspan="1">
+<xref ref-type="fn" rid="bjh13873-note-0008">a</xref>Multivariate</th><th align="char" valign="top" rowspan="1" colspan="1">Univariate</th><th align="char" valign="top" rowspan="1" colspan="1">
+<xref ref-type="fn" rid="bjh13873-note-0008">a</xref>Multivariate</th><th align="char" valign="top" rowspan="1" colspan="1">Univariate</th><th align="char" valign="top" rowspan="1" colspan="1">
+<xref ref-type="fn" rid="bjh13873-note-0008">a</xref>Multivariate</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">CR/CRi</td><td align="left" rowspan="1" colspan="1">75%</td><td align="left" rowspan="1" colspan="1">71%</td><td align="left" rowspan="1" colspan="1">54%</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">OR (95% CI)</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">0&#x000b7;84 (0&#x000b7;22&#x02013;3&#x000b7;14)</td><td align="left" rowspan="1" colspan="1">0&#x000b7;83 (0&#x000b7;20&#x02013;3&#x000b7;57)</td><td align="char" char=" " rowspan="1" colspan="1">0&#x000b7;43 (0&#x000b7;13&#x02013;1&#x000b7;37)</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">0&#x000b7;39 (0&#x000b7;10&#x02013;1&#x000b7;57)</td><td align="char" char=" " rowspan="1" colspan="1">0&#x000b7;43 (0&#x000b7;13&#x02013;1&#x000b7;37)</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">0&#x000b7;39 (0&#x000b7;10&#x02013;1&#x000b7;57)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<italic>P</italic>
+</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">0&#x000b7;8</td><td align="left" rowspan="1" colspan="1">0&#x000b7;8</td><td align="char" char=" " rowspan="1" colspan="1">0&#x000b7;15</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">0&#x000b7;18</td><td align="char" char=" " rowspan="1" colspan="1">0&#x000b7;15</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">0&#x000b7;18</td></tr><tr><td align="left" rowspan="1" colspan="1">30&#x02010;d mortality</td><td align="left" rowspan="1" colspan="1">8%</td><td align="left" rowspan="1" colspan="1">18%</td><td align="left" rowspan="1" colspan="1">21%</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">HR (95% CI)</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">0&#x000b7;53 (0&#x000b7;13&#x02013;2&#x000b7;23)</td><td align="left" rowspan="1" colspan="1">0&#x000b7;33 (0&#x000b7;04&#x02013;2&#x000b7;70)</td><td align="char" char=" " rowspan="1" colspan="1">0&#x000b7;51 (0&#x000b7;15&#x02013;1&#x000b7;79)</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">0&#x000b7;33 (0&#x000b7;05&#x02013;2&#x000b7;46)</td><td align="char" char=" " rowspan="1" colspan="1">0&#x000b7;51 (0&#x000b7;15&#x02013;2&#x000b7;79)</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">0&#x000b7;33 (0&#x000b7;05&#x02013;2&#x000b7;46)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<italic>P</italic>
+</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">0&#x000b7;4</td><td align="left" rowspan="1" colspan="1">0&#x000b7;3</td><td align="char" rowspan="1" colspan="1">0&#x000b7;3</td><td align="char" rowspan="1" colspan="1">0&#x000b7;3</td><td align="char" rowspan="1" colspan="1">0&#x000b7;3</td><td align="char" rowspan="1" colspan="1">0&#x000b7;3</td></tr><tr><td align="left" colspan="10" rowspan="1">OS</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">1&#x000a0;year</td><td align="left" rowspan="1" colspan="1">75%</td><td align="left" rowspan="1" colspan="1">54%</td><td align="left" rowspan="1" colspan="1">33%</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">3&#x000a0;years</td><td align="left" rowspan="1" colspan="1">17%</td><td align="left" rowspan="1" colspan="1">29%</td><td align="left" rowspan="1" colspan="1">12%</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">HR (95% CI)</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">1&#x000b7;10 (0&#x000b7;57&#x02013;2&#x000b7;12)</td><td align="left" rowspan="1" colspan="1">0&#x000b7;93 (0&#x000b7;47&#x02013;1&#x000b7;84)</td><td align="char" char=" " rowspan="1" colspan="1">0&#x000b7;64 (0&#x000b7;40&#x02013;1&#x000b7;04)</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">0&#x000b7;52 (0&#x000b7;28&#x02013;0&#x000b7;97)</td><td align="char" char=" " rowspan="1" colspan="1">0&#x000b7;64 (0&#x000b7;40&#x02013;1&#x000b7;04)</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">0&#x000b7;52 (0&#x000b7;28&#x02013;0&#x000b7;97)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<italic>P</italic>
+</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">0&#x000b7;8</td><td align="left" rowspan="1" colspan="1">0&#x000b7;8</td><td align="char" char=" " rowspan="1" colspan="1">0&#x000b7;07</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">0&#x000b7;04</td><td align="char" char=" " rowspan="1" colspan="1">0&#x000b7;07</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">0&#x000b7;04</td></tr><tr><td align="left" colspan="10" rowspan="1">RFS</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">3&#x000a0;years</td><td align="left" rowspan="1" colspan="1">22%</td><td align="left" rowspan="1" colspan="1">31%</td><td align="left" rowspan="1" colspan="1">14%</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">HR (95% CI)</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">1&#x000b7;18 (0&#x000b7;53&#x02013;2&#x000b7;61)</td><td align="left" rowspan="1" colspan="1">1&#x000b7;04 (0&#x000b7;47&#x02013;2&#x000b7;30)</td><td align="char" char=" " rowspan="1" colspan="1">0&#x000b7;70 (0&#x000b7;38&#x02013;1&#x000b7;27)</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">0&#x000b7;66 (0&#x000b7;32&#x02013;1&#x000b7;37)</td><td align="char" char=" " rowspan="1" colspan="1">0&#x000b7;70 (0&#x000b7;38&#x02013;1&#x000b7;27)</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">0&#x000b7;66 (0&#x000b7;32&#x02013;1&#x000b7;37)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<italic>P</italic>
+</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">0&#x000b7;7</td><td align="left" rowspan="1" colspan="1">0&#x000b7;9</td><td align="char" rowspan="1" colspan="1">0&#x000b7;2</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">0&#x000b7;3</td><td align="char" rowspan="1" colspan="1">0&#x000b7;2</td><td align="char" rowspan="1" colspan="1">0&#x000b7;3</td></tr><tr><td align="left" colspan="10" rowspan="1">CIR</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">1&#x000a0;year</td><td align="left" rowspan="1" colspan="1">56%</td><td align="left" rowspan="1" colspan="1">44%</td><td align="left" rowspan="1" colspan="1">62%</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">3&#x000a0;years</td><td align="left" rowspan="1" colspan="1">67%</td><td align="left" rowspan="1" colspan="1">66%</td><td align="left" rowspan="1" colspan="1">78%</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">HR (95% CI)</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">1&#x000b7;01 (0&#x000b7;42&#x02013;2&#x000b7;42)</td><td align="left" rowspan="1" colspan="1">0&#x000b7;84 (0&#x000b7;34&#x02013;2&#x000b7;06)</td><td align="char" char=" " rowspan="1" colspan="1">0&#x000b7;65 (0&#x000b7;34&#x02013;1&#x000b7;27)</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">0&#x000b7;59 (0&#x000b7;25&#x02013;1&#x000b7;36)</td><td align="char" char=" " rowspan="1" colspan="1">0&#x000b7;65 (0&#x000b7;34&#x02013;1&#x000b7;27)</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">0&#x000b7;59 (0&#x000b7;25&#x02013;1&#x000b7;36)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<italic>P</italic>
+</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">1&#x000b7;0</td><td align="left" rowspan="1" colspan="1">0&#x000b7;7</td><td align="char" rowspan="1" colspan="1">0&#x000b7;2</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">0&#x000b7;2</td><td align="char" rowspan="1" colspan="1">0&#x000b7;2</td><td align="char" rowspan="1" colspan="1">0&#x000b7;2</td></tr></tbody></table><table-wrap-foot><fn id="bjh13873-note-0007"><p>95% CI, 95% confidence intervals; CIR, cumulative incidence of relapse; CR, complete remission; CRi, complete remission with incomplete haematological recovery; DM, double mutant; HR, hazard ratio; MUT, mutant; OR, odds ratio; OS, overall survival; RFS, relapse&#x02010;free survival; WT, wild&#x02010;type.</p></fn><fn id="bjh13873-note-0008"><label>a</label><p>Adjusted for age, secondary leukaemia, white blood cell count and performance status.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><fig fig-type="Figure" xml:lang="en" id="bjh13873-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Kaplan&#x02013;Meier curves stratified according to <italic>CEBPA</italic>
+<sup>DM</sup> and <italic>NPM1</italic>
+<sup>MUT</sup>
+<italic>FLT3</italic>
+<sup>WT</sup> genotype. (A) Cumulative incidence of relapse and (B) overall survival in the three genotype groups. (C) Overall survival for the combined favourable&#x02010;risk <italic>CEBPA</italic>
+<sup>DM</sup> and <italic>NPM1</italic>
+<sup>MUT</sup>
+<italic>FLT3</italic>
+<sup>WT</sup> group compared with all other patients. (D) Overall survival stratified according to age in the favourable&#x02010;risk group. CEBPA double, <italic>CEBPA</italic>
+<sup>DM</sup> genotype; ITD wt NPM1 mut, <italic>NPM1</italic>
+<sup>MUT</sup>
+<italic>FLT3</italic>
+<sup>WT</sup> genotype.</p></caption><graphic id="nlm-graphic-5" xlink:href="BJH-172-573-g003"/></fig><p>As outcome was broadly comparable for the <italic>CEBPA</italic>
+<sup>DM</sup> and <italic>NPM1</italic>
+<sup>MUT</sup>
+<italic>FLT3</italic>
+<sup>WT</sup> patients, they were combined into a favourable&#x02010;risk group, as in younger patients, together comprising 32% of the patients in this study. OS was very significantly better in this combined group than the &#x02018;Other&#x02019; genotypes group, 57% vs. 33% at 1&#x000a0;year, and 27% vs. 12% at 3&#x000a0;years (HR&#x000a0;=&#x000a0;0&#x000b7;50, CI&#x000a0;=&#x000a0;0&#x000b7;38&#x02013;0&#x000b7;65, <italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0&#x000b7;0001 in multivariate analysis) (Fig&#x000a0;<xref rid="bjh13873-fig-0003" ref-type="fig">3</xref>C). Median survival was 14&#x000b7;3&#x000a0;months in the favourable&#x02010;risk group compared to only 6&#x000b7;6&#x000a0;months in the remainder. There was no evidence that survival in the favourable&#x02010;risk group differed according to age: OS at 3&#x000a0;years was 30% for the 56 patients (59%) aged &#x0003e;65&#x000a0;years compared to 23% for those aged &#x0003c;65&#x000a0;years (HR&#x000a0;=&#x000a0;0&#x000b7;92, CI&#x000a0;=&#x000a0;0&#x000b7;59&#x02013;1&#x000b7;44; <italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0&#x000b7;7) (Fig&#x000a0;<xref rid="bjh13873-fig-0003" ref-type="fig">3</xref>D), median survival 14&#x000b7;3 and 14&#x000b7;0&#x000a0;months, respectively.</p></sec></sec><sec id="bjh13873-sec-0009"><title>Discussion</title><p>In younger adult AML patients the presence of a <italic>CEBPA</italic>
+<sup>DM</sup> genotype is associated with better response to treatment and improved long&#x02010;term outcome (Green <italic>et&#x000a0;al</italic>, <xref rid="bjh13873-bib-0013" ref-type="ref">2010</xref>; Taskesen <italic>et&#x000a0;al</italic>, <xref rid="bjh13873-bib-0023" ref-type="ref">2011</xref>). It is sometimes assumed that this is also true in older patients (Ossenkoppele &#x00026; Lowenberg, <xref rid="bjh13873-bib-0019" ref-type="ref">2015</xref>), but this has never been formally demonstrated, with such results only presented within a much wider age range of patients (Renneville <italic>et&#x000a0;al</italic>, <xref rid="bjh13873-bib-0022" ref-type="ref">2009</xref>; Wouters <italic>et&#x000a0;al</italic>, <xref rid="bjh13873-bib-0025" ref-type="ref">2009</xref>; Dufour <italic>et&#x000a0;al</italic>, <xref rid="bjh13873-bib-0009" ref-type="ref">2010</xref>; Fasan <italic>et&#x000a0;al</italic>, <xref rid="bjh13873-bib-0010" ref-type="ref">2014</xref>). The study presented here is the first to report on the impact of a <italic>CEBPA</italic>
+<sup>DM</sup> genotype specifically in patients &#x02265;60&#x000a0;years of age. The incidence of 4% <italic>CEBPA</italic>
+<sup>DM</sup> in the present cohort was similar to the 5% incidence reported in our study of younger patients with IR cytogenetics (Green <italic>et&#x000a0;al</italic>, <xref rid="bjh13873-bib-0013" ref-type="ref">2010</xref>), and is consistent with other studies where age and double/single mutant status have been given (Dufour <italic>et&#x000a0;al</italic>, <xref rid="bjh13873-bib-0009" ref-type="ref">2010</xref>; Marcucci <italic>et&#x000a0;al</italic>, <xref rid="bjh13873-bib-0015" ref-type="ref">2012</xref>). A <italic>CEBPA</italic>
+<sup>DM</sup> genotype was associated with improved short&#x02010;term survival that was significant in multivariate analysis when compared to patients without either a <italic>CEBPA</italic>
+<sup>DM</sup> or <italic>NPM1</italic>
+<sup>MUT</sup>
+<italic>FLT3</italic>
+<sup>WT</sup> genotype. It is clear that this improvement is relatively short&#x02010;lived and does not equate to a high cure rate.</p><p>Older patients with an <italic>NPM1</italic>
+<sup>MUT</sup>
+<italic>FLT3</italic>
+<sup>WT</sup> genotype have already been shown to have an improved 1&#x02010;year OS (Buchner <italic>et&#x000a0;al</italic>, <xref rid="bjh13873-bib-0003" ref-type="ref">2009</xref>; Lazenby <italic>et&#x000a0;al</italic>, <xref rid="bjh13873-bib-0014" ref-type="ref">2014</xref>; Ostronoff <italic>et&#x000a0;al</italic>, <xref rid="bjh13873-bib-0020" ref-type="ref">2015</xref>), and this was confirmed in the present cohort. The combined favourable&#x02010;risk genotypic group reported here, of either a <italic>CEBPA</italic>
+<sup>DM</sup> or an <italic>NPM1</italic>
+<sup>MUT</sup>
+<italic>FLT3</italic>
+<sup>WT</sup> genotype, accounted for 32% of all the patients investigated, although it must be acknowledged that this cohort was restricted to patients deemed fit enough to receive intensive chemotherapy. Even in this favourable&#x02010;risk genotypic group only 57% of the patients were alive at 1&#x000a0;year and the corollary of identifying a favourable group is that, by default, an unfavourable&#x02010;risk group is also identified. In this cohort of patients, of those without a favourable&#x02010;risk genotype, nearly 50% had died by 6&#x000a0;months and only 12% were alive at 3&#x000a0;years.</p><p>Although the cohort presented here was treated two decades ago, there has been very little progress in the intervening years in improving outcome in this age group and the findings are still likely to apply. This disease&#x02010;related information needs to be integrated with other patient&#x02010;related information, including co&#x02010;morbidities, but for some patients it may influence the decision of whether or not to receive intensive therapy. Therefore consideration should be given to offering molecular screening as part of the diagnostic work&#x02010;up for older patients with IR cytogenetics. Nevertheless, even for the more favourable&#x02010;risk group, there remains an undoubted need to develop novel therapeutic strategies for older patients with AML.</p></sec><sec id="bjh13873-sec-0011"><title>Author contributions</title><p>Glenda J. Dickson performed research, analysed data and wrote the paper. Sophia Bustraan and Akbar Ali performed research. Robert K. Hills performed statistical analysis. Anthony H. Goldstone and Alan K. Burnett were the chief investigators of the trial. David C. Linch designed the study and wrote the paper. Rosemary E. Gale designed the study, analysed data and wrote the paper. All authors approved the final version of the manuscript.</p></sec><sec id="bjh13873-sec-0012"><title>Conflicts of interest</title><p>The authors have no competing conflicts of interest to declare.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data"><caption><p>
+<bold>Table&#x000a0;SI.</bold> Characteristics of UK AML11 trial patients aged &#x02265;60&#x000a0;years and with IR cytogenetics that were excluded and included in the molecular investigation.</p><p>
+<bold>Table&#x000a0;SII.</bold> Details of the mutations identified in the <italic>CEBPA</italic>
+<sup>MUT</sup> cases.</p></caption><media xlink:href="BJH-172-573-s001.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="bjh13873-sec-0010"><title>Acknowledgements</title><p>This work was supported by Leukaemia and Lymphoma Research, UK, and was undertaken at UCLH/UCL, which receives a proportion of funding from the Department of Health's NIHR Biomedical Research Centres funding scheme.</p></ack><ref-list content-type="cited-references" id="bjh13873-bibl-0001"><title>References</title><ref id="bjh13873-bib-0001"><mixed-citation publication-type="journal" id="bjh13873-cit-0001">
+<string-name>
+<surname>Alibhai</surname>, <given-names>S.M.</given-names>
+</string-name>, <string-name>
+<surname>Breunis</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Timilshina</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Brignardello&#x02010;Petersen</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Tomlinson</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Mohamedali</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Gupta</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Minden</surname>, <given-names>M.D.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Buckstein</surname>, <given-names>R.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Brandwein</surname>, <given-names>J.M.</given-names>
+</string-name> (<year>2015</year>) <article-title>Quality of life and physical function in adults treated with intensive chemotherapy for acute myeloid leukemia improve over time independent of age</article-title>. <source>Journal of Geriatric Oncology</source>, <volume>6</volume>, <fpage>262</fpage>&#x02013;<lpage>271</lpage>.<pub-id pub-id-type="pmid">25944029</pub-id></mixed-citation></ref><ref id="bjh13873-bib-0002"><mixed-citation publication-type="journal" id="bjh13873-cit-0002">
+<string-name>
+<surname>Becker</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Marcucci</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Maharry</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Radmacher</surname>, <given-names>M.D.</given-names>
+</string-name>, <string-name>
+<surname>Mrozek</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Margeson</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Whitman</surname>, <given-names>S.P.</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>, <given-names>Y.Z.</given-names>
+</string-name>, <string-name>
+<surname>Schwind</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Paschka</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Powell</surname>, <given-names>B.L.</given-names>
+</string-name>, <string-name>
+<surname>Carter</surname>, <given-names>T.H.</given-names>
+</string-name>, <string-name>
+<surname>Kolitz</surname>, <given-names>J.E.</given-names>
+</string-name>, <string-name>
+<surname>Wetzler</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Carroll</surname>, <given-names>A.J.</given-names>
+</string-name>, <string-name>
+<surname>Baer</surname>, <given-names>M.R.</given-names>
+</string-name>, <string-name>
+<surname>Caligiuri</surname>, <given-names>M.A.</given-names>
+</string-name>, <string-name>
+<surname>Larson</surname>, <given-names>R.A.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Bloomfield</surname>, <given-names>C.D.</given-names>
+</string-name> (<year>2010</year>) <article-title>Favorable prognostic impact of <italic>NPM1</italic> mutations in older patients with cytogenetically normal de novo acute myeloid leukemia and associated gene&#x02010; and microRNA&#x02010;expression signatures: a Cancer and Leukemia Group B study</article-title>. <source>Journal of Clinical Oncology</source>, <volume>28</volume>, <fpage>596</fpage>&#x02013;<lpage>604</lpage>.<pub-id pub-id-type="pmid">20026798</pub-id></mixed-citation></ref><ref id="bjh13873-bib-0003"><mixed-citation publication-type="journal" id="bjh13873-cit-0003">
+<string-name>
+<surname>Buchner</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Berdel</surname>, <given-names>W.E.</given-names>
+</string-name>, <string-name>
+<surname>Haferlach</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Haferlach</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Schnittger</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Muller&#x02010;Tidow</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Braess</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Spiekermann</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Kienast</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Staib</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Gruneisen</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Kern</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Reichle</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Maschmeyer</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Aul</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Lengfelder</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Sauerland</surname>, <given-names>M.C.</given-names>
+</string-name>, <string-name>
+<surname>Heinecke</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Wormann</surname>, <given-names>B.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Hiddemann</surname>, <given-names>W.</given-names>
+</string-name> (<year>2009</year>) <article-title>Age&#x02010;related risk profile and chemotherapy dose response in acute myeloid leukemia: a study by the German Acute Myeloid Leukemia Cooperative Group</article-title>. <source>Journal of Clinical Oncology</source>, <volume>27</volume>, <fpage>61</fpage>&#x02013;<lpage>69</lpage>.<pub-id pub-id-type="pmid">19047294</pub-id></mixed-citation></ref><ref id="bjh13873-bib-0004"><mixed-citation publication-type="journal" id="bjh13873-cit-0004">
+<string-name>
+<surname>Burnett</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Wetzler</surname>, <given-names>M.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Lowenberg</surname>, <given-names>B.</given-names>
+</string-name> (<year>2011</year>) <article-title>Therapeutic advances in acute myeloid leukemia</article-title>. <source>Journal of Clinical Oncology</source>, <volume>29</volume>, <fpage>487</fpage>&#x02013;<lpage>494</lpage>.<pub-id pub-id-type="pmid">21220605</pub-id></mixed-citation></ref><ref id="bjh13873-bib-0005"><mixed-citation publication-type="journal" id="bjh13873-cit-0005">
+<string-name>
+<surname>Cornelissen</surname>, <given-names>J.J.</given-names>
+</string-name>, <string-name>
+<surname>Gratwohl</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Schlenk</surname>, <given-names>R.F.</given-names>
+</string-name>, <string-name>
+<surname>Sierra</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Bornhauser</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Juliusson</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Racil</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Rowe</surname>, <given-names>J.M.</given-names>
+</string-name>, <string-name>
+<surname>Russell</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Mohty</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Lowenberg</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Socie</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Niederwieser</surname>, <given-names>D.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Ossenkoppele</surname>, <given-names>G.J.</given-names>
+</string-name> (<year>2012</year>) <article-title>The European LeukemiaNet AML Working Party consensus statement on allogeneic HSCT for patients with AML in remission: an integrated&#x02010;risk adapted approach</article-title>. <source>Nature Reviews</source>, <volume>9</volume>, <fpage>579</fpage>&#x02013;<lpage>590</lpage>.</mixed-citation></ref><ref id="bjh13873-bib-0006"><mixed-citation publication-type="journal" id="bjh13873-cit-0006">
+<string-name>
+<surname>Derolf</surname>, <given-names>A.R.</given-names>
+</string-name>, <string-name>
+<surname>Kristinsson</surname>, <given-names>S.Y.</given-names>
+</string-name>, <string-name>
+<surname>Andersson</surname>, <given-names>T.M.</given-names>
+</string-name>, <string-name>
+<surname>Landgren</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Dickman</surname>, <given-names>P.W.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Bjorkholm</surname>, <given-names>M.</given-names>
+</string-name> (<year>2009</year>) <article-title>Improved patient survival for acute myeloid leukemia: a population&#x02010;based study of 9729 patients diagnosed in Sweden between 1973 and 2005</article-title>. <source>Blood</source>, <volume>113</volume>, <fpage>3666</fpage>&#x02013;<lpage>3672</lpage>.<pub-id pub-id-type="pmid">19020306</pub-id></mixed-citation></ref><ref id="bjh13873-bib-0007"><mixed-citation publication-type="journal" id="bjh13873-cit-0007">
+<string-name>
+<surname>Dohner</surname>, <given-names>H.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Gaidzik</surname>, <given-names>V.I.</given-names>
+</string-name> (<year>2011</year>) <article-title>Impact of genetic features on treatment decisions in AML</article-title>. <source>American Society of Hematology. Education Program</source>, <volume>2011</volume>, <fpage>36</fpage>&#x02013;<lpage>42</lpage>.</mixed-citation></ref><ref id="bjh13873-bib-0008"><mixed-citation publication-type="journal" id="bjh13873-cit-0008">
+<string-name>
+<surname>Dohner</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Estey</surname>, <given-names>E.H.</given-names>
+</string-name>, <string-name>
+<surname>Amadori</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Appelbaum</surname>, <given-names>F.R.</given-names>
+</string-name>, <string-name>
+<surname>Buchner</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Burnett</surname>, <given-names>A.K.</given-names>
+</string-name>, <string-name>
+<surname>Dombret</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Fenaux</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Grimwade</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Larson</surname>, <given-names>R.A.</given-names>
+</string-name>, <string-name>
+<surname>Lo&#x02010;Coco</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Naoe</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Niederwieser</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Ossenkoppele</surname>, <given-names>G.J.</given-names>
+</string-name>, <string-name>
+<surname>Sanz</surname>, <given-names>M.A.</given-names>
+</string-name>, <string-name>
+<surname>Sierra</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Tallman</surname>, <given-names>M.S.</given-names>
+</string-name>, <string-name>
+<surname>Lowenberg</surname>, <given-names>B.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Bloomfield</surname>, <given-names>C.D.</given-names>
+</string-name> (<year>2010</year>) <article-title>Diagnosis and management of acute myeloid leukemia in adults: recommendations from an international expert panel, on behlaf of the European LeukemiaNet</article-title>. <source>Blood</source>, <volume>115</volume>, <fpage>453</fpage>&#x02013;<lpage>474</lpage>.<pub-id pub-id-type="pmid">19880497</pub-id></mixed-citation></ref><ref id="bjh13873-bib-0009"><mixed-citation publication-type="journal" id="bjh13873-cit-0009">
+<string-name>
+<surname>Dufour</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Schneider</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Metzeler</surname>, <given-names>K.H.</given-names>
+</string-name>, <string-name>
+<surname>Hoster</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Schneider</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Zellmeier</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Benthaus</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Sauerland</surname>, <given-names>M.C.</given-names>
+</string-name>, <string-name>
+<surname>Berdel</surname>, <given-names>W.E.</given-names>
+</string-name>, <string-name>
+<surname>Buchner</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Wormann</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Braess</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Hiddemann</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Bohlander</surname>, <given-names>S.K.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Spiekermann</surname>, <given-names>K.</given-names>
+</string-name> (<year>2010</year>) <article-title>Acute myeloid leukemia with biallelic <italic>CEBPA</italic> gene mutations and normal karyotype represents a distinct genetic entity associated with a favorable clinical outcome</article-title>. <source>Journal of Clinical Oncology</source>, <volume>28</volume>, <fpage>570</fpage>&#x02013;<lpage>577</lpage>.<pub-id pub-id-type="pmid">20038735</pub-id></mixed-citation></ref><ref id="bjh13873-bib-0010"><mixed-citation publication-type="journal" id="bjh13873-cit-0010">
+<string-name>
+<surname>Fasan</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Haferlach</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Alpermann</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Jeromin</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Grossman</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Eder</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Weissmann</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Dicker</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Kohlmann</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Schindela</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Kern</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Haferlach</surname>, <given-names>T.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Schnittger</surname>, <given-names>S.</given-names>
+</string-name> (<year>2014</year>) <article-title>The role of different genetic subtypes of <italic>CEBPA</italic> mutated AML</article-title>. <source>Leukemia</source>, <volume>28</volume>, <fpage>794</fpage>&#x02013;<lpage>803</lpage>.<pub-id pub-id-type="pmid">24056881</pub-id></mixed-citation></ref><ref id="bjh13873-bib-0011"><mixed-citation publication-type="journal" id="bjh13873-cit-0011">
+<string-name>
+<surname>Gale</surname>, <given-names>R.E.</given-names>
+</string-name>, <string-name>
+<surname>Green</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Allen</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Mead</surname>, <given-names>A.J.</given-names>
+</string-name>, <string-name>
+<surname>Burnett</surname>, <given-names>A.K.</given-names>
+</string-name>, <string-name>
+<surname>Hills</surname>, <given-names>R.K.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Linch</surname>, <given-names>D.C.</given-names>
+</string-name> (<year>2008</year>) <article-title>The impact of <italic>FLT3</italic> internal tandem duplication mutant level, number, size, and interaction with <italic>NPM1</italic> mutations in a large cohort of young adult patients with acute myeloid leukemia</article-title>. <source>Blood</source>, <volume>111</volume>, <fpage>2776</fpage>&#x02013;<lpage>2784</lpage>.<pub-id pub-id-type="pmid">17957027</pub-id></mixed-citation></ref><ref id="bjh13873-bib-0012"><mixed-citation publication-type="journal" id="bjh13873-cit-0012">
+<string-name>
+<surname>Goldstone</surname>, <given-names>A.H.</given-names>
+</string-name>, <string-name>
+<surname>Burnett</surname>, <given-names>A.K.</given-names>
+</string-name>, <string-name>
+<surname>Wheatley</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>, <given-names>A.G.</given-names>
+</string-name>, <string-name>
+<surname>Hutchinson</surname>, <given-names>R.M.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Clark</surname>, <given-names>R.E.</given-names>
+</string-name> (<year>2001</year>) <article-title>Attempts to improve treatment outcomes in acute myeloid leukemia (AML) in older patients: the results of the United Kingdom Medical Research Council AML11 trial</article-title>. <source>Blood</source>, <volume>98</volume>, <fpage>1302</fpage>&#x02013;<lpage>1311</lpage>.<pub-id pub-id-type="pmid">11520775</pub-id></mixed-citation></ref><ref id="bjh13873-bib-0013"><mixed-citation publication-type="journal" id="bjh13873-cit-0013">
+<string-name>
+<surname>Green</surname>, <given-names>C.L.</given-names>
+</string-name>, <string-name>
+<surname>Koo</surname>, <given-names>K.K.</given-names>
+</string-name>, <string-name>
+<surname>Hills</surname>, <given-names>R.K.</given-names>
+</string-name>, <string-name>
+<surname>Burnett</surname>, <given-names>A.K.</given-names>
+</string-name>, <string-name>
+<surname>Linch</surname>, <given-names>D.C.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Gale</surname>, <given-names>R.E.</given-names>
+</string-name> (<year>2010</year>) <article-title>Prognostic significance of <italic>CEBPA</italic> mutations in a large cohort of younger adult patients with acute myeloid leukemia: impact of double <italic>CEBPA</italic> mutations and the interaction with FLT3 and NPM1 mutations</article-title>. <source>Journal of Clinical Oncology</source>, <volume>28</volume>, <fpage>2739</fpage>&#x02013;<lpage>2747</lpage>.<pub-id pub-id-type="pmid">20439648</pub-id></mixed-citation></ref><ref id="bjh13873-bib-0014"><mixed-citation publication-type="journal" id="bjh13873-cit-0014">
+<string-name>
+<surname>Lazenby</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Gilkes</surname>, <given-names>A.F.</given-names>
+</string-name>, <string-name>
+<surname>Marrin</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Evans</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Hills</surname>, <given-names>R.K.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Burnett</surname>, <given-names>A.K.</given-names>
+</string-name> (<year>2014</year>) <article-title>The prognostic relevance of flt3 and npm1 mutations on older patients treated intensively or non&#x02010;intensively: a study of 1312 patients in the UK NCRI AML16 trial</article-title>. <source>Leukemia</source>, <volume>28</volume>, <fpage>1953</fpage>&#x02013;<lpage>1959</lpage>.<pub-id pub-id-type="pmid">24573385</pub-id></mixed-citation></ref><ref id="bjh13873-bib-0015"><mixed-citation publication-type="journal" id="bjh13873-cit-0015">
+<string-name>
+<surname>Marcucci</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Metzeler</surname>, <given-names>K.H.</given-names>
+</string-name>, <string-name>
+<surname>Schwind</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Becker</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Maharry</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Mrozek</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Radmacher</surname>, <given-names>M.D.</given-names>
+</string-name>, <string-name>
+<surname>Kohlschmidt</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Nicolet</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Whitman</surname>, <given-names>S.P.</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>, <given-names>Y.Z.</given-names>
+</string-name>, <string-name>
+<surname>Powell</surname>, <given-names>B.L.</given-names>
+</string-name>, <string-name>
+<surname>Carter</surname>, <given-names>T.H.</given-names>
+</string-name>, <string-name>
+<surname>Kolitz</surname>, <given-names>J.E.</given-names>
+</string-name>, <string-name>
+<surname>Wetzler</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Carroll</surname>, <given-names>A.J.</given-names>
+</string-name>, <string-name>
+<surname>Baer</surname>, <given-names>M.R.</given-names>
+</string-name>, <string-name>
+<surname>Moore</surname>, <given-names>J.O.</given-names>
+</string-name>, <string-name>
+<surname>Caligiuri</surname>, <given-names>M.A.</given-names>
+</string-name>, <string-name>
+<surname>Larson</surname>, <given-names>R.A.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Bloomfield</surname>, <given-names>C.D.</given-names>
+</string-name> (<year>2012</year>) <article-title>Age&#x02010;related prognostic impact of different types of <italic>DNMT3A</italic> mutations in adults with primary cytogenetically normal acute myeloid leukemia</article-title>. <source>Journal of Clinical Oncology</source>, <volume>30</volume>, <fpage>742</fpage>&#x02013;<lpage>750</lpage>.<pub-id pub-id-type="pmid">22291079</pub-id></mixed-citation></ref><ref id="bjh13873-bib-0016"><mixed-citation publication-type="journal" id="bjh13873-cit-0016">
+<string-name>
+<surname>O'Donnell</surname>, <given-names>M.R.</given-names>
+</string-name>, <string-name>
+<surname>Abboud</surname>, <given-names>C.N.</given-names>
+</string-name>, <string-name>
+<surname>Altman</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Appelbaum</surname>, <given-names>F.R.</given-names>
+</string-name>, <string-name>
+<surname>Arber</surname>, <given-names>D.A.</given-names>
+</string-name>, <string-name>
+<surname>Attar</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Borate</surname>, <given-names>U.</given-names>
+</string-name>, <string-name>
+<surname>Coutre</surname>, <given-names>S.E.</given-names>
+</string-name>, <string-name>
+<surname>Damon</surname>, <given-names>L.E.</given-names>
+</string-name>, <string-name>
+<surname>Goorha</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Lancet</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Maness</surname>, <given-names>L.J.</given-names>
+</string-name>, <string-name>
+<surname>Marcucci</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Millenson</surname>, <given-names>M.M.</given-names>
+</string-name>, <string-name>
+<surname>Moore</surname>, <given-names>J.O.</given-names>
+</string-name>, <string-name>
+<surname>Ravandi</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Shami</surname>, <given-names>P.J.</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>, <given-names>B.D.</given-names>
+</string-name>, <string-name>
+<surname>Stone</surname>, <given-names>R.M.</given-names>
+</string-name>, <string-name>
+<surname>Strickland</surname>, <given-names>S.A.</given-names>
+</string-name>, <string-name>
+<surname>Tallman</surname>, <given-names>M.S.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>E.S.</given-names>
+</string-name>, <string-name>
+<surname>Naganuma</surname>, <given-names>M.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Gregory</surname>, <given-names>K.M.</given-names>
+</string-name> (<year>2012</year>) <article-title>Acute myeloid leukemia</article-title>. <source>Journal of the National Comprehensive Cancer Network</source>, <volume>10</volume>, <fpage>984</fpage>&#x02013;<lpage>1021</lpage>.<pub-id pub-id-type="pmid">22878824</pub-id></mixed-citation></ref><ref id="bjh13873-bib-0017"><mixed-citation publication-type="journal" id="bjh13873-cit-0017">
+<string-name>
+<surname>Ofran</surname>, <given-names>Y.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Rowe</surname>, <given-names>J.M.</given-names>
+</string-name> (<year>2013</year>) <article-title>Genetic profiling in acute myeloid leukaemia &#x02013; where are we and what is its role in patient management</article-title>. <source>British Journal of Haematology</source>, <volume>160</volume>, <fpage>303</fpage>&#x02013;<lpage>320</lpage>.<pub-id pub-id-type="pmid">23240632</pub-id></mixed-citation></ref><ref id="bjh13873-bib-0018"><mixed-citation publication-type="journal" id="bjh13873-cit-0018">
+<string-name>
+<surname>Oran</surname>, <given-names>B.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Weisdorf</surname>, <given-names>D.J.</given-names>
+</string-name> (<year>2012</year>) <article-title>Survival for older patients with acute myeloid leukemia: a population&#x02010;based study</article-title>. <source>Haematologica</source>, <volume>97</volume>, <fpage>1916</fpage>&#x02013;<lpage>1924</lpage>.<pub-id pub-id-type="pmid">22773600</pub-id></mixed-citation></ref><ref id="bjh13873-bib-0019"><mixed-citation publication-type="journal" id="bjh13873-cit-0019">
+<string-name>
+<surname>Ossenkoppele</surname>, <given-names>G.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Lowenberg</surname>, <given-names>B.</given-names>
+</string-name> (<year>2015</year>) <article-title>How I treat the older patient with acute myeloid leukemia</article-title>. <source>Blood</source>, <volume>125</volume>, <fpage>767</fpage>&#x02013;<lpage>774</lpage>.<pub-id pub-id-type="pmid">25515963</pub-id></mixed-citation></ref><ref id="bjh13873-bib-0020"><mixed-citation publication-type="journal" id="bjh13873-cit-0020">
+<string-name>
+<surname>Ostronoff</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Othus</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Lazenby</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Estey</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Appelbaum</surname>, <given-names>F.R.</given-names>
+</string-name>, <string-name>
+<surname>Evans</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Godwin</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Gilkes</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Kopecky</surname>, <given-names>K.J.</given-names>
+</string-name>, <string-name>
+<surname>Burnett</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>List</surname>, <given-names>A.F.</given-names>
+</string-name>, <string-name>
+<surname>Fang</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Oehler</surname>, <given-names>V.G.</given-names>
+</string-name>, <string-name>
+<surname>Petersdorf</surname>, <given-names>S.H.</given-names>
+</string-name>, <string-name>
+<surname>Pogosova&#x02010;Agadjanyan</surname>, <given-names>E.L.</given-names>
+</string-name>, <string-name>
+<surname>Radich</surname>, <given-names>J.P.</given-names>
+</string-name>, <string-name>
+<surname>Willman</surname>, <given-names>C.L.</given-names>
+</string-name>, <string-name>
+<surname>Meshinchi</surname>, <given-names>S.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Stirewalt</surname>, <given-names>D.L.</given-names>
+</string-name> (<year>2015</year>) <article-title>Prognostic significance of <italic>NPM1</italic> mutations in the absence of <italic>FLT3</italic>&#x02010;internal tandem duplication in older patients with acute myeloid leukemia: a SWOG and UK National Cancer Research Institute/Medical Research Council report</article-title>. <source>Journal of Clinical Oncology</source>, <volume>33</volume>, <fpage>1157</fpage>&#x02013;<lpage>1164</lpage>.<pub-id pub-id-type="pmid">25713434</pub-id></mixed-citation></ref><ref id="bjh13873-bib-0021"><mixed-citation publication-type="journal" id="bjh13873-cit-0021">
+<string-name>
+<surname>Pollyea</surname>, <given-names>D.A.</given-names>
+</string-name>, <string-name>
+<surname>Kohrt</surname>, <given-names>H.E.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Medeiros</surname>, <given-names>B.C.</given-names>
+</string-name> (<year>2011</year>) <article-title>Acute myeloid leukaemia in the elderly: a review</article-title>. <source>British Journal of Haematology</source>, <volume>152</volume>, <fpage>524</fpage>&#x02013;<lpage>542</lpage>.<pub-id pub-id-type="pmid">21314823</pub-id></mixed-citation></ref><ref id="bjh13873-bib-0022"><mixed-citation publication-type="journal" id="bjh13873-cit-0022">
+<string-name>
+<surname>Renneville</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Boissel</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Gachard</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Naguib</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Bastard</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>de Botton</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Nibourel</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Pautas</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Reman</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Thomas</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Gardin</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Terre</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Castaigne</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Preudhomme</surname>, <given-names>C.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Dombret</surname>, <given-names>H.</given-names>
+</string-name> (<year>2009</year>) <article-title>The favorable impact of CEBPA mutations in patients with acute myeloid leukemia is only observed in the absence of associated cytogenetic abnormalities and FLT3 internal duplication</article-title>. <source>Blood</source>, <volume>113</volume>, <fpage>5090</fpage>&#x02013;<lpage>5093</lpage>.<pub-id pub-id-type="pmid">19289855</pub-id></mixed-citation></ref><ref id="bjh13873-bib-0023"><mixed-citation publication-type="journal" id="bjh13873-cit-0023">
+<string-name>
+<surname>Taskesen</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Bullinger</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Corbacioglu</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Sanders</surname>, <given-names>M.A.</given-names>
+</string-name>, <string-name>
+<surname>Erpelinck</surname>, <given-names>C.A.</given-names>
+</string-name>, <string-name>
+<surname>Wouters</surname>, <given-names>B.J.</given-names>
+</string-name>, <string-name>
+<surname>van der Poel&#x02010;van de Luytgaarde</surname>, <given-names>S.C.</given-names>
+</string-name>, <string-name>
+<surname>Damm</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Krauter</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Ganser</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Schlenk</surname>, <given-names>R.F.</given-names>
+</string-name>, <string-name>
+<surname>Lowenberg</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Delwel</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Dohner</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Valk</surname>, <given-names>P.J.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Dohner</surname>, <given-names>K.</given-names>
+</string-name> (<year>2011</year>) <article-title>Prognostic impact, concurrent genetic mutations, and gene expression features of AML with <italic>CEBPA</italic> mutations in a cohort of 1182 cytogenetically normal AML patients: further evidence for <italic>CEBPA</italic> double mutant AML as a distinctive disease entity</article-title>. <source>Blood</source>, <volume>117</volume>, <fpage>2469</fpage>&#x02013;<lpage>2475</lpage>.<pub-id pub-id-type="pmid">21177436</pub-id></mixed-citation></ref><ref id="bjh13873-bib-0024"><mixed-citation publication-type="journal" id="bjh13873-cit-0024">
+<string-name>
+<surname>Thein</surname>, <given-names>M.S.</given-names>
+</string-name>, <string-name>
+<surname>Ershler</surname>, <given-names>W.B.</given-names>
+</string-name>, <string-name>
+<surname>Jemal</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Yates</surname>, <given-names>J.W.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Baer</surname>, <given-names>M.R.</given-names>
+</string-name> (<year>2013</year>) <article-title>Outcome of older patients with acute myeloid leukemia: an analysis of SEER data over 3 decades</article-title>. <source>Cancer</source>, <volume>119</volume>, <fpage>2720</fpage>&#x02013;<lpage>2727</lpage>.<pub-id pub-id-type="pmid">23633441</pub-id></mixed-citation></ref><ref id="bjh13873-bib-0025"><mixed-citation publication-type="journal" id="bjh13873-cit-0025">
+<string-name>
+<surname>Wouters</surname>, <given-names>B.J.</given-names>
+</string-name>, <string-name>
+<surname>Lowenberg</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Erpelinck&#x02010;Verschueren</surname>, <given-names>C.A.</given-names>
+</string-name>, <string-name>
+<surname>van Putten</surname>, <given-names>W.L.</given-names>
+</string-name>, <string-name>
+<surname>Valk</surname>, <given-names>P.J.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Delwel</surname>, <given-names>R.</given-names>
+</string-name> (<year>2009</year>) <article-title>Double <italic>CEBPA</italic> mutations, but not single <italic>CEBPA</italic> mutations, define a subgroup of acute myeloid leukemia with a distinctive gene expression profile that is uniquely associated with a favorable outcome</article-title>. <source>Blood</source>, <volume>113</volume>, <fpage>3088</fpage>&#x02013;<lpage>3091</lpage>.<pub-id pub-id-type="pmid">19171880</pub-id></mixed-citation></ref></ref-list></back></article>

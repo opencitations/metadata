@@ -1,0 +1,749 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Br J Haematol</journal-id><journal-id journal-id-type="iso-abbrev">Br. J. Haematol</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1365-2141</journal-id><journal-id journal-id-type="publisher-id">BJH</journal-id><journal-title-group><journal-title>British Journal of Haematology</journal-title></journal-title-group><issn pub-type="ppub">0007-1048</issn><issn pub-type="epub">1365-2141</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">29938778</article-id><article-id pub-id-type="pmc">6120535</article-id><article-id pub-id-type="doi">10.1111/bjh.15441</article-id><article-id pub-id-type="publisher-id">BJH15441</article-id><article-categories><subj-group subj-group-type="overline"><subject>Research Paper</subject></subj-group><subj-group subj-group-type="heading"><subject>Red Cells and Iron</subject></subj-group></article-categories><title-group><article-title>Oxidative stress and phosphatidylserine exposure in red cells from patients with sickle cell anaemia</article-title><alt-title alt-title-type="left-running-head">A. Hannemann <italic>et&#x000a0;al</italic></alt-title></title-group><contrib-group><contrib id="bjh15441-cr-0001" contrib-type="author"><name><surname>Hannemann</surname><given-names>Anke</given-names></name><xref ref-type="aff" rid="bjh15441-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="bjh15441-cr-0002" contrib-type="author"><name><surname>Rees</surname><given-names>David C.</given-names></name><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-3647-1050</contrib-id><xref ref-type="aff" rid="bjh15441-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="bjh15441-cr-0003" contrib-type="author"><name><surname>Brewin</surname><given-names>John N.</given-names></name><xref ref-type="aff" rid="bjh15441-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="bjh15441-cr-0004" contrib-type="author"><name><surname>Noe</surname><given-names>Andreas</given-names></name><xref ref-type="aff" rid="bjh15441-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="bjh15441-cr-0005" contrib-type="author"><name><surname>Low</surname><given-names>Ben</given-names></name><xref ref-type="aff" rid="bjh15441-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="bjh15441-cr-0006" contrib-type="author" corresp="yes"><name><surname>Gibson</surname><given-names>John S.</given-names></name><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-6145-9139</contrib-id><address><email>jsg1001@cam.ac.uk</email></address><xref ref-type="aff" rid="bjh15441-aff-0001">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="bjh15441-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Department of Veterinary Medicine</named-content>
+<institution>University of Cambridge</institution>
+<named-content content-type="city">Cambridge</named-content>
+<country country="GB">UK</country>
+</aff><aff id="bjh15441-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Department of Paediatric Haematology</named-content>
+<institution>King's College Hospital</institution>
+<institution>King's College London School of Medicine</institution>
+<named-content content-type="city">London</named-content>
+<country country="GB">UK</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label>
+Correspondence: Professor John S. Gibson, Department of Veterinry Medicine, University of Cambridge, Madingley Road, Cambridge CB3 0ES, UK.<break/>
+E&#x02010;mail: <email>jsg1001@cam.ac.uk</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>25</day><month>6</month><year>2018</year></pub-date><pub-date pub-type="ppub"><month>8</month><year>2018</year></pub-date><volume>182</volume><issue>4</issue><issue-id pub-id-type="doi">10.1111/bjh.2018.182.issue-4</issue-id><fpage>567</fpage><lpage>578</lpage><history><date date-type="received"><day>31</day><month>1</month><year>2018</year></date><date date-type="accepted"><day>13</day><month>5</month><year>2018</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> Copyright &#x000a9; 2018 John Wiley & Sons Ltd <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2018 The Authors. <italic>British Journal of Haematology</italic> published by John Wiley &#x00026; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:BJH-182-567.pdf"/><abstract id="bjh15441-abs-0001"><title>Summary</title><p>Phosphatidylserine (<styled-content style="fixed-case">PS</styled-content>) exposure increases as red cells age, and is an important signal for the removal of senescent cells from the circulation. <styled-content style="fixed-case">PS</styled-content> exposure is elevated in red cells from sickle cell anaemia (<styled-content style="fixed-case">SCA</styled-content>) patients and is thought to enhance haemolysis and vaso&#x02010;occlusion. Although precise conditions leading to its externalisation are unclear, high intracellular Ca<sup>2+</sup> has been implicated. Red cells from <styled-content style="fixed-case">SCA</styled-content> patients are also exposed to an increased oxidative challenge, and we postulated that this stimulates <styled-content style="fixed-case">PS</styled-content> exposure, through increased Ca<sup>2+</sup> levels. We tested four different ways of generating oxidative stress: hypoxanthine and xanthine oxidase, phenazine methosulphate, nitrite and <italic>tert</italic>&#x02010;butyl hydroperoxide, together with thiol modification with <italic>N</italic>&#x02010;ethylmaleimide (<styled-content style="fixed-case">NEM</styled-content>), dithiothreitol and hypochlorous acid (HOCl), in red cells permeabilised to Ca<sup>2+</sup> using bromo&#x02010;A23187. Unexpectedly, our findings showed that the four oxidants significantly reduced Ca<sup>2+</sup>&#x02010;induced <styled-content style="fixed-case">PS</styled-content> exposure (by 40&#x02013;60%) with no appreciable effect on Ca<sup>2+</sup> affinity. By contrast, <styled-content style="fixed-case">NEM</styled-content> markedly increased <styled-content style="fixed-case">PS</styled-content> exposure (by about 400%) and slightly but significantly increased the affinity for Ca<sup>2+</sup>. Dithiothreitol modestly reduced <styled-content style="fixed-case">PS</styled-content> exposure (by 25%) and HOCl had no effect. These findings emphasise the importance of thiol modification for <styled-content style="fixed-case">PS</styled-content> exposure in sickle cells but suggest that increased oxidant stress alone is not important.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="bjh15441-kwd-0001">sickle cell anaemia</kwd><kwd id="bjh15441-kwd-0002">oxidants</kwd><kwd id="bjh15441-kwd-0003">thiols</kwd><kwd id="bjh15441-kwd-0004">calcium</kwd><kwd id="bjh15441-kwd-0005">phosphatidylserine exposure</kwd></kwd-group><funding-group><award-group><funding-source>British Heart Foundation</funding-source><award-id>31966</award-id></award-group></funding-group><counts><fig-count count="7"/><table-count count="0"/><page-count count="12"/><word-count count="9228"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>bjh15441</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>August 2018</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:version=5.4.7.1 mode:remove_FC converted:03.09.2018</meta-value></custom-meta></custom-meta-group></article-meta></front><body><p>Sickle cell anaemia (SCA) is one of the commonest severe inherited disorders affecting millions of people worldwide, including some 12&#x000a0;000&#x02013;15&#x000a0;000 in the UK (Piel <italic>et&#x000a0;al</italic>, <xref rid="bjh15441-bib-0060" ref-type="ref">2013</xref>). Although the aetiology has been known for over 60&#x000a0;years, the condition remains refractory to effective therapy, which is largely supportive. Whilst hydroxycarbamide has been identified as useful for patients with more severe symptoms, its use is not without complications and more effective treatments are keenly sought. Lack of a detailed understanding of the pathogenesis of SCA represents a major impediment to progress. Occlusion of small blood vessels, tissue ischaemia and organ damage, as well as the chronic anaemia, are important features of the condition. Through its pro&#x02010;thrombotic and pro&#x02010;phagocytic activities, red cell phosphatidylserine (PS) may participate in vascular occlusion and destruction of red cells (Hebbel, <xref rid="bjh15441-bib-0027" ref-type="ref">1991</xref>; Boas <italic>et&#x000a0;al</italic>, <xref rid="bjh15441-bib-0010" ref-type="ref">1998</xref>; Setty <italic>et&#x000a0;al</italic>, <xref rid="bjh15441-bib-0066" ref-type="ref">2002</xref>; Steffen <italic>et&#x000a0;al</italic>, <xref rid="bjh15441-bib-0070" ref-type="ref">2011</xref>). This paper concerns the mechanism of red cell PS exposure and the role of oxidative damage in sickle cell disease. Understanding this aspect has clear clinical implications, with increased understanding of triggers for the the vaso&#x02010;occlusive and haemolytic complications in SCA. In addition, if the mechanisms leading to PS exposure are clarified, findings may suggest potential chemotherapeutic measures to reduce PS exposure and ameliorate some of the clinical complications of SCA.</p><p>Phosphatidylserine is usually confined to the inner leaflet of the lipid bilayer in red cell membranes (Kuypers, <xref rid="bjh15441-bib-0035" ref-type="ref">1998</xref>; Haest, <xref rid="bjh15441-bib-0026" ref-type="ref">2003</xref>). By analogy to apoptosis in nucleated cells, the process of PS exposure in red cells and their subsequent removal from the circulation by macrophages, has been termed eryptosis (Lang <italic>et&#x000a0;al</italic>, <xref rid="bjh15441-bib-0038" ref-type="ref">2006</xref>). In SCA, a high, but variable proportion of red cells shows PS exposure (Tait &#x00026; Gibson, <xref rid="bjh15441-bib-0071" ref-type="ref">1994</xref>; Kuypers <italic>et&#x000a0;al</italic>, <xref rid="bjh15441-bib-0036" ref-type="ref">1996</xref>; de Jong <italic>et&#x000a0;al</italic>, <xref rid="bjh15441-bib-0033" ref-type="ref">2001</xref>; Weiss <italic>et&#x000a0;al</italic>, <xref rid="bjh15441-bib-0074" ref-type="ref">2012</xref>), which further increases upon deoxygenation, haemoglobin polymerisation and the sickling shape change (Lubin <italic>et&#x000a0;al</italic>, <xref rid="bjh15441-bib-0042" ref-type="ref">1981</xref>; Blumenfeld <italic>et&#x000a0;al</italic>, <xref rid="bjh15441-bib-0009" ref-type="ref">1991</xref>; Weiss <italic>et&#x000a0;al</italic>, <xref rid="bjh15441-bib-0074" ref-type="ref">2012</xref>; Cytlak <italic>et&#x000a0;al</italic>, <xref rid="bjh15441-bib-0014" ref-type="ref">2013</xref>). This red cell lipid scrambling may therefore participate in the pathogenesis of SCA, and contribute to both the chronic anaemia and the acute ischaemic episodes characteristic of the condition (Rees <italic>et&#x000a0;al</italic>, <xref rid="bjh15441-bib-0062" ref-type="ref">2010</xref>), and is thus central to the clinical progression of the disease.</p><p>In mature red cells, two transport processes predominate in the maintenance of PS asymmetry: an ATP&#x02010;dependent aminophospholipid translocase (or &#x0201c;flippase&#x0201d;), which moves PS from the outer to the inner leaflet of the membrane, and a Ca<sup>2+</sup>&#x02010;dependent scrambling process (or &#x0201c;scramblase&#x0201d;), which moves PS in either direction (Haest, <xref rid="bjh15441-bib-0026" ref-type="ref">2003</xref>; Bevers &#x00026; Williamson, <xref rid="bjh15441-bib-0006" ref-type="ref">2010</xref>). Rapid PS exposure in mature red cells requires activation of the scramblase together with inhibition of the flippase (Haest, <xref rid="bjh15441-bib-0026" ref-type="ref">2003</xref>; Barber <italic>et&#x000a0;al</italic>, <xref rid="bjh15441-bib-0003" ref-type="ref">2009</xref>). Elevation of intracellular Ca<sup>2+</sup> can elicit both these processes (Williamson <italic>et&#x000a0;al</italic>, <xref rid="bjh15441-bib-0075" ref-type="ref">1992</xref>; Basse <italic>et&#x000a0;al</italic>, <xref rid="bjh15441-bib-0005" ref-type="ref">1996</xref>; Woon <italic>et&#x000a0;al</italic>, <xref rid="bjh15441-bib-0077" ref-type="ref">1999</xref>; Haest, <xref rid="bjh15441-bib-0026" ref-type="ref">2003</xref>; Bevers &#x00026; Williamson, <xref rid="bjh15441-bib-0006" ref-type="ref">2010</xref>). Flippase inhibition is generally considered to be more sensitive to Ca<sup>2+</sup> (Bitbol <italic>et&#x000a0;al</italic>, <xref rid="bjh15441-bib-0008" ref-type="ref">1987</xref>; Basse <italic>et&#x000a0;al</italic>, <xref rid="bjh15441-bib-0005" ref-type="ref">1996</xref>; Kamp <italic>et&#x000a0;al</italic>, <xref rid="bjh15441-bib-0034" ref-type="ref">2001</xref>; Bevers &#x00026; Williamson, <xref rid="bjh15441-bib-0006" ref-type="ref">2010</xref>) although more recent work suggests that, in fact, lipid scrambling is activated at similar Ca<sup>2+</sup> concentrations to flippase inhibition (Weiss <italic>et&#x000a0;al</italic>, <xref rid="bjh15441-bib-0074" ref-type="ref">2012</xref>; Cytlak <italic>et&#x000a0;al</italic>, <xref rid="bjh15441-bib-0014" ref-type="ref">2013</xref>). Nevertheless, our understanding of the conditions and mechanisms of PS exposure in red cells from SCA patients remains incomplete.</p><p>Other mechanisms may also participate in PS exposure. Thus, recently, the expulsion of membrane&#x02010;bound organelles by autophagy during maturation of erythrocyte precursors has been shown to result in punctuate externalised PS localised to discrete patches (Mankelow <italic>et&#x000a0;al</italic>, <xref rid="bjh15441-bib-0043" ref-type="ref">2015</xref>). Furthermore, PS may be expelled as microvesicles. The involvement of these particles in the pathogenesis of SCA and other conditions has been widely postulated (Piccin <italic>et&#x000a0;al</italic>, <xref rid="bjh15441-bib-0056" ref-type="ref">2007</xref>, <xref rid="bjh15441-bib-0057" ref-type="ref">2015a</xref>, <xref rid="bjh15441-bib-0059" ref-type="ref">2017</xref>; Nebor <italic>et&#x000a0;al</italic>, <xref rid="bjh15441-bib-0052" ref-type="ref">2014</xref>).</p><p>Red cells from patients with SCA contain the abnormal haemoglobin, HbS, which is able to polymerise upon deoxygenation and thereby cause cell sickling. The subsequent alterations in red cell morphology and rheology have critical deleterious consequences for red cell function. Sickle red cells also have an abnormally high cation permeability involving three main transport processes (Lew &#x00026; Bookchin, <xref rid="bjh15441-bib-0040" ref-type="ref">2005</xref>): the KCl cotransporter, the Ca<sup>2+</sup>&#x02010;activated K<sup>+</sup> channel (or G&#x000e1;rdos channel) and an ill&#x02010;defined cation conductance (sometimes termed P<sub>sickle</sub> &#x02013; Lew <italic>et&#x000a0;al</italic>, <xref rid="bjh15441-bib-0041" ref-type="ref">1997</xref>). These transporters combine to mediate solute loss with water following osmotically. The consequent elevation of red cell HbS concentration, [HbS], has the effect of markedly reducing the lag time to HbS polymerisation following deoxygenation (Eaton &#x00026; Hofrichter, <xref rid="bjh15441-bib-0018" ref-type="ref">1987</xref>). P<sub>sickle</sub> is activated by deoxygenation, HbS polymerisation and red cell shape change (Mohandas <italic>et&#x000a0;al</italic>, <xref rid="bjh15441-bib-0046" ref-type="ref">1986</xref>). P<sub>sickle</sub>&#x02010;mediated Ca<sup>2+</sup> entry has an established role in activation of the G&#x000e1;rdos channel and may therefore increase dehydration (Rhoda <italic>et&#x000a0;al</italic>, <xref rid="bjh15441-bib-0063" ref-type="ref">1990</xref>; Lew <italic>et&#x000a0;al</italic>, <xref rid="bjh15441-bib-0041" ref-type="ref">1997</xref>). The rise in intracellular Ca<sup>2+</sup>, [Ca<sup>2+</sup>], may also play a role in lipid scrambling. Previous findings are consistent with deoxygenation&#x02010;induced Ca<sup>2+</sup> entry, predominantly via P<sub>sickle</sub>, contributing to elevation of intracellular Ca<sup>2+</sup> levels and leading to increased PS exposure (Weiss <italic>et&#x000a0;al</italic>, <xref rid="bjh15441-bib-0074" ref-type="ref">2012</xref>; Cytlak <italic>et&#x000a0;al</italic>, <xref rid="bjh15441-bib-0014" ref-type="ref">2013</xref>). Low micromolar levels of Ca<sup>2+</sup> are required (Weiss <italic>et&#x000a0;al</italic>, <xref rid="bjh15441-bib-0074" ref-type="ref">2012</xref>; Cytlak <italic>et&#x000a0;al</italic>, <xref rid="bjh15441-bib-0014" ref-type="ref">2013</xref>), which although representing a higher Ca<sup>2+</sup> affinity for scrambling than hitherto thought, still represent relatively high levels, even for deoxygenated sickle cells (Etzion <italic>et&#x000a0;al</italic>, <xref rid="bjh15441-bib-0019" ref-type="ref">1993</xref>).</p><p>Oxidative damage has long been associated with PS exposure in red cells (Jain &#x00026; Shohet, <xref rid="bjh15441-bib-0029" ref-type="ref">1984</xref>; Jain &#x00026; Williams, <xref rid="bjh15441-bib-0030" ref-type="ref">1985</xref>; Kuypers, <xref rid="bjh15441-bib-0035" ref-type="ref">1998</xref>; Lang <italic>et&#x000a0;al</italic>, <xref rid="bjh15441-bib-0037" ref-type="ref">2002</xref>, <xref rid="bjh15441-bib-0039" ref-type="ref">2012</xref>). This is particularly significant in diseases such as SCA in which vascular oxidative stress is increased (Rice&#x02010;Evans <italic>et&#x000a0;al</italic>, <xref rid="bjh15441-bib-0064" ref-type="ref">1986</xref>) with accumulations of highly reactive oxygen species (ROS) including the superoxide anion, hydrogen peroxide and the hydroxyl radical (Sies, <xref rid="bjh15441-bib-0068" ref-type="ref">1997</xref>; Chirico &#x00026; Pialoux, <xref rid="bjh15441-bib-0011" ref-type="ref">2012</xref>; Voskou <italic>et&#x000a0;al</italic>, <xref rid="bjh15441-bib-0073" ref-type="ref">2015</xref>). Myeloperoxidase released from activated neutrophils may also add to oxidant challenge in SCA, through production of hypochlorous acid (HOCl) from hydrogen peroxide (Vissers <italic>et&#x000a0;al</italic>, <xref rid="bjh15441-bib-0072" ref-type="ref">1994</xref>; Mutze <italic>et&#x000a0;al</italic>, <xref rid="bjh15441-bib-0049" ref-type="ref">2003</xref>; Zhang <italic>et&#x000a0;al</italic>, <xref rid="bjh15441-bib-0079" ref-type="ref">2013</xref>). Thiol oxidation has also been associated with both inhibition of the flippase and stimulation of the scramblase (Morrot <italic>et&#x000a0;al</italic>, <xref rid="bjh15441-bib-0048" ref-type="ref">1989</xref>; Connor &#x00026; Schroit, <xref rid="bjh15441-bib-0013" ref-type="ref">1990</xref>; Devaux &#x00026; Zachowski, <xref rid="bjh15441-bib-0017" ref-type="ref">1994</xref>; Martin &#x00026; Jesty, <xref rid="bjh15441-bib-0045" ref-type="ref">1995</xref>; de Jong &#x00026; Kuypers, <xref rid="bjh15441-bib-0031" ref-type="ref">2006</xref>). In addition, the normal antioxidant capacity of the red cell is compromised in SCA patients, with low availability of antioxidant enzymes, reduced levels of glutathione (GSH) and also of non&#x02010;enzymatic antioxidants, such as vitamins C and E (Silva <italic>et&#x000a0;al</italic>, <xref rid="bjh15441-bib-0069" ref-type="ref">2013</xref>). Oxidative damage has also been associated with deleterious effects on red cell cation balance. It causes inhibition of the plasma membrane Ca<sup>2+</sup> pump (Shalev <italic>et&#x000a0;al</italic>, <xref rid="bjh15441-bib-0067" ref-type="ref">1981</xref>; Zaidi <italic>et&#x000a0;al</italic>, <xref rid="bjh15441-bib-0078" ref-type="ref">2003</xref>), which maintains intracellular Ca<sup>2+</sup> concentrations at low levels, perhaps via interaction with calmodulin (Gao <italic>et&#x000a0;al</italic>, <xref rid="bjh15441-bib-0022" ref-type="ref">2001</xref>), and also has marked effects on red cell potassium permeability (Gibson &#x00026; Muzyamba, <xref rid="bjh15441-bib-0023" ref-type="ref">2003a</xref>,<xref rid="bjh15441-bib-0024" ref-type="ref">2003b</xref>). A randomized controlled trial has also recently shown that <sc>l</sc>&#x02010;glutamine, believed to act predominantly as an antioxidant, reduced the frequency of acute pain in SCA (Niihara <italic>et&#x000a0;al</italic>, <xref rid="bjh15441-bib-0054" ref-type="ref">2016</xref>). Taken together, these observations are indicative of an important role of oxidative stress in pathogenesis of SCA.</p><p>We therefore postulated that oxidative challenge in SCA patients may increase red cell PS scrambling and alter the Ca<sup>2+</sup> affinity of the process. We investigated the interaction between Ca<sup>2+</sup> and oxidant challenge in red cells from SCA patients. Oxidative stress was provided by extracellular and intracellular superoxide anion generating systems, nitrite and <italic>tert</italic>&#x02010;butyl hydroperoxide. The effect of thiol modifications were also investigated using <italic>N</italic>&#x02010;ethylmaleimide (NEM), dithiothreitol (DTT) and HOCl.</p><sec id="bjh15441-sec-0002"><title>Materials and methods</title><sec id="bjh15441-sec-0003"><title>Sample collection and handling</title><p>The study was approved by the National Research Ethics Committee (reference 16/LO/1309). All research was conducted with ethical approval and in accordance with the Helsinki Declaration of 1975, as revised in 2008. Consented blood samples were taken from children homozygous for SCA (HbSS), into EDTA. The study involved 37 patients (23 males) with an average age of 11&#x000b7;3&#x000a0;&#x000b1;&#x000a0;3&#x000b7;8&#x000a0;years. Nineteen patients were receiving hydroxycarbamide therapy and eighteen were not. Mean % HbF levels and reticulocyte counts were 10&#x000b7;2&#x000a0;&#x000b1;&#x000a0;5&#x000b7;1 and 13&#x000b7;2&#x000a0;&#x000b1;&#x000a0;5&#x000b7;1, respectively (all means&#x000a0;&#x000b1;&#x000a0;standard deviation [SD], <italic>n</italic>&#x000a0;=&#x000a0;37).</p></sec><sec id="bjh15441-sec-0004"><title>Chemicals, solutions, red cell preparation and full methology</title><p>The following is a brief description of the methods used. Full details of chemicals used, solutions, red cell preparation and methology are given in the Appendix&#x000a0;<xref rid="bjh15441-sup-0001" ref-type="supplementary-material">S1</xref>.</p></sec><sec id="bjh15441-sec-0005"><title>Oxidant challenge and thiol modifications</title><p>Extracellular superoxide anion (SOA) and hydrogen peroxide were generated by incubation with mixtures of hypoxanthine (HO; 2&#x000a0;mmol/l) and xanthine oxidase (XO) at concentrations up to 0&#x000b7;1&#x000a0;U/ml, a manoeuvre that is well established to provide an oxidative challenge to red cells (Baskurt <italic>et&#x000a0;al</italic>, <xref rid="bjh15441-bib-0004" ref-type="ref">1998</xref>; Rogers <italic>et&#x000a0;al</italic>, <xref rid="bjh15441-bib-0065" ref-type="ref">2009</xref>). Using data from pilot experiments, most work was carried out with a [XO] of 0&#x000b7;015&#x000a0;U/ml. Phenazine methosulphate (PMS, 0&#x000b7;01&#x02013;0&#x000b7;4&#x000a0;mmol/l) was used to generate intracellular superoxide anion. Nitrite (NO<sub>2</sub>) (to generate methaemoglobin) and <italic>tert</italic>&#x02010;butyl hydroperoxide (<italic>t</italic>BHP) (to generate peroxyl and alkoxyl derivatives) were used at concentrations of 1&#x02013;20&#x000a0;mmol/l and 0&#x000b7;05&#x02013;1&#x000b7;0&#x000a0;mmol/l, respectively. HOCl was prepared immediately before experiments and used at a final concentration of 0&#x000b7;001&#x02013;1&#x000a0;mmol/l. Red cells were incubated with oxidants for 30&#x000a0;min at 37&#x000b0;C prior to measuring PS. The thiol modifiers NEM and DTT were used at concentrations of 1&#x000a0;mmol/l and 0&#x000b7;25&#x000a0;mmol/l and red cells were pre&#x02010;incubated for 30&#x000a0;min at 37&#x000b0;C, followed by 30&#x000a0;min at 37&#x000b0;C without or with oxidants. DTT was excluded from the second incubation step to prevent red cell lysis.</p></sec><sec id="bjh15441-sec-0006"><title>Measurement of red cell oxidative stress and red cell morphology</title><p>To measure intracellular oxidative load, red cells were first loaded with CM&#x02010;H<sub>2</sub>DCF&#x02010;DA (100&#x000a0;&#x003bc;mol/l) in the dark (for 30&#x000a0;min at 37&#x000b0;C) and washed twice. On permeation into red cells, this fluorophore is hydrolysed to the non&#x02010;fluorescent di&#x02010;hydro compound which, in the presence of reactive oxygen species (ROS), is oxidized to highly fluorescent CM&#x02010;H<sub>2</sub>dichlorofluorescein (CM&#x02010;H<sub>2</sub>&#x02010;DCF). CM&#x02010;H<sub>2</sub>DCF fluorescence was measured in the FL1 channel of a BD Accuri C6 flow cytometer (Becton Dickinson, Oxford, UK). Median FL1 fluorescence was used as an indication of the magnitude of intracellular oxidative load. For each fluorescence measurement, 10&#x000a0;000 events were gated. To examine red cell morphology, cells were fixed through addition of glutaraldehyde (0&#x000b7;3%) and examined under light microscopy, typically examining several hundred cells.</p></sec><sec id="bjh15441-sec-0007"><title>Measurement of externalised PS using fluorescent lactadherin fluorescein isothiocynate (LA&#x02010;FITC)</title><p>Accessible PS was labelled with the fluorescent PS marker, LA&#x02010;FITC. Usually this marker can only gain access to exposed PS on the outer leaflet of the membrane bilayer, unless membrane integrity has been compromised. To promote lipid scrambling, red cells were incubated with the Ca<sup>2+</sup> ionophore bromo&#x02010;A23187 (6&#x000a0;&#x003bc;mol/l) to permeabilise red cells to Ca<sup>2+</sup> at various [Ca<sup>2+</sup>]<sub>o</sub>s clamped using EDTA (2&#x000a0;mmol/l). LA&#x02010;FITC was detected in the FL1 channel of a BD Accuri C6 flow cytometer using logarithmic gain (as for CM&#x02010;H<sub>2</sub>&#x02010;DCF fluorescence). For each measurement, 10&#x000a0;000 events were gated. XO, PMS and <italic>t</italic>BHP all showed various degrees of autofluorescence in unlabelled red cells in the absence of any fluorophore. It was therefore critical to choose appropriate concentrations of these oxidants that elevated intracellular ROS levels whilst keeping autofluorescence to manageable values. In all cases, compensation for the fluorescent overspill was carefully set using oxidant&#x02010;treated red cells, unlabelled with LA&#x02010;FITC. NO<sub>2</sub> showed no significant autofluorescence in the FL1 channel.</p></sec><sec id="bjh15441-sec-0008"><title>Measurement of externalised PS using a prothrombinase assay</title><p>Phosphatidylserine exposure was also assessed by generating thrombin using a prothrombinase assay, following the method of Bevers <italic>et&#x000a0;al</italic> (<xref rid="bjh15441-bib-0007" ref-type="ref">1982</xref>). Factor Va and Factor Xa (0&#x000b7;5 and 0&#x000b7;25&#x000a0;U/ml final concentration, respectively) were added, and after 2&#x000a0;min thrombin formation was initiated by adding prothrombin (1&#x000b7;1&#x000a0;&#x003bc;mol/l final concentration). After 2 and 5&#x000a0;min, red cell aliquots were removed and thrombin formation stopped by the addition of EDTA. Thrombin levels were then measured by adding the chromogenic substrate ThrombinChrom (0&#x000b7;125&#x000a0;mmol/l final concentration) with absorbance measured at 415&#x000a0;nm in an iMark microplate reader (Bio&#x02010;Rad, Hemel Hempstead, UK). In intact red cells, this thrombin assay measures only externalised PS. Additional aliquots of red cells were also lysed hypotonically through the addition of water, after which the prothrombinase assay was repeated. In lysed red cells, thrombin formation will be initiated by PS on both the inner leaflet of the membrane as well as externalised PS and thus gives a measure of total red cell PS. The assay will therefore indicate whether PS has been lost from the red cells, for example as microvesicles. Although more complicated to carry out, this prothrombinase assay has the advantage of being immune to any problems with autofluorescence or setting of positive gates in the flow cytometer.</p></sec><sec id="bjh15441-sec-0009"><title>Measurement of red cell membrane integrity</title><p>This assay used a fluorescently labelled immunoglobulin against Hb (Alexa Fluor 647 measured in FL4 of FACS) to indicate membrane integrity. Immunoglobin (molecular weight 15&#x000a0;kDa) cannot cross the red cell membrane unless its permeability barrier has been compromised, therefore labelling was taken as an indication of loss of membrane integrity. If this was the case, LA&#x02010;FITC would also be expected to gain access to the red cell interior (as well as the exterior) and therefore label PS in both the inner, as well as the outer, bilayer of the membrane. Positive LA&#x02010;FITC red cells would therefore not be restricted to those with only externalised PS. Red cells were treated with <italic>t</italic>BHP (0&#x02013;1&#x000a0;mmol/l) in high potassium HEPES&#x02010;buffered saline (HK&#x02010;HBS; pH 7&#x000b7;4) for 30&#x000a0;min at 37&#x000b0;C), washed and resuspended. Red cells were then labelled for anti&#x02010;Hb, PS and ROS, separately or in paired assays. Loss of CM&#x02010;H<sub>2</sub>DCF signal or increase in PS signal concomitant with increased anti&#x02010;Hb signal would indicate that cell integrity was compromised. Four aliquots were prepared: (i) CM&#x02010;H<sub>2</sub>DCF&#x02010;labelled only, (ii) LA&#x02010;FITC&#x02010;labelled only, (iii) dual labelled with CM&#x02010;H<sub>2</sub>DCF and Alexa Fluor 647 conjugated anti&#x02010;Hb subunit &#x003b1; immunoglobulin (1:100 dilution) and (iv) dual labelled with LA&#x02010;FITC and Alexa Fluor 647 conjugated anti&#x02010;Hb subunit &#x003b1; immunoglobulin (1:100 dilution). Red cells were pelleted, washed once, resuspended and kept on ice in the dark until flow cytometry analysis. Median CM&#x02010;H<sub>2</sub>DCF and LA&#x02010;FITC fluorescence were detected as described above. Median fluorescence of Alexa Fluor 647 conjugated anti&#x02010;Hb was detected in the FL4 channel of a BD Accuri C6 flow cytometer.</p></sec><sec id="bjh15441-sec-0010"><title>Statistics</title><p>Results are presented as means&#x000a0;&#x000b1;&#x000a0;SD or standard error of the mean (SEM) for blood samples from <italic>n</italic> different individuals. Where appropriate, comparisons were made using 2&#x02010;tailed Student's <italic>t</italic>&#x02010;tests and <italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0&#x000b7;05 was considered as significant.</p></sec></sec><sec id="bjh15441-sec-0011"><title>Results</title><sec id="bjh15441-sec-0012"><title>The effect of oxidant stress using xanthine oxidase/hypoxanthine mixtures, PMS and nitrite</title><p>Initially, three oxidants were selected to represent a range of different oxidant challenges: XO/HO (2&#x000a0;mmol/l) mixtures to generate extracellular ROS including SOA and hydrogen peroxide (Baskurt <italic>et&#x000a0;al</italic>, <xref rid="bjh15441-bib-0004" ref-type="ref">1998</xref>; Rogers <italic>et&#x000a0;al</italic>, <xref rid="bjh15441-bib-0065" ref-type="ref">2009</xref>), PMS to generate SOA intracellularly (Nishikimi <italic>et&#x000a0;al</italic>, <xref rid="bjh15441-bib-0055" ref-type="ref">1972</xref>; Maridonneau <italic>et&#x000a0;al</italic>, <xref rid="bjh15441-bib-0044" ref-type="ref">1983</xref>) and NO<sub>2</sub> which promotes formation of methaemoglobin (metHb) (Muzyamba <italic>et&#x000a0;al</italic>, <xref rid="bjh15441-bib-0050" ref-type="ref">2000</xref>).</p><p>Control experiments were carried out to establish the appropriate concentrations of oxidants for use in subsequent work using the fluorophore CM&#x02010;H<sub>2</sub>DCF to measure intracellular red cell redox state. With XO/HO mixtures, CM&#x02010;H<sub>2</sub>DCF fluorescence increased with increasing enzyme activity until it reached a plateau at 0&#x000b7;025 units XO/ml (Fig&#x000a0;<xref rid="bjh15441-fig-0001" ref-type="fig">1</xref>A). CM&#x02010;H<sub>2</sub>DCF fluorescence also showed a similar response for PMS and NO<sub>2</sub>, with plateaux fluorescence (arbitrary units) of 78&#x000a0;690&#x000a0;&#x000b1;&#x000a0;1423 (<italic>n</italic>&#x000a0;=&#x000a0;4) achieved at 0&#x000b7;1&#x000a0;mmol/l for PMS and of 89&#x000a0;325&#x000a0;&#x000b1;&#x000a0;4876 (<italic>n</italic>&#x000a0;=&#x000a0;5) at 10&#x000a0;mmol/l for NO<sub>2</sub>, and concentrations of about 0&#x000b7;05&#x000a0;mmol/l for PMS and 6&#x000a0;mmol/l for NO<sub>2</sub> required half maximal CM&#x02010;H<sub>2</sub>DCF fluorescence. The levels of oxidants therefore chosen for further work were 0&#x000b7;015&#x000a0;U/ml, 0&#x000b7;1&#x000a0;mmol/l and 10&#x000a0;mmol/l for XO, PMS and NO<sub>2</sub>, respectively.</p><fig fig-type="Figure" xml:lang="en" id="bjh15441-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Effect of xanthine oxidase and hypoxanthine (XO/HO) mixtures on accumulation of reactive oxygen species (<styled-content style="fixed-case">ROS</styled-content>) and phosphatidylserine (<styled-content style="fixed-case">PS</styled-content>) exposure in red cells from patients with sickle cell anaemia (<styled-content style="fixed-case">SCA</styled-content>). (A) Red cells were pre&#x02010;loaded with CM&#x02010;H<sub>2</sub>DCF&#x02010;DA (100&#x000a0;&#x003bc;mol/l) to measure ROS levels [as median fluorescence intensity (MFI)] or treated with the same final concentration of dimethyl sulphoxide [DMSO] (control) before incubation with hypoxanthine (HO, 2&#x000a0;mmol/l) and xanthine oxidase (XO, 0&#x02013;0&#x000b7;1&#x000a0;U/ml) mixtures for 30&#x000a0;min at 37&#x000b0;C (<italic>n</italic>&#x000a0;=&#x000a0;2). (B) Red cells were permeabilised to Ca<sup>2+</sup> with the ionophore bromo&#x02010;A23187 (6&#x000a0;&#x003bc;mol/l), and incubated in different free [Ca<sup>2+</sup>]<sub>o</sub>s, maintained using Ca<sup>2+</sup> / 2&#x000a0;mmol/l EGTA mixtures, at 0&#x000b7;5% haematocrit for 30&#x000a0;min at 37&#x000b0;C in the absence (filled circles) or presence (open circles) of HO (2&#x000a0;mmol/l)/XO (0&#x000b7;015&#x000a0;U/ml) mixtures after which externalised PS was labelled with LA&#x02010;FITC, <italic>n</italic>&#x000a0;=&#x000a0;8. PS exposure was normalised to that of control red cells at 1&#x000a0;&#x003bc;mol/l free [Ca<sup>2+</sup>]<sub>o</sub> (31&#x000b7;1&#x000a0;&#x000b1;&#x000a0;3&#x000b7;9% of total red cells). Symbols represent means&#x000a0;&#x000b1;&#x000a0;SEM for red cells from <italic>n</italic> different individuals. *<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0&#x000b7;05; **<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0&#x000b7;005.</p></caption><graphic id="nlm-graphic-1" xlink:href="BJH-182-567-g001"/></fig></sec><sec id="bjh15441-sec-0013"><title>The effect of XO/HO, PMS and NO<sub>2</sub> on PS exposure using fluorescein isothiocyanate&#x02010;conjugated lactadherin (LA&#x02010;FITC)</title><p>Phosphatidylserine was first measured by flow cytometry using LA&#x02010;FITC. If the red cell membrane remains intact, LA&#x02010;FITC will only have access to externalised PS. Red cells were loaded intracellularly with Ca<sup>2+</sup> using the ionophore bromo&#x02010;A23187 (6&#x000a0;&#x003bc;mol/l) and extracellular [Ca<sup>2+</sup>], [Ca<sup>2+</sup>]o, from 0 to 10&#x000a0;&#x003bc;mol/l, clamped using appropriate Ca<sup>2+</sup> / EGTA (2&#x000a0;mmol/l) mixtures. Under these conditions, because of the Donnan ratio, free intracellular [Ca<sup>2+</sup>], [Ca<sup>2+</sup>]<sub>i</sub> is about double that of free extracellular values (Flatman, <xref rid="bjh15441-bib-0020" ref-type="ref">1980</xref>; Muzyamba <italic>et&#x000a0;al</italic>, <xref rid="bjh15441-bib-0051" ref-type="ref">2006</xref>). Previous experiments have shown that PS exposure in Ca<sup>2+</sup> permeabilised red cells occurs when free [Ca<sup>2+</sup>]<sub>o</sub> is increased above about 0&#x000b7;1&#x000a0;&#x003bc;mol/l (Weiss <italic>et&#x000a0;al</italic>, <xref rid="bjh15441-bib-0074" ref-type="ref">2012</xref>; Cytlak <italic>et&#x000a0;al</italic>, <xref rid="bjh15441-bib-0014" ref-type="ref">2013</xref>). Similar findings were found in the present work with half maximal PS exposure observed at a free [Ca<sup>2+</sup>]<sub>o</sub> of 0&#x000b7;34&#x000a0;&#x000b1;&#x000a0;0&#x000b7;02&#x000a0;&#x003bc;mol/l (<italic>n</italic>&#x000a0;=&#x000a0;22). When red cells were simultaneously exposed to any of the first three oxidants (XO/HO mixtures, PMS or NO<sub>2</sub>), PS exposure was unaffected in the absence of Ca<sup>2+</sup> loading but significantly reduced in its presence &#x02013; to 47&#x000a0;&#x000b1;&#x000a0;5% (<italic>n</italic>&#x000a0;=&#x000a0;8, <italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0&#x000b7;005) of controls for XO/HO mixtures, 43&#x000a0;&#x000b1;&#x000a0;6% (<italic>n</italic>&#x000a0;=&#x000a0;7, <italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0&#x000b7;005) for PMS and 64&#x000a0;&#x000b1;&#x000a0;7% (<italic>n</italic>&#x000a0;=&#x000a0;9, <italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0&#x000b7;05) for NO<sub>2</sub> (all means&#x000a0;&#x000b1;&#x000a0;SEM). This effect is shown for XO/HO mixtures in Fig&#x000a0;<xref rid="bjh15441-fig-0001" ref-type="fig">1</xref>B. There were no obvious differences in the response of red cells from SCA patients treated with hydroxycarbamide, with PS exposure being reduced in the presence of oxidants by about 50% whether or not patients were treated with this drug. The effect of oxidants was also similar in red cells from normal (HbAA) individuals. For example, PMS reduced PS exposure to 43&#x000a0;&#x000b1;&#x000a0;18% (<italic>n</italic>&#x000a0;=&#x000a0;3) of control values in HbAA red cells.</p></sec><sec id="bjh15441-sec-0014"><title>The effect of XO/HO, PMS and NO<sub>2</sub> on PS exposure using prothrombinase assays</title><p>The decrease in PS exposure in the presence of these oxidants was unexpected as oxidants are generally thought to increase PS exposure in a number of cell types, including red cells from normal individuals and SCA patients (Cimen, <xref rid="bjh15441-bib-0012" ref-type="ref">2008</xref>; Mohanty <italic>et&#x000a0;al</italic>, <xref rid="bjh15441-bib-0047" ref-type="ref">2014</xref>; Voskou <italic>et&#x000a0;al</italic>, <xref rid="bjh15441-bib-0073" ref-type="ref">2015</xref>). A possible explanation lies in the ability of red cells to shed PS into the incubation media either as the free lipid or in microvesicles (Piccin <italic>et&#x000a0;al</italic>, <xref rid="bjh15441-bib-0058" ref-type="ref">2015b</xref>), which may reduce the remaining PS present on the outside of the red cell membrane despite an increase in scrambling. To test for this possibility and to gain estimates of total red cell PS levels (i.e. that present in both bilayers of the membrane) and thereby exclude possible differential PS shedding, some of the above experiments were repeated using a prothrombinase assay to quantitate for PS. Prothrombinase assays also have the advantage that they exclude any potential artefact through the ability of many oxidants to cause autofluorescence interfering with flow cytometry measurements.</p><p>Intact red cells (i.e. in which prothrombinase has access only to externalised PS) were loaded with Ca<sup>2+</sup> (using bromo&#x02010;A23187 as above). PS levels using the prothrombinase assay gave the same Ca<sup>2+</sup> dependence as that for LA&#x02010;FITC&#x02010;labelled PS (Fig&#x000a0;<xref rid="bjh15441-fig-0002" ref-type="fig">2</xref>A), with half maximal activity achieved at a free [Ca<sup>2+</sup>]<sub>o</sub> of 0&#x000b7;6&#x000a0;&#x000b1;&#x000a0;0&#x000b7;1&#x000a0;&#x003bc;mol/l. Treatment with XO/HO mixtures or PMS again inhibited PS levels by about 50% in the prothrombinase assay (Fig&#x000a0;<xref rid="bjh15441-fig-0002" ref-type="fig">2</xref>A for XO/HO mixtures over a full Ca<sup>2+</sup> titration; Fig&#x000a0;<xref rid="bjh15441-fig-0002" ref-type="fig">2</xref>B for both XO/HO mixtures and PMS at two free [Ca<sup>2+</sup>]<sub>o</sub>s of 0&#x000b7;1 and 1&#x000b7;0&#x000a0;&#x003bc;mol/l). These levels of inhibition were similar level to that observed in flow cytometry experiments using LA&#x02010;FITC to label exposed PS.</p><fig fig-type="Figure" xml:lang="en" id="bjh15441-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Prothrombinase activity in intact (A and B) or hypotonically lysed (C) red cells from patients with sickle cell anaemia. Red cells were treated as in Fig&#x000a0;<xref rid="bjh15441-fig-0001" ref-type="fig">1</xref>B with thrombin formation used as a measure of accessible phosphatidylserine (<styled-content style="fixed-case">PS</styled-content>). (A) Thrombin formation in the absence (filled circles) or presence (open circles) of HO (2&#x000a0;mmol/l)/XO (0&#x000b7;015&#x000a0;U/ml) mixtures over a range of free extra cellular [Ca<sup>2+</sup>] ([Ca<sup>2+</sup>]<sub>o</sub>; 0&#x000b7;1&#x02013;10&#x000a0;&#x003bc;mol/l), with thrombin formation per min normalised to that of control red cells at 1&#x000a0;&#x003bc;mol/l free [Ca<sup>2+</sup>]<sub>o</sub>. (B) Thrombin formation in the absence (control) or presence of HO (2&#x000a0;mmol/l)/XO (0&#x000b7;015&#x000a0;U/ml) mixtures or PMS (0&#x000b7;1&#x000a0;mmol/l), given as a percentage relative to the total value in lysed red cells at two different free [Ca<sup>2+</sup>]<sub>o</sub>s (0&#x000b7;1 and 1&#x000a0;&#x003bc;mol/l), indicative of prothrombin activity due to externalised PS present on only the outer bilayer of the red cell membrane. (C) Total thrombin formation at 0&#x000b7;1 and 1&#x000a0;&#x003bc;mol/l free [Ca<sup>2+</sup>]<sub>o</sub> in the absence and presence of HO (2&#x000a0;mmol/l)/XO (0&#x000b7;015&#x000a0;U/ml) mixtures or PMS (0&#x000b7;1&#x000a0;mmol/l) as measured by thrombin formation (in arbitrary units, AU) of hypotonically lysed red cells to give prothrombin activity of total PS present on both the inner and outer bilayers of the red cell membrane. Symbols and histograms represent means&#x000a0;&#x000b1;&#x000a0;SEM for red cells from 4 to 5 different individuals. *<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0&#x000b7;05; **<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0&#x000b7;005.</p></caption><graphic id="nlm-graphic-3" xlink:href="BJH-182-567-g002"/></fig><p>Phosphatidylserine levels were also measured in hypotonically lysed red cells using the prothrombinase assay. Hypotonic lysis allows access of the assay to PS in both bilayers of the red cell membrane and is thus a measure of total red cell PS. Under these conditions, total thrombin formation did not vary at either 0&#x000b7;1 or 1&#x000a0;&#x003bc;mol/l free [Ca<sup>2+</sup>]<sub>o</sub> when cells were compared in the absence or presence of XO/HO mixtures or PMS (Fig&#x000a0;<xref rid="bjh15441-fig-0002" ref-type="fig">2</xref>C). There was a loss of about 20% of total PS when free [Ca<sup>2+</sup>]<sub>o</sub> was raised from 0&#x000b7;1 to 1&#x000a0;&#x003bc;mol/l (Fig&#x000a0;<xref rid="bjh15441-fig-0002" ref-type="fig">2</xref>C), consistent with Ca<sup>2+</sup>&#x02010;induced PS shedding, but this reduction was similar in extent in the absence or presence of either oxidant.</p><p>From these observations, it is unlikely that the observed reduction in PS measurements in the presence of oxidants was due to an overall loss of PS through oxidant&#x02010;induced shedding into the extracellular media, excluding red cells as a possible source of PS&#x02010;containing microvesicles in response to oxidant challenge (Piccin <italic>et&#x000a0;al</italic>, <xref rid="bjh15441-bib-0056" ref-type="ref">2007</xref>; Piccin <italic>et&#x000a0;al</italic>, <xref rid="bjh15441-bib-0057" ref-type="ref">2015a</xref>) although they may participate in Ca<sup>2+</sup>&#x02010;induced PS loss.</p></sec><sec id="bjh15441-sec-0015"><title>The effect of tBHP on PS exposure</title><p>A fourth oxidant, <italic>t</italic>BHP, generates peroxyl and alkoxyl derivatives (Davies, <xref rid="bjh15441-bib-0016" ref-type="ref">1989</xref>) and has previously been reported to increase PS exposure in red cells from SCA patients &#x02013; using a concentration of up to 1&#x000a0;mmol/l in a 2&#x02010;h incubation (Lang <italic>et&#x000a0;al</italic>, <xref rid="bjh15441-bib-0037" ref-type="ref">2002</xref>). This oxidant behaved differently to the previous three. CM&#x02010;H<sub>2</sub>DCF fluorescence, indicative of oxidative load, increased with the concentration of <italic>t</italic>BHP until 0&#x000b7;3&#x000a0;mmol/l, but thereafter, at higher concentrations, fluorescence decreased markedly such that, at 0&#x000b7;75&#x000a0;mmol/l <italic>t</italic>BHP levels had fallen almost to control values (Fig&#x000a0;<xref rid="bjh15441-fig-0003" ref-type="fig">3</xref>A). With [<italic>t</italic>BHP]s of &#x02265;0&#x000b7;5&#x000a0;mmol/l, when tested with LA&#x02010;FITC, the percentage of red cells positive for LA&#x02010;FITC fluorescence did indeed increase (from 1% to 86&#x000a0;&#x000b1;&#x000a0;2% at 1&#x000a0;mmol/l <italic>t</italic>BHP) to include most of the red cell population (Fig&#x000a0;<xref rid="bjh15441-fig-0003" ref-type="fig">3</xref>B).</p><fig fig-type="Figure" xml:lang="en" id="bjh15441-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Effect of <italic>tert</italic>&#x02010;butyl hydroperoxide (<italic>t</italic>BHP) on accumulation of reactive oxygen species (<styled-content style="fixed-case">ROS</styled-content>), phosphatidylserine (<styled-content style="fixed-case">PS</styled-content>) exposure and membrane integrity in red cells from patients with sickle cell anaemia. (A) Red cells were pre&#x02010;loaded with CM&#x02010;H<sub>2</sub>DCF&#x02010;DA (100&#x000a0;&#x003bc;mol/l) to measure ROS levels or treated with the same final concentration of dimethyl sulphoxide [DMSO] (control) before incubation with <italic>t</italic>BHP (0&#x02013;1&#x000a0;mmol/l) at 0&#x000b7;5% haematocrit for 30&#x000a0;min at 37&#x000b0;C in HK&#x02010;HBS (<italic>n</italic>&#x000a0;=&#x000a0;4). (B) Red cells were double labelled with CM&#x02010;H<sub>2</sub>DCF to measure ROS levels (left ordinate) and with Alexa Fluor 647 anti&#x02010;Hb &#x003b1; chain (labelled anti&#x02010;Hb; right ordinate) to correlate ROS levels with labelling of intracellular haemoglobin (<italic>n</italic>&#x000a0;=&#x000a0;3). (C) Red cells were double labelled with LA&#x02010;FITC to measure accessible PS and (left ordinate) and with Alexa Fluor 647 anti&#x02010;Hb &#x003b1; chain (labelled anti&#x02010;Hb; right ordinate) to correlate PS labelling with that of intracellular haemoglobin (<italic>n</italic>&#x000a0;=&#x000a0;3). (D) Red cells were permeabilised to Ca<sup>2+</sup> as in Fig&#x000a0;<xref rid="bjh15441-fig-0001" ref-type="fig">1</xref>B at 0&#x000b7;5% haematocrit for 30&#x000a0;min at 37&#x000b0;C in the absence (filled circles) or presence (open circles) of <italic>t</italic>BHP (0&#x000b7;1&#x000a0;mmol/l) after which externalised PS was labelled with LA&#x02010;FITC. PS exposure was normalised to that of control red cells at 1&#x000a0;&#x003bc;mol/l free [Ca<sup>2+</sup>]<sub>o</sub> (29&#x000b7;3&#x000a0;&#x000b1;&#x000a0;3&#x000b7;4% of total red cells, <italic>n</italic>&#x000a0;=&#x000a0;7). Symbols represent means&#x000a0;&#x000b1;&#x000a0;SEM for red cells from <italic>n</italic> different individuals. *<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0&#x000b7;05; **<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0&#x000b7;005.</p></caption><graphic id="nlm-graphic-5" xlink:href="BJH-182-567-g003"/></fig><p>At high [<italic>t</italic>BHP] red cells become markedly leaky to cations (Ney <italic>et&#x000a0;al</italic>, <xref rid="bjh15441-bib-0053" ref-type="ref">1990</xref>). We postulated, therefore, that concentrations of <italic>t</italic>BHP higher than about 0&#x000b7;3&#x000a0;mmol/l may cause disintegrity of the red cell membrane and thereby account for the fall in CM&#x02010;H<sub>2</sub>DCF fluorescence. To test this hypothesis, cells were incubated with Alexa Fluor 647&#x02010;labelled anti&#x02010;Hb &#x003b1; chain immunoglobulin as well as with CM&#x02010;H<sub>2</sub>DCF&#x02010;AM and LA&#x02010;FITC. At higher levels of <italic>t</italic>BHP, CM&#x02010;H<sub>2</sub>DCF fluorescence again declined in an increasingly large population of red cells whilst the same red cells simultaneously became positive for Alexa Fluor 647 fluorescence, indicative of entry of anti&#x02010;Hb &#x003b1; chain immunoglobulin into the red cells (Fig&#x000a0;<xref rid="bjh15441-fig-0003" ref-type="fig">3</xref>C). At these higher [<italic>t</italic>BHP], PS positive red cells were also positive for anti&#x02010;Hb fluorescence (Fig&#x000a0;<xref rid="bjh15441-fig-0003" ref-type="fig">3</xref>C). That a large immunoglobulin (15&#x000a0;kDa) could gain access to the inside of the red cell implies the presence of substantial holes in the membrane that could result in the loss of red cell contents or of CM&#x02010;H<sub>2</sub>DCF itself, accounting for the fall in CM&#x02010;H<sub>2</sub>DCF fluorescence whilst access of LA&#x02010;FITC to the interior of the red cell would label PS remaining on the inside of the membrane as well as externalised PS. When <italic>t</italic>BHP concentrations were used at which red cells became positive for CM&#x02010;H<sub>2</sub>DCF fluorescence whilst remaining negative for Alexa Fluor 647 fluorescence, exposed PS labelled with LA&#x02010;FITC decreased in the presence of <italic>t</italic>BHP to 63&#x000a0;&#x000b1;&#x000a0;8% (Fig&#x000a0;<xref rid="bjh15441-fig-0003" ref-type="fig">3</xref>D; means&#x000a0;&#x000b1;&#x000a0;SEM, <italic>n</italic>&#x000a0;=&#x000a0;7, <italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0&#x000b7;005) of controls, to a similar extent to that observed for XO/HO mixtures, PMS and NO<sub>2</sub>.</p><p>The presence of <italic>t</italic>BHP also increased cell granularity, as measured by higher side scatter (SSC) values. Compared to controls, SSC was already increased significantly at 0&#x000b7;3&#x000a0;mmol/l <italic>t</italic>BHP (159&#x000a0;&#x000b1;&#x000a0;10%, <italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0&#x000b7;001, <italic>n</italic>&#x000a0;=&#x000a0;6), reaching 211&#x000a0;&#x000b1;&#x000a0;16% of control levels at 1&#x000a0;mmol/l <italic>t</italic>BHP (<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0&#x000b7;001, <italic>n</italic>&#x000a0;=&#x000a0;6). FSC also increased but changes were more variable, with a small increase to 112&#x000a0;&#x000b1;&#x000a0;3% of control levels at 1&#x000a0;mmol/l <italic>t</italic>BHP (<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0&#x000b7;005, <italic>n</italic>&#x000a0;=&#x000a0;6). By contrast, SSC and FSC varied by less than 5% when cells were exposed to either PMS or NO<sub>2</sub>. Although changes were more pronounced when using mixtures of HO and higher concentrations of XO (0&#x000b7;1&#x000a0;U/ml), they were not significant (FSC: 108&#x000a0;&#x000b1;&#x000a0;4%, SSC: 116&#x000a0;&#x000b1;&#x000a0;11%). Notwithstanding, when observed under light microscopy (20&#x000d7; magnification), there was no obvious difference in morphology between untreated red cells and those exposed to any oxidant, including <italic>t</italic>BHP (up to 1&#x000a0;mmol/l).</p></sec><sec id="bjh15441-sec-0016"><title>The effect of sulphydryl&#x02010;modifying compounds: NEM, DTT and HOCl</title><p>Exposure of red cells to the sulphydryl oxidising reagent NEM (1&#x000a0;mmol/l) has been shown to stimulate PS exposure in human and mouse red cells through inhibiting the flippase and activating the scramblase (Connor &#x00026; Schroit, <xref rid="bjh15441-bib-0013" ref-type="ref">1990</xref>; Martin &#x00026; Jesty, <xref rid="bjh15441-bib-0045" ref-type="ref">1995</xref>; Kamp <italic>et&#x000a0;al</italic>, <xref rid="bjh15441-bib-0034" ref-type="ref">2001</xref>; de Jong &#x00026; Kuypers, <xref rid="bjh15441-bib-0031" ref-type="ref">2006</xref>). This compound was tested here in Ca<sup>2+</sup>&#x02010;clamped red cells from SCA patients. PS exposure was increased markedly in the presence of NEM (1&#x000a0;mmol/l), by about 400%, with the Ca<sup>2+</sup> affinity of scramblase increasing from a 50% maximal response (EC<sub>50</sub>) value of 0&#x000b7;4&#x000a0;&#x000b1;&#x000a0;0&#x000b7;07 to 0&#x000b7;26&#x000a0;&#x000b1;&#x000a0;0&#x000b7;03&#x000a0;&#x003bc;mol/l free [Ca<sup>2+</sup>]<sub>o</sub> (<italic>n</italic>&#x000a0;=&#x000a0;6, <italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0&#x000b7;03) (Fig&#x000a0;<xref rid="bjh15441-fig-0004" ref-type="fig">4</xref>A). Interestingly, the CMH<sub>2</sub>DCF signal in the presence of 1&#x000a0;mmol/l NEM increased by only 2&#x02010;fold compared to that in untreated red cells, to a much lower level of that obtained with the other oxidant, showing that this thiol reagent had little effect on intracellular ROS levels. In the presence of DTT (0&#x000b7;25&#x000a0;mmol/l), which protects thiol groups from oxidation, PS exposure was reduced by about 25% (Fig&#x000a0;<xref rid="bjh15441-fig-0004" ref-type="fig">4</xref>B), with no change in Ca<sup>2+</sup> dependence of the scrambling process.</p><fig fig-type="Figure" xml:lang="en" id="bjh15441-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Effect of thiol modification on phosphatidylserine (<styled-content style="fixed-case">PS</styled-content>) exposure of red cells from sickle cell anaemia patients. Red cells were pre&#x02010;incubated at 4% haematocrit in the absence (solid circles) or presence (open circles) of <italic>N</italic>&#x02010;ethylmaleimide (NEM) and dithiothreitol (DTT), then permeabilised to Ca<sup>2+</sup> as in Fig&#x000a0;<xref rid="bjh15441-fig-0001" ref-type="fig">1</xref>B for 30&#x000a0;min at 37&#x000b0;C, after which accessible PS was labelled with LA&#x02010;FITC. (A) Effect of NEM (1&#x000a0;mmol/l) on PS exposure (<italic>n</italic>&#x000a0;=&#x000a0;8); (B) Effect of DTT (0&#x000b7;25&#x000a0;mmol/l) on PS exposure (<italic>n</italic>&#x000a0;=&#x000a0;10). PS exposure was normalised to that of control red cells (in the absence of thiol modifiers) at 1&#x000a0;&#x003bc;mol/l free [Ca<sup>2+</sup>]<sub>o</sub> (NEM control: 21&#x000b7;2&#x000a0;&#x000b1;&#x000a0;4&#x000b7;7%, DTT control: 24&#x000b7;3&#x000a0;&#x000b1;&#x000a0;4&#x000b7;6% of total red cells). Symbols represent means&#x000a0;&#x000b1;&#x000a0;SEM for red cells from <italic>n</italic> different individuals. *<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0&#x000b7;05; **<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0&#x000b7;005.</p></caption><graphic id="nlm-graphic-7" xlink:href="BJH-182-567-g004"/></fig><p>The final oxidative manoeuvre tested was exposure HOCl. This oxidant is produced by myeloperoxidase, released from activated neutrophils, which are important mediators of vascular inflammation in SCA. Like NEM, HOCl may also react with membrane thiols. At higher concentrations of HOCl, the red cell oxidant load measured using CMH<sub>2</sub>DCF achieved a similar level to that obtained with other oxidants although no plateau was observed (Fig&#x000a0;<xref rid="bjh15441-fig-0005" ref-type="fig">5</xref>A). The effect of HOCl on PS exposure measured using LA&#x02010;FITC was tested at concentrations up to 500&#x000a0;&#x003bc;mol/l, however, no effect was observed when compared with untreated red cells (Fig&#x000a0;<xref rid="bjh15441-fig-0005" ref-type="fig">5</xref>B).</p><fig fig-type="Figure" xml:lang="en" id="bjh15441-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>Effect of hypochlorous acid (HOCl) on phosphatidylserine (PS) exposure of red cells from sickle cell anaemia patients. (A) Red cells were pre&#x02010;loaded with CM&#x02010;H<sub>2</sub>DCF&#x02010;DA (100&#x000a0;&#x003bc;mol/l) or treated with the same final [DMSO] before incubation with HOCl (500&#x000a0;&#x003bc;mol/l) at 0&#x000b7;5% haematocrit for 30&#x000a0;min at 37&#x000b0;C in HK&#x02010;HBS (<italic>n</italic>&#x000a0;=&#x000a0;3). (B) Red cells were permeabilised to Ca<sup>2+</sup> as in Fig&#x000a0;<xref rid="bjh15441-fig-0001" ref-type="fig">1</xref>B at 0&#x000b7;5% haematocrit for 30&#x000a0;min at 37&#x000b0;C in the absence (full circles) or presence (open circles) of HOCl (500&#x000a0;&#x003bc;mol/l) after which accessible PS was labelled with LA&#x02010;FITC (<italic>n</italic>&#x000a0;=&#x000a0;6). PS exposure was normalised to that of control red cells at 1&#x000a0;&#x003bc;mol/l free [Ca<sup>2+</sup>]<sub>o</sub> (32&#x000a0;&#x000b1;&#x000a0;5&#x000b7;4% of total red cells). Symbols represent means&#x000a0;&#x000b1;&#x000a0;SEM for red cells from <italic>n</italic> different individuals.</p></caption><graphic id="nlm-graphic-9" xlink:href="BJH-182-567-g005"/></fig></sec></sec><sec id="bjh15441-sec-0017"><title>Discussion</title><p>Surprisingly, the present findings show that a number of oxidants &#x02013; xanthine oxidase/hypoxanthine (XO/HO) mixture, PMS, NO<sub>2</sub> and <italic>t</italic>BHP &#x02013; inhibited Ca<sup>2+</sup>&#x02010;induced PS exposure in red cells from patients with SCA, with little effect on its Ca<sup>2+</sup> dependence. In contrast, thiol oxidation with NEM markedly stimulated lipid scrambling with increase in Ca<sup>2+</sup> affinity, whilst protection of reduced thiols with DTT inhibited PS exposure. HOCl, however, was without effect.</p><p>Red cell PS exposure is observed in numerous pathological conditions, including SCA, in which a significant, but variable (2&#x02013;10%), percentage of circulating red cells are positive for externalised PS (Wood <italic>et&#x000a0;al</italic>, <xref rid="bjh15441-bib-0076" ref-type="ref">1996</xref>; Kuypers, <xref rid="bjh15441-bib-0035" ref-type="ref">1998</xref>; de Jong <italic>et&#x000a0;al</italic>, <xref rid="bjh15441-bib-0033" ref-type="ref">2001</xref>; Dasgupta &#x00026; Thiagarajan, <xref rid="bjh15441-bib-0015" ref-type="ref">2005</xref>; Cytlak <italic>et&#x000a0;al</italic>, <xref rid="bjh15441-bib-0014" ref-type="ref">2013</xref>). SCA is associated with increased oxidative stress, neutrophil leucocytosis and vascular endothelial dysfunction, all of which are also associated with increased PS exposure (Jain, <xref rid="bjh15441-bib-0028" ref-type="ref">1985</xref>; Hebbel, <xref rid="bjh15441-bib-0027" ref-type="ref">1991</xref>; Kuypers, <xref rid="bjh15441-bib-0035" ref-type="ref">1998</xref>; Mutze <italic>et&#x000a0;al</italic>, <xref rid="bjh15441-bib-0049" ref-type="ref">2003</xref>; Banerjee &#x00026; Kuypers, <xref rid="bjh15441-bib-0002" ref-type="ref">2004</xref>; Zhang <italic>et&#x000a0;al</italic>, <xref rid="bjh15441-bib-0079" ref-type="ref">2013</xref>). Recent reviews have reinforced the view that ROS are actively involved in lipid scrambling in SCA (Cimen, <xref rid="bjh15441-bib-0012" ref-type="ref">2008</xref>; Mohanty <italic>et&#x000a0;al</italic>, <xref rid="bjh15441-bib-0047" ref-type="ref">2014</xref>; Voskou <italic>et&#x000a0;al</italic>, <xref rid="bjh15441-bib-0073" ref-type="ref">2015</xref>), with limited experimental evidence supporting this assumption. Aside from thiol modification with NEM (de Jong &#x00026; Kuypers, <xref rid="bjh15441-bib-0031" ref-type="ref">2006</xref>), however, definitive evidence for stimulation of PS exposure by oxidant challenge is scant.</p><p>We used four different oxidant treatments (XO/HO mixtures, PMS, NO<sub>2</sub> and <italic>t</italic>BHP) to investigate their effects on PS exposure in red cells from SCA patients. These particular oxidants were chosen because of the qualitative differences in oxidative challenge that they present to the red cell. XO/HO mixtures generate SOA and hydrogen peroxide extracellularly (Baskurt <italic>et&#x000a0;al</italic>, <xref rid="bjh15441-bib-0004" ref-type="ref">1998</xref>; Rogers <italic>et&#x000a0;al</italic>, <xref rid="bjh15441-bib-0065" ref-type="ref">2009</xref>), whilst PMS generates SOA intracellularly (Nishikimi <italic>et&#x000a0;al</italic>, <xref rid="bjh15441-bib-0055" ref-type="ref">1972</xref>; Maridonneau <italic>et&#x000a0;al</italic>, <xref rid="bjh15441-bib-0044" ref-type="ref">1983</xref>); NO<sub>2</sub> oxidises Hb to metHb (Muzyamba <italic>et&#x000a0;al</italic>, <xref rid="bjh15441-bib-0050" ref-type="ref">2000</xref>); <italic>t</italic>BHP increases generation of peroxyl and alkoxyl free radicals (Davies, <xref rid="bjh15441-bib-0016" ref-type="ref">1989</xref>); whilst HOCl produced by myeloperoxidase released from neutorphils may also oxidise membrane thiols (Vissers <italic>et&#x000a0;al</italic>, <xref rid="bjh15441-bib-0072" ref-type="ref">1994</xref>; Gorudko <italic>et&#x000a0;al</italic>, <xref rid="bjh15441-bib-0025" ref-type="ref">2016</xref>). Red cell PS exposure is most reliably stimulated by elevation of intracellular Ca<sup>2+</sup> (Bevers &#x00026; Williamson, <xref rid="bjh15441-bib-0006" ref-type="ref">2010</xref>) whilst a number of oxidants have previously been shown to increase red cell cation permeability (Gibson &#x00026; Muzyamba, <xref rid="bjh15441-bib-0023" ref-type="ref">2003a</xref>,<xref rid="bjh15441-bib-0024" ref-type="ref">2003b</xref>). We therefore hypothesised that oxidants may act synergistically with intracellular Ca<sup>2+</sup> to increase PS exposure and alter its Ca<sup>2+</sup> affinity, thereby accounting for the raised percentage of PS&#x02010;positive red cells in SCA patients. Under the experimental conditions used, however, instead of stimulating PS exposure, we found that these oxidants produced significant inhibitory effects on PS exposure (by about 40&#x02013;60%) with no apparent change in Ca<sup>2+</sup> dependence. These findings are summarised in Fig&#x000a0;<xref rid="bjh15441-fig-0006" ref-type="fig">6</xref>.</p><fig fig-type="Figure" xml:lang="en" id="bjh15441-fig-0006" orientation="portrait" position="float"><label>Figure 6</label><caption><p>Schematic digram of stimuli affecting phosphatidylserine (<styled-content style="fixed-case">PS</styled-content>) distribution in red cells from patients with sickle cell anaemia. (A) (i) PS is usually confined to the inner leaflet of the lipid bilayer of red cells including sickle cells through high activity of the flippase and low activity of the scramblase, as externalisation is prothrombotic and increases phagocytosis; (ii) elevation of intracellular Ca<sup>2+</sup> ([Ca<sup>2+</sup>]<sub>i</sub>) via the deoxygenation&#x02010;induced cation conductance (or P<sub>sickle</sub>) or via ionophore promotes PS exposure increasing the possibility of microvascular occlusion; (iii) the effect of oxidants either from within the sickle cell or from the circulation is uncertain. (B) (i) As before, entry of Ca<sup>2+</sup> increases PS exposure; (ii) most oxidants (xanthine oxidase/hypoxanthine mixtures, nitrite, phenazine methosulphate) actually reduced Ca<sup>2+</sup>&#x02010;induced PS exposure by about 50% and would reduce thrombosis; (iii) the exception was thiol oxidation which markedly increased externalisation of PS. &#x025cf;, known PS distribution; <inline-graphic xlink:href="BJH-182-567-g008.jpg" xlink:title="image"/>, PS distribution unknown.</p></caption><graphic id="nlm-graphic-11" xlink:href="BJH-182-567-g006"/></fig><p>Oxidants are also associated with PS shedding and microvesiculation (Piccin <italic>et&#x000a0;al</italic>, <xref rid="bjh15441-bib-0056" ref-type="ref">2007</xref>, <xref rid="bjh15441-bib-0058" ref-type="ref">2015b</xref>; Freikman <italic>et&#x000a0;al</italic>, <xref rid="bjh15441-bib-0021" ref-type="ref">2008</xref>; Alaarg <italic>et&#x000a0;al</italic>, <xref rid="bjh15441-bib-0001" ref-type="ref">2013</xref>) and it was possible that reduced PS levels on the outer bilayer of the red cell membrane could be due to its loss into the incubation media, notwithstanding an increase in lipid scrambling. PS may be lost as microvesicles, which have been proposed as a biomarker for SCA severity (Piccin <italic>et&#x000a0;al</italic>, <xref rid="bjh15441-bib-0057" ref-type="ref">2015a</xref>). Total thrombin formation in permeabilised red cells (using hypotonic lysis) were similar in controls and after oxidant challenge, however, which makes it unlikely that large reductions in labelled PS on the outer bilayer (up to 65%) could result from PS shedding. Microvesicles may, however, be formed in response to Ca<sup>2+</sup>&#x02010;induced PS scrambling. The mechanisms by which oxidants decrease PS exposure are unclear, although membrane lipid and protein damage, for example by peroxidation, may specifically inhibit the scrambling protein transporter. Conversely, lipid peroxidation may reduce the ability of the scramblase to translocate PS through the lipid bilayer.</p><p>The one manoeuvre which did increase PS exposure markedly was incubation with NEM to cause thiol oxidation (Fig&#x000a0;<xref rid="bjh15441-fig-0006" ref-type="fig">6</xref>). Thiol reactions are known affect the activities of the flippase and scramblase (Connor &#x00026; Schroit, <xref rid="bjh15441-bib-0013" ref-type="ref">1990</xref>; Martin &#x00026; Jesty, <xref rid="bjh15441-bib-0045" ref-type="ref">1995</xref>; Kamp <italic>et&#x000a0;al</italic>, <xref rid="bjh15441-bib-0034" ref-type="ref">2001</xref>). NEM has previously been shown to increase scrambling in normal human and mice red cells (Kamp <italic>et&#x000a0;al</italic>, <xref rid="bjh15441-bib-0034" ref-type="ref">2001</xref>; de Jong &#x00026; Kuypers, <xref rid="bjh15441-bib-0031" ref-type="ref">2006</xref>) and our experiments confirm this effect in red cells from SCA patients. An important difference with previous work, however, is that we observe marked effects on PS exposure at two orders of magnitude lower Ca<sup>2+</sup> concentrations. PS exposure began with elevation of red cell Ca<sup>2+</sup> concentration to about 100&#x02013;200&#x000a0;nmol/l. In the opposite way, reduction of thiols by DTT reduced scrambling, as seen previously for pyridyldithioethylamine (de Jong &#x00026; Kuypers, <xref rid="bjh15441-bib-0031" ref-type="ref">2006</xref>). Alterations in Ca<sup>2+</sup> affinity in our hands were modest but there was a slight increase in the presence of NEM, in contrast to previous work (de Jong &#x00026; Kuypers, <xref rid="bjh15441-bib-0031" ref-type="ref">2006</xref>) (cf. de Jong <italic>et&#x000a0;al</italic>, <xref rid="bjh15441-bib-0032" ref-type="ref">1997</xref>) but note the difference in haematocrit). The action of DTT <italic>in&#x000a0;vitro</italic> suggests that circulating sickle cells are already deprived of reduced thiols (Kamp <italic>et&#x000a0;al</italic>, <xref rid="bjh15441-bib-0034" ref-type="ref">2001</xref>). Indeed, sickle cells are reported to contain lower levels of membrane thiols (Rank <italic>et&#x000a0;al</italic>, <xref rid="bjh15441-bib-0061" ref-type="ref">1985</xref>; Rice&#x02010;Evans <italic>et&#x000a0;al</italic>, <xref rid="bjh15441-bib-0064" ref-type="ref">1986</xref>). HOCl also reacts with membrane thiols. However, although giving a similar level of oxidant challenge to the red cell, as assessed using CMH<sub>2</sub>DCF, HOCl had no effect on Ca<sup>2+</sup>&#x02010;induced PS exposure. The lack of effect of HOCl suggests that NEM is able to gain access to key targets which are unavailable to HOCl. Nevertheless, it is likely that thiol modification accounts for the greater percentage of circulating sickle cells positive for PS.</p><p>Finally, red cells from SCA patients have been previously described to show increased PS exposure on incubation with <italic>t</italic>BHP (Lang <italic>et&#x000a0;al</italic>, <xref rid="bjh15441-bib-0037" ref-type="ref">2002</xref>). The concentrations used in this previous report were up to 1&#x000a0;mmol/l, however, with an incubation time of 2&#x000a0;h, after which all red cells were positive for PS (labelled using FITC&#x02010; annexin V). Our findings that red cells treated with similar concentrations of <italic>t</italic>BHP become positive to fluorescently&#x02010;labelled antibodies to Hb &#x003b1; chain within 30&#x000a0;min suggest that membrane disintegrity occurs at these higher concentrations and that the PS label can gain access to cytoplasmic PS as well as externalised PS (Fig&#x000a0;<xref rid="bjh15441-fig-0007" ref-type="fig">7</xref>). This hypothesis is supported by previous observations that large cation leaks are induced in red cells at higher [<italic>t</italic>BHP] (Ney <italic>et&#x000a0;al</italic>, <xref rid="bjh15441-bib-0053" ref-type="ref">1990</xref>).</p><fig fig-type="Figure" xml:lang="en" id="bjh15441-fig-0007" orientation="portrait" position="float"><label>Figure 7</label><caption><p>Schematic diagram of the effect of <italic>tert</italic>&#x02010;butyl hydroperoxide (<italic>t</italic>BHP) on red cells from patients with sickle cell anaemia. (i) <italic>t</italic>BHP is thought to increase phosphatidylserine (PS) exposure but relatively high concentrations have been used, which may disrupt the integrity of the membrane; (ii) in the presence of high <italic>t</italic>BHP more PS was labelled, but the ability of anti&#x02010;Hb IgG to label intracellular Hb suggests that this was because loss of membrane integrity allowed labelling of both inner leaflet PS as well as externalised PS; (iii) by contrast, with lower <italic>t</italic>BHP concentrations that do not allow entry of anti&#x02010;Hb IgG, PS exposure was reduced by 50%, as for the other oxidants (in Fig&#x000a0;<xref rid="bjh15441-fig-0001" ref-type="fig">1</xref>b). &#x025cf;, known PS distribution; <inline-graphic xlink:href="BJH-182-567-g009.jpg" xlink:title="image"/>, PS distribution unknown.</p></caption><graphic id="nlm-graphic-13" xlink:href="BJH-182-567-g007"/></fig><p>In conclusion, the experiments described in the present work show that a number of different oxidants (XO/HO mixtures, PMS, NO<sub>2</sub> and <italic>t</italic>BHP) reduced Ca<sup>2+</sup>&#x02010;induced PS exposure in red cells from SCA patients. Thiol oxidation by NEM was confirmed to increase PS exposure, whilst thiol reduction using DTT decreased it, consistent with the postulate that thiol oxidation <italic>in&#x000a0;vivo</italic> contributes to increased numbers of PS&#x02010;positive red cells in SCA patients. These findings are particularly relevant to the ability of oxidative stress in the circulation <italic>in&#x000a0;vivo</italic> in SCA patients to participate in thrombus formation, vascular occlusion and tissue ischaemia via mechanisms involving red cell PS, and demonstrate the complexity of the pathophysiology of sickle cell disease. This study gives important new information on the complex role of oxidative stress in the pathophysiology of sickle cell disease and suggests that the effects may vary depending on the precise nature of the oxidants and their physiological context.</p></sec><sec id="bjh15441-sec-0019"><title>Conflicts of interest</title><p>There are no conflicts of interest.</p></sec><sec id="bjh15441-sec-0020"><title>Author contributions</title><p>Most experiments were carried out by AH with some assistance from AN and BL; DCR and JSG designed the study; JNB and DCR acquired samples; AH and AN analysed the data; JSG, DCR, JNB and AH prepared the manuscript.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="bjh15441-sup-0001"><caption><p>
+<bold>Appendix&#x000a0;S1.</bold> Materials and methods.</p></caption><media xlink:href="BJH-182-567-s001.doc"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="bjh15441-sec-0018"><title>Acknowledgments</title><p>We thank the British Heart Foundation for generous financial support (grant number 31966).</p></ack><ref-list content-type="cited-references" id="bjh15441-bibl-0001"><title>References</title><ref id="bjh15441-bib-0001"><mixed-citation publication-type="journal" id="bjh15441-cit-0001">
+<string-name>
+<surname>Alaarg</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Schiffelers</surname>, <given-names>R.M.</given-names>
+</string-name>, <string-name>
+<surname>van Solinge</surname>, <given-names>W.W.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>van Wijk</surname>, <given-names>R.</given-names>
+</string-name> (<year>2013</year>) <article-title>Red blood cell vesiculation in hereditary hemolytic anemia</article-title>. <source xml:lang="en">Frontiers in Physiology</source>, <volume>4</volume>, <fpage>1</fpage>&#x02013;<lpage>15</lpage>.<pub-id pub-id-type="pmid">23372552</pub-id></mixed-citation></ref><ref id="bjh15441-bib-0002"><mixed-citation publication-type="journal" id="bjh15441-cit-0002">
+<string-name>
+<surname>Banerjee</surname>, <given-names>T.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Kuypers</surname>, <given-names>F.A.</given-names>
+</string-name> (<year>2004</year>) <article-title>Reactive oxygen species and phosphatidylserine externalization in murine sickle red cells</article-title>. <source xml:lang="en">British Journal of Haematology</source>, <volume>124</volume>, <fpage>391</fpage>&#x02013;<lpage>402</lpage>.<pub-id pub-id-type="pmid">14717789</pub-id></mixed-citation></ref><ref id="bjh15441-bib-0003"><mixed-citation publication-type="journal" id="bjh15441-cit-0003">
+<string-name>
+<surname>Barber</surname>, <given-names>L.A.</given-names>
+</string-name>, <string-name>
+<surname>Palascak</surname>, <given-names>M.B.</given-names>
+</string-name>, <string-name>
+<surname>Joiner</surname>, <given-names>C.H.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Franco</surname>, <given-names>R.S.</given-names>
+</string-name> (<year>2009</year>) <article-title>Aminophospholipid translocase and phospholipid scramblase activities in sickle erythrocyte subpopulations</article-title>. <source xml:lang="en">British Journal of Haematology</source>, <volume>146</volume>, <fpage>447</fpage>&#x02013;<lpage>455</lpage>.<pub-id pub-id-type="pmid">19549270</pub-id></mixed-citation></ref><ref id="bjh15441-bib-0004"><mixed-citation publication-type="journal" id="bjh15441-cit-0004">
+<string-name>
+<surname>Baskurt</surname>, <given-names>O.K.</given-names>
+</string-name>, <string-name>
+<surname>Temiz</surname>, <given-names>A.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Meiselman</surname>, <given-names>H.J.</given-names>
+</string-name> (<year>1998</year>) <article-title>Effect of superoxide anions on red blood cell rheologic properties</article-title>. <source xml:lang="en">Free Radical Biology and Medicine</source>, <volume>24</volume>, <fpage>102</fpage>&#x02013;<lpage>110</lpage>.<pub-id pub-id-type="pmid">9436619</pub-id></mixed-citation></ref><ref id="bjh15441-bib-0005"><mixed-citation publication-type="journal" id="bjh15441-cit-0005">
+<string-name>
+<surname>Basse</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Stout</surname>, <given-names>J.G.</given-names>
+</string-name>, <string-name>
+<surname>Sims</surname>, <given-names>P.J.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Wiedmer</surname>, <given-names>T.</given-names>
+</string-name> (<year>1996</year>) <article-title>Isolation of an erythrocyte membrane protein that mediates Ca<sup>2+</sup>&#x02010;dependent transbilayer movement of phospholipid</article-title>. <source xml:lang="en">Journal of Biological Chemistry</source>, <volume>271</volume>, <fpage>17205</fpage>&#x02013;<lpage>17210</lpage>.<pub-id pub-id-type="pmid">8663431</pub-id></mixed-citation></ref><ref id="bjh15441-bib-0006"><mixed-citation publication-type="journal" id="bjh15441-cit-0006">
+<string-name>
+<surname>Bevers</surname>, <given-names>E.M.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Williamson</surname>, <given-names>P.L.</given-names>
+</string-name> (<year>2010</year>) <article-title>Phospholipid scrambling: an update</article-title>. <source xml:lang="en">FEBS Letters</source>, <volume>584</volume>, <fpage>2724</fpage>&#x02013;<lpage>2730</lpage>.<pub-id pub-id-type="pmid">20302864</pub-id></mixed-citation></ref><ref id="bjh15441-bib-0007"><mixed-citation publication-type="journal" id="bjh15441-cit-0007">
+<string-name>
+<surname>Bevers</surname>, <given-names>E.M.</given-names>
+</string-name>, <string-name>
+<surname>Comfuriius</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Van Rijn</surname>, <given-names>J.L.M.L.</given-names>
+</string-name>, <string-name>
+<surname>Hemker</surname>, <given-names>H.C.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Zwaal</surname>, <given-names>R.F.A.</given-names>
+</string-name> (<year>1982</year>) <article-title>Generation of prothrombin&#x02010;converting activity and the exposure of phosphatidylserine at the outer surface of platelets</article-title>. <source xml:lang="en">European Journal of Biochemistry</source>, <volume>122</volume>, <fpage>429</fpage>&#x02013;<lpage>436</lpage>.<pub-id pub-id-type="pmid">7060583</pub-id></mixed-citation></ref><ref id="bjh15441-bib-0008"><mixed-citation publication-type="journal" id="bjh15441-cit-0008">
+<string-name>
+<surname>Bitbol</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Fellmann</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Zachowski</surname>, <given-names>A.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Devaux</surname>, <given-names>P.F.</given-names>
+</string-name> (<year>1987</year>) <article-title>Ion regulation of phosphatidylserine and phosphatidylethanolamine outside&#x02010;inside translocation in human erythrocytes</article-title>. <source xml:lang="en">Biochimica et Biophysica Acta</source>, <volume>904</volume>, <fpage>268</fpage>&#x02013;<lpage>282</lpage>.<pub-id pub-id-type="pmid">3117114</pub-id></mixed-citation></ref><ref id="bjh15441-bib-0009"><mixed-citation publication-type="journal" id="bjh15441-cit-0009">
+<string-name>
+<surname>Blumenfeld</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Zachowski</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Galacteros</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Beuzard</surname>, <given-names>Y.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Devaux</surname>, <given-names>P.F.</given-names>
+</string-name> (<year>1991</year>) <article-title>Transmembrane mobility of phospholipids in sickle erythrcoytes: effect of deoxygenation on diffusion and asymmetry</article-title>. <source xml:lang="en">Blood</source>, <volume>77</volume>, <fpage>849</fpage>&#x02013;<lpage>854</lpage>.<pub-id pub-id-type="pmid">1993223</pub-id></mixed-citation></ref><ref id="bjh15441-bib-0010"><mixed-citation publication-type="journal" id="bjh15441-cit-0010">
+<string-name>
+<surname>Boas</surname>, <given-names>F.E.</given-names>
+</string-name>, <string-name>
+<surname>Forman</surname>, <given-names>L.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Beutler</surname>, <given-names>J.A.</given-names>
+</string-name> (<year>1998</year>) <article-title>Phosphatidylserine exposure and red cell viability in red cell ageing and in hemolytic anemia</article-title>. <source xml:lang="en">Proceedings of the National Academy of Sciences of the United States of America</source>, <volume>95</volume>, <fpage>3077</fpage>&#x02013;<lpage>3081</lpage>.<pub-id pub-id-type="pmid">9501218</pub-id></mixed-citation></ref><ref id="bjh15441-bib-0011"><mixed-citation publication-type="journal" id="bjh15441-cit-0011">
+<string-name>
+<surname>Chirico</surname>, <given-names>E.N.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Pialoux</surname>, <given-names>V.</given-names>
+</string-name> (<year>2012</year>) <article-title>Role of oxidative stress in the pathogenesis of sickle cell disease</article-title>. <source xml:lang="en">IUBMB Life</source>, <volume>64</volume>, <fpage>72</fpage>&#x02013;<lpage>80</lpage>.<pub-id pub-id-type="pmid">22131167</pub-id></mixed-citation></ref><ref id="bjh15441-bib-0012"><mixed-citation publication-type="journal" id="bjh15441-cit-0012">
+<string-name>
+<surname>Cimen</surname>, <given-names>M.Y.B.</given-names>
+</string-name> (<year>2008</year>) <article-title>Free radical metabolism in human erythrocytes</article-title>. <source xml:lang="en">Clinica Chimica Acta</source>, <volume>390</volume>, <fpage>1</fpage>&#x02013;<lpage>11</lpage>.</mixed-citation></ref><ref id="bjh15441-bib-0013"><mixed-citation publication-type="journal" id="bjh15441-cit-0013">
+<string-name>
+<surname>Connor</surname>, <given-names>J.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Schroit</surname>, <given-names>A.J.</given-names>
+</string-name> (<year>1990</year>) <article-title>Aminophospholipid translocation in erythrocytes: evidence for the involvement of a specific transporter and an endofacial protein</article-title>. <source xml:lang="en">Biochemistry</source>, <volume>29</volume>, <fpage>37</fpage>&#x02013;<lpage>43</lpage>.<pub-id pub-id-type="pmid">2322547</pub-id></mixed-citation></ref><ref id="bjh15441-bib-0014"><mixed-citation publication-type="journal" id="bjh15441-cit-0014">
+<string-name>
+<surname>Cytlak</surname>, <given-names>U.M.</given-names>
+</string-name>, <string-name>
+<surname>Hannemann</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Rees</surname>, <given-names>D.C.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Gibson</surname>, <given-names>J.S.</given-names>
+</string-name> (<year>2013</year>) <article-title>Identification of the Ca<sup>2+</sup> entry pathway involved in deoxygenation&#x02010;induced phosphatidylserine exposure in red blood cells from patients with sickle cell disease</article-title>. <source xml:lang="en">Pfl&#x000fc;gers Archiv &#x02013; European Journal of Physiology</source>, <volume>465</volume>, <fpage>1651</fpage>&#x02013;<lpage>1660</lpage>.<pub-id pub-id-type="pmid">23775402</pub-id></mixed-citation></ref><ref id="bjh15441-bib-0015"><mixed-citation publication-type="journal" id="bjh15441-cit-0015">
+<string-name>
+<surname>Dasgupta</surname>, <given-names>S.K.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Thiagarajan</surname>, <given-names>P.</given-names>
+</string-name> (<year>2005</year>) <article-title>The role of lactadherin in the phagocytosis of phosphatidylserine&#x02010;expressing sickle red blood cells by macrophages</article-title>. <source xml:lang="en">Haematologica</source>, <volume>90</volume>, <fpage>1267</fpage>&#x02013;<lpage>1268</lpage>.<pub-id pub-id-type="pmid">16154850</pub-id></mixed-citation></ref><ref id="bjh15441-bib-0016"><mixed-citation publication-type="journal" id="bjh15441-cit-0016">
+<string-name>
+<surname>Davies</surname>, <given-names>M.J.</given-names>
+</string-name> (<year>1989</year>) <article-title>Detection of peroxyl and alkoxyl radicals produced by reaction of hydroperoxides with rat liver microsomal fractions</article-title>. <source xml:lang="en">Biochemical Journal</source>, <volume>257</volume>, <fpage>603</fpage>&#x02013;<lpage>606</lpage>.<pub-id pub-id-type="pmid">2930470</pub-id></mixed-citation></ref><ref id="bjh15441-bib-0017"><mixed-citation publication-type="journal" id="bjh15441-cit-0017">
+<string-name>
+<surname>Devaux</surname>, <given-names>P.F.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Zachowski</surname>, <given-names>A.</given-names>
+</string-name> (<year>1994</year>) <article-title>Maintenance and consequences of membrane phospholipid asymmetry</article-title>. <source xml:lang="en">Chemistry and Physics of Lipids</source>, <volume>73</volume>, <fpage>107</fpage>&#x02013;<lpage>120</lpage>.</mixed-citation></ref><ref id="bjh15441-bib-0018"><mixed-citation publication-type="journal" id="bjh15441-cit-0018">
+<string-name>
+<surname>Eaton</surname>, <given-names>J.W.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Hofrichter</surname>, <given-names>J.</given-names>
+</string-name> (<year>1987</year>) <article-title>Hemoglobin S gelation and sickle cell disease</article-title>. <source xml:lang="en">Blood</source>, <volume>70</volume>, <fpage>1245</fpage>&#x02013;<lpage>1266</lpage>.<pub-id pub-id-type="pmid">3311198</pub-id></mixed-citation></ref><ref id="bjh15441-bib-0019"><mixed-citation publication-type="journal" id="bjh15441-cit-0019">
+<string-name>
+<surname>Etzion</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Tiffert</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Bookchin</surname>, <given-names>R.M.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Lew</surname>, <given-names>V.L.</given-names>
+</string-name> (<year>1993</year>) <article-title>Effects of deoxygenation on active and passive Ca<sup>2+</sup> transport and on the cytoplasmic Ca<sup>2+</sup> levels of sickle cell anemia red cells</article-title>. <source xml:lang="en">Journal of Clinical Investigation</source>, <volume>92</volume>, <fpage>2489</fpage>&#x02013;<lpage>2498</lpage>.<pub-id pub-id-type="pmid">8227363</pub-id></mixed-citation></ref><ref id="bjh15441-bib-0020"><mixed-citation publication-type="journal" id="bjh15441-cit-0020">
+<string-name>
+<surname>Flatman</surname>, <given-names>P.W.</given-names>
+</string-name> (<year>1980</year>) <article-title>The effect of buffer composition and deoxygenation on the concentration of ionized magnesium inside human red blood cells</article-title>. <source xml:lang="en">Journal of Physiology</source>, <volume>300</volume>, <fpage>19</fpage>&#x02013;<lpage>30</lpage>.<pub-id pub-id-type="pmid">6770081</pub-id></mixed-citation></ref><ref id="bjh15441-bib-0021"><mixed-citation publication-type="journal" id="bjh15441-cit-0021">
+<string-name>
+<surname>Freikman</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Amer</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Cohen</surname>, <given-names>J.S.</given-names>
+</string-name>, <string-name>
+<surname>Ringel</surname>, <given-names>I.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Fibach</surname>, <given-names>E.</given-names>
+</string-name> (<year>2008</year>) <article-title>Oxidative stress causes membrane phospholipid rearrangement and shedding from RBC membranes &#x02013; an NMR study</article-title>. <source xml:lang="en">Biochimica et Biophysica Acta</source>, <volume>1778</volume>, <fpage>2388</fpage>&#x02013;<lpage>2394</lpage>.<pub-id pub-id-type="pmid">18621018</pub-id></mixed-citation></ref><ref id="bjh15441-bib-0022"><mixed-citation publication-type="journal" id="bjh15441-cit-0022">
+<string-name>
+<surname>Gao</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Yao</surname>, <given-names>Y.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Squier</surname>, <given-names>T.C.</given-names>
+</string-name> (<year>2001</year>) <article-title>Oxidatively modified calmodulibn binds to the plasma membrane Ca&#x02010;ATPase in a nonproductive and conformationally disordered complex</article-title>. <source xml:lang="en">Biophyiscal Journal</source>, <volume>80</volume>, <fpage>1791</fpage>&#x02013;<lpage>1801</lpage>.</mixed-citation></ref><ref id="bjh15441-bib-0023"><mixed-citation publication-type="journal" id="bjh15441-cit-0023">
+<string-name>
+<surname>Gibson</surname>, <given-names>J.S.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Muzyamba</surname>, <given-names>M.C.</given-names>
+</string-name> (<year>2003a</year>) <article-title>The effect of 1&#x02010;chloro&#x02010;2,4&#x02010;dinitrobenzene on K<sup>+</sup> transport in normal and sickle human red blood cells</article-title>. <source xml:lang="en">Journal of Physiology</source>, <volume>547</volume>, <fpage>903</fpage>&#x02013;<lpage>911</lpage>.<pub-id pub-id-type="pmid">12576491</pub-id></mixed-citation></ref><ref id="bjh15441-bib-0024"><mixed-citation publication-type="journal" id="bjh15441-cit-0024">
+<string-name>
+<surname>Gibson</surname>, <given-names>J.S.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Muzyamba</surname>, <given-names>M.C.</given-names>
+</string-name> (<year>2003b</year>) <article-title>Effect of phenazine methosulphate on K<sup>+</sup> transport in human red cells</article-title>. <source xml:lang="en">Cellular Physiology and Biochemistry</source>, <volume>13</volume>, <fpage>329</fpage>&#x02013;<lpage>336</lpage>.<pub-id pub-id-type="pmid">14631139</pub-id></mixed-citation></ref><ref id="bjh15441-bib-0025"><mixed-citation publication-type="journal" id="bjh15441-cit-0025">
+<string-name>
+<surname>Gorudko</surname>, <given-names>I.V.</given-names>
+</string-name>, <string-name>
+<surname>Sokolov</surname>, <given-names>A.V.</given-names>
+</string-name>, <string-name>
+<surname>Shamova</surname>, <given-names>E.V.</given-names>
+</string-name>, <string-name>
+<surname>Grigorieva</surname>, <given-names>D.V.</given-names>
+</string-name>, <string-name>
+<surname>Mironova</surname>, <given-names>E.V.</given-names>
+</string-name>, <string-name>
+<surname>Kudryavtsev</surname>, <given-names>I.V.</given-names>
+</string-name>, <string-name>
+<surname>Gusev</surname>, <given-names>S.A.</given-names>
+</string-name>, <string-name>
+<surname>Gusev</surname>, <given-names>A.A.</given-names>
+</string-name>, <string-name>
+<surname>Chekanov</surname>, <given-names>A.V.</given-names>
+</string-name>, <string-name>
+<surname>Vasilyev</surname>, <given-names>V.B.</given-names>
+</string-name>, <string-name>
+<surname>Cherenkevich</surname>, <given-names>S.N.</given-names>
+</string-name>, <string-name>
+<surname>Panasenko</surname>, <given-names>O.M.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Timoshenko</surname>, <given-names>A.V.</given-names>
+</string-name> (<year>2016</year>) <article-title>Binding of human myeloperoxidase to red blood cells: Molecular targets and biophysical conequences at the plasma membrane level</article-title>. <source xml:lang="en">Archives of Biochemistry and Biophysics</source>, <volume>591</volume>, <fpage>87</fpage>&#x02013;<lpage>97</lpage>.<pub-id pub-id-type="pmid">26714302</pub-id></mixed-citation></ref><ref id="bjh15441-bib-0026"><mixed-citation publication-type="book" id="bjh15441-cit-0026">
+<string-name>
+<surname>Haest</surname>, <given-names>C.W.M.</given-names>
+</string-name> (<year>2003</year>) <chapter-title>Distribution and movement of membrane lipids</chapter-title> In: <source xml:lang="en">Red Cell Membrane Transport in Health and Disease</source> (eds by <person-group person-group-type="editor"><name><surname>Bernhardt</surname><given-names>I.</given-names></name></person-group> &#x00026; <person-group person-group-type="editor"><name><surname>Ellory</surname><given-names>J.C.</given-names></name></person-group>), pp. <fpage>1</fpage>&#x02013;<lpage>25</lpage>. <publisher-name>Springer Verlag</publisher-name>, <publisher-loc>Berlin</publisher-loc>.</mixed-citation></ref><ref id="bjh15441-bib-0027"><mixed-citation publication-type="journal" id="bjh15441-cit-0027">
+<string-name>
+<surname>Hebbel</surname>, <given-names>R.P.</given-names>
+</string-name> (<year>1991</year>) <article-title>Beyond hemoglobin polymerization: the red blood cell membrane and sickle cell disease pathophysiology</article-title>. <source xml:lang="en">Blood</source>, <volume>77</volume>, <fpage>214</fpage>&#x02013;<lpage>237</lpage>.<pub-id pub-id-type="pmid">1985689</pub-id></mixed-citation></ref><ref id="bjh15441-bib-0028"><mixed-citation publication-type="journal" id="bjh15441-cit-0028">
+<string-name>
+<surname>Jain</surname>, <given-names>S.K.</given-names>
+</string-name> (<year>1985</year>) <article-title>In vivo externalization of phosphatidylserine and phosphatidylethanolamine in the membrane bilayer and hypercoagubility by the lipid peroxidation of erythrocytes in rats</article-title>. <source xml:lang="en">Journal of Clinical Investigation</source>, <volume>76</volume>, <fpage>281</fpage>&#x02013;<lpage>286</lpage>.<pub-id pub-id-type="pmid">4019780</pub-id></mixed-citation></ref><ref id="bjh15441-bib-0029"><mixed-citation publication-type="journal" id="bjh15441-cit-0029">
+<string-name>
+<surname>Jain</surname>, <given-names>S.K.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Shohet</surname>, <given-names>S.B.</given-names>
+</string-name> (<year>1984</year>) <article-title>A novel phospholipid in irreversibly sickled cells: evidence for in&#x000a0;vivo peroxidative membrane damage in sickle cell disease</article-title>. <source xml:lang="en">Blood</source>, <volume>63</volume>, <fpage>362</fpage>&#x02013;<lpage>367</lpage>.<pub-id pub-id-type="pmid">6692040</pub-id></mixed-citation></ref><ref id="bjh15441-bib-0030"><mixed-citation publication-type="journal" id="bjh15441-cit-0030">
+<string-name>
+<surname>Jain</surname>, <given-names>S.K.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Williams</surname>, <given-names>D.M.</given-names>
+</string-name> (<year>1985</year>) <article-title>Reduced levels of plasma ascorbic acid (vitamin C) in sickle cell disease patients: its possible role in the oxidant damage to sickle cells in&#x000a0;vivo</article-title>. <source xml:lang="en">Clinica Chimica Acta</source>, <volume>149</volume>, <fpage>257</fpage>&#x02013;<lpage>261</lpage>.</mixed-citation></ref><ref id="bjh15441-bib-0031"><mixed-citation publication-type="journal" id="bjh15441-cit-0031">
+<string-name>
+<surname>de Jong</surname>, <given-names>K.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Kuypers</surname>, <given-names>F.A.</given-names>
+</string-name> (<year>2006</year>) <article-title>Sulphydryl modifications alter scramblase activity in murine sickle cell disease</article-title>. <source xml:lang="en">British Journal of Haematology</source>, <volume>133</volume>, <fpage>427</fpage>&#x02013;<lpage>432</lpage>.<pub-id pub-id-type="pmid">16643451</pub-id></mixed-citation></ref><ref id="bjh15441-bib-0032"><mixed-citation publication-type="journal" id="bjh15441-cit-0032">
+<string-name>
+<surname>de Jong</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Geldwerth</surname>, <given-names>D.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Kuypers</surname>, <given-names>F.A.</given-names>
+</string-name> (<year>1997</year>) <article-title>Oxidative damage does not alter membrane phospholipid asymmetry in human erythrocytes</article-title>. <source xml:lang="en">Biochemistry</source>, <volume>36</volume>, <fpage>6768</fpage>&#x02013;<lpage>6776</lpage>.<pub-id pub-id-type="pmid">9184159</pub-id></mixed-citation></ref><ref id="bjh15441-bib-0033"><mixed-citation publication-type="journal" id="bjh15441-cit-0033">
+<string-name>
+<surname>de Jong</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Larkin</surname>, <given-names>S.K.</given-names>
+</string-name>, <string-name>
+<surname>Styles</surname>, <given-names>L.A.</given-names>
+</string-name>, <string-name>
+<surname>Bookchin</surname>, <given-names>R.M.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Kuypers</surname>, <given-names>F.A.</given-names>
+</string-name> (<year>2001</year>) <article-title>Characterization of the phosphatidylserine&#x02010;exposing subpopulations of sickle cells</article-title>. <source xml:lang="en">Blood</source>, <volume>98</volume>, <fpage>860</fpage>&#x02013;<lpage>867</lpage>.<pub-id pub-id-type="pmid">11468189</pub-id></mixed-citation></ref><ref id="bjh15441-bib-0034"><mixed-citation publication-type="journal" id="bjh15441-cit-0034">
+<string-name>
+<surname>Kamp</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Sieberg</surname>, <given-names>T.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Haest</surname>, <given-names>C.W.M.</given-names>
+</string-name> (<year>2001</year>) <article-title>Inhibition and stimulation of phospholipid scrambling activity. Consequences for lipid asymmetry, echinocytosis, and microvesiculation of erythrocytes</article-title>. <source xml:lang="en">Biochemistry</source>, <volume>40</volume>, <fpage>9438</fpage>&#x02013;<lpage>9446</lpage>.<pub-id pub-id-type="pmid">11478914</pub-id></mixed-citation></ref><ref id="bjh15441-bib-0035"><mixed-citation publication-type="journal" id="bjh15441-cit-0035">
+<string-name>
+<surname>Kuypers</surname>, <given-names>F.A.</given-names>
+</string-name> (<year>1998</year>) <article-title>Phospholipid asymmetry in health and disease</article-title>. <source xml:lang="en">Current Opinions in Hematology</source>, <volume>5</volume>, <fpage>122</fpage>&#x02013;<lpage>131</lpage>.</mixed-citation></ref><ref id="bjh15441-bib-0036"><mixed-citation publication-type="journal" id="bjh15441-cit-0036">
+<string-name>
+<surname>Kuypers</surname>, <given-names>F.A.</given-names>
+</string-name>, <string-name>
+<surname>Lewis</surname>, <given-names>R.A.</given-names>
+</string-name>, <string-name>
+<surname>Hua</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Schott</surname>, <given-names>M.A.</given-names>
+</string-name>, <string-name>
+<surname>Discher</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Ernst</surname>, <given-names>J.D.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Lubin</surname>, <given-names>B.H.</given-names>
+</string-name> (<year>1996</year>) <article-title>Detection of altered membrane phospholipid asymmetry in subpopulations of human red blood cells using fluorescently labeled Annexin V</article-title>. <source xml:lang="en">Blood</source>, <volume>87</volume>, <fpage>1179</fpage>&#x02013;<lpage>1187</lpage>.<pub-id pub-id-type="pmid">8562945</pub-id></mixed-citation></ref><ref id="bjh15441-bib-0037"><mixed-citation publication-type="journal" id="bjh15441-cit-0037">
+<string-name>
+<surname>Lang</surname>, <given-names>K.S.</given-names>
+</string-name>, <string-name>
+<surname>Roll</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Myssina</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Schittenhelm</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Scheel&#x02010;Walter</surname>, <given-names>H.&#x02010;G.</given-names>
+</string-name>, <string-name>
+<surname>Kanz</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Fritz</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Lang</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Huber</surname>, <given-names>S.M.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Wieder</surname>, <given-names>T.</given-names>
+</string-name> (<year>2002</year>) <article-title>Enhanced apoptosis in sickle cell anemia, thalassemia and glucose&#x02010;6&#x02010;phosphate dehydrogenase deficiency</article-title>. <source xml:lang="en">Cellular Physiology and Biochemistry</source>, <volume>12</volume>, <fpage>365</fpage>&#x02013;<lpage>372</lpage>.<pub-id pub-id-type="pmid">12438773</pub-id></mixed-citation></ref><ref id="bjh15441-bib-0038"><mixed-citation publication-type="journal" id="bjh15441-cit-0038">
+<string-name>
+<surname>Lang</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Lang</surname>, <given-names>K.S.</given-names>
+</string-name>, <string-name>
+<surname>Lang</surname>, <given-names>P.A.</given-names>
+</string-name>, <string-name>
+<surname>Huber</surname>, <given-names>S.M.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Wieder</surname>, <given-names>T.</given-names>
+</string-name> (<year>2006</year>) <article-title>Mechanisms and significance of eryptosis</article-title>. <source xml:lang="en">Antioxidants and Redox Signalling</source>, <volume>8</volume>, <fpage>1183</fpage>&#x02013;<lpage>1192</lpage>.</mixed-citation></ref><ref id="bjh15441-bib-0039"><mixed-citation publication-type="journal" id="bjh15441-cit-0039">
+<string-name>
+<surname>Lang</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Qadri</surname>, <given-names>S.M.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Lang</surname>, <given-names>F.</given-names>
+</string-name> (<year>2012</year>) <article-title>Killing me softly &#x02013; suicidal erythrocyte death</article-title>. <source xml:lang="en">International Journal of Biochemistry and Cell Biology</source>, <volume>44</volume>, <fpage>1236</fpage>&#x02013;<lpage>1243</lpage>.<pub-id pub-id-type="pmid">22561748</pub-id></mixed-citation></ref><ref id="bjh15441-bib-0040"><mixed-citation publication-type="journal" id="bjh15441-cit-0040">
+<string-name>
+<surname>Lew</surname>, <given-names>V.L.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Bookchin</surname>, <given-names>R.M.</given-names>
+</string-name> (<year>2005</year>) <article-title>Ion transport pathology in the mechanism of sickle cell dehydration</article-title>. <source xml:lang="en">Physiological Reviews</source>, <volume>85</volume>, <fpage>179</fpage>&#x02013;<lpage>200</lpage>.<pub-id pub-id-type="pmid">15618480</pub-id></mixed-citation></ref><ref id="bjh15441-bib-0041"><mixed-citation publication-type="journal" id="bjh15441-cit-0041">
+<string-name>
+<surname>Lew</surname>, <given-names>V.L.</given-names>
+</string-name>, <string-name>
+<surname>Ortiz</surname>, <given-names>O.E.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Bookchin</surname>, <given-names>R.M.</given-names>
+</string-name> (<year>1997</year>) <article-title>Stochastic nature and red cell population distribution of the sickling&#x02010;induced Ca<sup>2+</sup> permeability</article-title>. <source xml:lang="en">Journal of Clinical Investigation</source>, <volume>99</volume>, <fpage>2727</fpage>&#x02013;<lpage>2735</lpage>.<pub-id pub-id-type="pmid">9169503</pub-id></mixed-citation></ref><ref id="bjh15441-bib-0042"><mixed-citation publication-type="journal" id="bjh15441-cit-0042">
+<string-name>
+<surname>Lubin</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Chiu</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Bastacky</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Roelofsen</surname>, <given-names>B.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Van Deenen</surname>, <given-names>L.L.M.</given-names>
+</string-name> (<year>1981</year>) <article-title>Abnormalities in membrane phospholipid organization in sickled erythrocytes</article-title>. <source xml:lang="en">Journal of Clinical Investigation</source>, <volume>67</volume>, <fpage>1643</fpage>&#x02013;<lpage>1649</lpage>.<pub-id pub-id-type="pmid">7240412</pub-id></mixed-citation></ref><ref id="bjh15441-bib-0043"><mixed-citation publication-type="journal" id="bjh15441-cit-0043">
+<string-name>
+<surname>Mankelow</surname>, <given-names>T.J.</given-names>
+</string-name>, <string-name>
+<surname>Griffiths</surname>, <given-names>R.E.</given-names>
+</string-name>, <string-name>
+<surname>Trompeter</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Flatt</surname>, <given-names>J.F.</given-names>
+</string-name>, <string-name>
+<surname>Cogan</surname>, <given-names>N.M.</given-names>
+</string-name>, <string-name>
+<surname>Massey</surname>, <given-names>E.J.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Anstee</surname>, <given-names>D.J.</given-names>
+</string-name> (<year>2015</year>) <article-title>Autophagic vesicles on mature human reticulocytes explain phosphatidylserine&#x02010;positive red cells in sickle cell disease</article-title>. <source xml:lang="en">Blood</source>, <volume>126</volume>, <fpage>1831</fpage>&#x02013;<lpage>1834</lpage>.<pub-id pub-id-type="pmid">26276668</pub-id></mixed-citation></ref><ref id="bjh15441-bib-0044"><mixed-citation publication-type="journal" id="bjh15441-cit-0044">
+<string-name>
+<surname>Maridonneau</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Braquet</surname>, <given-names>P.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Garay</surname>, <given-names>R.P.</given-names>
+</string-name> (<year>1983</year>) <article-title>Na<sup>+</sup> and K<sup>+</sup> transport damage induced by oxygen free radicals in human red cell membranes</article-title>. <source xml:lang="en">Journal of Biological Chemistry</source>, <volume>258</volume>, <fpage>3107</fpage>&#x02013;<lpage>3113</lpage>.<pub-id pub-id-type="pmid">6298224</pub-id></mixed-citation></ref><ref id="bjh15441-bib-0045"><mixed-citation publication-type="journal" id="bjh15441-cit-0045">
+<string-name>
+<surname>Martin</surname>, <given-names>D.W.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Jesty</surname>, <given-names>J.</given-names>
+</string-name> (<year>1995</year>) <article-title>Calcium stimulation of procoagulant activity in human erythrocytes</article-title>. <source xml:lang="en">Journal of Biological Chemistry</source>, <volume>270</volume>, <fpage>10468</fpage>&#x02013;<lpage>10474</lpage>.<pub-id pub-id-type="pmid">7737981</pub-id></mixed-citation></ref><ref id="bjh15441-bib-0046"><mixed-citation publication-type="journal" id="bjh15441-cit-0046">
+<string-name>
+<surname>Mohandas</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Rossi</surname>, <given-names>M.E.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Clark</surname>, <given-names>M.R.</given-names>
+</string-name> (<year>1986</year>) <article-title>Association between morphologic distortion of sickle cells and deoxygenation&#x02010;induced cation permeability increases</article-title>. <source xml:lang="en">Blood</source>, <volume>68</volume>, <fpage>450</fpage>&#x02013;<lpage>454</lpage>.<pub-id pub-id-type="pmid">3730609</pub-id></mixed-citation></ref><ref id="bjh15441-bib-0047"><mixed-citation publication-type="journal" id="bjh15441-cit-0047">
+<string-name>
+<surname>Mohanty</surname>, <given-names>J.G.</given-names>
+</string-name>, <string-name>
+<surname>Nagababu</surname>, <given-names>E.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Rifkind</surname>, <given-names>J.M.</given-names>
+</string-name> (<year>2014</year>) <article-title>Red blood cell oxidative stress impairs oxygen delivery and induces red blood cell aging</article-title>. <source xml:lang="en">Frontiers in Physiology</source>, <volume>5</volume>, <fpage>1</fpage>&#x02013;<lpage>6</lpage>.<pub-id pub-id-type="pmid">24478714</pub-id></mixed-citation></ref><ref id="bjh15441-bib-0048"><mixed-citation publication-type="journal" id="bjh15441-cit-0048">
+<string-name>
+<surname>Morrot</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Herve</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Zachowski</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Fellmann</surname>, <given-names>P.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Devaux</surname>, <given-names>P.F.</given-names>
+</string-name> (<year>1989</year>) <article-title>Aminophospholipid translocase of human erythrocytes: phospholipid substrate specificity and effect of cholesterol</article-title>. <source xml:lang="en">Biochemistry</source>, <volume>28</volume>, <fpage>3456</fpage>&#x02013;<lpage>3462</lpage>.<pub-id pub-id-type="pmid">2742848</pub-id></mixed-citation></ref><ref id="bjh15441-bib-0049"><mixed-citation publication-type="journal" id="bjh15441-cit-0049">
+<string-name>
+<surname>Mutze</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Hebling</surname>, <given-names>U.</given-names>
+</string-name>, <string-name>
+<surname>Stremmel</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Arnhold</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Pantopoulos</surname>, <given-names>K.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Mueller</surname>, <given-names>S.</given-names>
+</string-name> (<year>2003</year>) <article-title>Myeloperoxidase&#x02010;derived hypochlorous acid antagonizes the oxidative stress&#x02010;mediated activation of iron regulatory protein 1</article-title>. <source xml:lang="en">Journal of Biological Chemistry</source>, <volume>279</volume>, <fpage>40542</fpage>&#x02013;<lpage>40549</lpage>.</mixed-citation></ref><ref id="bjh15441-bib-0050"><mixed-citation publication-type="journal" id="bjh15441-cit-0050">
+<string-name>
+<surname>Muzyamba</surname>, <given-names>M.C.</given-names>
+</string-name>, <string-name>
+<surname>Speake</surname>, <given-names>P.F.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Gibson</surname>, <given-names>J.S.</given-names>
+</string-name> (<year>2000</year>) <article-title>Oxidants and regulation of KCl cotransport in equine red blood cells</article-title>. <source xml:lang="en">American Journal of Physiology</source>, <volume>279</volume>, <fpage>C981</fpage>&#x02013;<lpage>C989</lpage>.<pub-id pub-id-type="pmid">11003578</pub-id></mixed-citation></ref><ref id="bjh15441-bib-0051"><mixed-citation publication-type="journal" id="bjh15441-cit-0051">
+<string-name>
+<surname>Muzyamba</surname>, <given-names>M.C.</given-names>
+</string-name>, <string-name>
+<surname>Campbell</surname>, <given-names>E.H.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Gibson</surname>, <given-names>J.S.</given-names>
+</string-name> (<year>2006</year>) <article-title>Effect of intracellular magnesium and oxygen tension on K<sup>+</sup>&#x02010;Cl&#x02010; cotransport in normal and sickle human red cells</article-title>. <source xml:lang="en">Cellular Physiology and Biochemistry</source>, <volume>17</volume>, <fpage>121</fpage>&#x02013;<lpage>128</lpage>.<pub-id pub-id-type="pmid">16543728</pub-id></mixed-citation></ref><ref id="bjh15441-bib-0052"><mixed-citation publication-type="journal" id="bjh15441-cit-0052">
+<string-name>
+<surname>Nebor</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Bowers</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Connes</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Hardy&#x02010;Dessources</surname>, <given-names>M.&#x02010;D.</given-names>
+</string-name>, <string-name>
+<surname>Knight&#x02010;Madden</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Cumming</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Reid</surname>, <given-names>M.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Romana</surname>, <given-names>M.</given-names>
+</string-name> (<year>2014</year>) <article-title>Plasma concentration of platelet&#x02010;derived microparticles is related to painful vaso&#x02010;occlusive phenotype severity in sickle cell anemia</article-title>. <source xml:lang="en">PLoS ONE</source>, <volume>9</volume>, <fpage>e87243</fpage>.<pub-id pub-id-type="pmid">24475257</pub-id></mixed-citation></ref><ref id="bjh15441-bib-0053"><mixed-citation publication-type="journal" id="bjh15441-cit-0053">
+<string-name>
+<surname>Ney</surname>, <given-names>P.A.</given-names>
+</string-name>, <string-name>
+<surname>Christopher</surname>, <given-names>M.M.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Hebbel</surname>, <given-names>R.P.</given-names>
+</string-name> (<year>1990</year>) <article-title>Synergistic effects of oxidation and deformation on erythrocyte monovalent cation leak</article-title>. <source xml:lang="en">Blood</source>, <volume>75</volume>, <fpage>1192</fpage>&#x02013;<lpage>1198</lpage>.<pub-id pub-id-type="pmid">2106354</pub-id></mixed-citation></ref><ref id="bjh15441-bib-0054"><mixed-citation publication-type="journal" id="bjh15441-cit-0054">
+<string-name>
+<surname>Niihara</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Viswanathan</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Miller</surname>, <given-names>S.T.</given-names>
+</string-name>, <string-name>
+<surname>Guillaume</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Blackwood</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Razon</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Tran</surname>, <given-names>L.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Stark</surname>, <given-names>C.</given-names>
+</string-name> (<year>2016</year>) <article-title>Phase 3 study of L&#x02010;glutamine therapy in sickle cell anemia and sickle &#x003b2;<sup>0</sup>&#x02010;thalassemia subgroup analyses show consistent clinical improvement</article-title>. <source xml:lang="en">Blood</source>, <volume>128</volume>, <fpage>1318</fpage>.<pub-id pub-id-type="pmid">27609540</pub-id></mixed-citation></ref><ref id="bjh15441-bib-0055"><mixed-citation publication-type="journal" id="bjh15441-cit-0055">
+<string-name>
+<surname>Nishikimi</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Rao</surname>, <given-names>N.A.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Yagi</surname>, <given-names>K.</given-names>
+</string-name> (<year>1972</year>) <article-title>Reactivity of D&#x02010;amino acid oxidase with artificial electron acceptors</article-title>. <source xml:lang="en">Biochemical and Biophysical Research Communications</source>, <volume>46</volume>, <fpage>849</fpage>&#x02013;<lpage>854</lpage>.<pub-id pub-id-type="pmid">4400444</pub-id></mixed-citation></ref><ref id="bjh15441-bib-0056"><mixed-citation publication-type="journal" id="bjh15441-cit-0056">
+<string-name>
+<surname>Piccin</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Murphy</surname>, <given-names>W.G.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Smith</surname>, <given-names>O.P.</given-names>
+</string-name> (<year>2007</year>) <article-title>Circulating microparticles: pathophysiology and clinical implications</article-title>. <source xml:lang="en">Blood Reviews</source>, <volume>21</volume>, <fpage>157</fpage>&#x02013;<lpage>171</lpage>.<pub-id pub-id-type="pmid">17118501</pub-id></mixed-citation></ref><ref id="bjh15441-bib-0057"><mixed-citation publication-type="journal" id="bjh15441-cit-0057">
+<string-name>
+<surname>Piccin</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Murphy</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Eakins</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Kunde</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Corvetta</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Di Pierro</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Negri</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Guido</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Sainati</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>McMahon</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>, <given-names>O.P.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Murphy</surname>, <given-names>W.</given-names>
+</string-name> (<year>2015a</year>) <article-title>Circulating microparticles, protein C, free protein S and endothelial vascular markers in children with sickle cell anaemia</article-title>. <source xml:lang="en">Journal of Extracellular Vesicles</source>, <volume>4</volume>, <fpage>28414</fpage>.<pub-id pub-id-type="pmid">26609806</pub-id></mixed-citation></ref><ref id="bjh15441-bib-0058"><mixed-citation publication-type="journal" id="bjh15441-cit-0058">
+<string-name>
+<surname>Piccin</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Van Schilfgaarde</surname>, <given-names>M.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Smith</surname>, <given-names>O.</given-names>
+</string-name> (<year>2015b</year>) <article-title>The importance of studying red blood cells microparticles</article-title>. <source xml:lang="en">Blood Transfusion</source>, <volume>13</volume>, <fpage>712</fpage>&#x02013;<lpage>713</lpage>.</mixed-citation></ref><ref id="bjh15441-bib-0059"><mixed-citation publication-type="journal" id="bjh15441-cit-0059">
+<string-name>
+<surname>Piccin</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Sartori</surname>, <given-names>M.T.</given-names>
+</string-name>, <string-name>
+<surname>Bisogno</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Van Schilfgaarde</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Saggiorato</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Pierro</surname>, <given-names>A.M.D.</given-names>
+</string-name>, <string-name>
+<surname>Corvetta</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Marcheselli</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Andrea</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Gastl</surname>, <given-names>G.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Cesaro</surname>, <given-names>S.</given-names>
+</string-name> (<year>2017</year>) <article-title>New insights into sinusoidal obstruction syndrome</article-title>. <source xml:lang="en">Internal Medicine Journal</source>, <volume>47</volume>, <fpage>1173</fpage>&#x02013;<lpage>1183</lpage>.<pub-id pub-id-type="pmid">28707749</pub-id></mixed-citation></ref><ref id="bjh15441-bib-0060"><mixed-citation publication-type="journal" id="bjh15441-cit-0060">
+<string-name>
+<surname>Piel</surname>, <given-names>F.B.</given-names>
+</string-name>, <string-name>
+<surname>Patil</surname>, <given-names>A.P.</given-names>
+</string-name>, <string-name>
+<surname>Howes</surname>, <given-names>R.E.</given-names>
+</string-name>, <string-name>
+<surname>Nyangiri</surname>, <given-names>O.A.</given-names>
+</string-name>, <string-name>
+<surname>Gething</surname>, <given-names>P.W.</given-names>
+</string-name>, <string-name>
+<surname>Dewi</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Temperley</surname>, <given-names>W.H.</given-names>
+</string-name>, <string-name>
+<surname>Williams</surname>, <given-names>T.N.</given-names>
+</string-name>, <string-name>
+<surname>Weatherall</surname>, <given-names>D.J.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Hay</surname>, <given-names>S.I.</given-names>
+</string-name> (<year>2013</year>) <article-title>Global epidemiology of sickle haemoglobin in neonates: a contemporary geostatistical model&#x02010;based map and population estimates</article-title>. <source xml:lang="en">The Lancet</source>, <volume>381</volume>, <fpage>142</fpage>&#x02013;<lpage>151</lpage>.</mixed-citation></ref><ref id="bjh15441-bib-0061"><mixed-citation publication-type="journal" id="bjh15441-cit-0061">
+<string-name>
+<surname>Rank</surname>, <given-names>B.H.</given-names>
+</string-name>, <string-name>
+<surname>Carisson</surname>, <given-names>J.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Hebbel</surname>, <given-names>R.P.</given-names>
+</string-name> (<year>1985</year>) <article-title>Abnormal redox status of membrane&#x02010;protein thiols in sickle erythrocytes</article-title>. <source xml:lang="en">Journal of Clinical Investigation</source>, <volume>75</volume>, <fpage>1531</fpage>&#x02013;<lpage>1537</lpage>.<pub-id pub-id-type="pmid">3998148</pub-id></mixed-citation></ref><ref id="bjh15441-bib-0062"><mixed-citation publication-type="journal" id="bjh15441-cit-0062">
+<string-name>
+<surname>Rees</surname>, <given-names>D.C.</given-names>
+</string-name>, <string-name>
+<surname>Williams</surname>, <given-names>T.N.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Gladwin</surname>, <given-names>M.T.</given-names>
+</string-name> (<year>2010</year>) <article-title>Sickle&#x02010;cell disease</article-title>. <source xml:lang="en">Lancet</source>, <volume>376</volume>, <fpage>2018</fpage>&#x02013;<lpage>2031</lpage>.<pub-id pub-id-type="pmid">21131035</pub-id></mixed-citation></ref><ref id="bjh15441-bib-0063"><mixed-citation publication-type="journal" id="bjh15441-cit-0063">
+<string-name>
+<surname>Rhoda</surname>, <given-names>M.D.</given-names>
+</string-name>, <string-name>
+<surname>Apovo</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Beuzard</surname>, <given-names>Y.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Giraud</surname>, <given-names>F.</given-names>
+</string-name> (<year>1990</year>) <article-title>Ca<sup>2+</sup> permeability in deoxygenated sickle cells</article-title>. <source xml:lang="en">Blood</source>, <volume>75</volume>, <fpage>2453</fpage>&#x02013;<lpage>2458</lpage>.<pub-id pub-id-type="pmid">2161689</pub-id></mixed-citation></ref><ref id="bjh15441-bib-0064"><mixed-citation publication-type="journal" id="bjh15441-cit-0064">
+<string-name>
+<surname>Rice&#x02010;Evans</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Omorphos</surname>, <given-names>S.C.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Baysal</surname>, <given-names>E.</given-names>
+</string-name> (<year>1986</year>) <article-title>Sickle cell membranes and oxidative damage</article-title>. <source xml:lang="en">Biochemical Journal</source>, <volume>237</volume>, <fpage>265</fpage>&#x02013;<lpage>269</lpage>.<pub-id pub-id-type="pmid">3800879</pub-id></mixed-citation></ref><ref id="bjh15441-bib-0065"><mixed-citation publication-type="journal" id="bjh15441-cit-0065">
+<string-name>
+<surname>Rogers</surname>, <given-names>S.C.</given-names>
+</string-name>, <string-name>
+<surname>Said</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Corcuera</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>McLaughlin</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Kell</surname>, <given-names>P.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Doctor</surname>, <given-names>A.</given-names>
+</string-name> (<year>2009</year>) <article-title>Hypoxia limits antioxidant capacity in red blood cells by altering glycolytic pathway dominance</article-title>. <source xml:lang="en">FASEB Journal</source>, <volume>23</volume>, <fpage>3159</fpage>&#x02013;<lpage>3170</lpage>.<pub-id pub-id-type="pmid">19417084</pub-id></mixed-citation></ref><ref id="bjh15441-bib-0066"><mixed-citation publication-type="journal" id="bjh15441-cit-0066">
+<string-name>
+<surname>Setty</surname>, <given-names>B.N.</given-names>
+</string-name>, <string-name>
+<surname>Kulkarini</surname>, <given-names>S.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Stuart</surname>, <given-names>M.J.</given-names>
+</string-name> (<year>2002</year>) <article-title>Role of erythrocyte phosphatidylserine in sickle red cell&#x02010;endothelial adhesion</article-title>. <source xml:lang="en">Blood</source>, <volume>99</volume>, <fpage>1564</fpage>&#x02013;<lpage>1571</lpage>.<pub-id pub-id-type="pmid">11861269</pub-id></mixed-citation></ref><ref id="bjh15441-bib-0067"><mixed-citation publication-type="journal" id="bjh15441-cit-0067">
+<string-name>
+<surname>Shalev</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Leida</surname>, <given-names>M.N.</given-names>
+</string-name>, <string-name>
+<surname>Hebbel</surname>, <given-names>R.P.</given-names>
+</string-name>, <string-name>
+<surname>Jacob</surname>, <given-names>H.S.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Eaton</surname>, <given-names>J.W.</given-names>
+</string-name> (<year>1981</year>) <article-title>Abnormal erythrocyte calcium homeostasis in oxidant&#x02010;induced haemolytic disease</article-title>. <source xml:lang="en">Blood</source>, <volume>58</volume>, <fpage>1232</fpage>&#x02013;<lpage>1235</lpage>.<pub-id pub-id-type="pmid">6458341</pub-id></mixed-citation></ref><ref id="bjh15441-bib-0068"><mixed-citation publication-type="journal" id="bjh15441-cit-0068">
+<string-name>
+<surname>Sies</surname>, <given-names>H.</given-names>
+</string-name> (<year>1997</year>) <article-title>Oxidative stress: oxidants and antioxidants</article-title>. <source xml:lang="en">Experimental Physiology</source>, <volume>82</volume>, <fpage>291</fpage>&#x02013;<lpage>295</lpage>.<pub-id pub-id-type="pmid">9129943</pub-id></mixed-citation></ref><ref id="bjh15441-bib-0069"><mixed-citation publication-type="journal" id="bjh15441-cit-0069">
+<string-name>
+<surname>Silva</surname>, <given-names>D.G.H.</given-names>
+</string-name>, <string-name>
+<surname>Belini</surname>, <given-names>E.</given-names>
+<suffix>Jr</suffix>
+</string-name>, <string-name>
+<surname>de Almeida</surname>, <given-names>E.A.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Bonini&#x02010;Domingos</surname>, <given-names>C.R.</given-names>
+</string-name> (<year>2013</year>) <article-title>Oxidative stress in sickle cell disease: an overview of erythrocyte redox metabolism and current antioxidant therapeutic strategies</article-title>. <source xml:lang="en">Free Radical Biology and Medicine</source>, <volume>65</volume>, <fpage>1101</fpage>&#x02013;<lpage>1109</lpage>.<pub-id pub-id-type="pmid">24002011</pub-id></mixed-citation></ref><ref id="bjh15441-bib-0070"><mixed-citation publication-type="journal" id="bjh15441-cit-0070">
+<string-name>
+<surname>Steffen</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Jung</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Nguyen</surname>, <given-names>D.B.</given-names>
+</string-name>, <string-name>
+<surname>Muller</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Bernhardt</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Kaestner</surname>, <given-names>L.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Wagner</surname>, <given-names>C.</given-names>
+</string-name> (<year>2011</year>) <article-title>Stimulation of human red blood cells leads to Ca<sup>2+</sup>&#x02010;mediated intracellular adhesion</article-title>. <source xml:lang="en">Cell Calcium</source>, <volume>50</volume>, <fpage>54</fpage>&#x02013;<lpage>61</lpage>.<pub-id pub-id-type="pmid">21616535</pub-id></mixed-citation></ref><ref id="bjh15441-bib-0071"><mixed-citation publication-type="journal" id="bjh15441-cit-0071">
+<string-name>
+<surname>Tait</surname>, <given-names>J.F.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Gibson</surname>, <given-names>D.</given-names>
+</string-name> (<year>1994</year>) <article-title>Measurement of membrane phospholipid asymmetry in normal and sickle&#x02010;cell erythrocytes by means of annexin V binding</article-title>. <source xml:lang="en">Journal of Laboratory and Clinical Medicine</source>, <volume>123</volume>, <fpage>741</fpage>&#x02013;<lpage>748</lpage>.<pub-id pub-id-type="pmid">8195679</pub-id></mixed-citation></ref><ref id="bjh15441-bib-0072"><mixed-citation publication-type="journal" id="bjh15441-cit-0072">
+<string-name>
+<surname>Vissers</surname>, <given-names>M.C.M.</given-names>
+</string-name>, <string-name>
+<surname>Stern</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Kuypers</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>van den Berg</surname>, <given-names>J.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Winterbourn</surname>, <given-names>C.C.</given-names>
+</string-name> (<year>1994</year>) <article-title>Membrane changes associated with lysis of red blood cells by hypochlorous acid</article-title>. <source xml:lang="en">Free Radical Biology and Medicine</source>, <volume>16</volume>, <fpage>703</fpage>&#x02013;<lpage>712</lpage>.<pub-id pub-id-type="pmid">8070673</pub-id></mixed-citation></ref><ref id="bjh15441-bib-0073"><mixed-citation publication-type="journal" id="bjh15441-cit-0073">
+<string-name>
+<surname>Voskou</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Aslan</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Fanis</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Phylactides</surname>, <given-names>M.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Kleanthous</surname>, <given-names>M.</given-names>
+</string-name> (<year>2015</year>) <article-title>Oxidative stress in beta&#x02010;thalassaemia and sickle cell disease</article-title>. <source xml:lang="en">Redox Biology</source>, <volume>6</volume>, <fpage>226</fpage>&#x02013;<lpage>239</lpage>.<pub-id pub-id-type="pmid">26285072</pub-id></mixed-citation></ref><ref id="bjh15441-bib-0074"><mixed-citation publication-type="journal" id="bjh15441-cit-0074">
+<string-name>
+<surname>Weiss</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Cytlak</surname>, <given-names>U.M.</given-names>
+</string-name>, <string-name>
+<surname>Rees</surname>, <given-names>D.C.</given-names>
+</string-name>, <string-name>
+<surname>Osei</surname>, <given-names>A.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Gibson</surname>, <given-names>J.S.</given-names>
+</string-name> (<year>2012</year>) <article-title>Deoxygenation&#x02010;induced and Ca<sup>2+</sup>&#x02010;dependent phosphatidylserine externalisation in red blood cells from normal individuals and sickle cell patients</article-title>. <source xml:lang="en">Cell Calcium</source>, <volume>51</volume>, <fpage>51</fpage>&#x02013;<lpage>56</lpage>.<pub-id pub-id-type="pmid">22197026</pub-id></mixed-citation></ref><ref id="bjh15441-bib-0075"><mixed-citation publication-type="journal" id="bjh15441-cit-0075">
+<string-name>
+<surname>Williamson</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Kulik</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Zachowksi</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Schlegel</surname>, <given-names>R.A.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Devaux</surname>, <given-names>P.F.</given-names>
+</string-name> (<year>1992</year>) <article-title>Ca<sup>2+</sup> induces transbilayer redistribution of all major phospholipids in human erythrocytes</article-title>. <source xml:lang="en">Biochemistry</source>, <volume>31</volume>, <fpage>6355</fpage>&#x02013;<lpage>6360</lpage>.<pub-id pub-id-type="pmid">1627574</pub-id></mixed-citation></ref><ref id="bjh15441-bib-0076"><mixed-citation publication-type="journal" id="bjh15441-cit-0076">
+<string-name>
+<surname>Wood</surname>, <given-names>B.L.</given-names>
+</string-name>, <string-name>
+<surname>Gibson</surname>, <given-names>D.F.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Tait</surname>, <given-names>J.F.</given-names>
+</string-name> (<year>1996</year>) <article-title>Increased erythrocyte phosphatidylserine exposure in sickle cell disease: flow&#x02010;cytometric measurement and clinical associations</article-title>. <source xml:lang="en">Blood</source>, <volume>88</volume>, <fpage>1873</fpage>&#x02013;<lpage>1880</lpage>.<pub-id pub-id-type="pmid">8781447</pub-id></mixed-citation></ref><ref id="bjh15441-bib-0077"><mixed-citation publication-type="journal" id="bjh15441-cit-0077">
+<string-name>
+<surname>Woon</surname>, <given-names>L.A.</given-names>
+</string-name>, <string-name>
+<surname>Holland</surname>, <given-names>J.W.</given-names>
+</string-name>, <string-name>
+<surname>Kable</surname>, <given-names>E.P.W.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Roufogalis</surname>, <given-names>B.D.</given-names>
+</string-name> (<year>1999</year>) <article-title>Ca<sup>2+</sup> sensitivity of phospholipid scrambling in human red cell ghosts</article-title>. <source xml:lang="en">Cell Calcium</source>, <volume>25</volume>, <fpage>313</fpage>&#x02013;<lpage>320</lpage>.<pub-id pub-id-type="pmid">10456228</pub-id></mixed-citation></ref><ref id="bjh15441-bib-0078"><mixed-citation publication-type="journal" id="bjh15441-cit-0078">
+<string-name>
+<surname>Zaidi</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Barron</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Sharov</surname>, <given-names>V.S.</given-names>
+</string-name>, <string-name>
+<surname>Schoneich</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Michaelis</surname>, <given-names>E.K.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Michaelis</surname>, <given-names>M.L.</given-names>
+</string-name> (<year>2003</year>) <article-title>Oxidative inactivation of purified plasma membrane Ca<sup>2+</sup>&#x02010;ATPase by hydrogen peroxide and protection by calmodulin</article-title>. <source xml:lang="en">Biochemistry</source>, <volume>42</volume>, <fpage>12001</fpage>&#x02013;<lpage>12010</lpage>.<pub-id pub-id-type="pmid">14556631</pub-id></mixed-citation></ref><ref id="bjh15441-bib-0079"><mixed-citation publication-type="journal" id="bjh15441-cit-0079">
+<string-name>
+<surname>Zhang</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Weihrauch</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Jones</surname>, <given-names>D.W.</given-names>
+</string-name>, <string-name>
+<surname>Jing</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Shi</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Gourlay</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Oldham</surname>, <given-names>K.T.</given-names>
+</string-name>, <string-name>
+<surname>Hillery</surname>, <given-names>C.A.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Pritchard</surname>, <given-names>K.A.</given-names>
+<suffix>Jr</suffix>
+</string-name> (<year>2013</year>) <article-title>Inhibition of myeloperoxidase decreases vascular oxidative stress and increases vasodilation in sickle cell disease mice</article-title>. <source xml:lang="en">Journal of Lipid Research</source>, <volume>54</volume>, <fpage>3009</fpage>&#x02013;<lpage>3015</lpage>.<pub-id pub-id-type="pmid">23956444</pub-id></mixed-citation></ref></ref-list></back></article>

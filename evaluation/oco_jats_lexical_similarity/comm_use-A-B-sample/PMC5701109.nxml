@@ -1,0 +1,422 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Braz J Cardiovasc Surg</journal-id><journal-id journal-id-type="iso-abbrev">Braz J Cardiovasc Surg</journal-id><journal-id journal-id-type="publisher-id">rbccv</journal-id><journal-title-group><journal-title>Brazilian Journal of Cardiovascular Surgery</journal-title></journal-title-group><issn pub-type="ppub">0102-7638</issn><issn pub-type="epub">1678-9741</issn><publisher><publisher-name>Sociedade Brasileira de Cirurgia Cardiovascular</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">29211225</article-id><article-id pub-id-type="pmc">5701109</article-id><article-id pub-id-type="doi">10.21470/1678-9741-2017-0196</article-id><article-categories><subj-group subj-group-type="heading"><subject>Trial Protocol</subject></subj-group></article-categories><title-group><article-title>Off-pump <italic>versus</italic> On-pump Coronary Artery Bypass
+Grafting in Frail Patients: Study Protocol for the FRAGILE Multicenter
+Randomized Controlled Trial</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Mej&#x000ed;a</surname><given-names>Omar Asdr&#x000fa;bal Vilca</given-names></name><degrees>MD, PhD</degrees><xref ref-type="aff" rid="aff1">1</xref><xref ref-type="corresp" rid="c1"/></contrib><contrib contrib-type="author"><name><surname>S&#x000e1;</surname><given-names>Michel Pompeu Barros Oliveira</given-names></name><degrees>MD, MSc, PhD</degrees><xref ref-type="aff" rid="aff1">2</xref><xref ref-type="aff" rid="aff3">3</xref></contrib><contrib contrib-type="author"><name><surname>Deininger</surname><given-names>Maurilio Onofre</given-names></name><degrees>MD, PhD</degrees><xref ref-type="aff" rid="aff4">4</xref></contrib><contrib contrib-type="author"><name><surname>Dallan</surname><given-names>Lu&#x000ed;s Roberto Palma</given-names></name><degrees>MD</degrees><xref ref-type="aff" rid="aff1">1</xref></contrib><contrib contrib-type="author"><name><surname>Segalote</surname><given-names>Rodrigo Coelho</given-names></name><degrees>MD</degrees><xref ref-type="aff" rid="aff5">5</xref></contrib><contrib contrib-type="author"><name><surname>de Oliveira</surname><given-names>Marco Antonio Pra&#x000e7;a</given-names></name><degrees>MD</degrees><xref ref-type="aff" rid="aff6">6</xref></contrib><contrib contrib-type="author"><name><surname>Atik</surname><given-names>Fernando Antibas</given-names></name><degrees>MD, PhD</degrees><xref ref-type="aff" rid="aff7">7</xref></contrib><contrib contrib-type="author"><name><surname>dos Santos</surname><given-names>Magaly Arrais</given-names></name><degrees>MD, PhD</degrees><xref ref-type="aff" rid="aff8">8</xref></contrib><contrib contrib-type="author"><name><surname>Silva</surname><given-names>Pedro Gabriel Melo de Barros e</given-names></name><degrees>MD, MSc, PhD</degrees><xref ref-type="aff" rid="aff9">9</xref></contrib><contrib contrib-type="author"><name><surname>Milani</surname><given-names>Rodrigo Mussi</given-names></name><degrees>MD, MSc, PhD</degrees><xref ref-type="aff" rid="aff10">10</xref></contrib><contrib contrib-type="author"><name><surname>Hueb</surname><given-names>Alexandre Ciappina</given-names></name><degrees>MD, PhD</degrees><xref ref-type="aff" rid="aff1">1</xref><xref ref-type="aff" rid="aff11">11</xref></contrib><contrib contrib-type="author"><name><surname>Monteiro</surname><given-names>Rosangela</given-names></name><degrees>PhD</degrees><xref ref-type="aff" rid="aff1">1</xref></contrib><contrib contrib-type="author"><name><surname>Lima</surname><given-names>Ricardo Carvalho</given-names></name><degrees>MD, MSc, PhD, ChM</degrees><xref ref-type="aff" rid="aff2">2</xref><xref ref-type="aff" rid="aff3">3</xref></contrib><contrib contrib-type="author"><name><surname>Lisboa</surname><given-names>Luiz Augusto Ferreira</given-names></name><degrees>MD, PhD</degrees><xref ref-type="aff" rid="aff1">1</xref></contrib><contrib contrib-type="author"><name><surname>Dallan</surname><given-names>Lu&#x000ed;s Alberto Oliveira</given-names></name><degrees>MD, PhD</degrees><xref ref-type="aff" rid="aff1">1</xref></contrib><contrib contrib-type="author"><name><surname>Puskas</surname><given-names>John</given-names></name><degrees>MD, MSc, FACS, ChM</degrees><xref ref-type="aff" rid="aff12">12</xref></contrib><contrib contrib-type="author"><name><surname>Jatene</surname><given-names>Fabio Biscegli</given-names></name><degrees>MD, PhD</degrees><xref ref-type="aff" rid="aff1">1</xref></contrib></contrib-group><aff id="aff1">
+<label>1</label> Instituto do Cora&#x000e7;&#x000e3;o do Hospital das Cl&#x000ed;nicas
+da Faculdade de Medicina da Universidade de S&#x000e3;o Paulo (InCor-HCFMUSP),
+S&#x000e3;o Paulo, SP, Brazil.</aff><aff id="aff2">
+<label>2</label> Division of Cardiovascular Surgery, Pronto-Socorro
+Cardiol&#x000f3;gico de Pernambuco (PROCAPE), Recife, PE, Brazil.</aff><aff id="aff3">
+<label>3</label> Universidade de Pernambuco (UPE), Recife, PE, Brazil.</aff><aff id="aff4">
+<label>4</label> Hospital Alberto Urquiza Wanderley - Unimed, Jo&#x000e3;o Pessoa,
+PB, Brazil.</aff><aff id="aff5">
+<label>5</label> Instituto Nacional de Cardiologia (INC), Rio de Janeiro, RJ,
+Brazil.</aff><aff id="aff6">
+<label>6</label> Hospital Benefic&#x000ea;ncia Portuguesa de S&#x000e3;o Paulo,
+S&#x000e3;o Paulo, SP, Brazil.</aff><aff id="aff7">
+<label>7</label> Instituto de Cardiologia do Distrito Federal, Bras&#x000ed;lia, DF,
+Brazil.</aff><aff id="aff8">
+<label>8</label> Instituto Dante Pazzanese de Cardiologia, S&#x000e3;o Paulo, SP,
+Brazil.</aff><aff id="aff9">
+<label>9</label> Total Cor Hospital - S&#x000e3;o Paulo, SP, Brazil.</aff><aff id="aff10">
+<label>10</label> Pontificia Universidade Cat&#x000f3;lica do Paran&#x000e1; (PUCPR),
+Curitiba, PR, Brazil.</aff><aff id="aff11">
+<label>11</label> Hospital das Clinicas Samuel Lib&#x000e2;nio, Pouso Alegre, Minas
+Gerais, Brazil.</aff><aff id="aff12">
+<label>12</label> Mount Sinai Heart at Mount Sinai Saint Luke's New York, NY, USA.</aff><author-notes><corresp id="c1">Correspondence Address: Omar Asdr&#x000fa;bal Vilca Mej&#x000ed;a,
+Instituto do Cora&#x000e7;&#x000e3;o (InCor-HCFMUSP), Rua Dr. Eneas de Carvalho
+Aguiar, 44 - S&#x000e3;o Paulo, SP, Brazil - Zip code: 05403-000. E-mail:
+<email>omar.mejia@incor.usp.br</email></corresp></author-notes><pub-date pub-type="epub-ppub"><season>Sep-Oct</season><year>2017</year></pub-date><!--Fake ppub date generated by PMC from publisher
+							pub-date/@pub-type='epub-ppub' --><pub-date pub-type="ppub"><season>Sep-Oct</season><year>2017</year></pub-date><volume>32</volume><issue>5</issue><fpage>428</fpage><lpage>434</lpage><history><date date-type="received"><day>13</day><month>9</month><year>2017</year></date><date date-type="accepted"><day>09</day><month>10</month><year>2017</year></date></history><permissions><license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/"><license-p>This is an Open Access article distributed under the terms of the
+Creative Commons Attribution License, which permits unrestricted use,
+distribution, and reproduction in any medium, provided the original work is
+properly cited.</license-p></license></permissions><abstract><sec><title>Introduction</title><p>Advances in modern medicine have led to people living longer and healthier
+lives. Frailty is an emerging concept in medicine yet to be explored as a
+risk factor in cardiac surgery. When it comes to CABG surgery, randomized
+controlled clinical trials have primarily focused on low-risk (ROOBY,
+CORONARY), elevated-risk (GOPCABE) or high-risk patients (BBS), but not on
+frail patients. Therefore, we believe that off-pump CABG could be an
+important technique in patients with limited functional capacity to respond
+to surgical stress. In this study, the authors introduce the new national,
+multicenter, randomized, controlled trial "FRAGILE", to be developed in the
+main cardiac surgery centers of Brazil, to clarify the potential benefit of
+off-pump CABG in frail patients.</p></sec><sec><title>Methods</title><p>FRAGILE is a two-arm, parallel-group, multicentre, individually randomized
+(1:1) controlled trial which will enroll 630 patients with blinded outcome
+assessment (at 30 days, 6 months, 1 year, 2 years and 3 years), which aims
+to compare adverse cardiac and cerebrovascular events after off-pump
+<italic>versus</italic> on-pump CABG in pre-frail and frail patients.
+Primary outcomes will be all-cause mortality, acute myocardial infarction,
+cardiac arrest with successful resuscitation, low cardiac output
+syndrome/cardiogenic shock, stroke, and coronary reintervention. Secondary
+outcomes will be major adverse cardiac and cerebrovascular events, operative
+time, mechanical ventilation time, hyperdynamic shock, new onset of atrial
+fibrillation, renal replacement therapy, reoperation for bleeding,
+pneumonia, length of stay in intensive care unit, length of stay in
+hospital, number of units of blood transfused, graft patency, rate of
+complete revascularization, neurobehavioral outcomes after cardiac surgery,
+quality of life after cardiac surgery and costs.</p></sec><sec><title>Discussion</title><p>FRAGILE trial will determine whether off-pump CABG is superior to
+conventional on-pump CABG in the surgical treatment of pre-frail and frail
+patients.</p></sec><sec><title>Trial registration</title><p>ClinicalTrials.gov, ID: NCT02338947. Registered on August 29<sup>th</sup>
+2014; last updated on March 21<sup>st</sup> 2016.</p></sec></abstract><kwd-group><kwd>Randomized Controlled Trial</kwd><kwd>Frail Elderly</kwd><kwd>Coronary Artery Bypass, Off-Pump</kwd></kwd-group><funding-group><award-group><funding-source>S&#x000e3;o Paulo State Foundation for Research
+Support</funding-source><award-id>2015/23972-3</award-id></award-group><funding-statement>S&#x000e3;o Paulo State Foundation for Research Support (FAPESP)
+2015/23972-3.</funding-statement></funding-group></article-meta></front><body><table-wrap id="t1" orientation="portrait" position="anchor"><table frame="hsides" rules="groups"><colgroup span="1"><col width="10%" span="1"/><col width="38%" span="1"/><col width="4%" span="1"/><col width="10%" span="1"/><col width="38%" span="1"/></colgroup><thead><tr><th align="left" colspan="2" style="background-color:#e6e7e8" rowspan="1">Abbreviations,
+acronyms &#x00026; symbols</th><th align="left" rowspan="1" colspan="1">&#x000a0;</th><th align="left" colspan="2" style="background-color:#e6e7e8" rowspan="1">&#x000a0;</th></tr></thead><tbody><tr><td align="left" style="background-color:#e6e7e8" rowspan="1" colspan="1">ARDS</td><td align="left" style="background-color:#e6e7e8" rowspan="1" colspan="1">= Acute respiratory
+distress syndrome</td><td align="left" rowspan="1" colspan="1">&#x000a0;</td><td align="left" style="background-color:#e6e7e8" rowspan="1" colspan="1">OR</td><td align="left" style="background-color:#e6e7e8" rowspan="1" colspan="1">= Odds ratio</td></tr><tr><td align="left" style="background-color:#e6e7e8" rowspan="1" colspan="1">BBS</td><td align="left" style="background-color:#e6e7e8" rowspan="1" colspan="1">= Best bypass surgery</td><td align="left" rowspan="1" colspan="1">&#x000a0;</td><td align="left" style="background-color:#e6e7e8" rowspan="1" colspan="1">PCI</td><td align="left" style="background-color:#e6e7e8" rowspan="1" colspan="1">= Percutaneous coronary
+intervention</td></tr><tr><td align="left" style="background-color:#e6e7e8" rowspan="1" colspan="1">CABG</td><td align="left" style="background-color:#e6e7e8" rowspan="1" colspan="1">= Coronary artery bypass
+grafting</td><td align="left" rowspan="1" colspan="1">&#x000a0;</td><td align="left" style="background-color:#e6e7e8" rowspan="1" colspan="1">PROM</td><td align="left" style="background-color:#e6e7e8" rowspan="1" colspan="1">= Predicted risk of
+mortality or major morbidity</td></tr><tr><td align="left" style="background-color:#e6e7e8" rowspan="1" colspan="1">CI</td><td align="left" style="background-color:#e6e7e8" rowspan="1" colspan="1">= Confidence interval</td><td align="left" rowspan="1" colspan="1">&#x000a0;</td><td align="left" style="background-color:#e6e7e8" rowspan="1" colspan="1">RCTs</td><td align="left" style="background-color:#e6e7e8" rowspan="1" colspan="1">= Randomized controlled
+trials</td></tr><tr><td align="left" style="background-color:#e6e7e8" rowspan="1" colspan="1">CORONARY</td><td align="left" style="background-color:#e6e7e8" rowspan="1" colspan="1">= CABG Off- or On-Pump
+Revascularization Study</td><td align="left" rowspan="1" colspan="1">&#x000a0;</td><td align="left" style="background-color:#e6e7e8" rowspan="1" colspan="1">ROOBY</td><td align="left" style="background-color:#e6e7e8" rowspan="1" colspan="1">= Randomized on/off
+bypass</td></tr><tr><td align="left" style="background-color:#e6e7e8" rowspan="1" colspan="1">HR</td><td align="left" style="background-color:#e6e7e8" rowspan="1" colspan="1">= Hazards ratio</td><td align="left" rowspan="1" colspan="1">&#x000a0;</td><td align="left" style="background-color:#e6e7e8" rowspan="1" colspan="1">STS</td><td align="left" style="background-color:#e6e7e8" rowspan="1" colspan="1">= Society of Thoracic
+Surgeons</td></tr></tbody></table></table-wrap><sec sec-type="intro"><title>INTRODUCTION</title><p>One of the most controversial areas of cardiac surgery has been whether off-pump
+coronary artery bypass grafting (OPCAB) surgery is superior to conventional on-pump
+coronary artery bypass grafting (CABG) surgery. There is an ongoing debate about the
+benefits and disadvantages of OPCAB. Initial trials have shown that off-pump CABG is
+feasible in selected low-risk patients and offers results similar to those of CABG
+performed with the conventional on-pump technique (on-pump CABG)<sup>[<xref rid="r1" ref-type="bibr">1</xref>,<xref rid="r2" ref-type="bibr">2</xref>]</sup>. In institutions with experience in off-pump CABG, the rates of
+major adverse events and of complete revascularization and graft patency have been
+similar to those with on-pump CABG<sup>[<xref rid="r3" ref-type="bibr">3</xref>]</sup>. These positive results have been called into question by
+reports of inferior graft patency and higher rates of repeat target-vessel
+revascularization associated with off-pump CABG<sup>[<xref rid="r4" ref-type="bibr">4</xref>,<xref rid="r5" ref-type="bibr">5</xref>]</sup>.</p><p>The Randomized On/Off Bypass (ROOBY) trial<sup>[<xref rid="r6" ref-type="bibr">6</xref>]</sup> showed that, among low-risk patients, the rate of death or
+major adverse events at 30 days after surgery was similar with off-pump and on-pump
+CABG, but off-pump CABG was associated with a higher rate of incomplete
+revascularization at 1 year.</p><p>Short-term mortality and morbidity after off-pump and on-pump CABG were similar in a
+recent trial involving 4752 patients with a mixed operative-risk profile (the CABG
+Off- or On-Pump Revascularization Study [CORONARY])<sup>[<xref rid="r7" ref-type="bibr">7</xref>]</sup>.</p><p>The German Off-Pump Coronary Artery Bypass Grafting in Elderly Patients
+(GOPCABE)<sup>[<xref rid="r8" ref-type="bibr">8</xref>]</sup> study focused
+exclusively on patients 75 years of age or older. However, this trial would not
+elucidate the potential benefit of off-pump CABG in high-risk patients because this
+specific group of German patients were moderate risk patients.</p><p>The results of the Best Bypass Surgery (BBS) trial<sup>[<xref rid="r9" ref-type="bibr">9</xref>]</sup>, performed on 341 high-risk patients (European
+System for Cardiac Operative Risk Evaluation "EuroSCORE"&#x0003e;5) undergoing on-pump
+CABG or off-pump CABG, reported no significant differences in the composite of
+adverse cardiac and cerebrovascular events or in any of the following outcomes:
+all-cause mortality, acute myocardial infarction, cardiac arrest, low cardiac
+output/cardiogenic shock, stroke, and coronary reintervention.</p><p>However, in our opinion, the definition of high-risk patient should be interpreted
+carefully, since the EuroSCORE identifies patients based on 18 independent
+variables, many of which were not considered in the study. Risk factors such as
+previous cardiac surgery, critical preoperative state, emergency operation, and poor
+left ventricular dysfunction were excluded. Furthermore, active endocarditis,
+pulmonary hypertension, other than isolated CABG, surgery on the thoracic aorta, and
+postinfarction septal rupture were not considered due to the nature of the study.
+Chronic pulmonary disease and neurological dysfunction were not defined according to
+EuroSCORE, and there is no information on patients with unstable angina.</p><p>In the real world, with more than 1500 patients, we showed lower mortality among
+patients who underwent off-pump CABG<sup>[<xref rid="r10" ref-type="bibr">10</xref>]</sup>. So, after a certain cut-off EuroSCORE &#x0003e; 4.5 or 2000
+Bernstein-Parsonnet score &#x0003e;17.75, off-pump CABG significantly reduces death
+rates. Indeed, numerous large retrospective studies and meta-analyses have shown
+significant short-term improvements after OPCAB and comparable long-term outcomes. A
+recent risk-adjusted analysis of the national Society of Thoracic Surgeons (STS)
+database assessing 876,081 patients demonstrated a significant reduction in death
+and stroke (11% and 34% reduction, respectively) after OPCAB, seen in both low- and
+high-volume centers<sup>[<xref rid="r11" ref-type="bibr">11</xref>]</sup>. After
+that, it is important to reconsider the best approach for patients with higher
+surgical risk for CABG.</p><p>Clearly, a base is being built with strong scientific evidence that this is the group
+that experiences the most benefit from off-pump CABG. This evidence allows not using
+cardiopulmonary bypass to be the main surgical approach, and complete
+revascularization and greater use of arterial grafts in patients with high surgical
+risk as the second plan<sup>[<xref rid="r12" ref-type="bibr">12</xref>]</sup>.</p><p>Actually, randomized controlled trials (RCTs) have failed to demonstrate a
+significant mortality benefit for OPCAB<sup>[<xref rid="r13" ref-type="bibr">13</xref>]</sup>. However, the available RCTs were underpowered to detect
+significant differences between the groups and suffered from high selection and
+exclusion biases. Even more important is the fact that the available RCTs so far
+have primarily focused only on low-risk (ROOBY, CORONARY), elevated-risk (GOPCABE)
+or highrisk patients (BBS), but not on frail patients in whom the benefits of OPCAB
+should be well defined. Moreover, the conversion rates (12.4% in ROOBY, 7.9% in
+CORONARY, and 5% in GOPCABE) may suggest that some of the participating surgeons
+were inexperienced because expert centers report conversion rates between 2% and
+4%<sup>[<xref rid="r14" ref-type="bibr">14</xref>]</sup>, which
+significantly affects long-term outcomes.</p><p>We believe that avoiding cardiopulmonary bypass should be viewed primarily as a step
+toward avoiding aortic manipulation. Despite the long-term benefits of surgery, some
+patients may choose percutaneous coronary intervention (PCI) for the treatment of
+complex multivessel disease to avoid the morbidity associated with CABG, of which
+stroke is the most feared. Expert OPCAB surgeons can offer equivalent durability of
+graft patency as in CABG, with a lower rate of stroke if aortic manipulation is
+avoided.</p><p>Authors make mistakes in pointing out that on-pump CABG should be able to be
+performed under all circumstances, on all patients, at all institutions, regardless
+of their cardiac volume<sup>[<xref rid="r14" ref-type="bibr">14</xref>]</sup>. Thus,
+for example, owing to this rather conflicting evidence, either PCI or CABG surgery
+could be offered to patients with chronic kidney disease, depending on the
+complexity of coronary disease and comorbidities. If PCI is recommended, appropriate
+measures should be employed to prevent contrast-induced worsening of renal function.
+If CABG surgery is the preferred revascularization strategy, the off-pump technique
+might reduce the risk of acute kidney injury<sup>[<xref rid="r15" ref-type="bibr">15</xref>]</sup>.</p><p>On the other hand, cardiac scores, including EuroSCORE and STS, have been developed
+to predict the risk of adverse outcomes following surgery. Frailty, an independent
+predictor of mortality and complications, is not included in these risk algorithms.
+Emerging evidence suggests that frailty is a better marker of biological age and
+more important than chronological age<sup>[<xref rid="r16" ref-type="bibr">16</xref>,<xref rid="r17" ref-type="bibr">17</xref>]</sup>. Afilalo et
+al.<sup>[<xref rid="r18" ref-type="bibr">18</xref>]</sup> determined that
+patients with slow preoperative gait speed (&#x02265;6 s to walk 5 m) had a 2 to 3
+fold increased risk of mortality and major morbidity for any given level of
+STS-Predicted Risk of Mortality or Major Morbidity (PROM) compared with normal
+speed. Gait speed added to STS-PROM marginally increased model performance from 0.70
+(0.60-0.80) to 0.74 (0.64-0.84). Forty-three percent of patients died or sustained a
+major complication assessed as high STS-PROM risk (&#x02265;15%) together with slow
+gait speed, compared with 21.7% low STS risk with slow gait and 18.9% high STS risk
+with normal gait. Afilalo et al.<sup>[<xref rid="r19" ref-type="bibr">19</xref>]</sup> subsequently evaluated the prognostic value of various
+frailty, disability and cardiac risk scores to identify the optimal combination to
+predict adverse outcome. Patients with slow gait speed and &#x02265;3 impairments on
+the Nagi disability scale predicted in-hospital morbidity and mortality above that
+of the Parsonnet cardiac risk score (AUC 0.76 <italic>vs.</italic> 0.72 with
+Parsonnet score alone). Lee et al.<sup>[<xref rid="r20" ref-type="bibr">20</xref>]</sup> performed a retrospective review of a large cardiac registry,
+comparing outcomes between non-frail and frail individuals (coded as having
+deficiencies in the activities of daily living, need for walking aids or diagnosis
+of dementia). Frailty was an independent risk factor for in-hospital mortality
+(risk-adjusted odds ratio [OR] 1.8; 95% confidence interval [CI] 1.1-3.0;
+<italic>P</italic>=0.03) and mortality at 2 years (risk-adjusted hazards ratio
+[HR] 1.5, 95% CI 1.1-2.2; <italic>P</italic>=0.01).The benefits of CABG without
+cardiopulmonary bypass in pre-frail and frail patients are still undetermined.</p><p>In conclusion, frailty is defined as a geriatric syndrome of impaired resiliency to
+stressors (such as cardiac surgery) that has been delineated recently in the
+cardiovascular literature. However, the benefits of CABG without cardiopulmonary
+bypass in these patients are still undetermined. We believe OPCAB remains an
+important technique for the improvement of coronary surgery. The biggest question
+right now is whether pre-frail and frail patients will benefit more from off-pump or
+on-pump CABG.</p><p>The aim of this paper was to describe the FRAGILE trial protocol which intends to
+clarify the potential benefit of off-pump CABG in pre-frail and frail patients; we
+will conduct a national multicenter RCT comparing off-pump <italic>versus</italic>
+on-pump CABG in frail patients.</p></sec><sec sec-type="methods"><title>METHODS</title><sec><title>Study Design</title><p>The FRAGILE study will be a national multicenter RCT to be conducted in 10
+Brazilian institutions. The study is already approved by a certified ethics
+committee. The study sponsor must be the Brazilian Society of Cardiovascular
+Surgery and Zerbini Foundation. Funding will be provided by an unrestricted
+grant from S&#x000e3;o Paulo Research Foundation, which otherwise will not have
+any role in the conduct of the study nor in the analysis nor in the reporting of
+data. There will be confidentiality agreement regarding data use. This RCT will
+be monitored by an independent data and safety monitoring board. All the authors
+will be provided revisions and comments. All the authors will be testifying for
+the accuracy and completeness of the report, as well as for the fidelity of the
+report to the study protocol.</p></sec><sec><title>Study Population</title><p>The inclusion criteria will be: participants aged &#x02265;65 years with
+indication of myocardial revascularization with &#x02265;2 criteria of frailty by
+Fried Frailty Criteria<sup>[<xref rid="r16" ref-type="bibr">16</xref>]</sup>,
+not eligible for angioplasty treatment by the heart team approach and those
+suitable to undergo either off-pump or on-pump CABG.</p><p>There is a dose-response relationship, in relation to the number of fragility
+criteria and patient outcomes. The categorization of the fragility variable was
+performed after the studies showed that the risk increases gradually over 3
+categories (0-1, 2-3, 4-5), with risk of similar events within each category.
+Thus, patients who had 2 or 3 criteria were considered as pre-frail, and
+patients with 4 or 5 criteria were considered as frail<sup>[<xref rid="r21" ref-type="bibr">21</xref>]</sup>.</p><p>The exclusion criteria will be: patients with indication of another procedure in
+addition to CABG; patients who underwent emergency operation (within 24 hours
+after hospital admission); patients who underwent previous cardiac surgery, even
+with other approaches than median sternotomy; patients who do not have free,
+prior and informed consent to participate in this study.</p><p>The baseline characteristics of potentially eligible but excluded patients will
+be recorded in a screening log. All patients will be provided written informed
+consent.</p></sec><sec><title>Participating Centers</title><p>
+<list list-type="order"><list-item><p>Instituto de Cardiologia do Distrito Federal</p></list-item><list-item><p>Instituto do Cora&#x000e7;&#x000e3;o da Faculdade de Medicina da
+Universidade de S&#x000e3;o Paulo</p></list-item><list-item><p>Pronto-Socorro Cardiol&#x000f3;gico de Pernambuco (PROCAPE)</p></list-item><list-item><p>Instituto Dante Pazzanese de Cardiologia</p></list-item><list-item><p>Benefic&#x000ea;ncia Portuguesa de S&#x000e3;o Paulo</p></list-item><list-item><p>Instituto Nacional de Cardiologia</p></list-item><list-item><p>Pontif&#x000ed;cia Universidade Cat&#x000f3;lica do Paran&#x000e1;</p></list-item><list-item><p>Hospital das Cl&#x000ed;nicas Samuel Lib&#x000e2;nio de Pouso
+Alegre</p></list-item><list-item><p>Hospital Alberto Urquiza Wanderley de Jo&#x000e3;o Pessoa</p></list-item><list-item><p>Total Cor Hospital</p></list-item></list>
+</p></sec><sec><title>Randomization and Treatment</title><p>Eligible patients will be randomly assigned to off-pump CABG or on-pump CABG.
+Randomization will be performed after the baseline data, including information
+about the target vessels have been entered into a central, Internet-based,
+password-protected database with the use of a template.</p><p>Treatment assignments will be performed in a blinded manner according to a
+blocked randomization scheme with a block size of ten, stratified according to
+the participating center. Off-pump CABG must be routinely performed at all
+participating centers before the trial is initiated. Participating centers
+should nominate individual study surgeons for each surgical technique.</p><p>Study surgeons will be required to be established experts in the performance of
+either off-pump or on-pump CABG. The average number of CABG surgeries performed
+before the study will be between 50-100 off-pump surgeries for the off-pump CABG
+surgeons and 250 on-pump surgeries for the on-pump CABG surgeons. It will not be
+mandatory for the same surgeon who operates the off-pump CABG cases to also
+operate the on-pump CABG cases, but always respecting the established protocols
+for each surgical technique.</p></sec><sec><title>Surgical Technique</title><p>Surgical access to the heart will be gained through a median sternotomy in all of
+the patients. In order to reduce the risk of bleeding and transfusions an
+absorbable hemostat is used to sternal bone marrow and recovery of red blood
+cells in all patients. Off-pump surgery will be performed with the use of heart
+stabilizers. Patients will be heparinized with 250 IU/kg intravenously to
+achieve activated clotting time &#x0003e;200s. The proximal anastomosis will be
+performed according to protocol to be discussed with our advisor. The distal
+anastomosis will be constructed with the help of mechanical stabilizers and
+cardiac positioner. Intracoronary shunts will be used routinely. On-pump surgery
+will be performed in normothermia, with the use of aortic cross-clamping and
+cold cardioplegic arrest. Patients will be heparinized with 500 IU/kg to achieve
+an activated clotting time &#x0003e;480 s. Heparin will be neutralized with 1 mg
+protamine sulfate per 5000 IU given. During the trial, there will be no changes
+in the 2 surgical techniques that followed a pre-established protocol.</p></sec><sec><title>Data Storage, Follow-Up and Outcome Measures</title><p>All variables from the study will be stored online through a REDCap Web Platform
+(http://www.project-redcap.org/).The REDCap is a secure web application for
+building and managing online surveys and databases. REDCap can be used to
+collect virtually any type of data, it is specifically geared to support data
+capture for research studies. This will be done through national healthcare
+card, address and telephone numbers. On the basis of the registers, it will be
+collected copies of hospital records and death certificates during the follow-up
+period. The neurocognitive tests will be planned in accordance with the
+statement of consensus of assessment of neurobehavioral outcomes after cardiac
+surgery<sup>[<xref rid="r22" ref-type="bibr">22</xref>]</sup>.</p><p>We will assess health-related quality of life using the World Health Organization
+quality of life questionnaire<sup>[<xref rid="r23" ref-type="bibr">23</xref>]</sup>. Neurocognitive and quality of life tests will be carried
+out at baseline and at 6 months postoperatively. No follow-up visits will be
+planned; however, patients will be routinely seen by the referring cardiologist
+1 and 6 months after the operation. Hospital records and death certificates will
+be blinded for the allocated treatment and forwarded to 2 randomly selected
+members of the adjudication committee, who will assess whether each of the
+pre-specified outcomes had occurred. In case of disagreement, the 2 assessments
+together with a copy of the record of the event will be sent to a third member,
+who will have to select the most likely assessment.</p></sec><sec><title>The Primary Endpoint</title><p>It will comprise mortality rates and complications (allcause death, acute
+myocardial infarction, stroke, renal failure, acute respiratory distress
+syndrome and bleeding reoperation) occurring within 30 days of surgery. Hospital
+mortality is defined as death occurring within 30 days after surgery. Myocardial
+infarction is defined as the appearance of a new Q wave on the electrocardiogram
+with an increase of CKMB&#x0003e; 100 IU/L and/or&#x0003e; 10% of the total CK level
+and/or new wall movement abnormalities, with the exception of the septum,
+documented on the echocardiogram. Neurological complications are defined as
+stroke (neurological deficit&#x0003e; 24 hours with positive findings on computed
+tomography) or transient ischemic attack (neurological deficit &#x0003c;24 hours with
+positive findings on computed tomography). Renal insufficiency is defined as an
+increase in plasma creatinine&#x0003e; 2 associated with a urinary output &#x0003c;0.5 mL
+kg/h/in 12 hours. Acute respiratory distress syndrome (ARDS) is defined as the
+presence of tachypnea (respiratory rate&#x0003e; 30 breaths/min), bilateral pulmonary
+infiltrate on chest radiography, severe hypoxemia (arterial oxygen partial blood
+pressure/inspired oxygen fraction &#x0003c;200), the need for positive pressure
+end-expiratory flow&#x0003e; 5 cmH2O, no evidence of left ventricular failure (wedge
+pulmonary capillary pressure &#x0003c;18 mmHg), and no pathological features to
+explain these findings. Reoperation for bleeding is defined as the need to chest
+reopening in the presence of&#x0003e; 500 mL of blood by the chest tube within the
+first hour, &#x0003e;400 mL within the second hour, &#x0003e;300 mL within the third hour,
+or total bleeding &#x0003e;1000 mL within the fourth hour.</p></sec><sec><title>Secondary Outcome Measures</title><p>
+<list list-type="bullet"><list-item><p>Major adverse cardiac and cerebrovascular events after OPCAB and CABG
+in pre-frail and frail patients (1 year)</p></list-item><list-item><p>Major adverse cardiac and cerebrovascular events after OPCAB and CABG
+in pre-frail and frail patients (2 years)</p></list-item><list-item><p>Operative time (180 days)</p></list-item><list-item><p>Mechanical ventilation time (180 days)</p></list-item><list-item><p>Hyperdynamic shock (180 days)</p></list-item><list-item><p>New onset of atrial fibrillation (180 days)</p></list-item><list-item><p>Need for pacing &#x0003e;24 hours (180 days)</p></list-item><list-item><p>Renal replacement therapy (180 days)</p></list-item><list-item><p>Reoperation for bleeding (180 days)</p></list-item><list-item><p>Pneumonia (180 days)</p></list-item><list-item><p>Length of stay in intensive care unit (180 days)</p></list-item><list-item><p>Length of stay in hospital (180 days)</p></list-item><list-item><p>Transfusion requirement (180 days)</p></list-item><list-item><p>Graft patency assessed by coronary computed tomography (1 year)</p></list-item><list-item><p>Correlation between clinical and angiographic scores to prognosis (1
+year)</p></list-item><list-item><p>Recurrence of angina (1 year)</p></list-item></list>
+</p></sec><sec><title>Other Endpoints</title><p>
+<list list-type="bullet"><list-item><p>Neurobehavioral outcomes after cardiac surgery (180 days)</p></list-item><list-item><p>Quality of life after cardiac surgery (180 days)</p></list-item><list-item><p>Cost (180 days)</p></list-item></list>
+</p></sec><sec><title>Statistical Analysis</title><p>The sample size of the FRAGILE trial was based on the ability to detect a 40%
+reduction in the primary outcome in the off-pump group compared with the on-pump
+group, assuming an event proportion after on-pump CABG of 20.8% and accepting a
+risk of type I and II error of 5% and 20%, respectively, and a crossover rate of
+5%<sup>[<xref rid="r24" ref-type="bibr">24</xref>]</sup>. Consequently,
+at least 630 patients will be enrolled.</p><p>All of the data will be analyzed according to intention-to-treat
+(<italic>i.e.</italic>, based on treatment allocation). Therefore, we will
+report treatment-received analyses according to the intervention actually
+received. Baseline characteristics and operative characteristics will be
+compared with the use of chi-square test, t-test, or Kruskal-Wallis test, as
+appropriate. Dichotomous data will be presented as numbers and percentages.
+Continuous data will be presented as mean and standard deviation or median and
+interquartile range. The continuity corrected chi-square test will be used for
+comparison of the 30-day endpoint. Mantel-Haenszel chi-square tests will be used
+to adjust for study-center effects. Treatment effects at 30 days will be
+expressed as OR and 95% CI. For the 12-month endpoint, Kaplan-Meier curves will
+be constructed, and the study groups will be compared with use of the log-rank
+test. HR and 95% CI derived from the Cox proportional hazards model will be
+provided for the composite outcome and individual components. All statistical
+analyses will be performed with the use of the R-3.1.2 language for handling and
+storage of data and performing of statistical calculations.</p></sec></sec><sec sec-type="discussion"><title>DISCUSSION</title><p>The elderly represent the fastest growing group of patients referred for cardiac
+surgery, with the proportion of patients aged 75 years or older steadily rising from
+16% in 1990 to 25% in most recent estimates<sup>[<xref rid="r25" ref-type="bibr">25</xref>]</sup>. Advanced age is frequently accompanied by a larger burden
+of comorbid conditions and greater illness severity. In the setting of cardiac
+surgery, elderly patients are more likely to have extensive coronary artery disease
+and concomitant valvular disease and are more likely to require urgent or emergent
+surgery<sup>[<xref rid="r26" ref-type="bibr">26</xref>]</sup>.</p><p>Nevertheless, elderly patients have consistently been shown to derive sizeable
+benefits from cardiac surgery<sup>[<xref rid="r27" ref-type="bibr">27</xref>]</sup>.
+This risk-benefit dichotomy renders the process of selecting appropriate elderly
+patients particularly challenging for the cardiac surgeon.</p><p>Frailty is defined as a geriatric syndrome of impaired resiliency to stressors that
+has been delineated recently in the cardiovascular literature<sup>[<xref rid="r28" ref-type="bibr">28</xref>]</sup>. In several observational studies
+and registry data in which detailed statistical analyses were carried out, mortality
+and morbidity have been found to be significantly reduced after off- pump CABG
+compared with on-pump CABG in high-risk patients (<italic>e.g.</italic>, patients
+with advanced age or cardiac and systemic comorbidity)<sup>[<xref rid="r8" ref-type="bibr">8</xref>,<xref rid="r12" ref-type="bibr">12</xref>-<xref rid="r14" ref-type="bibr">14</xref>]</sup>.</p><p>The results of BBS randomized trial are in contrast to these findings. Overall 30-day
+mortality in this trial was 4.4%, which was less than the predicted mortality rate
+of 7% according to the EuroSCORE but in agreement with the predicted 3.1% according
+to the STS risk score. This study shows that the risk patients were overestimated by
+the EuroSCORE and this sample will be composed of low and moderate risk patients by
+the STS risk score<sup>[<xref rid="r9" ref-type="bibr">9</xref>]</sup>.</p><p>In the GOPCABE trial, there was no significant difference between off-pump CABG and
+on-pump CABG performed in elderly patients with respect to the composite endpoint of
+death, stroke, myocardial infarction, repeat revascularization, or new renal
+replacement therapy after surgery. With a mean age of 78 years and a predicted
+in-hospital mortality of 3.8%, the study cohort does not represent a population with
+a high operative risk. The results of previous studies are consistent with regard to
+high-risk patients<sup>[<xref rid="r16" ref-type="bibr">16</xref>-<xref rid="r18" ref-type="bibr">18</xref>]</sup>.Therefore, this trial does not
+support the assumption that off-pump CABG cannot improve the early outcome in
+high-risk patients.</p><p>In contrast to the ROOBY trial<sup>[<xref rid="r11" ref-type="bibr">11</xref>]</sup>,
+the GOPCABE study did not show a significant difference in survival or major adverse
+events at 1 year after surgery. This absence of difference may be a consequence of
+the requirement for substantially greater experience with off-pump CABG in the
+GOPCABE trial than in the ROOBY trial.</p><p>With the growth of minimally invasive and transcatheter cardiac interventions, the
+expansion of risk prediction beyond traditional risk factors and risk scores has
+become a high priority. Clinicians may use this integrative approach of combining
+risk scores including frailty and disability to better characterize elderly patients
+referred for cardiac interventions and identify those who are vulnerable and at
+increased risk. A multidisciplinary team involving cardiac surgery, cardiology,
+geriatric medicine, physiotherapy, and occupational therapy may be well suited to
+address these diverse elements which contribute to postoperative risk<sup>[<xref rid="r19" ref-type="bibr">19</xref>]</sup>.</p><p>The CORONARY trial falls short of delivering a knockout victory for the off-pump
+technique. There were no significant differences in the rate of the composite
+primary outcome of death, stroke, non-fatal myocardial infarction or new renal
+failure at 30 days between off-pump and on-pump CABG. However, off-pump CABG was
+associated with fewer transfusions, reoperations for bleeding, acute kidney injury,
+and respiratory infections or failure. Thus, the off-pump technique may be best in
+certain subgroups of patients and we must choose the procedure that is best for
+them<sup>[<xref rid="r29" ref-type="bibr">29</xref>]</sup>. We hypothesized
+that the frailty status would contribute to the risk in patients undergoing on-pump
+CABG and that off-pump CABG could be advantageous for frail patients.</p><sec><title>Limitations</title><p>Some limitations of our trial are to be noted. Firstly, the assessment of graft
+patency will not be performed by coronary catheterization (test which indicated
+surgery). In contrast, coronary computed tomography angiogram will be performed
+in all patients for this purpose. Secondly, the events will not be adjudicated
+by a blinded adjudication committee. All data will be provided by the local
+investigators according to the protocol definitions.</p><table-wrap id="t2" orientation="portrait" position="anchor"><table frame="hsides" rules="groups"><colgroup span="1"><col width="10%" span="1"/><col width="90%" span="1"/></colgroup><thead><tr><th align="left" colspan="2" rowspan="1">Authors' roles &#x00026;
+responsibilities</th></tr></thead><tbody><tr><td align="left" valign="top" rowspan="1" colspan="1">OAVM</td><td align="left" valign="top" rowspan="1" colspan="1">Conception and design of the work;
+drafting the work and revising it critically; final approval of
+the version to be published</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">MPBOS</td><td align="left" valign="top" rowspan="1" colspan="1">Conception and design of the work;
+drafting the work and revising it critically; final approval of
+the version to be published</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">MOD</td><td align="left" valign="top" rowspan="1" colspan="1">Conception and design of the work;
+drafting the work and revising it critically; final approval of
+the version to be published</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">LRPD</td><td align="left" valign="top" rowspan="1" colspan="1">Conception and design of the work;
+drafting the work and revising it critically; final approval of
+the version to be published</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">RCS</td><td align="left" valign="top" rowspan="1" colspan="1">Conception and design of the work;
+drafting the work and revising it critically; final approval of
+the version to be published</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">MAPO</td><td align="left" valign="top" rowspan="1" colspan="1">Conception and design of the work;
+drafting the work and revising it critically; final approval of
+the version to be published</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">FAA</td><td align="left" valign="top" rowspan="1" colspan="1">Conception and design of the work;
+drafting the work and revising it critically; final approval of
+the version to be published</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">MAS</td><td align="left" valign="top" rowspan="1" colspan="1">Conception and design of the work;
+drafting the work and revising it critically; final approval of
+the version to be published</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">PGMBS</td><td align="left" valign="top" rowspan="1" colspan="1">Conception and design of the work;
+drafting the work and revising it critically; final approval of
+the version to be published</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">RMM</td><td align="left" valign="top" rowspan="1" colspan="1">Conception and design of the work;
+drafting the work and revising it critically; final approval of
+the version to be published</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">ACH</td><td align="left" valign="top" rowspan="1" colspan="1">Conception and design of the work;
+drafting the work and revising it critically; final approval of
+the version to be published</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">&#x000a0;RM</td><td align="left" valign="top" rowspan="1" colspan="1">Conception and design of the work;
+drafting the work and revising it critically; final approval of
+the version to be published</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">RCL</td><td align="left" valign="top" rowspan="1" colspan="1">Conception and design of the work;
+drafting the work and revising it critically; final approval of
+the version to be published</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">LAFL</td><td align="left" valign="top" rowspan="1" colspan="1">Conception and design of the work;
+drafting the work and revising it critically; final approval of
+the version to be published</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">LAOD</td><td align="left" valign="top" rowspan="1" colspan="1">Conception and design of the work;
+drafting the work and revising it critically; final approval of
+the version to be published</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">JP</td><td align="left" valign="top" rowspan="1" colspan="1">Conception and design of the work;
+drafting the work and revising it critically; final approval of
+the version to be published</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">FBJ</td><td align="left" valign="top" rowspan="1" colspan="1">Conception and design of the work;
+drafting the work and revising it critically; final approval of
+the version to be published</td></tr></tbody></table></table-wrap></sec></sec></body><back><fn-group><fn fn-type="COI-statement"><p>No conflict of interest.</p></fn><fn fn-type="other"><p>This protocol was designed at the Instituto do Cora&#x000e7;&#x000e3;o do Hospital
+das Cl&#x000ed;nicas da Faculdade de Medicina da Universidade de S&#x000e3;o Paulo
+(InCor-HCFMUSP), S&#x000e3;o Paulo, SP, Brazil.</p></fn><fn fn-type="financial-disclosure"><p>Financial support: S&#x000e3;o Paulo State Foundation for Research Support
+(FAPESP) 2015/23972-3.</p></fn></fn-group><ref-list><title>REFERENCES</title><ref id="r1"><label>1</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Nathoe</surname><given-names>HM</given-names></name><name><surname>van Dijk</surname><given-names>D</given-names></name><name><surname>Jansen</surname><given-names>EW</given-names></name><name><surname>Suyker</surname><given-names>WJ</given-names></name><name><surname>Diephuis</surname><given-names>JC</given-names></name><name><surname>van Boven</surname><given-names>WJ</given-names></name><etal/></person-group><article-title>A comparison of on-pump and off-pump coronary bypass surgery in
+low-risk patients</article-title><source>N Engl J Med</source><year>2003</year><volume>348</volume><fpage>394</fpage><lpage>402</lpage><pub-id pub-id-type="pmid">12556542</pub-id></element-citation></ref><ref id="r2"><label>2</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gerola</surname><given-names>LR</given-names></name><name><surname>Buffolo</surname><given-names>E</given-names></name><name><surname>Jasbik</surname><given-names>W</given-names></name><name><surname>Botelho</surname><given-names>B</given-names></name><name><surname>Bosco</surname><given-names>J</given-names></name><name><surname>Brasil</surname><given-names>LA</given-names></name><etal/></person-group><article-title>Off-pump versus on-pump myocardial revascularization in low-risk
+patients with one or two vessel disease: perioperative results in a
+multicenter randomized controlled trial</article-title><source>Ann Thorac Surg</source><year>2004</year><volume>77</volume><issue>2</issue><fpage>569</fpage><lpage>573</lpage><pub-id pub-id-type="pmid">14759439</pub-id></element-citation></ref><ref id="r3"><label>3</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Puskas</surname><given-names>JD</given-names></name><name><surname>Williams</surname><given-names>WH</given-names></name><name><surname>Mahoney</surname><given-names>EM</given-names></name><name><surname>Huber</surname><given-names>PR</given-names></name><name><surname>Block</surname><given-names>PC</given-names></name><name><surname>Duke</surname><given-names>PG</given-names></name><etal/></person-group><article-title>Off-pump vs. conventional coronary artery bypass grafting: early
+and 1-year graft patency, cost, and quality-of-life outcomes: a randomized
+trial</article-title><source>JAMA</source><year>2004</year><volume>291</volume><issue>15</issue><fpage>1841</fpage><lpage>1849</lpage><pub-id pub-id-type="pmid">15100202</pub-id></element-citation></ref><ref id="r4"><label>4</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Khan</surname><given-names>NE</given-names></name><name><surname>De Souza</surname><given-names>A</given-names></name><name><surname>Mister</surname><given-names>R</given-names></name><name><surname>Flather</surname><given-names>M</given-names></name><name><surname>Clague</surname><given-names>J</given-names></name><name><surname>Davies</surname><given-names>S</given-names></name><etal/></person-group><article-title>A randomized comparison of off-pump and on-pump multivessel
+coronary-artery bypass surgery</article-title><source>N Engl J Med</source><year>2004</year><volume>350</volume><issue>1</issue><fpage>21</fpage><lpage>28</lpage><pub-id pub-id-type="pmid">14702424</pub-id></element-citation></ref><ref id="r5"><label>5</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hattler</surname><given-names>B</given-names></name><name><surname>Messenger</surname><given-names>JC</given-names></name><name><surname>Shroyer</surname><given-names>AL</given-names></name><name><surname>Collins</surname><given-names>JF</given-names></name><name><surname>Haugen</surname><given-names>SJ</given-names></name><name><surname>Garcia</surname><given-names>JA</given-names></name><etal/></person-group><article-title>Off-pump coronary artery bypass surgery is associated with worse
+arterial and saphenous vein graft patency and less effective
+revascularization: results from the Veterans Affairs Randomized On/Off
+Bypass (ROOBY) trial</article-title><source>Circulation</source><year>2012</year><volume>125</volume><issue>23</issue><fpage>2827</fpage><lpage>2835</lpage><pub-id pub-id-type="pmid">22592900</pub-id></element-citation></ref><ref id="r6"><label>6</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Shroyer</surname><given-names>AL</given-names></name><name><surname>Grover</surname><given-names>FL</given-names></name><name><surname>Hattler</surname><given-names>B</given-names></name><name><surname>Collins</surname><given-names>JF</given-names></name><name><surname>McDonald</surname><given-names>GO</given-names></name><name><surname>Kozora</surname><given-names>E</given-names></name><etal/></person-group><article-title>On-pump versus off-pump coronary-artery bypass
+surgery</article-title><source>N Engl J Med</source><year>2009</year><volume>361</volume><issue>19</issue><fpage>1827</fpage><lpage>1837</lpage><pub-id pub-id-type="pmid">19890125</pub-id></element-citation></ref><ref id="r7"><label>7</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lamy</surname><given-names>A</given-names></name><name><surname>Devereaux</surname><given-names>PJ</given-names></name><name><surname>Prabhakaran</surname><given-names>D</given-names></name><name><surname>Taggart</surname><given-names>DP</given-names></name><name><surname>Hu</surname><given-names>S</given-names></name><name><surname>Paolasso</surname><given-names>E</given-names></name><etal/></person-group><article-title>Off-pump or on-pump coronary-artery bypass grafting at 30
+days</article-title><source>N Engl J Med</source><year>2012</year><volume>366</volume><issue>16</issue><fpage>1489</fpage><lpage>1497</lpage><pub-id pub-id-type="pmid">22449296</pub-id></element-citation></ref><ref id="r8"><label>8</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Diegeler</surname><given-names>A</given-names></name><name><surname>Borgermann</surname><given-names>J</given-names></name><name><surname>Kappert</surname><given-names>V</given-names></name><name><surname>Breuer</surname><given-names>M</given-names></name><name><surname>Boning</surname><given-names>A</given-names></name><name><surname>Ursulescu</surname><given-names>A</given-names></name><etal/></person-group><article-title>Off-pump versus on-pump coronary-artery bypass grafting in
+elderly patients</article-title><source>N Engl J Med</source><year>2013</year><volume>368</volume><issue>13</issue><fpage>1189</fpage><lpage>1198</lpage><pub-id pub-id-type="pmid">23477657</pub-id></element-citation></ref><ref id="r9"><label>9</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>M&#x000f8;ller</surname><given-names>CH</given-names></name><name><surname>Perko</surname><given-names>MJ</given-names></name><name><surname>Lund</surname><given-names>JT</given-names></name><name><surname>Andersen</surname><given-names>LW</given-names></name><name><surname>Kelbaek</surname><given-names>H</given-names></name><name><surname>Madsen</surname><given-names>JK</given-names></name><etal/></person-group><article-title>No major differences in 30-day outcomes in high-risk patients
+randomized to off-pump versus on-pump coronary artery bypass surgery: the
+best bypass surgery trial</article-title><source>Circulation</source><year>2010</year><volume>121</volume><issue>4</issue><fpage>498</fpage><lpage>504</lpage><pub-id pub-id-type="pmid">20083683</pub-id></element-citation></ref><ref id="r10"><label>10</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mejia</surname><given-names>OA</given-names></name><name><surname>Lisboa</surname><given-names>LA</given-names></name><name><surname>Puig</surname><given-names>LB</given-names></name><name><surname>Moreira</surname><given-names>LF</given-names></name><name><surname>Dallan</surname><given-names>LA</given-names></name><name><surname>Jatene</surname><given-names>FB</given-names></name></person-group><article-title>On-pump or off-pump? Impact of risk scores in coronary artery
+bypass surgery</article-title><source>Rev Bras Cir Cardiovasc</source><year>2012</year><volume>27</volume><issue>4</issue><fpage>503</fpage><lpage>511</lpage><pub-id pub-id-type="pmid">23515722</pub-id></element-citation></ref><ref id="r11"><label>11</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Polomsky</surname><given-names>M</given-names></name><name><surname>He</surname><given-names>X</given-names></name><name><surname>O'Brien</surname><given-names>SM</given-names></name><name><surname>Puskas</surname><given-names>JD</given-names></name></person-group><article-title>Outcomes of off-pump versus on-pump coronary artery bypass
+grafting: impact of preoperative risk</article-title><source>J Thorac Cardiovasc Surg</source><year>2013</year><volume>145</volume><issue>5</issue><fpage>1193</fpage><lpage>1198</lpage><pub-id pub-id-type="pmid">23597624</pub-id></element-citation></ref><ref id="r12"><label>12</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lisboa</surname><given-names>LA</given-names></name><name><surname>Mej&#x000ed;a</surname><given-names>OA</given-names></name><name><surname>Dallan</surname><given-names>LA</given-names></name></person-group><article-title>Which patients will benefit more from off-pump coronary artery
+bypass grafting?</article-title><source>J Thorac Cardiovasc Surg</source><year>2014</year><volume>147</volume><issue>1</issue><fpage>540</fpage><lpage>541</lpage><pub-id pub-id-type="pmid">24331914</pub-id></element-citation></ref><ref id="r13"><label>13</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lazar</surname><given-names>HL</given-names></name></person-group><article-title>Should off-pump coronary artery bypass grafting be
+abandoned?</article-title><source>Circulation</source><year>2013</year><volume>128</volume><issue>4</issue><fpage>406</fpage><lpage>413</lpage><pub-id pub-id-type="pmid">23877063</pub-id></element-citation></ref><ref id="r14"><label>14</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Puskas</surname><given-names>JD</given-names></name><name><surname>Williams</surname><given-names>WH</given-names></name><name><surname>O'Donnell</surname><given-names>R</given-names></name><name><surname>Patterson</surname><given-names>RE</given-names></name><name><surname>Sigman</surname><given-names>SR</given-names></name><name><surname>Smith</surname><given-names>AS</given-names></name><etal/></person-group><article-title>Off-pump and on-pump coronary artery bypass grafting are
+associated with similar graft patency, myocardial ischemia, and freedom from
+reintervention: long-term follow-up of a randomized trial</article-title><source>Ann Thorac Surg</source><year>2011</year><volume>91</volume><issue>6</issue><fpage>1836</fpage><lpage>1842</lpage><pub-id pub-id-type="pmid">21619980</pub-id></element-citation></ref><ref id="r15"><label>15</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Iqbal</surname><given-names>J</given-names></name><name><surname>Serruys</surname><given-names>PW</given-names></name><name><surname>Taggart</surname><given-names>DP</given-names></name></person-group><article-title>Optimal revascularization for complex coronary artery
+disease</article-title><source>Nat Rev Cardiol</source><year>2013</year><volume>10</volume><issue>11</issue><fpage>635</fpage><lpage>647</lpage><pub-id pub-id-type="pmid">24042217</pub-id></element-citation></ref><ref id="r16"><label>16</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Fried</surname><given-names>LP</given-names></name><name><surname>Tangen</surname><given-names>CM</given-names></name><name><surname>Walston</surname><given-names>J</given-names></name><name><surname>Newman</surname><given-names>AB</given-names></name><name><surname>Hirsch</surname><given-names>C</given-names></name><name><surname>Gottdiener</surname><given-names>J</given-names></name><etal/></person-group><article-title>Frailty in older adults: evidence for a phenotype</article-title><source>J Gerontol A Biol Sci Med Sci</source><year>2001</year><volume>56</volume><issue>3</issue><fpage>M146</fpage><lpage>M156</lpage><pub-id pub-id-type="pmid">11253156</pub-id></element-citation></ref><ref id="r17"><label>17</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Fried</surname><given-names>LP</given-names></name><name><surname>Ferrucci</surname><given-names>L</given-names></name><name><surname>Darer</surname><given-names>J</given-names></name><name><surname>Williamson</surname><given-names>JD</given-names></name><name><surname>Anderson</surname><given-names>G</given-names></name></person-group><article-title>Untangling the concepts of disability, frailty, and comorbidity:
+implications for improved targeting and care</article-title><source>J Gerontol A Biol Sci Med Sci</source><year>2004</year><volume>59</volume><issue>3</issue><fpage>255</fpage><lpage>263</lpage><pub-id pub-id-type="pmid">15031310</pub-id></element-citation></ref><ref id="r18"><label>18</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Afilalo</surname><given-names>J</given-names></name><name><surname>Eisenberg</surname><given-names>MJ</given-names></name><name><surname>Morin</surname><given-names>JF</given-names></name><name><surname>Bergman</surname><given-names>H</given-names></name><name><surname>Monette</surname><given-names>J</given-names></name><name><surname>Noiseux</surname><given-names>N</given-names></name><etal/></person-group><article-title>Gait speed as an incremental predictor of mortality and major
+morbidity in elderly patients undergoing cardiac surgery</article-title><source>J Am Coll Cardiol</source><year>2010</year><volume>56</volume><fpage>1668</fpage><lpage>1676</lpage><pub-id pub-id-type="pmid">21050978</pub-id></element-citation></ref><ref id="r19"><label>19</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Afilalo</surname><given-names>J</given-names></name><name><surname>Mottillo</surname><given-names>S</given-names></name><name><surname>Eisenberg</surname><given-names>MJ</given-names></name><name><surname>Alexander</surname><given-names>KP</given-names></name><name><surname>Noiseux</surname><given-names>N</given-names></name><name><surname>Perrault</surname><given-names>LP</given-names></name><etal/></person-group><article-title>Addition of frailty and disability to cardiac surgery risk scores
+identifies elderly patients at high risk of mortality or major
+morbidity</article-title><source>Circ Cardiovasc Qual Outcomes</source><year>2012</year><volume>5</volume><issue>2</issue><fpage>222</fpage><lpage>228</lpage><pub-id pub-id-type="pmid">22396586</pub-id></element-citation></ref><ref id="r20"><label>20</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lee</surname><given-names>DH</given-names></name><name><surname>Buth</surname><given-names>KJ</given-names></name><name><surname>Martin</surname><given-names>BJ</given-names></name><name><surname>Yip</surname><given-names>AM</given-names></name><name><surname>Hirsch</surname><given-names>GM</given-names></name></person-group><article-title>Frail patients are at increased risk for mortality and prolonged
+institutional care after cardiac surgery</article-title><source>Circulation</source><year>2010</year><volume>121</volume><issue>8</issue><fpage>9738</fpage><lpage>9738</lpage></element-citation></ref><ref id="r21"><label>21</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Makary</surname><given-names>MA</given-names></name><name><surname>Segev</surname><given-names>DL</given-names></name><name><surname>Pronovost</surname><given-names>PJ</given-names></name><name><surname>Syin</surname><given-names>D</given-names></name><name><surname>Bandeen-Roche</surname><given-names>K</given-names></name><name><surname>Patel</surname><given-names>P</given-names></name><etal/></person-group><article-title>Frailty as a predictor of surgical outcomes in older
+patients</article-title><source>J Am Coll Surg</source><year>2010</year><volume>210</volume><issue>6</issue><fpage>901</fpage><lpage>908</lpage><pub-id pub-id-type="pmid">20510798</pub-id></element-citation></ref><ref id="r22"><label>22</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Murkin</surname><given-names>JM</given-names></name><name><surname>Newman</surname><given-names>SP</given-names></name><name><surname>Stump</surname><given-names>DA</given-names></name><name><surname>Blumenthal</surname><given-names>JA</given-names></name></person-group><article-title>Statement of consensus on assessment of neurobehavioral outcomes
+after cardiac surgery</article-title><source>Ann Thorac Surg</source><year>1995</year><volume>59</volume><issue>5</issue><fpage>1289</fpage><lpage>1295</lpage><pub-id pub-id-type="pmid">7733754</pub-id></element-citation></ref><ref id="r23"><label>23</label><element-citation publication-type="journal"><article-title>The World Health Organization Quality of Life Assessment
+(WHOQOL): development and general psychometric properties</article-title><source>Soc Sci Med</source><year>1998</year><volume>46</volume><issue>12</issue><fpage>1569</fpage><lpage>1585</lpage><pub-id pub-id-type="pmid">9672396</pub-id></element-citation></ref><ref id="r24"><label>24</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Al-Ruzzeh</surname><given-names>S</given-names></name><name><surname>Nakamura</surname><given-names>K</given-names></name><name><surname>Athanasiou</surname><given-names>T</given-names></name><name><surname>Modine</surname><given-names>T</given-names></name><name><surname>George</surname><given-names>S</given-names></name><name><surname>Yacoub</surname><given-names>M</given-names></name><etal/></person-group><article-title>Does off-pump coronary artery bypass (OPCAB) surgery improve the
+outcome in high-risk patients?: a comparative study of 1398 high-risk
+patients</article-title><source>Eur J Cardiothorac Surg</source><year>2003</year><volume>23</volume><issue>1</issue><fpage>50</fpage><lpage>55</lpage><pub-id pub-id-type="pmid">12493504</pub-id></element-citation></ref><ref id="r25"><label>25</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Peng</surname><given-names>S-Y</given-names></name><name><surname>Peng</surname><given-names>S-K</given-names></name></person-group><article-title>Predicting adverse outcomes of cardiac surgery with the
+application of artificial neural networks</article-title><source>Anaesthesia</source><year>2008</year><volume>63</volume><issue>7</issue><fpage>705</fpage><lpage>713</lpage><pub-id pub-id-type="pmid">18582255</pub-id></element-citation></ref><ref id="r26"><label>26</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Naughton</surname><given-names>C</given-names></name><name><surname>Feneck</surname><given-names>RO</given-names></name><name><surname>Roxburgh</surname><given-names>J</given-names></name></person-group><article-title>Early and late predictors of mortality following on-pump coronary
+artery bypass graft surgery in the elderly as compared to a younger
+population</article-title><source>Eur J Cardiothorac Surg</source><year>2009</year><volume>36</volume><issue>4</issue><fpage>621</fpage><lpage>627</lpage><pub-id pub-id-type="pmid">19540130</pub-id></element-citation></ref><ref id="r27"><label>27</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Likosky</surname><given-names>DS</given-names></name><name><surname>Dacey</surname><given-names>LJ</given-names></name><name><surname>Baribeau</surname><given-names>YR</given-names></name><name><surname>Leavitt</surname><given-names>BJ</given-names></name><name><surname>Clough</surname><given-names>R</given-names></name><name><surname>Cochran</surname><given-names>RP</given-names></name><etal/></person-group><article-title>Long-term survival of the very elderly undergoing coronary artery
+bypass grafting</article-title><source>Ann Thorac Surg</source><year>2008</year><volume>85</volume><issue>4</issue><fpage>12337</fpage><lpage>12337</lpage></element-citation></ref><ref id="r28"><label>28</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Afilalo</surname><given-names>J</given-names></name><name><surname>Karunananthan</surname><given-names>S</given-names></name><name><surname>Eisenberg</surname><given-names>MJ</given-names></name><name><surname>Alexander</surname><given-names>KP</given-names></name><name><surname>Bergman</surname><given-names>H</given-names></name></person-group><article-title>Role of frailty in patients with cardiovascular
+disease</article-title><source>Am J Cardiol</source><year>2009</year><volume>103</volume><issue>11</issue><fpage>1616</fpage><lpage>1621</lpage><pub-id pub-id-type="pmid">19463525</pub-id></element-citation></ref><ref id="r29"><label>29</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Blackstone</surname><given-names>EH</given-names></name><name><surname>JF 3rd</surname><given-names>Sabik</given-names></name></person-group><article-title>Changing the discussion about on-pump versus off-pump
+CABG</article-title><source>N Engl J Med</source><year>2017</year><volume>377</volume><issue>7</issue><fpage>692</fpage><lpage>693</lpage><pub-id pub-id-type="pmid">28813212</pub-id></element-citation></ref></ref-list></back></article>

@@ -1,0 +1,188 @@
+{
+    "Name of Person": {
+        "has name": 0.5634920634920635,
+        "frequency": 252640
+    },
+    "X (cross) Reference": {
+        "references": 0.6933760683760684,
+        "frequency": 181724,
+        "bibliographic reference": 0.6933760683760684
+    },
+    "Paragraph": {
+        "paragraph": 1.0,
+        "frequency": 132438
+    },
+    "Publication Identifier for a Cited Publication": {
+        "identifier": 0.6904761904761905,
+        "frequency": 101258,
+        "has publication date": 0.5578703703703703
+    },
+    "Reference Item": {
+        "references": 0.7777777777777778,
+        "frequency": 90192,
+        "bibliographic reference": 0.7777777777777778,
+        "in-text reference pointer": 0.5527777777777778,
+        "reference book": 0.5456349206349207
+    },
+    "First Page": {
+        "has starting page": 0.7777777777777777,
+        "frequency": 80753,
+        "has ending page": 0.7777777777777777
+    },
+    "Element Citation": {
+        "has citation time span": 0.6616161616161615,
+        "frequency": 57034,
+        "citation": 1.0,
+        "has citation creation date": 0.6627525252525253
+    },
+    "Section": {
+        "section title": 0.7857142857142857,
+        "frequency": 43742,
+        "section": 1.0
+    },
+    "Mixed Citation": {
+        "has citation time span": 0.6893939393939393,
+        "frequency": 33643,
+        "citation": 1.0,
+        "has citation creation date": 0.690530303030303
+    },
+    "Article Identifier": {
+        "journal article": 0.5714285714285714,
+        "frequency": 10319,
+        "identifier": 0.7777777777777778,
+        "identifier scheme": 0.5486111111111112,
+        "has identifier": 0.5590277777777778
+    },
+    "Footnote": {
+        "footnote": 1.0,
+        "frequency": 8336
+    },
+    "Journal Identifier": {
+        "journal article": 0.5634920634920635,
+        "frequency": 7577,
+        "identifier": 0.7857142857142857,
+        "journal volume": 0.5714285714285714,
+        "journal": 0.7857142857142857,
+        "identifier scheme": 0.5565476190476191,
+        "has identifier": 0.5669642857142857
+    },
+    "Publication Date": {
+        "date": 0.7678571428571428,
+        "frequency": 6536,
+        "has publication date": 0.8541666666666667
+    },
+    "Table (NISO JATS table model)": {
+        "table": 0.6972222222222222,
+        "frequency": 5515
+    },
+    "Date": {
+        "date": 1.0,
+        "frequency": 5120,
+        "has publication date": 0.6994047619047619,
+        "has citation creation date": 0.665625
+    },
+    "Article": {
+        "journal article": 0.7777777777777778,
+        "frequency": 2789
+    },
+    "Reference List (Bibliographic)": {
+        "references": 0.7857142857142857,
+        "frequency": 2449,
+        "bibliographic reference": 0.7857142857142857,
+        "in-text reference pointer": 0.5607142857142857,
+        "reference book": 0.5513392857142857
+    },
+    "Role or Function Title of Contributor": {
+        "title": 0.6505821078431373,
+        "frequency": 2286,
+        "with role": 0.6519886363636364,
+        "role": 0.6519886363636364,
+        "contributor": 0.6505821078431373
+    },
+    "Translated Title": {
+        "title": 0.7638888888888888,
+        "frequency": 2136,
+        "section title": 0.5535714285714286,
+        "has title": 0.5555555555555556
+    },
+    "Institution Identifier": {
+        "identifier": 0.7777777777777778,
+        "frequency": 2133,
+        "identifier scheme": 0.5486111111111112,
+        "has identifier": 0.5590277777777778
+    },
+    "citation": {
+        "has citation time span": 0.6616161616161615,
+        "frequency": 1618,
+        "citation": 1.0,
+        "has citation creation date": 0.6627525252525253
+    },
+    "Alternate Title": {
+        "title": 0.765625,
+        "frequency": 1197,
+        "section title": 0.5565476190476191,
+        "has title": 0.540625
+    },
+    "Funding Source": {
+        "false_positive": "True",
+        "had primary source": 0.5714285714285714,
+        "frequency": 1177
+    },
+    "Boxed Text": {
+        "text chunk": 0.775,
+        "frequency": 1033
+    },
+    "Award Identifier": {
+        "identifier": 0.7708333333333333,
+        "frequency": 713,
+        "identifier scheme": 0.5416666666666666,
+        "has identifier": 0.5520833333333333
+    },
+    "Media Object": {
+        "print object": 0.5857142857142856,
+        "frequency": 618
+    },
+    "Contributor Identifier": {
+        "identifier": 0.7692307692307692,
+        "frequency": 489,
+        "identifier scheme": 0.5400641025641025,
+        "has identifier": 0.5504807692307692,
+        "contributor": 0.7692307692307692
+    },
+    "Date within a Citation": {
+        "citation": 0.775,
+        "frequency": 173,
+        "date": 0.775,
+        "has citation creation date": 0.778125
+    },
+    "URI for This Same Article Online": {
+        "false_positive": "True",
+        "journal article": 0.7777777777777778,
+        "frequency": 166
+    },
+    "Object Identifier": {
+        "print object": 0.5833333333333334,
+        "frequency": 112,
+        "identifier": 0.78125,
+        "identifier scheme": 0.5539772727272727,
+        "has identifier": 0.58125
+    },
+    "Uniform Resource Identifier (URI)": {
+        "identifier": 0.698005698005698,
+        "frequency": 88
+    },
+    "Issue Identifier": {
+        "identifier": 0.7777777777777778,
+        "frequency": 41,
+        "identifier scheme": 0.5833333333333334,
+        "has identifier": 0.5590277777777778,
+        "journal issue": 0.7777777777777778
+    },
+    "Issue Title": {
+        "title": 0.7692307692307692,
+        "frequency": 24,
+        "section title": 0.5634920634920635,
+        "has title": 0.5504807692307692,
+        "journal issue": 0.7692307692307692
+    }
+}

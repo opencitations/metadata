@@ -1,0 +1,1041 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Bull Math Biol</journal-id><journal-id journal-id-type="iso-abbrev">Bull. Math. Biol</journal-id><journal-title-group><journal-title>Bulletin of Mathematical Biology</journal-title></journal-title-group><issn pub-type="ppub">0092-8240</issn><issn pub-type="epub">1522-9602</issn><publisher><publisher-name>Springer US</publisher-name><publisher-loc>New York</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">28639168</article-id><article-id pub-id-type="pmc">5517597</article-id><article-id pub-id-type="publisher-id">310</article-id><article-id pub-id-type="doi">10.1007/s11538-017-0310-5</article-id><article-categories><subj-group subj-group-type="heading"><subject>Original Article</subject></subj-group></article-categories><title-group><article-title>Sensitivity of Chaos Measures in Detecting Stress in the Focusing Control Mechanism of the Short-Sighted Eye</article-title></title-group><contrib-group><contrib contrib-type="author" corresp="yes"><name><surname>Hampson</surname><given-names>Karen M.</given-names></name><address><email>k.m.hampson@bradford.ac.uk</email></address><xref ref-type="aff" rid="Aff1"/></contrib><contrib contrib-type="author"><name><surname>Cufflin</surname><given-names>Matthew P.</given-names></name><xref ref-type="aff" rid="Aff1"/></contrib><contrib contrib-type="author"><name><surname>Mallen</surname><given-names>Edward A. H.</given-names></name><xref ref-type="aff" rid="Aff1"/></contrib><aff id="Aff1"><institution-wrap><institution-id institution-id-type="ISNI">0000 0004 0379 5283</institution-id><institution-id institution-id-type="GRID">grid.6268.a</institution-id><institution>School of Optometry and Vision Science, </institution><institution>University of Bradford, </institution></institution-wrap>Bradford, BD7 1DP UK </aff></contrib-group><pub-date pub-type="epub"><day>21</day><month>6</month><year>2017</year></pub-date><pub-date pub-type="pmc-release"><day>21</day><month>6</month><year>2017</year></pub-date><pub-date pub-type="ppub"><year>2017</year></pub-date><volume>79</volume><issue>8</issue><fpage>1870</fpage><lpage>1887</lpage><history><date date-type="received"><day>18</day><month>10</month><year>2016</year></date><date date-type="accepted"><day>9</day><month>6</month><year>2017</year></date></history><permissions><copyright-statement>&#x000a9; The Author(s) 2017</copyright-statement><license license-type="OpenAccess"><license-p>
+<bold>Open Access</bold>This article is distributed under the terms of the Creative Commons Attribution 4.0 International License (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0">http://creativecommons.org/licenses/by/4.0</ext-link>/), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made.</license-p></license></permissions><abstract id="Abs1"><p id="Par1">When fixating on a stationary object, the power of the eye&#x02019;s lens fluctuates. Studies have suggested that changes in these so-called microfluctuations in accommodation may be a factor in the onset and progression of short-sightedness. Like many physiological signals, the fluctuations in the power of the lens exhibit chaotic behaviour. A breakdown or reduction in chaos in physiological systems indicates stress to the system or pathology. The purpose of this study was to determine whether the chaos in fluctuations of the power of the lens changes with refractive error, i.e. how short-sighted a subject is, and/or accommodative demand, i.e. the effective distance of the object that is being viewed. Six emmetropes (EMMs, non-short-sighted), six early-onset myopes (EOMs, onset of short-sightedness before the age of 15), and six late-onset myopes (LOMs, onset of short-sightedness after the age of 15) took part in the study. Accommodative microfluctuations were measured at 22&#x000a0;Hz using an SRW-5000 autorefractor at accommodative demands of 1&#x000a0;D (dioptres), 2&#x000a0;D, and 3&#x000a0;D. Chaos theory analysis was used to determine the embedding lag, embedding dimension, limit of predictability, and Lyapunov exponent. Topological transitivity was also tested for. For comparison, the power spectrum and standard deviation were calculated for each time record. The EMMs had a statistically significant higher Lyapunov exponent than the LOMs (<inline-formula id="IEq1"><alternatives><tex-math id="M1">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$0.64\pm 0.33$$\end{document}</tex-math><mml:math id="M2"><mml:mrow><mml:mn>0.64</mml:mn><mml:mo>&#x000b1;</mml:mo><mml:mn>0.33</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq1.gif"/></alternatives></inline-formula> vs. <inline-formula id="IEq2"><alternatives><tex-math id="M3">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$0.39\pm 0.20~\hbox {D}/\hbox {s}$$\end{document}</tex-math><mml:math id="M4"><mml:mrow><mml:mn>0.39</mml:mn><mml:mo>&#x000b1;</mml:mo><mml:mn>0.20</mml:mn><mml:mspace width="3.33333pt"/><mml:mtext>D</mml:mtext><mml:mo stretchy="false">/</mml:mo><mml:mtext>s</mml:mtext></mml:mrow></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq2.gif"/></alternatives></inline-formula>) and a lower embedding dimension than the LOMs (<inline-formula id="IEq3"><alternatives><tex-math id="M5">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$3.28\pm 0.46$$\end{document}</tex-math><mml:math id="M6"><mml:mrow><mml:mn>3.28</mml:mn><mml:mo>&#x000b1;</mml:mo><mml:mn>0.46</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq3.gif"/></alternatives></inline-formula> vs. <inline-formula id="IEq4"><alternatives><tex-math id="M7">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$3.67\pm 0.49$$\end{document}</tex-math><mml:math id="M8"><mml:mrow><mml:mn>3.67</mml:mn><mml:mo>&#x000b1;</mml:mo><mml:mn>0.49</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq4.gif"/></alternatives></inline-formula>). There was insufficient evidence (non-significant <italic>p</italic> value) of a difference between EOMs and EMMs or EOMs and LOMs. The majority of time records were topologically transitive. There was insufficient evidence of accommodative demand having an effect. Power spectrum analysis and assessment of the standard deviation of the fluctuations failed to discern differences based on refractive error. Chaos differences in accommodation microfluctuations indicate that the control system for LOMs is under stress in comparison to EMMs. Chaos theory analysis is a more sensitive marker of changes in accommodation microfluctuations than traditional analysis methods.</p></abstract><kwd-group xml:lang="en"><title>Keywords</title><kwd>Accommodation fluctuations</kwd><kwd>Chaos theory</kwd><kwd>Power spectrum</kwd><kwd>Refractive error</kwd></kwd-group><funding-group><award-group><funding-source><institution>University of Bradford</institution></funding-source></award-group></funding-group><custom-meta-group><custom-meta><meta-name>issue-copyright-statement</meta-name><meta-value>&#x000a9; Society for Mathematical Biology 2017</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec id="Sec1"><title>Introduction</title><p id="Par2">Accommodation is the change in the effective power of the eye&#x02019;s lens to bring an object into focus on the retina. It is well known that even when fixating on a stationary object of interest, the eye exhibits microfluctuations in accommodation. These fluctuations are a few tenths of a dioptre in magnitude and change at a rate of several Hertz (Charman and Heron <xref ref-type="bibr" rid="CR3">1988</xref>, <xref ref-type="bibr" rid="CR4">2015</xref>). Since their first observation by Collins (<xref ref-type="bibr" rid="CR6">1937</xref>), many investigations have been carried out to determine what role, if any, they play in accommodation control. It has been found that the magnitude of the fluctuations is correlated with the objective depth of focus (Yao et&#x000a0;al. <xref ref-type="bibr" rid="CR48">2010</xref>), and that when the depth of focus is increased, such as by a decrease in pupil size, there is a concomitant increase in the magnitude of the fluctuations (Yao et&#x000a0;al. <xref ref-type="bibr" rid="CR48">2010</xref>; Gray et&#x000a0;al. <xref ref-type="bibr" rid="CR12">1993a</xref>, <xref ref-type="bibr" rid="CR13">b</xref>; Stark and Atchison <xref ref-type="bibr" rid="CR39">1997</xref>; Niwa and Tokoro <xref ref-type="bibr" rid="CR31">1998</xref>; Gambra et&#x000a0;al. <xref ref-type="bibr" rid="CR11">2009</xref>). This increase is often attributed to an increase in the magnitude of the low-frequency component (LFC) (<inline-formula id="IEq5"><alternatives><tex-math id="M9">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${&#x0003c;}0.6~\hbox {Hz}$$\end{document}</tex-math><mml:math id="M10"><mml:mrow><mml:mo>&#x0003c;</mml:mo><mml:mn>0.6</mml:mn><mml:mspace width="3.33333pt"/><mml:mtext>Hz</mml:mtext></mml:mrow></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq5.gif"/></alternatives></inline-formula>). Owing to such findings, it has been proposed that the accommodative system monitors the resulting fluctuations in image contrast to help the eye stay in focus (Winn <xref ref-type="bibr" rid="CR45">2000</xref>). However, there is still debate over the exact neurological control mechanism. Understanding the nature of the control mechanism is of importance in myopia (short-sightedness) research where changes in the accommodation system, such as in the variability of the accommodative microfluctuations, have been implicated as a factor in myopia onset and progression (Langaas et&#x000a0;al. <xref ref-type="bibr" rid="CR24">2008</xref>; Langaas and Riddell <xref ref-type="bibr" rid="CR25">2012</xref>).</p><p id="Par3">It has been found that accommodative microfluctuations are chaotic in nature (Hampson and Mallen <xref ref-type="bibr" rid="CR16">2012</xref>; Sumida et&#x000a0;al. <xref ref-type="bibr" rid="CR42">1994</xref>). Hence, chaos is a potential factor in the accommodation control mechanism. Despite the traditional meaning of the word chaos, chaotic systems are described completely by underlying laws (Williams <xref ref-type="bibr" rid="CR44">1997</xref>). A marker of chaos is sensitivity to initial conditions, the so-called <italic>butterfly effect</italic>. This effectively means that if there is a miniscule change in the initial conditions, the resulting evolution of the system over time will be very different. Chaos exists everywhere in nature, from the dynamics of the weather to the heartbeat. Chaos is advantageous for physiological systems as it allows for complex output behaviour using a low number of input variables (Skinner <xref ref-type="bibr" rid="CR38">1994</xref>). Several studies have found that the breakdown or reduction in chaos in physiological signals, such as the heartbeat, is indicative of stress to the system and pathology (Poon and Merrill <xref ref-type="bibr" rid="CR32">1997</xref>; Su et&#x000a0;al. <xref ref-type="bibr" rid="CR41">2008</xref>; Yeragani et&#x000a0;al. <xref ref-type="bibr" rid="CR49">2002</xref>; Rao and Yeragani <xref ref-type="bibr" rid="CR33">2001</xref>). Furthermore, chaos theory analysis has been found to be a more sensitive marker of changes in the dynamics of physiological signals than methods such as power spectrum analysis (Yeragani et&#x000a0;al. <xref ref-type="bibr" rid="CR49">2002</xref>; Hampson et&#x000a0;al. <xref ref-type="bibr" rid="CR14">2013</xref>), which is commonly used to analyse the accommodative microfluctuations (Monticone and Menozzi <xref ref-type="bibr" rid="CR30">2011</xref>). For example, Hampson et&#x000a0;al. (<xref ref-type="bibr" rid="CR14">2013</xref>) used adaptive optics to correct for fluctuations in visual blur owing to defocus fluctuations. They found that this correction resulted in a decrease in chaos in the accommodation microfluctuations. Changes were not detected when analysing the power spectra of the accommodation signals, however.</p><p id="Par4">The aim of this experiment was to determine whether refractive error and/or accommodative demand affects the level of chaos in microfluctuations in accommodation. The data were also tested for topological transitivity, which is another marker of chaos. The power spectra and standard deviation of the microfluctuations were also determined for comparison.</p></sec><sec id="Sec2"><title>Method</title><sec id="Sec3"><title>Subjects</title><p id="Par5">Eighteen subjects took part in the study and were classified by their mean spherical equivalent refractive error (SER, sphere + 1/2 cylinder) and age of onset of myopia. The cut-off age separating early-onset versus late-onset myopes was 15&#x000a0;years (McBrien and Millodot <xref ref-type="bibr" rid="CR27">1986</xref>). Six emmetropes (EMMs, mean SER <inline-formula id="IEq6"><alternatives><tex-math id="M11">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$+0.30\pm 0.16~\hbox {D}$$\end{document}</tex-math><mml:math id="M12"><mml:mrow><mml:mo>+</mml:mo><mml:mn>0.30</mml:mn><mml:mo>&#x000b1;</mml:mo><mml:mn>0.16</mml:mn><mml:mspace width="3.33333pt"/><mml:mtext>D</mml:mtext></mml:mrow></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq6.gif"/></alternatives></inline-formula>), six early-onset myopes (EOMs, mean SER <inline-formula id="IEq7"><alternatives><tex-math id="M13">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$-4.71 \pm 1.58~\hbox {D}$$\end{document}</tex-math><mml:math id="M14"><mml:mrow><mml:mo>-</mml:mo><mml:mn>4.71</mml:mn><mml:mo>&#x000b1;</mml:mo><mml:mn>1.58</mml:mn><mml:mspace width="3.33333pt"/><mml:mtext>D</mml:mtext></mml:mrow></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq7.gif"/></alternatives></inline-formula>), and six late-onset myopes (LOMs, mean SER <inline-formula id="IEq8"><alternatives><tex-math id="M15">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$-1.79\pm 0.75~\hbox {D}$$\end{document}</tex-math><mml:math id="M16"><mml:mrow><mml:mo>-</mml:mo><mml:mn>1.79</mml:mn><mml:mo>&#x000b1;</mml:mo><mml:mn>0.75</mml:mn><mml:mspace width="3.33333pt"/><mml:mtext>D</mml:mtext></mml:mrow></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq8.gif"/></alternatives></inline-formula>) were recruited from the student cohort of the School of Optometry and Vision Science, University of Bradford. Subjects gave informed consent, and the study was conducted in accordance with the Declaration of Helsinki. Ethical approval was granted by the Institutional Ethical Committee. The median age of each refractive group was 23, 21.5, and 27&#x000a0;years for the EMMs, EOMs, and LOMs, respectively. All subjects were free from ocular pathology and required cylindrical refractive error corrections of <inline-formula id="IEq9"><alternatives><tex-math id="M17">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\le }0.50~\hbox {D}$$\end{document}</tex-math><mml:math id="M18"><mml:mrow><mml:mo>&#x02264;</mml:mo><mml:mn>0.50</mml:mn><mml:mspace width="3.33333pt"/><mml:mtext>D</mml:mtext></mml:mrow></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq9.gif"/></alternatives></inline-formula>. All myopic observers were habitual contact lens wearers and wore their ultra-thin spherical soft contact lens correction throughout the experiment.</p></sec><sec id="Sec4"><title>Instrumentation</title><p id="Par6">Accommodation microfluctuations were measured using the SRW-5000 autorefractor (Grand Seiko Co. Ltd, Hiroshima, Japan) which was modified to allow for continuous recording of accommodation at a sampling rate of 22&#x000a0;Hz, whilst retaining the ability to measure static refractive error (Wolffsohn et&#x000a0;al. <xref ref-type="bibr" rid="CR47">2001</xref>). The experimental set-up is shown in Fig.&#x000a0;<xref rid="Fig1" ref-type="fig">1</xref>. The fixation target was a high contrast (90%), black and white Maltese cross, subtending <inline-formula id="IEq10"><alternatives><tex-math id="M19">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$1.5^{\circ }$$\end{document}</tex-math><mml:math id="M20"><mml:mrow><mml:mn>1</mml:mn><mml:mo>.</mml:mo><mml:msup><mml:mn>5</mml:mn><mml:mo>&#x02218;</mml:mo></mml:msup></mml:mrow></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq10.gif"/></alternatives></inline-formula> visual angle at the eye and viewed via a <inline-formula id="IEq11"><alternatives><tex-math id="M21">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$+$$\end{document}</tex-math><mml:math id="M22"><mml:mo>+</mml:mo></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq11.gif"/></alternatives></inline-formula>5.00&#x000a0;D Badal lens system. The target was viewed in open view via a hot mirror that is part of the instrument. This mirror transmits visible light from the target. The infrared beam responsible for measuring accommodation is reflected by the hot mirror into the eye and returns via the same path. The mechanics of the set-up facilitated the presentation of target vergences of &#x02212;1.00, &#x02212;2.00 and &#x02212;3.00&#x000a0;D to stimulate accommodation. Hence, the accommodative demands were 1.00, 2.00, and 3.00&#x000a0;D. The target vergence was changed manually between trials. Subjects were instructed to focus on the centre of the target and to &#x02018;keep it clear&#x02019; at all times, i.e. as sharp as possible (Stark and Atchison <xref ref-type="bibr" rid="CR40">1994</xref>). For each subject, 20&#x000a0;s of accommodation data was recorded at each of the three accommodative demands. The order of testing was randomised.<fig id="Fig1"><label>Fig. 1</label><caption><p>Experimental set-up. The target is viewed via a hot mirror which transmits visible light. The infrared light used for measuring the accommodation fluctuations is reflected into the eye via the hot mirror</p></caption><graphic xlink:href="11538_2017_310_Fig1_HTML" id="MO28"/></fig>
+</p></sec></sec><sec id="Sec5"><title>Analysis</title><sec id="Sec6"><title>Blink Removal</title><p id="Par7">Any changes in accommodation of <inline-formula id="IEq12"><alternatives><tex-math id="M23">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\ge $$\end{document}</tex-math><mml:math id="M24"><mml:mo>&#x02265;</mml:mo></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq12.gif"/></alternatives></inline-formula>0.45&#x000a0;D between consecutive readings were deleted. This equates to a change in accommodation velocity of <inline-formula id="IEq13"><alternatives><tex-math id="M25">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${&#x0003e;}10~\hbox {D}/\hbox {s}$$\end{document}</tex-math><mml:math id="M26"><mml:mrow><mml:mo>&#x0003e;</mml:mo><mml:mn>10</mml:mn><mml:mspace width="3.33333pt"/><mml:mtext>D</mml:mtext><mml:mo stretchy="false">/</mml:mo><mml:mtext>s</mml:mtext></mml:mrow></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq13.gif"/></alternatives></inline-formula>, which is believed to be the maximum accommodation velocity (Campbell and Westheimer <xref ref-type="bibr" rid="CR2">1960</xref>). The deleted data were replaced by the average accommodation reading of the 300 msec prior to the blink.<fig id="Fig2"><label>Fig. 2</label><caption><p>Principle of obtaining a multi-dimensional phase space plot from a one-dimensional time series. <bold>a</bold> The embedding lag is determined from the first minimum of the mutual information, which is three in the example given. <bold>b</bold> The original time series and the portion of the signal used for each of the two axes to obtain the phase space plot</p></caption><graphic xlink:href="11538_2017_310_Fig2_HTML" id="MO29"/></fig>
+</p></sec><sec id="Sec7"><title>Chaos Theory Analysis</title><p id="Par8">A marker of chaos, i.e. sensitive dependence on initial conditions, is a positive largest Lyapunov exponent (LE) (Rosenstein et&#x000a0;al. <xref ref-type="bibr" rid="CR34">1993</xref>). The LE describes how the distance between nearby trajectories in phase space changes exponentially over time. All processing was carried out using custom written code in MATLAB (MathWorks, Massachusetts, USA). Prior to the calculation of any parameter associated with chaos theory analysis, the linear trend in the data was removed (Williams <xref ref-type="bibr" rid="CR44">1997</xref>).</p><sec id="Sec8"><title>Phase Space Reconstruction</title><p id="Par9">Phase space is effectively a plot in which each axis represents a variable. When recording a single variable over time, as is commonly the case, and is the case here, a multi-dimensional plot is formed using lagged phase space (Liu <xref ref-type="bibr" rid="CR26">2010</xref>). Essentially, the time course signal is broken down into overlapping segments separated by an embedding lag <inline-formula id="IEq14"><alternatives><tex-math id="M27">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\tau $$\end{document}</tex-math><mml:math id="M28"><mml:mi mathvariant="italic">&#x003c4;</mml:mi></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq14.gif"/></alternatives></inline-formula>. Each segment is a &#x02018;sub-series&#x02019; representing the values for that axis. The number of axis is governed by the embedding dimension <italic>d</italic>. The resulting phase space plot represents the dynamics of the system as it would be had each of the variables been known or measured. Using this method, a point, <italic>p</italic>(<italic>t</italic>), in a phase space with <italic>d</italic> dimensions is given by<disp-formula id="Equ1"><label>1</label><alternatives><tex-math id="M29">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\begin{aligned} \mathbf{p}(t)=\left[ x(t),x(t+\tau ),\ldots ,x(t+(d-1)\tau )\right] , \end{aligned}$$\end{document}</tex-math><mml:math id="M30" display="block"><mml:mrow><mml:mtable><mml:mtr><mml:mtd columnalign="right"><mml:mrow><mml:mi mathvariant="bold">p</mml:mi><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi>t</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:mfenced close="]" open="[" separators=""><mml:mi>x</mml:mi><mml:mo stretchy="false">(</mml:mo><mml:mi>t</mml:mi><mml:mo stretchy="false">)</mml:mo><mml:mo>,</mml:mo><mml:mi>x</mml:mi><mml:mo stretchy="false">(</mml:mo><mml:mi>t</mml:mi><mml:mo>+</mml:mo><mml:mi mathvariant="italic">&#x003c4;</mml:mi><mml:mo stretchy="false">)</mml:mo><mml:mo>,</mml:mo><mml:mo>&#x02026;</mml:mo><mml:mo>,</mml:mo><mml:mi>x</mml:mi><mml:mo stretchy="false">(</mml:mo><mml:mi>t</mml:mi><mml:mo>+</mml:mo><mml:mo stretchy="false">(</mml:mo><mml:mi>d</mml:mi><mml:mo>-</mml:mo><mml:mn>1</mml:mn><mml:mo stretchy="false">)</mml:mo><mml:mi mathvariant="italic">&#x003c4;</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mfenced><mml:mo>,</mml:mo></mml:mrow></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:math><graphic xlink:href="11538_2017_310_Article_Equ1.gif" position="anchor"/></alternatives></disp-formula>where the embedding lag <inline-formula id="IEq15"><alternatives><tex-math id="M31">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\tau = t_{0}+ i\Delta t$$\end{document}</tex-math><mml:math id="M32"><mml:mrow><mml:mi mathvariant="italic">&#x003c4;</mml:mi><mml:mo>=</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mn>0</mml:mn></mml:msub><mml:mo>+</mml:mo><mml:mi>i</mml:mi><mml:mi mathvariant="normal">&#x00394;</mml:mi><mml:mi>t</mml:mi></mml:mrow></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq15.gif"/></alternatives></inline-formula>, with <inline-formula id="IEq16"><alternatives><tex-math id="M33">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\Delta t$$\end{document}</tex-math><mml:math id="M34"><mml:mrow><mml:mi mathvariant="normal">&#x00394;</mml:mi><mml:mi>t</mml:mi></mml:mrow></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq16.gif"/></alternatives></inline-formula> being the time between frames (Liu <xref ref-type="bibr" rid="CR26">2010</xref>). The number of data points, <inline-formula id="IEq17"><alternatives><tex-math id="M35">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$n_{\mathrm{ss}}$$\end{document}</tex-math><mml:math id="M36"><mml:msub><mml:mi>n</mml:mi><mml:mi mathvariant="normal">ss</mml:mi></mml:msub></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq17.gif"/></alternatives></inline-formula>, per sub-series is given by<disp-formula id="Equ2"><label>2</label><alternatives><tex-math id="M37">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\begin{aligned} n_{\mathrm{ss}} =N-(d-1)\times i, \end{aligned}$$\end{document}</tex-math><mml:math id="M38" display="block"><mml:mrow><mml:mtable><mml:mtr><mml:mtd columnalign="right"><mml:mrow><mml:msub><mml:mi>n</mml:mi><mml:mi mathvariant="normal">ss</mml:mi></mml:msub><mml:mo>=</mml:mo><mml:mi>N</mml:mi><mml:mo>-</mml:mo><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi>d</mml:mi><mml:mo>-</mml:mo><mml:mn>1</mml:mn><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mo>&#x000d7;</mml:mo><mml:mi>i</mml:mi><mml:mo>,</mml:mo></mml:mrow></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:math><graphic xlink:href="11538_2017_310_Article_Equ2.gif" position="anchor"/></alternatives></disp-formula>where <italic>N</italic> is the total number of data points in the original time record and <italic>i</italic> is the embedding lag in units of data points.<fig id="Fig3"><label>Fig. 3</label><caption><p>Principle of obtaining the correct embedding dimension. The correct dimension is three in the example shown. If the two points are embedded in too low a dimension, two in the example, the points appear artificially close</p></caption><graphic xlink:href="11538_2017_310_Fig3_HTML" id="MO30"/></fig>
+</p><p id="Par10">We determined the embedding lag using the first minimum of the mutual information (Williams <xref ref-type="bibr" rid="CR44">1997</xref>). As illustrated in Fig.&#x000a0;<xref rid="Fig2" ref-type="fig">2</xref>a, the mutual information is in effect a correlation between the signal and a delayed version of itself. A schematic of obtaining a multi-dimensional phase space plot based on the determined lag is shown in Fig.&#x000a0;<xref rid="Fig2" ref-type="fig">2</xref>b. In the example shown, the embedding dimension is two. For two time series <italic>x</italic> and <italic>y</italic>, the mutual information is given by<disp-formula id="Equ3"><label>3</label><alternatives><tex-math id="M39">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\begin{aligned} I_{XY} =\sum _{x_i ,y_j} {P_{XY} (x_i ,y_j )\log _2 \left( {\frac{P_{XY} (x_i ,y_j )}{P_X (x_i )P_Y (y_j )}} \right) } , \end{aligned}$$\end{document}</tex-math><mml:math id="M40" display="block"><mml:mrow><mml:mtable><mml:mtr><mml:mtd columnalign="right"><mml:mrow><mml:msub><mml:mi>I</mml:mi><mml:mrow><mml:mi>X</mml:mi><mml:mi>Y</mml:mi></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:munder><mml:mo>&#x02211;</mml:mo><mml:mrow><mml:msub><mml:mi>x</mml:mi><mml:mi>i</mml:mi></mml:msub><mml:mo>,</mml:mo><mml:msub><mml:mi>y</mml:mi><mml:mi>j</mml:mi></mml:msub></mml:mrow></mml:munder><mml:mrow><mml:msub><mml:mi>P</mml:mi><mml:mrow><mml:mi>X</mml:mi><mml:mi>Y</mml:mi></mml:mrow></mml:msub><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:msub><mml:mi>x</mml:mi><mml:mi>i</mml:mi></mml:msub><mml:mo>,</mml:mo><mml:msub><mml:mi>y</mml:mi><mml:mi>j</mml:mi></mml:msub><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:msub><mml:mo>log</mml:mo><mml:mn>2</mml:mn></mml:msub><mml:mfenced close=")" open="(" separators=""><mml:mfrac><mml:mrow><mml:msub><mml:mi>P</mml:mi><mml:mrow><mml:mi>X</mml:mi><mml:mi>Y</mml:mi></mml:mrow></mml:msub><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:msub><mml:mi>x</mml:mi><mml:mi>i</mml:mi></mml:msub><mml:mo>,</mml:mo><mml:msub><mml:mi>y</mml:mi><mml:mi>j</mml:mi></mml:msub><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:mrow><mml:mrow><mml:msub><mml:mi>P</mml:mi><mml:mi>X</mml:mi></mml:msub><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:msub><mml:mi>x</mml:mi><mml:mi>i</mml:mi></mml:msub><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:msub><mml:mi>P</mml:mi><mml:mi>Y</mml:mi></mml:msub><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:msub><mml:mi>y</mml:mi><mml:mi>j</mml:mi></mml:msub><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:mrow></mml:mfrac></mml:mfenced></mml:mrow><mml:mo>,</mml:mo></mml:mrow></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:math><graphic xlink:href="11538_2017_310_Article_Equ3.gif" position="anchor"/></alternatives></disp-formula>where <inline-formula id="IEq18"><alternatives><tex-math id="M41">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$P_{XY}$$\end{document}</tex-math><mml:math id="M42"><mml:msub><mml:mi>P</mml:mi><mml:mrow><mml:mi>X</mml:mi><mml:mi>Y</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq18.gif"/></alternatives></inline-formula> is the joint probability, and <inline-formula id="IEq19"><alternatives><tex-math id="M43">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$P_{X}$$\end{document}</tex-math><mml:math id="M44"><mml:msub><mml:mi>P</mml:mi><mml:mi>X</mml:mi></mml:msub></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq19.gif"/></alternatives></inline-formula> and <inline-formula id="IEq20"><alternatives><tex-math id="M45">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$P_{Y}$$\end{document}</tex-math><mml:math id="M46"><mml:msub><mml:mi>P</mml:mi><mml:mi>Y</mml:mi></mml:msub></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq20.gif"/></alternatives></inline-formula> are the marginal probabilities (Williams <xref ref-type="bibr" rid="CR44">1997</xref>). To determine <inline-formula id="IEq21"><alternatives><tex-math id="M47">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\tau $$\end{document}</tex-math><mml:math id="M48"><mml:mi mathvariant="italic">&#x003c4;</mml:mi></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq21.gif"/></alternatives></inline-formula>, the two time series are the original time series and the lagged time series. Hence,<disp-formula id="Equ4"><label>4</label><alternatives><tex-math id="M49">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\begin{aligned} I(\tau )=\sum _{x(t),x(t+\tau )} {P(x(t),x(t+\tau ))\log _2 \left( {\frac{P(x(t),x(t+\tau ))}{P(x(t))P(x(t+\tau ))}} \right) } . \end{aligned}$$\end{document}</tex-math><mml:math id="M50" display="block"><mml:mrow><mml:mtable><mml:mtr><mml:mtd columnalign="right"><mml:mrow><mml:mi>I</mml:mi><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi mathvariant="italic">&#x003c4;</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:munder><mml:mo>&#x02211;</mml:mo><mml:mrow><mml:mi>x</mml:mi><mml:mo stretchy="false">(</mml:mo><mml:mi>t</mml:mi><mml:mo stretchy="false">)</mml:mo><mml:mo>,</mml:mo><mml:mi>x</mml:mi><mml:mo stretchy="false">(</mml:mo><mml:mi>t</mml:mi><mml:mo>+</mml:mo><mml:mi mathvariant="italic">&#x003c4;</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:munder><mml:mrow><mml:mi>P</mml:mi><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi>x</mml:mi><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi>t</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mo>,</mml:mo><mml:mi>x</mml:mi><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi>t</mml:mi><mml:mo>+</mml:mo><mml:mi mathvariant="italic">&#x003c4;</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:msub><mml:mo>log</mml:mo><mml:mn>2</mml:mn></mml:msub><mml:mfenced close=")" open="(" separators=""><mml:mfrac><mml:mrow><mml:mi>P</mml:mi><mml:mo stretchy="false">(</mml:mo><mml:mi>x</mml:mi><mml:mo stretchy="false">(</mml:mo><mml:mi>t</mml:mi><mml:mo stretchy="false">)</mml:mo><mml:mo>,</mml:mo><mml:mi>x</mml:mi><mml:mo stretchy="false">(</mml:mo><mml:mi>t</mml:mi><mml:mo>+</mml:mo><mml:mi mathvariant="italic">&#x003c4;</mml:mi><mml:mo stretchy="false">)</mml:mo><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mrow><mml:mi>P</mml:mi><mml:mo stretchy="false">(</mml:mo><mml:mi>x</mml:mi><mml:mo stretchy="false">(</mml:mo><mml:mi>t</mml:mi><mml:mo stretchy="false">)</mml:mo><mml:mo stretchy="false">)</mml:mo><mml:mi>P</mml:mi><mml:mo stretchy="false">(</mml:mo><mml:mi>x</mml:mi><mml:mo stretchy="false">(</mml:mo><mml:mi>t</mml:mi><mml:mo>+</mml:mo><mml:mi mathvariant="italic">&#x003c4;</mml:mi><mml:mo stretchy="false">)</mml:mo><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:mfrac></mml:mfenced></mml:mrow><mml:mo>.</mml:mo></mml:mrow></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:math><graphic xlink:href="11538_2017_310_Article_Equ4.gif" position="anchor"/></alternatives></disp-formula>
+<inline-formula id="IEq22"><alternatives><tex-math id="M51">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$I(\tau $$\end{document}</tex-math><mml:math id="M52"><mml:mrow><mml:mi>I</mml:mi><mml:mo stretchy="false">(</mml:mo><mml:mi mathvariant="italic">&#x003c4;</mml:mi></mml:mrow></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq22.gif"/></alternatives></inline-formula>) was calculated for each accommodation record for a lag of <inline-formula id="IEq23"><alternatives><tex-math id="M53">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$i = 1{-}50$$\end{document}</tex-math><mml:math id="M54"><mml:mrow><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:mn>1</mml:mn><mml:mo>-</mml:mo><mml:mn>50</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq23.gif"/></alternatives></inline-formula> data points.</p><p id="Par11">To determine the correct dimension, the phase space plot is obtained for a number of dimensions. The separation of neighbouring points is then calculated for each dimension. If the dimension is too low, the points are artificially too close and referred to as false nearest neighbours (FNNs) (Kennel et&#x000a0;al. <xref ref-type="bibr" rid="CR22">1992</xref>). The correct dimension is the one in which further increases in the dimension do not change the distance between the majority of data points and so the number of FNNs falls below a given threshold. An illustration of the effect of an incorrect and correct dimension is shown in Fig.&#x000a0;<xref rid="Fig3" ref-type="fig">3</xref>. A data point located in <italic>d</italic>-dimensional space is given by<disp-formula id="Equ5"><label>5</label><alternatives><tex-math id="M55">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\begin{aligned} \mathbf{p}(t)=\left[ x(t),x(t+\tau ),\ldots ,x(t+(d-1)\tau )\right] , \end{aligned}$$\end{document}</tex-math><mml:math id="M56" display="block"><mml:mrow><mml:mtable><mml:mtr><mml:mtd columnalign="right"><mml:mrow><mml:mi mathvariant="bold">p</mml:mi><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi>t</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:mfenced close="]" open="[" separators=""><mml:mi>x</mml:mi><mml:mo stretchy="false">(</mml:mo><mml:mi>t</mml:mi><mml:mo stretchy="false">)</mml:mo><mml:mo>,</mml:mo><mml:mi>x</mml:mi><mml:mo stretchy="false">(</mml:mo><mml:mi>t</mml:mi><mml:mo>+</mml:mo><mml:mi mathvariant="italic">&#x003c4;</mml:mi><mml:mo stretchy="false">)</mml:mo><mml:mo>,</mml:mo><mml:mo>&#x02026;</mml:mo><mml:mo>,</mml:mo><mml:mi>x</mml:mi><mml:mo stretchy="false">(</mml:mo><mml:mi>t</mml:mi><mml:mo>+</mml:mo><mml:mo stretchy="false">(</mml:mo><mml:mi>d</mml:mi><mml:mo>-</mml:mo><mml:mn>1</mml:mn><mml:mo stretchy="false">)</mml:mo><mml:mi mathvariant="italic">&#x003c4;</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mfenced><mml:mo>,</mml:mo></mml:mrow></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:math><graphic xlink:href="11538_2017_310_Article_Equ5.gif" position="anchor"/></alternatives></disp-formula>and its nearest neighbour is given by<disp-formula id="Equ6"><label>6</label><alternatives><tex-math id="M57">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\begin{aligned} \mathbf{p}_{\mathbf{NN}} (t_{\mathrm{NN}} )=\left[ x(t_{\mathrm{NN}} ),x(t_{\mathrm{NN}} +\tau ),\ldots ,x(t_{\mathrm{NN}} +(d-1)\tau )\right] . \end{aligned}$$\end{document}</tex-math><mml:math id="M58" display="block"><mml:mrow><mml:mtable><mml:mtr><mml:mtd columnalign="right"><mml:mrow><mml:msub><mml:mi mathvariant="bold">p</mml:mi><mml:mi mathvariant="bold">NN</mml:mi></mml:msub><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mi mathvariant="normal">NN</mml:mi></mml:msub><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:mfenced close="]" open="[" separators=""><mml:mi>x</mml:mi><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mi mathvariant="normal">NN</mml:mi></mml:msub><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mo>,</mml:mo><mml:mi>x</mml:mi><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mi mathvariant="normal">NN</mml:mi></mml:msub><mml:mo>+</mml:mo><mml:mi mathvariant="italic">&#x003c4;</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mo>,</mml:mo><mml:mo>&#x02026;</mml:mo><mml:mo>,</mml:mo><mml:mi>x</mml:mi><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mi mathvariant="normal">NN</mml:mi></mml:msub><mml:mo>+</mml:mo><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi>d</mml:mi><mml:mo>-</mml:mo><mml:mn>1</mml:mn><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mi mathvariant="italic">&#x003c4;</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:mfenced><mml:mo>.</mml:mo></mml:mrow></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:math><graphic xlink:href="11538_2017_310_Article_Equ6.gif" position="anchor"/></alternatives></disp-formula>The distance between the points is<disp-formula id="Equ7"><label>7</label><alternatives><tex-math id="M59">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\begin{aligned} R_d^2 (\mathbf{p},\mathbf{p}_{\mathbf{NN}} )=\sum _{k=1}^d \left[ x(t +(k-1)\tau )-x(t_{\mathrm{NN}} +(k-1)\tau )\right] ^{2}. \end{aligned}$$\end{document}</tex-math><mml:math id="M60" display="block"><mml:mrow><mml:mtable><mml:mtr><mml:mtd columnalign="right"><mml:mrow><mml:msubsup><mml:mi>R</mml:mi><mml:mi>d</mml:mi><mml:mn>2</mml:mn></mml:msubsup><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi mathvariant="bold">p</mml:mi><mml:mo>,</mml:mo><mml:msub><mml:mi mathvariant="bold">p</mml:mi><mml:mi mathvariant="bold">NN</mml:mi></mml:msub><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:munderover><mml:mo>&#x02211;</mml:mo><mml:mrow><mml:mi>k</mml:mi><mml:mo>=</mml:mo><mml:mn>1</mml:mn></mml:mrow><mml:mi>d</mml:mi></mml:munderover><mml:msup><mml:mfenced close="]" open="[" separators=""><mml:mi>x</mml:mi><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi>t</mml:mi><mml:mo>+</mml:mo><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi>k</mml:mi><mml:mo>-</mml:mo><mml:mn>1</mml:mn><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mi mathvariant="italic">&#x003c4;</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mo>-</mml:mo><mml:mi>x</mml:mi><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mi mathvariant="normal">NN</mml:mi></mml:msub><mml:mo>+</mml:mo><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi>k</mml:mi><mml:mo>-</mml:mo><mml:mn>1</mml:mn><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mi mathvariant="italic">&#x003c4;</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:mfenced><mml:mn>2</mml:mn></mml:msup><mml:mo>.</mml:mo></mml:mrow></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:math><graphic xlink:href="11538_2017_310_Article_Equ7.gif" position="anchor"/></alternatives></disp-formula>The separation of points when the dimension increases by one is given by<disp-formula id="Equ8"><label>8</label><alternatives><tex-math id="M61">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\begin{aligned} R_{d+1}^2 (\mathbf{p},\mathbf{p}_{\mathbf{NN}} )=R_d^2 (\mathbf{p},\mathbf{p}_{\mathbf{NN}} )+\left[ {x(t+\hbox {d}\tau )-x(t_{\mathrm{NN}} +\hbox {d}\tau )} \right] ^{2}. \end{aligned}$$\end{document}</tex-math><mml:math id="M62" display="block"><mml:mrow><mml:mtable><mml:mtr><mml:mtd columnalign="right"><mml:mrow><mml:msubsup><mml:mi>R</mml:mi><mml:mrow><mml:mi>d</mml:mi><mml:mo>+</mml:mo><mml:mn>1</mml:mn></mml:mrow><mml:mn>2</mml:mn></mml:msubsup><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi mathvariant="bold">p</mml:mi><mml:mo>,</mml:mo><mml:msub><mml:mi mathvariant="bold">p</mml:mi><mml:mi mathvariant="bold">NN</mml:mi></mml:msub><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:msubsup><mml:mi>R</mml:mi><mml:mi>d</mml:mi><mml:mn>2</mml:mn></mml:msubsup><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi mathvariant="bold">p</mml:mi><mml:mo>,</mml:mo><mml:msub><mml:mi mathvariant="bold">p</mml:mi><mml:mi mathvariant="bold">NN</mml:mi></mml:msub><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mo>+</mml:mo><mml:msup><mml:mfenced close="]" open="[" separators=""><mml:mrow><mml:mi>x</mml:mi><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi>t</mml:mi><mml:mo>+</mml:mo><mml:mtext>d</mml:mtext><mml:mi mathvariant="italic">&#x003c4;</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mo>-</mml:mo><mml:mi>x</mml:mi><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mi mathvariant="normal">NN</mml:mi></mml:msub><mml:mo>+</mml:mo><mml:mtext>d</mml:mtext><mml:mi mathvariant="italic">&#x003c4;</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:mrow></mml:mfenced><mml:mn>2</mml:mn></mml:msup><mml:mo>.</mml:mo></mml:mrow></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:math><graphic xlink:href="11538_2017_310_Article_Equ8.gif" position="anchor"/></alternatives></disp-formula>Hence, the change in distance can be calculated as<disp-formula id="Equ9"><label>9</label><alternatives><tex-math id="M63">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\begin{aligned} \sqrt{\frac{R_{d+1}^2 (\mathbf{p},\mathbf{p}_{\mathbf{NN}} )-R_d^2 (\mathbf{p},\mathbf{p}_{\mathbf{NN}} )}{R_d^2 (\mathbf{p},\mathbf{p}_{\mathbf{NN}} )}}=\frac{\left| {x(t+\hbox {d}\tau )-x(t_{\mathrm{NN}} +\hbox {d}\tau )} \right| }{R_d (\mathbf{p},\mathbf{p}_{\mathbf{NN}} )}. \end{aligned}$$\end{document}</tex-math><mml:math id="M64" display="block"><mml:mrow><mml:mtable><mml:mtr><mml:mtd columnalign="right"><mml:mrow><mml:msqrt><mml:mfrac><mml:mrow><mml:msubsup><mml:mi>R</mml:mi><mml:mrow><mml:mi>d</mml:mi><mml:mo>+</mml:mo><mml:mn>1</mml:mn></mml:mrow><mml:mn>2</mml:mn></mml:msubsup><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi mathvariant="bold">p</mml:mi><mml:mo>,</mml:mo><mml:msub><mml:mi mathvariant="bold">p</mml:mi><mml:mi mathvariant="bold">NN</mml:mi></mml:msub><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mo>-</mml:mo><mml:msubsup><mml:mi>R</mml:mi><mml:mi>d</mml:mi><mml:mn>2</mml:mn></mml:msubsup><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi mathvariant="bold">p</mml:mi><mml:mo>,</mml:mo><mml:msub><mml:mi mathvariant="bold">p</mml:mi><mml:mi mathvariant="bold">NN</mml:mi></mml:msub><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:mrow><mml:mrow><mml:msubsup><mml:mi>R</mml:mi><mml:mi>d</mml:mi><mml:mn>2</mml:mn></mml:msubsup><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi mathvariant="bold">p</mml:mi><mml:mo>,</mml:mo><mml:msub><mml:mi mathvariant="bold">p</mml:mi><mml:mi mathvariant="bold">NN</mml:mi></mml:msub><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:mrow></mml:mfrac></mml:msqrt><mml:mo>=</mml:mo><mml:mfrac><mml:mfenced close="|" open="|" separators=""><mml:mrow><mml:mi>x</mml:mi><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi>t</mml:mi><mml:mo>+</mml:mo><mml:mtext>d</mml:mtext><mml:mi mathvariant="italic">&#x003c4;</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mo>-</mml:mo><mml:mi>x</mml:mi><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mi mathvariant="normal">NN</mml:mi></mml:msub><mml:mo>+</mml:mo><mml:mtext>d</mml:mtext><mml:mi mathvariant="italic">&#x003c4;</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:mrow></mml:mfenced><mml:mrow><mml:msub><mml:mi>R</mml:mi><mml:mi>d</mml:mi></mml:msub><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi mathvariant="bold">p</mml:mi><mml:mo>,</mml:mo><mml:msub><mml:mi mathvariant="bold">p</mml:mi><mml:mi mathvariant="bold">NN</mml:mi></mml:msub><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:mrow></mml:mfrac><mml:mo>.</mml:mo></mml:mrow></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:math><graphic xlink:href="11538_2017_310_Article_Equ9.gif" position="anchor"/></alternatives></disp-formula>A point is considered a FNN if two conditions are satisfied:<disp-formula id="Equ10"><label>10</label><alternatives><tex-math id="M65">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\begin{aligned} \sqrt{\frac{R_{d+1}^2 (\mathbf{p},\mathbf{p}_{\mathbf{NN}} )-R_d^2 (\mathbf{p},\mathbf{p}_{\mathbf{NN}} )}{R_d^2 (\mathbf{p},\mathbf{p}_{\mathbf{NN}} )}}&#x0003e;R_{\mathrm{Tol}} , \end{aligned}$$\end{document}</tex-math><mml:math id="M66" display="block"><mml:mrow><mml:mtable><mml:mtr><mml:mtd columnalign="right"><mml:mrow><mml:msqrt><mml:mfrac><mml:mrow><mml:msubsup><mml:mi>R</mml:mi><mml:mrow><mml:mi>d</mml:mi><mml:mo>+</mml:mo><mml:mn>1</mml:mn></mml:mrow><mml:mn>2</mml:mn></mml:msubsup><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi mathvariant="bold">p</mml:mi><mml:mo>,</mml:mo><mml:msub><mml:mi mathvariant="bold">p</mml:mi><mml:mi mathvariant="bold">NN</mml:mi></mml:msub><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mo>-</mml:mo><mml:msubsup><mml:mi>R</mml:mi><mml:mi>d</mml:mi><mml:mn>2</mml:mn></mml:msubsup><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi mathvariant="bold">p</mml:mi><mml:mo>,</mml:mo><mml:msub><mml:mi mathvariant="bold">p</mml:mi><mml:mi mathvariant="bold">NN</mml:mi></mml:msub><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:mrow><mml:mrow><mml:msubsup><mml:mi>R</mml:mi><mml:mi>d</mml:mi><mml:mn>2</mml:mn></mml:msubsup><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi mathvariant="bold">p</mml:mi><mml:mo>,</mml:mo><mml:msub><mml:mi mathvariant="bold">p</mml:mi><mml:mi mathvariant="bold">NN</mml:mi></mml:msub><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:mrow></mml:mfrac></mml:msqrt><mml:mo>&#x0003e;</mml:mo><mml:msub><mml:mi>R</mml:mi><mml:mi mathvariant="normal">Tol</mml:mi></mml:msub><mml:mo>,</mml:mo></mml:mrow></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:math><graphic xlink:href="11538_2017_310_Article_Equ10.gif" position="anchor"/></alternatives></disp-formula>and<disp-formula id="Equ11"><label>11</label><alternatives><tex-math id="M67">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\begin{aligned} \frac{R_{d+1}}{R_A} &#x0003e;A_{\mathrm{Tol}}. \end{aligned}$$\end{document}</tex-math><mml:math id="M68" display="block"><mml:mrow><mml:mtable><mml:mtr><mml:mtd columnalign="right"><mml:mrow><mml:mfrac><mml:msub><mml:mi>R</mml:mi><mml:mrow><mml:mi>d</mml:mi><mml:mo>+</mml:mo><mml:mn>1</mml:mn></mml:mrow></mml:msub><mml:msub><mml:mi>R</mml:mi><mml:mi>A</mml:mi></mml:msub></mml:mfrac><mml:mo>&#x0003e;</mml:mo><mml:msub><mml:mi>A</mml:mi><mml:mi mathvariant="normal">Tol</mml:mi></mml:msub><mml:mo>.</mml:mo></mml:mrow></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:math><graphic xlink:href="11538_2017_310_Article_Equ11.gif" position="anchor"/></alternatives></disp-formula>where <inline-formula id="IEq24"><alternatives><tex-math id="M69">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$R_{A}$$\end{document}</tex-math><mml:math id="M70"><mml:msub><mml:mi>R</mml:mi><mml:mi>A</mml:mi></mml:msub></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq24.gif"/></alternatives></inline-formula> is the standard deviation of the time series (Kennel et&#x000a0;al. <xref ref-type="bibr" rid="CR22">1992</xref>). Condition two prevents the number of FNNs rising again as <italic>d</italic> increases beyond the appropriate dimension, owing to the fact that the nearest neighbour of a point may not necessarily be the one closest to it. For a given dimension, the nearest neighbour of each point is determined and Eqs.&#x000a0;(<xref rid="Equ10" ref-type="">10</xref>) and&#x000a0;(<xref rid="Equ11" ref-type="">11</xref>) are evaluated for each pair of points. The correct embedding dimension is the value in which the number of FNNs falls below a given threshold.</p><p id="Par12">For each accommodation record, the percentage of FNNs was determined for <inline-formula id="IEq25"><alternatives><tex-math id="M71">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$d = 1:10.~R_{\mathrm{Tol}}$$\end{document}</tex-math><mml:math id="M72"><mml:mrow><mml:mi>d</mml:mi><mml:mo>=</mml:mo><mml:mn>1</mml:mn><mml:mo>:</mml:mo><mml:mn>10</mml:mn><mml:mo>.</mml:mo><mml:mspace width="3.33333pt"/><mml:msub><mml:mi>R</mml:mi><mml:mi mathvariant="normal">Tol</mml:mi></mml:msub></mml:mrow></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq25.gif"/></alternatives></inline-formula> was set to 15 (Su et&#x000a0;al. <xref ref-type="bibr" rid="CR41">2008</xref>) and <inline-formula id="IEq26"><alternatives><tex-math id="M73">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$A_{\mathrm{Tol}}$$\end{document}</tex-math><mml:math id="M74"><mml:msub><mml:mi>A</mml:mi><mml:mi mathvariant="normal">Tol</mml:mi></mml:msub></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq26.gif"/></alternatives></inline-formula> was set to 5. The embedding dimension was taken as the dimension in which the percentage of FNNs was <inline-formula id="IEq27"><alternatives><tex-math id="M75">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\le $$\end{document}</tex-math><mml:math id="M76"><mml:mo>&#x02264;</mml:mo></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq27.gif"/></alternatives></inline-formula>5%.</p></sec><sec id="Sec9"><title>Lyapunov Exponent Calculation</title><p id="Par13">The LE represents the rate of exponential divergence (separation) of nearby trajectories in phase space. Figure&#x000a0;<xref rid="Fig4" ref-type="fig">4</xref>a shows a schematic example of the phase space plot for a chaotic time series with an embedding dimension of two. The time evolution of the separation (<inline-formula id="IEq28"><alternatives><tex-math id="M77">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\delta $$\end{document}</tex-math><mml:math id="M78"><mml:mi mathvariant="italic">&#x003b4;</mml:mi></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq28.gif"/></alternatives></inline-formula>) of two nearby trajectories is also shown. Figure&#x000a0;<xref rid="Fig4" ref-type="fig">4</xref>b shows the plot of the natural logarithm of the divergences versus time for the series. For a chaotic time series, there is an initial rise in the divergence of nearby trajectories. The slope of the linear rise is the LE. The end of the linear rise is the limit of predictability. Beyond this time the trajectories can be considered as effectively moving randomly with respect to each other. For a time series consisting of noise there is no relationship between the trajectories and so the plot is a continuous horizontal line (<inline-formula id="IEq29"><alternatives><tex-math id="M79">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\hbox {LE} = 0$$\end{document}</tex-math><mml:math id="M80"><mml:mrow><mml:mtext>LE</mml:mtext><mml:mo>=</mml:mo><mml:mn>0</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq29.gif"/></alternatives></inline-formula>). A periodic signal also has a value of zero.<fig id="Fig4"><label>Fig. 4</label><caption><p>Determination of the Lyapunov exponent for a series with an embedding dimension of two. <bold>a</bold> Schematic of the divergence of nearby trajectories in phase space. <bold>b</bold> How the LE is obtained from the separation of neighbouring trajectories over time. The LE is the slope of the natural logarithm of the divergence of neighbouring trajectories over time. For a chaotic time series there is an initial rise in the natural logarithm of divergence over time and so the LE is positive</p></caption><graphic xlink:href="11538_2017_310_Fig4_HTML" id="MO31"/></fig>
+</p><p id="Par14">To calculate the LE we used the algorithm of Rosenstein et&#x000a0;al. (<xref ref-type="bibr" rid="CR34">1993</xref>). This algorithm is robust to noise and also suitable for small data sets. The divergence of trajectories at a time <italic>t</italic> is given by<disp-formula id="Equ12"><label>12</label><alternatives><tex-math id="M81">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\begin{aligned} d(t)=Ce^{\mathrm{Lt}}, \end{aligned}$$\end{document}</tex-math><mml:math id="M82" display="block"><mml:mrow><mml:mtable><mml:mtr><mml:mtd columnalign="right"><mml:mrow><mml:mi>d</mml:mi><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi>t</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:mi>C</mml:mi><mml:msup><mml:mi>e</mml:mi><mml:mi mathvariant="normal">Lt</mml:mi></mml:msup><mml:mo>,</mml:mo></mml:mrow></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:math><graphic xlink:href="11538_2017_310_Article_Equ12.gif" position="anchor"/></alternatives></disp-formula>where <italic>C</italic> is a constant and <italic>L</italic> is the largest Lyapunov exponent. The nearest neighbour is found for each data point in the reconstructed phase space. In order to consider the two points to represent two different nearby trajectories the neighbour has to be separated in time by more than the average period of the time series. This is calculated as the inverse of the mean frequency of the power spectrum (Rosenstein et&#x000a0;al. <xref ref-type="bibr" rid="CR34">1993</xref>). From Eq.&#x000a0;(<xref rid="Equ12" ref-type="">12</xref>), for the <italic>j</italic>th pair of neighbours, and time step <italic>i</italic>, the separation is<disp-formula id="Equ13"><label>13</label><alternatives><tex-math id="M83">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\begin{aligned} d_j (i)=Ce^{\mathrm{L}(i\Delta t)}, \end{aligned}$$\end{document}</tex-math><mml:math id="M84" display="block"><mml:mrow><mml:mtable><mml:mtr><mml:mtd columnalign="right"><mml:mrow><mml:msub><mml:mi>d</mml:mi><mml:mi>j</mml:mi></mml:msub><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi>i</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:mi>C</mml:mi><mml:msup><mml:mi>e</mml:mi><mml:mrow><mml:mi mathvariant="normal">L</mml:mi><mml:mo stretchy="false">(</mml:mo><mml:mi>i</mml:mi><mml:mi mathvariant="normal">&#x00394;</mml:mi><mml:mi>t</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:msup><mml:mo>,</mml:mo></mml:mrow></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:math><graphic xlink:href="11538_2017_310_Article_Equ13.gif" position="anchor"/></alternatives></disp-formula>where <inline-formula id="IEq30"><alternatives><tex-math id="M85">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\Delta t$$\end{document}</tex-math><mml:math id="M86"><mml:mrow><mml:mi mathvariant="normal">&#x00394;</mml:mi><mml:mi>t</mml:mi></mml:mrow></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq30.gif"/></alternatives></inline-formula> is the time between frames. Hence<disp-formula id="Equ14"><label>14</label><alternatives><tex-math id="M87">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\begin{aligned} \ln d_j (i)=\ln C+L(i\Delta t). \end{aligned}$$\end{document}</tex-math><mml:math id="M88" display="block"><mml:mrow><mml:mtable><mml:mtr><mml:mtd columnalign="right"><mml:mrow><mml:mo>ln</mml:mo><mml:msub><mml:mi>d</mml:mi><mml:mi>j</mml:mi></mml:msub><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi>i</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:mo>ln</mml:mo><mml:mi>C</mml:mi><mml:mo>+</mml:mo><mml:mi>L</mml:mi><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi>i</mml:mi><mml:mi mathvariant="normal">&#x00394;</mml:mi><mml:mi>t</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mo>.</mml:mo></mml:mrow></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:math><graphic xlink:href="11538_2017_310_Article_Equ14.gif" position="anchor"/></alternatives></disp-formula>For each accommodation record, the left-hand side of Eq.&#x000a0;(<xref rid="Equ14" ref-type="">14</xref>) was evaluated for <inline-formula id="IEq31"><alternatives><tex-math id="M89">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$i = 1:100$$\end{document}</tex-math><mml:math id="M90"><mml:mrow><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:mn>1</mml:mn><mml:mo>:</mml:mo><mml:mn>100</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq31.gif"/></alternatives></inline-formula>. From this, a plot of the natural logarithm of divergence, averaged across neighbours, versus time <inline-formula id="IEq32"><alternatives><tex-math id="M91">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$(i\Delta t$$\end{document}</tex-math><mml:math id="M92"><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi>i</mml:mi><mml:mi mathvariant="normal">&#x00394;</mml:mi><mml:mi>t</mml:mi></mml:mrow></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq32.gif"/></alternatives></inline-formula>) was obtained (Rosenstein et&#x000a0;al. <xref ref-type="bibr" rid="CR34">1993</xref>). For plots that showed evidence of an initial linear rise, the data were fitted using two straight lines given by<disp-formula id="Equ15"><label>15</label><alternatives><tex-math id="M93">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\begin{aligned} y_1 =m_1 x(1,2,\ldots ,n)+C_1 , \end{aligned}$$\end{document}</tex-math><mml:math id="M94" display="block"><mml:mrow><mml:mtable><mml:mtr><mml:mtd columnalign="right"><mml:mrow><mml:msub><mml:mi>y</mml:mi><mml:mn>1</mml:mn></mml:msub><mml:mo>=</mml:mo><mml:msub><mml:mi>m</mml:mi><mml:mn>1</mml:mn></mml:msub><mml:mi>x</mml:mi><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mn>1</mml:mn><mml:mo>,</mml:mo><mml:mn>2</mml:mn><mml:mo>,</mml:mo><mml:mo>&#x02026;</mml:mo><mml:mo>,</mml:mo><mml:mi>n</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mo>+</mml:mo><mml:msub><mml:mi>C</mml:mi><mml:mn>1</mml:mn></mml:msub><mml:mo>,</mml:mo></mml:mrow></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:math><graphic xlink:href="11538_2017_310_Article_Equ15.gif" position="anchor"/></alternatives></disp-formula>and<disp-formula id="Equ16"><label>16</label><alternatives><tex-math id="M95">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\begin{aligned} y_2 =m_2 x(n,n+1,\ldots ,100)+C_2 . \end{aligned}$$\end{document}</tex-math><mml:math id="M96" display="block"><mml:mrow><mml:mtable><mml:mtr><mml:mtd columnalign="right"><mml:mrow><mml:msub><mml:mi>y</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mo>=</mml:mo><mml:msub><mml:mi>m</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mi>x</mml:mi><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi>n</mml:mi><mml:mo>,</mml:mo><mml:mi>n</mml:mi><mml:mo>+</mml:mo><mml:mn>1</mml:mn><mml:mo>,</mml:mo><mml:mo>&#x02026;</mml:mo><mml:mo>,</mml:mo><mml:mn>100</mml:mn><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mo>+</mml:mo><mml:msub><mml:mi>C</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mo>.</mml:mo></mml:mrow></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:math><graphic xlink:href="11538_2017_310_Article_Equ16.gif" position="anchor"/></alternatives></disp-formula>
+<italic>n</italic> is the break-point time step, determined as the value which minimises<disp-formula id="Equ17"><label>17</label><alternatives><tex-math id="M97">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\begin{aligned} m_2 x(n)+C_2 -(m_1 x(n)+C_1 ). \end{aligned}$$\end{document}</tex-math><mml:math id="M98" display="block"><mml:mrow><mml:mtable><mml:mtr><mml:mtd columnalign="right"><mml:mrow><mml:msub><mml:mi>m</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mi>x</mml:mi><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi>n</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mo>+</mml:mo><mml:msub><mml:mi>C</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mo>-</mml:mo><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:msub><mml:mi>m</mml:mi><mml:mn>1</mml:mn></mml:msub><mml:mi>x</mml:mi><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi>n</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mo>+</mml:mo><mml:msub><mml:mi>C</mml:mi><mml:mn>1</mml:mn></mml:msub><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mo>.</mml:mo></mml:mrow></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:math><graphic xlink:href="11538_2017_310_Article_Equ17.gif" position="anchor"/></alternatives></disp-formula>Hence <inline-formula id="IEq33"><alternatives><tex-math id="M99">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$m_{2}$$\end{document}</tex-math><mml:math id="M100"><mml:msub><mml:mi>m</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq33.gif"/></alternatives></inline-formula> was determined as the LE, and <inline-formula id="IEq34"><alternatives><tex-math id="M101">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$(n\Delta t$$\end{document}</tex-math><mml:math id="M102"><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi>n</mml:mi><mml:mi mathvariant="normal">&#x00394;</mml:mi><mml:mi>t</mml:mi></mml:mrow></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq34.gif"/></alternatives></inline-formula>) the limit of predictability.</p></sec><sec id="Sec10"><title>Transitivity</title><p id="Par15">To confirm chaos, we also tested the accommodation records for topological transitivity using the recurrence plot and the method proposed by Hirata and Aihara (<xref ref-type="bibr" rid="CR19">2010</xref>). A recurrence plot is an image of a matrix consisting of ones and zeros. For an index (<italic>i</italic>,&#x000a0;<italic>j</italic>), which represent the time indices, if the separation of two points in phase space is within a given threshold <inline-formula id="IEq35"><alternatives><tex-math id="M103">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\varepsilon $$\end{document}</tex-math><mml:math id="M104"><mml:mi mathvariant="italic">&#x003b5;</mml:mi></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq35.gif"/></alternatives></inline-formula>, the value is one. Otherwise the value is zero. Hence, effectively a recurrence plot is a plot of all the pairs of times where the trajectory revisits the same point in phase space. Hirata and Aihara have shown that if the minimum, of the maximum plotted row for each column, is greater than the maximum of the minimum plotted row for each column, then the phase space is topologically transitive. The bottom left-hand corner of the matrix represents (0,0).</p><p id="Par16">There are a number of ways in which the threshold can be chosen for a recurrence plot. One is to set the threshold to a value that gives a fixed density (recurrence rate) of plotted points (Hirata and Aihara <xref ref-type="bibr" rid="CR19">2010</xref>). When testing for transitivity, too high a threshold value can result in false positives, whereas too low a threshold can result in false negatives. Hirata and Aihara have shown that the appropriate threshold depends on factors such as the noise level in the signal and the length of the signal. As this is the first time transitivity of the accommodation microfluctuations has been studied, the threshold value for the recurrence plot was chosen such that the recurrence rate was 50%.</p></sec></sec><sec id="Sec11"><title>Traditional Analysis</title><p id="Par17">For comparison purposes the power spectrum was calculated for each measurement record using the <italic>periodogram</italic> function in MATLAB, which is part of the MATLAB signal processing toolbox. This calculates the power spectral density of a time series. A Hanning window was used to reduce spectral leakage. Again the data were linearly detrended as failure to do so results in artificially high power spectral densities at low frequencies (Bendat and Piersol <xref ref-type="bibr" rid="CR1">2000</xref>). The area under the LFC (<inline-formula id="IEq36"><alternatives><tex-math id="M105">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${&#x0003c;}0.6~\hbox {Hz}$$\end{document}</tex-math><mml:math id="M106"><mml:mrow><mml:mo>&#x0003c;</mml:mo><mml:mn>0.6</mml:mn><mml:mspace width="3.33333pt"/><mml:mtext>Hz</mml:mtext></mml:mrow></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq36.gif"/></alternatives></inline-formula>) and high-frequency component (HFC) (1&#x02013;2.3&#x000a0;Hz) were calculated. Prior to detrending, the standard deviation of the fluctuations and the mean accommodation level were also calculated for each record.</p></sec><sec id="Sec12"><title>Statistical Analysis</title><p id="Par18">All statistical analysis was carried out using SPSS (v.21, IBM). Bonferroni post hoc testing was used in which the <italic>p</italic> value is adjusted for multiple comparisons. For example, when comparing the microfluctuations across refractive groups, there are three comparisons: EMM versus EOM, EMM versus LOM, and EOM versus LOM. In this case, rather than a statistically significant difference being represented by <inline-formula id="IEq37"><alternatives><tex-math id="M107">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$p&#x0003c;0.05$$\end{document}</tex-math><mml:math id="M108"><mml:mrow><mml:mi>p</mml:mi><mml:mo>&#x0003c;</mml:mo><mml:mn>0.05</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq37.gif"/></alternatives></inline-formula>, a value of <inline-formula id="IEq38"><alternatives><tex-math id="M109">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$p&#x0003c;0.05/3$$\end{document}</tex-math><mml:math id="M110"><mml:mrow><mml:mi>p</mml:mi><mml:mo>&#x0003c;</mml:mo><mml:mn>0.05</mml:mn><mml:mo stretchy="false">/</mml:mo><mml:mn>3</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq38.gif"/></alternatives></inline-formula> is used.</p></sec></sec><sec id="Sec13"><title>Results</title><sec id="Sec14"><title>Chaos Theory Analysis</title><p id="Par19">Figure&#x000a0;<xref rid="Fig5" ref-type="fig">5</xref> shows an example of the chaos theory results for each processing step for an LOM and 2&#x000a0;D accommodative demand. A mixed ANOVA looking at demand as &#x0201c;within-subjects effect&#x0201d;, with refractive error group as &#x0201c;between-subjects effect&#x0201d;, was calculated for the LE, embedding lag, embedding dimension, and limit of predictability. The ANOVA tests revealed insufficient evidence that accommodative demand had an effect (<inline-formula id="IEq39"><alternatives><tex-math id="M111">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$p &#x0003e; 0.05$$\end{document}</tex-math><mml:math id="M112"><mml:mrow><mml:mi>p</mml:mi><mml:mo>&#x0003e;</mml:mo><mml:mn>0.05</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq39.gif"/></alternatives></inline-formula>) for the LE, embedding lag, embedding dimension, and limit of predictability. The analysis showed a statistically significant effect of refractive error on both the LE (<inline-formula id="IEq40"><alternatives><tex-math id="M113">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$p = 0.038, F = 4.084$$\end{document}</tex-math><mml:math id="M114"><mml:mrow><mml:mi>p</mml:mi><mml:mo>=</mml:mo><mml:mn>0.038</mml:mn><mml:mo>,</mml:mo><mml:mi>F</mml:mi><mml:mo>=</mml:mo><mml:mn>4.084</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq40.gif"/></alternatives></inline-formula>) and embedding dimension (<inline-formula id="IEq41"><alternatives><tex-math id="M115">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$p = 0.014, F = 5.735$$\end{document}</tex-math><mml:math id="M116"><mml:mrow><mml:mi>p</mml:mi><mml:mo>=</mml:mo><mml:mn>0.014</mml:mn><mml:mo>,</mml:mo><mml:mi>F</mml:mi><mml:mo>=</mml:mo><mml:mn>5.735</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq41.gif"/></alternatives></inline-formula>). Post hoc analysis revealed that the EMMs had a higher LE than the LOMs, <inline-formula id="IEq42"><alternatives><tex-math id="M117">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$0.64\pm 0.33$$\end{document}</tex-math><mml:math id="M118"><mml:mrow><mml:mn>0.64</mml:mn><mml:mo>&#x000b1;</mml:mo><mml:mn>0.33</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq42.gif"/></alternatives></inline-formula> versus <inline-formula id="IEq43"><alternatives><tex-math id="M119">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$0.39\pm 0.20~\hbox {D}/\hbox {s}$$\end{document}</tex-math><mml:math id="M120"><mml:mrow><mml:mn>0.39</mml:mn><mml:mo>&#x000b1;</mml:mo><mml:mn>0.20</mml:mn><mml:mspace width="3.33333pt"/><mml:mtext>D</mml:mtext><mml:mo stretchy="false">/</mml:mo><mml:mtext>s</mml:mtext></mml:mrow></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq43.gif"/></alternatives></inline-formula>, (<inline-formula id="IEq44"><alternatives><tex-math id="M121">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$p = 0.015$$\end{document}</tex-math><mml:math id="M122"><mml:mrow><mml:mi>p</mml:mi><mml:mo>=</mml:mo><mml:mn>0.015</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq44.gif"/></alternatives></inline-formula>), but there was insufficient evidence of a difference between EMMs and EOMs <inline-formula id="IEq45"><alternatives><tex-math id="M123">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$(p &#x0003e; 0.05/3)$$\end{document}</tex-math><mml:math id="M124"><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi>p</mml:mi><mml:mo>&#x0003e;</mml:mo><mml:mn>0.05</mml:mn><mml:mo stretchy="false">/</mml:mo><mml:mn>3</mml:mn><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq45.gif"/></alternatives></inline-formula> or EOMs and LOMs <inline-formula id="IEq46"><alternatives><tex-math id="M125">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$(p &#x0003e; 0.05/3).$$\end{document}</tex-math><mml:math id="M126"><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi>p</mml:mi><mml:mo>&#x0003e;</mml:mo><mml:mn>0.05</mml:mn><mml:mo stretchy="false">/</mml:mo><mml:mn>3</mml:mn><mml:mo stretchy="false">)</mml:mo><mml:mo>.</mml:mo></mml:mrow></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq46.gif"/></alternatives></inline-formula> In addition, the EMMs had a lower embedding dimension than the LOMs, <inline-formula id="IEq47"><alternatives><tex-math id="M127">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$3.28\pm 0.46$$\end{document}</tex-math><mml:math id="M128"><mml:mrow><mml:mn>3.28</mml:mn><mml:mo>&#x000b1;</mml:mo><mml:mn>0.46</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq47.gif"/></alternatives></inline-formula> versus <inline-formula id="IEq48"><alternatives><tex-math id="M129">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$3.67\pm 0.49~\hbox {D}/\hbox {s}$$\end{document}</tex-math><mml:math id="M130"><mml:mrow><mml:mn>3.67</mml:mn><mml:mo>&#x000b1;</mml:mo><mml:mn>0.49</mml:mn><mml:mspace width="3.33333pt"/><mml:mtext>D</mml:mtext><mml:mo stretchy="false">/</mml:mo><mml:mtext>s</mml:mtext></mml:mrow></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq48.gif"/></alternatives></inline-formula>, (<inline-formula id="IEq49"><alternatives><tex-math id="M131">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$p = 0.005$$\end{document}</tex-math><mml:math id="M132"><mml:mrow><mml:mi>p</mml:mi><mml:mo>=</mml:mo><mml:mn>0.005</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq49.gif"/></alternatives></inline-formula>). Again there was insufficient evidence of a difference between EMMs and EOMs or EOMs and LOMs. Figure&#x000a0;<xref rid="Fig6" ref-type="fig">6</xref> shows the divergence plots averaged across accommodative demand for each refractive group. The mean values for each parameter across refractive error and accommodative demand were: LE, <inline-formula id="IEq50"><alternatives><tex-math id="M133">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$0.50\pm 0.29~\hbox {D}/\hbox {s}$$\end{document}</tex-math><mml:math id="M134"><mml:mrow><mml:mn>0.50</mml:mn><mml:mo>&#x000b1;</mml:mo><mml:mn>0.29</mml:mn><mml:mspace width="3.33333pt"/><mml:mtext>D</mml:mtext><mml:mo stretchy="false">/</mml:mo><mml:mtext>s</mml:mtext></mml:mrow></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq50.gif"/></alternatives></inline-formula>; embedding lag, <inline-formula id="IEq51"><alternatives><tex-math id="M135">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$0.30\pm 0.10~\hbox {s}$$\end{document}</tex-math><mml:math id="M136"><mml:mrow><mml:mn>0.30</mml:mn><mml:mo>&#x000b1;</mml:mo><mml:mn>0.10</mml:mn><mml:mspace width="3.33333pt"/><mml:mtext>s</mml:mtext></mml:mrow></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq51.gif"/></alternatives></inline-formula>; embedding dimension, 3 <inline-formula id="IEq52"><alternatives><tex-math id="M137">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$(3.44 \pm 0.50$$\end{document}</tex-math><mml:math id="M138"><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mn>3.44</mml:mn><mml:mo>&#x000b1;</mml:mo><mml:mn>0.50</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq52.gif"/></alternatives></inline-formula>); predictability <inline-formula id="IEq53"><alternatives><tex-math id="M139">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$1.21\pm 0.57~\hbox {s}$$\end{document}</tex-math><mml:math id="M140"><mml:mrow><mml:mn>1.21</mml:mn><mml:mo>&#x000b1;</mml:mo><mml:mn>0.57</mml:mn><mml:mspace width="3.33333pt"/><mml:mtext>s</mml:mtext></mml:mrow></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq53.gif"/></alternatives></inline-formula>. The results for each refractive group averaged across accommodative demand are shown in Table&#x000a0;<xref rid="Tab1" ref-type="table">1</xref>. There was insufficient evidence of a correlation between the average LE of each subject (i.e. averaged across accommodative demand) and SER (<inline-formula id="IEq54"><alternatives><tex-math id="M141">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$p = 0.09$$\end{document}</tex-math><mml:math id="M142"><mml:mrow><mml:mi>p</mml:mi><mml:mo>=</mml:mo><mml:mn>0.09</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq54.gif"/></alternatives></inline-formula>).<fig id="Fig5"><label>Fig. 5</label><caption><p>Chaos theory results for each processing step for an LOM at a 2&#x000a0;D accommodative demand. <bold>a</bold> Detrended accommodation time trace. <bold>b</bold> Mutual information. The first minimum is the embedding lag which is five data points. <bold>c</bold> The percentage of false nearest neighbours versus embedding dimension. The dimension is three in this case as this results in <inline-formula id="IEq55"><alternatives><tex-math id="M143">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\le $$\end{document}</tex-math><mml:math id="M144"><mml:mo>&#x02264;</mml:mo></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq55.gif"/></alternatives></inline-formula>5% false nearest neighbours. <bold>d</bold> The time evolution of the average separation of nearby trajectories in phase space. The slope of the linear rise is the LE. The end of the linear rise is the limit of predictability. <bold>e</bold> The reconstructed phase space</p></caption><graphic xlink:href="11538_2017_310_Fig5_HTML" id="MO32"/></fig>
+</p><p id="Par20">Figure&#x000a0;<xref rid="Fig7" ref-type="fig">7</xref>a shows examples of the recurrence plot for an EMM, EOM and LOM for a 3&#x000a0;D accommodative demand. Although some similarities were evident, in general we found that each data record had its own unique recurrence plot. Topological transitivity was confirmed in 37 out of 54 accommodation records (three demands for each of the 18 subjects). We investigated the effect of the recurrence plot density on whether topological transitivity is detected. Figure&#x000a0;<xref rid="Fig7" ref-type="fig">7</xref>b shows the minimum recurrence rate needed for a record to test positive for topological transitivity. The plot shows the average value for each refractive group for each demand and for each refractive group across all demands. A mixed ANOVA revealed that the minimum recurrence rate was affected by demand (<inline-formula id="IEq56"><alternatives><tex-math id="M145">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$p=0.035,F=3.754$$\end{document}</tex-math><mml:math id="M146"><mml:mrow><mml:mi>p</mml:mi><mml:mo>=</mml:mo><mml:mn>0.035</mml:mn><mml:mo>,</mml:mo><mml:mi>F</mml:mi><mml:mo>=</mml:mo><mml:mn>3.754</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq56.gif"/></alternatives></inline-formula>). Post hoc analysis revealed that the threshold was higher for 1&#x000a0;D than for 2&#x000a0;D (<inline-formula id="IEq57"><alternatives><tex-math id="M147">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$p = 0.012$$\end{document}</tex-math><mml:math id="M148"><mml:mrow><mml:mi>p</mml:mi><mml:mo>=</mml:mo><mml:mn>0.012</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq57.gif"/></alternatives></inline-formula>), <inline-formula id="IEq58"><alternatives><tex-math id="M149">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$52.8\pm 16.1$$\end{document}</tex-math><mml:math id="M150"><mml:mrow><mml:mn>52.8</mml:mn><mml:mo>&#x000b1;</mml:mo><mml:mn>16.1</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq58.gif"/></alternatives></inline-formula> versus <inline-formula id="IEq59"><alternatives><tex-math id="M151">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$39.9\pm 16.8\%$$\end{document}</tex-math><mml:math id="M152"><mml:mrow><mml:mn>39.9</mml:mn><mml:mo>&#x000b1;</mml:mo><mml:mn>16.8</mml:mn><mml:mo>%</mml:mo></mml:mrow></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq59.gif"/></alternatives></inline-formula>. We found insufficient evidence of an effect of refractive error.<fig id="Fig6"><label>Fig. 6</label><caption><p>Divergence plots for each refractive group averaged across all accommodative demands. Also shown is the fit to each <italic>curve</italic>. The gradient of the linear rise is the LE. <italic>Circles</italic> indicate the limit of predictability</p></caption><graphic xlink:href="11538_2017_310_Fig6_HTML" id="MO33"/></fig>
+<table-wrap id="Tab1"><label>Table 1</label><caption><p>Chaos parameters for each group averaged across accommodative demand</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left" rowspan="2">Parameter</th><th align="left" colspan="4">Refractive group</th></tr><tr><th align="left">EMM</th><th align="left">EOM</th><th align="left">LOM</th><th align="left">All</th></tr></thead><tbody><tr><td align="left">Em. lag (s)</td><td align="left">
+<inline-formula id="IEq60"><alternatives><tex-math id="M153">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$0.29 \pm 0.11$$\end{document}</tex-math><mml:math id="M154"><mml:mrow><mml:mn>0.29</mml:mn><mml:mo>&#x000b1;</mml:mo><mml:mn>0.11</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq60.gif"/></alternatives></inline-formula>
+</td><td align="left">
+<inline-formula id="IEq61"><alternatives><tex-math id="M155">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$0.31 \pm 0.07$$\end{document}</tex-math><mml:math id="M156"><mml:mrow><mml:mn>0.31</mml:mn><mml:mo>&#x000b1;</mml:mo><mml:mn>0.07</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq61.gif"/></alternatives></inline-formula>
+</td><td align="left">
+<inline-formula id="IEq62"><alternatives><tex-math id="M157">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$0.32 \pm 0.13$$\end{document}</tex-math><mml:math id="M158"><mml:mrow><mml:mn>0.32</mml:mn><mml:mo>&#x000b1;</mml:mo><mml:mn>0.13</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq62.gif"/></alternatives></inline-formula>
+</td><td align="left">
+<inline-formula id="IEq63"><alternatives><tex-math id="M159">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$0.30 \pm 0.10$$\end{document}</tex-math><mml:math id="M160"><mml:mrow><mml:mn>0.30</mml:mn><mml:mo>&#x000b1;</mml:mo><mml:mn>0.10</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq63.gif"/></alternatives></inline-formula>
+</td></tr><tr><td align="left">Em. dim.</td><td align="left">
+<inline-formula id="IEq64"><alternatives><tex-math id="M161">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$3.28 \pm 0.46^{\mathrm{a}}$$\end{document}</tex-math><mml:math id="M162"><mml:mrow><mml:mn>3.28</mml:mn><mml:mo>&#x000b1;</mml:mo><mml:mn>0</mml:mn><mml:mo>.</mml:mo><mml:msup><mml:mn>46</mml:mn><mml:mi mathvariant="normal">a</mml:mi></mml:msup></mml:mrow></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq64.gif"/></alternatives></inline-formula>
+</td><td align="left">
+<inline-formula id="IEq65"><alternatives><tex-math id="M163">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$3.39 \pm 0.50$$\end{document}</tex-math><mml:math id="M164"><mml:mrow><mml:mn>3.39</mml:mn><mml:mo>&#x000b1;</mml:mo><mml:mn>0.50</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq65.gif"/></alternatives></inline-formula>
+</td><td align="left">
+<inline-formula id="IEq66"><alternatives><tex-math id="M165">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$3.67 \pm 0.49^{\mathrm{a}}$$\end{document}</tex-math><mml:math id="M166"><mml:mrow><mml:mn>3.67</mml:mn><mml:mo>&#x000b1;</mml:mo><mml:mn>0</mml:mn><mml:mo>.</mml:mo><mml:msup><mml:mn>49</mml:mn><mml:mi mathvariant="normal">a</mml:mi></mml:msup></mml:mrow></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq66.gif"/></alternatives></inline-formula>
+</td><td align="left">
+<inline-formula id="IEq67"><alternatives><tex-math id="M167">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$3.44 \pm 0.50$$\end{document}</tex-math><mml:math id="M168"><mml:mrow><mml:mn>3.44</mml:mn><mml:mo>&#x000b1;</mml:mo><mml:mn>0.50</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq67.gif"/></alternatives></inline-formula>
+</td></tr><tr><td align="left">Predict. (s)</td><td align="left">
+<inline-formula id="IEq68"><alternatives><tex-math id="M169">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$0.96 \pm 0.32$$\end{document}</tex-math><mml:math id="M170"><mml:mrow><mml:mn>0.96</mml:mn><mml:mo>&#x000b1;</mml:mo><mml:mn>0.32</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq68.gif"/></alternatives></inline-formula>
+</td><td align="left">
+<inline-formula id="IEq69"><alternatives><tex-math id="M171">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$1.21 \pm 0.43$$\end{document}</tex-math><mml:math id="M172"><mml:mrow><mml:mn>1.21</mml:mn><mml:mo>&#x000b1;</mml:mo><mml:mn>0.43</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq69.gif"/></alternatives></inline-formula>
+</td><td align="left">
+<inline-formula id="IEq70"><alternatives><tex-math id="M173">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$1.46 \pm 0.78$$\end{document}</tex-math><mml:math id="M174"><mml:mrow><mml:mn>1.46</mml:mn><mml:mo>&#x000b1;</mml:mo><mml:mn>0.78</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq70.gif"/></alternatives></inline-formula>
+</td><td align="left">
+<inline-formula id="IEq71"><alternatives><tex-math id="M175">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$1.21 \pm 0.57$$\end{document}</tex-math><mml:math id="M176"><mml:mrow><mml:mn>1.21</mml:mn><mml:mo>&#x000b1;</mml:mo><mml:mn>0.57</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq71.gif"/></alternatives></inline-formula>
+</td></tr><tr><td align="left">LE (D/s)</td><td align="left">
+<inline-formula id="IEq72"><alternatives><tex-math id="M177">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$0.64 \pm 0.33^{\mathrm{a}}$$\end{document}</tex-math><mml:math id="M178"><mml:mrow><mml:mn>0.64</mml:mn><mml:mo>&#x000b1;</mml:mo><mml:mn>0</mml:mn><mml:mo>.</mml:mo><mml:msup><mml:mn>33</mml:mn><mml:mi mathvariant="normal">a</mml:mi></mml:msup></mml:mrow></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq72.gif"/></alternatives></inline-formula>
+</td><td align="left">
+<inline-formula id="IEq73"><alternatives><tex-math id="M179">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$0.46 \pm 0.28$$\end{document}</tex-math><mml:math id="M180"><mml:mrow><mml:mn>0.46</mml:mn><mml:mo>&#x000b1;</mml:mo><mml:mn>0.28</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq73.gif"/></alternatives></inline-formula>
+</td><td align="left">
+<inline-formula id="IEq74"><alternatives><tex-math id="M181">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$0.39 \pm 0.20^{\mathrm{a}}$$\end{document}</tex-math><mml:math id="M182"><mml:mrow><mml:mn>0.39</mml:mn><mml:mo>&#x000b1;</mml:mo><mml:mn>0</mml:mn><mml:mo>.</mml:mo><mml:msup><mml:mn>20</mml:mn><mml:mi mathvariant="normal">a</mml:mi></mml:msup></mml:mrow></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq74.gif"/></alternatives></inline-formula>
+</td><td align="left">
+<inline-formula id="IEq75"><alternatives><tex-math id="M183">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$0.50 \pm 0.29$$\end{document}</tex-math><mml:math id="M184"><mml:mrow><mml:mn>0.50</mml:mn><mml:mo>&#x000b1;</mml:mo><mml:mn>0.29</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq75.gif"/></alternatives></inline-formula>
+</td></tr></tbody></table><table-wrap-foot><p>
+<inline-formula id="IEq76"><alternatives><tex-math id="M185">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$^{\mathrm{a}}$$\end{document}</tex-math><mml:math id="M186"><mml:msup><mml:mrow/><mml:mi mathvariant="normal">a</mml:mi></mml:msup></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq76.gif"/></alternatives></inline-formula>&#x000a0;Indicates a significant difference between groups <inline-formula id="IEq77"><alternatives><tex-math id="M187">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$(p &#x0003c; 0.05/3)$$\end{document}</tex-math><mml:math id="M188"><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi>p</mml:mi><mml:mo>&#x0003c;</mml:mo><mml:mn>0.05</mml:mn><mml:mo stretchy="false">/</mml:mo><mml:mn>3</mml:mn><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq77.gif"/></alternatives></inline-formula>
+</p></table-wrap-foot></table-wrap>
+</p><p id="Par21">
+<fig id="Fig7"><label>Fig. 7</label><caption><p>
+<bold>a</bold> Recurrence plots for three subjects for a 3&#x000a0;D accommodative demand. <italic>White</italic> represents a value of one. <bold>b</bold> Plot of the minimum recurrence rate for topological transitivity to test positive</p></caption><graphic xlink:href="11538_2017_310_Fig7_HTML" id="MO34"/></fig>
+<fig id="Fig8"><label>Fig. 8</label><caption><p>Results from the traditional analysis methods used to study changes in microfluctuations in accommodation. <bold>a</bold> Area under the LFC. <bold>b</bold> Area under the HFC. <bold>c</bold> Standard deviation. <bold>d</bold> Mean accommodation level</p></caption><graphic xlink:href="11538_2017_310_Fig8_HTML" id="MO35"/></fig>
+<fig id="Fig9"><label>Fig. 9</label><caption><p>Effect of filtering on the LE. <italic>Asterisk</italic> represents statistically significant difference (<inline-formula id="IEq78"><alternatives><tex-math id="M189">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$p &#x0003c; 0.05/3$$\end{document}</tex-math><mml:math id="M190"><mml:mrow><mml:mi>p</mml:mi><mml:mo>&#x0003c;</mml:mo><mml:mn>0.05</mml:mn><mml:mo stretchy="false">/</mml:mo><mml:mn>3</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq78.gif"/></alternatives></inline-formula>)</p></caption><graphic xlink:href="11538_2017_310_Fig9_HTML" id="MO36"/></fig>
+</p></sec><sec id="Sec15"><title>Traditional Analysis</title><p id="Par22">Figure&#x000a0;<xref rid="Fig8" ref-type="fig">8</xref> shows the area under the LFC, area under the HFC, standard deviation, and mean accommodation level, for each refractive group for each demand and for each refractive group across all demands. A mixed ANOVA found insufficient evidence of refractive error having an effect on the area under the LFC, the area under the HFC, standard deviation of the fluctuations, and mean accommodation level (<inline-formula id="IEq79"><alternatives><tex-math id="M191">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$p &#x0003e; 0.05$$\end{document}</tex-math><mml:math id="M192"><mml:mrow><mml:mi>p</mml:mi><mml:mo>&#x0003e;</mml:mo><mml:mn>0.05</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq79.gif"/></alternatives></inline-formula> in all cases). There was an effect of demand (<inline-formula id="IEq80"><alternatives><tex-math id="M193">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$p = 0.012, F = 6.241$$\end{document}</tex-math><mml:math id="M194"><mml:mrow><mml:mi>p</mml:mi><mml:mo>=</mml:mo><mml:mn>0.012</mml:mn><mml:mo>,</mml:mo><mml:mi>F</mml:mi><mml:mo>=</mml:mo><mml:mn>6.241</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq80.gif"/></alternatives></inline-formula>), for the area under the HFC only. Post hoc analysis revealed that the area under the HFC was significantly lower for 1 D in comparison to 2 D <inline-formula id="IEq81"><alternatives><tex-math id="M195">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$(p = 0.009$$\end{document}</tex-math><mml:math id="M196"><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi>p</mml:mi><mml:mo>=</mml:mo><mml:mn>0.009</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq81.gif"/></alternatives></inline-formula>). We found insufficient evidence of a correlation between the LE and the area under the LFC <inline-formula id="IEq82"><alternatives><tex-math id="M197">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$(p = 0.53$$\end{document}</tex-math><mml:math id="M198"><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi>p</mml:mi><mml:mo>=</mml:mo><mml:mn>0.53</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq82.gif"/></alternatives></inline-formula>), LE and the area under the HFC <inline-formula id="IEq83"><alternatives><tex-math id="M199">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$(p = 0.06$$\end{document}</tex-math><mml:math id="M200"><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi>p</mml:mi><mml:mo>=</mml:mo><mml:mn>0.06</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq83.gif"/></alternatives></inline-formula>), LE and mean accommodation level <inline-formula id="IEq84"><alternatives><tex-math id="M201">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$(p = 0.09$$\end{document}</tex-math><mml:math id="M202"><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi>p</mml:mi><mml:mo>=</mml:mo><mml:mn>0.09</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq84.gif"/></alternatives></inline-formula>), or LE and standard deviation <inline-formula id="IEq85"><alternatives><tex-math id="M203">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$(p = 0.08$$\end{document}</tex-math><mml:math id="M204"><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi>p</mml:mi><mml:mo>=</mml:mo><mml:mn>0.08</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq85.gif"/></alternatives></inline-formula>).</p><p id="Par23">In order to determine the contribution of the LFC and HFC to the LE, we used a Butterworth filter in MATLAB to remove either the LFC or HFC from the accommodation record prior to calculating the LE. A Butterworth filter was chosen owing to its constant amplitude across the frequencies of interest that the filter passes. Figure&#x000a0;<xref rid="Fig9" ref-type="fig">9</xref> shows the effect of filtering on the LE for each refractive group for each filter and for each filter across all refractive groups. A mixed ANOVA revealed an effect of filtering <inline-formula id="IEq86"><alternatives><tex-math id="M205">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$(p = 0.002, F = 10.039$$\end{document}</tex-math><mml:math id="M206"><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi>p</mml:mi><mml:mo>=</mml:mo><mml:mn>0.002</mml:mn><mml:mo>,</mml:mo><mml:mi>F</mml:mi><mml:mo>=</mml:mo><mml:mn>10.039</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq86.gif"/></alternatives></inline-formula>) and refractive error <inline-formula id="IEq87"><alternatives><tex-math id="M207">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$(p = 0.045, F = 3.842$$\end{document}</tex-math><mml:math id="M208"><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi>p</mml:mi><mml:mo>=</mml:mo><mml:mn>0.045</mml:mn><mml:mo>,</mml:mo><mml:mi>F</mml:mi><mml:mo>=</mml:mo><mml:mn>3.842</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq87.gif"/></alternatives></inline-formula>), but not accommodative demand <inline-formula id="IEq88"><alternatives><tex-math id="M209">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$(p = 0.951, F = 0.050$$\end{document}</tex-math><mml:math id="M210"><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi>p</mml:mi><mml:mo>=</mml:mo><mml:mn>0.951</mml:mn><mml:mo>,</mml:mo><mml:mi>F</mml:mi><mml:mo>=</mml:mo><mml:mn>0.050</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq88.gif"/></alternatives></inline-formula>). There was also an interaction between demand and refractive error <inline-formula id="IEq89"><alternatives><tex-math id="M211">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$(p = 0.018, F = 3.539$$\end{document}</tex-math><mml:math id="M212"><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi>p</mml:mi><mml:mo>=</mml:mo><mml:mn>0.018</mml:mn><mml:mo>,</mml:mo><mml:mi>F</mml:mi><mml:mo>=</mml:mo><mml:mn>3.539</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq89.gif"/></alternatives></inline-formula>). Post hoc analysis revealed that filtering out the HFC resulted in a larger LE <inline-formula id="IEq90"><alternatives><tex-math id="M213">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$(0.74 \pm 0.42~\hbox {D}/\hbox {s}$$\end{document}</tex-math><mml:math id="M214"><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mn>0.74</mml:mn><mml:mo>&#x000b1;</mml:mo><mml:mn>0.42</mml:mn><mml:mspace width="3.33333pt"/><mml:mtext>D</mml:mtext><mml:mo stretchy="false">/</mml:mo><mml:mtext>s</mml:mtext></mml:mrow></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq90.gif"/></alternatives></inline-formula>) than both the unfiltered data <inline-formula id="IEq91"><alternatives><tex-math id="M215">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$[0.50 \pm 0.29~\hbox {D}/\hbox {s}~(p = 0.002)]$$\end{document}</tex-math><mml:math id="M216"><mml:mrow><mml:mo stretchy="false">[</mml:mo><mml:mn>0.50</mml:mn><mml:mo>&#x000b1;</mml:mo><mml:mn>0.29</mml:mn><mml:mspace width="3.33333pt"/><mml:mtext>D</mml:mtext><mml:mo stretchy="false">/</mml:mo><mml:mtext>s</mml:mtext><mml:mspace width="3.33333pt"/><mml:mo stretchy="false">(</mml:mo><mml:mi>p</mml:mi><mml:mo>=</mml:mo><mml:mn>0.002</mml:mn><mml:mo stretchy="false">)</mml:mo><mml:mo stretchy="false">]</mml:mo></mml:mrow></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq91.gif"/></alternatives></inline-formula> and the data with the LFC filtered out <inline-formula id="IEq92"><alternatives><tex-math id="M217">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$[0.44 \pm 0.32~\hbox {D}/\hbox {s}~(p=0.005)]$$\end{document}</tex-math><mml:math id="M218"><mml:mrow><mml:mo stretchy="false">[</mml:mo><mml:mn>0.44</mml:mn><mml:mo>&#x000b1;</mml:mo><mml:mn>0.32</mml:mn><mml:mspace width="3.33333pt"/><mml:mtext>D</mml:mtext><mml:mo stretchy="false">/</mml:mo><mml:mtext>s</mml:mtext><mml:mspace width="3.33333pt"/><mml:mo stretchy="false">(</mml:mo><mml:mi>p</mml:mi><mml:mo>=</mml:mo><mml:mn>0.005</mml:mn><mml:mo stretchy="false">)</mml:mo><mml:mo stretchy="false">]</mml:mo></mml:mrow></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq92.gif"/></alternatives></inline-formula>. There was insufficient evidence of an effect of refractive error under post-hoc testing.</p></sec></sec><sec id="Sec16"><title>Discussion</title><p id="Par24">In this paper, we determined the effect of refractive error and accommodative demand on chaos in microfluctuations in accommodation. For comparison purposes, we also used power spectrum analysis to ascertain any differences between the two methods of analysis.</p><sec id="Sec17"><title>Chaotic Nature of Microfluctuations in Accommodation</title><p id="Par25">The mean LE for each refractive group and accommodation demand was positive. We also found that in the majority of cases, the accommodation records tested positive for topological transitivity. Taken together, these results indicate that the microfluctuations in accommodation are chaotic. Hence, there are underlying laws governing the dynamics of the fluctuations. It was found that the EMMs had a statistically significant higher LE and lower embedding dimension than LOMs. There was insufficient evidence <inline-formula id="IEq93"><alternatives><tex-math id="M219">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$(p &#x0003e; 0.05$$\end{document}</tex-math><mml:math id="M220"><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi>p</mml:mi><mml:mo>&#x0003e;</mml:mo><mml:mn>0.05</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="11538_2017_310_Article_IEq93.gif"/></alternatives></inline-formula>) of a difference between refractive groups for the embedding lag and limit of predictability. An effect of accommodative demand was also not evident. As a reduction in the LE and increase in embedding dimension in systems such as the heart indicate stress or disease (Su et&#x000a0;al. <xref ref-type="bibr" rid="CR41">2008</xref>; Yeragani et&#x000a0;al. <xref ref-type="bibr" rid="CR49">2002</xref>; Rao and Yeragani <xref ref-type="bibr" rid="CR33">2001</xref>; Hampson et&#x000a0;al. <xref ref-type="bibr" rid="CR14">2013</xref>), this suggests that the accommodation system of LOMs is under stress. It is interesting to note that although not statistically significant, the mean values of the chaos parameters for the EOMs fall between that of the EMMs and LOMs for the LE and embedding dimension, as well as the embedding lag and limit of predictability. Differences in the magnitude of the refractive error of the groups are not sufficient to explain the differences between the changes in chaos. For example, the EOMs had on average the biggest refractive error of the groups yet the LE fell between that of the EMMs and LOMs. Furthermore, we found insufficient evidence of a correlation between SER and the LE.</p><p id="Par26">By increasing the recurrence rate beyond the chosen value of 50%, all accommodation records became topologically transient. When investigating the minimum recurrence rate necessary for a given accommodation record to test positive for topological transitivity, we found a statistically significant effect of demand, but not refractive error. The threshold recurrence rate for 2&#x000a0;D was lower than that of 1&#x000a0;D. This could reflect changes in the statistical properties of the accommodation system (Leahy et&#x000a0;al. <xref ref-type="bibr" rid="CR23">2010</xref>), such as reduced noise at 2&#x000a0;D. Future work will involve investigating this further.</p><p id="Par27">Advantages of chaos as a control strategy of physiological systems are that the system is able to easily adapt to changes in the environment. It may be that LOMs have a less adaptable accommodation system. The results from this study will aid in the development of models of accommodation microfluctuations and changes in myopia. For example, an embedding dimension of three indicates that there are of the order of three variables that control the microfluctuations in accommodation.</p></sec><sec id="Sec18"><title>Comparison with Previous Studies</title><p id="Par28">The value of the LE and other phase space reconstruction parameters, i.e. embedding lag, embedding dimension, and predictability, found here are similar to those found in other studies which analysed microfluctuations in accommodation (Hampson and Mallen <xref ref-type="bibr" rid="CR16">2012</xref>, <xref ref-type="bibr" rid="CR15">2013</xref>; Sumida et&#x000a0;al. <xref ref-type="bibr" rid="CR42">1994</xref>; Hampson et&#x000a0;al. <xref ref-type="bibr" rid="CR14">2013</xref>; Iwase and Murata <xref ref-type="bibr" rid="CR20">1999</xref>). Although the LE and embedding dimension were found to be different for LOMs, using the traditional analysis methods of power spectrum analysis and the standard deviation did not reveal any refractive error differences. Day et al. for example found a significant effect of refractive error on the powers of the LFC and the standard deviation of the fluctuations. They found that the LFC power increases more rapidly with accommodative demand for EMMs and EOMs, in comparison to LOMs, and that the standard deviation of the fluctuations is higher in LOMs (Day et&#x000a0;al. <xref ref-type="bibr" rid="CR9">2006</xref>).</p><p id="Par29">One explanation for finding insufficient evidence of a difference in this study with regard to the LFC may be the way in which the data were processed. Here the linear trend was removed prior to processing the data. Failure to remove a linear trend results in an artificial increase in the power spectrum for low frequencies (Bendat and Piersol <xref ref-type="bibr" rid="CR1">2000</xref>). We reprocessed the power spectrum data without removing the linear trend and found that there was still insufficient evidence of an effect of refractive error, however. Interestingly, when the linear trend is not removed, we find the effect of demand becomes statistically significant for the area under the LFC as in other studies, e.g. Day et&#x000a0;al. (<xref ref-type="bibr" rid="CR9">2006</xref>). Another possible explanation may simply be that the subjects in this study did not have detectable significant differences in their power spectrum (or standard deviation). It has been shown that these measures vary greatly between subjects (Harb et&#x000a0;al. <xref ref-type="bibr" rid="CR18">2006</xref>). Insufficient evidence of a difference in the power spectrum (and standard deviation) found here suggests chaos theory analysis is potentially a more sensitive marker of differences in accommodation function between refractive groups. This has been shown to be the case when determining the effect of adaptive optics correction of blur on microfluctuations in accommodation (Hampson et&#x000a0;al. <xref ref-type="bibr" rid="CR14">2013</xref>) and also when studying other physiological signals such as the heartbeat (Yeragani et&#x000a0;al. <xref ref-type="bibr" rid="CR49">2002</xref>).</p></sec><sec id="Sec19"><title>Potential Origin</title><p id="Par30">A potential contributor to the chaotic dynamics is the heartbeat. The healthy heartbeat is itself chaotic (Sharma <xref ref-type="bibr" rid="CR37">2009</xref>), and several studies have shown that the HFC of the microfluctuations in accommodation is correlated with the heartbeat; see, for example, Winn et&#x000a0;al. (<xref ref-type="bibr" rid="CR46">1990</xref>), Collins et&#x000a0;al. (<xref ref-type="bibr" rid="CR7">1995</xref>), van&#x000a0;der&#x000a0;Heijde et&#x000a0;al. (<xref ref-type="bibr" rid="CR43">1996</xref>). Although the LFC region is considered to be part of the accommodation control system, part of this region is correlated with respiration and fluctuations in instantaneous pulse rate (Collins et&#x000a0;al. <xref ref-type="bibr" rid="CR7">1995</xref>; van&#x000a0;der&#x000a0;Heijde et&#x000a0;al. <xref ref-type="bibr" rid="CR43">1996</xref>). Both respiration and fluctuations in instantaneous pulse rate are chaotic (Poon and Merrill <xref ref-type="bibr" rid="CR32">1997</xref>; Su et&#x000a0;al. <xref ref-type="bibr" rid="CR41">2008</xref>; Yeragani et&#x000a0;al. <xref ref-type="bibr" rid="CR49">2002</xref>; Rao and Yeragani <xref ref-type="bibr" rid="CR33">2001</xref>; Donalson <xref ref-type="bibr" rid="CR10">1992</xref>). We found that filtering out the HFC increases the level of chaos in the accommodative microfluctuations and so the presence of the HFC potentially adversely affects the accommodation system. However, care must be taken when analysing a chaotic signal that has been filtered as it has been shown that this can distort the phase space plot and result in incorrect determination of the chaos theory parameters (Rosenstein and Collins <xref ref-type="bibr" rid="CR35">1994</xref>). Future work will include simultaneously measuring the pulse and the microfluctuations in accommodation in order to study further the connection between the heart and oculomotor system.</p><p id="Par31">The level of chaos in heart rate variability has been found to depend mainly on the parasympathetic branch of the nervous system, with some effect due to the sympathetic branch (Hangerman et&#x000a0;al. <xref ref-type="bibr" rid="CR17">1996</xref>). An increase and decrease in parasympathetic activity produce increases and decreases in the LE of heart rate variability, respectively. An increase and decrease in sympathetic activity have the opposite effect on the LE but to a lesser extent. During a task in which cognitive demand increased, Davies et&#x000a0;al. (<xref ref-type="bibr" rid="CR8">2005</xref>) have found that LOMs have increased sympathetic activity in the heart in comparison to EMMs. At first sight, this appears to be a possible explanation for the results found here. However, using a sympathomimetic and parasympathomimetic agent, Sumida et&#x000a0;al. (<xref ref-type="bibr" rid="CR42">1994</xref>) found an increase and decrease in the LE of microfluctuations in accommodation respectively. Further testing with more subjects is required to investigate this further. These studies suggest that the effects of the sympathetic and parasympathetic components of the nervous system controlling the heart, and those parts controlling the eye, potentially have different effects on the eye. Interestingly, atropine applied to the eye, which reduces stimulation of the parasympathetic nervous system, has been found to be effective in slowing myopia progression (Chia et&#x000a0;al. <xref ref-type="bibr" rid="CR5">2012</xref>). Unfortunately, we do not have data on whether the myopic subjects used in this study were stable or progressing. Future work will include investigating the differences in chaos in the microfluctuations in accommodation in progressive versus stable myopes. Other studies that have investigated the accommodation system in stable and progressive myopes have found differences between these two groups. For example, Millodot (<xref ref-type="bibr" rid="CR29">2015</xref>) found that the gradient of the stimulus response curve of accommodation is different.</p><p id="Par32">Aside from the impact of heart rate variability and respiration on the LFC, part of the LFC is considered to be part of the accommodation control system owing to changes with depth of focus (Charman and Heron <xref ref-type="bibr" rid="CR3">1988</xref>, <xref ref-type="bibr" rid="CR4">2015</xref>; Winn <xref ref-type="bibr" rid="CR45">2000</xref>). Hence, this may be the mechanism which also imparts chaos in the microfluctuations in accommodation. The microfluctuations have also been found to be a potential cue in the accommodative step response (Metlapally et&#x000a0;al. <xref ref-type="bibr" rid="CR28">2016</xref>). Future work will include using chaos theory to determine the effect of the LE on dynamics of the step response in different refractive groups (Seidel et&#x000a0;al. <xref ref-type="bibr" rid="CR36">2005</xref>). It must be pointed out that the LE values found here are likely to be lower than those induced by fluctuations in the crystalline lens due to the tear film affecting the measured signal and reducing the chaos (Hampson and Mallen <xref ref-type="bibr" rid="CR16">2012</xref>; Jayakumar et&#x000a0;al. <xref ref-type="bibr" rid="CR21">2013</xref>).</p></sec></sec><sec id="Sec20"><title>Conclusion</title><p id="Par33">In conclusion, we have found that the dynamics of the microfluctuations in accommodation remain chaotic irrespective of accommodative demand and refractive error. Chaos theory applied to microfluctuations in accommodation can reveal differences in EMMs compared to LOMs that are not detected using traditional analysis methods.</p></sec></body><back><ref-list id="Bib1"><title>References</title><ref id="CR1"><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Bendat</surname><given-names>JS</given-names></name><name><surname>Piersol</surname><given-names>AG</given-names></name></person-group><source>Random data: analysis and measurement procedures</source><year>2000</year><publisher-loc>New York</publisher-loc><publisher-name>Wiley</publisher-name></element-citation></ref><ref id="CR2"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Campbell</surname><given-names>FW</given-names></name><name><surname>Westheimer</surname><given-names>G</given-names></name></person-group><article-title>Dynamics of accommodation responses of the human eye</article-title><source>J Physiol</source><year>1960</year><volume>151</volume><fpage>285</fpage><lpage>295</lpage><pub-id pub-id-type="doi">10.1113/jphysiol.1960.sp006438</pub-id><pub-id pub-id-type="pmid">13807255</pub-id></element-citation></ref><ref id="CR3"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Charman</surname><given-names>WN</given-names></name><name><surname>Heron</surname><given-names>G</given-names></name></person-group><article-title>Fluctuations in accommodation: a review</article-title><source>Ophthalmic Physiol Opt</source><year>1988</year><volume>8</volume><fpage>153</fpage><lpage>164</lpage><pub-id pub-id-type="doi">10.1111/j.1475-1313.1988.tb01031.x</pub-id><pub-id pub-id-type="pmid">3062549</pub-id></element-citation></ref><ref id="CR4"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Charman</surname><given-names>WN</given-names></name><name><surname>Heron</surname><given-names>G</given-names></name></person-group><article-title>Microfluctuations in accommodation: an update on their characteristics and possible role</article-title><source>Ophthalmic Physiol Opt</source><year>2015</year><volume>35</volume><fpage>476</fpage><lpage>499</lpage><pub-id pub-id-type="doi">10.1111/opo.12234</pub-id><pub-id pub-id-type="pmid">26303445</pub-id></element-citation></ref><ref id="CR5"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Chia</surname><given-names>A</given-names></name><name><surname>Chua</surname><given-names>WH</given-names></name><name><surname>Cheung</surname><given-names>YB</given-names></name><name><surname>Wong</surname><given-names>WL</given-names></name><name><surname>Lingham</surname><given-names>A</given-names></name><name><surname>Fong</surname><given-names>A</given-names></name><name><surname>Tan</surname><given-names>D</given-names></name></person-group><article-title>Atropine for the treatment of childhood myopia: safety and efficacy of 0.5, 0.1 and 0.01% doses</article-title><source>Ophthalmology</source><year>2012</year><volume>119</volume><fpage>347</fpage><lpage>354</lpage><pub-id pub-id-type="doi">10.1016/j.ophtha.2011.07.031</pub-id><pub-id pub-id-type="pmid">21963266</pub-id></element-citation></ref><ref id="CR6"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Collins</surname><given-names>G</given-names></name></person-group><article-title>The electronic refractometer</article-title><source>Br J Physiol Opt</source><year>1937</year><volume>1</volume><fpage>30</fpage><lpage>40</lpage></element-citation></ref><ref id="CR7"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Collins</surname><given-names>M</given-names></name><name><surname>Davis</surname><given-names>B</given-names></name><name><surname>Wood</surname><given-names>J</given-names></name></person-group><article-title>Microfluctuations of steady-state accommodation and the cardiopulmonary system</article-title><source>Vis Res</source><year>1995</year><volume>35</volume><fpage>2491</fpage><lpage>2502</lpage><pub-id pub-id-type="doi">10.1016/0042-6989(95)00024-0</pub-id><pub-id pub-id-type="pmid">8594816</pub-id></element-citation></ref><ref id="CR8"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Davies</surname><given-names>LN</given-names></name><name><surname>Wolffsohn</surname><given-names>JS</given-names></name><name><surname>Gilmartin</surname><given-names>B</given-names></name></person-group><article-title>Cognition, ocular accommodation, and cardiovascular function in emmetropes and late-onset myopes</article-title><source>Invest Ophthalmol Vis Sci</source><year>2005</year><volume>46</volume><fpage>1791</fpage><lpage>1796</lpage><pub-id pub-id-type="doi">10.1167/iovs.04-0986</pub-id><pub-id pub-id-type="pmid">15851584</pub-id></element-citation></ref><ref id="CR9"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Day</surname><given-names>M</given-names></name><name><surname>Strang</surname><given-names>NC</given-names></name><name><surname>Seidel</surname><given-names>D</given-names></name><name><surname>Gray</surname><given-names>LS</given-names></name><name><surname>Mallen</surname><given-names>EA</given-names></name></person-group><article-title>Refractive group differences in accommodation microfluctuations with changing accommodation stimulus</article-title><source>Ophthalmic Physiol Opt</source><year>2006</year><volume>26</volume><fpage>88</fpage><lpage>96</lpage><pub-id pub-id-type="doi">10.1111/j.1475-1313.2005.00347.x</pub-id><pub-id pub-id-type="pmid">16390487</pub-id></element-citation></ref><ref id="CR10"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Donalson</surname><given-names>GC</given-names></name></person-group><article-title>The chaotic behaviour of resting human respiration</article-title><source>Respir Physiol</source><year>1992</year><volume>88</volume><fpage>313</fpage><lpage>321</lpage><pub-id pub-id-type="doi">10.1016/0034-5687(92)90005-H</pub-id><pub-id pub-id-type="pmid">1615228</pub-id></element-citation></ref><ref id="CR11"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gambra</surname><given-names>E</given-names></name><name><surname>Sawides</surname><given-names>L</given-names></name><name><surname>Dorronsoro</surname><given-names>C</given-names></name><name><surname>Marcos</surname><given-names>S</given-names></name></person-group><article-title>Accommodative lag and fluctuations when optical aberrations are manipulated</article-title><source>J Vis</source><year>2009</year><volume>9</volume><fpage>1</fpage><lpage>15</lpage><pub-id pub-id-type="doi">10.1167/9.6.4</pub-id></element-citation></ref><ref id="CR12"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gray</surname><given-names>LS</given-names></name><name><surname>Winn</surname><given-names>B</given-names></name><name><surname>Gilmartin</surname><given-names>B</given-names></name></person-group><article-title>Accommodative microfluctuations and pupil diameter</article-title><source>Vis Res</source><year>1993</year><volume>33</volume><fpage>2083</fpage><lpage>2090</lpage><pub-id pub-id-type="doi">10.1016/0042-6989(93)90007-J</pub-id><pub-id pub-id-type="pmid">8266650</pub-id></element-citation></ref><ref id="CR13"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gray</surname><given-names>LS</given-names></name><name><surname>Winn</surname><given-names>B</given-names></name><name><surname>Gilmartin</surname><given-names>B</given-names></name></person-group><article-title>Effect of target luminance on microfluctuations of accommodation</article-title><source>Ophthalmic Physiol Opt</source><year>1993</year><volume>13</volume><fpage>258</fpage><lpage>265</lpage><pub-id pub-id-type="doi">10.1111/j.1475-1313.1993.tb00468.x</pub-id><pub-id pub-id-type="pmid">8265167</pub-id></element-citation></ref><ref id="CR14"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hampson</surname><given-names>KM</given-names></name><name><surname>Cufflin</surname><given-names>MP</given-names></name><name><surname>Mallen</surname><given-names>EA</given-names></name></person-group><article-title>Effect of correction of aberration dynamics on chaos in human ocular accommodation</article-title><source>Opt Lett</source><year>2013</year><volume>38</volume><fpage>4747</fpage><lpage>4749</lpage><pub-id pub-id-type="doi">10.1364/OL.38.004747</pub-id><pub-id pub-id-type="pmid">24322122</pub-id></element-citation></ref><ref id="CR15"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hampson</surname><given-names>KM</given-names></name><name><surname>Mallen</surname><given-names>EA</given-names></name></person-group><article-title>Correspondence of chaos in binocular aberration dynamics</article-title><source>Opt Lett</source><year>2013</year><volume>38</volume><fpage>302</fpage><lpage>304</lpage><pub-id pub-id-type="doi">10.1364/OL.38.000302</pub-id><pub-id pub-id-type="pmid">23381418</pub-id></element-citation></ref><ref id="CR16"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hampson</surname><given-names>KM</given-names></name><name><surname>Mallen</surname><given-names>EA</given-names></name></person-group><article-title>Chaos in ocular aberration dynamics of the human eye</article-title><source>Biomed Opt Express</source><year>2012</year><volume>3</volume><fpage>863</fpage><lpage>877</lpage><pub-id pub-id-type="doi">10.1364/BOE.3.000863</pub-id><pub-id pub-id-type="pmid">22567581</pub-id></element-citation></ref><ref id="CR17"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hangerman</surname><given-names>I</given-names></name><name><surname>Berglund</surname><given-names>M</given-names></name><name><surname>Lorin</surname><given-names>M</given-names></name><name><surname>Nowak</surname><given-names>J</given-names></name><name><surname>Slyv&#x000e9;n</surname><given-names>C</given-names></name></person-group><article-title>Chaos-related deterministic regulation of heart rate variability in time-and frequency domains: effects of autonomic blockade and exercise</article-title><source>Cardiovasc Res</source><year>1996</year><volume>31</volume><fpage>410</fpage><lpage>418</lpage><pub-id pub-id-type="doi">10.1016/S0008-6363(95)00084-4</pub-id><pub-id pub-id-type="pmid">8681328</pub-id></element-citation></ref><ref id="CR18"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Harb</surname><given-names>E</given-names></name><name><surname>Thorn</surname><given-names>F</given-names></name><name><surname>Troilo</surname><given-names>D</given-names></name></person-group><article-title>Characteristics of accommodative behavior during sustained reading in emmetropes and myopes</article-title><source>Vis Res</source><year>2006</year><volume>46</volume><fpage>2581</fpage><lpage>2592</lpage><pub-id pub-id-type="doi">10.1016/j.visres.2006.02.006</pub-id><pub-id pub-id-type="pmid">16545421</pub-id></element-citation></ref><ref id="CR19"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hirata</surname><given-names>Y</given-names></name><name><surname>Aihara</surname><given-names>K</given-names></name></person-group><article-title>Devaney&#x02019;s chaos on recurrence plots</article-title><source>Phys Rev E</source><year>2010</year><volume>82</volume><fpage>036209-1</fpage><lpage>036209-6</lpage><pub-id pub-id-type="doi">10.1103/PhysRevE.82.036209</pub-id></element-citation></ref><ref id="CR20"><mixed-citation publication-type="other">Iwase H, Murata A (1999) Chaotic analysis of focal accommodation system and pupil area during VDT work. In: Proceedings of international conference, systems, man and cybernetics. pp 277&#x02013;282</mixed-citation></ref><ref id="CR21"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Jayakumar</surname><given-names>V</given-names></name><name><surname>Thapa</surname><given-names>D</given-names></name><name><surname>Hutchings</surname><given-names>N</given-names></name><name><surname>Lakshminarayanan</surname><given-names>V</given-names></name></person-group><article-title>Are the fluctuations in dynamic anterior surface aberrations of the human eye chaotic?</article-title><source>Opt Lett</source><year>2013</year><volume>38</volume><fpage>5208</fpage><lpage>5211</lpage><pub-id pub-id-type="doi">10.1364/OL.38.005208</pub-id><pub-id pub-id-type="pmid">24322219</pub-id></element-citation></ref><ref id="CR22"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kennel</surname><given-names>MB</given-names></name><name><surname>Brown</surname><given-names>R</given-names></name><name><surname>Abarbanel</surname><given-names>HD</given-names></name></person-group><article-title>Determining embedding dimension for phase-space reconstruction using a geometrical construction</article-title><source>Phys Rev A</source><year>1992</year><volume>45</volume><fpage>3403</fpage><lpage>3411</lpage><pub-id pub-id-type="doi">10.1103/PhysRevA.45.3403</pub-id><pub-id pub-id-type="pmid">9907388</pub-id></element-citation></ref><ref id="CR23"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Leahy</surname><given-names>C</given-names></name><name><surname>Leroux</surname><given-names>C</given-names></name><name><surname>Dainty</surname><given-names>C</given-names></name><name><surname>Diaz-Santana</surname><given-names>L</given-names></name></person-group><article-title>Temporal dynamics and statistical characteristics of the microfluctuations of accommodation: dependence on the mean accommodative effort</article-title><source>Opt Express</source><year>2010</year><volume>18</volume><fpage>2668</fpage><lpage>2681</lpage><pub-id pub-id-type="doi">10.1364/OE.18.002668</pub-id><pub-id pub-id-type="pmid">20174097</pub-id></element-citation></ref><ref id="CR24"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Langaas</surname><given-names>T</given-names></name><name><surname>Riddell</surname><given-names>PM</given-names></name><name><surname>Svarverud</surname><given-names>E</given-names></name><name><surname>Ystenaes</surname><given-names>AE</given-names></name><name><surname>Langeggen</surname><given-names>I</given-names></name><name><surname>Bruenech</surname><given-names>JR</given-names></name></person-group><article-title>Variability of the accommodation response in early onset myopia</article-title><source>Optom Vis Sci</source><year>2008</year><volume>85</volume><fpage>37</fpage><lpage>48</lpage><pub-id pub-id-type="doi">10.1097/OPX.0b013e31815ed6e9</pub-id><pub-id pub-id-type="pmid">18174839</pub-id></element-citation></ref><ref id="CR25"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Langaas</surname><given-names>T</given-names></name><name><surname>Riddell</surname><given-names>PM</given-names></name></person-group><article-title>Accommodative instability: relationship to progression of early onset myopia</article-title><source>Clin Exp Optom</source><year>2012</year><volume>95</volume><fpage>153</fpage><lpage>159</lpage><pub-id pub-id-type="doi">10.1111/j.1444-0938.2011.00699.x</pub-id><pub-id pub-id-type="pmid">22283788</pub-id></element-citation></ref><ref id="CR26"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Liu</surname><given-names>Z</given-names></name></person-group><article-title>Chaotic time series analysis</article-title><source>Math Probl Eng</source><year>2010</year><volume>2010</volume><fpage>1</fpage><lpage>31</lpage></element-citation></ref><ref id="CR27"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>McBrien</surname><given-names>NA</given-names></name><name><surname>Millodot</surname><given-names>M</given-names></name></person-group><article-title>The effect of refractive error on the accommodative response gradient</article-title><source>Ophthalmic Physiol Opt</source><year>1986</year><volume>6</volume><fpage>145</fpage><lpage>149</lpage><pub-id pub-id-type="pmid">3748560</pub-id></element-citation></ref><ref id="CR28"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Metlapally</surname><given-names>S</given-names></name><name><surname>Tong</surname><given-names>JL</given-names></name><name><surname>Tahir</surname><given-names>HJ</given-names></name><name><surname>Schor</surname><given-names>CM</given-names></name></person-group><article-title>Potential role for microfluctuations as a temporal directional cue to accommodation</article-title><source>J Vis</source><year>2016</year><volume>16</volume><fpage>1</fpage><lpage>11</lpage><pub-id pub-id-type="doi">10.1167/16.6.19</pub-id></element-citation></ref><ref id="CR29"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Millodot</surname><given-names>M</given-names></name></person-group><article-title>The effect of refractive error on the accommodative response gradient: a summary and update</article-title><source>Ophthalmic Physiol Opt</source><year>2015</year><volume>35</volume><fpage>607</fpage><lpage>612</lpage><pub-id pub-id-type="doi">10.1111/opo.12241</pub-id><pub-id pub-id-type="pmid">26336942</pub-id></element-citation></ref><ref id="CR30"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Monticone</surname><given-names>PP</given-names></name><name><surname>Menozzi</surname><given-names>MA</given-names></name></person-group><article-title>A review on methods used to record and analyze microfluctuations of the accommodation in the human eye</article-title><source>J Eur Opt Soc Rapid Publ</source><year>2011</year><volume>6</volume><fpage>11003-1</fpage><lpage>11003-7</lpage><pub-id pub-id-type="doi">10.2971/jeos.2011.11003</pub-id></element-citation></ref><ref id="CR31"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Niwa</surname><given-names>K</given-names></name><name><surname>Tokoro</surname><given-names>T</given-names></name></person-group><article-title>Influence of spatial distribution with blur on fluctuations in accommodation</article-title><source>Optom Vis Sci</source><year>1998</year><volume>75</volume><fpage>227</fpage><lpage>232</lpage><pub-id pub-id-type="doi">10.1097/00006324-199803000-00029</pub-id><pub-id pub-id-type="pmid">9547805</pub-id></element-citation></ref><ref id="CR32"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Poon</surname><given-names>CS</given-names></name><name><surname>Merrill</surname><given-names>CK</given-names></name></person-group><article-title>Decrease of cardiac chaos in congestive heart failure</article-title><source>Nature</source><year>1997</year><volume>389</volume><fpage>492</fpage><lpage>495</lpage><pub-id pub-id-type="doi">10.1038/39043</pub-id><pub-id pub-id-type="pmid">9333237</pub-id></element-citation></ref><ref id="CR33"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rao</surname><given-names>RK</given-names></name><name><surname>Yeragani</surname><given-names>VK</given-names></name></person-group><article-title>Decreased chaos and increased nonlinearity of heart rate time series in patients with panic disorder</article-title><source>Auton Neurosci</source><year>2001</year><volume>88</volume><fpage>99</fpage><lpage>108</lpage><pub-id pub-id-type="doi">10.1016/S1566-0702(01)00219-3</pub-id><pub-id pub-id-type="pmid">11474552</pub-id></element-citation></ref><ref id="CR34"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rosenstein</surname><given-names>MT</given-names></name><name><surname>Collins</surname><given-names>JJ</given-names></name><name><surname>De Luca</surname><given-names>CJ</given-names></name></person-group><article-title>A practical method for calculating largest Lyapunov exponents from small data sets</article-title><source>Physica D</source><year>1993</year><volume>65</volume><fpage>117</fpage><lpage>134</lpage><pub-id pub-id-type="doi">10.1016/0167-2789(93)90009-P</pub-id></element-citation></ref><ref id="CR35"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rosenstein</surname><given-names>MT</given-names></name><name><surname>Collins</surname><given-names>JJ</given-names></name></person-group><article-title>Visualizing the effects of filtering chaotic signals</article-title><source>Comput Graph</source><year>1994</year><volume>18</volume><fpage>587</fpage><lpage>592</lpage><pub-id pub-id-type="doi">10.1016/0097-8493(94)90072-8</pub-id></element-citation></ref><ref id="CR36"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Seidel</surname><given-names>D</given-names></name><name><surname>Gray</surname><given-names>LS</given-names></name><name><surname>Heron</surname><given-names>G</given-names></name></person-group><article-title>The effect of monocular and binocular viewing on the accommodation response to real targets in emmetropia and myopia</article-title><source>Optom Vis Sci</source><year>2005</year><volume>82</volume><fpage>279</fpage><lpage>285</lpage><pub-id pub-id-type="doi">10.1097/01.OPX.0000159369.85285.21</pub-id><pub-id pub-id-type="pmid">15829856</pub-id></element-citation></ref><ref id="CR37"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sharma</surname><given-names>V</given-names></name></person-group><article-title>Deterministic chaos and fractal complexity in the dynamics of cardiovascular behavior: perspectives on a new frontier</article-title><source>Open Cardiovasc Med J</source><year>2009</year><volume>3</volume><fpage>110</fpage><lpage>123</lpage><pub-id pub-id-type="doi">10.2174/1874192400903010110</pub-id><pub-id pub-id-type="pmid">19812706</pub-id></element-citation></ref><ref id="CR38"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Skinner</surname><given-names>JE</given-names></name></person-group><article-title>Low-dimensional chaos in biological systems</article-title><source>Nat Biotechnol</source><year>1994</year><volume>12</volume><fpage>596</fpage><lpage>600</lpage><pub-id pub-id-type="doi">10.1038/nbt0694-596</pub-id></element-citation></ref><ref id="CR39"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Stark</surname><given-names>LR</given-names></name><name><surname>Atchison</surname><given-names>DA</given-names></name></person-group><article-title>Pupil size, mean accommodation response and the fluctuations of accommodation</article-title><source>Ophthalmic Physiol Opt</source><year>1997</year><volume>17</volume><fpage>316</fpage><lpage>323</lpage><pub-id pub-id-type="doi">10.1111/j.1475-1313.1997.tb00063.x</pub-id><pub-id pub-id-type="pmid">9390376</pub-id></element-citation></ref><ref id="CR40"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Stark</surname><given-names>LR</given-names></name><name><surname>Atchison</surname><given-names>DA</given-names></name></person-group><article-title>Subject instructions and methods of target presentation in accommodation research</article-title><source>Invest Ophthalmol Vis Sci</source><year>1994</year><volume>35</volume><fpage>528</fpage><lpage>537</lpage><pub-id pub-id-type="pmid">8113003</pub-id></element-citation></ref><ref id="CR41"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Su</surname><given-names>ZY</given-names></name><name><surname>Wu</surname><given-names>T</given-names></name><name><surname>Yang</surname><given-names>PH</given-names></name><name><surname>Wang</surname><given-names>YT</given-names></name></person-group><article-title>Dynamic analysis of heartbeat rate signals of epileptics using multidimensional phase space reconstruction approach</article-title><source>Phys A</source><year>2008</year><volume>387</volume><fpage>2293</fpage><lpage>2305</lpage><pub-id pub-id-type="doi">10.1016/j.physa.2007.12.008</pub-id></element-citation></ref><ref id="CR42"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sumida</surname><given-names>T</given-names></name><name><surname>Tahara</surname><given-names>T</given-names></name><name><surname>Iwanaga</surname><given-names>H</given-names></name></person-group><article-title>Physiological significance of the Shil&#x02019;nikov phenomenon in the focal accommodation system of human eyes</article-title><source>Int J Bifurcat Chaos</source><year>1994</year><volume>4</volume><fpage>231</fpage><lpage>236</lpage><pub-id pub-id-type="doi">10.1142/S0218127494000186</pub-id></element-citation></ref><ref id="CR43"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>van der Heijde</surname><given-names>GL</given-names></name><name><surname>Beers</surname><given-names>AP</given-names></name><name><surname>Dubbelman</surname><given-names>M</given-names></name></person-group><article-title>Microfluctuations of steady-state accommodation measured with ultrasonography</article-title><source>Ophthalmic Physiol Opt</source><year>1996</year><volume>16</volume><fpage>216</fpage><lpage>221</lpage><pub-id pub-id-type="doi">10.1046/j.1475-1313.1996.95000518.x</pub-id><pub-id pub-id-type="pmid">8977885</pub-id></element-citation></ref><ref id="CR44"><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Williams</surname><given-names>GP</given-names></name></person-group><source>Chaos theory tamed</source><year>1997</year><publisher-loc>Washington, DC</publisher-loc><publisher-name>Joseph Henry Press</publisher-name></element-citation></ref><ref id="CR45"><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Winn</surname><given-names>B</given-names></name></person-group><person-group person-group-type="editor"><name><surname>Franz&#x000e9;n</surname><given-names>O</given-names></name><name><surname>Richter</surname><given-names>H</given-names></name><name><surname>Stark</surname><given-names>L</given-names></name></person-group><article-title>Accommodative microflutuations: a mechanism for control of steady-state accommodation</article-title><source>Accommodation and vergence mechanisms in the visual system</source><year>2000</year><publisher-loc>Basel</publisher-loc><publisher-name>Birkh&#x000e4;user Verlag</publisher-name><fpage>129</fpage><lpage>140</lpage></element-citation></ref><ref id="CR46"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Winn</surname><given-names>B</given-names></name><name><surname>Pugh</surname><given-names>JR</given-names></name><name><surname>Gilmartin</surname><given-names>B</given-names></name><name><surname>Owens</surname><given-names>H</given-names></name></person-group><article-title>Arterial pulse modulates steady-state ocular accommodation</article-title><source>Curr Eye Res</source><year>1990</year><volume>9</volume><fpage>971</fpage><lpage>975</lpage><pub-id pub-id-type="doi">10.3109/02713689009069933</pub-id><pub-id pub-id-type="pmid">2276274</pub-id></element-citation></ref><ref id="CR47"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wolffsohn</surname><given-names>JS</given-names></name><name><surname>Gilmartin</surname><given-names>B</given-names></name><name><surname>Mallen</surname><given-names>EA</given-names></name><name><surname>Tsujimura</surname><given-names>S</given-names></name></person-group><article-title>Continuous recording of accommodation and pupil size using the Shin-Nippon SRW-5000 autorefractor</article-title><source>Ophthalmic Physiol Opt</source><year>2001</year><volume>21</volume><fpage>108</fpage><lpage>113</lpage><pub-id pub-id-type="doi">10.1016/S0275-5408(00)00050-8</pub-id><pub-id pub-id-type="pmid">11261344</pub-id></element-citation></ref><ref id="CR48"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Yao</surname><given-names>P</given-names></name><name><surname>Lin</surname><given-names>H</given-names></name><name><surname>Huang</surname><given-names>J</given-names></name><name><surname>Chu</surname><given-names>R</given-names></name><name><surname>Jiang</surname><given-names>B</given-names></name></person-group><article-title>Objective depth-of-focus is different from subjective depth-of-focus and correlated with accommodative microfluctuations</article-title><source>Vis Res</source><year>2010</year><volume>50</volume><fpage>1266</fpage><lpage>1273</lpage><pub-id pub-id-type="doi">10.1016/j.visres.2010.04.011</pub-id><pub-id pub-id-type="pmid">20399223</pub-id></element-citation></ref><ref id="CR49"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Yeragani</surname><given-names>VK</given-names></name><name><surname>Rao</surname><given-names>KA</given-names></name><name><surname>Smitha</surname><given-names>MR</given-names></name><name><surname>Pohl</surname><given-names>RB</given-names></name><name><surname>Balon</surname><given-names>R</given-names></name><name><surname>Srinivasan</surname><given-names>K</given-names></name></person-group><article-title>Diminished chaos of heart rate time series in patients with major depression</article-title><source>Biol Psychiatry</source><year>2002</year><volume>51</volume><fpage>733</fpage><lpage>744</lpage><pub-id pub-id-type="doi">10.1016/S0006-3223(01)01347-6</pub-id><pub-id pub-id-type="pmid">11983187</pub-id></element-citation></ref></ref-list></back></article>

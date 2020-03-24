@@ -1,0 +1,1161 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Br J Haematol</journal-id><journal-id journal-id-type="iso-abbrev">Br. J. Haematol</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1365-2141</journal-id><journal-id journal-id-type="publisher-id">BJH</journal-id><journal-title-group><journal-title>British Journal of Haematology</journal-title></journal-title-group><issn pub-type="ppub">0007-1048</issn><issn pub-type="epub">1365-2141</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">27766627</article-id><article-id pub-id-type="pmc">5244686</article-id><article-id pub-id-type="doi">10.1111/bjh.14401</article-id><article-id pub-id-type="publisher-id">BJH14401</article-id><article-categories><subj-group subj-group-type="overline"><subject>Research Paper</subject></subj-group><subj-group subj-group-type="heading"><subject>Haematological Malignancy</subject></subj-group></article-categories><title-group><article-title>Whole body magnetic resonance imaging in newly diagnosed multiple myeloma: early changes in lesional signal fat fraction predict disease response</article-title><alt-title alt-title-type="left-running-head">A. Latifoltojar <italic>et&#x000a0;al</italic></alt-title></title-group><contrib-group><contrib id="bjh14401-cr-0001" contrib-type="author" corresp="yes"><name><surname>Latifoltojar</surname><given-names>Arash</given-names></name><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-5143-746X</contrib-id><address><email>arashlatif78@yahoo.com</email></address><xref ref-type="aff" rid="bjh14401-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="author-notes" rid="bjh14401-note-1001">
+<sup>&#x02020;</sup>
+</xref></contrib><contrib id="bjh14401-cr-0002" contrib-type="author"><name><surname>Hall&#x02010;Craggs</surname><given-names>Margaret</given-names></name><xref ref-type="aff" rid="bjh14401-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="bjh14401-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="author-notes" rid="bjh14401-note-1001">
+<sup>&#x02020;</sup>
+</xref></contrib><contrib id="bjh14401-cr-0003" contrib-type="author"><name><surname>Rabin</surname><given-names>Neil</given-names></name><xref ref-type="aff" rid="bjh14401-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="bjh14401-cr-0004" contrib-type="author"><name><surname>Popat</surname><given-names>Rakesh</given-names></name><xref ref-type="aff" rid="bjh14401-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="bjh14401-cr-0005" contrib-type="author"><name><surname>Bainbridge</surname><given-names>Alan</given-names></name><xref ref-type="aff" rid="bjh14401-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="bjh14401-cr-0006" contrib-type="author"><name><surname>Dikaios</surname><given-names>Nikolaos</given-names></name><xref ref-type="aff" rid="bjh14401-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="bjh14401-cr-0007" contrib-type="author"><name><surname>Sokolska</surname><given-names>Magdalena</given-names></name><xref ref-type="aff" rid="bjh14401-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="bjh14401-cr-0008" contrib-type="author"><name><surname>Rismani</surname><given-names>Ali</given-names></name><xref ref-type="aff" rid="bjh14401-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="bjh14401-cr-0009" contrib-type="author"><name><surname>D'Sa</surname><given-names>Shirley</given-names></name><xref ref-type="aff" rid="bjh14401-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="bjh14401-cr-0010" contrib-type="author"><name><surname>Punwani</surname><given-names>Shonit</given-names></name><xref ref-type="aff" rid="bjh14401-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="bjh14401-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="author-notes" rid="bjh14401-note-1001">
+<sup>&#x02020;</sup>
+</xref></contrib><contrib id="bjh14401-cr-0011" contrib-type="author"><name><surname>Yong</surname><given-names>Kwee</given-names></name><xref ref-type="aff" rid="bjh14401-aff-0005">
+<sup>5</sup>
+</xref><xref ref-type="author-notes" rid="bjh14401-note-1001">
+<sup>&#x02020;</sup>
+</xref></contrib></contrib-group><aff id="bjh14401-aff-0001"><label><sup>1</sup></label><named-content content-type="organisation-division">Centre for Medical Imaging</named-content><institution>University College London</institution><named-content content-type="city">London</named-content><country country="GB">UK</country></aff><aff id="bjh14401-aff-0002"><label><sup>2</sup></label><named-content content-type="organisation-division">Department of Clinical Radiology</named-content><institution>University College London Hospitals</institution><named-content content-type="city">London</named-content><country country="GB">UK</country></aff><aff id="bjh14401-aff-0003"><label><sup>3</sup></label><named-content content-type="organisation-division">Department of Haematology</named-content><institution>University College London Hospitals</institution><named-content content-type="city">London</named-content><country country="GB">UK</country></aff><aff id="bjh14401-aff-0004"><label><sup>4</sup></label><named-content content-type="organisation-division">Department of Medical Physics</named-content><institution>University College London Hospitals</institution><named-content content-type="city">London</named-content><country country="GB">UK</country></aff><aff id="bjh14401-aff-0005"><label><sup>5</sup></label><named-content content-type="organisation-division">UCL Cancer Institute, Haematology</named-content><institution>University College London</institution><named-content content-type="city">London</named-content><country country="GB">UK</country></aff><author-notes><corresp id="correspondenceTo"><label>*</label>
+Correspondence: Dr Arash Latifoltojar, Centre for Medical Imaging, University College London, 5<sup>th</sup> Floor, 4 Stephenson Way, Wolfson House, London NW1 2HE, UK.<break/>
+E&#x02010;mail: <email>arashlatif78@yahoo.com</email><break/></corresp><fn fn-type="equal" id="bjh14401-note-1001"><label>&#x02020;</label><p>These authors contributed equally to this work.</p></fn></author-notes><pub-date pub-type="epub"><day>21</day><month>10</month><year>2016</year></pub-date><pub-date pub-type="ppub"><month>1</month><year>2017</year></pub-date><volume>176</volume><issue>2</issue><issue-id pub-id-type="doi">10.1111/bjh.2017.176.issue-2</issue-id><fpage>222</fpage><lpage>233</lpage><history><date date-type="received"><day>30</day><month>3</month><year>2016</year></date><date date-type="accepted"><day>26</day><month>7</month><year>2016</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> Copyright &#x000a9; 2017 John Wiley & Sons Ltd <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2016 The Authors. <italic>British Journal of Haematology</italic> published by John Wiley &#x00026; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:BJH-176-222.pdf"/><abstract id="bjh14401-abs-0001"><title>Summary</title><p>Cross&#x02010;sectional imaging techniques are being increasingly used for disease evaluation in patients with multiple myeloma. Whole body magnetic resonance imaging (<styled-content style="fixed-case">WB</styled-content>&#x02010;<styled-content style="fixed-case">MRI</styled-content>) scanning is superior to plain radiography in baseline assessment of patients but changes following treatment have not been systematically explored. We carried out paired <styled-content style="fixed-case">WB</styled-content>&#x02010;<styled-content style="fixed-case">MRI</styled-content> scans in 21 newly diagnosed patients prior to, and 8&#x02010;weeks after, starting chemotherapy, and analysed stringently selected focal lesions (<styled-content style="fixed-case">FL</styled-content>s) for parametric changes. A total of 323 <styled-content style="fixed-case">FL</styled-content>s were evaluated, median 20 per patient. At 8&#x000a0;weeks, there was a reduction in estimated tumour volume (<styled-content style="fixed-case">eTV</styled-content>), and an increase in signal fat fraction (<styled-content style="fixed-case">sFF</styled-content>) and apparent diffusion coefficient (<styled-content style="fixed-case">ADC</styled-content>) in the group as a whole (<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0&#x000b7;001). Patients who achieved complete/very good partial response (<styled-content style="fixed-case">CR</styled-content>/<styled-content style="fixed-case">VGPR</styled-content>) to induction had a significantly greater increase in <styled-content style="fixed-case">sFF</styled-content> compared to those achieving &#x02264; partial response (<styled-content style="fixed-case">PR</styled-content>;<italic> P</italic>&#x000a0;=&#x000a0;0&#x000b7;001). When analysed on a per&#x02010;patient basis, all patients achieving <styled-content style="fixed-case">CR</styled-content>/<styled-content style="fixed-case">VGPR</styled-content> had a significant <styled-content style="fixed-case">sFF</styled-content> increase in their <styled-content style="fixed-case">FL</styled-content>'s, in contrast to patients achieving &#x02264;<styled-content style="fixed-case">PR</styled-content>. <styled-content style="fixed-case">sFF</styled-content> changes in patients reaching maximal response within 100&#x000a0;days (fast responders) were greater compared to slow responders (<italic>P</italic>&#x000a0;=&#x000a0;0&#x000b7;001). Receiver Operator Characteristic analysis indicated that <styled-content style="fixed-case">sFF</styled-content> changes at 8&#x000a0;weeks were the best biomarker (area under the Curve 0&#x000b7;95) for an inferior response (&#x02264;<styled-content style="fixed-case">PR</styled-content>). We conclude that early lesional <styled-content style="fixed-case">sFF</styled-content> changes may provide important information on depth of response, and are worthy of further prospective study.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="bjh14401-kwd-0001">magnetic resonance imaging</kwd><kwd id="bjh14401-kwd-0002">whole body</kwd><kwd id="bjh14401-kwd-0003">multiple myeloma</kwd><kwd id="bjh14401-kwd-0004">bortezomib</kwd><kwd id="bjh14401-kwd-0005">treatment response</kwd></kwd-group><funding-group><award-group><funding-source>KCL/UCL Comprehensive Cancer Imaging Centre</funding-source><award-id>C1519/A10331</award-id></award-group></funding-group><funding-group><award-group><funding-source>UK EPSRC</funding-source><award-id>EP/I018700/1</award-id><award-id>EP/H046410/1</award-id></award-group></funding-group><counts><fig-count count="5"/><table-count count="3"/><page-count count="12"/><word-count count="8038"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>bjh14401</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>January 2017</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:5.0.2 mode:remove_FC converted:19.01.2017</meta-value></custom-meta></custom-meta-group></article-meta></front><body><p>The continued development of novel and highly effective treatment protocols for multiple myeloma (MM) has produced a need for increasingly sophisticated tools to assess response in this cancer. Biochemical measurements of paraprotein and heavy or light chains are global measures, while bone marrow&#x02010;based techniques have the disadvantage of random sampling, and neither modality addresses the spatial heterogeneity of this disease. Radiological techniques have long been a part of disease assessments; plain radiographic skeletal survey and magnetic resonance imaging (MRI) of the spine have an established role in the diagnosis, staging and assessment of insufficiency fracture risk of patients (Durie <italic>et&#x000a0;al</italic>, <xref rid="bjh14401-bib-0008" ref-type="ref">2006</xref>; D'Sa <italic>et&#x000a0;al</italic>, <xref rid="bjh14401-bib-0007" ref-type="ref">2007</xref>; Hanrahan <italic>et&#x000a0;al</italic>, <xref rid="bjh14401-bib-0012" ref-type="ref">2010</xref>). The use of cross&#x02010;sectional imaging techniques [computed tomography (CT), positron emission tomography (PET)&#x02010;CT and MRI] are confirmed to be more sensitive than plain radiography in the detection of bone lesions (Zamagni <italic>et&#x000a0;al</italic>, <xref rid="bjh14401-bib-0039" ref-type="ref">2007</xref>; Bartel <italic>et&#x000a0;al</italic>, <xref rid="bjh14401-bib-0001" ref-type="ref">2009</xref>; Regelink <italic>et&#x000a0;al</italic>, <xref rid="bjh14401-bib-0030" ref-type="ref">2013</xref>; Waheed <italic>et&#x000a0;al</italic>, <xref rid="bjh14401-bib-0036" ref-type="ref">2013</xref>). Importantly, the detection of more than one focal lesion (FL) on cross&#x02010;sectional imaging is now considered to fulfill the criteria for symptomatic disease deserving of treatment (Rajkumar <italic>et&#x000a0;al</italic>, <xref rid="bjh14401-bib-0029" ref-type="ref">2014</xref>). Furthermore, advanced imaging techniques have also been described to have clinical utility in prognostication. For instance, the number of FLs and metabolic response on PET&#x02010;CT following treatment were found to have independent prognostic value in newly diagnosed patients (Zamagni <italic>et&#x000a0;al</italic>, <xref rid="bjh14401-bib-0040" ref-type="ref">2011</xref>, <xref rid="bjh14401-bib-0041" ref-type="ref">2015</xref>; Moreau <italic>et&#x000a0;al</italic>, <xref rid="bjh14401-bib-0024" ref-type="ref">2014</xref>).</p><p>There is growing evidence to support the use of whole body MRI (WB&#x02010;MRI) in the diagnostic work up of patients with suspected or confirmed diagnosis of MM (Dutoit <italic>et&#x000a0;al</italic>, <xref rid="bjh14401-bib-0009" ref-type="ref">2013</xref>; Dimopoulos <italic>et&#x000a0;al</italic>, <xref rid="bjh14401-bib-0006" ref-type="ref">2015</xref>). For example, WB diffusion weighted (DW)&#x02010;MRI is more sensitive than plain radiographs in picking up FLs in patients with relapsed disease (Giles <italic>et&#x000a0;al</italic>, <xref rid="bjh14401-bib-0011" ref-type="ref">2015</xref>). MRI also provides valuable information on the degree and pattern of marrow involvement, which may also carry prognostic information. A diffuse pattern of marrow involvement or high number of FLs on MRI is associated with inferior outcomes in patients with symptomatic MM (Walker <italic>et&#x000a0;al</italic>, <xref rid="bjh14401-bib-0037" ref-type="ref">2007</xref>; Mai <italic>et&#x000a0;al</italic>, <xref rid="bjh14401-bib-0020" ref-type="ref">2015</xref>) whilst the detection of FLs in patients with otherwise asymptomatic disease alters their risk profile (Hillengass <italic>et&#x000a0;al</italic>, <xref rid="bjh14401-bib-0013" ref-type="ref">2010</xref>). Recently published guideline from the National Institute for Health and Care Excellence (NICE) recommends WB&#x02010;MRI for the investigation of patients with suspected plasma cell disorders (NICE <xref rid="bjh14401-bib-0025" ref-type="ref">2016</xref>).</p><p>Whilst initial disease evaluation in MM patients is improved through the application of WB&#x02010;MRI, current response parameters remain based on global measures: serum and urine M&#x02010;protein levels, serum free light chain ratio and bone marrow evaluation for clonal plasma cells, supplemented by minimal residual disease assessment by flow cytometry or molecular techniques. Recently, functional MRI techniques, such as contrast enhanced (CE) (Lin <italic>et&#x000a0;al</italic>, <xref rid="bjh14401-bib-0017" ref-type="ref">2010</xref>), DW imaging (DWI) (Hillengass <italic>et&#x000a0;al</italic>, <xref rid="bjh14401-bib-0014" ref-type="ref">2011</xref>) and fat&#x02010;water imaging (Takasu <italic>et&#x000a0;al</italic>, <xref rid="bjh14401-bib-0033" ref-type="ref">2012</xref>), have become widely available on clinical MRI scanners, providing an opportunity to explore these techniques for response assessment. By detecting intra&#x02010; and extracellular water flux, DWI provides a measure of tissue cellularity and changes in apparent diffusion coefficient (ADC) have been associated with treatment response (Hillengass <italic>et&#x000a0;al</italic>, <xref rid="bjh14401-bib-0014" ref-type="ref">2011</xref>; Giles <italic>et&#x000a0;al</italic>, <xref rid="bjh14401-bib-0010" ref-type="ref">2014</xref>). CE imaging is used to highlight abnormal vasculature, allowing detection of alterations of vasculature following therapy (Lin <italic>et&#x000a0;al</italic>, <xref rid="bjh14401-bib-0017" ref-type="ref">2010</xref>). Involvement by MM lesions leads to changes in haematopoietic (red) and fatty (yellow) marrow, that can be quantified by fat&#x02010;water MRI techniques (Takasu <italic>et&#x000a0;al</italic>, <xref rid="bjh14401-bib-0034" ref-type="ref">2015</xref>). In patients with symptomatic MM, signal fat fraction (sFF) of lumbar spine was reported to be significantly lower when compared to patients with asymptomatic disease (Takasu <italic>et&#x000a0;al</italic>, <xref rid="bjh14401-bib-0034" ref-type="ref">2015</xref>). Response to treatment may therefore be expected to lead to an increase in the sFF of involved bone, but such changes have not been investigated as a response measure. The aim of this study was to explore and compare the use of DWI, CE and sFF functional MRI measures, in the evaluation of newly diagnosed MM patients prior to, and soon after starting chemotherapy.</p><sec id="bjh14401-sec-0002"><title>Materials and methods</title><sec id="bjh14401-sec-0003"><title>Patient cohort and study design</title><p>The study was conducted in accordance with the Declaration of Helsinki and was approved by national research ethics committee. Patients were included if they had a suspected diagnosis of symptomatic multiple myeloma but were previously untreated, with chemotherapy or radiotherapy and were able to undergo MRI scanning (i.e. no contraindication to MRI). A prospective single&#x02010;arm observational design was used to study the patient cohort. Patients were recruited into the study from multi&#x02010;disciplinary team meetings and underwent WB&#x02010;MRI before starting treatment. A second WB&#x02010;MRI scan was performed after two cycles of induction chemotherapy at a median of 8&#x000a0;weeks.</p></sec><sec id="bjh14401-sec-0004"><title>Laboratory Investigations and interphase FISH</title><p>Disease response was assessed after each cycle of chemotherapy using serum and urine M&#x02010;protein measurements, and assigned according to International Myeloma Working Group (IMWG) guidelines (Rajkumar <italic>et&#x000a0;al</italic>, <xref rid="bjh14401-bib-0028" ref-type="ref">2011</xref>). Baseline interphase&#x02010;fluorescence <italic>in&#x000a0;situ</italic> hybridization (FISH) was performed on CD138&#x02010;selected plasma cells from bone marrow samples, using probes for <italic>IGH</italic> translocations t(4;14), t(11;14) and t(14;16), del(17p), del(13) and 1p&#x02010;/1q+ (Smith <italic>et&#x000a0;al</italic>, <xref rid="bjh14401-bib-0032" ref-type="ref">2015</xref>).</p></sec><sec id="bjh14401-sec-0005"><title>WB&#x02010;MRI technique</title><p>Imaging was performed using a single 3&#x000b7;0 T wide&#x02010;bore MR scanner (Ingenia; Phillips Healthcare, Best, the Netherlands). Full body coverage (vertex to feet) was obtained through a multi&#x02010;station acquisition of contiguous body regions with the manufacturers' head coil, two anterior surface coils and table&#x02010;embedded posterior coils. Whole&#x02010;body coronal pre&#x02010;contrast mDixon imaging was complimented by axial T2 weighted turbo spin echo (TSE), axial DWI (with 4 <italic>b</italic>&#x02010;values: b0, 100, 300, 1000) and finally, coronal CE mDIXON imaging (following 20&#x000a0;ml of intravenous (IV) gadoterate meglumine (Dotarem<sup>&#x000ae;</sup>, Guebert, France). The average total scan time was 67&#x000a0;min. Full scanning parameters are summarized in Table&#x000a0;<xref rid="bjh14401-tbl-0001" ref-type="table-wrap">1</xref>.</p><table-wrap id="bjh14401-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>MRI sequence parameters</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" valign="top" colspan="1">Imaging plane</th><th align="left" style="border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1">T2&#x02010;TSE</th><th align="left" style="border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1">mDixon (pre&#x02010; and post&#x02010;contrast<xref ref-type="fn" rid="bjh14401-note-0003">a</xref>)</th><th align="left" style="border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1">DWI (b0, 100, 300, 1000)</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Transverse</th><th align="left" valign="top" rowspan="1" colspan="1">Coronal</th><th align="left" valign="top" rowspan="1" colspan="1">Transverse</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">TE (ms)</td><td align="left" rowspan="1" colspan="1">80</td><td align="left" rowspan="1" colspan="1">1&#x000b7;02/1&#x000b7;8</td><td align="left" rowspan="1" colspan="1">71</td></tr><tr><td align="left" rowspan="1" colspan="1">TR (ms)</td><td align="left" rowspan="1" colspan="1">1228</td><td align="left" rowspan="1" colspan="1">3&#x000b7;0</td><td align="left" rowspan="1" colspan="1">6371</td></tr><tr><td align="left" rowspan="1" colspan="1">FOV (mm*mm)</td><td align="left" rowspan="1" colspan="1">500*300</td><td align="left" rowspan="1" colspan="1">502*300</td><td align="left" rowspan="1" colspan="1">500*306</td></tr><tr><td align="left" rowspan="1" colspan="1">Voxel size (mm*mm)</td><td align="left" rowspan="1" colspan="1">1*1</td><td align="left" rowspan="1" colspan="1">2&#x000b7;1*2&#x000b7;1</td><td align="left" rowspan="1" colspan="1">4*4&#x000b7;2</td></tr><tr><td align="left" rowspan="1" colspan="1">Number of slices</td><td align="left" rowspan="1" colspan="1">40</td><td align="left" rowspan="1" colspan="1">120</td><td align="left" rowspan="1" colspan="1">40</td></tr><tr><td align="left" rowspan="1" colspan="1">Slice thickness (mm)</td><td align="left" rowspan="1" colspan="1">5</td><td align="left" rowspan="1" colspan="1">5</td><td align="left" rowspan="1" colspan="1">5</td></tr><tr><td align="left" rowspan="1" colspan="1">Acquisition matrix</td><td align="left" rowspan="1" colspan="1">500*286</td><td align="left" rowspan="1" colspan="1">144*238</td><td align="left" rowspan="1" colspan="1">124*72</td></tr><tr><td align="left" rowspan="1" colspan="1">ETL</td><td align="left" rowspan="1" colspan="1">91</td><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">39</td></tr><tr><td align="left" rowspan="1" colspan="1">Acceleration factor (SENSE)</td><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">2&#x000b7;5</td></tr><tr><td align="left" rowspan="1" colspan="1">Pixel bandwidth (Hz)</td><td align="left" rowspan="1" colspan="1">537</td><td align="left" rowspan="1" colspan="1">1992</td><td align="left" rowspan="1" colspan="1">3369</td></tr><tr><td align="left" rowspan="1" colspan="1">Scan time (s)</td><td align="left" rowspan="1" colspan="1">47</td><td align="left" rowspan="1" colspan="1">17</td><td align="left" rowspan="1" colspan="1">152</td></tr></tbody></table><table-wrap-foot><fn id="bjh14401-note-0002"><p>T2&#x02010;TSE, T2&#x02010;weighted turbo spin echo; mDixon, modified dixon; DWI, diffusion weighted imaging; TE, time of echo; TR, time of repetition; FOV, field of view; ETL, echo train length; SENSE, sensitivity encoding.</p></fn><fn id="bjh14401-note-0003"><label>a</label><p>Contrast agent 20&#x000a0;ml intravenous gadoterate meglumine, Dotarem<sup>&#x000ae;</sup>, Guerbet, Villepint, France.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec id="bjh14401-sec-0006"><title>WB&#x02010;MRI image analysis</title><p>The skeleton was divided into 10 anatomical locations (skull, cervical spine, shoulder girdle, humorous, chest wall, thoracic spine, lumbar spine, pelvis, femur and lower leg) and FLs at pre&#x02010; and post&#x02010;treatment scans were localized by two radiologists (MHC and SP with more than 20 and 10 years experience in MR imaging, respectively) in consensus, without knowledge of the results of all other imaging and non&#x02010;imaging investigations. The pattern of involvement was noted for each patient as previously described using combination of available sequences (Baur&#x02010;Melnyk <italic>et&#x000a0;al</italic>, <xref rid="bjh14401-bib-0002" ref-type="ref">2005</xref>).</p><p>On DWI, FL's were identified as focal areas of restricted diffusion returning high signal intensity on DWI b1000 images compared to surrounding marrow, whilst on post&#x02010;contrast images, FL's were identified as focal areas of increased contrast uptake compared to surrounding marrow. A 5&#x02010;point Likert scale was used to score confidence of an identified lesion representing myeloma (0&#x000a0;=&#x000a0;non&#x02010;diagnostic quality images, 1&#x000a0;=&#x000a0;unlikely, 2&#x000a0;=&#x000a0;indeterminate, 3&#x000a0;=&#x000a0;likely and 4&#x000a0;=&#x000a0;highly likely disease). Likert scoring systems are commonly employed in radiological research and clinical practice (Rosenkrantz <italic>et&#x000a0;al</italic>, <xref rid="bjh14401-bib-0031" ref-type="ref">2013</xref>). Scoring was performed on both DWI and post&#x02010;contrast scans, and only matched lesions on both images were selected for analysis as explained below.</p><p>To provide an objective per&#x02010;patient global measure of disease, and for following treatment response, a maximum of 20 FLs per patient were selected for quantitative analysis based on the following sequentially applied rules:
+<list list-type="order" id="bjh14401-list-0001"><list-item><p>Lesions scored as 3 or 4 visible on matched DWI b1000 and post&#x02010;contrast mDixon MRI were selected</p></list-item><list-item><p>Lesions&#x000a0;&#x0003c;&#x000a0;5&#x000a0;mm in diameter were excluded (as their size precludes accurate quantitation)</p></list-item><list-item><p>All lesions from locations containing 1 or 2 lesions &#x02265;5&#x000a0;mm were included</p></list-item><list-item><p>The largest lesions from those remaining were selected to make up the maximum of 20 FLs per patient</p></list-item></list>
+</p></sec><sec id="bjh14401-sec-0007"><title>WB&#x02010;MRI quantitative analysis</title><p>A region of interest (ROI) analysis for all selected lesions was performed using Osirix (Version 4&#x000b7;0, Apple, Cupertino, CA, USA). Quantitative biomarkers were estimated by single slice analysis of FLs on slice depicting their largest dimension for both scanning time&#x02010;points as below:</p><sec id="bjh14401-sec-0008"><title>Estimated tumour volume (eTV)</title><p>Using the caliper tool, a 3&#x02010;axis measurement of each selected FL was performed on coronal post&#x02010;contrast mDixon and axial b1000 DWI images. Individual lesion volume was derived by (X*Y*Z/2).</p></sec><sec id="bjh14401-sec-0009"><title>Enhancement ratio (ER)</title><p>Using the ROI tool, selected lesions were carefully contoured on post&#x02010;contrast water only mDixon images and the average signal intensity (SI) for each FL derived (SI<sub>post&#x02010;contrast&#x02212;W</sub>). The ROI was then transferred to pre&#x02010;contrast water only mDixon and average SI derived (SI<sub>pre&#x02010;contrast&#x02212;W</sub>). The signal intensities for individual FL from the pre&#x02010; and post&#x02010;contrast water only mDixon images were used to calculate ER as follows: 100*(SI<sub>post&#x02010;contrast&#x02212;W</sub>&#x02212;SI<sub>pre&#x02010;contrast&#x02212;W</sub>)/SI<sub>pre&#x02010;contrast&#x02212;W</sub>.</p></sec><sec id="bjh14401-sec-0010"><title>Apparent diffusion coefficient (ADC)</title><p>Using the ROI tool, selected FLs were carefully contoured on the b1000 DW image depicting their maximum diameter. The contours were copied and pasted to the corresponding b0, b100 and b300 DW images and average SI derived for each <italic>b</italic>&#x02010;value. The ADC of each selected FL was derived using a mono&#x02010;exponential curve fit of signal intensity verses <italic>b</italic>&#x02010;value, within MATLAB 2011a (MathWork, Natick, MA, USA) (Punwani <italic>et&#x000a0;al</italic>, <xref rid="bjh14401-bib-0026" ref-type="ref">2010</xref>).</p></sec><sec id="bjh14401-sec-0011"><title>Signal fat fraction (sFF)</title><p>Using the ROI tool, contoured ROIs on pre&#x02010;contrast water only mDixon images (SI<sub>pre&#x02010;contrast&#x02212;W</sub>) were copied and pasted to the corresponding pre&#x02010;contrast fat only mDIXON images (SI<sub>pre&#x02010;contrast&#x02212;F</sub>). sFF was calculated by SI<sub>pre&#x02010;contrast&#x02212;F</sub>/(SI<sub>pre&#x02010;contrast&#x02212;F</sub>&#x000a0;+&#x000a0;SI<sub>pre&#x02010;contrast&#x02212;W</sub>) (Messiou <italic>et&#x000a0;al</italic>, <xref rid="bjh14401-bib-0023" ref-type="ref">2012</xref>).</p><p>Finally, as an internal control, sFF of normal appearing femoral greater trochanter was assessed by a 3&#x000a0;cm<sup>3</sup> circular ROI at each time point.</p></sec></sec><sec id="bjh14401-sec-0012"><title>Statistical analysis</title><p>Statistical analysis was performed using Prism software (Prism Version 6&#x000b7;0, GraphPad Software, Inc., San Diego, CA, USA). The normality of biomarkers distribution was assessed by Kolmogorov&#x02013;Smirnov test. Baseline eTV, ER, ADC and sFF for each patient was correlated with age, sex, International Staging System (ISS), Beta&#x02010;2 microglobulin, genetic risk and response at end of induction therapy. Spearman's rank correlation coefficient (<italic>r)</italic> was calculated and significance defined as <italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0&#x000b7;05. For temporal changes of MRI parameters, a two&#x02010;tailed Wilcoxon matched&#x02010;pairs signed rank test was used for paired samples that were not normally distributed. For normally distributed data, a two&#x02010;tailed paired <italic>t</italic>&#x02010;test was used for paired samples, and unpaired <italic>t</italic>&#x02010;test for independent samples.</p><p>Receiver operating characteristics (ROC) curves, for prediction of patients achieving &#x02264; PR, were derived for percentage change in each MRI biomarker following treatment [(8&#x000a0;week&#x02212;baseline)&#x000a0;&#x000d7;&#x000a0;100/baseline]. The area under the curve (AUC) was quantified to assess performance for predicting patients achieving &#x02264; PR across all possible diagnostic thresholds.</p></sec></sec><sec id="bjh14401-sec-0013"><title>Results</title><sec id="bjh14401-sec-0014"><title>Patient treatment and disease response</title><p>Twenty&#x02010;six patients were identified with symptomatic multiple myeloma according to IMWG criteria (Durie <italic>et&#x000a0;al</italic>, <xref rid="bjh14401-bib-0008" ref-type="ref">2006</xref>). One patient had no measurable FL on WB&#x02010;MRI and was excluded from further analysis. Demographic and disease characteristics of the remaining 25 patients together with details of induction regimens are shown in Table&#x000a0;<xref rid="bjh14401-tbl-0002" ref-type="table-wrap">2</xref>. These included PAD (Bortezomib, Doxorubicin, Dexamethasone; 17 patients), VTD (bortezomib, thalidomide, dexamethasone; 4 patients), CVD (cyclophosphamide, bortezomib, dexamethasone; 3 patients) and MPV (melphalan, prednisone, bortezomib; 1 patient). These regimens were administered as either 3&#x02010; or 4&#x02010;week cycles. Patients received a total of 4&#x02013;6 cycles of induction, with response assessment at the start of each cycle and at the end of induction. Thirteen patients achieved a complete response (CR) or very good partial response (VGPR) to their first line of therapy, while the rest achieved partial response (PR, <italic>n</italic>&#x000a0;=&#x000a0;5), minimal response (MR, <italic>n</italic>&#x000a0;=&#x000a0;4) or stable disease/progressive disease (SD/PD, <italic>n</italic>&#x000a0;=&#x000a0;3).</p><table-wrap id="bjh14401-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Patient demographics, disease parameters and treatment</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Patient characteristic (<italic>N</italic>&#x000a0;=&#x000a0;25)</th><th align="char" valign="top" rowspan="1" colspan="1">Number or median (range)</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Age, years</td><td align="char" char="(" rowspan="1" colspan="1">55 (36&#x02013;72)</td></tr><tr><td align="left" rowspan="1" colspan="1">Sex, male/female:</td><td align="char" char="(" rowspan="1" colspan="1">15/10</td></tr><tr><td align="left" colspan="2" rowspan="1">Chain isotype</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">IgG</td><td align="char" char="(" rowspan="1" colspan="1">16</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">IgA</td><td align="char" char="(" rowspan="1" colspan="1">5</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Light chain</td><td align="char" char="(" rowspan="1" colspan="1">4</td></tr><tr><td align="left" colspan="2" rowspan="1">ISS stage</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">I</td><td align="char" char="(" rowspan="1" colspan="1">10</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">II</td><td align="char" char="(" rowspan="1" colspan="1">11</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">III</td><td align="char" char="(" rowspan="1" colspan="1">4</td></tr><tr><td align="left" colspan="2" rowspan="1">DS&#x02010;PLUS stage</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">I</td><td align="char" char="(" rowspan="1" colspan="1">1</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">II</td><td align="char" char="(" rowspan="1" colspan="1">3</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">III</td><td align="char" char="(" rowspan="1" colspan="1">21</td></tr><tr><td align="left" colspan="2" rowspan="1">Induction regimen</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">PAD</td><td align="char" char="(" rowspan="1" colspan="1">17</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">CVD</td><td align="char" char="(" rowspan="1" colspan="1">3</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">VTD</td><td align="char" char="(" rowspan="1" colspan="1">4</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">MPV</td><td align="char" char="(" rowspan="1" colspan="1">1</td></tr><tr><td align="left" rowspan="1" colspan="1">Bone marrow percentage plasma cells</td><td align="char" char="(" rowspan="1" colspan="1">65 (13&#x02013;90)</td></tr><tr><td align="left" rowspan="1" colspan="1">Beta&#x02010;2 microglobulin (mg/l)</td><td align="char" char="(" rowspan="1" colspan="1">3&#x000b7;5 (1&#x000b7;3&#x02013;11&#x000b7;3)</td></tr><tr><td align="left" rowspan="1" colspan="1">Albumin (g/l)</td><td align="char" char="(" rowspan="1" colspan="1">40 (30&#x02013;53)</td></tr><tr><td align="left" rowspan="1" colspan="1">Creatinine</td><td align="char" char="(" rowspan="1" colspan="1">79 (56&#x02013;105)</td></tr><tr><td align="left" colspan="2" rowspan="1">Genetic risk group</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Standard risk</td><td align="char" char="(" rowspan="1" colspan="1">16</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">High risk</td><td align="char" char="(" rowspan="1" colspan="1">9</td></tr></tbody></table><table-wrap-foot><fn id="bjh14401-note-0004"><p>ISS, international staging system; DS&#x02010;PLUS, durie&#x02010;salmon PLUS staging; PAD, bortezomib, doxorubicin, dexamethasone; CVD, cyclophosphamide, bortezomib, dexamethasone; VTD, bortezomib, thalidomide, dexamethasone; MPV, melphalan, prednisone, bortezomib.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec id="bjh14401-sec-0015"><title>Baseline WB&#x02010;MRI evaluation and Lesion selection</title><p>Eight patients had a diffuse/focal pattern and 17 patients had focal only pattern of involvement. On DWI, a median of 51 (range 1&#x02013;139) FLs was identified for each patient, whilst 24 (range 2&#x02013;128) FL's were identified on post&#x02010;contrast scans,. For parametric analysis, a total of 394 FLs, that were matched on DWI and post&#x02010;contrast images [median of 20 FLs per patient (range 1&#x02013;20)] were evaluated for the entire cohort of 25 patients prior to chemotherapy. There was no significant correlation between number of FLs, or any of the baseline MRI parameters, with patient or disease features, including sex, age, ISS stage, Beta&#x02010;2 microglobulin and genetic risk. There was a statistically significant negative correlation between baseline sFF and depth of disease response at the end of induction chemotherapy (Table&#x000a0;S1). Patients who achieved CR/VGPR had lower sFF in their FLs [median 0&#x000b7;25 arbitrary units (a.u.), interquartile range 0&#x000b7;21&#x02013;0&#x000b7;38] compared to those who achieved PR or less (0&#x000b7;35 a.u., interquartile range 0&#x000b7;29&#x02013;0&#x000b7;49) (<italic>r</italic>&#x000a0;=&#x000a0;0&#x000b7;59, <italic>P</italic>&#x000a0;=&#x000a0;0&#x000b7;002). There was also a weak positive correlation (<italic>r</italic>&#x000a0;=&#x000a0;0&#x000b7;40, <italic>P</italic>&#x000a0;=&#x000a0;0&#x000b7;04) between number of FLs on post&#x02010;contrast MRI and depth of the response achieved after induction (see Table&#x000a0;S1).</p></sec><sec id="bjh14401-sec-0016"><title>Early mid&#x02010;treatment scan</title><p>Out of twenty&#x02010;five patients with measurable FLs on WB&#x02010;MRI, 22 patients attended for an early mid&#x02010;treatment scan after 2 cycles of treatment, at a median of 8&#x000a0;weeks from the baseline scan. Of the three patients who did not attend for a second scan, one could no longer tolerate the WB&#x02010;MRI due to bortezomib&#x02010;related neuropathy; one underwent intra&#x02010;medullary nailing of femoral neck and could not be re&#x02010;imaged at the defined time point; and one withdrew from the study. Of the remaining 22 patients, one patient received interval radiotherapy and was excluded from the analysis. Temporal changes of WB&#x02010;MRI parameters were assessed in the remaining 21 patients.</p></sec><sec id="bjh14401-sec-0017"><title>Changes in quantitative WB&#x02010;MRI parameters at 8&#x000a0;weeks</title><p>A total of 323 FLs were evaluable for pre&#x02010; and post&#x02010;treatment analysis. Figure&#x000a0;<xref rid="bjh14401-fig-0001" ref-type="fig">1</xref> shows a pelvic FL at baseline and after 8&#x000a0;weeks of treatment, illustrating change in lesional size and appearance. Summarizing changes across the entire cohort of 21 patients, eTV decreased significantly (from median 0&#x000b7;23&#x000a0;cm<sup>3</sup> at baseline to 0&#x000b7;12&#x000a0;cm<sup>3</sup> at 8&#x000a0;weeks, <italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0&#x000b7;001), while there was no significant change in ER (median baseline and 8&#x000a0;weeks ER, 104&#x000b7;3% and 128&#x000b7;2%, respectively, <italic>P</italic>&#x000a0;=&#x000a0;0&#x000b7;78). Significant increases in both ADC and sFF were seen across the entire cohort; ADC increased from 0&#x000b7;75&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02212;3</sup>&#x000a0;mm<sup>2</sup>/s to 1&#x000b7;34&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02212;3</sup>&#x000a0;mm<sup>2</sup>/s (<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0&#x000b7;001) and sFF increased from 0&#x000b7;27 a.u. to 0&#x000b7;47 a.u. (<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0&#x000b7;001) at 8&#x000a0;weeks (Fig&#x000a0;<xref rid="bjh14401-fig-0002" ref-type="fig">2</xref>).</p><fig fig-type="Figure" xml:lang="en" id="bjh14401-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Representative images of a focal lesion (<styled-content style="fixed-case">FL</styled-content>) in left pelvis showing changes after 8&#x000a0;weeks. A <styled-content style="fixed-case">FL</styled-content> (red arrow) on (A) pre&#x02010;contrast fat&#x02010;only, (B) pre&#x02010;contrast water&#x02010;only, (C) post&#x02010;contrast water only <styled-content style="fixed-case">mD</styled-content>ixon and (D) b1000 diffusion weighted imaging at baseline (A1&#x02013;D1) and 8&#x000a0;weeks (A2&#x02013;D2) in a patient who achieved very good partial response (<styled-content style="fixed-case">VGPR</styled-content>) after induction chemotherapy. Estimated tumour volume (<styled-content style="fixed-case">eTV</styled-content>), signal fat fraction (<styled-content style="fixed-case">sFF</styled-content>), enhancement ratio (<styled-content style="fixed-case">ER</styled-content>) and apparent diffusion coefficient (<styled-content style="fixed-case">ADC</styled-content>) were 4&#x000b7;5&#x000a0;cm<sup>3</sup>, 0&#x000b7;11 a.u., 167&#x000b7;8% and 1&#x000b7;13&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02212;3</sup>&#x000a0;mm<sup>2</sup>/s at baseline, respectively. At 8&#x000a0;weeks after starting chemotherapy, <styled-content style="fixed-case">eTV</styled-content>,<styled-content style="fixed-case"> sFF</styled-content>,<styled-content style="fixed-case"> ER</styled-content> and <styled-content style="fixed-case">ADC</styled-content> were 3&#x000b7;96&#x000a0;cm<sup>3</sup>, 0&#x000b7;23 a.u., 197&#x000b7;5% and 1&#x000b7;97&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02212;3</sup>&#x000a0;mm<sup>2</sup>/s, representing a 12% reduction in <styled-content style="fixed-case">eTV</styled-content>, 109% increase in <styled-content style="fixed-case">sFF</styled-content>, 17&#x000b7;6% increase in <styled-content style="fixed-case">ER</styled-content> and 74&#x000b7;3% increase in ADC. [Colour figure can be viewed at <ext-link ext-link-type="uri" xlink:href="wileyonlinelibrary.com">wileyonlinelibrary.com</ext-link>].</p></caption><graphic id="nlm-graphic-1" xlink:href="BJH-176-222-g001"/></fig><fig fig-type="Figure" xml:lang="en" id="bjh14401-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Temporal changes in <styled-content style="fixed-case">MRI</styled-content> parameters across entire cohort. Signal fat fraction (<styled-content style="fixed-case">sFF</styled-content>), apparent diffusion coefficient (<styled-content style="fixed-case">ADC</styled-content>), estimated tumour volume (<styled-content style="fixed-case">eTV</styled-content>) and enhancement ratio (<styled-content style="fixed-case">ER</styled-content>) at 8&#x000a0;weeks compared with baseline across the entire cohort (<italic>n</italic>&#x000a0;=&#x000a0;21). Data for each patient (median for each parameter) are given. Wilcoxon signed&#x02010;matched rank test was used to assess temporal changes of <styled-content style="fixed-case">MRI</styled-content> parameters and <italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0&#x000b7;05 defined as significant.</p></caption><graphic id="nlm-graphic-3" xlink:href="BJH-176-222-g002"/></fig></sec><sec id="bjh14401-sec-0018"><title>Correlation of WB&#x02010;MRI parameters with IMWG disease response</title><p>Of the 21 patients with baseline and 8&#x02010;week scans available for analysis, 12 patients achieved CR/VGPR to their first line regimen, while disease responses in the remaining 9 were PR&#x000a0;(<italic>n</italic>&#x000a0;=&#x000a0;3), MR (<italic>n</italic>&#x000a0;=&#x000a0;4), SD (<italic>n</italic>&#x000a0;=&#x000a0;1) and PD (<italic>n</italic>&#x000a0;=&#x000a0;1). One patient who had biochemically&#x02010;defined PR had residual heavy disease burden in the bone marrow (90%) and was re&#x02010;classified as MR. Details of these patients are given in Table&#x000a0;S2. A total of 208 (median 20 range 4&#x02013;20) FLs in the CR/VGPR group and 115 (median11 range 1&#x02013;20) FLs in the &#x02264;PR group were evaluated. The changes in each parameter for these two groups of patients are summarized in Table&#x000a0;<xref rid="bjh14401-tbl-0003" ref-type="table-wrap">3</xref>, and Figure&#x000a0;S1. Significant changes in eTV, sFF and ADC (<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0&#x000b7;001 for all) were noted for both groups, but no significant change was observed in ER for either group.</p><table-wrap id="bjh14401-tbl-0003" xml:lang="en" orientation="portrait" position="float"><label>Table 3</label><caption><p>Baseline and 8&#x000a0;week imaging parameters (median and interquartile range, IQR) for CR/VGPR and &#x02264;PR patients. Temporal changes in each group were assessed using Wilcoxon matched&#x02010;pairs signed rank test and significance defined as <italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0&#x000b7;05</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1"/><th align="left" valign="top" rowspan="1" colspan="1">Scan</th><th align="char" valign="top" rowspan="1" colspan="1">Median eTV (IQR)</th><th align="char" valign="top" rowspan="1" colspan="1">Median ER (IQR)</th><th align="char" valign="top" rowspan="1" colspan="1">Median ADC (IQR)</th><th align="char" valign="top" rowspan="1" colspan="1">Median sFF (IQR)</th></tr></thead><tbody><tr><td align="left" rowspan="2" colspan="1">
+CR/VGPR<break/>
+(<italic>n</italic>&#x000a0;=&#x000a0;12)
+</td><td align="left" rowspan="1" colspan="1">Baseline</td><td align="char" char=" " rowspan="1" colspan="1">0&#x000b7;24 (0&#x000b7;15&#x02013;0&#x000b7;86)</td><td align="char" char=" " rowspan="1" colspan="1">114&#x000b7;7 (97&#x000b7;2&#x02013;190&#x000b7;2)</td><td align="char" char=" " rowspan="1" colspan="1">0&#x000b7;79 (0&#x000b7;66&#x02013;1&#x000b7;26)</td><td align="char" char=" " rowspan="1" colspan="1">0&#x000b7;24 (0&#x000b7;20&#x02013;0&#x000b7;27)</td></tr><tr><td align="left" rowspan="1" colspan="1">8&#x000a0;weeks</td><td align="char" char=" " rowspan="1" colspan="1">0&#x000b7;13 (0&#x000b7;10&#x02013;0&#x000b7;47)<xref ref-type="fn" rid="bjh14401-note-0006">a</xref>
+</td><td align="char" char=" " rowspan="1" colspan="1">140&#x000b7;6 (88&#x000b7;4&#x02013;184&#x000b7;2)</td><td align="char" char=" " rowspan="1" colspan="1">1&#x000b7;50 (0&#x000b7;88&#x02013;1&#x000b7;83)<xref ref-type="fn" rid="bjh14401-note-0006">a</xref>
+</td><td align="char" char=" " rowspan="1" colspan="1">0&#x000b7;44 (0&#x000b7;37&#x02013;0&#x000b7;63)<xref ref-type="fn" rid="bjh14401-note-0006">a</xref>
+</td></tr><tr><td align="left" rowspan="2" colspan="1">
+&#x02264; PR<break/>
+(<italic>n</italic>&#x000a0;=&#x000a0;9)
+</td><td align="left" rowspan="1" colspan="1">Baseline</td><td align="char" char=" " rowspan="1" colspan="1">0&#x000b7;17 (0&#x000b7;08&#x02013;0&#x000b7;87)</td><td align="char" char=" " rowspan="1" colspan="1">84&#x000b7;8 (73&#x000b7;6&#x02013;121&#x000b7;9)</td><td align="char" char=" " rowspan="1" colspan="1">0&#x000b7;66 (0&#x000b7;52&#x02013;0&#x000b7;87)</td><td align="char" char=" " rowspan="1" colspan="1">0&#x000b7;40 (0&#x000b7;29&#x02013;0&#x000b7;54)</td></tr><tr><td align="left" rowspan="1" colspan="1">8&#x000a0;weeks</td><td align="char" char=" " rowspan="1" colspan="1">0&#x000b7;08 (0&#x000b7;04&#x02013;0&#x000b7;59)<xref ref-type="fn" rid="bjh14401-note-0006">a</xref>
+</td><td align="char" char=" " rowspan="1" colspan="1">127&#x000b7;8 (56&#x000b7;0&#x02013;194&#x000b7;5)</td><td align="char" char=" " rowspan="1" colspan="1">0&#x000b7;75 (0&#x000b7;51&#x02013;1&#x000b7;27)<xref ref-type="fn" rid="bjh14401-note-0006">a</xref>
+</td><td align="char" char=" " rowspan="1" colspan="1">0&#x000b7;48 (0&#x000b7;32&#x02013;0&#x000b7;60)<xref ref-type="fn" rid="bjh14401-note-0006">a</xref>
+</td></tr></tbody></table><table-wrap-foot><fn id="bjh14401-note-0005"><p>CR, complete response; VGPR, very good partial response; PR, partial response; eTV, estimated total tumour volume; ER, enhancement ratio; ADC, mean apparent diffusion coefficient; sFF, signal fat fraction; IQR, interquartile range.</p></fn><fn id="bjh14401-note-0006"><label>a</label><p>Significant change (<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0&#x000b7;05) compared with baseline scan.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><p>We then compared the magnitude of change in eTV, sFF between the CR/VGPR and the &#x02264;PR patient groups. While there was a significant reduction in eTV in both groups following treatment, the magnitude of change was similar (<italic>P</italic>&#x000a0;=&#x000a0;0&#x000b7;62). On the other hand, the magnitude of change in sFF was significantly greater in the CR/VGPR (+0&#x000b7;21&#x000a0;&#x000b1;&#x000a0;0&#x000b7;06, mean&#x000a0;&#x000b1;&#x000a0;SD) compared with the &#x02264;PR group (+0&#x000b7;06&#x000a0;&#x000b1;&#x000a0;0&#x000b7;08, <italic>P</italic>&#x000a0;=&#x000a0;0&#x000b7;001). Although the changes in ADC were greater in the CR/VGPR group (+0&#x000b7;47&#x000a0;&#x000b1;&#x000a0;0&#x000b7;39) compared with the &#x02264;PR group (+0&#x000b7;18&#x000a0;&#x000b1;&#x000a0;0&#x000b7;18), this did not reach significance (<italic>P</italic>&#x000a0;=&#x000a0;0&#x000b7;053) (Fig&#x000a0;<xref rid="bjh14401-fig-0003" ref-type="fig">3</xref>).</p><fig fig-type="Figure" xml:lang="en" id="bjh14401-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Comparison of changes in <styled-content style="fixed-case">MRI</styled-content> parameters between response groups. Changes in signal fat fraction (<styled-content style="fixed-case">sFF</styled-content>), apparent diffusion coefficient (<styled-content style="fixed-case">ADC</styled-content>), estimated tumour volume (<styled-content style="fixed-case">eTV</styled-content>) and enhancement ratio (<styled-content style="fixed-case">ER</styled-content>) were compared between the <styled-content style="fixed-case">CR</styled-content>/<styled-content style="fixed-case">VGPR</styled-content> and &#x02264;<styled-content style="fixed-case">PR</styled-content> patient groups. Box&#x000a0;and whisker plot of changes in each parameter [(8&#x000a0;weeks)&#x02212;(baseline)] for each group. The boundaries of the box show 25th and 75th percentiles, and the line within the box is the median. Whiskers show 10th and 90th percentiles. Means are shown (+).An unpaired <italic>t</italic>&#x02010;test was used to compare changes between the two patient groups and <italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0&#x000b7;05 was defined as significant. <styled-content style="fixed-case">CR</styled-content>, complete response; VGPR, very good partial response; PR, partial response.</p></caption><graphic id="nlm-graphic-5" xlink:href="BJH-176-222-g003"/></fig><p>As internal controls for each patient, we also evaluated sFF of uninvolved greater trochanteric ROI. Two patients from the &#x02264;PR group were excluded from this analysis due to diffuse involvement of greater trochanter and artefact on MR images. There was no significant change in greater trochanteric sFF in the CR/VGPR group (<italic>n</italic>&#x000a0;=&#x000a0;12), and the &#x02264;PR group (<italic>n</italic>&#x000a0;=&#x000a0;7) (Figure&#x000a0;S2).</p></sec><sec id="bjh14401-sec-0019"><title>Consistency and speed of lesional responses</title><p>Data for the sFF of each lesion in representative patients achieving VGPR, PR and SD are shown in Fig&#x000a0;<xref rid="bjh14401-fig-0004" ref-type="fig">4</xref>, where it can be seen that, while all lesions manifest an increase in sFF in the patient with VGPR, responses are more mixed and individual lesional changes more variable in patients who did not achieve a deep biochemical response. Analysing sFF changes in each patient, every patient achieving CR/VGPR had a significant increase in lesional sFF, except for one patient who had only 4 FL's for analysis. One patient with a single FL who achieved PR was excluded from per patient analysis. In contrast to the CR/VGPR group, none of the 6 patients with &#x0003c;PR had a significant change in the sFF of their FLs, whilst two out of the three patients with PR demonstrated a significant increase in sFF. Eight out of the 12 patients achieving CR/VGPR had a significant rise in ADC of their FL's, while 2 out of 6 patients with &#x0003c;PR had a significant rise in ADC of their FL's (Table&#x000a0;S3).</p><fig fig-type="Figure" xml:lang="en" id="bjh14401-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Lesional signal fat fraction (<styled-content style="fixed-case">sFF</styled-content>) changes for representative patients achieving very good partial response (<styled-content style="fixed-case">VGPR</styled-content>), partial response (<styled-content style="fixed-case">PR</styled-content>) and stable disease (<styled-content style="fixed-case">SD</styled-content>) following induction chemotherapy. Data points in each graph represent focal lesions at baseline and 8&#x000a0;weeks after starting treatment. To assess the temporal changes, a Wilcoxon matched&#x02010;pairs signed rank test was used and <italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0&#x000b7;05 was defined as significant.</p></caption><graphic id="nlm-graphic-7" xlink:href="BJH-176-222-g004"/></fig><p>We also investigated if WB&#x02010;MRI changes at 8&#x000a0;weeks correlated with speed of response. Patients were divided into two subgroups based on the time to maximum response (&#x02264; or &#x0003e;100&#x000a0;days). Patients who reached maximum response &#x02264;100&#x000a0;days (<italic>n</italic>&#x000a0;=&#x000a0;11) had significantly greater changes in sFF (8&#x000a0;weeks&#x02010;baseline) when compared to those with whose time to maximum response was &#x0003e;100&#x000a0;days (<italic>n</italic>&#x000a0;=&#x000a0;10, <italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0&#x000b7;001). No significant difference in ADC changes was observed between these two groups of patients (Fig&#x000a0;<xref rid="bjh14401-fig-0005" ref-type="fig">5</xref>).</p><fig fig-type="Figure" xml:lang="en" id="bjh14401-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>Magnitude of changes in signal fat fraction (<styled-content style="fixed-case">sFF</styled-content>) and apparent diffusion coefficient (<styled-content style="fixed-case">ADC</styled-content>) according to speed of biochemical response. Changes from baseline [(8&#x000a0;weeks)&#x02212;(baseline)] were assessed separately for patients who reached their maximal response (lowest paraprotein level) within 100&#x000a0;days (<italic>n</italic>&#x000a0;=&#x000a0;11) versus those who took longer than 100&#x000a0;days (<italic>n</italic>&#x000a0;=&#x000a0;10). Box&#x000a0;and whisker plots of changes in <styled-content style="fixed-case">sFF</styled-content> and <styled-content style="fixed-case">ADC</styled-content>. The boundaries of the box show 25th and 75th percentiles, and the line within the box is the median. Whiskers show 10th and 90th percentiles. Means are shown (+). An unpaired <italic>t</italic>&#x02010;test was used to assess changes in <styled-content style="fixed-case">MRI</styled-content> parameters [(8&#x02010;week values)&#x02212;(baseline values)] between the two patient groups and <italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0&#x000b7;05 was defined as significant.</p></caption><graphic id="nlm-graphic-9" xlink:href="BJH-176-222-g005"/></fig></sec><sec id="bjh14401-sec-0020"><title>Predictive value of sFF and ADC changes</title><p>Finally, we carried out ROC analysis to evaluate the predictive value of percentage changes of MRI biomarkers for response quality (CR/VGPR versus &#x02264; PR). Area under the curve analysis showed an AUC of 0&#x000b7;95 (95% confidence interval 0&#x000b7;87&#x02013;1&#x000b7;00) for percentage changes of sFF as predictor of &#x02264; PR whist other MRI biomarkers were less reliable for predicting &#x02264;PR (Figure&#x000a0;S3 and Table&#x000a0;S4).</p></sec></sec><sec id="bjh14401-sec-0021"><title>Discussion</title><p>In this study, we investigated the possible utility of parametric analysis of WB&#x02010;MRI scanning in newly diagnosed MM patients for the assessment of baseline characteristics, as well as for early assessment of treatment response. We observed that patients who achieved major responses (CR/VGPR) had a lower sFF in their FLs compared to patients who achieved &#x02264; PR. We also observed a significant decrease in eTV at 8&#x000a0;weeks that appeared to be independent of response depth. On the other hand, changes in lesional sFF were significantly greater in patients achieving CR/VGPR, when compared with those whose disease response was PR or less. A trend to similar differences in ADC changes was also observed. The magnitude of change in lesional sFF also seemed to differentiate between fast and slow responders. ROC analysis indicated the superior value of sFF changes at 8&#x000a0;weeks in predicting a major response.</p><p>Treatment&#x02010;related increases in ADC have previously been reported in MM patients (Messiou <italic>et&#x000a0;al</italic>, <xref rid="bjh14401-bib-0023" ref-type="ref">2012</xref>; Bonaffini <italic>et&#x000a0;al</italic>, <xref rid="bjh14401-bib-0004" ref-type="ref">2015</xref>). Messiou <italic>et&#x000a0;al</italic> (<xref rid="bjh14401-bib-0023" ref-type="ref">2012</xref>) assessed ADC of up to five ROIs on ADC maps (including diffuse marrow involvement and normal appearing bone marrow, as opposed to FL only), and observed an initial increase of ADC at 4&#x02013;6&#x000a0;weeks of treatment in responding patients, followed by a decrease at 20&#x000a0;weeks. These authors also reported that significantly lower percentage of pixels representing fatty marrow in baseline ADC histograms in patients with active myeloma (<italic>n</italic>&#x000a0;=&#x000a0;8, 27&#x000b7;2%) compared to patients in remission (<italic>n</italic>&#x000a0;=&#x000a0;12, 83&#x000b7;0%). By implementing a two <italic>b</italic> value (b50, 900&#x000a0;s/mm<sup>2</sup>) WB&#x02010;DWI on 1&#x000b7;5 T scanner and segmenting all area of visible marrow, Giles <italic>et&#x000a0;al</italic> (<xref rid="bjh14401-bib-0010" ref-type="ref">2014</xref>) showed that the ADC increased in 95% (19/20) of responding patients, but that it decreased in all non&#x02010;responders (5/5). Given that myeloma is a patchy disease, we selected stringently defined areas of involved skeleton, hence the emphasis on FLs. Horger <italic>et&#x000a0;al</italic> (<xref rid="bjh14401-bib-0015" ref-type="ref">2011</xref>) analysed both intra and extramedullary FLs &#x0003e;20&#x000a0;mm and demonstrated a 63&#x000b7;9% increase (range 8&#x000b7;7&#x02013;211&#x000b7;2%) in their responding cohort compared to 7&#x000b7;8% reduction in ADC in their only non&#x02010;responding patient. In line with a previous report, we did not observe any significant change in the enhancement of FLs following treatment (Lin <italic>et&#x000a0;al</italic>, <xref rid="bjh14401-bib-0017" ref-type="ref">2010</xref>). It is possible that changes in angiogenesis within FL are not optimally captured at this early time point of treatment. Persistent increased angiogenesis has been previously reported in MM patients following successful treatment (Rajkumar <italic>et&#x000a0;al</italic>, <xref rid="bjh14401-bib-0027" ref-type="ref">1999</xref>).</p><p>Previous reports investigating sFF quantification in bone marrow are scarce. Using iterative decomposition of water and fat with echo asymmetric and least&#x02010;squares estimation (IDEAL) Dixon&#x02010;based MRI, Takasu <italic>et&#x000a0;al</italic> (<xref rid="bjh14401-bib-0034" ref-type="ref">2015</xref>) demonstrated a significant decrease in sFF in the lumbar spine in symptomatic myeloma patients, when compared with asymptomatic multiple myeloma. We have chosen to concentrate our analysis on FL because the presence of FL is recognized to be more relevant (compared to diffuse marrow signal abnormality) to disease pathogenesis and risk assignment (Rajkumar <italic>et&#x000a0;al</italic>, <xref rid="bjh14401-bib-0029" ref-type="ref">2014</xref>), hence signal changes in these diseased areas are likely to be more prognostically relevant. To the best of our knowledge, our work is the first to systematically examine changes in the sFF of FLs following initiation of treatment in newly diagnosed MM patients, to report significant increases in sFF after 8&#x000a0;weeks of treatment and the potential utility of early sFF changes as a predictor of depth of response to induction chemotherapy.</p><p>Depth of response in newly diagnosed patients undergoing novel agent&#x02010;containing regimens has been shown to correlate with disease&#x02010;free and, in some cases, overall survival (Martinez&#x02010;Lopez <italic>et&#x000a0;al</italic>, <xref rid="bjh14401-bib-0021" ref-type="ref">2011</xref>; Vij <italic>et&#x000a0;al</italic>, <xref rid="bjh14401-bib-0035" ref-type="ref">2015</xref>). Longer follow&#x02010;up of our patient cohort is needed in order to explore an association of MRI response parameters with survival, as has been reported for PET&#x02010;CT negativity (Zamagni <italic>et&#x000a0;al</italic>, <xref rid="bjh14401-bib-0040" ref-type="ref">2011</xref>, <xref rid="bjh14401-bib-0041" ref-type="ref">2015</xref>). Our results also need confirmation in a larger cohort of patients treated prospectively, ideally in a uniform manner. We chose major response (CR/VGPR) category for correlative analysis, because in this era of novel regimens where the majority of patients are likely to achieve at least a PR, the attainment of a deep response is not only achievable in a significant number of patients, but serves as better indicator of long term benefit (Lional &#x00026; Andeson, <xref rid="bjh14401-bib-0018" ref-type="ref">2014</xref>). If the superior predictive value of sFF is confirmed in a larger study, the use of WB&#x02010;MRI to assess sFF changes early during treatment will aid real time response assessment. By providing an early indicator of response quality, such analyses can be incorporated into risk&#x02010;stratified protocols. Such radiological parameters need integration with current platforms for risk assignment that are a composite of baseline features and response depth/quality.</p><p>A major attraction of WB&#x02010;MRI quantitative parameters is the applicability to patients with non&#x02010;secretory or oligo&#x02010;secretory disease, who have traditionally not been studied in clinical trials and for whom accurate disease response assessment can be challenging. For such patients, WB&#x02010;MRI represents a non&#x02010;invasive alternative to repeated bone marrow sampling, with the added advantage of providing more comprehensive information about non&#x02010;axial and extra&#x02010;medullary disease. We noted that some patients showed lesional variation in the sFF and ADC changes at 8&#x000a0;weeks (see representative patients with PR and SD in Fig&#x000a0;<xref rid="bjh14401-fig-0004" ref-type="fig">4</xref>). While targeted biopsy of individual lesions is required to confirm active disease, the ability to track individual lesions within a patient may provide prognostic information. Evidence is accumulating that MM is a multi&#x02010;clonal disease from diagnosis (Bolli <italic>et&#x000a0;al</italic>, <xref rid="bjh14401-bib-0003" ref-type="ref">2014</xref>; Lohr <italic>et&#x000a0;al</italic>, <xref rid="bjh14401-bib-0019" ref-type="ref">2014</xref>; Walker <italic>et&#x000a0;al</italic>, <xref rid="bjh14401-bib-0038" ref-type="ref">2014</xref>), and spatial heterogeneity in radiological response to therapy may reflect sub&#x02010;clonal differences in treatment response. The ability to track individual FLs for longitudinal monitoring may be especially valuable in patients harbouring adverse genetic lesions. For such patients, further follow&#x02010;up scans to monitor &#x0201c;resistant&#x0201d; lesions may be necessary to pre&#x02010;empt rapid disease reactivation.</p><p>This study was performed on a single MRI scanner, however, as the MRI pulse sequence used to perform these measurements is routinely available on all scanners, and the quantification steps involved are simple, there should be few barriers to generalization. Despite promising results concerning the application of ADC as MRI biomarker for monitoring response in various soft tissue and skeletal tumours (Punwani <italic>et&#x000a0;al</italic>, <xref rid="bjh14401-bib-0026" ref-type="ref">2010</xref>; Giles <italic>et&#x000a0;al</italic>, <xref rid="bjh14401-bib-0010" ref-type="ref">2014</xref>), generalization of ADC remains challenging (Koh <italic>et&#x000a0;al</italic>, <xref rid="bjh14401-bib-0016" ref-type="ref">2011</xref>). ADC quantitation could be affected by several factors, such as number and choices of <italic>b</italic> values, mathematical model for data fitting, software for data analysis and choices of applied sequence parameters (Koh <italic>et&#x000a0;al</italic>, <xref rid="bjh14401-bib-0016" ref-type="ref">2011</xref>; Celik, <xref rid="bjh14401-bib-0005" ref-type="ref">2016</xref>). Furthermore, in the bone marrow microenvironment, the temporal changes of ADC following myelomatous infiltration and treatment are complex and affected by several factors, such as cell size, bulk flow in capillaries, cellular architecture and the amount of fatty (yellow) marrow (Messiou &#x00026; Kaiser, <xref rid="bjh14401-bib-0022" ref-type="ref">2015</xref>). At the very least, lesional sFF will provide complementary information to ADC, but may well prove superior in reproducibility and practical application. For example, a 10&#x02010;min protocol could be performed for sFF quantification of FL to provide a response marker of treatment.</p><p>In conclusion, we have demonstrated that the assessment of newly diagnosed patients using WB&#x02010;MRI to derive sFF and ADC of stringently selected FLs has potential utility in disease response assessment that will complement currently available techniques. sFF changes appear to be most predictive of deep and rapid responses in newly diagnosed patients undergoing induction therapy. Provided these imaging biomarkers are prospectively validated in larger cohorts, they may prove a valuable addition to the current risk platforms in MM patients, integrating baseline features and treatment response.</p></sec><sec id="bjh14401-sec-0023"><title>Funding</title><p>AL was supported by a CRUK/EPSRC award (C1519/A10331) from the KCL/UCL Comprehensive Cancer Imaging Centre. ND was supported by UK EPSRC grants EP/I018700/1 and EP/H046410/1.</p></sec><sec id="bjh14401-sec-0024"><title>Authorship</title><p>Arash Latifoltojar, Margaret Hall&#x02010;Craggs, Shonit Punwani, Kwee Yong: Designed and performed the research study, analysed the data, wrote the paper. Neil Rabin, Rakesh Popat, Ali Rismani, Shirley D'Sa: Performed the research study, wrote the paper. Alan Bainbridge, Magdalena Sokolska: Acquired data, wrote the paper. Nikolaos Dikaios: Analysed the data, wrote the paper.</p></sec><sec id="bjh14401-sec-0025"><title>Conflicts of Interest</title><p>The authors of this manuscript have no conflicts of interest to disclose with regard to the work submitted.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data"><caption><p>
+<bold>Table&#x000a0;SI.</bold> Correlation between baseline MRI parameters and depth of response to first line therapy.</p><p>
+<bold>Table&#x000a0;SII.</bold> Details of patients with paired scans.</p><p>
+<bold>Table&#x000a0;SIII.</bold> Changes in median FF and ADC in individual patients who underwent paired scans.</p><p>
+<bold>Table&#x000a0;SIV.</bold> Prognostic performance of signal fat fraction (sFF) changes in CR/VGPR and &#x02264;PR groups.</p><p>
+<bold>Fig S1.</bold> Changes in signal fat fraction (sFF), apparent diffusion coefficient (ADC), estimated tumour volume (eTV) and enhancement ratio (ER) according to response.</p><p>
+<bold>Fig S2.</bold> Signal fat fraction (sFF) changes of femoral greater trochanter in CR/VGPR and &#x02264;PR groups.</p><p>
+<bold>Fig S3.</bold> Receiver operating characteristic curves (ROC) for percentage changes (&#x00394;) in signal fat fraction (sFF), apparent diffusion coefficient (ADC), estimated tumour volume (eTV) and enhancement ratio (ER) as predictor of &#x02264;PR.</p></caption><media xlink:href="BJH-176-222-s001.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="bjh14401-sec-0022"><title>Acknowledgements</title><p>The authors would like to acknowledge Professor Allan Hackshaw (Cancer Research UK Cancer Trials Centre, UCL Cancer Institute, University College London, UK) for providing advice on statistical analysis in the submitted manuscript. Support was provided to KY by the National Institute for Health Research, the University College London Hospitals Biomedical Research Centre and the Cancer Research UK University College London Experimental Cancer Medicine Centre.</p></ack><ref-list content-type="cited-references" id="bjh14401-bibl-0001"><title>References</title><ref id="bjh14401-bib-0001"><mixed-citation publication-type="journal" id="bjh14401-cit-0001">
+<string-name>
+<surname>Bartel</surname>, <given-names>T.B.</given-names>
+</string-name>, <string-name>
+<surname>Haessler</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Brown</surname>, <given-names>T.L.</given-names>
+</string-name>, <string-name>
+<surname>Shaughnessy</surname>, <given-names>J.D.</given-names>
+<suffix>Jr</suffix>
+</string-name>, <string-name>
+<surname>van Rhee</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Anaissie</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Alpe</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Angtuaco</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Walker</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Epstein</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Crowley</surname>, <given-names>J.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Barlogie</surname>, <given-names>B.</given-names>
+</string-name> (<year>2009</year>) <article-title>F18&#x02010;fluorodeoxyglucose positron emission tomography in the context of other imaging techniques and prognostic factors in multiple myeloma</article-title>. <source>Blood</source>, <volume>114</volume>, <fpage>2068</fpage>&#x02013;<lpage>2076</lpage>.<pub-id pub-id-type="pmid">19443657</pub-id></mixed-citation></ref><ref id="bjh14401-bib-0002"><mixed-citation publication-type="journal" id="bjh14401-cit-0002">
+<string-name>
+<surname>Baur&#x02010;Melnyk</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Buhmann</surname>, <given-names>S.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Durr</surname>, <given-names>H.R.</given-names>
+</string-name>, <string-name>
+<surname>Reiser</surname>, <given-names>M.</given-names>
+</string-name> (<year>2005</year>) <article-title>Role of MRI for the diagnosis and prognosis of multiple myeloma</article-title>. <source>European Radiology</source>, <volume>55</volume>, <fpage>56</fpage>&#x02013;<lpage>63</lpage>.</mixed-citation></ref><ref id="bjh14401-bib-0003"><mixed-citation publication-type="journal" id="bjh14401-cit-0003">
+<string-name>
+<surname>Bolli</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Avet&#x02010;Loiseau</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Wedge</surname>, <given-names>D.C.</given-names>
+</string-name>, <string-name>
+<surname>Van Loo</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Alexandrov</surname>, <given-names>L.B.</given-names>
+</string-name>, <string-name>
+<surname>Martincorena</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Dawson</surname>, <given-names>K.J.</given-names>
+</string-name>, <string-name>
+<surname>Iorio</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Nik&#x02010;Zainal</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Bignell</surname>, <given-names>G.R.</given-names>
+</string-name>, <string-name>
+<surname>Hinton</surname>, <given-names>J.W.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Tubio</surname>, <given-names>J.M.</given-names>
+</string-name>, <string-name>
+<surname>McLaren</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>O'Meara</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Butler</surname>, <given-names>A.P.</given-names>
+</string-name>, <string-name>
+<surname>Teague</surname>, <given-names>J.W.</given-names>
+</string-name>, <string-name>
+<surname>Mudie</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Anderson</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Rashid</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Tai</surname>, <given-names>Y.T.</given-names>
+</string-name>, <string-name>
+<surname>Shammas</surname>, <given-names>M.A.</given-names>
+</string-name>, <string-name>
+<surname>Sperling</surname>, <given-names>A.S.</given-names>
+</string-name>, <string-name>
+<surname>Fulciniti</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Richardson</surname>, <given-names>P.G.</given-names>
+</string-name>, <string-name>
+<surname>Parmigiani</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Magrangeas</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Minvielle</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Moreau</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Attal</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Facon</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Futreal</surname>, <given-names>P.A.</given-names>
+</string-name>, <string-name>
+<surname>Anderson</surname>, <given-names>K.C.</given-names>
+</string-name>, <string-name>
+<surname>Campbell</surname>, <given-names>P.J.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Munshi</surname>, <given-names>N.C.</given-names>
+</string-name> (<year>2014</year>) <article-title>Heterogeneity of genomic evolution and mutational profiles in multiple myeloma</article-title>. <source>Nature Communications</source>, <volume>5</volume>, <fpage>2997</fpage>.</mixed-citation></ref><ref id="bjh14401-bib-0004"><mixed-citation publication-type="journal" id="bjh14401-cit-0004">
+<string-name>
+<surname>Bonaffini</surname>, <given-names>P.A.</given-names>
+</string-name>, <string-name>
+<surname>Ippolito</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Casiraghi</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Besostri</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Franzesi</surname>, <given-names>C.T.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Sironi</surname>, <given-names>S.</given-names>
+</string-name> (<year>2015</year>) <article-title>Apparent diffusion coefficient maps integrated in whole&#x02010;body MRI examination for the evaluation of tumor response to chemotherapy in patients with multiple myeloma</article-title>. <source>Academic Radiology</source>, <volume>22</volume>, <fpage>1163</fpage>&#x02013;<lpage>1171</lpage>.<pub-id pub-id-type="pmid">26182979</pub-id></mixed-citation></ref><ref id="bjh14401-bib-0005"><mixed-citation publication-type="journal" id="bjh14401-cit-0005">
+<string-name>
+<surname>Celik</surname>, <given-names>A.</given-names>
+</string-name> (<year>2016</year>) <article-title>Effect of imaging parameters on the accuracy of apparent diffusion coefficient and optimization strategies</article-title>. <source>Diagnostic and Interventional Radiology</source>, <volume>2</volume>, <fpage>101</fpage>&#x02013;<lpage>107</lpage>.</mixed-citation></ref><ref id="bjh14401-bib-0006"><mixed-citation publication-type="journal" id="bjh14401-cit-0006">
+<string-name>
+<surname>Dimopoulos</surname>, <given-names>M.A.</given-names>
+</string-name>, <string-name>
+<surname>Hillengass</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Usmani</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Zamagni</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Lentzsch</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Davies</surname>, <given-names>F.E.</given-names>
+</string-name>, <string-name>
+<surname>Raje</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Sezer</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Zweegman</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Shah</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Bdros</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Shimizu</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Moreau</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Chim</surname>, <given-names>C.S.</given-names>
+</string-name>, <string-name>
+<surname>Lahurta</surname>, <given-names>J.J.</given-names>
+</string-name>, <string-name>
+<surname>Hou</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Jurczyszyn</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Goldschmidt</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Sonneveld</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Palumbo</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Ludwig</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Cavo</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Barlogie</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Anderson</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Roodman</surname>, <given-names>G.D.</given-names>
+</string-name>, <string-name>
+<surname>Rajkumar</surname>, <given-names>S.V.</given-names>
+</string-name>, <string-name>
+<surname>Durie</surname>, <given-names>B.G.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Terpos</surname>, <given-names>E.</given-names>
+</string-name> (<year>2015</year>) <article-title>Role of magnetic resonance imaging in the management of patients with multiple myeloma: a consensus statement</article-title>. <source>Journal of Clinical Oncology</source>, <volume>33</volume>, <fpage>657</fpage>&#x02013;<lpage>664</lpage>.<pub-id pub-id-type="pmid">25605835</pub-id></mixed-citation></ref><ref id="bjh14401-bib-0007"><mixed-citation publication-type="journal" id="bjh14401-cit-0007">
+<string-name>
+<surname>D'Sa</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Abildgaard</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Tighe</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Shaw</surname>, <given-names>P.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Hall&#x02010;Craggs</surname>, <given-names>M.</given-names>
+</string-name> (<year>2007</year>) <article-title>Guidelines for the use&#x000a0;of imaging in the management of myeloma</article-title>. <source>British Journal of Haematology</source>, <volume>137</volume>, <fpage>49</fpage>&#x02013;<lpage>63</lpage>.<pub-id pub-id-type="pmid">17359371</pub-id></mixed-citation></ref><ref id="bjh14401-bib-0008"><mixed-citation publication-type="journal" id="bjh14401-cit-0008">
+<string-name>
+<surname>Durie</surname>, <given-names>B.G.M.</given-names>
+</string-name>, <string-name>
+<surname>Harousseau</surname>, <given-names>J.L.</given-names>
+</string-name>, <string-name>
+<surname>Miguel</surname>, <given-names>J.S.</given-names>
+</string-name>, <string-name>
+<surname>Blade</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Barlogie</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Anderson</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Gertz</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Dimopoulos</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Westin</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Sonneveld</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Ludwig</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Gahrton</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Beksac</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Crowley</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Belch</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Boccadaro</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Cavo</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Turesson</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Joshua</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Vesole</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Kyle</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Alexanian</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Tricot</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Attal</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Merlini</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Powles</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Richardson</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Shimizu</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Tosi</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Morgan</surname>, <given-names>G.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Rajkumar</surname>, <given-names>S.V.</given-names>
+</string-name> (<year>2006</year>) <article-title>International uniform response criteria for multiple myeloma</article-title>. <source>Leukemia</source>, <volume>20</volume>, <fpage>1467</fpage>&#x02013;<lpage>1473</lpage>.<pub-id pub-id-type="pmid">16855634</pub-id></mixed-citation></ref><ref id="bjh14401-bib-0009"><mixed-citation publication-type="journal" id="bjh14401-cit-0009">
+<string-name>
+<surname>Dutoit</surname>, <given-names>J.C.</given-names>
+</string-name>, <string-name>
+<surname>Vanderkerken</surname>, <given-names>M.A.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Verstraete</surname>, <given-names>K.L.</given-names>
+</string-name> (<year>2013</year>) <article-title>Value of whole body MRI and dynamic contrast enhanced MRI in the diagnosis, follow&#x02010;up and evaluation of disease activity and extent in multiple myeloma</article-title>. <source>European Journal of Radiology</source>, <volume>82</volume>, <fpage>1444</fpage>&#x02013;<lpage>1452</lpage>.<pub-id pub-id-type="pmid">23726124</pub-id></mixed-citation></ref><ref id="bjh14401-bib-0010"><mixed-citation publication-type="journal" id="bjh14401-cit-0010">
+<string-name>
+<surname>Giles</surname>, <given-names>S.L.</given-names>
+</string-name>, <string-name>
+<surname>Messiou</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Collins</surname>, <given-names>D.J.</given-names>
+</string-name>, <string-name>
+<surname>Morgan</surname>, <given-names>V.A.</given-names>
+</string-name>, <string-name>
+<surname>Simpkin</surname>, <given-names>C.J.</given-names>
+</string-name>, <string-name>
+<surname>West</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Davies</surname>, <given-names>F.E.</given-names>
+</string-name>, <string-name>
+<surname>Morgan</surname>, <given-names>G.J.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>deSouza</surname>, <given-names>N.M.</given-names>
+</string-name> (<year>2014</year>) <article-title>Whole&#x02010;body diffusion&#x02010;weighted MR imaging for assessment of treatment response in myeloma</article-title>. <source>Radiology</source>, <volume>271</volume>, <fpage>785</fpage>&#x02013;<lpage>794</lpage>.<pub-id pub-id-type="pmid">24475858</pub-id></mixed-citation></ref><ref id="bjh14401-bib-0011"><mixed-citation publication-type="journal" id="bjh14401-cit-0011">
+<string-name>
+<surname>Giles</surname>, <given-names>S.L.</given-names>
+</string-name>, <string-name>
+<surname>deSouza</surname>, <given-names>N.M.</given-names>
+</string-name>, <string-name>
+<surname>Collins</surname>, <given-names>D.J.</given-names>
+</string-name>, <string-name>
+<surname>Morgan</surname>, <given-names>V.A.</given-names>
+</string-name>, <string-name>
+<surname>West</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Davies</surname>, <given-names>F.E.</given-names>
+</string-name>, <string-name>
+<surname>Morgan</surname>, <given-names>G.J.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Messiou</surname>, <given-names>C.</given-names>
+</string-name> (<year>2015</year>) <article-title>Assessing myeloma bone disease with whole&#x02010;body diffusion&#x02010;weighted imaging: comparison with x&#x02010;ray skeletal survey by region&#x000a0;and relationship with laboratory estimates&#x000a0;of disease burden</article-title>. <source>Clinical Radiology</source>, <volume>70</volume>, <fpage>614</fpage>&#x02013;<lpage>621</lpage>.<pub-id pub-id-type="pmid">25799364</pub-id></mixed-citation></ref><ref id="bjh14401-bib-0012"><mixed-citation publication-type="journal" id="bjh14401-cit-0012">
+<string-name>
+<surname>Hanrahan</surname>, <given-names>C.J.</given-names>
+</string-name>, <string-name>
+<surname>Christensen</surname>, <given-names>C.R.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Crim</surname>, <given-names>J.R.</given-names>
+</string-name> (<year>2010</year>) <article-title>Current concepts in the evaluation of multiple myeloma with MR imaging and FDG PET/CT</article-title>. <source>Radiographics</source>, <volume>30</volume>, <fpage>127</fpage>&#x02013;<lpage>142</lpage>.<pub-id pub-id-type="pmid">20083590</pub-id></mixed-citation></ref><ref id="bjh14401-bib-0013"><mixed-citation publication-type="journal" id="bjh14401-cit-0013">
+<string-name>
+<surname>Hillengass</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Fechtner</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Weber</surname>, <given-names>M.&#x02010;A.</given-names>
+</string-name>, <string-name>
+<surname>Baurele</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Ayyaz</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Heiss</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Hielscher</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Moehler</surname>, <given-names>T.M.</given-names>
+</string-name>, <string-name>
+<surname>Egerer</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Neben</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Ho</surname>, <given-names>A.D.</given-names>
+</string-name>, <string-name>
+<surname>Kauczor</surname>, <given-names>H.U.</given-names>
+</string-name>, <string-name>
+<surname>Delorme</surname>, <given-names>S.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Goldschmidt</surname>, <given-names>H.</given-names>
+</string-name> (<year>2010</year>) <article-title>Prognostic significance of focal lesions in whole&#x02010;body magnetic resonance imaging in patients with asymptomatic multiple myeloma</article-title>. <source>Journal of Clinical Oncology</source>, <volume>28</volume>, <fpage>1606</fpage>&#x02013;<lpage>1610</lpage>.<pub-id pub-id-type="pmid">20177023</pub-id></mixed-citation></ref><ref id="bjh14401-bib-0014"><mixed-citation publication-type="journal" id="bjh14401-cit-0014">
+<string-name>
+<surname>Hillengass</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Bauerle</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Bartl</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Andrulis</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>McClanaan</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Laun</surname>, <given-names>F.B.</given-names>
+</string-name>, <string-name>
+<surname>Zechmann</surname>, <given-names>C.M.</given-names>
+</string-name>, <string-name>
+<surname>Shah</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Wagner&#x02010;Gund</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Simon</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Heiss</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Neben</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Ho</surname>, <given-names>A.D.</given-names>
+</string-name>, <string-name>
+<surname>Schlemmer</surname>, <given-names>H.P.</given-names>
+</string-name>, <string-name>
+<surname>Goldschmidt</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Delorme</surname>, <given-names>S.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Stieltjes</surname>, <given-names>B.</given-names>
+</string-name> (<year>2011</year>) <article-title>Diffusion&#x02010;weighted imaging for non&#x02010;invasive and quantitative monitoring of bone marrow infiltration in patients with monoclonal plasma cell disease: a comparative study with histology</article-title>. <source>British Journal of Haematology</source>, <volume>153</volume>, <fpage>721</fpage>&#x02013;<lpage>728</lpage>.<pub-id pub-id-type="pmid">21517815</pub-id></mixed-citation></ref><ref id="bjh14401-bib-0015"><mixed-citation publication-type="journal" id="bjh14401-cit-0015">
+<string-name>
+<surname>Horger</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Weisel</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Horger</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Mroue</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Fenchel</surname>, <given-names>M.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Lichy</surname>, <given-names>M.</given-names>
+</string-name> (<year>2011</year>) <article-title>Whole&#x02010;body diffusion&#x02010;weighted MRI with apparent diffusion coefficient mapping for early response monitoring in multiple myeloma: preliminary results</article-title>. <source>American Journal of Roentgenology</source>, <volume>196</volume>, <fpage>W790</fpage>&#x02013;<lpage>W795</lpage>.<pub-id pub-id-type="pmid">21606271</pub-id></mixed-citation></ref><ref id="bjh14401-bib-0016"><mixed-citation publication-type="journal" id="bjh14401-cit-0016">
+<string-name>
+<surname>Koh</surname>, <given-names>D.M.</given-names>
+</string-name>, <string-name>
+<surname>Collins</surname>, <given-names>D.J.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Orton</surname>, <given-names>M.R.</given-names>
+</string-name> (<year>2011</year>) <article-title>Intravoxel incohorent motion in body diffusion&#x02010;weighted MRI: reality and challenges</article-title>. <source>American Journal of Roentgenology</source>, <volume>196</volume>, <fpage>1351</fpage>&#x02013;<lpage>1361</lpage>.<pub-id pub-id-type="pmid">21606299</pub-id></mixed-citation></ref><ref id="bjh14401-bib-0017"><mixed-citation publication-type="journal" id="bjh14401-cit-0017">
+<string-name>
+<surname>Lin</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Luciani</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Belhadj</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Deux</surname>, <given-names>J.F.</given-names>
+</string-name>, <string-name>
+<surname>Kuhnowski</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Maatouk</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Beaussart</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Cuenod</surname>, <given-names>C.A.</given-names>
+</string-name>, <string-name>
+<surname>Haioun</surname>, <given-names>C.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Rahmouni</surname>, <given-names>A.</given-names>
+</string-name> (<year>2010</year>) <article-title>Multiple myeloma treatment response assessment with whole&#x02010;body dynamic contrast&#x02010;enhanced MR imaging</article-title>. <source>Radiology</source>, <volume>254</volume>, <fpage>521</fpage>&#x02013;<lpage>531</lpage>.<pub-id pub-id-type="pmid">20093523</pub-id></mixed-citation></ref><ref id="bjh14401-bib-0018"><mixed-citation publication-type="journal" id="bjh14401-cit-0018">
+<string-name>
+<surname>Lional</surname>, <given-names>S.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Andeson</surname>, <given-names>K.C.</given-names>
+</string-name> (<year>2014</year>) <article-title>Association of response endpoints with survival outcomes in multiple myeloma</article-title>. <source>Leukemia</source>, <volume>28</volume>, <fpage>258</fpage>&#x02013;<lpage>268</lpage>.<pub-id pub-id-type="pmid">23868105</pub-id></mixed-citation></ref><ref id="bjh14401-bib-0019"><mixed-citation publication-type="journal" id="bjh14401-cit-0019">
+<string-name>
+<surname>Lohr</surname>, <given-names>J.G.</given-names>
+</string-name>, <string-name>
+<surname>Stojanov</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Carter</surname>, <given-names>S.L.</given-names>
+</string-name>, <string-name>
+<surname>Cruz&#x02010;Gordillo</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Lawrence</surname>, <given-names>M.S.</given-names>
+</string-name>, <string-name>
+<surname>Auclair</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Sougnez</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Knoechel</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Gould</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Saksena</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Cibulskis</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>McKenna</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Chapman</surname>, <given-names>M.A.</given-names>
+</string-name>, <string-name>
+<surname>Straussman</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Levy</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Perkins</surname>, <given-names>L.M.</given-names>
+</string-name>, <string-name>
+<surname>Keats</surname>, <given-names>J.J.</given-names>
+</string-name>, <string-name>
+<surname>Schumacher</surname>, <given-names>S.E.</given-names>
+</string-name>, <string-name>
+<surname>Rosenberg</surname>, <given-names>M.</given-names>
+</string-name>; <collab collab-type="authors">Multiple Myeloma Research Consortium</collab>
+, <string-name>
+<surname>Getz</surname>, <given-names>G.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Golub</surname>, <given-names>T.R.</given-names>
+</string-name> (<year>2014</year>) <article-title>Widespread genetic heterogeneity in multiple myeloma: implications for targeted therapy</article-title>. <source>Cancer Cell</source>, <volume>25</volume>, <fpage>91</fpage>&#x02013;<lpage>101</lpage>.<pub-id pub-id-type="pmid">24434212</pub-id></mixed-citation></ref><ref id="bjh14401-bib-0020"><mixed-citation publication-type="journal" id="bjh14401-cit-0020">
+<string-name>
+<surname>Mai</surname>, <given-names>E.K.</given-names>
+</string-name>, <string-name>
+<surname>Hielscher</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Kloth</surname>, <given-names>J.K.</given-names>
+</string-name>, <string-name>
+<surname>Merz</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Shah</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Raab</surname>, <given-names>M.S.</given-names>
+</string-name>, <string-name>
+<surname>Hillengass</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Wagner</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Jauch</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Hose</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Weber</surname>, <given-names>M.A.</given-names>
+</string-name>, <string-name>
+<surname>Delorme</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Goldschmidt</surname>, <given-names>H.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Hillengass</surname>, <given-names>J.</given-names>
+</string-name> (<year>2015</year>) <article-title>A magnetic resonance imaging&#x02010;based prognostic scoring system to predict outcome in transplant&#x02010;eligible patients with multiple myeloma</article-title>. <source>Haematologica</source>, <volume>100</volume>, <fpage>818</fpage>&#x02013;<lpage>825</lpage>.<pub-id pub-id-type="pmid">25795721</pub-id></mixed-citation></ref><ref id="bjh14401-bib-0021"><mixed-citation publication-type="journal" id="bjh14401-cit-0021">
+<string-name>
+<surname>Martinez&#x02010;Lopez</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Blade</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Mateos</surname>, <given-names>M.V.</given-names>
+</string-name>, <string-name>
+<surname>Grande</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Alegre</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Garcia&#x02010;Larana</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Suerda</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>de la Rubia</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Conde</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Martinez</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>de Arriba</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Viguria</surname>, <given-names>M.C.</given-names>
+</string-name>, <string-name>
+<surname>Besalduch</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Cabrera</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Gonzalez&#x02010;San Miguel</surname>, <given-names>J.D.</given-names>
+</string-name>, <string-name>
+<surname>Guzman&#x02010;Zamudio</surname>, <given-names>J.L.</given-names>
+</string-name>, <string-name>
+<surname>Gomez del Castillo</surname>, <given-names>M.C.</given-names>
+</string-name>, <string-name>
+<surname>Moraleda</surname>, <given-names>J.M.</given-names>
+</string-name>, <string-name>
+<surname>Garcia&#x02010;Ruiz</surname>, <given-names>J.C.</given-names>
+</string-name>, <string-name>
+<surname>San Miguel</surname>, <given-names>J.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Lahuerta</surname>, <given-names>J.J.</given-names>
+</string-name>; <collab collab-type="authors">Grupo Espagnol de MM, Programa para el Estudio de la Terape Utica en Hemopatia Maligna</collab>
+. (<year>2011</year>) <article-title>Long&#x02010;term prognostic significance of response in multiple myeloma after stem cell transplantation</article-title>. <source>Blood</source>, <volume>118</volume>, <fpage>529</fpage>&#x02013;<lpage>534</lpage>.<pub-id pub-id-type="pmid">21482708</pub-id></mixed-citation></ref><ref id="bjh14401-bib-0022"><mixed-citation publication-type="journal" id="bjh14401-cit-0022">
+<string-name>
+<surname>Messiou</surname>, <given-names>C.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Kaiser</surname>, <given-names>M.</given-names>
+</string-name> (<year>2015</year>) <article-title>Whole body diffusion weighted MRI&#x02010; a new view of myeloma</article-title>. <source>British Journal of Haematology</source>, <volume>171</volume>, <fpage>29</fpage>&#x02013;<lpage>37</lpage>.<pub-id pub-id-type="pmid">26013304</pub-id></mixed-citation></ref><ref id="bjh14401-bib-0023"><mixed-citation publication-type="journal" id="bjh14401-cit-0023">
+<string-name>
+<surname>Messiou</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Giles</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Collins</surname>, <given-names>D.J.</given-names>
+</string-name>, <string-name>
+<surname>West</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Davies</surname>, <given-names>F.E.</given-names>
+</string-name>, <string-name>
+<surname>Morgan</surname>, <given-names>G.J.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Desouza</surname>, <given-names>N.M.</given-names>
+</string-name> (<year>2012</year>) <article-title>Assessing response of myeloma bone disease with diffusion&#x02010;weighted MRI</article-title>. <source>British Journal of Radiology</source>, <volume>85</volume>, <fpage>e1198</fpage>&#x02013;<lpage>e1203</lpage>.<pub-id pub-id-type="pmid">23175485</pub-id></mixed-citation></ref><ref id="bjh14401-bib-0024"><mixed-citation publication-type="journal" id="bjh14401-cit-0024">
+<string-name>
+<surname>Moreau</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Attal</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Karlin</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Garderet</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Facon</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Benbouker</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Macro</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Caillot</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Escpffre&#x02010;Barbe</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Stoppa</surname>, <given-names>A.M.</given-names>
+</string-name>, <string-name>
+<surname>Laribi</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Hulin</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Eveillard</surname>, <given-names>J.R.</given-names>
+</string-name>, <string-name>
+<surname>Caillon</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Bodet&#x02010;Millin</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Nguyen</surname>, <given-names>J.M.</given-names>
+</string-name>, <string-name>
+<surname>Pegourie</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Dorvaux</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Chaleteix</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Dupas</surname>, <given-names>B.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Bodere</surname>, <given-names>F.</given-names>
+</string-name> (<year>2014</year>) <article-title>Prospective evaluation of MRI and PET&#x02010;CT at diagnosis and before maintenance therapy in symptomatic patients with multiple myeloma included in the IFM/DFCI 2009 trial</article-title>. <source>Blood</source>, <volume>124</volume>, <fpage>3359</fpage> (abstract 395).</mixed-citation></ref><ref id="bjh14401-bib-0025"><mixed-citation publication-type="book" id="bjh14401-cit-0025">
+<collab collab-type="authors">NICE</collab>
+. (<year>2016</year>) <article-title>Myeloma: diagnosis and management</article-title>. NICE guideline, NG35, Section&#x000a0;1.3 Imaging investigations. <publisher-name>National Institute for Health and Care Excellence</publisher-name>, <publisher-loc>London</publisher-loc>
+<ext-link ext-link-type="uri" xlink:href="https://www.nice.org.uk/guidance/ng35/chapter/recommendations#imaging-investigations">https://www.nice.org.uk/guidance/ng35/chapter/recommendations#imaging-investigations</ext-link> (last accessed 22 February 2016).</mixed-citation></ref><ref id="bjh14401-bib-0026"><mixed-citation publication-type="journal" id="bjh14401-cit-0026">
+<string-name>
+<surname>Punwani</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Prakash</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Bainbridge</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Taylor</surname>, <given-names>S.A.</given-names>
+</string-name>, <string-name>
+<surname>Bandula</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Olsen</surname>, <given-names>O.E.</given-names>
+</string-name>, <string-name>
+<surname>Hain</surname>, <given-names>S.F.</given-names>
+</string-name>, <string-name>
+<surname>Shankar</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Daw</surname>, <given-names>S.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Humphries</surname>, <given-names>P.</given-names>
+</string-name> (<year>2010</year>) <article-title>Quantitative diffusion weighted MRI: a functional biomarker of nodal disease in Hodgkin lymphoma?</article-title>
+<source>Cancer Biomarkers: Section&#x000a0;A of Disease Markers</source>, <volume>7</volume>, <fpage>249</fpage>&#x02013;<lpage>259</lpage>.</mixed-citation></ref><ref id="bjh14401-bib-0027"><mixed-citation publication-type="journal" id="bjh14401-cit-0027">
+<string-name>
+<surname>Rajkumar</surname>, <given-names>S.V.</given-names>
+</string-name>, <string-name>
+<surname>Fonseca</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Witzig</surname>, <given-names>T.E.</given-names>
+</string-name>, <string-name>
+<surname>Gertz</surname>, <given-names>M.A.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Griepp</surname>, <given-names>P.R.</given-names>
+</string-name> (<year>1999</year>) <article-title>Bone marrow angiogenesis in patients achieving complete response after stem cell transplantation for multiple myeloma</article-title>. <source>Leukemia</source>, <volume>13</volume>, <fpage>469</fpage>&#x02013;<lpage>472</lpage>.<pub-id pub-id-type="pmid">10086738</pub-id></mixed-citation></ref><ref id="bjh14401-bib-0028"><mixed-citation publication-type="journal" id="bjh14401-cit-0028">
+<string-name>
+<surname>Rajkumar</surname>, <given-names>S.V.</given-names>
+</string-name>, <string-name>
+<surname>Harousseau</surname>, <given-names>J.&#x02010;L.</given-names>
+</string-name>, <string-name>
+<surname>Durie</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Anderson</surname>, <given-names>K.C.</given-names>
+</string-name>, <string-name>
+<surname>Dimopoulos</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Kyle</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Blade</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Richardson</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Orlowski</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Siegel</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Jagannath</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Facon</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Avet&#x02010;Loiseau</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Lional</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Palumbo</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Zonder</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Ludwig</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Vesole</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Sezer</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Munshi</surname>, <given-names>N.C.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>San Miguel</surname>, <given-names>J.</given-names>
+</string-name> (<year>2011</year>) <article-title>Consensus recommendations for the uniform reporting of clinical trials: report of the International Myeloma Workshop Consensus Panel&#x000a0;1</article-title>. <source>Blood</source>, <volume>117</volume>, <fpage>4691</fpage>&#x02013;<lpage>4695</lpage>.<pub-id pub-id-type="pmid">21292775</pub-id></mixed-citation></ref><ref id="bjh14401-bib-0029"><mixed-citation publication-type="journal" id="bjh14401-cit-0029">
+<string-name>
+<surname>Rajkumar</surname>, <given-names>S.V.</given-names>
+</string-name>, <string-name>
+<surname>Dimopoulos</surname>, <given-names>M.A.</given-names>
+</string-name>, <string-name>
+<surname>Palumbo</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Blade</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Merlini</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Mateos</surname>, <given-names>M.V.</given-names>
+</string-name>, <string-name>
+<surname>Kumar</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Hillengass</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Kastritis</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Richardson</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Landgren</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Paiva</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Dispenzieri</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Weiss</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Leleu</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Zweegman</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Lonial</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Rosinol</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Zamagni</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Jagannath</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Sezer</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Kristinsson</surname>, <given-names>S.V.</given-names>
+</string-name>, <string-name>
+<surname>Caers</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Usmani</surname>, <given-names>S.Z.</given-names>
+</string-name>, <string-name>
+<surname>Lahurta</surname>, <given-names>J.J.</given-names>
+</string-name>, <string-name>
+<surname>Johnsen</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Beksac</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Cavo</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Goldschmidt</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Terpos</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Kyle</surname>, <given-names>R.A.</given-names>
+</string-name>, <string-name>
+<surname>Anderson</surname>, <given-names>K.C.</given-names>
+</string-name>
+<string-name>
+<surname>Durie</surname>, <given-names>B.G.M.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>San Miguel</surname>, <given-names>J.F.</given-names>
+</string-name>. (<year>2014</year>) <article-title>International Myeloma Working Group updated criteria for the diagnosis of multiple myeloma</article-title>. <source>The Lancet Oncology</source>, <volume>15</volume>, <fpage>e538</fpage>&#x02013;<lpage>e548</lpage>.<pub-id pub-id-type="pmid">25439696</pub-id></mixed-citation></ref><ref id="bjh14401-bib-0030"><mixed-citation publication-type="journal" id="bjh14401-cit-0030">
+<string-name>
+<surname>Regelink</surname>, <given-names>J.C.</given-names>
+</string-name>, <string-name>
+<surname>Minnema</surname>, <given-names>M.C.</given-names>
+</string-name>, <string-name>
+<surname>Terpos</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Kamphuis</surname>, <given-names>M.H.</given-names>
+</string-name>, <string-name>
+<surname>Rajimakers</surname>, <given-names>P.G.</given-names>
+</string-name>, <string-name>
+<surname>Pieters&#x02010;van den Bos</surname>, <given-names>I.C.</given-names>
+</string-name>, <string-name>
+<surname>Heggelman</surname>, <given-names>B.G.</given-names>
+</string-name>, <string-name>
+<surname>Nievelstein</surname>, <given-names>R.J.</given-names>
+</string-name>, <string-name>
+<surname>Otten</surname>, <given-names>R.H.</given-names>
+</string-name>, <string-name>
+<surname>van Lammeren&#x02010;Venema</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Zijlstra</surname>, <given-names>J.M.</given-names>
+</string-name>, <string-name>
+<surname>Arens</surname>, <given-names>A.I.</given-names>
+</string-name>, <string-name>
+<surname>de Rooy</surname>, <given-names>J.W.</given-names>
+</string-name>, <string-name>
+<surname>Hoekstra</surname>, <given-names>O.S.</given-names>
+</string-name>, <string-name>
+<surname>Raymakers</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Sonneveld</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Ostelo</surname>, <given-names>R.W.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Zweegman</surname>, <given-names>S.</given-names>
+</string-name> (<year>2013</year>) <article-title>Comparison of modern and conventional imaging techniques in establishing multiple myeloma&#x02010;related bone disease: a systematic review</article-title>. <source>British Journal of Haematology</source>, <volume>162</volume>, <fpage>50</fpage>&#x02013;<lpage>61</lpage>.<pub-id pub-id-type="pmid">23617231</pub-id></mixed-citation></ref><ref id="bjh14401-bib-0031"><mixed-citation publication-type="journal" id="bjh14401-cit-0031">
+<string-name>
+<surname>Rosenkrantz</surname>, <given-names>A.B.</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Lim</surname>, <given-names>R.P.</given-names>
+</string-name>, <string-name>
+<surname>Hindman</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Deng</surname>, <given-names>F.M.</given-names>
+</string-name>, <string-name>
+<surname>Babb</surname>, <given-names>J.S.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Taneja</surname>, <given-names>S.S.</given-names>
+</string-name> (<year>2013</year>) <article-title>Prostate cancer localization using multiparametric MR imaging: comparison of Prostate Imaging Reporting and Data System (PI&#x02010;RADS) and Likert scales</article-title>. <source>Radiology</source>, <volume>269</volume>, <fpage>482</fpage>&#x02013;<lpage>492</lpage>.<pub-id pub-id-type="pmid">23788719</pub-id></mixed-citation></ref><ref id="bjh14401-bib-0032"><mixed-citation publication-type="journal" id="bjh14401-cit-0032">
+<string-name>
+<surname>Smith</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Stephenson</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Percy</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Lach</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Chatters</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Kempski</surname>, <given-names>H.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Yong</surname>, <given-names>K.</given-names>
+</string-name> (<year>2015</year>) <article-title>Cohort analysis of FISH testing of CD138<sup>+</sup> cells in relapsed multiple myeloma: implications for prognosis and choice of therapy</article-title>. <source>British Journal of Haematology</source>, <volume>171</volume>, <fpage>881</fpage>&#x02013;<lpage>883</lpage>.<pub-id pub-id-type="pmid">25899469</pub-id></mixed-citation></ref><ref id="bjh14401-bib-0033"><mixed-citation publication-type="journal" id="bjh14401-cit-0033">
+<string-name>
+<surname>Takasu</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Tani</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Sakoda</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Ishikawa</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Tanitame</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Date</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Akiyama</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Sakai</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Asaoku</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Kajima</surname>, <given-names>T.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Awai</surname>, <given-names>K.</given-names>
+</string-name> (<year>2012</year>) <article-title>Iterative decomposition of water and fat with echo asymmetry and least&#x02010;squares estimation (IDEAL) imaging of multiple myeloma: initial clinical efficiency results</article-title>. <source>European Radiology</source>, <volume>22</volume>, <fpage>1114</fpage>&#x02013;<lpage>1121</lpage>.<pub-id pub-id-type="pmid">22138735</pub-id></mixed-citation></ref><ref id="bjh14401-bib-0034"><mixed-citation publication-type="journal" id="bjh14401-cit-0034">
+<string-name>
+<surname>Takasu</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Kaichi</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Tani</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Date</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Akiyama</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Kuroda</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Sakai</surname>, <given-names>A.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Awai</surname>, <given-names>K.</given-names>
+</string-name> (<year>2015</year>) <article-title>Iterative decomposition of water and fat with echo asymmetry and least&#x02010;Squares estimation (IDEAL) magnetic resonance imaging as a biomarker for symptomatic multiple myeloma</article-title>. <source>PLoS One</source>, doi:<ext-link ext-link-type="doi" xlink:href="10.1371/journal.pone.0116842">10.1371/journal.pone.0116842</ext-link>
+</mixed-citation></ref><ref id="bjh14401-bib-0035"><mixed-citation publication-type="journal" id="bjh14401-cit-0035">
+<string-name>
+<surname>Vij</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Kumar</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>M.J.</given-names>
+</string-name>, <string-name>
+<surname>Zhong</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Dispenzieri</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Abidi</surname>, <given-names>M.H.</given-names>
+</string-name>, <string-name>
+<surname>Bird</surname>, <given-names>J.M.</given-names>
+</string-name>, <string-name>
+<surname>Freytes</surname>, <given-names>C.O.</given-names>
+</string-name>, <string-name>
+<surname>Gale</surname>, <given-names>R.P.</given-names>
+</string-name>, <string-name>
+<surname>Kindwall&#x02010;Keller</surname>, <given-names>T.L.</given-names>
+</string-name>, <string-name>
+<surname>Kyle</surname>, <given-names>R.A.</given-names>
+</string-name>, <string-name>
+<surname>Landsburg</surname>, <given-names>D.J.</given-names>
+</string-name>, <string-name>
+<surname>Lazarus</surname>, <given-names>H.M.</given-names>
+</string-name>, <string-name>
+<surname>Munker</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Roy</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Sharma</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Vogl</surname>, <given-names>D.T.</given-names>
+</string-name>, <string-name>
+<surname>Wirk</surname>, <given-names>B.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Hari</surname>, <given-names>P.N.</given-names>
+</string-name> (<year>2015</year>) <article-title>Impact of pretransplant therapy and depth of disease response before autologous transplantation for multiple myeloma</article-title>. <source>Biology of Blood and Marrow Transplantation</source>, <volume>21</volume>, <fpage>335</fpage>&#x02013;<lpage>341</lpage>.<pub-id pub-id-type="pmid">25445028</pub-id></mixed-citation></ref><ref id="bjh14401-bib-0036"><mixed-citation publication-type="journal" id="bjh14401-cit-0036">
+<string-name>
+<surname>Waheed</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Mitchell</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Usmani</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Epstein</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Yaccoby</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Nair</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>van Hemert</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Angtuaco</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Brown</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Bartel</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>McDonald</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Anaissie Evan Rhee</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Crowley</surname>, <given-names>J.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Barlogie</surname>, <given-names>B.</given-names>
+</string-name> (<year>2013</year>) <article-title>Standard and novel imaging methods for multiple myeloma: correlates with prognostic laboratory variables including gene expression profiling data</article-title>. <source>Haematologica</source>, <volume>98</volume>, <fpage>71</fpage>&#x02013;<lpage>78</lpage>.<pub-id pub-id-type="pmid">22733020</pub-id></mixed-citation></ref><ref id="bjh14401-bib-0037"><mixed-citation publication-type="journal" id="bjh14401-cit-0037">
+<string-name>
+<surname>Walker</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Barlogie</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Haessler</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Tricot</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Anaissie</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Shaughnessy</surname>, <given-names>J.D.</given-names>
+<suffix>Jr</suffix>
+</string-name>, <string-name>
+<surname>Epstein</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>van Hemert</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Erdem</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Hoering</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Crowley</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Hollmig</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>van Rhee</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Zamagni</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Pineda&#x02010;Roman</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Mohiuddin</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Yaccoby</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Sawyer</surname>, <given-names>J.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Angtuaco</surname>, <given-names>E.J.</given-names>
+</string-name> (<year>2007</year>) <article-title>Magnetic resonance imaging in multiple myeloma: diagnostic and clinical implications</article-title>. <source>Journal of Clinical Oncology</source>, <volume>25</volume>, <fpage>1121</fpage>&#x02013;<lpage>1128</lpage>.<pub-id pub-id-type="pmid">17296972</pub-id></mixed-citation></ref><ref id="bjh14401-bib-0038"><mixed-citation publication-type="journal" id="bjh14401-cit-0038">
+<string-name>
+<surname>Walker</surname>, <given-names>B.A.</given-names>
+</string-name>, <string-name>
+<surname>Wardell</surname>, <given-names>C.P.</given-names>
+</string-name>, <string-name>
+<surname>Melchor</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Brioli</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Johnson</surname>, <given-names>D.C.</given-names>
+</string-name>, <string-name>
+<surname>Kaiser</surname>, <given-names>M.F.</given-names>
+</string-name>, <string-name>
+<surname>Mirabella</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Lopez&#x02010;Corral</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Humphray</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Murray</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Ross</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Bentley</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Gutierrez</surname>, <given-names>N.C.</given-names>
+</string-name>, <string-name>
+<surname>Garcia&#x02010;Sanz</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>San Miguel</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Davies</surname>, <given-names>F.E.</given-names>
+</string-name>, <string-name>
+<surname>Gonzalez</surname>, <given-names>D.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Morgan</surname>, <given-names>G.J.</given-names>
+</string-name> (<year>2014</year>) <article-title>Intraclonal heterogeneity is a critical early event in the development of myeloma and precedes the development of clinical symptoms</article-title>. <source>Leukemia</source>, <volume>28</volume>, <fpage>384</fpage>&#x02013;<lpage>90</lpage>.<pub-id pub-id-type="pmid">23817176</pub-id></mixed-citation></ref><ref id="bjh14401-bib-0039"><mixed-citation publication-type="journal" id="bjh14401-cit-0039">
+<string-name>
+<surname>Zamagni</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Nanni</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Patriarca</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Englaro</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Castellucci</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Geatti</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Tosi</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Cangini</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Perrone</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Ceccolini</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Brioli</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Buttignol</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Fanin</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Salizzoni</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Baccarani</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Fanti</surname>, <given-names>S.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Cavo</surname>, <given-names>M.</given-names>
+</string-name> (<year>2007</year>) <article-title>A prospective comparison of 18F&#x02010;fluorodeoxyglucose positron emission tomography&#x02010;computed tomography, magnetic resonance imaging and whole&#x02010;body planar radiographs in the assessment of bone disease in newly diagnosed multiple myeloma</article-title>. <source>Haematologica</source>, <volume>92</volume>, <fpage>50</fpage>&#x02013;<lpage>55</lpage>.<pub-id pub-id-type="pmid">17229635</pub-id></mixed-citation></ref><ref id="bjh14401-bib-0040"><mixed-citation publication-type="journal" id="bjh14401-cit-0040">
+<string-name>
+<surname>Zamagni</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Patriarca</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Nanni</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Zannetti</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Englaro</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Pezzi</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Tacchetti</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Buttignol</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Perrone</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Brioli</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Pantani</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Terragna</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Carbolante</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Baccarani</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Fanin</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Fanti</surname>, <given-names>S.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Cavo</surname>, <given-names>M.</given-names>
+</string-name> (<year>2011</year>) <article-title>Prognostic relevance of 18&#x02010;F FDG PET/CT in newly diagnosed multiple myeloma patients treated with up&#x02010;front autologous transplantation</article-title>. <source>Blood</source>, <volume>118</volume>, <fpage>5989</fpage>&#x02013;<lpage>5995</lpage>.<pub-id pub-id-type="pmid">21900189</pub-id></mixed-citation></ref><ref id="bjh14401-bib-0041"><mixed-citation publication-type="journal" id="bjh14401-cit-0041">
+<string-name>
+<surname>Zamagni</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Nanni</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Mancuso</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Tacchetti</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Pezzi</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Pantani</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Zannetti</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Rambaldi</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Brioli</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Rocchi</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Terragna</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Martello</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Marzocchi</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Borsi</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Rizzello</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Fanti</surname>, <given-names>S.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Cavo</surname>, <given-names>M.</given-names>
+</string-name> (<year>2015</year>) <article-title>PET/CT improves the definition of complete response and allows to detect otherwise unidentifiable skeletal progression in multiple myeloma</article-title>. <source>Clinical Cancer Research</source>, <volume>21</volume>, <fpage>4384</fpage>&#x02013;<lpage>4390</lpage>.<pub-id pub-id-type="pmid">26078390</pub-id></mixed-citation></ref></ref-list></back></article>

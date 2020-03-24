@@ -1,0 +1,648 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:ali="http://www.niso.org/schemas/ali/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="review-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Braz J Microbiol</journal-id><journal-id journal-id-type="iso-abbrev">Braz. J. Microbiol</journal-id><journal-id journal-id-type="publisher-id">bjm</journal-id><journal-title-group><journal-title>Brazilian Journal of Microbiology</journal-title></journal-title-group><issn pub-type="ppub">1517-8382</issn><issn pub-type="epub">1678-4405</issn><publisher><publisher-name>Sociedade Brasileira de Microbiologia</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">26273247</article-id><article-id pub-id-type="pmc">4507524</article-id><article-id pub-id-type="doi">10.1590/S1517-838246220140359</article-id><article-categories><subj-group subj-group-type="heading"><subject>Review</subject></subj-group></article-categories><title-group><article-title>A biotechnology perspective of fungal proteases</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>de Souza</surname><given-names>Paula Monteiro</given-names></name><xref ref-type="aff" rid="aff01">1</xref></contrib><contrib contrib-type="author"><name><surname>Bittencourt</surname><given-names>Mona Lisa de Assis</given-names></name><xref ref-type="aff" rid="aff02">2</xref></contrib><contrib contrib-type="author"><name><surname>Caprara</surname><given-names>Carolina Canielles</given-names></name><xref ref-type="aff" rid="aff02">2</xref></contrib><contrib contrib-type="author"><name><surname>de Freitas</surname><given-names>Marcela</given-names></name><xref ref-type="aff" rid="aff02">2</xref></contrib><contrib contrib-type="author"><name><surname>de Almeida</surname><given-names>Renata Paula Coppini</given-names></name><xref ref-type="aff" rid="aff02">2</xref></contrib><contrib contrib-type="author"><name><surname>Silveira</surname><given-names>D&#x000e2;maris</given-names></name><xref ref-type="aff" rid="aff02">2</xref></contrib><contrib contrib-type="author"><name><surname>Fonseca</surname><given-names>Yris Maria</given-names></name><xref ref-type="aff" rid="aff02">2</xref></contrib><contrib contrib-type="author"><name><surname>Ferreira</surname><given-names>Edivaldo Ximenes</given-names><suffix>Filho</suffix></name><xref ref-type="aff" rid="aff03">3</xref></contrib><contrib contrib-type="author"><name><surname>Pessoa</surname><given-names>Adalberto</given-names><suffix>Junior</suffix></name><xref ref-type="aff" rid="aff01">1</xref></contrib><contrib contrib-type="author"><name><surname>Magalh&#x000e3;es</surname><given-names>P&#x000e9;rola Oliveira</given-names></name><xref ref-type="aff" rid="aff02">2</xref><xref rid="c01" ref-type="corresp"/></contrib></contrib-group><aff id="aff01"><label>1</label>Universidade de S&#x000e3;o Paulo, Departamento de Tecnologia
+Bioquimico-Farmac&#x000ea;utica, Faculdade de Ci&#x000ea;ncias
+Farmac&#x000ea;uticas, Universidade de S&#x000e3;o Paulo, S&#x000e3;o Paulo, SP, Brasil, Departamento de Tecnologia
+Bioquimico-Farmac&#x000ea;utica, Faculdade de Ci&#x000ea;ncias Farmac&#x000ea;uticas, Universidade de
+S&#x000e3;o Paulo, S&#x000e3;o Paulo, SP, Brazil.</aff><aff id="aff02"><label>2</label>Universidade de Bras&#x000ed;lia, Departamento de Farm&#x000e1;cia, Faculdade de Ci&#x000ea;ncias da Sa&#x000fa;de, Universidade de Bras&#x000ed;lia, Bras&#x000ed;lia, DF, Brasil, Departamento de Farm&#x000e1;cia, Faculdade de Ci&#x000ea;ncias
+da Sa&#x000fa;de, Universidade de Bras&#x000ed;lia, Bras&#x000ed;lia, DF, Brazil.</aff><aff id="aff03"><label>3</label>Universidade de Bras&#x000ed;lia, Laborat&#x000f3;rio de Enzimologia, Departamento de Biologia Celular, Universidade de Bras&#x000ed;lia, Bras&#x000ed;lia, DF, Brasil, Laborat&#x000f3;rio de Enzimologia, Departamento de
+Biologia Celular, Universidade de Bras&#x000ed;lia, Bras&#x000ed;lia, DF, Brazil.</aff><author-notes><corresp id="c01">Send correspondence to P.O. Magalh&#x000e3;es. Departamento de Farm&#x000e1;cia,
+Faculdade de Ci&#x000ea;ncias da Sa&#x000fa;de, Universidade de Bras&#x000ed;lia, Bras&#x000ed;lia, DF, Brazil.
+E-mail: <email>perolam@hotmail.com</email>.</corresp><fn id="fn01" fn-type="other"><p>Associate Editor: Adalberto Pessoa Junior</p></fn></author-notes><pub-date pub-type="epub"><day>01</day><month>6</month><year>2015</year></pub-date><pub-date pub-type="collection"><month>6</month><year>2015</year></pub-date><volume>46</volume><issue>2</issue><fpage>337</fpage><lpage>346</lpage><history><date date-type="received"><day>29</day><month>4</month><year>2014</year></date><date date-type="accepted"><day>30</day><month>8</month><year>2014</year></date></history><permissions><copyright-statement>Copyright &#x000a9; 2015, Sociedade Brasileira de
+Microbiologia</copyright-statement><copyright-year>2015</copyright-year><license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/3.0/"><license-p>All the content of the journal, except where otherwise noted, is
+licensed under a Creative Commons License CC BY-NC.</license-p></license></permissions><abstract><p>Proteases hydrolyze the peptide bonds of proteins into peptides and amino acids,
+being found in all living organisms, and are essential for cell growth and
+differentiation. Proteolytic enzymes have potential application in a wide number
+of industrial processes such as food, laundry detergent and pharmaceutical.
+Proteases from microbial sources have dominated applications in industrial
+sectors. Fungal proteases are used for hydrolyzing protein and other components
+of soy beans and wheat in soy sauce production. Proteases can be produced in
+large quantities in a short time by established methods of fermentation. The
+parameters such as variation in C/N ratio, presence of some sugars, besides
+several other physical factors are important in the development of fermentation
+process. Proteases of fungal origin can be produced cost effectively, have an
+advantage faster production, the ease with which the enzymes can be modified and
+mycelium can be easily removed by filtration. The production of proteases has
+been carried out using submerged fermentation, but conditions in solid state
+fermentation lead to several potential advantages for the production of fungal
+enzymes. This review focuses on the production of fungal proteases, their
+distribution, structural-functional aspects, physical and chemical parameters,
+and the use of these enzymes in industrial applications.</p></abstract><kwd-group><kwd>proteases</kwd><kwd>enzyme production</kwd><kwd>fungal protease</kwd><kwd>industrial application</kwd></kwd-group><counts><fig-count count="0"/><table-count count="1"/><equation-count count="0"/><ref-count count="78"/><page-count count="10"/></counts></article-meta></front><body><sec sec-type="intro"><title>Introduction</title><p>Microbial proteases are among the most important hydrolytic enzymes and have been
+studied extensively. Proteases from microorganisms have attracted a great deal of
+attention in the last decade because of their biotechnology potential in various
+industrial processes such as detergent, textile, leather, dairy and pharmaceutical
+preparations. Although proteolytic enzymes from microorganisms are the source
+preferred in industrial application of enzymes due to the technical and economic
+advantage (<xref rid="B55" ref-type="bibr">Saran <italic>et al.</italic>,
+2007</xref>). Microbial proteases are among the most important hydrolytic
+enzymes and have been studied extensively. This group represents one of the largest
+groups of industrial enzymes and accounts for approximately 60% of the total enzyme
+sales in the world (<xref rid="B76" ref-type="bibr">Zambare <italic>et al.</italic>,
+2011</xref>). Fungal proteases have attracted the attention of environmental
+biotechnologists because fungi can grow on low cost substrates and secrete large
+amount of enzymes into culture medium which could ease downstream processing (<xref rid="B06" ref-type="bibr">Anitha and Palanivelu, 2013</xref>). In this present
+review, some aspects of fungal proteolytic enzymes are discussed, with reference to
+the production of protease, their distribution and their industrial
+applications.</p></sec><sec><title>Proteases</title><p>Proteases (peptidases or proteolytic enzymes) constitute a large group of enzymes
+that catalyse the hydrolysis of peptide bonds in other proteins. Cleavage of peptide
+bonds lead to degradation of protein substrates into their constituent amino acids,
+or it can be specific, leading to selective protein cleavage for post-translational
+modification and processing. Proteases are classified as peptide hydrolases or
+peptidases (EC 3.4) and constitute a large family of enzymes, divided into
+endopeptidases (EC 3.4.21-99) and exopeptidases (EC 3.4.11-19), classified according
+to the position of the peptide bond to be cleaved. They can also be classified
+according to the pH range which they have a higher activity: acidic (pH 2.0 to 6.0),
+neutral (pH 6.0 to 8.0) and alkaline (pH 8.0 to 13.0) (<xref rid="B21" ref-type="bibr">Gupta <italic>et al.</italic>, 2002</xref>; <xref rid="B51" ref-type="bibr">Rao <italic>et al.</italic>, 1998</xref>; <xref rid="B53" ref-type="bibr">Sabotic and Kos, 2012</xref>).</p><p>The proteolytic enzymes are subdivided into two major groups, exopeptidases and
+endopeptidases, depending on their site of action. The exopeptidases act only near
+the ends of polypeptide chains. Based on their site of action at the N or C
+terminus, they are classified as amino and carboxypeptidases. Aminopeptidases (EC
+3.4.14) act at a free N terminus of the polypeptide chain and liberate a single
+amino acid residue, a dipeptide, or a tripeptide. And the carboxypeptidases act at C
+terminals of the polypeptide chain and liberate a single amino acid or a dipeptide.
+Carboxypeptidases can be divided into three major groups, serine peptidases (EC
+2.4.16), metallopeptidases (EC 2.4.17), and cysteine peptidases (EC 2.4.18), based
+on the nature of the amino acid residues at the active site of the enzymes.
+Endopeptidases are characterized by their preferential action at the peptide bonds
+in the inner regions of the polypeptide chain. The endopeptidases are divided into
+four subgroups based on their catalytic mechanism, serine proteases (EC 2.4.21),
+cysteine proteases (EC 2.4.22), aspartic proteases (EC 2.4.23), metalloproteases (EC
+2.4.24) (<xref rid="B51" ref-type="bibr">Rao <italic>et al.</italic>,
+1998</xref>).</p><p>Serine proteases are characterized by the presence of a serine group in their active
+site. They are generally active at neutral and alkaline pH, with optima at pH 7&#x02013;11,
+low molecular mass (18&#x02013;35 kDa) and have applications in a number of industries
+(<xref rid="B21" ref-type="bibr">Gupta <italic>et al.</italic>, 2002</xref>).
+Aspartic acid proteases, commonly known as acidic proteases, are the endopeptidases
+that depend on aspartic acid residues for their catalytic activity. The activity of
+all cysteine proteases depends on a catalytic dyad consisting of cysteine and
+histidine. Generally, cysteine proteases are active only in the presence of reducing
+agents such as HCN or cysteine. Papain is the best-known cysteine protease.
+Metalloproteases are the most diverse of the catalytic types of proteases. They are
+characterized by the requirement for a divalent metal ion for their activity (<xref rid="B51" ref-type="bibr">Rao <italic>et al.</italic>, 1998</xref>; <xref rid="B68" ref-type="bibr">Vranova <italic>et al.</italic>, 2013</xref>).</p><p>Proteases occur in animals, plants and microorganism, and have critical role in many
+physiological and pathological processes such as protein catabolism, blood
+coagulation, cell growth and migration, tissue arrangement, morphogenesis in
+development, inflammation, tumor growth and metastasis, activation of zymogens,
+release of hormones and pharmacologically active peptides from precursor proteins,
+and transport of secretory proteins across membranes (<xref rid="B51" ref-type="bibr">Rao <italic>et al.</italic>, 1998</xref>). Extracellular
+proteases catalyse the hydrolysis of proteins into smaller peptides and amino acids
+for subsequent absorption into cells, constituting a very important step in nitrogen
+metabolism (<xref rid="B53" ref-type="bibr">Sabotic and Kos, 2012</xref>).</p></sec><sec><title>Protease Production</title><p>Proteases can be cultured in large quantities in a relatively short time by
+established methods of fermentation and they also produce an abundant, regular
+supply of the desired product (<xref rid="B21" ref-type="bibr">Gupta <italic>et
+al.</italic>, 2002</xref>). In general, microbial proteases are
+extracellular in nature and are directly secreted into the fermentation broth by the
+producer, thus simplifying downstream processing of the enzyme as compared to
+proteases obtained from plants and animals (<xref rid="B56" ref-type="bibr">Savitha
+<italic>et al.</italic>, 2011</xref>).</p><p>Microorganisms elaborate a large array of proteases, which are intracellular and
+extracellular. Intracellular proteases are important for various cellular and
+metabolic processes, such as sporulation and differentiation, protein turnover,
+maturation of enzymes and hormones and maintenance of the cellular protein pool.
+Extracellular proteases are important for the hydrolysis of proteins in cell-free
+environments and enable the cell to absorb and utilize hydrolytic products (<xref rid="B21" ref-type="bibr">Gupta <italic>et al.</italic>, 2002</xref>).</p><p>On an industrial scale, exoproteases are produced in complex media containing glucose
+and other costly substrates. Cultivation conditions are essential in successful
+enzyme production, that's why optimization of parameters such as pH, temperature and
+media composition must be controlled in process development (<xref rid="B01" ref-type="bibr">Abidi <italic>et al.</italic>, 2011</xref>). Specifically, the
+protease production is mainly influenced by the variation in C/N ratio, presence of
+some easily metabolizable sugars, such as glucose, and metal ion, besides several
+other physical factors, such as aeration, inoculum density, pH, temperature and
+incubation time. Protease synthesis is also affected by rapidly metabolizable
+nitrogen sources, such as amino acids in the medium (<xref rid="B21" ref-type="bibr">Gupta <italic>et al.</italic>, 2002</xref>). For improving protease production,
+have been used screening for hyper-producing strains, cloning and over-expression,
+controlled batch and fed-batch fermentations using simultaneous control of glucose,
+ammonium ion concentration, oxygen tension, pH and salt availability, chemostat
+fermentations, and optimization of the fermentation medium through a statistical
+approach, such as response surface methodology (<xref rid="B21" ref-type="bibr">Gupta <italic>et al.</italic>, 2002</xref>).</p><p>Filamentous fungi are used in many industrial processes for the production of enzymes
+and metabolites. Among the many advantages offered by the production of enzymes by
+fungi are low material costs coupled with high productivity, faster production, and
+the ease with which the enzymes can be modified. Further, the enzymes, being
+normally extracellular, are easily recoverable from the media (<xref rid="B66" ref-type="bibr">Vishwanatha <italic>et al.</italic>, 2010b</xref>). Proteases
+production of fungal origin have an advantage over bacterial protease as mycelium
+can be easily removed by filtration. Besides, the use of fungi as enzyme producer is
+safer than the use of bacteria, since they are normally recognised as GRAS
+(generally regarded as safe) (<xref rid="B19" ref-type="bibr">Germano <italic>et
+al.</italic>, 2003</xref>).</p><p>Proteases have been produced in submerged (SmF) and solid-state fermentations (SSF),
+and each technique has particular advantages the other unable to match (<xref rid="B54" ref-type="bibr">Sandhya <italic>et al.</italic>, 2005</xref>; <xref rid="B60" ref-type="bibr">Sun and Xu, 2009</xref>). SSF has certain advantages
+over the conventional SmF, like low production cost, uses raw materials as
+substrates, requires less energy and space, encounters less problems in downstream
+processing, stability of the product due to less dilution in the medium, and
+manufactures with higher productivity (<xref rid="B15" ref-type="bibr">Das and
+Mukherjee, 2007</xref>; <xref rid="B60" ref-type="bibr">Sun and Xu,
+2009</xref>). SmF has advantages in process control and easy recovery of
+extracellular enzymes, mycelia or spores. However, the products are dilute and
+enzymatic extracts might be less stable than those from SSF. The major problems in
+large-scale SSF for fungal growth are the limited water and heat removal. In SmF,
+water is abundantly present and variations on temperature, oxygen concentration and
+nutrients are small (<xref rid="B08" ref-type="bibr">Biesebeke <italic>et
+al.</italic>, 2002</xref>). In addition, the minimal amount of water allows
+the production of metabolites in a more concentrated form, making the downstream
+processing less time consuming and less expensive. However, the conditions in SSF,
+especially the low moisture content in the system, lead to several potential
+advantages for the production of fungal enzymes. Firstly, these conditions favour
+the growth of filamentous fungi, which typically grow in nature on solid substrates,
+such as pieces of wood, leaves and roots of plants and other organic natural
+materials. Secondly, the low moisture content can minimize problems with bacterial
+contamination during the fermentation. Finally, the environmental conditions in
+solid-state fermentation can stimulate the microorganism to produce enzymes with
+different properties than those of enzymes produced by the same organism under the
+conditions experienced in submerged fermentation (<xref rid="B19" ref-type="bibr">Germano <italic>et al.</italic>, 2003</xref>).</p><p>Different mechanisms have been described to regulate the synthesis and secretion of
+extracellular protease. The presence of a substrate can induce protease secretion.
+High levels of end products, such as amino acids, NH<sup>+</sup>
+<sub>4</sub> and
+easily metabolizable sources of carbon may repress production. On the other hand,
+protease production may be increased when insufficient levels of carbon, nitrogen or
+sulfur are available. Finally, extracellular enzymes may be secreted constitutively
+at low levels regardless of the availability of a substrate (<xref rid="B18" ref-type="bibr">Geisseler and Horwath, 2008</xref>). The production of proteases
+by microorganisms is known to be influenced by the quality of the nitrogen source.
+Although complex nitrogen sources are usually used for protease production, the
+requirement for a specific nitrogen supplement differs from organism to organism.
+Generally, the fungi produce more proteolytic enzyme on a more complex proteinaceous
+nitrogen sources than on low molecular weight or inorganic nitrogen sources (<xref rid="B32" ref-type="bibr">Kucera, 1981</xref>). Enzyme synthesis was found to be
+repressed by rapidly metabolizable nitrogen sources such as amino acids or ammonium
+ion concentrations in the medium (<xref rid="B33" ref-type="bibr">Kumar and Takagi,
+1999</xref>).</p></sec><sec><title>Fungal Proteases</title><p>In recent years, there have been attempts to produce different types of protease
+trough SmF or SSF, using several different types of substrates. A great number of
+fungal strains have been used to produce proteases belonging to the genera
+<italic>Aspergillus</italic>, <italic>Penicillium</italic>,
+<italic>Rhizopus</italic>, <italic>Mucor</italic>, <italic>Humicola</italic>,
+<italic>Thermoascus</italic>, <italic>Thermomyces</italic>, among others. The
+physical and chemical parameters of protease from fungi have been widely studied and
+described. <xref rid="t01" ref-type="table">Table 1</xref> shows properties of some
+proteases from fungi. It is interesting to notice that although a number of
+substrates have been employed for cultivating different fungi, wheat bran has been
+the preferred choice in most of the studies.</p><table-wrap id="t01" orientation="portrait" position="float"><label>Table 1</label><caption><title>Properties of some fungal proteases.</title></caption><table frame="hsides" rules="groups"><thead><tr><th valign="bottom" align="left" rowspan="1" colspan="1">Fungi</th><th valign="bottom" align="center" rowspan="1" colspan="1">Fermentation</th><th valign="bottom" align="center" rowspan="1" colspan="1">pH optimal/stability</th><th valign="bottom" align="center" rowspan="1" colspan="1">Temperature optimal/stability</th><th valign="bottom" align="center" rowspan="1" colspan="1">Total/specific activity (U)</th><th valign="bottom" align="center" rowspan="1" colspan="1">Type of protease</th><th valign="bottom" align="center" rowspan="1" colspan="1">Type of substrate</th><th valign="bottom" align="left" rowspan="1" colspan="1">Reference</th></tr></thead><tbody><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>Aspergillus</italic> sp.
+13.33</td><td valign="top" align="center" rowspan="1" colspan="1">SSF</td><td valign="top" align="center" rowspan="1" colspan="1">-</td><td valign="top" align="center" rowspan="1" colspan="1">45 &#x000b0;C</td><td valign="top" align="center" rowspan="1" colspan="1">844.6</td><td valign="top" align="center" rowspan="1" colspan="1">-</td><td valign="top" align="center" rowspan="1" colspan="1">Wheat bran</td><td valign="top" align="left" rowspan="1" colspan="1">(<xref rid="B40" ref-type="bibr">Macchione
+<italic>et al.</italic>, 2008</xref>)</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>Aspergillus</italic> sp.
+13.34</td><td valign="top" align="center" rowspan="1" colspan="1">SSF</td><td valign="top" align="center" rowspan="1" colspan="1">-</td><td valign="top" align="center" rowspan="1" colspan="1">45 &#x000b0;C</td><td valign="top" align="center" rowspan="1" colspan="1">469.6</td><td valign="top" align="center" rowspan="1" colspan="1">-</td><td valign="top" align="center" rowspan="1" colspan="1">Wheat bran</td><td valign="top" align="left" rowspan="1" colspan="1">(<xref rid="B40" ref-type="bibr">Macchione
+<italic>et al.</italic>, 2008</xref>)</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>Aspergillus</italic> sp.
+13.35</td><td valign="top" align="center" rowspan="1" colspan="1">SSF</td><td valign="top" align="center" rowspan="1" colspan="1">-</td><td valign="top" align="center" rowspan="1" colspan="1">45 &#x000b0;C</td><td valign="top" align="center" rowspan="1" colspan="1">640.5</td><td valign="top" align="center" rowspan="1" colspan="1">-</td><td valign="top" align="center" rowspan="1" colspan="1">Wheat bran</td><td valign="top" align="left" rowspan="1" colspan="1">(<xref rid="B40" ref-type="bibr">Macchione
+<italic>et al.</italic>, 2008</xref>)</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>Aspergillus</italic> sp.</td><td valign="top" align="center" rowspan="1" colspan="1">SSF</td><td valign="top" align="center" rowspan="1" colspan="1">-</td><td valign="top" align="center" rowspan="1" colspan="1">30 &#x000b0;C</td><td valign="top" align="center" rowspan="1" colspan="1">107.66</td><td valign="top" align="center" rowspan="1" colspan="1">-</td><td valign="top" align="center" rowspan="1" colspan="1">Soybean</td><td valign="top" align="left" rowspan="1" colspan="1">(<xref rid="B49" ref-type="bibr">Rajmalwar
+and Dabholkar, 2009</xref>)</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>Aspergillus awamori</italic>
+</td><td valign="top" align="center" rowspan="1" colspan="1">SmF</td><td valign="top" align="center" rowspan="1" colspan="1">5.0</td><td valign="top" align="center" rowspan="1" colspan="1">55 &#x000b0;C</td><td valign="top" align="center" rowspan="1" colspan="1">-</td><td valign="top" align="center" rowspan="1" colspan="1">Acid protease</td><td valign="top" align="center" rowspan="1" colspan="1">Wheat bran</td><td valign="top" align="left" rowspan="1" colspan="1">(<xref rid="B45" ref-type="bibr">Negi and
+Banerjee, 2009</xref>)</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>Aspergillus clavatus</italic>
+ES1</td><td valign="top" align="center" rowspan="1" colspan="1">SmF</td><td valign="top" align="center" rowspan="1" colspan="1">8.5</td><td valign="top" align="center" rowspan="1" colspan="1">50 &#x000b0;C</td><td valign="top" align="center" rowspan="1" colspan="1">4970</td><td valign="top" align="center" rowspan="1" colspan="1">Alkaline protease</td><td valign="top" align="center" rowspan="1" colspan="1">Wheat bran, fish flour</td><td valign="top" align="left" rowspan="1" colspan="1">(<xref rid="B23" ref-type="bibr">Hajji
+<italic>et al.</italic>, 2007</xref>)</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>Aspergillus flavus</italic>
+1.2</td><td valign="top" align="center" rowspan="1" colspan="1">SSF</td><td valign="top" align="center" rowspan="1" colspan="1">-</td><td valign="top" align="center" rowspan="1" colspan="1">45 &#x000b0;C</td><td valign="top" align="center" rowspan="1" colspan="1">117.6</td><td valign="top" align="center" rowspan="1" colspan="1">-</td><td valign="top" align="center" rowspan="1" colspan="1">Wheat bran</td><td valign="top" align="left" rowspan="1" colspan="1">(<xref rid="B40" ref-type="bibr">Macchione
+<italic>et al.</italic>, 2008</xref>)</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>Aspergillus flavus</italic>
+</td><td valign="top" align="center" rowspan="1" colspan="1">SSF</td><td valign="top" align="center" rowspan="1" colspan="1">7.5&#x02013;9.5</td><td valign="top" align="center" rowspan="1" colspan="1">32 &#x000b0;C</td><td valign="top" align="center" rowspan="1" colspan="1">6.8</td><td valign="top" align="center" rowspan="1" colspan="1">Alkaline protease</td><td valign="top" align="center" rowspan="1" colspan="1">Wheat bran</td><td valign="top" align="left" rowspan="1" colspan="1">(<xref rid="B42" ref-type="bibr">Malathi
+and Chakraborty, 1991</xref>)</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>Aspergillus flavus</italic>
+</td><td valign="top" align="center" rowspan="1" colspan="1">SSF</td><td valign="top" align="center" rowspan="1" colspan="1">7.5</td><td valign="top" align="center" rowspan="1" colspan="1">45 &#x000b0;C</td><td valign="top" align="center" rowspan="1" colspan="1">640</td><td valign="top" align="center" rowspan="1" colspan="1">Alkaline serine</td><td valign="top" align="center" rowspan="1" colspan="1">Wheat bran</td><td valign="top" align="left" rowspan="1" colspan="1">(<xref rid="B31" ref-type="bibr">Kranthi
+<italic>et al.</italic>, 2012</xref>)</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>Aspergillus flavus</italic>
+</td><td valign="top" align="center" rowspan="1" colspan="1">SSF</td><td valign="top" align="center" rowspan="1" colspan="1">7.0</td><td valign="top" align="center" rowspan="1" colspan="1">36 &#x000b0;C</td><td valign="top" align="center" rowspan="1" colspan="1">1894</td><td valign="top" align="center" rowspan="1" colspan="1">Alkaline protease</td><td valign="top" align="center" rowspan="1" colspan="1">Wheat bran, soy protein</td><td valign="top" align="left" rowspan="1" colspan="1">(<xref rid="B03" ref-type="bibr">Agrawal
+<italic>et al.</italic>, 2005</xref>)</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>Aspergillus fumigates</italic>
+</td><td valign="top" align="center" rowspan="1" colspan="1">SSF</td><td valign="top" align="center" rowspan="1" colspan="1">8.0</td><td valign="top" align="center" rowspan="1" colspan="1">50 &#x000b0;C</td><td valign="top" align="center" rowspan="1" colspan="1">-</td><td valign="top" align="center" rowspan="1" colspan="1">Serine protease</td><td valign="top" align="center" rowspan="1" colspan="1">Wheat bran</td><td valign="top" align="left" rowspan="1" colspan="1">(<xref rid="B58" ref-type="bibr">Silva
+<italic>et al.</italic>, 2010</xref>)</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>Aspergillus niger</italic>
+</td><td valign="top" align="center" rowspan="1" colspan="1">SmF</td><td valign="top" align="center" rowspan="1" colspan="1">4.0</td><td valign="top" align="center" rowspan="1" colspan="1">30 &#x000b0;C</td><td valign="top" align="center" rowspan="1" colspan="1">200</td><td valign="top" align="center" rowspan="1" colspan="1">Acid protease</td><td valign="top" align="center" rowspan="1" colspan="1">Rice</td><td valign="top" align="left" rowspan="1" colspan="1">(<xref rid="B75" ref-type="bibr">Yang and
+Lin, 1998</xref>)</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>Aspergillus niger</italic>
+</td><td valign="top" align="center" rowspan="1" colspan="1">SmF</td><td valign="top" align="center" rowspan="1" colspan="1">3.0</td><td valign="top" align="center" rowspan="1" colspan="1">27 &#x000b0;C</td><td valign="top" align="center" rowspan="1" colspan="1">3600</td><td valign="top" align="center" rowspan="1" colspan="1">-</td><td valign="top" align="center" rowspan="1" colspan="1">Yeast extract, malt extract, peptone and
+dextrose</td><td valign="top" align="left" rowspan="1" colspan="1">(<xref rid="B46" ref-type="bibr">O'Donnell
+<italic>et al.</italic>, 2001</xref>)</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>Aspergillus oryzae</italic>
+IAM2704</td><td valign="top" align="center" rowspan="1" colspan="1">SmF</td><td valign="top" align="center" rowspan="1" colspan="1">7.0</td><td valign="top" align="center" rowspan="1" colspan="1">30 &#x000b0;C</td><td valign="top" align="center" rowspan="1" colspan="1">1550</td><td valign="top" align="center" rowspan="1" colspan="1">Neutral protease</td><td valign="top" align="center" rowspan="1" colspan="1">Casein, glucose</td><td valign="top" align="left" rowspan="1" colspan="1">(<xref rid="B47" ref-type="bibr">Ogawa
+<italic>et al.</italic>, 1995</xref>)</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>Aspergillus oryzae</italic> MTCC
+5341</td><td valign="top" align="center" rowspan="1" colspan="1">SSF</td><td valign="top" align="center" rowspan="1" colspan="1">3.0&#x02013;4.0</td><td valign="top" align="center" rowspan="1" colspan="1">55 &#x000b0;C</td><td valign="top" align="center" rowspan="1" colspan="1">43.658</td><td valign="top" align="center" rowspan="1" colspan="1">Aspartate protease</td><td valign="top" align="center" rowspan="1" colspan="1">Wheat bran</td><td valign="top" align="left" rowspan="1" colspan="1">(<xref rid="B67" ref-type="bibr">Vishwanatha <italic>et al.</italic>, 2009</xref>)</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>Aspergillus oryzae</italic> MTCC
+5341</td><td valign="top" align="center" rowspan="1" colspan="1">SSF</td><td valign="top" align="center" rowspan="1" colspan="1">6.3</td><td valign="top" align="center" rowspan="1" colspan="1">55 &#x000b0;C</td><td valign="top" align="center" rowspan="1" colspan="1">3500</td><td valign="top" align="center" rowspan="1" colspan="1">Aspartate protease</td><td valign="top" align="center" rowspan="1" colspan="1">Wheat bran, Soy flour, Skim milk</td><td valign="top" align="left" rowspan="1" colspan="1">(<xref rid="B65" ref-type="bibr">Vishwanatha <italic>et al.</italic>, 2010a</xref>)</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>Aspergillus oryzae</italic> NCIM
+649</td><td valign="top" align="center" rowspan="1" colspan="1">SSF</td><td valign="top" align="center" rowspan="1" colspan="1">7.0</td><td valign="top" align="center" rowspan="1" colspan="1">36 &#x000b0;C</td><td valign="top" align="center" rowspan="1" colspan="1">6301</td><td valign="top" align="center" rowspan="1" colspan="1">Alkaline protease</td><td valign="top" align="center" rowspan="1" colspan="1">Wheat bran, soy protein</td><td valign="top" align="left" rowspan="1" colspan="1">(<xref rid="B03" ref-type="bibr">Agrawal
+<italic>et al.</italic>, 2005</xref>)</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>Aspergillus oryzae</italic> NCIM
+1212</td><td valign="top" align="center" rowspan="1" colspan="1">SSF</td><td valign="top" align="center" rowspan="1" colspan="1">7.0</td><td valign="top" align="center" rowspan="1" colspan="1">36 &#x000b0;C</td><td valign="top" align="center" rowspan="1" colspan="1">1631</td><td valign="top" align="center" rowspan="1" colspan="1">Alkaline protease</td><td valign="top" align="center" rowspan="1" colspan="1">Wheat bran, soy protein</td><td valign="top" align="left" rowspan="1" colspan="1">(<xref rid="B03" ref-type="bibr">Agrawal
+<italic>et al.</italic>, 2005</xref>)</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>Aspergillus oryzae</italic> NCIM
+1032</td><td valign="top" align="center" rowspan="1" colspan="1">SSF</td><td valign="top" align="center" rowspan="1" colspan="1">7.0</td><td valign="top" align="center" rowspan="1" colspan="1">36 &#x000b0;C</td><td valign="top" align="center" rowspan="1" colspan="1">4744</td><td valign="top" align="center" rowspan="1" colspan="1">Alkaline protease</td><td valign="top" align="center" rowspan="1" colspan="1">Wheat bran, soy protein</td><td valign="top" align="left" rowspan="1" colspan="1">(<xref rid="B03" ref-type="bibr">Agrawal
+<italic>et al.</italic>, 2005</xref>)</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>Aspergillus parasiticus</italic>
+</td><td valign="top" align="center" rowspan="1" colspan="1">SSF</td><td valign="top" align="center" rowspan="1" colspan="1">8.0</td><td valign="top" align="center" rowspan="1" colspan="1">40 &#x000b0;C</td><td valign="top" align="center" rowspan="1" colspan="1">17.65</td><td valign="top" align="center" rowspan="1" colspan="1">Serine protease</td><td valign="top" align="center" rowspan="1" colspan="1">Wheat bran</td><td valign="top" align="left" rowspan="1" colspan="1">(<xref rid="B63" ref-type="bibr">Tunga
+<italic>et al.</italic>, 2003</xref>)</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>Aspergillus parasiticus</italic>
+</td><td valign="top" align="center" rowspan="1" colspan="1">SSF</td><td valign="top" align="center" rowspan="1" colspan="1">7.0</td><td valign="top" align="center" rowspan="1" colspan="1">36 &#x000b0;C</td><td valign="top" align="center" rowspan="1" colspan="1">9545</td><td valign="top" align="center" rowspan="1" colspan="1">Alkaline protease</td><td valign="top" align="center" rowspan="1" colspan="1">Wheat bran, soy protein</td><td valign="top" align="left" rowspan="1" colspan="1">(<xref rid="B03" ref-type="bibr">Agrawal
+<italic>et al.</italic>, 2005</xref>)</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>Aspergillus ustus</italic>
+</td><td valign="top" align="center" rowspan="1" colspan="1">SmF</td><td valign="top" align="center" rowspan="1" colspan="1">9.0</td><td valign="top" align="center" rowspan="1" colspan="1">45 &#x000b0;C</td><td valign="top" align="center" rowspan="1" colspan="1">1639</td><td valign="top" align="center" rowspan="1" colspan="1">Serine protease</td><td valign="top" align="center" rowspan="1" colspan="1">Skim milk</td><td valign="top" align="left" rowspan="1" colspan="1">(<xref rid="B14" ref-type="bibr">Damare
+<italic>et al.</italic>, 2006</xref>)</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>Beauveria</italic> sp. MTCC
+5184</td><td valign="top" align="center" rowspan="1" colspan="1">SmF</td><td valign="top" align="center" rowspan="1" colspan="1">6.5&#x02013;7.5</td><td valign="top" align="center" rowspan="1" colspan="1">28 &#x000b0;C</td><td valign="top" align="center" rowspan="1" colspan="1">9783</td><td valign="top" align="center" rowspan="1" colspan="1">Serine protease</td><td valign="top" align="center" rowspan="1" colspan="1">Mustard seed cake</td><td valign="top" align="left" rowspan="1" colspan="1">(<xref rid="B57" ref-type="bibr">Shankar
+<italic>et al.</italic>, 2011</xref>)</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>Beauveria bassiana</italic>
+</td><td valign="top" align="center" rowspan="1" colspan="1">SmF</td><td valign="top" align="center" rowspan="1" colspan="1">7.0</td><td valign="top" align="center" rowspan="1" colspan="1">26 &#x000b0;C</td><td valign="top" align="center" rowspan="1" colspan="1">280.72</td><td valign="top" align="center" rowspan="1" colspan="1">Alkaline protease</td><td valign="top" align="center" rowspan="1" colspan="1">Shrimp shell, soy powder</td><td valign="top" align="left" rowspan="1" colspan="1">(<xref rid="B52" ref-type="bibr">Rao
+<italic>et al.</italic>, 2006</xref>)</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>Beauveria felina</italic>
+</td><td valign="top" align="center" rowspan="1" colspan="1">SSF</td><td valign="top" align="center" rowspan="1" colspan="1">7.0</td><td valign="top" align="center" rowspan="1" colspan="1">28 &#x000b0;C</td><td valign="top" align="center" rowspan="1" colspan="1">8211</td><td valign="top" align="center" rowspan="1" colspan="1">Alkaline protease</td><td valign="top" align="center" rowspan="1" colspan="1">Wheat bran, soy protein</td><td valign="top" align="left" rowspan="1" colspan="1">(<xref rid="B03" ref-type="bibr">Agrawal
+<italic>et al.</italic>, 2005</xref>)</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>Botrytis cin&#x000e9;rea</italic>
+</td><td valign="top" align="center" rowspan="1" colspan="1">SmF</td><td valign="top" align="center" rowspan="1" colspan="1">8.0</td><td valign="top" align="center" rowspan="1" colspan="1">50 &#x000b0;C</td><td valign="top" align="center" rowspan="1" colspan="1">388</td><td valign="top" align="center" rowspan="1" colspan="1">Alkaline protease</td><td valign="top" align="center" rowspan="1" colspan="1">Spirulina algae</td><td valign="top" align="left" rowspan="1" colspan="1">(<xref rid="B01" ref-type="bibr">Abidi
+<italic>et al.</italic>, 2011</xref>)</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>Clonostachys rosea</italic>
+</td><td valign="top" align="center" rowspan="1" colspan="1">SmF</td><td valign="top" align="center" rowspan="1" colspan="1">9.0 &#x02013; 10.0</td><td valign="top" align="center" rowspan="1" colspan="1">60 &#x000b0;C</td><td valign="top" align="center" rowspan="1" colspan="1">149.3</td><td valign="top" align="center" rowspan="1" colspan="1">Serine protease</td><td valign="top" align="center" rowspan="1" colspan="1">Glucose, gelatin, peptone, yeast
+extract</td><td valign="top" align="left" rowspan="1" colspan="1">(<xref rid="B39" ref-type="bibr">Li
+<italic>et al.</italic>, 2006</xref>)</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>Conidiobolus coronatus</italic>
+</td><td valign="top" align="center" rowspan="1" colspan="1">SmF</td><td valign="top" align="center" rowspan="1" colspan="1">6.0 &#x02013; 7.0</td><td valign="top" align="center" rowspan="1" colspan="1">28 &#x000b0;C</td><td valign="top" align="center" rowspan="1" colspan="1">72.46</td><td valign="top" align="center" rowspan="1" colspan="1">Alkaline protease</td><td valign="top" align="center" rowspan="1" colspan="1">Malt extract, glucose, yeast extract,
+petone</td><td valign="top" align="left" rowspan="1" colspan="1">(<xref rid="B37" ref-type="bibr">Laxman
+<italic>et al.</italic>, 2005</xref>)</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>Cordyceps militaris</italic>
+</td><td valign="top" align="center" rowspan="1" colspan="1">SmF</td><td valign="top" align="center" rowspan="1" colspan="1">8.5 &#x02013; 12.0</td><td valign="top" align="center" rowspan="1" colspan="1">25 &#x000b0;C</td><td valign="top" align="center" rowspan="1" colspan="1">818.7</td><td valign="top" align="center" rowspan="1" colspan="1">Trypsin-like protease</td><td valign="top" align="center" rowspan="1" colspan="1">Colloidal chitin</td><td valign="top" align="left" rowspan="1" colspan="1">(<xref rid="B25" ref-type="bibr">Hattori
+<italic>et al.</italic>, 2005</xref>)</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>Cordyceps sinensis</italic>
+</td><td valign="top" align="center" rowspan="1" colspan="1">SmF</td><td valign="top" align="center" rowspan="1" colspan="1">7.0</td><td valign="top" align="center" rowspan="1" colspan="1">40&#x02013;55 &#x000b0;C</td><td valign="top" align="center" rowspan="1" colspan="1">-</td><td valign="top" align="center" rowspan="1" colspan="1">Chymotrypsin-like serine</td><td valign="top" align="center" rowspan="1" colspan="1">Sucrose, mannose, galactose, tryptone,
+yeast extract</td><td valign="top" align="left" rowspan="1" colspan="1">(<xref rid="B78" ref-type="bibr">Zhang
+<italic>et al.</italic>, 2008</xref>)</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>Engyodontium album</italic>
+</td><td valign="top" align="center" rowspan="1" colspan="1">SSF</td><td valign="top" align="center" rowspan="1" colspan="1">10.0 &#x02013; 11.0</td><td valign="top" align="center" rowspan="1" colspan="1">45&#x02013;60 &#x000b0;C</td><td valign="top" align="center" rowspan="1" colspan="1">3186</td><td valign="top" align="center" rowspan="1" colspan="1">Alkaline protease</td><td valign="top" align="center" rowspan="1" colspan="1">Wheat bran</td><td valign="top" align="left" rowspan="1" colspan="1">(<xref rid="B12" ref-type="bibr">Chellappan <italic>et al.</italic>, 2006</xref>)</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>Fusurium oxysporum</italic>
+</td><td valign="top" align="center" rowspan="1" colspan="1">SmF</td><td valign="top" align="center" rowspan="1" colspan="1">8.0</td><td valign="top" align="center" rowspan="1" colspan="1">45 &#x000b0;C</td><td valign="top" align="center" rowspan="1" colspan="1">492</td><td valign="top" align="center" rowspan="1" colspan="1">Trypsin-like protease</td><td valign="top" align="center" rowspan="1" colspan="1">Gelatin</td><td valign="top" align="left" rowspan="1" colspan="1">(<xref rid="B07" ref-type="bibr">Barata
+<italic>et al.</italic>, 2002</xref>)</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>Graphium putredinis</italic>
+</td><td valign="top" align="center" rowspan="1" colspan="1">-</td><td valign="top" align="center" rowspan="1" colspan="1">7.0</td><td valign="top" align="center" rowspan="1" colspan="1">50 &#x000b0;C</td><td valign="top" align="center" rowspan="1" colspan="1">114</td><td valign="top" align="center" rowspan="1" colspan="1">Serine protease</td><td valign="top" align="center" rowspan="1" colspan="1">Soya bean meal</td><td valign="top" align="left" rowspan="1" colspan="1">(<xref rid="B56" ref-type="bibr">Savitha
+<italic>et al.</italic>, 2011</xref>)</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>Hirsutella rhossiliensis</italic>
+</td><td valign="top" align="center" rowspan="1" colspan="1">SmF</td><td valign="top" align="center" rowspan="1" colspan="1">7.0</td><td valign="top" align="center" rowspan="1" colspan="1">40 &#x000b0;C</td><td valign="top" align="center" rowspan="1" colspan="1">7.7</td><td valign="top" align="center" rowspan="1" colspan="1">Serine protease</td><td valign="top" align="center" rowspan="1" colspan="1">Panagrellus redivivus</td><td valign="top" align="left" rowspan="1" colspan="1">(<xref rid="B69" ref-type="bibr">Wang
+<italic>et al.</italic>, 2007</xref>)</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>Humicola lutea</italic> 120-5</td><td valign="top" align="center" rowspan="1" colspan="1">SmF</td><td valign="top" align="center" rowspan="1" colspan="1">3.0 &#x02013; 3.5</td><td valign="top" align="center" rowspan="1" colspan="1">28 &#x000b0;C</td><td valign="top" align="center" rowspan="1" colspan="1">1100</td><td valign="top" align="center" rowspan="1" colspan="1">Acid proteinase</td><td valign="top" align="center" rowspan="1" colspan="1">Glucose, casein</td><td valign="top" align="left" rowspan="1" colspan="1">(<xref rid="B04" ref-type="bibr">Aleksieva
+and Peeva, 2000</xref>)</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>Metarhizium anisopliae</italic>
+</td><td valign="top" align="center" rowspan="1" colspan="1">SmF</td><td valign="top" align="center" rowspan="1" colspan="1">5.5</td><td valign="top" align="center" rowspan="1" colspan="1">28 &#x000b0;C</td><td valign="top" align="center" rowspan="1" colspan="1">1.12</td><td valign="top" align="center" rowspan="1" colspan="1">-</td><td valign="top" align="center" rowspan="1" colspan="1">Czapek-Dox</td><td valign="top" align="left" rowspan="1" colspan="1">(<xref rid="B32" ref-type="bibr">Kucera,
+1981</xref>)</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>Metarhizium anisopliae</italic>
+MTCC 892</td><td valign="top" align="center" rowspan="1" colspan="1">SSF</td><td valign="top" align="center" rowspan="1" colspan="1">7.0</td><td valign="top" align="center" rowspan="1" colspan="1">28 &#x000b0;C</td><td valign="top" align="center" rowspan="1" colspan="1">6452</td><td valign="top" align="center" rowspan="1" colspan="1">Alkaline protease</td><td valign="top" align="center" rowspan="1" colspan="1">Wheat bran, soy protein</td><td valign="top" align="left" rowspan="1" colspan="1">(<xref rid="B03" ref-type="bibr">Agrawal
+<italic>et al.</italic>, 2005</xref>)</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>Mucor circinelloides</italic>
+</td><td valign="top" align="center" rowspan="1" colspan="1">SmF</td><td valign="top" align="center" rowspan="1" colspan="1">5.2</td><td valign="top" align="center" rowspan="1" colspan="1">25 &#x000b0;C</td><td valign="top" align="center" rowspan="1" colspan="1">25</td><td valign="top" align="center" rowspan="1" colspan="1">-</td><td valign="top" align="center" rowspan="1" colspan="1">Glucose</td><td valign="top" align="left" rowspan="1" colspan="1">(<xref rid="B05" ref-type="bibr">Andrade
+<italic>et al.</italic>, 2002</xref>)</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>Myceliophthora</italic> sp.</td><td valign="top" align="center" rowspan="1" colspan="1">SmF/SSF</td><td valign="top" align="center" rowspan="1" colspan="1">7.0/9.0</td><td valign="top" align="center" rowspan="1" colspan="1">50 &#x000b0;C</td><td valign="top" align="center" rowspan="1" colspan="1">1.78</td><td valign="top" align="center" rowspan="1" colspan="1">Alkaline protease</td><td valign="top" align="center" rowspan="1" colspan="1">Casein, wheat bran</td><td valign="top" align="left" rowspan="1" colspan="1">(<xref rid="B77" ref-type="bibr">Zanphorlin <italic>et al.</italic>, 2010</xref>)</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>Ophiostoma piceae</italic>
+387N</td><td valign="top" align="center" rowspan="1" colspan="1">-</td><td valign="top" align="center" rowspan="1" colspan="1">7.0 &#x02013; 9.0</td><td valign="top" align="center" rowspan="1" colspan="1">40 &#x000b0;C</td><td valign="top" align="center" rowspan="1" colspan="1">56.1</td><td valign="top" align="center" rowspan="1" colspan="1">Subtilisin serine proteinase</td><td valign="top" align="center" rowspan="1" colspan="1">Soybean</td><td valign="top" align="left" rowspan="1" colspan="1">(<xref rid="B02" ref-type="bibr">Abraham
+and Breuil, 1996</xref>)</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>Penicillium</italic> sp.</td><td valign="top" align="center" rowspan="1" colspan="1">SSF</td><td valign="top" align="center" rowspan="1" colspan="1">6.0 &#x02013; 9.0</td><td valign="top" align="center" rowspan="1" colspan="1">45 &#x000b0;C</td><td valign="top" align="center" rowspan="1" colspan="1">51.6</td><td valign="top" align="center" rowspan="1" colspan="1">Serine protease</td><td valign="top" align="center" rowspan="1" colspan="1">Defatted soybean</td><td valign="top" align="left" rowspan="1" colspan="1">(<xref rid="B19" ref-type="bibr">Germano
+<italic>et al.</italic>, 2003</xref>)</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>Penicillium</italic> sp.</td><td valign="top" align="center" rowspan="1" colspan="1">SSF</td><td valign="top" align="center" rowspan="1" colspan="1">7.0</td><td valign="top" align="center" rowspan="1" colspan="1">36 &#x000b0;C</td><td valign="top" align="center" rowspan="1" colspan="1">4819</td><td valign="top" align="center" rowspan="1" colspan="1">Alkaline protease</td><td valign="top" align="center" rowspan="1" colspan="1">Wheat bran, soy protein</td><td valign="top" align="left" rowspan="1" colspan="1">(<xref rid="B03" ref-type="bibr">Agrawal
+<italic>et al.</italic>, 2005</xref>)</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>Penicillium camemberti</italic>
+</td><td valign="top" align="center" rowspan="1" colspan="1">SmF</td><td valign="top" align="center" rowspan="1" colspan="1">3.4</td><td valign="top" align="center" rowspan="1" colspan="1">50 &#x000b0;C</td><td valign="top" align="center" rowspan="1" colspan="1">1276</td><td valign="top" align="center" rowspan="1" colspan="1">Acid proteinase</td><td valign="top" align="center" rowspan="1" colspan="1">-</td><td valign="top" align="left" rowspan="1" colspan="1">(<xref rid="B13" ref-type="bibr">Chrzanowska <italic>et al.</italic>, 1995</xref>)</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>Penicillium citrinum</italic>
+</td><td valign="top" align="center" rowspan="1" colspan="1">-</td><td valign="top" align="center" rowspan="1" colspan="1">7.0</td><td valign="top" align="center" rowspan="1" colspan="1">40 &#x000b0;C</td><td valign="top" align="center" rowspan="1" colspan="1">-</td><td valign="top" align="center" rowspan="1" colspan="1">Serine proteinase</td><td valign="top" align="center" rowspan="1" colspan="1">-</td><td valign="top" align="left" rowspan="1" colspan="1">(<xref rid="B74" ref-type="bibr">Yamamoto
+<italic>et al.</italic>, 1993</xref>)</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>Penicillium griseoroseum</italic>
+IH-02</td><td valign="top" align="center" rowspan="1" colspan="1">SSF</td><td valign="top" align="center" rowspan="1" colspan="1">5.0</td><td valign="top" align="center" rowspan="1" colspan="1">30 &#x000b0;C</td><td valign="top" align="center" rowspan="1" colspan="1">8.2</td><td valign="top" align="center" rowspan="1" colspan="1">Acid protease</td><td valign="top" align="center" rowspan="1" colspan="1">Soybean meal, wheat bran</td><td valign="top" align="left" rowspan="1" colspan="1">(<xref rid="B27" ref-type="bibr">Ikram-Ul-Haq and Mukhtar, 2007</xref>)</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>Penicillium restrictum</italic>
+</td><td valign="top" align="center" rowspan="1" colspan="1">SSF</td><td valign="top" align="center" rowspan="1" colspan="1">7.0 &#x02013; 8.0</td><td valign="top" align="center" rowspan="1" colspan="1">37 &#x000b0;C</td><td valign="top" align="center" rowspan="1" colspan="1">7.9</td><td valign="top" align="center" rowspan="1" colspan="1">-</td><td valign="top" align="center" rowspan="1" colspan="1">Starch</td><td valign="top" align="left" rowspan="1" colspan="1">(<xref rid="B20" ref-type="bibr">Gombert
+<italic>et al.</italic>, 1999</xref>)</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>Penicillium roqueforti</italic>
+</td><td valign="top" align="center" rowspan="1" colspan="1">-</td><td valign="top" align="center" rowspan="1" colspan="1">5.0</td><td valign="top" align="center" rowspan="1" colspan="1">25 &#x000b0;C</td><td valign="top" align="center" rowspan="1" colspan="1">1394.7</td><td valign="top" align="center" rowspan="1" colspan="1">Acid protease</td><td valign="top" align="center" rowspan="1" colspan="1">Czapek-Dox, peptone</td><td valign="top" align="left" rowspan="1" colspan="1">(<xref rid="B36" ref-type="bibr">Larsen
+<italic>et al.</italic>, 1998</xref>)</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>Phanerochaete chrysosporium</italic>
+</td><td valign="top" align="center" rowspan="1" colspan="1">SSF</td><td valign="top" align="center" rowspan="1" colspan="1">4.5</td><td valign="top" align="center" rowspan="1" colspan="1">25 &#x000b0;C</td><td valign="top" align="center" rowspan="1" colspan="1">35</td><td valign="top" align="center" rowspan="1" colspan="1">Acid and thiolproteases</td><td valign="top" align="center" rowspan="1" colspan="1">Glucose</td><td valign="top" align="left" rowspan="1" colspan="1">(<xref rid="B10" ref-type="bibr">Cabaleiro
+<italic>et al.</italic>, 2002</xref>)</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>Phanerochaete chrysosporium</italic>
+</td><td valign="top" align="center" rowspan="1" colspan="1">SmF</td><td valign="top" align="center" rowspan="1" colspan="1">6.5</td><td valign="top" align="center" rowspan="1" colspan="1">37 &#x000b0;C</td><td valign="top" align="center" rowspan="1" colspan="1">231&#x02013;290</td><td valign="top" align="center" rowspan="1" colspan="1">-</td><td valign="top" align="center" rowspan="1" colspan="1">Glucose</td><td valign="top" align="left" rowspan="1" colspan="1">(<xref rid="B73" ref-type="bibr">Xiaoping
+<italic>et al.</italic>, 2008</xref>)</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>Phanerochaete radiata</italic>
+</td><td valign="top" align="center" rowspan="1" colspan="1">SSF</td><td valign="top" align="center" rowspan="1" colspan="1">4.5</td><td valign="top" align="center" rowspan="1" colspan="1">25 &#x000b0;C</td><td valign="top" align="center" rowspan="1" colspan="1">50</td><td valign="top" align="center" rowspan="1" colspan="1">Thiolproteases</td><td valign="top" align="center" rowspan="1" colspan="1">Glucose</td><td valign="top" align="left" rowspan="1" colspan="1">(<xref rid="B10" ref-type="bibr">Cabaleiro
+<italic>et al.</italic>, 2002</xref>)</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>Rhizomucor</italic> sp.</td><td valign="top" align="center" rowspan="1" colspan="1">SSF</td><td valign="top" align="center" rowspan="1" colspan="1">-</td><td valign="top" align="center" rowspan="1" colspan="1">45 &#x000b0;C</td><td valign="top" align="center" rowspan="1" colspan="1">770.9</td><td valign="top" align="center" rowspan="1" colspan="1">-</td><td valign="top" align="center" rowspan="1" colspan="1">Wheat bran</td><td valign="top" align="left" rowspan="1" colspan="1">(<xref rid="B40" ref-type="bibr">Macchione
+<italic>et al.</italic>, 2008</xref>)</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>Rhizopus</italic> SMC</td><td valign="top" align="center" rowspan="1" colspan="1">SmF</td><td valign="top" align="center" rowspan="1" colspan="1">4.3</td><td valign="top" align="center" rowspan="1" colspan="1">28 &#x000b0;C</td><td valign="top" align="center" rowspan="1" colspan="1">2000</td><td valign="top" align="center" rowspan="1" colspan="1">Acid protease</td><td valign="top" align="center" rowspan="1" colspan="1">Wheat bran, casein</td><td valign="top" align="left" rowspan="1" colspan="1">(<xref rid="B50" ref-type="bibr">Ramamurthy <italic>et al.</italic>, 1991</xref>)</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>Rhizopus oryzae</italic>
+</td><td valign="top" align="center" rowspan="1" colspan="1">SSF</td><td valign="top" align="center" rowspan="1" colspan="1">5.5</td><td valign="top" align="center" rowspan="1" colspan="1">60 &#x000b0;C</td><td valign="top" align="center" rowspan="1" colspan="1">760</td><td valign="top" align="center" rowspan="1" colspan="1">Aspartate protease</td><td valign="top" align="center" rowspan="1" colspan="1">Wheat bran</td><td valign="top" align="left" rowspan="1" colspan="1">(<xref rid="B34" ref-type="bibr">Kumar
+<italic>et al.</italic>, 2005</xref>)</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>Thermoascus aurantiacus</italic>
+</td><td valign="top" align="center" rowspan="1" colspan="1">SSF</td><td valign="top" align="center" rowspan="1" colspan="1">-</td><td valign="top" align="center" rowspan="1" colspan="1">45 &#x000b0;C</td><td valign="top" align="center" rowspan="1" colspan="1">258.3</td><td valign="top" align="center" rowspan="1" colspan="1">-</td><td valign="top" align="center" rowspan="1" colspan="1">Wheat bran</td><td valign="top" align="left" rowspan="1" colspan="1">(<xref rid="B40" ref-type="bibr">Macchione
+<italic>et al.</italic>, 2008</xref>)</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>Thermoascus aurantiacus</italic>
+</td><td valign="top" align="center" rowspan="1" colspan="1">SSF</td><td valign="top" align="center" rowspan="1" colspan="1">5.5</td><td valign="top" align="center" rowspan="1" colspan="1">60 &#x000b0;C</td><td valign="top" align="center" rowspan="1" colspan="1">248</td><td valign="top" align="center" rowspan="1" colspan="1">Acid protease</td><td valign="top" align="center" rowspan="1" colspan="1">Wheat bran</td><td valign="top" align="left" rowspan="1" colspan="1">(<xref rid="B44" ref-type="bibr">Merheb
+<italic>et al.</italic>, 2007</xref>)</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>Thermomucor
+indicae-seudaticae</italic> N31</td><td valign="top" align="center" rowspan="1" colspan="1">SSF</td><td valign="top" align="center" rowspan="1" colspan="1">5.7</td><td valign="top" align="center" rowspan="1" colspan="1">70 &#x000b0;C</td><td valign="top" align="center" rowspan="1" colspan="1">160</td><td valign="top" align="center" rowspan="1" colspan="1">Acid protease</td><td valign="top" align="center" rowspan="1" colspan="1">Wheat bran</td><td valign="top" align="left" rowspan="1" colspan="1">(<xref rid="B43" ref-type="bibr">Merheb-Dini <italic>et al.</italic>, 2010</xref>)</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>Thermomyces lanuginosus</italic>
+</td><td valign="top" align="center" rowspan="1" colspan="1">SmF</td><td valign="top" align="center" rowspan="1" colspan="1">6.0</td><td valign="top" align="center" rowspan="1" colspan="1">50 &#x000b0;C</td><td valign="top" align="center" rowspan="1" colspan="1">0.71</td><td valign="top" align="center" rowspan="1" colspan="1">-</td><td valign="top" align="center" rowspan="1" colspan="1">Glucose, citric acid</td><td valign="top" align="left" rowspan="1" colspan="1">(<xref rid="B29" ref-type="bibr">Jensen
+<italic>et al.</italic>, 2002</xref>)</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>Thermomyces lanuginosus</italic>
+</td><td valign="top" align="center" rowspan="1" colspan="1">SSF</td><td valign="top" align="center" rowspan="1" colspan="1">-</td><td valign="top" align="center" rowspan="1" colspan="1">45 &#x000b0;C</td><td valign="top" align="center" rowspan="1" colspan="1">945.2</td><td valign="top" align="center" rowspan="1" colspan="1">-</td><td valign="top" align="center" rowspan="1" colspan="1">Wheat bran</td><td valign="top" align="left" rowspan="1" colspan="1">(<xref rid="B40" ref-type="bibr">Macchione
+<italic>et al.</italic>, 2008</xref>)</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>Thermomyces lanuginosus</italic>
+</td><td valign="top" align="center" rowspan="1" colspan="1">SmF</td><td valign="top" align="center" rowspan="1" colspan="1">5.0</td><td valign="top" align="center" rowspan="1" colspan="1">70 &#x000b0;C</td><td valign="top" align="center" rowspan="1" colspan="1">12.8</td><td valign="top" align="center" rowspan="1" colspan="1">Serine protease</td><td valign="top" align="center" rowspan="1" colspan="1">Casein, glucose, yeast extract</td><td valign="top" align="left" rowspan="1" colspan="1">(<xref rid="B38" ref-type="bibr">Li
+<italic>et al.</italic>, 1997</xref>)</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>Trichoderma harzianum</italic>
+</td><td valign="top" align="center" rowspan="1" colspan="1">-</td><td valign="top" align="center" rowspan="1" colspan="1">8.0</td><td valign="top" align="center" rowspan="1" colspan="1">60 &#x000b0;C</td><td valign="top" align="center" rowspan="1" colspan="1">99</td><td valign="top" align="center" rowspan="1" colspan="1">Serine protease</td><td valign="top" align="center" rowspan="1" colspan="1">Soya bean meal</td><td valign="top" align="left" rowspan="1" colspan="1">(<xref rid="B56" ref-type="bibr">Savitha
+<italic>et al.</italic>, 2011</xref>)</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>Trichoderma reesei</italic>
+QM9414</td><td valign="top" align="center" rowspan="1" colspan="1">-</td><td valign="top" align="center" rowspan="1" colspan="1">8.0</td><td valign="top" align="center" rowspan="1" colspan="1">50 &#x000b0;C</td><td valign="top" align="center" rowspan="1" colspan="1">0.25</td><td valign="top" align="center" rowspan="1" colspan="1">Trypsin serine proteases</td><td valign="top" align="center" rowspan="1" colspan="1">Glucose</td><td valign="top" align="left" rowspan="1" colspan="1">(<xref rid="B17" ref-type="bibr">Dienes
+<italic>et al.</italic>, 2007</xref>)</td></tr></tbody></table></table-wrap><p>The microbial proteases of <italic>Aspergillus</italic> species, in particular, have
+been studied in detail since they are known for their capacity to secrete high
+levels of enzymes in their growth environment. Several of these secreted enzymes,
+produced in a large-scale submerged fermentation, have been widely used in the food
+and beverage industry for decades (<xref rid="B72" ref-type="bibr">Wu <italic>et
+al.</italic>, 2006</xref>). Example of species are <italic>Aspergillus
+flavus</italic> (<xref rid="B31" ref-type="bibr">Kranthi <italic>et
+al.</italic>, 2012</xref>; <xref rid="B40" ref-type="bibr">Macchione <italic>et
+al.</italic>, 2008</xref>; <xref rid="B42" ref-type="bibr">Malathi and
+Chakraborty, 1991</xref>), <italic>Aspergillus niger</italic> (<xref rid="B46" ref-type="bibr">O'Donnell <italic>et al.</italic>, 2001</xref>; <xref rid="B75" ref-type="bibr">Yang and Lin, 1998</xref>), <italic>Aspergillus oryzae</italic>
+(<xref rid="B47" ref-type="bibr">Ogawa <italic>et al.</italic>, 1995</xref>;
+<xref rid="B65" ref-type="bibr">Vishwanatha <italic>et al.</italic>,
+2010a</xref>; <xref rid="B67" ref-type="bibr">Vishwanatha <italic>et
+al.</italic>, 2009</xref>). <italic>A. oryzae</italic> has been selected as
+a non-toxigenic strain, due either to its long history of industrial use or to its
+evolution. Its safety is also guaranteed by more than a thousand years of use in
+food fermentation. <italic>A. oryzae</italic> grows on the surface of solid
+materials such as steamed rice, ground soybean or agricultural byproducts, such as
+wheat bran, rice bran, bagasse and many other substrates, where amino acids and
+sugars are initially deficient (<xref rid="B67" ref-type="bibr">Vishwanatha
+<italic>et al.</italic>, 2009</xref>). Various species of
+<italic>Aspergillus</italic> have been studied in detail for the production of
+proteases under SSF conditions. Alkaline proteases were reported to be produced by
+<italic>A. flavus</italic> and <italic>A. oryzae</italic> in SSF system.</p><p>
+<italic>Penicillium species</italic> have a great biotechnological potential for the
+production of proteases and other enzymes. These include
+<italic>Penicillium</italic> sp., <italic>P.camemberti</italic>, <italic>P.
+citrinum</italic>, <italic>P. griseoroseum</italic>, <italic>P.
+restrictum</italic> and <italic>P. roqueforti</italic>. Species of
+<italic>Penicillium</italic> attracted the attention for the production of
+alkaline proteases under SSF and SmF conditions. <italic>Penicillium
+griseoroseum</italic> and <italic>P. camemberti</italic> are known to produce
+acid proteases under SmF and SSF conditions. A new strain of <italic>P.
+griseoroseum</italic> IH-02 produced large quantities of an extracellular acid
+protease when solid state fermentation was carried out on a substrate containing
+wheat bran and soybean meal as the sole substrate (<xref rid="B27" ref-type="bibr">Ikram-Ul-Haq and Mukhtar, 2007</xref>).</p><p>The fungus species, <italic>Mucor pusillus</italic> and <italic>Mucor
+miehei</italic>, secrete aspartate proteases, also known as mucor rennins, into the
+medium. The enzymes possess high milk-clotting activity and low proteolytic
+activity, enabling them to be used as substitutes for rennin in the cheese industry
+(<xref rid="B05" ref-type="bibr">Andrade <italic>et al.</italic>, 2002</xref>).
+The high thermal stability of mucor rennins turned out to be an undesirable quality,
+since the residual enzyme activity, after cooking, can spoil the flavor of cheese
+during the long maturation process (<xref rid="B41" ref-type="bibr">Maheshwari
+<italic>et al.</italic>, 2000</xref>). Recently, production of extracellular
+proteases by <italic>Mucor circinelloides</italic> using glucose as substrate was
+reported. The <italic>M. circinelloides</italic> enzyme was stable in pH 5.2 and
+showed maximum activity at 25 &#x000b0;C (<xref rid="B05" ref-type="bibr">Andrade <italic>et
+al.</italic>, 2002</xref>).</p><p>Thermophilic fungi produce hydrolases with important characteristics, such as higher
+thermostability, optimum activity at higher temperatures and high rates of
+hydrolysis. Thermostable proteases, that act in the temperature range 65&#x02013;85 &#x000b0;C for
+the bioconversions of proteins into aminoacids and peptides, have successful
+applications in baking, brewing, detergents and the leather industry (<xref rid="B24" ref-type="bibr">Haki and Rakshit, 2003</xref>; <xref rid="B44" ref-type="bibr">Merheb <italic>et al.</italic>, 2007</xref>). A source of
+thermostable acid protease was identified on the species <italic>Thermoascus
+aurantiacus</italic> and <italic>Thermomyces lanuginosus</italic>. The
+<italic>T. aurantiacus</italic> enzyme was produced in SSF system, containing
+wheat bran, at 60 &#x000b0;C (<xref rid="B44" ref-type="bibr">Merheb <italic>et
+al.</italic>, 2007</xref>). Similar results, of optimum activity at elevated
+temperatures, were shown by proteases of the thermophilic fungi <italic>Thermomyces
+lanuginosus</italic> (70, 50 and 45 &#x000b0;C) (<xref rid="B29" ref-type="bibr">Jensen
+<italic>et al.</italic>, 2002</xref>; <xref rid="B38" ref-type="bibr">Li
+<italic>et al.</italic>, 1997</xref>; <xref rid="B40" ref-type="bibr">Macchione <italic>et al.</italic>, 2008</xref>) and <italic>Thermomucor
+indicae-seudaticae</italic> (70 &#x000b0;C) (<xref rid="B43" ref-type="bibr">Merheb-Dini
+<italic>et al.</italic>, 2010</xref>). Yet, proteases from the specie
+<italic>Aspergillus oryzae</italic> (<xref rid="B65" ref-type="bibr">Vishwanatha
+<italic>et al.</italic>, 2010a</xref>; <xref rid="B67" ref-type="bibr">Vishwanatha <italic>et al.</italic>, 2009</xref>) and from
+<italic>Penicillium</italic> sp. (<xref rid="B19" ref-type="bibr">Germano
+<italic>et al.</italic>, 2003</xref>) showed optimum activities at lower
+temperatures, 55 &#x000b0;C and 45 &#x000b0;C, respectively.</p></sec><sec><title>Industrial Application of Proteases</title><p>Microbial proteases are the leaders of the industrial enzyme market worldwide and
+account for approximately 60% of the total enzyme sale in the world (<xref rid="B56" ref-type="bibr">Savitha <italic>et al.</italic>, 2011</xref>). The global market
+for industrial enzymes was estimated at $3.3 billion in 2010, and is expected to
+reach $4.4 billion by 2015 (<xref rid="B01" ref-type="bibr">Abidi <italic>et
+al.</italic>, 2011</xref>). Among the world sale of industrial enzymes, 75%
+of these are hydrolytic enzymes, of which two-thirds are proteolytic enzymes (<xref rid="B56" ref-type="bibr">Savitha <italic>et al.</italic>, 2011</xref>). The
+wide specificity of the hydrolytic action of proteases finds an extensive
+application in different industries, such as food, laundry detergent, leather,
+pharmaceutical, silk, for recovery of silver from used X-ray films and for waste
+management, as well as in the structural elucidation of proteins, whereas their
+synthetic capacities are used for the synthesis of proteins (<xref rid="B01" ref-type="bibr">Abidi <italic>et al.</italic>, 2011</xref>; <xref rid="B21" ref-type="bibr">Gupta <italic>et al.</italic>, 2002</xref>; <xref rid="B30" ref-type="bibr">Johnvesly and Naik, 2001</xref>; <xref rid="B48" ref-type="bibr">Qing <italic>et al.</italic>, 2013</xref>; <xref rid="B51" ref-type="bibr">Rao
+<italic>et al.</italic>, 1998</xref>; <xref rid="B56" ref-type="bibr">Savitha <italic>et al.</italic>, 2011</xref>). Fungal enzymes are commonly used
+in industries due to various technical reasons, including the feasibility of
+obtaining enzymes at a high concentration in the fermentation medium and offer a
+distinct advantage over the bacterial enzymes in terms of easing the downstream
+processing (<xref rid="B22" ref-type="bibr">Hajji <italic>et al.</italic>,
+2010</xref>).</p><p>Proteases have a large variety of applications in food industry, and among them,
+those related to the nutritional and functional value of the products. These include
+improving the digestibility and sensory quality of food, as well as provide health
+benefits by reducing allergenic compounds (<xref rid="B61" ref-type="bibr">Tavano,
+2013</xref>).</p><p>The principal applications of proteases in food processing are in brewing, cereal
+mashing, and beer haze clarification, in the coagulation step in cheese making, in
+altering the viscoelastic properties of dough in baking and in production of protein
+hydrolysates (<xref rid="B70" ref-type="bibr">Ward, 2011</xref>). The hydrolytic
+quality of proteases is exploited for degradation of the turbidity complex resulting
+from protein in fruit juices and alcoholic liquors, the improvement of quality of
+protein-rich foods, soy protein hydrolysis, gelatin hydrolysis, casein and whey
+protein hydrolysis, meat protein recovery, and meat tenderization (<xref rid="B35" ref-type="bibr">Kumari <italic>et al.</italic>, 2012</xref>; <xref rid="B62" ref-type="bibr">Tomar <italic>et al.</italic>, 2008</xref>). The major
+application of proteases in dairy industry is in the cheese manufacturing, where the
+primary function of enzymes is to hydrolyze the specific peptide bond to generate
+casein and macropeptides (<xref rid="B51" ref-type="bibr">Rao <italic>et
+al.</italic>, 1998</xref>). The proteases produced by <italic>Mucor
+michei</italic> and <italic>Endothia parasitica</italic> are gradually replacing
+rennin in cheesemaking (<xref rid="B16" ref-type="bibr">Demain and Adrio,
+2008</xref>). Further, proteases play a prominent role in meat tenderization,
+especially of beef, as they possess the ability to hydrolyze connective tissue
+proteins as well as muscle fibre proteins (<xref rid="B33" ref-type="bibr">Kumar and
+Takagi, 1999</xref>). Endo and exoproteinases from <italic>Aspergillus
+oryzae</italic> have been used to modify wheat gluten in baking processes. The
+addition of proteases reduces the mixing time of the dough and results in increased
+loaf volumes (<xref rid="B51" ref-type="bibr">Rao <italic>et al.</italic>,
+1998</xref>). The alkaline and neutral proteases of fungal origin play an
+important role in the processing of soy sauce and other soy products. Enzymatic
+treatment results in soluble hydrolysates with high solubility, good protein yield,
+and low bitterness. Protein hydrolysates commonly generated from casein, whey
+protein and soyprotein have applications as constituents of dietetic and health
+products, in infant formulae, clinical nutrition supplements, beverages targeted at
+pregnant/lactating women and people allergic to milk proteins, and as flavoring
+agents (<xref rid="B33" ref-type="bibr">Kumar and Takagi, 1999</xref>; <xref rid="B50" ref-type="bibr">Ramamurthy <italic>et al.</italic>, 1991</xref>; <xref rid="B51" ref-type="bibr">Rao <italic>et al.</italic>, 1998</xref>).</p><p>The use of enzymes as detergent additives represents the largest application of
+industrial enzymes. Proteases in laundry detergents account for approximately 25% of
+the total worldwide sales of enzymes (<xref rid="B16" ref-type="bibr">Demain and
+Adrio, 2008</xref>). The use of enzymes in detergents formulations enhances the
+detergents ability to remove tough stains and making the detergent environmentally
+safe. Nowadays, many laundry-detergent products contain cocktails of enzymes
+including proteases, amylases, cellulases, and lipases (<xref rid="B26" ref-type="bibr">Hmidet <italic>et al.</italic>, 2009</xref>). Alkaline proteases
+added to laundry detergents enable the release of proteinaceous material from
+stains. The performance of alkaline protease in detergent is influenced by several
+factors such as pH and temperature of washing solution as well as detergent
+composition. Ideally, proteases used in detergent formulations should have high
+activity and stability within a broad range of pH and temperatures, and should also
+be compatible with various detergent components along with oxidizing and
+sequestering (<xref rid="B28" ref-type="bibr">Jaouadi <italic>et al.</italic>,
+2008</xref>; <xref rid="B33" ref-type="bibr">Kumar and Takagi, 1999</xref>;
+<xref rid="B56" ref-type="bibr">Savitha <italic>et al.</italic>,
+2011</xref>).</p><p>Another industrial process which has received attention is the enzyme aided dehairing
+of animal hides and skin in the leather industry. Leather-making is a processing
+industry that has negative implications emanating from the wastes associated with
+industrial processing. In a tannery, a raw hide is subjected to a series of chemical
+treatments before tanning and finally converted to finished leather. Alkaline
+proteases may play a vital role in these treatments by replacing these hazardous
+chemicals especially involved in soaking, dehairing and bating. Increased usage of
+enzymes for dehairing and bating not only prevents pollution problems, but also is
+effective in saving time with better quality leather (<xref rid="B76" ref-type="bibr">Zambare <italic>et al.</italic>, 2011</xref>). In addition,
+studies have demonstrated the successful use of alkaline proteases in leather
+tanning from <italic>Aspergillus flavus</italic> and <italic>Conidiobolus
+coronatus</italic> (<xref rid="B37" ref-type="bibr">Laxman <italic>et
+al.</italic>, 2005</xref>; <xref rid="B42" ref-type="bibr">Malathi and
+Chakraborty, 1991</xref>).</p><p>In the pharmaceutical and cosmetic industries, proteases might be utilized in the
+elimination of keratin in acne or psoriasis, elimination of human callus and
+degradation of keratinized skin, depilation, preparation of vaccine for
+dermatophytosis therapy, and in the increase of ungual drug delivery (<xref rid="B09" ref-type="bibr">Brandelli <italic>et al.</italic>, 2010</xref>; <xref rid="B64" ref-type="bibr">Vignardet <italic>et al.</italic>, 2001</xref>).
+Furthermore, these keratinases can remove the scar and regenerate the epithelia,
+accelerate healing processes, and might act also in the medicine of trauma (<xref rid="B11" ref-type="bibr">Chao <italic>et al.</italic>, 2007</xref>). In
+cosmetic products, proteases can hydrolyze the peptide bonds of keratin, collagen
+and elastin of the skin. Enzymes such as papain, bromelain and other proteases have
+been used on the skin for performing smoothing and peeling. The action of these
+proteases is related to cell renewal, exercising keratinolytic activity, promoting
+the removal of dead cells in the epidermis and restore the same (<xref rid="B59" ref-type="bibr">Sim <italic>et al.</italic>, 2000</xref>). Additionally, the
+preparation of elastoterase was applied for the treatment of burns, purulent wounds,
+carbuncles, furuncles and deep abscesses (<xref rid="B21" ref-type="bibr">Gupta
+<italic>et al.</italic>, 2002</xref>). Collagenolytic proteases have been
+directly employed in clinical therapy, includes wound healing, treatment of sciatica
+in herniated intervertebral discs, treatment of retained placenta, and as a
+pretreatment for enhancing adenovirus-mediated cancer gene therapy (<xref rid="B71" ref-type="bibr">Watanabe, 2004</xref>).</p></sec><sec><title>Summary and Perspectives</title><p>The use of proteases in different industries has been prevalent for many decades and
+a number of microbial sources exist for the efficient production of this enzyme.
+Their vast diversity, specific range of action and property of being active over a
+very wide range of temperature and pH have attracted the attention of
+biotechnologists worldwide. Although they are widely distributed in nature,
+microorganisms are the preferred source of these enzymes in fermentation
+bioprocesses because of their fast growth rate and also because they can be
+genetically engineered to generate new enzymes with desirable abilities or simply
+for enzyme overproduction. The search for new microorganisms that can be used for
+protease production is a continuous process. Proteases have various applications in
+major areas of food processing, beverage production, animal nutrition, leather,
+paper and pulp, textiles, detergents, etc. and with the advent of new frontiers in
+biotechnology, the spectrum of protease applications has expanded into many new
+fields such as clinical, medicinal and analytical chemistry.</p><p>Considering many industrial applications of protease and the importance to identified
+stable enzymes, this research group had promising results with protease production
+by fungi isolated from Brazilian Cerrado soil. Some species of filamentous fungi,
+such as <italic>Aspergillus, Penicillium</italic> and <italic>Paecylomices</italic>
+have been identified as great producers of extracellular protease in submerged
+fermentation. Further studies on the optimized conditions will still be performed
+and the protease production will be conducted in bioreactors.</p></sec></body><back><ack><title>Acknowledgments</title><p>This research was supported by grants from FAPESP - Funda&#x000e7;&#x000e3;o de Apoio a Pesquisa do
+Estado de S&#x000e3;o Paulo.</p></ack><ref-list><title>References</title><ref id="B01"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Abidi</surname><given-names>F</given-names></name><name><surname>Chobert</surname><given-names>J-M</given-names></name><name><surname>Haertl&#x000e9;</surname><given-names>T</given-names></name><etal/></person-group><year>2011</year><article-title>Purification and biochemical characterization of stable alkaline
+protease Prot-2 from <italic>Botrytis cinerea</italic>
+</article-title><source>Process Biochem</source><volume>46</volume><fpage>2301</fpage><lpage>2310</lpage></element-citation></ref><ref id="B02"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Abraham</surname><given-names>LD</given-names></name><name><surname>Breuil</surname><given-names>C</given-names></name></person-group><year>1996</year><article-title>Isolation and characterization of a subtilisin-like serine
+proteinase secreted by the sap-staining fungus <italic>Ophiostoma
+piceae</italic>
+</article-title><source>Enzym Microb Technol</source><volume>18</volume><fpage>133</fpage><lpage>140</lpage></element-citation></ref><ref id="B03"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Agrawal</surname><given-names>D</given-names></name><name><surname>Patidar</surname><given-names>P</given-names></name><name><surname>Banerjee</surname><given-names>T</given-names></name><etal/></person-group><year>2005</year><article-title>Alkaline protease production by a soil isolate of
+<italic>Beauveria felina</italic> under SSF condition: parameter
+optimization and application to soy protein hydrolysis</article-title><source>Process Biochem</source><volume>40</volume><fpage>1131</fpage><lpage>1136</lpage></element-citation></ref><ref id="B04"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Aleksieva</surname><given-names>P</given-names></name><name><surname>Peeva</surname><given-names>L</given-names></name></person-group><year>2000</year><article-title>Investigation of acid proteinase biosynthesis by the fungus
+<italic>Humicola lutea</italic> 120&#x02013;5 in an airlift
+bioreactor</article-title><source>Enzym Microb Technol</source><volume>26</volume><fpage>402</fpage><lpage>405</lpage></element-citation></ref><ref id="B05"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Andrade</surname><given-names>VS</given-names></name><name><surname>Sarubbo</surname><given-names>LA</given-names></name><name><surname>Fukushima</surname><given-names>K</given-names></name><etal/></person-group><year>2002</year><article-title>Production of extracellular proteases by <italic>Mucor
+circinelloides</italic> using D-glucose as carbon source /
+substrate</article-title><source>Braz J Microbiol</source><volume>33</volume><fpage>106</fpage><lpage>110</lpage></element-citation></ref><ref id="B06"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Anitha</surname><given-names>TS</given-names></name><name><surname>Palanivelu</surname><given-names>P</given-names></name></person-group><year>2013</year><article-title>Purification and characterization of an extracellular
+keratinolytic protease from a new isolate of Aspergillus
+parasiticus</article-title><source>Protein Expr Purif</source><volume>88</volume><fpage>214</fpage><lpage>220</lpage><pub-id pub-id-type="pmid">23337085</pub-id></element-citation></ref><ref id="B07"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Barata</surname><given-names>RA</given-names></name><name><surname>Andrade</surname><given-names>MHG</given-names></name><name><surname>Rodrigues</surname><given-names>RD</given-names></name><etal/></person-group><year>2002</year><article-title>Purification and Characterization of an Extracellular
+Trypsin-Like Protease of <italic>Fusarium oxysporum</italic> var.
+<italic>lini</italic>
+</article-title><source>J Biosci Bioeng</source><volume>94</volume><fpage>304</fpage><lpage>308</lpage><pub-id pub-id-type="pmid">16233307</pub-id></element-citation></ref><ref id="B08"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Biesebeke</surname><given-names>Rt</given-names></name><name><surname>Ruijter</surname><given-names>G</given-names></name><name><surname>Rahardjo</surname><given-names>YSP</given-names></name><etal/></person-group><year>2002</year><article-title>
+<italic>Aspergillus oryzae</italic> in solid-state and submerged
+fermentations Progress report on a multi-disciplinary
+project</article-title><source>FEMS Yeast Res</source><volume>2</volume><fpage>245</fpage><lpage>248</lpage><pub-id pub-id-type="pmid">12702312</pub-id></element-citation></ref><ref id="B09"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Brandelli</surname><given-names>A</given-names></name><name><surname>Daroit</surname><given-names>DJ</given-names></name><name><surname>Riffel</surname><given-names>A</given-names></name></person-group><year>2010</year><article-title>Biochemical features of microbial keratinases and their
+production and applications</article-title><source>Appl Microbiol Biotechnol</source><volume>85</volume><fpage>1735</fpage><lpage>1750</lpage><pub-id pub-id-type="pmid">20039036</pub-id></element-citation></ref><ref id="B10"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cabaleiro</surname><given-names>DR</given-names></name><name><surname>Rodr&#x000ed;guez-Couto</surname><given-names>S</given-names></name><name><surname>Sanrom&#x000e1;n</surname><given-names>A</given-names></name><etal/></person-group><year>2002</year><article-title>Comparison between the protease production ability of
+ligninolytic fungi cultivated in solid state media</article-title><source>Process Biochem</source><volume>37</volume><fpage>1017</fpage><lpage>1023</lpage></element-citation></ref><ref id="B11"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Chao</surname><given-names>YP</given-names></name><name><surname>Xie</surname><given-names>FH</given-names></name><name><surname>Yang</surname><given-names>J</given-names></name><etal/></person-group><year>2007</year><article-title>Screening for a new Streptomyces strain capable of efficient
+keratin degradation</article-title><source>J Environ Sci (China)</source><volume>19</volume><fpage>1125</fpage><lpage>1128</lpage><pub-id pub-id-type="pmid">17966520</pub-id></element-citation></ref><ref id="B12"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Chellappan</surname><given-names>S</given-names></name><name><surname>Jasmin</surname><given-names>C</given-names></name><name><surname>Basheer</surname><given-names>SM</given-names></name><etal/></person-group><year>2006</year><article-title>Production, purification and partial characterization of a novel
+protease from marine <italic>Engyodontium album</italic> BTMFS10 under solid
+state fermentation</article-title><source>Process Biochem</source><volume>41</volume><fpage>956</fpage><lpage>961</lpage></element-citation></ref><ref id="B13"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Chrzanowska</surname><given-names>J</given-names></name><name><surname>Kolaczkowska</surname><given-names>M</given-names></name><name><surname>Dryjanski</surname><given-names>M</given-names></name><etal/></person-group><year>1995</year><article-title>Aspartic proteinase from <italic>Penicillium camemberti</italic>:
+purification, properties, and substrate specificity</article-title><source>Enzym Microb Technol</source><volume>17</volume><fpage>719</fpage><lpage>724</lpage></element-citation></ref><ref id="B14"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Damare</surname><given-names>S</given-names></name><name><surname>Raghukumar</surname><given-names>C</given-names></name><name><surname>Muraleedharan</surname><given-names>UD</given-names></name><etal/></person-group><year>2006</year><article-title>Deep-sea fungi as a source of alkaline and cold-tolerant
+proteases</article-title><source>Enzym Microb Technol</source><volume>39</volume><fpage>172</fpage><lpage>181</lpage></element-citation></ref><ref id="B15"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Das</surname><given-names>K</given-names></name><name><surname>Mukherjee</surname><given-names>AK</given-names></name></person-group><year>2007</year><article-title>Comparison of lipopeptide biosurfactants production by
+<italic>Bacillus subtilis</italic> strains in submerged and solid state
+fermentation systems using a cheap carbon source: Some industrial
+applications of biosurfactants</article-title><source>Process Biochem</source><volume>42</volume><fpage>1191</fpage><lpage>1199</lpage></element-citation></ref><ref id="B16"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Demain</surname><given-names>AL</given-names></name><name><surname>Adrio</surname><given-names>JL</given-names></name></person-group><year>2008</year><article-title>Contributions of microorganisms to industrial
+biology</article-title><source>Mol Biotechnol</source><volume>38</volume><fpage>41</fpage><lpage>55</lpage><pub-id pub-id-type="pmid">18060538</pub-id></element-citation></ref><ref id="B17"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Dienes</surname><given-names>D</given-names></name><name><surname>B&#x000f6;rjesson</surname><given-names>J</given-names></name><name><surname>H&#x000e4;gglund</surname><given-names>P</given-names></name><etal/></person-group><year>2007</year><article-title>Identification of a trypsin-like serine protease from
+<italic>Trichoderma reesei</italic> QM9414</article-title><source>Enzym Microb Technol</source><volume>40</volume><fpage>1087</fpage><lpage>1094</lpage></element-citation></ref><ref id="B18"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Geisseler</surname><given-names>D</given-names></name><name><surname>Horwath</surname><given-names>WR</given-names></name></person-group><year>2008</year><article-title>Regulation of extracellular protease activity in soil in response
+to different sources and concentrations of nitrogen and
+carbon</article-title><source>Soil Biol Biochem</source><volume>40</volume><fpage>3040</fpage><lpage>3048</lpage></element-citation></ref><ref id="B19"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Germano</surname><given-names>S</given-names></name><name><surname>Pandey</surname><given-names>A</given-names></name><name><surname>Osaku</surname><given-names>CA</given-names></name><etal/></person-group><year>2003</year><article-title>Characterization and stability of proteases from
+<italic>Penicillium</italic> sp. produced by solid-state
+fermentation</article-title><source>Enzym Microb Technol</source><volume>32</volume><fpage>246</fpage><lpage>251</lpage></element-citation></ref><ref id="B20"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gombert</surname><given-names>AK</given-names></name><name><surname>Pinto</surname><given-names>AL</given-names></name><name><surname>Castilho</surname><given-names>LR</given-names></name><etal/></person-group><year>1999</year><article-title>Lipase production by <italic>Penicillium restrictum</italic> in
+solid-state fermentation using babassu oil cake as substrate</article-title><source>Process Biochem</source><volume>35</volume><fpage>85</fpage><lpage>90</lpage></element-citation></ref><ref id="B21"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gupta</surname><given-names>R</given-names></name><name><surname>Beg</surname><given-names>QK</given-names></name><name><surname>Lorenz</surname><given-names>P</given-names></name></person-group><year>2002</year><article-title>Bacterial alkaline proteases: molecular approaches and industrial
+applications</article-title><source>Appl Microbiol Biotechnol</source><volume>59</volume><fpage>15</fpage><lpage>32</lpage><pub-id pub-id-type="pmid">12073127</pub-id></element-citation></ref><ref id="B22"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hajji</surname><given-names>M</given-names></name><name><surname>Hmidet</surname><given-names>N</given-names></name><name><surname>Jellouli</surname><given-names>K</given-names></name><etal/></person-group><year>2010</year><article-title>Gene cloning and expression of a detergent stable alkaline
+protease from <italic>Aspergillus clavatus</italic> ES1</article-title><source>Process Biochem</source><volume>45</volume><fpage>1746</fpage><lpage>1752</lpage></element-citation></ref><ref id="B23"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hajji</surname><given-names>M</given-names></name><name><surname>Kanoun</surname><given-names>S</given-names></name><name><surname>Nasri</surname><given-names>M</given-names></name><etal/></person-group><year>2007</year><article-title>Purification and characterization of an alkaline serine-protease
+produced by a new isolated <italic>Aspergillus clavatus</italic>
+ES1</article-title><source>Process Biochem</source><volume>42</volume><fpage>791</fpage><lpage>797</lpage></element-citation></ref><ref id="B24"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Haki</surname><given-names>GD</given-names></name><name><surname>Rakshit</surname><given-names>SK</given-names></name></person-group><year>2003</year><article-title>Developments in industrially important thermostable enzymes: a
+review</article-title><source>Bioresour Technol</source><volume>89</volume><fpage>17</fpage><lpage>34</lpage><pub-id pub-id-type="pmid">12676497</pub-id></element-citation></ref><ref id="B25"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hattori</surname><given-names>M</given-names></name><name><surname>Isomura</surname><given-names>S</given-names></name><name><surname>Yokoyama</surname><given-names>E</given-names></name><etal/></person-group><year>2005</year><article-title>Extracellular trypsin-like proteases produced by
+<italic>Cordyceps militaris</italic>
+</article-title><source>J Biosci Bioeng</source><volume>100</volume><fpage>631</fpage><lpage>636</lpage><pub-id pub-id-type="pmid">16473772</pub-id></element-citation></ref><ref id="B26"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hmidet</surname><given-names>N</given-names></name><name><surname>El-Hadj Ali</surname><given-names>N</given-names></name><name><surname>Haddar</surname><given-names>A</given-names></name><etal/></person-group><year>2009</year><article-title>Alkaline proteases and thermostable &#x003b1;-amylase co-produced by
+<italic>Bacillus licheniformis</italic> NH1: Characterization and
+potential application as detergent additive</article-title><source>Biochem Eng J</source><volume>47</volume><fpage>71</fpage><lpage>79</lpage></element-citation></ref><ref id="B27"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ikram-Ul-Haq</surname></name><name><surname>Mukhtar</surname><given-names>H</given-names></name></person-group><year>2007</year><article-title>Biosynthesis of acid proteases by <italic>Penicillium
+griseoroseum</italic> IH-02 in solid-state fermentation</article-title><source>Pak J Bot</source><volume>39</volume><fpage>2717</fpage><lpage>2724</lpage></element-citation></ref><ref id="B28"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Jaouadi</surname><given-names>B</given-names></name><name><surname>Ellouz-Chaabouni</surname><given-names>S</given-names></name><name><surname>Rhimi</surname><given-names>M</given-names></name><etal/></person-group><year>2008</year><article-title>Biochemical and molecular characterization of a detergent-stable
+serine alkaline protease from <italic>Bacillus pumilus</italic> CBS with
+high catalytic efficiency</article-title><source>Biochim</source><volume>90</volume><fpage>1291</fpage><lpage>1305</lpage></element-citation></ref><ref id="B29"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Jensen</surname><given-names>B</given-names></name><name><surname>Nebelong</surname><given-names>P</given-names></name><name><surname>Olsen</surname><given-names>J</given-names></name><etal/></person-group><year>2002</year><article-title>Enzymes production in continuous cultivation by the thermophilic
+fungus, <italic>Thermomyces lanuginosus</italic>
+</article-title><source>Biotechnol Lett</source><volume>24</volume><fpage>41</fpage><lpage>45</lpage></element-citation></ref><ref id="B30"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Johnvesly</surname><given-names>B</given-names></name><name><surname>Naik</surname><given-names>GR</given-names></name></person-group><year>2001</year><article-title>Studies on production of thermostable alkaline protease from
+thermophilic and alkaliphilic <italic>Bacillus</italic> sp. JB-99 in a
+chemically defined medium</article-title><source>Process Biochem</source><volume>37</volume><fpage>139</fpage><lpage>144</lpage></element-citation></ref><ref id="B31"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kranthi</surname><given-names>VS</given-names></name><name><surname>Rao</surname><given-names>DM</given-names></name><name><surname>Jaganmohan</surname><given-names>P</given-names></name></person-group><year>2012</year><article-title>Production of Protease by <italic>Aspergillus flavus</italic>
+Through Solid State Fermentation Using Different Oil Seed
+Cakes</article-title><source>Int J Microbiol Res</source><volume>3</volume><fpage>12</fpage><lpage>15</lpage></element-citation></ref><ref id="B32"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kucera</surname><given-names>M</given-names></name></person-group><year>1981</year><article-title>The production of toxic protease by the entomopathogenous fungus
+<italic>Metarhizium anisopliae</italic> in submerged
+culture</article-title><source>J Invertebr Pathol</source><volume>38</volume><fpage>33</fpage><lpage>38</lpage></element-citation></ref><ref id="B33"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kumar</surname><given-names>CG</given-names></name><name><surname>Takagi</surname><given-names>H</given-names></name></person-group><year>1999</year><article-title>Microbial alkaline proteases: From a bioindustrial
+viewpoint</article-title><source>Biotechnol Adv</source><volume>17</volume><fpage>561</fpage><lpage>594</lpage><pub-id pub-id-type="pmid">14538129</pub-id></element-citation></ref><ref id="B34"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kumar</surname><given-names>S</given-names></name><name><surname>Sharma</surname><given-names>NS</given-names></name><name><surname>Saharan</surname><given-names>MR</given-names></name><etal/></person-group><year>2005</year><article-title>Extracellular acid protease from <italic>Rhizopus
+oryzae</italic>: purification and characterization</article-title><source>Process Biochem</source><volume>40</volume><fpage>1701</fpage><lpage>1705</lpage></element-citation></ref><ref id="B35"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kumari</surname><given-names>M</given-names></name><name><surname>Sharma</surname><given-names>A</given-names></name><name><surname>Jagannadham</surname><given-names>MV</given-names></name></person-group><year>2012</year><article-title>Religiosin B, a milk-clotting serine protease from <italic>Ficus
+religiosa</italic>
+</article-title><source>Food Chem</source><volume>131</volume><fpage>1295</fpage><lpage>1303</lpage></element-citation></ref><ref id="B36"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Larsen</surname><given-names>MD</given-names></name><name><surname>Kristiansen</surname><given-names>KR</given-names></name><name><surname>Hansen</surname><given-names>TK</given-names></name></person-group><year>1998</year><article-title>Characterization of the proteolytic activity of starter cultures
+of <italic>Penicillium roqueforti</italic> for production of blue veined
+cheeses</article-title><source>Int J Food Microbiol</source><volume>43</volume><fpage>215</fpage><lpage>221</lpage><pub-id pub-id-type="pmid">9801197</pub-id></element-citation></ref><ref id="B37"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Laxman</surname><given-names>RS</given-names></name><name><surname>Sonawane</surname><given-names>AP</given-names></name><name><surname>More</surname><given-names>SV</given-names></name><etal/></person-group><year>2005</year><article-title>Optimization and scale up of production of alkaline protease from
+<italic>Conidiobolus coronatus</italic>
+</article-title><source>Process Biochem</source><volume>40</volume><fpage>3152</fpage><lpage>3158</lpage></element-citation></ref><ref id="B38"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Li</surname><given-names>D</given-names></name><name><surname>Yang</surname><given-names>Y</given-names></name><name><surname>Shen</surname><given-names>C</given-names></name></person-group><year>1997</year><article-title>Protease production by the thermophilic fungus
+<italic>Thermomyces lanuginosus</italic>
+</article-title><source>Mycol Res</source><volume>101</volume><fpage>18</fpage><lpage>22</lpage></element-citation></ref><ref id="B39"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Li</surname><given-names>J</given-names></name><name><surname>Yang</surname><given-names>J</given-names></name><name><surname>Huang</surname><given-names>X</given-names></name><etal/></person-group><year>2006</year><article-title>Purification and characterization of an extracellular serine
+protease from <italic>Clonostachys rosea</italic> and its potential as a
+pathogenic factor</article-title><source>Process Biochem</source><volume>41</volume><fpage>925</fpage><lpage>929</lpage></element-citation></ref><ref id="B40"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Macchione</surname><given-names>MM</given-names></name><name><surname>Merheb</surname><given-names>CW</given-names></name><name><surname>Gomes</surname><given-names>E</given-names></name><etal/></person-group><year>2008</year><article-title>Protease production by different thermophilic
+fungi</article-title><source>Appl Biochem Biotechnol</source><volume>146</volume><fpage>223</fpage><lpage>230</lpage><pub-id pub-id-type="pmid">18421600</pub-id></element-citation></ref><ref id="B41"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Maheshwari</surname><given-names>R</given-names></name><name><surname>Bharadwaj</surname><given-names>G</given-names></name><name><surname>Bhat</surname><given-names>MK</given-names></name></person-group><year>2000</year><article-title>Thermophilic fungi: their physiology and enzymes</article-title><source>Microbiol Mol Biol Rev</source><volume>64</volume><fpage>461</fpage><lpage>488</lpage><pub-id pub-id-type="pmid">10974122</pub-id></element-citation></ref><ref id="B42"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Malathi</surname><given-names>S</given-names></name><name><surname>Chakraborty</surname><given-names>R</given-names></name></person-group><year>1991</year><article-title>Production of Alkaline Protease by a New <italic>Aspergillus
+flavus</italic> Isolate under Solid-Substrate Fermentation Conditions
+for Use as a Depilation Agent</article-title><source>Appl Environ Microbiol</source><volume>57</volume><fpage>712</fpage><lpage>716</lpage><pub-id pub-id-type="pmid">16348437</pub-id></element-citation></ref><ref id="B43"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Merheb-Dini</surname><given-names>C</given-names></name><name><surname>Gomes</surname><given-names>E</given-names></name><name><surname>Boscolo</surname><given-names>M</given-names></name><etal/></person-group><year>2010</year><article-title>Production and characterization of a milk-clotting protease in
+the crude enzymatic extract from the newly isolated <italic>Thermomucor
+indicae-seudaticae</italic> N31 (Milk-clotting protease from the newly
+isolated <italic>Thermomucor indicae-seudaticae</italic>
+N31)</article-title><source>Food Chem</source><volume>120</volume><fpage>87</fpage><lpage>93</lpage></element-citation></ref><ref id="B44"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Merheb</surname><given-names>CW</given-names></name><name><surname>Cabral</surname><given-names>H</given-names></name><name><surname>Gomes</surname><given-names>E</given-names></name><etal/></person-group><year>2007</year><article-title>Partial characterization of protease from a thermophilic fungus,
+<italic>Thermoascus aurantiacus</italic>, and its hydrolytic activity on
+bovine casein</article-title><source>Food Chem</source><volume>104</volume><fpage>127</fpage><lpage>131</lpage></element-citation></ref><ref id="B45"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Negi</surname><given-names>S</given-names></name><name><surname>Banerjee</surname><given-names>R</given-names></name></person-group><year>2009</year><article-title>Characterization of amylase and protease produced by
+<italic>Aspergillus awamori</italic> in a single
+bioreactor</article-title><source>Food Res Int</source><volume>42</volume><fpage>443</fpage><lpage>448</lpage></element-citation></ref><ref id="B46"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>O'Donnell</surname><given-names>D</given-names></name><name><surname>Wang</surname><given-names>L</given-names></name><name><surname>Xu</surname><given-names>J</given-names></name><etal/></person-group><year>2001</year><article-title>Enhanced heterologous protein production in <italic>Aspergillus
+niger</italic> through pH control of extracellular protease
+activity</article-title><source>Biochem Eng J</source><volume>8</volume><fpage>187</fpage><lpage>193</lpage></element-citation></ref><ref id="B47"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ogawa</surname><given-names>A</given-names></name><name><surname>Yasuhara</surname><given-names>A</given-names></name><name><surname>Tanaka</surname><given-names>T</given-names></name><etal/></person-group><year>1995</year><article-title>Production of Neutral Protease by Membrane-Surface of
+<italic>Aspergillus oryzae</italic> IAM2704</article-title><source>J Ferment Bioeng</source><volume>80</volume><fpage>35</fpage><lpage>40</lpage></element-citation></ref><ref id="B48"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Qing</surname><given-names>L</given-names></name><name><surname>Yi</surname><given-names>L</given-names></name><name><surname>Marek</surname><given-names>P</given-names></name><etal/></person-group><year>2013</year><article-title>Commercial proteases: present and future</article-title><source>FEBS Letters</source><volume>587</volume><fpage>1155</fpage><lpage>1163</lpage><pub-id pub-id-type="pmid">23318711</pub-id></element-citation></ref><ref id="B49"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rajmalwar</surname><given-names>S</given-names></name><name><surname>Dabholkar</surname><given-names>PS</given-names></name></person-group><year>2009</year><article-title>Production of protease by <italic>Aspergillus sp</italic>. using
+solidstate fermentation</article-title><source>Afr J Biotechnol</source><volume>8</volume><fpage>4197</fpage><lpage>4198</lpage></element-citation></ref><ref id="B50"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ramamurthy</surname><given-names>V</given-names></name><name><surname>Upadhyay</surname><given-names>CM</given-names></name><name><surname>Kothari</surname><given-names>RM</given-names></name></person-group><year>1991</year><article-title>An optimized protocol for the preparation and application of acid
+protease</article-title><source>J Biotechnol</source><volume>21</volume><fpage>187</fpage><lpage>196</lpage></element-citation></ref><ref id="B51"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rao</surname><given-names>MB</given-names></name><name><surname>Tanksale</surname><given-names>AM</given-names></name><name><surname>Ghatge</surname><given-names>MS</given-names></name><etal/></person-group><year>1998</year><article-title>Molecular and biotechnological aspects of microbial
+proteases</article-title><source>Microbiol Mol Biol Rev</source><volume>62</volume><fpage>597</fpage><lpage>635</lpage><pub-id pub-id-type="pmid">9729602</pub-id></element-citation></ref><ref id="B52"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rao</surname><given-names>YK</given-names></name><name><surname>Lu</surname><given-names>S-C</given-names></name><name><surname>Liu</surname><given-names>B-L</given-names></name><etal/></person-group><year>2006</year><article-title>Enhanced production of an extracellular protease from
+<italic>Beauveria bassiana</italic> by optimization of cultivation
+processes</article-title><source>Biochem Eng J</source><volume>28</volume><fpage>57</fpage><lpage>66</lpage></element-citation></ref><ref id="B53"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sabotic</surname><given-names>J</given-names></name><name><surname>Kos</surname><given-names>J</given-names></name></person-group><year>2012</year><article-title>Microbial and fungal protease inhibitors&#x02014;current and potential
+applications</article-title><source>Appl Microbiol Biotechnol</source><volume>93</volume><fpage>1351</fpage><lpage>1375</lpage><pub-id pub-id-type="pmid">22218770</pub-id></element-citation></ref><ref id="B54"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sandhya</surname><given-names>C</given-names></name><name><surname>Sumantha</surname><given-names>A</given-names></name><name><surname>Szakacs</surname><given-names>G</given-names></name><etal/></person-group><year>2005</year><article-title>Comparative evaluation of neutral protease production by
+<italic>Aspergillus oryzae</italic> in submerged and solid-state
+fermentation</article-title><source>Process Biochem</source><volume>40</volume><fpage>2689</fpage><lpage>2694</lpage></element-citation></ref><ref id="B55"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Saran</surname><given-names>S</given-names></name><name><surname>Isar</surname><given-names>J</given-names></name><name><surname>Saxena</surname><given-names>RK</given-names></name></person-group><year>2007</year><article-title>A modified method for the detection of microbial proteases on
+agar plates using tannic acid</article-title><source>J Biochem Biophys Methods</source><volume>70</volume><fpage>697</fpage><lpage>699</lpage><pub-id pub-id-type="pmid">17434593</pub-id></element-citation></ref><ref id="B56"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Savitha</surname><given-names>S</given-names></name><name><surname>Sadhasivam</surname><given-names>S</given-names></name><name><surname>Swaminathan</surname><given-names>K</given-names></name><etal/></person-group><year>2011</year><article-title>Fungal protease: Production, purification and compatibility with
+laundry detergents and their wash performance</article-title><source>J Taiwan Inst Chem Eng</source><volume>42</volume><fpage>298</fpage><lpage>304</lpage></element-citation></ref><ref id="B57"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Shankar</surname><given-names>S</given-names></name><name><surname>Rao</surname><given-names>M</given-names></name><name><surname>Laxman</surname><given-names>RS</given-names></name></person-group><year>2011</year><article-title>Purification and characterization of an alkaline protease by a
+new strain of <italic>Beauveria</italic> sp</article-title><source>Process Biochem</source><volume>46</volume><fpage>579</fpage><lpage>585</lpage></element-citation></ref><ref id="B58"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Silva</surname><given-names>RR</given-names></name><name><surname>Rodrigues</surname><given-names>A</given-names></name><name><surname>Cabral</surname><given-names>H</given-names></name></person-group><year>2010</year><article-title>Investigation of Liquid and Solid Fermentation Processes of the
+Fungus <italic>Aspergillus fumigatus</italic> for Protease
+Production</article-title><source>J Biotechnol</source><volume>150S</volume><fpage>S1</fpage><lpage>S576</lpage></element-citation></ref><ref id="B59"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sim</surname><given-names>Y-C</given-names></name><name><surname>Lee</surname><given-names>S-G</given-names></name><name><surname>Lee</surname><given-names>D-C</given-names></name><etal/></person-group><year>2000</year><article-title>Stabilization of papain and lysozyme for application to cosmetic
+products</article-title><source>Biotechnol Lett</source><volume>22</volume><fpage>137</fpage><lpage>140</lpage></element-citation></ref><ref id="B60"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sun</surname><given-names>SY</given-names></name><name><surname>Xu</surname><given-names>Y</given-names></name></person-group><year>2009</year><article-title>Membrane-bound &#x02018;synthetic lipase' specifically cultured under
+solid-state fermentation and submerged fermentation by <italic>Rhizopus
+chinensis</italic>: a comparative investigation</article-title><source>Bioresour Technol</source><volume>100</volume><fpage>1336</fpage><lpage>1342</lpage><pub-id pub-id-type="pmid">18809324</pub-id></element-citation></ref><ref id="B61"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Tavano</surname><given-names>OL</given-names></name></person-group><year>2013</year><article-title>Protein hydrolysis using proteases: An important tool for food
+biotechnology</article-title><source>J Mol CatalBEnzym</source><volume>90</volume><fpage>1</fpage><lpage>11</lpage></element-citation></ref><ref id="B62"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Tomar</surname><given-names>R</given-names></name><name><surname>Kumar</surname><given-names>R</given-names></name><name><surname>Jagannadham</surname><given-names>MV</given-names></name></person-group><year>2008</year><article-title>A stable serine protease, wrightin, from the latex of the plant
+<italic>Wrightia tinctoria</italic> (Roxb.) R. Br.: purification and
+biochemical properties</article-title><source>J Agric Food Chem</source><volume>56</volume><fpage>1479</fpage><lpage>1487</lpage><pub-id pub-id-type="pmid">18220346</pub-id></element-citation></ref><ref id="B63"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Tunga</surname><given-names>R</given-names></name><name><surname>Shrivastava</surname><given-names>B</given-names></name><name><surname>Banerjee</surname><given-names>R</given-names></name></person-group><year>2003</year><article-title>Purification and characterization of a protease from solid state
+cultures of <italic>Aspergillus parasiticus</italic>
+</article-title><source>Process Biochem</source><volume>38</volume><fpage>1553</fpage><lpage>1558</lpage></element-citation></ref><ref id="B64"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Vignardet</surname><given-names>C</given-names></name><name><surname>Guillaume</surname><given-names>YC</given-names></name><name><surname>Michel</surname><given-names>L</given-names></name><etal/></person-group><year>2001</year><article-title>Comparison of two hard keratinous substrates submitted to the
+action of a keratinase using an experimental design</article-title><source>Int J Pharm</source><volume>224</volume><fpage>115</fpage><lpage>122</lpage><pub-id pub-id-type="pmid">11472820</pub-id></element-citation></ref><ref id="B65"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Vishwanatha</surname><given-names>KS</given-names></name><name><surname>Appu Rao</surname><given-names>AG</given-names></name><name><surname>Singh</surname><given-names>SA</given-names></name></person-group><year>2010a</year><article-title>Production and characterization of a milk-clotting enzyme from
+<italic>Aspergillus oryzae</italic> MTCC 5341</article-title><source>Appl Microbiol Biotechnol</source><volume>85</volume><fpage>1849</fpage><lpage>1859</lpage><pub-id pub-id-type="pmid">19727708</pub-id></element-citation></ref><ref id="B66"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Vishwanatha</surname><given-names>KS</given-names></name><name><surname>Rao</surname><given-names>AG</given-names></name><name><surname>Singh</surname><given-names>SA</given-names></name></person-group><year>2010b</year><article-title>Acid protease production by solid-state fermentation using
+<italic>Aspergillus oryzae</italic> MTCC 5341: optimization of process
+parameters</article-title><source>J Ind Microbiol Biotechnol</source><volume>37</volume><fpage>129</fpage><lpage>138</lpage><pub-id pub-id-type="pmid">19937364</pub-id></element-citation></ref><ref id="B67"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Vishwanatha</surname><given-names>KS</given-names></name><name><surname>Rao</surname><given-names>AGA</given-names></name><name><surname>Singh</surname><given-names>SA</given-names></name></person-group><year>2009</year><article-title>Characterisation of acid protease expressed from
+<italic>Aspergillus oryzae</italic> MTCC 5341</article-title><source>Food Chem</source><volume>114</volume><fpage>402</fpage><lpage>407</lpage></element-citation></ref><ref id="B68"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Vranova</surname><given-names>V</given-names></name><name><surname>Rejsek</surname><given-names>K</given-names></name><name><surname>Formanek</surname><given-names>P</given-names></name></person-group><year>2013</year><article-title>Proteolytic activity in soil: A review</article-title><source>Applied Soil Ecology</source><volume>70</volume><fpage>23</fpage><lpage>32</lpage></element-citation></ref><ref id="B69"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wang</surname><given-names>B</given-names></name><name><surname>Wu</surname><given-names>W</given-names></name><name><surname>Liu</surname><given-names>X</given-names></name></person-group><year>2007</year><article-title>Purification and characterization of a neutral serine protease
+with nematicidal activity from <italic>Hirsutella
+rhossiliensis</italic>
+</article-title><source>Mycopathol</source><volume>163</volume><fpage>169</fpage><lpage>176</lpage></element-citation></ref><ref id="B70"><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Ward</surname><given-names>OP</given-names></name></person-group><year>2011</year><chapter-title>Proteases</chapter-title><person-group person-group-type="editor"><name><surname>Moo-Young</surname><given-names>M</given-names></name></person-group><source>Comprehensive Biotechnology</source><edition>2nd ed</edition><publisher-name>Waterloo</publisher-name><publisher-loc>Canada</publisher-loc><fpage>571</fpage><lpage>582</lpage></element-citation></ref><ref id="B71"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Watanabe</surname><given-names>K</given-names></name></person-group><year>2004</year><article-title>Collagenolytic proteases from bacteria</article-title><source>Appl Microbiol Biotechnol</source><volume>63</volume><fpage>520</fpage><lpage>526</lpage><pub-id pub-id-type="pmid">14556041</pub-id></element-citation></ref><ref id="B72"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wu</surname><given-names>TY</given-names></name><name><surname>Mohammada</surname><given-names>AW</given-names></name><name><surname>Jahim</surname><given-names>JM</given-names></name><etal/></person-group><year>2006</year><article-title>Investigations on protease production by a wild-type
+<italic>Aspergillus terreus</italic> strain using diluted retentate of
+pre-filtered palm oil mill effluent (POME) as substrate</article-title><source>Enzym Microb Technol</source><volume>39</volume><fpage>1223</fpage><lpage>1229</lpage></element-citation></ref><ref id="B73"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Xiaoping</surname><given-names>X</given-names></name><name><surname>Xianghua</surname><given-names>W</given-names></name><name><surname>Yanan</surname><given-names>B</given-names></name><etal/></person-group><year>2008</year><article-title>Effects of culture conditions on ligninolytic enzymes and
+protease production by <italic>Phanerochaete chrysosporium</italic> in
+air</article-title><source>J Environ Sci</source><volume>20</volume><fpage>94</fpage><lpage>100</lpage></element-citation></ref><ref id="B74"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Yamamoto</surname><given-names>N</given-names></name><name><surname>Matsumoto</surname><given-names>K</given-names></name><name><surname>Yamagata</surname><given-names>Y</given-names></name><etal/></person-group><year>1993</year><article-title>A heat-labile serine proteinase from <italic>Penicillium
+citrinum</italic>
+</article-title><source>Phytochem</source><volume>32</volume><fpage>1393</fpage><lpage>1397</lpage></element-citation></ref><ref id="B75"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Yang</surname><given-names>F</given-names></name><name><surname>Lin</surname><given-names>I</given-names></name></person-group><year>1998</year><article-title>Production of acid protease using thin stillage from a
+rice-spirit distillery by <italic>Aspergillus niger</italic>
+</article-title><source>Enzym Microb Technol</source><volume>23</volume><fpage>397</fpage><lpage>402</lpage></element-citation></ref><ref id="B76"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zambare</surname><given-names>V</given-names></name><name><surname>Nilegaonkar</surname><given-names>S</given-names></name><name><surname>Kanekar</surname><given-names>P</given-names></name></person-group><year>2011</year><article-title>A novel extracellular protease from <italic>Pseudomonas
+aeruginosa</italic> MCM B-327: enzyme production and its partial
+characterization</article-title><source>N Biotechnol</source><volume>28</volume><fpage>173</fpage><lpage>181</lpage><pub-id pub-id-type="pmid">20951241</pub-id></element-citation></ref><ref id="B77"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zanphorlin</surname><given-names>LM</given-names></name><name><surname>Facchini</surname><given-names>FD</given-names></name><name><surname>Vasconcelos</surname><given-names>F</given-names></name><etal/></person-group><year>2010</year><article-title>Production, partial characterization, and immobilization in
+alginate beads of an alkaline protease from a new thermophilic fungus
+<italic>Myceliophthora</italic> sp</article-title><source>J Microbiol</source><volume>48</volume><fpage>331</fpage><lpage>336</lpage><pub-id pub-id-type="pmid">20571951</pub-id></element-citation></ref><ref id="B78"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zhang</surname><given-names>Y</given-names></name><name><surname>Liu</surname><given-names>X</given-names></name><name><surname>Wang</surname><given-names>M</given-names></name></person-group><year>2008</year><article-title>Cloning, expression, and characterization of two novel
+cuticle-degrading serine proteases from the entomopathogenic fungus
+<italic>Cordyceps sinensis</italic>
+</article-title><source>Res Microbiol</source><volume>159</volume><fpage>462</fpage><lpage>469</lpage><pub-id pub-id-type="pmid">18555668</pub-id></element-citation></ref></ref-list></back></article>

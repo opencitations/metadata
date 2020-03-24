@@ -1,0 +1,906 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?properties manuscript?><front><journal-meta><journal-id journal-id-type="nlm-journal-id">101740247</journal-id><journal-id journal-id-type="pubmed-jr-id">48338</journal-id><journal-id journal-id-type="nlm-ta">AAS Open Res</journal-id><journal-id journal-id-type="iso-abbrev">AAS Open Res</journal-id><journal-title-group><journal-title>AAS open research</journal-title></journal-title-group><issn pub-type="epub">2515-9321</issn></journal-meta><article-meta><article-id pub-id-type="pmid">30714021</article-id><article-id pub-id-type="pmc">6358001</article-id><article-id pub-id-type="doi">10.12688/aasopenres.12841.1</article-id><article-id pub-id-type="manuscript">EMS80339</article-id><article-categories><subj-group subj-group-type="heading"><subject>Article</subject></subj-group></article-categories><title-group><article-title>Ethical and scientific considerations on the establishment of a
+controlled human infection model for schistosomiasis in Uganda: report of a
+stakeholders&#x02019; meeting held in Entebbe, Uganda.</article-title><fn-group content-type="pub-status"><fn id="FN1"><p id="P1">[version 1; referees: 2 approved]</p></fn></fn-group></title-group><contrib-group><contrib contrib-type="author" corresp="yes"><name><surname>Elliott</surname><given-names>Alison M.</given-names></name><role content-type="http://credit.casrai.org/">Conceptualization</role><role content-type="http://credit.casrai.org/">Funding Acquisition</role><role content-type="http://credit.casrai.org/">Project Administration</role><role content-type="http://credit.casrai.org/">Writing &#x02013; Original Draft
+Preparation</role><role content-type="http://credit.casrai.org/">Writing &#x02013; Review &#x00026;
+Editing</role><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0003-2818-9549</contrib-id><xref rid="C1" ref-type="corresp">a</xref><xref ref-type="aff" rid="A1">1</xref></contrib><contrib contrib-type="author" corresp="no"><name><surname>Roestenberg</surname><given-names>Meta</given-names></name><role content-type="http://credit.casrai.org/">Conceptualization</role><role content-type="http://credit.casrai.org/">Funding Acquisition</role><role content-type="http://credit.casrai.org/">Project Administration</role><role content-type="http://credit.casrai.org/">Writing &#x02013; Original Draft
+Preparation</role><role content-type="http://credit.casrai.org/">Writing &#x02013; Review &#x00026;
+Editing</role><xref ref-type="aff" rid="A2">2</xref></contrib><contrib contrib-type="author" corresp="no"><name><surname>Wajja</surname><given-names>Anne</given-names></name><role content-type="http://credit.casrai.org/">Project Administration</role><role content-type="http://credit.casrai.org/">Writing &#x02013; Review &#x00026;
+Editing</role><xref ref-type="aff" rid="A1">1</xref></contrib><contrib contrib-type="author" corresp="no"><name><surname>Opio</surname><given-names>Christopher</given-names></name><role content-type="http://credit.casrai.org/">Writing &#x02013; Review &#x00026;
+Editing</role><xref ref-type="aff" rid="A3">3</xref></contrib><contrib contrib-type="author" corresp="no"><name><surname>Angumya</surname><given-names>Francis</given-names></name><role content-type="http://credit.casrai.org/">Writing &#x02013; Review &#x00026;
+Editing</role><xref ref-type="aff" rid="A3">3</xref></contrib><contrib contrib-type="author" corresp="no"><name><surname>Adriko</surname><given-names>Moses</given-names></name><role content-type="http://credit.casrai.org/">Writing &#x02013; Review &#x00026;
+Editing</role><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0001-9748-1207</contrib-id><xref ref-type="aff" rid="A4">4</xref></contrib><contrib contrib-type="author" corresp="no"><name><surname>Egesa</surname><given-names>Moses</given-names></name><role content-type="http://credit.casrai.org/">Writing &#x02013; Review &#x00026;
+Editing</role><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0001-5136-868X</contrib-id><xref ref-type="aff" rid="A1">1</xref><xref ref-type="aff" rid="A5">5</xref></contrib><contrib contrib-type="author" corresp="no"><name><surname>Gitome</surname><given-names>Serah</given-names></name><role content-type="http://credit.casrai.org/">Writing &#x02013; Review &#x00026;
+Editing</role><xref ref-type="aff" rid="A6">6</xref></contrib><contrib contrib-type="author" corresp="no"><name><surname>Mfutso-Bengo</surname><given-names>Joseph</given-names></name><role content-type="http://credit.casrai.org/">Writing &#x02013; Review &#x00026;
+Editing</role><xref ref-type="aff" rid="A7">7</xref></contrib><contrib contrib-type="author" corresp="no"><name><surname>Bejon</surname><given-names>Philip</given-names></name><role content-type="http://credit.casrai.org/">Writing &#x02013; Review &#x00026;
+Editing</role><xref ref-type="aff" rid="A8">8</xref></contrib><contrib contrib-type="author" corresp="no"><name><surname>Kapulu</surname><given-names>Melissa</given-names></name><role content-type="http://credit.casrai.org/">Writing &#x02013; Review &#x00026;
+Editing</role><xref ref-type="aff" rid="A8">8</xref></contrib><contrib contrib-type="author" corresp="no"><name><surname>Seager</surname><given-names>Zoe</given-names></name><role content-type="http://credit.casrai.org/">Conceptualization</role><role content-type="http://credit.casrai.org/">Writing &#x02013; Review &#x00026;
+Editing</role><xref ref-type="aff" rid="A9">9</xref></contrib><contrib contrib-type="author" corresp="no"><name><surname>Lutalo</surname><given-names>Tom</given-names></name><role content-type="http://credit.casrai.org/">Writing &#x02013; Review &#x00026;
+Editing</role><xref ref-type="aff" rid="A10">10</xref></contrib><contrib contrib-type="author" corresp="no"><name><surname>Nazziwa</surname><given-names>Winfred Badanga</given-names></name><role content-type="http://credit.casrai.org/">Conceptualization</role><role content-type="http://credit.casrai.org/">Writing &#x02013; Review &#x00026;
+Editing</role><xref ref-type="aff" rid="A11">11</xref></contrib><contrib contrib-type="author" corresp="no"><name><surname>Muwumuza</surname><given-names>Asuman</given-names></name><role content-type="http://credit.casrai.org/">Writing &#x02013; Review &#x00026;
+Editing</role><xref ref-type="aff" rid="A12">12</xref></contrib><contrib contrib-type="author" corresp="no"><name><surname>Yazdanbakhsh</surname><given-names>Maria</given-names></name><role content-type="http://credit.casrai.org/">Conceptualization</role><role content-type="http://credit.casrai.org/">Funding Acquisition</role><role content-type="http://credit.casrai.org/">Writing &#x02013; Original Draft
+Preparation</role><role content-type="http://credit.casrai.org/">Writing &#x02013; Review &#x00026;
+Editing</role><xref ref-type="aff" rid="A2">2</xref></contrib><contrib contrib-type="author" corresp="no"><name><surname>Kaleebu</surname><given-names>Pontiano</given-names></name><role content-type="http://credit.casrai.org/">Writing &#x02013; Review &#x00026;
+Editing</role><xref ref-type="aff" rid="A1">1</xref><xref ref-type="aff" rid="A10">10</xref></contrib><contrib contrib-type="author" corresp="no"><name><surname>Kabatereine</surname><given-names>Narcis</given-names></name><role content-type="http://credit.casrai.org/">Conceptualization</role><role content-type="http://credit.casrai.org/">Writing &#x02013; Review &#x00026;
+Editing</role><xref ref-type="aff" rid="A4">4</xref><xref ref-type="aff" rid="A13">13</xref></contrib><contrib contrib-type="author" corresp="no"><name><surname>Tukahebwa</surname><given-names>Edridah</given-names></name><role content-type="http://credit.casrai.org/">Conceptualization</role><role content-type="http://credit.casrai.org/">Writing &#x02013; Review &#x00026;
+Editing</role><xref ref-type="aff" rid="A4">4</xref></contrib><aff id="A1">
+<label>1</label>Medical Research Council/Uganda Virus Research Institute and
+London School of Hygiene &#x00026; Tropical Medicine (MRC/UVRI and LSHTM) Uganda
+Research Unit, Entebbe, P.O. Box 49, Uganda</aff><aff id="A2">
+<label>2</label>Department of Parasitology, Leiden University Medical Center,
+Leiden, Netherlands</aff><aff id="A3">
+<label>3</label>Department of Medicine, College of Health Sciences, Makerere
+University, Kampala, P.O. Box 7072, Uganda</aff><aff id="A4">
+<label>4</label>Vector Control Division, Ministry of Health of Uganda, Kampala,
+Uganda</aff><aff id="A5">
+<label>5</label>Department of Medical Microbiology, School of Biomedical
+Sciences, College of Health Sciences, Makerere University, Kampala, Uganda</aff><aff id="A6">
+<label>6</label>Kenya Medical Research Institute (KEMRI), Nairobi, Kenya</aff><aff id="A7">
+<label>7</label>Centre for Bioethics for Eastern and Southern Africa, School of
+Public Health and Family Medicine, College of Medicine, University of Malawi,
+Blantyre, Malawi</aff><aff id="A8">
+<label>8</label>KEMRI-Wellcome Trust Research Programme, Kilifi, Kenya</aff><aff id="A9">
+<label>9</label>Wellcome Trust, London, UK</aff><aff id="A10">
+<label>10</label>Uganda Virus Research Institute, Entebbe, Uganda</aff><aff id="A11">
+<label>11</label>Uganda National Council for Science and Technology, Kampala,
+Uganda</aff><aff id="A12">
+<label>12</label>Mukono District Local Government, Mukono, Uganda</aff><aff id="A13">
+<label>13</label>Schistosomiasis Control Initiative, Faculty of Medicine, School
+of Public Health, Imperial College London, London, UK</aff></contrib-group><author-notes><corresp id="C1"><label>a</label><email xlink:href="mailto:alison.elliott@mrcuganda.org">alison.elliott@mrcuganda.org</email></corresp><fn fn-type="COI-statement" id="FN2"><p id="P2">No competing interests were disclosed.</p></fn></author-notes><pub-date pub-type="epub"><day>18</day><month>4</month><year>2018</year></pub-date><pub-date pub-type="pmc-release"><day>01</day><month>2</month><year>2019</year></pub-date><volume>1</volume><elocation-id>2</elocation-id><permissions><license xlink:href="http://creativecommons.org/licenses/by/4.0/"><license-p>This is an open access article distributed under the terms of the
+Creative Commons Attribution Licence, which permits unrestricted use,
+distribution, and reproduction in any medium, provided the original work is
+properly cited.</license-p></license></permissions><self-uri xlink:href="http://aasopenresearch.org/articles/1-2/v2#"/><abstract><p id="P3">Controlled human infection (CHI) models are gaining recognition as an
+approach to accelerating vaccine development, for use in both non-endemic and
+endemic populations: they can facilitate identification of the most promising
+candidate vaccines for further trials and advance understanding of protective
+immunity. Helminths present a continuing health burden in sub-Saharan Africa.
+Vaccine development for these complex organisms is particularly challenging,
+partly because protective responses are akin to mechanisms of allergy. A CHI
+model for <italic>Schistosoma mansoni </italic>(CHI-S) has been developed at
+Leiden University Medical Centre, the Netherlands. However, responses to
+schistosome infections, and candidate vaccines, are likely to be different among
+people from endemic settings compared to schistosome-na&#x000ef;ve Dutch
+volunteers. Furthermore, among volunteers from endemic regions who have acquired
+immune responses through prior exposure, schistosome challenge can be used to
+define responses associated with clinical protection, and thus to guide vaccine
+development.&#x000a0; To explore the possibility of establishing the CHI-S in
+Uganda, a Stakeholders&#x02019; Meeting was held in Entebbe in 2017. Regulators,
+community members, researchers and policy-makers discussed implementation
+challenges and recommended preparatory steps: risk assessment; development of
+infrastructure and technical capacity to produce the infectious challenge
+material in Uganda; community engagement from Parliamentary to grass-roots
+level; pilot studies to establish approaches to assuring fully informed consent
+and true voluntariness, and strategies for selection of volunteers who can avoid
+natural infection during the 12-week CHI-S; the building of regulatory capacity;
+and the development of study protocols and a product dossier in close
+consultation with ethical and regulatory partners. It was recommended that, on
+completion, the protocol and product dossier be reviewed for approval in a joint
+meeting combining ethical, regulatory and environment management authorities.
+Most importantly, representatives of schistosomiasis-affected communities
+emphasised the urgent need for an effective vaccine and urged the research
+community not to delay in the development process.</p></abstract><kwd-group kwd-group-type="author"><kwd>Controlled human infection model; Schistosoma mansoni; Uganda; The
+Netherlands</kwd></kwd-group></article-meta></front><body><sec sec-type="intro" id="S1"><title>Introduction</title><p id="P4">Effective vaccines have proven extremely useful in the prevention of
+infectious diseases, but are still lacking for major poverty-related and neglected
+infections, including helminth infections. The conventional approach to vaccine
+development, testing efficacy in human subjects in large Phase III trials after
+safety and immunogenicity are confirmed through smaller Phase I and II trials, is
+lengthy and extremely costly. An alternative approach, to identify the most
+promising candidate vaccines through controlled human infection (CHI) models
+(typically referred to as Phase IIa), is gaining acceptance and application for
+infections including malaria, typhoid and others: to date about 22,000 volunteers
+have been infected, safely, with 23 different pathogens<xref rid="R1" ref-type="bibr">1</xref>&#x02013;<xref rid="R4" ref-type="bibr">4</xref>.</p><p id="P5">Schistosomiasis is a major parasitic infectious disease, considered second
+only to malaria as a parasitic cause of morbidity and mortality<xref rid="R5" ref-type="bibr">5</xref>. The current approach to control schistosomiasis is
+through mass drug administration (MDA) with praziquantel, but this is limited by
+high rates of re-infection and there are concerns about the possible emergence of
+drug resistance<xref rid="R6" ref-type="bibr">6</xref>,<xref rid="R7" ref-type="bibr">7</xref>. An effective vaccine would be an extremely valuable
+control tool but vaccine development for this complex organism is challenging. In a
+bid to accelerate this, Meta Roestenberg and colleagues at the Leiden University
+Medical Centre have developed a controlled human infection model for
+<italic>Schistosoma mansoni</italic> (CHI-S) and tested it among Dutch
+volunteers. However, the response to <italic>Schistosoma</italic> infection, and to
+candidate vaccines, is likely to differ markedly among people from endemic African
+populations (where vaccines are most needed and where people are exposed to an
+abundance of potentially immunomodulating infections) compared to European
+volunteers. Furthermore, individuals from endemic populations may display some
+resistance to CHI-S due to prior schistosome exposure. Vaccine development against
+several pathogens has been informed by studies in which naturally acquired immune
+responses are correlated with clinical protection, in order to inform vaccine
+developers on ideal antigens, epitopes and protective thresholds. Thus challenge
+studies among volunteers from endemic settings, who have naturally acquired
+immunity, have the potential also to accelerate the development of the next
+generation of vaccines by allowing desirable immune responses to be identified and
+prioritised. Implementation of the CHI-S model <italic/> in an endemic setting would
+therefore provide critical additional information on markers of protective immunity
+and on immunogenicity, safety and efficacy of candidate vaccines. </p><p id="P6">As a first step towards establishing the CHI-S in an endemic setting, we held
+a stakeholders meeting in Entebbe, Uganda, in November 2017, to identify key
+challenges and to develop strategies to address them. Meeting participants included
+representatives of Uganda&#x02019;s Ministry of Health (Vector Control Division),
+National Council for Science and Technology, National Drug Authority and National
+Environment Management Authority; researchers and clinicians who manage
+schistosomiasis and its complications; chairpersons, committee members and community
+representatives from various Ugandan ethics fora across the country (the Uganda
+Virus Research Institute, Makerere University and Mbarara University);
+representatives of potential volunteer communities (Makerere University students and
+community representatives from Koome Islands in Lake Victoria); colleagues with
+experience of implementing controlled human malaria infections (CHMI) from Kenya and
+with ethics expertise from Kenya and Malawi; and the team who developed the CHI-S
+from Leiden. Deliberations were informed by the earlier work on CHMI in Kenya, and
+by the proceedings of the meeting on CHI models held in Malawi in June 2017<xref rid="R8" ref-type="bibr">8</xref>. We here report proceedings of the Uganda
+meeting.</p></sec><sec id="S2"><title>Schistosomiasis</title><p id="P7">Schistosomiasis is estimated to affect 230 million people worldwide, the
+majority of them in sub-Saharan Africa<xref rid="R9" ref-type="bibr">9</xref>. In
+Uganda, schistosomiasis was first described in the 1900s and was recognised as a
+serious public health problem in the 1950s<xref rid="R10" ref-type="bibr">10</xref>.
+Mapping, and the development of a control plan in the 1990s, provided a strong basis
+for the work of the Schistosomiasis Control Initiative, which launched its programme
+of control by Mass Drug Administration using praziquantel in Uganda in 2003. Initial
+results from MDA were promising<xref rid="R11" ref-type="bibr">11</xref> but recent
+data show that, despite enhanced coverage, both prevalence and intensity of
+infection remain high in &#x0201c;hot spot&#x0201d; lakeshore communities. It is
+increasingly evident that MDA alone will not be adequate to achieve WHO&#x02019;s
+target of elimination of schistosomiasis as a public health problem by 2030. Of
+Uganda&#x02019;s population of 36 million, more than 4 million are estimated to be
+infected with schistosomiasis, and 55% of the present population is estimated to be
+at risk<xref rid="R12" ref-type="bibr">12</xref>. </p><p id="P8">Adult <italic>Schistosoma</italic> worms reside in blood vessels around the
+gut (<italic>S. mansoni</italic>, <italic>S. intercalatum</italic> and <italic>S.
+japonicum</italic>) or urinary bladder (<italic>S. haematobium</italic>), where
+the female lays eggs which are excreted through the intestinal or bladder wall and
+voided in stool or urine. In water, each egg hatches producing a single miracidium.
+This enters the intermediate snail host where it multiplies asexually, producing
+identical cercariae. Cercariae are shed into the water where they again infect the
+human host by penetrating through the skin (<xref rid="F1" ref-type="fig">Figure
+1</xref>)<xref rid="R9" ref-type="bibr">9</xref>. </p><p id="P9">Humans sometimes experience cercarial dermatitis in response to the
+penetrating parasites and a minority develop acute schistosomiasis syndrome
+(&#x0201c;Katayama Fever&#x0201d;) in reaction to an initial infection. However, most
+serious disease caused by schistosome infection is due to the eggs. Besides being
+excreted in stool or urine, many eggs also find their way into other tissues,
+notably the liver: progressive liver fibrosis results in portal hypertension,
+splenomegaly, and ascites; oesophageal varices develop which can lead to death
+through uncontrolled haemorrhage<xref rid="R9" ref-type="bibr">9</xref>. Effective
+management, for example by repeated, endoscopic band ligation of the varices<xref rid="R13" ref-type="bibr">13</xref>, is seldom available in the resource-limited
+settings where schistosomiasis is common: upper gastrointestinal bleeding, resulting
+from <italic>S. mansoni</italic>-induced periportal fibrosis is a common complaint
+in primary health care in Northern Uganda, along the course of the Nile<xref rid="R14" ref-type="bibr">14</xref>,<xref rid="R15" ref-type="bibr">15</xref>.
+Hepatosplenic schistosomiasis is also associated with stunted growth and anaemia,
+leucopenia and thrombocytopenia. Occasionally eggs can be found in the spinal cord
+or brain, causing neuropathology<xref rid="R9" ref-type="bibr">9</xref>. </p></sec><sec id="S3"><title>Vaccines for schistosomiasis</title><p id="P10">A vaccine for schistosomiasis has been ranked among the top 10 vaccines that
+need to be developed urgently<xref rid="R16" ref-type="bibr">16</xref>. Schistosomes
+are large, multicellular animals that have evolved to co-exist with their human
+host. The immunoregulatory properties of schistosomes, which enable them to live in
+the portal vasculature without immune clearance, are likely to impede vaccine
+development<xref rid="R17" ref-type="bibr">17</xref>. The complex interplay
+between T-helper (Th)1, Th2 and regulatory responses is still incompletely
+understood. Schistosome killing is mediated by antibody responses, and particularly
+by Immunoglobulin (Ig)E<xref rid="R18" ref-type="bibr">18</xref>, presenting the
+risk that an effective IgE-inducing vaccine might induce allergic reactions,
+especially among previously-exposed individuals from endemic populations (as in the
+case of a candidate hookworm vaccine<xref rid="R19" ref-type="bibr">19</xref>).
+T-helper (Th)2 response profiles are therefore undesirable. Th1 responses must be
+targeted. In animal models a Th1 response has been shown to be able to participate
+in immunity against schistosomes<xref rid="R20" ref-type="bibr">20</xref>, but it is
+not yet certain which Th1 responses can induce protective immunity and correlates of
+protection have not been identified. An ideal anti-schistosome vaccine would be
+suitable for use among young children in endemic settings, as well as adults in
+high-risk occupations; it would achieve 75% reduction in infection intensity
+(assessed by circulating antigen or egg production); it would require administration
+of, at most, two doses; it would induce protection lasting at least five to 10
+years<xref rid="R21" ref-type="bibr">21</xref>; it would not induce IgE; and it
+would be suitable to co-administer with MDA.</p><p id="P11">Attenuated whole organisms from some helminth species, including schistosome
+cercariae, have been shown to induce protective immunity in animals<xref rid="R22" ref-type="bibr">22</xref>,<xref rid="R23" ref-type="bibr">23</xref>, but
+production of attenuated cercariae for large-scale administration is not feasible,
+thus the current goal is to identify helminth antigens that induce protective
+responses, but not IgE. Approaches to this include the use of sera generated in
+animal studies using attenuated larvae, or from human population studies that
+determine resistance to re-infection after MDA, together with recombinant antigens
+developed from the investigation of the parasite transcriptome and proteome, to
+identify antigen- and stage-specific antibodies associated with protection<xref rid="R24" ref-type="bibr">24</xref>,<xref rid="R25" ref-type="bibr">25</xref>.
+To date, four antigens (SmTSP-2, Sm14, Smp80 and Sh28GST) have been identified and
+tested, and show promise of efficacy in animal models; three (SmTSP-2, Sm14, Smp80)
+are ready to enter Phase I trials and one (Sh28GST, Bilhvax) has undergone a Phase
+III trial (<ext-link ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/show/NCT00870649">NCT00870649</ext-link>: this has been completed but no data have yet been
+released on the outcome of the trial). However, transcriptomic-proteomic approaches
+suggest many more candidates that could be evaluated as vaccine antigens, either
+singly or in combinations<xref rid="R26" ref-type="bibr">26</xref>&#x02013;<xref rid="R28" ref-type="bibr">28</xref>. Unfortunately, the limited resources
+available for schistosome vaccine development restrict the number of candidates that
+can be taken forward. As yet, the value of animal models for predicting efficacy of,
+and responses to, schistosome vaccine candidates in humans is unknown. Murine models
+may not be the optimal platform; baboons are considered the most suitable, and have
+been used to further the SmTSP-2 vaccine candidate to phase I testing in humans, but
+they are expensive and reagents for immunological studies are limited. In general,
+animal models have been of great utility in asking fundamental questions regarding
+immunology and demonstrating proof-of-principle of particular vaccination
+strategies, but do not recapitulate precisely the physiology of human infections,
+and therefore cannot be considered a substitute for human studies. Clinical testing
+of novel candidates in humans is needed to obtain true efficacy data.</p></sec><sec id="S4"><title>The controlled human schistosome infection model</title><p id="P12">The CHI-S model addresses many of the roadblocks to development of an
+effective vaccine for schistosomiasis (<xref rid="T1" ref-type="table">Table
+1</xref>). The model alone will provide novel information on the evolution of
+immune responses following infection. Combined with a model &#x0201c;vaccine&#x0201d;,
+such as irradiated cercariae, it has the potential to identify correlates of
+protection, particularly protective Th1 responses that could be harnessed for
+vaccine development. Then, used as a challenge in phase I vaccine trials, CHI-S will
+allow efficient and timely selection of potential vaccine candidates, and hence
+could improve and accelerate the vaccine development pipeline. Implemented in the
+endemic setting, CHI-S will take into account the impact of prior and current
+exposure to schistosome infection (including pre-natal exposure)<xref rid="R29" ref-type="bibr">29</xref> and allow modelling of efficacy in target populations,
+and in association with praziquantel MDA. In addition, CHI-S offers potential for
+testing the efficacy of new drugs for treatment of schistosomiasis. </p><p id="P13">The Leiden CHI-S has been developed with detailed attention to safety in
+both production and administration of the infectious challenge product. Because eggs
+are the main source of morbidity and pathology, the CHI-S avoids permanent pathology
+by making use of single-sex infections. Using the laboratory lifecycle, individual
+snails are isolated and each snail is carefully infected with a single miracidium.
+This undergoes asexual reproduction in the snail and after five weeks produces
+thousands of cercariae of a single clone, and hence single sex. Following several
+quality control steps and determination of male or female sex by PCR, male cercariae
+are used for the controlled infection of volunteers. This is done by taping a
+chamber of water containing a predetermined number of male cercariae onto the
+volunteer&#x02019;s forearm for a 30-minute interval. Work towards an infection model
+using female cercariae is in progress, but male worms do better than females when
+not in pairs and the possibility of production of sterile eggs from females needs to
+be excluded. Successful infections can be detected (usually after six to 12 weeks)
+and quantified by measuring circulating anodic antigen (CAA) levels in the blood:
+this is a protein which is secreted into the blood in large quantities by adult
+worms<xref rid="R30" ref-type="bibr">30</xref>. Volunteers are followed up for
+12 weeks and then treated with praziquantel. The infected snails and preparation of
+cercariae are managed in customised, dedicated facilities following Good
+Manufacturing Practice guidelines. The volunteers are intentionally infected with
+the male cercariae, and followed up until after they are cured, under conditions
+analogous to a Phase I Clinical Trial.</p><p id="P14">Technical considerations for implementation of the CHI-S in Uganda
+principally comprise the preparation of cercariae for the inoculum. Because the
+shelf-life of cercariae is just two hours, cercarial production for human challenge
+must be done locally. In Leiden, the <italic>S. mansoni</italic> life cycle is
+maintained in hamsters using a laboratory strain of <italic>S. mansoni</italic>
+which originated in Puerto Rico and <italic>Biomphalaria glabrata</italic> snails;
+this snail species is not endemic in Uganda. In Uganda, the laboratory life cycle
+has previously been maintained by the Vector Control Division of the Ministry of
+Health for another project, using mice and a range of endemic
+<italic>Biomphalaria</italic> species (including <italic>B.
+choanomphala</italic>, <italic>B. stanleyi</italic>, and <italic>B.
+sudanica</italic>)<xref rid="R31" ref-type="bibr">31</xref>, but it is not
+actively maintained at present. </p><p id="P15">Options for preparing the inoculum in Uganda include (1) re-establishing the
+full <italic>S. mansoni</italic> laboratory life-cycle; (2) shipping cryopreserved
+miracidia or eggs from Leiden for snail infection and cercarial shedding in Entebbe
+(technologies for cryopreservation of miracidia or eggs still need to be developed);
+(3) shipping infected snails from Leiden for shedding in Entebbe.</p><p id="P16">The third option, of shipping infected snails, is currently the most
+feasible. Guidelines for shipping live snails (including infected snails), developed
+by the Danish Bilharzia Laboratory, are available. These will need to be combined
+with International Air Transport Association (IATA) requirements for shipping of
+infectious material. It will be important to work with customs officials and
+handling agents to ensure efficient release on arrival in Uganda. This process will
+need to be piloted. A risk assessment will need to be undertaken, in collaboration
+with the Uganda National Environment Management Authority (NEMA) regarding potential
+introduction of a new snail species and <italic>S. mansoni</italic> strain into
+Ugandan water bodies and risk management protocols will need to be implemented to
+ensure that this does not occur. Facilities for housing and shedding the snails, and
+preparing the inoculum in accordance with GMP guidelines, will need to be
+established. </p><p id="P17">Post-meeting, a fourth option for a truly-local Ugandan CHI-S was proposed.
+This would involve generating the inoculum by obtaining miracidia from stool samples
+of infected people in Uganda, and using these to infect snails of a local species in
+the laboratory. This would have advantages. The use of a non-endemic
+<italic>Schistosoma</italic> strain and of non-endemic snail species would be
+avoided. The model would be closer to real life in Uganda. Additional capacity would
+be built in-country. However, this approach would also bring additional challenges.
+The full life-cycle (option (1) above) would need to be established in order to test
+the Ugandan schistosome strain obtained for praziquantel susceptibility before use
+in controlled human infections. And it would be more difficult to interpret any
+differences in responses to vaccines or to infection between studies in Uganda and
+studies in Leiden (or elsewhere). Nevertheless, this remains an important option for
+further discussion.</p><p id="P18">Good clinical laboratory practice (GCLP) accredited facilities and expertise
+for PCR (to confirm male sex of cercariae) are already available in Uganda, and
+plans are in place to provide equipment for high-sensitivity detection of infection
+by measurement of serum CAA in 2018. Immunological expertise for the conduct of
+antibody ELISAs and cellular immune response assays is also available. However,
+training of the Ugandan team to undertake specific procedures, and to replicate
+quality control procedures that have been developed in Leiden, will be key. </p></sec><sec id="S5"><title>Protocol development and participant recruitment considerations for CHI-S in
+Uganda</title><p id="P19">Ugandan researchers have substantial experience of community engagement and
+of conducting Phase I trials under Good Clinical Practice (GCP) conditions. However,
+the stakeholders&#x02019; meeting recognised that enhanced attention to aspects of
+these activities would be required for the CHI-S. </p><p id="P20">Full details of community engagement plans will be needed as part of the
+CHI-S protocol. There is need to involve opinion leaders, including members of
+Parliament such as the Parliamentary Committee on Health, and Resident District
+Commissioners and District Health Officers of the participating districts, as well
+as local council leaders, in order to prevent circulation of misinformation about
+the work. Populations of interest for CHI-S will include Ugandans not previously
+exposed to schistosomiasis (perhaps from an urban setting) as well as those from
+schistosomiasis-endemic communities (prior exposure for inclusion or exclusion can
+be determined by measuring IgG antibody to schistosome egg antigen): experience in
+Kenya with the controlled human malaria infection (CHMI) model showed that
+participants coming from areas with no active transmission (Nairobi residents) had
+low baseline responses to malaria, and a challenge response similar to
+Europeans<xref rid="R3" ref-type="bibr">3</xref>, whereas those resident where
+active malaria transmission occurs had higher baseline responses - indicative of
+either recent or prior malaria exposure - and a distinct profile of response to
+challenge (Kapulu, Bejon personal communication).</p><p id="P21">Kenyan researchers involved university communities for their first CHMI
+studies<xref rid="R32" ref-type="bibr">32</xref>, but a few attendees of the
+Uganda meeting expressed concern about specifically targeting students. Although
+adults, university students are often still dependents and parents might have
+objections. It was agreed that volunteers would be expected to inform their next of
+kin about their participation and that contact details for the next of kin must be
+provided in case of emergency. Critical to recruitment, and to obtaining informed
+consent, would be the inclusion of a test that clearly demonstrates a full
+understanding of the CHI-S model, and reassurance that participation is truly
+voluntary. Based on Leiden experience, the time taken by the team to know the
+potential volunteers, during the initial screening and recruitment procedures, is
+expected to be valuable in selecting those that will understand, and reliably comply
+with, the procedures.</p><p id="P22">Volunteers from endemic communities are likely to be actively infected with
+<italic>S. mansoni</italic> at the time of recruitment. Such infections will
+need to be treated with praziquantel before enrolment in the CHI-S. This may require
+more than one dose of treatment; cure can be determined using the highly-sensitive
+CAA assay. For individuals from endemic communities, there is also a substantial
+risk of re-exposure during the 12-week follow-up period between the CHI-S infection
+and cure; natural infection may be added to the CHI-S infection. While the resulting
+risk to the volunteer would be comparable to their usual lifestyle, this would
+invalidate the results of the study. Therefore, volunteers will need to be carefully
+selected to ensure that they are able and willing to avoid re-exposure. The 12-week
+duration of the CHI-S follow up means that admission to a facility (as practiced in
+some CHMI studies) would not be feasible. Follow up of a randomised, placebo group
+could be considered in order to assess whether there are substantial re-infection
+rates in a study group. </p><p id="P23">The Uganda CHI-S protocol will be expected to meet all the requirements of a
+phase I trial. A data and safety monitoring board (DSMB) will be needed, as well as
+internal and external monitoring. A realistic evaluation of risks to the volunteers
+must be included: the intensity of the risk is expected to be lower than for malaria
+(for example), such that hospital admission will not be necessary, but a 24-hour
+helpline will be needed. Treatability and methods of treatment of likely side
+effects and safety evaluations to be conducted must be mentioned. Insurance
+provision will be necessary: post-meeting information indicated that this should be
+provided by a local company or agent, but it was recognised that local insurance
+companies in Uganda are unfamiliar with clinical trials and education of these
+bodies is needed. Material transfer agreements will be required for protocols
+involving import of snails or miracidia, and for export of samples if assays are to
+be done outside Uganda; data sharing agreements, where necessary, would need to be
+developed and implemented.</p><p id="P24">Rates for compensation of lost time or income, and transport costs, to
+volunteers will need to be specified and it will be challenging to set amounts that
+recognise demands upon the volunteers but do not constitute an undue inducement,
+since almost any payment may be an inducement in Ugandan settings. Principles for
+setting the payments will include estimates of time and income loss from visits and
+reimbursement for transport costs and other inconveniences. Time compensation should
+be adjusted to the average income or wages in a particular community (for example
+the Kenyan CHMI studies offered higher rates of compensation in Nairobi than in
+Kilifi, based on the premise that Nairobi was an urban setting with higher income
+than in the coastal town of Kilifi which is in a rural setting). It is generally
+considered that participants should not be compensated for risk, since this could be
+interpreted as an undue inducement to take risks.</p></sec><sec id="S6"><title>Ethical and regulatory considerations for CHI-S in Uganda</title><p id="P25">The fundamental ethical issue of concern in relation to CHI models is the
+principle of non-maleficence, to do no harm: CHI models represent a new ethical
+challenge and dilemma &#x02013; using harm with a view to achieving benefit.
+Historical atrocities involving deliberate infection of vulnerable populations have
+an important influence on thinking in this field. Guidelines governing the
+implementation of CHI models are not available in African countries. While
+guidelines would be desirable, these take a long time to be developed and approved.
+At the stakeholders&#x02019; meeting, it was recommended that the principles
+articulated by the World Health Organisation (2016)<xref rid="R33" ref-type="bibr">33</xref> and benchmarks developed at the Malawi meeting on Controlled Human
+Infection Models in Low Income Countries<xref rid="R8" ref-type="bibr">8</xref> be
+employed to govern the ethical and regulatory approval process. These are set out in
+<xref rid="T2" ref-type="table">Table 2</xref>, which also identifies ways in
+which the Uganda CHI-S will address them. Among the benchmarks outlined, critical
+elements discussed included the following. First, ethical and regulatory standards
+governing CHI studies in Africa must be equivalent to, or above, the minimum human
+protection standards applied internationally, as well as locally. When necessary,
+the capacity of ethical and regulatory bodies must be built, as well as the capacity
+of researchers. Second, risks must be examined and evaluated before considering
+possible benefits; there must be a favourable benefit: risk ratio. Arguably the risk
+associated with a controlled human infection may be more justifiable in an endemic
+population than in an unaffected population. Third, all stakeholders must be fully
+informed; in particular, as discussed above, volunteers must fully understand the
+study, its risks, and benefits, and must be shown to do so. Contributions of social
+science research to identifying ways of achieving this were desirable. </p><p id="P26">In terms of the regulatory landscape, key stakeholders in Uganda include the
+Uganda National Council for Science and Technology (UNCST), the National Drug
+Authority (NDA) and National Environment Management Agency (NEMA) as well as
+Institutional Review Boards. The roles of these authorities were discussed and it
+was concluded that the UNCST would hold overall authority for approval of
+importation of snails (infected or otherwise) and for review and approval of a CHI-S
+protocol. A joint review meeting, with all regulatory authorities represented, was
+recommended, as well as engagement between the researchers and ethical and
+regulatory review bodies throughout the process of protocol development and
+implementation. </p><p id="P27">The nature of the human challenge product, the inoculum of infectious
+cercariae, was noted to present a particular dilemma. Whereas the product for
+malaria is a licensed, FDA-approved cryopreserved product<xref rid="R34" ref-type="bibr">34</xref>, the CHI-S product must be generated locally for each
+infection. This requires local laboratory capacity for high-quality production
+on-site, and local regulatory capacity for approval of the facilities and processes.
+Under these circumstances, provision of documentation corresponding to the standard
+requirements of investigator&#x02019;s brochure, certificate of good manufacturing
+practice, sample label, certificate of analysis and letter of authorisation from the
+product &#x0201c;owner&#x0201d; may be difficult, but a product dossier containing
+equivalent information will be needed. This would be considered alongside full
+documentation of procedures and results from Leiden by the regulatory bodies. </p></sec><sec id="S7"><title>Contribution from representatives of endemic communities</title><p id="P28">Among representatives from endemic communities, Mr. Asuman Muwumuza,
+Councillor for Koome sub-county which comprises island communities in Lake Victoria,
+expressed strong support for the development of the CHI-S in Uganda. He assured the
+Meeting that local communities would understand the purpose of the study and want to
+participate, would gladly volunteer and would do whatever would be needed to
+facilitate these complicated trials. He felt that the need for a vaccine for
+schistosomiasis was urgent and urged the research community not to delay.</p></sec><sec id="S8"><title>Conclusion and next steps</title><p id="P29">Researchers, community members and regulators participating in the
+stakeholders&#x02019; meeting expressed substantial support for establishing CHI-S in
+Uganda; this was considered both feasible and desirable. </p><p id="P30">Key next steps (<xref rid="T3" ref-type="table">Table 3</xref>) include risk
+assessments for importation of infected snails, the development of facilities and
+expertise for production of the challenge product; community engagement and pilot
+studies to assess information and consent tools and comprehension by target
+communities, and to define appropriate populations (able to avoid re-infection, and
+to participate with full understanding and as true volunteers); provision of
+opportunities for regulators and ethicists to learn more about CHI-S through visits
+to Leiden and engagement with their Dutch counterparts; and development of a draft
+CHI-S protocol, product dossier and accompanying documentation for regulatory
+review.</p></sec><sec sec-type="data-availability" id="S9"><title>Data availability</title><p id="P31">No data is associated with this article</p></sec></body><back><ack id="SA1"><title>Acknowledgements</title><p id="P33">We thank especially Raymond Muganyizi, Moses Kizza, Keren Apio, Edward
+Lukyamuzi, Timothy Kimbowa, Joshua Mandre and Teopista Zansanze for their help and
+technical support in organising the meeting and, in addition, Suzanne van der
+Plas-Duivesteijn for help in arranging visits between Uganda and Leiden. </p><p id="P34">We thank all workshop participants for their valuable contributions to the
+discussions. In addition to the named authors of this article, the participants in
+the meeting were as follows: Agnes Ssali, Berna Kalanzi, Emmanuel Niwagaba, Gyaviira
+Nkurunungi, Jacent Nassuuna, Joy Kabagenyi, Mirriam Akello, Pamela Wairagala, Peter
+Hughes, Richard Sanya, Steve Cose (Medical Research Council/Uganda Virus Research
+Institute and London School of Hygiene &#x00026; Tropical Medicine (MRC/UVRI and LSHTM)
+Uganda Research Unit); Patrice Mawa (Uganda Virus Research Institute); Isaac
+Ddamulira, Robinah Nakawunde (Medical Students, Makerere University, Uganda); James
+Kaweesa (Mukono District, Uganda); Edward Bukenya, Rebecca Akwi (community
+representatives for Schistosomiasis endemic areas, Uganda); Beth Mutumba, Hellen
+Opolot, Isaac Makhuwa (Uganda National Council for Science and Technology); Huldah
+Nassali, Agnes Kemigisha, Ismail Ntale, Rachel Kyeyune, Sheila Ampaire (Uganda
+National Drug Authority); Joseph Luwazo (Uganda National Environment Management
+Authority); Celia Nalwadda (Uganda National Academy of Sciences); John Bosco
+Barahika, Joseph Lutaakome (Research Ethics Committee members, UVRI); Francis
+Bajunirwe (Research Ethics Committee members, Mbarara University of Science &#x00026;
+Technology); Erisa Mwaka, Joseph Ochieng, Paul Kutyabami (Research Ethics Committee
+members, Makerere University, Uganda); Eva Magambo (Community representative,
+Makerere University School of Health Sciences Research Ethics Committee, Uganda);
+Charles Obonyo (Kenya Medical Research Institute); Carola Feijt, Jacqueline Janse
+(Leiden University Medical Centre, The Netherlands).</p><sec id="S11"><title>Grant Information</title><p id="P35">The Uganda Stakeholders&#x02019; Meeting and visits for Ugandan
+ethicists, regulators, and clinicians were funded by a discretionary award from
+the Wellcome Trust [209337]. Organisation of the meeting was also supported by
+the staff of the Makerere University/Uganda Virus Research Institute Centre of
+Excellence for Infection and Immunity Research and Training (MUII-plus).
+MUII-plus is supported through the DELTAS Africa Initiative [107743]. The DELTAS
+Africa Initiative is an independent funding scheme of the African Academy of
+Sciences (AAS), Alliance for Accelerating Excellence in Science in Africa
+(AESA), and supported by the <funding-source>New Partnership
+for Africa's Development</funding-source> Planning and Coordinating Agency
+(NEPAD Agency) with funding from the Wellcome Trust
+[<award-id>107743</award-id>] and the UK Government.</p></sec></ack><sec id="S10"><title>Disclaimer</title><p id="P32">The views expressed in this article are those of the authors. Publication in
+<italic>AAS Open Research</italic> does not imply endorsement by the African
+Academy of Sciences.</p></sec><ref-list><ref id="R1"><label>1</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Waddington</surname><given-names>CS</given-names></name><name><surname>Darton</surname><given-names>TC</given-names></name><name><surname>Woodward</surname><given-names>WE</given-names></name><etal/></person-group>: <article-title>Advancing the management and control of typhoid
+fever: a review of the historical role of human challenge
+studies.</article-title>
+<source><italic>J Infect.</italic></source>
+<year>2014</year>;<volume>68</volume>(<issue>5</issue>):<fpage>405</fpage>&#x02013;<lpage>18</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.jinf.2014.01.006</pub-id>
+<pub-id pub-id-type="pmid">24491597</pub-id></mixed-citation></ref><ref id="R2"><label>2</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mordm&#x000fc;ller</surname><given-names>B</given-names></name><name><surname>Surat</surname><given-names>G</given-names></name><name><surname>Lagler</surname><given-names>H</given-names></name><etal/></person-group>: <article-title>Sterile protection against human malaria by
+chemoattenuated PfSPZ vaccine.</article-title>
+<source><italic>Nature.</italic></source>
+<year>2017</year>;<volume>542</volume>(<issue>7642</issue>):<fpage>445</fpage>&#x02013;<lpage>449</lpage>.
+<pub-id pub-id-type="doi">10.1038/nature21060</pub-id>
+<pub-id pub-id-type="pmid">28199305</pub-id></mixed-citation></ref><ref id="R3"><label>3</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hodgson</surname><given-names>SH</given-names></name><name><surname>Ewer</surname><given-names>KJ</given-names></name><name><surname>Bliss</surname><given-names>CM</given-names></name><etal/></person-group>: <article-title>Evaluation of the efficacy of ChAd63-MVA
+vectored vaccines expressing circumsporozoite protein and ME-TRAP against
+controlled human malaria infection in malaria-naive
+individuals.</article-title>
+<source><italic>J Infect Dis.</italic></source>
+<year>2015</year>;<volume>211</volume>(<issue>7</issue>):<fpage>1076</fpage>&#x02013;<lpage>86</lpage>.
+<pub-id pub-id-type="doi">10.1093/infdis/jiu579</pub-id>
+<!--<pub-id pub-id-type="pmcid">4354983</pub-id>-->
+<pub-id pub-id-type="pmid">25336730</pub-id></mixed-citation></ref><ref id="R4"><label>4</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Roestenberg</surname><given-names>M</given-names></name><etal/></person-group>: <article-title>Controlled human infections.</article-title>
+<source><italic>Lancet Infect Dis.</italic></source>
+<year>2018</year>; in press.</mixed-citation></ref><ref id="R5"><label>5</label><mixed-citation publication-type="journal">
+<collab>GBD 2015 DALYs and HALE Collaborators</collab>:
+<article-title>Global, regional, and national disability-adjusted life-years
+(DALYs) for 315 diseases and injuries and healthy life expectancy (HALE),
+1990&#x02013;2015: a systematic analysis for the Global Burden of Disease
+Study 2015.</article-title>
+<source><italic>Lancet.</italic></source>
+<year>2016</year>;<volume>388</volume>(<issue>10053</issue>):<fpage>1603</fpage>&#x02013;<lpage>1658</lpage>.
+<pub-id pub-id-type="doi">10.1016/S0140-6736(16)31460-X</pub-id>
+<!--<pub-id pub-id-type="pmcid">5388857</pub-id>-->
+<pub-id pub-id-type="pmid">27733283</pub-id></mixed-citation></ref><ref id="R6"><label>6</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gurarie</surname><given-names>D</given-names></name><name><surname>Yoon</surname><given-names>N</given-names></name><name><surname>Li</surname><given-names>E</given-names></name><etal/></person-group>: <article-title>Modelling control of <italic>Schistosoma
+haematobium</italic> infection: predictions of the long-term impact of
+mass drug administration in Africa.</article-title>
+<source><italic>Parasit Vectors.</italic></source>
+<year>2015</year>;<volume>8</volume>:<fpage>529</fpage>.
+<pub-id pub-id-type="doi">10.1186/s13071-015-1144-3</pub-id>
+<!--<pub-id pub-id-type="pmcid">4618728</pub-id>-->
+<pub-id pub-id-type="pmid">26489408</pub-id></mixed-citation></ref><ref id="R7"><label>7</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Crellen</surname><given-names>T</given-names></name><name><surname>Walker</surname><given-names>M</given-names></name><name><surname>Lamberton</surname><given-names>PH</given-names></name><etal/></person-group>: <article-title>Reduced Efficacy of Praziquantel Against
+<italic>Schistosoma mansoni</italic> Is Associated With Multiple Rounds
+of Mass Drug Administration.</article-title>
+<source><italic>Clin Infect Dis.</italic></source>
+<year>2016</year>;<volume>63</volume>(<issue>9</issue>):<fpage>1151</fpage>&#x02013;<lpage>1159</lpage>.
+<pub-id pub-id-type="doi">10.1093/cid/ciw506</pub-id>
+<!--<pub-id pub-id-type="pmcid">5064161</pub-id>-->
+<pub-id pub-id-type="pmid">27470241</pub-id></mixed-citation></ref><ref id="R8"><label>8</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gordon</surname><given-names>SB</given-names></name><name><surname>Rylance</surname><given-names>J</given-names></name><name><surname>Luck</surname><given-names>A</given-names></name><etal/></person-group>: <article-title>A framework for Controlled Human Infection Model
+(CHIM) studies in Malawi: Report of a Wellcome Trust workshop on CHIM in Low
+Income Countries held in Blantyre, Malawi [version 1; referees: 2
+approved].</article-title>
+<source><italic>Wellcome Open Res.</italic></source>
+<year>2017</year>;<volume>2</volume>:<fpage>70</fpage>.
+<pub-id pub-id-type="doi">10.12688/wellcomeopenres.12256.1</pub-id>
+<!--<pub-id pub-id-type="pmcid">5627502</pub-id>-->
+<pub-id pub-id-type="pmid">29018841</pub-id></mixed-citation></ref><ref id="R9"><label>9</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Colley</surname><given-names>DG</given-names></name><name><surname>Bustinduy</surname><given-names>AL</given-names></name><name><surname>Secor</surname><given-names>WE</given-names></name><etal/></person-group>: <article-title>Human schistosomiasis.</article-title>
+<source><italic>Lancet.</italic></source>
+<year>2014</year>;<volume>383</volume>(<issue>9936</issue>):<fpage>2253</fpage>&#x02013;<lpage>64</lpage>.
+<pub-id pub-id-type="doi">10.1016/S0140-6736(13)61949-2</pub-id>
+<!--<pub-id pub-id-type="pmcid">4672382</pub-id>-->
+<pub-id pub-id-type="pmid">24698483</pub-id></mixed-citation></ref><ref id="R10"><label>10</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Odongo-Aginya</surname><given-names>EI</given-names></name><name><surname>Grigull</surname><given-names>L</given-names></name><name><surname>Schweigmann</surname><given-names>U</given-names></name><etal/></person-group>: <article-title>High prevalence and morbidity of
+<italic>Schistosoma mansoni</italic> along the Albert Nile in
+Uganda.</article-title>
+<source><italic>Afr Health Sci.</italic></source>
+<year>2002</year>;<volume>2</volume>(<issue>3</issue>):<fpage>99</fpage>&#x02013;<lpage>106</lpage>.
+<!--<pub-id pub-id-type="pmcid">2141576</pub-id>-->
+<pub-id pub-id-type="pmid">12789093</pub-id></mixed-citation></ref><ref id="R11"><label>11</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zhang</surname><given-names>Y</given-names></name><name><surname>Koukounari</surname><given-names>A</given-names></name><name><surname>Kabatereine</surname><given-names>N</given-names></name><etal/></person-group>: <article-title>Parasitological impact of 2-year preventive
+chemotherapy on schistosomiasis and soil-transmitted helminthiasis in
+Uganda.</article-title>
+<source><italic>BMC Med.</italic></source>
+<year>2007</year>;<volume>5</volume>:<fpage>27</fpage>.
+<pub-id pub-id-type="doi">10.1186/1741-7015-5-27</pub-id>
+<!--<pub-id pub-id-type="pmcid">2014753</pub-id>-->
+<pub-id pub-id-type="pmid">17767713</pub-id></mixed-citation></ref><ref id="R12"><label>12</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Loewenberg</surname><given-names>S</given-names></name></person-group>: <article-title>Uganda's struggle with
+schistosomiasis.</article-title>
+<source><italic>Lancet.</italic></source>
+<year>2014</year>;<volume>383</volume>(<issue>9930</issue>):<fpage>1707</fpage>&#x02013;<lpage>8</lpage>.
+<pub-id pub-id-type="doi">10.1016/S0140-6736(14)60817-5</pub-id>
+<pub-id pub-id-type="pmid">24843875</pub-id></mixed-citation></ref><ref id="R13"><label>13</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Siqueira</surname><given-names>ES</given-names></name><name><surname>Rohr</surname><given-names>MR</given-names></name><name><surname>Libera</surname><given-names>ED</given-names></name><etal/></person-group>: <article-title>Band ligation or sclerotherapy as endoscopic
+treatment for oesophageal varices in schistosomotic patients: results of a
+randomized study.</article-title>
+<source><italic>HPB Surg.</italic></source>
+<year>1998</year>;<volume>11</volume>(<issue>1</issue>):<fpage>27</fpage>&#x02013;<lpage>32</lpage>.
+<pub-id pub-id-type="doi">10.1155/1998/68394</pub-id>
+<!--<pub-id pub-id-type="pmcid">2423920</pub-id>-->
+<pub-id pub-id-type="pmid">9830578</pub-id></mixed-citation></ref><ref id="R14"><label>14</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Opio</surname><given-names>CK</given-names></name><name><surname>Kazibwe</surname><given-names>F</given-names></name><name><surname>Ocama</surname><given-names>P</given-names></name><etal/></person-group>: <article-title>Profiling lifetime episodes of upper
+gastrointestinal bleeding among patients from rural Sub-Saharan Africa where
+schistosoma mansoni is endemic.</article-title>
+<source><italic>Pan Afr Med J.</italic></source>
+<year>2016</year>;<volume>24</volume>:<fpage>296</fpage>.
+<pub-id pub-id-type="doi">10.11604/pamj.2016.24.296.9755</pub-id>
+<!--<pub-id pub-id-type="pmcid">5267921</pub-id>-->
+<pub-id pub-id-type="pmid">28154651</pub-id></mixed-citation></ref><ref id="R15"><label>15</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ocama</surname><given-names>P</given-names></name><name><surname>Opio</surname><given-names>KC</given-names></name><name><surname>Seremba</surname><given-names>E</given-names></name><etal/></person-group>: <article-title>The burden, pattern and factors that contribute
+to periportal fibrosis in HIV-infected patients in an <italic>S.
+mansoni</italic> endemic rural Uganda.</article-title>
+<source><italic>Afr Health Sci.</italic></source>
+<year>2017</year>;<volume>17</volume>(<issue>2</issue>):<fpage>301</fpage>&#x02013;<lpage>307</lpage>.
+<pub-id pub-id-type="doi">10.4314/ahs.v17i2.2</pub-id>
+<!--<pub-id pub-id-type="pmcid">5637013</pub-id>-->
+<pub-id pub-id-type="pmid">29062323</pub-id></mixed-citation></ref><ref id="R16"><label>16</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cohen</surname><given-names>J</given-names></name></person-group>: <article-title>Unfilled Vials.</article-title>
+<source><italic>Science.</italic></source>
+<year>2016</year>;<volume>351</volume>(<issue>6268</issue>):<fpage>16</fpage>&#x02013;<lpage>9</lpage>.
+<pub-id pub-id-type="doi">10.1126/science.351.6268.16</pub-id>
+<pub-id pub-id-type="pmid">26721985</pub-id></mixed-citation></ref><ref id="R17"><label>17</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Maizels</surname><given-names>RM</given-names></name><name><surname>McSorley</surname><given-names>HJ</given-names></name></person-group>: <article-title>Regulation of the host immune system by helminth
+parasites.</article-title>
+<source><italic>J Allergy Clin Immunol.</italic></source>
+<year>2016</year>;<volume>138</volume>(<issue>3</issue>):<fpage>666</fpage>&#x02013;<lpage>75</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.jaci.2016.07.007</pub-id>
+<!--<pub-id pub-id-type="pmcid">5010150</pub-id>-->
+<pub-id pub-id-type="pmid">27476889</pub-id></mixed-citation></ref><ref id="R18"><label>18</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Colley</surname><given-names>DG</given-names></name><name><surname>Secor</surname><given-names>WE</given-names></name></person-group>: <article-title>Immunology of human
+schistosomiasis.</article-title>
+<source><italic>Parasite Immunol.</italic></source>
+<year>2014</year>;<volume>36</volume>(<issue>8</issue>):<fpage>347</fpage>&#x02013;<lpage>57</lpage>.
+<pub-id pub-id-type="doi">10.1111/pim.12087</pub-id>
+<!--<pub-id pub-id-type="pmcid">4278558</pub-id>-->
+<pub-id pub-id-type="pmid">25142505</pub-id></mixed-citation></ref><ref id="R19"><label>19</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Diemert</surname><given-names>DJ</given-names></name><name><surname>Pinto</surname><given-names>AG</given-names></name><name><surname>Freire</surname><given-names>J</given-names></name><etal/></person-group>: <article-title>Generalized urticaria induced by the Na-ASP-2
+hookworm vaccine: implications for the development of vaccines against
+helminths.</article-title>
+<source><italic>J Allergy Clin Immunol.</italic></source>
+<year>2012</year>;<volume>130</volume>(<issue>1</issue>):<fpage>169</fpage>&#x02013;<lpage>76.e6</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.jaci.2012.04.027</pub-id>
+<pub-id pub-id-type="pmid">22633322</pub-id></mixed-citation></ref><ref id="R20"><label>20</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Smythies</surname><given-names>LE</given-names></name><name><surname>Coulson</surname><given-names>PS</given-names></name><name><surname>Wilson</surname><given-names>RA</given-names></name></person-group>: <article-title>Monoclonal antibody to IFN-gamma modifies
+pulmonary inflammatory responses and abrogates immunity to Schistosoma
+mansoni in mice vaccinated with attenuated cercariae.</article-title>
+<source><italic>J Immunol.</italic></source>
+<year>1992</year>;<volume>149</volume>(<issue>11</issue>):<fpage>3654</fpage>&#x02013;<lpage>8</lpage>.
+<pub-id pub-id-type="pmid">1431135</pub-id></mixed-citation></ref><ref id="R21"><label>21</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Alsallaq</surname><given-names>RA</given-names></name><name><surname>Gurarie</surname><given-names>D</given-names></name><name><surname>Ndeffo Mbah</surname><given-names>M</given-names></name><etal/></person-group>: <article-title>Quantitative assessment of the impact of
+partially protective anti-schistosomiasis vaccines.</article-title>
+<source><italic>PLoS Negl Trop Dis.</italic></source>
+<year>2017</year>;<volume>11</volume>(<issue>4</issue>):<fpage>e0005544</fpage>.
+<pub-id pub-id-type="doi">10.1371/journal.pntd.0005544</pub-id>
+<!--<pub-id pub-id-type="pmcid">5406007</pub-id>-->
+<pub-id pub-id-type="pmid">28410369</pub-id></mixed-citation></ref><ref id="R22"><label>22</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Fukushige</surname><given-names>M</given-names></name><name><surname>Mitchell</surname><given-names>KM</given-names></name><name><surname>Bourke</surname><given-names>CD</given-names></name><etal/></person-group>: <article-title>A Meta-Analysis of Experimental Studies of
+Attenuated <italic>Schistosoma mansoni</italic> Vaccines in the Mouse
+Model.</article-title>
+<source><italic>Front Immunol.</italic></source>
+<year>2015</year>;<volume>6</volume>:<fpage>85</fpage>.
+<pub-id pub-id-type="doi">10.3389/fimmu.2015.00085</pub-id>
+<!--<pub-id pub-id-type="pmcid">4343029</pub-id>-->
+<pub-id pub-id-type="pmid">25774157</pub-id></mixed-citation></ref><ref id="R23"><label>23</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lin</surname><given-names>D</given-names></name><name><surname>Tian</surname><given-names>F</given-names></name><name><surname>Wu</surname><given-names>H</given-names></name><etal/></person-group>: <article-title>Multiple vaccinations with UV- attenuated
+cercariae in pig enhance protective immunity against <italic>Schistosoma
+japonicum</italic> infection as compared to single
+vaccination.</article-title>
+<source><italic>Parasit Vectors.</italic></source>
+<year>2011</year>;<volume>4</volume>:<fpage>103</fpage>.
+<pub-id pub-id-type="doi">10.1186/1756-3305-4-103</pub-id>
+<!--<pub-id pub-id-type="pmcid">3146440</pub-id>-->
+<pub-id pub-id-type="pmid">21663666</pub-id></mixed-citation></ref><ref id="R24"><label>24</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hewitson</surname><given-names>JP</given-names></name><name><surname>Maizels</surname><given-names>RM</given-names></name></person-group>: <article-title>Vaccination against helminth parasite
+infections.</article-title>
+<source><italic>Expert Rev Vaccines.</italic></source>
+<year>2014</year>;<volume>13</volume>(<issue>4</issue>):<fpage>473</fpage>&#x02013;<lpage>87</lpage>.
+<pub-id pub-id-type="doi">10.1586/14760584.2014.893195</pub-id>
+<pub-id pub-id-type="pmid">24606541</pub-id></mixed-citation></ref><ref id="R25"><label>25</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hotez</surname><given-names>PJ</given-names></name><name><surname>Bethony</surname><given-names>JM</given-names></name><name><surname>Diemert</surname><given-names>DJ</given-names></name><etal/></person-group>: <article-title>Developing vaccines to combat hookworm infection
+and intestinal schistosomiasis.</article-title>
+<source><italic>Nat Rev Microbiol.</italic></source>
+<year>2010</year>;<volume>8</volume>(<issue>11</issue>):<fpage>814</fpage>&#x02013;<lpage>26</lpage>.
+<pub-id pub-id-type="doi">10.1038/nrmicro2438</pub-id>
+<pub-id pub-id-type="pmid">20948553</pub-id></mixed-citation></ref><ref id="R26"><label>26</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hokke</surname><given-names>CH</given-names></name><name><surname>Yazdanbakhsh</surname><given-names>M</given-names></name></person-group>: <article-title>Final Report Summary - THESCHISTOVAC (The
+targeted development of a new generation Vaccine for Schistosomiasis). </article-title>
+<year>2015</year>
+<ext-link ext-link-type="uri" xlink:href="https://www.cordis.europa.eu/result/rcn/157825_en.html">Reference Source</ext-link>
+</mixed-citation></ref><ref id="R27"><label>27</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Merrifield</surname><given-names>M</given-names></name><name><surname>Hotez</surname><given-names>PJ</given-names></name><name><surname>Beaumier</surname><given-names>CM</given-names></name><etal/></person-group>: <article-title>Advancing a vaccine to prevent human
+schistosomiasis.</article-title>
+<source><italic>Vaccine.</italic></source>
+<year>2016</year>;<volume>34</volume>(<issue>26</issue>):<fpage>2988</fpage>&#x02013;<lpage>2991</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.vaccine.2016.03.079</pub-id>
+<pub-id pub-id-type="pmid">27036511</pub-id></mixed-citation></ref><ref id="R28"><label>28</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dewalick</surname><given-names>S</given-names></name><name><surname>Bexkens</surname><given-names>ML</given-names></name><name><surname>van Balkom</surname><given-names>BW</given-names></name><etal/></person-group>: <article-title>The proteome of the insoluble
+<italic>Schistosoma mansoni</italic> eggshell skeleton.</article-title>
+<source><italic>Int J Parasitol.</italic></source>
+<year>2011</year>;<volume>41</volume>(<issue>5</issue>):<fpage>523</fpage>&#x02013;<lpage>32</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.ijpara.2010.12.005</pub-id>
+<pub-id pub-id-type="pmid">21236260</pub-id></mixed-citation></ref><ref id="R29"><label>29</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Novato-Silva</surname><given-names>E</given-names></name><name><surname>Gazzinelli</surname><given-names>G</given-names></name><name><surname>Colley</surname><given-names>DG</given-names></name></person-group>: <article-title>Immune responses during human schistosomiasis
+mansoni. XVIII. Immunologic status of pregnant women and their
+neonates.</article-title>
+<source><italic>Scand J Immunol.</italic></source>
+<year>1992</year>;<volume>35</volume>(<issue>4</issue>):<fpage>429</fpage>&#x02013;<lpage>37</lpage>.
+<pub-id pub-id-type="doi">10.1111/j.1365-3083.1992.tb02878.x</pub-id>
+<pub-id pub-id-type="pmid">1557613</pub-id></mixed-citation></ref><ref id="R30"><label>30</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Corstjens</surname><given-names>PL</given-names></name><name><surname>De Dood</surname><given-names>CJ</given-names></name><name><surname>Kornelis</surname><given-names>D</given-names></name><etal/></person-group>: <article-title>Tools for diagnosis, monitoring and screening of
+<italic>Schistosoma</italic> infections utilizing lateral-flow based
+assays and upconverting phosphor labels.</article-title>
+<source><italic>Parasitology.</italic></source>
+<year>2014</year>;<volume>141</volume>(<issue>14</issue>):<fpage>1841</fpage>&#x02013;<lpage>55</lpage>.
+<pub-id pub-id-type="doi">10.1017/S0031182014000626</pub-id>
+<!--<pub-id pub-id-type="pmcid">4265670</pub-id>-->
+<pub-id pub-id-type="pmid">24932595</pub-id></mixed-citation></ref><ref id="R31"><label>31</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Adriko</surname><given-names>M</given-names></name><name><surname>Standley</surname><given-names>CJ</given-names></name><name><surname>Tinkitina</surname><given-names>B</given-names></name><etal/></person-group>: <article-title>Compatibility of Ugandan Schistosoma mansoni
+isolates with Biomphalaria snail species from Lake Albert and Lake
+Victoria.</article-title>
+<source><italic>Acta Trop.</italic></source>
+<year>2013</year>;<volume>128</volume>(<issue>2</issue>):<fpage>303</fpage>&#x02013;<lpage>8</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.actatropica.2013.02.014</pub-id>
+<pub-id pub-id-type="pmid">23454225</pub-id></mixed-citation></ref><ref id="R32"><label>32</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hodgson</surname><given-names>SH</given-names></name><name><surname>Juma</surname><given-names>E</given-names></name><name><surname>Salim</surname><given-names>A</given-names></name><etal/></person-group>: <article-title>Lessons learnt from the first controlled human
+malaria infection study conducted in Nairobi, Kenya.</article-title>
+<source><italic>Malar J.</italic></source>
+<year>2015</year>;<volume>14</volume>:<fpage>182</fpage>.
+<pub-id pub-id-type="doi">10.1186/s12936-015-0671-x</pub-id>
+<!--<pub-id pub-id-type="pmcid">4416324</pub-id>-->
+<pub-id pub-id-type="pmid">25927522</pub-id></mixed-citation></ref><ref id="R33"><label>33</label><mixed-citation publication-type="journal">
+<collab>WHO Expert Committee on Biological
+Standardisation</collab>: <article-title>Human challenge trials for vaccine
+development: regulatory considerations. </article-title>
+<year>2016</year>
+<ext-link ext-link-type="uri" xlink:href="http://www.who.int/biologicals/expert_committee/Human_challenge_Trials_IK_final.pdf">Reference Source</ext-link>
+</mixed-citation></ref><ref id="R34"><label>34</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Roestenberg</surname><given-names>M</given-names></name><name><surname>Mordm&#x000fc;ller</surname><given-names>B</given-names></name><name><surname>Ockenhouse</surname><given-names>C</given-names></name><etal/></person-group>: <article-title>The frontline of controlled human malaria
+infections: A report from the controlled human infection models Workshop in
+Leiden University Medical Centre 5 May 2016.</article-title>
+<source><italic>Vaccine.</italic></source>
+<year>2017</year>;<volume>35</volume>(<issue>51</issue>):<fpage>7065</fpage>&#x02013;<lpage>7069</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.vaccine.2017.10.093</pub-id>
+<pub-id pub-id-type="pmid">29153778</pub-id></mixed-citation></ref></ref-list></back><floats-group><fig fig-type="figure" orientation="portrait" id="F1" position="float"><label>Figure 1. </label><caption><title>The life cycle of <italic>Schistosoma mansoni</italic>.</title><p id="P36">During natural infection, individuals are usually infected with multiple
+cercariae, both male and female, which mature into adults, pair in the
+mesenteric blood vessels, and produce eggs, the main cause of pathology. In the
+controlled human infection model, single sex (male) cercariae are used to avoid
+the development of eggs and consequent pathology.</p></caption><graphic xlink:href="emss-80339-f001"/></fig><table-wrap orientation="portrait" id="T1" position="float"><label>Table 1. </label><caption><title>Road blocks to schistosome vaccine development and how controlled human
+infection models for schistosomiasis can help.</title><p id="P37">(CHI-S) - Controlled human infection model for <italic>Schistosoma
+mansoni</italic>.</p></caption><table frame="hsides" rules="groups" content-type="article-table"><thead><tr><th align="left" rowspan="1" colspan="1">Road blocks</th><th rowspan="1" colspan="1"/><th align="left" rowspan="1" colspan="1">How CHI-S can help</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">
+<bold>Vaccine candidates:</bold>
+<break/>Several vaccine candidates are available; but there <break/>are
+limited resources to take candidates forward</td><td align="left" rowspan="1" colspan="1">&#x000a0;&#x021d2;&#x000a0;&#x000a0;&#x000a0;</td><td align="left" rowspan="1" colspan="1">&#x000a0;&#x02713;&#x000a0;&#x000a0;&#x000a0;CHI-S quickly identifies candidates
+most likely to induce <break/>protection</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Animal models:</bold>
+<break/>Suitability of various animals for predicting responses
+<break/>to, and efficacy of, vaccine candidates in humans not
+<break/>known</td><td align="left" rowspan="1" colspan="1">&#x000a0;&#x021d2;&#x000a0;&#x000a0;&#x000a0;</td><td align="left" rowspan="1" colspan="1">&#x000a0;&#x02713;&#x000a0;&#x000a0;&#x000a0;CHI-S provides direct evidence of
+responses in humans</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Immunological road-blocks:</bold>
+<break/>&#x02022;&#x000a0;&#x000a0;&#x000a0;Schistosomes induce regulatory
+responses which <break/>could impair vaccine immunogenicity
+<break/>&#x02022;&#x000a0;&#x000a0;&#x000a0;Schistosomes induce Th2 responses and
+IgE with <break/>accompanying risk of allergic phenomena
+<break/>&#x02022;&#x000a0;&#x000a0;&#x000a0;Th1 responses involved in protection
+not known in <break/>humans <break/>&#x02022;&#x000a0;&#x000a0;&#x000a0;Correlates
+of protection not known</td><td align="left" rowspan="1" colspan="1">&#x000a0;&#x021d2;&#x000a0;&#x000a0;&#x000a0;</td><td align="left" rowspan="1" colspan="1">&#x000a0;&#x02713;&#x000a0;&#x000a0;&#x000a0;CHI-S describes evolution of immune
+responses <break/>following infection
+<break/>&#x000a0;&#x02713;&#x000a0;&#x000a0;&#x000a0;Combined with a model
+&#x0201c;vaccine&#x0201d; (such as irradiated <break/>cercariae, predicted
+to be effective) CHI-S identifies <break/>protective Th1 responses and
+correlates of protection</td></tr></tbody></table></table-wrap><table-wrap orientation="portrait" id="T2" position="float"><label>Table 2. </label><caption><title>Benchmarks identified in the Malawi framework, and approach to addressing
+them for the Uganda controlled human infection model for <italic>Schistosoma
+mansoni</italic> (CHI-S).</title><p id="P38">DSMB - data and safety monitoring board.</p></caption><table frame="hsides" rules="groups" content-type="article-table"><thead><tr><th rowspan="1" colspan="1"/><th align="left" rowspan="1" colspan="1">Malawi framework benchmarks</th><th rowspan="1" colspan="1"/><th align="left" rowspan="1" colspan="1">Uganda CHI-S</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">
+<bold>1</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>Issue of national importance</bold>, <break/>within the research
+agenda</td><td align="left" rowspan="1" colspan="1">&#x000a0;&#x021d2;&#x000a0;&#x000a0;&#x000a0;</td><td align="left" rowspan="1" colspan="1">&#x000a0;&#x02713;&#x000a0;&#x000a0;&#x000a0;Over half of Uganda&#x02019;s population
+estimated to be at risk from <break/>schistosomiasis; vaccine
+development research supported by Vector <break/>Control Division (VCD),
+Ministry of Health </td></tr><tr><td rowspan="1" colspan="1">
+<bold>2</bold>
+</td><td rowspan="1" colspan="1">
+<bold>Safety</bold> already demonstrated</td><td align="left" rowspan="1" colspan="1">&#x000a0;&#x021d2;&#x000a0;&#x000a0;&#x000a0;</td><td rowspan="1" colspan="1">&#x000a0;&#x02713;&#x000a0;&#x000a0;&#x000a0;Safety data from
+Leiden trials <break/>&#x000a0;&#x02713;&#x000a0;&#x000a0;&#x000a0;Risk assessments
+to Uganda to be developed</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>3</bold>
+</td><td align="left" rowspan="1" colspan="1">Model <bold>quality</bold>
+established by <break/>published data</td><td align="left" rowspan="1" colspan="1">&#x000a0;&#x021d2;&#x000a0;&#x000a0;&#x000a0;</td><td align="left" rowspan="1" colspan="1">&#x000a0;&#x02713;&#x000a0;&#x000a0;&#x000a0;Publication of Leiden trials expected
+in 2018</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>4</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>Strong scientific case</bold>, without <break/>alternative
+approach</td><td align="left" rowspan="1" colspan="1">&#x000a0;&#x021d2;&#x000a0;&#x000a0;&#x000a0;</td><td align="left" rowspan="1" colspan="1">&#x000a0;&#x02713;&#x000a0;&#x000a0;&#x000a0;Model has potential to fast-track
+selection of best vaccine candidates <break/>accelerating development of
+safe, effective vaccines
+<break/>&#x000a0;&#x02713;&#x000a0;&#x000a0;&#x000a0;Available animal models may not
+determine correlates of protection and <break/>vaccine efficacy in
+humans <break/>&#x000a0;&#x02713;&#x000a0;&#x000a0;&#x000a0;Understanding and data
+needed regarding differences between endemic <break/>and non-endemic
+populations in response to candidate vaccines</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>5</bold>
+</td><td align="left" rowspan="1" colspan="1">Promotes <bold>capacity
+development</bold>
+<break/>in country</td><td align="left" rowspan="1" colspan="1">&#x000a0;&#x021d2;&#x000a0;&#x000a0;&#x000a0;</td><td align="left" rowspan="1" colspan="1">&#x000a0;&#x02713;&#x000a0;&#x000a0;&#x000a0;CHI-S preparatory activities already
+providing opportunities for learning <break/>and debate for researchers,
+ethicists and regulators; continuing interaction <break/>between
+researchers and regulators is planned
+<break/>&#x000a0;&#x02713;&#x000a0;&#x000a0;&#x000a0;Further developments to include
+relevant infrastructure development and <break/>technical training of
+Ugandan researchers</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>6</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>Ethical acceptability</bold> including <break/>issues of
+understanding consent</td><td align="left" rowspan="1" colspan="1">&#x000a0;&#x021d2;&#x000a0;&#x000a0;&#x000a0;</td><td align="left" rowspan="1" colspan="1">&#x000a0;&#x02713;&#x000a0;&#x000a0;&#x000a0;Issues of understanding and
+voluntariness recognised and to be assured by <break/>pilot work in
+target populations in preparation for CHI-S</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>7</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>Governance</bold> structure in place <break/>(DSMB, sponsor)</td><td align="left" rowspan="1" colspan="1">&#x000a0;&#x021d2;&#x000a0;&#x000a0;&#x000a0;</td><td align="left" rowspan="1" colspan="1">&#x000a0;&#x02713;&#x000a0;&#x000a0;&#x000a0;Protocol to be developed with due
+attention to these requirements</td></tr></tbody></table></table-wrap><table-wrap orientation="portrait" id="T3" position="float"><label>Table 3. </label><caption><title>Establishing a controlled human schistosome infection model in Uganda: key
+recommendations and next steps.</title><p id="P39">(CHI-S) - Controlled human infection model for <italic>Schistosoma
+mansoni</italic>, (GCLP) - Good Clinical Laboratory Practice.</p></caption><table frame="hsides" rules="groups" content-type="article-table"><thead><tr><th align="left" colspan="2" rowspan="1">Technical steps</th></tr></thead><tbody><tr><td align="left" valign="top" rowspan="1" colspan="1">Managing and shedding
+<break/>snails in Uganda</td><td align="left" valign="top" rowspan="1" colspan="1">&#x02022;&#x000a0;&#x000a0;&#x000a0;Establish GCLP level facility for housing and
+shedding snails in Uganda <break/>&#x02022;&#x000a0;&#x000a0;&#x000a0;Obtain
+accreditation of facility</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Identifying male
+cercariae <break/>and preparing inoculum</td><td align="left" valign="top" rowspan="1" colspan="1">&#x02022;&#x000a0;&#x000a0;&#x000a0;Training Uganda team in technical and quality
+control and quality assurance <break/>procedures</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Detection and
+quantification <break/>of schistosome infection in <break/>Uganda</td><td align="left" valign="top" rowspan="1" colspan="1">&#x02022;&#x000a0;&#x000a0;&#x000a0;Implementation of the highly sensitive CAA
+assay in Uganda</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Shipping infected
+snails to <break/>Uganda</td><td align="left" valign="top" rowspan="1" colspan="1">&#x02022;&#x000a0;&#x000a0;&#x000a0;Risk assessment regarding environmental
+contamination <break/>&#x02022;&#x000a0;&#x000a0;&#x000a0;Implementation of risk
+management measures <break/>&#x02022;&#x000a0;&#x000a0;&#x000a0;Implementation of
+IATA shipping requirements <break/>&#x02022;&#x000a0;&#x000a0;&#x000a0;Ensuring
+Material Transfer Agreements are in place prior to shipment
+<break/>&#x02022;&#x000a0;&#x000a0;&#x000a0;Planning for efficient release by
+customs officials and handling agents on <break/>arrival</td></tr><tr><th align="left" colspan="2" rowspan="1">Protocol and participant
+recruitment steps</th></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Community
+engagement</td><td align="left" valign="top" rowspan="1" colspan="1">&#x02022;&#x000a0;&#x000a0;&#x000a0;Include details of planned community
+engagement (from parliament to local <break/>council) in protocol;
+undertake further preparatory engagement activities</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Informed consent</td><td align="left" valign="top" rowspan="1" colspan="1">&#x02022;&#x000a0;&#x000a0;&#x000a0;With social science support, develop tools to
+ensure and document full <break/>understanding by participants</td></tr><tr><th align="left" colspan="2" rowspan="1">Regulatory steps</th></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Regulatory capacity
+building</td><td align="left" valign="top" rowspan="1" colspan="1">&#x02022;&#x000a0;&#x000a0;&#x000a0;Provide further information for regulators
+and ethicists through visits to the <break/>Leiden facilities</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">CHI-S protocol for
+Uganda</td><td align="left" valign="top" rowspan="1" colspan="1">&#x02022;&#x000a0;&#x000a0;&#x000a0;Draft protocol; pre-submission discussions
+with regulatory authorities</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">CHI-S product dossier </td><td align="left" valign="top" rowspan="1" colspan="1">&#x02022;&#x000a0;&#x000a0;&#x000a0;Development of CHI-S product dossier and
+related documentation for Uganda</td></tr></tbody></table></table-wrap></floats-group><sub-article id="REPORT26338" article-type="peer-review"><front-stub><title-group><article-title>Referee response for version 1</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Laurens</surname><given-names>Matthew B.</given-names></name><xref ref-type="aff" rid="A14">1</xref><role>Referee</role><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0003-3874-581X</contrib-id></contrib><aff id="A14">
+<label>1</label>Division of Malaria Research, Institute for Global Health,
+University of Maryland School of Medicine, Baltimore, MD, USA</aff></contrib-group><author-notes><fn fn-type="COI-statement" id="FN3"><p id="P40">
+<bold>Competing interests: </bold>No competing interests were disclosed.</p></fn></author-notes><pub-date pub-type="epub"><day>15</day><month>5</month><year>2018</year></pub-date><custom-meta-group><custom-meta><meta-name>recommendation</meta-name><meta-value>approve</meta-value></custom-meta></custom-meta-group></front-stub><body><p id="P41">The open letter by AM Elliott et al. is a well-written, concise meeting
+summary following a stakeholders' meeting in Entebbe, Uganda, where key individuals
+discussed relevant issues in establishing a controlled human infection model for
+<italic>Schistosoma mansoni</italic> in Uganda. The report also reviews the
+disease burden, biology, and epidemiology of schistosomiasis. A brief update on
+current vaccines for schistosomiasis is also included. The authors condense outcomes
+of the meeting into tabular format and relevant next-steps to advance controlled
+human infection models for schistosomiasis in Uganda.</p><p id="P42"> Comments: <list list-type="order" id="L1"><list-item><p id="P43">The introduction highlights development of the <italic>S.
+mansoni </italic>CHI model, but does not completely describe if this
+model could potentially inform development of a vaccine against
+<italic>S. mansoni </italic>alone, a model upon which <italic>S.
+hematobium </italic>and other species could be built, or if a
+species-transcending vaccine is feasible given the current state of
+scientific knowledge as proposed by M Merrifield in <italic>Vaccine
+</italic>2016 article<xref rid="R35" ref-type="bibr">1</xref>.</p></list-item><list-item><p id="P44">The section on epidemiology of <italic/>schistosomiasis
+could be augmented if details on age-specific carriage rates in
+communities is available, and/or data regarding special populations
+hardest-hit by schistosomiasis (immunocompromised, children, etc) can be
+provided. This would orient the reader toward where vaccine efforts are
+most warranted.</p></list-item><list-item><p id="P45">The background section on schistosomiasis does not completely
+discuss <italic>S. hematobium </italic>complications, presumably because
+the focus of the article is on <italic>S. mansoni</italic>. Consider
+that a successful model for <italic>S. mansoni </italic>could pave the
+way for a successful CHI model for <italic>S. hematobium</italic>.</p></list-item><list-item><p id="P46">The section on vaccines for schistosomiasis notes that an ideal
+vaccine would be suitable for use among young children. A very brief
+explanation as to why this population is targeted would be informative
+for readers.</p></list-item><list-item><p id="P47">Additional considerations for Table 1 is that schistosomiasis
+epidemiology is dynamic and may be difficult to predict, such that large
+field studies testing candidate vaccines may not show effect if
+significant changes in local epidemiology occur. Also, to study
+infection prevention as a vaccine trial endpoint in a population,
+individuals would require pre-treatment before vaccination, and this
+pre-treatment may decrease community transmission significantly such
+that vaccine efficacy would be difficult to measure. CHI also allows
+efficient testing of vaccine efficacy in individuals with a known
+exposure profile and background immunity to schistosomiasis.</p></list-item><list-item><p id="P48">The section on endpoints in CHI studies- is parallel testing
+with Leiden and Uganda planned for the PCR protein detection, or is
+another backup method to confirm the presence of <italic>S. mansoni
+</italic>in place? This would be advantageous to address from a quality
+management perspective.</p></list-item><list-item><p id="P49">In addition to community engagement plans, careful risk
+management strategies for CHI in low and middle-income countries are an
+important consideration as information management and mitigation needs
+to be planned and ready to activate to mitigate undesired publicity of
+CHI on social media and other avenues of communication.</p></list-item><list-item><p id="P50">Are there technical or infrastructure aspects of the research
+milieu in Uganda that made it suitable as the first African host country
+for CHI for schistosomiasis? If yes, consider noting these in case other
+groups are considering pilot CHI studies in low and middle-income
+countries.</p></list-item></list>
+</p><p id="P51">I have read this submission. I believe that I have an appropriate level of
+expertise to confirm that it is of an acceptable scientific standard.</p></body><back><ref-list><title>References</title><ref id="R35"><label>1</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Merrifield</surname><given-names>M</given-names></name><name><surname>Hotez</surname><given-names>P</given-names></name><name><surname>Beaumier</surname><given-names>C</given-names></name><name><surname>Gillespie</surname><given-names>P</given-names></name><name><surname>Strych</surname><given-names>U</given-names></name><name><surname>Hayward</surname><given-names>T</given-names></name><name><surname>Bottazzi</surname><given-names>M</given-names></name></person-group>: <article-title>Advancing a vaccine to prevent human
+schistosomiasis</article-title>. <source><italic>Vaccine</italic></source>.<year>2016</year>;<volume>34</volume>(<issue>26</issue>) :
+<fpage>2988</fpage>-<lpage>2991</lpage>
+<pub-id pub-id-type="doi">10.1016/j.vaccine.2016.03.079</pub-id>
+<pub-id pub-id-type="pmid">27036511</pub-id></mixed-citation></ref></ref-list></back></sub-article><sub-article id="REPORT26337" article-type="peer-review"><front-stub><title-group><article-title>Referee response for version 1</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Murphy</surname><given-names>Sean C.</given-names></name><xref ref-type="aff" rid="A15">1</xref><role>Referee</role><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-2048-0131</contrib-id></contrib><aff id="A15">
+<label>1</label>Department of Laboratory Medicine, University of Washington,
+Seattle, WA, USA</aff></contrib-group><author-notes><fn fn-type="COI-statement" id="FN4"><p id="P52">
+<bold>Competing interests: </bold>No competing interests were disclosed.</p></fn></author-notes><pub-date pub-type="epub"><day>2</day><month>5</month><year>2018</year></pub-date><custom-meta-group><custom-meta><meta-name>recommendation</meta-name><meta-value>approve</meta-value></custom-meta></custom-meta-group></front-stub><body><p id="P53">The report by Elliott <italic>et al.</italic> provides a well-written
+summary of schistosomiasis and the controlled human infection (CHI) model for
+Schistosoma (CHI-S) developed by the Leiden team followed by an integrated report
+about a stakeholders meeting conducted in Uganda&#x000a0;ahead of possible
+implementation of the CHI-S model in the endemic Uganda-based site.&#x000a0;&#x000a0;</p><p id="P54">
+<bold>Major issues:</bold>
+<list list-type="bullet" id="L2"><list-item><p id="P55">While the&#x000a0;paper provides an excellent overview of
+schistosomiasis and the CHI-S model, the transition from background on
+schistosomiasis to the report on the meeting&#x000a0;could benefit from a
+brief foreshadowing of the major findings from the stakeholders
+meeting.&#x000a0; While the technical hurdles to implementation of the
+CHI-S model in Uganda were more easily identified and labeled (and are
+present in Table 3), it seems more difficult to identify discrete core
+ethical and community based hurdles.&#x000a0;&#x000a0;The authors could
+consider adding more bullet points to Table 3 to expand on some of these
+ethical and community based hurdles.&#x000a0; The authors could also add a
+few overview-type sentences when the paper transitions from
+Background/Summary to Stakeholder meeting report.</p></list-item></list>
+<bold>Minor issues:</bold>
+<list list-type="bullet" id="L3"><list-item><p id="P56">The section titled &#x0201c;The controlled human schistosome
+infection model&#x0201d; could be re-titled &#x0201c;The controlled human
+schistosome infection model and considerations for adaptation to Ugandan
+site&#x0201d;.</p></list-item><list-item><p id="P57">Is there any possibility that adoption of new strains could
+carry unexpected bacterial flora that could cause unexpected AEs?</p></list-item><list-item><p id="P58">The scientific rationale for importation of the Leiden CHI-S
+snails/parasites as compared to use of locally-acquired snails/parasites
+could be expanded upon more fully.</p></list-item><list-item><p id="P59">The following sentence is <italic>much </italic>too long and
+should be split into 2-3 sentences to improve readability:
+&#x0201c;Populations of interest for CHI-S will include Ugandans not
+previously exposed to schistosomiasis (perhaps from an urban setting) as
+well as those from schistosomiasis-endemic communities (prior exposure
+for inclusion or exclusion can be determined by measuring IgG antibody
+to schistosome egg antigen): experience in Kenya with the controlled
+human malaria infection (CHMI) model showed that participants coming
+from areas with no active transmission (Nairobi residents) had low
+baseline responses to malaria, and a challenge response similar to
+Europeans3, whereas those resident where active malaria transmission
+occurs had higher baseline responses - indicative of either recent or
+prior malaria exposure - and a distinct profile of response to challenge
+(Kapulu, Bejon personal communication)."</p></list-item><list-item><p id="P60">Note that Sanaria's PfSPZ product is NOT yet "FDA
+approved".&#x000a0; This misunderstanding should be corrected toward the
+end of the section titled &#x0201c;Ethical and regulatory considerations
+for CHI-S in Uganda&#x0201d;.&#x000a0; The Sanaria product is being
+investigated under an FDA Investigational New Drug application.</p></list-item><list-item><p id="P61">The section &#x0201c;Contribution from representatives of endemic
+communities&#x0201d; lists contributions from a single individual who is
+said to speak for some of these communities.&#x000a0; However, the section
+title sounds more generalized than the text indicates.&#x000a0; I would
+suggest folding this section into another section as the current
+representation seems to potentially overly generalize the responses from
+one (albeit generous and collaborative) individual.</p></list-item></list>
+</p><p id="P62">I have read this submission. I believe that I have an appropriate level of
+expertise to confirm that it is of an acceptable scientific standard.</p></body></sub-article></article>

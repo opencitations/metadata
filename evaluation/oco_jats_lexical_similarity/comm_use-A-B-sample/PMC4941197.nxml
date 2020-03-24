@@ -1,0 +1,811 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="review-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Bone Res</journal-id><journal-id journal-id-type="iso-abbrev">Bone Res</journal-id><journal-title-group><journal-title>Bone Research</journal-title></journal-title-group><issn pub-type="ppub">2095-4700</issn><issn pub-type="epub">2095-6231</issn><publisher><publisher-name>Nature Publishing Group</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">27468360</article-id><article-id pub-id-type="pmc">4941197</article-id><article-id pub-id-type="pii">boneres201614</article-id><article-id pub-id-type="doi">10.1038/boneres.2016.14</article-id><article-categories><subj-group subj-group-type="heading"><subject>Review Article</subject></subj-group></article-categories><title-group><article-title>A review of UHMWPE wear-induced osteolysis: the role for early detection of the immune response</article-title><alt-title alt-title-type="running">UHMWPE wear-induced osteolysis</alt-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Kandahari</surname><given-names>Adrese M</given-names></name><xref ref-type="aff" rid="aff1">1</xref></contrib><contrib contrib-type="author"><name><surname>Yang</surname><given-names>Xinlin</given-names></name><xref ref-type="aff" rid="aff1">1</xref></contrib><contrib contrib-type="author"><name><surname>Laroche</surname><given-names>Kevin A</given-names></name><xref ref-type="aff" rid="aff1">1</xref></contrib><contrib contrib-type="author"><name><surname>Dighe</surname><given-names>Abhijit S</given-names></name><xref ref-type="aff" rid="aff1">1</xref></contrib><contrib contrib-type="author"><name><surname>Pan</surname><given-names>Dongfeng</given-names></name><xref ref-type="aff" rid="aff2">2</xref></contrib><contrib contrib-type="author"><name><surname>Cui</surname><given-names>Quanjun</given-names></name><xref ref-type="aff" rid="aff1">1</xref><xref ref-type="corresp" rid="caf1">*</xref></contrib><aff id="aff1"><label>1</label><institution>Department of Orthopaedic Surgery, University of Virginia</institution>, Charlottesville, VA, <country>USA</country></aff><aff id="aff2"><label>2</label><institution>Department of Radiology and Medical Imaging, University of Virginia</institution>, Charlottesville, VA, <country>USA</country></aff></contrib-group><author-notes><corresp id="caf1"><label>*</label>
+<email>(qc4q@hscmail.mcc.virginia.edu)</email></corresp></author-notes><pub-date pub-type="epub"><day>12</day><month>07</month><year>2016</year></pub-date><pub-date pub-type="collection"><year>2016</year></pub-date><volume>4</volume><fpage>16014</fpage><lpage/><history><date date-type="received"><day>22</day><month>11</month><year>2015</year></date><date date-type="rev-recd"><day>08</day><month>05</month><year>2016</year></date><date date-type="accepted"><day>13</day><month>05</month><year>2016</year></date></history><permissions><copyright-statement>Copyright &#x000a9; 2016 The Author(s)</copyright-statement><copyright-year>2016</copyright-year><copyright-holder>The Author(s)</copyright-holder><license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/"><!--author-paid--><license-p>This work is licensed under a Creative Commons Attribution 4.0 International License. The images or other third party material in this article are included in the article&#x02019;s Creative Commons license, unless indicated otherwise in the credit line; if the material is not included under the Creative Commons license, users will need to obtain permission from the license holder to reproduce the material. To view a copy of this license, visit <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link></license-p></license></permissions><abstract><p>In a world where increasing joint arthroplasties are being performed on increasingly younger patients, osteolysis as the leading cause of failure after total joint arthroplasty (TJA) has gained considerable attention. Ultra-high molecular weight polyethylene wear-induced osteolysis is the process by which prosthetic debris mechanically released from the surface of prosthetic joints induces an immune response that favors bone catabolism, resulting in loosening of prostheses with eventual failure or fracture. The immune response initiated is innate in that it is nonspecific and self-propagating, with monocytic cells and osteoclasts being the main effectors. To date, detecting disease early enough to implement effective intervention without unwanted systemic side effects has been a major barrier. These barriers can be overcome using newer <italic>in vivo</italic> imaging techniques and modules linked with fluorescence and/or chemotherapies. We discuss the pathogenesis of osteolysis, and provide discussion of the challenges with imaging and therapeutics. We describe a positron emission tomography imaging cinnamoyl-Phe-(D)-Leu-Phe-(D)-Leu-Phe-Lys module, specific to macrophages, which holds promise in early detection of disease and localization of treatment. Further research and increased collaboration among therapeutic and three-dimensional imaging researchers are essential in realizing a solution to clinical osteolysis in TJA.</p></abstract></article-meta></front><body><sec><title>Introduction</title><p>Total joint arthroplasty (TJA) is often considered one of the success stories of modern medicine, as it provides reliable long-term improvement in patient function, pain, and quality of life.<sup><xref ref-type="bibr" rid="bib1 bib2 bib3 bib4 bib5 bib6 bib7 bib8">1&#x02013;8</xref></sup> Aseptic loosening (AL) by periprosthetic osteolysis is the leading cause of failure after TJA<sup><xref ref-type="bibr" rid="bib4 bib5 bib6">4&#x02013;6</xref>,<xref ref-type="bibr" rid="bib9">9</xref>,<xref ref-type="bibr" rid="bib10">10</xref></sup> with reported incidence rates ranging from 10% to 70%.<sup><xref ref-type="bibr" rid="bib4">4</xref>,<xref ref-type="bibr" rid="bib5">5</xref>,<xref ref-type="bibr" rid="bib11">11</xref>,<xref ref-type="bibr" rid="bib12">12</xref></sup> The incidence of TJA is increasing, with over four million primary total hip/knee arthroplasties (THA, TKA) projected annually by 2030 in the United States and revision rates expected to double even earlier.<sup><xref ref-type="bibr" rid="bib13">13</xref></sup> Patients under 65 years of age currently comprise over 40% of the population undergoing THA or TKA, with incidence among this age group expected to increase.<sup><xref ref-type="bibr" rid="bib7">7</xref>,<xref ref-type="bibr" rid="bib14">14</xref></sup> As more TJA is performed on increasingly younger patients, rates of osteolysis-induced AL will intensify, as young age is a known risk factor for osteolysis, TJA failure, and revision surgery.<sup><xref ref-type="bibr" rid="bib4">4</xref>,<xref ref-type="bibr" rid="bib11">11</xref>,<xref ref-type="bibr" rid="bib15">15</xref></sup> Compared with primary THA or TKA, revision surgery has been shown to be costlier, technically more difficult, and associated with higher rates of complications and inferior outcomes.<sup><xref ref-type="bibr" rid="bib8">8</xref>,<xref ref-type="bibr" rid="bib15 bib16 bib17 bib18 bib19">15&#x02013;19</xref></sup> Considering this evidence, the vast impact TJA will have on US healthcare and economy in the near future quickly becomes evident. Although understanding of the mechanisms underlying osteolysis-induced AL has substantially improved in recent decades, barriers in the implementation of effective intervention obviating the need for revision surgery or minimizing its technical and financial demands still exist. These barriers revolve around difficulties in localization: early detection as osteolysis is often asymptomatic or undiagnosed until the need for revision surgery,<sup><xref ref-type="bibr" rid="bib4">4</xref>,<xref ref-type="bibr" rid="bib8">8</xref>,<xref ref-type="bibr" rid="bib17">17</xref>,<xref ref-type="bibr" rid="bib20">20</xref></sup> and therapy that is both effective and specific enough as to avoid intolerable or undesirable systemic side effects.<sup><xref ref-type="bibr" rid="bib5">5</xref>,<xref ref-type="bibr" rid="bib8">8</xref>,<xref ref-type="bibr" rid="bib21">21</xref>,<xref ref-type="bibr" rid="bib22">22</xref></sup></p><p>Periprosthetic osteolysis is the process by which biological or mechanical forces initiate a local immune response in periprosthetic tissue that eventually results in implant loosening and failure. Although this could be due to a number of factors such as infection, wear-induced osteolysis is induced by wear particles mechanically released at the articulating surface of prostheses over time. The material and character of the prosthesis implanted have implications on this process<sup><xref ref-type="bibr" rid="bib4 bib5 bib6 bib7">4&#x02013;7</xref>,<xref ref-type="bibr" rid="bib9">9</xref>,<xref ref-type="bibr" rid="bib15">15</xref>,<xref ref-type="bibr" rid="bib22">22</xref>,<xref ref-type="bibr" rid="bib23">23</xref></sup> with research focusing on developing prostheses with decreased rates of wear and therefore osteolysis and AL. Ultra-high molecular weight polyethylene (UHMWPE) is a plastic bearing commonly utilized in TJA, as it is durable and has low antigenicity and well-established clinical success.<sup><xref ref-type="bibr" rid="bib7">7</xref>,<xref ref-type="bibr" rid="bib15">15</xref></sup> Recently, highly cross-linked UHMWPE has come into use, proven <italic>in vitro</italic> to decrease wear by up to 92%<sup><xref ref-type="bibr" rid="bib24">24</xref></sup> with promising short-term <italic>in vivo</italic> results.<sup><xref ref-type="bibr" rid="bib15">15</xref>,<xref ref-type="bibr" rid="bib25 bib26 bib27">25&#x02013;27</xref></sup> Despite these advances, long-term data are lacking and osteolysis will continue to be a burden for patients after TJA, especially as patients undergoing these procedures become younger and younger. Recent research has characterized an immune response dominated by cells of monocytic or osteoclastogenic lineage when challenged with UHMWPE wear particles;<sup><xref ref-type="bibr" rid="bib5">5</xref>,<xref ref-type="bibr" rid="bib6">6</xref>,<xref ref-type="bibr" rid="bib8">8</xref>,<xref ref-type="bibr" rid="bib22">22</xref>,<xref ref-type="bibr" rid="bib28 bib29 bib30 bib31">28&#x02013;31</xref></sup> the current study explores that response: its players, progression, and future direction for timely detection and intervention.</p></sec><sec><title>UHMWPE wear debris: an inciting factor</title><p>Prostheses utilized in TJA serve to mimic the function of the natural joint and therefore face similar mechanical and chemical challenges: providing a smooth, durable, sliding surface that can afford sufficient and stable movement without pain over time. To attain the functional success of hyaline cartilage <italic>in vivo</italic>, prostheses must then balance the elements of friction, lubrication, and wear.<sup><xref ref-type="bibr" rid="bib4">4</xref>,<xref ref-type="bibr" rid="bib32">32</xref></sup> Wear refers to the loss of prosthetic material from the interface of articulating surfaces, and can be due to abrasion, adhesion, or fatigue.<sup><xref ref-type="bibr" rid="bib32">32</xref></sup> This debris of wear particles deposits in periprosthetic tissue, eliciting a chain reaction that results in the phenomenon of osteolysis.</p><p>As the works of Revell <italic>et al.</italic><sup><xref ref-type="bibr" rid="bib33">33</xref></sup> and Mirra <italic>et al.</italic><sup><xref ref-type="bibr" rid="bib34">34</xref></sup> first reported the associations between excessive polyethylene (PE) debris and loss of bone tissue and component loosening in 1978 and 1982, respectively; the presence of periprosthetic wear debris has been demonstrated to coincide with the diagnosis of osteolysis in countless models.<sup><xref ref-type="bibr" rid="bib8">8</xref>,<xref ref-type="bibr" rid="bib9">9</xref>,<xref ref-type="bibr" rid="bib28">28</xref>,<xref ref-type="bibr" rid="bib29">29</xref>,<xref ref-type="bibr" rid="bib31">31</xref></sup> A dose-dependent response has been described between the two: as UHMWPE wear particles are increasingly generated, risk for osteolysis intensifies.<sup><xref ref-type="bibr" rid="bib35">35</xref>,<xref ref-type="bibr" rid="bib36">36</xref></sup> At the heart of this dose-dependent response thrives the macrophage with histographic cell counts positively correlating with amount of PE debris and bone resorption.<sup><xref ref-type="bibr" rid="bib28">28</xref>,<xref ref-type="bibr" rid="bib29">29</xref>,<xref ref-type="bibr" rid="bib31">31</xref>,<xref ref-type="bibr" rid="bib37">37</xref></sup> It logically follows that UHMWPE wear debris is capable of initiating an immune response mediated by macrophages, and this principle has led to the study of particulates and development of PE with unique properties in an attempt to circumvent this response. Schmalzried <italic>et al.</italic><sup><xref ref-type="bibr" rid="bib37">37</xref></sup> examined histological specimens from areas of bone resorption in 34 hips with radiographic evidence of periprosthetic bone loss and universally detected PE debris-laden macrophages regardless of pattern of bone loss, anatomic origin of specimen, or use of cement. PE particles were mostly intracellular and &#x0003c;10&#x02009;&#x003bc;m in length, with macrophage infiltration positively correlating with the amount of PE debris and degree of bone resorption observed.</p><p>Though highly variable, UHMWPE wear particulates generally range from 0.1 to 1.0&#x02009;&#x003bc;m (average 0.5&#x02009;&#x003bc;m) in length when recovered from the hip, but average ~280&#x02009;&#x003bc;m in length when recovered from the knee.<sup><xref ref-type="bibr" rid="bib6">6</xref>,<xref ref-type="bibr" rid="bib7">7</xref>,<xref ref-type="bibr" rid="bib31">31</xref></sup> Particulates in the range of 0.1&#x02013;1.0&#x02009;&#x003bc;m are thought to be the most biologically active, with reported critical lengths of roughly 0.24&#x02013;7.20&#x02009;&#x003bc;m.<sup><xref ref-type="bibr" rid="bib6">6</xref>,<xref ref-type="bibr" rid="bib31">31</xref>,<xref ref-type="bibr" rid="bib38">38</xref></sup> Green <italic>et al.</italic><sup><xref ref-type="bibr" rid="bib38">38</xref></sup> demonstrated that UHMWPE particulates measuring 0.24&#x02009;&#x003bc;m in length elicited the greatest rate of bone resorption and cytokine [tumor necrosis factor-&#x003b1; (TNF-&#x003b1;), interleukin (IL)-1&#x003b2;, IL-6, and prostaglandin E<sub>2</sub> (PGE<sub>2</sub>)] production in an <italic>in vitro</italic> mouse model at a particulate volume (&#x003bc;m<sup>3</sup>) to macrophage ratio of 10:1. When increasing the ratio to 100:1 the response dissipated; however, particulates measuring 0.45 and 1.71&#x02009;&#x003bc;m in length then became active, paralleling their findings in another similar study.<sup><xref ref-type="bibr" rid="bib39">39</xref></sup> The work of these respective authors argues that wear debris incites a unique immune response dependent on both particulate size and dose, likely incorporating natural phenomena of specificity, critical thresholds, overstimulation, and desensitization.</p><p>When challenged with wear debris, three general cellular responses have been described, depending on particulate size. Particles &#x0003c;150&#x02009;nm are pinocytosed, particles 150&#x02009;nm to 10&#x02009;&#x003bc;m are phagocytosed, and particles &#x0003e;20&#x02009;&#x003bc;m induce multinucleated giant cell formation, with some overlap.<sup><xref ref-type="bibr" rid="bib6">6</xref>,<xref ref-type="bibr" rid="bib7">7</xref>,<xref ref-type="bibr" rid="bib31">31</xref></sup> It should be noted that multinucleated giant cell formation and activity are often not analyzed <italic>in vitro</italic>, such as in the study by Green <italic>et al.</italic><sup><xref ref-type="bibr" rid="bib38">38</xref></sup> described above, due to long incubation time and unique culture requirements. Taking this into account, it quickly becomes evident why larger particles elicited no immediate osteolytic reaction in that study. The overall immune response to UHMWPE particles has been characterized as a foreign body reaction, marked by granulomatous chronic inflammation.<sup><xref ref-type="bibr" rid="bib7">7</xref>,<xref ref-type="bibr" rid="bib31">31</xref></sup></p></sec><sec><title>Innate immune response</title><p>Although cells of monocytic lineage dominate in the pathogenesis of osteolysis, numerous cell types and inflammatory mediators have been implicated, summarized in <xref rid="tbl1" ref-type="table">Tables 1</xref> and <xref rid="tbl2" ref-type="table">2</xref>, respectively. Indicative of the innate immune system, NALP3 inflammasome, nuclear factor-&#x003ba;B (NF-&#x003ba;B), TNF-&#x003b1;, and IL-1&#x003b2; activation are significant to this response.<sup><xref ref-type="bibr" rid="bib5 bib6 bib7 bib8">5&#x02013;8</xref>,<xref ref-type="bibr" rid="bib22">22</xref>,<xref ref-type="bibr" rid="bib31">31</xref></sup> Pathogenesis is diverse and multifactorial, but is ultimately driven by increased osteoclastogenesis, proinflammatory enzymatic bone resorption, and decreased osteoblastic activity. Although no secondary, adaptive immune response is implicated in UHMWPE wear-induced osteolysis, the innate response does occur in a sequential manner. The three main pathways favoring bone resorption mentioned above do not occur in isolation, but rather as a comprehensive process shifting normal bone metabolism in favor of catabolism, making a temporal presentation of osteolysis difficult. Therefore, pathogenesis will be presented in a component-based system, exhibiting temporal progression as appropriate.</p><p>T-lymphocytes have been found in periprosthetic tissue with osteolysis but are generally detected in low numbers.<sup><xref ref-type="bibr" rid="bib40">40</xref>,<xref ref-type="bibr" rid="bib41">41</xref></sup> Furthermore, Pfp/Rag2 double-knockout mice (entirely lacking mature T and B lymphocytes with severe depletion of NK cell function) have been shown to develop osteolysis at similar rates to control mice with similar amounts of locally produced TNF-&#x003b1; and IL-1&#x003b2;.<sup><xref ref-type="bibr" rid="bib41">41</xref></sup> However, a role has been proposed for lymphocytes in osteolysis, specifically a hypersensitivity reaction to metal-on-metal prostheses.<sup><xref ref-type="bibr" rid="bib6">6</xref>,<xref ref-type="bibr" rid="bib7">7</xref>,<xref ref-type="bibr" rid="bib9">9</xref>,<xref ref-type="bibr" rid="bib40">40</xref></sup> As this current study focuses on UHMWPE wear-induced osteolysis, these reactions are beyond the scope of this study. Therefore, lymphocytes and the adapative immune response will be excluded from any further discussion.</p><sec><title>Cellular response</title><p>In order to fully comprehend the roles of monocytes, dendritic cells (DC), osteoclasts, osteoblasts, and fibroblasts in osteolysis, a basic understanding of physiologic bone metabolism must be realized. Bone is constantly under revision, formed by osteoblasts and broken down by osteoclasts under hormonal and paracrine regulation. When this homeostatic process is misbalanced in favor of catabolism, osteolysis results. Briefly, osteoclastogenesis is mediated by two growth factors: receptor activator of NF-&#x003ba;B (RANK) ligand (RANKL) and macrophage colony-stimulating factor.<sup><xref ref-type="bibr" rid="bib5">5</xref>,<xref ref-type="bibr" rid="bib6">6</xref>,<xref ref-type="bibr" rid="bib22">22</xref>,<xref ref-type="bibr" rid="bib31">31</xref>,<xref ref-type="bibr" rid="bib40">40</xref>,<xref ref-type="bibr" rid="bib42">42</xref></sup> RANKL is of the TNF superfamily; cytokines capable of inducing RANKL expression include TNF-&#x003b1; and IL-1&#x003b2;, among others. RANKL increases TNF-&#x003b1; production and TNF-&#x003b1; enhances NF-&#x003ba;B activation, forming a compounding and synergistic positive feedback loop. Stimulation of monocytes and osteoclast progenitors (OCP) by RANKL and macrophage colony-stimulating factor results in their fusion and differentiation into mature, multinucleated osteoclasts in tissue. Osteoblasts, which produce osteoprotegerin (OPG) or osteoclastogenesis inhibitory factor, are central to NF-&#x003ba;B regulation. OPG functions as an extracellular decoy receptor for RANKL, thereby inhibiting RANK stimulation and osteoclastogenesis. Finally, these factors, which influence osteoblast/clast genesis, function, and survival, are mainly controlled by the interplay between parathyroid hormone, calcitonin, and estrogen under normal physiological conditions, summarized in <xref ref-type="fig" rid="fig1">Figure 1</xref>. Once fully differentiated, mature osteoclasts express tartrate-resistant acid phosphatase (TRAP) and cathepsin K (CATK), two enzymes essential to their lytic function.</p><p>UHMWPE particles induce inflammation and stimulate macrophages by a variety of mechanisms. One such mechanism occurs through Toll-like receptor (TLR) activity. TLRs are expressed in many inflammatory cells, especially those of monocytic lineage, and their stimulation promotes phagocytosis and initiates an innate immune response mediated through NF-&#x003ba;B activation.<sup><xref ref-type="bibr" rid="bib43 bib44 bib45">43&#x02013;45</xref></sup> Classically, TLRs are stimulated by pathogen- or damage-associated molecular patterns in response to infection or tissue damage, allowing for an early inflammatory response. Maitra <italic>et al.</italic><sup><xref ref-type="bibr" rid="bib46">46</xref></sup> demonstrated that UHMWPE particles are comprised of alkane polymers capable of directly stimulating TLR2 and TLR1/2 <italic>in vitro</italic>, leading to their phagocytosis and subsequent immune activation. When recovered from osteolytic tissue, a majority of these alkane polymers were found to have undergone extensive carbonyl modification, indicative of oxidative damage likely mediated enzymatically by cells of monocytic lineage. A positive correlation was observed between amount of oxidation of alkane polymers and their affinity for TLR, with oxidized polymers exhibiting up to a 140-fold increase in binding affinity. In a subsequent study,<sup><xref ref-type="bibr" rid="bib44">44</xref></sup> Maitra <italic>et al.</italic> observed that the endosomes of inflammatory infiltrates of periprosthetic tissue challenged with UHMWPE were engorged with alkane particles. The failure of the endosomal enzymes to degrade UHMWPE led to an increase in endosome compartment size, number, and fusion, with some observed along the plasma membrane undergoing exocytosis. Unsurprisingly, necrotic cells were observed in the surrounding tissue, with UHMWPE particles, cathepsin, and collagen damage detected. This tissue injury generates heat shock proteins and other damage-associated molecular patterns,<sup><xref ref-type="bibr" rid="bib7">7</xref>,<xref ref-type="bibr" rid="bib47">47</xref></sup> further increasing TLR activation. Incubation with oxidized alkanes activated DCs, macrophages, monocytes, and osteoclasts, with each expressing an upregulation of surface major histocompatibility complex class II, B7&#x02013;1, B7&#x02013;2, and CD40 molecules.<sup><xref ref-type="bibr" rid="bib44">44</xref></sup> Significantly, these cells exhibited an increase in TLR1 and TLR2 mRNA transcription, with the upregulation of IL-1, IL-6, IL-10, IL-12, TNF-&#x003b1;, and IFN-&#x003b3;. These findings present many implications for the immune response to UHMWPE wear, most importantly that UHMWPE is capable of inciting a nonspecific and self-propagating innate immune response.<sup><xref ref-type="bibr" rid="bib47">47</xref></sup></p><p>Another important finding by Maitra <italic>et al.</italic><sup><xref ref-type="bibr" rid="bib44">44</xref></sup> in the previously described study is that TLR stimulation of monocytes and macrophages induced pro-IL-1&#x003b2; expression but not the release of mature IL-1&#x003b2;, the actions of which are summarized in <xref rid="tbl2" ref-type="table">Table 2</xref>. Instead, endosomal destabilization and NALP3 inflammasome activity have been characterized as mediators of IL-1&#x003b2; and IL-18 maturation and release.<sup><xref ref-type="bibr" rid="bib4">4</xref>,<xref ref-type="bibr" rid="bib7">7</xref>,<xref ref-type="bibr" rid="bib44">44</xref>,<xref ref-type="bibr" rid="bib48 bib49 bib50">48&#x02013;50</xref></sup> NALP3, when activated, complexes with adapter protein PYCARD, leading to caspase-1 recruitment and activation. Caspase-1 subsequently cleaves pro-IL-1&#x003b2; and pro-IL-18 into their active forms, allowing for their secretion. DCs treated with UHMWPE particles <italic>in vitro</italic> expressed increased levels of caspase-1 and active IL-1&#x003b2; and IL-18, which were subsequently downregulated after cathepsin inhibition.<sup><xref ref-type="bibr" rid="bib44">44</xref></sup> In demonstrating that NALP3 inflammasome activity was integral to the development of pneumoconiosis (a disease process also characterized by foreign body reaction), Cassel <italic>et al.</italic><sup><xref ref-type="bibr" rid="bib50">50</xref></sup> reported that inflammasome activation required reactive oxygen species generation and an efflux of potassium. NALP3 inflammasome activation therefore occurs by two mechanisms, both of which are consistent with osteolysis: reactive oxygen species and other danger signal (ATP, urate, and so on) generation,<sup><xref ref-type="bibr" rid="bib7">7</xref>,<xref ref-type="bibr" rid="bib48">48</xref>,<xref ref-type="bibr" rid="bib50">50</xref>,<xref ref-type="bibr" rid="bib51">51</xref></sup> and cathepsin release.<sup><xref ref-type="bibr" rid="bib7">7</xref>,<xref ref-type="bibr" rid="bib44">44</xref></sup> When osteoclasts, macrophages, and DCs phagocytose UHMWPE particles &#x0003c;10&#x02009;&#x003bc;m, they are unable to degrade them, leading to endosomal instability and the subsequent spilling of cathepsin.<sup><xref ref-type="bibr" rid="bib7">7</xref>,<xref ref-type="bibr" rid="bib44">44</xref></sup> This damage undoubtedly releases both self and neighboring intracellular contents that likely signal NALP3 activation further, paralleling the findings by Cassel <italic>et al.</italic><sup><xref ref-type="bibr" rid="bib50">50</xref></sup> Furthermore, as UHMWPE particles are released secondary to endosomal instability, they are likely re-phagocytosed by other activated cells, leading to a perpetual inflammatory cascade in the local periprosthetic environment. When challenged by larger UHMWPE particles &#x0003e;20&#x02009;&#x003bc;m, multinucleated giant cells are formed that undergo &#x0201c;frustrated phagocytosis,&#x0201d; where UHMWPE is trapped near the cell surface, activating NADPH oxidases.<sup><xref ref-type="bibr" rid="bib7">7</xref>,<xref ref-type="bibr" rid="bib51">51</xref></sup> These oxidases generate reactive oxygen species contributing to NALP3 inflammasome activation. Coupled with TLR-induced cytokine transcription, NALP3 inflammasome and caspase-1 activity allow IL-1&#x003b2; and IL-18 to contribute to development of osteolysis, as illustrated in <xref ref-type="fig" rid="fig2">Figure 2</xref>. A take home point from NALP3 inflammasome activation and activity is again that a nonspecific, self-propagating immune response is initiated, destroying natural tissue architecture in a local environment. Despite the inflammatory response described, detection of osteolysis remains challenging, expounded upon further in Detection and diagnosis section.</p><p>Although bone destruction is mainly regulated by local proinflammatory factors in a periprosthetic microenvironment, systemic macrophage/OCP involvement is reported. Ren <italic>et al.</italic><sup><xref ref-type="bibr" rid="bib28">28</xref></sup> continuously infused saline or UHMWPE particles into mice femora and injected reporter bioluminescent macrophages into tail veins. Upon noninvasive <italic>in vivo</italic> imaging, significantly increased reporter macrophages were detected in femora of mice infused with UHMWPE, and these macrophages were positively stained for TRAP and were associated with increased bone destruction. Wu <italic>et al.</italic><sup><xref ref-type="bibr" rid="bib29">29</xref></sup> found that peripheral monocytes in patients with AL demonstrated an increased frequency of the CD14<sup>+</sup>CD16<sup>+</sup> phenotype compared with controls. The CD14<sup>+</sup>CD16<sup>+</sup> phenotype was then correlated with increased periprosthetic tissue macrophage infiltration and pathology score, plasma TNF-&#x003b1; and IL-1&#x003b2; levels, and inducible TNF-&#x003b1; and IL-1&#x003b2; production after stimulation with UHMWPE particles, paralleling findings of CD14<sup>+</sup>CD16<sup>+</sup> monocytes in rheumatoid arthritis.<sup><xref ref-type="bibr" rid="bib29">29</xref></sup> Coupled with the findings that TNF-&#x003b1; can increase CD16 expression<sup><xref ref-type="bibr" rid="bib52">52</xref></sup> and precede CD16<sup>+</sup> monocyte expansion,<sup><xref ref-type="bibr" rid="bib29">29</xref></sup> Wu <italic>et al.</italic> concluded that TNF-&#x003b1; and CD16 likely form an auto-amplification loop. Applied to the local, periprosthetic environment in osteolytic tissue, this relationship likely has significant implications. Yet again exemplifying self-propagation, cytokine and chemokine production lead to the increased systemic migration of OCP and a potent, proinflammatory macrophage phenotype, resulting in a positive feedback loop of bone destruction.</p><p>Sharing lineage with monocytes, DCs have a role in osteolysis pathogenesis paralleling that of their close relatives. Maitra <italic>et al.</italic><sup><xref ref-type="bibr" rid="bib42">42</xref></sup> conducted an <italic>in vivo</italic> study assessing DC function in a calvaria UHMWPE-induced osteolytic Csf1r knockout mouse model (profoundly deficient in osteoclasts, tissue macrophages, and Langerhans cells) with compelling results. Csf1r<sup>-/-</sup> mice challenged with UHMWPE particles developed statistically significant osteolysis vs controls, and demonstrated peripheral DC recruitment exhibiting CATK expression and multinucleated giant cell formation around UHMWPE particles. Although DCs have been shown to contribute to osteoclastogenesis through cytokine production,<sup><xref ref-type="bibr" rid="bib7">7</xref>,<xref ref-type="bibr" rid="bib42">42</xref>,<xref ref-type="bibr" rid="bib45">45</xref>,<xref ref-type="bibr" rid="bib46">46</xref>,<xref ref-type="bibr" rid="bib53">53</xref></sup> the findings of Maitra <italic>et al.</italic> suggest DCs may yet have a more direct role in bone metabolism. While it should be noted that the robust DC response seen by Maitra <italic>et al.</italic> may have been exaggerated <italic>ex vacuo</italic>, that is, due to a lack of normal monocytic or resident macrophage-derived osteoclastogenic function, DCs likely function in conjunction with these cells under normal physiological conditions. Indeed, in response to UHMWPE particles, DCs have been demonstrated to infiltrate periprosthetic tissue,<sup><xref ref-type="bibr" rid="bib7">7</xref>,<xref ref-type="bibr" rid="bib44">44</xref></sup> support prosthetic synovial pseudomembrane formation,<sup><xref ref-type="bibr" rid="bib7">7</xref></sup> produce TNF- &#x003b1;, IFN-&#x003b3;, and IL-1, IL-6, and IL-12,<sup><xref ref-type="bibr" rid="bib44">44</xref>,<xref ref-type="bibr" rid="bib46">46</xref></sup> upregulate major histocompatibility complex class II expression,<sup><xref ref-type="bibr" rid="bib44">44</xref>,<xref ref-type="bibr" rid="bib46">46</xref></sup> and phagocytose UHMWPE particles.<sup><xref ref-type="bibr" rid="bib7">7</xref>,<xref ref-type="bibr" rid="bib44">44</xref></sup> Thus, DCs should be considered as extensions of monocytes in regards to function and possible therapeutic intervention.</p></sec><sec><title>Cytokine response</title><p>Although poorly understood, molecular pathways and targets of osteolysis are emerging. NF-&#x003ba;B, described as the master regulator of immune response,<sup><xref ref-type="bibr" rid="bib47">47</xref></sup> stimulates osteoclastogenesis,<sup><xref ref-type="bibr" rid="bib31">31</xref></sup> and is activated by RANKL, the production of which is increased by TNF-&#x003b1; and IL-1&#x003b2;.<sup><xref ref-type="bibr" rid="bib54">54</xref></sup> Osteoclastogenesis has also been reported in isolated OCPs when treated with TNF-&#x003b1;. Although debated, direct TNF-&#x003b1;-induced osteoclastogenesis is likely mediated by a RANKL-dependent mechanism.<sup><xref ref-type="bibr" rid="bib31">31</xref></sup> Lam <italic>et al.</italic><sup><xref ref-type="bibr" rid="bib55">55</xref></sup> cultured purified OCPs with TNF-&#x003b1; and macrophage colony-stimulating factor and found that the OCPs failed to undergo osteoclastogenesis. When cells recovered from marrow were exposed to RANKL, differentiation did occur, paralleling conflicting findings by other authors.<sup><xref ref-type="bibr" rid="bib56">56</xref>,<xref ref-type="bibr" rid="bib57">57</xref></sup> Upon addition of OPG to initiation of bone marrow culture,<sup><xref ref-type="bibr" rid="bib55">55</xref></sup> this effect was abolished, suggesting RANKL-dependent TNF-&#x003b1;-induced osteoclastogenesis. When OCPs were treated with RANKL and TNF-&#x003b1;, TNF-&#x003b1; was found to augment osteoclast differentiation in a dose-dependent manner. This synergistic effect was so powerful that 1&#x02009;ng&#x000b7;mL<sup>&#x02212;1</sup> of TNF-&#x003b1; was sufficient to potentiate osteoclast differentiation at RANKL doses &#x0003c;1% of that normally required for osteoclastogenesis.</p><p>Regarding mature osteoclasts, TNF-&#x003b1; activates osteoclasts independent of and similar in potency to RANKL, and also greatly augments RANKL-induced osteoclast activation.<sup><xref ref-type="bibr" rid="bib58">58</xref></sup> Fuller <italic>et al.</italic><sup><xref ref-type="bibr" rid="bib58">58</xref></sup> treated osteoclasts harvested <italic>in vitro</italic> and <italic>in vivo</italic> with TNF-&#x003b1; and discovered a potent stimulation of actin ring formation (indicative of activation and bone resorptive capability) comparable to that induced by RANKL. When incubated with OPG, no inhibition of TNF-&#x003b1;-induced actin ring formation occurred, suggesting a RANKL-independent mechanism for osteoclast activation. Incubation with small amounts of TNF-&#x003b1; and RANKL exhibited a greatly synergistic response paralleling actin formation induced by RANKL alone at concentrations magnitudes higher. Lee <italic>et al.</italic><sup><xref ref-type="bibr" rid="bib59">59</xref></sup> treated osteoclasts with various factors <italic>in vitro</italic> and found that TNF-&#x003b1;, IL-1&#x003b2;, and RANKL promoted osteoclast survival. TNF-&#x003b1; inhibited apoptosis the strongest, and this inhibition was dependent on Akt and ERK phosphorylation. By enhancing osteoclast differentiation, activation, and survival often in concert with RANKL, TNF-&#x003b1; significantly contributes to the development of osteolysis.</p><p>IL-1 serves to collaborate with TNF-&#x003b1;. Wei <italic>et al.</italic> demonstrated that TNF-&#x003b1; increases IL-1 and IL-1 receptor (IL-1R) type I expression by murine marrow stromal cells, and that osteoclastogenesis induced by TNF-&#x003b1; was reduced ~50% with IL-1R antagonism.<sup><xref ref-type="bibr" rid="bib60">60</xref></sup> Moreover, TNF-induced <italic>RANKL</italic> gene expression was blunted in IL-1R-deficient cells, an effect not seen in control cells treated with active vitamin D (known activator of <italic>RANKL</italic> gene). TNF-&#x003b1; and IL-1 effects were mediated by p38-associated mitogen-activated protein kinases (MAPK). In addition, Wei <italic>et al.</italic><sup><xref ref-type="bibr" rid="bib60">60</xref></sup> incubated OCPs derived from wild-type and TNF receptor-deficient mice with and without RANKL to assess IL-1 function. No osteoclast differentiation occurred in cultures without RANKL. Contrastingly, cultures incubated with RANKL and increasing amounts of IL-1 demonstrated a dose-dependent differentiation of osteoclasts. TNF receptor knockout had no bearing on these results. Thus, in addition to mediating the effects of TNF-&#x003b1;, IL-1 is also capable of directly stimulating osteoclastogenesis in the presence of low levels of RANKL. IL-1R and IL-18R signaling have been reported to activate NF-&#x003ba;B and MAPK, paralleling these findings.<sup><xref ref-type="bibr" rid="bib48">48</xref></sup> A conclusion to be drawn is that while TNF-&#x003b1;, IL-1, and RANKL display cooperative synergism to promote osteoclast differentiation, they also maintain independence to mediate these proinflammatory effects. The result is a fail-safe mechanism in initiating an immune response, one that possesses the ability to sustain and propagate itself, as described in earlier sections.</p></sec></sec><sec><title>Detection and diagnosis</title><p>Detection of osteolysis at stages early enough to implement intervention is challenging. First, osteolysis is often asymptomatic or undiagnosed until the need for revision surgery.<sup><xref ref-type="bibr" rid="bib4">4</xref>,<xref ref-type="bibr" rid="bib8">8</xref>,<xref ref-type="bibr" rid="bib17">17</xref>,<xref ref-type="bibr" rid="bib20">20</xref></sup> Traditional imaging frequently underestimates the true amount of periprosthetic bone loss<sup><xref ref-type="bibr" rid="bib17">17</xref></sup> and its sensitivity is dependent upon lesion location,<sup><xref ref-type="bibr" rid="bib61">61</xref>,<xref ref-type="bibr" rid="bib62">62</xref></sup> while the widespread implementation of newer radiographic techniques poses challenges of cost-effectiveness and radiation exposure.<sup><xref ref-type="bibr" rid="bib4">4</xref></sup> In addition, metal artifact from arthroplasties has greatly hindered visualization of the periprosthetic interface and therefore diagnosis utilizing computed tomography (CT) and magnetic resonance imaging (MRI).<sup><xref ref-type="bibr" rid="bib61">61</xref></sup> High-resolution three-dimensional CT (3D-CT) has been developed to provide a more sensitive and accurate method than plain radiograph for measuring the size and progression of periprosthetic lesions in patients suspected of having osteolysis;<sup><xref ref-type="bibr" rid="bib63 bib64 bib65">63&#x02013;65</xref></sup> however, the need for longitudinal studies underlines the significant radiation risk in the population at large.</p><p>In a cadaveric study, MRI has been reported to be 95% sensitive and 98% specific, with mean error of actual lesion volumes of 1.4&#x000b1;2.4&#x02009;cm<sup>3</sup>.<sup><xref ref-type="bibr" rid="bib61">61</xref></sup> In addition, MRI has been demonstrated to be more effective than CT and plain film in detecting lesions &#x02a7d;3&#x02009;cm, but less accurate than CT in measuring lesion volume.<sup><xref ref-type="bibr" rid="bib62">62</xref></sup> Multiple advances in imaging technique have greatly enhanced metal artifact reduction in MRI,<sup><xref ref-type="bibr" rid="bib66">66</xref></sup> making it a reasonable option for osteolysis/AL surveillance. However, visualization in MRI is still problematic, artifact reduction is variable, evaluation of the acetabulum is obscured by the convex surface of the acetabular implant,<sup><xref ref-type="bibr" rid="bib66">66</xref></sup> and difficulty in clinical correlation exists. Significantly, both MRI and 3D-CT cannot detect inflammation that occurs at the initial and early stages of osteolysis, leading to formation of osteolytic lesions.</p><p>There is compelling evidence that imaging techniques directly targeting inflammatory cells within osteolytic tissue could become great tools for the detection of particle-induced inflammation. In diagnosis of periprosthetic infection and AL after TJA, nuclear medicine techniques including bone scrintigraphy (triple phase bone scan), leukocyte scintigraphy (white blood cell scan or WBCS), and 18F-labeled fluorodeoxyglucose (FDG)-positron emission tomography (PET) have gained considerable attention.<sup><xref ref-type="bibr" rid="bib67 bib68 bib69 bib70 bib71 bib72 bib73 bib74">67&#x02013;74</xref></sup> Triple phase bone scan, which is easily performed and accessible, has varying sensitivities and specificities in the literature, but is generally considered sensitive but not specific with an accuracy of 50%&#x02013;70%.<sup><xref ref-type="bibr" rid="bib67 bib68 bib69">67&#x02013;69</xref>,<xref ref-type="bibr" rid="bib72">72</xref>,<xref ref-type="bibr" rid="bib74">74</xref></sup> WBCS utilizes <italic>in vitro</italic> or <italic>in vivo</italic> labeling techniques to compare radiotracer uptake in periprosthetic tissue with set reference points generally in the marrow.<sup><xref ref-type="bibr" rid="bib69">69</xref>,<xref ref-type="bibr" rid="bib72">72</xref>,<xref ref-type="bibr" rid="bib74">74</xref></sup> While various combinations of techniques utilizing WBCS may demonstrate high sensitivity and specificity for infection (accuracy of over 80%), even being considered the gold standard by some, numerous pitfalls exist. WBCS is complex, expensive, time consuming, requires multiple visits to perform, dependent on patient marrow characteristics, and involves contact with blood products and reinjection (<italic>in vitro</italic>) or immunogenic antibodies (<italic>in vivo</italic>). Importantly, in regards to AL, WBCS mainly labels neutrophils, so is relatively insensitive to the largely macrophage-driven response.</p><p>FDG-PET, based off the premise of increased glucose metabolism in activated leukocytes, is advantageous in that it involves just one injection, has quick results, has high target to background ratio, and provides high resolution.<sup><xref ref-type="bibr" rid="bib69">69</xref>,<xref ref-type="bibr" rid="bib72">72</xref>,<xref ref-type="bibr" rid="bib74">74</xref></sup> As such, the focus of FDG-PET studies lay in the differentiation of periprosthetic infection from AL, as both can clinically present similarly but have vastly differing treatments.<sup><xref ref-type="bibr" rid="bib67 bib68 bib69 bib70 bib71 bib72 bib73 bib74">67&#x02013;74</xref></sup> From high-quality reviews in the literature, sensitivities, specificities, and accuracies for diagnosing infection in THA are generally reported to be roughly 85%, 90%, and 90%, respectively.<sup><xref ref-type="bibr" rid="bib69">69</xref>,<xref ref-type="bibr" rid="bib70">70</xref>,<xref ref-type="bibr" rid="bib73">73</xref></sup> For TKA, these values are roughly 96%, 77%, and 83%.<sup><xref ref-type="bibr" rid="bib69">69</xref>,<xref ref-type="bibr" rid="bib73">73</xref></sup> Variable values across the literature are attributable to divergent criteria for image interpretation and diagnosis,<sup><xref ref-type="bibr" rid="bib67 bib68 bib69 bib70 bib71 bib72 bib73 bib74">67&#x02013;74</xref></sup> while the decreased specificity of TKA may be accounted for by nonspecific tracer uptake in the knee<sup><xref ref-type="bibr" rid="bib69">69</xref></sup> or intense tracer uptake attributable to capsulitis/synovitis from AL.<sup><xref ref-type="bibr" rid="bib73">73</xref></sup> Regarding THA, a group of researchers from the University Hospital of Aachen, Germany was able to achieve a sensitivity, specificity, and accuracy of 94%, 95%, and 95% in assessing 92 prostheses for periprosthetic infection versus AL.<sup><xref ref-type="bibr" rid="bib68">68</xref></sup> Their criterion for diagnosis was based off of five basic FDG uptake patterns. FDG uptake in periprosthetic soft tissue correlated with infection, while increased FDG uptake near the femoral neck and in the whole prosthesis-bone interface of the acetabular cup or in wide parts of the prosthesis-bone interface of the femoral stem correlated with AL. With these and further advancements, PET seems a promising tool to diagnose and potentially treat osteolysis and AL.</p><p>Utilizing <italic>in vivo</italic> imaging, the first report of systemic leukocyte recruitment in particle-induced inflammation was most likely published by Ren <italic>et al.</italic><sup><xref ref-type="bibr" rid="bib75">75</xref></sup> They injected cement particles into femoral cavity of nude mice and then intravenously administered luciferase-expressing macrophages, demonstrating significant accumulation of macrophages at the femoral site with particles. The results of this study indicate that modulation of signaling mechanisms governing leukocyte recruitment may contribute to the treatment of osteolysis. On the basis of the activation of NF-&#x003ba;B in inflammatory cells stimulated by wear particles, Takahashi <italic>et al.</italic> described the feasibility of NF-&#x003ba;B/luciferase transgenic mice for <italic>in vivo</italic> imaging of inflammation and osteolysis in calvariae loaded with PE particles, highlighting a useful tool for evaluating the efficacy of treatments for particle-induced osteolysis.<sup><xref ref-type="bibr" rid="bib76">76</xref></sup></p><p>Recently, a polymeric nanocarrier system targeting inflammatory cells was revealed by a series of experiments performed by a group of researchers at the University of Nebraska, to be enriched at inflamed sites with a few animal models.<sup><xref ref-type="bibr" rid="bib8">8</xref>,<xref ref-type="bibr" rid="bib77 bib78 bib79 bib80">77&#x02013;80</xref></sup> The system makes use of water-soluble copolymers of <italic>N</italic>-(2-hydrocpropyl)methacrylamide (HPMA), that were originally designed for cancer chemotherapy due to the meritorious properties of the nanoparticles. These include an enhanced permeability and retention effect, water-solubility, low immunogenicity, and high stability.<sup><xref ref-type="bibr" rid="bib81">81</xref>,<xref ref-type="bibr" rid="bib82">82</xref></sup> While HPMA copolymers have been labeled with near-infrared dye 800CW and radioisotope <sup>125</sup>I for imaging purposes<sup><xref ref-type="bibr" rid="bib78">78</xref>,<xref ref-type="bibr" rid="bib80">80</xref></sup> and loaded with a drug dexamethasone for therapeutic intention,<sup><xref ref-type="bibr" rid="bib77">77</xref>,<xref ref-type="bibr" rid="bib78">78</xref></sup> it is anticipated that conjugates of these copolymers with other radioisotopes such as <sup>111</sup>In, <sup>99m</sup>Tc, <sup>18</sup>F, and <sup>64</sup>Cu, and other drugs, will be explored in the future in order to achieve the clinical use of nanocarriers for early diagnosis and effective treatment of periprosthetic osteolysis. These nanocarriers are in contrast to FDG-labeled probes, which are not feasible for drug conjugation as they are too nonspecific and lack durability.</p><p>Formyl peptide receptors are a group of proteins within the G-protein-coupled receptor family, and are primarily expressed on the surface of activated leukocytes.<sup><xref ref-type="bibr" rid="bib83">83</xref></sup> Utilizing cinnamoyl-Phe-(D)-Leu-Phe-(D)-Leu-Phe-Lys (cFLFLF), we have developed an innovative platform technology for a series of tracers detecting inflammation, with modular designs including leukocyte recognition (antagonistic, synthetic peptide with high affinity), optimization of pharmacological properties (linker), and a molecular imaging module for appropriate label detection. Utilization of cFLFLF is based on the fact that it is a well-defined, non-natural amino acid-containing synthetic peptide with high affinity for formyl peptide receptors, and has small molecular weight, water-soluble, and functionally inactive properties. The cFLFLF-PEG modules have been successfully utilized by us and others,<sup><xref ref-type="bibr" rid="bib84">84</xref>,<xref ref-type="bibr" rid="bib85">85</xref></sup> for building PET (DOTA-<sup>64</sup>Cu),<sup><xref ref-type="bibr" rid="bib86">86</xref></sup> optical imaging (Cy5 and Cy7),<sup><xref ref-type="bibr" rid="bib87">87</xref>,<xref ref-type="bibr" rid="bib88">88</xref></sup> and MRI (DOTA-Gd)<sup><xref ref-type="bibr" rid="bib89">89</xref></sup> probes, and have exhibited excellent imaging in a variety of inflammation models in animals. Noticeably, an <italic>in vitro</italic> experiment showed that the cFLFLF-PEG-Cy7 probe has specific binding affinity to the cultured, murine macrophage cell line RAW264.7 stimulated by lipopolysaccharide (<xref ref-type="fig" rid="fig3">Figure 3</xref>).<sup><xref ref-type="bibr" rid="bib90">90</xref></sup> Furthermore, the cFLFLF-PEG-<sup>64</sup>Cu probe has been employed to target macrophage activity in apolipoprotein E-deficient (ApoE&#x02212;/&#x02212;) mice with type 2 diabetes mellitus,<sup><xref ref-type="bibr" rid="bib91">91</xref></sup> and in a chemically-induced osteoarthritic rat model.<sup><xref ref-type="bibr" rid="bib90">90</xref></sup> Our next plan is to explore the feasibility of utilizing cFLFLF-PEG as a carrier of various imaging and therapeutic agents for animal models of periprosthetic osteolysis, with the ultimate goal of developing these agents for the early diagnosis and treatment of osteolysis in improving clinical outcomes.</p><p>The clinical implementation of <italic>in vivo</italic> imaging techniques provides diverse and unique challenges compared with other imaging modalities. Many of these challenges are related to the probes themselves. Probes should have high and rapid uptake, selectivity, the ability to reside in target tissues long enough to allow optimal imaging, efficient clearance to improve target to non-target ratio, and the absence of adverse effects. In addition, probes should have low radiation or toxicity, ease of accessibility, long shelf life, ease of use, and acceptable cost. Finally, like other imaging techniques, standardizations for diagnosis and therefore efficacy of these modules must be attained. Keeping these in mind, it quickly becomes evident why the synthesis of probes acceptable and feasible for human use is such a difficult task.</p></sec><sec><title>Treatment</title><p>Medical treatment of osteolysis has faced many challenges to date: detection of disease at stages early enough to implement efficacious intervention, quantitative outcome measure of treatment efficacy, and either safe or targeted delivery of drugs with potentially devastating systemic side effects.<sup><xref ref-type="bibr" rid="bib8">8</xref>,<xref ref-type="bibr" rid="bib21">21</xref></sup> Agents studied for treatment of osteolysis are those utilized in other catabolic bone diseases, namely bisphosphonates,<sup><xref ref-type="bibr" rid="bib9">9</xref>,<xref ref-type="bibr" rid="bib21">21</xref></sup> corticosteroids,<sup><xref ref-type="bibr" rid="bib5">5</xref>,<xref ref-type="bibr" rid="bib8">8</xref></sup> TNF-&#x003b1; antagonists,<sup><xref ref-type="bibr" rid="bib5">5</xref>,<xref ref-type="bibr" rid="bib9">9</xref>,<xref ref-type="bibr" rid="bib21">21</xref></sup> IL-1 antagonists,<sup><xref ref-type="bibr" rid="bib5">5</xref>,<xref ref-type="bibr" rid="bib21">21</xref></sup> IL-10 vectors,<sup><xref ref-type="bibr" rid="bib5">5</xref>,<xref ref-type="bibr" rid="bib31">31</xref></sup> and OPG vectors.<sup><xref ref-type="bibr" rid="bib5">5</xref>,<xref ref-type="bibr" rid="bib31">31</xref></sup> Bisphosphonates have proven unsuccessful in inflammatory conditions and clinically are generally not supported by the literature,<sup><xref ref-type="bibr" rid="bib92">92</xref></sup> while systemic corticosteroids are avoided due to unwanted and morbid side effects.<sup><xref ref-type="bibr" rid="bib5">5</xref></sup> Purdue <italic>et al.</italic><sup><xref ref-type="bibr" rid="bib8">8</xref></sup> linked dexamethasone to an HPMA copolymer and found that single dose tail vein injection into an osteolytic mouse model completely prevented osteolysis, paralleling findings of a preliminary study in an arthritic rat model where arthritis was prevented for over four weeks.<sup><xref ref-type="bibr" rid="bib77">77</xref></sup> In additional experiments, Purdue <italic>et al.</italic><sup><xref ref-type="bibr" rid="bib8">8</xref></sup> found that this sustained effect of drugs coupled to HPMA copolymers was due to their rapid, nonspecific endocytic uptake and sequestration by inflammatory cells at sites of inflammation, the benefits of which are extremely advantageous: HPMA copolymers are capable of quick localization with high selectivity and demonstrate high durability. TNF-&#x003b1; and IL-1 antagonists have variably demonstrated efficacy, but come with unwanted immunosuppression.<sup><xref ref-type="bibr" rid="bib5">5</xref>,<xref ref-type="bibr" rid="bib21">21</xref></sup> Anti-cytokine (<italic>IL-10</italic> and <italic>OPG</italic>) gene therapy has demonstrated promising results in animal models, but reluctance to implement viral gene therapy in humans still exists.<sup><xref ref-type="bibr" rid="bib5">5</xref></sup> In addition, adenoviral vectors are commonly used, which have high immunogenicity and are warned against.<sup><xref ref-type="bibr" rid="bib5">5</xref></sup> As <italic>in vitro</italic> gene transfer and subsequent transplantation into human subjects remains a distant possibility, <italic>in vivo</italic> viral gene therapy likely is not a reasonable or realistic solution, especially as osteolysis is a chronic disease process.</p><p>Recently, targeting RANK/RANKL has emerged as a potential therapeutic avenue. Denosumab (Amgen; Thousand Oaks, CA, USA), a monoclonal antibody against RANKL, has recently been approved for use in bony metastasis, hypercalcemia of malignancy recalcitrant to bisphosphonates, and certain giant cell tumors. It is currently in phase II clinical trials regarding efficacy in osteolysis.<sup><xref ref-type="bibr" rid="bib93">93</xref></sup> Denosumab is mostly effective due to its anti-resorptive effects, as bone alkaline phosphatase did not decrease until a month after injection, while bone turnover markers immediately decreased.<sup><xref ref-type="bibr" rid="bib9">9</xref></sup> The finding that a human null mutation of RANKL results in osteopetrosis but not immunosuppression provides support for RANKL antagonism as therapeutic intervention, despite the central role of NF-&#x003ba;B in immune response.<sup><xref ref-type="bibr" rid="bib94">94</xref></sup></p><p>Additional support for targeting RANK/RANKL arrives from studies demonstrating inhibition of osteolysis by: treatment with methotrexate,<sup><xref ref-type="bibr" rid="bib95">95</xref></sup> ursolic acid,<sup><xref ref-type="bibr" rid="bib96">96</xref></sup> and triptolide<sup><xref ref-type="bibr" rid="bib97">97</xref></sup> (RANKL-mediated), p38 suppression<sup><xref ref-type="bibr" rid="bib98">98</xref></sup> (downstream signaling cascade induced by RANKL), and RANK small interfering RNA local injection.<sup><xref ref-type="bibr" rid="bib99">99</xref></sup> Methotrexate is an interesting option in that its effects are mainly mediated by the adenosine A<sub>2A</sub> receptor, which has many downstream effects.<sup><xref ref-type="bibr" rid="bib95">95</xref></sup> In an <italic>in vivo</italic>, UHMWPE particle-induced osteolytic murine model, Mediero <italic>et al.</italic><sup><xref ref-type="bibr" rid="bib95">95</xref></sup> found that methotrexate treatment increased alkaline phosphatase<sup>+</sup> cells, OPG expression, and bone formation and density, and reduced RANKL expression, RANK/RANKL+ cells, inflammatory infiltrate, TRAP<sup>+</sup> and CATK<sup>+</sup> osteoclasts, and osteolysis. Considering the lower risk for failure by AL in rheumatoid arthritis patients,<sup><xref ref-type="bibr" rid="bib100">100</xref></sup> many of whom are likely on methotrexate, adenosine A<sub>2A</sub> receptor agonism may provide an invaluable therapeutic option in osteolysis. Systemic side effects with methotrexate or adenosine receptor treatment again validate the utility of controlled, localized treatment, which are possible with newer <italic>in vivo</italic> imaging techniques.</p></sec><sec><title>Perspective</title><p>Despite advances in material design of prostheses used in TJA, medical treatments must continue to be pursued due to the lack of long-term clinical data of newer prostheses and the plethora of arthroplasties already performed with those more classical. The increasing number of surgeries being performed on increasingly younger patients expounds this need for medical intervention. Inflammatory cells of monocytic lineage dominate pathogenesis of osteolysis, and therefore are the natural target for chemotherapy. Historically, the main barriers to implementation of effective therapy have been detecting disease at stages early enough for effective intervention and averting unwanted and significant systemic side effects. In theory, this can be accomplished by one of two methods: designing a drug without significant systemic side effects, or navigating a delivery mechanism that allows for localized and selective drug dissemination without systemic side effects. For example, a RANKL antagonist is currently in clinical trials for use in osteolysis, and this shows some promise in that it impacts immunocompetence less than originally thought. More importantly, copolymers utilized in newer <italic>in vivo</italic> imaging techniques have demonstrated excellent utility in detecting osteolysis early and, through linkers, providing selective and localized treatment able to be followed over time. HPMA and our cFLFLF modules demonstrate promising examples. With high selectivity, drugs targeting any significant pathway discussed may prove beneficial in the treatment of osteolysis, including RANK, NALP3 inflammasome, TNF-&#x003b1;, or caspase-1 antagonism, among others. As osteolysis develops over a period of 5&#x02013;10 years, it may be reasonable to utilize <italic>in vivo</italic> imaging at post-operative intervals in the order of years, first screened at 5 years post-operatively. With early detection and selective therapy without significant side effects, osteolysis can be managed medically to decrease morbidity and improve outcome after TJA.</p></sec></body><back><notes><p>The authors declare no conflict of interest.</p></notes><ref-list><ref id="bib1"><mixed-citation publication-type="journal">
+Ethgen O
+, 
+Bruy&#x000e8;re O
+, 
+Richy F
+et al. <article-title>Health-related quality of life in total hip and total knee arthroplasty. A qualitative and systematic review of the literature</article-title>. <source>J Bone Joint Surg Am</source>
+<year>2004</year>; <volume>86-A</volume>: <fpage>963</fpage>&#x02013;974.<pub-id pub-id-type="pmid">15118039</pub-id></mixed-citation></ref><ref id="bib2"><mixed-citation publication-type="journal">
+Singh JA
+. <article-title>Epidemiology of knee and hip arthroplasty: a systematic review</article-title>. <source>Open Orthop J</source>
+<year>2011</year>; <volume>5</volume>: <fpage>80</fpage>&#x02013;85.<pub-id pub-id-type="pmid">21584277</pub-id></mixed-citation></ref><ref id="bib3"><mixed-citation publication-type="journal">
+Lim JBT
+, 
+Chou CC
+, 
+Yeo W
+et al. <article-title>Comparison of patient quality of life scores and satisfaction after common orthopedic surgical interventions</article-title>. <source>Eur J Orthop Surg Traumatol</source>
+<year>2015</year>; <volume>25</volume>: <fpage>1007</fpage>&#x02013;1012.<pub-id pub-id-type="pmid">25893611</pub-id></mixed-citation></ref><ref id="bib4"><mixed-citation publication-type="journal">
+Beck RT
+, 
+Illingworth KD
+, 
+Saleh KJ
+. <article-title>Review of periprosthetic osteolysis in total joint arthroplasty: an emphasis on host factors and future directions</article-title>. <source>J Orthop Res</source>
+<year>2012</year>; <volume>30</volume>: <fpage>541</fpage>&#x02013;546.<pub-id pub-id-type="pmid">21922533</pub-id></mixed-citation></ref><ref id="bib5"><mixed-citation publication-type="journal">
+Wooley PH
+, 
+Schwarz EM
+. <article-title>Aseptic loosening</article-title>. <source>Gene Ther</source>
+<year>2004</year>; <volume>11</volume>: <fpage>402</fpage>&#x02013;407.<pub-id pub-id-type="pmid">14724679</pub-id></mixed-citation></ref><ref id="bib6"><mixed-citation publication-type="journal">
+Jiang Y
+, 
+Jia T
+, 
+Wooley PH
+et al. <article-title>Current research in the pathogenesis of aseptic implant loosening associated with particulate wear debris</article-title>. <source>Acta Orthop Belg</source>
+<year>2013</year>; <volume>79</volume>: <fpage>1</fpage>&#x02013;9.<pub-id pub-id-type="pmid">23547507</pub-id></mixed-citation></ref><ref id="bib7"><mixed-citation publication-type="journal">
+Cobelli N
+, 
+Scharf B
+, 
+Crisi GM
+et al. <article-title>Mediators of the inflammatory response to joint replacement devices</article-title>. <source>Nat Rev Rheumatol</source>
+<year>2011</year>; <volume>7</volume>: <fpage>600</fpage>&#x02013;608.<pub-id pub-id-type="pmid">21894210</pub-id></mixed-citation></ref><ref id="bib8"><mixed-citation publication-type="journal">
+Purdue PE
+, 
+Levin AS
+, 
+Ren K
+et al. <article-title>Development of polymeric nanocarrier system for early detection and targeted therapeutic treatment of peri-implant osteolysis</article-title>. <source>HSS J</source>
+<year>2013</year>; <volume>9</volume>: <fpage>79</fpage>&#x02013;85.<pub-id pub-id-type="pmid">24426848</pub-id></mixed-citation></ref><ref id="bib9"><mixed-citation publication-type="journal">
+Looney RJ
+, 
+Schwarz EM
+, 
+Boyd A
+et al. <article-title>Periprosthetic osteolysis: an immunologist&#x02019;s update</article-title>. <source>Curr Opin Rheumatol</source>
+<year>2006</year>; <volume>18</volume>: <fpage>80</fpage>&#x02013;87.<pub-id pub-id-type="pmid">16344623</pub-id></mixed-citation></ref><ref id="bib10"><mixed-citation publication-type="journal">
+Harris WH
+. <article-title>Wear and periprosthetic osteolysis: the problem</article-title>. <source>Clin Orthop Relat Res</source>
+<year>2001</year>; <volume>393</volume>: <fpage>66</fpage>&#x02013;70.<pub-id pub-id-type="pmid">11764372</pub-id></mixed-citation></ref><ref id="bib11"><mixed-citation publication-type="journal">
+Warth LC
+, 
+Callaghan JJ
+, 
+Liu SS
+et al. <article-title>Thirty-five-year results after Charnley total hip arthroplasty in patients less than fifty years old</article-title>. <source>J Bone Joint Surg Am</source>
+<year>2014</year>; <volume>96</volume>: <fpage>1814</fpage>&#x02013;1819.<pub-id pub-id-type="pmid">25378509</pub-id></mixed-citation></ref><ref id="bib12"><mixed-citation publication-type="journal">
+Marshall A
+, 
+Ries MD
+, 
+Paprosky W
+; <article-title>Implant Wear Symposium 2007 Clinical Work Group. How prevalent are implant wear and osteolysis, and how has the scope of osteolysis changed since 2000?</article-title>
+<source>J Am Acad Orthop Surg</source>
+<year>2008</year>; <volume>16</volume> Suppl 1: <fpage>S1</fpage>&#x02013;S6.</mixed-citation></ref><ref id="bib13"><mixed-citation publication-type="journal">
+Kurtz S
+, 
+Ong K
+, 
+Lau E
+et al. <article-title>Projections of primary and revision hip and knee arthroplasty in the United States from 2005 to 2030</article-title>. <source>J Bone Joint Surg Am</source>
+<year>2007</year>; <volume>89</volume>: <fpage>780</fpage>&#x02013;785.<pub-id pub-id-type="pmid">17403800</pub-id></mixed-citation></ref><ref id="bib14"><mixed-citation publication-type="journal">
+Kurtz SM
+, 
+Lau E
+, 
+Ong K
+et al. <article-title>Future young patient demand for primary and revision joint replacement: national projections from 2010 to 2030</article-title>. <source>Clin Orthop Relat Res</source>
+<year>2009</year>; <volume>467</volume>: <fpage>2606</fpage>&#x02013;2612.<pub-id pub-id-type="pmid">19360453</pub-id></mixed-citation></ref><ref id="bib15"><mixed-citation publication-type="journal">
+Jacobs CA
+, 
+Christensen CP
+, 
+Greenwald AS
+et al. <article-title>Clinical performance of highly cross-linked polyethylenes in total hip arthroplasty</article-title>. <source>J Bone Joint Surg Am</source>
+<year>2007</year>; <volume>89</volume>: <fpage>2779</fpage>&#x02013;2786.<pub-id pub-id-type="pmid">18056513</pub-id></mixed-citation></ref><ref id="bib16"><mixed-citation publication-type="journal">
+Saleh KJ
+, 
+Wood K
+, 
+Gafni A
+et al. <article-title>Immediate surgery versus waiting list policy in revision total hip arthroplasty: an economic evaluation</article-title>. <source>J Arthroplasty</source>
+<year>1997</year>; <volume>12</volume>: <fpage>1</fpage>&#x02013;10.<pub-id pub-id-type="pmid">9021495</pub-id></mixed-citation></ref><ref id="bib17"><mixed-citation publication-type="journal">
+Saleh KJ
+, 
+Thongtrangan I
+, 
+Schwarz EM
+. <article-title>Osteolysis: medical and surgical approaches</article-title>. <source>Clin Orthop Relat Res</source>
+<year>2004</year>; <volume>427</volume>: <fpage>138</fpage>&#x02013;147.<pub-id pub-id-type="pmid">15552150</pub-id></mixed-citation></ref><ref id="bib18"><mixed-citation publication-type="journal">
+Khatod M
+, 
+Inacio M
+, 
+Paxton EW
+et al. <article-title>Knee replacement: epidemiology, outcomes, and trends in Southern California: 17,080 replacements from 1995 through 2004</article-title>. <source>Acta Orthop</source>
+<year>2008</year>; <volume>79</volume>: <fpage>812</fpage>&#x02013;819.<pub-id pub-id-type="pmid">19085500</pub-id></mixed-citation></ref><ref id="bib19"><mixed-citation publication-type="journal">
+Oduwole KO
+, 
+Molony DC
+, 
+Walls RJ
+et al. <article-title>Increasing financial burden of revision total knee arthroplasty</article-title>. <source>Knee Surg Sports Traumatol Arthrosc</source>
+<year>2010</year>; <volume>18</volume>: <fpage>945</fpage>&#x02013;948.<pub-id pub-id-type="pmid">20148322</pub-id></mixed-citation></ref><ref id="bib20"><mixed-citation publication-type="journal">
+Engh CA Jr
+, 
+Ho H
+, 
+Padgett DE
+. <article-title>The surgical options and clinical evidence for treatment of wear or corrosion occurring with THA or TKA</article-title>. <source>Clin Orthop Relat Res</source>
+<year>2014</year>; <volume>472</volume>: <fpage>3674</fpage>&#x02013;3686.<pub-id pub-id-type="pmid">25024023</pub-id></mixed-citation></ref><ref id="bib21"><mixed-citation publication-type="journal">
+Schwarz EM
+. <article-title>Implant Wear Symposium 2007 Biologic Work Group. What potential biologic treatments are available for osteolysis?</article-title>
+<source>J Am Acad Orthop Surg</source>
+<year>2008</year>; <volume>16</volume> (Suppl 1): <fpage>S72</fpage>&#x02013;S75.<pub-id pub-id-type="pmid">18612019</pub-id></mixed-citation></ref><ref id="bib22"><mixed-citation publication-type="journal">
+Noordin S
+, 
+Masri B
+. <article-title>Periprosthetic osteolysis: genetics, mechanisms, and potential therapeutic interventions</article-title>. <source>Can J Surg</source>
+<year>2012</year>; <volume>55</volume>: <fpage>408</fpage>&#x02013;417.<pub-id pub-id-type="pmid">22992398</pub-id></mixed-citation></ref><ref id="bib23"><mixed-citation publication-type="journal">
+Chandran P
+, 
+Azzabi M
+, 
+Andrews M
+et al. <article-title>Periprosthetic bone remodeling after 12 years differs in cemented and uncemented hip arthroplasties</article-title>. <source>Clin Orthop Relat Res</source>
+<year>2012</year>; <volume>470</volume>: <fpage>1431</fpage>&#x02013;1435.<pub-id pub-id-type="pmid">22015997</pub-id></mixed-citation></ref><ref id="bib24"><mixed-citation publication-type="book">
+Liao YS
+, 
+Greer K
+, 
+Hanes M
+et al. <source>Effects of Resin and Dose on Wear and Mechanical Properties of Cross-Linked Thermally Stabilized UHMWPE</source>. Society for Biomaterials, the 7th World Biomaterials Congress: Sydney, NSW, Australia, <year>2004</year>.</mixed-citation></ref><ref id="bib25"><mixed-citation publication-type="journal">
+Kuzyk PR
+, 
+Saccone M
+, 
+Sprague S
+et al. <article-title>Cross-linked versus conventional polyethylene for total hip replacement: a meta-analysis of randomised controlled trials</article-title>. <source>J Bone Joint Surg Br</source>
+<year>2011</year>; <volume>93</volume>: <fpage>593</fpage>&#x02013;600.<pub-id pub-id-type="pmid">21511923</pub-id></mixed-citation></ref><ref id="bib26"><mixed-citation publication-type="journal">
+Thomas GE
+, 
+Simpson DJ
+, 
+Mehmood S
+et al. <article-title>The seven-year wear of highly cross-linked polyethylene in total hip arthroplasty: a double-blind, randomized controlled trial using radiostereometric analysis</article-title>. <source>J Bone Joint Surg Am</source>
+<year>2011</year>; <volume>93</volume>: <fpage>716</fpage>&#x02013;722.<pub-id pub-id-type="pmid">21508278</pub-id></mixed-citation></ref><ref id="bib27"><mixed-citation publication-type="journal">
+McCalden RW
+, 
+MacDonald SJ
+, 
+Rorabeck CH
+et al. <article-title>Wear rate of highly cross-linked polyethylene in total hip arthroplasty. A randomized controlled trial</article-title>. <source>J Bone Joint Surg Am</source>
+<year>2009</year>; <volume>91</volume>: <fpage>773</fpage>&#x02013;782.<pub-id pub-id-type="pmid">19339560</pub-id></mixed-citation></ref><ref id="bib28"><mixed-citation publication-type="journal">
+Ren PG
+, 
+Irani A
+, 
+Huang Z
+et al. <article-title>Continuous infusion of UHMWPE particles induces increased bone macrophages and osteolysis</article-title>. <source>Clin Orthop Relat Res</source>
+<year>2011</year>; <volume>469</volume>: <fpage>113</fpage>&#x02013;122.<pub-id pub-id-type="pmid">21042895</pub-id></mixed-citation></ref><ref id="bib29"><mixed-citation publication-type="journal">
+Wu W
+, 
+Zhang X
+, 
+Zhang C
+et al. <article-title>Expansion of CD14+CD16+ peripheral monocytes among patients with aseptic loosening</article-title>. <source>Inflamm Res</source>
+<year>2009</year>; <volume>58</volume>: <fpage>561</fpage>&#x02013;570.<pub-id pub-id-type="pmid">19290480</pub-id></mixed-citation></ref><ref id="bib30"><mixed-citation publication-type="journal">
+Sethi Rk, Neavyn MJ
+, 
+Rubash HE
+et al. <article-title>Macrophage response to cross-linked and conventional UHMWPE</article-title>. <source>Biomaterials</source>
+<year>2003</year>; <volume>24</volume>: <fpage>2561</fpage>&#x02013;2573.<pub-id pub-id-type="pmid">12726710</pub-id></mixed-citation></ref><ref id="bib31"><mixed-citation publication-type="journal">
+Ingham E
+, 
+Fisher J
+. <article-title>The role of macrophages in osteolysis of total joint replacement</article-title>. <source>Biomaterials</source>
+<year>2005</year>; <volume>26</volume>: <fpage>1271</fpage>&#x02013;1286.<pub-id pub-id-type="pmid">15475057</pub-id></mixed-citation></ref><ref id="bib32"><mixed-citation publication-type="book">
+Yadav CS
+, 
+Kumar A
+. <source>Tips and Tricks in Hip and Knee Arthroplasty: A Practical Approach</source>. Jaypee Brothers Medical Publishers: New Delhi, India, <year>2014</year>.</mixed-citation></ref><ref id="bib33"><mixed-citation publication-type="journal">
+Revell PA
+, 
+Weightman B
+, 
+Freeman MA
+et al. <article-title>The production and biology of polyethylene wear debris</article-title>. <source>Arch Orthop Trauma Surg</source>
+<year>1978</year>; <volume>91</volume>: <fpage>167</fpage>&#x02013;181.<pub-id pub-id-type="pmid">666546</pub-id></mixed-citation></ref><ref id="bib34"><mixed-citation publication-type="journal">
+Mirra JM
+, 
+Marder RA
+, 
+Amstutz HC
+. <article-title>The pathology of failed total joint arthroplasty</article-title>. <source>Clin Orthop Relat Res</source>
+<year>1982</year>; <volume>170</volume>: <fpage>175</fpage>&#x02013;183.<pub-id pub-id-type="pmid">7127944</pub-id></mixed-citation></ref><ref id="bib35"><mixed-citation publication-type="journal">
+Wilkinson JM
+, 
+Hamer AJ
+, 
+Stockley I
+et al. <article-title>Polyethylene wear rate and osteolysis: critical threshold versus continuous dose-response relationship</article-title>. <source>J Orthop Res</source>
+<year>2005</year>; <volume>23</volume>: <fpage>520</fpage>&#x02013;525.<pub-id pub-id-type="pmid">15885470</pub-id></mixed-citation></ref><ref id="bib36"><mixed-citation publication-type="journal">
+Dowd JE
+, 
+Sychterz CJ
+, 
+Young AM
+et al. <article-title>Characterization of long-term femoral-head-penetration rates. Association with and prediction of osteolysis</article-title>. <source>J Bone Joint Surg Am</source>
+<year>2000</year>; <volume>82-A</volume>: <fpage>1102</fpage>&#x02013;1107.<pub-id pub-id-type="pmid">10954099</pub-id></mixed-citation></ref><ref id="bib37"><mixed-citation publication-type="journal">
+Schmalzried TP
+, 
+Jasty M
+, 
+Harris WH
+. <article-title>Periprosthetic bone loss in total hip arthroplasty. Polyethylene wear debris and the concept of the effective joint space</article-title>. <source>J Bone Joint Surg Am</source>
+<year>1992</year>; <volume>74</volume>: <fpage>849</fpage>&#x02013;863.<pub-id pub-id-type="pmid">1634575</pub-id></mixed-citation></ref><ref id="bib38"><mixed-citation publication-type="journal">
+Green TR
+, 
+Fisher J
+, 
+Matthews JB
+et al. <article-title>Effect of size and dose on bone resorption activity of macrophages by <italic>in vitro</italic> clinically relevant ultra high molecular weight polyethylene particles</article-title>. <source>J Biomed Mater Res</source>
+<year>2000</year>; <volume>53</volume>: <fpage>490</fpage>&#x02013;497.<pub-id pub-id-type="pmid">10984696</pub-id></mixed-citation></ref><ref id="bib39"><mixed-citation publication-type="journal">
+Green TR
+, 
+Fisher J
+, 
+Stone MH
+et al. <article-title>Polyethylene particles of a 'critical size' are necessary for the induction of cytokines by macrophages <italic>in vitro</italic></article-title>. <source>Biomaterials</source>
+<year>1998</year>; <volume>19</volume>: <fpage>2297</fpage>&#x02013;2302.<pub-id pub-id-type="pmid">9884043</pub-id></mixed-citation></ref><ref id="bib40"><mixed-citation publication-type="journal">
+Purdue PE
+, 
+Koulouvaris P
+, 
+Nestor BJ
+et al. <article-title>The central role of wear debris in periprosthetic osteolysis</article-title>. <source>HSS J</source>
+<year>2006</year>; <volume>2</volume>: <fpage>102</fpage>&#x02013;113.<pub-id pub-id-type="pmid">18751821</pub-id></mixed-citation></ref><ref id="bib41"><mixed-citation publication-type="journal">
+Taki N
+, 
+Tatro JM
+, 
+Nalepka JL
+et al. <article-title>Polyethylene and titanium particles induce osteolysis by similar, lymphocyte-independent, mechanisms</article-title>. <source>J Orthop Res</source>
+<year>2005</year>; <volume>23</volume>: <fpage>376</fpage>&#x02013;383.<pub-id pub-id-type="pmid">15734251</pub-id></mixed-citation></ref><ref id="bib42"><mixed-citation publication-type="journal">
+Maitra R
+, 
+Follenzi A
+, 
+Yaghoobian A
+et al. <article-title>Dendritic cell-mediated <italic>in vivo</italic> bone resorption</article-title>. <source>J Immunol</source>
+<year>2010</year>; <volume>185</volume>: <fpage>1485</fpage>&#x02013;1491.<pub-id pub-id-type="pmid">20581147</pub-id></mixed-citation></ref><ref id="bib43"><mixed-citation publication-type="journal">
+Doyle SE
+, 
+O&#x02019;Connell RM
+, 
+Miranda GA
+et al. <article-title>Toll-like receptors induce a phagocytic gene program through p38</article-title>. <source>J Exp Med</source>
+<year>2004</year>; <volume>199</volume>: <fpage>81</fpage>&#x02013;90.<pub-id pub-id-type="pmid">14699082</pub-id></mixed-citation></ref><ref id="bib44"><mixed-citation publication-type="journal">
+Maitra R
+, 
+Clement CC
+, 
+Scharf B
+et al. <article-title>Endosomal damage and TLR2 mediated inflammasome activation by alkane particles in the generation of aseptic osteolysis</article-title>. <source>Mol Immunol</source>
+<year>2009</year>; <volume>47</volume>: <fpage>175</fpage>&#x02013;184.<pub-id pub-id-type="pmid">19804908</pub-id></mixed-citation></ref><ref id="bib45"><mixed-citation publication-type="journal">
+Tamaki Y
+, 
+Takakubo Y
+, 
+Goto K
+et al. <article-title>Increased expression of toll-like receptors in aseptic loose periprosthetic tissues and septic synovial membranes around total hip implants</article-title>. <source>J Rheumatol</source>
+<year>2009</year>; <volume>36</volume>: <fpage>598</fpage>&#x02013;608.<pub-id pub-id-type="pmid">19208601</pub-id></mixed-citation></ref><ref id="bib46"><mixed-citation publication-type="journal">
+Maitra R
+, 
+Clement CC
+, 
+Crisi GM
+et al. <article-title>Immunogenecity of modified alkane polymers is mediated through TLR1/2 activation</article-title>. <source>PLoS One</source>
+<year>2008</year>; <volume>3</volume>: <fpage>e2438</fpage>.<pub-id pub-id-type="pmid">18560588</pub-id></mixed-citation></ref><ref id="bib47"><mixed-citation publication-type="journal">
+Kandahari AM
+, 
+Yang X
+, 
+Dighe AS
+et al. <article-title>Recognition of immune response for the early diagnosis and treatment of osteoarthritis</article-title>. <source>J Immunol Res</source>
+<year>2015</year>; <volume>2015</volume>: <fpage>192415</fpage>.<pub-id pub-id-type="pmid">26064995</pub-id></mixed-citation></ref><ref id="bib48"><mixed-citation publication-type="journal">
+Lamkanfi M
+, 
+Dixit VM
+. <article-title>Inflammasomes: guardians of cytosolic sanctity</article-title>. <source>Immunol Rev</source>
+<year>2009</year>; <volume>227</volume>: <fpage>95</fpage>&#x02013;105.<pub-id pub-id-type="pmid">19120479</pub-id></mixed-citation></ref><ref id="bib49"><mixed-citation publication-type="journal">St
+Pierre CA
+, 
+Chan M
+, 
+Iwakura Y
+et al. <article-title>Periprosthetic osteolysis: characterizing the innate immune response to titanium wear-particles</article-title>. <source>J Orthop Res</source>
+<year>2010</year>; <volume>28</volume>: <fpage>1418</fpage>&#x02013;1424.<pub-id pub-id-type="pmid">20872576</pub-id></mixed-citation></ref><ref id="bib50"><mixed-citation publication-type="journal">
+Cassel SL
+, 
+Eisenbarth SC
+, 
+Iyer SS
+et al. <article-title>The Nalp3 inflammasome is essential for the development of silicosis</article-title>. <source>Proc Natl Acad Sci USA</source>
+<year>2008</year>; <volume>105</volume>: <fpage>9035</fpage>&#x02013;9040.<pub-id pub-id-type="pmid">18577586</pub-id></mixed-citation></ref><ref id="bib51"><mixed-citation publication-type="journal">
+O&#x02019;Neill LA
+. <article-title>Immunology. How frustration leads to inflammation</article-title>. <source>Science</source>
+<year>2008</year>; <volume>320</volume>: <fpage>619</fpage>&#x02013;620.<pub-id pub-id-type="pmid">18451288</pub-id></mixed-citation></ref><ref id="bib52"><mixed-citation publication-type="journal">
+Skinner NA
+, 
+MacIsaac CM
+, 
+Hamilton JA
+et al. <article-title>Regulation of Toll-like receptor (TLR)2 and TLR4 on CD14dimCD16+ monocytes in response to sepsis-related antigens</article-title>. <source>Clin Exp Immunol</source>
+<year>2005</year>; <volume>141</volume>: <fpage>270</fpage>&#x02013;278.<pub-id pub-id-type="pmid">15996191</pub-id></mixed-citation></ref><ref id="bib53"><mixed-citation publication-type="journal">
+Cang D
+, 
+Guo K
+, 
+Zhao F
+. <article-title>Dendritic cells enhance UHMWPE wear particle-induced osteoclast differentiation of macrophages</article-title>. <source>J Biomed Mater Res A</source>
+<year>2015</year>; <volume>103</volume>: <fpage>3349</fpage>&#x02013;3354.<pub-id pub-id-type="pmid">25808788</pub-id></mixed-citation></ref><ref id="bib54"><mixed-citation publication-type="journal">
+Hofbauer LC
+, 
+Schoppet M
+. <article-title>Clinical implications of the osteoprotegerin /RANKL/RANK system for bone and vascular diseases</article-title>. <source>JAMA</source>
+<year>2004</year>; <volume>292</volume>: <fpage>490</fpage>&#x02013;495.<pub-id pub-id-type="pmid">15280347</pub-id></mixed-citation></ref><ref id="bib55"><mixed-citation publication-type="journal">
+Lam J
+, 
+Takeshita S
+, 
+Barker JE
+et al. <article-title>TNF-alpha induces osteoclastogenesis by direct stimulation of macrophages exposed to permissive levels of RANK ligand</article-title>. <source>J Clin Invest</source>
+<year>2000</year>; <volume>106</volume>: <fpage>1481</fpage>&#x02013;1488.<pub-id pub-id-type="pmid">11120755</pub-id></mixed-citation></ref><ref id="bib56"><mixed-citation publication-type="journal">
+Kobayashi K
+, 
+Takahashi N
+, 
+Jimi E
+et al. <article-title>Tumor necrosis factor alpha stimulates osteoclast differentiation by a mechanism independent of the ODF/RANKL-RANK interaction</article-title>. <source>J Exp Med</source>
+<year>2000</year>; <volume>191</volume>: <fpage>275</fpage>&#x02013;286.<pub-id pub-id-type="pmid">10637272</pub-id></mixed-citation></ref><ref id="bib57"><mixed-citation publication-type="journal">
+Azuma Y
+, 
+Kaji K
+, 
+Katogi R
+et al. <article-title>Tumor necrosis factor-alpha induces differentiation of and bone resorption by osteoclasts</article-title>. <source>J Biol Chem</source>
+<year>2000</year>; <volume>275</volume>: <fpage>4858</fpage>&#x02013;4864.<pub-id pub-id-type="pmid">10671521</pub-id></mixed-citation></ref><ref id="bib58"><mixed-citation publication-type="journal">
+Fuller K
+, 
+Murphy C
+, 
+Kirstein B
+et al. <article-title>TNFalpha potently activates osteoclasts, through a direct action independent of and strongly synergistic with RANKL</article-title>. <source>Endocrinology</source>
+<year>2002</year>; <volume>143</volume>: <fpage>1108</fpage>&#x02013;1118.<pub-id pub-id-type="pmid">11861538</pub-id></mixed-citation></ref><ref id="bib59"><mixed-citation publication-type="journal">
+Lee SE
+, 
+Chung WJ
+, 
+Kwak HB
+et al. <article-title>Tumor necrosis factor-alpha supports the survival of osteoclasts through the activation of Akt and ERK</article-title>. <source>J Biol Chem</source>
+<year>2001</year>; <volume>276</volume>: <fpage>49343</fpage>&#x02013;49349.<pub-id pub-id-type="pmid">11675379</pub-id></mixed-citation></ref><ref id="bib60"><mixed-citation publication-type="journal">
+Wei S
+, 
+Kitaura H
+, 
+Zhou P
+et al. <article-title>IL-1 mediates TNF-induced osteoclastogenesis</article-title>. <source>J Clin Invest</source>
+<year>2005</year>; <volume>115</volume>: <fpage>282</fpage>&#x02013;290.<pub-id pub-id-type="pmid">15668736</pub-id></mixed-citation></ref><ref id="bib61"><mixed-citation publication-type="journal">
+Weiland DE
+, 
+Walde TA
+, 
+Leung SB
+et al. <article-title>Magnetic resonance imaging in the evaluation of periprosthetic acetabular osteolysis: a cadaveric study</article-title>. <source>J Orthop Res</source>
+<year>2005</year>; <volume>23</volume>: <fpage>713</fpage>&#x02013;719.<pub-id pub-id-type="pmid">16022981</pub-id></mixed-citation></ref><ref id="bib62"><mixed-citation publication-type="journal">
+Walde TA
+, 
+De Weiland
+, 
+Leung SB
+et al. <article-title>Comparison of CT, MRI, and radiographs in assessing pelvic osteolysis: a cadaveric study</article-title>. <source>Clin Orthop Relat Res</source>
+<year>2005</year>; <volume>437</volume>: <fpage>138</fpage>&#x02013;144.<pub-id pub-id-type="pmid">16056041</pub-id></mixed-citation></ref><ref id="bib63"><mixed-citation publication-type="journal">
+Howie DW
+, 
+Neale SD
+, 
+Stamenkov R
+et al. <article-title>Progression of acetabular periprosthetic osteolytic lesions measured with computed tomography</article-title>. <source>J Bone Joint Surg Am</source>
+<year>2007</year>; <volume>89</volume>: <fpage>1818</fpage>&#x02013;1825.<pub-id pub-id-type="pmid">17671023</pub-id></mixed-citation></ref><ref id="bib64"><mixed-citation publication-type="journal">
+Stamenkov RB
+, 
+Howie DW
+, 
+Neale SD
+et al. <article-title>Distribution of periacetabular osteolytic lesions varies according to component design</article-title>. <source>J Arthroplasty</source>
+<year>2010</year>; <volume>25</volume>: <fpage>913</fpage>&#x02013;919.<pub-id pub-id-type="pmid">19775854</pub-id></mixed-citation></ref><ref id="bib65"><mixed-citation publication-type="journal">
+Howie DW
+, 
+Neale SD
+, 
+Martin W
+et al. <article-title>Progression of periacetabular osteolytic lesions</article-title>. <source>J Bone Joint Surg Am</source>
+<year>2012</year>; <volume>94</volume>: <fpage>e1171</fpage>&#x02013;e1176.<pub-id pub-id-type="pmid">22992823</pub-id></mixed-citation></ref><ref id="bib66"><mixed-citation publication-type="journal">
+Fritz J
+, 
+Lurie B
+, 
+Miller TT
+et al. <article-title>MR imaging of hip arthroplasty implants</article-title>. <source>Radiographics</source>
+<year>2014</year>; <volume>34</volume>: <fpage>E106</fpage>&#x02013;E132.<pub-id pub-id-type="pmid">25019450</pub-id></mixed-citation></ref><ref id="bib67"><mixed-citation publication-type="journal">
+Mumme T
+, 
+Reinartz P
+, 
+Alfer J
+et al. <article-title>Diagnostic values of positron emission tomography versus triple-phase bone scan in hip arthroplasty loosening</article-title>. <source>Arch Orthop Trauma Surg</source>
+<year>2005</year>; <volume>125</volume>: <fpage>322</fpage>&#x02013;329.<pub-id pub-id-type="pmid">15821896</pub-id></mixed-citation></ref><ref id="bib68"><mixed-citation publication-type="journal">
+Reinartz P
+, 
+Mumme T
+, 
+Hermanns B
+et al. <article-title>Radionuclide imaging of the painful hip arthroplasty: positron-emission tomography versus triple-phase bone scanning</article-title>. <source>J Bone Joint Surg Br</source>
+<year>2005</year>; <volume>87</volume>: <fpage>465</fpage>&#x02013;470.<pub-id pub-id-type="pmid">15795194</pub-id></mixed-citation></ref><ref id="bib69"><mixed-citation publication-type="journal">
+Reinartz P
+. <article-title>FDG-PET in patients with painful hip and knee arthroplasty: technical breakthrough or just more of the same</article-title>. <source>Q J Nucl Med Mol Imaging</source>
+<year>2009</year>; <volume>53</volume>: <fpage>41</fpage>&#x02013;50.<pub-id pub-id-type="pmid">19182727</pub-id></mixed-citation></ref><ref id="bib70"><mixed-citation publication-type="journal">
+Zoccali C
+, 
+Teori G
+, 
+Salducca N
+. <article-title>The role of FDG-PET in distinguishing between septic and aseptic loosening in hip prosthesis: a review of literature</article-title>. <source>Int Orthop</source>
+<year>2009</year>; <volume>33</volume>: <fpage>1</fpage>&#x02013;5.<pub-id pub-id-type="pmid">18594820</pub-id></mixed-citation></ref><ref id="bib71"><mixed-citation publication-type="journal">
+Chacko TK
+, 
+Zhuang H
+, 
+Stevenson K
+et al. <article-title>The importance of the location of fluorodeoxyglucose uptake in periprosthetic infection in painful hip prostheses</article-title>. <source>Nucl Med Commun</source>
+<year>2002</year>; <volume>23</volume>: <fpage>851</fpage>&#x02013;855.<pub-id pub-id-type="pmid">12195089</pub-id></mixed-citation></ref><ref id="bib72"><mixed-citation publication-type="journal">
+Love C
+, 
+Marwin SE
+, 
+Palestro CJ
+. <article-title>Nuclear medicine and the infected joint replacement</article-title>. <source>Semin Nucl Med</source>
+<year>2009</year>; <volume>39</volume>: <fpage>66</fpage>&#x02013;78.<pub-id pub-id-type="pmid">19038601</pub-id></mixed-citation></ref><ref id="bib73"><mixed-citation publication-type="journal">
+Zhuang H
+, 
+Yang H
+, 
+Alavi A
+. <article-title>Critical role of 18F-labeled fluorodeoxyglucose PET in the management of patients with arthroplasty</article-title>. <source>Radiol Clin North Am</source>
+<year>2007</year>; <volume>45</volume>: <fpage>711</fpage>&#x02013;718.<pub-id pub-id-type="pmid">17706535</pub-id></mixed-citation></ref><ref id="bib74"><mixed-citation publication-type="journal">
+Palestro CJ
+. <article-title>Nuclear medicine and the failed joint replacement: Past, present, and future</article-title>. <source>World J Radiol</source>
+<year>2014</year>; <volume>6</volume>: <fpage>446</fpage>&#x02013;458.<pub-id pub-id-type="pmid">25071885</pub-id></mixed-citation></ref><ref id="bib75"><mixed-citation publication-type="journal">
+Ren PG
+, 
+Lee SW
+, 
+Biswal S
+et al. <article-title>Systemic trafficking of macrophages induced by bone cement particles in nude mice</article-title>. <source>Biomaterials</source>
+<year>2008</year>; <volume>29</volume>: <fpage>4760</fpage>&#x02013;4765.<pub-id pub-id-type="pmid">18824259</pub-id></mixed-citation></ref><ref id="bib76"><mixed-citation publication-type="other">
+Takahashi K
+, 
+Onodera S
+, 
+Tohyama H
+et al. <article-title><italic>In vivo</italic> imaging of particle-induced inflammation and osteolysis in the calvariae of NF-&#x003ba;B/luciferase transgenic mice</article-title>. <source>J Biomed Biotechnol</source>
+<year>2011</year>; 2011. pii: 727063.</mixed-citation></ref><ref id="bib77"><mixed-citation publication-type="journal">
+Quan LD
+, 
+Purdue PE
+, 
+Liu XM
+et al. <article-title>Development of a macromolecular prodrug for the treatment of inflammatory arthritis: mechanisms involved in arthrotropism and sustained therapeutic efficacy</article-title>. <source>Arthritis Res Ther</source>
+<year>2010</year>; <volume>12</volume>: <fpage>R170</fpage>.<pub-id pub-id-type="pmid">20836843</pub-id></mixed-citation></ref><ref id="bib78"><mixed-citation publication-type="journal">
+Quan LD
+, 
+Yuan F
+, 
+Liu XM
+et al. <article-title>Pharmacokinetic and biodistribution studies of N-(2-hydroxypropyl)methacrylamide copolymer-dexamethasone conjugates in adjuvant-induced arthritis rat model</article-title>. <source>Mol Pharm</source>
+<year>2010</year>; <volume>7</volume>: <fpage>1041</fpage>&#x02013;1049.<pub-id pub-id-type="pmid">20557133</pub-id></mixed-citation></ref><ref id="bib79"><mixed-citation publication-type="journal">
+Ren K
+, 
+Purdue PE
+, 
+Burton L
+et al. <article-title>Early detection and treatment of wear particle-induced inflammation and bone loss in a mouse calvarial osteolysis model using HPMA copolymer conjugates</article-title>. <source>Mol Pharm</source>
+<year>2011</year>; <volume>8</volume>: <fpage>1043</fpage>&#x02013;1051.<pub-id pub-id-type="pmid">21438611</pub-id></mixed-citation></ref><ref id="bib80"><mixed-citation publication-type="journal">
+Ren K
+, 
+Dusad A
+, 
+Zhang Y
+et al. <article-title>Early diagnosis of orthopedic implant failure using macromolecular imaging agents</article-title>. <source>Pharm Res</source>
+<year>2014</year>; <volume>31</volume>: <fpage>2086</fpage>&#x02013;2094.<pub-id pub-id-type="pmid">24590878</pub-id></mixed-citation></ref><ref id="bib81"><mixed-citation publication-type="journal">
+Matsumura Y
+, 
+Maeda H
+. <article-title>A new concept for macromolecular therapeutics in cancer chemotherapy: mechanism of tumoritropic accumulation of proteins and the antitumor agent smancs</article-title>. <source>Cancer Res</source>
+<year>1986</year>; <volume>46</volume> (Pt 1): <fpage>6387</fpage>&#x02013;6392.<pub-id pub-id-type="pmid">2946403</pub-id></mixed-citation></ref><ref id="bib82"><mixed-citation publication-type="journal">
+Lammers T
+. <article-title>Improving the efficacy of combined modality anticancer therapy using HPMA copolymer-based nanomedicine formulations</article-title>. <source>Adv Drug Deliv Rev</source>
+<year>2010</year>; <volume>62</volume>: <fpage>203</fpage>&#x02013;230.<pub-id pub-id-type="pmid">19951732</pub-id></mixed-citation></ref><ref id="bib83"><mixed-citation publication-type="journal">
+Migeotte I
+, 
+Communi D
+, 
+Parmentier M
+. <article-title>Formyl peptide receptors: a promiscuous subfamily of G protein-coupled receptors controlling immune responses</article-title>. <source>Cytokine Growth Factor Rev</source>
+<year>2006</year>; <volume>17</volume>: <fpage>501</fpage>&#x02013;519.<pub-id pub-id-type="pmid">17084101</pub-id></mixed-citation></ref><ref id="bib84"><mixed-citation publication-type="journal">
+Xiao L
+, 
+Zhang Y
+, 
+Liu Z
+et al. <article-title>Synthesis of the Cyanine 7 labeled neutrophil-specific agents for noninvasive near infrared fluorescence imaging</article-title>. <source>Bioorg Med Chem Lett</source>
+<year>2010</year>; <volume>20</volume>: <fpage>3515</fpage>&#x02013;3517.<pub-id pub-id-type="pmid">20488705</pub-id></mixed-citation></ref><ref id="bib85"><mixed-citation publication-type="journal">
+Mott TM
+, 
+Johnston RK
+, 
+Vijayakumar S
+et al. <article-title>Monitoring therapeutic treatments against Burkholderia infections using imaging techniques</article-title>. <source>Pathogens</source>
+<year>2013</year>; <volume>2</volume>: <fpage>383</fpage>&#x02013;401.</mixed-citation></ref><ref id="bib86"><mixed-citation publication-type="journal">
+Locke LW
+, 
+Chordia MD
+, 
+Zhang Y
+et al. <article-title>A novel neutrophil-specific PET imaging agent: cFLFLFK-PEG-64Cu</article-title>. <source>J Nucl Med</source>
+<year>2009</year>; <volume>50</volume>: <fpage>790</fpage>&#x02013;797.<pub-id pub-id-type="pmid">19372473</pub-id></mixed-citation></ref><ref id="bib87"><mixed-citation publication-type="journal">
+Xiao L
+, 
+Zhang Y
+, 
+Berr SS
+et al. <article-title>A novel near-infrared fluorescence imaging probe for <italic>in vivo</italic> neutrophil tracking</article-title>. <source>Mol Imaging</source>
+<year>2012</year>; <volume>11</volume>: <fpage>372</fpage>&#x02013;382.<pub-id pub-id-type="pmid">22954181</pub-id></mixed-citation></ref><ref id="bib88"><mixed-citation publication-type="journal">
+Zhou J
+, 
+Tsai YT
+, 
+Weng H
+et al. <article-title>Real-time detection of implant-associated neutrophil responses using a formyl peptide receptor-targeting NIR nanoprobe</article-title>. <source>Int J Nanomedicine</source>
+<year>2012</year>; <volume>7</volume>: <fpage>2057</fpage>&#x02013;2068.<pub-id pub-id-type="pmid">22619542</pub-id></mixed-citation></ref><ref id="bib89"><mixed-citation publication-type="journal">
+Stasiuk GJ
+, 
+Smith H
+, 
+Wylezinska-Arridge M
+et al. <article-title>Gd3+ cFLFLFK conjugate for MRI: a targeted contrast agent for FPR1 in inflammation</article-title>. <source>Chem Commun (Camb)</source>
+<year>2013</year>; <volume>49</volume>: <fpage>564</fpage>&#x02013;566.<pub-id pub-id-type="pmid">23208551</pub-id></mixed-citation></ref><ref id="bib90"><mixed-citation publication-type="other">
+Yang X
+, 
+Chordia MD
+, 
+Du X
+et al. <article-title>Targeting formyl peptide receptor 1 of activated macrophages to monitor inflammation of experimental osteoarthritis in rat</article-title>. <source>J Orthop Res</source>
+<year>2015</year>; doi: 10.1002/jor.23148 [Epub ahead of print].</mixed-citation></ref><ref id="bib91"><mixed-citation publication-type="journal">
+Zhang Y
+, 
+Kundu B
+, 
+Zhong M
+et al. <article-title>PET imaging detection of macrophages with a formyl peptide receptor antagonist</article-title>. <source>Nucl Med Biol</source>
+<year>2015</year>; <volume>42</volume>: <fpage>381</fpage>&#x02013;386.<pub-id pub-id-type="pmid">25532700</pub-id></mixed-citation></ref><ref id="bib92"><mixed-citation publication-type="journal">
+Smith RL
+, 
+Schwarz EM
+. <article-title>Are biologic treatments a potential approach to wear- and corrosion-related problems?</article-title>
+<source>Clin Orthop Relat Res</source>
+<year>2014</year>; <volume>472</volume>: <fpage>3740</fpage>&#x02013;3746.<pub-id pub-id-type="pmid">24993143</pub-id></mixed-citation></ref><ref id="bib93"><mixed-citation publication-type="other">
+Clinical Trials. U.S. NIH. &#x0003c;clinicaltrials.gov&#x0003e;.</mixed-citation></ref><ref id="bib94"><mixed-citation publication-type="journal">
+Sobacchi C
+, 
+Frattini A
+, 
+Guerrini MM
+et al. <article-title>Osteoclast-poor human osteopetrosis due to mutations in the gene encoding RANKL</article-title>. <source>Nat Genet</source>
+<year>2007</year>; <volume>39</volume>: <fpage>960</fpage>&#x02013;962.<pub-id pub-id-type="pmid">17632511</pub-id></mixed-citation></ref><ref id="bib95"><mixed-citation publication-type="journal">
+Mediero A
+, 
+Perez-Aso M
+, 
+Wilder T
+et al. <article-title>Brief report: methotrexate prevents wear particle-induced inflammatory osteolysis in mice via activation of adenosine A2A receptor</article-title>. <source>Arthritis Rheumatol</source>
+<year>2015</year>; <volume>67</volume>: <fpage>849</fpage>&#x02013;855.<pub-id pub-id-type="pmid">25533750</pub-id></mixed-citation></ref><ref id="bib96"><mixed-citation publication-type="journal">
+Jiang C
+, 
+Xiao F
+, 
+Gu X
+et al. <article-title>Inhibitory effects of ursolic acid on osteoclastogenesis and titanium particle-induced osteolysis are mediated primarily via suppression of NF-&#x003ba;B signaling</article-title>. <source>Biochimie</source>
+<year>2015</year>; <volume>111</volume>: <fpage>107</fpage>&#x02013;118.<pub-id pub-id-type="pmid">25681755</pub-id></mixed-citation></ref><ref id="bib97"><mixed-citation publication-type="journal">
+Huang J
+, 
+Zhou L
+, 
+Wu H
+et al. <article-title>Triptolide inhibits osteoclast formation, bone resorption, RANKL-mediated NF-&#x003ba;B activation and titanium particle-induced osteolysis in a mouse model</article-title>. <source>Mol Cell Endocrinol</source>
+<year>2015</year>; <volume>399</volume>: <fpage>346</fpage>&#x02013;353.<pub-id pub-id-type="pmid">25448849</pub-id></mixed-citation></ref><ref id="bib98"><mixed-citation publication-type="journal">
+Tian B
+, 
+Jiang T
+, 
+Shao Z
+et al. <article-title>The prevention of titanium-particle-induced osteolysis by OA-14 through the suppression of the p38 signaling pathway and inhibition of osteoclastogenesis</article-title>. <source>Biomaterials</source>
+<year>2014</year>; <volume>35</volume>: <fpage>8937</fpage>&#x02013;8950.<pub-id pub-id-type="pmid">25086794</pub-id></mixed-citation></ref><ref id="bib99"><mixed-citation publication-type="journal">
+Cordova LA
+, 
+Trichet V
+, 
+Escriou V
+et al. <article-title>Inhibition of osteolysis and increase of bone formation after local administration of siRNA-targeting RANK in a polyethylene particle-induced osteolysis model</article-title>. <source>Acta Biomater</source>
+<year>2015</year>; <volume>13</volume>: <fpage>150</fpage>&#x02013;158.<pub-id pub-id-type="pmid">25462844</pub-id></mixed-citation></ref><ref id="bib100"><mixed-citation publication-type="journal">
+Rub-Sorensen C
+, 
+Pedersen AB
+, 
+Johnsen SP
+et al. <article-title>Survival of primary total hip arthroplasty in rheumatoid arthritis patients</article-title>. <source>Acta Orthop</source>
+<year>2010</year>; <volume>81</volume>: <fpage>60</fpage>&#x02013;65.<pub-id pub-id-type="pmid">20180721</pub-id></mixed-citation></ref><ref id="bib101"><mixed-citation publication-type="journal">
+Vermes C
+, 
+Roebuck KA
+, 
+Chandrasekaran R
+. <article-title>Particulate wear debris activates protein tyrosine kinases and nuclear factor kappaB, which down-regulates type I collagen synthesis in human osteoblasts</article-title>. <source>J Bone Miner Res</source>
+<year>2000</year>; <volume>15</volume>: <fpage>1756</fpage>&#x02013;1765.<pub-id pub-id-type="pmid">10976995</pub-id></mixed-citation></ref><ref id="bib102"><mixed-citation publication-type="journal">
+Chiu R
+, 
+Ma T
+, 
+Smith RL
+et al. <article-title>Ultrahigh molecular weight polyethylene wear debris inhibits osteoprogenitor proliferation and differentiation <italic>in vitro</italic></article-title>. <source>J Biomed Mater Res A</source>
+<year>2009</year>; <volume>89</volume>: <fpage>242</fpage>&#x02013;247.<pub-id pub-id-type="pmid">18442106</pub-id></mixed-citation></ref><ref id="bib103"><mixed-citation publication-type="journal">
+Atkins GJ
+, 
+Welldon KJ
+, 
+Holding CA
+et al. <article-title>The induction of a catabolic phenotype in human primary osteoblasts and osteocytes by polyethylene particles</article-title>. <source>Biomaterials</source>
+<year>2009</year>; <volume>30</volume>: <fpage>3672</fpage>&#x02013;3681.<pub-id pub-id-type="pmid">19349075</pub-id></mixed-citation></ref><ref id="bib104"><mixed-citation publication-type="journal">
+Hofbauer LC
+, 
+Lacey DL
+, 
+Dunstan CR
+et al. <article-title>Interleukin-1beta and tumor necrosis factor-alpha, but not interleukin-6, stimulate osteoprotegerin ligand gene expression in human osteoblastic cells</article-title>. <source>Bone</source>
+<year>1999</year>; <volume>25</volume>: <fpage>255</fpage>&#x02013;259.<pub-id pub-id-type="pmid">10495128</pub-id></mixed-citation></ref><ref id="bib105"><mixed-citation publication-type="journal">
+Kimble RB
+, 
+Srivastava S
+, 
+Ross FP
+et al. <article-title>Estrogen deficiency increases the ability of stromal cells to support murine osteoclastogenesis via an interleukin-1 and tumor necrosis factor-mediated stimulation of macrophage colony-stimulating factor production</article-title>. <source>J Biol Chem</source>
+<year>1996</year>; <volume>271</volume>: <fpage>28890</fpage>&#x02013;28897.<pub-id pub-id-type="pmid">8910536</pub-id></mixed-citation></ref><ref id="bib106"><mixed-citation publication-type="journal">
+Sakai H
+, 
+Jingushi S
+, 
+Shuto T
+et al. <article-title>Fibroblasts from the inner granulation tissue of the pseudocapsule in hips at revision arthroplasty induce osteoclast differentiation, as do stromal cells</article-title>. <source>Ann Rheum Dis</source>
+<year>2002</year>; <volume>61</volume>: <fpage>103</fpage>&#x02013;109.<pub-id pub-id-type="pmid">11796394</pub-id></mixed-citation></ref><ref id="bib107"><mixed-citation publication-type="journal">
+Koreny T
+, 
+Tunyogi-Csapo M
+, 
+Gai I
+et al. <article-title>The role of fibroblasts and fibroblast-derived factors in periprosthetic osteolysis</article-title>. <source>Arthritis Rheum</source>
+<year>2006</year>; <volume>54</volume>: <fpage>3221</fpage>&#x02013;3232.<pub-id pub-id-type="pmid">17009257</pub-id></mixed-citation></ref><ref id="bib108"><mixed-citation publication-type="journal">
+Bondeson K
+, 
+Blom AB
+, 
+Wainwright S
+et al. <article-title>The role of synovial macrophages and macrophage-produced mediators in driving inflammatory and destructive responses in osteoarthritis</article-title>. <source>Arthritis Rheum</source>
+<year>2010</year>; <volume>62</volume>: <fpage>647</fpage>&#x02013;657.<pub-id pub-id-type="pmid">20187160</pub-id></mixed-citation></ref><ref id="bib109"><mixed-citation publication-type="journal">
+Nawrocki B
+, 
+Polette M
+, 
+Burlet H
+et al. <article-title>Expression of gelatinase A and its activator MT1-MMP in the inflammatory periprosthetic response to polyethylene</article-title>. <source>J Bone Miner Res</source>
+<year>1999</year>; <volume>14</volume>: <fpage>288</fpage>&#x02013;294.<pub-id pub-id-type="pmid">9933484</pub-id></mixed-citation></ref><ref id="bib110"><mixed-citation publication-type="journal">
+Yu X
+, 
+Huang Y
+, 
+Collin-Osdoby P
+et al. <article-title>CCR1 chemokines promote the chemotactic recruitment, RANKL development, and motility of osteoclasts and are induced by inflammatory cytokines in osteoblasts</article-title>. <source>J Bone Miner Res</source>
+<year>2004</year>; <volume>19</volume>: <fpage>2065</fpage>&#x02013;2077.<pub-id pub-id-type="pmid">15537451</pub-id></mixed-citation></ref><ref id="bib111"><mixed-citation publication-type="journal">
+Yoshitake F
+, 
+Itoh S
+, 
+Narita H
+et al. <article-title>Interleukin-6 directly inhibits osteoclast differentiation by suppressing receptor activator of NF-kappaB signaling pathways</article-title>. <source>J Biol Chem</source>
+<year>2008</year>; <volume>283</volume>: <fpage>11535</fpage>&#x02013;11540.<pub-id pub-id-type="pmid">18296709</pub-id></mixed-citation></ref><ref id="bib112"><mixed-citation publication-type="journal">
+DeHeer DH
+, 
+Engels JA
+, 
+DeVries AS
+et al. <article-title><italic>In situ</italic> complement activation by polyethylene wear debris</article-title>. <source>J Biomed Mater Res</source>
+<year>2001</year>; <volume>54</volume>: <fpage>12</fpage>&#x02013;19.<pub-id pub-id-type="pmid">11077398</pub-id></mixed-citation></ref><ref id="bib113"><mixed-citation publication-type="journal">
+Mangham DC
+, 
+Scoones DJ
+, 
+Drayson MT
+. <article-title>Complement and the recruitment of mononuclear osteoclasts</article-title>. <source>J Clin Pathol</source>
+<year>1993</year>; <volume>46</volume>: <fpage>517</fpage>&#x02013;521.<pub-id pub-id-type="pmid">8331172</pub-id></mixed-citation></ref><ref id="bib114"><mixed-citation publication-type="journal">
+Takei I
+, 
+Takagi M
+, 
+Santavirta S
+et al. <article-title>Messenger ribonucleic acid expression of 16 matrix metalloproteinases in bone-implant interface tissues of loose artificial hip joints</article-title>. <source>J Biomed Mater Res</source>
+<year>2000</year>; <volume>52</volume>: <fpage>613</fpage>&#x02013;620.<pub-id pub-id-type="pmid">11033543</pub-id></mixed-citation></ref><ref id="bib115"><mixed-citation publication-type="journal">
+Takagi M
+, 
+Konttinen YT
+, 
+Santavirta S
+et al. <article-title>Extracellular matrix metalloproteinases around loose total hip prostheses</article-title>. <source>Acta Orthop Scand</source>
+<year>1994</year>; <volume>65</volume>: <fpage>281</fpage>&#x02013;286.<pub-id pub-id-type="pmid">8042479</pub-id></mixed-citation></ref></ref-list></back><floats-group><fig id="fig1"><label>Figure 1</label><caption><p>Hormonal regulation of osteoclastogenesis. Upon M-CSF and RANKL stimulation, OCPs undergo differentiation into giant, mature osteoclasts expressing TRAP and CATK.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="boneres201614-f1"/></fig><fig id="fig2"><label>Figure 2</label><caption><p>Effects of major cytokines involved in osteolysis. Note the repetitive and propagative properties of the immune response. RANKL, TNF-&#x003b1;, and IL-1&#x003b2; also inhibit osteoclast apoptosis.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="boneres201614-f2"/></fig><fig id="fig3"><label>Figure 3</label><caption><p>Binding assay of NIRF probe cFLFLF-PEG-Cy7 to RAW264.7 cells stimulated by 1&#x02009;&#x003bc;g&#x000b7;mL<sup>&#x02212;1</sup> lipopolysaccharide vs no treatment (NT).<sup><xref ref-type="bibr" rid="bib90">90</xref></sup> (<bold>a</bold>) Various concentrations of the probe were applied to the assay, including (from top to bottom) 1.0, 0.5, 0.1 and 0.05&#x02009;&#x003bc;mol&#x000b7;L<sup>&#x02212;1</sup>. Results indicate that fluorescent intensity strengthened with increasing doses of the probe, and that LPS was able to enhance binding affinity of the probe for cells. (<bold>b</bold>) A blocking test was performed with cFLFLF and a Scramble peptide (cLFFFL), revealing that the binding signal was blocked by cFLFLF but not controls.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="boneres201614-f3"/></fig><table-wrap id="tbl1"><label>Table 1</label><caption><title>Role of essential cells implicated in osteolysis pathogenesis</title></caption><table frame="hsides" rules="groups" border="1"><colgroup><col align="left"/><col align="left"/><col align="left"/></colgroup><thead valign="bottom"><tr><th align="left" valign="top" charoff="50">Cell type</th><th align="left" valign="top" charoff="50">Role</th><th align="left" valign="top" charoff="50">Comments</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" charoff="50">Monocyte/macrophage</td><td align="left" valign="top" charoff="50">Dominant cell type implicated in osteolysis: vastly present in periprosthetic tissue and pseudosynovial membrane, and correlated with bone resorption<sup><xref ref-type="bibr" rid="bib5 bib6 bib7 bib8">5&#x02013;8</xref>,<xref ref-type="bibr" rid="bib22">22</xref>,<xref ref-type="bibr" rid="bib28 bib29 bib30 bib31">28&#x02013;31</xref></sup>
+&#x0000a;Secrete MMPs, TNF-&#x003b1;, IL-1&#x003b2;, IL-6, and eicosanoids after phagocytosis of wear debris<sup><xref ref-type="bibr" rid="bib101">101</xref></sup>
+&#x0000a;Systemic migration contributes to local infiltration, osteoclast differentiation, and bone destruction<sup><xref ref-type="bibr" rid="bib28">28</xref></sup>
+&#x0000a;Increased peripheral CD14<sup>+</sup>CD16<sup>+</sup> phenotype frequency; correlated with increased baseline level and production of TNF-&#x003b1; and IL-1&#x003b2;<sup><xref ref-type="bibr" rid="bib52">52</xref></sup>
+</td><td align="left" valign="top" charoff="50">Potent, proinflammatory phenotype</td></tr><tr><td align="left" valign="top" charoff="50">Dendritic cell</td><td align="left" valign="top" charoff="50">Infiltrate and surround UHMWPE particles, participating in phagocytosis and MGC formation<sup><xref ref-type="bibr" rid="bib7">7</xref>,<xref ref-type="bibr" rid="bib42">42</xref>,<xref ref-type="bibr" rid="bib44">44</xref></sup>
+&#x0000a;Produce proinflammatory cytokines IL-1, IL-6, IL-12, TNF-&#x003b1;, and IFN-&#x003b3; <sup><xref ref-type="bibr" rid="bib7">7</xref>,<xref ref-type="bibr" rid="bib42">42</xref>,<xref ref-type="bibr" rid="bib44">44</xref>,<xref ref-type="bibr" rid="bib46">46</xref></sup>
+&#x0000a;Compose prosthetic synovial pseudomembrane<sup><xref ref-type="bibr" rid="bib7">7</xref></sup>
+</td><td align="left" valign="top" charoff="50">Ultimately results in NALP3 inflammasome activation and enzymatic bone resorption; likely paralleling macrophage function&#x0000a;Contributes to osteoclastogenesis and activation</td></tr><tr><td align="left" valign="top" charoff="50">Osteoblast</td><td align="left" valign="top" charoff="50">Able to phagocytose wear particles and alter cellular signaling<sup><xref ref-type="bibr" rid="bib6">6</xref>,<xref ref-type="bibr" rid="bib102">102</xref></sup>
+&#x0000a;Decrease OPG secretion when challenged with PE <italic>in vitro</italic><sup><xref ref-type="bibr" rid="bib103">103</xref></sup>
+&#x0000a;Express RANKL<sup><xref ref-type="bibr" rid="bib104">104</xref></sup> and M-CSF<sup><xref ref-type="bibr" rid="bib105">105</xref></sup> upon TNF-&#x003b1; and IL-1&#x003b2; stimulation <italic>in vitro</italic>
+&#x0000a;Dose-dependent decrease in proliferation, differentiation, and mineralization when challenged with UHMWPE particles <italic>in vitro</italic><sup><xref ref-type="bibr" rid="bib102">102</xref></sup>
+&#x0000a;Decreased expression of procollagen &#x003b1;1 mRNA and synthesis of collagen I <italic>in vitro</italic> by phagocytic- dependent and -independent mechanisms when challenged with PE particles<sup><xref ref-type="bibr" rid="bib101">101</xref></sup>
+&#x0000a;Increased expression of IL-6<sup><xref ref-type="bibr" rid="bib101">101</xref></sup> and IL-8<sup><xref ref-type="bibr" rid="bib103">103</xref></sup> when challenged with PE <italic>in vitro</italic>
+</td><td align="left" valign="top" charoff="50">&#x000a0;</td></tr><tr><td align="left" valign="top" charoff="50">Fibroblast</td><td align="left" valign="top" charoff="50">Present in pseudosynovial periprosthetic membrane<sup><xref ref-type="bibr" rid="bib9">9</xref>,<xref ref-type="bibr" rid="bib40">40</xref></sup>
+&#x0000a;Expresses RANKL and can induce osteoclast differentiation in pseudosynovial membrane<sup><xref ref-type="bibr" rid="bib106">106</xref></sup>
+&#x0000a;Activated by TNF-&#x003b1; and IL-1&#x003b2; and produce MMPs and cytokines in titanium wear<sup><xref ref-type="bibr" rid="bib107">107</xref></sup> and osteoarthritis<sup><xref ref-type="bibr" rid="bib108">108</xref></sup> models&#x0000a;In tissues exposed to PE, possess MMP2 mRNA alongside macrophages and MGCs expressing MMPs 2 and 14 protein but only MMP14 mRNA<sup><xref ref-type="bibr" rid="bib109">109</xref></sup>
+</td><td align="left" valign="top" charoff="50">Likely activated by TNF-&#x003b1; and IL-1&#x003b2; in presence of PE as well, contributing to inflammation&#x0000a;Suggests cooperation with macrophages in local tissue destruction</td></tr></tbody></table><table-wrap-foot><fn id="t1-tfoot1"><p>IL-1, interleukin-1; IFN-&#x003b3;, interferon-&#x003b3;; M-CSF, macrophage colony-stimulating factor; MGC, multinucleated giant cell; MMP, matrix metalloproteinase; OPG, osteoprotegerin; PE, polyethylene; RANKL, receptor activator of nuclear factor-&#x003ba;B ligand; TNF-&#x003b1;, tumor necrosis factor-&#x003b1;; UHMWPE, ultra-high molecular weight polyethylene.</p></fn></table-wrap-foot></table-wrap><table-wrap id="tbl2"><label>Table 2</label><caption><title>Role of key inflammatory mediators contributing to osteolysis</title></caption><table frame="hsides" rules="groups" border="1"><colgroup><col align="left"/><col align="left"/><col align="left"/></colgroup><thead valign="bottom"><tr><th align="left" valign="top" charoff="50">Molecular effector</th><th align="left" valign="top" charoff="50">Role</th><th align="left" valign="top" charoff="50">Comments</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" charoff="50">TNF-&#x003b1;</td><td align="left" valign="top" charoff="50">Increases RANKL expression<sup><xref ref-type="bibr" rid="bib54">54</xref></sup>
+&#x0000a;Strongly augments RANKL-induced osteoclastogenesis<sup><xref ref-type="bibr" rid="bib55">55</xref></sup>
+&#x0000a;Independently activates osteoclasts with similar potency of RANKL; augments RANKL-induced activation<sup><xref ref-type="bibr" rid="bib58">58</xref></sup>
+&#x0000a;Inhibits osteoclast apoptosis by Akt and ERK phosphorylation<sup><xref ref-type="bibr" rid="bib59">59</xref></sup>
+&#x0000a;Strongly suppresses procollagen 1 expression<sup><xref ref-type="bibr" rid="bib101">101</xref></sup>
+&#x0000a;Increases IL-1 and IL-1R type I expression <italic>in vitro</italic><sup><xref ref-type="bibr" rid="bib60">60</xref></sup>
+&#x0000a;Enhances macrophage-attractant chemokine production<sup><xref ref-type="bibr" rid="bib110">110</xref></sup>
+</td><td align="left" valign="top" charoff="50">&#x000a0;</td></tr><tr><td align="left" valign="top" charoff="50">IL-1</td><td align="left" valign="top" charoff="50">Increases RANKL expression<sup><xref ref-type="bibr" rid="bib54">54</xref></sup>
+&#x0000a;Inhibits osteoclast apoptosis<sup><xref ref-type="bibr" rid="bib59">59</xref></sup>
+&#x0000a;Mediates TNF-&#x003b1;-induced RANKL expression<sup><xref ref-type="bibr" rid="bib60">60</xref></sup>
+&#x0000a;Enhances osteoclastogenesis in presence of RANKL<sup><xref ref-type="bibr" rid="bib60">60</xref></sup>
+&#x0000a;Capable of activating MAPK and NF-&#x003ba;B<sup><xref ref-type="bibr" rid="bib48">48</xref></sup>
+</td><td align="left" valign="top" charoff="50">&#x000a0;</td></tr><tr><td align="left" valign="top" charoff="50">IL-6</td><td align="left" valign="top" charoff="50">Secreted by osteoblasts in response to wear particle, IL-1&#x003b2;, and TNF-&#x003b1; stimulation<sup><xref ref-type="bibr" rid="bib6">6</xref></sup>
+&#x0000a;Secretion induced by NF-&#x003ba;B activation<sup><xref ref-type="bibr" rid="bib7">7</xref></sup>
+&#x0000a;Released by stimulated macrophages and associated with increased osteolysis<sup><xref ref-type="bibr" rid="bib7">7</xref>,<xref ref-type="bibr" rid="bib31">31</xref></sup>
+&#x0000a;Stimulates RANKL expression on osteoblast cell surface in inflammatory state<sup><xref ref-type="bibr" rid="bib111">111</xref></sup>
+</td><td align="left" valign="top" charoff="50">&#x000a0;</td></tr><tr><td align="left" valign="top" charoff="50">IL-18</td><td align="left" valign="top" charoff="50">Activates MAPK<sup><xref ref-type="bibr" rid="bib48">48</xref></sup>
+</td><td align="left" valign="top" charoff="50">&#x000a0;</td></tr><tr><td align="left" valign="top" charoff="50">RANKL</td><td align="left" valign="top" charoff="50">Inhibits osteoclast apoptosis<sup><xref ref-type="bibr" rid="bib59">59</xref></sup>
+</td><td align="left" valign="top" charoff="50">&#x000a0;</td></tr><tr><td align="left" valign="top" charoff="50">NALP3 inflammasome</td><td align="left" valign="top" charoff="50">Activated by cathepsin,<sup><xref ref-type="bibr" rid="bib7">7</xref>,<xref ref-type="bibr" rid="bib44">44</xref></sup> and ROS, in conjunction with other intracellular danger signals (ATP, K<sup>+</sup>, urate, etc.)<sup><xref ref-type="bibr" rid="bib7">7</xref>,<xref ref-type="bibr" rid="bib48">48</xref>,<xref ref-type="bibr" rid="bib50">50</xref>,<xref ref-type="bibr" rid="bib51">51</xref></sup>
+&#x0000a;Complexes with PYCARD, leading to caspase-1 recruitment and activation<sup><xref ref-type="bibr" rid="bib4">4</xref>,<xref ref-type="bibr" rid="bib7">7</xref>,<xref ref-type="bibr" rid="bib44">44</xref>,<xref ref-type="bibr" rid="bib48 bib49 bib50">48&#x02013;50</xref></sup>
+</td><td align="left" valign="top" charoff="50">Activation occurs through nonspecific danger signals</td></tr><tr><td align="left" valign="top" charoff="50">Caspase-1</td><td align="left" valign="top" charoff="50">Regulator of inflammation and cell survival and differentiation<sup><xref ref-type="bibr" rid="bib48">48</xref></sup>
+&#x0000a;Cleaves pro-IL-1&#x003b2; and pro-IL-18 into active forms, allowing for their secretion<sup><xref ref-type="bibr" rid="bib4">4</xref>,<xref ref-type="bibr" rid="bib7">7</xref>,<xref ref-type="bibr" rid="bib44">44</xref>,<xref ref-type="bibr" rid="bib48 bib49 bib50">48&#x02013;50</xref></sup>
+&#x0000a;Increased levels, along with IL-1&#x003b2; and IL-18, after <italic>in vitro</italic> treatment of DCs with UHMWPE; this response diminished with cathepsin inhibition<sup><xref ref-type="bibr" rid="bib44">44</xref></sup>
+</td><td align="left" valign="top" charoff="50">&#x000a0;</td></tr><tr><td align="left" valign="top" charoff="50">TLR</td><td align="left" valign="top" charoff="50">Activated by DAMPs released in tissue damage<sup><xref ref-type="bibr" rid="bib7">7</xref>,<xref ref-type="bibr" rid="bib47">47</xref></sup>
+&#x0000a;TLR2 and 1/2 activated by UHMWPE alkane polymers with a 12&#x02013;16 carbon length<sup><xref ref-type="bibr" rid="bib46">46</xref></sup>
+&#x0000a;Activation by alkane polymers enhanced by polymer oxidative damage up to 140-fold<sup><xref ref-type="bibr" rid="bib46">46</xref></sup>
+&#x0000a;Stimulation ultimately leads to DC, monocyte, macrophage, and osteoclast activation, with upregulation of MHC-II, B7&#x02013;1, B7&#x02013;2, CD40, IL-1, IL-6, IL-10, IL-12, TNF- &#x003b1;, and IFN-&#x003b3;, as well as TLR1 and 2<xref ref-type="bibr" rid="bib44"><sup>44</sup></xref>
+&#x0000a;TLRs 2, 4, 5, and 9 observed in monocytes/macrophages of osteolytic tissue <italic>in vitro</italic>, with TLR2 and 5 response dominant<sup><xref ref-type="bibr" rid="bib45">45</xref></sup>
+&#x0000a;TLR9 characterized as strongest promoter of phagocytosis in a bacterial model<sup><xref ref-type="bibr" rid="bib43">43</xref></sup>
+</td><td align="left" valign="top" charoff="50">Taken together, these first four points demonstrate a nonspecific and self-propagating immune response, indicative of the innate immune system</td></tr><tr><td align="left" valign="top" charoff="50">Complement</td><td align="left" valign="top" charoff="50">PE activates alternative complement pathway, likely through Factor B<sup><xref ref-type="bibr" rid="bib112">112</xref></sup>
+&#x0000a;Complement factors adsorbed to PE particles after activation<sup><xref ref-type="bibr" rid="bib112">112</xref></sup>
+&#x0000a;Complement activation enhances vascular permeability, chemotaxis, and phagocytosis<sup><xref ref-type="bibr" rid="bib112">112</xref></sup>
+&#x0000a;C3 demonstrates ability to recruit osteoclasts,<sup><xref ref-type="bibr" rid="bib113">113</xref></sup> and activate NF-&#x003ba;B<sup><xref ref-type="bibr" rid="bib40">40</xref></sup>
+</td><td align="left" valign="top" charoff="50">Along with TLR, represents early, nonspecific immune response</td></tr><tr><td align="left" valign="top" charoff="50">Matrix metalloproteinase (MMP)</td><td align="left" valign="top" charoff="50">MMPs 1, 9, 10, 12, and 13 highly elevated in AL periprosthetic tissue, in addition to lesser elevation of others<sup><xref ref-type="bibr" rid="bib114">114</xref></sup>
+&#x0000a;MMPs 1, 2, 3, and 9 identified in macrophages, fibroblasts, and endothelial cells of AL periprosthetic tissue<sup><xref ref-type="bibr" rid="bib115">115</xref></sup>
+</td><td align="left" valign="top" charoff="50">Combined action capable of degrading almost all elements of periprosthetic extracellular matrix<sup><xref ref-type="bibr" rid="bib114">114</xref></sup>
+</td></tr><tr><td align="left" valign="top" charoff="50">MAPK</td><td align="left" valign="top" charoff="50">Activated by TNF-&#x003b1;, IL-1, and IL-18<sup><xref ref-type="bibr" rid="bib48">48</xref>,<xref ref-type="bibr" rid="bib60">60</xref></sup>
+&#x0000a;Signaling leads to IL-1 and other cytokine expression, as well as NF-&#x003ba;B activation<sup><xref ref-type="bibr" rid="bib48">48</xref>,<xref ref-type="bibr" rid="bib60">60</xref></sup>
+</td><td align="left" valign="top" charoff="50">&#x000a0;</td></tr></tbody></table><table-wrap-foot><fn id="t2-tfoot1"><p>DAMP, damage-associated molecular pattern; DC, dendritic cell; IL-1, interleukin-1; IFN-&#x003b3;, interferon-&#x003b3;; MHC-II, major histocompatibility complex class II; PE, polyethylene; RANKL, receptor activator of nuclear factor-&#x003ba;B ligand; ROS, reactive oxygen species; TLR, Toll-like receptor; TNF-&#x003b1;, tumor necrosis factor-&#x003b1;; UHMWPE, ultra-high molecular weight polyethylene.</p></fn></table-wrap-foot></table-wrap></floats-group></article>

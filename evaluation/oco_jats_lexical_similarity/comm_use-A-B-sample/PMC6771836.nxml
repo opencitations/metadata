@@ -1,0 +1,895 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Br J Haematol</journal-id><journal-id journal-id-type="iso-abbrev">Br. J. Haematol</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1365-2141</journal-id><journal-id journal-id-type="publisher-id">BJH</journal-id><journal-title-group><journal-title>British Journal of Haematology</journal-title></journal-title-group><issn pub-type="ppub">0007-1048</issn><issn pub-type="epub">1365-2141</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">31124124</article-id><article-id pub-id-type="pmc">6771836</article-id><article-id pub-id-type="doi">10.1111/bjh.15953</article-id><article-id pub-id-type="publisher-id">BJH15953</article-id><article-categories><subj-group subj-group-type="overline"><subject>Research Paper</subject></subj-group><subj-group subj-group-type="heading"><subject>Haematological Malignancy</subject></subj-group></article-categories><title-group><article-title>Transformed mucosa&#x02010;associated lymphoid tissue lymphomas: A single institution retrospective study including polymerase chain reaction&#x02010;based clonality analysis</article-title><alt-title alt-title-type="right-running-head">Histological transformation in <styled-content style="fixed-case">MALT</styled-content> lymphoma</alt-title><alt-title alt-title-type="left-running-head">B. Kiesewetter <italic>et al</italic></alt-title></title-group><contrib-group><contrib id="bjh15953-cr-0001" contrib-type="author"><name><surname>Kiesewetter</surname><given-names>Barbara</given-names></name><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-5490-2371</contrib-id><xref ref-type="aff" rid="bjh15953-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="bjh15953-cr-0002" contrib-type="author"><name><surname>Lamm</surname><given-names>Wolfgang</given-names></name><xref ref-type="aff" rid="bjh15953-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="bjh15953-cr-0003" contrib-type="author"><name><surname>Dolak</surname><given-names>Werner</given-names></name><xref ref-type="aff" rid="bjh15953-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="bjh15953-cr-0004" contrib-type="author"><name><surname>Lukas</surname><given-names>Julius</given-names></name><xref ref-type="aff" rid="bjh15953-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="bjh15953-cr-0005" contrib-type="author"><name><surname>Mayerhoefer</surname><given-names>Marius E.</given-names></name><xref ref-type="aff" rid="bjh15953-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="bjh15953-cr-0006" contrib-type="author"><name><surname>Weber</surname><given-names>Michael</given-names></name><xref ref-type="aff" rid="bjh15953-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="bjh15953-cr-0007" contrib-type="author"><name><surname>Schiefer</surname><given-names>Ana&#x02010;Iris</given-names></name><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0003-3555-8672</contrib-id><xref ref-type="aff" rid="bjh15953-aff-0006">
+<sup>6</sup>
+</xref></contrib><contrib id="bjh15953-cr-0008" contrib-type="author"><name><surname>Kornauth</surname><given-names>Christoph</given-names></name><xref ref-type="aff" rid="bjh15953-aff-0006">
+<sup>6</sup>
+</xref></contrib><contrib id="bjh15953-cr-0009" contrib-type="author"><name><surname>Bayer</surname><given-names>G&#x000fc;nther</given-names></name><xref ref-type="aff" rid="bjh15953-aff-0006">
+<sup>6</sup>
+</xref></contrib><contrib id="bjh15953-cr-0010" contrib-type="author"><name><surname>Simonitsch&#x02010;Klupp</surname><given-names>Ingrid</given-names></name><xref ref-type="aff" rid="bjh15953-aff-0006">
+<sup>6</sup>
+</xref></contrib><contrib id="bjh15953-cr-0011" contrib-type="author" corresp="yes"><name><surname>Raderer</surname><given-names>Markus</given-names></name><xref ref-type="aff" rid="bjh15953-aff-0001">
+<sup>1</sup>
+</xref><address><email>markus.raderer@meduniwien.ac.at</email></address></contrib></contrib-group><aff id="bjh15953-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Department of Medicine I</named-content>
+<named-content content-type="organisation-division">Clinical Division of Oncology</named-content>
+<institution>Medical University of Vienna</institution>
+<named-content content-type="city">Vienna</named-content>
+<country country="AT">Austria</country>
+</aff><aff id="bjh15953-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Department of Medicine III</named-content>
+<named-content content-type="organisation-division">Clinical Division of Gastroenterology and Hepatology</named-content>
+<institution>Medical University of Vienna</institution>
+<named-content content-type="city">Vienna</named-content>
+<country country="AT">Austria</country>
+</aff><aff id="bjh15953-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Department of Ophthalmology and Optometry</named-content>
+<institution>Medical University of Vienna</institution>
+<named-content content-type="city">Vienna</named-content>
+<country country="AT">Austria</country>
+</aff><aff id="bjh15953-aff-0004">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">Division of Nuclear Medicine</named-content>
+<named-content content-type="organisation-division">Department of Biomedical Imaging and Image&#x02010;guided Therapy</named-content>
+<institution>Medical University of Vienna</institution>
+<named-content content-type="city">Vienna</named-content>
+<country country="AT">Austria</country>
+</aff><aff id="bjh15953-aff-0005">
+<label><sup>5</sup></label>
+<named-content content-type="organisation-division">Department of Biomedical Imaging and Image&#x02010;guided Therapy</named-content>
+<institution>Medical University of Vienna</institution>
+<named-content content-type="city">Vienna</named-content>
+<country country="AT">Austria</country>
+</aff><aff id="bjh15953-aff-0006">
+<label><sup>6</sup></label>
+<named-content content-type="organisation-division">Department of Pathology</named-content>
+<institution>Medical University of Vienna</institution>
+<named-content content-type="city">Vienna</named-content>
+<country country="AT">Austria</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label>
+Correspondence: Univ.&#x02010;Prof. Markus Raderer, Division of Oncology, Department of Internal Medicine I, Waehringer Guertel 18 &#x02013; 20, A&#x02010;1090 Vienna, Austria.<break/>
+E&#x02010;mail: <email>markus.raderer@meduniwien.ac.at</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>24</day><month>5</month><year>2019</year></pub-date><pub-date pub-type="ppub"><month>8</month><year>2019</year></pub-date><volume>186</volume><issue>3</issue><issue-id pub-id-type="doi">10.1111/bjh.2019.186.issue-3</issue-id><fpage>448</fpage><lpage>459</lpage><history><date date-type="received"><day>25</day><month>12</month><year>2018</year></date><date date-type="accepted"><day>27</day><month>2</month><year>2019</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> Copyright &#x000a9; 2019 John Wiley & Sons Ltd <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2019 The Authors. <italic>British Journal of Haematology</italic> published by British Society for Haematology and John Wiley &#x00026; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:BJH-186-448.pdf"/><abstract id="bjh15953-abs-0001"><title>Abstract</title><p>Given the lack of consistent data regarding the clinico&#x02010;pathological features and clonal lymphomagenesis of patients with mucosa&#x02010;associated lymphoid tissue (<styled-content style="fixed-case">MALT</styled-content>) lymphoma and histological transformation (<styled-content style="fixed-case">HT</styled-content>), we have systematically analysed 379 patients (32% gastric, 68% extra&#x02010;gastric; median follow&#x02010;up 52&#x000a0;months) diagnosed with <styled-content style="fixed-case">HT</styled-content> at the Medical University Vienna 1999&#x02013;2017, and reassessed tissues of identified patients by polymerase chain reaction (<styled-content style="fixed-case">PCR</styled-content>)&#x02010;based clonality analysis. <styled-content style="fixed-case">HT</styled-content> was documented in 12/379 patients (3&#x000b7;2%) and occurred at a median time of 22&#x000a0;months (range; 6&#x02013;202&#x000a0;months) after diagnosis of <styled-content style="fixed-case">MALT</styled-content> lymphoma. By <styled-content style="fixed-case">PCR</styled-content>&#x02010;based clonality analysis, we detected a clear&#x02010;cut clonal relationship of <styled-content style="fixed-case">MALT</styled-content> lymphoma and diffuse large B&#x02010;cell lymphoma (<styled-content style="fixed-case">DLBCL</styled-content>) in 8 of 11 analysed cases proving that the large majority of <styled-content style="fixed-case">DLBCL</styled-content> following <styled-content style="fixed-case">MALT</styled-content> lymphoma are clonally&#x02010;related and constitute a real transformation. Interestingly, <styled-content style="fixed-case">HT</styled-content> occurred within the first 2&#x000b7;5&#x000a0;years after diagnosis in patients with clonal relationship, whereas time to aggressive lymphoma was longer in patients identified as clonally&#x02010;unrelated (most likely secondary) lymphoma (82&#x02013;202&#x000a0;months), suggesting that <styled-content style="fixed-case">HT</styled-content> is an early event in this disease. Survival of patients with <styled-content style="fixed-case">HT</styled-content> was poor with 6/12 dying at 1&#x000b7;5&#x02013;33&#x000a0;months after <styled-content style="fixed-case">HT</styled-content>, however, patients with localized gastric transformation had a superior outcome with only 1/6 dying due to progression of lymphoma.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="bjh15953-kwd-0001"><styled-content style="fixed-case">MALT</styled-content> lymphoma</kwd><kwd id="bjh15953-kwd-0002">indolent lymphoma</kwd><kwd id="bjh15953-kwd-0003">histological transformation</kwd><kwd id="bjh15953-kwd-0004">clonality analysis</kwd><kwd id="bjh15953-kwd-0005">diffuse large B&#x02010;cell lymphoma</kwd></kwd-group><counts><fig-count count="2"/><table-count count="3"/><page-count count="13"/><word-count count="8301"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>bjh15953</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>August 2019</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:5.6.9 mode:remove_FC converted:01.10.2019</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec id="bjh15953-sec-0001"><title>Introduction</title><p>Representing one of the more common B&#x02010;cell malignancies, extranodal marginal zone lymphoma (MZL) of the mucosa&#x02010;associated lymphoid tissue (MALT) lymphoma accounts for approximately 8% of all newly diagnosed non&#x02010;Hodgkin lymphomas with an estimated incidence rate of 1&#x000b7;6/100&#x000a0;000 per year (Olszewski &#x00026; Castillo, <xref rid="bjh15953-bib-0030" ref-type="ref">2013</xref>; Cook <italic>et&#x000a0;al</italic>, <xref rid="bjh15953-bib-0011" ref-type="ref">2017</xref>; Jaffe <italic>et&#x000a0;al</italic>, <xref rid="bjh15953-bib-0019" ref-type="ref">2017</xref>). While MALT lymphoma typically presents with a benign clinical course, transformation to aggressive B&#x02010;cell lymphoma may occur and negatively impact prognosis similarly to other indolent haematological malignancies, including follicular lymphoma (FL), small lymphocytic lymphoma (SLL) or chronic lymphocytic leukaemia (CLL) (Montoto <italic>et&#x000a0;al</italic>, <xref rid="bjh15953-bib-0028" ref-type="ref">2007</xref>; Montoto &#x00026; Fitzgibbon, <xref rid="bjh15953-bib-0027" ref-type="ref">2011</xref>; Raderer <italic>et&#x000a0;al</italic>, <xref rid="bjh15953-bib-0032" ref-type="ref">2016</xref>). According to the literature, the rate of histological transformation (HT) to a diffuse large B&#x02010;cell lymphoma (DLBCL) has been reported to be in the range of 2&#x02013;5% for MALT lymphoma, but data are inconsistent due to the fact that MALT lymphoma collectives are often published within MZL/indolent lymphoma series lacking specific subgroup analyses (Meyer <italic>et&#x000a0;al</italic>, <xref rid="bjh15953-bib-0025" ref-type="ref">2014</xref>; Conconi <italic>et&#x000a0;al</italic>, <xref rid="bjh15953-bib-0010" ref-type="ref">2015</xref>; Maeshima <italic>et&#x000a0;al</italic>, <xref rid="bjh15953-bib-0024" ref-type="ref">2016</xref>; Teckie <italic>et&#x000a0;al</italic>, <xref rid="bjh15953-bib-0034" ref-type="ref">2017</xref>). In addition, the mostly retrospective nature of the reports (partly from tertiary centres and large working parties) might have resulted in a slight selection bias with overrepresentation of HT in those collectives.</p><p>The presence of scattered blasts is usually part of the histological appearance of MALT lymphoma (Bacon <italic>et&#x000a0;al</italic>, <xref rid="bjh15953-bib-0003" ref-type="ref">2007</xref>; Cook <italic>et&#x000a0;al</italic>, <xref rid="bjh15953-bib-0011" ref-type="ref">2017</xref>; Jaffe <italic>et&#x000a0;al</italic>, <xref rid="bjh15953-bib-0019" ref-type="ref">2017</xref>) but the diagnosis of aggressive large cell lymphoma is established by the identification of blasts arranged in clearly identifiable diffuse sheets. However, the recent versions of the World Health Organization (WHO) classification have clearly stated that ambiguous cases should be diagnosed as DLBCL with a MALT component, rather than using the term &#x0201c;high grade MALT lymphoma&#x0201d;. This is due to the diverging clinical courses of DLBCL and MALT lymphoma, but also reflects the uncertainty of whether those cases really constitute transformation from indolent MALT lymphoma or the presence of clonally unrelated lymphomas which might have a similar underlying cause. Clinical observations have suggested that DLBCL with localized gastric presentation behave less aggressively than nodal DLBCL and might respond to eradication of <italic>H. pylori</italic>, suggesting a distinct entity commonly entitled &#x0201c;large cell variant&#x0201d; of gastrointestinal (GI)&#x02010;MZL (Ang <italic>et&#x000a0;al</italic>, <xref rid="bjh15953-bib-0002" ref-type="ref">2009</xref>; Ferreri <italic>et&#x000a0;al</italic>, <xref rid="bjh15953-bib-0016" ref-type="ref">2013</xref>). This concept has been underlined by comparative expression profiling of nuclear factor kappa target genes, showing a very specific expression pattern in these tissues connected to MZL rather than DLBCL (Barth <italic>et&#x000a0;al</italic>, <xref rid="bjh15953-bib-0005" ref-type="ref">2017</xref>).</p><p>There is, however, evidence for a clear evolutional sequence in the shift from nodal indolent to aggressive lymphoma (Montoto &#x00026; Fitzgibbon, <xref rid="bjh15953-bib-0027" ref-type="ref">2011</xref>). This process has been investigated for FL in particular, and is based on the assumption that pre&#x02010;programmed global changes in gene expression are a prerequisite for development of a transformed FL clone, which subsequently derives from an immature cell referred to as common progenitor or ancestor cell, but still yields, to a certain extent, intra&#x02010;clonal diversity by composite presence of transformed and non&#x02010;transformed FL cells (Carlotti <italic>et&#x000a0;al</italic>, <xref rid="bjh15953-bib-0007" ref-type="ref">2009</xref>; Montoto &#x00026; Fitzgibbon, <xref rid="bjh15953-bib-0027" ref-type="ref">2011</xref>). Currently, there is no such clear concept for MALT lymphoma but early indications for a clonal progression originate from pioneering work in the 1990ies describing &#x0201c;low&#x02010;grade&#x0201d; and &#x0201c;high&#x02010;grade&#x0201d; MALT lymphoma in gastrectomy specimens with an identical immunophenotype of both components and similar monotypic immunoglobulin expression (Chan <italic>et&#x000a0;al</italic>, <xref rid="bjh15953-bib-0008" ref-type="ref">1990</xref>). In addition, further data suggest <italic>MYC</italic> rearrangements, inactivation of <italic>TP53</italic> and other infrequent genetic alterations to be involved in the process of transformation (Du <italic>et&#x000a0;al</italic>, <xref rid="bjh15953-bib-0014" ref-type="ref">1995</xref>; Neumeister <italic>et&#x000a0;al</italic>, <xref rid="bjh15953-bib-0029" ref-type="ref">1997</xref>; Troppan <italic>et&#x000a0;al</italic>, <xref rid="bjh15953-bib-0037" ref-type="ref">2015</xref>; Raderer <italic>et&#x000a0;al</italic>, <xref rid="bjh15953-bib-0032" ref-type="ref">2016</xref>).</p><p>Given the lack of data on clinico&#x02010;pathological features and clonal lymphomagenesis of patients with MALT lymphoma and HT, we systematically analysed our collective of 379 patients with MALT lymphoma who were diagnosed, treated and followed at the Medical University Vienna 1999&#x02013;2017 for occurrence and outcome of HT, and reassessed tissues of identified patients by polymerase chain reaction (PCR)&#x02010;based clonality analysis. As opposed to multicentric studies, our approach enabled a longitudinal assessment of patients diagnosed with MALT lymphoma over a prolonged time span, as all patients are diagnosed, staged and followed in a uniform way, thus eliminating a potential selection bias by including patients referred from other hospitals only after HT from MALT lymphoma to DLBCL.</p></sec><sec sec-type="methods" id="bjh15953-sec-0002"><title>Methods</title><p>The objective of this analysis was to assess the frequency of HT in patients with MALT lymphoma, clinical characteristics and histological features including PCR&#x02010;based clonality analyses of both, indolent and aggressive lymphoma. Therefore, we conducted a retrospective data analysis of all patients diagnosed, treated and followed from 1999 to 2017 at the Medical University Vienna, a tertiary referral centre for patients with extranodal marginal zone B&#x02010;cell lymphoma of MALT. At the date of this analysis, a total of 379 patients with MALT lymphoma were available for inclusion in this investigation. In all patients, histological diagnosis of MALT lymphoma had been established by a reference haemato&#x02010;pathologist according to the most recent WHO classification for tumours of haematopoeitic and lymphoid tissues, including adequate immunophenotyping on paraffin&#x02010;embedded specimens i.e., CD20+CD5&#x02212;CD10&#x02212;cyclinD1&#x02212;, demonstration of light chain restriction, assessment of plasma&#x02010;cellular differentiation and evaluation of Ki67 (Cook <italic>et&#x000a0;al</italic>, <xref rid="bjh15953-bib-0011" ref-type="ref">2017</xref>; Jaffe <italic>et&#x000a0;al</italic>, <xref rid="bjh15953-bib-0019" ref-type="ref">2017</xref>). Furthermore, fluorescence <italic>in situ</italic> hybridization (FISH) for detection of <italic>t</italic>(11;18)(q21;q21) was performed in gastric MALT lymphoma and in patients who developed aggressive lymphomas both on DLBCL as well as the MALT lymphoma. In patients with histological proof of aggressive lymphoma/DLBCL, c&#x02010;MYC, BCL2, BCL6 and MUM&#x02010;1 were also routinely analysed. The ethical board of the Medical University of Vienna had approved this investigation.</p><sec id="bjh15953-sec-0003"><title>Clonality analyses</title><p>In all patients with histologically confirmed DLBCL arising after an initial diagnosis of MALT lymphoma as assessed by re&#x02010;biopsy of progressive lesions, corresponding paraffin&#x02010;embedded tissues (both of the primary diagnosis and the time of transformation), which are routinely archived at the Department of Pathology, were further subjected to comparative clonality analysis. Clonality studies were performed following a EuroClonality validated PCR&#x02010;based multiplex protocol with the IdentiClone Gene Clonality Assays (Invivoscribe Technologies, Inc., San Diego, CA, USA), using primers targeting frameworks 1&#x02013;3, the diversity and joining regions of the immunoglobulin heavy chain (<italic>IGH</italic>), and the variable and joining, as well as the JK&#x02010;CK intron and Kde regions of the immunoglobulin Kappa light chain (<italic>IGK</italic>) genes, as recently described (van Dongen <italic>et&#x000a0;al</italic>, <xref rid="bjh15953-bib-0013" ref-type="ref">2003</xref>; Mitterbauer&#x02010;Hohendanner <italic>et&#x000a0;al</italic>, <xref rid="bjh15953-bib-0026" ref-type="ref">2004</xref>). As readout systems either GeneScan (GS) fragment analysis or polyacrylamide heteroduplex (HD) analysis were used. Appropriate positive and negative controls were run simultaneously. Samples of the indolent and aggressive lymphomas of each individual patient were run in parallel, using paraffin&#x02010;embedded archived material. The clonal peaks and bands for each individual PCR product were compared and showed either similar results in all reactions, and were rated to represent identical B&#x02010;cell clones, or totally different clonal PCR products, thus representing two different lymphoma clones.</p></sec><sec id="bjh15953-sec-0004"><title>Clinical data</title><p>Corresponding clinical data of all 379 consecutive patients were extracted from electronic and paper&#x02010;based charts. Documented data included sex, performance status, age, stage of disease at diagnosis and transformation, histological features (plasmacytic differentiation, <italic>H. pylori</italic> positivity on tissues), and clinical characteristics, e.g. presences of an autoimmune disease, elevated levels of lactate dehydrogenase (LDH) and beta&#x02010;2&#x02010;microglobulin (B2M). In addition, we have assessed treatment regimens (both at primary diagnosis and time of transformation). Staging was based on radiological and/or endoscopic findings according to primary site of disease (Raderer <italic>et&#x000a0;al</italic>, <xref rid="bjh15953-bib-0032" ref-type="ref">2016</xref>). Bone marrow biopsy was routinely performed until 2005 but afterwards restricted to cases with clinical suspicion of bone marrow infiltration due to the low detection rate in our cohort (&#x0003c;3%) (Raderer <italic>et&#x000a0;al</italic>, <xref rid="bjh15953-bib-0031" ref-type="ref">2006</xref>). Response to treatment was classified by radiological criteria or by use of Groupe d&#x02019; Etude des Lymphomes de l&#x02019; Adulte histological response criteria in the case of gastric MALT lymphoma (Copie&#x02010;Bergman <italic>et&#x000a0;al</italic>, <xref rid="bjh15953-bib-0012" ref-type="ref">2013</xref>). Progression&#x02010;free survival (PFS) and disease status at last follow&#x02010;up were documented. The diagnosis of transformation, i.e. presence of DLBCL/aggressive lymphoma was based on histological findings of biopsies performed in all patients with clinical suspicion of relapse following complete response (CR) after therapy and all patients with clinical suspicion of aggressive lymphoma (including rapid progression or progression at only one site with stable disease in others, occurrence of night sweat, weight loss or increase in LDH) who had only achieved partial remission (PR) or stable disease (SD) after treatment.</p></sec><sec id="bjh15953-sec-0005"><title>Statistical analysis</title><p>Statistical analyses were performed using SPSS statistics for Windows version 25&#x000b7;0 (IBM, Armonk, NY, USA) and R version 3&#x000b7;5&#x000b7;2 using the packages &#x02018;RcmdrPlugin.EZR&#x02019; (Kanda, <xref rid="bjh15953-bib-0020" ref-type="ref">2013</xref>
+<italic>)</italic> and &#x0201a;Survival&#x02019; (Therneau &#x00026; Grambsch, <xref rid="bjh15953-bib-0035" ref-type="ref">2000</xref>). Metric data are described using mean &#x000b1; standard deviation given normal distribution or median and range in case of skewed data. For categorical data absolute frequencies and percentages are presented. Associations of binary variables were calculated using crosstabs and Fisher's exact test. Differences in means were analysed with the Student's <italic>T</italic>&#x02010;test. Overall survival (OS)/PFS estimations were plotted by Kaplan&#x02013;Meier method. OS of transformed and non&#x02010;transformed patients was also compared using Mantel Byar test as Cox regression with time&#x02010;depending covariate. <italic>P</italic>&#x02010;values less than 0&#x000b7;05 were considered statistically significant (two&#x02010;sided).</p></sec></sec><sec sec-type="results" id="bjh15953-sec-0006"><title>Results</title><sec id="bjh15953-sec-0007"><title>General population</title><p>From 1999 to 2017 a total of 379 patients with histologically verified MALT lymphoma were diagnosed and treated at the Clinical Division of Oncology, Medical University Vienna. In total, 32% of patients had gastric MALT lymphoma, while the majority of patients presented with primary extra&#x02010;gastric disease (68%) with ocular adnexal MALT lymphoma being the most common non&#x02010;gastric manifestation (24% of documented patients). The median age was 63&#x000b7;5&#x000a0;years (range; 20&#x02013;90&#x000a0;years) and the female&#x02010;to&#x02010;male ratio was 1&#x000b7;4 (59% female patients, 41% male). In terms of Ann Arbor stage, 57% had localized disease without lymph node involvement (= stage IE), 21% stage IIE, 2% stage IIIE and 19% multiple site involvement i.e. stage IV. Applying the recently published MALT lymphoma prognostic index (MALT&#x02010;IPI) score (Thieblemont <italic>et&#x000a0;al</italic>, <xref rid="bjh15953-bib-0036" ref-type="ref">2017</xref>), 49% of patients were low risk (= no risk factor), 42% intermediate risk (= one risk factor) and 9% were high risk (= 2&#x02013;3 risk factors) in patients who had complete data available (330/379). Table&#x000a0;<xref rid="bjh15953-tbl-0001" ref-type="table">1</xref> provides more detailed characteristics of patients treated at our department.</p><table-wrap id="bjh15953-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Baseline characteristics of the overall collective (<italic>n</italic>&#x000a0;=&#x000a0;379 patients)</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><tbody><tr><td align="left" rowspan="1" colspan="1">Gender (female/male)</td><td align="left" rowspan="1" colspan="1">222 (59%)/157 (41%)</td></tr><tr><td align="left" rowspan="1" colspan="1">Median age (range)</td><td align="left" rowspan="1" colspan="1">64&#x000a0;years (20&#x02013;90&#x000a0;years)</td></tr><tr><td align="left" colspan="2" rowspan="1">Year of diagnosis</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Before 2008</td><td align="left" rowspan="1" colspan="1">196/379 (52%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">From 2008 onwards</td><td align="left" rowspan="1" colspan="1">183/379 (48%)</td></tr><tr><td align="left" colspan="2" rowspan="1">Primary localization of MALT lymphoma</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Gastric</td><td align="left" rowspan="1" colspan="1">123/379 (32%) (HT in 6/123, 5%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Extra&#x02010;gastric</td><td align="left" rowspan="1" colspan="1">256/379 (68%) (HT in 6/379, 2%)</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">Ocular adnexa</td><td align="left" rowspan="1" colspan="1">89/379 (24%) (HT in 2/89, 2%)</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">Parotid gland</td><td align="left" rowspan="1" colspan="1">38/379 (10%) (HT in 2/38, 5%)</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">Lung</td><td align="left" rowspan="1" colspan="1">44/379 (12%) (HT in 2/44, 5%)</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">Other</td><td align="left" rowspan="1" colspan="1">85/379 (22%)</td></tr><tr><td align="left" rowspan="1" colspan="1">Bone marrow involvement</td><td align="left" rowspan="1" colspan="1">9/379 (2%)</td></tr><tr><td align="left" colspan="2" rowspan="1">Stage of disease</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Localized disease (Ann Arbor I&#x02010;II)</td><td align="left" rowspan="1" colspan="1">299/379 (79%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Disseminated disease (Ann Arbor III&#x02010;IV)</td><td align="left" rowspan="1" colspan="1">80/379 (21%)</td></tr><tr><td align="left" colspan="2" rowspan="1">Performance status</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">283/338 (84%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">42/338 (12%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x0003e;1</td><td align="left" rowspan="1" colspan="1">13/338 (4%)</td></tr><tr><td align="left" colspan="2" rowspan="1">MALT&#x02010;IPI&#x000a0;risk factors</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">163/330 (49%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">137/330 (42%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x0003e;1</td><td align="left" rowspan="1" colspan="1">30/330 (9%)</td></tr><tr><td align="left" colspan="2" rowspan="1">Further clinical features</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Autoimmune disorder</td><td align="left" rowspan="1" colspan="1">112/321 (35%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Beta&#x02010;2 microglobulin &#x0003e; UNL</td><td align="left" rowspan="1" colspan="1">106/284 (37%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Lactate dehydrogenase &#x0003e; UNL</td><td align="left" rowspan="1" colspan="1">15/334 (5%)</td></tr><tr><td align="left" colspan="2" rowspan="1">First line treatment</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Antibiotics</td><td align="left" rowspan="1" colspan="1">99/375 (26%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Systemic (Immuno&#x02010;/Chemotherapy)</td><td align="left" rowspan="1" colspan="1">151/375 (40%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Local treatment</td><td align="left" rowspan="1" colspan="1">96/375 (26%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Wait and see</td><td align="left" rowspan="1" colspan="1">29/375 (8%)</td></tr><tr><td align="left" rowspan="1" colspan="1">PFS after first line treatment</td><td align="left" rowspan="1" colspan="1">53&#x000a0;months (95% CI 38&#x02013;68&#x000a0;months)</td></tr><tr><td align="left" rowspan="1" colspan="1">Median follow&#x02010;up time (Interquartile range)</td><td align="left" rowspan="1" colspan="1">52&#x000a0;months (24&#x02013;97&#x000a0;months)</td></tr><tr><td align="left" rowspan="1" colspan="1">Alive at last follow&#x02010;up</td><td align="left" rowspan="1" colspan="1">326/379 (86%)</td></tr></tbody></table><table-wrap-foot><fn id="bjh15953-note-0001"><p>HT, histological transformation; MALT, mucosa&#x02010;associated lymphoid tissue; MALT&#x02010;IPI, MALT lymphoma prognostic index; PFS, progression&#x02010;free survival; UNL, upper normal limit.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><p>All patients with <italic>H. pylori</italic> positive MALT lymphoma received adequate eradication treatment (26%), the remaining patients were treated with either systemic treatment (chemo/immunotherapy, 40%) or local treatment (surgery or radiotherapy, 26%); furthermore, 8% of patients did not receive treatment and were managed by watch and wait strategy. Median estimated PFS after first line therapy was 53&#x000a0;months (95% confidence interval [CI] 38&#x02013;68&#x000a0;months).</p><p>The median follow&#x02010;up time was 52&#x000a0;months (interquartile range 24&#x02013;97&#x000a0;months). The estimated 5&#x02010;year and 10&#x02010;year OS for the entire cohort was 90% (95% CI 87&#x02013;94%) and 81% (95% CI 75&#x02013;87%) respectively. According to documented data, 4&#x000b7;5% of patients died due to lymphoma&#x02010;related events.</p></sec><sec id="bjh15953-sec-0008"><title>MALT lymphoma with histological transformation</title><p>Development of aggressive B&#x02010;cell lymphoma was documented in 12 of 379 (3&#x000b7;2%) patients and occurred between 6&#x000b7;4 and 201&#x000b7;5&#x000a0;months after initial diagnosis. In addition, synchronous manifestation of MALT lymphoma and DLBCL was diagnosed in two patients with gastric MALT lymphoma and one with MALT lymphoma of the submandibular gland, constituting a total of 15 patients (4%) with documented DLBCL features at some point during the course of disease.</p><p>Of 12 patients with histologically confirmed aggressive lymphoma (eight female/four male), six initially presented with primary gastric lymphoma, two with ocular adnexal MALT lymphoma, and additional two each with pulmonary&#x02010; and MALT lymphoma of the parotid gland, respectively, with no other extra&#x02010;gastric manifestations being registered in this subgroup. Four of these 12 patients (33%), had localized lymphoma at diagnosis, five local lymph node involvement i.e. Ann Arbor IIE (42%), one distant lymph node involvement (8%) and two patients multiple organ involvement (17%). None of these patients had evidence of <italic>t</italic>(11;18)(q21;q21) translocation as assessed by FISH. In terms of initial treatment for MALT lymphoma, three patients with gastric MALT lymphoma were managed with <italic>H. pylori</italic> eradication only, while the majority of patients had received at least one line of prior immuno&#x02010;/chemotherapy. In total, six of 12 patients (50%) experienced at least one relapse and received more than one treatment line for MALT lymphoma histology; the remaining six patients showed durable response to first line treatment for MALT lymphoma with the first/further relapse being biopsy&#x02010;proven DLBCL. There was no difference in relapse rates for MALT lymphoma in patients with subsequent aggressive histology if compared to the general collective (50% vs. 45%, <italic>P</italic>&#x000a0;=&#x000a0;0&#x000b7;776). See Table&#x000a0;<xref rid="bjh15953-tbl-0002" ref-type="table">2</xref> for detailed clinical data.</p><table-wrap id="bjh15953-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Clinical Characteristics of patients with MALT lymphoma and histological transformation (<italic>n</italic>&#x000a0;=&#x000a0;12)</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">ID</th><th align="left" valign="top" rowspan="1" colspan="1">Sex</th><th align="left" valign="top" rowspan="1" colspan="1">Age (years)</th><th align="left" valign="top" rowspan="1" colspan="1">Primary localization</th><th align="left" valign="top" rowspan="1" colspan="1">Stage</th><th align="left" valign="top" rowspan="1" colspan="1">MALT&#x02010;IPI</th><th align="left" valign="top" rowspan="1" colspan="1">Treatment for MALT lymphoma before transformation (best response)</th><th align="left" valign="top" rowspan="1" colspan="1">Time to transformation (months)</th><th align="left" valign="top" rowspan="1" colspan="1">Localization at transformation</th><th align="left" valign="top" rowspan="1" colspan="1">Treatment for transformed lymphoma (best response)</th><th align="left" valign="top" rowspan="1" colspan="1">Current status</th><th align="left" valign="top" rowspan="1" colspan="1">PFS<xref ref-type="fn" rid="bjh15953-note-0003">a</xref>
+</th><th align="left" valign="top" rowspan="1" colspan="1">OS (OS2<xref ref-type="fn" rid="bjh15953-note-0004">b</xref>)</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">F</td><td align="char" char="." rowspan="1" colspan="1">52</td><td align="left" rowspan="1" colspan="1">Stomach</td><td align="left" rowspan="1" colspan="1">I</td><td align="char" char="." rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">HP&#x02010;eradication (PD), R&#x02010;2CDA (CR), lenalidomide (transformation)</td><td align="char" char="." rowspan="1" colspan="1">25</td><td align="left" rowspan="1" colspan="1">Stomach</td><td align="left" rowspan="1" colspan="1">R&#x02010;CHOP (CR)</td><td align="left" rowspan="1" colspan="1">Ongoing remission</td><td align="char" char="." rowspan="1" colspan="1">84+</td><td align="char" char="(" rowspan="1" colspan="1">109+ (85+)</td></tr><tr><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">F</td><td align="char" char="." rowspan="1" colspan="1">64</td><td align="left" rowspan="1" colspan="1">Stomach</td><td align="left" rowspan="1" colspan="1">II</td><td align="char" char="." rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">R&#x02010;lenalidomide (CR)</td><td align="char" char="." rowspan="1" colspan="1">22</td><td align="left" rowspan="1" colspan="1">LNN (bulky disease), <italic>supra</italic>&#x02010; and infradiaphragmatic</td><td align="left" rowspan="1" colspan="1">DA&#x02010;R&#x02010;EPOCH (PD), bortezomib (PD)</td><td align="left" rowspan="1" colspan="1">Died due to progression of lymphoma</td><td align="char" char="." rowspan="1" colspan="1">9</td><td align="char" char="(" rowspan="1" colspan="1">33 (12)</td></tr><tr><td align="left" rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">F</td><td align="char" char="." rowspan="1" colspan="1">72</td><td align="left" rowspan="1" colspan="1">Ocular adnexa</td><td align="left" rowspan="1" colspan="1">II</td><td align="char" char="." rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">Radiotherapy (PD), everolimus (PD)</td><td align="char" char="." rowspan="1" colspan="1">15</td><td align="left" rowspan="1" colspan="1">LNN, spleen, bone marrow</td><td align="left" rowspan="1" colspan="1">Patient deceased</td><td align="left" rowspan="1" colspan="1">Died due to progression of lymphoma</td><td align="char" char="." rowspan="1" colspan="1">&#x02013;</td><td align="char" char="(" rowspan="1" colspan="1">15 (0)</td></tr><tr><td align="left" rowspan="1" colspan="1">4</td><td align="left" rowspan="1" colspan="1">F</td><td align="char" char="." rowspan="1" colspan="1">58</td><td align="left" rowspan="1" colspan="1">Ocular adnexa, gluteal, LNN</td><td align="left" rowspan="1" colspan="1">IV</td><td align="char" char="." rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">Doxycycline (PD), radiotherapy (PR), BR (PD)</td><td align="char" char="." rowspan="1" colspan="1">19</td><td align="left" rowspan="1" colspan="1">LNN cervical</td><td align="left" rowspan="1" colspan="1">R&#x02010;COMP (PD), radiotherapy (PD)</td><td align="left" rowspan="1" colspan="1">Died due to progression of lymphoma</td><td align="char" char="." rowspan="1" colspan="1">2</td><td align="char" char="(" rowspan="1" colspan="1">22 (3)</td></tr><tr><td align="left" rowspan="1" colspan="1">5</td><td align="left" rowspan="1" colspan="1">M</td><td align="char" char="." rowspan="1" colspan="1">66</td><td align="left" rowspan="1" colspan="1">Stomach</td><td align="left" rowspan="1" colspan="1">II</td><td align="char" char="." rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">HP&#x02010;eradication (PR)</td><td align="char" char="." rowspan="1" colspan="1">6</td><td align="left" rowspan="1" colspan="1">Stomach, LNN <italic>supra</italic>&#x02010; and infradiaphragmatic</td><td align="left" rowspan="1" colspan="1">R&#x02010;CHOP (CR)</td><td align="left" rowspan="1" colspan="1">Alive with MALT lymphoma</td><td align="char" char="." rowspan="1" colspan="1">15 (MALT)</td><td align="char" char="(" rowspan="1" colspan="1">53+ (46+)</td></tr><tr><td align="left" rowspan="1" colspan="1">6</td><td align="left" rowspan="1" colspan="1">M</td><td align="char" char="." rowspan="1" colspan="1">56</td><td align="left" rowspan="1" colspan="1">Stomach</td><td align="left" rowspan="1" colspan="1">III</td><td align="char" char="." rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">BR (CR), HP&#x02010;eradication (SD)</td><td align="char" char="." rowspan="1" colspan="1">31</td><td align="left" rowspan="1" colspan="1">Stomach, LNN</td><td align="left" rowspan="1" colspan="1">R&#x02010;COMP (CR)</td><td align="left" rowspan="1" colspan="1">Ongoing remission</td><td align="char" char="." rowspan="1" colspan="1">13+</td><td align="char" char="(" rowspan="1" colspan="1">44+ (13+)</td></tr><tr><td align="left" rowspan="1" colspan="1">7</td><td align="left" rowspan="1" colspan="1">M</td><td align="char" char="." rowspan="1" colspan="1">68</td><td align="left" rowspan="1" colspan="1">Stomach</td><td align="left" rowspan="1" colspan="1">II</td><td align="char" char="." rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">HP&#x02010;eradication (SD)</td><td align="char" char="." rowspan="1" colspan="1">17</td><td align="left" rowspan="1" colspan="1">Stomach, LNN <italic>supra</italic>&#x02010; and infradiaphragmatic</td><td align="left" rowspan="1" colspan="1">R&#x02010;CHOP&#x000a0;+&#x000a0;2&#x000a0;&#x000d7;&#x000a0;R mono (CR transformed but residual gastric MALT lymphoma)</td><td align="left" rowspan="1" colspan="1">Alive with MALT lymphoma</td><td align="char" char="." rowspan="1" colspan="1">13+</td><td align="char" char="(" rowspan="1" colspan="1">31+ (14+)</td></tr><tr><td align="left" rowspan="1" colspan="1">8</td><td align="left" rowspan="1" colspan="1">F</td><td align="char" char="." rowspan="1" colspan="1">70</td><td align="left" rowspan="1" colspan="1">Stomach</td><td align="left" rowspan="1" colspan="1">I</td><td align="char" char="." rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">HP&#x02010;eradication (PR)</td><td align="char" char="." rowspan="1" colspan="1">10</td><td align="left" rowspan="1" colspan="1">Stomach</td><td align="left" rowspan="1" colspan="1">R&#x02010;CHOP (PR, residual gastric MALT lymphoma)</td><td align="left" rowspan="1" colspan="1">Alive with MALT lymphoma</td><td align="char" char="." rowspan="1" colspan="1">33+</td><td align="char" char="(" rowspan="1" colspan="1">44+ (34+)</td></tr><tr><td align="left" rowspan="1" colspan="1">9</td><td align="left" rowspan="1" colspan="1">M</td><td align="char" char="." rowspan="1" colspan="1">53</td><td align="left" rowspan="1" colspan="1">Lung (bilateral)</td><td align="left" rowspan="1" colspan="1">IV</td><td align="char" char="." rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">Thalidomide (SD), R&#x02010;2CDA (CR)</td><td align="char" char="." rowspan="1" colspan="1">202</td><td align="left" rowspan="1" colspan="1">Stomach</td><td align="left" rowspan="1" colspan="1">DA&#x02010;R&#x02010;EPOCH (CR)</td><td align="left" rowspan="1" colspan="1">Ongoing remission</td><td align="char" char="." rowspan="1" colspan="1">16+</td><td align="char" char="(" rowspan="1" colspan="1">218+ (16+)</td></tr><tr><td align="left" rowspan="1" colspan="1">10</td><td align="left" rowspan="1" colspan="1">F</td><td align="char" char="." rowspan="1" colspan="1">55</td><td align="left" rowspan="1" colspan="1">Lung</td><td align="left" rowspan="1" colspan="1">II</td><td align="char" char="." rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">CHOP (CR), rituximab (PR), ofatumumab (CR)</td><td align="char" char="." rowspan="1" colspan="1">194</td><td align="left" rowspan="1" colspan="1">Lung bilateral, LNN disseminated</td><td align="left" rowspan="1" colspan="1">DHAP + MTX intrathecal (patient deceased)</td><td align="left" rowspan="1" colspan="1">Died due to progression of lymphoma</td><td align="char" char="." rowspan="1" colspan="1">1</td><td align="char" char="(" rowspan="1" colspan="1">196 (2)</td></tr><tr><td align="left" rowspan="1" colspan="1">11</td><td align="left" rowspan="1" colspan="1">F</td><td align="char" char="." rowspan="1" colspan="1">51</td><td align="left" rowspan="1" colspan="1">Parotid gland</td><td align="left" rowspan="1" colspan="1">I</td><td align="char" char="." rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">COP (CR)</td><td align="char" char="." rowspan="1" colspan="1">82</td><td align="left" rowspan="1" colspan="1">Stomach, LNN</td><td align="left" rowspan="1" colspan="1">R&#x02010;CHOP (PR), Radiation of LNN</td><td align="left" rowspan="1" colspan="1">Died due to progression of lymphoma</td><td align="char" char="." rowspan="1" colspan="1">15</td><td align="char" char="(" rowspan="1" colspan="1">97 (16)</td></tr><tr><td align="left" rowspan="1" colspan="1">12</td><td align="left" rowspan="1" colspan="1">F</td><td align="char" char="." rowspan="1" colspan="1">69</td><td align="left" rowspan="1" colspan="1">Parotid gland</td><td align="left" rowspan="1" colspan="1">I</td><td align="char" char="." rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">R&#x02010;FCM (CR)</td><td align="char" char="." rowspan="1" colspan="1">22</td><td align="left" rowspan="1" colspan="1">Parotid gland, bone marrow</td><td align="left" rowspan="1" colspan="1">R&#x02010;CHOP (CR), Radiation</td><td align="left" rowspan="1" colspan="1">Died due to progression of lymphoma/MDS</td><td align="char" char="." rowspan="1" colspan="1">17</td><td align="char" char="(" rowspan="1" colspan="1">55 (33)</td></tr></tbody></table><table-wrap-foot><fn id="bjh15953-note-0002"><p>2CDA, cladribine; BR, bendamustine, rituximab; CHOP, cyclophosphamide, doxorubicin, vincristine and prednisone; COMP, cyclophosphamide, vincristine, non&#x02010;pegylated liposomal doxorubicin, prednisone; COP, cyclophosphamide, vincristine, prednisone; CR, complete remission; DA, dose&#x02010;adjusted; DHAP, dexamethasone, high dose cytarabine, cisplatin; EPOCH, etoposide, prednisone, vincristine, cyclophosphamide, doxorubicin; F, female; FCM, fludarabine, cyclophosphamide, mitoxantrone; HP, <italic>Helicobacter pylori</italic>; ID, identification number; LNN, lymph nodes; M, male; MALT, mucosa&#x02010;associated lymphoid tissue; MALT&#x02010;IPI, MALT lymphoma prognostic index; MDS, myelodysplastic syndrome; OS, overall survival; PD, progressive disease; PFS, progression&#x02010;free survival; PR, partial remission; R, rituximab; SD, stable disease.</p></fn><fn id="bjh15953-note-0003"><label>a</label><p>Progression free survival after treatment start for transformed lymphoma.</p></fn><fn id="bjh15953-note-0004"><label>b</label><p>Overall survival after histological transformation</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><p>Median time to HT of lymphoma was 22&#x000a0;months (range; 6&#x000b7;4&#x02013;201&#x000b7;5) in these 12 patients. At the time of diagnosis of aggressive lymphoma, three patients with initial gastric MALT lymphoma had localized disease, whereas the remaining patients presented with advanced disease (IIE <italic>n</italic>&#x000a0;=&#x000a0;3, IIIE <italic>n</italic>&#x000a0;=&#x000a0;3, IV <italic>n</italic>&#x000a0;=&#x000a0;3). While the site of DLBCL was identical to the initial localization in 7 patients (gastric <italic>n</italic>&#x000a0;=&#x000a0;5, lung <italic>n</italic>&#x000a0;=&#x000a0;1, parotid gland <italic>n</italic>&#x000a0;=&#x000a0;1), three patients showed lymph node involvement in particular (one with gastric primary, two with orbital primary), and one primary MALT lymphoma of the lung and parotid gland each, developed DLBCL in the stomach. With the caveat of the small number of patients with HT, there was a non&#x02010;significant trend towards higher MALT&#x02010;IPI scores (i.e. intermediate/high risk) in patients developing HT (<italic>P</italic>&#x000a0;=&#x000a0;0&#x000b7;135), however, there was no difference in terms of primary localization, i.e. gastric versus extra&#x02010;gastric (<italic>P</italic>&#x000a0;=&#x000a0;0&#x000b7;215), elevation of B2M (<italic>P</italic>&#x000a0;=&#x000a0;0&#x000b7;301), plasmacytic differentiation (<italic>P</italic>&#x000a0;=&#x000a0;0&#x000b7;728), presence of an autoimmune disease (<italic>P</italic>&#x000a0;=&#x000a0;0&#x000b7;340), mean age at diagnosis (<italic>P</italic>&#x000a0;=&#x000a0;0&#x000b7;951) and the year of diagnosis, based on a cut&#x02010;off in the middle of the recruitment period i.e. before 2008 versus from 2008 onwards (<italic>P</italic>&#x000a0;=&#x000a0;0&#x000b7;564).</p><p>Remarkably, at the time of DLBCL&#x02010;diagnosis, 8 of 12 patients (67%) had radiological signs of local or distant lymph node involvement (irrespective of the presence of multiple extranodal sites), and a total of 6 of 12 (50%) patients already had lymph node involvement at primary diagnosis. This is opposed to a low rate of lymph node involvement present in only 11% (42/367) of the general collective (both <italic>P</italic>&#x02010;values &#x0003c;0&#x000b7;001), suggesting nodal infiltration with MALT lymphoma as a significant risk factor in this context. Also, though being a rare event in general, bone marrow infiltration at any point of disease was significantly more common in patients developing DLBCL (17% vs. 2%, <italic>P</italic>&#x000a0;=&#x000a0;0&#x000b7;029).</p></sec><sec id="bjh15953-sec-0009"><title>Treatment and prognosis</title><p>Treatment for DLBCL was anthracycline&#x02010;based in 10/12 (R&#x02010;CHOP [rituximab, cyclophosphamide, doxorubicin, vincristine and prednisone]/R&#x02010;COMP [rituximab, cyclophosphamide, vincristine, non&#x02010;pegylated liposomal doxorubicin, prednisone] <italic>n</italic>&#x000a0;=&#x000a0;8; dose adjusted R&#x02010;EPOCH [rituximab, etoposide, prednisone, vincristine, cyclophosphamide, doxorubicin] <italic>n</italic>&#x000a0;=&#x000a0;2), one patient with loss of CD20 expression was treated with DHAP (dexamethasone, high dose cytarabine, cisplatin), and one died due to rapid lymphoma progression before initiation of specific treatment. Eight of eleven patients responded to chemotherapy, while two patients were refractory to the first line and salvage approach (radiotherapy&#x000a0;=&#x000a0;1, bortezomib&#x000a0;=&#x000a0;1) and one died during initial treatment (no response assessment available). Median PFS after treatment start for DLBCL was 15&#x000b7;0&#x000a0;months (95% CI 11&#x02013;18). In general, survival was poor, with 6/12 (50%) dying due to progression of lymphoma at 1&#x000b7;5&#x02013;33&#x000a0;months after documentation of DLBCL. Comparison of survival curves using Mantel Byar test confirmed that OS of patients developing DLBCL was significantly worse independent of time to transformation (Hazard Ratio&#x000a0;=&#x000a0;12&#x000b7;282, 95% CI [4&#x000b7;99&#x02013;29&#x000b7;54]; &#x003c7;&#x000b2;<sub>(df=1)&#x000a0;</sub>=&#x000a0;51&#x000b7;452; <italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.001). See Fig.&#x000a0;<xref rid="bjh15953-fig-0001" ref-type="fig">1</xref> for corresponding survival curves.</p><fig fig-type="Figure" xml:lang="en" id="bjh15953-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Cox regression survival&#x000a0;curve for estimated overall survival in histological transformed (corrected for delayed entry) and non&#x02010;transformed <styled-content style="fixed-case">MALT</styled-content> lymphoma patients, respectively. <italic>X</italic>&#x02010;axis: follow&#x02010;up in months, <italic>y</italic>&#x02010;axis: cumulative survival.</p></caption><graphic id="nlm-graphic-1" xlink:href="BJH-186-448-g001"/></fig><p>Interestingly, patients with DLBCL following primary gastric MALT lymphoma appeared to have a better outcome than patients with DLBCL documented at an extra&#x02010;gastric site, with only one of six patients with gastric lymphoma dying from DLBCL, but five of six with extra&#x02010;gastric primary. Equally, six of seven patients with stomach involvement at the time of transformation survived, while all patients with non&#x02010;GI lymphoma died of lymphoma&#x02010;related causes.</p><p>Noteworthy, in three patients with transformed gastric MALT lymphoma, a MALT lymphoma remnant/relapse of MALT lymphoma component without evidence for DLBCL has been documented in the further course of disease. Currently, all of these patients are without signs of progression and managed with a watch and wait strategy.</p></sec><sec id="bjh15953-sec-0010"><title>Clonality analysis and histological features</title><p>The MALT and DLBCL components of a total of 11 patients could be analysed in parallel, whereas no tissues were available in one patient. For site of biopsies and more detailed results see Table&#x000a0;<xref rid="bjh15953-tbl-0003" ref-type="table">3</xref>. Seven patients showed identical clonal peaks or bands in both MALT as well as in their aggressive lymphoma, suggesting a clonal relationship and thus transformation from MALT lymphoma (see Fig.&#x000a0;<xref rid="bjh15953-fig-0002" ref-type="fig">2</xref> depicting an example of identical clonal peaks in both MALT and aggressive lymphoma). One additional patient showed both monoclonal <italic>IGH</italic> and <italic>IGK</italic> rearrangement in the MALT lymphoma, whereas the monoclonal <italic>IGH</italic> rearrangement could not be detected in the aggressive tumour developing 1&#x000a0;year after diagnosis of MALT lymphoma. However, the clonal relationship could be demonstrated by detection of an identical <italic>IGK</italic> gene rearrangement. Two further patients showed clearly different clones for both <italic>IGH</italic> and <italic>IGK</italic> in the MALT lymphoma and in the subsequent DLBCL, pointing to clonally unrelated lymphoma entities. In the last patient, no clonal rearrangement for both <italic>IGH</italic> and <italic>IGK</italic> could be detected in the initial MALT lymphoma&#x02010;specimen, whereas a clonal rearrangement for both <italic>IGH</italic> and <italic>IGK</italic> could be demonstrated in the subsequent DLBCL. A definitive proof of clonal relationship between these two tumours therefore could not be demonstrated. Thus, a clear clonal relationship between primary MALT lymphoma and DLBCL was found in 8 of 11 analysed patients, suggesting clear&#x02010;cut HT from MALT lymphoma in those cases, while in two patients the aggressive lymphoma was found to be a clonally unrelated, secondary lymphoma and one case could not be clearly classified. Notably, HT occurred within the first 2&#x000b7;5&#x000a0;years after diagnosis in all patients with a clonal relationship, whereas time to occurrence of aggressive lymphoma was notably longer in patients identified as secondary (clonally&#x02010;unrelated) lymphoma (range; 82&#x02013;202&#x000a0;months), suggesting that HT is an event occurring relatively early in the course of disease.</p><table-wrap id="bjh15953-tbl-0003" xml:lang="en" orientation="portrait" position="float"><label>Table 3</label><caption><p>Results of clonality analysis of patients with MALT lymphoma and aggressive lymphoma</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1"/><th align="left" valign="top" rowspan="1" colspan="1">Biopsy site 1 (initial diagnosis)</th><th align="left" valign="top" rowspan="1" colspan="1">Biopsy site 2 (transformation)</th><th align="left" valign="top" rowspan="1" colspan="1">Histological diagnosis</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic>IGH</italic>
+</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic>IGK</italic>
+</th><th align="left" valign="top" rowspan="1" colspan="1">Clonality analysis</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">Stomach</td><td align="left" rowspan="1" colspan="1">Stomach</td><td align="left" rowspan="1" colspan="1">
+<list list-type="order" id="bjh15953-list-0001"><list-item><p>MALT lymphoma</p></list-item><list-item><p>Diffuse large B&#x02010;cell lymphoma</p></list-item></list>
+</td><td align="left" rowspan="1" colspan="1">
++, id<break/>
++, id
+</td><td align="left" rowspan="1" colspan="1">
+&#x02212;<break/>
+&#x02212;
+</td><td align="left" rowspan="1" colspan="1">Identical clone</td></tr><tr><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">Lymph node (abdominal) </td><td align="left" rowspan="1" colspan="1">Lymph node (abdominal)</td><td align="left" rowspan="1" colspan="1">
+<list list-type="order" id="bjh15953-list-0002"><list-item><p>MALT lymphoma</p></list-item><list-item><p>Diffuse large B&#x02010;cell lymphoma (double expressor &#x02013; <italic>MYC</italic>,<italic> BCL2</italic>)</p></list-item></list>
+</td><td align="left" rowspan="1" colspan="1">
++, id<break/>
++, id
+</td><td align="left" rowspan="1" colspan="1">
++, id<break/>
++, id
+</td><td align="left" rowspan="1" colspan="1">Identical clone</td></tr><tr><td align="left" rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">Ocular adnexa</td><td align="left" rowspan="1" colspan="1">Lymph node (cervical)</td><td align="left" rowspan="1" colspan="1">
+<list list-type="order" id="bjh15953-list-0003"><list-item><p>MALT lymphoma</p></list-item><list-item><p>Diffuse large B&#x02010;cell lymphoma</p></list-item></list>
+</td><td align="left" rowspan="1" colspan="1">
++, id<break/>
++, id
+</td><td align="left" rowspan="1" colspan="1">
+&#x02212;<break/>
+&#x02212;
+</td><td align="left" rowspan="1" colspan="1">Identical clone</td></tr><tr><td align="left" rowspan="1" colspan="1">4</td><td align="left" rowspan="1" colspan="1">Ocular adnexa </td><td align="left" rowspan="1" colspan="1">Lymph node (cervical)</td><td align="left" rowspan="1" colspan="1">
+<list list-type="order" id="bjh15953-list-0004"><list-item><p>MALT lymphoma, CD5&#x02010;</p></list-item><list-item><p>Diffuse large B&#x02010;cell lymphoma, CD5+</p></list-item></list>
+</td><td align="left" rowspan="1" colspan="1">
++, id<break/>
++, id
+</td><td align="left" rowspan="1" colspan="1">
++, id<break/>
++, id
+</td><td align="left" rowspan="1" colspan="1">Identical clone</td></tr><tr><td align="left" rowspan="1" colspan="1">5</td><td align="left" rowspan="1" colspan="1">Stomach</td><td align="left" rowspan="1" colspan="1">Stomach</td><td align="left" rowspan="1" colspan="1">
+<list list-type="order" id="bjh15953-list-0005"><list-item><p>MALT lymphoma</p></list-item><list-item><p>Diffuse large B&#x02010;cell lymphoma</p></list-item></list>
+</td><td align="left" rowspan="1" colspan="1">
++, id<break/>
++, id
+</td><td align="left" rowspan="1" colspan="1">
++, id<break/>
++, id
+</td><td align="left" rowspan="1" colspan="1">Identical clone</td></tr><tr><td align="left" rowspan="1" colspan="1">6</td><td align="left" rowspan="1" colspan="1">Lymph node (cervical) </td><td align="left" rowspan="1" colspan="1">Stomach</td><td align="left" rowspan="1" colspan="1">
+<list list-type="order" id="bjh15953-list-0006"><list-item><p>MALT lymphoma</p></list-item><list-item><p>Diffuse large B&#x02010;cell lymphoma</p></list-item></list>
+</td><td align="left" rowspan="1" colspan="1">
++, id<break/>
++, id
+</td><td align="left" rowspan="1" colspan="1">
++, id<break/>
++, id
+</td><td align="left" rowspan="1" colspan="1">Identical clone</td></tr><tr><td align="left" rowspan="1" colspan="1">7</td><td align="left" rowspan="1" colspan="1">Stomach</td><td align="left" rowspan="1" colspan="1">Lymph node (cervical)</td><td align="left" rowspan="1" colspan="1">
+<list list-type="order" id="bjh15953-list-0007"><list-item><p>MALT lymphoma</p></list-item><list-item><p>Diffuse large B&#x02010;cell lymphoma</p></list-item></list>
+</td><td align="left" rowspan="1" colspan="1">
++, id<break/>
++, id
+</td><td align="left" rowspan="1" colspan="1">
++, id<break/>
++, id
+</td><td align="left" rowspan="1" colspan="1">Identical clone</td></tr><tr><td align="left" rowspan="1" colspan="1">8</td><td align="left" rowspan="1" colspan="1">Stomach </td><td align="left" rowspan="1" colspan="1">Stomach</td><td align="left" rowspan="1" colspan="1">
+<list list-type="order" id="bjh15953-list-0008"><list-item><p>MALT lymphoma</p></list-item><list-item><p>Diffuse large B&#x02010;cell lymphoma</p></list-item></list>
+</td><td align="left" rowspan="1" colspan="1">
++<break/>
+&#x02212;
+</td><td align="left" rowspan="1" colspan="1">
++, id<break/>
++, id
+</td><td align="left" rowspan="1" colspan="1">Identical clone</td></tr><tr><td align="left" rowspan="1" colspan="1">9</td><td align="left" rowspan="1" colspan="1">Lung</td><td align="left" rowspan="1" colspan="1">Stomach</td><td align="left" rowspan="1" colspan="1">
+<list list-type="order" id="bjh15953-list-0009"><list-item><p>MALT lymphoma</p></list-item><list-item><p>Diffuse large B&#x02010;cell lymphoma, <italic>MYC</italic>+ (FISH)</p></list-item></list>
+</td><td align="left" rowspan="1" colspan="1">
+&#x02212;<break/>
++
+</td><td align="left" rowspan="1" colspan="1">
+&#x02212;<break/>
++
+</td><td align="left" rowspan="1" colspan="1">Secondary lymphoma</td></tr><tr><td align="left" rowspan="1" colspan="1">10</td><td align="left" rowspan="1" colspan="1">Lung</td><td align="left" rowspan="1" colspan="1">Lung</td><td align="left" rowspan="1" colspan="1">
+<list list-type="order" id="bjh15953-list-0010"><list-item><p>MALT lymphoma</p></list-item><list-item><p>Diffuse large B&#x02010;cell lymphoma, CD20&#x02010;, <italic>MYD88</italic> mutation (L265P)</p></list-item></list>
+</td><td align="left" rowspan="1" colspan="1">
++, id<break/>
++, id
+</td><td align="left" rowspan="1" colspan="1">
++, id<break/>
++, id
+</td><td align="left" rowspan="1" colspan="1">Secondary lymphoma</td></tr><tr><td align="left" rowspan="1" colspan="1">11</td><td align="left" rowspan="1" colspan="1">Parotid gland</td><td align="left" rowspan="1" colspan="1">Stomach</td><td align="left" rowspan="1" colspan="1">
+<list list-type="order" id="bjh15953-list-0011"><list-item><p>MALT Lymphoma</p></list-item><list-item><p>Diffuse large B&#x02010;cell lymphoma, Burkitt&#x02010;like</p></list-item></list>
+</td><td align="left" rowspan="1" colspan="1">
++, id<break/>
++, id
+</td><td align="left" rowspan="1" colspan="1">
++, id<break/>
++, id
+</td><td align="left" rowspan="1" colspan="1">Secondary lymphoma</td></tr><tr><td align="left" rowspan="1" colspan="1">12</td><td align="left" rowspan="1" colspan="1">Parotid gland</td><td align="left" rowspan="1" colspan="1">Parotid gland</td><td align="left" rowspan="1" colspan="1">
+<list list-type="order" id="bjh15953-list-0012"><list-item><p>MALT Lymphoma</p></list-item><list-item><p>Diffuse large B&#x02010;cell lymphoma</p></list-item></list>
+</td><td align="left" rowspan="1" colspan="1">
+No data<break/>
+No data
+</td><td align="left" rowspan="1" colspan="1">
+No data<break/>
+No data
+</td><td align="left" rowspan="1" colspan="1">
+No data<break/>
+No data
+</td></tr></tbody></table><table-wrap-foot><fn id="bjh15953-note-0005"><p>d, different; FISH, fluorescence <italic>in situ</italic> hybridization; id, identical; <italic>IGH</italic>, immunoglobulin heavy chain; <italic>IGK</italic>, immunoglobulin Kappa light chain; MALT, mucosa&#x02010;associated lymphoid tissue.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><fig fig-type="Figure" xml:lang="en" id="bjh15953-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Polymerase chain reaction&#x02010;based clonality analysis showing identical peaks indicating clonal rearrangements of the <styled-content style="fixed-case">FR</styled-content>2 region of <italic><styled-content style="fixed-case">IGH</styled-content></italic> in (A) primary indolent <styled-content style="fixed-case">MALT</styled-content> lymphoma and (B) in the histologically confirmed transformation to aggressive diffuse large B&#x02010;cell lymphoma (Patient 2). [Colour figure can be viewed at <ext-link ext-link-type="uri" xlink:href="http://wileyonlinelibrary.com">wileyonlinelibrary.com</ext-link>]</p></caption><graphic id="nlm-graphic-3" xlink:href="BJH-186-448-g002"/></fig><p>In terms of further histological/molecular features of DLBCL, one patient with clonally related lymphoma was a double expressor of <italic>MYC</italic> and <italic>BCL2</italic>, and one presented with CD5+ aggressive lymphoma following an initially CD5&#x02212; MALT lymphoma. The two patients with clonally unrelated lymphoma both presented with high risk features (one with a <italic>MYD88</italic> mutation and one with a Burkitt&#x02010;like phenotype of DLBCL). The remaining patients did not show any specific alterations and no patient with gastric involvement was <italic>H. pylori</italic> positive at the time of transformation.</p></sec></sec><sec sec-type="discussion" id="bjh15953-sec-0011"><title>Discussion</title><p>The aim of the present study was to evaluate the incidence of true HT, pathological features, clinical characteristics and prognosis of patients with DLBCL following extranodal B&#x02010;cell lymphoma of MALT lymphoma in a large collective of patients treated at the Medical University Vienna. With 379 subjects included, this is &#x02013; to the best of our knowledge &#x02013; the most extensive single&#x02010;centre investigation with standardized follow&#x02010;up addressing this issue in a collective consisting exclusively of MALT lymphoma patients. Whereas general features may be extrapolated from mixed MZL populations also including splenic and nodal MZL, it has repeatedly been shown that MALT lymphoma presents with a distinct biological and also molecular profile requiring an individual work&#x02010;up of this specific entity (Bertoni <italic>et&#x000a0;al</italic>, <xref rid="bjh15953-bib-0006" ref-type="ref">2018</xref>). While our data have to be interpreted within the caveats of retrospective analyses, we provide both extensive clinical data with an unbiased longitudinal follow&#x02010;up of patients along with clonality analysis by PCR&#x02010;based testing on both primary indolent and subsequent aggressive lymphoma, thus offering a unique insight into pathogenesis of this event.</p><p>The natural course of MALT lymphoma is favourable and, despite more than 40% progressing after initial therapy, treatment at first and further relapse is also associated with acceptable response rates and good overall outcome (Kiesewetter <italic>et&#x000a0;al</italic>, <xref rid="bjh15953-bib-0021" ref-type="ref">2015</xref>; Raderer <italic>et&#x000a0;al</italic>, <xref rid="bjh15953-bib-0032" ref-type="ref">2016</xref>). However, and in line with other indolent lymphoma entities, transformation to aggressive lymphoma may occur and drastically worsen the prognosis. According to the literature, the rate of transformation in MALT lymphoma is 2&#x02013;5% but most data derive from limited retrospective series or mixed MZL collectives (Meyer <italic>et&#x000a0;al</italic>, <xref rid="bjh15953-bib-0025" ref-type="ref">2014</xref>; Conconi <italic>et&#x000a0;al</italic>, <xref rid="bjh15953-bib-0010" ref-type="ref">2015</xref>; Maeshima <italic>et&#x000a0;al</italic>, <xref rid="bjh15953-bib-0024" ref-type="ref">2016</xref>; Teckie <italic>et&#x000a0;al</italic>, <xref rid="bjh15953-bib-0034" ref-type="ref">2017</xref>). To date, the largest retrospective analysis addressing HT and outcome in mixed MZL was reported by Conconi <italic>et&#x000a0;al</italic> (<xref rid="bjh15953-bib-0010" ref-type="ref">2015</xref>) and included 157 patients with MALT lymphoma. The HT rate in this series was 4% (6/157) and 4/6 (66%) patients died between 1 and 96&#x000a0;months post&#x02010;HT. Furthermore, an Asian series of 467 MALT lymphoma patients reported a DLBCL rate of 8% but more than two&#x02010;thirds of patients had synchronous manifestations of MALT and DLBCL. The rate of DLBCL in the course of the disease was, however, in a range comparable to our series and was 3%, 3% and 5% at 5, 10 and 15&#x000a0;years, respectively (Maeshima <italic>et&#x000a0;al</italic>, <xref rid="bjh15953-bib-0024" ref-type="ref">2016</xref>). In contrast to our data, none of these series attempted to characterise the clonal relationship, though the term HT was used in all series.</p><p>In addition to retrospective data, two long&#x02010;term updates of major first line studies have recently been published, presenting also documentation of metachronous DLBCL along with PFS (Salar <italic>et&#x000a0;al</italic>, <xref rid="bjh15953-bib-0033" ref-type="ref">2017</xref>; Zucca <italic>et&#x000a0;al</italic>, <xref rid="bjh15953-bib-0040" ref-type="ref">2017</xref>;). Both studies exclusively included patients with MALT lymphoma, obviating bias by mixed MZL histologies. In the International Extranodal Lymphoma Study Group (IELSG)&#x02010;19 trial (chlorambucil&#x000a0;&#x000b1;&#x000a0;rituximab); a median follow&#x02010;up of 7&#x000b7;4&#x000a0;years was presented and DLBCL was reported in 10/401 patients (2&#x000b7;5%), with six patients dying during the observation period (Zucca <italic>et&#x000a0;al</italic>, <xref rid="bjh15953-bib-0040" ref-type="ref">2017</xref>). In the Spanish phase II trial MALT2008&#x02010;01, rituximab&#x02010;bendamustine was assessed as upfront strategy in a total of 60 patients (Salar <italic>et&#x000a0;al</italic>, <xref rid="bjh15953-bib-0033" ref-type="ref">2017</xref>). In this series, the DLBCL rate was 5% at 7+ years with no data on DLBCL&#x02010;related deaths being presented. While the influence of respective treatment/trial inclusion criteria can only be speculated on and the absolute numbers of patients with DLBCL are small, the data again suggest a poor outcome for this subgroup.</p><p>In the current analysis, we present 379 patients with MALT lymphoma, including 12 patients developing DLBCL (3&#x000b7;2%). While at diagnosis, patients with aggressive lymphoma in the course of disease did not differ from patients not experiencing DLBCL in terms of age, primary localization, plasmacytic differentiation and autoimmune disease (<italic>P</italic>&#x02010;values all non&#x02010;significant), it was striking that patients experiencing HT had a significantly higher rate of lymph node involvement (67% vs. 11%, <italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0&#x000b7;001), clearly suggesting this as a relevant &#x0201c;red flag&#x0201d; in MALT lymphoma. Interestingly, lymphadenopathy has already been proposed as a negative predictive marker for OS, PFS and cause&#x02010;specific survival in a series of 180 patients with non&#x02010;gastric MALT lymphoma but had not yet been associated with HT (Zucca <italic>et&#x000a0;al</italic>, <xref rid="bjh15953-bib-0039" ref-type="ref">2003</xref>). In addition, bone marrow infiltration at any point was significantly more common in patients with HT (17% vs. 2%, <italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0&#x000b7;029). However, due to the fact that the rate of bone marrow infiltration is below 3% in our collective (see Table&#x000a0;<xref rid="bjh15953-tbl-0001" ref-type="table">1</xref>) and that there are currently no therapeutic consequences as has been shown for gastric MALT lymphoma in particular (Choi <italic>et&#x000a0;al</italic>, <xref rid="bjh15953-bib-0009" ref-type="ref">2018</xref>), we do not recommend bone marrow biopsy on a routine basis.</p><p>One focus of our analysis was PCR&#x02010;based clonality analysis in patients developing DLBCL to assess the rate of &#x0201c;true&#x0201d; HT as opposed to the development of a clonally unrelated secondary lymphoma due to potential similar risk factors, such as <italic>H. pylori</italic>&#x02010;infection. Based on recent high&#x02010;resolution genomic profiling of 28 GI&#x02010;MALT lymphomas (small cell/small cell but with large cell areas/large cell morphology), it appears that in MZL genomic complexity evolves over time, and gains of specific proto&#x02010;oncogenes including <italic>REL</italic>,<italic> BCL11A</italic>,<italic> ETS1</italic>,<italic> PTPN1</italic>,<italic> PTEN</italic> and <italic>KRAS</italic> are exclusively found in large cell variants, suggesting these to be involved in a distinct transformation process, while other aberrations are found in all three groups, underlining a clonally&#x02010;related origin of lymphoma (Barth <italic>et&#x000a0;al</italic>, <xref rid="bjh15953-bib-0004" ref-type="ref">2001</xref>; Flossbach <italic>et&#x000a0;al</italic>, <xref rid="bjh15953-bib-0017" ref-type="ref">2013</xref>). Furthermore, it has been shown that the copy numbers/status of several genes does change over time and that they are particularly diverse in MALT lymphomas also showing areas of large cells, potentially indicating a selection of sub&#x02010;clones over time.</p><p>To determine if two lymphomas evolving at different timepoints are clonally related, a PCR&#x02010;based fragment analysis of <italic>IGH</italic> and <italic>IGK</italic> gene rearrangements is usually performed. By means of this approach, we could clearly demonstrate that there was a straight clonal relationship of indolent MALT lymphoma and aggressive lymphoma in 8 of 11 patients, thus confirming HT and an evolutional, clonal process from MALT lymphoma. Interestingly, all patients presenting with an identical clone developed HT within 30&#x000a0;months after diagnosis of MALT lymphoma. In contrast, lymphomas showing different rearrangements occurred noticeably later and up to 200&#x000a0;months after diagnosis. These findings suggest that classical HT might constitute a relatively early event in the course of the disease as opposed to former case series, suggesting a time span of more than a decade between these events (Yoshino <italic>et&#x000a0;al</italic>, <xref rid="bjh15953-bib-0038" ref-type="ref">2000</xref>), which may more likely represent a secondary independent DLBCL development. A potential pitfall in our PCR&#x02010;based approach may be the limitation of the method with regard to potential somatic hypermutation because only large insertions or deletions, but no subtle differences such as single point mutations, will be detected by this method. Intraclonal sequence variation characterizing ongoing mutation is a feature of normal germinal centre derived B&#x02010;cells and is also a typical feature of several B&#x02010;cell lymphomas, especially FL and some DLBCL (Klein <italic>et&#x000a0;al</italic>, <xref rid="bjh15953-bib-0022" ref-type="ref">1998</xref>; Lossos <italic>et&#x000a0;al</italic>, <xref rid="bjh15953-bib-0023" ref-type="ref">2000</xref>). Ongoing mutation (although to a comparatively low level) has also been shown to be a feature of MALT lymphoma driven by antigen&#x02010;stimulation (Du <italic>et&#x000a0;al</italic>, <xref rid="bjh15953-bib-0015" ref-type="ref">1996</xref>). Conceivably, it cannot be ruled out that the lymphomas showing different clonal rearrangements in our series may still be ontogenetically related, and are composed of different clones with a common origin, as has been demonstrated by sequence analysis in a series of various relapsed lymphomas (Geurts&#x02010;Giele <italic>et&#x000a0;al</italic>, <xref rid="bjh15953-bib-0018" ref-type="ref">2013</xref>). Furthermore, it cannot completely be ruled out that a relapsed, apparently differently rearranged lymphoma may be the result of a dominant proliferation of a subclone of the primary lymphoma, as has been described in FL (Aarts <italic>et&#x000a0;al</italic>, <xref rid="bjh15953-bib-0001" ref-type="ref">2001</xref>).</p><p>In terms of clinical outcome, overall prognosis after HT and development of DLBCL, respectively, was poor with six of 12 patients dying lymphoma&#x02010;related at 1&#x000b7;5&#x02013;33&#x000a0;months following documentation of aggressive lymphoma. All patients were scheduled to receive salvage chemotherapy; but one patient did not start treatment due to rapid progression and subsequent death. Consequently, we have to conclude that despite the fact that anthracycline&#x02010;based chemotherapy is the standard of care in this situation, it does not appear to be sufficiently effective. However, it must be highlighted that patients with gastric HT, i.e. clonally&#x02010;related DLBCL, and no signs of further extranodal involvement had a better prognosis, again underlining the concept of &#x0201c;large&#x02010;cell&#x0201d; GI&#x02010;MZL. Also, the idea of only selected sub&#x02010;clones developing HT is encouraged by three patients with gastric MALT lymphoma who achieved complete response of the high&#x02010;grade component following anthracycline&#x02010;based treatment but presenting with a residual and clinically typical MALT lymphoma remnant that had not been detected before. The additional use of DNA&#x02010;sequencing methods might provide more information in terms of defining genetic events and evolution of sub&#x02010;clones, but is difficult due to the lack of sufficient tissues in most cases of MALT lymphoma.</p><p>With the caveats of the retrospective nature of this analysis, we present data from the so far largest collective of MALT lymphoma patients evaluated in a single centre setting. The clonality analyses performed in primary MALT and aggressive lymphomas underline the direct clonal relationship in most cases and consequently support the notion of direct transformation in a small percentage of patients with MALT lymphoma.</p></sec><sec id="bjh15953-sec-0012"><title>Author contributions</title><p>Conception and design of the study: BK, MR, ISK; Performed research: BK, WL, AIS, CK, GB, ISK, MR; Patient management/data acquisition: BK, WL, WD, JL, MEM, MR; Performed data analysis: BK, WL, WD, JL, MEM, MW, AIS, CK, GB, ISK, MR; Wrote manuscript: BK, ISK, MR; Approved final manuscript: BK, WL, WD, JL, MEM, MW, AIS, CK, GB, ISK, MR.</p></sec><sec id="bjh15953-sec-0013"><title>Disclosures</title><p>The authors have declared no conflicts of interest.</p></sec></body><back><ref-list content-type="cited-references" id="bjh15953-bibl-0001"><title>References</title><ref id="bjh15953-bib-0001"><mixed-citation publication-type="journal" id="bjh15953-cit-0001">
+<string-name>
+<surname>Aarts</surname>, <given-names>W.M.</given-names>
+</string-name>, <string-name>
+<surname>Bende</surname>, <given-names>R.J.</given-names>
+</string-name>, <string-name>
+<surname>Bossenbroek</surname>, <given-names>J.G.</given-names>
+</string-name>, <string-name>
+<surname>Pals</surname>, <given-names>S.T.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>van Noesel</surname>, <given-names>C.J.</given-names>
+</string-name> (<year>2001</year>) <article-title>Variable heavy&#x02010;chain gene analysis of follicular lymphomas: subclone selection rather than clonal evolution over time</article-title>. <source xml:lang="en">Blood</source>, <volume>98</volume>, <fpage>238</fpage>&#x02013;<lpage>240</lpage>.<pub-id pub-id-type="pmid">11418487</pub-id></mixed-citation></ref><ref id="bjh15953-bib-0002"><mixed-citation publication-type="journal" id="bjh15953-cit-0002">
+<string-name>
+<surname>Ang</surname>, <given-names>M.K.</given-names>
+</string-name>, <string-name>
+<surname>Hee</surname>, <given-names>S.W.</given-names>
+</string-name>, <string-name>
+<surname>Quek</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Yap</surname>, <given-names>S.P.</given-names>
+</string-name>, <string-name>
+<surname>Loong</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Tan</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Tao</surname>, <given-names>M.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Lim</surname>, <given-names>S.T.</given-names>
+</string-name> (<year>2009</year>) <article-title>Presence of a high&#x02010;grade component in gastric mucosa&#x02010;associated lymphoid tissue (MALT) lymphoma is not associated with an adverse prognosis</article-title>. <source xml:lang="en">Annals of Hematology</source>, <volume>88</volume>, <fpage>417</fpage>&#x02013;<lpage>424</lpage>.<pub-id pub-id-type="pmid">18777110</pub-id></mixed-citation></ref><ref id="bjh15953-bib-0003"><mixed-citation publication-type="journal" id="bjh15953-cit-0003">
+<string-name>
+<surname>Bacon</surname>, <given-names>C.M.</given-names>
+</string-name>, <string-name>
+<surname>Du</surname>, <given-names>M.Q.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Dogan</surname>, <given-names>A.</given-names>
+</string-name> (<year>2007</year>) <article-title>Mucosa&#x02010;associated lymphoid tissue (MALT) lymphoma: a practical guide for pathologists</article-title>. <source xml:lang="en">Journal of Clinical Pathology</source>, <volume>60</volume>, <fpage>361</fpage>&#x02013;<lpage>372</lpage>.<pub-id pub-id-type="pmid">16950858</pub-id></mixed-citation></ref><ref id="bjh15953-bib-0004"><mixed-citation publication-type="journal" id="bjh15953-cit-0004">
+<string-name>
+<surname>Barth</surname>, <given-names>T.F.</given-names>
+</string-name>, <string-name>
+<surname>Bentz</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Leithauser</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Stilgenbauer</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Siebert</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Schlotter</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Schlenk</surname>, <given-names>R.F.</given-names>
+</string-name>, <string-name>
+<surname>Dohner</surname>, <given-names>H.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Moller</surname>, <given-names>P.</given-names>
+</string-name> (<year>2001</year>) <article-title>Molecular&#x02010;cytogenetic comparison of mucosa&#x02010;associated marginal zone B&#x02010;cell lymphoma and large B&#x02010;cell lymphoma arising in the gastro&#x02010;intestinal tract</article-title>. <source xml:lang="en">Genes Chromosomes Cancer</source>, <volume>31</volume>, <fpage>316</fpage>&#x02013;<lpage>325</lpage>.<pub-id pub-id-type="pmid">11433522</pub-id></mixed-citation></ref><ref id="bjh15953-bib-0005"><mixed-citation publication-type="journal" id="bjh15953-cit-0005">
+<string-name>
+<surname>Barth</surname>, <given-names>T.F.E.</given-names>
+</string-name>, <string-name>
+<surname>Kraus</surname>, <given-names>J.M.</given-names>
+</string-name>, <string-name>
+<surname>Lausser</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Flossbach</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Schulte</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Holzmann</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Kestler</surname>, <given-names>H.A.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Moller</surname>, <given-names>P.</given-names>
+</string-name> (<year>2017</year>) <article-title>Comparative gene&#x02010;expression profiling of the large cell variant of gastrointestinal marginal&#x02010;zone B&#x02010;cell lymphoma</article-title>. <source xml:lang="en">Scientific Reports</source>, <volume>7</volume>, <fpage>5963</fpage>.<pub-id pub-id-type="pmid">28729720</pub-id></mixed-citation></ref><ref id="bjh15953-bib-0006"><mixed-citation publication-type="journal" id="bjh15953-cit-0006">
+<string-name>
+<surname>Bertoni</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Rossi</surname>, <given-names>D.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Zucca</surname>, <given-names>E.</given-names>
+</string-name> (<year>2018</year>) <article-title>Recent advances in understanding the biology of marginal zone lymphoma</article-title>. <source xml:lang="en">F1000Res</source>, <volume>7</volume>, <fpage>406</fpage>.<pub-id pub-id-type="pmid">29657712</pub-id></mixed-citation></ref><ref id="bjh15953-bib-0007"><mixed-citation publication-type="journal" id="bjh15953-cit-0007">
+<string-name>
+<surname>Carlotti</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Wrench</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Matthews</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Iqbal</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Davies</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Norton</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Hart</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Lai</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Montoto</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Gribben</surname>, <given-names>J.G.</given-names>
+</string-name>, <string-name>
+<surname>Lister</surname>, <given-names>T.A.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Fitzgibbon</surname>, <given-names>J.</given-names>
+</string-name> (<year>2009</year>) <article-title>Transformation of follicular lymphoma to diffuse large B&#x02010;cell lymphoma may occur by divergent evolution from a common progenitor cell or by direct evolution from the follicular lymphoma clone</article-title>. <source xml:lang="en">Blood</source>, <volume>113</volume>, <fpage>3553</fpage>&#x02013;<lpage>3557</lpage>.<pub-id pub-id-type="pmid">19202129</pub-id></mixed-citation></ref><ref id="bjh15953-bib-0008"><mixed-citation publication-type="journal" id="bjh15953-cit-0008">
+<string-name>
+<surname>Chan</surname>, <given-names>J.K.</given-names>
+</string-name>, <string-name>
+<surname>Ng</surname>, <given-names>C.S.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Isaacson</surname>, <given-names>P.G.</given-names>
+</string-name> (<year>1990</year>) <article-title>Relationship between high&#x02010;grade lymphoma and low&#x02010;grade B&#x02010;cell mucosa&#x02010;associated lymphoid tissue lymphoma (MALToma) of the stomach</article-title>. <source xml:lang="en">American Journal of Pathology</source>, <volume>136</volume>, <fpage>1153</fpage>&#x02013;<lpage>1164</lpage>.<pub-id pub-id-type="pmid">2349966</pub-id></mixed-citation></ref><ref id="bjh15953-bib-0009"><mixed-citation publication-type="journal" id="bjh15953-cit-0009">
+<string-name>
+<surname>Choi</surname>, <given-names>S.I.</given-names>
+</string-name>, <string-name>
+<surname>Kook</surname>, <given-names>M.C.</given-names>
+</string-name>, <string-name>
+<surname>Hwang</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>, <given-names>Y.I.</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>, <given-names>J.Y.</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>, <given-names>C.G.</given-names>
+</string-name>, <string-name>
+<surname>Choi</surname>, <given-names>I.J.</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Eom</surname>, <given-names>H.S.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Cho</surname>, <given-names>S.J.</given-names>
+</string-name> (<year>2018</year>) <article-title>Prevalence and implications of bone marrow involvement in patients with gastric mucosa&#x02010;associated lymphoid tissue lymphoma</article-title>. <source xml:lang="en">Gut Liver</source>, <volume>12</volume>, <fpage>278</fpage>&#x02013;<lpage>287</lpage>.<pub-id pub-id-type="pmid">29409307</pub-id></mixed-citation></ref><ref id="bjh15953-bib-0010"><mixed-citation publication-type="journal" id="bjh15953-cit-0010">
+<string-name>
+<surname>Conconi</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Franceschetti</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Aprile von Hohenstaufen</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Margiotta&#x02010;Casaluci</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Stathis</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Moccia</surname>, <given-names>A.A.</given-names>
+</string-name>, <string-name>
+<surname>Bertoni</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Ramponi</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Mazzucchelli</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Cavalli</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Gaidano</surname>, <given-names>G.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Zucca</surname>, <given-names>E.</given-names>
+</string-name> (<year>2015</year>) <article-title>Histologic transformation in marginal zone lymphomasdagger</article-title>. <source xml:lang="en">Annals of Oncology</source>, <volume>26</volume>, <fpage>2329</fpage>&#x02013;<lpage>2335</lpage>.<pub-id pub-id-type="pmid">26400898</pub-id></mixed-citation></ref><ref id="bjh15953-bib-0011"><mixed-citation publication-type="book" id="bjh15953-cit-0011">
+<string-name>
+<surname>Cook</surname>, <given-names>J.R.</given-names>
+</string-name>, <string-name>
+<surname>Isaacson</surname>, <given-names>P.G.</given-names>
+</string-name>, <string-name>
+<surname>Chott</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Nakamura</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>M&#x000fc;ller&#x02010;Hermelink</surname>, <given-names>H.K.</given-names>
+</string-name>, <string-name>
+<surname>Harris</surname>, <given-names>N.L.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Swerdlow</surname>, <given-names>S.H.</given-names>
+</string-name> (<year>2017</year>) <chapter-title>Extranodal marginal zone lymphoma of mucosa&#x02010;associated lymphoid tissue (MALT lymphoma)</chapter-title> In: <source xml:lang="en">WHO Classification of Tumours of Haematopoietic and Lymphoid Tissues</source> (Revised <edition>4th edn</edition>, ed. by <person-group person-group-type="editor"><name><surname>Swerdlow</surname><given-names>S.H.</given-names></name></person-group>, <person-group person-group-type="editor"><name><surname>Campo</surname><given-names>E.</given-names></name></person-group>, <person-group person-group-type="editor"><name><surname>Harris</surname><given-names>N.L.</given-names></name></person-group>, <person-group person-group-type="editor"><name><surname>Jaffe</surname><given-names>E.S.</given-names></name></person-group>, <person-group person-group-type="editor"><name><surname>Pileri</surname><given-names>S.A.</given-names></name></person-group>, <person-group person-group-type="editor"><name><surname>Stein</surname><given-names>H.</given-names></name></person-group> &#x00026; <person-group person-group-type="editor"><name><surname>Thiele</surname><given-names>J.</given-names></name></person-group>), pp. <fpage>259</fpage>&#x02013;<lpage>262</lpage>. <publisher-name>IARC</publisher-name>, <publisher-loc>Lyon, France</publisher-loc>.</mixed-citation></ref><ref id="bjh15953-bib-0012"><mixed-citation publication-type="journal" id="bjh15953-cit-0012">
+<string-name>
+<surname>Copie&#x02010;Bergman</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Wotherspoon</surname>, <given-names>A.C.</given-names>
+</string-name>, <string-name>
+<surname>Capella</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Motta</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Pedrinis</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Pileri</surname>, <given-names>S.A.</given-names>
+</string-name>, <string-name>
+<surname>Bertoni</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Conconi</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Zucca</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Ponzoni</surname>, <given-names>M.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Ferreri</surname>, <given-names>A.J.</given-names>
+</string-name> (<year>2013</year>) <article-title>Gela histological scoring system for post&#x02010;treatment biopsies of patients with gastric MALT lymphoma is feasible and reliable in routine practice</article-title>. <source xml:lang="en">British Journal of Haematology</source>, <volume>160</volume>, <fpage>47</fpage>&#x02013;<lpage>52</lpage>.<pub-id pub-id-type="pmid">23043300</pub-id></mixed-citation></ref><ref id="bjh15953-bib-0013"><mixed-citation publication-type="journal" id="bjh15953-cit-0013">
+<string-name>
+<surname>van Dongen</surname>, <given-names>J.J.</given-names>
+</string-name>, <string-name>
+<surname>Langerak</surname>, <given-names>A.W.</given-names>
+</string-name>, <string-name>
+<surname>Bruggemann</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Evans</surname>, <given-names>P.A.</given-names>
+</string-name>, <string-name>
+<surname>Hummel</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Lavender</surname>, <given-names>F.L.</given-names>
+</string-name>, <string-name>
+<surname>Delabesse</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Davi</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Schuuring</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Garcia&#x02010;Sanz</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>van Krieken</surname>, <given-names>J.H.</given-names>
+</string-name>, <string-name>
+<surname>Droese</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Gonzalez</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Bastard</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>White</surname>, <given-names>H.E.</given-names>
+</string-name>, <string-name>
+<surname>Spaargaren</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Gonzalez</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Parreira</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>, <given-names>J.L.</given-names>
+</string-name>, <string-name>
+<surname>Morgan</surname>, <given-names>G.J.</given-names>
+</string-name>, <string-name>
+<surname>Kneba</surname>, <given-names>M.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Macintyre</surname>, <given-names>E.A.</given-names>
+</string-name> (<year>2003</year>) <article-title>Design and standardization of PCR primers and protocols for detection of clonal immunoglobulin and T&#x02010;cell receptor gene recombinations in suspect lymphoproliferations: report of the BIOMED&#x02010;2 Concerted Action BMH4&#x02010;CT98&#x02010;3936</article-title>. <source xml:lang="en">Leukemia</source>, <volume>17</volume>, <fpage>2257</fpage>&#x02013;<lpage>2317</lpage>.<pub-id pub-id-type="pmid">14671650</pub-id></mixed-citation></ref><ref id="bjh15953-bib-0014"><mixed-citation publication-type="journal" id="bjh15953-cit-0014">
+<string-name>
+<surname>Du</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Peng</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Singh</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Isaacson</surname>, <given-names>P.G.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Pan</surname>, <given-names>L.</given-names>
+</string-name> (<year>1995</year>) <article-title>The accumulation of p53 abnormalities is associated with progression of mucosa&#x02010;associated lymphoid tissue lymphoma</article-title>. <source xml:lang="en">Blood</source>, <volume>86</volume>, <fpage>4587</fpage>&#x02013;<lpage>4593</lpage>.<pub-id pub-id-type="pmid">8541549</pub-id></mixed-citation></ref><ref id="bjh15953-bib-0015"><mixed-citation publication-type="journal" id="bjh15953-cit-0015">
+<string-name>
+<surname>Du</surname>, <given-names>M.Q.</given-names>
+</string-name>, <string-name>
+<surname>Diss</surname>, <given-names>T.C.</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Peng</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Isaacson</surname>, <given-names>P.G.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Pan</surname>, <given-names>L.</given-names>
+</string-name> (<year>1996</year>) <article-title>Ongoing mutation in MALT lymphoma immunoglobulin gene suggests that antigen stimulation plays a role in the clonal expansion</article-title>. <source xml:lang="en">Leukemia</source>, <volume>10</volume>, <fpage>1190</fpage>&#x02013;<lpage>1197</lpage>.<pub-id pub-id-type="pmid">8684001</pub-id></mixed-citation></ref><ref id="bjh15953-bib-0016"><mixed-citation publication-type="journal" id="bjh15953-cit-0016">
+<string-name>
+<surname>Ferreri</surname>, <given-names>A.J.</given-names>
+</string-name>, <string-name>
+<surname>Govi</surname>, <given-names>S.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Ponzoni</surname>, <given-names>M.</given-names>
+</string-name> (<year>2013</year>) <article-title>The role of <italic>Helicobacter pylori</italic> eradication in the treatment of diffuse large B&#x02010;cell and marginal zone lymphomas of the stomach</article-title>. <source xml:lang="en">Current Opinion in Oncology</source>, <volume>25</volume>, <fpage>470</fpage>&#x02013;<lpage>479</lpage>.<pub-id pub-id-type="pmid">23942292</pub-id></mixed-citation></ref><ref id="bjh15953-bib-0017"><mixed-citation publication-type="journal" id="bjh15953-cit-0017">
+<string-name>
+<surname>Flossbach</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Holzmann</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Mattfeldt</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Buck</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Lanz</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Held</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Moller</surname>, <given-names>P.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Barth</surname>, <given-names>T.F.</given-names>
+</string-name> (<year>2013</year>) <article-title>High&#x02010;resolution genomic profiling reveals clonal evolution and competition in gastrointestinal marginal zone B&#x02010;cell lymphoma and its large cell variant</article-title>. <source xml:lang="en">International Journal of Cancer</source>, <volume>132</volume>, <fpage>E116</fpage>&#x02013;<lpage>E127</lpage>.<pub-id pub-id-type="pmid">22890838</pub-id></mixed-citation></ref><ref id="bjh15953-bib-0018"><mixed-citation publication-type="journal" id="bjh15953-cit-0018">
+<string-name>
+<surname>Geurts&#x02010;Giele</surname>, <given-names>W.R.</given-names>
+</string-name>, <string-name>
+<surname>Wolvers&#x02010;Tettero</surname>, <given-names>I.L.</given-names>
+</string-name>, <string-name>
+<surname>Dinjens</surname>, <given-names>W.N.</given-names>
+</string-name>, <string-name>
+<surname>Lam</surname>, <given-names>K.H.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Langerak</surname>, <given-names>A.W.</given-names>
+</string-name> (<year>2013</year>) <article-title>Successive B&#x02010;cell lymphomas mostly reflect recurrences rather than unrelated primary lymphomas</article-title>. <source xml:lang="en">American Journal of Clinical Pathology</source>, <volume>140</volume>, <fpage>114</fpage>&#x02013;<lpage>126</lpage>.<pub-id pub-id-type="pmid">23765542</pub-id></mixed-citation></ref><ref id="bjh15953-bib-0019"><mixed-citation publication-type="book" id="bjh15953-cit-0019">
+<string-name>
+<surname>Jaffe</surname>, <given-names>E.S.</given-names>
+</string-name>, <string-name>
+<surname>Campo</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Harris</surname>, <given-names>N.L.</given-names>
+</string-name>, <string-name>
+<surname>Pileri</surname>, <given-names>S.A.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Swerdlow</surname>, <given-names>S.H.</given-names>
+</string-name> (<year>2017</year>) <chapter-title>Introduction and overview of the classification of the lymphoid neoplasms</chapter-title> In: <source xml:lang="en">WHO Classification of Tumours of Haematopoietic and Lymphoid Tissues</source> (Revised <edition>4th edn</edition>, ed. by <person-group person-group-type="editor"><name><surname>Swerdlow</surname><given-names>S.H.</given-names></name></person-group>, <person-group person-group-type="editor"><name><surname>Campo</surname><given-names>E.</given-names></name></person-group>, <person-group person-group-type="editor"><name><surname>Harris</surname><given-names>N.L.</given-names></name></person-group>, <person-group person-group-type="editor"><name><surname>Jaffe</surname><given-names>E.S.</given-names></name></person-group>, <person-group person-group-type="editor"><name><surname>Pileri</surname><given-names>S.A.</given-names></name></person-group>, <person-group person-group-type="editor"><name><surname>Stein</surname><given-names>H.</given-names></name></person-group> &#x00026; <person-group person-group-type="editor"><name><surname>Thiele</surname><given-names>J.</given-names></name></person-group>), pp. <fpage>190</fpage>&#x02013;<lpage>198</lpage>. <publisher-name>IARC</publisher-name>, <publisher-loc>Lyon, France</publisher-loc>.</mixed-citation></ref><ref id="bjh15953-bib-0020"><mixed-citation publication-type="journal" id="bjh15953-cit-0020">
+<string-name>
+<surname>Kanda</surname>, <given-names>Y.</given-names>
+</string-name> (<year>2013</year>) <article-title>Investigation of the freely available easy&#x02010;to&#x02010;use software &#x02018;EZR&#x02019; for medical statistics</article-title>. <source xml:lang="en">Bone Marrow Transplantation</source>, <volume>48</volume>, <fpage>452</fpage>&#x02013;<lpage>458</lpage>.<pub-id pub-id-type="pmid">23208313</pub-id></mixed-citation></ref><ref id="bjh15953-bib-0021"><mixed-citation publication-type="journal" id="bjh15953-cit-0021">
+<string-name>
+<surname>Kiesewetter</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Ferreri</surname>, <given-names>A.J.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Raderer</surname>, <given-names>M.</given-names>
+</string-name> (<year>2015</year>) <article-title>Chemoimmunotherapy for mucosa&#x02010;associated lymphoid tissue&#x02010;type lymphoma: a review of the literature</article-title>. <source xml:lang="en">Oncologist</source>, <volume>20</volume>, <fpage>915</fpage>&#x02013;<lpage>925</lpage>.<pub-id pub-id-type="pmid">26156327</pub-id></mixed-citation></ref><ref id="bjh15953-bib-0022"><mixed-citation publication-type="journal" id="bjh15953-cit-0022">
+<string-name>
+<surname>Klein</surname>, <given-names>U.</given-names>
+</string-name>, <string-name>
+<surname>Goossens</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Fischer</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Kanzler</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Braeuninger</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Rajewsky</surname>, <given-names>K.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>K&#x000fc;ppers</surname>, <given-names>R.</given-names>
+</string-name> (<year>1998</year>) <article-title>Somatic hypermutation in normal and transformed human B cells</article-title>. <source xml:lang="en">Immunological Reviews</source>, <volume>162</volume>, <fpage>261</fpage>&#x02013;<lpage>280</lpage>.<pub-id pub-id-type="pmid">9602370</pub-id></mixed-citation></ref><ref id="bjh15953-bib-0023"><mixed-citation publication-type="journal" id="bjh15953-cit-0023">
+<string-name>
+<surname>Lossos</surname>, <given-names>I.S.</given-names>
+</string-name>, <string-name>
+<surname>Alizadeh</surname>, <given-names>A.A.</given-names>
+</string-name>, <string-name>
+<surname>Eisen</surname>, <given-names>M.B.</given-names>
+</string-name>, <string-name>
+<surname>Chan</surname>, <given-names>W.C.</given-names>
+</string-name>, <string-name>
+<surname>Brown</surname>, <given-names>P.O.</given-names>
+</string-name>, <string-name>
+<surname>Botstein</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Staudt</surname>, <given-names>L.M.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Levy</surname>, <given-names>R.</given-names>
+</string-name> (<year>2000</year>) <article-title>Ongoing immunoglobulin somatic mutation in germinal center B cell&#x02010;like but not in activated B cell&#x02010;like diffuse large cell lymphomas</article-title>. <source xml:lang="en">Proceedings of the National Academy of Sciences of the United States of America</source>, <volume>97</volume>, <fpage>10209</fpage>&#x02013;<lpage>10213</lpage>.<pub-id pub-id-type="pmid">10954754</pub-id></mixed-citation></ref><ref id="bjh15953-bib-0024"><mixed-citation publication-type="journal" id="bjh15953-cit-0024">
+<string-name>
+<surname>Maeshima</surname>, <given-names>A.M.</given-names>
+</string-name>, <string-name>
+<surname>Taniguchi</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Toyoda</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Yamauchi</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Makita</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Fukuhara</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Munakata</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Maruyama</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Kobayashi</surname>, <given-names>Y.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Tobinai</surname>, <given-names>K.</given-names>
+</string-name> (<year>2016</year>) <article-title>Clinicopathological features of histological transformation from extranodal marginal zone B&#x02010;cell lymphoma of mucosa&#x02010;associated lymphoid tissue to diffuse large B&#x02010;cell lymphoma: an analysis of 467 patients</article-title>. <source xml:lang="en">British Journal of Haematology</source>, <volume>174</volume>, <fpage>923</fpage>&#x02013;<lpage>931</lpage>.<pub-id pub-id-type="pmid">27460179</pub-id></mixed-citation></ref><ref id="bjh15953-bib-0025"><mixed-citation publication-type="journal" id="bjh15953-cit-0025">
+<string-name>
+<surname>Meyer</surname>, <given-names>A.H.</given-names>
+</string-name>, <string-name>
+<surname>Stroux</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Lerch</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Eucker</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Eitle</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Hohloch</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Andrzejak</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Possinger</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Dorken</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Pezzutto</surname>, <given-names>A.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Scholz</surname>, <given-names>C.W.</given-names>
+</string-name> (<year>2014</year>) <article-title>Transformation and additional malignancies are leading risk factors for an adverse course of disease in marginal zone lymphoma</article-title>. <source xml:lang="en">Annals of Oncology</source>, <volume>25</volume>, <fpage>210</fpage>&#x02013;<lpage>215</lpage>.<pub-id pub-id-type="pmid">24356632</pub-id></mixed-citation></ref><ref id="bjh15953-bib-0026"><mixed-citation publication-type="journal" id="bjh15953-cit-0026">
+<string-name>
+<surname>Mitterbauer&#x02010;Hohendanner</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Mannhalter</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Winkler</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Mitterbauer</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Skrabs</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Chott</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Simonitsch&#x02010;Klupp</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Gleiss</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Lechner</surname>, <given-names>K.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Jaeger</surname>, <given-names>U.</given-names>
+</string-name> (<year>2004</year>) <article-title>Prognostic significance of molecular staging by PCR&#x02010;amplification of immunoglobulin gene rearrangements in diffuse large B&#x02010;cell lymphoma (DLBCL)</article-title>. <source xml:lang="en">Leukemia</source>, <volume>18</volume>, <fpage>1102</fpage>&#x02013;<lpage>1107</lpage>.<pub-id pub-id-type="pmid">15085149</pub-id></mixed-citation></ref><ref id="bjh15953-bib-0027"><mixed-citation publication-type="journal" id="bjh15953-cit-0027">
+<string-name>
+<surname>Montoto</surname>, <given-names>S.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Fitzgibbon</surname>, <given-names>J.</given-names>
+</string-name> (<year>2011</year>) <article-title>Transformation of indolent B&#x02010;cell lymphomas</article-title>. <source xml:lang="en">Journal of Clinical Oncology</source>, <volume>29</volume>, <fpage>1827</fpage>&#x02013;<lpage>1834</lpage>.<pub-id pub-id-type="pmid">21483014</pub-id></mixed-citation></ref><ref id="bjh15953-bib-0028"><mixed-citation publication-type="journal" id="bjh15953-cit-0028">
+<string-name>
+<surname>Montoto</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Davies</surname>, <given-names>A.J.</given-names>
+</string-name>, <string-name>
+<surname>Matthews</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Calaminici</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Norton</surname>, <given-names>A.J.</given-names>
+</string-name>, <string-name>
+<surname>Amess</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Vinnicombe</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Waters</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Rohatiner</surname>, <given-names>A.Z.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Lister</surname>, <given-names>T.A.</given-names>
+</string-name> (<year>2007</year>) <article-title>Risk and clinical implications of transformation of follicular lymphoma to diffuse large B&#x02010;cell lymphoma</article-title>. <source xml:lang="en">Journal of Clinical Oncology</source>, <volume>25</volume>, <fpage>2426</fpage>&#x02013;<lpage>2433</lpage>.<pub-id pub-id-type="pmid">17485708</pub-id></mixed-citation></ref><ref id="bjh15953-bib-0029"><mixed-citation publication-type="journal" id="bjh15953-cit-0029">
+<string-name>
+<surname>Neumeister</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Hoefler</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Beham&#x02010;Schmid</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Schmidt</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Apfelbeck</surname>, <given-names>U.</given-names>
+</string-name>, <string-name>
+<surname>Schaider</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Linkesch</surname>, <given-names>W.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Sill</surname>, <given-names>H.</given-names>
+</string-name> (<year>1997</year>) <article-title>Deletion analysis of the p16 tumor suppressor gene in gastrointestinal mucosa&#x02010;associated lymphoid tissue lymphomas</article-title>. <source xml:lang="en">Gastroenterology</source>, <volume>112</volume>, <fpage>1871</fpage>&#x02013;<lpage>1875</lpage>.<pub-id pub-id-type="pmid">9178679</pub-id></mixed-citation></ref><ref id="bjh15953-bib-0030"><mixed-citation publication-type="journal" id="bjh15953-cit-0030">
+<string-name>
+<surname>Olszewski</surname>, <given-names>A.J.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Castillo</surname>, <given-names>J.J.</given-names>
+</string-name> (<year>2013</year>) <article-title>Survival of patients with marginal zone lymphoma: analysis of the Surveillance, Epidemiology, and End Results database</article-title>. <source xml:lang="en">Cancer</source>, <volume>119</volume>, <fpage>629</fpage>&#x02013;<lpage>638</lpage>.<pub-id pub-id-type="pmid">22893605</pub-id></mixed-citation></ref><ref id="bjh15953-bib-0031"><mixed-citation publication-type="journal" id="bjh15953-cit-0031">
+<string-name>
+<surname>Raderer</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Streubel</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Troch</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Turetschek</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>J&#x000e4;ger</surname>, <given-names>U.</given-names>
+</string-name>, <string-name>
+<surname>Skrabs</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Gaiger</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Drach</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Puespoek</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Formanek</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Hoffmann</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Hauff</surname>, <given-names>W.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Chott</surname>, <given-names>A.</given-names>
+</string-name> (<year>2006</year>) <article-title>Assessment of disease dissemination in gastric compared with extragastric mucosa&#x02010;associated lymphoid tissue lymphoma using extensive staging: a single&#x02010;center experience</article-title>. <source xml:lang="en">Journal of Clinical Oncology</source>, <volume>24</volume>, <fpage>3136</fpage>&#x02013;<lpage>3141</lpage>.<pub-id pub-id-type="pmid">16769982</pub-id></mixed-citation></ref><ref id="bjh15953-bib-0032"><mixed-citation publication-type="journal" id="bjh15953-cit-0032">
+<string-name>
+<surname>Raderer</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Kiesewetter</surname>, <given-names>B.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Ferreri</surname>, <given-names>A.J.</given-names>
+</string-name> (<year>2016</year>) <article-title>Clinicopathologic characteristics and treatment of marginal zone lymphoma of mucosa&#x02010;associated lymphoid tissue (MALT lymphoma)</article-title>. <source xml:lang="en">CA: A Cancer Journal for Clinicians</source>, <volume>66</volume>, <fpage>153</fpage>&#x02013;<lpage>171</lpage>.<pub-id pub-id-type="pmid">26773441</pub-id></mixed-citation></ref><ref id="bjh15953-bib-0033"><mixed-citation publication-type="journal" id="bjh15953-cit-0033">
+<string-name>
+<surname>Salar</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Domingo&#x02010;Domenech</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Panizo</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Nicolas</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Bargay</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Muntanola</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Canales</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Bello</surname>, <given-names>J.L.</given-names>
+</string-name>, <string-name>
+<surname>Sancho</surname>, <given-names>J.M.</given-names>
+</string-name>, <string-name>
+<surname>Tomas</surname>, <given-names>J.F.</given-names>
+</string-name>, <string-name>
+<surname>Rodriguez</surname>, <given-names>M.J.</given-names>
+</string-name>, <string-name>
+<surname>Penalver</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Grande</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Sanchez&#x02010;Blanco</surname>, <given-names>J.J.</given-names>
+</string-name>, <string-name>
+<surname>Palomera</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Arranz</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Conde</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Garcia</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Garcia</surname>, <given-names>J.F.</given-names>
+</string-name>, <string-name>
+<surname>Caballero</surname>, <given-names>D.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Montalban</surname>, <given-names>C.</given-names>
+</string-name> (<year>2017</year>) <article-title>Long&#x02010;term results of a phase 2 study of rituximab and bendamustine for mucosa&#x02010;associated lymphoid tissue lymphoma</article-title>. <source xml:lang="en">Blood</source>, <volume>130</volume>, <fpage>1772</fpage>&#x02013;<lpage>1774</lpage>.<pub-id pub-id-type="pmid">28801448</pub-id></mixed-citation></ref><ref id="bjh15953-bib-0034"><mixed-citation publication-type="journal" id="bjh15953-cit-0034">
+<string-name>
+<surname>Teckie</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Qi</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Chelius</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Lovie</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Hsu</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Noy</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Portlock</surname>, <given-names>C.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Yahalom</surname>, <given-names>J.</given-names>
+</string-name> (<year>2017</year>) <article-title>Long&#x02010;term outcome of 487 patients with early&#x02010;stage extra&#x02010;nodal marginal zone lymphoma</article-title>. <source xml:lang="en">Annals of Oncology</source>, <volume>28</volume>, <fpage>1064</fpage>&#x02013;<lpage>1069</lpage>.<pub-id pub-id-type="pmid">28327924</pub-id></mixed-citation></ref><ref id="bjh15953-bib-0035"><mixed-citation publication-type="book" id="bjh15953-cit-0035">
+<string-name>
+<surname>Therneau</surname>, <given-names>T.M.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Grambsch</surname>, <given-names>P.M.</given-names>
+</string-name> (<year>2000</year>) <source xml:lang="en">Modeling Survival Data: Extending the Cox Model</source>. <publisher-name>Springer</publisher-name>, <publisher-loc>New York</publisher-loc>.</mixed-citation></ref><ref id="bjh15953-bib-0036"><mixed-citation publication-type="journal" id="bjh15953-cit-0036">
+<string-name>
+<surname>Thieblemont</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Cascione</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Conconi</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Kiesewetter</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Raderer</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Gaidano</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Martelli</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Laszlo</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Coiffier</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Lopez Guillermo</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Torri</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Cavalli</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Johnson</surname>, <given-names>P.W.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Zucca</surname>, <given-names>E.</given-names>
+</string-name> (<year>2017</year>) <article-title>A MALT lymphoma prognostic index</article-title>. <source xml:lang="en">Blood</source>, <volume>130</volume>, <fpage>1409</fpage>&#x02013;<lpage>1417</lpage>.<pub-id pub-id-type="pmid">28720586</pub-id></mixed-citation></ref><ref id="bjh15953-bib-0037"><mixed-citation publication-type="journal" id="bjh15953-cit-0037">
+<string-name>
+<surname>Troppan</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Wenzl</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Neumeister</surname>, <given-names>P.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Deutsch</surname>, <given-names>A.</given-names>
+</string-name> (<year>2015</year>) <article-title>Molecular pathogenesis of MALT lymphoma</article-title>. <source xml:lang="en">Gastroenterology Research and Practice</source>, <volume>2015</volume>, <fpage>102656</fpage>.<pub-id pub-id-type="pmid">25922601</pub-id></mixed-citation></ref><ref id="bjh15953-bib-0038"><mixed-citation publication-type="journal" id="bjh15953-cit-0038">
+<string-name>
+<surname>Yoshino</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Omonishi</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Kobayashi</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Mannami</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Okada</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Mizuno</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Yamadori</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Kondo</surname>, <given-names>E.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Akagi</surname>, <given-names>T.</given-names>
+</string-name> (<year>2000</year>) <article-title>Clinicopathological features of gastric mucosa associated lymphoid tissue (MALT) lymphomas: high grade transformation and comparison with diffuse large B cell lymphomas without MALT lymphoma features</article-title>. <source xml:lang="en">Journal of Clinical Pathology</source>, <volume>53</volume>, <fpage>187</fpage>&#x02013;<lpage>190</lpage>.<pub-id pub-id-type="pmid">10823136</pub-id></mixed-citation></ref><ref id="bjh15953-bib-0039"><mixed-citation publication-type="journal" id="bjh15953-cit-0039">
+<string-name>
+<surname>Zucca</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Conconi</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Pedrinis</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Cortelazzo</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Motta</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Gospodarowicz</surname>, <given-names>M.K.</given-names>
+</string-name>, <string-name>
+<surname>Patterson</surname>, <given-names>B.J.</given-names>
+</string-name>, <string-name>
+<surname>Ferreri</surname>, <given-names>A.J.</given-names>
+</string-name>, <string-name>
+<surname>Ponzoni</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Devizzi</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Giardini</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Pinotti</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Capella</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Zinzani</surname>, <given-names>P.L.</given-names>
+</string-name>, <string-name>
+<surname>Pileri</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Lopez&#x02010;Guillermo</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Campo</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Ambrosetti</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Baldini</surname>, <given-names>L.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Cavalli</surname>, <given-names>F.</given-names>
+</string-name> (<year>2003</year>) <article-title>Nongastric marginal zone B&#x02010;cell lymphoma of mucosa&#x02010;associated lymphoid tissue</article-title>. <source xml:lang="en">Blood</source>, <volume>101</volume>, <fpage>2489</fpage>&#x02013;<lpage>2495</lpage>.<pub-id pub-id-type="pmid">12456507</pub-id></mixed-citation></ref><ref id="bjh15953-bib-0040"><mixed-citation publication-type="journal" id="bjh15953-cit-0040">
+<string-name>
+<surname>Zucca</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Conconi</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Martinelli</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Bouabdallah</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Tucci</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Vitolo</surname>, <given-names>U.</given-names>
+</string-name>, <string-name>
+<surname>Martelli</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Pettengell</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Salles</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Sebban</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Guillermo</surname>, <given-names>A.L.</given-names>
+</string-name>, <string-name>
+<surname>Pinotti</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Devizzi</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Morschhauser</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Tilly</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Torri</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Hohaus</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Ferreri</surname>, <given-names>A.J.M.</given-names>
+</string-name>, <string-name>
+<surname>Zachee</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Bosly</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Haioun</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Stelitano</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Bellei</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Ponzoni</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Moreau</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Jack</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Campo</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Mazzucchelli</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Cavalli</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Johnson</surname>, <given-names>P.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Thieblemont</surname>, <given-names>C.</given-names>
+</string-name> (<year>2017</year>) <article-title>Final results of the IELSG&#x02010;19 randomized trial of mucosa&#x02010;associated lymphoid tissue lymphoma: improved event&#x02010;free and progression&#x02010;free survival with rituximab plus chlorambucil versus either chlorambucil or rituximab monotherapy</article-title>. <source xml:lang="en">Journal of Clinical Oncology</source>, <volume>35</volume>, <fpage>1905</fpage>&#x02013;<lpage>1912</lpage>.<pub-id pub-id-type="pmid">28355112</pub-id></mixed-citation></ref></ref-list></back></article>

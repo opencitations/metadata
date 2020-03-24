@@ -1,0 +1,497 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Bone Res</journal-id><journal-id journal-id-type="iso-abbrev">Bone Res</journal-id><journal-title-group><journal-title>Bone Research</journal-title></journal-title-group><issn pub-type="ppub">2095-4700</issn><issn pub-type="epub">2095-6231</issn><publisher><publisher-name>Nature Publishing Group</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">27722020</article-id><article-id pub-id-type="pmc">5037578</article-id><article-id pub-id-type="pii">boneres201632</article-id><article-id pub-id-type="doi">10.1038/boneres.2016.32</article-id><article-categories><subj-group subj-group-type="heading"><subject>Article</subject></subj-group></article-categories><title-group><article-title>A multiscale 3D finite element analysis of fluid/solute transport in mechanically loaded bone</article-title><alt-title alt-title-type="running">Multiscale modeling of load-induced flows in bone</alt-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Fan</surname><given-names>Lixia</given-names></name><xref ref-type="aff" rid="aff1">1</xref><xref ref-type="aff" rid="aff2">2</xref><xref ref-type="author-notes" rid="note1">*</xref></contrib><contrib contrib-type="author"><name><surname>Pei</surname><given-names>Shaopeng</given-names></name><xref ref-type="aff" rid="aff1">1</xref><xref ref-type="author-notes" rid="note1">*</xref></contrib><contrib contrib-type="author"><name><surname>Lucas Lu</surname><given-names>X</given-names></name><xref ref-type="aff" rid="aff1">1</xref></contrib><contrib contrib-type="author"><name><surname>Wang</surname><given-names>Liyun</given-names></name><xref ref-type="aff" rid="aff1">1</xref><xref ref-type="corresp" rid="caf1">*</xref></contrib><aff id="aff1"><label>1</label>
+<institution>Department of Mechanical Engineering, University of Delaware</institution>, Newark, DE, <country>USA</country>
+</aff><aff id="aff2"><label>2</label>
+<institution>School of Mechanical Engineering, Nanjing University of Science and Technology</institution>, Nanjing, <country>China</country>
+</aff></contrib-group><author-notes><corresp id="caf1"><label>*</label>
+(<email>lywang@udel.edu</email>)</corresp><fn fn-type="present-address" id="note1"><label>*</label><p>The two authors contributed equally to this work.</p></fn></author-notes><pub-date pub-type="epub"><day>27</day><month>09</month><year>2016</year></pub-date><pub-date pub-type="collection"><year>2016</year></pub-date><volume>4</volume><fpage>16032</fpage><lpage/><history><date date-type="received"><day>16</day><month>05</month><year>2016</year></date><date date-type="rev-recd"><day>15</day><month>08</month><year>2016</year></date><date date-type="accepted"><day>21</day><month>08</month><year>2016</year></date></history><permissions><copyright-statement>Copyright &#x000a9; 2016 The Author(s)</copyright-statement><copyright-year>2016</copyright-year><copyright-holder>The Author(s)</copyright-holder><license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/"><!--author-paid--><license-p>This work is licensed under a Creative Commons Attribution 4.0 International License. The images or other third party material in this article are included in the article&#x02019;s Creative Commons license, unless indicated otherwise in the credit line; if the material is not included under the Creative Commons license, users will need to obtain permission from the license holder to reproduce the material. To view a copy of this license, visit <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link></license-p></license></permissions><abstract><p>The transport of fluid, nutrients, and signaling molecules in the bone lacunar&#x02013;canalicular system (LCS) is critical for osteocyte survival and function. We have applied the fluorescence recovery after photobleaching (FRAP) approach to quantify load-induced fluid and solute transport in the LCS <italic>in situ</italic>, but the measurements were limited to cortical regions 30&#x02013;50&#x02009;&#x003bc;m underneath the periosteum due to the constrains of laser penetration. With this work, we aimed to expand our understanding of load-induced fluid and solute transport in both trabecular and cortical bone using a multiscaled image-based finite element analysis (FEA) approach. An intact murine tibia was first re-constructed from microCT images into a three-dimensional (3D) linear elastic FEA model, and the matrix deformations at various locations were calculated under axial loading. A segment of the above 3D model was then imported to the biphasic poroelasticity analysis platform (FEBio) to predict load-induced fluid pressure fields, and interstitial solute/fluid flows through LCS in both cortical and trabecular regions. Further, secondary flow effects such as the shear stress and/or drag force acting on osteocytes, the presumed mechano-sensors in bone, were derived using the previously developed ultrastructural model of Brinkman flow in the canaliculi. The material properties assumed in the FEA models were validated against previously obtained strain and FRAP transport data measured on the cortical cortex. Our results demonstrated the feasibility of this computational approach in estimating the fluid flux in the LCS and the cellular stimulation forces (shear and drag forces) for osteocytes in any cortical and trabecular bone locations, allowing further studies of how the activation of osteocytes correlates with <italic>in vivo</italic> functional bone formation. The study provides a promising platform to reveal potential cellular mechanisms underlying the anabolic power of exercises and physical activities in treating patients with skeletal deficiencies.</p></abstract></article-meta></front><body><sec><title>Introduction</title><p>It is well known that bone tissue is capable of adapting its mass and structure in response to mechanical cues.<sup>
+<xref ref-type="bibr" rid="bib1">1</xref>
+</sup> Although the cellular and molecular mechanisms of how the mechanical environment affects bone tissue are still not well understood, various mechanical parameters including (but not limited to) matrix deformations (strains), interstitial fluid pressure, and fluid flow-induced shear and drag forces have been found to impact bone&#x02019;s responses to mechanical loading at cellular and tissue levels.<sup>
+<xref ref-type="bibr" rid="bib2">2</xref>
+</sup> Quantification of the strains associated with physiological mechanical stimuli in bone has been performed at both tissue and cellular levels.<sup>
+<xref ref-type="bibr" rid="bib3 bib4 bib5">3&#x02013;5</xref>
+</sup> Using strain gages, the tissue-level strains were found to vary from ~600&#x02009;&#x003bc;&#x00190; during the light activity of walking to ~2&#x02009;000&#x02009;&#x003bc;&#x00190; during vigorous activities such as running and jumping.<sup>
+<xref ref-type="bibr" rid="bib3">3</xref>,<xref ref-type="bibr" rid="bib4">4</xref>
+</sup> Strains at the cellular levels have been mapped recently using finite element analysis (FEA) or imaging correlation techniques, and inhomogeneous strains (0.8%&#x02013;3%) were recorded near the lacunar pores.<sup>
+<xref ref-type="bibr" rid="bib5">5</xref>
+</sup> Whether these matrix strains directly excite osteocytes, the presumed mechanical sensors in bone remain debatable. Previous experiments have shown that bone cells were more sensitive to loading-induced fluid flow than matrix strains.<sup>
+<xref ref-type="bibr" rid="bib6">6</xref>,<xref ref-type="bibr" rid="bib7">7</xref>
+</sup> Recent studies strongly suggest that osteocytes, due to their large number and strategic positioning in the bone matrix, have very important roles in bone adaptation and metabolism.<sup>
+<xref ref-type="bibr" rid="bib2">2</xref>,<xref ref-type="bibr" rid="bib8 bib9 bib10">8&#x02013;10</xref>
+</sup> These multi-functioning cells form an extensive and well-connected network that optimizes them for detecting external mechanical stimuli, for example, fluid flow in the canaliculi driven by load-induced matrix deformations. In response, osteocytes release various soluble bioactive factors, which modulate the functions of other bone cells and trigger biological processes such as osteoclastic resorption during overuse and disuse as well as load-induced osteoblastic bone formation.<sup>
+<xref ref-type="bibr" rid="bib11 bib12 bib13">11&#x02013;13</xref>
+</sup> The microscopic lacunar&#x02013;canalicular system (LCS) that houses the osteocytes within the mineralized matrix is one key feature that enables the osteocytes to perform these important functions.<sup>
+<xref ref-type="bibr" rid="bib2">2</xref>,<xref ref-type="bibr" rid="bib9">9</xref>,<xref ref-type="bibr" rid="bib10">10</xref>
+</sup> Not only does the LCS provide the critical &#x0201c;life line&#x0201d; for nutrient supply and &#x0201c;network&#x0201d; for cell signaling<sup>
+<xref ref-type="bibr" rid="bib14 bib15 bib16">14&#x02013;16</xref>
+</sup> but it also possesses the structural components (for example, tethering fibers within the fluid annulus) to amplify the loading signals and convert the overall loading to cellular stimulation forces such as shear stress and/or drag force acting on the osteocytes.<sup>
+<xref ref-type="bibr" rid="bib17">17</xref>,<xref ref-type="bibr" rid="bib18">18</xref>
+</sup>
+</p><p>We and others have built mathematical models to predict the magnitudes of load-induced fluid flow and solute transport in the LCS<sup>
+<xref ref-type="bibr" rid="bib19 bib20 bib21 bib22 bib23 bib24 bib25 bib26">19&#x02013;26</xref>
+</sup> based on the groundbreaking paper by Weinbaum <italic>et al.</italic>
+<sup>
+<xref ref-type="bibr" rid="bib8">8</xref>
+</sup> A mathematical model was developed to investigate the net solute (for example, nutrients and tracers) transport in the discrete LCS channels during cyclic loading of bone, and solute mixing within the extracellular space in lacunae was found to be responsible for the net solute transport.<sup>
+<xref ref-type="bibr" rid="bib25">25</xref>
+</sup> To guide the experimental investigation of solute convections using the fluorescence recovery after photobleaching (FRAP) approach that was developed initially for diffusion studies,<sup>
+<xref ref-type="bibr" rid="bib16">16</xref>
+</sup> Zhou <italic>et al.</italic>
+<sup>
+<xref ref-type="bibr" rid="bib26">26</xref>
+</sup> developed a one-dimensional, three-compartment model to simulate load-induced solute transport in the LCS during FRAP experiments. This modeling work enabled the use of experimental FRAP measurements at the lacunar level to predict fluid flow in the canalicular level in a later study.<sup>
+<xref ref-type="bibr" rid="bib27">27</xref>
+</sup> We further expanded the three-compartment model by considering the solute&#x02013;matrix interaction as exogenous tracer probes moved through the osteocytic pericellular matrix,<sup>
+<xref ref-type="bibr" rid="bib28">28</xref>
+</sup> allowing us for the first time to quantify the average fiber spacing in bones from young and aged mice with normal or altered pericellular matrix conditions.<sup>
+<xref ref-type="bibr" rid="bib29">29</xref>
+</sup> However, due to limited laser penetration into mineralized bone tissue, FRAP measurements have been limited only to the cortical bone 30&#x02013;50&#x02009;&#x003bc;m underneath the periosteum of the tibial cortex.<sup>
+<xref ref-type="bibr" rid="bib16">16</xref>,<xref ref-type="bibr" rid="bib27 bib28 bib29">27&#x02013;29</xref>
+</sup> Currently, transport measurements on deeper cortex and trabecular bone areas are lacking. These locations are of biological significance because they typically undergo changes under mechanical loading or disuse conditions.<sup>
+<xref ref-type="bibr" rid="bib30">30</xref>,<xref ref-type="bibr" rid="bib31">31</xref>
+</sup>
+</p><p>FEA is a powerful numerical tool of analyzing stress&#x02013;strain fields in objects of irregular shapes and has been extensively used in bone research. A multilevel FEA model of a human femur cortex was developed to predict local matrix deformations at the osteocyte level during normal gait.<sup>
+<xref ref-type="bibr" rid="bib32">32</xref>
+</sup> To predict interstitial fluid flow in bone, a two-dimensional FEA poroelasticity model was developed to investigate the load-induced fluid flow in cortical bone.<sup>
+<xref ref-type="bibr" rid="bib21">21</xref>
+</sup> In another study, solute/fluid flow fields were predicted in an FEA model of a rat tibia under four-point bending.<sup>
+<xref ref-type="bibr" rid="bib33">33</xref>
+</sup> All of these models have focused on cortical bone sites. In this study, we aimed to develop a multiscale approach combining FEA and ultrastructural modeling. Our objective was to test the feasibility of the multiscale approach to predict functional outcomes resulted from mechanical loading. These outcomes include macroscopic (whole-bone level) and microscopic (LCS level) distribution fields of matrix strains, interstitial fluid pressure, as well as stimulation (fluid shearing and drag forces) at the cellular level. The rich pool of experimental data that we have obtained using FRAP on cortical bone<sup>
+<xref ref-type="bibr" rid="bib16">16</xref>,<xref ref-type="bibr" rid="bib27">27</xref>,<xref ref-type="bibr" rid="bib28">28</xref>,<xref ref-type="bibr" rid="bib34">34</xref>
+</sup> was used to validate the material properties assumed in the multiscale model. This greatly improved the fidelity of our model predictions on deeper cortex and trabecular bone regions, which are inaccessible with current FRAP techniques.</p></sec><sec><title>Materials and methods</title><sec><title>Whole-bone model</title><p>An intact mouse tibia from an adult C57BL/6J male mouse was imaged by a Scanco &#x003bc;CT35 scanner (Scanco USA, Inc., Wayne, PA, USA) using a standard protocol (55&#x02009;keV, 145&#x02009;&#x003bc;A, 200&#x02009;ms integration time, 3&#x02009;600 projections, and 20&#x02009;&#x003bc;m voxel size). The raw image slices (998 slices) were imported in the DICOM format into ScanIP (Simpleware, Chantilly, VA, USA), with which the entire tibia, including the cortical and trabecular bone, was thresholded and meshed with 5&#x02009;112&#x02009;690 tetra elements (<xref ref-type="fig" rid="fig1">Figure 1a</xref>). In Hypermesh (Altair/HyperWorks; <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.altairhyperworks.com/">http://www.altairhyperworks.com/</ext-link>), fixed displacement constraints were imposed at the elements of the proximal tibial plateau. Similar to our experimental setup,<sup>
+<xref ref-type="bibr" rid="bib27">27</xref>
+</sup> a 3 N compressive load was applied to the distal end of the tibia (<xref ref-type="fig" rid="fig1">Figure 1a</xref>). Assuming bone elements to be an elastic material with 20&#x02009;GPa Young&#x02019;s modulus and 0.33 Poisson&#x02019;s ratio,<sup>
+<xref ref-type="bibr" rid="bib8">8</xref>
+</sup> the strain field was obtained using OptiStruct, a FEA linear solver in the HyperWork software package. The average strain of a 1&#x000d7;3&#x02009;mm area on the medial&#x02013;anterior surface that was 20%&#x02013;40% distal from the tibial proximal end was compared with the strain measurement of a similar area in our previous studies.<sup>
+<xref ref-type="bibr" rid="bib27">27</xref>,<xref ref-type="bibr" rid="bib35">35</xref>
+</sup> Good agreement between the comparisons would validate the material properties and boundary conditions assigned to the whole-bone FEA model.</p></sec><sec><title>Segment biphasic model</title><p>For the analysis of fluid and solute transport in LCS, a 3&#x02009;mm segment of the tibial metaphysis consisting of ~700&#x02009;000 tetra elements was cut from the whole-bone FE model (20%&#x02013;40% distal of the proximal end, <xref ref-type="fig" rid="fig1">Figure 1c</xref>). The elements were modeled as a biphasic porous elastic material in the FEBio (version 2.0; <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://febio.org/">http://febio.org/</ext-link>), which is an open source finite element platform containing unique features that are suitable for modeling of mechano-chemical phenomena in biological tissues.<sup>
+<xref ref-type="bibr" rid="bib36">36</xref>
+</sup> The governing equations include the mass balance of the solid-solute mixture, the mass balance of solute, and the conservation of momentum as follows:
+<disp-formula id="equ1"><mml:math id="M1" overflow="scroll"><mml:mtable><mml:mlabeledtr><mml:mtd><mml:mtext>(1)</mml:mtext></mml:mtd><mml:mtd><mml:mi mathvariant="normal">div</mml:mi><mml:mo stretchy="false">(</mml:mo><mml:mover accent="true"><mml:mrow><mml:msup><mml:mrow><mml:mi>v</mml:mi></mml:mrow><mml:mi mathvariant="normal">s</mml:mi></mml:msup></mml:mrow><mml:mrow><mml:mo stretchy="true">&#x02192;</mml:mo></mml:mrow></mml:mover><mml:mo>+</mml:mo><mml:mover accent="true"><mml:mi>w</mml:mi><mml:mo>&#x02192;</mml:mo></mml:mover><mml:mo stretchy="false">)</mml:mo><mml:mo>=</mml:mo><mml:mn>0</mml:mn></mml:mtd></mml:mlabeledtr></mml:mtable></mml:math></disp-formula>
+<disp-formula id="equ2"><mml:math id="M2" overflow="scroll"><mml:mtable><mml:mlabeledtr><mml:mtd><mml:mtext>(2)</mml:mtext></mml:mtd><mml:mtd><mml:mfrac><mml:mrow><mml:mi>&#x02202;</mml:mi><mml:mo stretchy="false">(</mml:mo><mml:msup><mml:mrow><mml:mi>&#x003c6;</mml:mi></mml:mrow><mml:mi>w</mml:mi></mml:msup><mml:mover accent="true"><mml:mi>k</mml:mi><mml:mo>&#x002dc;</mml:mo></mml:mover><mml:mover accent="true"><mml:mi>c</mml:mi><mml:mo>&#x002dc;</mml:mo></mml:mover><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mrow><mml:mi>&#x02202;</mml:mi><mml:mi>t</mml:mi></mml:mrow></mml:mfrac><mml:mo>+</mml:mo><mml:mi mathvariant="normal">div</mml:mi><mml:mo stretchy="false">(</mml:mo><mml:mover accent="true"><mml:mi>j</mml:mi><mml:mo>&#x02192;</mml:mo></mml:mover><mml:mo>+</mml:mo><mml:msup><mml:mrow><mml:mi>&#x003c6;</mml:mi></mml:mrow><mml:mi>w</mml:mi></mml:msup><mml:mover accent="true"><mml:mi>k</mml:mi><mml:mo>&#x002dc;</mml:mo></mml:mover><mml:mover accent="true"><mml:mi>c</mml:mi><mml:mo>&#x002dc;</mml:mo></mml:mover><mml:mover accent="true"><mml:mrow><mml:msup><mml:mrow><mml:mi>v</mml:mi></mml:mrow><mml:mi>s</mml:mi></mml:msup></mml:mrow><mml:mrow><mml:mo stretchy="true">&#x02192;</mml:mo></mml:mrow></mml:mover><mml:mo stretchy="false">)</mml:mo><mml:mo>=</mml:mo><mml:mn>0</mml:mn></mml:mtd></mml:mlabeledtr></mml:mtable></mml:math></disp-formula>
+<disp-formula id="equ3"><mml:math id="M3" overflow="scroll"><mml:mtable><mml:mlabeledtr><mml:mtd><mml:mtext>(3)</mml:mtext></mml:mtd><mml:mtd><mml:mi mathvariant="normal">grad</mml:mi><mml:mo stretchy="false">(</mml:mo><mml:mover accent="true"><mml:mi>p</mml:mi><mml:mo>&#x002dc;</mml:mo></mml:mover><mml:mo>+</mml:mo><mml:mi>R</mml:mi><mml:mi>&#x003b8;</mml:mi><mml:mi>&#x02205;</mml:mi><mml:mover accent="true"><mml:mi>k</mml:mi><mml:mo stretchy="true">&#x002d8;</mml:mo></mml:mover><mml:mover accent="true"><mml:mi>c</mml:mi><mml:mo>&#x002dc;</mml:mo></mml:mover><mml:mo stretchy="false">)</mml:mo><mml:mo>+</mml:mo><mml:mi mathvariant="normal">div</mml:mi><mml:mover accent="true"><mml:mrow><mml:msup><mml:mrow><mml:mi>&#x003c3;</mml:mi></mml:mrow><mml:mi>e</mml:mi></mml:msup></mml:mrow><mml:mrow><mml:mo stretchy="true">&#x02192;</mml:mo></mml:mrow></mml:mover><mml:mo>=</mml:mo><mml:mn>0</mml:mn></mml:mtd></mml:mlabeledtr></mml:mtable></mml:math></disp-formula>
+where <inline-formula><mml:math id="M4" overflow="scroll"><mml:mover accent="true"><mml:mrow><mml:msup><mml:mrow><mml:mi>v</mml:mi></mml:mrow><mml:mi mathvariant="normal">s</mml:mi></mml:msup></mml:mrow><mml:mrow><mml:mo stretchy="true">&#x02192;</mml:mo></mml:mrow></mml:mover></mml:math></inline-formula> is the velocity vector of the solid matrix, <inline-formula><mml:math id="M5" overflow="scroll"><mml:mover accent="true"><mml:mi>w</mml:mi><mml:mo>&#x02192;</mml:mo></mml:mover></mml:math></inline-formula> is the volumetric flux of the solvent relative to the solid, <inline-formula><mml:math id="M6" overflow="scroll"><mml:msup><mml:mrow><mml:mi>&#x003c6;</mml:mi></mml:mrow><mml:mi>w</mml:mi></mml:msup></mml:math></inline-formula> is the volume fraction of solvent in the mixture, <inline-formula><mml:math id="M7" overflow="scroll"><mml:mover accent="true"><mml:mi>&#x003ba;</mml:mi><mml:mo stretchy="true">&#x002d8;</mml:mo></mml:mover></mml:math></inline-formula> is the effective solubility, <inline-formula><mml:math id="M8" overflow="scroll"><mml:mover accent="true"><mml:mi>c</mml:mi><mml:mo>&#x002dc;</mml:mo></mml:mover></mml:math></inline-formula> is the effective solute concentration in the mixture, <inline-formula><mml:math id="M9" overflow="scroll"><mml:mover accent="true"><mml:mi>p</mml:mi><mml:mo>&#x002dc;</mml:mo></mml:mover></mml:math></inline-formula> is the effective fluid pressure, <italic>R</italic> is the universal gas constant, <italic>&#x003b8;</italic> is the absolute temperature, &#x02205; is the osmotic coefficient (a non-dimensional function of solute concentration and solid strain), and <inline-formula><mml:math id="M10" overflow="scroll"><mml:mover accent="true"><mml:mrow><mml:msup><mml:mrow><mml:mi>&#x003c3;</mml:mi></mml:mrow><mml:mi>e</mml:mi></mml:msup></mml:mrow><mml:mrow><mml:mo stretchy="true">&#x02192;</mml:mo></mml:mrow></mml:mover></mml:math></inline-formula> is the stress tensor arising from the strain in the porous solid matrix. The constitutive relations for the solid phase, water, and solutes can be referred to the theory manual of FEBio (www.febio.org) or the biphasic theory for cartilage.<sup>
+<xref ref-type="bibr" rid="bib37">37</xref>
+</sup>
+</p><p>The model elements were defined as an isotropic porous linear elastic material (20&#x02009;GPa modulus, 0.33 Poisson&#x02019;s ratio) saturated with interstitial fluid (viscosity=0.001&#x02009;Pa&#x000b7;s).<sup>
+<xref ref-type="bibr" rid="bib8">8</xref>
+</sup> As reviewed previously,<sup>
+<xref ref-type="bibr" rid="bib9">9</xref>
+</sup> there are three levels of porosity in the bone tissue: the large vascular pore (order 10&#x02009;&#x003bc;m), the lacunar&#x02013;canalicular pores (order 1&#x02013;0.1&#x02009;&#x003bc;m), and inter-collagen hydroxyapatite pores (order 1&#x02013;10&#x02009;nm). These intertwined pores make direct measurements of bone permeability quite challenging. The reported permeability varied from 10<sup>&#x02212;12</sup> to 10<sup>&#x02212;23</sup>&#x02009;m<sup>2</sup>, depending on the levels of pores probed.<sup>
+<xref ref-type="bibr" rid="bib9">9</xref>,<xref ref-type="bibr" rid="bib38">38</xref>,<xref ref-type="bibr" rid="bib39">39</xref>
+</sup> Because the murine cortex is relatively thin with pores being predominantly smaller LCS ones, the permeability at the tissue (element) level was chosen to be in the lower range of the reported values associated with the smaller pores. In the model, the permeability was varied parametrically over three orders of magnitude (2.8&#x000d7;10<sup>&#x02212;20</sup>, 2.8&#x000d7;10<sup>&#x02212;21</sup>, or 2.8&#x000d7;10<sup>&#x02212;22</sup>&#x02009;m<sup>2</sup>). The permeability was assumed to be isotropic and identical at both trabecular and cortical bones. Solute diffusivity was assumed to be isotropic for small strain cases as in loaded tibia.<sup>
+<xref ref-type="bibr" rid="bib27">27</xref>
+</sup>
+</p></sec><sec><title>Measurements of LCS porosity in the murine cortical bone</title><p>One key parameter for the above poroelastic FEBio modeling is the volume fraction of the LCS pores. Large variations of LCS porosity (1%&#x02013;22%) were reported in literature using either two-dimensional or 3D imaging techniques.<sup>
+<xref ref-type="bibr" rid="bib39">39</xref>
+</sup> We thus measured the volume fractions of lacuna and canaliculi in the murine cortical bone using <italic>in situ</italic> confocal microscopy and a protocol modified from a previous study.<sup>
+<xref ref-type="bibr" rid="bib40">40</xref>
+</sup> In brief, femoral mid-shafts were dissected and sectioned into 0.3&#x02009;mm-thick segments, fixed in 10% formaldehyde for 24&#x02009;h, polished to 0.05&#x02013;0.10&#x02009;mm thickness, dehydrated in ascending grades of ethanol, stained in sodium fluorescein solution for 4&#x02009;h, and mounted on an imaging chamber with a bottom cover glass. High-resolution 3D stacks (122 slices) of a field of 512&#x000d7;256 pixels (pixel 0.199&#x02009;&#x003bc;m; <italic>z</italic>-step=0.2&#x02009;&#x003bc;m), which contained several lacunae and numerous canaliculi, were captured using a 60&#x000d7; oil objective and a Zeiss LSM 510 confocal microscope (Carl Zeiss Microscopy, LLC, Peabody, MA, USA). The raw images were then imported to the Volocity software package (PerkinElmer, Tempe, AZ, USA), where an adaptive threshold and a size-dependent segmentation scheme were applied sequentially to separate the larger lacunae from the smaller canaliculi. The surface area of the lacunae and the total volume of the canaliculi was then obtained. Unlike previous measurements, we quantified the volume fraction of the LCS pores by subtracting the cell body volume. Our previous transmission electron microscopy studies showed that within the lacunae there was a 0.49&#x000b1;0.15&#x02009;&#x003bc;m gap between the lacunar matrix wall and the cell body, and that the pericellular fluid space occupied 79% of the total canalicular cross-sectional area.<sup>
+<xref ref-type="bibr" rid="bib15">15</xref>
+</sup> These measures were used to calculate the volume fractions of the lacunar pores and the canalicular pores, respectively. The lacunar pore volume was the product of the total lacunar surface area and the lacunar gap. The total canalicular pore volume was a fraction (79%) of the total measured canalicular volume. Our result (shown later in the Results section) demonstrated a total lacunar and canalicular porosity (15.4%) in mouse, where the majority was contributed by canaliculi (87.5%). This value was adopted for all the simulations shown below. Please note that this value may represent an overestimation of the LCS porosity due to potential artifacts such as the partial volume effect and axial distortion associated with light microscopy.<sup>
+<xref ref-type="bibr" rid="bib41">41</xref>
+</sup>
+</p></sec><sec><title>Simulation of FRAP experiments: validation of the segment model</title><p>As part of validation of the biphasic transport model, we simulated FRAP experiments as performed in our previous experiments<sup>
+<xref ref-type="bibr" rid="bib27">27</xref>
+</sup> because they provided the most relevant experimental data in literature. One element (20&#x02009;&#x003bc;m<sup>3</sup>), which was ~30&#x02009;&#x003bc;m below the anterior&#x02013;medial periosteum and similar to the dimensions of a single lacuna, was chosen to be the photobleached lacuna (the center of the highlighted green area, <xref ref-type="fig" rid="fig1">Figure 1c</xref>). The immediate post-photobleaching tracer concentration of the photobleached element and those within the 90<sup>o</sup> laser cone below and above the photobleached element were set to be 0.2 due to the effects of photobleaching, whereas a concentration of 1.0 was assigned to the rest of elements in the model. Due to the relatively small hydraulic conductance and solute permeability of the mineralized bone tissue, as a first estimation, impermeable boundary conditions (no fluid and solute flux) were assumed for the periosteal surface and the bone cross-sections at the two ends of the model (<xref ref-type="fig" rid="fig1">Figure 1c</xref>).<sup>
+<xref ref-type="bibr" rid="bib26">26</xref>
+</sup> The marrow cavity was assumed to have a constant pressure and tracer concentration due to the presence of interstitial osmotic/hydraulic pressures and the tracer-rich vasculature, respectively. A free draining solute/fluid flux was assumed on the endosteal surface (<xref ref-type="fig" rid="fig1">Figure 1c</xref>).<sup>
+<xref ref-type="bibr" rid="bib25">25</xref>
+</sup> Transport of solutes with diffusivity varying from 27 to 100&#x02009;&#x003bc;m<sup>2</sup>&#x000b7;s<sup>&#x02212;1</sup> was simulated as below.</p><p>Two FRAP experiments under non-loaded and loaded conditions<sup>
+<xref ref-type="bibr" rid="bib27">27</xref>
+</sup> were simulated using the transport model. For the non-loaded condition, the model was run for a total duration of 36&#x02009;s with a time step of 0.2&#x02009;s. The time course of solute concentration in the photobleached element was obtained from the simulation results. This time course was predicted to be an approximately exponential function of time.<sup>
+<xref ref-type="bibr" rid="bib16">16</xref>,<xref ref-type="bibr" rid="bib27">27</xref>
+</sup> A transport rate <italic>K</italic>
+<sub>diff</sub>, was defined as the slope of the curve of ln[(<italic>C&#x02212;C</italic>
+<sub>0</sub>)/(<italic>C</italic>
+<sub>b</sub>
+<italic>&#x02212;C</italic>
+<sub>0</sub>)] vs time, where <italic>C</italic> was the concentration at time <italic>t</italic>, <italic>C</italic>
+<sub>0</sub> (=1) the concentration before photobleaching, and <italic>C</italic>
+<sub>b</sub> (=0.2) the concentration immediately after photobleaching, <italic>K</italic>
+<sub>diff</sub> measured the speed of the tracer recovery, which was the reciprocal of the time constant for the exponential recovery.<sup>
+<xref ref-type="bibr" rid="bib16">16</xref>
+</sup> Based on the experimental result of <italic>K</italic>
+<sub>diff</sub> (=0.017&#x02009;s<sup>&#x02212;1</sup>) for sodium fluorescein,<sup>
+<xref ref-type="bibr" rid="bib27">27</xref>
+</sup> a best-fit diffusion coefficient was determined and compared with that obtained using the mathematical model developed previously.<sup>
+<xref ref-type="bibr" rid="bib16">16</xref>
+</sup> For the loaded condition, we first obtained the dynamic displacements on the two transverse surfaces that comprise the distal and proximal boundaries of the transport model (indicated by the dashed lines in <xref ref-type="fig" rid="fig1">Figure 1a</xref> and the purple surfaces in <xref ref-type="fig" rid="fig1">Figure 1c</xref>). These data were obtained from the whole-bone model simulation under the 3N peak load (<xref ref-type="fig" rid="fig1">Figure 1b</xref>) with a 0.5&#x02009;Hz sinusoidal waveform followed by 2&#x02009;s resting periods (total 4&#x02009;s for a cycle). Up to eight cycles of loading were simulated. To capture the enhanced convective transport into photobleached lacuna through both loading and unloading phases of the loading cycle,<sup>
+<xref ref-type="bibr" rid="bib26">26</xref>
+</sup> the local solute concentration was superimposed with the two phases in sequence, as mixing in larger lacuna helped the entrapment of the tracer locally.<sup>
+<xref ref-type="bibr" rid="bib25">25</xref>
+</sup> A total of eight loading cycles (32&#x02009;s) were simulated, from which the transport enhancement (<italic>K</italic>
+<sub>load</sub>
+<italic>/K</italic>
+<sub>diff</sub>) was obtained for sodium fluorescein and compared with the experimental measurements.<sup>
+<xref ref-type="bibr" rid="bib27">27</xref>
+</sup> A good agreement between the modeling results and the experimental data would justify the use of material properties assumed in the FEBio model.</p></sec><sec><title>Outputs from the segment model</title><p>Once validation of the transport model was confirmed, the spatiotemporal distributions of pore pressure and fluid fluxes at the tissue level were obtained from the FEA model under cyclical mechanical loading. Several locations in the mid-transverse plane were chosen to show the results at both cortical and trabecular sites.</p></sec><sec><title>Outputs from the ultrastructural canalicular flow model</title><p>To accomplish the goal of predicting the load-induced mechanical stimulation on osteocytes located on the entire bone, the outputs from the above segmental transport model, which reflected the tissue-level measures, were converted onto the cellular level. The tissue-level fluid fluxes were scaled to the canalicular level by a factor of 6.5 based on the average LCS porosity (15.4%), that is, the canalicular-level fluid flux would be 6.5 times of that at the tissue level predicted by the FEBio model. Using the Brinkman fluid flow model for a single canaliculus developed by Weinbaum <italic>et al.</italic>,<sup>
+<xref ref-type="bibr" rid="bib8">8</xref>
+</sup> we were able to predict the forces acting on the osteocytes including the shearing force and fluid drag force.<sup>
+<xref ref-type="bibr" rid="bib17">17</xref>
+</sup> The essential component of the Weinbaum model was the presence of fibers/tethers spanning the annular fluid space between the membrane of the cell process and the mineralized wall (<xref ref-type="fig" rid="fig1">Figure 1e</xref>). Recent studies have measured the radii of the canaliculi (160&#x02009;nm) and osteocyte process (76&#x02009;nm) in adult mouse bone,<sup>
+<xref ref-type="bibr" rid="bib18">18</xref>
+</sup> and a fiber spacing (center to center 14.3&#x02009;nm).<sup>
+<xref ref-type="bibr" rid="bib29">29</xref>,<xref ref-type="bibr" rid="bib42">42</xref>
+</sup> The formula of the canalicular flow profile, the shear stress, the shearing force, and drag force per unit length were given in the appendix of reference.<sup>
+<xref ref-type="bibr" rid="bib43">43</xref>
+</sup> As the tissue-level flow was found to be sensitive to tissue permeability, the sensitivity of the canalicular flow velocity was also tested by varying the permeability over three orders of magnitude (2.8&#x000d7;10<sup>&#x02212;20</sup>, 2.8&#x000d7;10<sup>&#x02212;21</sup>, and 2.8&#x000d7;10<sup>&#x02212;22</sup>&#x02009;m<sup>2</sup>).</p></sec></sec><sec><title>Results</title><sec><title>Model validations</title><sec><title>Validating the whole-bone FEA model</title><p>The intact tibia bone was deformed by a combined mode of compression and bending under the 3&#x02009;N compressive load applied at the ends. A tensile strain of ~450&#x02009;&#x003bc;&#x00190; was predicted on the relatively flat anteromedial tibial surface around the FRAP site (30% distal from the proximal end), and compressive strains were mostly found on the posterior cortex (<xref ref-type="fig" rid="fig2">Figure 2</xref>). In this linear FEA model, the strain values were proportional to the assumed Young&#x02019;s modulus. Our predicted tensile strain of 450&#x02009;&#x003bc;&#x00190; at the region of interest (FRAP site) matched well with the experimentally measured data of ~400&#x02009;&#x003bc;&#x00190;.<sup>
+<xref ref-type="bibr" rid="bib27">27</xref>
+</sup> Thus, we concluded that the assumed material properties of 20&#x02009;GPa Young&#x02019;s modulus and 0.33 Poisson&#x02019;s ratio were justified for the subsequent transport modeling.</p></sec><sec><title>Measuring the LCS porosity (an input to the segment model)</title><p>Extensive LCS pores were labeled with high-intensity green fluorescence in the high-resolution 3D stacks of confocal images (<xref ref-type="fig" rid="fig3">Figure 3a</xref>), and the images were thresholded and segmented into lacunae and canaliculi categories (based on size criteria) for calculation of the porosity (<xref ref-type="fig" rid="fig2">Figure 2b and c</xref>). The volume fractions of the lacunae and canaliculi were found to be 1.9% and 13.5%, respectively. The total LCS porosity (15.4%) was then used as an input to the segment model. This porosity was also used to scale the tissue-level fluid flow predicted by the segment model to that at the canalicular level in the ultrastructural model.</p></sec><sec><title>Validating the segment biphasic model</title><p>For the non-loaded condition, the solute concentration at the FRAP site was shown to increase with time and the rate of increase varied with diffusivity (<xref ref-type="fig" rid="fig4">Figure 4a</xref>). The transport rate, <italic>K</italic>, shown as the slope of ln[(<italic>C&#x02212;C</italic>
+<sub>0</sub>)/(<italic>C</italic>
+<sub>b</sub>
+<italic>&#x02212;C</italic>
+<sub>0</sub>)] vs time curve (<xref ref-type="fig" rid="fig4">Figure 4b</xref>), was slightly higher initially and gradually reached a steady state (constant slope). This steady-state transport rate (<italic>K</italic>
+<sub>diff</sub>) was nearly linearly proportional to the solute diffusivity (<italic>K</italic>
+<sub>diff</sub>=4.11&#x000d7;10<sup>&#x02212;4</sup>&#x000d7;<italic>D</italic>, <xref ref-type="fig" rid="fig4">Figure 4c</xref>). In particular, a diffusivity of 31.8&#x02009;&#x003bc;m<sup>2</sup>&#x000b7;s<sup>&#x02212;1</sup> in the 3D porous model was found to best match the experimentally observed <italic>K</italic>
+<sub>diff</sub>=0.017&#x02009;s<sup>&#x02212;1</sup> of sodium fluorescein (376&#x02009;Da).<sup>
+<xref ref-type="bibr" rid="bib27">27</xref>
+</sup>
+</p><p>This tissue diffusivity of 31.8&#x02009;&#x003bc;m<sup>2</sup>&#x000b7;s<sup>&#x02212;1</sup> was then used to simulate the loaded condition (<xref ref-type="fig" rid="fig5">Figure 5</xref>). From the time courses of solute concentration (<xref ref-type="fig" rid="fig5">Figure 5a</xref>) and the logarithm of the recovery at the FRAP site under loaded and non-loaded conditions (<xref ref-type="fig" rid="fig5">Figure 5b</xref>), the transport enhancement (<italic>K</italic>
+<sub>load</sub>/<italic>K</italic>
+<sub>diff</sub>) was 1.24 for the 3N loading 3N, which fell within 1 s.d. above or below from the previously obtained experimental mean value (<italic>K</italic>
+<sub>load</sub>/<italic>K</italic>
+<sub>diff</sub>=1.31&#x000b1;0.24).<sup>
+<xref ref-type="bibr" rid="bib27">27</xref>
+</sup> In addition, we ran FRAP simulations with higher loads (5 N and 7 N). As anticipated, we observed faster fluorescence recovery and greater transport enhancement as load magnitude increased (<xref ref-type="fig" rid="fig5">Figure 5</xref>). Taken together, these results provide strong evidence that supports the use of FEBio segment transport model to predict the pore pressure and fluid flux in mechanically loaded bone.</p></sec></sec><sec><title>Results from the segment transport model</title><p>If not stated otherwise, the results presented in this section were obtained using the following parameters: a peak force of 3&#x02009;N, material properties of 20&#x02009;GPa Young&#x02019;s modulus, 0.33 Poisson&#x02019;s ratio, 15.4% porosity, and permeability of 2.8&#x000d7;10<sup>&#x02212;20</sup>&#x02009;m<sup>2</sup>.</p><sec><title>Pore fluid pressure field</title><p>The pore fluid pressure distribution (<xref ref-type="fig" rid="fig6">Figure 6</xref>) was obtained at <italic>t</italic>=3&#x02009;s when the loading peaked at 3 N (<xref ref-type="fig" rid="fig1">Figure 1b</xref>). In general, negative pressures were found in the regions under tension and positive pressures in the compressed regions, and the pressure magnitude in the cortex increases with the distance to the neutral plane (<xref ref-type="fig" rid="fig6">Figure 6a</xref>). Negative pressures were found in the trabecular area adjacent the cortex under compression (location G shown in blue shades), suggesting a more complex local loading pattern there. The temporal changes of the fluid pressure were shown during one loading cycle in <xref ref-type="fig" rid="fig6">Figure 6b</xref>, where location A (corresponding to the FRAP site) experienced a peak pressure of &#x02212;8&#x02009;MPa, and a high 17&#x02009;MPa pressure was found in location D. Pressures in the trabecular locations (G and H) were relatively smaller in magnitude. Reducing permeability by one or two orders of magnitude (2.8&#x000d7;10<sup>&#x02212;21</sup> and 2.8&#x000d7;10<sup>&#x02212;22</sup>&#x02009;m<sup>2</sup>), peak pressure was found to vary slightly (&#x0003c;10%) or modestly (&#x0003c;25%) at locations A (+7% and +15%), B (+6% and +15%), C (&#x02212;9% and &#x02212;17%), D (+7% and +18%), E (+4% and +14%), F (&#x02212;6% and &#x02212;17%), G (+8% and +24%), and H (&#x02212;6% and &#x02212;18%), respectively.</p></sec><sec><title>Fluid flow field</title><p>The local distribution of load-induced fluid flux could be obtained from the segment model. The local fluid flow varied cyclically as a function of time and a snapshot of the fluid flow field at <italic>t</italic>=2.6&#x02009;s is shown in <xref ref-type="fig" rid="fig7">Figure 7a</xref>. The flows for the surface elements are shown with the vectors, with the length indicating flow magnitude and arrow indicating the flow direction; and the flow magnitude for other elements are indicated with pseudo-colors (<xref ref-type="fig" rid="fig7">Figure 7a</xref>). Overall, higher flow rates were found near the endosteal surfaces. The temporal profiles of flow magnitude at the selected locations are shown in <xref ref-type="fig" rid="fig7">Figure 7b</xref>. Comparing with fluid pressure that dropped to zero after <italic>t</italic>=4&#x02009;s in most locations (<xref ref-type="fig" rid="fig6">Figure 6b</xref>), fluid flow at location B and C persisted till <italic>t</italic>=5&#x02009;s (<xref ref-type="fig" rid="fig7">Figure 7b</xref>). Among all those selected locations, location C near the endosteal surface experienced the largest flux. Fluid flow was also found in the trabecular site (as shown in locations G and H), although the flux was relatively smaller than that in the adjacent endosteal cortical bone (<xref ref-type="fig" rid="fig7">Figure 7</xref>).</p></sec></sec><sec><title>Results from the ultrastructural canalicular flow model</title><p>Scaling based on the LCS porosity (15.4%), the peak canalicular flux was predicted to be 6.5-fold higher than that at the tissue level, varying from 0.02 to 1.84&#x02009;&#x003bc;m&#x000b7;s<sup>&#x02212;1</sup> (<xref rid="tbl1" ref-type="table">Table 1</xref>) for cortical sites (A&#x02013;F) and trabecular sites (G and H) (<xref ref-type="fig" rid="fig6">Figure 6</xref>). Site-dependent variations were also found for the shear stress acting on the osteocyte cell process and the two fluid-related stimulating forces such as fluid shearing force and drag force (<xref rid="tbl1" ref-type="table">Table 1</xref>). Consistently, the fluid drag force was approximately one order greater than the shear force.</p></sec></sec><sec><title>Discussion</title><p>The anabolic effects of mechanical forces have long been appreciated by the musculoskeletal research community.<sup>
+<xref ref-type="bibr" rid="bib1">1</xref>,<xref ref-type="bibr" rid="bib4">4</xref>
+</sup> Clinicians routinely recommend exercise and physical activity to patients when treating and managing osteoporosis, osteoarthritis, and other medical conditions (www.cdc.gov). Quantifying the mechanical stimulation, however, remains a challenge, because of the complex structure and inhomogeneous material properties of the bone tissue<sup>
+<xref ref-type="bibr" rid="bib32">32</xref>
+</sup> and the different mechanical loading parameters associated with various exercise regimens.<sup>
+<xref ref-type="bibr" rid="bib9">9</xref>,<xref ref-type="bibr" rid="bib10">10</xref>
+</sup> With the advances of imaging techniques, we are now able to reconstruct the 3D structures of bones with sufficient details from the whole-bone level (on the order of 0.1&#x02013;1&#x02009;m), individual osteon/trabecula level (on the order of 0.2&#x02009;mm), and down to the cellular level (on the order of 0.01&#x02009;mm).<sup>
+<xref ref-type="bibr" rid="bib39">39</xref>
+</sup> One striking feature of the bone tissue is the multiscaled, interconnected pore system housing the cellular components in bone, spanning the central marrow cavity, vascular channels, and the LCS.<sup>
+<xref ref-type="bibr" rid="bib9">9</xref>
+</sup> These pores are saturated with interstitial fluid, providing a continuous pathway for nutrient supply, waste removal, and exchange of signaling molecules. Furthermore, when bone is subjected to mechanical strains during exercise, it behaves as a stiff sponge: pore pressure builds up and fluid is forced to flow within the bone matrix through the pores.<sup>
+<xref ref-type="bibr" rid="bib9">9</xref>
+</sup> The osteocytes residing in the bone thus experience matrix deformation, fluid pore pressure, fluid shear force, as well as fluid drag force due to the pericellular tethering fibers.<sup>
+<xref ref-type="bibr" rid="bib9">9</xref>
+</sup> These mechanical parameters have been quantified using various engineering techniques. Matrix deformations have been measured with strain gages and imaging correlation methods.<sup>
+<xref ref-type="bibr" rid="bib3">3</xref>,<xref ref-type="bibr" rid="bib5">5</xref>
+</sup> FRAP-based imaging techniques in combination with mathematical models provide measures of fluid and solute flows at the canalicular level under loading,<sup>
+<xref ref-type="bibr" rid="bib27">27</xref>
+</sup> allowing us to predict the various forces (shear and drag) that can trigger cellular responses.<sup>
+<xref ref-type="bibr" rid="bib28">28</xref>,<xref ref-type="bibr" rid="bib29">29</xref>
+</sup> These data greatly enhance our understanding of the mechanosensing and mechanotransduction processes in bone that underlie the anabolic power of physical activities. However, these measures are currently limited to regions close to bone surfaces. The objective of this study was to expand the mapping of mechanical stimulations to the inner portions of the bone in a multiscale manner.</p><p>This study demonstrated the feasibility of performing such comprehensive mapping using an image-based FEA platform. This approach is consisted of three coupled models at the whole bone, bone segment, and single canaliculus levels. Comparing with previous models,<sup>
+<xref ref-type="bibr" rid="bib19 bib20 bib21 bib22 bib23 bib24 bib25 bib26">19&#x02013;26</xref>
+</sup> the current model is unique by incorporating the ultrastructural model to predict loading effects (in terms of fluid shear and drag forces) that are highly relevant to the functioning of osteocytes. The model is physically sound, where the segment model is coupled with the whole-bone level through load-induced displacement fields, and the intrinsic LCS pores couple the segment model with the single canaliculus model. We also took advantage the available experimental data (on cortical bone) to extensively validate the model. The optically measured strain data<sup>
+<xref ref-type="bibr" rid="bib27">27</xref>,<xref ref-type="bibr" rid="bib35">35</xref>
+</sup> were used to compare with the model outputs, ensuring that the material properties and the deformation coupling scheme were appropriate. The FRAP diffusion and transport enhancement measures<sup>
+<xref ref-type="bibr" rid="bib16">16</xref>,<xref ref-type="bibr" rid="bib27">27</xref>,<xref ref-type="bibr" rid="bib34">34</xref>
+</sup> were used to compare with the biphasic model in FEBio, enhancing our confidence of the choices of model parameters and boundary conditions. Using the validated models, we showed that loading-induced cellular stimulations such as pore pressure, fluid flow-induced shear stress and/or drag force acting on osteocytes could be mapped at both cortical and trabecular sites (<xref ref-type="fig" rid="fig6">Figures 6</xref> and <xref ref-type="fig" rid="fig7">7</xref>; <xref rid="tbl1" ref-type="table">Table 1</xref>). These quantitative data would help us to better understand which loading-induced parameters, including but not limited to matrix deformation, pore pressure, fluid shear, and fluid drag, correlate well with the spatial distribution of <italic>in vivo</italic> bone formation.</p><p>As with any model, our model has its limitations and assumptions. (1) The FE model was generated from a single biological sample, limiting the adoption of statistical analysis. As the goal of this study was to demonstrate the feasibility of modeling bone fluid flow, this simplified approach was chosen to remove any potential variabilities from the bone geometry and thus allow the study to better focus on validating model parameters and coupling schemes. With the procedure being streamlined and computational power ever increasing, the methodologies described herein can be applied for multiple samples to account for variations on bone anatomy. (2) The scaling factor between tissue-level fluid flow and the canalicular-level fluid flux was assumed to depend on the LCS porosity (15.4%), which was measured using confocal imaging. As noted earlier, this value may be an overestimation due to the scattering of fluorescence signals and axial stretching in the point spread function.<sup>
+<xref ref-type="bibr" rid="bib41">41</xref>
+</sup> Indeed, smaller porosity values (1%&#x02013;5%) have been reported using methods based on electron microscopy and x-ray computation topography.<sup>
+<xref ref-type="bibr" rid="bib39">39</xref>
+</sup> Were the LCS assumed to be 1.5%, the model outputs (<xref rid="tbl1" ref-type="table">Table 1</xref>) would be expected to be nearly one order of magnitude higher. (3) The permeability we used in the model (2.8&#x000d7;10<sup>&#x02212;20</sup>&#x02009;m<sup>2</sup>) was based on our experimental measurement in dog bone.<sup>
+<xref ref-type="bibr" rid="bib38">38</xref>
+</sup> Large variations (in several orders of magnitude) of permeability have been reported in the literature.<sup>
+<xref ref-type="bibr" rid="bib39">39</xref>
+</sup> We also tested the sensitivity of the model outputs to permeability. As the permeability was reduced for one or two orders of magnitude (2.8&#x000d7;10<sup>&#x02212;21</sup> and 2.8&#x000d7;10<sup>&#x02212;22</sup>&#x02009;m<sup>2</sup>), fluid flow velocity was found to decrease compared with the values presented here (that is, 22% and 0.25% for locations A&#x02013;C, and 69% and 15% for locations D&#x02013;F, respectively). We thus conclude that accurate permeability measurement is the key to predict fluid flow velocity in the model. (4) We assumed sealed boundaries in our segment model for faster convergence in solute concentration simulations. This idealized condition was not fully compatible with <italic>in vivo</italic> situation where periosteum was found to be permeable for fluid and small solute.<sup>
+<xref ref-type="bibr" rid="bib44">44</xref>,<xref ref-type="bibr" rid="bib45">45</xref>
+</sup> Leaky permeability should be considered for future modeling. (5) We assumed a biphasic material with isotropic linear elastic solid phase, which has constant isotropic permeability and constant isotropic solute diffusion coefficients. Previous studies<sup>
+<xref ref-type="bibr" rid="bib33">33</xref>
+</sup> indicated that the anisotropy of bone has an important role in the occurrence and distribution of the fluid flow in bone, which should be quantified in future experimental and modeling studies. Despite these limitations, our model was demonstrated to serve as a promising platform that would allow in-depth studies of local loading environment, which may help identify the important mechanical factors that drive bone&#x02019;s response to loading and disuse in normal and disease conditions.</p></sec></body><back><ack><p>The study was supported by grants from NIH (P30GM103333 and RO1AR054385 to LW), a China CSC fellowship (to LF), and DOD W81XWH-13-1-0148 (to XLL).</p></ack><ref-list><ref id="bib1"><mixed-citation publication-type="journal">
+Duncan RL
+, 
+Turner CH
+. <article-title>Mechanotransduction and the functional response of bone to mechanical strain</article-title>. <source>Calcif Tissue Int</source>
+<year>1995</year>; <volume>57</volume>: <fpage>344</fpage>&#x02013;358.<pub-id pub-id-type="pmid">8564797</pub-id></mixed-citation></ref><ref id="bib2"><mixed-citation publication-type="journal">
+Klein-Nulend J
+, 
+Bacabac RG
+, 
+Mullender MG
+. <article-title>Mechanobiology of bone tissue</article-title>. <source>Pathol Biol (Paris)</source>
+<year>2005</year>; <volume>53</volume>: <fpage>576</fpage>&#x02013;580.<pub-id pub-id-type="pmid">16364809</pub-id></mixed-citation></ref><ref id="bib3"><mixed-citation publication-type="journal">
+Lanyon LE
+, 
+Hampson WG
+, 
+Goodship AE
+et al. <article-title>Bone deformation recorded <italic>in vivo</italic> from strain gauges attached to the human tibial shaft</article-title>. <source>Acta Orthop Scand</source>
+<year>1975</year>; <volume>46</volume>: <fpage>256</fpage>&#x02013;268.<pub-id pub-id-type="pmid">1146518</pub-id></mixed-citation></ref><ref id="bib4"><mixed-citation publication-type="journal">
+Burr DB
+, 
+Milgrom C
+, 
+Fyhrie D
+et al. <article-title><italic>In vivo</italic> measurement of human tibial strains during vigorous activity</article-title>. <source>Bone</source>
+<year>1996</year>; <volume>18</volume>: <fpage>405</fpage>&#x02013;410.<pub-id pub-id-type="pmid">8739897</pub-id></mixed-citation></ref><ref id="bib5"><mixed-citation publication-type="journal">
+Nicolella DP
+, 
+Moravits DE
+, 
+Gale AM
+et al. <article-title>Osteocyte lacunae tissue strain in cortical bone</article-title>. <source>J Biomech</source>
+<year>2006</year>; <volume>39</volume>: <fpage>1735</fpage>&#x02013;1743.<pub-id pub-id-type="pmid">15993413</pub-id></mixed-citation></ref><ref id="bib6"><mixed-citation publication-type="journal">
+Owan I
+, 
+Burr DB
+, 
+Turner CH
+et al. <article-title>Mechanotransduction in bone: osteoblasts are more responsive to fluid forces than mechanical strain</article-title>. <source>Am J Physiol</source>
+<year>1997</year>; <volume>273</volume>: <fpage>C810</fpage>&#x02013;C815.<pub-id pub-id-type="pmid">9316399</pub-id></mixed-citation></ref><ref id="bib7"><mixed-citation publication-type="journal">
+You J
+, 
+Yellowley CE
+, 
+Donahue HJ
+et al. <article-title>Substrate deformation levels associated with routine physical activity are less stimulatory to bone cells relative to loading-induced oscillatory fluid flow</article-title>. <source>J Biomech Eng</source>
+<year>2000</year>; <volume>122</volume>: <fpage>387</fpage>&#x02013;393.<pub-id pub-id-type="pmid">11036562</pub-id></mixed-citation></ref><ref id="bib8"><mixed-citation publication-type="journal">
+Weinbaum S
+, 
+Cowin SC
+, 
+Zeng Y
+. <article-title>A model for the excitation of osteocytes by mechanical loading-induced bone fluid shear stresses</article-title>. <source>J Biomech</source>
+<year>1994</year>; <volume>27</volume>: <fpage>339</fpage>&#x02013;360.<pub-id pub-id-type="pmid">8051194</pub-id></mixed-citation></ref><ref id="bib9"><mixed-citation publication-type="journal">
+Fritton SP
+, 
+Weinbaum S
+. <article-title>Fluid and solute transport in bone: flow-induced mechanotransduction</article-title>. <source>Annu Rev Fluid Mech</source>
+<year>2009</year>; <volume>41</volume>: <fpage>347</fpage>&#x02013;374.<pub-id pub-id-type="pmid">20072666</pub-id></mixed-citation></ref><ref id="bib10"><mixed-citation publication-type="journal">
+Bonewald LF
+. <article-title>The amazing osteocyte</article-title>. <source>J Bone Miner Res</source>
+<year>2011</year>; <volume>26</volume>: <fpage>229</fpage>&#x02013;238.<pub-id pub-id-type="pmid">21254230</pub-id></mixed-citation></ref><ref id="bib11"><mixed-citation publication-type="journal">
+Robling AG
+, 
+Niziolek PJ
+, 
+Baldridge LA
+et al. <article-title>Mechanical stimulation of bone <italic>in vivo</italic> reduces osteocyte expression of Sost/sclerostin</article-title>. <source>J Biol Chem</source>
+<year>2008</year>; <volume>283</volume>: <fpage>5866</fpage>&#x02013;5875.<pub-id pub-id-type="pmid">18089564</pub-id></mixed-citation></ref><ref id="bib12"><mixed-citation publication-type="journal">
+You L
+, 
+Temiyasathit S
+, 
+Lee P
+et al. <article-title>Osteocytes as mechanosensors in the inhibition of bone resorption due to mechanical loading</article-title>. <source>Bone</source>
+<year>2008</year>; <volume>42</volume>: <fpage>172</fpage>&#x02013;179.<pub-id pub-id-type="pmid">17997378</pub-id></mixed-citation></ref><ref id="bib13"><mixed-citation publication-type="journal">
+Dallas SL
+, 
+Prideaux M
+, 
+Bonewald LF
+. <article-title>The osteocyte: an endocrine cell and more</article-title>. <source>Endocr Rev</source>
+<year>2013</year>; <volume>34</volume>: <fpage>658</fpage>&#x02013;690.<pub-id pub-id-type="pmid">23612223</pub-id></mixed-citation></ref><ref id="bib14"><mixed-citation publication-type="journal">
+Piekarski K
+, 
+Munro M
+. <article-title>Transport mechanism operating between blood supply and osteocytes in long bones</article-title>. <source>Nature</source>
+<year>1977</year>; <volume>269</volume>: <fpage>80</fpage>&#x02013;82.<pub-id pub-id-type="pmid">895891</pub-id></mixed-citation></ref><ref id="bib15"><mixed-citation publication-type="journal">
+Lai X
+, 
+Price C
+, 
+Modla S
+et al. <article-title>The dependences of osteocyte network on bone compartment, age, and disease</article-title>. <source>Bone Res</source>
+<year>2015</year>; <volume>3</volume>: <fpage>15009</fpage>.<pub-id pub-id-type="pmid">26213632</pub-id></mixed-citation></ref><ref id="bib16"><mixed-citation publication-type="journal">
+Wang L
+, 
+Wang Y
+, 
+Han Y
+et al. <article-title><italic>In situ</italic> measurement of solute transport in the bone lacunar-canalicular system</article-title>. <source>Proc Natl Acad Sci USA</source>
+<year>2005</year>; <volume>102</volume>: <fpage>11911</fpage>&#x02013;11916.<pub-id pub-id-type="pmid">16087872</pub-id></mixed-citation></ref><ref id="bib17"><mixed-citation publication-type="journal">
+You L
+, 
+Cowin SC
+, 
+Schaffler MB
+et al. <article-title>A model for strain amplification in the actin cytoskeleton of osteocytes due to fluid drag on pericellular matrix</article-title>. <source>J Biomech</source>
+<year>2001</year>; <volume>34</volume>: <fpage>1375</fpage>&#x02013;1386.<pub-id pub-id-type="pmid">11672712</pub-id></mixed-citation></ref><ref id="bib18"><mixed-citation publication-type="journal">
+You LD
+, 
+Weinbaum S
+, 
+Cowin SC
+et al. <article-title>Ultrastructure of the osteocyte process and its pericellular matrix</article-title>. <source>Anat Rec A Discov Mol Cell Evol Biol</source>
+<year>2004</year>; <volume>278</volume>: <fpage>505</fpage>&#x02013;513.<pub-id pub-id-type="pmid">15164337</pub-id></mixed-citation></ref><ref id="bib19"><mixed-citation publication-type="journal">
+Goulet GC
+, 
+Coombe D
+, 
+Martinuzzi RJ
+et al. <article-title>Poroelastic evaluation of fluid movement through the lacunocanalicular system</article-title>. <source>Ann Biomed Eng</source>
+<year>2009</year>; <volume>37</volume>: <fpage>1390</fpage>&#x02013;1402.<pub-id pub-id-type="pmid">19415492</pub-id></mixed-citation></ref><ref id="bib20"><mixed-citation publication-type="journal">
+Goulet GC
+, 
+Hamilton N
+, 
+Cooper D
+et al. <article-title>Influence of vascular porosity on fluid flow and nutrient transport in loaded cortical bone</article-title>. <source>J Biomech</source>
+<year>2008</year>; <volume>41</volume>: <fpage>2169</fpage>&#x02013;2175.<pub-id pub-id-type="pmid">18533159</pub-id></mixed-citation></ref><ref id="bib21"><mixed-citation publication-type="journal">
+Gururaja S
+, 
+Kim HJ
+, 
+Swan CC
+et al. <article-title>Modeling deformation-induced fluid flow in cortical bone's canalicular-lacunar system</article-title>. <source>Ann Biomed Eng</source>
+<year>2005</year>; <volume>33</volume>: <fpage>7</fpage>&#x02013;25.<pub-id pub-id-type="pmid">15709702</pub-id></mixed-citation></ref><ref id="bib22"><mixed-citation publication-type="journal">
+Kufahl RH
+, 
+Saha S
+. <article-title>A theoretical model for stress-generated fluid flow in the canaliculi-lacunae network in bone tissue</article-title>. <source>J Biomech</source>
+<year>1990</year>; <volume>23</volume>: <fpage>171</fpage>&#x02013;180.<pub-id pub-id-type="pmid">2312521</pub-id></mixed-citation></ref><ref id="bib23"><mixed-citation publication-type="journal">
+McCarthy ID
+, 
+Yang L
+. <article-title>A distributed model of exchange processes within the osteon</article-title>. <source>J Biomech</source>
+<year>1992</year>; <volume>25</volume>: <fpage>441</fpage>&#x02013;450.<pub-id pub-id-type="pmid">1583022</pub-id></mixed-citation></ref><ref id="bib24"><mixed-citation publication-type="journal">
+Srinivasan S
+, 
+Gross TS
+. <article-title>Canalicular fluid flow induced by bending of a long bone</article-title>. <source>Med Eng Phys</source>
+<year>2000</year>; <volume>22</volume>: <fpage>127</fpage>&#x02013;133.<pub-id pub-id-type="pmid">10854966</pub-id></mixed-citation></ref><ref id="bib25"><mixed-citation publication-type="journal">
+Wang L
+, 
+Cowin SC
+, 
+Weinbaum S
+et al. <article-title>Modeling tracer transport in an osteon under cyclic loading</article-title>. <source>Ann Biomed Eng</source>
+<year>2000</year>; <volume>28</volume>: <fpage>1200</fpage>&#x02013;1209.<pub-id pub-id-type="pmid">11144981</pub-id></mixed-citation></ref><ref id="bib26"><mixed-citation publication-type="journal">
+Zhou X
+, 
+Novotny JE
+, 
+Wang L
+. <article-title>Modeling fluorescence recovery after photobleaching in loaded boneotential applications in measuring fluid and solute transport in the osteocytic lacunar-canalicular system</article-title>. <source>Ann Biomed Eng</source>
+<year>2008</year>; <volume>36</volume>: <fpage>1961</fpage>&#x02013;1977.<pub-id pub-id-type="pmid">18810639</pub-id></mixed-citation></ref><ref id="bib27"><mixed-citation publication-type="journal">
+Price C
+, 
+Zhou X
+, 
+Li W
+et al. <article-title>Real-time measurement of solute transport within the lacunar-canalicular system of mechanically loaded bone: direct evidence for load-induced fluid flow</article-title>. <source>J Bone Miner Res</source>
+<year>2011</year>; <volume>26</volume>: <fpage>277</fpage>&#x02013;285.<pub-id pub-id-type="pmid">20715178</pub-id></mixed-citation></ref><ref id="bib28"><mixed-citation publication-type="journal">
+Wang B
+, 
+Zhou X
+, 
+Price C
+et al. <article-title>Quantifying load-induced solute transport and solute-matrix interaction within the osteocyte lacunar-canalicular system</article-title>. <source>J Bone Miner Res</source>
+<year>2013</year>; <volume>28</volume>: <fpage>1075</fpage>&#x02013;1086.<pub-id pub-id-type="pmid">23109140</pub-id></mixed-citation></ref><ref id="bib29"><mixed-citation publication-type="journal">
+Wang B
+, 
+Lai X
+, 
+Price C
+et al. <article-title>Perlecan-containing pericellular matrix regulates solute transport and mechanosensing within the osteocyte lacunar-canalicular system</article-title>. <source>J Bone Miner Res</source>
+<year>2014</year>; <volume>29</volume>: <fpage>878</fpage>&#x02013;891.<pub-id pub-id-type="pmid">24115222</pub-id></mixed-citation></ref><ref id="bib30"><mixed-citation publication-type="journal">
+Oxlund H
+, 
+Ejersted C
+, 
+Andreassen TT
+et al. <article-title>Parathyroid hormone (1-34) and (1-84) stimulate cortical bone formation both from periosteum and endosteum</article-title>. <source>Calcif Tissue Int</source>
+<year>1993</year>; <volume>53</volume>: <fpage>394</fpage>&#x02013;399.<pub-id pub-id-type="pmid">8293353</pub-id></mixed-citation></ref><ref id="bib31"><mixed-citation publication-type="journal">
+Parfitt AM
+, 
+Mathews CH
+, 
+Villanueva AR
+et al. <article-title>Relationships between surface, volume, and thickness of iliac trabecular bone in aging and in osteoporosis. Implications for the microanatomic and cellular mechanisms of bone loss</article-title>. <source>J Clin Invest</source>
+<year>1983</year>; <volume>72</volume>: <fpage>1396</fpage>&#x02013;1409.<pub-id pub-id-type="pmid">6630513</pub-id></mixed-citation></ref><ref id="bib32"><mixed-citation publication-type="journal">
+Deligianni DD
+, 
+Apostolopoulos CA
+. <article-title>Multilevel finite element modeling for the prediction of local cellular deformation in bone</article-title>. <source>Biomech Model Mechanobiol</source>
+<year>2008</year>; <volume>7</volume>: <fpage>151</fpage>&#x02013;159.<pub-id pub-id-type="pmid">17431696</pub-id></mixed-citation></ref><ref id="bib33"><mixed-citation publication-type="journal">
+Steck R
+, 
+Niederer P
+, 
+Knothe Tate ML
+. <article-title>A finite difference model of load-induced fluid displacements within bone under mechanical loading</article-title>. <source>Med Eng Phys</source>
+<year>2000</year>; <volume>22</volume>: <fpage>117</fpage>&#x02013;125.<pub-id pub-id-type="pmid">10854965</pub-id></mixed-citation></ref><ref id="bib34"><mixed-citation publication-type="journal">
+Li W
+, 
+You L
+, 
+Schaffler MB
+et al. <article-title>The dependency of solute diffusion on molecular weight and shape in intact bone</article-title>. <source>Bone</source>
+<year>2009</year>; <volume>45</volume>: <fpage>1017</fpage>&#x02013;1023.<pub-id pub-id-type="pmid">19647808</pub-id></mixed-citation></ref><ref id="bib35"><mixed-citation publication-type="journal">
+Price C
+, 
+Li W
+, 
+Novotny JE
+et al. <article-title>An in-situ fluorescence-based optical extensometry system for imaging mechanically loaded bone</article-title>. <source>J Orthop Res</source>
+<year>2010</year>; <volume>28</volume>: <fpage>805</fpage>&#x02013;811.<pub-id pub-id-type="pmid">20041487</pub-id></mixed-citation></ref><ref id="bib36"><mixed-citation publication-type="journal">
+Maas SA
+, 
+Ellis BJ
+, 
+Ateshian GA
+et al. <article-title>FEBio: finite elements for biomechanics</article-title>. <source>J Biomech Eng</source>
+<year>2012</year>; <volume>134</volume>: <fpage>011005</fpage>.<pub-id pub-id-type="pmid">22482660</pub-id></mixed-citation></ref><ref id="bib37"><mixed-citation publication-type="journal">
+Mauck RL
+, 
+Hung CT
+, 
+Ateshian GA
+. <article-title>Modeling of neutral solute transport in a dynamically loaded porous permeable gel: implications for articular cartilage biosynthesis and tissue engineering</article-title>. <source>J Biomech Eng</source>
+<year>2003</year>; <volume>125</volume>: <fpage>602</fpage>&#x02013;614.<pub-id pub-id-type="pmid">14618919</pub-id></mixed-citation></ref><ref id="bib38"><mixed-citation publication-type="journal">
+Gardinier JD
+, 
+Townend CW
+, 
+Jen KP
+et al. <article-title><italic>In situ</italic> permeability measurement of the mammalian lacunar-canalicular system</article-title>. <source>Bone</source>
+<year>2010</year>; <volume>46</volume>: <fpage>1075</fpage>&#x02013;1081.<pub-id pub-id-type="pmid">20080221</pub-id></mixed-citation></ref><ref id="bib39"><mixed-citation publication-type="journal">
+Cardoso L
+, 
+Fritton SP
+, 
+Gailani G
+et al. <article-title>Advances in assessment of bone porosity, permeability and interstitial fluid flow</article-title>. <source>J Biomech</source>
+<year>2013</year>; <volume>46</volume>: <fpage>253</fpage>&#x02013;265.<pub-id pub-id-type="pmid">23174418</pub-id></mixed-citation></ref><ref id="bib40"><mixed-citation publication-type="journal">
+Ciani C
+, 
+Doty SB
+, 
+Fritton SP
+. <article-title>An effective histological staining process to visualize bone interstitial fluid space using confocal microscopy</article-title>. <source>Bone</source>
+<year>2009</year>; <volume>44</volume>: <fpage>1015</fpage>&#x02013;1017.<pub-id pub-id-type="pmid">19442607</pub-id></mixed-citation></ref><ref id="bib41"><mixed-citation publication-type="journal">
+Sharma D
+, 
+Ciani C
+, 
+Marin PA
+et al. <article-title>Alterations in the osteocyte lacunar-canalicular microenvironment due to estrogen deficiency</article-title>. <source>Bone</source>
+<year>2012</year>; <volume>51</volume>: <fpage>488</fpage>&#x02013;497.<pub-id pub-id-type="pmid">22634177</pub-id></mixed-citation></ref><ref id="bib42"><mixed-citation publication-type="journal">
+Wijeratne SS
+, 
+Martinez JR
+, 
+Grindel BJ
+et al. <article-title>Single molecule force measurements of perlecan/HSPG2: A key component of the osteocyte pericellular matrix</article-title>. <source>Matrix Biol</source>
+<year>2016</year>; <volume>50</volume>: <fpage>27</fpage>&#x02013;38.<pub-id pub-id-type="pmid">26546708</pub-id></mixed-citation></ref><ref id="bib43"><mixed-citation publication-type="journal">
+Jing D
+, 
+Baik AD
+, 
+Lu XL
+et al. <article-title><italic>In situ</italic> intracellular calcium oscillations in osteocytes in intact mouse long bones under dynamic mechanical loading</article-title>. <source>FASEB J</source>
+<year>2014</year>; <volume>28</volume>: <fpage>1582</fpage>&#x02013;1592.<pub-id pub-id-type="pmid">24347610</pub-id></mixed-citation></ref><ref id="bib44"><mixed-citation publication-type="journal">
+Evans SF
+, 
+Parent JB
+, 
+Lasko CE
+et al. <article-title>Periosteum, bone's "smart" bounding membrane, exhibits direction-dependent permeability</article-title>. <source>J Bone Miner Res</source>
+<year>2013</year>; <volume>28</volume>: <fpage>608</fpage>&#x02013;617.<pub-id pub-id-type="pmid">23018813</pub-id></mixed-citation></ref><ref id="bib45"><mixed-citation publication-type="journal">
+Lai X
+, 
+Price C
+, 
+Lu XL
+et al. <article-title>Imaging and quantifying solute transport across periosteum: implications for muscle-bone crosstalk</article-title>. <source>Bone</source>
+<year>2014</year>; <volume>66</volume>: <fpage>82</fpage>&#x02013;89.<pub-id pub-id-type="pmid">24928492</pub-id></mixed-citation></ref></ref-list></back><floats-group><fig id="fig1"><label>Figure 1</label><caption><p>A multiscale model for loaded bone. (<bold>a</bold>) The whole-bone FEA model of a murine tibia with 5&#x02009;112&#x02009;690 tetra elements and its loading and boundary conditions. A 3&#x02009;mm segment (20%&#x02013;40% distal of the proximal end) was used for detailed analysis of strain, pore pressure, and fluid/solute fluxes. (<bold>b</bold>) The loading profile of cyclic compressive load 3N at 0.5&#x02009;Hz followed by a 2&#x02009;s resting periods. (<bold>c</bold>) The segment biphasic transport model was consisted of ~700&#x02009;000 tetra elements with its fluid/solute boundary conditions. The site corresponding to the FRAP experiments is shown here. (<bold>d</bold>) Ultrastructural Brinkman flow model at single canaliculus (adapted from Weinbaum <italic>et al.</italic>
+<sup>
+<xref ref-type="bibr" rid="bib8">8</xref>
+</sup>) was used to predict fluid shear and drag force acting on osteocytes. The three levels of models are physically connected: the displacement outputs from the whole-bone model were used as boundary conditions in the segment transport model that provided fluid/solute flow at the tissue level, which were then converted to the canalicular level scaled with the LCS porosity.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="boneres201632-f1"/></fig><fig id="fig2"><label>Figure 2</label><caption><p>Axial strains from the whole-bone FE model. Only the portion corresponding to the segment model is shown. Due to the combination of compression and bending, the anterior&#x02013;medial surface (FRAP site) was under tension.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="boneres201632-f2"/></fig><fig id="fig3"><label>Figure 3</label><caption><p>Confocal imaging of the murine cortical LCS. A stack of LCS images (<bold>a</bold>) was acquired. Individual lacuna (<bold>b</bold>) and canaliculi (<bold>c</bold>) were segmented and pore volumes measured.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="boneres201632-f3"/></fig><fig id="fig4"><label>Figure 4</label><caption><p>The tracer concentration (<bold>a</bold>) and the logarithm of the recovery rate (<bold>b</bold>) at the FRAP site under non-loaded condition using the segment biphasic model. (<bold>c</bold>) The model correctly predicted the nearly linear relationship between the transport rate and diffusivity in agreement with theoretical predictions (Wang <italic>et al.</italic>
+<sup>
+<xref ref-type="bibr" rid="bib16">16</xref>
+</sup>).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="boneres201632-f4"/></fig><fig id="fig5"><label>Figure 5</label><caption><p>The tracer concentration (<bold>a</bold>) and the logarithm of the recovery rate (<bold>b</bold>) of sodium fluorescein under loaded and non-loaded conditions. A transport enhancement of 1.24 was found for 3&#x02009;N loading, which is comparable with previous experimental measurements. As anticipated, higher loads (5&#x02009;N and 7&#x02009;N) result in greater transport enhancements.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="boneres201632-f5"/></fig><fig id="fig6"><label>Figure 6</label><caption><p>FEBio simulation of fluid pore pressure in the segment model. (<bold>a</bold>) The pore fluid pressure field at <italic>t</italic>=3&#x02009;s at the cross-section containing the FRAP site (location A). (<bold>b</bold>) The temporal fluid pressure changes at the cortical (A&#x02013;F) and trabecular sites (G, H) during one loading cycle (<xref ref-type="fig" rid="fig1">Figure 1b</xref>).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="boneres201632-f6"/></fig><fig id="fig7"><label>Figure 7</label><caption><p>Load-induced fluid flux at tissue level. (<bold>a</bold>) The distribution of the fluid flux magnitude and the flow direction at <italic>t</italic>=2.6 second during the loading phase. (<bold>b</bold>) The temporal changes of the fluid flux at several selected locations in both cortical (locations A&#x02013;F) and trabecular sites (locations G&#x02013;H).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="boneres201632-f7"/></fig><table-wrap id="tbl1"><label>Table 1</label><caption><title>Cellular stimulation forces</title></caption><table frame="hsides" rules="groups" border="1"><colgroup><col align="left"/><col align="char" char="."/><col align="char" char="."/><col align="char" char="."/><col align="char" char="."/></colgroup><thead valign="bottom"><tr><th align="left" valign="top" charoff="50">Locations</th><th align="center" valign="top" char="." charoff="50">Canalicular flow velocity/(&#x003bc;m&#x000b7;s<sup>&#x02212;1</sup>)</th><th align="center" valign="top" char="." charoff="50">Shear stress/Pa</th><th align="center" valign="top" char="." charoff="50">Shear force/(pN&#x000b7;&#x003bc;m<sup>&#x02212;1</sup>)</th><th align="center" valign="top" char="." charoff="50">Drag force/(pN&#x000b7;&#x003bc;m<sup>&#x02212;1</sup>)</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" charoff="50">A</td><td align="char" valign="top" char="." charoff="50">1.27</td><td align="char" valign="top" char="." charoff="50">0.17</td><td align="char" valign="top" char="." charoff="50">0.08</td><td align="char" valign="top" char="." charoff="50">0.75</td></tr><tr><td align="left" valign="top" charoff="50">B</td><td align="char" valign="top" char="." charoff="50">1.33</td><td align="char" valign="top" char="." charoff="50">0.18</td><td align="char" valign="top" char="." charoff="50">0.09</td><td align="char" valign="top" char="." charoff="50">0.78</td></tr><tr><td align="left" valign="top" charoff="50">C</td><td align="char" valign="top" char="." charoff="50">1.84</td><td align="char" valign="top" char="." charoff="50">0.25</td><td align="char" valign="top" char="." charoff="50">0.12</td><td align="char" valign="top" char="." charoff="50">1.08</td></tr><tr><td align="left" valign="top" charoff="50">D</td><td align="char" valign="top" char="." charoff="50">0.38</td><td align="char" valign="top" char="." charoff="50">0.05</td><td align="char" valign="top" char="." charoff="50">0.02</td><td align="char" valign="top" char="." charoff="50">0.22</td></tr><tr><td align="left" valign="top" charoff="50">E</td><td align="char" valign="top" char="." charoff="50">1.02</td><td align="char" valign="top" char="." charoff="50">0.14</td><td align="char" valign="top" char="." charoff="50">0.07</td><td align="char" valign="top" char="." charoff="50">0.6</td></tr><tr><td align="left" valign="top" charoff="50">F</td><td align="char" valign="top" char="." charoff="50">1.2</td><td align="char" valign="top" char="." charoff="50">0.16</td><td align="char" valign="top" char="." charoff="50">0.08</td><td align="char" valign="top" char="." charoff="50">0.7</td></tr><tr><td align="left" valign="top" charoff="50">G</td><td align="char" valign="top" char="." charoff="50">0.02</td><td align="char" valign="top" char="." charoff="50">0.003</td><td align="char" valign="top" char="." charoff="50">0.001</td><td align="char" valign="top" char="." charoff="50">0.01</td></tr><tr><td align="left" valign="top" charoff="50">H</td><td align="char" valign="top" char="." charoff="50">0.12</td><td align="char" valign="top" char="." charoff="50">0.02</td><td align="char" valign="top" char="." charoff="50">0.008</td><td align="char" valign="top" char="." charoff="50">0.07</td></tr></tbody></table></table-wrap></floats-group></article>

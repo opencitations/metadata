@@ -1,0 +1,640 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Br J Haematol</journal-id><journal-id journal-id-type="iso-abbrev">Br. J. Haematol</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1365-2141</journal-id><journal-id journal-id-type="publisher-id">BJH</journal-id><journal-title-group><journal-title>British Journal of Haematology</journal-title></journal-title-group><issn pub-type="ppub">0007-1048</issn><issn pub-type="epub">1365-2141</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">25757087</article-id><article-id pub-id-type="pmc">4654909</article-id><article-id pub-id-type="doi">10.1111/bjh.13335</article-id><article-id pub-id-type="publisher-id">BJH13335</article-id><article-categories><subj-group subj-group-type="overline"><subject>Research Paper</subject></subj-group><subj-group subj-group-type="heading"><subject>Haematological Malignancy</subject></subj-group></article-categories><title-group><article-title>
+<styled-content style="fixed-case">CXCR</styled-content>2 modulates bone marrow vascular repair and haematopoietic recovery post&#x02010;transplant</article-title><alt-title alt-title-type="left-running-head">S. J. M. Hale <italic>et&#x000a0;al</italic></alt-title></title-group><contrib-group><contrib id="bjh13335-cr-0001" contrib-type="author"><name><surname>Hale</surname><given-names>Sarah J. M.</given-names></name><xref ref-type="aff" rid="bjh13335-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="bjh13335-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="bjh13335-cr-0002" contrib-type="author"><name><surname>Hale</surname><given-names>Ashley B. H.</given-names></name><xref ref-type="aff" rid="bjh13335-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="bjh13335-cr-0003" contrib-type="author"><name><surname>Zhang</surname><given-names>Youyi</given-names></name><xref ref-type="aff" rid="bjh13335-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="bjh13335-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="bjh13335-cr-0004" contrib-type="author"><name><surname>Sweeney</surname><given-names>Dominic</given-names></name><xref ref-type="aff" rid="bjh13335-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="bjh13335-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="bjh13335-cr-0005" contrib-type="author"><name><surname>Fisher</surname><given-names>Nita</given-names></name><xref ref-type="aff" rid="bjh13335-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="bjh13335-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="bjh13335-cr-0006" contrib-type="author"><name><surname>van der Garde</surname><given-names>Mark</given-names></name><xref ref-type="aff" rid="bjh13335-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="bjh13335-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="bjh13335-cr-0007" contrib-type="author"><name><surname>Grabowska</surname><given-names>Rita</given-names></name><xref ref-type="aff" rid="bjh13335-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="bjh13335-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="bjh13335-cr-0008" contrib-type="author"><name><surname>Pepperell</surname><given-names>Emma</given-names></name><xref ref-type="aff" rid="bjh13335-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="bjh13335-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="bjh13335-cr-0009" contrib-type="author"><name><surname>Channon</surname><given-names>Keith</given-names></name><xref ref-type="aff" rid="bjh13335-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="bjh13335-cr-0010" contrib-type="author" corresp="yes"><name><surname>Martin&#x02010;Rendon</surname><given-names>Enca</given-names></name><xref ref-type="aff" rid="bjh13335-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="bjh13335-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="author-notes" rid="bjh13335-note-0001">
+<sup>&#x02020;</sup>
+</xref></contrib><contrib id="bjh13335-cr-0011" contrib-type="author"><name><surname>Watt</surname><given-names>Suzanne M.</given-names></name><xref ref-type="aff" rid="bjh13335-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="bjh13335-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="author-notes" rid="bjh13335-note-0001">
+<sup>&#x02020;</sup>
+</xref></contrib></contrib-group><aff id="bjh13335-aff-0001"><label><sup>1</sup></label><named-content content-type="organisation-division">Stem Cell Research Laboratory</named-content><named-content content-type="organisation-division">NHS Blood and Transplant</named-content><institution>John Radcliffe Hospital</institution><named-content content-type="city">Oxford</named-content><country country="GB">UK</country></aff><aff id="bjh13335-aff-0002"><label><sup>2</sup></label><named-content content-type="organisation-division">Nuffield Division of Clinical and Laboratory Sciences</named-content><named-content content-type="organisation-division">Radcliffe Department of Medicine</named-content><institution>University of Oxford</institution><institution>John Radcliffe Hospital</institution><named-content content-type="city">Oxford</named-content><country country="GB">UK</country></aff><aff id="bjh13335-aff-0003"><label><sup>3</sup></label><named-content content-type="organisation-division">Cardiovascular Medicine</named-content><named-content content-type="organisation-division">Radcliffe Department of Medicine</named-content><institution>University of Oxford</institution><institution>John Radcliffe Hospital</institution><named-content content-type="city">Oxford</named-content><country country="GB">UK</country></aff><author-notes><corresp id="correspondenceTo"><label>*</label>
+Correspondence: Enca Martin&#x02010;Rendon, Stem Cell Research Laboratory, Nuffield Division of Clinical Laboratory Sciences, Radcliffe Department of Medicine, University of Oxford, John Radcliffe Hospital, Headington, Oxford OX3 9DU, UK.<break/>
+E&#x02010;mail: <email>enca.rendon@ndcls.ox.ac.uk</email><break/></corresp><fn id="bjh13335-note-0001"><label>&#x02020;</label><p>Joint last and senior authors.</p></fn></author-notes><pub-date pub-type="epub"><day>09</day><month>3</month><year>2015</year></pub-date><pub-date pub-type="ppub"><month>5</month><year>2015</year></pub-date><volume>169</volume><issue>4</issue><issue-id pub-id-type="doi">10.1111/bjh.2015.169.issue-4</issue-id><fpage>552</fpage><lpage>564</lpage><history><date date-type="received"><day>25</day><month>9</month><year>2014</year></date><date date-type="accepted"><day>02</day><month>1</month><year>2015</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> Copyright &#x000a9; 2015 John Wiley & Sons Ltd <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2015 The Authors. <italic>British Journal of Haematology</italic> published by John Wiley &#x00026; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:bjh0169-0552.pdf"/><abstract id="bjh13335-abs-0001"><title>Summary</title><p>Murine models of bone marrow transplantation show that pre&#x02010;conditioning regimens affect the integrity of the bone marrow endothelium and that the repair of this vascular niche is an essential pre&#x02010;requisite for successful haematopoietic stem and progenitor cell engraftment. Little is known about the angiogenic pathways that play a role in the repair of the human bone marrow vascular niche. We therefore established an <italic>in vitro</italic> humanized model, composed of bone marrow stromal and endothelial cells and have identified several pro&#x02010;angiogenic factors, <styled-content style="fixed-case">VEGFA</styled-content>,<styled-content style="fixed-case"> ANGPT</styled-content>1, <styled-content style="fixed-case">CXCL</styled-content>8 and <styled-content style="fixed-case">CXCL</styled-content>16, produced by the stromal component of this niche. We demonstrate for the first time that addition of <styled-content style="fixed-case">CXCL</styled-content>8 or inhibition of its receptor, <styled-content style="fixed-case">CXCR</styled-content>2, modulates blood vessel formation in our bone marrow endothelial niche model. Compared to wild type, <italic>Cxcr2</italic>
+<sup>&#x02212;/&#x02212;</sup> mice displayed a reduction in bone marrow cellularity and delayed platelet and leucocyte recovery following myeloablation and bone marrow transplantation. The delay in bone marrow recovery correlated with impaired bone marrow vascular repair. Taken together, our data demonstrate that <styled-content style="fixed-case">CXCR</styled-content>2 regulates bone marrow blood vessel repair/regeneration and haematopoietic recovery, and clinically may be a therapeutic target for improving bone marrow transplantation.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="bjh13335-kwd-0001">bone marrow transplantation</kwd><kwd id="bjh13335-kwd-0002">stem cell niche</kwd><kwd id="bjh13335-kwd-0003">bone marrow vascular niche</kwd><kwd id="bjh13335-kwd-0004"><styled-content style="fixed-case">CXCL</styled-content>8</kwd><kwd id="bjh13335-kwd-0005"><styled-content style="fixed-case">CXCR</styled-content>2</kwd></kwd-group><funding-group><award-group><funding-source>National Institute of Health Research</funding-source><award-id>RP&#x02010;PG&#x02010;0310&#x02010;1003</award-id><award-id>RP&#x02010;PG&#x02010;0310&#x02010;1001</award-id></award-group></funding-group><funding-group><award-group><funding-source>NHS Blood and Transplant Trust Fund</funding-source><award-id>TF034</award-id></award-group></funding-group><funding-group><award-group><funding-source>Oxford NIHR Biomedical Research Centre</funding-source></award-group></funding-group><funding-group><award-group><funding-source>British Heart Foundation</funding-source></award-group></funding-group><counts><page-count count="13"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>bjh13335</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>May 2015</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:4.9.1 mode:remove_FC converted:04.07.2016</meta-value></custom-meta></custom-meta-group></article-meta><notes><fn-group id="bjh13335-ntgp-0001"><fn id="bjh13335-note-1101"><p>The copyright line for this article was changed on 19 May 2016 after original online publication.</p></fn></fn-group></notes></front><body><p>Haematopoietic stem and progenitor cells (HSPCs) are responsible for the generation and maintenance of all the blood cells in the body. In adults, the major site of haematopoiesis is the bone marrow, a structure which houses cellular components that form specialized micro&#x02010;environmental niches, which tightly control the quiescence, self&#x02010;renewal and differentiation of HSPCs (Wolf &#x00026; Trentin, <xref rid="bjh13335-bib-0036" ref-type="ref">1968</xref>; Schofield, <xref rid="bjh13335-bib-0030" ref-type="ref">1978</xref>; Wilson &#x00026; Trumpp, <xref rid="bjh13335-bib-0035" ref-type="ref">2006</xref>; Sacchetti <italic>et&#x000a0;al</italic>, <xref rid="bjh13335-bib-0028" ref-type="ref">2007</xref>; Morrison &#x00026; Spradling, <xref rid="bjh13335-bib-0021" ref-type="ref">2008</xref>; Sugiyama &#x00026; Nagasawa, <xref rid="bjh13335-bib-0034" ref-type="ref">2012</xref>; Ding &#x00026; Morrison, <xref rid="bjh13335-bib-0011" ref-type="ref">2013</xref>). Studies in mice have demonstrated that pre&#x02010;conditioning regimes prior to bone marrow transplantation (BMT) can significantly affect the integrity of the bone marrow vasculature and that vascular repair of this niche following pre&#x02010;conditioning is an essential pre&#x02010;requisite for successful HSPC engraftment (Rafii <italic>et&#x000a0;al</italic>, <xref rid="bjh13335-bib-0025" ref-type="ref">2003</xref>; Avecilla <italic>et&#x000a0;al</italic>, <xref rid="bjh13335-bib-0001" ref-type="ref">2004</xref>; Kopp <italic>et&#x000a0;al</italic>, <xref rid="bjh13335-bib-0018" ref-type="ref">2005</xref>; Hooper <italic>et&#x000a0;al</italic>, <xref rid="bjh13335-bib-0014" ref-type="ref">2009</xref>; Butler <italic>et&#x000a0;al</italic>, <xref rid="bjh13335-bib-0007" ref-type="ref">2010</xref>; Kobayashi <italic>et&#x000a0;al</italic>, <xref rid="bjh13335-bib-0017" ref-type="ref">2010</xref>). Slayton <italic>et&#x000a0;al</italic> (<xref rid="bjh13335-bib-0033" ref-type="ref">2007</xref>) also showed that the regenerated bone marrow sinusoidal endothelium following pre&#x02010;conditioning is host&#x02010;derived. These studies highlight the importance of the vascular niche in BMT and warrant further research focused on modulating the repair of this niche for therapeutic intervention.</p><p>Although a role for positive regulators of murine bone marrow angiogenesis, such as Angiopoietin 1 (ANGPT1) and vascular endothelial growth factor A (VEGFA), has started to emerge (Avecilla <italic>et&#x000a0;al</italic>, <xref rid="bjh13335-bib-0001" ref-type="ref">2004</xref>; Kopp <italic>et&#x000a0;al</italic>, <xref rid="bjh13335-bib-0018" ref-type="ref">2005</xref>; Hooper <italic>et&#x000a0;al</italic>, <xref rid="bjh13335-bib-0014" ref-type="ref">2009</xref>), studies on the human bone marrow endothelial niche have been hampered by a lack of suitable tissue&#x02010;specific <italic>in vitro</italic> models. Chemokine (C&#x02010;X&#x02010;C motif) ligand 8 (CXCL8), a chemokine produced by various cells, is widely associated with inflammation and neutrophil recruitment, but is also a potent human pro&#x02010;angiogenic factor (Heidemann <italic>et&#x000a0;al</italic>, <xref rid="bjh13335-bib-0013" ref-type="ref">2003</xref>; Kimura <italic>et&#x000a0;al</italic>, <xref rid="bjh13335-bib-0016" ref-type="ref">2011</xref>; Singh <italic>et&#x000a0;al</italic>, <xref rid="bjh13335-bib-0032" ref-type="ref">2011</xref>; Roubelakis <italic>et&#x000a0;al</italic>, <xref rid="bjh13335-bib-0027" ref-type="ref">2013</xref>). Additionally, the CXCL8/chemokine (C&#x02010;X&#x02010;C motif) receptor 2 (CXCR2) pathway can be targeted to inhibit tumour angiogenesis (Singh <italic>et&#x000a0;al</italic>, <xref rid="bjh13335-bib-0031" ref-type="ref">2010</xref>; Nannuru <italic>et&#x000a0;al</italic>, <xref rid="bjh13335-bib-0022" ref-type="ref">2011</xref>). However, the role of this chemokine and receptor in supporting bone marrow angiogenesis and haematopoietic recovery following myeloablation is novel and has not been previously investigated.</p><p>In this study, we found that the CXCL8/CXCR2 pathway modulated bone marrow angiogenesis and therefore haematopoiesis. These results may be relevant both clinically and in strategies aimed at improving HSPC reconstitution.</p><sec id="bjh13335-sec-0002"><title>Methods</title><sec id="bjh13335-sec-0003"><title>Cells</title><p>Bone marrow endothelial cells (BMEC&#x02010;60, subsequently referred to as BMEC) were obtained from Professor E van der Schoot (Rood <italic>et&#x000a0;al</italic>, <xref rid="bjh13335-bib-0026" ref-type="ref">2000</xref>). These cells and human umbilical vein endothelial cells (HUVEC; Lonza, Cambridge, UK) were cultured in Endothelial Cell Growth Medium&#x02010;2 (EGM&#x02010;2; Lonza) according to the manufacturer's instructions. In some experiments endothelial cells were labelled with a lentiviral vector system encoding eGFP (a kind gift from Professor Adrian Thrasher, Institute of Child Health, London) at a multiplicity of infection of 4, as previously described (Roubelakis <italic>et&#x000a0;al</italic>, <xref rid="bjh13335-bib-0027" ref-type="ref">2013</xref>). Human bone marrow stromal cells (hBMSC; catalogue number 2M&#x02010;302) and primary human dermal fibroblasts (hDF, catalogue number CC&#x02010;2511; CD90<sup>+</sup>, CD105<sup>+</sup>, CD45<sup>&#x02212;</sup>, CD31<sup>&#x02212;</sup>, CD34<sup>&#x02212;</sup>, CD14<sup>&#x02212;</sup>) were obtained from Lonza and cultured in Myelocult medium (Stem Cell Technologies, Cambridge, UK) supplemented with hydrocortisone (10<sup>&#x02212;6</sup>&#x000a0;mol/l) or Dulbecco's modified Eagle's medium supplemented with 10% (v/v) fetal calf serum (FCS) respectively, and used at passage 3&#x02013;5. Human umbilical cord blood (UCB) units were collected from the John Radcliffe Hospital, Oxford, with informed consent and ethical permission. HSPCs were purified using the Magnetic&#x02010;activated cell sorting (MACS) CD133 cell isolation kit (Miltenyi Biotec, Bisley, UK) as described previously (Pepperell &#x00026; Watt, <xref rid="bjh13335-bib-0023" ref-type="ref">2013</xref>).</p></sec><sec id="bjh13335-sec-0004"><title>Bone marrow endothelial niche assay</title><p>Human bone marrow stromal cells or hDF and BMEC or HUVEC were co&#x02010;cultured at various cell ratios in bio&#x02010;coat plates (BD Biosciences, Oxford, UK) for up to 14&#x000a0;d in complete EGM&#x02010;2 supplemented with 8% (v/v) FCS. hDF and HUVEC were co&#x02010;cultured as previously described (Khoo <italic>et&#x000a0;al</italic>, <xref rid="bjh13335-bib-0015" ref-type="ref">2011</xref>; Zhou <italic>et&#x000a0;al</italic>, <xref rid="bjh13335-bib-0039" ref-type="ref">2012</xref>). Complete media changes were performed every 2&#x02013;3&#x000a0;d. In some experiments CXCL8 or neutralizing antibodies were added to the co&#x02010;cultures every 2&#x02013;3&#x000a0;d at concentrations indicated in the figure legends. Co&#x02010;cultures were fixed with 4% (w/v) paraformaldehyde (PFA) and stained with CD31 antibody as described previously (Zhang <italic>et&#x000a0;al</italic>, <xref rid="bjh13335-bib-0038" ref-type="ref">2009</xref>), or monitored directly for eGFP expression. Images of vessel networks were captured using a fluorescence microscope (TE2000&#x02010;U; Nikon Ltd., Kingston upon Thames, UK) at &#x000d7;4 magnification. Images were recorded using the Simple PCI, version 6.6.0.0 software (Hamamatsu Corporation, Welwyn Garden City, UK) and then processed using Adobe Photoshop CS2 9.0.2 (Reindeer Graphics, Asheville, NC, USA). Vessel networks were analysed using the Angiosys 1.0 software (TCS Cell Works, Buckingham, UK) as described elsewhere (Zhou <italic>et&#x000a0;al</italic>, <xref rid="bjh13335-bib-0039" ref-type="ref">2012</xref>). For co&#x02010;culture experiments with HSPCs, BMEC or HUVEC and hBMSC was first co&#x02010;cultured in complete EGM&#x02010;2 containing 8% (v/v) FCS for a period of 12&#x02013;14&#x000a0;d before treatment with 10&#x000a0;&#x003bc;g/ml mitomycin C (Sigma&#x02010;Aldrich Ltd., Gillingham, UK) for 1&#x000a0;h. Cells were then washed prior to addition of 5000 HSPCs/well. Co&#x02010;cultures were then maintained in Myelocult medium (Stem Cell Technologies) supplemented with 10<sup>&#x02212;6</sup>&#x000a0;mol/l hydrocortisone without cytokine supplementation.</p></sec><sec id="bjh13335-sec-0005"><title>Transwell migration assay</title><p>Bone marrow endothelial cells were plated on to 8&#x02010;&#x003bc;mol/l 24&#x02010;well plate transwell filters (BD Biosciences) and left to adhere overnight in complete EGM&#x02010;2. Next day, the lower wells were replaced with complete EGM&#x02010;2 supplemented with either 100&#x000a0;ng/ml CXCL8 (Peprotech, London, UK) and incubated for a further 24&#x000a0;h. Post&#x02010;migration cells remaining on the upper part of the transwell were carefully removed with a cotton bud. Filters were then removed from the housing and mounted onto slides with fluorescent mounting media containing 4&#x02032;,6&#x02010;diamidino&#x02010;2&#x02010;phenylindole (DAPI; Vector Laboratories, Peterborough, UK). Migrated cells were viewed at &#x000d7;60 magnification using a fluorescent microscope (TE2000&#x02010;U; Nikon Ltd.) and 10 randomly selected fields per transwell were counted manually.</p></sec><sec id="bjh13335-sec-0006"><title>Flow cytometry</title><p>For flow cytometric analysis of HSPCs, suspension cells were harvested, treated with FcR blocking reagent (Miltenyi Biotec) and stained with CD45&#x02010;peridinin chlorophyll&#x02010;cyanin 5.5 (CD45&#x02010;PerCP&#x02010;CY5.5; mIgG1, Clone TU116; BD Biosciences), or CD34&#x02010;allophycocyanin (CD34&#x02010;APC; mIgG2a, Clone AC136) and CD133&#x02010;phycoerythrin (CD133&#x02010;PE; mIgG2b, Clone AC133) antibodies or matched isotype control antibodies (Miltenyi Biotec). For analysis of hBMSC, cells were trypsinized and then stained with either CD31&#x02010;PE (mIgG1, Clone WM9), CD44&#x02010;PE (mIgG1, Clone 515), CD14&#x02010;PE&#x02010;CY7 (mIgG2a, Clone M5E2), CD29&#x02010;PE (mIgG1, Clone MAR4), CD45&#x02010;PerCP (mIgG1, Clone 2D1; all BD Biosciences), CD90&#x02010;fluorescein isothiocyanate (CD90&#x02010;FITC; mIgG1, 5E10), CD105&#x02010;FITC (mIgG1, 166707), CD166&#x02010;PE (mIgG1, Clone 105902; all R&#x00026;D Systems, Abingdon, UK) or CD34&#x02010;APC (mIgG2a, AC136; Miltenyi Biotech) antibodies or matched isotype controls from the same manufacturer. For analysis of bone marrow endothelium, mouse bones were harvested 4&#x000a0;d post&#x02010;irradiation, crushed and then stained with a panel of haematopoietic/endothelial markers exactly as described previously by Hooper <italic>et&#x000a0;al</italic> (<xref rid="bjh13335-bib-0014" ref-type="ref">2009</xref>). In these experiments DAPI was used to distinguish dead and viable cells. Data were acquired using a BD LSR II flow cytometer and analysed using the FACS Diva software (BD Biosciences).</p></sec><sec id="bjh13335-sec-0007"><title>Angiogenic protein analysis</title><p>Conditioned media (CM) were collected from hBMSC or hDF after culturing them in EGM&#x02010;2 for 48&#x000a0;h. Human Angiogenesis Antibody Arrays (R&#x00026;D systems) were performed as per the manufacturer's instructions and analysed using ImageJ analysis software (<ext-link ext-link-type="uri" xlink:href="http://imagej.nih.gov/ij/">http://imagej.nih.gov/ij/</ext-link>) to determine mean pixel density (MPD) (Roubelakis <italic>et&#x000a0;al</italic>, <xref rid="bjh13335-bib-0027" ref-type="ref">2013</xref>). The relative MPD for each protein tested was calculated as a percentage of the positive assay control after subtraction of the negative control MPD. Specific cytokines were quantified using Quantikine enzyme&#x02010;linked immunosorbent assay (ELISA) kits according to the manufacturer's instructions (R&#x00026;D Systems).</p></sec><sec id="bjh13335-sec-0008"><title>Endothelial tubule formation assay</title><p>eGFP&#x02010;labelled BMEC were plated onto growth factor reduced Matrigel as described previously (Khoo <italic>et&#x000a0;al</italic>, <xref rid="bjh13335-bib-0015" ref-type="ref">2011</xref>). Cytokines or carrier control was added to the wells at the concentrations indicated in the figures. For blocking studies, anti&#x02010;human CXCR2 neutralizing antibody (R&#x00026;D systems, clone 48311) was added together with recombinant human CXCL8 (Peprotech). Cells were incubated at 37&#x000b0;C for 16&#x000a0;h and eGFP<sup>+</sup> vessel networks were captured directly at &#x000d7;10 magnification using a fluorescence microscope (TE2000&#x02010;U; Nikon Ltd.). Images were recorded using the Simple PCI version 6.6.0.0 software and then processed using Adobe Photoshop CS2 9.0.2. Vessel networks were then analysed using the Angiosys 1.0 software.</p></sec><sec id="bjh13335-sec-0009"><title>Immunohistochemistry of cultured cells and bone marrow</title><p>Cells were fixed with PFA and permeabilized (Triton &#x000d7;100) before incubation with anti&#x02010;human CXCL12 (Abcam, Cambridge, UK; rabbit polyclonal), anti&#x02010;human SCF (Abcam; rabbit polyclonal), anti&#x02010;human CXCR2 (R&#x00026;D systems, clone 48311), anti&#x02010;human CXCL8 (eBiosciences, Hatfield, UK; clone NAPII) or isotype controls from the same manufacturer. Anti&#x02010;mouse or rabbit Alexafluor 555 secondary antibody were used for detection (Invitrogen Ltd., Paisley, UK). Images were taken at &#x000d7;40/60 magnification using a fluorescence microscope (TE2000&#x02010;U; Nikon Ltd.), captured using Axiovision software (Carl Zeiss Microscopy Ltd, Cambridge UK) and then processed using Adobe Photoshop CS2 9.0.2. Mouse bone marrow endothelial staining was performed as previously described (Hooper <italic>et&#x000a0;al</italic>, <xref rid="bjh13335-bib-0014" ref-type="ref">2009</xref>). Type I and II sinusoidal vessels were quantified at &#x000d7;60 magnification by two independent researchers using at least five random fields per femur. Images were taken using an inverted light microscope (TE600; Nikon Ltd.) and captured using Axiovision software. Paraffin&#x02010;embedded human reactive bone marrow trephine biopsies were obtained from the Department of Cellular Pathology at the John Radcliffe Hospital, Oxford, UK, then sectioned, deparaffinized, rehydrated and antigen retrieval performed. Samples were blocked with 5% (v/v) bovine serum albumin and 10% (v/v) normal goat serum (both Sigma&#x02010;Aldrich), before incubation with anti&#x02010;human CD31 antibody (clone WM59; AbD Serotec, Kidlinton, UK) and anti&#x02010;human CXCR2 antibody (clone 48311; R&#x00026;D Systems) or isotype controls overnight at 4&#x000b0;C. Staining was visualized using anti&#x02010;mouse IgG1 conjugated to Alexa 555 and anti&#x02010;mouse IgG2a conjugated to Alexa 488 for 1&#x000a0;h at room temperature (Life Technologies, Paisley, UK). Sections were mounted in SlowFade Gold anti&#x02010;fade reagent with DAPI (Life Technologies) before visualization by fluorescence microscopy (TE600; Nikon Ltd.). Images were captured using Axiovision software.</p></sec><sec id="bjh13335-sec-0010"><title>Animals and transplantation studies</title><p>Mice were housed in individually ventilated cages and handled using aseptic techniques. Male and female B6.129S2(C)&#x02010;<italic>Cxcr2</italic>
+<sup><italic>tm1Mwm</italic></sup>/J mice, heterozygous for <italic>Cxcr2</italic> were obtained from Jackson Laboratories (Bar Harbor, ME, USA) and bred in&#x02010;house. Twelve 16&#x02010;week&#x02010;old, age&#x02010; and sex&#x02010;matched littermates were treated prophylactically with antibiotics (Septrin; 1&#x000a0;mg/ml drinking water) for 7&#x000a0;d prior to and during the entire duration of the transplantation studies. Animals were treated with a total of 9&#x000b7;5&#x000a0;Gy, administered by split dose, prior to a single intravenous injection of 1&#x000a0;&#x000d7;&#x000a0;10<sup>6</sup> wild type mouse bone marrow. Blood samples were collected into heparinized capillary tubes (Fisher Scientific, Loughborough, UK) at days 4, 7, 10 and 14 post&#x02010;irradiation. Bone marrow was collected at days 4 and 14 post&#x02010;irradiation (as indicated in the figure legends) and either fixed and sectioned as above, or by crushing sets of tibias and fibias using a pestle and mortar and then graded needles and syringes to generate a single cell suspension. Blood and bone marrow analysis was performed using a veterinary ABC analyser using a mouse species analysis card (Horiba, Northampton, UK). All animal experiments were reviewed and approved by the University of Oxford Animal Ethical Review Committee and conducted under the authority of the relevant UK Home Office approved licences.</p></sec><sec id="bjh13335-sec-0011"><title>Statistics</title><p>Data are presented as means&#x000a0;&#x000b1;&#x000a0;standard deviation from at least three independent experiments with statistical significance calculated using the Student's <italic>t</italic>&#x02010;test. <italic>P</italic> values&#x000a0;&#x02264;&#x000a0;0&#x000b7;05 were considered statistically significant.</p></sec></sec><sec id="bjh13335-sec-0012"><title>Results</title><sec id="bjh13335-sec-0013"><title>Human bone marrow endothelial cells form quantifiable vessel networks when co&#x02010;cultured with human bone marrow stromal cells and maintain haematopoietic progenitor cells <italic>in vitro</italic>
+</title><p>We set out to establish a humanized bone marrow endothelial niche model by co&#x02010;culturing primary hBMSC with human bone marrow endothelial cells (BMEC). At various BMEC:hBMSC cell ratios all generated recognizable vascular structures <italic>in vitro</italic> (Figure S1A). In order to determine whether the ability of BMEC to form tubule networks <italic>in vitro</italic> depended on bone marrow <italic>versus</italic> non&#x02010;bone marrow stromal cells, we co&#x02010;cultured BMEC and hBMSC or hDF, using HUVEC as a positive control. Figure&#x000a0;<xref rid="bjh13335-fig-0001" ref-type="fig">1</xref> shows representative images and quantification of the optimal vessel formation achieved when co&#x02010;culturing BMEC or HUVEC with either hBMSC or hDF at the optimal endothelial:stromal cell ratio. hBMSC supported vessel formation of both BMEC and HUVEC (Fig&#x000a0;<xref rid="bjh13335-fig-0001" ref-type="fig">1</xref>A and C). Surprisingly, after testing a wide range of endothelial:hDF co&#x02010;culture ratios and several batches of primary hDF, we consistently found that they failed to support significant vessel network formation of BMEC (Fig&#x000a0;<xref rid="bjh13335-fig-0001" ref-type="fig">1</xref>B), whilst hDF supported robust vessel formation of HUVEC (Fig&#x000a0;<xref rid="bjh13335-fig-0001" ref-type="fig">1</xref>D). These data indicate that hBMSC supported vessel formation of both BMEC and HUVEC, with no statistically significant difference (<italic>P</italic>&#x000a0;=&#x000a0;0&#x000b7;08) in the number of junctions (branch points) (Fig&#x000a0;<xref rid="bjh13335-fig-0001" ref-type="fig">1</xref>E) or tubules (Fig&#x000a0;<xref rid="bjh13335-fig-0001" ref-type="fig">1</xref>F) obtained. Although we noted that co&#x02010;culture of BMEC with hBMSC seemed to result in shorter total tubule length, than those of HUVEC co&#x02010;cultures with hBMSC, this did not quite reach statistical significance (Fig&#x000a0;<xref rid="bjh13335-fig-0001" ref-type="fig">1</xref>G; <italic>P</italic>&#x000a0;=&#x000a0;0&#x000b7;06). In contrast, in co&#x02010;culture with BMEC, hDF supported significantly less vessel formation, with 12&#x02010;fold fewer junctions (Fig&#x000a0;<xref rid="bjh13335-fig-0001" ref-type="fig">1</xref>H), 7&#x000b7;5&#x02010;fold shorter tubules (Fig&#x000a0;<xref rid="bjh13335-fig-0001" ref-type="fig">1</xref>I) and 26&#x02010;fold less total tubules (Fig&#x000a0;<xref rid="bjh13335-fig-0001" ref-type="fig">1</xref>J), than HUVEC co&#x02010;cultured with hDF (<italic>P</italic>&#x000a0;&#x02264;&#x000a0;0&#x000b7;05). Taken together, these data indicate that hDF are unable to support significant vessel formation of BMEC.</p><fig fig-type="Figure" xml:lang="en" id="bjh13335-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Human bone marrow stromal cells but not human dermal fibroblasts (hDF) support tubule formation of bone marrow endothelial cells. Human bone marrow stromal cells (<styled-content style="fixed-case">hBMSC</styled-content>) or <styled-content style="fixed-case">hDF</styled-content> were co&#x02010;cultured with either human bone marrow endothelial cell (<styled-content style="fixed-case">BMEC</styled-content>) or human umbilical vein endothelial cells (<styled-content style="fixed-case">HUVEC</styled-content>) for 14&#x000a0;d in complete Endothelial Cell Growth Medium&#x02010;2 supplemented with 8% (v/v) fetal calf serum. Vessel networks were visualized by staining with <styled-content style="fixed-case">CD</styled-content>31 antibody. Representative images of vessel formation (scale bars 500&#x000a0;&#x003bc;m) are shown from co&#x02010;cultures of <styled-content style="fixed-case">BMEC</styled-content> with <styled-content style="fixed-case">hBMSC</styled-content> (A), <styled-content style="fixed-case">BMEC</styled-content> with <styled-content style="fixed-case">hDF</styled-content> (B), <styled-content style="fixed-case">HUVEC</styled-content> with <styled-content style="fixed-case">hBMSC</styled-content> (C) and <styled-content style="fixed-case">HUVEC</styled-content> with <styled-content style="fixed-case">hDF</styled-content> (D) at optimal cell ratios (6&#x000a0;&#x000d7;&#x000a0;10<sup>3</sup>
+<styled-content style="fixed-case">BMEC</styled-content>/<styled-content style="fixed-case">HUVEC</styled-content>: 4&#x000a0;&#x000d7;&#x000a0;10<sup>4</sup>
+<styled-content style="fixed-case">hBMSC</styled-content> and 1&#x000b7;5&#x000a0;&#x000d7;&#x000a0;10<sup>3</sup>
+<styled-content style="fixed-case">BMEC</styled-content>/<styled-content style="fixed-case">HUVEC</styled-content>: 1&#x000a0;&#x000d7;&#x000a0;10<sup>4</sup>
+<styled-content style="fixed-case">hDF</styled-content>). Quantification of number of junctions (branch points; E), number of tubules (F) and total tubule length (G) for <styled-content style="fixed-case">HUVEC</styled-content> or <styled-content style="fixed-case">BMEC</styled-content> co&#x02010;cultured with <styled-content style="fixed-case">hBMSC</styled-content> and number of junctions (H), number of tubules (I) and total tubule length (J) for <styled-content style="fixed-case">HUVEC</styled-content> or <styled-content style="fixed-case">BMEC</styled-content> co&#x02010;cultured with <styled-content style="fixed-case">hDF</styled-content> are shown. Results were analysed using Student's <italic>t</italic>&#x02010;test, *<italic>P</italic>&#x000a0;&#x02264;&#x000a0;0&#x000b7;05. Data are mean&#x000a0;&#x000b1;&#x000a0;standard deviation of at least three separate experiments using at least two separate batches of <styled-content style="fixed-case">hDF</styled-content> and <styled-content style="fixed-case">hBMSC</styled-content>.</p></caption><graphic id="nlm-graphic-1" xlink:href="bjh0169-0552-f1"/></fig><p>Phenotypic analysis of hBMSC by flow cytometry revealed that whilst these cells lack expression of haematopoietic and endothelial markers (e.g. CD31, CD45, CD34), they do express typical mesenchymal/fibroblastic markers, such as CD166, CD44, CD29, CD105 and CD90, at high levels (&#x0003e;87%; Figure S1B), thus confirming that hBMSC displayed a similar phenotype to that of hDF and mesenchymal stem cells (Blasi <italic>et&#x000a0;al</italic>, <xref rid="bjh13335-bib-0006" ref-type="ref">2011</xref>).</p><p>In order to confirm that our <italic>in vitro</italic> angiogenic model also provides a niche for HSPCs, we established vessel networks for 14&#x000a0;d before the addition of purified UCB CD34<sup>+</sup>CD133<sup>+</sup> HSPCs. After a further culture period of 12&#x000a0;d in basic haematopoietic culture media (Myelocult) without addition of cytokines, cells were harvested, counted and their immunophenotype assessed by flow cytometry. Compared to the input, co&#x02010;culture of HSPCs with hBMSC alone, or hBMSC and BMEC resulted in a 3&#x000b7;6&#x02010; to 4&#x000b7;0&#x02010;fold increase in total viable nucleated cells (Figure S2A; *<italic>P</italic>&#x000a0;&#x02264;&#x000a0;0&#x000b7;05) and the total number of CD45<sup>+</sup>CD34<sup>+</sup>CD133<sup>+</sup> cells compared to that of the input was not significantly reduced when HSPCs were co&#x02010;cultured with hBMSC and BMEC (Figure S2B; <italic>P</italic>&#x000a0;=&#x000a0;0&#x000b7;20), despite rapid attrition of HSPCs in conditions without additional cytokines or supportive cells. We also found that key haematopoietic cytokines, such as CXCL12 and SCF, known to affect HSPC fate and retention within the bone marrow niche <italic>in vivo</italic> (Barker, <xref rid="bjh13335-bib-0002" ref-type="ref">1994</xref>, <xref rid="bjh13335-bib-0003" ref-type="ref">1997</xref>; Wright <italic>et&#x000a0;al</italic>, <xref rid="bjh13335-bib-0037" ref-type="ref">2005</xref>), were also expressed in our model (Figure S2E). Taken together, these data indicate that our <italic>in vitro</italic> model of the niche not only supports angiogenesis, but also provides a niche for maintaining HSPCs.</p></sec><sec id="bjh13335-sec-0014"><title>Differential expression of pro&#x02010;angiogenic proteins in human bone marrow stromal cells and human dermal fibroblasts</title><p>It is acknowledged that it is difficult to distinguish between different stromal cell sources by phenotypic characterization (Blasi <italic>et&#x000a0;al</italic>, <xref rid="bjh13335-bib-0006" ref-type="ref">2011</xref>). Indeed, we found that hBMSC and hDF displayed similar immune&#x02010;phenotypes, but rather different ability to support blood vessel formation by BMEC. Therefore, we next determined the angiogenic profiles of hBMSC and hDF. To this end, we performed angiogenic antibody arrays to compare the relative expression of 55 known human angiogenic proteins in hBMSC <italic>versus</italic> hDF cells. Figure&#x000a0;<xref rid="bjh13335-fig-0002" ref-type="fig">2</xref>A shows representative blots of the angiogenic arrays from either hBMSC or hDF CM. We identified a total of six factors with significantly and consistently higher expression levels in CM collected from all hBMSC batches, compared to all hDF batches used (<italic>P</italic>&#x000a0;&#x02264;&#x000a0;0&#x000b7;05; Fig&#x000a0;<xref rid="bjh13335-fig-0002" ref-type="fig">2</xref>B). Using this method, we identified significant differences (<italic>P</italic>&#x000a0;&#x02264;&#x000a0;0&#x000b7;05) in the anti&#x02010;angiogenic factors, platelet factor 4 (PF4) and tissue inhibitor of metalloproteinase 4 and also in the pro&#x02010;angiogenic factors VEGFA, ANGPT1, CXCL8 and chemokine (C&#x02010;X&#x02010;C motif) ligand 16 (CXCL16). In order to confirm the results of the angiogenic array profiling, we quantified the level of pro&#x02010;angiogenic factors in the CM of hDF and hBMSC and found significantly higher levels of ANGPT1, VEGFA, CXCL8 and CXCL16 (<italic>P</italic>&#x000a0;&#x02264;&#x000a0;0&#x000b7;05; <italic>c</italic>. 4&#x000b7;2&#x02010;fold, 4&#x02010;fold, 18&#x000b7;6&#x02010;fold and 5&#x000b7;6&#x02010;fold, respectively) in hBMSC CM than in hDF CM by ELISA (Fig&#x000a0;<xref rid="bjh13335-fig-0002" ref-type="fig">2</xref>C).</p><fig fig-type="Figure" xml:lang="en" id="bjh13335-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Differential expression of pro&#x02010;angiogenic proteins in human bone marrow stromal cells and human dermal fibroblasts (hDF). Conditioned media from two separate batches of human bone marrow stromal cells (<styled-content style="fixed-case">hBMSC</styled-content>) and <styled-content style="fixed-case">hDF</styled-content> were analysed using angiogenic antibody arrays. Representative blots are shown in (A; 1&#x02013;6&#x000a0;=&#x000a0;<styled-content style="fixed-case">ANGPT</styled-content>1, <styled-content style="fixed-case">CXCL</styled-content>16, <styled-content style="fixed-case">CXCL</styled-content>8, <styled-content style="fixed-case">PF</styled-content>4, <styled-content style="fixed-case">TIMP</styled-content>4 and <styled-content style="fixed-case">VEGFA</styled-content> respectively). The mean pixel density was calculated using ImageJ software for each protein tested and the relative percentage of mean pixel density for each protein was calculated after subtraction of the negative control (B). Quantitative <styled-content style="fixed-case">ELISA</styled-content>s were performed on the conditioned medium obtained from <styled-content style="fixed-case">hBMSC</styled-content> and <styled-content style="fixed-case">hDF</styled-content> to compare the levels of <styled-content style="fixed-case">ANGPT</styled-content>1, <styled-content style="fixed-case">VEGFA</styled-content>,<styled-content style="fixed-case"> CXCL</styled-content>16 and <styled-content style="fixed-case">CXCL</styled-content>8 (C). Results were analysed using Student's <italic>t</italic>&#x02010;test, *<italic>P</italic>&#x000a0;&#x02264;&#x000a0;0&#x000b7;05. Data are mean&#x000a0;&#x000b1;&#x000a0;standard deviation of at least three separate experiments using at least two separate batches of <styled-content style="fixed-case">hDF</styled-content> and <styled-content style="fixed-case">hBMSC</styled-content>. <styled-content style="fixed-case">EGM</styled-content>&#x02010;2, Endothelial Cell Growth Medium&#x02010;2.</p></caption><graphic id="nlm-graphic-3" xlink:href="bjh0169-0552-f2"/></fig></sec><sec id="bjh13335-sec-0015"><title>CXCL8/CXCR2 modulates vessel formation of human bone marrow endothelium <italic>in vitro</italic>
+</title><p>Cytokines, such as ANGPT1 and VEGFA, have been implicated in the angiogenic/haematopoietic repair of the murine bone marrow endothelium following pre&#x02010;conditioning prior to transplantation <italic>in vivo</italic> (Kopp <italic>et&#x000a0;al</italic>, <xref rid="bjh13335-bib-0018" ref-type="ref">2005</xref>; Hooper <italic>et&#x000a0;al</italic>, <xref rid="bjh13335-bib-0014" ref-type="ref">2009</xref>). However, the pro&#x02010;angiogenic effect of CXCL8 on human bone marrow endothelium has not been tested previously. We used the reduced cytokine Matrigel assay, an assay that permits testing the effect of an individual cytokine with minimal disturbances from other cytokines. Figure&#x000a0;<xref rid="bjh13335-fig-0003" ref-type="fig">3</xref>A shows representative images of BMEC after 16&#x000a0;h supplementation with increasing concentrations of CXCL8 (Fig&#x000a0;<xref rid="bjh13335-fig-0003" ref-type="fig">3</xref>A: i&#x02013;iv). Quantification of vessel network parameters revealed that treatment of BMEC with CXCL8 produced a significant increase (Fig&#x000a0;<xref rid="bjh13335-fig-0003" ref-type="fig">3</xref>B; <italic>P</italic>&#x000a0;&#x02264;&#x000a0;0&#x000b7;05) in the number of junctions and tubules and the total tubule length compared to untreated cells. We also found a significant increase in transwell migration (<italic>c</italic>. 1&#x000b7;5&#x02010;fold) of BMEC in response to CXCL8 (Figure S3A; <italic>P</italic>&#x000a0;&#x02264;&#x000a0;0&#x000b7;05). In order to test if CXCL8 could also induce vessel network formation in our bone marrow co&#x02010;culture assay, we used eGFP&#x02010;labelled BMEC cells and co&#x02010;cultured them with hBMSC for 14&#x000a0;d in the absence or presence of CXCL8 (Fig&#x000a0;<xref rid="bjh13335-fig-0003" ref-type="fig">3</xref>C: i and ii, respectively). The addition of CXCL8 to the BMEC/hBMSC co&#x02010;cultures also significantly increased the number of junctions, tubules and total tubule length (Fig&#x000a0;<xref rid="bjh13335-fig-0003" ref-type="fig">3</xref>D). In co&#x02010;cultures of hDF and BMEC, the addition of CXCL8 also increased blood vessel formation (Fig&#x000a0;<xref rid="bjh13335-fig-0003" ref-type="fig">3</xref>E and F). Taken together, these data confirm that CXCL8 has a pro&#x02010;angiogenic effect upon human BMEC <italic>in vitro</italic>.</p><fig fig-type="Figure" xml:lang="en" id="bjh13335-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>
+<styled-content style="fixed-case">CXCL</styled-content>8 increases vessel formation of human bone marrow endothelial cells. Bone marrow endothelial cells (<styled-content style="fixed-case">BMEC</styled-content>) were seeded onto growth factor&#x02010;reduced Matrigel and supplemented with increasing doses of cytokine or carrier (0&#x000b7;5% w/v bovine serum albumin) as indicated in the figure. Representative pictures (A: i&#x02013;iv) of vessel networks formed in Matrigel in response to <styled-content style="fixed-case">CXCL</styled-content>8 (scale bars&#x000a0;=&#x000a0;200&#x000a0;&#x003bc;mol/l) and (B) quantification of number of junctions, number of tubules, and total tubule length after 16&#x000a0;h incubation are shown. Representative images of vessel formation are also shown from co&#x02010;cultures of <styled-content style="fixed-case">BMEC</styled-content> with either human bone marrow stromal cells (<styled-content style="fixed-case">hBMSC</styled-content>) or human dermal fibroblasts (<styled-content style="fixed-case">hDF</styled-content>) incubated in complete <styled-content style="fixed-case">EGM</styled-content>&#x02010;2 media supplemented with 8% (v/v) fetal calf serum and either carrier or <styled-content style="fixed-case">CXCL</styled-content>8 (C: i &#x00026; ii and E: i &#x00026; ii respectively; scale bars&#x000a0;=&#x000a0;500&#x000a0;&#x003bc;mol/l), Vessel networks were visualized by fluorescence microscopy of <styled-content style="fixed-case">eGFP</styled-content>&#x02010;labelled <styled-content style="fixed-case">BMEC</styled-content>. Quantification of number of junctions (branch points), number of tubules and total tubule length in co&#x02010;cultures of <styled-content style="fixed-case">BMEC</styled-content> and <styled-content style="fixed-case">hBMSC</styled-content> (D) or <styled-content style="fixed-case">BMEC</styled-content> and <styled-content style="fixed-case">hDF</styled-content> (F) in the presence of carrier or <styled-content style="fixed-case">CXCL</styled-content>8 are also shown. Results were analysed using Student's <italic>t</italic>&#x02010;test, *<italic>P</italic>&#x000a0;&#x02264;&#x000a0;0&#x000b7;05. Data are mean&#x000a0;&#x000b1;&#x000a0;standard deviation of at least three separate experiments.</p></caption><graphic id="nlm-graphic-5" xlink:href="bjh0169-0552-f3"/></fig><p>Previous studies have shown that blocking the CXCR2 receptor can inhibit tumour growth, cell invasion and angiogenesis (Singh <italic>et&#x000a0;al</italic>, <xref rid="bjh13335-bib-0031" ref-type="ref">2010</xref>; Nannuru <italic>et&#x000a0;al</italic>, <xref rid="bjh13335-bib-0022" ref-type="ref">2011</xref>). In order to test if CXCR2 is mechanistically important in CXCL8&#x02010;mediated angiogenesis of BMEC, we cultured BMEC on growth factor reduced Matrigel in the presence of CXCL8 and CXCR2 neutralizing antibody or isotype control. Figure&#x000a0;<xref rid="bjh13335-fig-0004" ref-type="fig">4</xref>A shows representative images of reduced vessel formation in CXCL8 treated BMEC in the presence of CXCR2 neutralizing antibody (Fig&#x000a0;<xref rid="bjh13335-fig-0004" ref-type="fig">4</xref>A: ii) but not the control antibody (Fig&#x000a0;<xref rid="bjh13335-fig-0004" ref-type="fig">4</xref>A: i). The number of junctions, vessels and total tubule length were all significantly reduced in the anti&#x02010;CXCR2&#x02010;treated BMEC compared to control (Fig&#x000a0;<xref rid="bjh13335-fig-0004" ref-type="fig">4</xref>B; <italic>P</italic>&#x000a0;&#x02264;&#x000a0;0&#x000b7;05). Additionally, we found that the addition of CXCR2 neutralizing antibody also significantly reduced vessel formation in our hBMSC/BMEC co&#x02010;culture assay (Figure S4B). Next, we tested the expression of CXCL8 and CXCR2 in both BMEC and hBMSC (Fig&#x000a0;<xref rid="bjh13335-fig-0004" ref-type="fig">4</xref>C) and CXCR2 in normal human bone marrow trephine biopsies (Fig&#x000a0;<xref rid="bjh13335-fig-0004" ref-type="fig">4</xref>D). We found that CXCL8 was highly expressed in hBMSC and not significantly in BMEC, whilst CXCR2 was expressed in BMEC but not hBMSC. CXCR2 was co&#x02010;expressed in CD31&#x02010;positive regions of human bone marrow, including expression in morphologically recognizable bone marrow endothelium in vascular structures <italic>in situ</italic> (Fig&#x000a0;<xref rid="bjh13335-fig-0004" ref-type="fig">4</xref>D: *). These data indicate that CXCR2 is expressed in human bone marrow sinusoids and is mechanistically important in CXCL8&#x02010;mediated angiogenesis.</p><fig fig-type="Figure" xml:lang="en" id="bjh13335-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>
+<styled-content style="fixed-case">CXCR</styled-content>2 modulates angiogenesis and is expressed on human bone marrow endothelium. <styled-content style="fixed-case">eGFP</styled-content>&#x02010;labelled human bone marrow endothelial cells (<styled-content style="fixed-case">BMEC</styled-content>) were seeded onto growth factor&#x02010;reduced Matrigel and supplemented with <styled-content style="fixed-case">CXCL</styled-content>8 (5&#x000a0;&#x003bc;g/ml) in the presence of either <styled-content style="fixed-case">CXCR</styled-content>2 neutralizing antibody (20&#x000a0;&#x003bc;g/ml) or isotype control (IgG2a, 20&#x000a0;&#x003bc;g/ml). Representative pictures of vessel networks formed after 16&#x000a0;h either in presence of isotype control or anti&#x02010;<styled-content style="fixed-case">CXCR</styled-content>2 neutralizing antibody are shown (A: i and ii respectively). Quantification of number of junctions (branch points), number of tubules and total tubule length in the absence or presence of <styled-content style="fixed-case">CXCR</styled-content>2 neutralizing antibody (&#x003b1;<styled-content style="fixed-case">CXCR</styled-content>2) is shown (B). Representative pictures of <styled-content style="fixed-case">BMEC</styled-content> or <styled-content style="fixed-case">hBMSC</styled-content> stained with either <styled-content style="fixed-case">CXCR</styled-content>2 or <styled-content style="fixed-case">CXCL</styled-content>8 (C; scale bars&#x000a0;=&#x000a0;200&#x000a0;&#x003bc;m) and human normal bone marrow biopsies co&#x02010;stained with anti <styled-content style="fixed-case">CD</styled-content>31 (red) and <styled-content style="fixed-case">CXCR</styled-content>2 (green) antibodies (D; *sinusoid, scale bars&#x000a0;=&#x000a0;50&#x000a0;&#x003bc;m). Cell nuclei were stained with <styled-content style="fixed-case">DAPI</styled-content> (blue). Results were analysed using Student's <italic>t</italic>&#x02010;test, *<italic>P</italic>&#x000a0;&#x02264;&#x000a0;0&#x000b7;05. Data are mean&#x000a0;&#x000b1;&#x000a0;standard deviation of at least three independent experiments.</p></caption><graphic id="nlm-graphic-7" xlink:href="bjh0169-0552-f4"/></fig></sec><sec id="bjh13335-sec-0016"><title>Haematopoietic reconstitution is delayed in Cxcr2 knockout mice due to impaired angiogenic repair</title><p>CXCL8 increases human endothelial cell permeability in the early stages of angiogenesis and can trans&#x02010;activate VEGFR2 (KDR) through dimerization of CXCR2 with VEGFR2 (Petreaca <italic>et&#x000a0;al</italic>, <xref rid="bjh13335-bib-0024" ref-type="ref">2007</xref>). Hooper <italic>et&#x000a0;al</italic> (<xref rid="bjh13335-bib-0014" ref-type="ref">2009</xref>) showed that VEGFR2 modulates angiogenesis and thereby haematopoiesis in murine models of engraftment. We therefore hypothesized that deficiency in CXCR2 may also impair endothelial recovery and haematopoietic reconstitution. <italic>Cxcr2</italic>
+<sup><italic>+/&#x02212;</italic></sup> mice were crossbred to generate <italic>Cxcr2</italic>
+<sup><italic>+/+</italic></sup> (wild type (wt)) and <italic>Cxcr2</italic>
+<sup>&#x02212;/&#x02212;</sup> (knockout) littermates (Fig&#x000a0;<xref rid="bjh13335-fig-0005" ref-type="fig">5</xref>A). To induce severe vascular regression in the bone marrow, both wild type (wt) and <italic>Cxcr2</italic>
+<sup>&#x02212;/&#x02212;</sup> mice were challenged with a lethal (9&#x000b7;5&#x000a0;Gy) dose of radiation and then transplanted with a radio&#x02010;protective dose of bone marrow cells. Peripheral blood profiles were determined by haematology analysis in transplanted animals at day 4, 7, 10 and 14 post&#x02010;irradiation. Total bone marrow cellularity was also determined at day 14.</p><fig fig-type="Figure" xml:lang="en" id="bjh13335-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>Delayed haematopoietic reconstitution in <italic>Cxcr2</italic> knockout animals. B6.129S2(C)&#x02010;<italic>Cxcr2</italic>
+<sup><italic>m1Mwm</italic></sup>/J mice, heterozygous for <italic>Cxcr2</italic> (<italic>Il8rb)</italic> knockout were obtained from Jackson Laboratories and bred in house to generate <italic>Cxcr2</italic> homozygous knockout and littermate wild type controls. <italic>Cxcr2</italic> homozygous knockout (&#x02212;/&#x02212;) and wild type (+/+) littermate control animals were treated with 9&#x000b7;5&#x000a0;Gy irradiation dose and transplanted within 24&#x000a0;h with a radio&#x02010;protective dose (1&#x000a0;&#x000d7;&#x000a0;10<sup>6</sup>) of total wild type bone marrow cells. Peripheral blood samples were taken from animals at days 7 and 10 and haematology analysis performed on a veterinary blood analyser. After 14&#x000a0;d femurs and tibias were harvested and bone marrow extracted before performing haematology analysis. Schematic representation of study (A), comparative white blood cell and platelet counts in peripheral blood (B), bone marrow haematology analysis at day 14 (<styled-content style="fixed-case">WBC</styled-content>&#x000a0;=&#x000a0;white blood cell count, Lymp&#x000a0;=&#x000a0;lymphocyte, Mono&#x000a0;=&#x000a0;monocyte and Gran&#x000a0;=&#x000a0;granulocyte; C), and representative images of low magnification (top panel; scale bars&#x000a0;=&#x000a0;200&#x000a0;&#x003bc;m) and higher magnification (bottom panel; scale bar&#x000a0;=&#x000a0;50&#x000a0;&#x003bc;m) bone marrow sections stained with haematoxylin to reveal cellularity (D). Data are mean&#x000a0;&#x000b1;&#x000a0;standard deviation. <italic>n</italic>&#x000a0;=&#x000a0;13&#x02013;16 animals per group. Results were analysed using Student's <italic>t</italic>&#x02010;test, *<italic>P</italic>&#x000a0;&#x02264;&#x000a0;0&#x000b7;05 comparing cell numbers in <italic>Cxcr2</italic>
+<sup>&#x02212;/&#x02212;</sup>
+<italic>versus</italic> wild type (<italic>Cxcr2</italic>
+<sup>+/+</sup>) animals.</p></caption><graphic id="nlm-graphic-9" xlink:href="bjh0169-0552-f5"/></fig><p>As expected, both platelet counts and white blood cell (WBC) counts in the peripheral circulation decreased dramatically from day 4 to 7 post&#x02010;irradiation and transplantation (1009&#x000a0;&#x000b1;&#x000a0;129&#x000a0;&#x000d7;&#x000a0;10<sup>9</sup> platelets/l and 4&#x000b7;85&#x000a0;&#x000b1;&#x000a0;1&#x000b7;64&#x000a0;&#x000d7;&#x000a0;10<sup>9</sup> WBC/l to 139&#x000a0;&#x000b1;&#x000a0;47&#x000b7;8&#x000a0;&#x000d7;&#x000a0;10<sup>9</sup> platelets/l and 4&#x000b7;85&#x000a0;&#x000b1;&#x000a0;1&#x000b7;64&#x000a0;&#x000d7;&#x000a0;10<sup>9</sup> WBC/l for <italic>Cxcr2</italic>
+<sup>&#x02212;/&#x02212;</sup> and from 848&#x000a0;&#x000b1;&#x000a0;88&#x000b7;9&#x000a0;&#x000d7;&#x000a0;10<sup>9</sup> platelets/l and 4&#x000b7;75&#x000a0;&#x000b1;&#x000a0;1&#x000b7;18&#x000a0;&#x000d7;&#x000a0;10<sup>9</sup> WBC/l to 226&#x000a0;&#x000b1;&#x000a0;47&#x000b7;5&#x000a0;&#x000d7;&#x000a0;10<sup>9</sup> platelets/l and 1&#x000b7;52&#x000a0;&#x000b1;&#x000a0;0&#x000b7;33&#x000a0;&#x000d7;&#x000a0;10<sup>9</sup> WBC/l for <italic>Cxcr2</italic>
+<sup><italic>+/+</italic></sup>; Fig&#x000a0;<xref rid="bjh13335-fig-0005" ref-type="fig">5</xref>B). By day 10, compared to wt littermate controls, <italic>Cxcr2</italic>
+<sup>&#x02212;/&#x02212;</sup> mice displayed significantly lower WBC and platelet counts (Fig&#x000a0;<xref rid="bjh13335-fig-0005" ref-type="fig">5</xref>B) in the peripheral blood following transplantation (<italic>P</italic>&#x000a0;&#x02264;&#x000a0;0&#x000b7;05). Bone marrow haematology profiling and histology at day 14 also revealed a significant reduction in the total WBC count and in lymphocytes, monocytes and granulocytes (Fig&#x000a0;<xref rid="bjh13335-fig-0005" ref-type="fig">5</xref>C, *<italic>P</italic>&#x000a0;&#x02264;&#x000a0;0&#x000b7;05) and a grossly reduced bone marrow cellularity (Fig&#x000a0;<xref rid="bjh13335-fig-0005" ref-type="fig">5</xref>D) in <italic>Cxcr2</italic>
+<sup>&#x02212;/&#x02212;</sup> mice compared to wt. However, despite persistent delays in bone marrow recovery in <italic>Cxcr2</italic>
+<sup>&#x02212;/&#x02212;</sup> mice, by day 14 there was no significant difference in peripheral blood profiles between <italic>Cxcr2</italic>
+<sup>&#x02212;/&#x02212;</sup> and wt animals (265&#x000a0;&#x000b1;&#x000a0;83&#x000a0;&#x000d7;&#x000a0;10<sup>9</sup> platelets/l and 3&#x000b7;20&#x000a0;&#x000b1;&#x000a0;0&#x000b7;99&#x000a0;&#x000d7;&#x000a0;10<sup>9</sup> WBC/l and 305&#x000a0;&#x000b1;&#x000a0;1&#x000b7;31&#x000a0;&#x000d7;&#x000a0;10<sup>9</sup> platelets/l and 3&#x000b7;7&#x000a0;&#x000b1;&#x000a0;1&#x000b7;31&#x000a0;&#x000d7;&#x000a0;10<sup>9</sup> WBC/l and for <italic>Cxcr2</italic>
+<sup>&#x02212;/&#x02212;</sup> and <italic>Cxcr2</italic>
+<sup>+/+</sup>; <italic>P</italic>&#x000a0;=&#x000a0;0&#x000b7;45 and 0&#x000b7;66 respectively).</p><p>We hypothesized that delays in bone marrow haematopoietic recovery would be preceded by delayed bone marrow angiogenic repair at earlier time points. Therefore, we harvested femurs from irradiated and transplanted animals at days 7 and 10 post&#x02010;irradiation and examined bone marrow sections to assess the degree of endothelial repair/regeneration. Figure&#x000a0;<xref rid="bjh13335-fig-0006" ref-type="fig">6</xref>A and B represent low and high magnification images of bone marrow at day 7 and 10 post&#x02010;irradiation showing gross histological differences between wt and <italic>Cxcr2</italic>
+<sup>&#x02212;/&#x02212;</sup> littermates. In order to quantify the endothelial repair more precisely, we used the method developed by Hooper <italic>et&#x000a0;al</italic> (<xref rid="bjh13335-bib-0014" ref-type="ref">2009</xref>), and scored random bone marrow fields for either normal (N), type I (mild/moderately damaged) or type II (significantly damaged) vessels. Representative examples of high magnification images of normal and progressively more damaged type I and type II vessels are shown in Fig&#x000a0;<xref rid="bjh13335-fig-0006" ref-type="fig">6</xref>C. Figure&#x000a0;<xref rid="bjh13335-fig-0006" ref-type="fig">6</xref>D shows quantification of normal, type I and type II vessels at days 7 and 10 post&#x02010;irradiation injury in wt and <italic>Cxcr2</italic>
+<sup>&#x02212;/&#x02212;</sup> mice. At day 7 post&#x02010;irradiation there were very few normal vessels in either the wt or <italic>Cxcr2</italic>
+<sup>&#x02212;/&#x02212;</sup> animals, with normal vessels comprising &#x0003c;5% of those quantified in each field. However, when damaged vessels are quantified, significant differences in the percentage of type I and II vessels are revealed; whilst type I vessels comprised approximately 80% of the vessel types in the wild type littermate controls, <italic>Cxcr2</italic>
+<sup>&#x02212;/&#x02212;</sup> animals displayed only approximately 10% type I vessels. <italic>Cxcr2</italic>
+<sup>&#x02212;/&#x02212;</sup> animals were found to have significantly higher percentages of type II vessels at day 7 post&#x02010;irradiation (<italic>c</italic>. 90%) than the <italic>Cxcr2</italic>
+<sup>+/+</sup> mice (<italic>c</italic>. 15%; <italic>P</italic>&#x000a0;&#x02264;&#x000a0;0&#x000b7;05), indicating that there is more endothelial damage in the bone marrow of <italic>Cxcr2</italic>
+<sup>&#x02212;/&#x02212;</sup> animals. The bone marrow of animals at day 10 post&#x02010;irradiation also revealed significant differences between wt and <italic>Cxcr2</italic>
+<sup>&#x02212;/&#x02212;</sup> animals. Histologically, the wt littermate controls still appeared grossly different at this time point (Fig&#x000a0;<xref rid="bjh13335-fig-0006" ref-type="fig">6</xref>A and B) and quantification revealed significantly higher numbers of normal vessels in the wt animals compared to the <italic>Cxcr2</italic>
+<sup>&#x02212;/&#x02212;</sup> animals (representing about 25% compared to &#x0003c;5% of total vessels respectively; <italic>P</italic>&#x000a0;&#x02264;&#x000a0;0&#x000b7;05). In terms of type I and type II damaged vessels, we observed no significant difference between the percentage of type I vessels between groups, however, we found significantly higher numbers of type II (more damaged) vessels in the bone marrow of the <italic>Cxcr2</italic>
+<sup>&#x02212;/&#x02212;</sup> animals compared to the wt littermate controls (<italic>c</italic>. 10% vs. <italic>c</italic>. 50% respectively; <italic>P</italic>&#x000a0;&#x02264;&#x000a0;0&#x000b7;05). No significant differences in the number of bone marrow vessels were observed in <italic>Cxcr2</italic>
+<sup>&#x02212;/&#x02212;</sup> animals or wt littermates could be found prior to myeloablation (Figure S4A and B). However, and as previously described (Cacalano <italic>et&#x000a0;al</italic>, <xref rid="bjh13335-bib-0008" ref-type="ref">1994</xref>), we found significantly higher numbers of nucleated cells in the bone marrow of <italic>Cxcr2</italic>
+<sup>&#x02212;/&#x02212;</sup> mice compared to wt littermates under normal steady&#x02010;state conditions (Figure S4C). Also, following myeloablation, we found no significant difference in the number of viable sinusoidal endothelial cells in the bone marrow of wt compared to <italic>Cxcr2</italic>
+<sup>&#x02212;/&#x02212;</sup> mice at day 4 by flow cytometric analysis (Figure S4D). Taken together, these data suggest that loss of <italic>Cxcr2</italic> function results in impaired bone marrow endothelial repair, which ultimately results in delayed bone marrow haematopoietic reconstitution following BMT.</p><fig fig-type="Figure" xml:lang="en" id="bjh13335-fig-0006" orientation="portrait" position="float"><label>Figure 6</label><caption><p>Impaired vascular regeneration in <italic>Cxcr2</italic> knockout animals. B6.129S2(C)&#x02010;<italic>Cxcr2</italic>
+<sup><italic>tm1Mwm</italic></sup>/J mice, homozygous knockout (<italic>Cxcr2</italic>
+<sup>&#x02212;/&#x02212;</sup>) or wild type (<italic>Cxcr2</italic>
+<sup>+/+</sup>) littermates were treated with 9&#x000b7;5&#x000a0;Gy irradiation dose and transplanted within 24&#x000a0;h with a radio&#x02010;protective dose (1&#x000a0;&#x000d7;&#x000a0;10<sup>6</sup>) of total bone marrow cells. After 7 or 14&#x000a0;d femurs were harvested, fixed and embedded in paraffin. Bone marrow sections were stained with anti&#x02010;mouse <styled-content style="fixed-case">VE</styled-content>&#x02010;Cadherin antibody to highlight bone marrow endothelium. Representative images of recovering bone marrow endothelium at low magnification (A; scale bars&#x000a0;=&#x000a0;200&#x000a0;&#x003bc;m) and higher magnification (B; scale bars&#x000a0;=&#x000a0;50&#x000a0;&#x003bc;m) post&#x02010;irradiation are shown. Representative images of examples of normal (N), or type I (mild/moderately damaged) or type <styled-content style="fixed-case">II</styled-content> (significantly damaged) bone marrow vessels (C; scale bars&#x000a0;=&#x000a0;25&#x000a0;&#x003bc;m; black arrow) and quantification of these vessel types post&#x02010;recovery are shown (D). Data are mean&#x000a0;&#x000b1;&#x000a0;standard deviation. <italic>n</italic>&#x000a0;=&#x000a0;5 animals per group. Results were analysed using analysis of variance (<sc>anova</sc>) and Student's <italic>t</italic>&#x02010;test, *<italic>P</italic>&#x000a0;&#x02264;&#x000a0;0&#x000b7;05 comparing vessel numbers in <italic>Cxcr2</italic>
+<sup>&#x02212;/&#x02212;</sup>
+<italic>versus</italic> wild type (<italic>Cxcr2</italic>
+<sup>+/+</sup>) animals.</p></caption><graphic id="nlm-graphic-11" xlink:href="bjh0169-0552-f6"/></fig></sec></sec><sec id="bjh13335-sec-0017"><title>Discussion</title><p>Given the rapidly emerging clinical significance of bone marrow endothelium in both health and disease and the scarcity of suitable humanized, tissue&#x02010;specific models to quantify angiogenesis and associated factors in the human bone marrow endothelial niche, we set out to recreate such a model in our laboratory. In this study, we have successfully generated an <italic>in vitro</italic> model of the human bone marrow endothelial niche, which can be used to study angiogenesis. Whereas other models of the bone marrow niche have been established (de Barros <italic>et&#x000a0;al</italic>, <xref rid="bjh13335-bib-0004" ref-type="ref">2010</xref>; Carrion <italic>et&#x000a0;al</italic>, <xref rid="bjh13335-bib-0009" ref-type="ref">2010</xref>; Li <italic>et&#x000a0;al</italic>, <xref rid="bjh13335-bib-0019" ref-type="ref">2011</xref>; Saleh <italic>et&#x000a0;al</italic>, <xref rid="bjh13335-bib-0029" ref-type="ref">2011</xref>), to our knowledge these do not contain both stromal and endothelial cells specifically derived from human bone marrow. We demonstrated that human BMEC could consistently form blood vessel networks when co&#x02010;cultured with hBMSC, while hDF failed to support BMEC vessel networks. When co&#x02010;cultured with HSPCs with Myelocult and no additional cytokine addition, our hBMSC/BMEC model also supported a small, but significant, expansion of total viable nucleated cells (3&#x000b7;6&#x02010; to 4&#x000b7;0&#x02010;BMSCfold). Notably, CD45<sup>+</sup>CD133<sup>+</sup>CD34<sup>+</sup> HSPC numbers could not be maintained with hBMSCs but required addition of BMECs. These data generated in our humanized system are in line with other studies that demonstrate the importance of the murine bone marrow endothelial niche in HSC maintenance (Ding &#x00026; Morrison, <xref rid="bjh13335-bib-0011" ref-type="ref">2013</xref>; Greenbaum <italic>et&#x000a0;al</italic>, <xref rid="bjh13335-bib-0012" ref-type="ref">2013</xref>).</p><p>The hBMSC used in this study express a typical stromal cell phenotype similar to that reported of hDF. It is also noted by us and others that immunophenotyping alone may not easily distinguish differences in cellular composition (Blasi <italic>et&#x000a0;al</italic>, <xref rid="bjh13335-bib-0006" ref-type="ref">2011</xref>) in these cell types. We therefore examined whether differences in the vascular supportive ability of hBMSC compared to hDF may be due to differential expression of angiogenic secreted factors. The present study demonstrated that six angiogenic factors were differentially expressed in hBMSC and hDF, highlighting the importance that tissue&#x02010;specific cues may have in generating new blood vessels. Interestingly, ANGPT1 and VEGFA have been shown to act co&#x02010;operatively in modulating the angiogenic repair of damaged murine bone marrow sinusoidal endothelium in murine models of transplantation <italic>in vivo</italic> (Kopp <italic>et&#x000a0;al</italic>, <xref rid="bjh13335-bib-0018" ref-type="ref">2005</xref>). Although more extensive studies of protein analysis are likely to reveal further significant differences between hDF and hBMSC, and the angiogenic factors described here are not uniquely expressed in bone marrow, we hypothesized that the up&#x02010;regulation of ANGPT1, VEGFA, CXCL16 and CXCL8 may contribute to the support of bone marrow angiogenesis and recovery. To this end, we demonstrated that CXCL8 increased vessel formation of BMECs in the reduced growth factor Matrigel system and also BMEC migration. Additionally, blocking CXCL8 signalling with neutralizing antibodies targeting CXCR2 significantly reduced the vascular networks formed by BMEC, both in our co&#x02010;culture assay and in response to CXCL8 in Matrigel. To our knowledge, this is the first time that CXCL8 has been directly implicated in the angiogenic process of the human bone marrow system, and this may have future clinical applications.</p><p>CXCL8 promotes human endothelial cell permeability in the early stages of angiogenesis and trans&#x02010;activates VEGFR2, in a VEGFA&#x02010;independent manner, by causing the dimerization of VEGFR2 with CXCR2 (Petreaca <italic>et&#x000a0;al</italic>, <xref rid="bjh13335-bib-0024" ref-type="ref">2007</xref>). It has also been demonstrated by others that <italic>Cxcr2</italic>
+<sup>&#x02212;/&#x02212;</sup> mice have impaired skin revascularization following injury (Devalaraja <italic>et&#x000a0;al</italic>, <xref rid="bjh13335-bib-0010" ref-type="ref">2000</xref>; Milatovic <italic>et&#x000a0;al</italic>, <xref rid="bjh13335-bib-0020" ref-type="ref">2003</xref>). Therefore, we used <italic>Cxcr2</italic>
+<sup>&#x02212;/&#x02212;</sup> transgenic mice to test our hypothesis that CXCR2 plays a role in the repair and regeneration of bone marrow endothelium and therefore haematopoietic recovery <italic>in vivo</italic>. Through this, we have demonstrated for the first time that CXCR2 loss of function delays the repair and regeneration of bone marrow endothelium and bone marrow haematopoietic recovery following myeloablation and BMT. In lethally irradiated mice Hooper <italic>et&#x000a0;al</italic> (<xref rid="bjh13335-bib-0014" ref-type="ref">2009</xref>) convincingly demonstrated that the period of 7&#x02013;10&#x000a0;d post&#x02010;irradiation is critical for both vascular regeneration and haematopoietic recovery, with VEGFA and VEGFR2 playing an important role in those processes. We observed similar recovery kinetics in <italic>Cxcr2</italic>
+<sup>&#x02212;/&#x02212;</sup> myeloablated mice and comparable levels of vascular and haematopoietic impairment at early time points. However, whilst our <italic>Cxcr2</italic>
+<sup>&#x02212;/&#x02212;</sup> animals survived longer term, <italic>Kdr</italic> (<italic>Vegfr2)</italic> knockout animals used by others did not (Hooper <italic>et&#x000a0;al</italic>, <xref rid="bjh13335-bib-0014" ref-type="ref">2009</xref>). In fact, despite persistent delays in bone marrow recovery in <italic>Cxcr2</italic>
+<sup>&#x02212;/&#x02212;</sup> mice, by day 14, there was no longer a significant difference in peripheral blood profiles of <italic>Cxcr2</italic>
+<sup>&#x02212;/&#x02212;</sup> and <italic>Cxcr2</italic>
+<sup>+/+</sup> animals. This may simply be explained by our transplantation protocol, where, for welfare reasons, we have administered double the dose of donor bone marrow, or may indicate other compensatory mechanisms, such as extra medullary haematopoiesis. There is no doubt that, during the complex process of repair and regeneration, significant interplay between haematopoietic and angiogenic factors will be modulating both haematopoiesis and angiogenesis in the bone marrow (Bikfalvi &#x00026; Han, <xref rid="bjh13335-bib-0005" ref-type="ref">1994</xref>) and it is unlikely to be explained simply by a single factor. However, in this study we show that CXCR2 contributes to the process of repair and regeneration within the bone marrow endothelial niche.</p><p>In summary, we have developed for the first time an <italic>in vitro</italic> model of the human bone marrow endothelial niche consisting of cells derived entirely from human bone marrow tissue that permits accurate quantification of angiogenesis and have demonstrated the importance of CXCL8 as a pro&#x02010;angiogenic factor in this model. In addition, we have also shown, for the first time, a role of CXCR2 in bone marrow angiogenesis and haematopoietic recovery. We hope that this study will have important future clinical implications for improving haematopoietic recovery following BMT.</p></sec><sec id="bjh13335-sec-0019"><title>Disclosure of conflicts of interest</title><p>The authors declare no conflict of interest.</p></sec><sec id="bjh13335-sec-0020"><title>Author contributions</title><p>SJMH raised funding, conceived ideas, discussed the hypothesis, participated in the design of all experiments, performed all experiments, analysed and interpreted data and prepared the manuscript and figures; ABHH participated in experimental design of and assisted with transplantation experiments. YZ assisted with the niche assay and histology experiments. DS assisted with haematology analysis. MVG assisted with transplantation experiments, RG assisted with IHC and data analysis. EP performed phenotyping analysis of hBMSC. NF and KC provided essential resources. EMR raised funding, conceived ideas, proposed hypothesis and design project, analysed and interpreted the data, directed the project and prepared the manuscript and figures. SMW raised funding, conceived ideas, participated in experimental design, interpreted the data, directed the project and critically reviewed the manuscript. All authors approved the final manuscript.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data"><caption><p>
+<bold>Fig S1.</bold> Human bone marrow endothelial cells form quantifiable vessel networks when co&#x02010;cultured with primary bone marrow stromal cells.</p></caption><media xlink:href="bjh0169-0552-sd1.tif"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data"><caption><p>
+<bold>Fig S2.</bold> Human bone marrow endothelial cells and human bone marrow stromal cells co&#x02010;cultures provide a niche for haemopoietic stem and progenitor cells.</p></caption><media xlink:href="bjh0169-0552-sd2.tif"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data"><caption><p>
+<bold>Fig S3.</bold> Human bone marrow endothelial cells migrate in response to CXCL8.</p></caption><media xlink:href="bjh0169-0552-sd3.tif"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data"><caption><p>
+<bold>Fig S4.</bold> Bone marrow endothelial vessels in steady state and post irradiation in Cxcr2<sup>&#x02212;/&#x02212;</sup> and wild type animals.</p></caption><media xlink:href="bjh0169-0552-sd4.tif"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="bjh13335-sec-0018"><title>Acknowledgements</title><p>We thank Professor Van Der Schoot for the supply of BMEC&#x02010;60 cells, Professor Adrian Thrasher for the lentiviral vector constructs. We also thank Drs Lee Carpenter and Alex Tipping for critical review of the manuscript. We would also like to thank Mrs Janice Walton and Mrs Sandy Britt for excellent technical assistance with UCB collection and the staff at the University of Oxford animal facilities for their excellent care and attention with regard to animal welfare. This work was supported by the National Institute of Health Research (NIHR; SH, YZ, DS, NF, MG, RG, EP, EMR and SMW) under its Programme Grants Scheme (RP&#x02010;PG&#x02010;0310&#x02010;1003 and RP&#x02010;PG&#x02010;0310&#x02010;1001), the NHS Blood and Transplant Trust Fund (TF034; SH, SMW, EMR), the Oxford NIHR Biomedical Research Centre (KC) and the British Heart Foundation (BHF; ABHH). The views expressed in this publication are those of the authors and not necessarily those of NHS, NHS Blood and Transplant, NIHR or the Department of Health.</p></ack><ref-list content-type="cited-references" id="bjh13335-bibl-0001"><title>References</title><ref id="bjh13335-bib-0001"><mixed-citation publication-type="journal" id="bjh13335-cit-0001">
+<string-name>
+<surname>Avecilla</surname>, <given-names>S.T.</given-names>
+</string-name>, <string-name>
+<surname>Hattori</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Heissig</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Tejada</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Liao</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Shido</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Jin</surname>, <given-names>D.K.</given-names>
+</string-name>, <string-name>
+<surname>Dias</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Hartman</surname>, <given-names>T.E.</given-names>
+</string-name>, <string-name>
+<surname>Hackett</surname>, <given-names>N.R.</given-names>
+</string-name>, <string-name>
+<surname>Crystal</surname>, <given-names>R.G.</given-names>
+</string-name>, <string-name>
+<surname>Witte</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Hicklin</surname>, <given-names>D.J.</given-names>
+</string-name>, <string-name>
+<surname>Bohlen</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Eaton</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Lyden</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>de Sauvage</surname>, <given-names>F.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Rafii</surname>, <given-names>S.</given-names>
+</string-name> (<year>2004</year>) <article-title>Chemokine&#x02010;mediated interaction of hematopoietic progenitors with the bone marrow vascular niche is required for thrombopoiesis</article-title>. <source>Nature Medicine</source>, <volume>10</volume>, <fpage>64</fpage>&#x02013;<lpage>71</lpage>.</mixed-citation></ref><ref id="bjh13335-bib-0002"><mixed-citation publication-type="journal" id="bjh13335-cit-0002">
+<string-name>
+<surname>Barker</surname>, <given-names>J.E.</given-names>
+</string-name> (<year>1994</year>) <article-title>Sl/Sld hematopoietic progenitors are deficient in situ</article-title>. <source>Experimental Hematology</source>, <volume>22</volume>, <fpage>174</fpage>&#x02013;<lpage>177</lpage>.<pub-id pub-id-type="pmid">7507859</pub-id></mixed-citation></ref><ref id="bjh13335-bib-0003"><mixed-citation publication-type="journal" id="bjh13335-cit-0003">
+<string-name>
+<surname>Barker</surname>, <given-names>J.E.</given-names>
+</string-name> (<year>1997</year>) <article-title>Early transplantation to a normal microenvironment prevents the development of Steel hematopoietic stem cell defects</article-title>. <source>Experimental Hematology</source>, <volume>25</volume>, <fpage>542</fpage>&#x02013;<lpage>547</lpage>.<pub-id pub-id-type="pmid">9197334</pub-id></mixed-citation></ref><ref id="bjh13335-bib-0004"><mixed-citation publication-type="journal" id="bjh13335-cit-0004">
+<string-name>
+<surname>de Barros</surname>, <given-names>A.P.</given-names>
+</string-name>, <string-name>
+<surname>Takiya</surname>, <given-names>C.M.</given-names>
+</string-name>, <string-name>
+<surname>Garzoni</surname>, <given-names>L.R.</given-names>
+</string-name>, <string-name>
+<surname>Leal&#x02010;Ferreira</surname>, <given-names>M.L.</given-names>
+</string-name>, <string-name>
+<surname>Dutra</surname>, <given-names>H.S.</given-names>
+</string-name>, <string-name>
+<surname>Chiarini</surname>, <given-names>L.B.</given-names>
+</string-name>, <string-name>
+<surname>Meirelles</surname>, <given-names>M.N.</given-names>
+</string-name>, <string-name>
+<surname>Borojevic</surname>, <given-names>R.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Rossi</surname>, <given-names>M.I.</given-names>
+</string-name> (<year>2010</year>) <article-title>Osteoblasts and bone marrow mesenchymal stromal cells control hematopoietic stem cell migration and proliferation in 3D in vitro model</article-title>. <source>PLoS ONE</source>, <volume>5</volume>, <fpage>e9093</fpage>.<pub-id pub-id-type="pmid">20161704</pub-id></mixed-citation></ref><ref id="bjh13335-bib-0005"><mixed-citation publication-type="journal" id="bjh13335-cit-0005">
+<string-name>
+<surname>Bikfalvi</surname>, <given-names>A.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Han</surname>, <given-names>Z.C.</given-names>
+</string-name> (<year>1994</year>) <article-title>Angiogenic factors are hematopoietic growth factors and vice versa</article-title>. <source>Leukemia</source>, <volume>8</volume>, <fpage>523</fpage>&#x02013;<lpage>529</lpage>.<pub-id pub-id-type="pmid">7510358</pub-id></mixed-citation></ref><ref id="bjh13335-bib-0006"><mixed-citation publication-type="journal" id="bjh13335-cit-0006">
+<string-name>
+<surname>Blasi</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Martino</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Balducci</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Saldarelli</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Soleti</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Navone</surname>, <given-names>S.E.</given-names>
+</string-name>, <string-name>
+<surname>Canzi</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Cristini</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Invernici</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Parati</surname>, <given-names>E.A.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Alessandri</surname>, <given-names>G.</given-names>
+</string-name> (<year>2011</year>) <article-title>Dermal fibroblasts display similar phenotypic and differentiation capacity to fat&#x02010;derived mesenchymal stem cells, but differ in anti&#x02010;inflammatory and angiogenic potential</article-title>. <source>Vascular Cell</source>, <volume>3</volume>, <fpage>5</fpage>.<pub-id pub-id-type="pmid">21349162</pub-id></mixed-citation></ref><ref id="bjh13335-bib-0007"><mixed-citation publication-type="journal" id="bjh13335-cit-0007">
+<string-name>
+<surname>Butler</surname>, <given-names>J.M.</given-names>
+</string-name>, <string-name>
+<surname>Kobayashi</surname>, <given-names>H.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Rafii</surname>, <given-names>S.</given-names>
+</string-name> (<year>2010</year>) <article-title>Instructive role of the vascular niche in promoting tumour growth and tissue repair by angiocrine factors</article-title>. <source>Nature Reviews Cancer</source>, <volume>10</volume>, <fpage>138</fpage>&#x02013;<lpage>146</lpage>.</mixed-citation></ref><ref id="bjh13335-bib-0008"><mixed-citation publication-type="journal" id="bjh13335-cit-0008">
+<string-name>
+<surname>Cacalano</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Kikly</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Ryan</surname>, <given-names>A.M.</given-names>
+</string-name>, <string-name>
+<surname>Pitts&#x02010;Meek</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Hultgren</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Wood</surname>, <given-names>W.I.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Moore</surname>, <given-names>M.W.</given-names>
+</string-name> (<year>1994</year>) <article-title>Neutrophil and B cell expansion in mice that lack the murine IL&#x02010;8 receptor homolog</article-title>. <source>Science</source>, <volume>265</volume>, <fpage>682</fpage>&#x02013;<lpage>684</lpage>.<pub-id pub-id-type="pmid">8036519</pub-id></mixed-citation></ref><ref id="bjh13335-bib-0009"><mixed-citation publication-type="journal" id="bjh13335-cit-0009">
+<string-name>
+<surname>Carrion</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>, <given-names>C.P.</given-names>
+</string-name>, <string-name>
+<surname>Ghajar</surname>, <given-names>C.M.</given-names>
+</string-name>, <string-name>
+<surname>Kachgal</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Kniazeva</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Jeon</surname>, <given-names>N.L.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Putnam</surname>, <given-names>A.J.</given-names>
+</string-name> (<year>2010</year>) <article-title>Recreating the perivascular niche ex vivo using a microfluidic approach</article-title>. <source>Biotechnology and Bioengineering</source>, <volume>107</volume>, <fpage>1020</fpage>&#x02013;<lpage>1028</lpage>.<pub-id pub-id-type="pmid">20672286</pub-id></mixed-citation></ref><ref id="bjh13335-bib-0010"><mixed-citation publication-type="journal" id="bjh13335-cit-0010">
+<string-name>
+<surname>Devalaraja</surname>, <given-names>R.M.</given-names>
+</string-name>, <string-name>
+<surname>Nanney</surname>, <given-names>L.B.</given-names>
+</string-name>, <string-name>
+<surname>Du</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Qian</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>Yu</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Devalaraja</surname>, <given-names>M.N.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Richmond</surname>, <given-names>A.</given-names>
+</string-name> (<year>2000</year>) <article-title>Delayed wound healing in CXCR2 knockout mice</article-title>. <source>The Journal of Investigative Dermatology</source>, <volume>115</volume>, <fpage>234</fpage>&#x02013;<lpage>244</lpage>.<pub-id pub-id-type="pmid">10951241</pub-id></mixed-citation></ref><ref id="bjh13335-bib-0011"><mixed-citation publication-type="journal" id="bjh13335-cit-0011">
+<string-name>
+<surname>Ding</surname>, <given-names>L.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Morrison</surname>, <given-names>S.J.</given-names>
+</string-name> (<year>2013</year>) <article-title>Haematopoietic stem cells and early lymphoid progenitors occupy distinct bone marrow niches</article-title>. <source>Nature</source>, <volume>495</volume>, <fpage>231</fpage>&#x02013;<lpage>235</lpage>.<pub-id pub-id-type="pmid">23434755</pub-id></mixed-citation></ref><ref id="bjh13335-bib-0012"><mixed-citation publication-type="journal" id="bjh13335-cit-0012">
+<string-name>
+<surname>Greenbaum</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Hsu</surname>, <given-names>Y.M.</given-names>
+</string-name>, <string-name>
+<surname>Day</surname>, <given-names>R.B.</given-names>
+</string-name>, <string-name>
+<surname>Schuettpelz</surname>, <given-names>L.G.</given-names>
+</string-name>, <string-name>
+<surname>Christopher</surname>, <given-names>M.J.</given-names>
+</string-name>, <string-name>
+<surname>Borgerding</surname>, <given-names>J.N.</given-names>
+</string-name>, <string-name>
+<surname>Nagasawa</surname>, <given-names>T.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Link</surname>, <given-names>D.C.</given-names>
+</string-name> (<year>2013</year>) <article-title>CXCL12 in early mesenchymal progenitors is required for haematopoietic stem&#x02010;cell maintenance</article-title>. <source>Nature</source>, <volume>495</volume>, <fpage>227</fpage>&#x02013;<lpage>230</lpage>.<pub-id pub-id-type="pmid">23434756</pub-id></mixed-citation></ref><ref id="bjh13335-bib-0013"><mixed-citation publication-type="journal" id="bjh13335-cit-0013">
+<string-name>
+<surname>Heidemann</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Ogawa</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Dwinell</surname>, <given-names>M.B.</given-names>
+</string-name>, <string-name>
+<surname>Rafiee</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Maaser</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Gockel</surname>, <given-names>H.R.</given-names>
+</string-name>, <string-name>
+<surname>Otterson</surname>, <given-names>M.F.</given-names>
+</string-name>, <string-name>
+<surname>Ota</surname>, <given-names>D.M.</given-names>
+</string-name>, <string-name>
+<surname>Lugering</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Domschke</surname>, <given-names>W.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Binion</surname>, <given-names>D.G.</given-names>
+</string-name> (<year>2003</year>) <article-title>Angiogenic effects of interleukin 8 (CXCL8) in human intestinal microvascular endothelial cells are mediated by CXCR2</article-title>. <source>Journal of Biological Chemistry</source>, <volume>278</volume>, <fpage>8508</fpage>&#x02013;<lpage>8515</lpage>.<pub-id pub-id-type="pmid">12496258</pub-id></mixed-citation></ref><ref id="bjh13335-bib-0014"><mixed-citation publication-type="journal" id="bjh13335-cit-0014">
+<string-name>
+<surname>Hooper</surname>, <given-names>A.T.</given-names>
+</string-name>, <string-name>
+<surname>Butler</surname>, <given-names>J.M.</given-names>
+</string-name>, <string-name>
+<surname>Nolan</surname>, <given-names>D.J.</given-names>
+</string-name>, <string-name>
+<surname>Kranz</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Iida</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Kobayashi</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Kopp</surname>, <given-names>H.G.</given-names>
+</string-name>, <string-name>
+<surname>Shido</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Petit</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Yanger</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>James</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Witte</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Pytowski</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Rosenwaks</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Mittal</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Sato</surname>, <given-names>T.N.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Rafii</surname>, <given-names>S.</given-names>
+</string-name> (<year>2009</year>) <article-title>Engraftment and reconstitution of hematopoiesis is dependent on VEGFR2&#x02010;mediated regeneration of sinusoidal endothelial cells</article-title>. <source>Cell Stem Cell</source>, <volume>4</volume>, <fpage>263</fpage>&#x02013;<lpage>274</lpage>.<pub-id pub-id-type="pmid">19265665</pub-id></mixed-citation></ref><ref id="bjh13335-bib-0015"><mixed-citation publication-type="journal" id="bjh13335-cit-0015">
+<string-name>
+<surname>Khoo</surname>, <given-names>C.P.</given-names>
+</string-name>, <string-name>
+<surname>Micklem</surname>, <given-names>K.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Watt</surname>, <given-names>S.M.</given-names>
+</string-name> (<year>2011</year>) <article-title>A comparison of methods for quantifying angiogenesis in the Matrigel assay in vitro</article-title>. <source>Tissue Engineering Part C Methods</source>, <volume>17</volume>, <fpage>895</fpage>&#x02013;<lpage>906</lpage>.<pub-id pub-id-type="pmid">21517696</pub-id></mixed-citation></ref><ref id="bjh13335-bib-0016"><mixed-citation publication-type="journal" id="bjh13335-cit-0016">
+<string-name>
+<surname>Kimura</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Kohno</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Matsuoka</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Murakami</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Nakatsuka</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Hase</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Yasuda</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Uemura</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Sasaki</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Fukuhara</surname>, <given-names>S.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Sonoda</surname>, <given-names>Y.</given-names>
+</string-name> (<year>2011</year>) <article-title>CXCL8 enhances the angiogenic activity of umbilical cord blood&#x02010;derived outgrowth endothelial cells in vitro</article-title>. <source>Cell Biology International</source>, <volume>35</volume>, <fpage>201</fpage>&#x02013;<lpage>208</lpage>.<pub-id pub-id-type="pmid">20958269</pub-id></mixed-citation></ref><ref id="bjh13335-bib-0017"><mixed-citation publication-type="journal" id="bjh13335-cit-0017">
+<string-name>
+<surname>Kobayashi</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Butler</surname>, <given-names>J.M.</given-names>
+</string-name>, <string-name>
+<surname>O'Donnell</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Kobayashi</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Ding</surname>, <given-names>B.S.</given-names>
+</string-name>, <string-name>
+<surname>Bonner</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Chiu</surname>, <given-names>V.K.</given-names>
+</string-name>, <string-name>
+<surname>Nolan</surname>, <given-names>D.J.</given-names>
+</string-name>, <string-name>
+<surname>Shido</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Benjamin</surname>, <given-names>L.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Rafii</surname>, <given-names>S.</given-names>
+</string-name> (<year>2010</year>) <article-title>Angiocrine factors from Akt&#x02010;activated endothelial cells balance self&#x02010;renewal and differentiation of haematopoietic stem cells</article-title>. <source>Nature Cell Biology</source>, <volume>12</volume>, <fpage>1046</fpage>&#x02013;<lpage>1056</lpage>.<pub-id pub-id-type="pmid">20972423</pub-id></mixed-citation></ref><ref id="bjh13335-bib-0018"><mixed-citation publication-type="journal" id="bjh13335-cit-0018">
+<string-name>
+<surname>Kopp</surname>, <given-names>H.G.</given-names>
+</string-name>, <string-name>
+<surname>Avecilla</surname>, <given-names>S.T.</given-names>
+</string-name>, <string-name>
+<surname>Hooper</surname>, <given-names>A.T.</given-names>
+</string-name>, <string-name>
+<surname>Shmelkov</surname>, <given-names>S.V.</given-names>
+</string-name>, <string-name>
+<surname>Ramos</surname>, <given-names>C.A.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>F.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Rafii</surname>, <given-names>S.</given-names>
+</string-name> (<year>2005</year>) <article-title>Tie2 activation contributes to hemangiogenic regeneration after myelosuppression</article-title>. <source>Blood</source>, <volume>106</volume>, <fpage>505</fpage>&#x02013;<lpage>513</lpage>.<pub-id pub-id-type="pmid">15817675</pub-id></mixed-citation></ref><ref id="bjh13335-bib-0019"><mixed-citation publication-type="journal" id="bjh13335-cit-0019">
+<string-name>
+<surname>Li</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Daculsi</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Grellier</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Bareille</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Bourget</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Remy</surname>, <given-names>M.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Amedee</surname>, <given-names>J.</given-names>
+</string-name> (<year>2011</year>) <article-title>The role of vascular actors in two dimensional dialogue of human bone marrow stromal cell and endothelial cell for inducing self&#x02010;assembled network</article-title>. <source>PLoS ONE</source>, <volume>6</volume>, <fpage>e16767</fpage>.<pub-id pub-id-type="pmid">21304816</pub-id></mixed-citation></ref><ref id="bjh13335-bib-0020"><mixed-citation publication-type="journal" id="bjh13335-cit-0020">
+<string-name>
+<surname>Milatovic</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Nanney</surname>, <given-names>L.B.</given-names>
+</string-name>, <string-name>
+<surname>Yu</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>White</surname>, <given-names>J.R.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Richmond</surname>, <given-names>A.</given-names>
+</string-name> (<year>2003</year>) <article-title>Impaired healing of nitrogen mustard wounds in CXCR2 null mice</article-title>. <source>Wound Repair and Regeneration</source>, <volume>11</volume>, <fpage>213</fpage>&#x02013;<lpage>219</lpage>.<pub-id pub-id-type="pmid">12753603</pub-id></mixed-citation></ref><ref id="bjh13335-bib-0021"><mixed-citation publication-type="journal" id="bjh13335-cit-0021">
+<string-name>
+<surname>Morrison</surname>, <given-names>S.J.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Spradling</surname>, <given-names>A.C.</given-names>
+</string-name> (<year>2008</year>) <article-title>Stem cells and niches: mechanisms that promote stem cell maintenance throughout life</article-title>. <source>Cell</source>, <volume>132</volume>, <fpage>598</fpage>&#x02013;<lpage>611</lpage>.<pub-id pub-id-type="pmid">18295578</pub-id></mixed-citation></ref><ref id="bjh13335-bib-0022"><mixed-citation publication-type="journal" id="bjh13335-cit-0022">
+<string-name>
+<surname>Nannuru</surname>, <given-names>K.C.</given-names>
+</string-name>, <string-name>
+<surname>Sharma</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Varney</surname>, <given-names>M.L.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Singh</surname>, <given-names>R.K.</given-names>
+</string-name> (<year>2011</year>) <article-title>Role of chemokine receptor CXCR2 expression in mammary tumor growth, angiogenesis and metastasis</article-title>. <source>Journal of Carcinogenesis</source>, <volume>10</volume>, <fpage>40</fpage>.<pub-id pub-id-type="pmid">22368515</pub-id></mixed-citation></ref><ref id="bjh13335-bib-0023"><mixed-citation publication-type="journal" id="bjh13335-cit-0023">
+<string-name>
+<surname>Pepperell</surname>, <given-names>E.E.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Watt</surname>, <given-names>S.M.</given-names>
+</string-name> (<year>2013</year>) <article-title>A novel application for a 3&#x02010;dimensional timelapse assay that distinguishes chemotactic from chemokinetic responses of hematopoietic CD133(+) stem/progenitor cells</article-title>. <source>Stem Cell Research</source>, <volume>11</volume>, <fpage>707</fpage>&#x02013;<lpage>720</lpage>.<pub-id pub-id-type="pmid">23727446</pub-id></mixed-citation></ref><ref id="bjh13335-bib-0024"><mixed-citation publication-type="journal" id="bjh13335-cit-0024">
+<string-name>
+<surname>Petreaca</surname>, <given-names>M.L.</given-names>
+</string-name>, <string-name>
+<surname>Yao</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Defea</surname>, <given-names>K.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Martins&#x02010;Green</surname>, <given-names>M.</given-names>
+</string-name> (<year>2007</year>) <article-title>Transactivation of vascular endothelial growth factor receptor&#x02010;2 by interleukin&#x02010;8 (IL&#x02010;8/CXCL8) is required for IL&#x02010;8/CXCL8&#x02010;induced endothelial permeability</article-title>. <source>Molecular Biology of the Cell</source>, <volume>18</volume>, <fpage>5014</fpage>&#x02013;<lpage>5023</lpage>.<pub-id pub-id-type="pmid">17928406</pub-id></mixed-citation></ref><ref id="bjh13335-bib-0025"><mixed-citation publication-type="journal" id="bjh13335-cit-0025">
+<string-name>
+<surname>Rafii</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Avecilla</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Shmelkov</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Shido</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Tejada</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Moore</surname>, <given-names>M.A.</given-names>
+</string-name>, <string-name>
+<surname>Heissig</surname>, <given-names>B.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Hattori</surname>, <given-names>K.</given-names>
+</string-name> (<year>2003</year>) <article-title>Angiogenic factors reconstitute hematopoiesis by recruiting stem cells from bone marrow microenvironment</article-title>. <source>Annals of the New York Academy of Sciences</source>, <volume>996</volume>, <fpage>49</fpage>&#x02013;<lpage>60</lpage>.<pub-id pub-id-type="pmid">12799282</pub-id></mixed-citation></ref><ref id="bjh13335-bib-0026"><mixed-citation publication-type="journal" id="bjh13335-cit-0026">
+<string-name>
+<surname>Rood</surname>, <given-names>P.M.</given-names>
+</string-name>, <string-name>
+<surname>Calafat</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>von dem Borne</surname>, <given-names>A.E.</given-names>
+</string-name>, <string-name>
+<surname>Gerritsen</surname>, <given-names>W.R.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>van der Schoot</surname>, <given-names>C.E.</given-names>
+</string-name> (<year>2000</year>) <article-title>Immortalisation of human bone marrow endothelial cells: characterisation of new cell lines</article-title>. <source>European Journal of Clinical Investigation</source>, <volume>30</volume>, <fpage>618</fpage>&#x02013;<lpage>629</lpage>.<pub-id pub-id-type="pmid">10886302</pub-id></mixed-citation></ref><ref id="bjh13335-bib-0027"><mixed-citation publication-type="journal" id="bjh13335-cit-0027">
+<string-name>
+<surname>Roubelakis</surname>, <given-names>M.G.</given-names>
+</string-name>, <string-name>
+<surname>Tsaknakis</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Pappa</surname>, <given-names>K.I.</given-names>
+</string-name>, <string-name>
+<surname>Anagnou</surname>, <given-names>N.P.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Watt</surname>, <given-names>S.M.</given-names>
+</string-name> (<year>2013</year>) <article-title>Spindle shaped human mesenchymal stem/stromal cells from amniotic fluid promote neovascularization</article-title>. <source>PLoS ONE</source>, <volume>8</volume>, <fpage>e54747</fpage>.<pub-id pub-id-type="pmid">23359810</pub-id></mixed-citation></ref><ref id="bjh13335-bib-0028"><mixed-citation publication-type="journal" id="bjh13335-cit-0028">
+<string-name>
+<surname>Sacchetti</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Funari</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Michienzi</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Di Cesare</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Piersanti</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Saggio</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Tagliafico</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Ferrari</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Robey</surname>, <given-names>P.G.</given-names>
+</string-name>, <string-name>
+<surname>Riminucci</surname>, <given-names>M.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Bianco</surname>, <given-names>P.</given-names>
+</string-name> (<year>2007</year>) <article-title>Self&#x02010;renewing osteoprogenitors in bone marrow sinusoids can organize a hematopoietic microenvironment</article-title>. <source>Cell</source>, <volume>131</volume>, <fpage>324</fpage>&#x02013;<lpage>336</lpage>.<pub-id pub-id-type="pmid">17956733</pub-id></mixed-citation></ref><ref id="bjh13335-bib-0029"><mixed-citation publication-type="journal" id="bjh13335-cit-0029">
+<string-name>
+<surname>Saleh</surname>, <given-names>F.A.</given-names>
+</string-name>, <string-name>
+<surname>Whyte</surname>, <given-names>M.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Genever</surname>, <given-names>P.G.</given-names>
+</string-name> (<year>2011</year>) <article-title>Effects of endothelial cells on human mesenchymal stem cell activity in a three&#x02010;dimensional in vitro model</article-title>. <source>European Cells &#x00026; Materials</source>, <volume>22</volume>, <fpage>242</fpage>&#x02013;<lpage>257</lpage>; discussion 257.<pub-id pub-id-type="pmid">22012735</pub-id></mixed-citation></ref><ref id="bjh13335-bib-0030"><mixed-citation publication-type="journal" id="bjh13335-cit-0030">
+<string-name>
+<surname>Schofield</surname>, <given-names>R.</given-names>
+</string-name> (<year>1978</year>) <article-title>The relationship between the spleen colony&#x02010;forming cell and the haemopoietic stem cell</article-title>. <source>Blood Cells</source>, <volume>4</volume>, <fpage>7</fpage>&#x02013;<lpage>25</lpage>.<pub-id pub-id-type="pmid">747780</pub-id></mixed-citation></ref><ref id="bjh13335-bib-0031"><mixed-citation publication-type="journal" id="bjh13335-cit-0031">
+<string-name>
+<surname>Singh</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Sadanandam</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Varney</surname>, <given-names>M.L.</given-names>
+</string-name>, <string-name>
+<surname>Nannuru</surname>, <given-names>K.C.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Singh</surname>, <given-names>R.K.</given-names>
+</string-name> (<year>2010</year>) <article-title>Small interfering RNA&#x02010;mediated CXCR1 or CXCR2 knock&#x02010;down inhibits melanoma tumor growth and invasion</article-title>. <source>International Journal of Cancer</source>, <volume>126</volume>, <fpage>328</fpage>&#x02013;<lpage>336</lpage>.<pub-id pub-id-type="pmid">19585580</pub-id></mixed-citation></ref><ref id="bjh13335-bib-0032"><mixed-citation publication-type="journal" id="bjh13335-cit-0032">
+<string-name>
+<surname>Singh</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Varney</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Singh</surname>, <given-names>A.P.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Singh</surname>, <given-names>R.K.</given-names>
+</string-name> (<year>2011</year>) <article-title>CXCR1 and CXCR2 silencing modulates CXCL8&#x02010;dependent endothelial cell proliferation, migration and capillary&#x02010;like structure formation</article-title>. <source>Microvascular Research</source>, <volume>82</volume>, <fpage>318</fpage>&#x02013;<lpage>325</lpage>.<pub-id pub-id-type="pmid">21749879</pub-id></mixed-citation></ref><ref id="bjh13335-bib-0033"><mixed-citation publication-type="journal" id="bjh13335-cit-0033">
+<string-name>
+<surname>Slayton</surname>, <given-names>W.B.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>X.M.</given-names>
+</string-name>, <string-name>
+<surname>Butler</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Guthrie</surname>, <given-names>S.M.</given-names>
+</string-name>, <string-name>
+<surname>Jorgensen</surname>, <given-names>M.L.</given-names>
+</string-name>, <string-name>
+<surname>Wingard</surname>, <given-names>J.R.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Scott</surname>, <given-names>E.W.</given-names>
+</string-name> (<year>2007</year>) <article-title>The role of the donor in the repair of the marrow vascular niche following hematopoietic stem cell transplant</article-title>. <source>Stem Cells</source>, <volume>25</volume>, <fpage>2945</fpage>&#x02013;<lpage>2955</lpage>.<pub-id pub-id-type="pmid">17656638</pub-id></mixed-citation></ref><ref id="bjh13335-bib-0034"><mixed-citation publication-type="journal" id="bjh13335-cit-0034">
+<string-name>
+<surname>Sugiyama</surname>, <given-names>T.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Nagasawa</surname>, <given-names>T.</given-names>
+</string-name> (<year>2012</year>) <article-title>Bone marrow niches for hematopoietic stem cells and immune cells</article-title>. <source>Inflammation &#x00026; Allergy: Drug Targets</source>, <volume>11</volume>, <fpage>201</fpage>&#x02013;<lpage>206</lpage>.<pub-id pub-id-type="pmid">22452607</pub-id></mixed-citation></ref><ref id="bjh13335-bib-0035"><mixed-citation publication-type="journal" id="bjh13335-cit-0035">
+<string-name>
+<surname>Wilson</surname>, <given-names>A.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Trumpp</surname>, <given-names>A.</given-names>
+</string-name> (<year>2006</year>) <article-title>Bone&#x02010;marrow haematopoietic&#x02010;stem&#x02010;cell niches</article-title>. <source>Nature Reviews Immunology</source>, <volume>6</volume>, <fpage>93</fpage>&#x02013;<lpage>106</lpage>.</mixed-citation></ref><ref id="bjh13335-bib-0036"><mixed-citation publication-type="journal" id="bjh13335-cit-0036">
+<string-name>
+<surname>Wolf</surname>, <given-names>N.S.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Trentin</surname>, <given-names>J.J.</given-names>
+</string-name> (<year>1968</year>) <article-title>Hemopoietic colony studies. V. Effect of hemopoietic organ stroma on differentiation of pluripotent stem cells</article-title>. <source>Journal of Experimental Medicine</source>, <volume>127</volume>, <fpage>205</fpage>&#x02013;<lpage>214</lpage>.<pub-id pub-id-type="pmid">5635040</pub-id></mixed-citation></ref><ref id="bjh13335-bib-0037"><mixed-citation publication-type="journal" id="bjh13335-cit-0037">
+<string-name>
+<surname>Wright</surname>, <given-names>L.M.</given-names>
+</string-name>, <string-name>
+<surname>Maloney</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Yu</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Kindle</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Collin&#x02010;Osdoby</surname>, <given-names>P.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Osdoby</surname>, <given-names>P.</given-names>
+</string-name> (<year>2005</year>) <article-title>Stromal cell&#x02010;derived factor&#x02010;1 binding to its chemokine receptor CXCR4 on precursor cells promotes the chemotactic recruitment, development and survival of human osteoclasts</article-title>. <source>Bone</source>, <volume>36</volume>, <fpage>840</fpage>&#x02013;<lpage>853</lpage>.<pub-id pub-id-type="pmid">15794931</pub-id></mixed-citation></ref><ref id="bjh13335-bib-0038"><mixed-citation publication-type="journal" id="bjh13335-cit-0038">
+<string-name>
+<surname>Zhang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Fisher</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Newey</surname>, <given-names>S.E.</given-names>
+</string-name>, <string-name>
+<surname>Smythe</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Tatton</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Tsaknakis</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Forde</surname>, <given-names>S.P.</given-names>
+</string-name>, <string-name>
+<surname>Carpenter</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Athanassopoulos</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Hale</surname>, <given-names>S.J.</given-names>
+</string-name>, <string-name>
+<surname>Ferguson</surname>, <given-names>D.J.</given-names>
+</string-name>, <string-name>
+<surname>Tyler</surname>, <given-names>M.P.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Watt</surname>, <given-names>S.M.</given-names>
+</string-name> (<year>2009</year>) <article-title>The impact of proliferative potential of umbilical cord&#x02010;derived endothelial progenitor cells and hypoxia on vascular tubule formation in vitro</article-title>. <source>Stem Cells and Development</source>, <volume>18</volume>, <fpage>359</fpage>&#x02013;<lpage>375</lpage>.<pub-id pub-id-type="pmid">18662129</pub-id></mixed-citation></ref><ref id="bjh13335-bib-0039"><mixed-citation publication-type="journal" id="bjh13335-cit-0039">
+<string-name>
+<surname>Zhou</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Tsaknakis</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Coldwell</surname>, <given-names>K.E.</given-names>
+</string-name>, <string-name>
+<surname>Khoo</surname>, <given-names>C.P.</given-names>
+</string-name>, <string-name>
+<surname>Roubelakis</surname>, <given-names>M.G.</given-names>
+</string-name>, <string-name>
+<surname>Chang</surname>, <given-names>C.H.</given-names>
+</string-name>, <string-name>
+<surname>Pepperell</surname>, <given-names>E.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Watt</surname>, <given-names>S.M.</given-names>
+</string-name> (<year>2012</year>) <article-title>A novel function for the haemopoietic supportive murine bone marrow MS&#x02010;5 mesenchymal stromal cell line in promoting human vasculogenesis and angiogenesis</article-title>. <source>British Journal of Haematology</source>, <volume>157</volume>, <fpage>299</fpage>&#x02013;<lpage>311</lpage>.<pub-id pub-id-type="pmid">22324374</pub-id></mixed-citation></ref></ref-list></back></article>

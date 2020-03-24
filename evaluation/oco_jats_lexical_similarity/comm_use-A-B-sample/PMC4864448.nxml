@@ -1,0 +1,585 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Br J Haematol</journal-id><journal-id journal-id-type="iso-abbrev">Br. J. Haematol</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1365-2141</journal-id><journal-id journal-id-type="publisher-id">BJH</journal-id><journal-title-group><journal-title>British Journal of Haematology</journal-title></journal-title-group><issn pub-type="ppub">0007-1048</issn><issn pub-type="epub">1365-2141</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">25858293</article-id><article-id pub-id-type="pmc">4864448</article-id><article-id pub-id-type="doi">10.1111/bjh.13406</article-id><article-id pub-id-type="publisher-id">BJH13406</article-id><article-categories><subj-group subj-group-type="overline"><subject>Research Paper</subject></subj-group><subj-group subj-group-type="heading"><subject>Haematological Malignancy</subject></subj-group></article-categories><title-group><article-title>Acute myeloid leukaemia: challenges and real world data from India</article-title><alt-title alt-title-type="left-running-head">C. Philip <italic>et&#x000a0;al</italic></alt-title></title-group><contrib-group><contrib id="bjh13406-cr-0001" contrib-type="author"><name><surname>Philip</surname><given-names>Chepsy</given-names></name><xref ref-type="aff" rid="bjh13406-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="bjh13406-cr-0002" contrib-type="author"><name><surname>George</surname><given-names>Biju</given-names></name><xref ref-type="aff" rid="bjh13406-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="bjh13406-cr-0003" contrib-type="author"><name><surname>Ganapule</surname><given-names>Abhijeet</given-names></name><xref ref-type="aff" rid="bjh13406-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="bjh13406-cr-0004" contrib-type="author"><name><surname>Korula</surname><given-names>Anu</given-names></name><xref ref-type="aff" rid="bjh13406-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="bjh13406-cr-0005" contrib-type="author"><name><surname>Jain</surname><given-names>Punit</given-names></name><xref ref-type="aff" rid="bjh13406-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="bjh13406-cr-0006" contrib-type="author"><name><surname>Alex</surname><given-names>Ansu Abu</given-names></name><xref ref-type="aff" rid="bjh13406-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="bjh13406-cr-0007" contrib-type="author"><name><surname>Lakshmi</surname><given-names>Kavitha M.</given-names></name><xref ref-type="aff" rid="bjh13406-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="bjh13406-cr-0008" contrib-type="author"><name><surname>Sitaram</surname><given-names>Usha</given-names></name><xref ref-type="aff" rid="bjh13406-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="bjh13406-cr-0009" contrib-type="author"><name><surname>Abubacker</surname><given-names>Fouzia N.</given-names></name><xref ref-type="aff" rid="bjh13406-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="bjh13406-cr-0010" contrib-type="author"><name><surname>Abraham</surname><given-names>Aby</given-names></name><xref ref-type="aff" rid="bjh13406-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="bjh13406-cr-0011" contrib-type="author"><name><surname>Viswabandya</surname><given-names>Auro</given-names></name><xref ref-type="aff" rid="bjh13406-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="bjh13406-cr-0012" contrib-type="author"><name><surname>Srivastava</surname><given-names>Vivi M.</given-names></name><xref ref-type="aff" rid="bjh13406-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="bjh13406-cr-0013" contrib-type="author"><name><surname>Srivastava</surname><given-names>Alok</given-names></name><xref ref-type="aff" rid="bjh13406-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="bjh13406-cr-0014" contrib-type="author"><name><surname>Balasubramanian</surname><given-names>Poonkuzhali</given-names></name><xref ref-type="aff" rid="bjh13406-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="bjh13406-cr-0015" contrib-type="author" corresp="yes"><name><surname>Mathews</surname><given-names>Vikram</given-names></name><xref ref-type="aff" rid="bjh13406-aff-0001">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="bjh13406-aff-0001"><label><sup>1</sup></label><named-content content-type="organisation-division">Department of Haematology</named-content><institution>Christian Medical College</institution><named-content content-type="city">Vellore</named-content><country country="IN">India</country></aff><aff id="bjh13406-aff-0002"><label><sup>2</sup></label><named-content content-type="organisation-division">Department of Transfusion Medicine and Immunohaematology</named-content><institution>Christian Medical College</institution><named-content content-type="city">Vellore</named-content><country country="IN">India</country></aff><aff id="bjh13406-aff-0003"><label><sup>3</sup></label><named-content content-type="organisation-division">Cytogenetics Unit</named-content><institution>Christian Medical College</institution><named-content content-type="city">Vellore</named-content><country country="IN">India</country></aff><author-notes><corresp id="correspondenceTo"><label>*</label>
+Correspondence: Vikram Mathews, Department of Haematology, Christian Medical College and Hospital, Vellore 632004, India.<break/>
+E&#x02010;mail: <email>vikram@cmcvellore.ac.in</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>09</day><month>4</month><year>2015</year></pub-date><pub-date pub-type="ppub"><month>7</month><year>2015</year></pub-date><volume>170</volume><issue>1</issue><issue-id pub-id-type="doi">10.1111/bjh.2015.170.issue-1</issue-id><fpage>110</fpage><lpage>117</lpage><history><date date-type="received"><day>04</day><month>1</month><year>2015</year></date><date date-type="accepted"><day>26</day><month>1</month><year>2015</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> Copyright &#x000a9; 2015 John Wiley & Sons Ltd <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2015 The Authors. <italic>British Journal of Haematology</italic> published by John Wiley &#x00026; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:BJH-170-110.pdf"/><abstract id="bjh13406-abs-0001"><title>Summary</title><p>The management of acute myeloid leukaemia (<styled-content style="fixed-case">AML</styled-content>) in India remains a challenge. In a two&#x02010;year prospective study at our centre there were 380 newly diagnosed <styled-content style="fixed-case">AML</styled-content> (excluding acute promyelocytic leukaemia, <styled-content style="fixed-case">AML</styled-content>&#x02010;M3) patients. The median age of newly diagnosed patients was 40&#x000a0;years (range: 1&#x02013;79; 12&#x000b7;3% were&#x000a0;&#x02264;&#x000a0;15&#x000a0;years, 16&#x000b7;3% were &#x02265; 60&#x000a0;years old) and there were 244 (64&#x000b7;2%) males. The median duration of symptoms prior to first presentation at our hospital was 4&#x000a0;weeks (range: 1&#x02013;52). The median distance from home to hospital was 580&#x000a0;km (range: 6&#x02013;3200&#x000a0;km). 109 (29%) opted for standard of care and were admitted for induction chemotherapy. Of the 271 that did not take treatment the major reason was lack of financial resources in 219 (81%). There were 27 (24&#x000b7;7%) inductions deaths and of these, 12 (44&#x000b7;5%) were due to multidrug&#x02010;resistant gram&#x02010;negative bacilli and 12 (44&#x000b7;5%) showed evidence of a fungal infection. The overall survival at 1&#x000a0;year was 70&#x000b7;4%&#x000a0;&#x000b1;&#x000a0;10&#x000b7;7%, 55&#x000b7;6%&#x000a0;&#x000b1;&#x000a0;6&#x000b7;8% and 42&#x000b7;4%&#x000a0;&#x000b1;&#x000a0;15&#x000b7;6% in patients aged &#x02264;15&#x000a0;years, 15 &#x02010; 60&#x000a0;years and &#x02265;60&#x000a0;years, respectively. In conclusion, the biggest constraint is the cost of treatment and the absence of a health security net to treat all patients with this diagnosis.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="bjh13406-kwd-0001">acute myeloid leukaemia</kwd><kwd id="bjh13406-kwd-0002">real world data</kwd><kwd id="bjh13406-kwd-0003">cost of therapy</kwd><kwd id="bjh13406-kwd-0004">induction mortality</kwd><kwd id="bjh13406-kwd-0005">multidrug&#x02010;resistant bacteria</kwd></kwd-group><funding-group><award-group><funding-source>Wellcome&#x02010;DBT India Alliance</funding-source></award-group></funding-group><funding-group><award-group><funding-source>Department of Biotechnology, New Delhi, India</funding-source><award-id>BT/01/COE/08/03</award-id></award-group></funding-group><funding-group><award-group><funding-source>Fluid Research</funding-source><award-id>FG/7915/07/2012</award-id></award-group></funding-group><counts><page-count count="8"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>bjh13406</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>July 2015</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:4.9.1 mode:remove_FC converted:16.06.2016</meta-value></custom-meta></custom-meta-group></article-meta></front><body><p>It is well recognized that there are significant financial challenges in treating acute myeloid leukaemia (AML) (Redaelli <italic>et&#x000a0;al</italic>, <xref rid="bjh13406-bib-0025" ref-type="ref">2004</xref>). There is an acknowledged paucity of data to address the issue of the economic burden of AML, even in high&#x02010;income countries with well&#x02010;established and well&#x02010;monitored health care delivery systems (Uyl&#x02010;de Groot <italic>et&#x000a0;al</italic>, <xref rid="bjh13406-bib-0028" ref-type="ref">2001</xref>; Redaelli <italic>et&#x000a0;al</italic>, <xref rid="bjh13406-bib-0025" ref-type="ref">2004</xref>; Leunis <italic>et&#x000a0;al</italic>, <xref rid="bjh13406-bib-0020" ref-type="ref">2012</xref>). From the available data, the cost of treating AML in a developed country varies from US$ 80&#x000a0;000 to &#x0003e;150&#x000a0;000/patient (Stalfelt &#x00026; Brodin, <xref rid="bjh13406-bib-0026" ref-type="ref">1994</xref>; Uyl&#x02010;de Groot <italic>et&#x000a0;al</italic>, <xref rid="bjh13406-bib-0028" ref-type="ref">2001</xref>; Redaelli <italic>et&#x000a0;al</italic>, <xref rid="bjh13406-bib-0025" ref-type="ref">2004</xref>; Leunis <italic>et&#x000a0;al</italic>, <xref rid="bjh13406-bib-0020" ref-type="ref">2012</xref>). These figures have to be put in context with the fact that 70% of the countries in the world, which contribute to &#x0003e;75% of the world's population, have a gross national income (GNI)/capita of less than US$ 10&#x000a0;000, Wikipedia (<xref rid="bjh13406-bib-0029" ref-type="ref">2014</xref>) and in many of these countries the cost of medical care is met by self&#x02010;payment. Registry&#x02010;based data on patients actually diagnosed, receiving treatment and their clinical outcomes have significant limitations with the recognition that, in often quoted registry data, such as that of the Surveillance Epidemiology and End Results (SEER)&#x02010;Medicare database, there is up to 50% under reporting of the diagnosis of AML (Craig <italic>et&#x000a0;al</italic>, <xref rid="bjh13406-bib-0007" ref-type="ref">2012</xref>). Significant advances have been made in the management of AML. However, majority of these advances are based on well controlled clinical trials from countries with universal health care access and have a significant bias in the patients enrolled being younger, having better performance scores and less co&#x02010;morbidities than the average patient with a diagnosis of AML. The universal applicability or relevance of many of these advances, which often involve more intensive chemotherapy and stem cell transplantation, have rarely been addressed. There is very limited real world data of the clinical outcome of patients with a diagnosis of AML where the denominator includes every patient diagnosed with AML. When such data is available, the observations and conclusions often seem at odds with published clinical trial data (Juliusson <italic>et&#x000a0;al</italic>, <xref rid="bjh13406-bib-0018" ref-type="ref">2012</xref>).</p><p>While India has access to highly skilled medical professionals and institutes that can provide state of the art medical care comparable to the best in the world, these are often limited to major cities and are inaccessible to the poor. The overall number of trained educated health workers is very low in proportion to the country's population and the effect of this is reflected in the dismal population health indices (Horton &#x00026; Das, <xref rid="bjh13406-bib-0016" ref-type="ref">2011</xref>). India is ranked 135 in the world in terms of the human development index (HDI), which assesses the long&#x02010;term progress in health and social well&#x02010;being of a country (Malik, <xref rid="bjh13406-bib-0021" ref-type="ref">2014</xref>). Only 1&#x000b7;2% of the country's GDP goes towards health and an estimated 55% of the population in India is poor by the multidimensional poverty index (MPI) (Horton &#x00026; Das, <xref rid="bjh13406-bib-0016" ref-type="ref">2011</xref>). It is estimated that 80% of medical expenses is met by out of pocket expenses, resulting in approximately 39 million people falling below the poverty line every year (Garg &#x00026; Karan, <xref rid="bjh13406-bib-0012" ref-type="ref">2009</xref>; Balarajan <italic>et&#x000a0;al</italic>, <xref rid="bjh13406-bib-0001" ref-type="ref">2011</xref>). It is widely recognized that there is significant under diagnosis and under reporting of AML in India and that a substantial proportion of patients do not receive standard of care therapy. However, these issues have never been systematically evaluated. The objective of this descriptive study was to document the number of newly diagnosed with AML over a fixed period of time, the proportion that did not proceed with standard therapy and the clinical outcome of those receiving standard of care, and to analyse the potential challenges in each of these areas.</p><sec id="bjh13406-sec-0002"><title>Patients and methods</title><p>This prospective and descriptive single centre study was approved by the Institutional research and ethics review board. All patients with a diagnosis of AML (excluding AML&#x02010;M3 [acute promyelocytic leukaemia]) who presented to the Department of Clinical Haematology at our institution over a two&#x02010;year period, from 1 July 2012 to 30 June 2014, were enrolled after obtaining written and informed consent. Demographic details were recorded in a questionnaire format at first contact (Appendix S1).</p></sec><sec id="bjh13406-sec-0003"><title>Diagnosis</title><p>A diagnosis of AML by French&#x02010;American&#x02010;British (FAB) criteria (Bennett <italic>et&#x000a0;al</italic>, <xref rid="bjh13406-bib-0003" ref-type="ref">1976</xref>) was sufficient for enrolment in the study. However, for those patients who opted to proceed with definitive therapy a more detailed evaluation was undertaken and the diagnosis of AML and subtype was made as per the World Health Organization (WHO) classification (Swerdlow, <xref rid="bjh13406-bib-0027" ref-type="ref">2008</xref>). This included morphological assessment of the bone marrow aspiration and biopsy, immunophenotyping, karyotyping and molecular screening for mutations in the <italic>NPM1</italic> and <italic>FLT3</italic> genes, as previously reported (Yamamoto <italic>et&#x000a0;al</italic>, <xref rid="bjh13406-bib-0030" ref-type="ref">2001</xref>; Chendamarai <italic>et&#x000a0;al</italic>, <xref rid="bjh13406-bib-0005" ref-type="ref">2012</xref>; Parihar <italic>et&#x000a0;al</italic>, <xref rid="bjh13406-bib-0024" ref-type="ref">2012</xref>).</p></sec><sec id="bjh13406-sec-0004"><title>Treatment plan</title><p>Patients choosing to proceed with treatment were admitted to the inpatient wards. Paediatric patients (&#x02264;15&#x000a0;years) were treated with the Berlin&#x02010;Frankf&#x000fc;rt&#x02010;M&#x000fc;nster (BFM) AML&#x02010;BFM98 protocol (Creutzig <italic>et&#x000a0;al</italic>, <xref rid="bjh13406-bib-0008" ref-type="ref">2006</xref>) and were offered an allogeneic stem cell transplantation (SCT) in first remission (CR1) only if they were in the high risk group. Young adults (&#x0003e;15 &#x02013; &#x0003c;60&#x000a0;years) received induction chemotherapy with daunorubicin 60&#x000a0;mg/m<sup>2</sup>/d&#x000a0;&#x000d7;&#x000a0;3&#x000a0;days along with cytosine arabinoside 200&#x000a0;mg/m<sup>2</sup>/d as a continuous infusion&#x000a0;&#x000d7;&#x000a0;7&#x000a0;days (7/3). Complete remission was documented as per standardized reporting criteria (Cheson <italic>et&#x000a0;al</italic>, <xref rid="bjh13406-bib-0006" ref-type="ref">2003</xref>). In young adults, good risk patients were only offered 3 cycles of high dose cytosine arabinoside consolidation (HiDAC; 3&#x000a0;g/m<sup>2</sup>/dose q12&#x000a0;h on days 1, 3 and 5/cycle); intermediate&#x02010; and high&#x02010;risk patients were offered an allogeneic SCT in CR1. Elderly patients (&#x02265;60&#x000a0;years) and young adults with poor performance status and multiple co&#x02010;morbidities received hypomethylating agents (azacitidine or decitabine) at the discretion of the treating physician (Fenaux <italic>et&#x000a0;al</italic>, <xref rid="bjh13406-bib-0010" ref-type="ref">2009</xref>; Cashen <italic>et&#x000a0;al</italic>, <xref rid="bjh13406-bib-0004" ref-type="ref">2010</xref>).</p></sec><sec id="bjh13406-sec-0005"><title>Supportive care</title><p>Induction and consolidation chemotherapy was administered to all patients in an inpatient ward without specialized air handling facilities. Post&#x02010;induction patients remained in the inpatient facility until they had recovered from neutropenia and were clinically stable. If clinically stable, patients were discharged post&#x02010;chemotherapy consolidation and re&#x02010;admitted if they developed febrile neutropenia or any other complication that the primary physician felt warranted admission and close observation. Post&#x02010;allogeneic SCT patients were usually discharged when there was evidence of stable engraftment. Following initial discharge, patients who underwent an allogeneic SCT remained close to the hospital for a minimum period of 2 to 3&#x000a0;months, longer if they developed significant graft&#x02010;versus&#x02010;host disease. All patients received prophylactic antifungal therapy with either posaconazole or amphotericin. Antibiotic policy for febrile neutropenia followed the principles laid out by the Infectious Disease Society of America (IDSA) (Freifeld <italic>et&#x000a0;al</italic>, <xref rid="bjh13406-bib-0011" ref-type="ref">2011</xref>). Blood cultures were obtained prior to both starting and escalation of antibiotic therapy. Additional blood cultures were obtained as required for persistent fever. When blood culture identified an organism the antibiotics were changed based on the antibiogram. If the clinical condition of the patient deteriorated such that they required blood pressure (inotropic) or ventilatory support, the patient was moved to an intensive care unit. The trigger for platelet transfusion was a platelet count of &#x0003c;10&#x000a0;&#x000d7;&#x000a0;10<sup>9</sup>/l in the absence of bleeding and &#x0003c;50&#x000a0;&#x000d7;&#x000a0;10<sup>9</sup>/l if there was active bleeding. The trigger for a red blood cell transfusion was a haemoglobin level &#x0003c;80&#x000a0;g/l. Granulocyte colony&#x02010;stimulating factor was administered in the induction and consolidation phases when neutropenia was established and this was continued until the absolute neutrophil count was &#x0003e; 1&#x000a0;&#x000d7;&#x000a0;10<sup>9</sup>/l.</p></sec><sec id="bjh13406-sec-0006"><title>Management of patients not opting for treatment at our centre</title><p>Those who chose not to proceed with treatment were discharged after stabilization (when required). Patients were usually discharged with a suggested plan of management in case they opted to take treatment at another centre. Follow&#x02010;up telephone interviews were made periodically until July 2014. In those who were deceased, the information was collected from a relative over the telephone. We were not able to establish telephonic contact with any of the patients who resided outside the country.</p></sec><sec id="bjh13406-sec-0007"><title>Definitions</title><p>Standard reporting practices were used for definition of remission, relapse and leukaemia&#x02010;free state (Cheson <italic>et&#x000a0;al</italic>, <xref rid="bjh13406-bib-0006" ref-type="ref">2003</xref>). The cytogenetic risk groups were clasified based on the refined UK Medical Research Council criteria into favourable, intermediate and adverse risk groups (Grimwade <italic>et&#x000a0;al</italic>, <xref rid="bjh13406-bib-0015" ref-type="ref">2010</xref>). Invasive fungal infection (IFI) categories of possible, probable and proven IFI were structured on definitions from the European Organization for Research and Treatment of Cancer/Invasive Fungal Infections Cooperative Group and the National Institute of Allergy and Infectious Diseases Mycoses Study Group (EORTC/MSG) Consensus Group (De Pauw <italic>et&#x000a0;al</italic>, <xref rid="bjh13406-bib-0009" ref-type="ref">2008</xref>). Carbapenem&#x02010;resistant enterobacteriaceae (CRE) infections were identified based on the US Centers for Disease Control interim surveillance definitions as enterobacteriaceae with non&#x02010;susceptibility to carbapenem and resistance to third generation cephalosporins (Kallen &#x00026; Guh, <xref rid="bjh13406-bib-0019" ref-type="ref">2012</xref>).</p></sec><sec id="bjh13406-sec-0008"><title>Statistics</title><p>Descriptive statistics were calculated for all variables. Differences in proportions were assessed using the &#x003c7;2 or Fisher exact statistic. Differences in means were tested using a Mann&#x02013;Whitney&#x02010;<italic>U</italic> test or t&#x02010;test as appropriate. The probability of survival was estimated with the use of the product&#x02010;limit method of Kaplan and Meier and compared by the log&#x02010;rank test. All survival estimates were reported&#x000a0;&#x000b1;&#x000a0;1 standard error (SE). All <italic>P</italic> values were 2&#x02010;sided, with values &#x02264;0&#x000b7;05 indicating statistical significance. Statistical analysis was performed using <sc>spss</sc> 16.0 software (SPSS, Chicago, IL, USA).</p></sec><sec id="bjh13406-sec-0009"><title>Results</title><sec id="bjh13406-sec-0010"><title>Patient accrual and baseline characteristics</title><p>Over the period of this study there were 380 newly diagnosed cases of AML, of which 47 (12&#x000b7;3%) were &#x02264;15&#x000a0;years old, 271 (71&#x000b7;3%) were aged between 15 and &#x0003c;60&#x000a0;years and 62 (16&#x000b7;3%) were &#x02265; 60&#x000a0;years old. The median age of newly diagnosed patients was 40&#x000a0;years (range: 1&#x02013;79), the age distribution of newly diagnosed cases is illustrated in Fig&#x000a0;<xref rid="bjh13406-fig-0001" ref-type="fig">1</xref>A. There were 244 (64&#x000b7;2%) males. The median duration of symptoms prior to first presentation at our hospital was 4&#x000a0;weeks (range: 1&#x02013;52; distribution illustrated in Fig&#x000a0;S1). ECOG performance score at presentation was &#x02265;2 in 23%. The median distance from home to hospital was 580&#x000a0;km (range: 6&#x02013;3200) and 27 patients were from another country (majority from neighbouring countries, such as Bangladesh and Sri Lanka). The baseline demographic characteristics of newly diagnosed patients with AML are summarized in Table&#x000a0;<xref rid="bjh13406-tbl-0001" ref-type="table-wrap">1</xref> and Table S1.</p><table-wrap id="bjh13406-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Baseline demographic characteristics in newly diagnosed patients with AML</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Variable</th><th align="char" valign="bottom" rowspan="1" colspan="1">Patients (<italic>n</italic>&#x000a0;=&#x000a0;380)<italic>n</italic> (%)/Median (Range)/Mean (&#x000b1;SD)</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Age (years)</td><td align="char" char=" " rowspan="1" colspan="1">40 (1&#x02013;79)</td></tr><tr><td align="left" rowspan="1" colspan="1">Sex (male)</td><td align="char" char=" " rowspan="1" colspan="1">244 (64&#x000b7;2)</td></tr><tr><td align="left" rowspan="1" colspan="1">Symptom duration (weeks)</td><td align="char" char=" " rowspan="1" colspan="1">4 (1&#x02013;52)</td></tr><tr><td align="left" rowspan="1" colspan="1">Distance from hospital (kilometres)</td><td align="char" char=" " rowspan="1" colspan="1">580 (6&#x02013;3200)</td></tr><tr><td align="left" rowspan="1" colspan="1">Proceeded to receive treatment</td><td align="char" char=" " rowspan="1" colspan="1">109 (28&#x000b7;7)</td></tr><tr><td align="left" rowspan="1" colspan="1">ECOG PS at diagnosis</td><td align="char" rowspan="1" colspan="1">
+<italic>n</italic>&#x000a0;=&#x000a0;373</td></tr><tr><td align="left" rowspan="1" colspan="1">0/1</td><td align="char" char=" " rowspan="1" colspan="1">289 (77&#x000b7;5)</td></tr><tr><td align="left" rowspan="1" colspan="1">2</td><td align="char" char=" " rowspan="1" colspan="1">71 (19)</td></tr><tr><td align="left" rowspan="1" colspan="1">3/4</td><td align="char" char=" " rowspan="1" colspan="1">13 (3&#x000b7;5)</td></tr><tr><td align="left" rowspan="1" colspan="1">Haemoglobin (g/l)</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">77&#x000a0;&#x000b1;&#x000a0;23&#x000b7;4</td></tr><tr><td align="left" rowspan="1" colspan="1">White blood cell count (&#x000d7;10<sup>9</sup>/l)</td><td align="char" char=" " rowspan="1" colspan="1">16&#x000b7;3 (0&#x000b7;2&#x02013;920)</td></tr><tr><td align="left" rowspan="1" colspan="1">Platelet count (&#x000d7;10<sup>9</sup>/l)</td><td align="char" char=" " rowspan="1" colspan="1">36 (2&#x02013;394)</td></tr><tr><td align="left" rowspan="1" colspan="1">Cytogenetic Risk Group</td><td align="char" rowspan="1" colspan="1">
+<italic>n</italic>&#x000a0;=&#x000a0;247</td></tr><tr><td align="left" rowspan="1" colspan="1">Favourable</td><td align="char" char=" " rowspan="1" colspan="1">29 (11&#x000b7;8)</td></tr><tr><td align="left" rowspan="1" colspan="1">t (8;21)</td><td align="char" char=" " rowspan="1" colspan="1">24</td></tr><tr><td align="left" rowspan="1" colspan="1">inv (16); t (16;16)</td><td align="char" char=" " rowspan="1" colspan="1">5</td></tr><tr><td align="left" rowspan="1" colspan="1">Intermediate</td><td align="char" char=" " rowspan="1" colspan="1">173 (70)</td></tr><tr><td align="left" rowspan="1" colspan="1">Adverse</td><td align="char" char=" " rowspan="1" colspan="1">45 (18&#x000b7;2)</td></tr><tr><td align="left" rowspan="1" colspan="1">monosomy 7</td><td align="char" char=" " rowspan="1" colspan="1">12</td></tr><tr><td align="left" rowspan="1" colspan="1">del 5q; t(6;9); t(9;22) (1 each)</td><td align="char" char=" " rowspan="1" colspan="1">3</td></tr><tr><td align="left" rowspan="1" colspan="1">inv 3</td><td align="char" char=" " rowspan="1" colspan="1">2</td></tr><tr><td align="left" rowspan="1" colspan="1">Complex karyotype</td><td align="char" char=" " rowspan="1" colspan="1">28</td></tr></tbody></table><table-wrap-foot><fn id="bjh13406-note-0001"><p>ECOG PS, Eastern Cooperative Oncology Group performance score; SD, standard deviation.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><fig fig-type="Figure" xml:lang="en" id="bjh13406-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>(A) Age distribution of newly diagnosed cases of acute myeloid leukaemia. (B) Proportion of newly diagnosed patients that opted for treatment (<italic>n</italic>&#x000a0;=&#x000a0;109). (C) For the 109 patients that opted for treatment at our centre, the proportion of patients that had evidence of invasive fungal disease (<styled-content style="fixed-case">IFI</styled-content>) by the revised <styled-content style="fixed-case">EORTC</styled-content>/<styled-content style="fixed-case">MSG</styled-content> criteria (De Pauw <italic>et&#x000a0;al</italic>, <xref rid="bjh13406-bib-0009" ref-type="ref">2008</xref>). (D) The pattern of documented bacterial infections for the 109 patients that received induction therapy. Data mutually exclusive for each patient, i.e., if multiple cultures were positive for one or more gram&#x02010;negative bacilli (<styled-content style="fixed-case">GNB</styled-content>), data counted only once as <styled-content style="fixed-case">GNB</styled-content>, similarly for gram&#x02010;positive cocci (<styled-content style="fixed-case">GPC</styled-content>) and documented here as mixed if both <styled-content style="fixed-case">GNB</styled-content> and <styled-content style="fixed-case">GPC</styled-content> were identified in the same or different cultures of one patient. <styled-content style="fixed-case">CRE</styled-content>: carbapenem&#x02010;resistant enterobacteriaceae (Kallen &#x00026; Guh, <xref rid="bjh13406-bib-0019" ref-type="ref">2012</xref>) E) The pattern of bacterial infections for the 27 patients that died during induction [see above (panel 1D) for description of data].</p></caption><graphic id="nlm-graphic-1" xlink:href="BJH-170-110-g001"/></fig></sec><sec id="bjh13406-sec-0011"><title>Cytogenetic and molecular data</title><p>Cytogenetic data was available in 247 and of these, 29 (11&#x000b7;8%), 173 (70%) and 45 (18&#x000b7;2%) were in the favourable, intermediate and adverse risk groups respectively (Table&#x000a0;<xref rid="bjh13406-tbl-0001" ref-type="table-wrap">1</xref>). <italic>FLT3</italic> and <italic>NPM1</italic> mutation status was available in 143 and of these 22 (15&#x000b7;4%), 5 (3&#x000b7;5%) and 17(12%) were <italic>FLT3</italic>&#x02010;/<italic>NPM1&#x000a0;</italic>+<italic>&#x000a0;</italic>,<italic> FLT3&#x000a0;</italic>+<italic>&#x000a0;</italic>/<italic>NPM1</italic>&#x02010; and <italic>FLT3&#x000a0;</italic>+<italic>&#x000a0;</italic>/<italic>NPM1&#x000a0;</italic>+<italic>&#x000a0;</italic> respectively (Table&#x000a0;S1). Among the 109 patients that proceeded to treatment, an adverse risk cytogenetic finding was noted in 22 (20%) and a <italic>FLT3</italic> mutation was seen in 17 (18&#x000b7;1%).</p></sec><sec id="bjh13406-sec-0012"><title>Treatment details</title><p>Of the 380 newly diagnosed patients, only 109 (29%) opted to have standard of care therapy at our centre (Fig&#x000a0;<xref rid="bjh13406-fig-0001" ref-type="fig">1</xref>B). Of the 109 who received treatment, 23 (21%) were aged &#x02264;15&#x000a0;years (paediatric), 75 (69%) were young adults (15 &#x02013; &#x0003c;60&#x000a0;years) and 11 (10%) were elderly (&#x02265;60&#x000a0;years). All paediatric patients received the AML&#x02010;BFM98 protocol (Creutzig <italic>et&#x000a0;al</italic>, <xref rid="bjh13406-bib-0008" ref-type="ref">2006</xref>). Among the young adults, 68 (91%) received a standard induction while the remaining 7 (9%) received a hypomethylating agent as initial induction therapy. Of the 11 elderly patients in this series, 6 (55%) received a hypomethylating agent for induction, 4 (36%) received a standard induction regimen and one patient received an abbreviated induction with 5&#x000a0;days of cytosine arabinoside and 2&#x000a0;days of anthracycline.</p><p>Post&#x02010;induction, paediatric patients proceeded to receive consolidation and maintenance therapy as per the BFM&#x02010;AML98 protocol, 4 (17&#x000b7;4%) paediatric patients received an allogeneic SCT as part of their consolidation. Among the young adults, 18 received an allogeneic SCT and two an autologous SCT as part of consolidation while the rest (<italic>n</italic>&#x000a0;=&#x000a0;36) received chemotherapy alone as consolidation. In the elderly subset, one patient received an autologous SCT as part of consolidation while the rest received chemotherapy alone or multiple cycles of hypomethylating agents.</p><p>All patients developed febrile neutropenia post&#x02010;initiation of induction therapy. During induction therapy, 30 (28%) had evidence of possible or proven IFI (Fig&#x000a0;<xref rid="bjh13406-fig-0001" ref-type="fig">1</xref>C). Bacteria were isolated on at least one blood culture in 71 (65%) patients. In 45 (42%) patients only a gram&#x02010;negative bacilli (GNB) was isolated, in 18 (16%) only a gram&#x02010;positive cocci (GPC) and in 8 (7%) a mixture of GNB and GPC (data mutually exclusive for patients, multiple cultures being positive for one patient counted only once). Of the GNB that were isolated, a CRE was identified on at least one blood culture in 14 (31%) patients (Fig&#x000a0;<xref rid="bjh13406-fig-0001" ref-type="fig">1</xref>D).</p></sec><sec id="bjh13406-sec-0013"><title>Induction deaths</title><p>Of the 109 patients in whom induction chemotherapy was initiated there were 27 (24&#x000b7;7%) induction deaths. The induction mortality rate was 4/23 (17%) among the paediatric population, 19/75 (25%) in the young adults and 4/11 (36%) in the elderly. The major cause of death was bacterial sepsis and fungal infections. Among the patients who died in induction, bacteria were isolated on at least one blood culture in 23 (85%) patients. Of these patients, only a GNB was isolated in 18 (67%), 2 (7%) had a GPC alone and 3 (11%) had a mixed culture (Fig&#x000a0;<xref rid="bjh13406-fig-0001" ref-type="fig">1</xref>E). Among the 18 patients in whom a GNB was isolated, the bacterium was a CRE on at least one blood culture in 7 (39%) cases (Fig&#x000a0;<xref rid="bjh13406-fig-0001" ref-type="fig">1</xref>E). Among the patients in whom a GNB was isolated but were not CRE, 5 had growth of a carbapenem&#x02010;resistant pseudomonas and hence 12 (44&#x000b7;5%) of the induction deaths could be attributed to MDR GNB. Twelve (44%) of the patients who died in induction had evidence of a possible or definitive IFI. The median time to induction death was 24&#x000a0;days (range: 15 &#x02013; 63).</p></sec><sec id="bjh13406-sec-0014"><title>Survival</title><p>An additional 17 patients died post&#x02010;induction during the period of this study. Of these, the majority (<italic>n</italic>&#x000a0;=&#x000a0;9) of deaths was due to disease recurrence and eight patients died in remission during subsequent neutropenia of consolidation (6 related to infections and two early post&#x02010;transplant treatment&#x02010;related mortality). At a median follow&#x02010;up of 7&#x000a0;months the overall survival at 1&#x000a0;year was 70&#x000b7;4%&#x000a0;&#x000b1;&#x000a0;10&#x000b7;7%, 55&#x000b7;6%&#x000a0;&#x000b1;&#x000a0;6&#x000b7;8% and 42&#x000b7;4%&#x000a0;&#x000b1;&#x000a0;15&#x000b7;6% in patients aged &#x02264; 15&#x000a0;years, 15 to &#x0003c;60&#x000a0;years and &#x02265; 60&#x000a0;years, respectively (Fig&#x000a0;<xref rid="bjh13406-fig-0002" ref-type="fig">2</xref>). Overall survival analysis is limited by the small number of patients in each arm and the short duration of follow&#x02010;up in this study.</p><fig fig-type="Figure" xml:lang="en" id="bjh13406-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Overall survival in the paediatric population (age &#x02264;15&#x000a0;years), in young adults (age &#x0003e;15 &#x02013; &#x0003c;60&#x000a0;years) and the elderly (&#x0003e;60&#x000a0;years).</p></caption><graphic id="nlm-graphic-3" xlink:href="BJH-170-110-g002"/></fig></sec><sec id="bjh13406-sec-0015"><title>Patients not receiving treatment</title><p>Two hundred and seventy&#x02010;one (71%) of the 380 newly diagnosed patients over the period of this study opted not to have treatment at our centre. The baseline characteristics of these 271 patients were compared with those of patients that went on to receive treatment at our centre (summarized in Table S1). The patients who opted not to have treatment at our centre were significantly older, lived further away from the hospital and had a significantly longer duration of symptoms prior to presenting to our centre. Of the 271 patients who did not receive treatment, the data on reasons for not proceeding with treatment were available in 261 and are summarized in Table&#x000a0;<xref rid="bjh13406-tbl-0002" ref-type="table-wrap">2</xref>. The major cause for not proceeding with treatment was lack of financial resources (81%) followed by lack of social support during the period of hospitalization. On follow&#x02010;up telephone interviews (<italic>n</italic>&#x000a0;=&#x000a0;146) it was noted that 32/146 (22%) of these patients received standard of care therapy at another centre including two who received an allogeneic SCT. Of these, 16 remained alive and 16 had died during the study period and following the last telephone interview. Of the 114/146 (78%) who had not received definitive therapy for AML, 25 were alive at last telephonic follow&#x02010;up, all of whom had been diagnosed in the last 6&#x000a0;months of the study. The Kaplan&#x02013;Meir estimate of median survival in this group was 1&#x000a0;month (95% confidence interval: 0&#x000b7;89 &#x02013; 1&#x000b7;10).</p><table-wrap id="bjh13406-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Summary of reasons for not proceeding with treatment</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Variable<xref ref-type="fn" rid="bjh13406-note-0002">a</xref>
+</th><th align="char" valign="bottom" rowspan="1" colspan="1">Patients (<italic>n</italic>&#x000a0;=&#x000a0;271)<italic>n</italic> (%)</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Lack of financial resources to proceed with treatment</td><td align="char" char=" " rowspan="1" colspan="1">219 (81)</td></tr><tr><td align="left" rowspan="1" colspan="1">Alternative medicine (Ayurveda/Homeopathy/Traditional/Native)</td><td align="char" char=" " rowspan="1" colspan="1">5 (1&#x000b7;9)</td></tr><tr><td align="left" rowspan="1" colspan="1">Lack of social support</td><td align="char" char=" " rowspan="1" colspan="1">45 (16&#x000b7;6)</td></tr><tr><td align="left" rowspan="1" colspan="1">Concerned about toxicity of chemotherapy</td><td align="char" char=" " rowspan="1" colspan="1">26 (9&#x000b7;5)</td></tr><tr><td align="left" rowspan="1" colspan="1">Apathy and fatalistic attitude</td><td align="char" char=" " rowspan="1" colspan="1">17 (6&#x000b7;2)</td></tr><tr><td align="left" rowspan="1" colspan="1">Preferred to seek treatment elsewhere</td><td align="char" char=" " rowspan="1" colspan="1">4 (1&#x000b7;4)</td></tr><tr><td align="left" rowspan="1" colspan="1">Data not available</td><td align="char" char=" " rowspan="1" colspan="1">10 (3&#x000b7;7)</td></tr></tbody></table><table-wrap-foot><fn id="bjh13406-note-0002"><label>a</label><p>More than one reason allowed per patient.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec id="bjh13406-sec-0016"><title>Financial burden of therapy</title><p>The number of elderly patients was too few and treatment received too varied to make any conclusion and were hence not included in the analysis. The cost of induction, consolidation and allogeneic SCT is summarized in Table&#x000a0;<xref rid="bjh13406-tbl-0003" ref-type="table-wrap">3</xref>. The major cost of chemotherapy was during the initial induction therapy followed by an allogeneic SCT. Patients who died during induction and those that received a hypomethylating agent as part of induction or consolidation were excluded from the analysis.</p><table-wrap id="bjh13406-tbl-0003" xml:lang="en" orientation="portrait" position="float"><label>Table 3</label><caption><p>Cost of therapy</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Phase of treatment</th><th align="left" valign="top" rowspan="1" colspan="1">&#x02264;15 years</th><th align="left" valign="top" rowspan="1" colspan="1">&#x0003e;15&#x02013;&#x0003c;60 years</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Induction</td><td align="left" rowspan="1" colspan="1">
+<italic>n</italic>&#x000a0;=&#x000a0;19<xref ref-type="fn" rid="bjh13406-note-0003">a</xref>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>n</italic>&#x000a0;=&#x000a0;49<xref ref-type="fn" rid="bjh13406-note-0004">b</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Mean</td><td align="left" rowspan="1" colspan="1">
+<inline-graphic xlink:href="BJH-170-110-g003.jpg" xlink:title="image"/> 523&#x000a0;543 ($8500)</td><td align="left" rowspan="1" colspan="1">
+<inline-graphic xlink:href="BJH-170-110-g004.jpg" xlink:title="image"/> 742&#x000a0;387 ($12&#x000a0;300)</td></tr><tr><td align="left" rowspan="1" colspan="1">Standard deviation</td><td align="left" rowspan="1" colspan="1">
+<inline-graphic xlink:href="BJH-170-110-g005.jpg" xlink:title="image"/> 176&#x000a0;800 ($2900)</td><td align="left" rowspan="1" colspan="1">
+<inline-graphic xlink:href="BJH-170-110-g006.jpg" xlink:title="image"/> 386&#x000a0;991 ($ 6&#x000a0;344)</td></tr><tr><td align="left" rowspan="1" colspan="1">Consolidation</td><td align="left" rowspan="1" colspan="1">
+<italic>n</italic>&#x000a0;=&#x000a0;14<sup>@</sup>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>n</italic>&#x000a0;=&#x000a0;25<sup>#</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Mean</td><td align="left" rowspan="1" colspan="1">
+<inline-graphic xlink:href="BJH-170-110-g007.jpg" xlink:title="image"/>1&#x000a0;231&#x000a0;965 ($20&#x000a0;200)</td><td align="left" rowspan="1" colspan="1">
+<inline-graphic xlink:href="BJH-170-110-g008.jpg" xlink:title="image"/>318&#x000a0;128 ($5200)</td></tr><tr><td align="left" rowspan="1" colspan="1">Standard deviation</td><td align="left" rowspan="1" colspan="1">
+<inline-graphic xlink:href="BJH-170-110-g009.jpg" xlink:title="image"/> 695&#x000a0;546 ($11&#x000a0;400)</td><td align="left" rowspan="1" colspan="1">
+<inline-graphic xlink:href="BJH-170-110-g010.jpg" xlink:title="image"/>135&#x000a0;040 ($2200)</td></tr><tr><td align="left" rowspan="1" colspan="1">Transplant</td><td align="left" rowspan="1" colspan="1">
+<italic>n</italic>&#x000a0;=&#x000a0;4<sup>^</sup>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>n</italic>&#x000a0;=&#x000a0;14<sup>^</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Mean</td><td align="left" rowspan="1" colspan="1">
+<inline-graphic xlink:href="BJH-170-110-g011.jpg" xlink:title="image"/> 1&#x000a0;462&#x000a0;586 ($23&#x000a0;574)</td><td align="left" rowspan="1" colspan="1">
+<inline-graphic xlink:href="BJH-170-110-g012.jpg" xlink:title="image"/>1&#x000a0;983&#x000a0;051 ($32&#x000a0;500)</td></tr><tr><td align="left" rowspan="1" colspan="1">Standard deviation</td><td align="left" rowspan="1" colspan="1">
+<inline-graphic xlink:href="BJH-170-110-g013.jpg" xlink:title="image"/> 588&#x000a0;099 ($9600)</td><td align="left" rowspan="1" colspan="1">
+<inline-graphic xlink:href="BJH-170-110-g014.jpg" xlink:title="image"/>1&#x000a0;031&#x000a0;835 ($16&#x000a0;900)</td></tr></tbody></table><table-wrap-foot><fn id="bjh13406-note-0003"><label>a</label><p>Excludes induction deaths.</p></fn><fn id="bjh13406-note-0004"><label>b</label><p>Excludes induction deaths and those that received hypomethylating agents.</p></fn><fn id="bjh13406-note-0005"><p>
+<inline-graphic xlink:href="BJH-170-110-g015.jpg" xlink:title="image"/>: Indian Rupee :United Statesdollar (calculationbasedonone US&#x000a0;=&#x000a0;61<inline-graphic xlink:href="BJH-170-110-g016.jpg" xlink:title="image"/>). @ Includes 4 cycles of consolidation chemotherapy as part of AML&#x02010;BFM 98 protocol. # Only for those that received high dose cytosine arabinoside (HiDAC) consolidation (25 patients and 56 consolidations); the calculated amount is cost per cycle of HiDAC consolidation. ^ Allogeneic stem cell transplantation only. Calculated cost includes all costs incurred over multiple admissions over the period of this study.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap></sec></sec><sec id="bjh13406-sec-0017"><title>Discussion</title><p>This single centre prospective study over a two&#x02010;year period illustrates the challenges faced in treating AML in India. Different treatment centres in India are likely to have different costing structures, based on whether they are private for&#x02010;profit, private non&#x02010;profit and fully or partly government subsidized hospitals. Similarly, there is also likely to be significant heterogeneity between different hospitals with regards to diagnostic facilities available, allogeneic SCT facility and access to trained personnel and supportive care. A larger prospective study from multiple centres in India is required to conclusively state that the results of this study are truly representative of the country. In spite of these limitations, it is likely that this data is broadly representative of the experience of many tertiary centres in the country. Furthermore, this data is also likely to represent the challenges seen in many developing countries from where there is limited data.</p><p>The median age of 40&#x000a0;years (range: 1&#x02013;79) in this cohort is strikingly different from that routinely reported in the literature from developed countries (Craig <italic>et&#x000a0;al</italic>, <xref rid="bjh13406-bib-0007" ref-type="ref">2012</xref>; Juliusson <italic>et&#x000a0;al</italic>, <xref rid="bjh13406-bib-0018" ref-type="ref">2012</xref>). This lower median age could be due to a combination tertiary centre referral bias and a different population pyramid structure in India and other developing economies, where the proportion of people over the age of 60&#x000a0;years is significantly lower. However, the possible role of additional genetic and environmental factors cannot be excluded.</p><p>From our data it is clear to us that the single most important factor for not proceeding with treatment was lack of financial resources (81%). A small proportion of patients that did not opt for treatment [<italic>n</italic>&#x000a0;=&#x000a0;32 of 146 evaluated (22%); based on our follow&#x02010;up telephone interviews] went on to receive chemotherapy with curative intent from other centres after having been discharged from ours, but clearly the vast majority did not receive further treatment and succumbed to their disease. While patients in India frequently access alternative systems of medicine for treating various ailments, in this cohort, the number of patients who opted for alternative medicine was &#x0003c;2% of the population, based on the responses to the initial questionnaire (Table&#x000a0;<xref rid="bjh13406-tbl-0002" ref-type="table-wrap">2</xref>).</p><p>Fungal infections following induction chemotherapy are recognized to be associated with increased early mortality and to have an adverse impact on long&#x02010;term survival in patients with AML (Girmenia <italic>et&#x000a0;al</italic>, <xref rid="bjh13406-bib-0013" ref-type="ref">2014</xref>). The proportion of patients developing proven and probable IFI in AML following induction chemotherapy varies from 14% to 22% (Barreto <italic>et&#x000a0;al</italic>, <xref rid="bjh13406-bib-0002" ref-type="ref">2013</xref>; Gomes <italic>et&#x000a0;al</italic>, <xref rid="bjh13406-bib-0014" ref-type="ref">2013</xref>). In our series 28% of patients had evidence of possible or proven IFI. Four (14&#x000b7;8%) of the patients that died during induction had evidence of IFI.</p><p>A bigger challenge is the increased incidence of multidrug resistant (MDR) bacteria. This increased incidence is recognized as a global phenomenon (Johnson &#x00026; Woodford, <xref rid="bjh13406-bib-0017" ref-type="ref">2013</xref>). In the present study of 109 treated patients, 45 (42%) grew a GNB in one or more cultures post&#x02010;induction chemotherapy, 14 (31%) of whom had CRE growth on at least one blood culture. A CRE was isolated on blood culture in 7 (39%) of the patients that died during induction and an additional 5 of these induction deaths could be attributed to carbapenem&#x02010;resistant pseudomonas infection. The presence of MDR bacteria along with fungal infections adds significantly to the morbidity and mortality in AML. It also contributes significantly to the increased costs associated with treating AML. It is our experience that the major cost of treating patients in India is the cost of antibiotics and antifungal therapy. Recurrent cycles of neutropenia, duration of neutropenia and intensity of supportive care required (intensive care unit admission) are very closely linked to the overall cost of therapy. The current situation of MDR bacteria also limits the option of intensifying chemotherapy as a strategy to reduce the risk of relapse and improve long&#x02010;term survival.</p><p>At our centre we have been using arsenic trioxide (ATO)&#x02010;based therapy since 1998 for the treatment of acute promyelocytic leukaemia (APL; AML&#x02010;M3) (Mathews <italic>et&#x000a0;al</italic>, <xref rid="bjh13406-bib-0022" ref-type="ref">2006</xref>). It is interesting to note that prior to the introduction of ATO, the proportion of APL patients treated was similar to current proportions of AML (data not shown). With availability of generic ATO, the cost of therapy reduced to about 1/3rd to 1/4th of conventional therapy, predominantly as a result of the absence of neutropenia in the consolidation and maintenance arm of the protocol used (Mathews <italic>et&#x000a0;al</italic>, <xref rid="bjh13406-bib-0022" ref-type="ref">2006</xref>). A major advantage of this was that we could treat the majority of those newly diagnosed APL patients, who had similar constraints as described for AML patients in this study. However, with minimal financial assistance from non&#x02010;governmental organizations it is possible to treat almost every patient with newly diagnosed APL while the amount of financial support currently required for AML is beyond that which can be raised by similar means. During the period of this study, 47 patients were diagnosed with APL, all of whom received treatment at our centre. The clinical outcome of this cohort is best reflected in our previously published data (Mathews <italic>et&#x000a0;al</italic>, <xref rid="bjh13406-bib-0023" ref-type="ref">2010</xref>). Patients with a diagnosis of APL were not included in the present analysis because the treatment protocol is different and does not involve the same level of intensity as conventional AML therapy.</p><p>In conclusion, there are significant challenges in the management of AML in India. Induction deaths are related to a high incidence of MDR organisms and fungal infections. The biggest constraint is the cost of the treatment and the absence of a universal health security net to treat all patients with this diagnosis. Novel strategies, targets and targeted therapy which do not involve multiple cycles of prolonged cytopenia are urgently needed in the management of AML.</p></sec><sec id="bjh13406-sec-0019"><title>Author contributions</title><p>CP: performed research, data accrual, analysed data and wrote the paper. BG: performed research, data accrual, fungal infection analysis and wrote the paper. AG: performed research, data accrual, analysed data. AK: performed research, data accrual, analysed data and financial analysis. PJ: performed research, data accrual, analysed data and financial analysis. AAA: performed research, immunophenotyping and analysed data. KML: performed research, biostatistician and analysed data. US: morphologist and laboratory data accrual. FNA: performed research and data accrual. AA: performed research and data accrual. AV: performed research and data accrual. VMS: performed research and cytogenetic analysis. AS: performed research and data accrual. PB: performed research, molecular analysis and analysed data. VM: designed study, performed research, data accrual, analysed data and wrote the paper.</p></sec><sec id="bjh13406-sec-0020"><title>Conflict of interest disclosures</title><p>Nil.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data"><caption><p>
+<bold>Appendix&#x000a0;S1.</bold> Format of the questionnaire.</p><p>
+<bold>Fig&#x000a0;S1.</bold> Distribution of time period in weeks of duration of symptoms prior to diagnosis at our centre.</p><p>
+<bold>Table&#x000a0;SI.</bold> Comparison of baseline demographic characters, clinical features and laboratory parameters in newly diagnosed patients who received treatment and those that did not.</p></caption><media xlink:href="BJH-170-110-s001.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="bjh13406-sec-0018"><title>Acknowledgements</title><p>VM is supported by Senior Research Fellowship from the Wellcome&#x02010;DBT India Alliance. New Delhi, India. Funding received by VM from Department of Biotechnology, New Delhi, India on the following project: BT/01/COE/08/03. CP received institutional funding from Fluid Research Grant: FG/7915/07/2012. IRB Min No. 7915 dated 4th July, 2012.</p></ack><ref-list content-type="cited-references" id="bjh13406-bibl-0001"><title>References</title><ref id="bjh13406-bib-0001"><mixed-citation publication-type="journal" id="bjh13406-cit-0001">
+<string-name>
+<surname>Balarajan</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Selvaraj</surname>, <given-names>S.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Subramanian</surname>, <given-names>S.V.</given-names>
+</string-name> (<year>2011</year>) <article-title>Health care and equity in India</article-title>. <source>Lancet</source>, <volume>377</volume>, <fpage>505</fpage>&#x02013;<lpage>515</lpage>.<pub-id pub-id-type="pmid">21227492</pub-id></mixed-citation></ref><ref id="bjh13406-bib-0002"><mixed-citation publication-type="journal" id="bjh13406-cit-0002">
+<string-name>
+<surname>Barreto</surname>, <given-names>J.N.</given-names>
+</string-name>, <string-name>
+<surname>Beach</surname>, <given-names>C.L.</given-names>
+</string-name>, <string-name>
+<surname>Wolf</surname>, <given-names>R.C.</given-names>
+</string-name>, <string-name>
+<surname>Merten</surname>, <given-names>J.A.</given-names>
+</string-name>, <string-name>
+<surname>Tosh</surname>, <given-names>P.K.</given-names>
+</string-name>, <string-name>
+<surname>Wilson</surname>, <given-names>J.W.</given-names>
+</string-name>, <string-name>
+<surname>Hogan</surname>, <given-names>W.J.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Litzow</surname>, <given-names>M.R.</given-names>
+</string-name> (<year>2013</year>) <article-title>The incidence of invasive fungal infections in neutropenic patients with acute leukemia and myelodysplastic syndromes receiving primary antifungal prophylaxis with voriconazole</article-title>. <source>American Journal of Hematology</source>, <volume>88</volume>, <fpage>283</fpage>&#x02013;<lpage>288</lpage>.<pub-id pub-id-type="pmid">23460251</pub-id></mixed-citation></ref><ref id="bjh13406-bib-0003"><mixed-citation publication-type="journal" id="bjh13406-cit-0003">
+<string-name>
+<surname>Bennett</surname>, <given-names>J.M.</given-names>
+</string-name>, <string-name>
+<surname>Catovsky</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Daniel</surname>, <given-names>M.T.</given-names>
+</string-name>, <string-name>
+<surname>Flandrin</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Galton</surname>, <given-names>D.A.</given-names>
+</string-name>, <string-name>
+<surname>Gralnick</surname>, <given-names>H.R.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Sultan</surname>, <given-names>C.</given-names>
+</string-name> (<year>1976</year>) <article-title>Proposals for the classification of the acute leukaemias. French&#x02010;American&#x02010;British (FAB) co&#x02010;operative group</article-title>. <source>British Journal of Haematology</source>, <volume>33</volume>, <fpage>451</fpage>&#x02013;<lpage>458</lpage>.<pub-id pub-id-type="pmid">188440</pub-id></mixed-citation></ref><ref id="bjh13406-bib-0004"><mixed-citation publication-type="journal" id="bjh13406-cit-0004">
+<string-name>
+<surname>Cashen</surname>, <given-names>A.F.</given-names>
+</string-name>, <string-name>
+<surname>Schiller</surname>, <given-names>G.J.</given-names>
+</string-name>, <string-name>
+<surname>O'Donnell</surname>, <given-names>M.R.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>DiPersio</surname>, <given-names>J.F.</given-names>
+</string-name> (<year>2010</year>) <article-title>Multicenter, phase II study of decitabine for the first&#x02010;line treatment of older patients with acute myeloid leukemia</article-title>. <source>Journal of Clinical Oncology</source>, <volume>28</volume>, <fpage>556</fpage>&#x02013;<lpage>561</lpage>.<pub-id pub-id-type="pmid">20026803</pub-id></mixed-citation></ref><ref id="bjh13406-bib-0005"><mixed-citation publication-type="journal" id="bjh13406-cit-0005">
+<string-name>
+<surname>Chendamarai</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Balasubramanian</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>George</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Viswabandya</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Abraham</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Ahmed</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Alex</surname>, <given-names>A.A.</given-names>
+</string-name>, <string-name>
+<surname>Ganesan</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Lakshmi</surname>, <given-names>K.M.</given-names>
+</string-name>, <string-name>
+<surname>Sitaram</surname>, <given-names>U.</given-names>
+</string-name>, <string-name>
+<surname>Nair</surname>, <given-names>S.C.</given-names>
+</string-name>, <string-name>
+<surname>Chandy</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Janet</surname>, <given-names>N.B.</given-names>
+</string-name>, <string-name>
+<surname>Srivastava</surname>, <given-names>V.M.</given-names>
+</string-name>, <string-name>
+<surname>Srivastava</surname>, <given-names>A.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Mathews</surname>, <given-names>V.</given-names>
+</string-name> (<year>2012</year>) <article-title>Role of minimal residual disease monitoring in acute promyelocytic leukemia treated with arsenic trioxide in frontline therapy</article-title>. <source>Blood</source>, <volume>119</volume>, <fpage>3413</fpage>&#x02013;<lpage>3419</lpage>.<pub-id pub-id-type="pmid">22374701</pub-id></mixed-citation></ref><ref id="bjh13406-bib-0006"><mixed-citation publication-type="journal" id="bjh13406-cit-0006">
+<string-name>
+<surname>Cheson</surname>, <given-names>B.D.</given-names>
+</string-name>, <string-name>
+<surname>Bennett</surname>, <given-names>J.M.</given-names>
+</string-name>, <string-name>
+<surname>Kopecky</surname>, <given-names>K.J.</given-names>
+</string-name>, <string-name>
+<surname>Buchner</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Willman</surname>, <given-names>C.L.</given-names>
+</string-name>, <string-name>
+<surname>Estey</surname>, <given-names>E.H.</given-names>
+</string-name>, <string-name>
+<surname>Schiffer</surname>, <given-names>C.A.</given-names>
+</string-name>, <string-name>
+<surname>Doehner</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Tallman</surname>, <given-names>M.S.</given-names>
+</string-name>, <string-name>
+<surname>Lister</surname>, <given-names>T.A.</given-names>
+</string-name>, <string-name>
+<surname>Lo&#x02010;Coco</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Willemze</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Biondi</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Hiddemann</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Larson</surname>, <given-names>R.A.</given-names>
+</string-name>, <string-name>
+<surname>Lowenberg</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Sanz</surname>, <given-names>M.A.</given-names>
+</string-name>, <string-name>
+<surname>Head</surname>, <given-names>D.R.</given-names>
+</string-name>, <string-name>
+<surname>Ohno</surname>, <given-names>R.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Bloomfield</surname>, <given-names>C.D.</given-names>
+</string-name> (<year>2003</year>) <article-title>Revised recommendations of the International Working Group for Diagnosis, Standardization of Response Criteria, Treatment Outcomes, and Reporting Standards for Therapeutic Trials in Acute Myeloid Leukemia</article-title>. <source>Journal of Clinical Oncology</source>, <volume>21</volume>, <fpage>4642</fpage>&#x02013;<lpage>4649</lpage>.<pub-id pub-id-type="pmid">14673054</pub-id></mixed-citation></ref><ref id="bjh13406-bib-0007"><mixed-citation publication-type="journal" id="bjh13406-cit-0007">
+<string-name>
+<surname>Craig</surname>, <given-names>B.M.</given-names>
+</string-name>, <string-name>
+<surname>Rollison</surname>, <given-names>D.E.</given-names>
+</string-name>, <string-name>
+<surname>List</surname>, <given-names>A.F.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Cogle</surname>, <given-names>C.R.</given-names>
+</string-name> (<year>2012</year>) <article-title>Underreporting of myeloid malignancies by United States cancer registries</article-title>. <source>Cancer Epidemiology, Biomarkers &#x00026; Prevention</source>, <volume>21</volume>, <fpage>474</fpage>&#x02013;<lpage>481</lpage>.</mixed-citation></ref><ref id="bjh13406-bib-0008"><mixed-citation publication-type="journal" id="bjh13406-cit-0008">
+<string-name>
+<surname>Creutzig</surname>, <given-names>U.</given-names>
+</string-name>, <string-name>
+<surname>Zimmermann</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Lehrnbecher</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Graf</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Hermann</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Niemeyer</surname>, <given-names>C.M.</given-names>
+</string-name>, <string-name>
+<surname>Reiter</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Ritter</surname>, <given-names>J.R.</given-names>
+</string-name>, <string-name>
+<surname>Dworzak</surname>, <given-names>M.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Stary</surname>, <given-names>J.</given-names>
+</string-name> (<year>2006</year>) <article-title>Less toxicity by optimizing chemotherapy, but not by addition of granulocyte colony&#x02010;stimulating factor in children and adolescents with acute myeloid leukemia: results of AML&#x02010;BFM 98</article-title>. <source>Journal of Clinical Oncology</source>, <volume>24</volume>, <fpage>4499</fpage>&#x02013;<lpage>4506</lpage>.<pub-id pub-id-type="pmid">16983120</pub-id></mixed-citation></ref><ref id="bjh13406-bib-0009"><mixed-citation publication-type="journal" id="bjh13406-cit-0009">
+<string-name>
+<surname>De Pauw</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Walsh</surname>, <given-names>T.J.</given-names>
+</string-name>, <string-name>
+<surname>Donnelly</surname>, <given-names>J.P.</given-names>
+</string-name>, <string-name>
+<surname>Stevens</surname>, <given-names>D.A.</given-names>
+</string-name>, <string-name>
+<surname>Edwards</surname>, <given-names>J.E.</given-names>
+</string-name>, <string-name>
+<surname>Calandra</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Pappas</surname>, <given-names>P.G.</given-names>
+</string-name>, <string-name>
+<surname>Maertens</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Lortholary</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Kauffman</surname>, <given-names>C.A.</given-names>
+</string-name>, <string-name>
+<surname>Denning</surname>, <given-names>D.W.</given-names>
+</string-name>, <string-name>
+<surname>Patterson</surname>, <given-names>T.F.</given-names>
+</string-name>, <string-name>
+<surname>Maschmeyer</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Bille</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Dismukes</surname>, <given-names>W.E.</given-names>
+</string-name>, <string-name>
+<surname>Herbrecht</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Hope</surname>, <given-names>W.W.</given-names>
+</string-name>, <string-name>
+<surname>Kibbler</surname>, <given-names>C.C.</given-names>
+</string-name>, <string-name>
+<surname>Kullberg</surname>, <given-names>B.J.</given-names>
+</string-name>, <string-name>
+<surname>Marr</surname>, <given-names>K.A.</given-names>
+</string-name>, <string-name>
+<surname>Munoz</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Odds</surname>, <given-names>F.C.</given-names>
+</string-name>, <string-name>
+<surname>Perfect</surname>, <given-names>J.R.</given-names>
+</string-name>, <string-name>
+<surname>Restrepo</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Ruhnke</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Segal</surname>, <given-names>B.H.</given-names>
+</string-name>, <string-name>
+<surname>Sobel</surname>, <given-names>J.D.</given-names>
+</string-name>, <string-name>
+<surname>Sorrell</surname>, <given-names>T.C.</given-names>
+</string-name>, <string-name>
+<surname>Viscoli</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Wingard</surname>, <given-names>J.R.</given-names>
+</string-name>, <string-name>
+<surname>Zaoutis</surname>, <given-names>T.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Bennett</surname>, <given-names>J.E.</given-names>
+</string-name> (<year>2008</year>) <article-title>Revised definitions of invasive fungal disease from the European Organization for Research and Treatment of Cancer/Invasive Fungal Infections Cooperative Group and the National Institute of Allergy and Infectious Diseases Mycoses Study Group (EORTC/MSG) Consensus Group</article-title>. <source>Clinical Infectious Diseases</source>, <volume>46</volume>, <fpage>1813</fpage>&#x02013;<lpage>1821</lpage>.<pub-id pub-id-type="pmid">18462102</pub-id></mixed-citation></ref><ref id="bjh13406-bib-0010"><mixed-citation publication-type="journal" id="bjh13406-cit-0010">
+<string-name>
+<surname>Fenaux</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Mufti</surname>, <given-names>G.J.</given-names>
+</string-name>, <string-name>
+<surname>Hellstrom&#x02010;Lindberg</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Santini</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Gattermann</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Germing</surname>, <given-names>U.</given-names>
+</string-name>, <string-name>
+<surname>Sanz</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>List</surname>, <given-names>A.F.</given-names>
+</string-name>, <string-name>
+<surname>Gore</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Seymour</surname>, <given-names>J.F.</given-names>
+</string-name>, <string-name>
+<surname>Dombret</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Backstrom</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Zimmerman</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>McKenzie</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Beach</surname>, <given-names>C.L.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Silverman</surname>, <given-names>L.R.</given-names>
+</string-name> (<year>2009</year>) <article-title>Azacitidine prolongs overall survival compared with conventional care regimens in elderly patients with low bone marrow blast count acute myeloid leukemia</article-title>. <source>Journal of Clinical Oncology</source>, <volume>28</volume>, <fpage>562</fpage>&#x02013;<lpage>569</lpage>.<pub-id pub-id-type="pmid">20026804</pub-id></mixed-citation></ref><ref id="bjh13406-bib-0011"><mixed-citation publication-type="journal" id="bjh13406-cit-0011">
+<string-name>
+<surname>Freifeld</surname>, <given-names>A.G.</given-names>
+</string-name>, <string-name>
+<surname>Bow</surname>, <given-names>E.J.</given-names>
+</string-name>, <string-name>
+<surname>Sepkowitz</surname>, <given-names>K.A.</given-names>
+</string-name>, <string-name>
+<surname>Boeckh</surname>, <given-names>M.J.</given-names>
+</string-name>, <string-name>
+<surname>Ito</surname>, <given-names>J.I.</given-names>
+</string-name>, <string-name>
+<surname>Mullen</surname>, <given-names>C.A.</given-names>
+</string-name>, <string-name>
+<surname>Raad</surname>, <given-names>II</given-names>
+</string-name>, <string-name>
+<surname>Rolston</surname>, <given-names>K.V.</given-names>
+</string-name>, <string-name>
+<surname>Young</surname>, <given-names>J.A.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Wingard</surname>, <given-names>J.R.</given-names>
+</string-name>
+<collab collab-type="authors">for the Infectious Diseases Society of America</collab>
+. (<year>2011</year>) <article-title>Clinical practice guideline for the use of antimicrobial agents in neutropenic patients with cancer: 2010 update by the infectious diseases society of america</article-title>. <source>Clinical Infectious Diseases</source>, <volume>52</volume>, <fpage>e56</fpage>&#x02013;<lpage>e93</lpage>.<pub-id pub-id-type="pmid">21258094</pub-id></mixed-citation></ref><ref id="bjh13406-bib-0012"><mixed-citation publication-type="journal" id="bjh13406-cit-0012">
+<string-name>
+<surname>Garg</surname>, <given-names>C.C.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Karan</surname>, <given-names>A.K.</given-names>
+</string-name> (<year>2009</year>) <article-title>Reducing out&#x02010;of&#x02010;pocket expenditures to reduce poverty: a disaggregated analysis at rural&#x02010;urban and state level in India</article-title>. <source>Health Policy Plan</source>, <volume>24</volume>, <fpage>116</fpage>&#x02013;<lpage>128</lpage>.<pub-id pub-id-type="pmid">19095685</pub-id></mixed-citation></ref><ref id="bjh13406-bib-0013"><mixed-citation publication-type="journal" id="bjh13406-cit-0013">
+<string-name>
+<surname>Girmenia</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Micozzi</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Piciocchi</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Gentile</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Di Caprio</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Nasso</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Minotti</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Capria</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Cartoni</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Alimena</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Meloni</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Amadori</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Foa</surname>, <given-names>R.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Venditti</surname>, <given-names>A.</given-names>
+</string-name> (<year>2014</year>) <article-title>Invasive fungal diseases during first induction chemotherapy affect complete remission achievement and long&#x02010;term survival of patients with acute myeloid leukemia</article-title>. <source>Leukemia Research</source>, <volume>38</volume>, <fpage>469</fpage>&#x02013;<lpage>474</lpage>.<pub-id pub-id-type="pmid">24534569</pub-id></mixed-citation></ref><ref id="bjh13406-bib-0014"><mixed-citation publication-type="journal" id="bjh13406-cit-0014">
+<string-name>
+<surname>Gomes</surname>, <given-names>M.Z.</given-names>
+</string-name>, <string-name>
+<surname>Mulanovich</surname>, <given-names>V.E.</given-names>
+</string-name>, <string-name>
+<surname>Jiang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Lewis</surname>, <given-names>R.E.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Kontoyiannis</surname>, <given-names>D.P.</given-names>
+</string-name> (<year>2013</year>) <article-title>Incidence density of invasive fungal infections during primary antifungal prophylaxis in newly diagnosed acute myeloid leukemia patients in a tertiary cancer center, 2009 to 2011</article-title>. <source>Antimicrobial Agents and Chemotherapy</source>, <volume>58</volume>, <fpage>865</fpage>&#x02013;<lpage>873</lpage>.<pub-id pub-id-type="pmid">24277033</pub-id></mixed-citation></ref><ref id="bjh13406-bib-0015"><mixed-citation publication-type="journal" id="bjh13406-cit-0015">
+<string-name>
+<surname>Grimwade</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Hills</surname>, <given-names>R.K.</given-names>
+</string-name>, <string-name>
+<surname>Moorman</surname>, <given-names>A.V.</given-names>
+</string-name>, <string-name>
+<surname>Walker</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Chatters</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Goldstone</surname>, <given-names>A.H.</given-names>
+</string-name>, <string-name>
+<surname>Wheatley</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Harrison</surname>, <given-names>C.J.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Burnett</surname>, <given-names>A.K.</given-names>
+</string-name> (<year>2010</year>) <article-title>Refinement of cytogenetic classification in acute myeloid leukemia: determination of prognostic significance of rare recurring chromosomal abnormalities among 5876 younger adult patients treated in the United Kingdom Medical Research Council trials</article-title>. <source>Blood</source>, <volume>116</volume>, <fpage>354</fpage>&#x02013;<lpage>365</lpage>.<pub-id pub-id-type="pmid">20385793</pub-id></mixed-citation></ref><ref id="bjh13406-bib-0016"><mixed-citation publication-type="journal" id="bjh13406-cit-0016">
+<string-name>
+<surname>Horton</surname>, <given-names>R.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Das</surname>, <given-names>P.</given-names>
+</string-name> (<year>2011</year>) <article-title>Indian health: the path from crisis to progress</article-title>. <source>The Lancet</source>, <volume>377</volume>, <fpage>181</fpage>&#x02013;<lpage>183</lpage>.</mixed-citation></ref><ref id="bjh13406-bib-0017"><mixed-citation publication-type="journal" id="bjh13406-cit-0017">
+<string-name>
+<surname>Johnson</surname>, <given-names>A.P.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Woodford</surname>, <given-names>N.</given-names>
+</string-name> (<year>2013</year>) <article-title>Global spread of antibiotic resistance: the example of New Delhi metallo&#x02010;beta&#x02010;lactamase (NDM)&#x02010;mediated carbapenem resistance</article-title>. <source>Journal of Medical Microbiology</source>, <volume>62</volume>, <fpage>499</fpage>&#x02013;<lpage>513</lpage>.<pub-id pub-id-type="pmid">23329317</pub-id></mixed-citation></ref><ref id="bjh13406-bib-0018"><mixed-citation publication-type="journal" id="bjh13406-cit-0018">
+<string-name>
+<surname>Juliusson</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Lazarevic</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Horstedt</surname>, <given-names>A.S.</given-names>
+</string-name>, <string-name>
+<surname>Hagberg</surname>, <given-names>O.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Hoglund</surname>, <given-names>M.</given-names>
+</string-name> (<year>2012</year>) <article-title>Acute myeloid leukemia in the real world: why population&#x02010;based registries are needed</article-title>. <source>Blood</source>, <volume>119</volume>, <fpage>3890</fpage>&#x02013;<lpage>3899</lpage>.<pub-id pub-id-type="pmid">22383796</pub-id></mixed-citation></ref><ref id="bjh13406-bib-0019"><mixed-citation publication-type="journal" id="bjh13406-cit-0019">
+<string-name>
+<surname>Kallen</surname>, <given-names>A.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Guh</surname>, <given-names>A.</given-names>
+</string-name> (<year>2012</year>) <article-title>United States Centers For Disease control and prevention issue updated guidance for tackling carbapenem&#x02010;resistant enterobacteriaceae</article-title>. <source>Eurosurveillance</source>, <volume>17</volume>, 20207.</mixed-citation></ref><ref id="bjh13406-bib-0020"><mixed-citation publication-type="journal" id="bjh13406-cit-0020">
+<string-name>
+<surname>Leunis</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Blommestein</surname>, <given-names>H.M.</given-names>
+</string-name>, <string-name>
+<surname>Huijgens</surname>, <given-names>P.C.</given-names>
+</string-name>, <string-name>
+<surname>Blijlevens</surname>, <given-names>N.M.</given-names>
+</string-name>, <string-name>
+<surname>Jongen&#x02010;Lavrencic</surname>, <given-names>M.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Uyl&#x02010;de Groot</surname>, <given-names>C.A.</given-names>
+</string-name> (<year>2012</year>) <article-title>The costs of initial treatment for patients with acute myeloid leukemia in the Netherlands</article-title>. <source>Leukemia Research</source>, <volume>37</volume>, <fpage>245</fpage>&#x02013;<lpage>250</lpage>.<pub-id pub-id-type="pmid">23069745</pub-id></mixed-citation></ref><ref id="bjh13406-bib-0021"><mixed-citation publication-type="miscellaneous" id="bjh13406-cit-0021">
+<string-name>
+<surname>Malik</surname>, <given-names>K.</given-names>
+</string-name> (<year>2014</year>) <article-title>United Nations Development Programme Report</article-title>. Human Development Report. <ext-link ext-link-type="uri" xlink:href="http://hdr.undp.org/en/content/human-development-report-2014">http://hdr.undp.org/en/content/human-development-report-2014</ext-link>.</mixed-citation></ref><ref id="bjh13406-bib-0022"><mixed-citation publication-type="journal" id="bjh13406-cit-0022">
+<string-name>
+<surname>Mathews</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>George</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Lakshmi</surname>, <given-names>K.M.</given-names>
+</string-name>, <string-name>
+<surname>Viswabandya</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Bajel</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Balasubramanian</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Shaji</surname>, <given-names>R.V.</given-names>
+</string-name>, <string-name>
+<surname>Srivastava</surname>, <given-names>V.M.</given-names>
+</string-name>, <string-name>
+<surname>Srivastava</surname>, <given-names>A.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Chandy</surname>, <given-names>M.</given-names>
+</string-name> (<year>2006</year>) <article-title>Single&#x02010;agent arsenic trioxide in the treatment of newly diagnosed acute promyelocytic leukemia: durable remissions with minimal toxicity</article-title>. <source>Blood</source>, <volume>107</volume>, <fpage>2627</fpage>&#x02013;<lpage>2632</lpage>.<pub-id pub-id-type="pmid">16352810</pub-id></mixed-citation></ref><ref id="bjh13406-bib-0023"><mixed-citation publication-type="journal" id="bjh13406-cit-0023">
+<string-name>
+<surname>Mathews</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>George</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Chendamarai</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Lakshmi</surname>, <given-names>K.M.</given-names>
+</string-name>, <string-name>
+<surname>Desire</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Balasubramanian</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Viswabandya</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Thirugnanam</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Abraham</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Shaji</surname>, <given-names>R.V.</given-names>
+</string-name>, <string-name>
+<surname>Srivastava</surname>, <given-names>A.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Chandy</surname>, <given-names>M.</given-names>
+</string-name> (<year>2010</year>) <article-title>Single&#x02010;agent arsenic trioxide in the treatment of newly diagnosed acute promyelocytic leukemia: long&#x02010;term follow&#x02010;up data</article-title>. <source>Journal of Clinical Oncology</source>, <volume>28</volume>, <fpage>3866</fpage>&#x02013;<lpage>3871</lpage>.<pub-id pub-id-type="pmid">20644086</pub-id></mixed-citation></ref><ref id="bjh13406-bib-0024"><mixed-citation publication-type="journal" id="bjh13406-cit-0024">
+<string-name>
+<surname>Parihar</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Kumar</surname>, <given-names>J.A.</given-names>
+</string-name>, <string-name>
+<surname>Sitaram</surname>, <given-names>U.</given-names>
+</string-name>, <string-name>
+<surname>Balasubramanian</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Abraham</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Viswabandya</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>George</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Mathews</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Srivastava</surname>, <given-names>A.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Srivastava</surname>, <given-names>V.M.</given-names>
+</string-name> (<year>2012</year>) <article-title>Cytogenetic analysis of acute myeloid leukemia with t(8;21) from a tertiary care center in India with correlation between clinicopathologic characteristics and molecular analysis</article-title>. <source>Leukaemia &#x00026; Lymphoma</source>, <volume>53</volume>, <fpage>103</fpage>&#x02013;<lpage>109</lpage>.</mixed-citation></ref><ref id="bjh13406-bib-0025"><mixed-citation publication-type="journal" id="bjh13406-cit-0025">
+<string-name>
+<surname>Redaelli</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Botteman</surname>, <given-names>M.F.</given-names>
+</string-name>, <string-name>
+<surname>Stephens</surname>, <given-names>J.M.</given-names>
+</string-name>, <string-name>
+<surname>Brandt</surname>, <given-names>S.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Pashos</surname>, <given-names>C.L.</given-names>
+</string-name> (<year>2004</year>) <article-title>Economic burden of acute myeloid leukemia: a literature review</article-title>. <source>Cancer Treatment Reviews</source>, <volume>30</volume>, <fpage>237</fpage>&#x02013;<lpage>247</lpage>.<pub-id pub-id-type="pmid">15059647</pub-id></mixed-citation></ref><ref id="bjh13406-bib-0026"><mixed-citation publication-type="journal" id="bjh13406-cit-0026">
+<string-name>
+<surname>Stalfelt</surname>, <given-names>A.M.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Brodin</surname>, <given-names>H.</given-names>
+</string-name> (<year>1994</year>) <article-title>Costs over time in conventional treatment of acute myeloid leukaemia. A study exploring changes in treatment strategies over two decades</article-title>. <source>Journal of Internal Medicine</source>, <volume>236</volume>, <fpage>401</fpage>&#x02013;<lpage>409</lpage>.<pub-id pub-id-type="pmid">7931043</pub-id></mixed-citation></ref><ref id="bjh13406-bib-0027"><mixed-citation publication-type="book" id="bjh13406-cit-0027">
+<string-name>
+<surname>Swerdlow</surname>, <given-names>S.H.</given-names>
+</string-name> (<year>2008</year>) <source>WHO Classification of Tumours of Haematopoietic and Lymphoid Tissues</source>, <edition>4th Edn</edition>
+<publisher-name>WHO &#x02010; OMS International Agency for Research on Cancer</publisher-name>, <publisher-loc>Geneva, Switzerland</publisher-loc>.</mixed-citation></ref><ref id="bjh13406-bib-0028"><mixed-citation publication-type="journal" id="bjh13406-cit-0028">
+<string-name>
+<surname>Uyl&#x02010;de Groot</surname>, <given-names>C.A.</given-names>
+</string-name>, <string-name>
+<surname>Gelderblom&#x02010;den Hartog</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Huijgens</surname>, <given-names>P.C.</given-names>
+</string-name>, <string-name>
+<surname>Willemze</surname>, <given-names>R.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>van Ineveld</surname>, <given-names>B.M.</given-names>
+</string-name> (<year>2001</year>) <article-title>Costs of diagnosis, treatment, and follow up of patients with acute myeloid leukemia in the netherlands</article-title>. <source>J Hematother Stem Cell Res</source>, <volume>10</volume>, <fpage>187</fpage>&#x02013;<lpage>192</lpage>.<pub-id pub-id-type="pmid">11276372</pub-id></mixed-citation></ref><ref id="bjh13406-bib-0029"><mixed-citation publication-type="miscellaneous" id="bjh13406-cit-0029">
+<collab collab-type="authors">Wikipedia</collab>
+(<year>2014</year>) <article-title>List of countries by GNI (nominal, Atlas method) per capita</article-title>. <ext-link ext-link-type="uri" xlink:href="http://en.wikipedia.org/wiki/List_of_countries_by_GNI_(nominal,_Atlas_method)_per_capita">http://en.wikipedia.org/wiki/List_of_countries_by_GNI_(nominal,_Atlas_method)_per_capita</ext-link>.</mixed-citation></ref><ref id="bjh13406-bib-0030"><mixed-citation publication-type="journal" id="bjh13406-cit-0030">
+<string-name>
+<surname>Yamamoto</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Kiyoi</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Nakano</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Suzuki</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Kodera</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Miyawaki</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Asou</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Kuriyama</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Yagasaki</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Shimazaki</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Akiyama</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Saito</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Nishimura</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Motoji</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Shinagawa</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Takeshita</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Saito</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Ueda</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Ohno</surname>, <given-names>R.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Naoe</surname>, <given-names>T.</given-names>
+</string-name> (<year>2001</year>) <article-title>Activating mutation of D835 within the activation loop of FLT3 in human hematologic malignancies</article-title>. <source>Blood</source>, <volume>97</volume>, <fpage>2434</fpage>&#x02013;<lpage>2439</lpage>.<pub-id pub-id-type="pmid">11290608</pub-id></mixed-citation></ref></ref-list></back></article>

@@ -1,0 +1,525 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:ali="http://www.niso.org/schemas/ali/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Braz J Microbiol</journal-id><journal-id journal-id-type="iso-abbrev">Braz. J. Microbiol</journal-id><journal-id journal-id-type="publisher-id">bjm</journal-id><journal-title-group><journal-title>Brazilian Journal of Microbiology</journal-title></journal-title-group><issn pub-type="ppub">1517-8382</issn><issn pub-type="epub">1678-4405</issn><publisher><publisher-name>Sociedade Brasileira de Microbiologia</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">26273260</article-id><article-id pub-id-type="pmc">4507537</article-id><article-id pub-id-type="doi">10.1590/S1517-838246220140533</article-id><article-categories><subj-group subj-group-type="heading"><subject>Environmental Microbiology</subject></subj-group></article-categories><title-group><article-title>Biomineralization processes of calcite induced by bacteria isolated
+from marine sediments</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Wei</surname><given-names>Shiping</given-names></name><xref ref-type="aff" rid="aff01"/><xref rid="c01" ref-type="corresp"/></contrib><contrib contrib-type="author"><name><surname>Cui</surname><given-names>Hongpeng</given-names></name><xref ref-type="aff" rid="aff01"/></contrib><contrib contrib-type="author"><name><surname>Jiang</surname><given-names>Zhenglong</given-names></name><xref ref-type="aff" rid="aff01"/></contrib><contrib contrib-type="author"><name><surname>Liu</surname><given-names>Hao</given-names></name><xref ref-type="aff" rid="aff01"/></contrib><contrib contrib-type="author"><name><surname>He</surname><given-names>Hao</given-names></name><xref ref-type="aff" rid="aff01"/></contrib><contrib contrib-type="author"><name><surname>Fang</surname><given-names>Nianqiao</given-names></name><xref ref-type="aff" rid="aff01"/></contrib><aff id="aff01">China University of Geosciences, School of Marine Sciences, China University of
+Geosciences, Beijing, China, School of Marine Sciences, China University
+of Geosciences, Beijing, China.</aff></contrib-group><author-notes><corresp id="c01">Send correspondence to S. Wei. School of Marine Sciences, China
+University of Geosciences, Beijing, China. E-mail:
+<email>weishiping@cugb.edu.cn</email>.</corresp><fn id="fn01" fn-type="other"><p>Associate Editor: Valeria Maia de Oliveira</p></fn></author-notes><pub-date pub-type="epub"><day>01</day><month>6</month><year>2015</year></pub-date><pub-date pub-type="collection"><month>6</month><year>2015</year></pub-date><volume>46</volume><issue>2</issue><fpage>455</fpage><lpage>464</lpage><history><date date-type="received"><day>24</day><month>6</month><year>2014</year></date><date date-type="accepted"><day>16</day><month>11</month><year>2014</year></date></history><permissions><copyright-statement>Copyright &#x000a9; 2015, Sociedade Brasileira de
+Microbiologia</copyright-statement><copyright-year>2015</copyright-year><license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/3.0/"><license-p>All the content of the journal, except where otherwise noted, is
+licensed under a Creative Commons License CC BY-NC.</license-p></license></permissions><abstract><p>Biomineralization is a known natural phenomenon associated with a wide range of
+bacterial species. Bacterial-induced calcium carbonate precipitation by marine
+isolates was investigated in this study. Three genera of ureolytic bacteria,
+<italic>Sporosarcina sp.</italic>, <italic>Bacillus sp.</italic> and
+<italic>Brevundimonas sp</italic>. were observed to precipitate calcium
+carbonate minerals. Of these species, <italic>Sporosarcina sp</italic>.
+dominated the cultured isolates. <italic>B. lentus</italic> CP28 generated
+higher urease activity and facilitated more efficient precipitation of calcium
+carbonate at 3.24 &#x000b1; 0.25 &#x000d7; 10<sup>&#x02212;4</sup> mg/cell. X-ray diffraction indicated
+that the dominant calcium carbonate phase was calcite. Scanning electron
+microscopy showed that morphologies of the minerals were dominated by cubic,
+rhombic and polygonal plate-like crystals. The dynamic process of microbial
+calcium carbonate precipitation revealed that <italic>B. lentus</italic> CP28
+precipitated calcite crystals through the enzymatic hydrolysis of urea, and that
+when ammonium ion concentrations reached 746 mM and the pH reached 9.6, that
+favored calcite precipitation at a higher level of 96 mg/L. The results of this
+research provide evidence that a variety of marine bacteria can induce calcium
+carbonate precipitation, and may influence the marine carbonate cycle in natural
+environments.</p></abstract><kwd-group><kwd>calcium carbonate precipitation</kwd><kwd>calcite</kwd><kwd>marine bacteria</kwd><kwd>urease</kwd></kwd-group><counts><fig-count count="5"/><table-count count="1"/><equation-count count="0"/><ref-count count="55"/><page-count count="10"/></counts></article-meta></front><body><sec sec-type="intro"><title>Introduction</title><p>Bacterial calcium carbonate precipitation is a biomineralization process, which is a
+common phenomenon in the bacterial kingdom (<xref rid="B09" ref-type="bibr">Boquet
+<italic>et al.</italic>, 1973</xref>). It can be achieved by two different
+mechanisms, as either biologically-controlled or biologically-induced mineralization
+(<xref rid="B35" ref-type="bibr">Mann, 1995</xref>). In biologically-controlled
+mineralization, the organisms, such as magnetotatic bacteria, diatoms and
+coccolithophores, use specific metabolic and genetic pathways to control the process
+(<xref rid="B07" ref-type="bibr">Bazylinski and Moskowitz, 1997</xref>).
+However, calcium carbonate precipitation by bacteria is generally regarded as
+induced mineralization, as the types of minerals produced are dependent on the
+environmental conditions (<xref rid="B12" ref-type="bibr">Brennan <italic>et
+al.</italic>, 2004</xref>). This phenomenon occurs worldwide with numerous
+bacterial species, in various environments, such as soils, freshwaters, oceans and
+saline lakes, found to participate in the precipitation of mineral carbonates (<xref rid="B19" ref-type="bibr">Douglas <italic>et al.</italic>, 1998</xref>; <xref rid="B45" ref-type="bibr">Rivadeneyra <italic>et al.</italic>, 1998</xref>;
+<xref rid="B42" ref-type="bibr">Peckman <italic>et al.</italic>, 1999</xref>;
+<xref rid="B55" ref-type="bibr">Zamarre&#x000f1;o <italic>et al.</italic>, 2009</xref>).
+These bacteria play a fundamental role in the calcium biogeochemical cycle, which
+contributes to the formation of calcium carbonate sediments, deposits and rocks
+(<xref rid="B16" ref-type="bibr">Chafetz <italic>et al.</italic>, 1991</xref>;
+<xref rid="B41" ref-type="bibr">Paerl <italic>et al.</italic>, 2001</xref>).</p><p>Biologically-induced mineralization is usually carried out in open environments and
+the process is often linked to microbial cell surface structures and metabolic
+activities. Microbial extracellular polymeric substances (EPS) can trap and bind
+remarkable amounts of calcium to facilitate calcium carbonate precipitation, and
+most likely also play an essential role in calcium carbonate precipitation
+morphology and mineralogy (<xref rid="B03" ref-type="bibr">Arp <italic>et
+al.</italic>, 1999</xref>; <xref rid="B11" ref-type="bibr">Braissant
+<italic>et al.</italic>, 2007</xref>; <xref rid="B20" ref-type="bibr">Dupraz
+<italic>et al.</italic>, 2005</xref>). The mineralization process associated
+with microbial metabolic activities usually leads to an increase in environmental
+alkalinity, thereby facilitating calcium carbonate precipitation (<xref rid="B19" ref-type="bibr">Douglas and Beveridge, 1998</xref>; <xref rid="B14" ref-type="bibr">Castanier <italic>et al.</italic>, 1999</xref>). Among these
+metabolic activities, the most common is urea hydrolysis catalyzed by urease
+enzymes, which commonly occurs in large varieties of microorganisms (<xref rid="B36" ref-type="bibr">Mobley and Hausinger, 1989</xref>). The microbial urease enzyme
+hydrolyzes urea to produce carbonate and ammonia, increasing the pH and carbonate
+concentration, which then combines with environmental calcium to precipitate as
+calcium carbonate (<xref rid="B27" ref-type="bibr">Hammes <italic>et al.</italic>,
+2003</xref>; <xref rid="B38" ref-type="bibr">Muynck <italic>et al.</italic>,
+2010</xref>).</p><p>Calcite, aragonite and vaterite are three crystal polymorphs of calcium carbonate in
+bacterial systems, with calcite being the most common and stable bacterial carbonate
+polymorphs (<xref rid="B46" ref-type="bibr">Rodriguez-Navarro <italic>et
+al.</italic>, 2012</xref>). Bacterial mineralization of aragonite, often
+representing the metastable polymorph, has also been reported (<xref rid="B43" ref-type="bibr">Pedone <italic>et al.</italic>, 2010</xref>). The production of
+the polymorphs of calcite, aragonite and vaterite depend both on their growing
+environments and bacterial strains. It was reported that different bacteria
+precipitated different types of calcium carbonate and were mainly either spherical
+or polyhedral crystalline forms (<xref rid="B13" ref-type="bibr">Ca&#x000f1;averas
+<italic>et al.</italic>, 2001</xref>). Bacterial-induced carbonate minerals
+have often been reported in a large number of bacteria, such as cyanobacteria (<xref rid="B28" ref-type="bibr">Jansson and Northen, 2010</xref>), sulphate-reducing
+bacteria (<xref rid="B53" ref-type="bibr">Warthmann <italic>et al.</italic>,
+2000</xref>), <italic>Bacillus</italic> (<xref rid="B23" ref-type="bibr">Goddette <italic>et al.</italic>, 1992</xref>; Betzel <italic>et al.</italic>,
+1998; <xref rid="B31" ref-type="bibr">J&#x000f8;rgensen <italic>et al.</italic>,
+2000</xref>), <italic>Myxococcus</italic> (<xref rid="B47" ref-type="bibr">Rodriguez-Navarro <italic>et al.</italic>, 2003</xref>; <xref rid="B24" ref-type="bibr">Gonzalez-Mu&#x000f1;oz <italic>et al.</italic>, 2010</xref>),
+<italic>Halobacteria</italic> (<xref rid="B48" ref-type="bibr">S&#x000a2;nchez-Rom&#x000a2;n
+<italic>et al.</italic>, 2011</xref>) and <italic>Pseudomona</italic>s
+(<xref rid="B29" ref-type="bibr">Jha <italic>et al.</italic>, 2009</xref>).
+<xref rid="B25" ref-type="bibr">Groth <italic>et al.</italic> (2001)</xref>
+tested the crystal-producing ability among cave bacteria and found that all produced
+calcite except for <italic>Bacillus sp</italic>., which precipitated vaterites.
+<xref rid="B47" ref-type="bibr">Rodriguez-Navarro <italic>et al.</italic>
+(2003)</xref> reported that <italic>M. xanthus</italic> was able to induce
+precipitation of calcite and vaterite. Emerging evidence suggests that bacteria do
+not directly influence calcium carbonate morphology or polymorph selection (<xref rid="B18" ref-type="bibr">Chekroun <italic>et al.</italic>, 2004</xref>; <xref rid="B10" ref-type="bibr">Bosak <italic>et al.</italic>, 2005</xref>; <xref rid="B46" ref-type="bibr">Rodriguez-Navarro <italic>et al.</italic>,
+2012</xref>). The morphological features instead may be influenced by the
+composition of the culture medium, the specific bacterial outer structures and their
+chemical nature, which might be crucial for the bacterial crystallization process
+(<xref rid="B24" ref-type="bibr">Gonzalez-Mu&#x000f1;oz <italic>et al.</italic>,
+2010</xref>). The aim of this study was to identify calcium carbonate producing
+bacteria in marine sediment and to characterize the CaCO<sub>3</sub> crystals
+produced.</p></sec><sec sec-type="materials|methods"><title>Materials and Methods</title><sec><title>Bacteria isolation and culture conditions</title><p>Calcium carbonate precipitating strains were isolated from Beidaihe marine
+sediment (119&#x000b0;31&#x02032;18.89&#x02033; N and 39&#x000b0;50&#x02032;11.90&#x02033; E). The sample was suspended in a
+filter sterilized saline solution (0.85% NaCl), diluted appropriately and plated
+on calcium carbonate precipitation media (CCP) containing (per liter) 20 g of
+urea, 2.12 g NaHCO<sub>3</sub>, 10 g NH<sub>4</sub>Cl, 3 g of Nutrient broth, 30
+mM CaCl<sub>2</sub>, 20 g agar, pH 8.5. The plates were then incubated at 28 &#x000b0;C
+for 7 days, and the appearing colonies were assessed under a stereomicroscope.
+The positive individual colonies were finally selected based on their visual
+crystal formation and purified by repeated streaking on the calcium carbonate
+precipitation media with CaCl<sub>2</sub> removed.</p></sec><sec><title>DNA extract, PCR amplification and sequencing</title><p>Bacterial genomic DNA was extracted from pure culture with the fast spin kit
+(Invitrogen) following the manufacturer's instructions. Amplification of 16S
+rRNA gene was performed in 50 &#x003bc;L of reaction mixture containing 0.25 mM each
+primer of 27f (5&#x02032;-GTTTGATCCTG GCTCAG-3&#x02032;) and 1492r (5&#x02032;-TACCTTGTTACGACTT-3&#x02032;), 0.2
+mM dNTP, 1.5 mM MgCl<sub>2</sub>, 5 &#x003bc;L of Taq buffer, and 5 U Taq DNA polymerase
+(Invitrogen, USA), 10&#x02013;20 ng template DNA. PCR was then performed on a
+thermalcycler under the following conditions: 95 &#x000b0;C for 5 min, 35 cycles of 50 s
+at 95 &#x000b0;C, 50 s at 45 &#x000b0;C and 1.5 min at 72 &#x000b0;C, followed by a final extension for
+10 min at 72 &#x000b0;C. The PCR products were visualized on an agarose gel, and the
+bands with the corrected size were excised and purified using the Wizard SV gel
+purification protocol (Promega, USA). The partial 16S rRNA fragment was
+sequenced on an ABI 3730 automated DNA sequencer (Applied Biosystems).</p></sec><sec><title>Phylogenetic analysis</title><p>Phylogenetic affiliation of each 16S rRNA sequence was initially queried by BLAST
+search to suggest the closest relatives against the GenBank database. The
+sequences were then aligned with their relatives using Clustal W, and
+phylogenetic trees were constructed from a matrix of pairwise genetic distances
+by the maximum-parsimony algorithm of the MEG 4 software. Three partial
+sequences of 16S rRNA genes from the strains, CP16, CP23 and CP28, isolated from
+Beidaihe marine sediment, have been deposited in the GenBank database under
+accession numbers: KF378645, KF378646, KF378647, respectively.</p></sec><sec><title>Urease activity assay</title><p>All the isolates were tested for their urease activity on the urea agar media
+containing 1.0 g of pancreatic digest gelatin, 1.0 g of dextrose, 5.0 g of
+sodium chloride, 2.0 g of monosodium phosphate, 20.0 g of urea, 12.0 mg of
+phenol red, 15.0 g of agar, and the final pH was adjusted to 6.8 (<xref rid="B27" ref-type="bibr">Hammes <italic>et al.</italic>, 2003</xref>; <xref rid="B17" ref-type="bibr">Chahal <italic>et al.</italic>, 2011</xref>). 0.5
+&#x003bc;L cell suspension of each candidate strain (10<sup>6</sup> cells/mL) was
+inoculated on the urea agar media, and the plates were incubated at 28 &#x000b0;C for
+1&#x02013;2 days. The urease activity was resolved on the media to the extent of the
+indication of the pink-red color, which specifically represents the generation
+of alkaline conditions that are attributed to the production of ammonia via
+urease activity on urea. An <italic>Escherichia coli</italic> strain was chosen
+as the negative control.</p></sec><sec><title>Test for calcium carbonate solubilization</title><p>Strains isolated from the calcium carbonate precipitation agar plates were tested
+for their solubilization capability of calcium carbonate on the media (CCS)
+containing (per liter) 0.5 g of yeast extract, 10 g of dextrose, 5 g of
+CaCl<sub>2</sub>, 0.5 g of (NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>, 5 g
+of Ca<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>, 0.2 g of KCl, 0.1 g of
+MgSO<sub>4</sub>, 0.0001 g of MnSO<sub>4</sub> and 0.0001 g of
+FeSO<sub>4</sub>, 20 g agar, pH 7.0, and grown at 28 &#x000b0;C for 5 days. The
+solubilization capability of calcium carbonate was quantified by measuring the
+diameter of the clear halo around a colony.</p></sec><sec><title>Calcium carbonate precipitation and collection</title><p>For calcium carbonate precipitation and collection, bacteria were grown
+aerobically in 100 mL of liquid calcium carbonate precipitation media in 500 mL
+Erlenmeyer flasks and incubated at 28 &#x000b0;C for 60 h. The control consisted of
+uninoculated liquid calcium carbonate precipitation medium. At each time point
+and after the incubation, the whole culture was centrifuged at 10,000 g for 1
+min. The pellet, which included calcium carbonate precipitate and the bacteria
+cells, was resuspended in 50 mL TE buffer (10 mM Tris, 1 mM EDTA pH 8.5).
+Lysozyme was added at a final concentration of 1 mg/mL and the cell suspension
+was incubated at 37 &#x000b0;C for 1 h to digest the bacteria cell wall. The cell debris
+was removed by centrifugation and the pellet was washed with sterile distilled
+water (pH 8.5), then air dried at 37 &#x000b0;C for 24 h. The pellet was weighed to
+estimate the amounts of carbonate crystals precipitated by the different strains
+and subjected to the following analyses.</p></sec><sec><title>X-ray diffraction analysis (XRD)</title><p>X-ray diffraction (XRD) was used to determine the mineralogy of calcium carbonate
+precipitation induced by different bacteria. The collected dry precipitation of
+calcium carbonate was crushed using a mortar and pestle, then homogenized with
+ethanol. The powdered sample was back-packed into an aluminum sample holder and
+analyzed using XRD on a Panalytical X'Pert PRO MPD (Cu-K|&#x000c1;) at the Nuclear
+Industry Geological Analysis and Testing Research Center (Beijing, China).
+Instrument parameters were set to 40-kV accelerating voltage and 35-mA current.
+Scans were run from 20&#x000b0; to 60&#x000b0; 2&#x003b8; at a scanning speed of 0.01 &#x000b0;/s. The peak in
+the d (112) was used to determine the calcite minerals.</p></sec><sec><title>Scanning electron microscopy (SEM)</title><p>Morphology of calcium carbonate precipitation was observed by scanning electron
+microscopy (SEM Hitachi S-450). The collected carbonate crystals were mounted
+directly into the SEM stubs and sputter-coated with a gold/palladium mixture
+(Hitachi HUS-5GB coating unit). Scanning was performed under the condition of
+accelerating voltage at 25 kV.</p></sec><sec><title>Cell number, pH and chemical analytic methods</title><p>In order to determine the correlation of calcium carbonate formation to the
+parametric changes during the growth phase of <italic>B. lentus</italic> CP28,
+parameters such as cell number, pH and ammonia were monitored at constant time
+intervals. At each time point of post incubation, a 0.5 mL aliquot of the
+culture was taken from the flask, appropriately diluted, then spread on the
+nutrition broth agar (per liter, 5 g of enzymatic digest gelatin, 3 g of beef
+extract, 15 g of agar) and incubated at 28 &#x000b0;C for 24 h to determine the cell
+numbers. Calcium carbonate precipitation was determined as described above and
+the supernatant was used to determine the pH and the concentration of ammonia.
+pH was measured using a pH indicator (PB-10, Sartorius AG). Ammonia released in
+the medium as a result of urea hydrolysis was determined by the
+spectrophotometric method (<xref rid="B39" ref-type="bibr">Natarajan <italic>et
+al.</italic>, 1995</xref>).</p></sec></sec><sec sec-type="results"><title>Results</title><sec><title>Isolation of bacteria involved in inducing calcium carbonate
+precipitation</title><p>Twenty strains were isolated from calcium carbonate precipitation agar plates,
+all of which could induce the precipitation of calcium carbonate under those
+conditions. Microscopy revealed that precipitation started with a scattered
+white spot circling the bacteria colony, then developed into a hard gray-white
+crystal covering the colony with an encircling scattered white spot appearing
+after 7 days. Based on the morphological differences of crystal formed on the
+agar plate, the strains were divided into two types, those demonstrating either
+strong induction or weak induction of calcium carbonate. Five and fifteen
+colonies, belonging to the two types respectively, were isolated and selected
+for the further studies.</p></sec><sec><title>Phylogenetic analysis of the isolated candidate strains</title><p>A total of twenty isolates were identified and characterized by sequencing of 16S
+rDNA. These sequences were BLAST searched against the GenBank database using the
+BLASTN program. Twenty isolates belonging to three genera were identified, and
+had the closest relatives belonging to <italic>Sporosarcina sp.</italic>,
+<italic>Bacillus sp.</italic> and <italic>Brevundimonas sp.</italic> (<xref rid="f01" ref-type="fig">Figure 1</xref>). Sequences related to
+<italic>Sporosarcina sp.</italic> (occupied 75% of total sequences based on
+98% of sequence similarity) dominated the cultured isolates, which included 15
+isolates (CP1, CP3 to CP10, CP13, CP14, CP18 to CP20, CP23), followed by
+<italic>Bacillus sp.</italic> (occupied 20% of total sequences based on 98%
+of sequence similarity), which included 4 isolates (CP28 to CP31) and
+<italic>Brevundimonas sp.</italic> (occupied 5% of total sequences based on
+99% of sequence similarity) which was comprised of a single isolate (CP16).</p><fig id="f01" orientation="portrait" position="float"><label>Figure 1</label><caption><title>Neighbor-joining tree based on partial 16S rRNA gene sequences
+showing the phylogenetic relationship of the 20 isolates and their
+closest relatives. The phylogenetic tree was generated using
+approximately 1,400 bp of 16S rRNA sequence by the neighbor-joining
+method. Reference strains used in the tree can be retrieved with their
+accession numbers in GenBank. Scale bar equals approximately 2%
+nucleotide divergence.</title></caption><graphic xlink:href="1517-8382-bjm-46-2-455-gf01"/></fig></sec><sec><title>Characterization of three phylogenetic distinct strains</title><p>CP16, CP23 and CP28, closely related to <italic>B. diminuta</italic>, <italic>S.
+soli</italic> and <italic>B. lentus</italic>, were investigated and
+characterized by their growth rate, capability of inducing calcium carbonate
+precipitation, urease activity, and calcium carbonate solubilization ability.
+<italic>B. lentus</italic> CP28 grew faster and faciliated more calcium
+carbonate precipitation than the strains of <italic>B. diminuta</italic> CP16
+and <italic>S. soli</italic> CP23 (<xref rid="f02" ref-type="fig">Figure
+2</xref>). After 60 h of incubation, the cell number of CP16, CP23 and CP 28
+were 2.78 &#x000b1; 0.38 &#x000d7; 10<sup>6</sup>, 2.38 &#x000b1; 0.28 &#x000d7; 10<sup>6</sup> and 2.87 &#x000b1; 0.42
+&#x000d7; 10<sup>6</sup> cells/mL, respectively. The masses of the precipitates of the
+three strains were 842 &#x000b1; 80, 456 &#x000b1; 70 and 931 &#x000b1; 98 mg/L, respectively. CP28 was
+the most efficient strain at inducing calcium carbonate precipitation when
+calculations were based on the mass of precipitation per cell, with CP28 capable
+of inducing calcium carbonate precipitation at 3.24 &#x000b1; 0.25 &#x000d7; 10<sup>&#x02212;4</sup>
+mg/cell.</p><fig id="f02" orientation="portrait" position="float"><label>Figure 2</label><caption><title>Comparison of the growth rate and capability of inducing calcium
+carbonate precipitation among the strains of <italic>B.
+diminuta</italic> CP16, <italic>S. soli</italic> CP23 and <italic>B.
+lentus</italic> CP28.</title></caption><graphic xlink:href="1517-8382-bjm-46-2-455-gf02"/></fig><p>Microbial-induced calcium carbonate precipitation by urea hydrolysis was
+investigated extensively. The bacterium converts urea into ammonia by producing
+the enzyme urease, thus increasing the environmental pH and subsequently
+inducing calcium carbonate precipitation. All 20 of the isolated strains
+possessed the urease activity when tested in the urea agar media. Among of
+tested strains, CP23 and CP28 generated higher urease activity than CP16,
+whereas the <italic>E. coli</italic> strain did not show any purple color
+surrounding the inoculated site, which indicates a lack of urease activity. This
+urease activity assay result, together with the result in <xref rid="f02" ref-type="fig">Figure 2</xref>, implied that the mass of calcium carbonate
+precipitation was directly linked to the urease activity, with higher urease
+activity causing more calcium carbonate precipitation. Therefore, strains CP16,
+CP23 and CP28 were chosen for further analyses.</p><p>CP16, CP23 and CP28 were dot inoculated on the calcium carbonate precipitation
+media and incubated for 7 days in order to compare the diameter of the crystal
+halo surrounding the inoculation site. <xref rid="t01" ref-type="table">Table
+1</xref> shows that diameter of the crystal ring formed by CP28 was larger
+than that of CP23. However, no calcium carbonate formed when plates were
+inoculated with <italic>E. coli</italic> control. To determine whether the
+isolates play roles in the deterioration of limestone by solubilizing calcium
+carbonate, carbonate-solubilization capability was tested on the calcium
+carbonate solubilization media. Both CP16 and CP23 dissolved calcium carbonate
+and formed a clear, circular halo around the inoculation site. However, CP28 did
+not form similar halos. These data suggested that the mechanism of calcium
+carbonate precipitation induced by bacteria may change with variations in
+environmental conditions.</p><table-wrap id="t01" orientation="portrait" position="float"><label>Table 1</label><caption><title>Characterization of the isolates on precipitation and dissolution of
+CaCO<sub>3</sub>.</title></caption><table frame="hsides" rules="groups"><thead><tr><th valign="top" align="left" rowspan="1" colspan="1">Strains</th><th valign="top" align="center" rowspan="1" colspan="1">CaCO<sub>3</sub> precipitation on
+CCP media</th><th valign="top" align="center" rowspan="1" colspan="1">CaCO<sub>3</sub> dissolution on CCS
+media</th></tr></thead><tbody><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>E. coli</italic> CK</td><td valign="top" align="center" rowspan="1" colspan="1">&#x02212;<sup>a</sup>
+</td><td valign="top" align="center" rowspan="1" colspan="1">&#x02212;<sup>a</sup>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>B. diminuta</italic> CP16</td><td valign="top" align="center" rowspan="1" colspan="1">+</td><td valign="top" align="center" rowspan="1" colspan="1">&#x02212;<sup>a</sup>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>S. soli</italic> CP23</td><td valign="top" align="center" rowspan="1" colspan="1">+++</td><td valign="top" align="center" rowspan="1" colspan="1">+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>B. lentus</italic> CP28</td><td valign="top" align="center" rowspan="1" colspan="1">++++</td><td valign="top" align="center" rowspan="1" colspan="1">&#x02212;<sup>a</sup>
+</td></tr></tbody></table><table-wrap-foot><fn id="TFN01"><p>Notes: + and &#x02212;<sup>a</sup> indicate the relative degree of
+precipitation or dissolution of CaCO<sub>3</sub> among <italic>E.
+coli</italic> and the tested ureolytic bacteria.</p></fn></table-wrap-foot></table-wrap></sec><sec><title>SEM and XRD analyses of microbically-induced calcium carbonate
+precipitation</title><p>Precipitations collected on the 7th day were analyzed by XRD. The results showed
+that all three strains, <italic>B. diminuta</italic> CP16, <italic>S.
+soli</italic> CP23, <italic>B. lentus</italic> CP28, induced the formation
+of calcite (<xref rid="f03" ref-type="fig">Figure 3</xref>), which was the only
+crystal assayed in the XRD spectra.</p><fig id="f03" orientation="portrait" position="float"><label>Figure 3</label><caption><title>XRD spectra of the calcium carbonate crystals induced by bacteria. C,
+calcite. From top to bottom: <italic>B. diminuta</italic> CP16,
+<italic>S. soli</italic> CP23 and <italic>B. lentus</italic>
+CP28.</title></caption><graphic xlink:href="1517-8382-bjm-46-2-455-gf03"/></fig><p>Morphologies of crystals induced by CP16, CP23 and CP28 were observed under SEM
+microscopy, and the results showed the morphologies of crystals induced by CP16,
+CP23 and CP28 were similar. Basically, five different morphologies of crystals,
+the cubic crystal, the rhombic crystal, the polygonal plate-like crystal, the
+spherical crystal, and the irregular shaped crystal, were observed (<xref rid="f04" ref-type="fig">Figure 4</xref>). The cubic, the rhombic and the
+polygonal plate-like crystal were the three main shapes of crystals induced by
+the isolates, while the spherical and the irregular shaped crystals were less
+common (<xref rid="f04" ref-type="fig">Figure 4A</xref>). Different morphologies
+of crystal showed the different properties of aggregated minerals described as
+follows. The surfaces of cubic shaped crystals were smooth (<xref rid="f04" ref-type="fig">Figure 4B</xref>). The rhombic-shaped (<xref rid="f04" ref-type="fig">Figure 4C and 4D</xref>) and the polygonal plate-like (<xref rid="f04" ref-type="fig">Figure 4E and 4F</xref>) crystals generally
+presented well-defined faces and edges with accumulation of plate-like
+structures. The spherical crystals were formed by accumulation of granular
+composition with a rough surface (<xref rid="f04" ref-type="fig">Figure
+4G</xref>). The irregular porous shaped crystals appeared to be amorphous
+with many tiny holes inside (<xref rid="f04" ref-type="fig">Figure 4H</xref>).
+Another kind of irregular crystals with smoothed surfaces were also occasionally
+observed (<xref rid="f04" ref-type="fig">Figure 4I</xref>).</p><fig id="f04" orientation="portrait" position="float"><label>Figure 4</label><caption><title>SEM micrographs revealing the different morphologies of calcite
+crystals induced by <italic>B. lentus</italic> CP28. A) morphologies of
+crystals; B) the cubic crystal; Cand D) the rhombic crystal; E and F)
+the polygonal plate-like caystal; G) the spherical crystal; H and I) the
+irregular crystal.</title></caption><graphic xlink:href="1517-8382-bjm-46-2-455-gf04"/></fig></sec><sec><title>Chemical process of calcium carbonate precipitation induced by <italic>B.
+lentus</italic> CP28</title><p>Based on our observation and analyses, all the strains induced calcite
+precipitation in the liquid media. To determine the correlation of calcium
+carbonate formation with the metabolic parameter changes on the growth phase of
+<italic>B. lentus</italic> CP28, several parameters, including pH, cell
+number, ammonium ion concentration and mass of calcium carbonate, were
+monitored. The amount of calcium carbonate precipitation appeared to maintain a
+positive correlation with the growth of <italic>B. lentus</italic> CP28 (<xref rid="f05" ref-type="fig">Figure 5</xref>). The pH quickly increased from the
+initial pH of 8.3 to 9.4 in the first 12 h of inoculation. While in the stage of
+log phase growth, <italic>B. lentus</italic> CP28 maintained robust growth, and
+the concentration of ammonium ions, which is believed to have contributed to the
+rise of pH, increased to 608 mM. Relatively more calcium carbonate precipitation
+was precipitated during this period. When the growth of <italic>B.
+lentus</italic> CP28 was in the stationary phase after 12 h of incubation,
+the pH gradually increased to 9.6 from 9.4 and the ammonium ion concentration
+slightly increased to 746 mM. During this period, the rate of calcium carbonate
+precipitation was lower than that of the first phase. The calcium carbonate
+precipitation tended to reach plateaus, with a production of 96 mg/L in this
+phase. However, in the control experiment without bacteria, the pH of the media
+increased only slightly from 8.3 to 8.4, and the concentration of ammonium ions
+remained relatively stable. With such slight alkalinity of the media, only trace
+calcium carbonate precipitation was collected in the control experiments (<xref rid="f05" ref-type="fig">Figure 5</xref>).</p><fig id="f05" orientation="portrait" position="float"><label>Figure 5</label><caption><title>Dynamic analysis of calcium carbonate precipitation induced by
+<italic>B. lentus</italic> CP28 associated with changes of pH,
+ammonium ion, cell growth. Data reflect average of three experiments
+performed in triplicate.</title></caption><graphic xlink:href="1517-8382-bjm-46-2-455-gf05"/></fig></sec></sec><sec sec-type="discussion"><title>Discussion</title><p>Previous studies demonstrated that a great diversity of microbial genera took part in
+calcium carbonate precipitation in various natural environments (<xref rid="B54" ref-type="bibr">Wright and Oren, 2005</xref>), such as soils, freshwater, oceans
+and saline lakes (<xref rid="B19" ref-type="bibr">Douglas <italic>et al.</italic>,
+1998</xref>; <xref rid="B45" ref-type="bibr">Rivadeneyra <italic>et
+al.</italic>, 1998</xref>; <xref rid="B42" ref-type="bibr">Peckman <italic>et
+a</italic>l., 1999</xref>; <xref rid="B55" ref-type="bibr">Zamarre&#x000f1;o
+<italic>et al.</italic>, 2009</xref>). Our research showed that a variety of
+bacteria inhabiting the marine sediments could also induce calcium carbonate
+precipitation. Three genera of bacteria, <italic>Sporosarcina</italic>,
+<italic>Bacillus</italic> and <italic>Brevundimonas</italic>, were identified as
+precipitating calcium carbonate. <italic>S. soli</italic>, rather than <italic>B.
+lentus</italic> and <italic>B. diminuta</italic>, was found to be the dominant
+cultured species. In previous studies, <italic>Sporosarcina pasteurii</italic>
+(formerly known as <italic>Bacillus pasteurii</italic> from older taxonomies) and
+<italic>Bacillus subtilis</italic> were frequently reported to be isolated from
+various environments and studied for calcium carbonate biomineralization or for
+being a limestone consolidant (<xref rid="B51" ref-type="bibr">Stocks-Fischer
+<italic>et al.</italic>, 1999</xref>; <xref rid="B21" ref-type="bibr">Fujita
+<italic>et al.</italic>, 2000</xref>; <xref rid="B04" ref-type="bibr">Bachmeier <italic>et al.</italic>, 2002</xref>; <xref rid="B01" ref-type="bibr">Achal <italic>et al.</italic>, 2009</xref>; <xref rid="B55" ref-type="bibr">Zamarre&#x000f1;o <italic>et al.</italic>, 2009</xref>; <xref rid="B40" ref-type="bibr">Okwadha and Li, 2010</xref>). <italic>B. diminuta</italic> was found to be the
+most effective carbonatogenic bacterium isolated from decayed building stones (<xref rid="B30" ref-type="bibr">Jroundi <italic>et al.</italic>, 2010</xref>; <xref rid="B46" ref-type="bibr">Rodriguez-Navarro <italic>et al.</italic>,
+2012</xref>), while <italic>B. lentus</italic> from soil, marine waters and
+sediments was often used as a producer of alkaline protease in industry (<xref rid="B23" ref-type="bibr">Goddette <italic>et al.</italic>, 1992</xref>; <xref rid="B08" ref-type="bibr">Betzel <italic>et al.</italic>, 1988</xref>; <xref rid="B31" ref-type="bibr">J&#x000f8;rgensen <italic>et al.</italic>, 2000</xref>).
+Biomineralization of calcium carbonate facilited by <italic>B. lentus</italic> was
+also reported. Our data showed that the bacterium could strongly induce calcium
+carbonate precipitation in comparison to the other strains in our experiments. With
+considerable researches, broad ranges of bacteria were found to be involved in the
+process of calcium carbonate biomineralization. It is thought that calcium carbonate
+biomineralization is not necessarily linked to any particular group of organisms but
+rather a general phenomenon in the bacterial world (<xref rid="B09" ref-type="bibr">Boquet <italic>et al.</italic>, 1973</xref>; Ehrlich, 1998).</p><p>Considerable research on carbonate precipitation by bacteria has been performed using
+ureolytic bacteria (<xref rid="B27" ref-type="bibr">Hammes <italic>et al.</italic>,
+2003</xref>; <xref rid="B02" ref-type="bibr">Ai-Thawadi, 2011</xref>), which by
+means of urea hydrolysis produce ammonia and carbonate ion, leading to an increase
+in pH, and thus favoring calcium carbonate precipitation. Our data showed that
+urease activity was present in all the isolates when tested on the urease activity
+assay media. The strain of <italic>B. lentus</italic> CP28 exhibited higher urease
+activity and more rapid growth and crystallization of calcium carbonate aggregation
+than strains <italic>B. diminuta</italic> CP16 and <italic>S. soli</italic> CP23.
+This observation coincides with the observations by <xref rid="B27" ref-type="bibr">Hammes <italic>et al.</italic> (2003)</xref>, who reported a diversity of
+urease genes in the genomes of ureolytic bacteria and proposed that their high
+affinities and specific rates were the basase of rapid crystal formation. Urea is an
+organic nitrogenous compound present in coastal environments and introduced by the
+excretion of certain terrestrial and aquatic animals. Biotic urease activity is
+widespread in the environment and includes the actions of bacteria, yeasts and
+filamentous fungi (<xref rid="B36" ref-type="bibr">Mobley and Hausinger,
+1989</xref>). Urease hydrolyses the substrate urea, which creates an alkaline
+environment to facilitate calcium carbonate precipitation in the natural settings,
+and thus partially contributes to the marine lithifications. With removal of urea
+from the experimental media, strains <italic>B. diminuta</italic> CP16 and
+<italic>S. soli</italic> CP23 were switched to metabolizing glucose and probably
+produced organic acids to dissolve calcium carbonate (<xref rid="t01" ref-type="table">Table 1</xref>). This phenomenon was observed in cave isolates,
+demonstrating their abilities to precipitate and dissolve calcium carbonate (<xref rid="B06" ref-type="bibr">Banks <italic>et al.</italic>, 2010</xref>).
+Therefore, we inferred that the processes of both precipitation and dissolution of
+calcium carbonate are dynamic processes in the natural marine sediment system, with
+both processes depending on the availability of urea and other organic
+substances.</p><p>Calcite, aragonite and vaterite are three crystalline polymorphs of calcium carbonate
+existing in natural environments. Calcite and vaterite are the most common
+crystalline polymorphs induced by ureolytic bacteria (<xref rid="B09" ref-type="bibr">Boquet <italic>et al.</italic>, 1973</xref>; <xref rid="B44" ref-type="bibr">Rivadeneyra <italic>et al.</italic>, 1996</xref>; <xref rid="B51" ref-type="bibr">Stocks-Fisher <italic>et al.</italic>, 1999</xref>;
+<xref rid="B05" ref-type="bibr">Bang <italic>et al.</italic>, 2001</xref>; <xref rid="B22" ref-type="bibr">Giralt <italic>et al.</italic>, 2001</xref>; <xref rid="B04" ref-type="bibr">Bachemeier <italic>et al.</italic>, 2002</xref>; <xref rid="B32" ref-type="bibr">Kawaguchi and Decho, 2002</xref>;). It has been
+reported that aragonite could also be precipitated by bacteria (<xref rid="B44" ref-type="bibr">Rivadeneyra <italic>et al.</italic>, 1996</xref>). <xref rid="B55" ref-type="bibr">Zamarre&#x000f1;o <italic>et al.</italic> (2009)</xref>
+demonstrated that <italic>Pseudomonas</italic> D2 and F2 have a remarkable ability
+to induce the precipitation of primarily calcite and vaterite, similar to the
+results obtained by <xref rid="B47" ref-type="bibr">Rodriguez-Navarro <italic>et
+al.</italic> (2003)</xref> and <xref rid="B37" ref-type="bibr">Muynck
+<italic>et al.</italic> (2008)</xref>, who used <italic>Myxococcus
+xanthus</italic> and <italic>Bacillus sphaericus</italic> in their
+work<italic>,</italic> respectively. <italic>Acinetobacter</italic> B14 induced
+more precipitation of vaterite than calcite (<xref rid="B55" ref-type="bibr">Zamarre&#x000f1;o <italic>et al.</italic>, 2009</xref>), <italic>Deleya
+halophlia</italic> induced precipitation of aragonite (<xref rid="B44" ref-type="bibr">Rivadeneyra <italic>et al.</italic>, 1996</xref>), whereas
+<italic>Lysinibacillus sphaericus</italic> INQCS 414 precipitated only vaterite
+(<xref rid="B49" ref-type="bibr">Shirakawa <italic>et al.</italic>,
+2011</xref>). In contrast, our research isolates of <italic>B. diminuta</italic>
+CP16, <italic>S. soli</italic> CP23 and <italic>B. lentus</italic> CP28
+predominantly induced calcite precipitation. Nevertheless, this finding is
+consistent with the results from <xref rid="B34" ref-type="bibr">Li <italic>et
+al.</italic> (2011)</xref> and <xref rid="B01" ref-type="bibr">Achal
+<italic>et al.</italic> (2009)</xref>, who reported using <italic>Bacillus
+sp.</italic> and <italic>S. pasteurii</italic> MTCC 1761, respectively, to
+induce calcium carbonate precipitation. Despite extensive studies on bacterial
+carbonatogenesis, little is known about what causes bacteria to precipitate
+different carbonate polymorphs. Besides the observation that the particular
+bacterial species used has an important influence on the type of carbonate
+precipitation, the composition of the culture medium is also believed to be one of
+the determinants (<xref rid="B44" ref-type="bibr">Rivadeneyra <italic>et
+al.</italic>, 1996</xref>, <xref rid="B45" ref-type="bibr">1998</xref>;
+<xref rid="B24" ref-type="bibr">Gonzalez-Munoz <italic>et al.</italic>,
+2010</xref>;). It has also been reported that the specific amino acid sequence
+in the urease enzyme of bacteria may be responsible for the carbonate polymorph
+selection. Higher concentration of Asp and Glu in the urease of <italic>B.
+pasteurii</italic> favored the formation of vaterite, while calcite was the
+predominant precipitate when using urease of <italic>Canavalia ensiformis</italic>
+with a lower concentration of Asp and Glu (<xref rid="B50" ref-type="bibr">Sondi and
+Salopek-Sondi, 2005</xref>). <xref rid="B32" ref-type="bibr">Kawaguchi and Decho
+(2002)</xref> reported that specific proteins in extracellular polymeric
+substances (EPS) of <italic>Schizothrix sp</italic>. influenced aragonite and
+calcite polymorph selection. These previous studies suggest that the polymorph
+selection is a complex process involving a variety of abiotic and biotic
+factors.</p><p>Our results showed that <italic>B. diminuta</italic> CP16, <italic>S. soli</italic>
+CP23 and <italic>B. lentus</italic> CP28 induced similar morphologies of crystals.
+The cubic, rhombic and polygonal plate-like crystals were the dominant crystals
+compared with the less common spherical and irregularly shaped crystals. This result
+is consistent with that <xref rid="B52" ref-type="bibr">Tourney and Ngwenya
+(2009)</xref> observed from a strain of <italic>Bacillus licheniformis</italic>
+S-86. According to <xref rid="B33" ref-type="bibr">Li <italic>et al.</italic>
+(2010)</xref>, the crystal morphologies of precipitates produced by
+<italic>Bacillus sp</italic>. mainly showed cubic and polyhedral shapes. <xref rid="B55" ref-type="bibr">Zamarre&#x000f1;o <italic>et al.</italic> (2009)</xref>
+reported that microbial calcite crystals presented a variety of morphologies
+depending on the type of isolate. <italic>Pseudomonas putida</italic> F2 induced
+nailhead and spheroidal crystals, <italic>Pseudomonas aeruginosa</italic> D2 induced
+pseudo-ellipsoidal and pseudo-cubic crystals, whereas <italic>Acinetobacter
+junii</italic> B14 induced semi-spheroidal, pseudo-hexagonal prism and nailhead
+spar crystals in the same growth medium.</p><p>The process of calcium carbonate precipitation is usually governed by four key
+factors: (1) calcium concentration, (2) concentration of dissolved inorganic carbon,
+(3) pH, (4) the availability of nucleation sites (<xref rid="B38" ref-type="bibr">Muynck <italic>et al.</italic>, 2010</xref>). The first three factors can be
+influenced by bacteria, most notably, the creation of an alkaline environment.
+Moreover, the bacteria can also provide the crystal nucleation sites for calcium
+carbonate precipitation (<xref rid="B26" ref-type="bibr">Hammes and Verstraete,
+2002</xref>). In the process of calcium carbonate precipitation, bacterial
+precipitation caused faster precipitation rates than chemical precipitation (<xref rid="B51" ref-type="bibr">Stocks-Fischer <italic>et al.</italic>, 1999</xref>).
+As shown in <xref rid="f05" ref-type="fig">Figure 5</xref>, calcium carbonate
+precipitation was clearly correlated with the growth of <italic>B. lentus</italic>
+CP28, which utilized ureases to hydrolyze urea and generate carbonate and ammonia,
+and result in an increase in pH. With the rise of pH, more ammonium ion was released
+and a considerable quantity of calcium carbonate was precipitated. On the other
+hand, it is also possible that with the bacterial cell number increase more crystal
+nucleation sites were available, favoring the calcium carbonate precipitation (<xref rid="B51" ref-type="bibr">Stocks-Fisher <italic>et al.</italic>, 1999</xref>).
+In the bacterium-free control, both pH and ammonium ion concentration kept
+increasing slightly while little calcium carbonate precipitation was collected. The
+kinetics of microbial calcium carbonate precipitation are similar to those of
+reported by <xref rid="B51" ref-type="bibr">Stocks-Fisher <italic>et al.</italic>
+(1999)</xref>. The data obtained from the bacterial process of calcium carbonate
+precipitation induced by <italic>B. lentus</italic> CP28 provides straightforward
+evidence to understand microbial calcium carbonate precipitation.</p><p>In summary, in this paper we have clearly shown that three species of bacteria
+isolated from marine sediment participate in microbial calcium carbonate
+precipitation through hydrolysis of urea. Mineralogical analysis of the induced
+calcium carbonate precipitation shows that calcite is the dominant carbonate
+polymorph, and morphologies of crystals are mainly cubic and rhombic. These results
+suggest that production of carbonate polymorph is not specifically related to any
+bacterial species, but is rather influenced by complicated environmental factors
+such as the pH, the composition of the media, etc.</p></sec></body><back><ack><title>Acknowledgments</title><p>The authors acknowledge James Hurley of Department of Plant Pathology and
+Microbiology, Texas A &#x00026; M University, for making a critical reading and revision
+of this paper. This research were supported by the Fundamental Research Funds for
+the Central Universities (2652012138) and National Natural Science Foundation of
+China (41030853).</p></ack><ref-list><title>References</title><ref id="B01"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Achal</surname><given-names>V</given-names></name><name><surname>Mukherjee</surname><given-names>A</given-names></name><name><surname>Basu</surname><given-names>PC</given-names></name><etal/></person-group><year>2009</year><article-title>Strain improvement of <italic>Sporosarcina pasteurii</italic> for
+enhanced urease and calcite production</article-title><source>J Industrial Microbiol Biotechnol</source><volume>36</volume><fpage>981</fpage><lpage>988</lpage></element-citation></ref><ref id="B02"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ai-Thawadi</surname><given-names>SM</given-names></name></person-group><year>2011</year><article-title>Ureolytic bacteria and calcium carbonate formation as a mechanism
+of strength enhancement of sand</article-title><source>J Adv Sci Eng Res</source><volume>1</volume><fpage>98</fpage><lpage>114</lpage></element-citation></ref><ref id="B03"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Arp</surname><given-names>G</given-names></name><name><surname>Thiel</surname><given-names>V</given-names></name><name><surname>Reimer</surname><given-names>A</given-names></name><etal/></person-group><year>1999</year><article-title>Biofilm exopolymers control microbialite formation at thermal
+spring discharging into the alkaline Pyramid Lake, Nevada,
+USA</article-title><source>Sediment Geol</source><volume>126</volume><fpage>159</fpage><lpage>176</lpage></element-citation></ref><ref id="B04"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bachmeier</surname><given-names>KL</given-names></name><name><surname>Williams</surname><given-names>AE</given-names></name><name><surname>Warmington</surname><given-names>JR</given-names></name><etal/></person-group><year>2002</year><article-title>Urease activity in microbiologically-induced calcite
+precipitation</article-title><source>J Biochechnol</source><volume>93</volume><fpage>171</fpage><lpage>181</lpage></element-citation></ref><ref id="B05"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bang</surname><given-names>SS</given-names></name><name><surname>Galimat</surname><given-names>JK</given-names></name><name><surname>Ramakrishan</surname><given-names>V</given-names></name></person-group><year>2001</year><article-title>Calcite precipitation induced by polyurethane-immobilized
+<italic>Bacillus pasteurii</italic>
+</article-title><source>Enzyme Microb Technol</source><volume>28</volume><fpage>404</fpage><lpage>409</lpage><pub-id pub-id-type="pmid">11240198</pub-id></element-citation></ref><ref id="B06"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Banks</surname><given-names>ED</given-names></name><name><surname>Taylor</surname><given-names>NM</given-names></name><name><surname>Gulley</surname><given-names>J</given-names></name><etal/></person-group><year>2010</year><article-title>Bacterial calcium carbonate precipitation in cave environments: A
+function of calcium homeostasis</article-title><source>Geomicrobiology J</source><volume>27</volume><fpage>444</fpage><lpage>454</lpage></element-citation></ref><ref id="B07"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bazylinski</surname><given-names>DA</given-names></name><name><surname>Moskowitz</surname><given-names>BM</given-names></name></person-group><year>1997</year><article-title>Microbial biomineralization of magnetic iron minerals:
+microbiology, magnetism and environment significance</article-title><source>Rev Mineral Geochem</source><volume>35</volume><fpage>181</fpage><lpage>223</lpage></element-citation></ref><ref id="B08"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Betzel</surname><given-names>C</given-names></name><name><surname>Dauter</surname><given-names>Z</given-names></name><name><surname>Dauter</surname><given-names>M</given-names></name><etal/></person-group><year>1988</year><article-title>Crystallization and preliminary X-ray diffraction studies of an
+alkaline protease from <italic>Bacillus lentus</italic>
+</article-title><source>J Mol Biol</source><volume>204</volume><fpage>803</fpage><lpage>804</lpage><pub-id pub-id-type="pmid">3225854</pub-id></element-citation></ref><ref id="B09"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Boquet</surname><given-names>E</given-names></name><name><surname>Boronat</surname><given-names>A</given-names></name><name><surname>Ramos-Cormenzana</surname><given-names>A</given-names></name></person-group><year>1973</year><article-title>Production of calcite (calcium carbonate) crystals by soil
+bacteria is a general phenomenon</article-title><source>Nature</source><volume>246</volume><fpage>527</fpage><lpage>529</lpage></element-citation></ref><ref id="B10"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bosak</surname><given-names>T</given-names></name><name><surname>Newman</surname><given-names>DK</given-names></name></person-group><year>2005</year><article-title>Microbial kinetic controls on calcite morphology in
+supersaturated solutions</article-title><source>J Sediment Res</source><volume>75</volume><fpage>190</fpage><lpage>199</lpage></element-citation></ref><ref id="B11"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Braissant</surname><given-names>O</given-names></name><name><surname>Decho</surname><given-names>AW</given-names></name><name><surname>Dupraz</surname><given-names>C</given-names></name><etal/></person-group><year>2007</year><article-title>Exopolymeric substance of sulfate-reducing bacteria: interactions
+with calcium at alkaline pH and implication for formation of carbonate
+minerals</article-title><source>Geobiology</source><volume>5</volume><fpage>401</fpage><lpage>411</lpage></element-citation></ref><ref id="B12"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Brennan</surname><given-names>ST</given-names></name><name><surname>Lowenstein</surname><given-names>TK</given-names></name><name><surname>Horita</surname><given-names>J</given-names></name></person-group><year>2004</year><article-title>Seawater chemistry and the advent of
+biocalcification</article-title><source>Geology</source><volume>32</volume><fpage>473</fpage><lpage>476</lpage></element-citation></ref><ref id="B13"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ca&#x000f1;averas</surname><given-names>JC</given-names></name><name><surname>Sacchez-Moral</surname><given-names>S</given-names></name><name><surname>Soler</surname><given-names>V</given-names></name><etal/></person-group><year>2001</year><article-title>Microorganisms and microbially induced fabrics cave
+walls</article-title><source>Geomicrobiology J</source><volume>18</volume><fpage>223</fpage><lpage>240</lpage></element-citation></ref><ref id="B14"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Castanier</surname><given-names>S</given-names></name><name><surname>Le M|tayer-Levrel</surname><given-names>G</given-names></name><name><surname>Perthuisot</surname><given-names>JP</given-names></name></person-group><year>1999</year><article-title>Carbonate precipitation and limestone genesis-the microbiologist
+point of view</article-title><source>Sedimentary Geol</source><volume>126</volume><fpage>9</fpage><lpage>23</lpage></element-citation></ref><ref id="B15"><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Castanier</surname><given-names>S</given-names></name><name><surname>Le M|tayer-Levrel</surname><given-names>G</given-names></name><name><surname>Perthuisot</surname><given-names>JP</given-names></name></person-group><year>2000</year><chapter-title>Bacterial roles in the precipitation of carbonate
+minerals</chapter-title><source>Microbial sediments</source><publisher-name>Springer</publisher-name><publisher-loc>Heidelberg, Germany</publisher-loc><fpage>32</fpage><lpage>39</lpage></element-citation></ref><ref id="B16"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Chafetz</surname><given-names>HS</given-names></name><name><surname>Rush</surname><given-names>P</given-names></name><name><surname>Utech</surname><given-names>NM</given-names></name></person-group><year>1991</year><article-title>Microenvironmental controls on mineralogy and habitat of
+CaCO<sub>3</sub> precipitates: an example from an active travertine
+system</article-title><source>Sedimentology</source><volume>38</volume><fpage>107</fpage><lpage>126</lpage></element-citation></ref><ref id="B17"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Chahal</surname><given-names>N</given-names></name><name><surname>Rajor</surname><given-names>A</given-names></name><name><surname>Siddique</surname><given-names>R</given-names></name></person-group><year>2011</year><article-title>Calcium carbonate precipitation by different bacterial
+strains</article-title><source>Afr J Biotechnol</source><volume>10</volume><fpage>8359</fpage><lpage>8372</lpage></element-citation></ref><ref id="B18"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Chekroun</surname><given-names>KB</given-names></name><name><surname>Rodr&#x000ed;guez-Navarro</surname><given-names>C</given-names></name><name><surname>Gonzalez-Mu&#x000f1;oz</surname><given-names>MT</given-names></name><etal/></person-group><year>2004</year><article-title>Precipitation and growth morphology of calcium carbonate induced
+by <italic>Myxococcus xanthus</italic>: implication for recognition of
+bacterial carbonates</article-title><source>J Sediment Res</source><volume>74</volume><fpage>868</fpage><lpage>876</lpage></element-citation></ref><ref id="B19"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Douglas</surname><given-names>S</given-names></name><name><surname>Beveridge</surname><given-names>TJ</given-names></name></person-group><year>1998</year><article-title>Mineral formation by bacteria in natural microbial
+communities</article-title><source>FEMS Microbiol Ecol</source><volume>26</volume><fpage>79</fpage><lpage>88</lpage></element-citation></ref><ref id="B20"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Dupraz</surname><given-names>C</given-names></name><name><surname>Visscher</surname><given-names>PT</given-names></name></person-group><year>2005</year><article-title>Microbial lithification in marine stromatolites and hypersaline
+mats</article-title><source>Trends Microbiol</source><volume>13</volume><fpage>429</fpage><lpage>438</lpage><pub-id pub-id-type="pmid">16087339</pub-id></element-citation></ref><ref id="B21"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Fujita</surname><given-names>Y</given-names></name><name><surname>Ferris</surname><given-names>EG</given-names></name><name><surname>Lawson</surname><given-names>RD</given-names></name><etal/></person-group><year>2000</year><article-title>Calcium carbonate precipitation by ureolytic subsurface
+bacteria</article-title><source>Geomicrobiol J</source><volume>17</volume><fpage>305</fpage><lpage>318</lpage></element-citation></ref><ref id="B22"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Giralt</surname><given-names>S</given-names></name><name><surname>Julia</surname><given-names>R</given-names></name><name><surname>Klerkx</surname><given-names>JJ</given-names></name></person-group><year>2001</year><article-title>Microbial biscuits of vaterite in Lake Issyk-Kul (Republic of
+Kyrgyzstan)</article-title><source>J Sediment Res</source><volume>71</volume><fpage>430</fpage><lpage>435</lpage></element-citation></ref><ref id="B23"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Goddette</surname><given-names>DW</given-names></name><name><surname>Paech</surname><given-names>C</given-names></name><name><surname>Yang</surname><given-names>SS</given-names></name><etal/></person-group><year>1992</year><article-title>The crystal structure of the <italic>Bacillus lentus</italic>
+alkaline protease, subtilisin BL, at 1.4 &#x000c5; resolution</article-title><source>J Mol Biol</source><volume>228</volume><fpage>580</fpage><lpage>595</lpage><pub-id pub-id-type="pmid">1453465</pub-id></element-citation></ref><ref id="B24"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gonzalez-Mu&#x000f1;oz</surname><given-names>MT</given-names></name><name><surname>Rodriguez-Navarro</surname><given-names>C</given-names></name><name><surname>Martinez-Ruiz</surname><given-names>F</given-names></name><etal/></person-group><year>2010</year><article-title>Bacterial biomineralization: new insights from
+<italic>Myxococcus</italic>-induced mineral
+precipitation</article-title><source>Geological Society, London Special Publications</source><volume>336</volume><fpage>31</fpage><lpage>50</lpage></element-citation></ref><ref id="B25"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Groth</surname><given-names>I</given-names></name><name><surname>Schumann</surname><given-names>P</given-names></name><name><surname>Laiz</surname><given-names>I</given-names></name><etal/></person-group><year>2001</year><article-title>Geomicrobiological study of the Grotta dei Cervi, Porto Badisco,
+Italy</article-title><source>Geomicrobiol J</source><volume>18</volume><fpage>241</fpage><lpage>258</lpage></element-citation></ref><ref id="B26"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hammes</surname><given-names>F</given-names></name><name><surname>Verstraete</surname><given-names>W</given-names></name></person-group><year>2002</year><article-title>Key roles of pH and calcium metabolism in microbial carbonate
+precipitation</article-title><source>Rev Environ Sci Biotechnol</source><volume>1</volume><fpage>3</fpage><lpage>7</lpage></element-citation></ref><ref id="B27"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hammes</surname><given-names>F</given-names></name><name><surname>Boon</surname><given-names>N</given-names></name><name><surname>Villiers</surname><given-names>JD</given-names></name><etal/></person-group><year>2003</year><article-title>Strain-specific ureolytic microbial calcium carbonate
+precipitation</article-title><source>Appl Environ Microbiol</source><volume>69</volume><fpage>4901</fpage><lpage>4909</lpage><pub-id pub-id-type="pmid">12902285</pub-id></element-citation></ref><ref id="B28"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Jansson</surname><given-names>C</given-names></name><name><surname>Northen</surname><given-names>T</given-names></name></person-group><year>2010</year><article-title>Calcifying cyanobacteria-the potential of biomineralization for
+carbon capture and storage</article-title><source>Curr Opin Biotechnol</source><volume>21</volume><fpage>1</fpage><lpage>7</lpage><pub-id pub-id-type="pmid">20189376</pub-id></element-citation></ref><ref id="B29"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Jha</surname><given-names>BK</given-names></name><name><surname>Pragash</surname><given-names>MG</given-names></name><name><surname>Cletus</surname><given-names>J</given-names></name><etal/></person-group><year>2009</year><article-title>Simultaneous phosphate solubilization potential and antifungal
+activity of new fluorescent pseudomonad strains, <italic>Pseudomonas
+aeruginosa</italic>, <italic>P. plecoglossicida</italic> and <italic>P.
+mosselii</italic>
+</article-title><source>World J Microbiol Biotechnol</source><volume>25</volume><fpage>573</fpage><lpage>581</lpage></element-citation></ref><ref id="B30"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Jroundi</surname><given-names>F</given-names></name><name><surname>Fern&#x000a2;ndez-Vivas</surname><given-names>A</given-names></name><name><surname>Rodriguez-Navarro</surname><given-names>C</given-names></name><etal/></person-group><year>2010</year><article-title>Bioconservation of deteriorated monumental calcarenite stone and
+identification of bacteria with carbonatogenic activity</article-title><source>Environ Microbiol</source><volume>60</volume><fpage>39</fpage><lpage>54</lpage></element-citation></ref><ref id="B31"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>J&#x000f8;rgensen</surname><given-names>PL</given-names></name><name><surname>Tangney</surname><given-names>M</given-names></name><name><surname>Pedersen</surname><given-names>PE</given-names></name><etal/></person-group><year>2000</year><article-title>Cloning and sequencing of an alkaline protease gene from
+<italic>Bacillus lentus</italic> and amplication of the gene on the
+<italic>B. lentus</italic> chromosome by improved
+technique</article-title><source>Appl Environ Microbiol</source><volume>66</volume><fpage>825</fpage><lpage>827</lpage><pub-id pub-id-type="pmid">10653758</pub-id></element-citation></ref><ref id="B32"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kawaguchi</surname><given-names>T</given-names></name><name><surname>Decho</surname><given-names>AW</given-names></name></person-group><year>2002</year><article-title>A laboratory investigation of cyanobacterial extracellular
+polymeric secretions (EPS) in influencing CaCO<sub>3</sub>
+polymorphism</article-title><source>J Cryst Growth</source><volume>240</volume><fpage>230</fpage><lpage>235</lpage></element-citation></ref><ref id="B33"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Li</surname><given-names>W</given-names></name><name><surname>Liu</surname><given-names>L</given-names></name><name><surname>Chen</surname><given-names>W</given-names></name><etal/></person-group><year>2010</year><article-title>Calcium carbonate precipitation and crystal morphology induced by
+microbial carbonic anhydrase and other biological factors</article-title><source>Process Biochem</source><volume>45</volume><fpage>1017</fpage><lpage>1021</lpage></element-citation></ref><ref id="B34"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Li</surname><given-names>W</given-names></name><name><surname>Liu</surname><given-names>LP</given-names></name><name><surname>Zhou</surname><given-names>PP</given-names></name><etal/></person-group><year>2011</year><article-title>Calcite precipitation induced by bacteria and bacterially
+produced carbonic anhydrase</article-title><source>Curr Sci</source><volume>100</volume><fpage>502</fpage><lpage>508</lpage></element-citation></ref><ref id="B35"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mann</surname><given-names>S</given-names></name></person-group><year>1995</year><article-title>Biomineralization and biomimetic materials
+chemistry</article-title><source>J Mater Chem</source><volume>5</volume><fpage>935</fpage><lpage>946</lpage></element-citation></ref><ref id="B36"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mobley</surname><given-names>HL</given-names></name><name><surname>Hausinger</surname><given-names>RP</given-names></name></person-group><year>1989</year><article-title>Microbial ureases: significance, regulation, and molecular
+characterization</article-title><source>Microbiol Mol Biol Rev</source><volume>53</volume><fpage>85</fpage><lpage>108</lpage></element-citation></ref><ref id="B37"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Muynck</surname><given-names>WD</given-names></name><name><surname>Cox</surname><given-names>K</given-names></name><name><surname>Belie</surname><given-names>ND</given-names></name><etal/></person-group><year>2008</year><article-title>Bacterial carbonate precipitation as an alternative surface
+treatment for concrete</article-title><source>Constr Build Mater</source><volume>22</volume><fpage>875</fpage><lpage>885</lpage></element-citation></ref><ref id="B38"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Muynck</surname><given-names>WD</given-names></name><name><surname>Belie</surname><given-names>ND</given-names></name><name><surname>Verstraete</surname><given-names>W</given-names></name></person-group><year>2010</year><article-title>Microbial carbonate precipitation in construction materials: A
+review</article-title><source>Ecol Eng</source><volume>36</volume><fpage>118</fpage><lpage>136</lpage></element-citation></ref><ref id="B39"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Natarajan</surname><given-names>KR</given-names></name></person-group><year>1995</year><article-title>Kinetic study of the enzyme urease from Dolichos
+biflorus</article-title><source>J Chem Educ</source><volume>72</volume><fpage>556</fpage><lpage>557</lpage></element-citation></ref><ref id="B40"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Okwahha</surname><given-names>GDO</given-names></name><name><surname>Li</surname><given-names>J</given-names></name></person-group><year>2010</year><article-title>Optimum conditions for microbial carbonate
+precipitation</article-title><source>Chemosphere</source><volume>81</volume><fpage>1143</fpage><lpage>1148</lpage><pub-id pub-id-type="pmid">20947128</pub-id></element-citation></ref><ref id="B41"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Paerl</surname><given-names>HW</given-names></name><name><surname>Steppe</surname><given-names>TF</given-names></name><name><surname>Reid</surname><given-names>RP</given-names></name></person-group><year>2001</year><article-title>Bacterially mediated precipitation in marine
+stromatolites</article-title><source>Environ Microbiol</source><volume>3</volume><fpage>123</fpage><lpage>130</lpage><pub-id pub-id-type="pmid">11321542</pub-id></element-citation></ref><ref id="B42"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Peckman</surname><given-names>J</given-names></name><name><surname>Paul</surname><given-names>J</given-names></name><name><surname>Thiel</surname><given-names>V</given-names></name></person-group><year>1999</year><article-title>Bacterially mediated formation of diagenetic aragonite and native
+sulphur in Zechstein carbonate (Upper Permian, central
+Germany)</article-title><source>Sediment Geol</source><volume>126</volume><fpage>205</fpage><lpage>222</lpage></element-citation></ref><ref id="B43"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Pedone</surname><given-names>VA</given-names></name><name><surname>Folk</surname><given-names>RL</given-names></name></person-group><year>2010</year><article-title>Formation of aragonite cement by nannobacteria in the Great Salt
+Lake, Utah</article-title><source>Geology</source><volume>24</volume><fpage>763</fpage><lpage>765</lpage></element-citation></ref><ref id="B44"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rivadeneyra</surname><given-names>MA</given-names></name><name><surname>Ramoss-Cormenzana</surname><given-names>A</given-names></name><name><surname>Delgado</surname><given-names>G</given-names></name><etal/></person-group><year>1996</year><article-title>Process of carbonate precipitation by <italic>Deleya
+halophila</italic>
+</article-title><source>Curr Microbiol</source><volume>36</volume><fpage>308</fpage><lpage>313</lpage><pub-id pub-id-type="pmid">8661675</pub-id></element-citation></ref><ref id="B45"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rivadeneyra</surname><given-names>MA</given-names></name><name><surname>Delgado</surname><given-names>G</given-names></name><name><surname>Ramos-Cormenzana</surname><given-names>A</given-names></name><etal/></person-group><year>1998</year><article-title>Biomineralization of carbonates by <italic>Halomonas
+eurihalina</italic> in solid and liquid media with different salinities:
+crystal formation sequence</article-title><source>Res Microbiol</source><volume>149</volume><fpage>277</fpage><lpage>287</lpage><pub-id pub-id-type="pmid">9766229</pub-id></element-citation></ref><ref id="B46"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rodriguez-Navarro</surname><given-names>C</given-names></name><name><surname>Jroundi</surname><given-names>F</given-names></name><name><surname>Schiro</surname><given-names>M</given-names></name><etal/></person-group><year>2012</year><article-title>Influence of substrate mineralogy on bacterial mineralization of
+calcium carbonate: implication for stone conservation</article-title><source>Appl Environ Microbiol</source><volume>78</volume><fpage>4017</fpage><lpage>4029</lpage><pub-id pub-id-type="pmid">22447589</pub-id></element-citation></ref><ref id="B47"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rodriguez-Navarro</surname><given-names>C</given-names></name><name><surname>Rodriguez-Gallego</surname><given-names>M</given-names></name><name><surname>Chekroun</surname><given-names>KB</given-names></name><etal/></person-group><year>2003</year><article-title>Conservation of ornamental stone by <italic>Myxococcus
+xanthus</italic>-induced carbonate biomineralization</article-title><source>Appl Environ Microbiol</source><volume>69</volume><fpage>2182</fpage><lpage>2193</lpage><pub-id pub-id-type="pmid">12676699</pub-id></element-citation></ref><ref id="B48"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>S&#x000a2;nchez-Rom&#x000a2;n</surname><given-names>M</given-names></name><name><surname>Romanek</surname><given-names>CS</given-names></name><name><surname>Fern&#x000a2;adez-Remolar</surname><given-names>DC</given-names></name><etal/></person-group><year>2011</year><article-title>Aerobic biomineralization of Mg-rich carbonates: Implications for
+natural environments</article-title><source>Chem Geol</source><volume>281</volume><fpage>143</fpage><lpage>150</lpage></element-citation></ref><ref id="B49"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Shirakawa</surname><given-names>MA</given-names></name><name><surname>Cincotto</surname><given-names>MA</given-names></name><name><surname>Atencio</surname><given-names>D</given-names></name><etal/></person-group><year>2011</year><article-title>Effect of culture medium on biocalcification by
+<italic>Pseudomonas putida</italic>, <italic>Lysibacillus
+sphaericus</italic> and <italic>Bacillus
+subtilis</italic>
+</article-title><source>Braz J Microbiol</source><volume>42</volume><fpage>499</fpage><lpage>507</lpage><pub-id pub-id-type="pmid">24031661</pub-id></element-citation></ref><ref id="B50"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sondi</surname><given-names>I</given-names></name><name><surname>Salopek-Sondi</surname><given-names>B</given-names></name></person-group><year>2005</year><article-title>Influence of the primary structure of enzymes on the formation of
+CaCO<sub>3</sub> polymorphs: a comparison of plant (<italic>Canavalia
+ensiformis</italic>) and Bacterial (<italic>Bacillus pasteurii</italic>)
+urease</article-title><source>Langmuir</source><volume>21</volume><fpage>8876</fpage><lpage>8882</lpage><pub-id pub-id-type="pmid">16142973</pub-id></element-citation></ref><ref id="B51"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Stocks-Fischer</surname><given-names>S</given-names></name><name><surname>Galinat</surname><given-names>JK</given-names></name><name><surname>Bang</surname><given-names>SS</given-names></name></person-group><year>1999</year><article-title>Microbiological precipitation of CaCO<sub>3</sub>
+</article-title><source>Soil Biol Biochem</source><volume>31</volume><fpage>1563</fpage><lpage>1571</lpage></element-citation></ref><ref id="B52"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Tourney</surname><given-names>T</given-names></name><name><surname>Ngwenya</surname><given-names>BT</given-names></name></person-group><year>2009</year><article-title>Bacteria extracellular polymeric substance (EPS) mediate
+CaCO<sub>3</sub> morphology and polymorphism</article-title><source>Chem Geol</source><volume>262</volume><fpage>138</fpage><lpage>146</lpage></element-citation></ref><ref id="B53"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Warthmann</surname><given-names>R</given-names></name><name><surname>Van Lith</surname><given-names>Y</given-names></name><name><surname>Vasconcelos</surname><given-names>C</given-names></name><etal/></person-group><year>2000</year><article-title>Bacterially induced dolomite precipitation in anoxic culture
+experiments</article-title><source>Geology</source><volume>28</volume><fpage>1091</fpage><lpage>1094</lpage></element-citation></ref><ref id="B54"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wright</surname><given-names>DT</given-names></name><name><surname>Oren</surname><given-names>A</given-names></name></person-group><year>2005</year><article-title>Nonphotosynthetic bacteria and the formation of carbonates and
+evaporates through time</article-title><source>Geomicrobiol J</source><volume>22</volume><fpage>27</fpage><lpage>53</lpage></element-citation></ref><ref id="B55"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zamarre&#x000f1;o</surname><given-names>DV</given-names></name><name><surname>Inkpen</surname><given-names>R</given-names></name><name><surname>May</surname><given-names>E</given-names></name></person-group><year>2009</year><article-title>Carbonate crystals precipitated by freshwater bacteria and their
+use as a limestone consolidant</article-title><source>App Environ Microbiol</source><volume>75</volume><fpage>5981</fpage><lpage>5990</lpage></element-citation></ref></ref-list></back></article>

@@ -1,0 +1,1483 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Br J Haematol</journal-id><journal-id journal-id-type="iso-abbrev">Br. J. Haematol</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1365-2141</journal-id><journal-id journal-id-type="publisher-id">BJH</journal-id><journal-title-group><journal-title>British Journal of Haematology</journal-title></journal-title-group><issn pub-type="ppub">0007-1048</issn><issn pub-type="epub">1365-2141</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">31124580</article-id><article-id pub-id-type="pmc">6772147</article-id><article-id pub-id-type="doi">10.1111/bjh.15969</article-id><article-id pub-id-type="publisher-id">BJH15969</article-id><article-categories><subj-group subj-group-type="overline"><subject>Research Paper</subject></subj-group><subj-group subj-group-type="heading"><subject>Haematological Malignancy</subject></subj-group></article-categories><title-group><article-title>Phase 1 study of selinexor plus carfilzomib and dexamethasone for the treatment of relapsed/refractory multiple myeloma</article-title><alt-title alt-title-type="right-running-head">Selinexor, Carfilzomib and Dexamethasone for <styled-content style="fixed-case">RRMM</styled-content></alt-title><alt-title alt-title-type="left-running-head">A. J. Jakubowiak <italic>et&#x000a0;al</italic></alt-title></title-group><contrib-group><contrib id="bjh15969-cr-0001" contrib-type="author" corresp="yes"><name><surname>Jakubowiak</surname><given-names>Andrzej J.</given-names></name><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-4550-4726</contrib-id><xref ref-type="aff" rid="bjh15969-aff-0001">
+<sup>1</sup>
+</xref><address><email>ajakubowiak@medicine.bsd.uchicago.edu</email></address></contrib><contrib id="bjh15969-cr-0002" contrib-type="author"><name><surname>Jasielec</surname><given-names>Jagoda K.</given-names></name><xref ref-type="aff" rid="bjh15969-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="bjh15969-cr-0003" contrib-type="author"><name><surname>Rosenbaum</surname><given-names>Cara A.</given-names></name><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-3576-9106</contrib-id><xref ref-type="aff" rid="bjh15969-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="bjh15969-cr-0004" contrib-type="author"><name><surname>Cole</surname><given-names>Craig E.</given-names></name><xref ref-type="aff" rid="bjh15969-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="bjh15969-cr-0005" contrib-type="author"><name><surname>Chari</surname><given-names>Ajai</given-names></name><xref ref-type="aff" rid="bjh15969-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="bjh15969-cr-0006" contrib-type="author"><name><surname>Mikhael</surname><given-names>Joseph</given-names></name><xref ref-type="aff" rid="bjh15969-aff-0005">
+<sup>5</sup>
+</xref><xref ref-type="aff" rid="bjh15969-curr-0001">
+<sup>7</sup>
+</xref></contrib><contrib id="bjh15969-cr-0007" contrib-type="author"><name><surname>Nam</surname><given-names>Jennifer</given-names></name><xref ref-type="aff" rid="bjh15969-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="bjh15969-cr-0008" contrib-type="author"><name><surname>McIver</surname><given-names>Amanda</given-names></name><xref ref-type="aff" rid="bjh15969-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="bjh15969-cr-0009" contrib-type="author"><name><surname>Severson</surname><given-names>Erica</given-names></name><xref ref-type="aff" rid="bjh15969-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="bjh15969-cr-0010" contrib-type="author"><name><surname>Stephens</surname><given-names>Leonor A.</given-names></name><xref ref-type="aff" rid="bjh15969-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="bjh15969-cr-0011" contrib-type="author"><name><surname>Tinari</surname><given-names>Kathryn</given-names></name><xref ref-type="aff" rid="bjh15969-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="bjh15969-cr-0012" contrib-type="author"><name><surname>Rosebeck</surname><given-names>Shaun</given-names></name><xref ref-type="aff" rid="bjh15969-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="bjh15969-cr-0013" contrib-type="author"><name><surname>Zimmerman</surname><given-names>Todd M.</given-names></name><xref ref-type="aff" rid="bjh15969-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="bjh15969-cr-0014" contrib-type="author"><name><surname>Hycner</surname><given-names>Tyler</given-names></name><xref ref-type="aff" rid="bjh15969-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="bjh15969-cr-0015" contrib-type="author"><name><surname>Turowski</surname><given-names>Agata</given-names></name><xref ref-type="aff" rid="bjh15969-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="bjh15969-cr-0016" contrib-type="author"><name><surname>Karrison</surname><given-names>Theodore</given-names></name><xref ref-type="aff" rid="bjh15969-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="bjh15969-cr-0017" contrib-type="author"><name><surname>Zonder</surname><given-names>Jeffrey A.</given-names></name><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-1741-2795</contrib-id><xref ref-type="aff" rid="bjh15969-aff-0006">
+<sup>6</sup>
+</xref></contrib></contrib-group><aff id="bjh15969-aff-0001">
+<label><sup>1</sup></label>
+<institution>University of Chicago Medical Center</institution>
+<named-content content-type="city">Chicago</named-content>
+<named-content content-type="country-part">IL</named-content>
+<country country="US">USA</country>
+</aff><aff id="bjh15969-aff-0002">
+<label><sup>2</sup></label>
+<institution>Weill Cornell Medical College</institution>
+<named-content content-type="city">New York</named-content>
+<named-content content-type="country-part">NY</named-content>
+<country country="US">USA</country>
+</aff><aff id="bjh15969-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Department of Medicine</named-content>
+<named-content content-type="organisation-division">Division of Hematology/Oncology</named-content>
+<institution>University of Michigan School of Medicine</institution>
+<named-content content-type="city">Ann Arbor</named-content>
+<named-content content-type="country-part">MI</named-content>
+<country country="US">USA</country>
+</aff><aff id="bjh15969-aff-0004">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">Tisch Cancer Institute/Multiple Myeloma Program</named-content>
+<institution>Mount Sinai School of Medicine</institution>
+<named-content content-type="city">New York</named-content>
+<named-content content-type="country-part">NY</named-content>
+<country country="US">USA</country>
+</aff><aff id="bjh15969-aff-0005">
+<label><sup>5</sup></label>
+<institution>Mayo Clinic, Phoenix, AZ, and International Myeloma Foundation</institution>
+<named-content content-type="city">Los Angeles</named-content>
+<named-content content-type="country-part">CA</named-content>
+<country country="US">USA</country>
+</aff><aff id="bjh15969-aff-0006">
+<label><sup>6</sup></label>
+<named-content content-type="organisation-division">Barbara Ann Karmanos Cancer Institute</named-content>
+<institution>Wayne State University</institution>
+<named-content content-type="city">Detroit</named-content>
+<named-content content-type="country-part">MI</named-content>
+<country country="US">USA</country>
+</aff><aff id="bjh15969-curr-0001"><label><sup>7</sup></label>Present address:
+<named-content content-type="organisation-division">Translational Genomics Research Institute</named-content>
+<institution>City of Hope Cancer Center</institution>
+<named-content content-type="city">Phoenix</named-content>
+<named-content content-type="country-part">AZ</named-content>
+<country country="US">USA</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label>
+Correspondence: Professor Andrzej J. Jakubowiak, Section of Hematology/Oncology University of Chicago Medical Center, 5841 S Maryland Ave, MC 2115, Chicago, IL 60637&#x02010;6613, USA.<break/>
+E&#x02010;mail: <email>ajakubowiak@medicine.bsd.uchicago.edu</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>24</day><month>5</month><year>2019</year></pub-date><pub-date pub-type="ppub"><month>8</month><year>2019</year></pub-date><volume>186</volume><issue>4</issue><issue-id pub-id-type="doi">10.1111/bjh.v186.4</issue-id><fpage>549</fpage><lpage>560</lpage><history><date date-type="received"><day>26</day><month>11</month><year>2018</year></date><date date-type="accepted"><day>22</day><month>3</month><year>2019</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> Copyright &#x000a9; 2019 John Wiley & Sons Ltd <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2019 The Authors. <italic>British Journal of Haematology</italic> published by British Society for Haematology and John Wiley &#x00026; Sons Ltd</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:BJH-186-549.pdf"/><abstract id="bjh15969-abs-0001"><title>Summary</title><p>Selinexor, an oral Selective Inhibitor of Nuclear Export, targets Exportin 1 (<styled-content style="fixed-case">XPO</styled-content>1, also termed <styled-content style="fixed-case">CRM</styled-content>1). Non&#x02010;clinical studies support combining selinexor with proteasome inhibitors (<styled-content style="fixed-case">PI</styled-content>s) and corticosteroids to overcome resistance in relapsed/refractory multiple myeloma (<styled-content style="fixed-case">RRMM</styled-content>). We conducted a phase I dose&#x02010;escalation trial of twice&#x02010;weekly selinexor in combination with carfilzomib and dexamethasone (<styled-content style="fixed-case">SK</styled-content>d) to determine maximum tolerated dose in patients with <styled-content style="fixed-case">RRMM</styled-content> (<italic>N</italic>&#x000a0;=&#x000a0;21), with an expansion cohort to assess activity in carfilzomib&#x02010;refractory disease and identify a recommended phase <styled-content style="fixed-case">II</styled-content> dose (<styled-content style="fixed-case">RP</styled-content>2D). During dose escalation, there was one dose&#x02010;limiting toxicity (cardiac failure). The <styled-content style="fixed-case">RP</styled-content>2D of twice&#x02010;weekly <styled-content style="fixed-case">SK</styled-content>d was selinexor 60&#x000a0;mg, carfilzomib 20/27&#x000a0;mg/m<sup>2</sup> and dexamethasone 20&#x000a0;mg. The most common grade 3/4 treatment&#x02010;emergent adverse events included thrombocytopenia (71%), anaemia (33%), lymphopenia (33%), neutropenia (33%) and infections (24%). Rates of &#x02265;minimal response, &#x02265;partial response and very good partial response were 71%, 48% and 14%, respectively; similar response outcomes were observed for dual&#x02010;class refractory (<styled-content style="fixed-case">PI</styled-content> and immunomodulatory drug)/quad&#x02010;exposed (carfilzomib, bortezomib, lenalidomide and pomalidomide) patients (<italic>n</italic>&#x000a0;=&#x000a0;17), and patients refractory to carfilzomib in last line of therapy (<italic>n</italic>&#x000a0;=&#x000a0;13). Median progression&#x02010;free survival was 3&#x000b7;7&#x000a0;months, and overall survival was 22&#x000b7;4&#x000a0;months in the overall population. <styled-content style="fixed-case">SK</styled-content>d was tolerable and re&#x02010;established disease control in <styled-content style="fixed-case">RRMM</styled-content> patients, including carfilzomib&#x02010;refractory patients.</p><p>Registered at ClinicalTrials.gov (NCT02199665)</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="bjh15969-kwd-0001">relapsed/refractory multiple myeloma</kwd><kwd id="bjh15969-kwd-0002">selinexor</kwd><kwd id="bjh15969-kwd-0003">carfilzomib</kwd><kwd id="bjh15969-kwd-0004">dexamethasone</kwd></kwd-group><funding-group><award-group><funding-source>University of Chicago</funding-source></award-group></funding-group><counts><fig-count count="3"/><table-count count="4"/><page-count count="12"/><word-count count="9039"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>bjh15969</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>August 2019</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:5.6.9 mode:remove_FC converted:01.10.2019</meta-value></custom-meta></custom-meta-group></article-meta><notes><fn-group id="bjh15969-ntgp-1101"><fn id="bjh15969-note-1001"><p>The copyright line for this article was changed on 22 August 2019 after original online publication.</p></fn></fn-group></notes></front><body><p>The development of immunomodulatory drugs (IMiDs; e.g. lenalidomide, pomalidomide) and proteasome inhibitors (PIs; e.g. carfilzomib, bortezomib) as standards of care for patients with multiple myeloma (MM) has resulted in significant improvements in survival (Brenner <italic>et&#x000a0;al</italic>, <xref rid="bjh15969-bib-0005" ref-type="ref">2009</xref>; Kumar <italic>et&#x000a0;al</italic>, <xref rid="bjh15969-bib-0021" ref-type="ref">2008</xref>; Thumallapally <italic>et&#x000a0;al</italic>, <xref rid="bjh15969-bib-0041" ref-type="ref">2016</xref>). However, nearly all patients require multiple lines of therapy as they relapse or develop disease refractory to treatment. First&#x02010;line and subsequent therapies usually involve IMiDs and PIs in doublet or triplet combinations with corticosteroids and other systemic therapies (Kumar <italic>et&#x000a0;al</italic>, <xref rid="bjh15969-bib-0022" ref-type="ref">2018</xref>). As use of these combinations have become new standards of care, the treatment challenges in the relapsed/refractory (RR) setting have evolved, with increasing numbers of patients being quad&#x02010;refractory to bortezomib, lenalidomide, pomalidomide and carfilzomib or penta&#x02010;refractory to these four drugs and the anti&#x02010;CD38 monoclonal antibody daratumumab. There is a need to develop agents with novel mechanisms of action to overcome treatment resistance (Chim <italic>et&#x000a0;al</italic>, <xref rid="bjh15969-bib-0009" ref-type="ref">2018</xref>; Sonneveld &#x00026; Broijl, <xref rid="bjh15969-bib-0039" ref-type="ref">2016</xref>).</p><p>Selinexor is an oral Selective Inhibitor of Nuclear Export that targets Exportin 1 (XPO1, also termed CRM1), the only known nuclear export protein for tumour suppressor proteins (TSPs) and cell&#x02010;cycle regulators (e.g. p53, FOXO, I&#x003ba;B, p21, p27), as well as eukaryotic translation initiation factor 4E (eIF4E)&#x02010;bound oncoprotein mRNAs (Conforti <italic>et&#x000a0;al</italic>, <xref rid="bjh15969-bib-0010" ref-type="ref">2015</xref>; Culjkovic&#x02010;Kraljacic <italic>et&#x000a0;al</italic>, <xref rid="bjh15969-bib-0011" ref-type="ref">2012</xref>; Das <italic>et&#x000a0;al</italic>, <xref rid="bjh15969-bib-0012" ref-type="ref">2015</xref>; Gravina <italic>et&#x000a0;al</italic>, <xref rid="bjh15969-bib-0019" ref-type="ref">2014</xref>). Overexpression of XPO1 is essential for MM cell survival (Schmidt <italic>et&#x000a0;al</italic>, <xref rid="bjh15969-bib-0036" ref-type="ref">2013</xref>; Tiedemann <italic>et&#x000a0;al</italic>, <xref rid="bjh15969-bib-0042" ref-type="ref">2012</xref>). XPO1 mediates the functional inactivation of cell&#x02010;cycle regulators and TSPs and promotes the export and translation of mRNA for key oncoproteins, including c&#x02010;MYC, BCL&#x02010;2 and Cyclin D (Culjkovic&#x02010;Kraljacic <italic>et&#x000a0;al</italic>, <xref rid="bjh15969-bib-0011" ref-type="ref">2012</xref>; Gandhi <italic>et&#x000a0;al</italic>, <xref rid="bjh15969-bib-0017" ref-type="ref">2018</xref>; Nguyen <italic>et&#x000a0;al</italic>, <xref rid="bjh15969-bib-0028" ref-type="ref">2012</xref>). Inhibition of XPO1 with selinexor restores nuclear localization of TSPs and cell&#x02010;cycle regulators (Nair <italic>et&#x000a0;al</italic>, <xref rid="bjh15969-bib-0026" ref-type="ref">2017</xref>; Tai <italic>et&#x000a0;al</italic>, <xref rid="bjh15969-bib-0040" ref-type="ref">2014</xref>). Selinexor elevates levels of the inhibitor of kappa B (I&#x003ba;B&#x003b1;), which forms complexes with and inhibits transcription factor nuclear factor (NF)&#x003ba;B, disrupting a range of signalling pathways, including inflammation, oncogenesis and cell survival. In myeloma cells, selinexor treatment has been shown to induce apoptosis, reduce levels of proto&#x02010;oncoproteins and impair osteoclastogenesis (Das <italic>et&#x000a0;al</italic>, <xref rid="bjh15969-bib-0012" ref-type="ref">2015</xref>; Schmidt <italic>et&#x000a0;al</italic>, <xref rid="bjh15969-bib-0036" ref-type="ref">2013</xref>; Tai <italic>et&#x000a0;al</italic>, <xref rid="bjh15969-bib-0040" ref-type="ref">2014</xref>).</p><p>Preclinical studies have provided a rationale for combining selinexor with PIs (Kashyap <italic>et&#x000a0;al</italic>, <xref rid="bjh15969-bib-0020" ref-type="ref">2016</xref>; Nair <italic>et&#x000a0;al</italic>, <xref rid="bjh15969-bib-0026" ref-type="ref">2017</xref>; Rosebeck <italic>et&#x000a0;al</italic>, <xref rid="bjh15969-bib-0034" ref-type="ref">2016</xref>; Turner <italic>et&#x000a0;al</italic>, <xref rid="bjh15969-bib-0043" ref-type="ref">2016</xref>). The addition of selinexor to a PI has a synergistic effect on cell death of myeloma cell lines and primary plasma cells derived from patients with RRMM, and the combination demonstrated greater antimyeloma activity in a murine xenograft model than either agent alone (Kashyap <italic>et&#x000a0;al</italic>, <xref rid="bjh15969-bib-0020" ref-type="ref">2016</xref>; Rosebeck <italic>et&#x000a0;al</italic>, <xref rid="bjh15969-bib-0034" ref-type="ref">2016</xref>; Turner <italic>et&#x000a0;al</italic>, <xref rid="bjh15969-bib-0043" ref-type="ref">2016</xref>). Selinexor&#x02010;PI combinations were associated with inhibition of BCL2 expression, increased cleavage and inactivation of AKT, activation of caspase&#x02010;10 and other caspases, and increased levels of I&#x003ba;B&#x003b1; and I&#x003ba;B&#x003b1;&#x02010;NF&#x003ba;B complexes, leading to neutralization of NF&#x02010;&#x003ba;B (Kashyap <italic>et&#x000a0;al</italic>, <xref rid="bjh15969-bib-0020" ref-type="ref">2016</xref>; Rosebeck <italic>et&#x000a0;al</italic>, <xref rid="bjh15969-bib-0034" ref-type="ref">2016</xref>; Turner <italic>et&#x000a0;al</italic>, <xref rid="bjh15969-bib-0043" ref-type="ref">2016</xref>). NF&#x02010;&#x003ba;B activation has been shown to be a mechanism of PI resistance (L&#x000fc; &#x00026; Wang, <xref rid="bjh15969-bib-0023" ref-type="ref">2013</xref>; Markovina <italic>et&#x000a0;al</italic>, <xref rid="bjh15969-bib-0025" ref-type="ref">2008</xref>).</p><p>The clinical activity of selinexor as a single agent and as part of combination regimens has been demonstrated in heavily pre&#x02010;treated patients with RRMM (Chen <italic>et&#x000a0;al</italic>, <xref rid="bjh15969-bib-0008" ref-type="ref">2018</xref>; Vogl <italic>et&#x000a0;al</italic>, <xref rid="bjh15969-bib-0044" ref-type="ref">2018</xref>). Single&#x02010;agent selinexor was associated with modest activity in a phase I study with an objective response rate (ORR) of 4%, which improved to 50% when selinexor was combined with dexamethasone (Sd) at the twice&#x02010;weekly recommended phase 2 dose (RP2D) (Chen <italic>et&#x000a0;al</italic>, <xref rid="bjh15969-bib-0008" ref-type="ref">2018</xref>). In the subsequent phase II STORM study, the Sd combination generated ORRs of 21% for patients with quad&#x02010;refractory MM and 20% in penta&#x02010;refractory patients (Vogl <italic>et&#x000a0;al</italic>, <xref rid="bjh15969-bib-0044" ref-type="ref">2018</xref>). The addition of selinexor to bortezomib and dexamethasone (SVd) in the phase I/II STOMP study generated ORRs of 43% in a cohort with PI&#x02010;refractory RRMM (Bahlis <italic>et&#x000a0;al</italic>, <xref rid="bjh15969-bib-0001" ref-type="ref">2018</xref>).</p><p>Carfilzomib is approved for use in combination with dexamethasone for patients with RRMM (Berenson <italic>et&#x000a0;al</italic>, <xref rid="bjh15969-bib-0003" ref-type="ref">2014</xref>; Dimopoulos <italic>et&#x000a0;al</italic>, <xref rid="bjh15969-bib-0013" ref-type="ref">2016a</xref>; Siegel <italic>et&#x000a0;al</italic>, <xref rid="bjh15969-bib-0038" ref-type="ref">2012</xref>). Preclinical studies have demonstrated synergistic activity between selinexor and carfilzomib (Kashyap <italic>et&#x000a0;al</italic>, <xref rid="bjh15969-bib-0020" ref-type="ref">2016</xref>; Rosebeck <italic>et&#x000a0;al</italic>, <xref rid="bjh15969-bib-0034" ref-type="ref">2016</xref>; Turner <italic>et&#x000a0;al</italic>, <xref rid="bjh15969-bib-0043" ref-type="ref">2016</xref>), and clinical studies further support carfilzomib as a potential therapeutic partner in RRMM. Carfilzomib was active in patients with MM previously treated with or refractory to bortezomib (Berenson <italic>et&#x000a0;al</italic>, <xref rid="bjh15969-bib-0004" ref-type="ref">2016</xref>, <xref rid="bjh15969-bib-0003" ref-type="ref">2014</xref>), and the combination of carfilzomib and dexamethasone (Kd) demonstrated improved progression&#x02010;free survival (PFS) and overall survival (OS) compared with the combination of bortezomib and dexamethasone (Vd) in patients with RRMM (Dimopoulos <italic>et&#x000a0;al</italic>, <xref rid="bjh15969-bib-0015" ref-type="ref">2017</xref>, <xref rid="bjh15969-bib-0013" ref-type="ref">2016a</xref>). Here we describe a phase 1 multicentre, open&#x02010;label, investigator&#x02010;initiated study to determine the maximum tolerated dose (MTD) and the RP2D of twice&#x02010;weekly selinexor in combination with Kd in patients with RRMM, as well as safety, tolerability and preliminary efficacy.</p><sec id="bjh15969-sec-0002"><title>Methods</title><sec id="bjh15969-sec-0003"><title>Study design</title><p>This is a multicentre, open&#x02010;label, phase I study (ClinicalTrials.gov, NCT02199665). The primary objectives were to determine the MTD for the combination of twice&#x02010;weekly selinexor with Kd (SKd) in patients with RRMM, employing a 3&#x000a0;+&#x000a0;3 dose escalation design, followed by an expansion cohort to support a RP2D. Secondary objectives were to determine safety, tolerability and efficacy.</p><p>Patients aged &#x02265;18&#x000a0;years with progressive RRMM were enrolled at five Multiple Myeloma Research Consortium sites in North America. Patients were eligible provided they had been previously treated with at least two anti&#x02010;myeloma therapies, including a PI and an IMiD, had an absolute neutrophil count &#x02265;1&#x000b7;0&#x000a0;&#x000d7;&#x000a0;10<sup>9</sup>/l, a haemoglobin concentration &#x02265;80&#x000a0;g/l, a platelet count &#x02265;50&#x000a0;&#x000d7;&#x000a0;10<sup>9</sup>/l and adequate hepatic (total bilirubin &#x02264;2 times the upper limit of normal and alanine aminotransferase &#x02264;2&#x000b7;5 times the upper limit of normal) and renal function (creatinine clearance &#x02265;30&#x000a0;ml/min) within 14&#x000a0;days of treatment initiation. Patients were excluded if they had received prior selinexor or any other anticancer therapy within 2&#x000a0;weeks of treatment initiation. Concurrent anticancer therapy other than steroids was not allowed. Other exclusion criteria included unstable angina or myocardial infarction within 4&#x000a0;months of treatment initiation, New York Heart Association Class III/IV congestive heart failure, left ventricular ejection fraction &#x0003c;40%, history of severe coronary artery disease, severe uncontrolled ventricular arrhythmias or uncontrolled hypertension or uncontrolled diabetes within 14&#x000a0;days of treatment initiation. Patients with plasma cell leukaemia, Waldenstr&#x000f6;m macroglobulinaemia, POEMS (polyneuropathy, organomegaly, endocrinopathy, monoclonal protein, skin changes) syndrome or amyloidosis were also excluded.</p><p>The study was conducted in accordance with US Food and Drug Administration and International Conference on Harmonisation Guidelines for Good Clinical Practice, the Declaration of Helsinki, Health Canada, and any applicable local health authority, institutional review board or ethics committee requirements. All patients provided written informed consent.</p></sec><sec id="bjh15969-sec-0004"><title>Schedule and dosing</title><p>For the dose&#x02010;escalation phase, three patients were assigned to each cohort, beginning at Dose Level 1 (Fig&#x000a0;<xref rid="bjh15969-fig-0001" ref-type="fig">1</xref>). Selinexor, carfilzomib and dexamethasone were all administered twice weekly, and both selinexor and carfilzomib doses were escalated. Beginning at Dose Level 1, if none of the first three patients enrolled into the cohort experienced a dose&#x02010;limiting toxicity (DLT), then dose escalation proceeded to the next cohort. If any one of the three patients experienced a DLT, three more patients were added to the cohort at the same dose. If there were no additional DLTs, dose escalation proceeded to the next cohort. If two or more DLTs were observed among the initial three or expanded six patients, the dose level was considered to exceed the MTD. Because there were delays in patient accrual, the study protocol was amended to ensure that eligible patients could enrol at the time of their availability&#x02014;expansion to six patients per cohort was allowed if, at a given dose level, three patients were enrolled and no DLTs were observed but all three had not completed their first cycle of treatment. Patients who did not receive all scheduled doses (unrelated to drug toxicity) during Cycle 1 were replaced for DLT evaluation per the study protocol. Given that our patients were heavily pre&#x02010;treated with advanced disease, we anticipated that disease&#x02010;related sequalae might prevent patients from completing the dose&#x02010;escalation phase without dose interruption.</p><fig fig-type="Figure" xml:lang="en" id="bjh15969-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Treatment schema. *Once the Maximum Tolerated Dose was established, an expansion cohort of 6&#x02013;12 patients was enrolled at that dose limited to carfilzomib&#x02010;refractory patients. <sup>&#x02020;</sup>Dose Level 2a and 2b were enrolled simultaneously, alternating patients between the two dose levels. <sup>&#x02021;</sup>Carfilzomib initiated at 20&#x000a0;mg/m<sup>2</sup> on Days 1&#x02013;2 of Cycle 1 at all dose levels and then at the assigned dose level for the remainder of treatment. C, cycle; <styled-content style="fixed-case">CFZ</styled-content>, carfilzomib; dex, dexamethasone; <styled-content style="fixed-case">SEL</styled-content>, selinexor.</p></caption><graphic id="nlm-graphic-1" xlink:href="BJH-186-549-g001"/></fig><p>Once the MTD or maximum recommend dose was determined, that dose cohort was to be expanded to a total of 12 carfilzomib&#x02010;refractory patients as defined by the International Myeloma Working Group (IMWG) criteria (Rajkumar <italic>et&#x000a0;al</italic>, <xref rid="bjh15969-bib-0031" ref-type="ref">2011</xref>). If the overall DLT rate for this cohort was &#x0003c;30%, this dose would be declared the RP2D.</p><p>All patients received herpes zoster virus prophylaxis (e.g. valacyclovir) and prophylactic anti&#x02010;emetic therapy with megesterol acetate (160&#x02013;400&#x000a0;mg daily) and a 5&#x02010;hydroxytryptamine&#x02010;3 (5&#x02010;HT<sub>3</sub>) antagonist.</p></sec><sec id="bjh15969-sec-0005"><title>Assessments</title><p>Safety and tolerability were evaluated by means of drug&#x02010;related DLTs in the dose&#x02010;escalation cohorts, treatment&#x02010;emergent adverse events (AEs), physical examinations and laboratory tests. DLTs were prespecified haematological and non&#x02010;haematological toxicities that were considered treatment&#x02010;related and occurred during Cycle 1. Haematological DLTs were: febrile neutropenia; grade 4 neutropenia lasting &#x0003e;7&#x000a0;days; grade 4 thrombocytopenia lasting &#x0003e;7&#x000a0;days despite dose delay; and grade 3/4 thrombocytopenia associated with bleeding. Non&#x02010;haematological DLTs were: grade &#x02265;2 neuropathy and any grade &#x02265;3 toxicity (lasting for &#x02265;3&#x000a0;days for gastrointestinal events and &#x0003e;7&#x000a0;days for fatigue or anorexia) despite maximal supportive care except for electrolyte abnormalities, hair loss and elevation of alanine aminotransferase or aspartate aminotransferase. Dose modifications were allowed, but any treatment toxicities that required a dose reduction during Cycle 1, or any toxicities that delayed initiation of Cycle 2 by &#x0003e;7&#x000a0;days were also considered DLTs.</p><p>Treatment&#x02010;emergent AEs were graded according to the National Cancer Institute&#x02010;Common Terminology Criteria for Adverse Events v4.0 (National Cancer Institute <xref rid="bjh15969-bib-0027" ref-type="ref">2010</xref>). Patients that discontinued treatment underwent a final assessment at 28&#x000a0;days after the last dose of a study drug. Patients were followed for survival for up to 2&#x000a0;years after the end of treatment.</p><p>Efficacy measures included response according to the IMWG criteria (Durie <italic>et&#x000a0;al</italic>, <xref rid="bjh15969-bib-0016" ref-type="ref">2006</xref>; Rajkumar <italic>et&#x000a0;al</italic>, <xref rid="bjh15969-bib-0031" ref-type="ref">2011</xref>)&#x02014;progressive disease (PD), stable disease (SD), minimal response (MR), partial response (PR), very good partial response (VGPR), complete response (CR) and stringent complete response (sCR). Response assessments were completed at Cycle 2 Day 1 and Day 1 of subsequent cycles. All response criteria required confirmation with two consecutive assessments.</p></sec><sec id="bjh15969-sec-0006"><title>Statistical analysis</title><p>Continuous and categorical variables were summarized with descriptive statistics. ORR (&#x02265;PR) and a clinical benefit rate (CBR; &#x02265;MR) were estimated, and 90% confidence intervals (CIs) were generated for the RP2D cohort. If the data deviated strongly from normality as judged by boxplots and normal probability plots, non&#x02010;parametric, Wilcoxon signed&#x02010;rank tests were performed in place of <italic>t</italic>&#x02010;tests. Given the small sample size, multiplicity adjustments were not made to the alpha levels; these analyses were considered exploratory and hypothesis&#x02010;generating only. Time&#x02010;to&#x02010;event endpoints were assessed by the Kaplan&#x02013;Meier method using GraphPad Prism 7.03 software (La Jolla, CA, USA).</p></sec></sec><sec id="bjh15969-sec-0007"><title>Results</title><p>Twenty&#x02010;one patients with RRMM were enrolled between July 2014 and September 2016. The data cut&#x02010;off for this analysis was 1 September 2017. Patients were aged between 55 and 74&#x000a0;years, 43% were &#x02265;65&#x000a0;years of age (Table&#x000a0;<xref rid="bjh15969-tbl-0001" ref-type="table">1</xref>). The median time since the initial MM diagnosis was 4&#x000b7;5&#x000a0;years. Twelve (57%) patients were identified as high risk per IMWG criteria, including 5 (24%) with del (17p). Patients received a median of 4 (range, 2&#x02013;10) prior lines of therapy. Previous treatments included carfilzomib (95%) and pomalidomide (81%) (Table&#x000a0;<xref rid="bjh15969-tbl-0002" ref-type="table">2</xref>). All patients (100%) were refractory to last line of therapy, including 13 (62%) who were refractory to carfilzomib (4 to carfilzomib/dexamethasone, 9 to carfilzomib/pomalidomide/dexamethasone). Seventeen (81%) patients were dual&#x02010;class refractory (refractory to a PI and an IMiD) and quad&#x02010;exposed (bortezomib, carfilzomib, lenalidomide and pomalidomide). Baseline characteristics and prior therapies by dose level are presented in Tables&#x000a0;<xref rid="bjh15969-sup-0001" ref-type="supplementary-material">SI</xref> and <xref rid="bjh15969-sup-0001" ref-type="supplementary-material">SII</xref>.</p><table-wrap id="bjh15969-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Patient characteristics</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Characteristic</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic>N</italic>&#x000a0;=&#x000a0;21</th></tr></thead><tbody><tr><td align="left" colspan="2" rowspan="1">Age</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Median years (range)</td><td align="left" rowspan="1" colspan="1">64 (55&#x02013;74)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x02265;65&#x000a0;years, <italic>n</italic> (%)</td><td align="left" rowspan="1" colspan="1">9 (43)</td></tr><tr><td align="left" colspan="2" rowspan="1">Sex, <italic>n</italic> (%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Male</td><td align="left" rowspan="1" colspan="1">11 (52)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Female</td><td align="left" rowspan="1" colspan="1">10 (48)</td></tr><tr><td align="left" rowspan="1" colspan="1">Time since diagnosis, median (range), years</td><td align="left" rowspan="1" colspan="1">4&#x000b7;5 (1&#x000b7;6&#x02013;11&#x000b7;7)</td></tr><tr><td align="left" colspan="2" rowspan="1">ECOG performance status, <italic>n</italic> (%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">13 (62)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">8 (38)</td></tr><tr><td align="left" colspan="2" rowspan="1">ISS stage, <italic>n</italic> (%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">I</td><td align="left" rowspan="1" colspan="1">2 (10)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">II</td><td align="left" rowspan="1" colspan="1">7 (33)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">III</td><td align="left" rowspan="1" colspan="1">4 (19)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Unknown</td><td align="left" rowspan="1" colspan="1">8 (38)</td></tr><tr><td align="left" colspan="2" rowspan="1">Cytogenetic risk per IMWG, <italic>n</italic> (%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">High<xref ref-type="fn" rid="bjh15969-note-0002">&#x02020;</xref>
+</td><td align="left" rowspan="1" colspan="1">12 (57)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Deletion 17p</td><td align="left" rowspan="1" colspan="1">5 (24)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Standard</td><td align="left" rowspan="1" colspan="1">9 (43)</td></tr></tbody></table><table-wrap-foot><fn id="bjh15969-note-0001"><p>ECOG, Eastern Cooperative Oncology Group; IMWG, International Myeloma Working Group; ISS, International Staging System.</p></fn><fn id="bjh15969-note-0002"><label>&#x02020;</label><p>Defined per IMWG: t(4;14), del(17p), t(14;16), t(14;20), non&#x02010;hyperdiploidy and gain(1q).</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><table-wrap id="bjh15969-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Prior therapies</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Prior therapy</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic>N</italic>&#x000a0;=&#x000a0;21</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Prior lines of therapy, median (range)</td><td align="left" rowspan="1" colspan="1">4 (2&#x02013;10)</td></tr><tr><td align="left" rowspan="1" colspan="1">Prior PIs, <italic>n</italic> (%)</td><td align="left" rowspan="1" colspan="1">21 (100)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Carfilzomib</td><td align="left" rowspan="1" colspan="1">20 (95)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Bortezomib</td><td align="left" rowspan="1" colspan="1">20 (95)</td></tr><tr><td align="left" rowspan="1" colspan="1">Prior IMiDs, <italic>n</italic> (%)</td><td align="left" rowspan="1" colspan="1">21 (100)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Lenalidomide</td><td align="left" rowspan="1" colspan="1">20 (95)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Pomalidomide</td><td align="left" rowspan="1" colspan="1">17 (81)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Thalidomide</td><td align="left" rowspan="1" colspan="1">4 (19)</td></tr><tr><td align="left" rowspan="1" colspan="1">Other prior therapies, <italic>n</italic> (%)</td><td align="left" rowspan="1" colspan="1">20 (95)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Autologous stem&#x02010;cell transplantation</td><td align="left" rowspan="1" colspan="1">20 (95)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Panobinostat</td><td align="left" rowspan="1" colspan="1">2 (10)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Daratumumab</td><td align="left" rowspan="1" colspan="1">1 (5)</td></tr><tr><td align="left" rowspan="1" colspan="1">Refractory to prior therapy, <italic>n</italic> (%)</td><td align="left" rowspan="1" colspan="1">21 (100)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Carfilzomib</td><td align="left" rowspan="1" colspan="1">20 (95)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Bortezomib</td><td align="left" rowspan="1" colspan="1">11 (52)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Pomalidomide</td><td align="left" rowspan="1" colspan="1">17 (81)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Lenalidomide</td><td align="left" rowspan="1" colspan="1">14 (67)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Dual&#x02010;class refractory/quad&#x02010;exposed<xref ref-type="fn" rid="bjh15969-note-0004">&#x02020;</xref>
+</td><td align="left" rowspan="1" colspan="1">17 (81)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Triple&#x02010;class refractory/penta&#x02010;exposed<xref ref-type="fn" rid="bjh15969-note-0005">&#x02021;</xref>
+</td><td align="left" rowspan="1" colspan="1">1 (5)</td></tr><tr><td align="left" rowspan="1" colspan="1">Refractory in last line of therapy, <italic>n</italic> (%)</td><td align="left" rowspan="1" colspan="1">21 (100)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Carfilzomib</td><td align="left" rowspan="1" colspan="1">13 (62)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Pomalidomide</td><td align="left" rowspan="1" colspan="1">11 (52)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Carfilzomib and pomalidomide</td><td align="left" rowspan="1" colspan="1">9 (43)</td></tr></tbody></table><table-wrap-foot><fn id="bjh15969-note-0003"><p>IMiD, immunomodulatory drug; PI, proteasome inhibitor.</p></fn><fn id="bjh15969-note-0004"><label>&#x02020;</label><p>Refractory to a PI and an IMiD; exposed to bortezomib, lenalidomide, carfilzomib and pomalidomide.</p></fn><fn id="bjh15969-note-0005"><label>&#x02021;</label><p>Refractory to a PI, an IMiD and an anti&#x02010;CD38 antibody; exposed to bortezomib, lenalidomide, carfilzomib, pomalidomide and daratumumab.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><p>Of the 21 patients enrolled, 18 were evaluable for DLTs (received one full course of treatment or stopped treatment due to a DLT). All 21 patients were included in overall toxicity, survival and response assessments. One patient with a history of congestive heart failure (CHF) was retrospectively determined to be ineligible due to pre&#x02010;existing amyloidosis which was unknown at study entry. This patient enrolled in the dose&#x02010;escalation phase of the study and was included in safety and efficacy assessments.</p><p>At data cut&#x02010;off, the median duration of treatment was 4 cycles (range, 1&#x02013;14 cycles), with 20 (95%) patients completing at least 1 cycle and 11 (52%) completing at least 4 cycles. Twenty patients discontinued the study due to disease progression (17 [81%]), patient or physician's choice (1 [5%]) and treatment toxicities (2 [10%]).</p><sec id="bjh15969-sec-0008"><title>Determination of the MTD</title><p>During the course of Cycle 1, there were no DLTs at Dose Level 1 (30&#x000a0;mg/m<sup>2</sup> selinexor; 20/27&#x000a0;mg/m<sup>2</sup> carfilzomib; 20&#x000a0;mg dexamethasone). Two patients in the Dose Level 1 cohort did not receive all scheduled treatment doses (i.e. dose modifications unrelated to toxicity) and were replaced per the study protocol, resulting in a total of five patients in this cohort. There were no DLTs in three patients enrolled at Dose Level 2a (40&#x000a0;mg selinexor; 20/36&#x000a0;mg/m<sup>2</sup> carfilzomib; 20&#x000a0;mg dexamethasone). A DLT was experienced by one of the first three patients enrolled at Dose Level 2b (60&#x000a0;mg selinexor; 20/27&#x000a0;mg/m<sup>2</sup> carfilzomib; 20&#x000a0;mg dexamethasone); the patient with a history of CHF who retrospectively was found to have cardiac amyloidosis experienced cardiac failure during Cycle 1. Therefore, three additional patients were assigned to the cohort. One patient did not receive all scheduled doses (unrelated to toxicity) and was replaced, resulting in a total of seven patients for Dose Level 2b, with no additional DLTs during the dose escalation stage.</p><p>Further dose escalation was not pursued based on AE rates, tolerability and anti&#x02010;myeloma activity. Assessment by dose level showed rapid disease control at all dose levels but no notable trend in the rate or depth of response to support further escalation, while rates of some AEs increased after Cycle 1, as did dose reduction. In the safety population, the rate of grade 3/4 anaemia was 5% during Cycle 1 but increased to 33% after Cycle 1. In the dose escalation cohorts, dose reductions were required by 80% (4/5) of patients enrolled at Dose Level 1, 100% (3/3) at Dose Level 2A, and 29% (2/7) at Dose Level 2b (Table&#x000a0;<xref rid="bjh15969-sup-0001" ref-type="supplementary-material">SIII</xref>). Based on these findings and previous experience with selinexor (Bahlis <italic>et&#x000a0;al</italic>, <xref rid="bjh15969-bib-0001" ref-type="ref">2018</xref>; Chen <italic>et&#x000a0;al</italic>, <xref rid="bjh15969-bib-0008" ref-type="ref">2018</xref>; Vogl <italic>et&#x000a0;al</italic>, <xref rid="bjh15969-bib-0044" ref-type="ref">2018</xref>), Dose Level 2b was selected as the maximum recommended dose and selected for expansion. Six additional patients were enrolled into the Dose Level 2b cohort for a total of 13 patients, of whom 12 were carfilzomib&#x02010;refractory. Among these 6 patients, there were 2 DLTs during Cycle 1 (grade 3 diarrhoea and grade 3 decrease in platelet count), yielding a DLT rate of 25% for the 12 patients who completed 1 cycle of Dose Level 2b (below the predefined limit of 30%). Dose Level 2b was selected as the RP2D.</p></sec><sec id="bjh15969-sec-0009"><title>Safety</title><p>In the 21 enrolled patients, the most commonly observed treatment&#x02010;emergent adverse events (TEAEs) of any grade were thrombocytopenia (81%), fatigue (81%) and anaemia (71%). The most frequently observed grade 3/4 haematological TEAEs were thrombocytopenia (71%), anaemia (33%), lymphopenia (33%) and neutropenia (33%), and the most common grade 3/4 non&#x02010;haematological TEAEs included infections (24%), fatigue (14%), diarrhoea (10%), eye disorders (10%), musculoskeletal disorders (10%) and elevated liver enzymes (10%). Decreased appetite, weight loss and anorexia occurred in 5%, 5% and 29% of patients, respectively, and all were grade 1/2 in severity. Table&#x000a0;<xref rid="bjh15969-tbl-0003" ref-type="table">3</xref> summarises TEAEs overall and by dose level. Serious AEs included upper&#x02010;respiratory tract infection (<italic>n</italic>&#x000a0;=&#x000a0;3), urinary tract infection (<italic>n</italic>&#x000a0;=&#x000a0;2), mastoid osteomyelitis (<italic>n</italic>&#x000a0;=&#x000a0;2), upper gastrointestinal (GI) bleeding (<italic>n</italic>&#x000a0;=&#x000a0;1; deemed unrelated to treatment with a platelet count of 167&#x000a0;&#x000d7;&#x000a0;10<sup>9</sup>/l at the time of the event), syncope (<italic>n</italic>&#x000a0;=&#x000a0;1), deep vein thrombosis and pulmonary embolism (<italic>n</italic>&#x000a0;=&#x000a0;1), pain related to PD (<italic>n</italic>&#x000a0;=&#x000a0;1) and CHF with ejection fraction decrease (<italic>n</italic>&#x000a0;=&#x000a0;1) considered related to carfilzomib treatment in the patient with a history of CHF and who retrospectively did not meet eligibility criteria due to amyloidosis.</p><table-wrap id="bjh15969-tbl-0003" xml:lang="en" orientation="portrait" position="float"><label>Table 3</label><caption><p>Treatment&#x02010;emergent adverse events</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="3" valign="top" colspan="1">&#x000a0;</th><th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">
+Overall<break/>
+<italic>N</italic>&#x000a0;=&#x000a0;21
+</th><th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">
+Dose Level 1<break/>
+30&#x000a0;mg/m<sup>2</sup> SEL;<break/>
+20/27&#x000a0;mg/m<sup>2</sup> CFZ;<break/>
+20&#x000a0;mg DEX<break/>
+<italic>n</italic>&#x000a0;=&#x000a0;5
+</th><th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">
+Dose Level 2a<break/>
+40&#x000a0;mg SEL;<break/>
+20/36&#x000a0;mg/m<sup>2</sup> CFZ;<break/>
+20&#x000a0;mg DEX<break/>
+<italic>n</italic>&#x000a0;=&#x000a0;3
+</th><th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">
+Dose Level 2b<xref ref-type="fn" rid="bjh15969-note-0007">&#x02020;</xref>
+<break/>
+60&#x000a0;mg SEL;<break/>
+20/27&#x000a0;mg/m<sup>2</sup> CFZ;<break/>
+20&#x000a0;mg DEX<break/>
+<italic>n</italic>&#x000a0;=&#x000a0;13
+</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">All Grades</th><th align="left" valign="top" rowspan="1" colspan="1">Grades 3/4</th><th align="left" valign="top" rowspan="1" colspan="1">All Grades</th><th align="left" valign="top" rowspan="1" colspan="1">Grades 3/4</th><th align="left" valign="top" rowspan="1" colspan="1">All Grades</th><th align="left" valign="top" rowspan="1" colspan="1">Grades 3/4</th><th align="left" valign="top" rowspan="1" colspan="1">All Grades</th><th align="left" valign="top" rowspan="1" colspan="1">Grades 3/4</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">
+<italic>n</italic> (%)</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic>n</italic> (%)</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic>n</italic> (%)</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic>n</italic> (%)</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic>n</italic> (%)</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic>n</italic> (%)</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic>n</italic> (%)</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic>n</italic> (%)</th></tr></thead><tbody><tr><td align="left" colspan="9" rowspan="1">Haematological</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Thrombocytopenia</td><td align="left" rowspan="1" colspan="1">17 (81)</td><td align="left" rowspan="1" colspan="1">15 (71)</td><td align="left" rowspan="1" colspan="1">4 (80)</td><td align="left" rowspan="1" colspan="1">4 (80)</td><td align="left" rowspan="1" colspan="1">3 (100)</td><td align="left" rowspan="1" colspan="1">3 (100)</td><td align="left" rowspan="1" colspan="1">10 (77)</td><td align="left" rowspan="1" colspan="1">8 (62)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Anaemia</td><td align="left" rowspan="1" colspan="1">15 (71)</td><td align="left" rowspan="1" colspan="1">7 (33)</td><td align="left" rowspan="1" colspan="1">4 (80)</td><td align="left" rowspan="1" colspan="1">2 (40)</td><td align="left" rowspan="1" colspan="1">2 (67)</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">9 (69)</td><td align="left" rowspan="1" colspan="1">5 (38)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Lymphopenia</td><td align="left" rowspan="1" colspan="1">11 (52)</td><td align="left" rowspan="1" colspan="1">7 (33)</td><td align="left" rowspan="1" colspan="1">3 (60)</td><td align="left" rowspan="1" colspan="1">2 (40)</td><td align="left" rowspan="1" colspan="1">1 (33)</td><td align="left" rowspan="1" colspan="1">1 (33)</td><td align="left" rowspan="1" colspan="1">7 (54)</td><td align="left" rowspan="1" colspan="1">4 (31)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Neutropenia</td><td align="left" rowspan="1" colspan="1">8 (38)</td><td align="left" rowspan="1" colspan="1">7 (33)</td><td align="left" rowspan="1" colspan="1">3 (60)</td><td align="left" rowspan="1" colspan="1">3 (60)</td><td align="left" rowspan="1" colspan="1">2 (67)</td><td align="left" rowspan="1" colspan="1">2 (67)</td><td align="left" rowspan="1" colspan="1">3 (23)</td><td align="left" rowspan="1" colspan="1">2 (15)</td></tr><tr><td align="left" colspan="9" rowspan="1">Non&#x02010;haematological</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Fatigue</td><td align="left" rowspan="1" colspan="1">17 (81)</td><td align="left" rowspan="1" colspan="1">3 (14)</td><td align="left" rowspan="1" colspan="1">4 (80)</td><td align="left" rowspan="1" colspan="1">3 (60)</td><td align="left" rowspan="1" colspan="1">3 (100)</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">10 (77)</td><td align="left" rowspan="1" colspan="1">0</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Dyspnoea</td><td align="left" rowspan="1" colspan="1">11 (52)</td><td align="left" rowspan="1" colspan="1">1 (5)</td><td align="left" rowspan="1" colspan="1">3 (60)</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">3 (100)</td><td align="left" rowspan="1" colspan="1">1 (33)</td><td align="left" rowspan="1" colspan="1">5 (38)</td><td align="left" rowspan="1" colspan="1">0</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Nausea</td><td align="left" rowspan="1" colspan="1">11 (52)</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">4 (80)</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">2 (67)</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">5 (38)</td><td align="left" rowspan="1" colspan="1">0</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Diarrhoea</td><td align="left" rowspan="1" colspan="1">10 (48)</td><td align="left" rowspan="1" colspan="1">2 (10)</td><td align="left" rowspan="1" colspan="1">2 (40)</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">2 (67)</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">6 (46)</td><td align="left" rowspan="1" colspan="1">2 (15)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Musculoskeletal disorders</td><td align="left" rowspan="1" colspan="1">8 (38)</td><td align="left" rowspan="1" colspan="1">2 (10)</td><td align="left" rowspan="1" colspan="1">4 (80)</td><td align="left" rowspan="1" colspan="1">2 (40)</td><td align="left" rowspan="1" colspan="1">1 (33)</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">3 (23)</td><td align="left" rowspan="1" colspan="1">0</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Eye disorders</td><td align="left" rowspan="1" colspan="1">7 (33)</td><td align="left" rowspan="1" colspan="1">2 (10)</td><td align="left" rowspan="1" colspan="1">3 (60)</td><td align="left" rowspan="1" colspan="1">1 (20)</td><td align="left" rowspan="1" colspan="1">2 (67)</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">2 (15)</td><td align="left" rowspan="1" colspan="1">1 (8)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Infection</td><td align="left" rowspan="1" colspan="1">6 (29)</td><td align="left" rowspan="1" colspan="1">5 (24)</td><td align="left" rowspan="1" colspan="1">1 (20)</td><td align="left" rowspan="1" colspan="1">1 (20)</td><td align="left" rowspan="1" colspan="1">1 (33)</td><td align="left" rowspan="1" colspan="1">1 (33)</td><td align="left" rowspan="1" colspan="1">4 (31)</td><td align="left" rowspan="1" colspan="1">3 (23)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Anorexia</td><td align="left" rowspan="1" colspan="1">6 (29)</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">3 (60)</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">3 (23)</td><td align="left" rowspan="1" colspan="1">0</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Elevated liver and pancreatic enzymes</td><td align="left" rowspan="1" colspan="1">8 (38)</td><td align="left" rowspan="1" colspan="1">2 (10)</td><td align="left" rowspan="1" colspan="1">4 (80)</td><td align="left" rowspan="1" colspan="1">1 (20)</td><td align="left" rowspan="1" colspan="1">1 (33)</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">3 (23)</td><td align="left" rowspan="1" colspan="1">1 (8)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Vomiting</td><td align="left" rowspan="1" colspan="1">5 (24)</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">2 (40)</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">3 (23)</td><td align="left" rowspan="1" colspan="1">0</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Oedema</td><td align="left" rowspan="1" colspan="1">4 (19)</td><td align="left" rowspan="1" colspan="1">1 (5)</td><td align="left" rowspan="1" colspan="1">2 (40)</td><td align="left" rowspan="1" colspan="1">1 (20)</td><td align="left" rowspan="1" colspan="1">1 (33)</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">1 (8)</td><td align="left" rowspan="1" colspan="1">0</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Hyponatraemia</td><td align="left" rowspan="1" colspan="1">2 (10)</td><td align="left" rowspan="1" colspan="1">1 (5)</td><td align="left" rowspan="1" colspan="1">1 (20)</td><td align="left" rowspan="1" colspan="1">1 (20)</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">1 (8)</td><td align="left" rowspan="1" colspan="1">0</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Confusion</td><td align="left" rowspan="1" colspan="1">2 (10)</td><td align="left" rowspan="1" colspan="1">1 (5)</td><td align="left" rowspan="1" colspan="1">1 (20)</td><td align="left" rowspan="1" colspan="1">1 (20)</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">1 (8)</td><td align="left" rowspan="1" colspan="1">0</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Decreased appetite</td><td align="left" rowspan="1" colspan="1">1 (5)</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">1 (33)</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Weight loss</td><td align="left" rowspan="1" colspan="1">1 (5)</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">1 (33)</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Psychosis</td><td align="left" rowspan="1" colspan="1">1 (5)</td><td align="left" rowspan="1" colspan="1">1 (5)</td><td align="left" rowspan="1" colspan="1">1 (20)</td><td align="left" rowspan="1" colspan="1">1 (20)</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Syncope</td><td align="left" rowspan="1" colspan="1">1 (5)</td><td align="left" rowspan="1" colspan="1">1 (5)</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">1 (8)</td><td align="left" rowspan="1" colspan="1">1 (8)</td></tr></tbody></table><table-wrap-foot><fn id="bjh15969-note-0006"><p>CFZ, carfilzomib; DEX, dexamethasone; SEL, selinexor.</p></fn><fn id="bjh15969-note-0007"><label>&#x02020;</label><p>Recommended phase 2 dose.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><p>Dose modifications included new cycle delays for 11 (52%) patients, dose interruptions for 17 (80%) and dose reductions for 13 (62%). Dose modification was needed for selinexor in 15 (71%) patients, for carfilzomib in 11 (52%) and for dexamethasone in 7 (33%). Treatment was discontinued in two patients due to toxicity, which included a patient with a urinary tract infection and the patient with the pre&#x02010;existing amyloidosis who experienced CHF (the latter was considered treatment&#x02010;related). Two patients experienced progressive myeloma while treatment was on hold because of AEs (pneumonia and cytopenias, respectively).</p></sec><sec id="bjh15969-sec-0010"><title>Response and treatment outcomes</title><p>Most patients achieved disease control after 1 cycle (CBR of 67% and ORR of 38%). For best response during the course of treatment, the CBR was 71%, ORR was 48% and the VGPR rate was 14% (Table&#x000a0;<xref rid="bjh15969-tbl-0004" ref-type="table">4</xref>). There were no CRs. The patient with pre&#x02010;existing amyloidosis who experienced a DLT discontinued SKd prior to response evaluation; this was considered a non&#x02010;response. For patients receiving the RP2D (<italic>n</italic>&#x000a0;=&#x000a0;13), CBR was 62% (90% CI: 0&#x000b7;36&#x02013;0&#x000b7;83), ORR was 38% (90% CI: 0&#x000b7;17&#x02013;0&#x000b7;65) and the rate of VGPR was 15% (90% CI: 0&#x000b7;03&#x02013;0&#x000b7;41); two additional patients achieved SD. For dual&#x02010;refractory/quad&#x02010;exposed patients (<italic>n</italic>&#x000a0;=&#x000a0;17), the CBR was 76%, ORR was 53% and the VGPR rate was 18%, and for patients who were refractory to carfilzomib in last line of therapy (<italic>n</italic>&#x000a0;=&#x000a0;13), the corresponding values were 77%, 62% and 15%. The one patient who was tri&#x02010;refractory/penta&#x02010;exposed achieved VGPR.</p><table-wrap id="bjh15969-tbl-0004" xml:lang="en" orientation="portrait" position="float"><label>Table 4</label><caption><p>Response rates</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">&#x000a0;</th><th align="left" valign="top" rowspan="1" colspan="1">Overall</th><th align="left" valign="top" rowspan="1" colspan="1">
+Dose Level 1<break/>
+30&#x000a0;mg/m<sup>2</sup> SEL;<break/>
+20/27&#x000a0;mg/m<sup>2</sup> CFZ;<break/>
+20&#x000a0;mg DEX
+</th><th align="left" valign="top" rowspan="1" colspan="1">
+Dose Level 2a<break/>
+40&#x000a0;mg SEL;<break/>
+20/36&#x000a0;mg/m<sup>2</sup> CFZ;<break/>
+20&#x000a0;mg DEX
+</th><th align="left" valign="top" rowspan="1" colspan="1">
+Dose Level 2b<xref ref-type="fn" rid="bjh15969-note-0009">&#x02020;</xref>
+<break/>
+60&#x000a0;mg SEL;<break/>
+20/27&#x000a0;mg/m<sup>2</sup> CFZ;<break/>
+20&#x000a0;mg DEX
+</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Best response, <italic>n</italic> (%)</td><td align="left" rowspan="1" colspan="1">
+<italic>N</italic>&#x000a0;=&#x000a0;21</td><td align="left" rowspan="1" colspan="1">
+<italic>n</italic>&#x000a0;=&#x000a0;5</td><td align="left" rowspan="1" colspan="1">
+<italic>n</italic>&#x000a0;=&#x000a0;3</td><td align="left" rowspan="1" colspan="1">
+<italic>n</italic>&#x000a0;=&#x000a0;13</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Complete response</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Very good partial response</td><td align="left" rowspan="1" colspan="1">3 (14)</td><td align="left" rowspan="1" colspan="1">1 (20)</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">2 (15)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Partial response</td><td align="left" rowspan="1" colspan="1">7 (33)</td><td align="left" rowspan="1" colspan="1">2 (40)</td><td align="left" rowspan="1" colspan="1">2 (67)</td><td align="left" rowspan="1" colspan="1">3 (23)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Minimal response</td><td align="left" rowspan="1" colspan="1">5 (24)</td><td align="left" rowspan="1" colspan="1">1 (20)</td><td align="left" rowspan="1" colspan="1">1 (33)</td><td align="left" rowspan="1" colspan="1">3 (23)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Stable disease</td><td align="left" rowspan="1" colspan="1">2 (10)</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">2 (15)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Progressive disease</td><td align="left" rowspan="1" colspan="1">3 (14)</td><td align="left" rowspan="1" colspan="1">1 (20)</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">2 (15)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Non&#x02010;response<xref ref-type="fn" rid="bjh15969-note-0010">&#x02021;</xref>
+</td><td align="left" rowspan="1" colspan="1">1 (5)</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">1 (8)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">ORR, <italic>n</italic> (%)</td><td align="left" rowspan="1" colspan="1">10 (48)</td><td align="left" rowspan="1" colspan="1">3 (60)</td><td align="left" rowspan="1" colspan="1">2 (67)</td><td align="left" rowspan="1" colspan="1">5 (38)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">CBR, <italic>n</italic> (%)</td><td align="left" rowspan="1" colspan="1">15 (71)</td><td align="left" rowspan="1" colspan="1">4 (80)</td><td align="left" rowspan="1" colspan="1">3 (100)</td><td align="left" rowspan="1" colspan="1">8 (62)</td></tr><tr><td align="left" rowspan="1" colspan="1">Carfilzomib refractory in last line of therapy<xref ref-type="fn" rid="bjh15969-note-0011">&#x000a7;</xref>, <italic>n</italic> (%)</td><td align="left" rowspan="1" colspan="1">
+<italic>n</italic>&#x000a0;=&#x000a0;13</td><td align="left" rowspan="1" colspan="1">
+<italic>n</italic>&#x000a0;=&#x000a0;4</td><td align="left" rowspan="1" colspan="1">
+<italic>n</italic>&#x000a0;=&#x000a0;2</td><td align="left" rowspan="1" colspan="1">
+<italic>n</italic>&#x000a0;=&#x000a0;7</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Very good partial response</td><td align="left" rowspan="1" colspan="1">2 (15)</td><td align="left" rowspan="1" colspan="1">1 (25)</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">1 (14)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">ORR</td><td align="left" rowspan="1" colspan="1">8 (62)</td><td align="left" rowspan="1" colspan="1">3 (75)</td><td align="left" rowspan="1" colspan="1">2 (100)</td><td align="left" rowspan="1" colspan="1">3 (43)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">CBR</td><td align="left" rowspan="1" colspan="1">10 (77)</td><td align="left" rowspan="1" colspan="1">3 (75)</td><td align="left" rowspan="1" colspan="1">2 (100)</td><td align="left" rowspan="1" colspan="1">5 (71)</td></tr><tr><td align="left" rowspan="1" colspan="1">Dual class refractory/quad exposed<xref ref-type="fn" rid="bjh15969-note-0012">&#x000b6;</xref>, <italic>n</italic> (%)</td><td align="left" rowspan="1" colspan="1">
+<italic>n</italic>&#x000a0;=&#x000a0;17</td><td align="left" rowspan="1" colspan="1">
+<italic>n</italic>&#x000a0;=&#x000a0;4</td><td align="left" rowspan="1" colspan="1">
+<italic>n</italic>&#x000a0;=&#x000a0;3</td><td align="left" rowspan="1" colspan="1">
+<italic>n</italic>&#x000a0;=&#x000a0;10</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Very good partial response</td><td align="left" rowspan="1" colspan="1">3 (18)</td><td align="left" rowspan="1" colspan="1">1 (25)</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">2 (20)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">ORR</td><td align="left" rowspan="1" colspan="1">9 (53)</td><td align="left" rowspan="1" colspan="1">3 (75)</td><td align="left" rowspan="1" colspan="1">2 (67)</td><td align="left" rowspan="1" colspan="1">4 (40)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">CBR</td><td align="left" rowspan="1" colspan="1">13 (76)</td><td align="left" rowspan="1" colspan="1">4 (100)</td><td align="left" rowspan="1" colspan="1">3 (100)</td><td align="left" rowspan="1" colspan="1">6 (60)</td></tr></tbody></table><table-wrap-foot><fn id="bjh15969-note-0008"><p>CBR, clinical benefit rate (&#x02265;minimal response); CFZ, carfilzomib; DEX, dexamethasone; DLT, dose&#x02010;limiting toxicity; IMiD, immunomodulatory drug; ORR, objective response rate (&#x02265;partial response); PI, proteasome inhibitor; RP2D, recommended phase 2 dose; SEL, selinexor; VGPR, very good partial response.</p></fn><fn id="bjh15969-note-0009"><label>&#x02020;</label><p>Recommended phase 2 dose.</p></fn><fn id="bjh15969-note-0010"><label>&#x02021;</label><p>Patient was not evaluable due to a DLT that resulted in treatment discontinuation prior to response evaluation.</p></fn><fn id="bjh15969-note-0011"><label>&#x000a7;</label><p>Refractory to carfilzomib at &#x02265;20&#x000a0;mg/m<sup>2</sup> on twice&#x02010;weekly schedule (i.e. on Days 1, 2, 8, 9, 15 and 16).</p></fn><fn id="bjh15969-note-0012"><label>&#x000b6;</label><p>Refractory to PI and IMiD/exposed to bortezomib, lenalidomide, carfilzomib and pomalidomide.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><p>Durability and depth of responses are presented in Fig.&#x000a0;<xref rid="bjh15969-fig-0002" ref-type="fig">2</xref>. The median duration of response for patients who achieved &#x02265;MR and &#x02265;PR were 2&#x000b7;9 and 3&#x000b7;4&#x000a0;months, respectively, for all response&#x02010;evaluable patients, 3&#x000b7;1 and 3&#x000b7;0&#x000a0;months for the RP2D cohort, 2&#x000b7;8 and 3&#x000b7;3&#x000a0;months for the carfilzomib&#x02010;refractory cohort and 3&#x000b7;1 and 3&#x000b7;0&#x000a0;months for the high&#x02010;risk cohort.</p><fig fig-type="Figure" xml:lang="en" id="bjh15969-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Depth and duration of response in evaluable patients (<italic>n</italic>&#x000a0;=&#x000a0;20). (A) Change in M&#x02010;protein relative to baseline. *Increase &#x0003e;100%. One patient with dose&#x02010;limiting toxicity that resulted in treatment discontinuation prior to response evaluation was not included. (B) Duration of response. Three patients had <styled-content style="fixed-case">PD</styled-content> at first response assessment and were not included; two patients remained in <styled-content style="fixed-case">SD</styled-content> and were not included; one patient with dose&#x02010;limiting toxicity that resulted in treatment discontinuation prior to response evaluation was not included. <styled-content style="fixed-case">DL</styled-content>, dose level; <styled-content style="fixed-case">MR</styled-content>, minimal response; <styled-content style="fixed-case">PD</styled-content>, progressive disease; <styled-content style="fixed-case">PR</styled-content>, partial response; <styled-content style="fixed-case">SD</styled-content>, stable disease; <styled-content style="fixed-case">VGPR</styled-content>, very good partial response.</p></caption><graphic id="nlm-graphic-3" xlink:href="BJH-186-549-g002"/></fig><p>Median PFS and OS were 3&#x000b7;7 and 22&#x000b7;4&#x000a0;months, respectively, for all enrolled patients (Fig.&#x000a0;<xref rid="bjh15969-fig-0003" ref-type="fig">3</xref>), 3&#x000b7;7 and 22&#x000b7;4&#x000a0;months for the carfilzomib&#x02010;refractory cohort and 3&#x000b7;0 and 22&#x000b7;4&#x000a0;months for the high&#x02010;risk cohort. Median PFS and OS were 3&#x000b7;5 and 22&#x000b7;4&#x000a0;months for the R2PD cohort and 3&#x000b7;7 and 23&#x000b7;2&#x000a0;months for the patients enrolled at Dose Level 1 or 2a.</p><fig fig-type="Figure" xml:lang="en" id="bjh15969-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Kaplan&#x02013;Meier estimated progression&#x02010;free survival (A) and overall survival (B) in all patients (<italic>N</italic>&#x000a0;=&#x000a0;21) and by International Myeloma Working Group &#x02010;risk status and dose level. <styled-content style="fixed-case">DL</styled-content>, dose level; <styled-content style="fixed-case">HR</styled-content>, high risk; mo, months; <styled-content style="fixed-case">SR</styled-content>, standard risk.</p></caption><graphic id="nlm-graphic-5" xlink:href="BJH-186-549-g003"/></fig></sec></sec><sec id="bjh15969-sec-0011"><title>Discussion</title><p>This study demonstrated the safety and tolerability of twice&#x02010;weekly SKd. Overall, the combination demonstrated manageable tolerability. Most patients required dose modifications, but only two patients discontinued due to treatment&#x02010;related AEs. All patients received prophylactic megestrol acetate and a 5&#x02010;HT<sub>3</sub> antagonist treatment to mitigate GI AEs. Additional supportive measures, including growth factors and transfusions, could be initiated by the investigator at any time during treatment. The most common grade 3/4 AEs were haematological in nature. GI and constitutional AEs were common but were generally grade 1/2. Although carfilzomib is associated with cardiac AEs (Chen <italic>et&#x000a0;al</italic>, <xref rid="bjh15969-bib-0007" ref-type="ref">2017b</xref>; Waxman <italic>et&#x000a0;al</italic>, <xref rid="bjh15969-bib-0045" ref-type="ref">2018</xref>), only one patient (with a history of CHF and underlying cardiac amyloidosis) experienced a cardiac AE considered related to carfilzomib that led to treatment discontinuation. Based on the overall tolerability and the anti&#x02010;myeloma activity of the regimen, Dose Level 2b (twice&#x02010;weekly selinexor 60&#x000a0;mg with a standard twice&#x02010;weekly dosing of carfilzomib at 20/27&#x000a0;mg/m<sup>2</sup>, and twice&#x02010;weekly dexamethasone at 20&#x000a0;mg) was selected for dose expansion, without determination of the MTD. Based on the high rate of dose reductions during our study and results from prior selinexor studies (Bahlis <italic>et&#x000a0;al</italic>, <xref rid="bjh15969-bib-0001" ref-type="ref">2018</xref>; Chen <italic>et&#x000a0;al</italic>, <xref rid="bjh15969-bib-0008" ref-type="ref">2018</xref>; Vogl <italic>et&#x000a0;al</italic>, <xref rid="bjh15969-bib-0044" ref-type="ref">2018</xref>), we concluded that further dose escalation would probably not be feasible. Dose Level 2b was clinically active with a DLT rate &#x0003c;30% and selected as the RP2D.</p><p>The safety results with SKd were generally consistent with safety outcomes from previous studies of selinexor in RRMM, although the rates and severity of non&#x02010;haematological AEs, particularly GI events, were lower than anticipated (Bahlis <italic>et&#x000a0;al</italic>, <xref rid="bjh15969-bib-0001" ref-type="ref">2018</xref>; Chen <italic>et&#x000a0;al</italic>, <xref rid="bjh15969-bib-0008" ref-type="ref">2018</xref>; Vogl <italic>et&#x000a0;al</italic>, <xref rid="bjh15969-bib-0044" ref-type="ref">2018</xref>). In the phase II STORM study (<italic>N</italic>&#x000a0;=&#x000a0;79 RRMM), the most common grade 3/4 treatment&#x02010;related AEs associated with twice&#x02010;weekly Sd (80&#x000a0;mg selinexor/20&#x000a0;mg dexamethasone) was thrombocytopenia (59%) (Vogl <italic>et&#x000a0;al</italic>, <xref rid="bjh15969-bib-0044" ref-type="ref">2018</xref>), an established toxicity of selinexor because of its inhibition of megakaryocyte maturation (Machlus <italic>et&#x000a0;al</italic>, <xref rid="bjh15969-bib-0024" ref-type="ref">2017</xref>). Other grade 3/4 treatment&#x02010;related AEs included anaemia (28%), neutropenia (23%) and lymphopenia (11%). Treatment&#x02010;related non&#x02010;haematological AEs (any grade) included nausea (73%), fatigue (63%), decreased appetite (49%), anorexia (49%), vomiting (44%), diarrhoea (43%) and weight loss (33%); these were generally grade 1/2 in severity (Vogl <italic>et&#x000a0;al</italic>, <xref rid="bjh15969-bib-0044" ref-type="ref">2018</xref>).</p><p>In the phase I/II STOMP study (<italic>N</italic>&#x000a0;=&#x000a0;42 RRMM), selinexor was administered twice&#x02010;weekly at 60 or 80&#x000a0;mg or once&#x02010;weekly at 80 or 100&#x000a0;mg in combination with Vd during the dose&#x02010;escalation stage; this was followed by a dose expansion with the RP2D (Bahlis <italic>et&#x000a0;al</italic>, <xref rid="bjh15969-bib-0001" ref-type="ref">2018</xref>). The investigators selected 100&#x000a0;mg once&#x02010;weekly dose of selinexor as the RP2D, and nearly all patients (39/42) received bortezomib 1&#x000b7;3&#x000a0;mg/m<sup>2</sup> weekly at treatment initiation rather than at the standard twice&#x02010;weekly dose schedule. The results suggested that the rates for some treatment&#x02010;related haematological and GI AEs improved with once&#x02010;weekly selinexor. The rate of grade 3/4 thrombocytopenia decreased from 69% during the dose&#x02010;escalation stage (60 or 80&#x000a0;mg selinexor twice&#x02010;weekly/once&#x02010;weekly) to 31% with the RP2D, anaemia decreased from 25% to 4%, and grade 3 diarrhoea decreased from 13% to 4% (Bahlis <italic>et&#x000a0;al</italic>, <xref rid="bjh15969-bib-0001" ref-type="ref">2018</xref>).</p><p>The clinical activity of SKd is promising and compares favourably with activity in studies of selinexor alone and selinexor with dexamethasone (Sd) (Chen <italic>et&#x000a0;al</italic>, <xref rid="bjh15969-bib-0008" ref-type="ref">2018</xref>; Vogl <italic>et&#x000a0;al</italic>, <xref rid="bjh15969-bib-0044" ref-type="ref">2018</xref>). However, we also recognize the limitations of cross&#x02010;study comparisons and differences between study populations. The current study enrolled heavily pre&#x02010;treated patients, all of which were refractory to their last line of therapy: 95% were refractory to carfilzomib, 62% were refractory to carfilzomib in the last line of therapy and 57% had high&#x02010;risk cytogenetics. In a phase I study of patients with RRMM (<italic>n</italic>&#x000a0;=&#x000a0;81) or Waldenstr&#x000f6;m macroglobulinaemia (<italic>n</italic>&#x000a0;=&#x000a0;3), selinexor (3&#x02013;60&#x000a0;mg/m<sup>2</sup> or fixed dose of 40 or 60&#x000a0;mg) showed modest activity as a single agent with an ORR of 4% (<italic>n</italic>&#x000a0;=&#x000a0;57) and a CBR of 21%, which improved to 22% and 33%, respectively, when twice&#x02010;weekly selinexor (45 or 65&#x000a0;mg/m<sup>2</sup>) was combined with 20&#x000a0;mg of dexamethasone (<italic>n</italic>&#x000a0;=&#x000a0;27). At the 45&#x000a0;mg/m<sup>2</sup> selinexor dose, the ORR for the combination was 50% (Chen <italic>et&#x000a0;al</italic>, <xref rid="bjh15969-bib-0008" ref-type="ref">2018</xref>). In the STORM study, twice&#x02010;weekly Sd (80/20&#x000a0;mg) resulted in an ORR of 21% in patients with quad&#x02010; or penta&#x02010;refractory RRMM (Vogl <italic>et&#x000a0;al</italic>, <xref rid="bjh15969-bib-0044" ref-type="ref">2018</xref>). Response rates with SKd also appear consistent with those of SVd from the STOMP study. ORR with SVd was 63% overall and 43% for PI&#x02010;refractory patients (<italic>n</italic>&#x000a0;=&#x000a0;21) compared with 84% for PI&#x02010;nonrefractory patients (<italic>n</italic>&#x000a0;=&#x000a0;19) (Bahlis <italic>et&#x000a0;al</italic>, <xref rid="bjh15969-bib-0001" ref-type="ref">2018</xref>).</p><p>The clinical activity of SKd also can be related to the results from historical studies in RRMM (Berdeja <italic>et&#x000a0;al</italic>, <xref rid="bjh15969-bib-0002" ref-type="ref">2015</xref>; Berenson <italic>et&#x000a0;al</italic>, <xref rid="bjh15969-bib-0004" ref-type="ref">2016</xref>, <xref rid="bjh15969-bib-0003" ref-type="ref">2014</xref>; Dimopoulos <italic>et&#x000a0;al</italic>, <xref rid="bjh15969-bib-0014" ref-type="ref">2016b</xref>; Papadopoulos <italic>et&#x000a0;al</italic>, <xref rid="bjh15969-bib-0030" ref-type="ref">2015</xref>; Richardson <italic>et&#x000a0;al</italic>, <xref rid="bjh15969-bib-0032" ref-type="ref">2013</xref>, <xref rid="bjh15969-bib-0033" ref-type="ref">2014</xref>; San Miguel <italic>et&#x000a0;al</italic>, <xref rid="bjh15969-bib-0035" ref-type="ref">2013</xref>; Shah <italic>et&#x000a0;al</italic>, <xref rid="bjh15969-bib-0037" ref-type="ref">2015</xref>; Siegel <italic>et&#x000a0;al</italic>, <xref rid="bjh15969-bib-0038" ref-type="ref">2012</xref>). Many of these studies enrolled patients who had been previously treated with bortezomib or lenalidomide with dexamethasone to assess the efficacy and safety of carfilzomib and pomalidomide regimens. Response rates have ranged from 32% to 77% for pomalidomide or carfilzomib in combination with dexamethasone (Berenson <italic>et&#x000a0;al</italic>, <xref rid="bjh15969-bib-0004" ref-type="ref">2016</xref>; Dimopoulos <italic>et&#x000a0;al</italic>, <xref rid="bjh15969-bib-0014" ref-type="ref">2016b</xref>; Papadopoulos <italic>et&#x000a0;al</italic>, <xref rid="bjh15969-bib-0030" ref-type="ref">2015</xref>; San Miguel <italic>et&#x000a0;al</italic>, <xref rid="bjh15969-bib-0035" ref-type="ref">2013</xref>) and 50% for the triplet of carfilzomib, pomalidomide and dexamethasone (Shah <italic>et&#x000a0;al</italic>, <xref rid="bjh15969-bib-0037" ref-type="ref">2015</xref>).</p><p>While response rates and time to response in our study are quite promising given the refractory status of the patient population, duration of response and PFS were shorter than anticipated in view of other selinexor studies. However, response rates, duration of response and PFS in these other selinexor studies were generally less robust in patients who were refractory to one of the drugs used in combination (Bahlis <italic>et&#x000a0;al</italic>, <xref rid="bjh15969-bib-0001" ref-type="ref">2018</xref>; Chen <italic>et&#x000a0;al</italic>, <xref rid="bjh15969-bib-0006" ref-type="ref">2017a</xref>; Gasparetto <italic>et&#x000a0;al</italic>, <xref rid="bjh15969-bib-0018" ref-type="ref">2017</xref>; White <italic>et&#x000a0;al</italic>, <xref rid="bjh15969-bib-0046" ref-type="ref">2017</xref>). Median PFS was 9&#x000b7;0&#x000a0;months for all evaluable patients in the STOMP study but 6&#x000b7;1&#x000a0;months for PI&#x02010;refractory patients, compared with 17&#x000b7;8&#x000a0;months for PI&#x02010;nonrefractory patients (Bahlis <italic>et&#x000a0;al</italic>, <xref rid="bjh15969-bib-0001" ref-type="ref">2018</xref>). Further, OS in our study appeared prolonged at a median of 22&#x000b7;4&#x000a0;months when considering PFS results. It is possible that SKd selected for less aggressive MM clones at the time of progression, allowing for a durable response with subsequent therapy (e.g., daratumumab), or clones that were sensitive to subsequent treatment.</p><p>Observations from this study, particularly consistent and rapid disease control (67% CBR in the first cycle), indicate that SKd could be a &#x02018;bridge&#x02019; to subsequent therapy, allowing patients to at least transiently overcome resistance, restore disease control and prepare for subsequent therapy. Further studies are needed to better understand these observations and to determine the mechanism for loss of disease control and to evaluate whether a different dosing or schedule with SKd can improve durability of response. Based on observations from the STOMP trial (Bahlis <italic>et&#x000a0;al</italic>, <xref rid="bjh15969-bib-0001" ref-type="ref">2018</xref>), we are currently evaluating once&#x02010;weekly SKd in carfilzomib&#x02010;refractory, carfilzomib/PI&#x02010;na&#x000ef;ve and non&#x02010;refractory patient populations. Other studies in RRMM are assessing selinexor in combination with liposomal doxorubicin (NCT02186834) and ixazomib and dexamethasone (NCT02831686), and additional cohorts from the STOMP trial have demonstrated the tolerability and activity of twice&#x02010; or once&#x02010;weekly selinexor with dexamethasone in combination with lenalidomide (SRd), pomalidomide (SPd) or daratumumab (SDd) (Chen <italic>et&#x000a0;al</italic>, <xref rid="bjh15969-bib-0006" ref-type="ref">2017a</xref>; Gasparetto <italic>et&#x000a0;al</italic>, <xref rid="bjh15969-bib-0018" ref-type="ref">2017</xref>; White <italic>et&#x000a0;al</italic>, <xref rid="bjh15969-bib-0046" ref-type="ref">2017</xref>). The ongoing phase III BOSTON study (NCT02831686) is evaluating SVd in patients with RRMM who are PI&#x02010;relapsed/&#x02010;na&#x000ef;ve.</p><p>With more patients receiving first&#x02010; and second&#x02010;line combinations of PIs, IMiDs and monoclonal antibodies, it is becoming more challenging to effectively treat patients in the RRMM setting (Nooka <italic>et&#x000a0;al</italic>, <xref rid="bjh15969-bib-0029" ref-type="ref">2015</xref>). The addition of selinexor to Kd demonstrated manageable safety and tolerability and promising efficacy in a heavily pre&#x02010;treated population of patients with RRMM. Significant clinical activity was observed in dual&#x02010;refractory/quad&#x02010;exposed patients, and in patients who were carfilzomib&#x02010;resistant in their last line of therapy. Further studies are needed to understand the high rate of response but relatively short response duration, and to identify patients for whom SKd might serve as an effective &#x02018;bridge&#x02019; regimen to subsequent therapies or as a line of therapy that provides durable disease control.</p></sec><sec sec-type="COI-statement" id="bjh15969-sec-0013"><title>Conflicts of interest</title><p>A.J.J. has received research funding from Bristol&#x02010;Myers Squibb, Amgen and Karyopharm and has received personal fees (advisory board, consultancy, speaking and honoraria) from Bristol&#x02010;Myers Squibb, Celgene, Millennium, Novartis, Amgen, SkylineDx, Karyopharm and Sanofi&#x02010;Aventis. C.A.R. received research funding from Novartis, Millennium, GlaxoSmithKline and Bristol&#x02010;Meyers Squibb; received honoraria, travel accommodations and expenses from Bristol&#x02010;Myers Squibb and Celgene. C.E.C. received travel, accommodations and expenses from Amgen. A.C. holds a consultancy/advisory role for Amgen, Array Biopharma, Bristol&#x02010;Myers Squibb, Celgene, Janssen Oncology, Millennium and Novartis; received research funding from Acetylon Pharmaceuticals (Inst), Array BioPharma, Biotest (Inst), Bristol&#x02010;Myers Squibb (Inst), Celgene, Janssen, Millennium, Novartis, Onyx and Pharmacyclics LLC, an AbbVie Company; and received travel accommodations and expenses from Amgen, Bristol&#x02010;Myers Squibb, Celgene, Janssen Oncology, Novartis and Takeda. J.M. received research funding from AbbVie, Celgene and Sanofi. A.M. and&#x000a0;L.A.S. are employed with and&#x000a0;have ownership interests in TG Therapeutics. T.M.Z. is employed with AbbVie. J.A.Z. holds a consultancy/advisory role for Amgen, Array BioPharma, Bristol&#x02010;Myers Squibb, Celgene, Janssen, Prothena, Seattle Genetics and Takeda; and received research funding for Celgene (Inst). The remaining authors declare no competing financial interests.</p></sec><sec id="bjh15969-sec-0014"><title>Authorship contributions</title><p>Designed study: A.J.J., J.K.J., K.T. T.K. Collected data: A.J.J., C.A.R., C.E.C., A.C., J.M., J.N., A.M., E.S., L.A.S., K.T., S.R., T.M.Z., T.H., A.T., J.A.Z. Performed statistical analyses: A.J.J., T.H., T.K. Confirmed accuracy of data: A.J.J., A.C., T.H., A.T., T.K., J.A.Z. Drafted manuscript: A.J.J., J.A.Z. All authors reviewed the draft manuscript and approved the final manuscript for submission.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="bjh15969-sup-0001"><caption><p>
+<bold>Table SI.</bold> Patient characteristics by dose level.</p><p>
+<bold>Table SII.</bold> Prior therapies by dose level.</p><p>
+<bold>Table SIII.</bold> Dose modifications by dose level.</p></caption><media xlink:href="BJH-186-549-s001.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="bjh15969-sec-0012"><title>Acknowledgements</title><p>Medical writing and editorial assistance provided by Krishna Kammari, PhD, and Michael Raffin (Fishawack Communications Ltd, Conshohocken, PA), which was funded by a grant from the University of Chicago.</p></ack><ref-list content-type="cited-references" id="bjh15969-bibl-0001"><title>References</title><ref id="bjh15969-bib-0001"><mixed-citation publication-type="journal" id="bjh15969-cit-0001">
+<string-name>
+<surname>Bahlis</surname>, <given-names>N.J.</given-names>
+</string-name>, <string-name>
+<surname>Sutherland</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>White</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Sebag</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Lentzsch</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Kotb</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Venner</surname>, <given-names>C.P.</given-names>
+</string-name>, <string-name>
+<surname>Gasparetto</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Del Col</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Neri</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Reece</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Kauffman</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Shacham</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Unger</surname>, <given-names>T.J.</given-names>
+</string-name>, <string-name>
+<surname>Jeha</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Saint&#x02010;Martin</surname>, <given-names>J.R.</given-names>
+</string-name>, <string-name>
+<surname>Shah</surname>, <given-names>J.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Chen</surname>, <given-names>C.</given-names>
+</string-name> (<year>2018</year>) <article-title>Selinexor plus low&#x02010;dose bortezomib and dexamethasone for patients with relapsed or refractory multiple myeloma</article-title>. <source xml:lang="en">Blood</source>, <volume>132</volume>, <fpage>2546</fpage>&#x02013;<lpage>2554</lpage>.<pub-id pub-id-type="pmid">30352784</pub-id></mixed-citation></ref><ref id="bjh15969-bib-0002"><mixed-citation publication-type="journal" id="bjh15969-cit-0002">
+<string-name>
+<surname>Berdeja</surname>, <given-names>J.G.</given-names>
+</string-name>, <string-name>
+<surname>Hart</surname>, <given-names>L.L.</given-names>
+</string-name>, <string-name>
+<surname>Mace</surname>, <given-names>J.R.</given-names>
+</string-name>, <string-name>
+<surname>Arrowsmith</surname>, <given-names>E.R.</given-names>
+</string-name>, <string-name>
+<surname>Essell</surname>, <given-names>J.H.</given-names>
+</string-name>, <string-name>
+<surname>Owera</surname>, <given-names>R.S.</given-names>
+</string-name>, <string-name>
+<surname>Hainsworth</surname>, <given-names>J.D.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Flinn</surname>, <given-names>I.W.</given-names>
+</string-name> (<year>2015</year>) <article-title>Phase I/II study of the combination of panobinostat and carfilzomib in patients with relapsed/refractory multiple myeloma</article-title>. <source xml:lang="en">Haematologica</source>, <volume>100</volume>, <fpage>670</fpage>&#x02013;<lpage>676</lpage>.<pub-id pub-id-type="pmid">25710456</pub-id></mixed-citation></ref><ref id="bjh15969-bib-0003"><mixed-citation publication-type="journal" id="bjh15969-cit-0003">
+<string-name>
+<surname>Berenson</surname>, <given-names>J.R.</given-names>
+</string-name>, <string-name>
+<surname>Hilger</surname>, <given-names>J.D.</given-names>
+</string-name>, <string-name>
+<surname>Yellin</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Dichmann</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Patel&#x02010;Donnelly</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Boccia</surname>, <given-names>R.V.</given-names>
+</string-name>, <string-name>
+<surname>Bessudo</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Stampleman</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Gravenor</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Eshaghian</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Nassir</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Swift</surname>, <given-names>R.A.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Vescio</surname>, <given-names>R.A.</given-names>
+</string-name> (<year>2014</year>) <article-title>Replacement of bortezomib with carfilzomib for multiple myeloma patients progressing from bortezomib combination therapy</article-title>. <source xml:lang="en">Leukemia</source>, <volume>28</volume>, <fpage>1529</fpage>&#x02013;<lpage>1536</lpage>.<pub-id pub-id-type="pmid">24429497</pub-id></mixed-citation></ref><ref id="bjh15969-bib-0004"><mixed-citation publication-type="journal" id="bjh15969-cit-0004">
+<string-name>
+<surname>Berenson</surname>, <given-names>J.R.</given-names>
+</string-name>, <string-name>
+<surname>Cartmell</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Bessudo</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Lyons</surname>, <given-names>R.M.</given-names>
+</string-name>, <string-name>
+<surname>Harb</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Tzachanis</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Agajanian</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Boccia</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Coleman</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Moss</surname>, <given-names>R.A.</given-names>
+</string-name>, <string-name>
+<surname>Rifkin</surname>, <given-names>R.M.</given-names>
+</string-name>, <string-name>
+<surname>Patel</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Dixon</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Ou</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Anderl</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Aggarwal</surname>, <given-names>S.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Berdeja</surname>, <given-names>J.G.</given-names>
+</string-name> (<year>2016</year>) <article-title>CHAMPION&#x02010;1: a phase 1/2 study of once&#x02010;weekly carfilzomib and dexamethasone for relapsed or refractory multiple myeloma</article-title>. <source xml:lang="en">Blood</source>, <volume>127</volume>, <fpage>3360</fpage>&#x02013;<lpage>3368</lpage>.<pub-id pub-id-type="pmid">27207788</pub-id></mixed-citation></ref><ref id="bjh15969-bib-0005"><mixed-citation publication-type="journal" id="bjh15969-cit-0005">
+<string-name>
+<surname>Brenner</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Gondos</surname>, <given-names>A.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Pulte</surname>, <given-names>D.</given-names>
+</string-name> (<year>2009</year>) <article-title>Expected long&#x02010;term survival of patients diagnosed with multiple myeloma in 2006&#x02010;2010</article-title>. <source xml:lang="en">Haematologica</source>, <volume>94</volume>, <fpage>270</fpage>&#x02013;<lpage>275</lpage>.<pub-id pub-id-type="pmid">19144659</pub-id></mixed-citation></ref><ref id="bjh15969-bib-0006"><mixed-citation publication-type="journal" id="bjh15969-cit-0006">
+<string-name>
+<surname>Chen</surname>, <given-names>C.I.</given-names>
+</string-name>, <string-name>
+<surname>Sutherland</surname>, <given-names>H.J.</given-names>
+</string-name>, <string-name>
+<surname>Kotb</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Sebag</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>White</surname>, <given-names>D.J.</given-names>
+</string-name>, <string-name>
+<surname>Bensinger</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Gasparetto</surname>, <given-names>C.J.</given-names>
+</string-name>, <string-name>
+<surname>LeBlanc</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Venner</surname>, <given-names>C.P.</given-names>
+</string-name>, <string-name>
+<surname>Lentzsch</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Schiller</surname>, <given-names>G.J.</given-names>
+</string-name>, <string-name>
+<surname>Lipe</surname>, <given-names>B.C.</given-names>
+</string-name>, <string-name>
+<surname>Del Col</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Kauffman</surname>, <given-names>M.G.</given-names>
+</string-name>, <string-name>
+<surname>Shacham</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Jeha</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Saint&#x02010;Martin</surname>, <given-names>J.&#x02010;R.</given-names>
+</string-name>, <string-name>
+<surname>Shah</surname>, <given-names>J.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Bahlis</surname>, <given-names>N.J.</given-names>
+</string-name> (<year>2017a</year>) <article-title>Selinexor in combination with pomalidomide and low dose dexamethasone in a relapsed/refractory multiple myeloma patient population with prior proteasome inhibitor and lenalidomide exposure</article-title>. <source xml:lang="en">Blood</source>, <volume>130</volume>, <fpage>Abstract 3136</fpage>.</mixed-citation></ref><ref id="bjh15969-bib-0007"><mixed-citation publication-type="journal" id="bjh15969-cit-0007">
+<string-name>
+<surname>Chen</surname>, <given-names>J.H.</given-names>
+</string-name>, <string-name>
+<surname>Lenihan</surname>, <given-names>D.J.</given-names>
+</string-name>, <string-name>
+<surname>Phillips</surname>, <given-names>S.E.</given-names>
+</string-name>, <string-name>
+<surname>Harrell</surname>, <given-names>S.L.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Cornell</surname>, <given-names>R.F.</given-names>
+</string-name> (<year>2017b</year>) <article-title>Cardiac events during treatment with proteasome inhibitor therapy for multiple myeloma</article-title>. <source xml:lang="en">Cardio&#x02010;Oncology</source>, <volume>3</volume>, <fpage>4</fpage>.</mixed-citation></ref><ref id="bjh15969-bib-0008"><mixed-citation publication-type="journal" id="bjh15969-cit-0008">
+<string-name>
+<surname>Chen</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Siegel</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Gutierrez</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Jacoby</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Hofmeister</surname>, <given-names>C.C.</given-names>
+</string-name>, <string-name>
+<surname>Gabrail</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Baz</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Mau&#x02010;Sorensen</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Berdeja</surname>, <given-names>J.G.</given-names>
+</string-name>, <string-name>
+<surname>Savona</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Savoie</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Trudel</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Areethamsirikul</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Unger</surname>, <given-names>T.J.</given-names>
+</string-name>, <string-name>
+<surname>Rashal</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Hanke</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Kauffman</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Shacham</surname>, <given-names>S.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Reece</surname>, <given-names>D.</given-names>
+</string-name> (<year>2018</year>) <article-title>Safety and efficacy of selinexor in relapsed or refractory multiple myeloma and Waldenstrom's macroglobulinemia</article-title>. <source xml:lang="en">Blood</source>, <volume>131</volume>, <fpage>855</fpage>&#x02013;<lpage>863</lpage>.<pub-id pub-id-type="pmid">29203585</pub-id></mixed-citation></ref><ref id="bjh15969-bib-0009"><mixed-citation publication-type="journal" id="bjh15969-cit-0009">
+<string-name>
+<surname>Chim</surname>, <given-names>C.S.</given-names>
+</string-name>, <string-name>
+<surname>Kumar</surname>, <given-names>S.K.</given-names>
+</string-name>, <string-name>
+<surname>Orlowski</surname>, <given-names>R.Z.</given-names>
+</string-name>, <string-name>
+<surname>Cook</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Richardson</surname>, <given-names>P.G.</given-names>
+</string-name>, <string-name>
+<surname>Gertz</surname>, <given-names>M.A.</given-names>
+</string-name>, <string-name>
+<surname>Giralt</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Mateos</surname>, <given-names>M.V.</given-names>
+</string-name>, <string-name>
+<surname>Leleu</surname>, <given-names>X.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Anderson</surname>, <given-names>K.C.</given-names>
+</string-name> (<year>2018</year>) <article-title>Management of relapsed and refractory multiple myeloma: novel agents, antibodies, immunotherapies and beyond</article-title>. <source xml:lang="en">Leukemia</source>, <volume>32</volume>, <fpage>252</fpage>&#x02013;<lpage>262</lpage>.<pub-id pub-id-type="pmid">29257139</pub-id></mixed-citation></ref><ref id="bjh15969-bib-0010"><mixed-citation publication-type="journal" id="bjh15969-cit-0010">
+<string-name>
+<surname>Conforti</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Rodriguez</surname>, <given-names>J.A.</given-names>
+</string-name>, <string-name>
+<surname>Alberobello</surname>, <given-names>A.T.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>Y.W.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Giaccone</surname>, <given-names>G.</given-names>
+</string-name> (<year>2015</year>) <article-title>Molecular pathways: anticancer activity by inhibition of nucleocytoplasmic shuttling</article-title>. <source xml:lang="en">Clinical Cancer Research</source>, <volume>21</volume>, <fpage>4508</fpage>&#x02013;<lpage>4513</lpage>.<pub-id pub-id-type="pmid">26324742</pub-id></mixed-citation></ref><ref id="bjh15969-bib-0011"><mixed-citation publication-type="journal" id="bjh15969-cit-0011">
+<string-name>
+<surname>Culjkovic&#x02010;Kraljacic</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Baguet</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Volpon</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Amri</surname>, <given-names>A.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Borden</surname>, <given-names>K.L.</given-names>
+</string-name> (<year>2012</year>) <article-title>The oncogene eIF4E reprograms the nuclear pore complex to promote mRNA export and oncogenic transformation</article-title>. <source xml:lang="en">Cell Reports</source>, <volume>2</volume>, <fpage>207</fpage>&#x02013;<lpage>215</lpage>.<pub-id pub-id-type="pmid">22902403</pub-id></mixed-citation></ref><ref id="bjh15969-bib-0012"><mixed-citation publication-type="journal" id="bjh15969-cit-0012">
+<string-name>
+<surname>Das</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Wei</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Parikh</surname>, <given-names>K.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Liu</surname>, <given-names>D.</given-names>
+</string-name> (<year>2015</year>) <article-title>Selective inhibitors of nuclear export (SINE) in hematological malignancies</article-title>. <source xml:lang="en">Experimental Hematology &#x00026; Oncology</source>, <volume>4</volume>, <fpage>7</fpage>.<pub-id pub-id-type="pmid">25745591</pub-id></mixed-citation></ref><ref id="bjh15969-bib-0013"><mixed-citation publication-type="journal" id="bjh15969-cit-0013">
+<string-name>
+<surname>Dimopoulos</surname>, <given-names>M.A.</given-names>
+</string-name>, <string-name>
+<surname>Moreau</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Palumbo</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Joshua</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Pour</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Hajek</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Facon</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Ludwig</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Oriol</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Goldschmidt</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Rosinol</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Straub</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Suvorov</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Araujo</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Rimashevskaya</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Pika</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Gaidano</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Weisel</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Goranova&#x02010;Marinova</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Schwarer</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Minuk</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Masszi</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Karamanesht</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Offidani</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Hungria</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Spencer</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Orlowski</surname>, <given-names>R.Z.</given-names>
+</string-name>, <string-name>
+<surname>Gillenwater</surname>, <given-names>H.H.</given-names>
+</string-name>, <string-name>
+<surname>Mohamed</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Feng</surname>, <given-names>S.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Chng</surname>, <given-names>W.J.</given-names>
+</string-name> (<year>2016a</year>) <article-title>Carfilzomib and dexamethasone versus bortezomib and dexamethasone for patients with relapsed or refractory multiple myeloma (ENDEAVOR): a randomised, phase 3, open&#x02010;label, multicentre study</article-title>. <source xml:lang="en">The Lancet Oncology</source>, <volume>17</volume>, <fpage>27</fpage>&#x02013;<lpage>38</lpage>.<pub-id pub-id-type="pmid">26671818</pub-id></mixed-citation></ref><ref id="bjh15969-bib-0014"><mixed-citation publication-type="journal" id="bjh15969-cit-0014">
+<string-name>
+<surname>Dimopoulos</surname>, <given-names>M.A.</given-names>
+</string-name>, <string-name>
+<surname>Palumbo</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Corradini</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Cavo</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Delforge</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Di Raimondo</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Weisel</surname>, <given-names>K.C.</given-names>
+</string-name>, <string-name>
+<surname>Oriol</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Hansson</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Vacca</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Blanchard</surname>, <given-names>M.J.</given-names>
+</string-name>, <string-name>
+<surname>Goldschmidt</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Doyen</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Kaiser</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Petrini</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Anttila</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Cafro</surname>, <given-names>A.M.</given-names>
+</string-name>, <string-name>
+<surname>Raymakers</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>San&#x02010;Miguel</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>de Arriba</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Knop</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Rollig</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Ocio</surname>, <given-names>E.M.</given-names>
+</string-name>, <string-name>
+<surname>Morgan</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Miller</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Simcock</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Peluso</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Herring</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Sternas</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Zaki</surname>, <given-names>M.H.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Moreau</surname>, <given-names>P.</given-names>
+</string-name> (<year>2016b</year>) <article-title>Safety and efficacy of pomalidomide plus low&#x02010;dose dexamethasone in STRATUS (MM&#x02010;010): a phase 3b study in refractory multiple myeloma</article-title>. <source xml:lang="en">Blood</source>, <volume>128</volume>, <fpage>497</fpage>&#x02013;<lpage>503</lpage>.<pub-id pub-id-type="pmid">27226434</pub-id></mixed-citation></ref><ref id="bjh15969-bib-0015"><mixed-citation publication-type="journal" id="bjh15969-cit-0015">
+<string-name>
+<surname>Dimopoulos</surname>, <given-names>M.A.</given-names>
+</string-name>, <string-name>
+<surname>Goldschmidt</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Niesvizky</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Joshua</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Chng</surname>, <given-names>W.J.</given-names>
+</string-name>, <string-name>
+<surname>Oriol</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Orlowski</surname>, <given-names>R.Z.</given-names>
+</string-name>, <string-name>
+<surname>Ludwig</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Facon</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Hajek</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Weisel</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Hungria</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Minuk</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Feng</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Zahlten&#x02010;Kumeli</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Kimball</surname>, <given-names>A.S.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Moreau</surname>, <given-names>P.</given-names>
+</string-name> (<year>2017</year>) <article-title>Carfilzomib or bortezomib in relapsed or refractory multiple myeloma (ENDEAVOR): an interim overall survival analysis of an open&#x02010;label, randomised, phase 3 trial</article-title>. <source xml:lang="en">The Lancet Oncology</source>, <volume>18</volume>, <fpage>1327</fpage>&#x02013;<lpage>1337</lpage>.<pub-id pub-id-type="pmid">28843768</pub-id></mixed-citation></ref><ref id="bjh15969-bib-0016"><mixed-citation publication-type="journal" id="bjh15969-cit-0016">
+<string-name>
+<surname>Durie</surname>, <given-names>B.G.</given-names>
+</string-name>, <string-name>
+<surname>Harousseau</surname>, <given-names>J.L.</given-names>
+</string-name>, <string-name>
+<surname>Miguel</surname>, <given-names>J.S.</given-names>
+</string-name>, <string-name>
+<surname>Blade</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Barlogie</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Anderson</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Gertz</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Dimopoulos</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Westin</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Sonneveld</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Ludwig</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Gahrton</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Beksac</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Crowley</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Belch</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Boccadaro</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Cavo</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Turesson</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Joshua</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Vesole</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Kyle</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Alexanian</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Tricot</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Attal</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Merlini</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Powles</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Richardson</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Shimizu</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Tosi</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Morgan</surname>, <given-names>G.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Rajkumar</surname>, <given-names>S.V.</given-names>
+</string-name> (<year>2006</year>) <article-title>International uniform response criteria for multiple myeloma</article-title>. <source xml:lang="en">Leukemia</source>, <volume>20</volume>, <fpage>1467</fpage>&#x02013;<lpage>1473</lpage>.<pub-id pub-id-type="pmid">16855634</pub-id></mixed-citation></ref><ref id="bjh15969-bib-0017"><mixed-citation publication-type="journal" id="bjh15969-cit-0017">
+<string-name>
+<surname>Gandhi</surname>, <given-names>U.H.</given-names>
+</string-name>, <string-name>
+<surname>Senapedis</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Baloglu</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Unger</surname>, <given-names>T.J.</given-names>
+</string-name>, <string-name>
+<surname>Chari</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Vogl</surname>, <given-names>D.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Cornell</surname>, <given-names>R.F.</given-names>
+</string-name> (<year>2018</year>) <article-title>Clinical implications of targeting XPO1&#x02010;mediated nuclear export in multiple myeloma</article-title>. <source xml:lang="en">Clinical Lymphoma Myeloma and Leukemia</source>, <volume>18</volume>, <fpage>335</fpage>&#x02013;<lpage>345</lpage>.</mixed-citation></ref><ref id="bjh15969-bib-0018"><mixed-citation publication-type="journal" id="bjh15969-cit-0018">
+<string-name>
+<surname>Gasparetto</surname>, <given-names>C.J.</given-names>
+</string-name>, <string-name>
+<surname>Lentzsch</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Schiller</surname>, <given-names>G.J.</given-names>
+</string-name>, <string-name>
+<surname>Bensinger</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Bahlis</surname>, <given-names>N.J.</given-names>
+</string-name>, <string-name>
+<surname>Sutherland</surname>, <given-names>H.J.</given-names>
+</string-name>, <string-name>
+<surname>White</surname>, <given-names>D.J.</given-names>
+</string-name>, <string-name>
+<surname>Sebag</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Kotb</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Venner</surname>, <given-names>C.P.</given-names>
+</string-name>, <string-name>
+<surname>LeBlanc</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>C.I.</given-names>
+</string-name>, <string-name>
+<surname>Del Col</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Kauffman</surname>, <given-names>M.G.</given-names>
+</string-name>, <string-name>
+<surname>Shacham</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Jeha</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Saint&#x02010;Martin</surname>, <given-names>J.&#x02010;R.</given-names>
+</string-name>, <string-name>
+<surname>Shah</surname>, <given-names>J.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Lipe</surname>, <given-names>B.C.</given-names>
+</string-name> (<year>2017</year>) <article-title>A phase 1b study to assess the combination of selinexor and daratumumab in patients with relapsed/refractory multiple myeloma previously exposed to proteasome inhibitors (PI) and immunomodulatory drugs (IMiDs)</article-title>. <source xml:lang="en">Blood</source>, <volume>130</volume>, <fpage>Abstract 3100</fpage>.</mixed-citation></ref><ref id="bjh15969-bib-0019"><mixed-citation publication-type="journal" id="bjh15969-cit-0019">
+<string-name>
+<surname>Gravina</surname>, <given-names>G.L.</given-names>
+</string-name>, <string-name>
+<surname>Senapedis</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>McCauley</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Baloglu</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Shacham</surname>, <given-names>S.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Festuccia</surname>, <given-names>C.</given-names>
+</string-name> (<year>2014</year>) <article-title>Nucleo&#x02010;cytoplasmic transport as a therapeutic target of cancer</article-title>. <source xml:lang="en">Journal of Hematology &#x00026; Oncology</source>, <volume>7</volume>, <fpage>85</fpage>.<pub-id pub-id-type="pmid">25476752</pub-id></mixed-citation></ref><ref id="bjh15969-bib-0020"><mixed-citation publication-type="journal" id="bjh15969-cit-0020">
+<string-name>
+<surname>Kashyap</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Argueta</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Aboukameel</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Unger</surname>, <given-names>T.J.</given-names>
+</string-name>, <string-name>
+<surname>Klebanov</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Mohammad</surname>, <given-names>R.M.</given-names>
+</string-name>, <string-name>
+<surname>Muqbil</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Azmi</surname>, <given-names>A.S.</given-names>
+</string-name>, <string-name>
+<surname>Drolen</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Senapedis</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Kauffman</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Shacham</surname>, <given-names>S.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Landesman</surname>, <given-names>Y.</given-names>
+</string-name> (<year>2016</year>) <article-title>Selinexor, a Selective Inhibitor of Nuclear Export (SINE) compound, acts through NF&#x02010;kappaB deactivation and combines with proteasome inhibitors to synergistically induce tumor cell death</article-title>. <source xml:lang="en">Oncotarget</source>, <volume>7</volume>, <fpage>78883</fpage>&#x02013;<lpage>78895</lpage>.<pub-id pub-id-type="pmid">27713151</pub-id></mixed-citation></ref><ref id="bjh15969-bib-0021"><mixed-citation publication-type="journal" id="bjh15969-cit-0021">
+<string-name>
+<surname>Kumar</surname>, <given-names>S.K.</given-names>
+</string-name>, <string-name>
+<surname>Rajkumar</surname>, <given-names>S.V.</given-names>
+</string-name>, <string-name>
+<surname>Dispenzieri</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Lacy</surname>, <given-names>M.Q.</given-names>
+</string-name>, <string-name>
+<surname>Hayman</surname>, <given-names>S.R.</given-names>
+</string-name>, <string-name>
+<surname>Buadi</surname>, <given-names>F.K.</given-names>
+</string-name>, <string-name>
+<surname>Zeldenrust</surname>, <given-names>S.R.</given-names>
+</string-name>, <string-name>
+<surname>Dingli</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Russell</surname>, <given-names>S.J.</given-names>
+</string-name>, <string-name>
+<surname>Lust</surname>, <given-names>J.A.</given-names>
+</string-name>, <string-name>
+<surname>Greipp</surname>, <given-names>P.R.</given-names>
+</string-name>, <string-name>
+<surname>Kyle</surname>, <given-names>R.A.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Gertz</surname>, <given-names>M.A.</given-names>
+</string-name> (<year>2008</year>) <article-title>Improved survival in multiple myeloma and the impact of novel therapies</article-title>. <source xml:lang="en">Blood</source>, <volume>111</volume>, <fpage>2516</fpage>&#x02013;<lpage>2520</lpage>.<pub-id pub-id-type="pmid">17975015</pub-id></mixed-citation></ref><ref id="bjh15969-bib-0022"><mixed-citation publication-type="journal" id="bjh15969-cit-0022">
+<string-name>
+<surname>Kumar</surname>, <given-names>S.K.</given-names>
+</string-name>, <string-name>
+<surname>Callander</surname>, <given-names>N.S.</given-names>
+</string-name>, <string-name>
+<surname>Alsina</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Atanackovic</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Biermann</surname>, <given-names>J.S.</given-names>
+</string-name>, <string-name>
+<surname>Castillo</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Chandler</surname>, <given-names>J.C.</given-names>
+</string-name>, <string-name>
+<surname>Costello</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Faiman</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Fung</surname>, <given-names>H.C.</given-names>
+</string-name>, <string-name>
+<surname>Godby</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Hofmeister</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Holmberg</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Holstein</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Huff</surname>, <given-names>C.A.</given-names>
+</string-name>, <string-name>
+<surname>Kang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Kassim</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Liedtke</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Malek</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Martin</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Neppalli</surname>, <given-names>V.T.</given-names>
+</string-name>, <string-name>
+<surname>Omel</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Raje</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Singhal</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Somlo</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Stockerl&#x02010;Goldstein</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Weber</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Yahalom</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Kumar</surname>, <given-names>R.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Shead</surname>, <given-names>D.A.</given-names>
+</string-name> (<year>2018</year>) <article-title>NCCN guidelines insights: multiple myeloma, version 3.2018</article-title>. <source xml:lang="en">Journal of the National Comprehensive Cancer Network</source>, <volume>16</volume>, <fpage>11</fpage>&#x02013;<lpage>20</lpage>.<pub-id pub-id-type="pmid">29295877</pub-id></mixed-citation></ref><ref id="bjh15969-bib-0023"><mixed-citation publication-type="journal" id="bjh15969-cit-0023">
+<string-name>
+<surname>L&#x000fc;</surname>, <given-names>S.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Wang</surname>, <given-names>J.</given-names>
+</string-name> (<year>2013</year>) <article-title>The resistance mechanisms of proteasome inhibitor bortezomib</article-title>. <source xml:lang="en">Biomarker Research</source>, <volume>1</volume>, <fpage>13</fpage>&#x02013;<lpage>13</lpage>.<pub-id pub-id-type="pmid">24252210</pub-id></mixed-citation></ref><ref id="bjh15969-bib-0024"><mixed-citation publication-type="journal" id="bjh15969-cit-0024">
+<string-name>
+<surname>Machlus</surname>, <given-names>K.R.</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>, <given-names>S.K.</given-names>
+</string-name>, <string-name>
+<surname>Vijey</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Soussou</surname>, <given-names>T.S.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>Z.J.</given-names>
+</string-name>, <string-name>
+<surname>Shacham</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Unger</surname>, <given-names>T.J.</given-names>
+</string-name>, <string-name>
+<surname>Kashyap</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Klebanov</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Sola&#x02010;Visner</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Crochiere</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Italiano</surname>, <given-names>J.E.</given-names>
+<suffix>Jr</suffix>
+</string-name> &#x00026; <string-name>
+<surname>Landesman</surname>, <given-names>Y.</given-names>
+</string-name> (<year>2017</year>) <article-title>Selinexor&#x02010;induced thrombocytopenia results from inhibition of thrombopoietin signaling in early megakaryopoiesis</article-title>. <source xml:lang="en">Blood</source>, <volume>130</volume>, <fpage>1132</fpage>&#x02013;<lpage>1143</lpage>.<pub-id pub-id-type="pmid">28630120</pub-id></mixed-citation></ref><ref id="bjh15969-bib-0025"><mixed-citation publication-type="journal" id="bjh15969-cit-0025">
+<string-name>
+<surname>Markovina</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Callander</surname>, <given-names>N.S.</given-names>
+</string-name>, <string-name>
+<surname>O'Connor</surname>, <given-names>S.L.</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Werndli</surname>, <given-names>J.E.</given-names>
+</string-name>, <string-name>
+<surname>Raschko</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Leith</surname>, <given-names>C.P.</given-names>
+</string-name>, <string-name>
+<surname>Kahl</surname>, <given-names>B.S.</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>, <given-names>K.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Miyamoto</surname>, <given-names>S.</given-names>
+</string-name> (<year>2008</year>) <article-title>Bortezomib&#x02010;resistant NF&#x02010;&#x003ba;B activity in multiple myeloma cells</article-title>. <source xml:lang="en">Molecular Cancer Research</source>, <volume>6</volume>, <fpage>1356</fpage>&#x02013;<lpage>1364</lpage>.<pub-id pub-id-type="pmid">18708367</pub-id></mixed-citation></ref><ref id="bjh15969-bib-0026"><mixed-citation publication-type="journal" id="bjh15969-cit-0026">
+<string-name>
+<surname>Nair</surname>, <given-names>J.S.</given-names>
+</string-name>, <string-name>
+<surname>Musi</surname>, <given-names>E.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Schwartz</surname>, <given-names>G.K.</given-names>
+</string-name> (<year>2017</year>) <article-title>Selinexor (KPT&#x02010;330) Induces tumor suppression through nuclear sequestration of IkappaB and downregulation of survivin</article-title>. <source xml:lang="en">Clinical Cancer Research</source>, <volume>23</volume>, <fpage>4301</fpage>&#x02013;<lpage>4311</lpage>.<pub-id pub-id-type="pmid">28314790</pub-id></mixed-citation></ref><ref id="bjh15969-bib-0027"><mixed-citation publication-type="miscellaneous" id="bjh15969-cit-0027">
+<collab collab-type="authors">National Cancer Institute</collab>
+. (<year>2010</year>). <article-title>Common Terminology Criteria for Adverse Events (CTCAE) v 4.03</article-title>. Retrieved February 23, 2017, from <ext-link ext-link-type="uri" xlink:href="https://evs.nci.nih.gov/ftp1/CTCAE/CTCAE_4.03_2010-06-14_QuickReference_5x7.pdf">https://evs.nci.nih.gov/ftp1/CTCAE/CTCAE_4.03_2010-06-14_QuickReference_5x7.pdf</ext-link>.</mixed-citation></ref><ref id="bjh15969-bib-0028"><mixed-citation publication-type="journal" id="bjh15969-cit-0028">
+<string-name>
+<surname>Nguyen</surname>, <given-names>K.T.</given-names>
+</string-name>, <string-name>
+<surname>Holloway</surname>, <given-names>M.P.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Altura</surname>, <given-names>R.A.</given-names>
+</string-name> (<year>2012</year>) <article-title>The CRM1 nuclear export protein in normal development and disease</article-title>. <source xml:lang="en">International Journal of Biochemistry and Molecular Biology</source>, <volume>3</volume>, <fpage>137</fpage>&#x02013;<lpage>151</lpage>.<pub-id pub-id-type="pmid">22773955</pub-id></mixed-citation></ref><ref id="bjh15969-bib-0029"><mixed-citation publication-type="journal" id="bjh15969-cit-0029">
+<string-name>
+<surname>Nooka</surname>, <given-names>A.K.</given-names>
+</string-name>, <string-name>
+<surname>Kastritis</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Dimopoulos</surname>, <given-names>M.A.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Lonial</surname>, <given-names>S.</given-names>
+</string-name> (<year>2015</year>) <article-title>Treatment options for relapsed and refractory multiple myeloma</article-title>. <source xml:lang="en">Blood</source>, <volume>125</volume>, <fpage>3085</fpage>&#x02013;<lpage>3099</lpage>.<pub-id pub-id-type="pmid">25838342</pub-id></mixed-citation></ref><ref id="bjh15969-bib-0030"><mixed-citation publication-type="journal" id="bjh15969-cit-0030">
+<string-name>
+<surname>Papadopoulos</surname>, <given-names>K.P.</given-names>
+</string-name>, <string-name>
+<surname>Siegel</surname>, <given-names>D.S.</given-names>
+</string-name>, <string-name>
+<surname>Vesole</surname>, <given-names>D.H.</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Rosen</surname>, <given-names>S.T.</given-names>
+</string-name>, <string-name>
+<surname>Zojwalla</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Holahan</surname>, <given-names>J.R.</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>Z.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Badros</surname>, <given-names>A.</given-names>
+</string-name> (<year>2015</year>) <article-title>Phase I study of 30&#x02010;minute infusion of carfilzomib as single agent or in combination with low&#x02010;dose dexamethasone in patients with relapsed and/or refractory multiple myeloma</article-title>. <source xml:lang="en">Journal of Clinical Oncology</source>, <volume>33</volume>, <fpage>732</fpage>&#x02013;<lpage>739</lpage>.<pub-id pub-id-type="pmid">25225420</pub-id></mixed-citation></ref><ref id="bjh15969-bib-0031"><mixed-citation publication-type="journal" id="bjh15969-cit-0031">
+<string-name>
+<surname>Rajkumar</surname>, <given-names>S.V.</given-names>
+</string-name>, <string-name>
+<surname>Harousseau</surname>, <given-names>J.L.</given-names>
+</string-name>, <string-name>
+<surname>Durie</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Anderson</surname>, <given-names>K.C.</given-names>
+</string-name>, <string-name>
+<surname>Dimopoulos</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Kyle</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Blade</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Richardson</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Orlowski</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Siegel</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Jagannath</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Facon</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Avet&#x02010;Loiseau</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Lonial</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Palumbo</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Zonder</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Ludwig</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Vesole</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Sezer</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Munshi</surname>, <given-names>N.C.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>San Miguel</surname>, <given-names>J.</given-names>
+</string-name> (<year>2011</year>) <article-title>Consensus recommendations for the uniform reporting of clinical trials: report of the International Myeloma Workshop Consensus Panel 1</article-title>. <source xml:lang="en">Blood</source>, <volume>117</volume>, <fpage>4691</fpage>&#x02013;<lpage>4695</lpage>.<pub-id pub-id-type="pmid">21292775</pub-id></mixed-citation></ref><ref id="bjh15969-bib-0032"><mixed-citation publication-type="journal" id="bjh15969-cit-0032">
+<string-name>
+<surname>Richardson</surname>, <given-names>P.G.</given-names>
+</string-name>, <string-name>
+<surname>Siegel</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Baz</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Kelley</surname>, <given-names>S.L.</given-names>
+</string-name>, <string-name>
+<surname>Munshi</surname>, <given-names>N.C.</given-names>
+</string-name>, <string-name>
+<surname>Laubach</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Sullivan</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Alsina</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Schlossman</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Ghobrial</surname>, <given-names>I.M.</given-names>
+</string-name>, <string-name>
+<surname>Doss</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Loughney</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>McBride</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Bilotti</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Anand</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Nardelli</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Wear</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Larkins</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Zaki</surname>, <given-names>M.H.</given-names>
+</string-name>, <string-name>
+<surname>Jacques</surname>, <given-names>C.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Anderson</surname>, <given-names>K.C.</given-names>
+</string-name> (<year>2013</year>) <article-title>Phase 1 study of pomalidomide MTD, safety, and efficacy in patients with refractory multiple myeloma who have received lenalidomide and bortezomib</article-title>. <source xml:lang="en">Blood</source>, <volume>121</volume>, <fpage>1961</fpage>&#x02013;<lpage>1967</lpage>.<pub-id pub-id-type="pmid">23243282</pub-id></mixed-citation></ref><ref id="bjh15969-bib-0033"><mixed-citation publication-type="journal" id="bjh15969-cit-0033">
+<string-name>
+<surname>Richardson</surname>, <given-names>P.G.</given-names>
+</string-name>, <string-name>
+<surname>Siegel</surname>, <given-names>D.S.</given-names>
+</string-name>, <string-name>
+<surname>Vij</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Hofmeister</surname>, <given-names>C.C.</given-names>
+</string-name>, <string-name>
+<surname>Baz</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Jagannath</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Lonial</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Jakubowiak</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Bahlis</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Song</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Belch</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Raje</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Shustik</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Lentzsch</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Lacy</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Mikhael</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Matous</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Vesole</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Zaki</surname>, <given-names>M.H.</given-names>
+</string-name>, <string-name>
+<surname>Jacques</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Yu</surname>, <given-names>Z.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Anderson</surname>, <given-names>K.C.</given-names>
+</string-name> (<year>2014</year>) <article-title>Pomalidomide alone or in combination with low&#x02010;dose dexamethasone in relapsed and refractory multiple myeloma: a randomized phase 2 study</article-title>. <source xml:lang="en">Blood</source>, <volume>123</volume>, <fpage>1826</fpage>&#x02013;<lpage>1832</lpage>.<pub-id pub-id-type="pmid">24421329</pub-id></mixed-citation></ref><ref id="bjh15969-bib-0034"><mixed-citation publication-type="journal" id="bjh15969-cit-0034">
+<string-name>
+<surname>Rosebeck</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Alonge</surname>, <given-names>M.M.</given-names>
+</string-name>, <string-name>
+<surname>Kandarpa</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Mayampurath</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Volchenboum</surname>, <given-names>S.L.</given-names>
+</string-name>, <string-name>
+<surname>Jasielec</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Dytfeld</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Maxwell</surname>, <given-names>S.P.</given-names>
+</string-name>, <string-name>
+<surname>Kraftson</surname>, <given-names>S.J.</given-names>
+</string-name>, <string-name>
+<surname>McCauley</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Shacham</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Kauffman</surname>, <given-names>M.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Jakubowiak</surname>, <given-names>A.J.</given-names>
+</string-name> (<year>2016</year>) <article-title>Synergistic myeloma cell death via novel intracellular activation of caspase&#x02010;10&#x02010;dependent apoptosis by carfilzomib and selinexor</article-title>. <source xml:lang="en">Molecular Cancer Therapeutics</source>, <volume>15</volume>, <fpage>60</fpage>&#x02013;<lpage>71</lpage>.<pub-id pub-id-type="pmid">26637366</pub-id></mixed-citation></ref><ref id="bjh15969-bib-0035"><mixed-citation publication-type="journal" id="bjh15969-cit-0035">
+<string-name>
+<surname>San Miguel</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Weisel</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Moreau</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Lacy</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Song</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Delforge</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Karlin</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Goldschmidt</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Banos</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Oriol</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Alegre</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Cavo</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Garderet</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Ivanova</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Martinez&#x02010;Lopez</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Belch</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Palumbo</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Schey</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Sonneveld</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Yu</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Sternas</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Jacques</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Zaki</surname>, <given-names>M.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Dimopoulos</surname>, <given-names>M.</given-names>
+</string-name> (<year>2013</year>) <article-title>Pomalidomide plus low&#x02010;dose dexamethasone versus high&#x02010;dose dexamethasone alone for patients with relapsed and refractory multiple myeloma (MM&#x02010;003): a randomised, open&#x02010;label, phase 3 trial</article-title>. <source xml:lang="en">The Lancet Oncology</source>, <volume>14</volume>, <fpage>1055</fpage>&#x02013;<lpage>1066</lpage>.<pub-id pub-id-type="pmid">24007748</pub-id></mixed-citation></ref><ref id="bjh15969-bib-0036"><mixed-citation publication-type="journal" id="bjh15969-cit-0036">
+<string-name>
+<surname>Schmidt</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Braggio</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Kortuem</surname>, <given-names>K.M.</given-names>
+</string-name>, <string-name>
+<surname>Egan</surname>, <given-names>J.B.</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>, <given-names>Y.X.</given-names>
+</string-name>, <string-name>
+<surname>Xin</surname>, <given-names>C.S.</given-names>
+</string-name>, <string-name>
+<surname>Tiedemann</surname>, <given-names>R.E.</given-names>
+</string-name>, <string-name>
+<surname>Palmer</surname>, <given-names>S.E.</given-names>
+</string-name>, <string-name>
+<surname>Garbitt</surname>, <given-names>V.M.</given-names>
+</string-name>, <string-name>
+<surname>McCauley</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Kauffman</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Shacham</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Chesi</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Bergsagel</surname>, <given-names>P.L.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Stewart</surname>, <given-names>A.K.</given-names>
+</string-name> (<year>2013</year>) <article-title>Genome&#x02010;wide studies in multiple myeloma identify XPO1/CRM1 as a critical target validated using the selective nuclear export inhibitor KPT&#x02010;276</article-title>. <source xml:lang="en">Leukemia</source>, <volume>27</volume>, <fpage>2357</fpage>&#x02013;<lpage>2365</lpage>.<pub-id pub-id-type="pmid">23752175</pub-id></mixed-citation></ref><ref id="bjh15969-bib-0037"><mixed-citation publication-type="journal" id="bjh15969-cit-0037">
+<string-name>
+<surname>Shah</surname>, <given-names>J.J.</given-names>
+</string-name>, <string-name>
+<surname>Stadtmauer</surname>, <given-names>E.A.</given-names>
+</string-name>, <string-name>
+<surname>Abonour</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Cohen</surname>, <given-names>A.D.</given-names>
+</string-name>, <string-name>
+<surname>Bensinger</surname>, <given-names>W.I.</given-names>
+</string-name>, <string-name>
+<surname>Gasparetto</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Kaufman</surname>, <given-names>J.L.</given-names>
+</string-name>, <string-name>
+<surname>Lentzsch</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Vogl</surname>, <given-names>D.T.</given-names>
+</string-name>, <string-name>
+<surname>Gomes</surname>, <given-names>C.L.</given-names>
+</string-name>, <string-name>
+<surname>Pascucci</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>, <given-names>D.D.</given-names>
+</string-name>, <string-name>
+<surname>Orlowski</surname>, <given-names>R.Z.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Durie</surname>, <given-names>B.G.</given-names>
+</string-name> (<year>2015</year>) <article-title>Carfilzomib, pomalidomide, and dexamethasone for relapsed or refractory myeloma</article-title>. <source xml:lang="en">Blood</source>, <volume>126</volume>, <fpage>2284</fpage>&#x02013;<lpage>2290</lpage>.<pub-id pub-id-type="pmid">26384354</pub-id></mixed-citation></ref><ref id="bjh15969-bib-0038"><mixed-citation publication-type="journal" id="bjh15969-cit-0038">
+<string-name>
+<surname>Siegel</surname>, <given-names>D.S.</given-names>
+</string-name>, <string-name>
+<surname>Martin</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Vij</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Jakubowiak</surname>, <given-names>A.J.</given-names>
+</string-name>, <string-name>
+<surname>Lonial</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Trudel</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Kukreti</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Bahlis</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Alsina</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Chanan&#x02010;Khan</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Buadi</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Reu</surname>, <given-names>F.J.</given-names>
+</string-name>, <string-name>
+<surname>Somlo</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Zonder</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Song</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Stewart</surname>, <given-names>A.K.</given-names>
+</string-name>, <string-name>
+<surname>Stadtmauer</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Kunkel</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Wear</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Wong</surname>, <given-names>A.F.</given-names>
+</string-name>, <string-name>
+<surname>Orlowski</surname>, <given-names>R.Z.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Jagannath</surname>, <given-names>S.</given-names>
+</string-name> (<year>2012</year>) <article-title>A phase 2 study of single&#x02010;agent carfilzomib (PX&#x02010;171&#x02010;003&#x02010;A1) in patients with relapsed and refractory multiple myeloma</article-title>. <source xml:lang="en">Blood</source>, <volume>120</volume>, <fpage>2817</fpage>&#x02013;<lpage>2825</lpage>.<pub-id pub-id-type="pmid">22833546</pub-id></mixed-citation></ref><ref id="bjh15969-bib-0039"><mixed-citation publication-type="journal" id="bjh15969-cit-0039">
+<string-name>
+<surname>Sonneveld</surname>, <given-names>P.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Broijl</surname>, <given-names>A.</given-names>
+</string-name> (<year>2016</year>) <article-title>Treatment of relapsed and refractory multiple myeloma</article-title>. <source xml:lang="en">Haematologica</source>, <volume>101</volume>, <fpage>396</fpage>&#x02013;<lpage>406</lpage>.<pub-id pub-id-type="pmid">27033237</pub-id></mixed-citation></ref><ref id="bjh15969-bib-0040"><mixed-citation publication-type="journal" id="bjh15969-cit-0040">
+<string-name>
+<surname>Tai</surname>, <given-names>Y.T.</given-names>
+</string-name>, <string-name>
+<surname>Landesman</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Acharya</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Calle</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Zhong</surname>, <given-names>M.Y.</given-names>
+</string-name>, <string-name>
+<surname>Cea</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Tannenbaum</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Cagnetta</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Reagan</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Munshi</surname>, <given-names>A.A.</given-names>
+</string-name>, <string-name>
+<surname>Senapedis</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Saint&#x02010;Martin</surname>, <given-names>J.R.</given-names>
+</string-name>, <string-name>
+<surname>Kashyap</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Shacham</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Kauffman</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Gu</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Ghobrial</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Zhan</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Kung</surname>, <given-names>A.L.</given-names>
+</string-name>, <string-name>
+<surname>Schey</surname>, <given-names>S.A.</given-names>
+</string-name>, <string-name>
+<surname>Richardson</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Munshi</surname>, <given-names>N.C.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Anderson</surname>, <given-names>K.C.</given-names>
+</string-name> (<year>2014</year>) <article-title>CRM1 inhibition induces tumor cell cytotoxicity and impairs osteoclastogenesis in multiple myeloma: molecular mechanisms and therapeutic implications</article-title>. <source xml:lang="en">Leukemia</source>, <volume>28</volume>, <fpage>155</fpage>&#x02013;<lpage>165</lpage>.<pub-id pub-id-type="pmid">23588715</pub-id></mixed-citation></ref><ref id="bjh15969-bib-0041"><mixed-citation publication-type="journal" id="bjh15969-cit-0041">
+<string-name>
+<surname>Thumallapally</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Yu</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Asti</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Vennepureddy</surname>, <given-names>A.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Terjanian</surname>, <given-names>T.</given-names>
+</string-name> (<year>2016</year>) <article-title>Salvage therapies in relapsed and/or refractory myeloma: what is current and what is the future?</article-title>
+<source xml:lang="en">OncoTargets and Therapy</source>, <volume>9</volume>, <fpage>4843</fpage>&#x02013;<lpage>4858</lpage>.<pub-id pub-id-type="pmid">27540299</pub-id></mixed-citation></ref><ref id="bjh15969-bib-0042"><mixed-citation publication-type="journal" id="bjh15969-cit-0042">
+<string-name>
+<surname>Tiedemann</surname>, <given-names>R.E.</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>, <given-names>Y.X.</given-names>
+</string-name>, <string-name>
+<surname>Schmidt</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Shi</surname>, <given-names>C.X.</given-names>
+</string-name>, <string-name>
+<surname>Sereduk</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Yin</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Mousses</surname>, <given-names>S.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Stewart</surname>, <given-names>A.K.</given-names>
+</string-name> (<year>2012</year>) <article-title>Identification of molecular vulnerabilities in human multiple myeloma cells by RNA interference lethality screening of the druggable genome</article-title>. <source xml:lang="en">Cancer Research</source>, <volume>72</volume>, <fpage>757</fpage>&#x02013;<lpage>768</lpage>.<pub-id pub-id-type="pmid">22147262</pub-id></mixed-citation></ref><ref id="bjh15969-bib-0043"><mixed-citation publication-type="journal" id="bjh15969-cit-0043">
+<string-name>
+<surname>Turner</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Kashyap</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Dawson</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Gomez</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Bauer</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Grant</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Dai</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Shain</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Meads</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Landesman</surname>, <given-names>Y.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Sullivan</surname>, <given-names>D.</given-names>
+</string-name> (<year>2016</year>) <article-title>XPO1 inhibitor combination therapy with bortezomib or carfilzomib induces nuclear localization of IkBa and overcomes acquired proteasome inhibitor resistance in human multiple myeloma</article-title>. <source xml:lang="en">Oncotarget</source>, <volume>7</volume>, <fpage>78896</fpage>&#x02013;<lpage>78909</lpage>.<pub-id pub-id-type="pmid">27806331</pub-id></mixed-citation></ref><ref id="bjh15969-bib-0044"><mixed-citation publication-type="journal" id="bjh15969-cit-0044">
+<string-name>
+<surname>Vogl</surname>, <given-names>D.T.</given-names>
+</string-name>, <string-name>
+<surname>Dingli</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Cornell</surname>, <given-names>R.F.</given-names>
+</string-name>, <string-name>
+<surname>Huff</surname>, <given-names>C.A.</given-names>
+</string-name>, <string-name>
+<surname>Jagannath</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Bhutani</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Zonder</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Baz</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Nooka</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Richter</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Cole</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Vij</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Jakubowiak</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Abonour</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Schiller</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Parker</surname>, <given-names>T.L.</given-names>
+</string-name>, <string-name>
+<surname>Costa</surname>, <given-names>L.J.</given-names>
+</string-name>, <string-name>
+<surname>Kaminetzky</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Hoffman</surname>, <given-names>J.E.</given-names>
+</string-name>, <string-name>
+<surname>Yee</surname>, <given-names>A.J.</given-names>
+</string-name>, <string-name>
+<surname>Chari</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Siegel</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Fonseca</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Van Wier</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Ahmann</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Lopez</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Kauffman</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Shacham</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Saint&#x02010;Martin</surname>, <given-names>J.R.</given-names>
+</string-name>, <string-name>
+<surname>Picklesimer</surname>, <given-names>C.D.</given-names>
+</string-name>, <string-name>
+<surname>Choe&#x02010;Juliak</surname>, <given-names>C.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Stewart</surname>, <given-names>A.K.</given-names>
+</string-name> (<year>2018</year>) <article-title>Selective inhibition of nuclear export with oral selinexor for treatment of relapsed or refractory multiple myeloma</article-title>. <source xml:lang="en">Journal of Clinical Oncology</source>, <volume>36</volume>, <fpage>859</fpage>&#x02013;<lpage>866</lpage>.<pub-id pub-id-type="pmid">29381435</pub-id></mixed-citation></ref><ref id="bjh15969-bib-0045"><mixed-citation publication-type="journal" id="bjh15969-cit-0045">
+<string-name>
+<surname>Waxman</surname>, <given-names>A.J.</given-names>
+</string-name>, <string-name>
+<surname>Clasen</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Hwang</surname>, <given-names>W.T.</given-names>
+</string-name>, <string-name>
+<surname>Garfall</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Vogl</surname>, <given-names>D.T.</given-names>
+</string-name>, <string-name>
+<surname>Carver</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>O'Quinn</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Cohen</surname>, <given-names>A.D.</given-names>
+</string-name>, <string-name>
+<surname>Stadtmauer</surname>, <given-names>E.A.</given-names>
+</string-name>, <string-name>
+<surname>Ky</surname>, <given-names>B.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Weiss</surname>, <given-names>B.M.</given-names>
+</string-name> (<year>2018</year>) <article-title>Carfilzomib&#x02010;associated cardiovascular adverse events: a systematic review and meta&#x02010;analysis</article-title>. <source xml:lang="en">JAMA Oncology</source>, <volume>4</volume>, <fpage>e174519</fpage>.<pub-id pub-id-type="pmid">29285538</pub-id></mixed-citation></ref><ref id="bjh15969-bib-0046"><mixed-citation publication-type="journal" id="bjh15969-cit-0046">
+<string-name>
+<surname>White</surname>, <given-names>D.J.</given-names>
+</string-name>, <string-name>
+<surname>Bahlis</surname>, <given-names>N.J.</given-names>
+</string-name>, <string-name>
+<surname>Venner</surname>, <given-names>C.P.</given-names>
+</string-name>, <string-name>
+<surname>Schiller</surname>, <given-names>G.J.</given-names>
+</string-name>, <string-name>
+<surname>Gasparetto</surname>, <given-names>C.J.</given-names>
+</string-name>, <string-name>
+<surname>Sutherland</surname>, <given-names>H.J.</given-names>
+</string-name>, <string-name>
+<surname>Sebag</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Lentzsch</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Kotb</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Bensinger</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Lipe</surname>, <given-names>B.C.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>C.I.</given-names>
+</string-name>, <string-name>
+<surname>Del Col</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Kauffman</surname>, <given-names>M.G.</given-names>
+</string-name>, <string-name>
+<surname>Shacham</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Jeha</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Saint&#x02010;Martin</surname>, <given-names>J.&#x02010;R.</given-names>
+</string-name>, <string-name>
+<surname>Shah</surname>, <given-names>J.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>LeBlanc</surname>, <given-names>R.</given-names>
+</string-name> (<year>2017</year>) <article-title>A phase Ib/II trial of selinexor combined with lenalidomide and low dose dexamethasone in patients with relapsed/refractory multiple myeloma</article-title>. <source xml:lang="en">Blood</source>, <volume>130</volume>, <fpage>Abstract 1861</fpage>.</mixed-citation></ref></ref-list></back></article>

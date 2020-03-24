@@ -1,0 +1,1022 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Br J Haematol</journal-id><journal-id journal-id-type="iso-abbrev">Br. J. Haematol</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1365-2141</journal-id><journal-id journal-id-type="publisher-id">BJH</journal-id><journal-title-group><journal-title>British Journal of Haematology</journal-title></journal-title-group><issn pub-type="ppub">0007-1048</issn><issn pub-type="epub">1365-2141</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">30968400</article-id><article-id pub-id-type="pmc">6618331</article-id><article-id pub-id-type="doi">10.1111/bjh.15906</article-id><article-id pub-id-type="publisher-id">BJH15906</article-id><article-categories><subj-group subj-group-type="overline"><subject>Research Paper</subject></subj-group><subj-group subj-group-type="heading"><subject>Platelets, Haemostasis and Thrombosis</subject></subj-group></article-categories><title-group><article-title>Citrullinated histone H3, a biomarker for neutrophil extracellular trap formation, predicts the risk of mortality in patients with cancer</article-title><alt-title alt-title-type="left-running-head">E. Grilz <italic>et&#x000a0;al</italic></alt-title></title-group><contrib-group><contrib id="bjh15906-cr-0001" contrib-type="author"><name><surname>Grilz</surname><given-names>Ella</given-names></name><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0003-3464-9783</contrib-id><xref ref-type="aff" rid="bjh15906-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="bjh15906-cr-0002" contrib-type="author"><name><surname>Mauracher</surname><given-names>Lisa&#x02010;Marie</given-names></name><xref ref-type="aff" rid="bjh15906-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="bjh15906-cr-0003" contrib-type="author"><name><surname>Posch</surname><given-names>Florian</given-names></name><xref ref-type="aff" rid="bjh15906-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="bjh15906-cr-0004" contrib-type="author"><name><surname>K&#x000f6;nigsbr&#x000fc;gge</surname><given-names>Oliver</given-names></name><xref ref-type="aff" rid="bjh15906-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="bjh15906-cr-0005" contrib-type="author"><name><surname>Z&#x000f6;chbauer&#x02010;M&#x000fc;ller</surname><given-names>Sabine</given-names></name><xref ref-type="aff" rid="bjh15906-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="bjh15906-cr-0006" contrib-type="author"><name><surname>Marosi</surname><given-names>Christine</given-names></name><xref ref-type="aff" rid="bjh15906-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="bjh15906-cr-0007" contrib-type="author"><name><surname>Lang</surname><given-names>Irene</given-names></name><xref ref-type="aff" rid="bjh15906-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="bjh15906-cr-0008" contrib-type="author"><name><surname>Pabinger</surname><given-names>Ingrid</given-names></name><xref ref-type="aff" rid="bjh15906-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="bjh15906-cr-0009" contrib-type="author" corresp="yes"><name><surname>Ay</surname><given-names>Cihan</given-names></name><address><email>cihan.ay@meduniwien.ac.at</email></address><xref ref-type="aff" rid="bjh15906-aff-0001">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="bjh15906-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Clinical Division of Haematology and Haemostaseology</named-content>
+<named-content content-type="organisation-division">Department of Medicine I</named-content>
+<institution>Medical University of Vienna</institution>
+<named-content content-type="city">Vienna</named-content>
+<country country="AT">Austria</country>
+</aff><aff id="bjh15906-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Division of Oncology</named-content>
+<named-content content-type="organisation-division">Department of Medicine</named-content>
+<institution>Medical University of Graz</institution>
+<named-content content-type="city">Graz</named-content>
+<country country="AT">Austria</country>
+</aff><aff id="bjh15906-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Clinical Division of Oncology</named-content>
+<named-content content-type="organisation-division">Department of Medicine I</named-content>
+<institution>Medical University of Vienna</institution>
+<named-content content-type="city">Vienna</named-content>
+<country country="AT">Austria</country>
+</aff><aff id="bjh15906-aff-0004">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">Clinical Division of Cardiology</named-content>
+<named-content content-type="organisation-division">Department of Medicine II</named-content>
+<institution>Medical University of Vienna</institution>
+<named-content content-type="city">Vienna</named-content>
+<country country="AT">Austria</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label>
+Correspondence: Assoc. Prof. PD Dr. Cihan Ay, Clinical Division of Haematology and Haemostaseology, Department of Medicine I, Medical University of Vienna, Waehringer Guertel 18&#x02010;20, A&#x02010;1090 Vienna, Austria.<break/>
+E&#x02010;mail: <email>cihan.ay@meduniwien.ac.at</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>09</day><month>4</month><year>2019</year></pub-date><pub-date pub-type="ppub"><month>7</month><year>2019</year></pub-date><volume>186</volume><issue>2</issue><issue-id pub-id-type="doi">10.1111/bjh.2019.186.issue-2</issue-id><fpage>311</fpage><lpage>320</lpage><history><date date-type="received"><day>03</day><month>12</month><year>2018</year></date><date date-type="accepted"><day>19</day><month>2</month><year>2019</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> Copyright &#x000a9; 2019 John Wiley & Sons Ltd <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2019 The Authors. <italic>British Journal of Haematology</italic> published by British Society for Haematology and John Wiley &#x00026; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:BJH-186-311.pdf"/><abstract id="bjh15906-abs-0001"><title>Summary</title><p>Prior studies indicate that neutrophil extracellular traps (<styled-content style="fixed-case">NET</styled-content>s) are associated with arterial thromboembolism (<styled-content style="fixed-case">ATE</styled-content>) and mortality. We investigated the association between <styled-content style="fixed-case">NET</styled-content> formation biomarkers (citrullinated histone H3 [H3Cit], cell&#x02010;free <styled-content style="fixed-case">DNA</styled-content> [cfDNA], and nucleosomes) and the risk of <styled-content style="fixed-case">ATE</styled-content> and all&#x02010;cause mortality in patients with cancer. In this prospective cohort study, H3Cit, cfDNA and nucleosome levels were determined at study inclusion, and patients with newly diagnosed cancer or progressive disease after remission were followed for 2&#x000a0;years for <styled-content style="fixed-case">ATE</styled-content> and death. Nine&#x02010;hundred and fifty&#x02010;seven patients were included. The subdistribution hazard ratios for <styled-content style="fixed-case">ATE</styled-content> of H3Cit, cfDNA and nucleosomes were 1&#x000b7;0 per 100&#x000a0;ng/ml increase (95% confidence interval [95% CI]: 0&#x000b7;7&#x02013;1&#x000b7;4, <italic>P&#x000a0;</italic>=&#x000a0;0&#x000b7;949), 1&#x000b7;0 per 100&#x000a0;ng/ml (0&#x000b7;9&#x02013;1&#x000b7;2, <italic>P&#x000a0;</italic>=&#x000a0;0&#x000b7;494) increase and 1&#x000b7;1 per 1&#x02010;unit increase (1&#x000b7;0&#x02013;1&#x000b7;2, <italic>P&#x000a0;</italic>=&#x000a0;0&#x000b7;233), respectively. Three&#x02010;hundred and seventy&#x02010;eight (39&#x000b7;5%) patients died. The hazard ratio (<styled-content style="fixed-case">HR</styled-content>) for mortality of H3Cit and cfDNA per 100&#x000a0;ng/ml increase was 1&#x000b7;1 (1&#x000b7;0&#x02013;1&#x000b7;1, <italic>P&#x000a0;</italic>&#x0003c;&#x000a0;0&#x000b7;001) and 1&#x000b7;1 (1&#x000b7;0&#x02013;1&#x000b7;1, <italic>P&#x000a0;</italic>&#x0003c;&#x000a0;0&#x000b7;001), respectively. The <styled-content style="fixed-case">HR</styled-content> for mortality of nucleosome levels per 1&#x02010;unit increase was 1&#x000b7;0 (1&#x000b7;0&#x02013;1&#x000b7;1, <italic>P&#x000a0;</italic>=&#x000a0;0&#x000b7;233). H3Cit, cfDNA and nucleosome levels were not associated with the risk of <styled-content style="fixed-case">ATE</styled-content> in patients with cancer. Elevated H3Cit and cfDNA levels were associated with higher mortality in patients with cancer.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="bjh15906-kwd-0001">neutrophil extracellular traps</kwd><kwd id="bjh15906-kwd-0002">cancer&#x02010;associated thrombosis</kwd><kwd id="bjh15906-kwd-0003">mortality</kwd><kwd id="bjh15906-kwd-0004">arterial thromboembolism</kwd><kwd id="bjh15906-kwd-0005">citrullinated histone H3</kwd></kwd-group><funding-group><award-group><funding-source>Austrian Science Fund</funding-source><award-id>5404&#x02010;B21</award-id><award-id>5405&#x02010;B21</award-id></award-group><award-group><funding-source>&#x000d6;sterreichischen Nationalbank</funding-source><award-id>10935</award-id><award-id>12739</award-id><award-id>14744</award-id></award-group></funding-group><counts><fig-count count="3"/><table-count count="2"/><page-count count="10"/><word-count count="7556"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>bjh15906</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>July 2019</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:5.6.5 mode:remove_FC converted:10.07.2019</meta-value></custom-meta></custom-meta-group></article-meta></front><body><p>Upon activation, neutrophils are able to generate and release decondensed chromatin fibres and granule proteins, so&#x02010;called neutrophil extracellular traps (NETs). NETs not only have the ability to kill bacteria and fungi but also interact with the blood coagulation system (Brinkmann <italic>et&#x000a0;al</italic>, <xref rid="bjh15906-bib-0010" ref-type="ref">2004</xref>; Martinod &#x00026; Wagner, <xref rid="bjh15906-bib-0031" ref-type="ref">2014</xref>). In the process of NETosis, DNA of neutrophil granulocytes is released together with various enzymes stored in granules of the neutrophil. One important enzyme, peptidylarginine deiminase 4 (PAD4) is important for a well&#x02010;described process in NETosis, the citrullination of Histone 3 (H3Cit). This process is assumed to be neutrophil&#x02010;specific and independent from other cell death mechanisms, such as apoptosis and necrosis. The release of cell free DNA (cfDNA) provides a scaffold for the adhesion of platelets and may trigger platelet activation and, therefore, activation of the blood coagulation (Fuchs <italic>et&#x000a0;al</italic>, <xref rid="bjh15906-bib-0022" ref-type="ref">2012</xref>). NETs have been detected in venous (VTE) and arterial thromboembolism (ATE) (Fuchs <italic>et&#x000a0;al</italic>, <xref rid="bjh15906-bib-0021" ref-type="ref">2010</xref>, <xref rid="bjh15906-bib-0022" ref-type="ref">2012</xref>; Brill <italic>et&#x000a0;al</italic>, <xref rid="bjh15906-bib-0009" ref-type="ref">2012</xref>; von Br&#x000fc;hl <italic>et&#x000a0;al</italic>, <xref rid="bjh15906-bib-0013" ref-type="ref">2012</xref>; Mangold <italic>et&#x000a0;al</italic>, <xref rid="bjh15906-bib-0030" ref-type="ref">2015</xref>; Vall&#x000e9;s <italic>et&#x000a0;al</italic>, <xref rid="bjh15906-bib-0058" ref-type="ref">2017</xref>). A recent study published showed that elevated NET markers are associated with a higher risk of VTE in patients with cancer (Mauracher <italic>et&#x000a0;al</italic>, <xref rid="bjh15906-bib-0034" ref-type="ref">2018</xref>). Furthermore, prior studies have shown that patients with cancer have elevated levels of NET markers compared to healthy controls, and indicate that biomarkers of NET formation are associated with poor survival in patients with cancer (Yang <italic>et&#x000a0;al</italic>, <xref rid="bjh15906-bib-0060" ref-type="ref">2015</xref>; Richardson <italic>et&#x000a0;al</italic>, <xref rid="bjh15906-bib-0046" ref-type="ref">2017</xref>; Th&#x000e5;lin <italic>et&#x000a0;al</italic>, <xref rid="bjh15906-bib-0056" ref-type="ref">2018</xref>). However, data on the association of biomarkers of NET formation with ATE and overall survival in patients with cancer are scarce. Therefore, in a prospective cohort study we investigated the association of biomarkers of NET formation with the risk of ATE in patients with cancer. Additionally, we investigated the association of NETs and the risk of mortality in patients with cancer. In conformity with previous studies we quantified NETs by measuring plasma levels of biomarkers reflecting NET formation, H3Cit, cfDNA and nucleosomes (Demers <italic>et&#x000a0;al</italic>, <xref rid="bjh15906-bib-0018" ref-type="ref">2012</xref>; Martinod <italic>et&#x000a0;al</italic>, <xref rid="bjh15906-bib-0032" ref-type="ref">2013</xref>; Th&#x000e5;lin <italic>et&#x000a0;al</italic>, <xref rid="bjh15906-bib-0054" ref-type="ref">2016</xref>; Mauracher <italic>et&#x000a0;al</italic>, <xref rid="bjh15906-bib-0034" ref-type="ref">2018</xref>).</p><sec id="bjh15906-sec-0002"><title>Methods</title><sec id="bjh15906-sec-0003"><title>Study design and population</title><p>This study was conducted at the Vienna General Hospital of the Medial University of Vienna, within the framework of the Vienna Cancer and Thrombosis Study (CATS).</p><p>CATS was initiated in 2003 and is an ongoing single&#x02010;centre prospective observational cohort study, which is approved by the ethics committee (number 126/2003, <email>ethic-kom@meduniwien.ac.at</email>), and conducted in accordance with the Declaration of Helsinki. In brief, adult patients (aged&#x000a0;&#x02265;&#x000a0;18&#x000a0;years) with a newly diagnosed cancer or a progression of disease after complete or partial remission have been included after providing written informed consent. Exclusion criteria are (i) radiotherapy or surgery within the last 2&#x000a0;weeks (ii) chemotherapy or a thromboembolic event within the last 3&#x000a0;months and (iii) an overt infection within the 6&#x000a0;weeks prior to study inclusion. Furthermore, all patients with an indication for long&#x02010;term anticoagulation are excluded. Patients treated with acetylsalicylic acid or other platelet inhibitors are not excluded. Temporary treatment with low molecular heparin (e.g. during hospitalization with acute medical illness) is allowed according to the study protocol. More detailed information regarding the study design and study procedures have been provided in prior publications (Ay <italic>et&#x000a0;al</italic>, <xref rid="bjh15906-bib-0003" ref-type="ref">2008</xref>, <xref rid="bjh15906-bib-0004" ref-type="ref">2009</xref>).</p><p>In the present analysis, all patients were followed for a maximum duration of 2&#x000a0;years, or until the occurrence of ATE, loss of follow&#x02010;up, withdrawal of consent, or death. The primary endpoint of this analysis was death of any cause. ATE was the secondary endpoint, and was defined as a composite of myocardial infarction, ischaemic stroke, and peripheral arterial occlusion if an interventional procedure was conducted. A panel of experts in the field of cardiology, neurology and vascular medicine adjudicated all ATEs. More detailed information regarding the definition and adjudication ATE events have been reported previously (Grilz <italic>et&#x000a0;al</italic>, <xref rid="bjh15906-bib-0024" ref-type="ref">2018</xref>).</p><p>As CATS started with patient recruitment in 2003, plasma samples from patients recruited between 2003 and 2007 were limited, and therefore these patients were not included in this analysis. We further included only patients with complete outcome data over the 2&#x02010;year observation period. This gave a total of 976 patients that were included in CATS between 4 June 2007 and 28 October 2013. After re&#x02010;evaluation of inclusion and exclusion criteria, 19 patients were excluded from further analyses [in 17 patients no follow&#x02010;up was available; 1 patient was treated with Vitamin K antagonists and 1 patient had an implausible H3Cit level (932 times higher than the median H3Cit)].</p></sec><sec id="bjh15906-sec-0004"><title>Laboratory analyses</title><p>At study inclusion, venous blood samples were collected via sterile venepuncture in vacuum tubes containing sodium citrate (Vacuette, Greiner BioOne, Kremsm&#x000fc;nster, Austria). After centrifugation at 3000&#x000a0;&#x000d7;&#x000a0;<italic><bold>g</bold></italic> for 10&#x000a0;min, platelet poor plasma was collected and stored at &#x02212;80&#x000b0;C.</p><p>Quantification of cfDNA in plasma was performed using a Quant&#x02010;iT&#x02122; PicoGreen dsDNA Assay Kit (Thermo Fisher Scientific, Waltham, MA, USA) as described in the manufacturer's instructions. All measurements were executed in duplicates and results are expressed as ng/ml.</p><p>A cell death detection ELISAPLUS kit (Roche Diagnostics, Mannheim, Germany) was used to analyse nucleosomes in plasma samples. Nucleosomes, measured according to manufacturer's instructions, were normalised to pooled plasma obtained from 5 young male healthy controls to calculate a multiple&#x02010;of&#x02010;the&#x02010;median (MoM).</p><p>Quantification of H3Cit in plasma samples was performed as described in detail previously (Mauracher <italic>et&#x000a0;al</italic>, <xref rid="bjh15906-bib-0034" ref-type="ref">2018</xref>) Briefly, anti&#x02010;histone antibody from the Cell Death Detection ELISA Kit (Roche Diagnostics) was applied onto 96&#x02010;well plates (Nunc&#x02122; MicroWell&#x02122; 96&#x02010;Well Microplates; Thermo Fisher Scientific) and incubated overnight at 4&#x000b0;C. After blocking with incubation buffer, H3Cit standards and plasma samples were added in duplicate and incubated for 1&#x000b7;5&#x000a0;h at room temperature. After washing, plates were incubated with anti&#x02010;H3Cit antibody (1:1000, ab5103; Abcam, Cambridge, MA, USA) for 1&#x000b7;5&#x000a0;h, washed and incubated with the secondary antibody (1:5000, goat anti&#x02010;rabbit IgG horseradish peroxidase; Biorad, Hertfordshire, UK) for 1&#x000a0;h at room temperature. After another washing step, TMB (3,3&#x02032;,5,5&#x02032;&#x02010;tetramethylbenzidine; Sigma Aldrich, St. Louis, MO, USA) was applied onto the samples and incubated for 25&#x000a0;min, when the colourimetric reaction was stopped with 2% sulphuric acid and analysed at a wavelength of 450&#x000a0;nm.</p><p>The H3Cit measurement was set to 0&#x000a0;ng/ml when the absorbance of a patient sample was lower than the buffer blank.</p></sec><sec id="bjh15906-sec-0005"><title>Statistical analysis</title><p>Statistical analyses were performed using <sc>spss</sc> 15 (SPSS Inc., Chicago, IL, USA) and <sc>stata</sc> 15.0 (StataCorp., College Station, TX, USA). Two&#x02010;sided <italic>P</italic>&#x02010;values lower than 0&#x000b7;05 were considered statistically significant. Count data and continuous variables were reported as absolute frequencies (percentages) and medians (25th&#x02013;75th percentile), respectively. For estimation of the median follow&#x02010;up time, the reverse Kaplan&#x02013;Meier method according to Schemper and Smith (<xref rid="bjh15906-bib-0049" ref-type="ref">1996</xref>) was used. Spearman's rank correlation coefficient was used to calculate correlations. A Kaplan&#x02013;Meier estimator and uni&#x02010; and multi&#x02010;variable Cox models were used to analyse overall survival and hazards of death, respectively. The cumulative incidence of ATE was estimated using a competing&#x02010;risk estimator with 95% confidence intervals (95% CI) (Coviello &#x00026; Boggess, <xref rid="bjh15906-bib-0016" ref-type="ref">2004</xref>; Ay <italic>et&#x000a0;al</italic>, <xref rid="bjh15906-bib-0006" ref-type="ref">2015</xref>). Gray's test was used to compare ATE incidences between groups (Gray, <xref rid="bjh15906-bib-0023" ref-type="ref">1988</xref>; Ay <italic>et&#x000a0;al</italic>, <xref rid="bjh15906-bib-0006" ref-type="ref">2015</xref>). Subdistribution hazards of ATE were assessed using univariable and multivariable Fine &#x00026; Gray competing risk regression models (Fine &#x00026; Gray, <xref rid="bjh15906-bib-0020" ref-type="ref">1999</xref>; Ay <italic>et&#x000a0;al</italic>, <xref rid="bjh15906-bib-0006" ref-type="ref">2015</xref>). Death from any cause was considered a competing event. For multivariable analyses, age, sex and metastatic disease were selected, because these variables are known for their univariable association with ATE and death (<ext-link ext-link-type="uri" xlink:href="https://www.world-heart-federation.org/resources/risk-factors/">https://www.world-heart-federation.org/resources/risk-factors/</ext-link>; Navi <italic>et&#x000a0;al</italic>, <xref rid="bjh15906-bib-0038" ref-type="ref">2017</xref>; Grilz <italic>et&#x000a0;al</italic>, <xref rid="bjh15906-bib-0024" ref-type="ref">2018</xref>). Due to mechanistic interest, the absolute neutrophil count (ANC) was also included in all multivariable analyses. For better illustration we dichotomized H3Cit, cfDNA and nucleosomes into binary variables. Therefore, we set a cut&#x02010;off at the 75th percentile of the study population. This empiric cut&#x02010;off was also chosen in prior publications (Ay <italic>et&#x000a0;al</italic>, <xref rid="bjh15906-bib-0005" ref-type="ref">2010</xref>; Mauracher <italic>et&#x000a0;al</italic>, <xref rid="bjh15906-bib-0034" ref-type="ref">2018</xref>).</p></sec></sec><sec id="bjh15906-sec-0006"><title>Results</title><sec id="bjh15906-sec-0007"><title>Population</title><p>Nine&#x02010;hundred and fifty&#x02010;seven patients with active cancer were included in this analysis and followed for a median of 666&#x000a0;days [25th&#x02013;75th percentile (interquartile range, IQR): 272&#x02013;731]. Detailed information about the study cohort is given in Table&#x000a0;<xref rid="bjh15906-tbl-0001" ref-type="table">1</xref>. At baseline, 706 (73&#x000b7;8%) patients had newly diagnosed cancer, and 251 (26&#x000b7;2%) had progressive disease after complete or partial remission. The median levels of H3Cit, cfDNA, nucleosomes and ANC were 25&#x000b7;8&#x000a0;ng/ml (IQR: 1&#x000b7;5&#x02013;87&#x000b7;8), 359&#x000b7;2&#x000a0;ng/ml (302&#x000b7;2&#x02013;442&#x000b7;6), 1&#x000b7;2 MoM (0&#x000b7;6&#x02013;3&#x000b7;0), and 4&#x000b7;9&#x000a0;&#x000d7;&#x000a0;10<sup>9</sup>/l (3&#x000b7;6&#x02013;6&#x000b7;8), respectively (Fig&#x000a0;<xref rid="bjh15906-fig-0001" ref-type="fig">1</xref>). H3Cit, cfDNA and nucleosomes were weakly to moderately correlated with each other. The Spearman&#x02032;s correlation coefficients (rho) of H3Cit and cfDNA, H3Cit and nucleosomes, and cfDNA and nucleosomes were 0&#x000b7;17 (<italic>P&#x000a0;</italic>&#x0003c;&#x000a0;0&#x000b7;001), 0&#x000b7;18 (<italic>P&#x000a0;</italic>&#x0003c;&#x000a0;0&#x000b7;001) and 0&#x000b7;51 (<italic>P&#x000a0;</italic>&#x0003c;&#x000a0;0&#x000b7;001), respectively. The ANC was weakly correlated with the levels of H3Cit (rho&#x000a0;=&#x000a0;0&#x000b7;14, <italic>P&#x000a0;</italic>&#x0003c;&#x000a0;0&#x000b7;001), cfDNA (rho&#x000a0;=&#x000a0;0&#x000b7;18, <italic>P&#x000a0;</italic>&#x0003c;&#x000a0;0&#x000b7;001), and nucleosomes (rho&#x000a0;=&#x000a0;0&#x000b7;14, <italic>P&#x000a0;</italic>&#x0003c;&#x000a0;0&#x000b7;001). H3Cit levels were highest in patients with prostate cancer (median: 44&#x000b7;9&#x000a0;ng/ml; IQR: 4&#x000b7;0&#x02013;100&#x000b7;1), cfDNA levels were highest in patients with gastric cancer (419&#x000b7;0&#x000a0;ng/ml; 292&#x000b7;8&#x02013;560&#x000b7;7), and nucleosome levels were highest in patients with lymphoma (1&#x000b7;9 MoM; 0&#x000b7;9&#x02013;3&#x000b7;7). Patients with multiple myeloma had the lowest levels of H3Cit (17&#x000b7;7&#x000a0;ng/ml; 0&#x000b7;0&#x02013;81&#x000b7;0) compared to other cancer types. Patients with breast cancer had the lowest levels of cfDNA (315&#x000b7;3&#x000a0;ng/ml; 259&#x000b7;3&#x02013;371&#x000b7;1) and nucleosomes (0&#x000b7;8 MoM; 0&#x000b7;4&#x02013;1&#x000b7;5). Distributions of all biomarker levels according to the type of cancer are given in Table&#x000a0;SI.</p><table-wrap id="bjh15906-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Characteristics of the total study population, patients who developed ATE and patients who died during the observation time</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1"/><th align="left" valign="top" rowspan="1" colspan="1">All patients (<italic>n</italic>&#x000a0;=&#x000a0;957)</th><th align="left" valign="top" rowspan="1" colspan="1">ATE during follow&#x02010;up<xref ref-type="fn" rid="bjh15906-note-0003">*</xref> (<italic>n</italic>&#x000a0;=&#x000a0;22) (2&#x000b7;3%)</th><th align="left" valign="top" rowspan="1" colspan="1">Death during follow&#x02010;up<xref ref-type="fn" rid="bjh15906-note-0003">*</xref> (<italic>n</italic>&#x000a0;=&#x000a0;378) (39&#x000b7;5%)</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Median age at study entry, years (IQR)</td><td align="left" rowspan="1" colspan="1">61 (51&#x02013;68)</td><td align="left" rowspan="1" colspan="1">66 (55&#x02013;69)</td><td align="left" rowspan="1" colspan="1">63 (55&#x02013;70)</td></tr><tr><td align="left" rowspan="1" colspan="1">Median body mass index (IQR)</td><td align="left" rowspan="1" colspan="1">25&#x000b7;1 (22&#x000b7;3&#x02013;28&#x000b7;3)</td><td align="left" rowspan="1" colspan="1">26&#x000b7;4 (23&#x000b7;1&#x02013;29&#x000b7;0)</td><td align="left" rowspan="1" colspan="1">24&#x000b7;7 (21&#x000b7;8&#x02013;27&#x000b7;7)</td></tr><tr><td align="left" colspan="4" rowspan="1">Sex, <italic>n</italic> (%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Female</td><td align="left" rowspan="1" colspan="1">447</td><td align="left" rowspan="1" colspan="1">5 (1&#x000b7;1)</td><td align="left" rowspan="1" colspan="1">153 (34&#x000b7;2)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Male</td><td align="left" rowspan="1" colspan="1">510</td><td align="left" rowspan="1" colspan="1">17 (3&#x000b7;3)</td><td align="left" rowspan="1" colspan="1">225 (44&#x000b7;1)</td></tr><tr><td align="left" colspan="4" rowspan="1">Site of cancer, <italic>n</italic> (%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Lung</td><td align="left" rowspan="1" colspan="1">188</td><td align="left" rowspan="1" colspan="1">7 (3&#x000b7;7)</td><td align="left" rowspan="1" colspan="1">118 (62&#x000b7;8)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Lymphoma</td><td align="left" rowspan="1" colspan="1">164</td><td align="left" rowspan="1" colspan="1">3 (1&#x000b7;8)</td><td align="left" rowspan="1" colspan="1">28 (17&#x000b7;1)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Breast</td><td align="left" rowspan="1" colspan="1">131</td><td align="left" rowspan="1" colspan="1">0 (0&#x000b7;0)</td><td align="left" rowspan="1" colspan="1">20 (15&#x000b7;3)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Brain</td><td align="left" rowspan="1" colspan="1">126</td><td align="left" rowspan="1" colspan="1">4 (3&#x000b7;2)</td><td align="left" rowspan="1" colspan="1">70 (55&#x000b7;6)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Pancreas</td><td align="left" rowspan="1" colspan="1">76</td><td align="left" rowspan="1" colspan="1">1 (1&#x000b7;3)</td><td align="left" rowspan="1" colspan="1">55 (72&#x000b7;4)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Colon/Rectum</td><td align="left" rowspan="1" colspan="1">67</td><td align="left" rowspan="1" colspan="1">0 (0&#x000b7;0)</td><td align="left" rowspan="1" colspan="1">17 (25&#x000b7;4)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Prostate</td><td align="left" rowspan="1" colspan="1">40</td><td align="left" rowspan="1" colspan="1">1 (2&#x000b7;5)</td><td align="left" rowspan="1" colspan="1">8 (20&#x000b7;0)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Multiple myeloma</td><td align="left" rowspan="1" colspan="1">31</td><td align="left" rowspan="1" colspan="1">0 (0&#x000b7;0)</td><td align="left" rowspan="1" colspan="1">6 (19&#x000b7;4)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Stomach</td><td align="left" rowspan="1" colspan="1">27</td><td align="left" rowspan="1" colspan="1">1 (3&#x000b7;7)</td><td align="left" rowspan="1" colspan="1">18 (66&#x000b7;7)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Kidney</td><td align="left" rowspan="1" colspan="1">23</td><td align="left" rowspan="1" colspan="1">3 (13&#x000b7;0)</td><td align="left" rowspan="1" colspan="1">4 (17&#x000b7;4)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Others</td><td align="left" rowspan="1" colspan="1">84</td><td align="left" rowspan="1" colspan="1">2 (2&#x000b7;4)</td><td align="left" rowspan="1" colspan="1">34 (40&#x000b7;5)</td></tr><tr><td align="left" colspan="4" rowspan="1">Cancer stage (%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Localized</td><td align="left" rowspan="1" colspan="1">292</td><td align="left" rowspan="1" colspan="1">9 (3&#x000b7;1)</td><td align="left" rowspan="1" colspan="1">73 (25&#x000b7;0)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Distant metastasis</td><td align="left" rowspan="1" colspan="1">268</td><td align="left" rowspan="1" colspan="1">4 (1&#x000b7;5)</td><td align="left" rowspan="1" colspan="1">180 (67&#x000b7;2)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Not classifiable<xref ref-type="fn" rid="bjh15906-note-0004">&#x02020;</xref>
+</td><td align="left" rowspan="1" colspan="1">321</td><td align="left" rowspan="1" colspan="1">7 (2&#x000b7;2)</td><td align="left" rowspan="1" colspan="1">104 (32&#x000b7;4)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Unknown</td><td align="left" rowspan="1" colspan="1">76</td><td align="left" rowspan="1" colspan="1">2 (2&#x000b7;6)</td><td align="left" rowspan="1" colspan="1">21 (27&#x000b7;6)</td></tr><tr><td align="left" rowspan="1" colspan="1">Platelet inhibitor use at study entry, <italic>n</italic> (%)</td><td align="left" rowspan="1" colspan="1">158</td><td align="left" rowspan="1" colspan="1">8 (5&#x000b7;1)</td><td align="left" rowspan="1" colspan="1">79 (50&#x000b7;0)</td></tr><tr><td align="left" rowspan="1" colspan="1">Median H3Cit level, ng/ml<xref ref-type="fn" rid="bjh15906-note-0005">&#x02021;</xref> (IQR)</td><td align="left" rowspan="1" colspan="1">25&#x000b7;8 (1&#x000b7;5&#x02013;87&#x000b7;8)</td><td align="left" rowspan="1" colspan="1">0&#x000b7;8 (0&#x000b7;0&#x02013;29&#x000b7;1)</td><td align="left" rowspan="1" colspan="1">36&#x000b7;3 (7&#x000b7;1&#x02013;132&#x000b7;9)</td></tr><tr><td align="left" rowspan="1" colspan="1">Median cfDNA level, ng/ml (IQR)</td><td align="left" rowspan="1" colspan="1">359&#x000b7;2 (302&#x000b7;2&#x02013;442&#x000b7;6)</td><td align="left" rowspan="1" colspan="1">365&#x000b7;0 (325&#x000b7;3&#x02013;411&#x000b7;8)</td><td align="left" rowspan="1" colspan="1">377&#x000b7;0 (317&#x000b7;3&#x02013;460&#x000b7;6)</td></tr><tr><td align="left" rowspan="1" colspan="1">Median nucleosome level, MoM (IQR)</td><td align="left" rowspan="1" colspan="1">1&#x000b7;2 (0&#x000b7;6&#x02013;3&#x000b7;0)</td><td align="left" rowspan="1" colspan="1">1&#x000b7;8 (0&#x000b7;8&#x02013;4&#x000b7;3)</td><td align="left" rowspan="1" colspan="1">1&#x000b7;4 (0&#x000b7;6&#x02013;3&#x000b7;3)</td></tr><tr><td align="left" rowspan="1" colspan="1">Median ANC, 10<sup>9</sup>/l (IQR)</td><td align="left" rowspan="1" colspan="1">4&#x000b7;9 (3&#x000b7;6&#x02013;6&#x000b7;8)</td><td align="left" rowspan="1" colspan="1">5&#x000b7;4 (4&#x000b7;2&#x02013;6&#x000b7;7)</td><td align="left" rowspan="1" colspan="1">5&#x000b7;5 (4&#x000b7;2&#x02013;7&#x000b7;8)</td></tr></tbody></table><table-wrap-foot><fn id="bjh15906-note-0001"><p>Data on body mass index was missing in two persons. Neutrophil count is missing in 56 patients.</p></fn><fn id="bjh15906-note-0002"><p>ANC, absolute neutrophil count; ATE, arterial thromboembolism; cfDNA, cell free DNA; H3Cit, citrullinated histone H3; IQR, interquartile range (i.e. 25th to 75th percentile), MoM, multiple of the median (i.e. nucleosome results were compared to pooled plasma from 5 young male healthy controls to obtain a multiple&#x02010;of&#x02010;the&#x02010;median).</p></fn><fn id="bjh15906-note-0003"><label>*</label><p>Percentages are related to numbers given in the first column of the same line.</p></fn><fn id="bjh15906-note-0004"><label>&#x02020;</label><p>Lymphoma, brain tumours, and multiple myelomas.</p></fn><fn id="bjh15906-note-0005"><label>&#x02021;</label><p>H3Cit level was below the detection limit in 230 patients and therefore set to zero.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><fig fig-type="Figure" xml:lang="en" id="bjh15906-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Histogram showing the distribution of the levels of citrullinated histone H3, cell&#x02010;free DNA, nucleosomes and absolute neutrophil count in patients with cancer.</p></caption><graphic id="nlm-graphic-1" xlink:href="BJH-186-311-g001"/></fig></sec><sec id="bjh15906-sec-0008"><title>H3Cit, cfDNA, and nucleosome levels and the risk of ATE</title><p>Overall, 22 (2&#x000b7;3%) patients developed ATE during the 2&#x02010;year observation time. Nine (40&#x000b7;9%) patients each developed myocardial infarction and ischaemic stroke. Four (18&#x000b7;2%) patients developed peripheral arterial occlusion. The cumulative 6&#x02010;, 12&#x02010; and 24&#x02010;month ATE probability was 1&#x000b7;2% (95% CI: 0&#x000b7;6&#x02013;2&#x000b7;0), 1&#x000b7;8% (1&#x000b7;1&#x02013;2&#x000b7;8) and 2&#x000b7;3% (1&#x000b7;5&#x02013;3&#x000b7;5), respectively. Competing risk regression analyses were performed to analyse the association between H3Cit, cfDNA and nucleosome levels and the risk of ATE occurrence in patients with cancer. Univariable analyses found no association between the risk of ATE and H3Cit (subdistribution hazard ratio [SHR] per 100&#x000a0;ng/ml increase&#x000a0;=&#x000a0;1&#x000b7;0, 95% CI: 0&#x000b7;7&#x02013;1&#x000b7;4, <italic>P&#x000a0;</italic>=&#x000a0;0&#x000b7;949), cfDNA (SHR per 100&#x000a0;ng/ml increase&#x000a0;=&#x000a0;1&#x000b7;0, 0&#x000b7;9&#x02013;1&#x000b7;2, <italic>P&#x000a0;</italic>=&#x000a0;0&#x000b7;494) and nucleosomes (SHR per unit increase&#x000a0;=&#x000a0;1&#x000b7;1, 1&#x000b7;0&#x02013;1&#x000b7;2, <italic>P&#x000a0;</italic>=&#x000a0;0&#x000b7;233). In patients with H3Cit levels &#x0003e;75th percentile the 6&#x02010;, 12&#x02010; and 24&#x02010;month ATE risk was 0&#x000b7;8%, 1&#x000b7;7% and 1&#x000b7;7%, respectively. The corresponding risks for patients with H3Cit level below this cut&#x02010;off were 1&#x000b7;3%, 1&#x000b7;8% and 2&#x000b7;6%, respectively (SHR&#x000a0;=&#x000a0;0&#x000b7;7, 0&#x000b7;2&#x02013;2&#x000b7;0, <italic>P&#x000a0;</italic>=&#x000a0;0&#x000b7;459, Fig&#x000a0;<xref rid="bjh15906-fig-0002" ref-type="fig">2</xref>A). The 6&#x02010;, 12&#x02010; and 24&#x02010;month ATE probability was 0&#x000b7;8%, 1&#x000b7;3% and 1&#x000b7;7% in patients with cfDNA levels &#x0003e;75th percentile and 1&#x000b7;3%, 2&#x000b7;0% and 2&#x000b7;5% in patients below this cut&#x02010;off, respectively (SHR&#x000a0;=&#x000a0;0&#x000b7;7, 0&#x000b7;2&#x02013;2&#x000b7;0, <italic>P&#x000a0;</italic>=&#x000a0;0&#x000b7;460, Fig&#x000a0;<xref rid="bjh15906-fig-0002" ref-type="fig">2</xref>B). The 6&#x02010;, 12&#x02010; and 24&#x02010;month ATE probability was 2&#x000b7;1%, 2&#x000b7;9% and 3&#x000b7;4% in patients with nucleosome levels &#x0003e;75th percentile and 0&#x000b7;8%, 1&#x000b7;4% and 2&#x000b7;0% in patients below this cut&#x02010;off, respectively (SHR&#x000a0;=&#x000a0;1&#x000b7;7, 0&#x000b7;7&#x02013;4&#x000b7;1, <italic>P&#x000a0;</italic>=&#x000a0;0&#x000b7;225, Fig&#x000a0;<xref rid="bjh15906-fig-0002" ref-type="fig">2</xref>C).</p><fig fig-type="Figure" xml:lang="en" id="bjh15906-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Cumulative incidence of ATE accounting for competing risk (i.e. death of any cause) according to H3Cit, cfDNA, and nucleosome levels. Note the scaling of <italic>y</italic>&#x02010;axis from 0% to 10% of ATE risk. ATE, arterial thromboembolism; cfDNA, cell&#x02010;free DNA; H3Cit, citrullinated histone 3; MoM, multiple of the median; Q, quartile.</p></caption><graphic id="nlm-graphic-3" xlink:href="BJH-186-311-g002"/></fig></sec><sec id="bjh15906-sec-0009"><title>H3Cit, cfDNA, and nucleosome levels and the risk of all&#x02010;cause mortality</title><p>Three&#x02010;hundred and seventy&#x02010;eight (39&#x000b7;5%) patients died during the observation time. The 6&#x02010;, 12&#x02010; and 24&#x02010;month cumulative survival probabilities were 87&#x000b7;0% (95% CI: 84&#x000b7;7&#x02013;89&#x000b7;1), 73&#x000b7;7% (70&#x000b7;7&#x02013;76&#x000b7;4) and 57&#x000b7;7% (54&#x000b7;3&#x02013;60&#x000b7;9), respectively. In a univariable Cox proportional hazards model, a higher H3Cit (HR per 100&#x000a0;ng/ml increase&#x000a0;=&#x000a0;1&#x000b7;1, 1&#x000b7;0&#x02013;1&#x000b7;1, <italic>P&#x000a0;</italic>&#x0003c;&#x000a0;0&#x000b7;001) and a higher cfDNA (HR per 100&#x000a0;ng/ml increase&#x000a0;=&#x000a0;1&#x000b7;1, 1&#x000b7;0&#x02013;1&#x000b7;1, <italic>P&#x000a0;</italic>&#x0003c;&#x000a0;0&#x000b7;001) were associated with an increased risk of mortality. A higher nucleosome level was not associated with risk of mortality (HR per unit increase&#x000a0;=&#x000a0;1&#x000b7;0, 1&#x000b7;0&#x02013;1&#x000b7;1, <italic>P&#x000a0;</italic>=&#x000a0;0&#x000b7;233). After adjusting for age, sex, metastatic disease and neutrophil count the association between increasing levels of H3Cit and risk of mortality was maintained (adjusted [adj.] HR per 100&#x000a0;ng/ml increase&#x000a0;=&#x000a0;1&#x000b7;1, 1&#x000b7;0&#x02013;1&#x000b7;2, <italic>P&#x000a0;</italic>&#x0003c;&#x000a0;0&#x000b7;001), but not between cfDNA and mortality (adj. HR per 100&#x000a0;ng/ml increase&#x000a0;=&#x000a0;1&#x000b7;0, 1&#x000b7;0&#x02013;1&#x000b7;1, <italic>P&#x000a0;</italic>=&#x000a0;0&#x000b7;111). Data regarding the association of H3Cit, cfDNA and nucleosomes and the risk of mortality are presented in Table&#x000a0;<xref rid="bjh15906-tbl-0002" ref-type="table">2</xref>. In subgroup analyses, significant association between H3Cit and the risk of mortality was found in patients with lung cancer (adj. HR per 100&#x000a0;ng/ml increase&#x000a0;=&#x000a0;1&#x000b7;3, 1&#x000b7;1&#x02013;1&#x000b7;4, <italic>P&#x000a0;</italic>&#x0003c;&#x000a0;0&#x000b7;001), lymphoma (adj. HR per 100&#x000a0;ng/ml increase&#x000a0;=&#x000a0;1&#x000b7;5, 1&#x000b7;2&#x02013;1&#x000b7;9, <italic>P&#x000a0;</italic>&#x0003c;&#x000a0;0&#x000b7;001) and pancreatic cancer (adj. HR per 100&#x000a0;ng/ml increase&#x000a0;=&#x000a0;1&#x000b7;3, 1&#x000b7;1&#x02013;1&#x000b7;6, <italic>P&#x000a0;</italic>&#x0003c;&#x000a0;0&#x000b7;001). Detailed data regarding the association of NET formation biomarkers and the risk of mortality separated by cancer type are shown in Table&#x000a0;SI. Calculations for patients with newly diagnosed cancer and progressive disease after remission are described in Table&#x000a0;SII.</p><table-wrap id="bjh15906-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Association of H3Cit, cfDNA and nucleosome level with the risk of mortality in the total study cohort</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Parameter</th><th align="left" valign="top" rowspan="1" colspan="1">Univariable HR for mortality (95% CI)</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic>P</italic> value</th><th align="left" valign="top" rowspan="1" colspan="1">Multivariable HR for mortality (95% CI)<xref ref-type="fn" rid="bjh15906-note-0008">*</xref>
+</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic>P</italic> value</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">H3Cit (per 100&#x000a0;ng/ml increase) (<italic>n</italic>&#x000a0;=&#x000a0;957, <italic>n</italic>
+<sub>died</sub>&#x000a0;=&#x000a0;378)</td><td align="left" rowspan="1" colspan="1">1&#x000b7;1 (1&#x000b7;0&#x02013;1&#x000b7;1)</td><td align="left" rowspan="1" colspan="1">&#x0003c;0&#x000b7;001</td><td align="left" rowspan="1" colspan="1">1&#x000b7;1 (1&#x000b7;0&#x02013;1&#x000b7;2)</td><td align="left" rowspan="1" colspan="1">&#x0003c;0&#x000b7;001</td></tr><tr><td align="left" rowspan="1" colspan="1">cfDNA (per 100&#x000a0;ng/ml increase) (<italic>n</italic>&#x000a0;=&#x000a0;957, <italic>n</italic>
+<sub>died</sub>&#x000a0;=&#x000a0;378)</td><td align="left" rowspan="1" colspan="1">1&#x000b7;1 (1&#x000b7;0&#x02013;1&#x000b7;1)</td><td align="left" rowspan="1" colspan="1">&#x0003c;0&#x000b7;001</td><td align="left" rowspan="1" colspan="1">1&#x000b7;0 (1&#x000b7;0&#x02013;1&#x000b7;1)</td><td align="left" rowspan="1" colspan="1">0&#x000b7;111</td></tr><tr><td align="left" rowspan="1" colspan="1">Nucleosomes (per one unit increase) (<italic>n</italic>&#x000a0;=&#x000a0;957, <italic>n</italic>
+<sub>died</sub>&#x000a0;=&#x000a0;378)</td><td align="left" rowspan="1" colspan="1">1&#x000b7;0 (1&#x000b7;0&#x02013;1&#x000b7;1)</td><td align="left" rowspan="1" colspan="1">0&#x000b7;233</td><td align="left" rowspan="1" colspan="1">1&#x000b7;0 (1&#x000b7;0&#x02013;1&#x000b7;1)</td><td align="left" rowspan="1" colspan="1">0&#x000b7;222</td></tr></tbody></table><table-wrap-foot><fn id="bjh15906-note-0006"><p>Calculated in univariable and multivariable Cox proportional hazard models.</p></fn><fn id="bjh15906-note-0007"><p>cfDNA, cell free DNA; CI, confidence interval; H3Cit, citrullinated histone H3; HR, hazard ratio; <italic>n</italic>, number of patients; <italic>n</italic>
+<sub>died</sub>, number of patients who died during the observation time.</p></fn><fn id="bjh15906-note-0008"><label>*</label><p>Adjusted for age, sex, metastatic disease and neutrophil count. In multivariable analyses 56 patients are missing due to missing data of absolute neutrophil count.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><p>For better illustration, we defined two groups of patients with elevated or non&#x02010;elevated NET biomarkers. Therefore, we set an empiric cut&#x02010;off at the 75th percentile of the distribution in the total study cohort. Patients with higher H3Cit baseline levels had a higher all&#x02010;cause mortality after adjusting for age, sex, metastatic disease and ANC (adj. HR&#x000a0;=&#x000a0;1&#x000b7;6, 1&#x000b7;3&#x02013;2&#x000b7;0, <italic>P&#x000a0;</italic>&#x0003c;&#x000a0;0&#x000b7;001, Fig&#x000a0;<xref rid="bjh15906-fig-0003" ref-type="fig">3</xref>A). After 6&#x02010;, 12&#x02010; and 24&#x02010;month, the probability of overall survival in patients with H3Cit levels &#x0003e;75th percentile was 81&#x000b7;7%, 64&#x000b7;4% and 46&#x000b7;7%, and 88&#x000b7;9%, 76&#x000b7;8% and 61&#x000b7;3% in those with H3Cit levels &#x02264;75th percentile. Patients with cfDNA levels &#x0003e;75th percentile had an increased risk of mortality (adj. HR&#x000a0;=&#x000a0;1&#x000b7;3, 1&#x000b7;0&#x02013;1&#x000b7;6, <italic>P&#x000a0;</italic>=&#x000a0;0&#x000b7;029, Fig&#x000a0;<xref rid="bjh15906-fig-0003" ref-type="fig">3</xref>B). The corresponding overall survival rates after 6&#x02010;, 12&#x02010; and 24&#x02010;month for cfDNA levels &#x0003e;75th percentile were 81&#x000b7;7%, 66&#x000b7;0% and 50&#x000b7;5%, and 88&#x000b7;9%, 76&#x000b7;2% and 60&#x000b7;1% in those with cfDNA levels below the 75th percentile. No association was found between higher nucleosome levels and all&#x02010;cause mortality after adjusting for age, sex, metastatic disease and ANC (adj. HR&#x000a0;=&#x000a0;1&#x000b7;2, 0&#x000b7;9&#x02013;1&#x000b7;5, <italic>P&#x000a0;</italic>=&#x000a0;0&#x000b7;143, Fig&#x000a0;<xref rid="bjh15906-fig-0003" ref-type="fig">3</xref>C). Six, 12&#x02010; and 24&#x02010;month overall survival probabilities were 78&#x000b7;9%, 68&#x000b7;5% and 55&#x000b7;5% in patients with a nucleosome level &#x0003e;75th percentile and 89&#x000b7;8%, 75&#x000b7;4% and 58&#x000b7;3% in patients below this cut&#x02010;off, respectively.</p><fig fig-type="Figure" xml:lang="en" id="bjh15906-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Kaplan&#x02013;Meier estimates for overall survival probability of patients with cancer with H3Cit, cfDNA and nucleosome levels above and below the 75th percentile, respectively. ATE, arterial thromboembolism; cfDNA, cell&#x02010;free DNA; H3Cit, citrullinated histone 3; MoM, multiple of the median; Q, quartile.</p></caption><graphic id="nlm-graphic-5" xlink:href="BJH-186-311-g003"/></fig></sec></sec><sec id="bjh15906-sec-0010"><title>Discussion</title><p>In this prospective observational cohort study, we investigated the association of three biomarkers of NET formation (H3Cit, cfDNA and nucleosomes) with the risk of ATE and mortality in patients with cancer. While cfDNA and nucleosome release do not necessarily indicate increased NET formation, as apoptotic and necrotic cell death are other potential sources that frequently occur in patients with cancer, H3Cit is widely accepted as specific biomarker reflecting NET formation (Kerr <italic>et&#x000a0;al</italic>, <xref rid="bjh15906-bib-0027" ref-type="ref">1994</xref>; Schwarzenbach <italic>et&#x000a0;al</italic>, <xref rid="bjh15906-bib-0050" ref-type="ref">2011</xref>; Martinod <italic>et&#x000a0;al</italic>, <xref rid="bjh15906-bib-0032" ref-type="ref">2013</xref>; Vall&#x000e9;s <italic>et&#x000a0;al</italic>, <xref rid="bjh15906-bib-0058" ref-type="ref">2017</xref>). We did not find an association between H3Cit, cfDNA and nucleosome levels and risk of ATE. However, elevated levels of H3Cit and cfDNA were associated with an increased risk of mortality in univariable analysis, while no association was found for the nucleosome levels.</p><p>Although the role of NET formation in thrombosis has been extensively investigated in mouse models, data from clinical studies are still very limited (Brill <italic>et&#x000a0;al</italic>, <xref rid="bjh15906-bib-0009" ref-type="ref">2012</xref>; Martinod <italic>et&#x000a0;al</italic>, <xref rid="bjh15906-bib-0032" ref-type="ref">2013</xref>, <xref rid="bjh15906-bib-0033" ref-type="ref">2015</xref>; Meng <italic>et&#x000a0;al</italic>, <xref rid="bjh15906-bib-0036" ref-type="ref">2017</xref>; Hisada &#x00026; Mackman, <xref rid="bjh15906-bib-0026" ref-type="ref">2018</xref>). Experimental studies suggest that tumours pre&#x02010;dispose neutrophils to release NETs, which then induce a prothrombotic state (Engelmann &#x00026; Massberg, <xref rid="bjh15906-bib-0019" ref-type="ref">2013</xref>; Martinod &#x00026; Wagner, <xref rid="bjh15906-bib-0031" ref-type="ref">2014</xref>; Laridan <italic>et&#x000a0;al</italic>, <xref rid="bjh15906-bib-0029" ref-type="ref">2017</xref>; Pertiwi <italic>et&#x000a0;al</italic>, <xref rid="bjh15906-bib-0043" ref-type="ref">2018</xref>). The first evidence of a role of NETs for cancer&#x02010;associated VTE was reported recently in a study by Mauracher <italic>et&#x000a0;al</italic> (<xref rid="bjh15906-bib-0034" ref-type="ref">2018</xref>), which found a 13% relative increase in VTE risk per 100&#x000a0;ng/ml increase in H3Cit level. In contrast, we did not observe an association of H3Cit with ATE in patients with cancer in our present study. We therefore conclude that biomarkers of NET formation, such as H3Cit do not play a role for prediction of ATE risk in patients with cancer. The difference between the association of biomarkers of NET formation with ATE and VTE could be explained by different pathomechanisms of ATE and VTE (Turpie &#x00026; Esmon, <xref rid="bjh15906-bib-0057" ref-type="ref">2011</xref>).</p><p>Previous studies in the non&#x02010;cancer setting have indicated an association of NETs with arterial thrombosis (de Boer <italic>et&#x000a0;al</italic>, <xref rid="bjh15906-bib-0007" ref-type="ref">2013</xref>; Borissoff <italic>et&#x000a0;al</italic>, <xref rid="bjh15906-bib-0008" ref-type="ref">2013</xref>; Mangold <italic>et&#x000a0;al</italic>, <xref rid="bjh15906-bib-0030" ref-type="ref">2015</xref>; Perez&#x02010;de&#x02010;Puig <italic>et&#x000a0;al</italic>, <xref rid="bjh15906-bib-0042" ref-type="ref">2015</xref>; Riegger <italic>et&#x000a0;al</italic>, <xref rid="bjh15906-bib-0047" ref-type="ref">2016</xref>). However, most studies investigated NETs at the site of thrombus formation (de Boer <italic>et&#x000a0;al</italic>, <xref rid="bjh15906-bib-0007" ref-type="ref">2013</xref>; Mangold <italic>et&#x000a0;al</italic>, <xref rid="bjh15906-bib-0030" ref-type="ref">2015</xref>; Perez&#x02010;de&#x02010;Puig <italic>et&#x000a0;al</italic>, <xref rid="bjh15906-bib-0042" ref-type="ref">2015</xref>; Riegger <italic>et&#x000a0;al</italic>, <xref rid="bjh15906-bib-0047" ref-type="ref">2016</xref>). One study that evaluated circulating double&#x02013;stranded DNA (dsDNA), nucleosomes, citrullinated Histone 4 (H4Cit) and myeloperoxidase&#x02010;DNA complexes (MPO&#x02010;DNA complexes) as NET formation markers found that baseline levels of dsDNA, nucleosomes and MPO&#x02010;DNA are associated with the occurrence of major arterial cardiovascular events (Borissoff <italic>et&#x000a0;al</italic>, <xref rid="bjh15906-bib-0008" ref-type="ref">2013</xref>). We could not confirm this finding in our cohort of patients with cancer using three different assays. Furthermore, it was found that NET formation in atherosclerosis typically occurs as a consequence of low&#x02010;density lipoprotein oxidation, which is known to play a crucial role in the development and progression of atherosclerosis (Brown &#x00026; Goldstein, <xref rid="bjh15906-bib-0012" ref-type="ref">1986</xref>; Kita <italic>et&#x000a0;al</italic>, <xref rid="bjh15906-bib-0028" ref-type="ref">1987</xref>; Steinberg, <xref rid="bjh15906-bib-0053" ref-type="ref">1997</xref>; Mitra <italic>et&#x000a0;al</italic>, <xref rid="bjh15906-bib-0037" ref-type="ref">2011</xref>; Cross &#x00026; Zeki, <xref rid="bjh15906-bib-0017" ref-type="ref">2016</xref>; Seo <italic>et&#x000a0;al</italic>, <xref rid="bjh15906-bib-0051" ref-type="ref">2018</xref>; Zhang <italic>et&#x000a0;al</italic>, <xref rid="bjh15906-bib-0061" ref-type="ref">2019</xref>). Patients with cancer frequently have reduced body weight or cachexia, whereby serum lipids may also decrease (Haarbo <italic>et&#x000a0;al</italic>, <xref rid="bjh15906-bib-0025" ref-type="ref">1989</xref>; Ng <italic>et&#x000a0;al</italic>, <xref rid="bjh15906-bib-0039" ref-type="ref">2007</xref>; Oda, <xref rid="bjh15906-bib-0040" ref-type="ref">2018</xref>). Therefore, it could be argued that NETs play a minor role in cancer&#x02010;associated ATE due to significant changes in the stimulus of NET formation as a result of lower serum lipids.</p><p>Other reasons for the absence of an association of NET formation biomarkers with risk of ATE in patients with cancer could be differences between the pathogenesis of ATE in the general population and patients with cancer. In previous studies investigating risk factors for ATE in patients with cancer, only hypertension and a history of cardiovascular disease were significantly and independently associated with an increased risk of ATE, while body mass index, diabetes, dyslipidaemia and prior VTE did not increase ATE risk in patients with cancer (Grilz <italic>et&#x000a0;al</italic>, <xref rid="bjh15906-bib-0024" ref-type="ref">2018</xref>). Furthermore, anti&#x02010;cancer treatments (e.g. radiotherapy, platinum&#x02010;based chemotherapy, monoclonal antibodies, tyrosine kinase inhibitors) are known to increase the risk of cancer&#x02010;associated ATE (Scappaticci <italic>et&#x000a0;al</italic>, <xref rid="bjh15906-bib-0048" ref-type="ref">2007</xref>; McGale <italic>et&#x000a0;al</italic>, <xref rid="bjh15906-bib-0035" ref-type="ref">2011</xref>; Proverbs&#x02010;Singh <italic>et&#x000a0;al</italic>, <xref rid="bjh15906-bib-0044" ref-type="ref">2012</xref>; Sonpavde <italic>et&#x000a0;al</italic>, <xref rid="bjh15906-bib-0052" ref-type="ref">2012</xref>; Qi <italic>et&#x000a0;al</italic>, <xref rid="bjh15906-bib-0045" ref-type="ref">2014</xref>). As the number of arterial events was relatively low in our cohort, we cannot rule out that a large sample size could reveal the effect of biomarkers of NET formation on the development of ATE in cancer patients. Furthermore, arterial thromboembolic events are very heterogeneous, with multiple pathomechanisms. However, it was not possible to perform sub&#x02010;group analyses in certain types of arterial thrombosis due to the relatively low absolute number of arterial events. It is important to note that we did not screen for ATE, and therefore the incidence of ATE might be underestimated in our study. Patients with a high risk of cardio&#x02010;embolic stroke (e.g. patients with atrial fibrillation or artificial heart valves) are usually treated with long&#x02010;term anticoagulation. Prior studies indicate that NETs play a role in the development of cardiovascular events in patients with atrial fibrillation despite anticoagulant therapy (Arroyo <italic>et&#x000a0;al</italic>, <xref rid="bjh15906-bib-0002" ref-type="ref">2018</xref>). The exclusion of these patients in our study could have further reduced the number of arterial events and could thus have influenced the result regarding the association of NETs and ATE.</p><p>Next to this limitation, the strengths of our study are its prospective design and adjudication of the endpoints by an expert committee.</p><p>With regard to the prognostic impact of H3Cit and cfDNA on the risk of all&#x02010;cause mortality, our data are in line with previous findings reporting an association of biomarkers of NET formation with disease severity and reduced survival in patients with cancer (Mangold <italic>et&#x000a0;al</italic>, <xref rid="bjh15906-bib-0030" ref-type="ref">2015</xref>; Yang <italic>et&#x000a0;al</italic>, <xref rid="bjh15906-bib-0060" ref-type="ref">2015</xref>; Richardson <italic>et&#x000a0;al</italic>, <xref rid="bjh15906-bib-0046" ref-type="ref">2017</xref>; Th&#x000e5;lin <italic>et&#x000a0;al</italic>, <xref rid="bjh15906-bib-0056" ref-type="ref">2018</xref>). Biomarkers of NET formation have been linked to tumour progression and metastatic spread, and could thereby explain poor prognosis of patients (Cools&#x02010;Lartigue <italic>et&#x000a0;al</italic>, <xref rid="bjh15906-bib-0014" ref-type="ref">2013</xref>; Arelaki <italic>et&#x000a0;al</italic>, <xref rid="bjh15906-bib-0001" ref-type="ref">2016</xref>). Cools&#x02010;Lartigue <italic>et&#x000a0;al</italic> (<xref rid="bjh15906-bib-0014" ref-type="ref">2013</xref>) reported that NETs promote metastatic spread by sequestering cancer cells and enhancement of cancer cell adhesion to the endothelium; therefore, NETs could favour the aggressiveness of cancer (Cools&#x02010;Lartigue <italic>et&#x000a0;al</italic>, <xref rid="bjh15906-bib-0015" ref-type="ref">2014</xref>). These observations are supported by our study in which the association between H3Cit and mortality was high in cancer types with poor prognosis, namely lung cancer and pancreatic cancer, although we cannot exclude a multiple comparisons problem in subgroup analyses (<ext-link ext-link-type="uri" xlink:href="https://seer.cancer.gov/archive/csr/1975_2014/browse_csr.php?sectionSEL=1%26pageSEL=sect_01_table.05.htmlml">https://seer.cancer.gov/archive/csr/1975_2014/browse_csr.php?sectionSEL=1&#x00026;pageSEL=sect_01_table.05.htmlml</ext-link>). Furthermore, these results are substantiated by a recent study that reported higher H3Cit levels in patients with advanced cancer (Th&#x000e5;lin <italic>et&#x000a0;al</italic>, <xref rid="bjh15906-bib-0056" ref-type="ref">2018</xref>).</p><p>It is important to note that direct NET quantification in clinical samples from patients has not been standardized yet. Therefore, we have indirectly quantified NETs by measuring biomarkers that have been proposed to reflect NET formation (Brinkmann <italic>et&#x000a0;al</italic>, <xref rid="bjh15906-bib-0011" ref-type="ref">2012</xref>; Martinod &#x00026; Wagner, <xref rid="bjh15906-bib-0031" ref-type="ref">2014</xref>; Vorobjeva &#x00026; Pinegin, <xref rid="bjh15906-bib-0059" ref-type="ref">2014</xref>). We used an H3Cit ELISA that has been employed in previous clinical studies (Th&#x000e5;lin <italic>et&#x000a0;al</italic>, <xref rid="bjh15906-bib-0054" ref-type="ref">2016</xref>, <xref rid="bjh15906-bib-0055" ref-type="ref">2017</xref>; Paues G&#x000f6;ranson <italic>et&#x000a0;al</italic>, <xref rid="bjh15906-bib-0041" ref-type="ref">2018</xref>). As no biological cut&#x02010;offs for elevated levels of biomarkers for NET formation have been established, we chose an empirical cut&#x02010;off at the 75th percentile of the distribution of H3Cit, cfDNA and nucleosome levels in the study population to define elevated levels of these biomarkers. To minimize the potential for type 1 or type 2 errors, we also analysed the biomarkers as continuous variables in the main analysis, and regression coefficients from these analyses can be interpreted without potential bias from cut&#x02010;offs. A potential limitation is that we measured the biomarkers of NET formation only at one single time point, before initiation of anti&#x02010;tumour treatment. Thus, we cannot exclude potential changes of H3Cit, cfDNA and nucleosome levels during cancer evolution and therapy, and the resulting impact on study outcomes. Finally, a major limitation is that we did not prospectively collect data on performance status or response to cancer treatments. Therefore, we cannot address the question of whether the adverse prognostic impact of higher levels of biomarkers of NET formation on mortality is mediated by poor performance status or correlates with poor response to anti&#x02010;cancer therapy. By excluding patients with an overt bacterial or viral infection, we aimed at reducing the influence of infection on biomarkers measured in CATS, including those of NETs formation. Nonetheless, our study design did not enable us to reveal the impact of infection or of inflammation during the course of disease or other acute conditions on NET formation during the course of disease and to assess the resulting effect on study outcomes.</p><p>In summary, we found a univariable association between two biomarkers of NET formation, H3Cit and cfDNA, and the risk of mortality in patients with cancer. However, in multivariable analyses only H3Cit emerged as independently associated biomarker for mortality risk in patients with cancer. Our study adds further evidence that NETs are associated with poor survival in patients with cancer; nevertheless future research is needed to validate our conclusions and to further elucidate the role of NETs in patients with cancer.</p></sec><sec id="bjh15906-sec-0012"><title>Disclosures</title><p>The authors have no conflict of interest to declare.</p></sec><sec id="bjh15906-sec-0013"><title>Authorship contributions</title><p>E.G. acquired, analysed and interpreted data, performed statistical analyses, coordinated the study, performed the experiments and drafted the manuscript; L.&#x02010;M.M. designed and performed the experiments; F.P. performed statistical analyses and critically revised the manuscript; O.K. acquired and interpreted data, and recruited patients; S.Z.&#x02010;M. critically revised the manuscript for important intellectual content, and contributed to the study design; C.M. critically revised the manuscript for important intellectual content, and contributed to the study design; I.M.L. critically revised the manuscript for important intellectual content, was a member of the adjudication committee, and contributed to the study design; I.P. designed and conceived the study, obtained funding, critically revised the manuscript for important intellectual content, and provided administrative support. C.A. acquired data, designed and supervised the study, obtained funding, critically revised the manuscript for important intellectual content, and provided administrative support; all authors reviewed and edited the manuscript and approved the final article.</p></sec><sec id="bjh15906-sec-0014"><title>Data access and responsibility</title><p>Ella Grilz and Cihan Ay had full access to all the data in the study and take the responsibility for the integrity of the data and the accuracy of the data analysis.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="bjh15906-sup-0001"><caption><p>
+<bold>Table&#x000a0;SI.</bold> Association of H3Cit, cfDNA, and nucleosome level and the risk of mortality in the total study cohort and separated by cancer type.</p><p>
+<bold>Table&#x000a0;SII.</bold> Association of NET formation parameters with the risk of mortality and ATE &#x02013; in patients with newly diagnosed cancer (<italic>n</italic>&#x000a0;=&#x000a0;706) <italic>versus</italic> patients with progression of disease after complete or partial remission (<italic>n</italic>&#x000a0;=&#x000a0;251).</p></caption><media xlink:href="BJH-186-311-s001.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="bjh15906-sec-0011"><title>Acknowledgements</title><p>We thank the members of the adjudication committee: Assoc. Prof. Priv.&#x02010;Doz. Dr. Thomas Gremmel (Clinical Division of Angiology, Department of Medicine II, Medical University of Vienna) and ao. Univ.&#x02010;Prof. Dr. Fritz Leutmezer (Department of Neurology, Medical University of Vienna). We thank the Anniversary Fund of the Austrian National Bank (&#x0201c;Jubil&#x000e4;umsfonds der &#x000d6;sterreichischen Nationalbank (OeNB)&#x0201d; project numbers #10935, #12739 and #14744) for supporting the Vienna Cancer and Thrombosis Study (CATS) and the Austrian Science Fund (FWF, Special Research Program (SFB) 5405&#x02010;B21 and 5404&#x02010;B21).</p></ack><ref-list content-type="cited-references" id="bjh15906-bibl-0001"><title>References</title><ref id="bjh15906-bib-0001"><mixed-citation publication-type="journal" id="bjh15906-cit-0001">
+<string-name>
+<surname>Arelaki</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Arampatzioglou</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Kambas</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Papagoras</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Miltiades</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Angelidou</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Mitsios</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Kotsianidis</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Skendros</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Sivridis</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Maroulakou</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Giatromanolaki</surname>, <given-names>A.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Ritis</surname>, <given-names>K.</given-names>
+</string-name> (<year>2016</year>) <article-title>Gradient infiltration of neutrophil extracellular traps in colon cancer and evidence for their involvement in tumour growth</article-title>. <source xml:lang="en">PLoS ONE</source>, <volume>11</volume>, <fpage>e0154484</fpage>.<pub-id pub-id-type="pmid">27136460</pub-id></mixed-citation></ref><ref id="bjh15906-bib-0002"><mixed-citation publication-type="journal" id="bjh15906-cit-0002">
+<string-name>
+<surname>Arroyo</surname>, <given-names>A.B.</given-names>
+</string-name>, <string-name>
+<surname>de Los Reyes&#x02010;Garc&#x000ed;a</surname>, <given-names>A.M.</given-names>
+</string-name>, <string-name>
+<surname>Rivera&#x02010;Caravaca</surname>, <given-names>J.M.</given-names>
+</string-name>, <string-name>
+<surname>Valledor</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Garc&#x000ed;a&#x02010;Barber&#x000e1;</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Rold&#x000e1;n</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Vicente</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Mart&#x000ed;nez</surname>, <given-names>C.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Gonz&#x000e1;lez&#x02010;Conejero</surname>, <given-names>R.</given-names>
+</string-name> (<year>2018</year>) <article-title>MiR&#x02010;146a regulates neutrophil extracellular trap formation that predicts adverse cardiovascular events in patients with atrial fibrillation</article-title>. <source xml:lang="en">Arteriosclerosis, Thrombosis, and Vascular Biology</source>, <volume>38</volume>, <fpage>892</fpage>&#x02013;<lpage>902</lpage>.</mixed-citation></ref><ref id="bjh15906-bib-0003"><mixed-citation publication-type="journal" id="bjh15906-cit-0003">
+<string-name>
+<surname>Ay</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Simanek</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Vormittag</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Dunkler</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Alguel</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Koder</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Kornek</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Marosi</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Wagner</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Zielinski</surname>, <given-names>C.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Pabinger</surname>, <given-names>I.</given-names>
+</string-name> (<year>2008</year>) <article-title>High plasma levels of soluble P&#x02010;selectin are predictive of venous thromboembolism in cancer patients: results from the Vienna Cancer and Thrombosis Study (CATS)</article-title>. <source xml:lang="en">Blood</source>, <volume>112</volume>, <fpage>2703</fpage>&#x02013;<lpage>2708</lpage>.<pub-id pub-id-type="pmid">18539899</pub-id></mixed-citation></ref><ref id="bjh15906-bib-0004"><mixed-citation publication-type="journal" id="bjh15906-cit-0004">
+<string-name>
+<surname>Ay</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Vormittag</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Dunkler</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Simanek</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Chiriac</surname>, <given-names>A.&#x02010;L.</given-names>
+</string-name>, <string-name>
+<surname>Drach</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Quehenberger</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Wagner</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Zielinski</surname>, <given-names>C.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Pabinger</surname>, <given-names>I.</given-names>
+</string-name> (<year>2009</year>) <article-title>D&#x02010;dimer and prothrombin fragment 1&#x000a0;+&#x000a0;2 predict venous thromboembolism in patients with cancer: results from the Vienna Cancer and Thrombosis Study</article-title>. <source xml:lang="en">Journal of Clinical Oncology</source>, <volume>27</volume>, <fpage>4124</fpage>&#x02013;<lpage>4129</lpage>.<pub-id pub-id-type="pmid">19636003</pub-id></mixed-citation></ref><ref id="bjh15906-bib-0005"><mixed-citation publication-type="journal" id="bjh15906-cit-0005">
+<string-name>
+<surname>Ay</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Dunkler</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Marosi</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Chiriac</surname>, <given-names>A.&#x02010;L.</given-names>
+</string-name>, <string-name>
+<surname>Vormittag</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Simanek</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Quehenberger</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Zielinski</surname>, <given-names>C.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Pabinger</surname>, <given-names>I.</given-names>
+</string-name> (<year>2010</year>) <article-title>Prediction of venous thromboembolism in cancer patients</article-title>. <source xml:lang="en">Blood</source>, <volume>116</volume>, <fpage>5377</fpage>&#x02013;<lpage>5382</lpage>.<pub-id pub-id-type="pmid">20829374</pub-id></mixed-citation></ref><ref id="bjh15906-bib-0006"><mixed-citation publication-type="journal" id="bjh15906-cit-0006">
+<string-name>
+<surname>Ay</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Posch</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Kaider</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Zielinski</surname>, <given-names>C.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Pabinger</surname>, <given-names>I.</given-names>
+</string-name> (<year>2015</year>) <article-title>Estimating risk of venous thromboembolism in patients with cancer in the presence of competing mortality</article-title>. <source xml:lang="en">Journal of Thrombosis and Haemostasis</source>, <volume>13</volume>, <fpage>390</fpage>&#x02013;<lpage>397</lpage>.<pub-id pub-id-type="pmid">25529107</pub-id></mixed-citation></ref><ref id="bjh15906-bib-0007"><mixed-citation publication-type="journal" id="bjh15906-cit-0007">
+<string-name>
+<surname>de Boer</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Teeling</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Mackaay</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Ploegmakers</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>van der Loos</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Daemen</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>de Winter</surname>, <given-names>R.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>van der Wal</surname>, <given-names>A.</given-names>
+</string-name> (<year>2013</year>) <article-title>Neutrophils, neutrophil extracellular traps and interleukin&#x02010;17 associate with the organisation of thrombi in acute myocardial infarction</article-title>. <source xml:lang="en">Thrombosis and Haemostasis</source>, <volume>109</volume>, <fpage>290</fpage>&#x02013;<lpage>297</lpage>.<pub-id pub-id-type="pmid">23238559</pub-id></mixed-citation></ref><ref id="bjh15906-bib-0008"><mixed-citation publication-type="journal" id="bjh15906-cit-0008">
+<string-name>
+<surname>Borissoff</surname>, <given-names>J.I.</given-names>
+</string-name>, <string-name>
+<surname>Joosen</surname>, <given-names>I.A.</given-names>
+</string-name>, <string-name>
+<surname>Versteylen</surname>, <given-names>M.O.</given-names>
+</string-name>, <string-name>
+<surname>Brill</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Fuchs</surname>, <given-names>T.A.</given-names>
+</string-name>, <string-name>
+<surname>Savchenko</surname>, <given-names>A.S.</given-names>
+</string-name>, <string-name>
+<surname>Gallant</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Martinod</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Ten Cate</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Hofstra</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Crijns</surname>, <given-names>H.J.</given-names>
+</string-name>, <string-name>
+<surname>Wagner</surname>, <given-names>D.D.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Kietselaer</surname>, <given-names>B.L.J.H.</given-names>
+</string-name> (<year>2013</year>) <article-title>Elevated levels of circulating DNA and chromatin are independently associated with severe coronary atherosclerosis and a prothrombotic state</article-title>. <source xml:lang="en">Arteriosclerosis, Thrombosis, and Vascular Biology</source>, <volume>33</volume>, <fpage>2032</fpage>&#x02013;<lpage>2040</lpage>.</mixed-citation></ref><ref id="bjh15906-bib-0009"><mixed-citation publication-type="journal" id="bjh15906-cit-0009">
+<string-name>
+<surname>Brill</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Fuchs</surname>, <given-names>T.A.</given-names>
+</string-name>, <string-name>
+<surname>Savchenko</surname>, <given-names>A.S.</given-names>
+</string-name>, <string-name>
+<surname>Thomas</surname>, <given-names>G.M.</given-names>
+</string-name>, <string-name>
+<surname>Martinod</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>De Meyer</surname>, <given-names>S.F.</given-names>
+</string-name>, <string-name>
+<surname>Bhandari</surname>, <given-names>A.A.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Wagner</surname>, <given-names>D.D.</given-names>
+</string-name> (<year>2012</year>) <article-title>Neutrophil extracellular traps promote deep vein thrombosis in mice</article-title>. <source xml:lang="en">Journal of Thrombosis and Haemostasis</source>, <volume>10</volume>, <fpage>136</fpage>&#x02013;<lpage>144</lpage>.<pub-id pub-id-type="pmid">22044575</pub-id></mixed-citation></ref><ref id="bjh15906-bib-0010"><mixed-citation publication-type="journal" id="bjh15906-cit-0010">
+<string-name>
+<surname>Brinkmann</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Reichard</surname>, <given-names>U.</given-names>
+</string-name>, <string-name>
+<surname>Goosmann</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Fauler</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Uhlemann</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Weiss</surname>, <given-names>D.S.</given-names>
+</string-name>, <string-name>
+<surname>Weinrauch</surname>, <given-names>Y.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Zychlinsky</surname>, <given-names>A.</given-names>
+</string-name> (<year>2004</year>) <article-title>Neutrophil extracellular traps kill bacteria</article-title>. <source xml:lang="en">Science</source>, <volume>303</volume>, <fpage>1532</fpage>&#x02013;<lpage>1535</lpage>.<pub-id pub-id-type="pmid">15001782</pub-id></mixed-citation></ref><ref id="bjh15906-bib-0011"><mixed-citation publication-type="journal" id="bjh15906-cit-0011">
+<string-name>
+<surname>Brinkmann</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Goosmann</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>K&#x000fc;hn</surname>, <given-names>L.I.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Zychlinsky</surname>, <given-names>A.</given-names>
+</string-name> (<year>2012</year>) <article-title>Automatic quantification of in&#x000a0;vitro NET formation</article-title>. <source xml:lang="en">Frontiers in Immunology</source>, <volume>3</volume>, <fpage>413</fpage>.<pub-id pub-id-type="pmid">23316198</pub-id></mixed-citation></ref><ref id="bjh15906-bib-0012"><mixed-citation publication-type="journal" id="bjh15906-cit-0012">
+<string-name>
+<surname>Brown</surname>, <given-names>M.S.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Goldstein</surname>, <given-names>J.L.</given-names>
+</string-name> (<year>1986</year>) <article-title>A receptor&#x02010;mediated pathway for cholesterol homeostasis</article-title>. <source xml:lang="en">Science</source>, <volume>232</volume>, <fpage>34</fpage>&#x02013;<lpage>47</lpage>.<pub-id pub-id-type="pmid">3513311</pub-id></mixed-citation></ref><ref id="bjh15906-bib-0013"><mixed-citation publication-type="journal" id="bjh15906-cit-0013">
+<string-name>
+<surname>von Br&#x000fc;hl</surname>, <given-names>M.&#x02010;L.</given-names>
+</string-name>, <string-name>
+<surname>Stark</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Steinhart</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Chandraratne</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Konrad</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Lorenz</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Khandoga</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Tirniceriu</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Coletti</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>K&#x000f6;llnberger</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Byrne</surname>, <given-names>R.A.</given-names>
+</string-name>, <string-name>
+<surname>Laitinen</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Walch</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Brill</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Pfeiler</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Manukyan</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Braun</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Lange</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Riegger</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Ware</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Eckart</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Haidari</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Rudelius</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Schulz</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Echtler</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Brinkmann</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Schwaiger</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Preissner</surname>, <given-names>K.T.</given-names>
+</string-name>, <string-name>
+<surname>Wagner</surname>, <given-names>D.D.</given-names>
+</string-name>, <string-name>
+<surname>Mackman</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Engelmann</surname>, <given-names>B.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Massberg</surname>, <given-names>S.</given-names>
+</string-name> (<year>2012</year>) <article-title>Monocytes, neutrophils, and platelets cooperate to initiate and propagate venous thrombosis in mice in&#x000a0;vivo</article-title>. <source xml:lang="en">The Journal of Experimental Medicine</source>, <volume>209</volume>, <fpage>819</fpage>&#x02013;<lpage>835</lpage>.<pub-id pub-id-type="pmid">22451716</pub-id></mixed-citation></ref><ref id="bjh15906-bib-0014"><mixed-citation publication-type="journal" id="bjh15906-cit-0014">
+<string-name>
+<surname>Cools&#x02010;Lartigue</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Spicer</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>McDonald</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Gowing</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Chow</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Giannias</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Bourdeau</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Kubes</surname>, <given-names>P.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Ferri</surname>, <given-names>L.</given-names>
+</string-name> (<year>2013</year>) <article-title>Neutrophil extracellular traps sequester circulating tumor cells and promote metastasis</article-title>. <source xml:lang="en">The Journal of Clinical Investigation</source>, <volume>123</volume>, <fpage>3446</fpage>.</mixed-citation></ref><ref id="bjh15906-bib-0015"><mixed-citation publication-type="journal" id="bjh15906-cit-0015">
+<string-name>
+<surname>Cools&#x02010;Lartigue</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Spicer</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Najmeh</surname>, <given-names>S.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Ferri</surname>, <given-names>L.</given-names>
+</string-name> (<year>2014</year>) <article-title>Neutrophil extracellular traps in cancer progression</article-title>. <source xml:lang="en">Cellular and Molecular Life Sciences</source>, <volume>71</volume>, <fpage>4179</fpage>&#x02013;<lpage>4194</lpage>.<pub-id pub-id-type="pmid">25070012</pub-id></mixed-citation></ref><ref id="bjh15906-bib-0016"><mixed-citation publication-type="journal" id="bjh15906-cit-0016">
+<string-name>
+<surname>Coviello</surname>, <given-names>V.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Boggess</surname>, <given-names>M.</given-names>
+</string-name> (<year>2004</year>) <article-title>Cumulative incidence estimation in the presence of competing risks</article-title>. <source xml:lang="en">The Stata Journal</source>, <volume>4</volume>, <fpage>103</fpage>&#x02013;<lpage>112</lpage>.</mixed-citation></ref><ref id="bjh15906-bib-0017"><mixed-citation publication-type="journal" id="bjh15906-cit-0017">
+<string-name>
+<surname>Cross</surname>, <given-names>C.E.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Zeki</surname>, <given-names>A.A.</given-names>
+</string-name> (<year>2016</year>) <article-title>Update on the spider and the fly: an extended commentary on &#x0201c;Oxidized LDL induced extracellular trap formation in human neutrophils via TLR&#x02010;PKC&#x02010;IRAK&#x02010;MAPK and NADPH&#x02010;Oxidase activation&#x0201d;</article-title>. <source xml:lang="en">Free Radical Biology &#x00026; Medicine</source>, <volume>96</volume>, <fpage>462</fpage>&#x02013;<lpage>464</lpage>.<pub-id pub-id-type="pmid">27040582</pub-id></mixed-citation></ref><ref id="bjh15906-bib-0018"><mixed-citation publication-type="journal" id="bjh15906-cit-0018">
+<string-name>
+<surname>Demers</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Krause</surname>, <given-names>D.S.</given-names>
+</string-name>, <string-name>
+<surname>Schatzberg</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Martinod</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Voorhees</surname>, <given-names>J.R.</given-names>
+</string-name>, <string-name>
+<surname>Fuchs</surname>, <given-names>T.A.</given-names>
+</string-name>, <string-name>
+<surname>Scadden</surname>, <given-names>D.T.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Wagner</surname>, <given-names>D.D.</given-names>
+</string-name> (<year>2012</year>) <article-title>Cancers predispose neutrophils to release extracellular DNA traps that contribute to cancer&#x02010;associated thrombosis</article-title>. <source xml:lang="en">Proceedings of the National Academy of Sciences of the United States of America</source>, <volume>109</volume>, <fpage>13076</fpage>&#x02013;<lpage>13081</lpage>.<pub-id pub-id-type="pmid">22826226</pub-id></mixed-citation></ref><ref id="bjh15906-bib-0019"><mixed-citation publication-type="journal" id="bjh15906-cit-0019">
+<string-name>
+<surname>Engelmann</surname>, <given-names>B.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Massberg</surname>, <given-names>S.</given-names>
+</string-name> (<year>2013</year>) <article-title>Thrombosis as an intravascular effector of innate immunity</article-title>. <source xml:lang="en">Nature Reviews Immunology</source>, <volume>13</volume>, <fpage>34</fpage>&#x02013;<lpage>45</lpage>.</mixed-citation></ref><ref id="bjh15906-bib-0020"><mixed-citation publication-type="journal" id="bjh15906-cit-0020">
+<string-name>
+<surname>Fine</surname>, <given-names>J.P.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Gray</surname>, <given-names>R.J.</given-names>
+</string-name> (<year>1999</year>) <article-title>A proportional hazards model for the subdistribution of a competing risk</article-title>. <source xml:lang="en">Journal of the American Statistical Association</source>, <volume>94</volume>, <fpage>496</fpage>.</mixed-citation></ref><ref id="bjh15906-bib-0021"><mixed-citation publication-type="journal" id="bjh15906-cit-0021">
+<string-name>
+<surname>Fuchs</surname>, <given-names>T.A.</given-names>
+</string-name>, <string-name>
+<surname>Brill</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Duerschmied</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Schatzberg</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Monestier</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Myers</surname>, <given-names>D.D.</given-names>
+</string-name>, <string-name>
+<surname>Wrobleski</surname>, <given-names>S.K.</given-names>
+</string-name>, <string-name>
+<surname>Wakefield</surname>, <given-names>T.W.</given-names>
+</string-name>, <string-name>
+<surname>Hartwig</surname>, <given-names>J.H.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Wagner</surname>, <given-names>D.D.</given-names>
+</string-name> (<year>2010</year>) <article-title>Extracellular DNA traps promote thrombosis</article-title>. <source xml:lang="en">Proceedings of the National Academy of Sciences of the United States of America</source>, <volume>107</volume>, <fpage>15880</fpage>&#x02013;<lpage>15885</lpage>.<pub-id pub-id-type="pmid">20798043</pub-id></mixed-citation></ref><ref id="bjh15906-bib-0022"><mixed-citation publication-type="journal" id="bjh15906-cit-0022">
+<string-name>
+<surname>Fuchs</surname>, <given-names>T.A.</given-names>
+</string-name>, <string-name>
+<surname>Brill</surname>, <given-names>A.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Wagner</surname>, <given-names>D.D.</given-names>
+</string-name> (<year>2012</year>) <article-title>Neutrophil extracellular trap (NET) impact on deep vein thrombosis</article-title>. <source xml:lang="en">Arteriosclerosis, Thrombosis, and Vascular Biology</source>, <volume>32</volume>, <fpage>1777</fpage>&#x02013;<lpage>1783</lpage>.</mixed-citation></ref><ref id="bjh15906-bib-0023"><mixed-citation publication-type="journal" id="bjh15906-cit-0023">
+<string-name>
+<surname>Gray</surname>, <given-names>R.J.</given-names>
+</string-name> (<year>1988</year>) <article-title>A class of K&#x02010;sample tests for comparing the cumulative incidence of a competing risk</article-title>. <source xml:lang="en">The Annals of Statistics</source>, <volume>16</volume>, <fpage>1141</fpage>&#x02013;<lpage>1154</lpage>.</mixed-citation></ref><ref id="bjh15906-bib-0024"><mixed-citation publication-type="journal" id="bjh15906-cit-0024">
+<string-name>
+<surname>Grilz</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>K&#x000f6;nigsbr&#x000fc;gge</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Posch</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Schmidinger</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Pirker</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Lang</surname>, <given-names>I.M.</given-names>
+</string-name>, <string-name>
+<surname>Pabinger</surname>, <given-names>I.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Ay</surname>, <given-names>C.</given-names>
+</string-name> (<year>2018</year>) <article-title>Frequency, risk factors, and impact on mortality of arterial thromboembolism in patients with cancer</article-title>. <source xml:lang="en">Haematologica</source>, <volume>103</volume>, <fpage>1549</fpage>&#x02013;<lpage>1556</lpage>.<pub-id pub-id-type="pmid">29794142</pub-id></mixed-citation></ref><ref id="bjh15906-bib-0025"><mixed-citation publication-type="journal" id="bjh15906-cit-0025">
+<string-name>
+<surname>Haarbo</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Hassager</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Riis</surname>, <given-names>B.J.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Christiansen</surname>, <given-names>C.</given-names>
+</string-name> (<year>1989</year>) <article-title>Relation of body fat distribution to serum lipids and lipoproteins in elderly women</article-title>. <source xml:lang="en">Atherosclerosis</source>, <volume>80</volume>, <fpage>57</fpage>&#x02013;<lpage>62</lpage>.<pub-id pub-id-type="pmid">2604757</pub-id></mixed-citation></ref><ref id="bjh15906-bib-0026"><mixed-citation publication-type="journal" id="bjh15906-cit-0026">
+<string-name>
+<surname>Hisada</surname>, <given-names>Y.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Mackman</surname>, <given-names>N.</given-names>
+</string-name> (<year>2018</year>) <article-title>Mouse models of cancer&#x02010;associated thrombosis</article-title>. <source xml:lang="en">Thrombosis Research</source>, <volume>164</volume>(<issue>Suppl. 1</issue>), <fpage>S48</fpage>&#x02013;<lpage>S53</lpage>.<pub-id pub-id-type="pmid">29306575</pub-id></mixed-citation></ref><ref id="bjh15906-bib-0027"><mixed-citation publication-type="journal" id="bjh15906-cit-0027">
+<string-name>
+<surname>Kerr</surname>, <given-names>J.F.</given-names>
+</string-name>, <string-name>
+<surname>Winterford</surname>, <given-names>C.M.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Harmon</surname>, <given-names>B.V.</given-names>
+</string-name> (<year>1994</year>) <article-title>Apoptosis. Its significance in cancer and cancer therapy</article-title>. <source xml:lang="en">Cancer</source>, <volume>73</volume>, <fpage>2013</fpage>&#x02013;<lpage>2026</lpage>.<pub-id pub-id-type="pmid">8156506</pub-id></mixed-citation></ref><ref id="bjh15906-bib-0028"><mixed-citation publication-type="journal" id="bjh15906-cit-0028">
+<string-name>
+<surname>Kita</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Nagano</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Yokode</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Ishii</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Kume</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Ooshima</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Yoshida</surname>, <given-names>H.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Kawai</surname>, <given-names>C.</given-names>
+</string-name> (<year>1987</year>) <article-title>Probucol prevents the progression of atherosclerosis in Watanabe heritable hyperlipidemic rabbit, an animal model for familial hypercholesterolemia</article-title>. <source xml:lang="en">Proceedings of the National Academy of Sciences of the United States of America</source>, <volume>84</volume>, <fpage>5928</fpage>&#x02013;<lpage>5931</lpage>.<pub-id pub-id-type="pmid">3475709</pub-id></mixed-citation></ref><ref id="bjh15906-bib-0029"><mixed-citation publication-type="journal" id="bjh15906-cit-0029">
+<string-name>
+<surname>Laridan</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Denorme</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Desender</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Fran&#x000e7;ois</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Andersson</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Deckmyn</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Vanhoorelbeke</surname>, <given-names>K.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>De Meyer</surname>, <given-names>S.F.</given-names>
+</string-name> (<year>2017</year>) <article-title>Neutrophil extracellular traps in ischemic stroke thrombi</article-title>. <source xml:lang="en">Annals of Neurology</source>, <volume>82</volume>, <fpage>223</fpage>&#x02013;<lpage>232</lpage>.<pub-id pub-id-type="pmid">28696508</pub-id></mixed-citation></ref><ref id="bjh15906-bib-0030"><mixed-citation publication-type="journal" id="bjh15906-cit-0030">
+<string-name>
+<surname>Mangold</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Alias</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Scherz</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Hofbauer</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Jakowitsch</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Panzenb&#x000f6;ck</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Simon</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Laimer</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Bangert</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Kammerlander</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Mascherbauer</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Winter</surname>, <given-names>M.&#x02010;P.</given-names>
+</string-name>, <string-name>
+<surname>Distelmaier</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Adlbrecht</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Preissner</surname>, <given-names>K.T.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Lang</surname>, <given-names>I.M.</given-names>
+</string-name> (<year>2015</year>) <article-title>Coronary neutrophil extracellular trap burden and deoxyribonuclease activity in ST&#x02010;elevation acute coronary syndrome are predictors of ST&#x02010;segment resolution and infarct size novelty and significance</article-title>. <source xml:lang="en">Circulation Research</source>, <volume>116</volume>, <fpage>1182</fpage>&#x02013;<lpage>1192</lpage>.<pub-id pub-id-type="pmid">25547404</pub-id></mixed-citation></ref><ref id="bjh15906-bib-0031"><mixed-citation publication-type="journal" id="bjh15906-cit-0031">
+<string-name>
+<surname>Martinod</surname>, <given-names>K.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Wagner</surname>, <given-names>D.D.</given-names>
+</string-name> (<year>2014</year>) <article-title>Thrombosis: tangled up in NETs</article-title>. <source xml:lang="en">Blood</source>, <volume>123</volume>, <fpage>2768</fpage>&#x02013;<lpage>2776</lpage>.<pub-id pub-id-type="pmid">24366358</pub-id></mixed-citation></ref><ref id="bjh15906-bib-0032"><mixed-citation publication-type="journal" id="bjh15906-cit-0032">
+<string-name>
+<surname>Martinod</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Demers</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Fuchs</surname>, <given-names>T.A.</given-names>
+</string-name>, <string-name>
+<surname>Wong</surname>, <given-names>S.L.</given-names>
+</string-name>, <string-name>
+<surname>Brill</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Gallant</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Hu</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>Y.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Wagner</surname>, <given-names>D.D.</given-names>
+</string-name> (<year>2013</year>) <article-title>Neutrophil histone modification by peptidylarginine deiminase 4 is critical for deep vein thrombosis in mice</article-title>. <source xml:lang="en">Proceedings of the National Academy of Sciences of the United States of America</source>, <volume>110</volume>, <fpage>8674</fpage>&#x02013;<lpage>8679</lpage>.<pub-id pub-id-type="pmid">23650392</pub-id></mixed-citation></ref><ref id="bjh15906-bib-0033"><mixed-citation publication-type="journal" id="bjh15906-cit-0033">
+<string-name>
+<surname>Martinod</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Fuchs</surname>, <given-names>T.A.</given-names>
+</string-name>, <string-name>
+<surname>Zitomersky</surname>, <given-names>N.L.</given-names>
+</string-name>, <string-name>
+<surname>Wong</surname>, <given-names>S.L.</given-names>
+</string-name>, <string-name>
+<surname>Demers</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Gallant</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>Y.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Wagner</surname>, <given-names>D.D.</given-names>
+</string-name> (<year>2015</year>) <article-title>PAD4&#x02010;deficiency does not affect bacteremia in polymicrobial sepsis and ameliorates endotoxemic shock</article-title>. <source xml:lang="en">Blood</source>, <volume>125</volume>, <fpage>1948</fpage>&#x02013;<lpage>1956</lpage>.<pub-id pub-id-type="pmid">25624317</pub-id></mixed-citation></ref><ref id="bjh15906-bib-0034"><mixed-citation publication-type="journal" id="bjh15906-cit-0034">
+<string-name>
+<surname>Mauracher</surname>, <given-names>L.&#x02010;M.</given-names>
+</string-name>, <string-name>
+<surname>Posch</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Martinod</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Grilz</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>D&#x000e4;ullary</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Hell</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Brostjan</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Zielinski</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Ay</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Wagner</surname>, <given-names>D.D.</given-names>
+</string-name>, <string-name>
+<surname>Pabinger</surname>, <given-names>I.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Thaler</surname>, <given-names>J.</given-names>
+</string-name> (<year>2018</year>) <article-title>Citrullinated histone H3, a biomarker of neutrophil extracellular trap formation, predicts the risk of venous thromboembolism in cancer patients</article-title>. <source xml:lang="en">Journal of Thrombosis and Haemostasis</source>, <volume>16</volume>, <fpage>508</fpage>&#x02013;<lpage>518</lpage>.<pub-id pub-id-type="pmid">29325226</pub-id></mixed-citation></ref><ref id="bjh15906-bib-0035"><mixed-citation publication-type="journal" id="bjh15906-cit-0035">
+<string-name>
+<surname>McGale</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Darby</surname>, <given-names>S.C.</given-names>
+</string-name>, <string-name>
+<surname>Hall</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Adolfsson</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Bengtsson</surname>, <given-names>N.&#x02010;O.</given-names>
+</string-name>, <string-name>
+<surname>Bennet</surname>, <given-names>A.M.</given-names>
+</string-name>, <string-name>
+<surname>Fornander</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Gigante</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Jensen</surname>, <given-names>M.&#x02010;B.</given-names>
+</string-name>, <string-name>
+<surname>Peto</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Rahimi</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Taylor</surname>, <given-names>C.W.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Ewertz</surname>, <given-names>M.</given-names>
+</string-name> (<year>2011</year>) <article-title>Incidence of heart disease in 35,000 women treated with radiotherapy for breast cancer in Denmark and Sweden</article-title>. <source xml:lang="en">Radiotherapy and Oncology</source>, <volume>100</volume>, <fpage>167</fpage>&#x02013;<lpage>175</lpage>.<pub-id pub-id-type="pmid">21752480</pub-id></mixed-citation></ref><ref id="bjh15906-bib-0036"><mixed-citation publication-type="journal" id="bjh15906-cit-0036">
+<string-name>
+<surname>Meng</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Yalavarthi</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Kanthi</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Mazza</surname>, <given-names>L.F.</given-names>
+</string-name>, <string-name>
+<surname>Elfline</surname>, <given-names>M.A.</given-names>
+</string-name>, <string-name>
+<surname>Luke</surname>, <given-names>C.E.</given-names>
+</string-name>, <string-name>
+<surname>Pinsky</surname>, <given-names>D.J.</given-names>
+</string-name>, <string-name>
+<surname>Henke</surname>, <given-names>P.K.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Knight</surname>, <given-names>J.S.</given-names>
+</string-name> (<year>2017</year>) <article-title>In vivo role of neutrophil extracellular traps in antiphospholipid antibody&#x02010;mediated venous thrombosis</article-title>. <source xml:lang="en">Arthritis &#x00026; Rheumatology</source>, <volume>69</volume>, <fpage>655</fpage>&#x02013;<lpage>667</lpage>.<pub-id pub-id-type="pmid">27696751</pub-id></mixed-citation></ref><ref id="bjh15906-bib-0037"><mixed-citation publication-type="journal" id="bjh15906-cit-0037">
+<string-name>
+<surname>Mitra</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Goyal</surname>, <given-names>T.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Mehta</surname>, <given-names>J.L.</given-names>
+</string-name> (<year>2011</year>) <article-title>Oxidized LDL, LOX&#x02010;1 and atherosclerosis</article-title>. <source xml:lang="en">Cardiovascular Drugs and Therapy</source>, <volume>25</volume>, <fpage>419</fpage>&#x02013;<lpage>429</lpage>.<pub-id pub-id-type="pmid">21947818</pub-id></mixed-citation></ref><ref id="bjh15906-bib-0038"><mixed-citation publication-type="journal" id="bjh15906-cit-0038">
+<string-name>
+<surname>Navi</surname>, <given-names>B.B.</given-names>
+</string-name>, <string-name>
+<surname>Reiner</surname>, <given-names>A.S.</given-names>
+</string-name>, <string-name>
+<surname>Kamel</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Iadecola</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Okin</surname>, <given-names>P.M.</given-names>
+</string-name>, <string-name>
+<surname>Elkind</surname>, <given-names>M.S.V.</given-names>
+</string-name>, <string-name>
+<surname>Panageas</surname>, <given-names>K.S.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>DeAngelis</surname>, <given-names>L.M.</given-names>
+</string-name> (<year>2017</year>) <article-title>Risk of arterial thromboembolism in patients with cancer</article-title>. <source xml:lang="en">Journal of the American College of Cardiology</source>, <volume>70</volume>, <fpage>926</fpage>&#x02013;<lpage>938</lpage>.<pub-id pub-id-type="pmid">28818202</pub-id></mixed-citation></ref><ref id="bjh15906-bib-0039"><mixed-citation publication-type="journal" id="bjh15906-cit-0039">
+<string-name>
+<surname>Ng</surname>, <given-names>T.W.K.</given-names>
+</string-name>, <string-name>
+<surname>Watts</surname>, <given-names>G.F.</given-names>
+</string-name>, <string-name>
+<surname>Barrett</surname>, <given-names>P.H.R.</given-names>
+</string-name>, <string-name>
+<surname>Rye</surname>, <given-names>K.&#x02010;A.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Chan</surname>, <given-names>D.C.</given-names>
+</string-name> (<year>2007</year>) <article-title>Effect of weight loss on LDL and HDL kinetics in the metabolic syndrome: associations with changes in plasma retinol&#x02010;binding protein&#x02010;4 and adiponectin levels</article-title>. <source xml:lang="en">Diabetes Care</source>, <volume>30</volume>, <fpage>2945</fpage>&#x02013;<lpage>2950</lpage>.<pub-id pub-id-type="pmid">17686833</pub-id></mixed-citation></ref><ref id="bjh15906-bib-0040"><mixed-citation publication-type="journal" id="bjh15906-cit-0040">
+<string-name>
+<surname>Oda</surname>, <given-names>E.</given-names>
+</string-name> (<year>2018</year>) <article-title>LDL cholesterol was more strongly associated with percent body fat than body mass index and waist circumference in a health screening population</article-title>. <source xml:lang="en">Obesity Research &#x00026; Clinical Practice</source>, <volume>12</volume>, <fpage>195</fpage>&#x02013;<lpage>203</lpage>.<pub-id pub-id-type="pmid">28619601</pub-id></mixed-citation></ref><ref id="bjh15906-bib-0041"><mixed-citation publication-type="journal" id="bjh15906-cit-0041">
+<string-name>
+<surname>Paues G&#x000f6;ranson</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Th&#x000e5;lin</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Lundstr&#x000f6;m</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>H&#x000e5;llstr&#x000f6;m</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Lasselin</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Wall&#x000e9;n</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Soop</surname>, <given-names>A.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Mobarrez</surname>, <given-names>F.</given-names>
+</string-name> (<year>2018</year>) <article-title>Circulating H3Cit is elevated in a human model of endotoxemia and can be detected bound to microvesicles</article-title>. <source xml:lang="en">Scientific Reports</source>, <volume>8</volume>, <fpage>12641</fpage>.<pub-id pub-id-type="pmid">30140006</pub-id></mixed-citation></ref><ref id="bjh15906-bib-0042"><mixed-citation publication-type="journal" id="bjh15906-cit-0042">
+<string-name>
+<surname>Perez&#x02010;de&#x02010;Puig</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Mir&#x000f3;&#x02010;Mur</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Ferrer&#x02010;Ferrer</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Gelpi</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Pedragosa</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Justicia</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Urra</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Chamorro</surname>, <given-names>A.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Planas</surname>, <given-names>A.M.</given-names>
+</string-name> (<year>2015</year>) <article-title>Neutrophil recruitment to the brain in mouse and human ischemic stroke</article-title>. <source xml:lang="en">Acta Neuropathologica</source>, <volume>129</volume>, <fpage>239</fpage>&#x02013;<lpage>257</lpage>.<pub-id pub-id-type="pmid">25548073</pub-id></mixed-citation></ref><ref id="bjh15906-bib-0043"><mixed-citation publication-type="journal" id="bjh15906-cit-0043">
+<string-name>
+<surname>Pertiwi</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>van der Wal</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Pabittei</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Mackaaij</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>van Leeuwen</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>X.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>de Boer</surname>, <given-names>O.</given-names>
+</string-name> (<year>2018</year>) <article-title>Neutrophil extracellular traps participate in all different types of thrombotic and haemorrhagic complications of coronary atherosclerosis</article-title>. <source xml:lang="en">Thrombosis and Haemostasis</source>, <volume>118</volume>, <fpage>1078</fpage>&#x02013;<lpage>1087</lpage>.<pub-id pub-id-type="pmid">29672788</pub-id></mixed-citation></ref><ref id="bjh15906-bib-0044"><mixed-citation publication-type="journal" id="bjh15906-cit-0044">
+<string-name>
+<surname>Proverbs&#x02010;Singh</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Chiu</surname>, <given-names>S.K.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Seng</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Sonpavde</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Choueiri</surname>, <given-names>T.K.</given-names>
+</string-name>, <string-name>
+<surname>Tsao</surname>, <given-names>C.&#x02010;K.</given-names>
+</string-name>, <string-name>
+<surname>Yu</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Hahn</surname>, <given-names>N.M.</given-names>
+</string-name>, <string-name>
+<surname>Oh</surname>, <given-names>W.K.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Galsky</surname>, <given-names>M.D.</given-names>
+</string-name> (<year>2012</year>) <article-title>Arterial thromboembolism in cancer patients treated with cisplatin: a systematic review and meta&#x02010;analysis</article-title>. <source xml:lang="en">Journal of the National Cancer Institute</source>, <volume>104</volume>, <fpage>1837</fpage>&#x02013;<lpage>1840</lpage>.<pub-id pub-id-type="pmid">23093559</pub-id></mixed-citation></ref><ref id="bjh15906-bib-0045"><mixed-citation publication-type="journal" id="bjh15906-cit-0045">
+<string-name>
+<surname>Qi</surname>, <given-names>W.&#x02010;X.</given-names>
+</string-name>, <string-name>
+<surname>Shen</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Tang</surname>, <given-names>L.&#x02010;N.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Yao</surname>, <given-names>Y.</given-names>
+</string-name> (<year>2014</year>) <article-title>Risk of arterial thromboembolic events with vascular endothelial growth factor receptor tyrosine kinase inhibitors: an up&#x02010;to&#x02010;date meta&#x02010;analysis</article-title>. <source xml:lang="en">Critical Reviews in Oncology/Hematology</source>, <volume>92</volume>, <fpage>71</fpage>&#x02013;<lpage>82</lpage>.<pub-id pub-id-type="pmid">24878433</pub-id></mixed-citation></ref><ref id="bjh15906-bib-0046"><mixed-citation publication-type="journal" id="bjh15906-cit-0046">
+<string-name>
+<surname>Richardson</surname>, <given-names>J.J.R.</given-names>
+</string-name>, <string-name>
+<surname>Hendrickse</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Gao&#x02010;Smith</surname>, <given-names>F.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Thickett</surname>, <given-names>D.R.</given-names>
+</string-name> (<year>2017</year>) <article-title>Neutrophil extracellular trap production in patients with colorectal cancer in&#x000a0;vitro</article-title>. <source xml:lang="en">International Journal of Inflammation</source>, <volume>2017</volume>, <fpage>4915062</fpage>.<pub-id pub-id-type="pmid">28828191</pub-id></mixed-citation></ref><ref id="bjh15906-bib-0047"><mixed-citation publication-type="journal" id="bjh15906-cit-0047">
+<string-name>
+<surname>Riegger</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Byrne</surname>, <given-names>R.A.</given-names>
+</string-name>, <string-name>
+<surname>Joner</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Chandraratne</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Gershlick</surname>, <given-names>A.H.</given-names>
+</string-name>, <string-name>
+<surname>ten Berg</surname>, <given-names>J.M.</given-names>
+</string-name>, <string-name>
+<surname>Adriaenssens</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Guagliumi</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Godschalk</surname>, <given-names>T.C.</given-names>
+</string-name>, <string-name>
+<surname>Neumann</surname>, <given-names>F.&#x02010;J.</given-names>
+</string-name>, <string-name>
+<surname>Trenk</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Feldman</surname>, <given-names>L.J.</given-names>
+</string-name>, <string-name>
+<surname>Steg</surname>, <given-names>P.G.</given-names>
+</string-name>, <string-name>
+<surname>Desmet</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Alfonso</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Goodall</surname>, <given-names>A.H.</given-names>
+</string-name>, <string-name>
+<surname>Wojdyla</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Dudek</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Philippi</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Opinaldo</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Titova</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Malik</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Cotton</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Jhagroe</surname>, <given-names>D.A.</given-names>
+</string-name>, <string-name>
+<surname>Heestermans</surname>, <given-names>A.A.C.M.</given-names>
+</string-name>, <string-name>
+<surname>Sinnaeve</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Vermeersch</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Valina</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Schulz</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Kastrati</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Massberg</surname>, <given-names>S.</given-names>
+</string-name> &#x00026; <collab collab-type="authors">Prevention of Late Stent Thrombosis by an Interdisciplinary Global European Effort (PRESTIGE) Investigators</collab>
+. (<year>2016</year>) <article-title>Histopathological evaluation of thrombus in patients presenting with stent thrombosis. A multicenter European study: a report of the prevention of late stent thrombosis by an interdisciplinary global European effort consortium</article-title>. <source xml:lang="en">European Heart Journal</source>, <volume>37</volume>, <fpage>1538</fpage>&#x02013;<lpage>1549</lpage>.<pub-id pub-id-type="pmid">26761950</pub-id></mixed-citation></ref><ref id="bjh15906-bib-0048"><mixed-citation publication-type="journal" id="bjh15906-cit-0048">
+<string-name>
+<surname>Scappaticci</surname>, <given-names>F.A.</given-names>
+</string-name>, <string-name>
+<surname>Skillings</surname>, <given-names>J.R.</given-names>
+</string-name>, <string-name>
+<surname>Holden</surname>, <given-names>S.N.</given-names>
+</string-name>, <string-name>
+<surname>Gerber</surname>, <given-names>H.&#x02010;P.</given-names>
+</string-name>, <string-name>
+<surname>Miller</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Kabbinavar</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Bergsland</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Ngai</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Holmgren</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>J.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Hurwitz</surname>, <given-names>H.</given-names>
+</string-name> (<year>2007</year>) <article-title>Arterial thromboembolic events in patients with metastatic carcinoma treated with chemotherapy and bevacizumab</article-title>. <source xml:lang="en">Journal of the National Cancer Institute</source>, <volume>99</volume>, <fpage>1232</fpage>&#x02013;<lpage>1239</lpage>.<pub-id pub-id-type="pmid">17686822</pub-id></mixed-citation></ref><ref id="bjh15906-bib-0049"><mixed-citation publication-type="journal" id="bjh15906-cit-0049">
+<string-name>
+<surname>Schemper</surname>, <given-names>M.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Smith</surname>, <given-names>T.L.</given-names>
+</string-name> (<year>1996</year>) <article-title>A note on quantifying follow&#x02010;up in studies of failure time</article-title>. <source xml:lang="en">Controlled Clinical Trials</source>, <volume>17</volume>, <fpage>343</fpage>&#x02013;<lpage>346</lpage>.<pub-id pub-id-type="pmid">8889347</pub-id></mixed-citation></ref><ref id="bjh15906-bib-0050"><mixed-citation publication-type="journal" id="bjh15906-cit-0050">
+<string-name>
+<surname>Schwarzenbach</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Hoon</surname>, <given-names>D.S.B.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Pantel</surname>, <given-names>K.</given-names>
+</string-name> (<year>2011</year>) <article-title>Cell&#x02010;free nucleic acids as biomarkers in cancer patients</article-title>. <source xml:lang="en">Nature Reviews Cancer</source>, <volume>11</volume>, <fpage>426</fpage>&#x02013;<lpage>437</lpage>.<pub-id pub-id-type="pmid">21562580</pub-id></mixed-citation></ref><ref id="bjh15906-bib-0051"><mixed-citation publication-type="journal" id="bjh15906-cit-0051">
+<string-name>
+<surname>Seo</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>, <given-names>E.&#x02010;J.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Choi</surname>, <given-names>I.</given-names>
+</string-name> (<year>2018</year>) <article-title>Neutrophil extracellular trap formation mediated by oxidized low&#x02010;density lipoprotein affects lipid accumulation in early atherogenesis</article-title>. <source xml:lang="en">Atherosclerosis Supplements</source>, <volume>32</volume>, <fpage>110</fpage>.</mixed-citation></ref><ref id="bjh15906-bib-0052"><mixed-citation publication-type="journal" id="bjh15906-cit-0052">
+<string-name>
+<surname>Sonpavde</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Bellmunt</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Schutz</surname>, <given-names>F.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Choueiri</surname>, <given-names>T.K.</given-names>
+</string-name> (<year>2012</year>) <article-title>The double edged sword of bleeding and clotting from VEGF inhibition in renal cancer patients</article-title>. <source xml:lang="en">Current Oncology Reports</source>, <volume>14</volume>, <fpage>295</fpage>&#x02013;<lpage>306</lpage>.<pub-id pub-id-type="pmid">22532265</pub-id></mixed-citation></ref><ref id="bjh15906-bib-0053"><mixed-citation publication-type="journal" id="bjh15906-cit-0053">
+<string-name>
+<surname>Steinberg</surname>, <given-names>D.</given-names>
+</string-name> (<year>1997</year>) <article-title>Low density lipoprotein oxidation and its pathobiological significance</article-title>. <source xml:lang="en">The Journal of Biological Chemistry</source>, <volume>272</volume>, <fpage>20963</fpage>&#x02013;<lpage>20966</lpage>.<pub-id pub-id-type="pmid">9261091</pub-id></mixed-citation></ref><ref id="bjh15906-bib-0054"><mixed-citation publication-type="journal" id="bjh15906-cit-0054">
+<string-name>
+<surname>Th&#x000e5;lin</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Demers</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Blomgren</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Wong</surname>, <given-names>S.L.</given-names>
+</string-name>, <string-name>
+<surname>von Arbin</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>von Heijne</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Laska</surname>, <given-names>A.C.</given-names>
+</string-name>, <string-name>
+<surname>Wall&#x000e9;n</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Wagner</surname>, <given-names>D.D.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Aspberg</surname>, <given-names>S.</given-names>
+</string-name> (<year>2016</year>) <article-title>NETosis promotes cancer&#x02010;associated arterial microthrombosis presenting as ischemic stroke with troponin elevation</article-title>. <source xml:lang="en">Thrombosis Research</source>, <volume>139</volume>, <fpage>56</fpage>&#x02013;<lpage>64</lpage>.<pub-id pub-id-type="pmid">26916297</pub-id></mixed-citation></ref><ref id="bjh15906-bib-0055"><mixed-citation publication-type="journal" id="bjh15906-cit-0055">
+<string-name>
+<surname>Th&#x000e5;lin</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Daleskog</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>G&#x000f6;ransson</surname>, <given-names>S.P.</given-names>
+</string-name>, <string-name>
+<surname>Schatzberg</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Lasselin</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Laska</surname>, <given-names>A.&#x02010;C.</given-names>
+</string-name>, <string-name>
+<surname>Kallner</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Helleday</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Wall&#x000e9;n</surname>, <given-names>H.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Demers</surname>, <given-names>M.</given-names>
+</string-name> (<year>2017</year>) <article-title>Validation of an enzyme&#x02010;linked immunosorbent assay for the quantification of citrullinated histone H3 as a marker for neutrophil extracellular traps in human plasma</article-title>. <source xml:lang="en">Immunologic Research</source>, <volume>65</volume>, <fpage>706</fpage>&#x02013;<lpage>712</lpage>.<pub-id pub-id-type="pmid">28161762</pub-id></mixed-citation></ref><ref id="bjh15906-bib-0056"><mixed-citation publication-type="journal" id="bjh15906-cit-0056">
+<string-name>
+<surname>Th&#x000e5;lin</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Lundstr&#x000f6;m</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Seignez</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Daleskog</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Lundstr&#x000f6;m</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Henriksson</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Helleday</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Phillipson</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Wall&#x000e9;n</surname>, <given-names>H.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Demers</surname>, <given-names>M.</given-names>
+</string-name> (<year>2018</year>) <article-title>Citrullinated histone H3 as a novel prognostic blood marker in patients with advanced cancer</article-title>. <source xml:lang="en">PLoS ONE</source>, <volume>13</volume>, <fpage>e0191231</fpage>.<pub-id pub-id-type="pmid">29324871</pub-id></mixed-citation></ref><ref id="bjh15906-bib-0057"><mixed-citation publication-type="journal" id="bjh15906-cit-0057">
+<string-name>
+<surname>Turpie</surname>, <given-names>A.G.G.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Esmon</surname>, <given-names>C.</given-names>
+</string-name> (<year>2011</year>) <article-title>Venous and arterial thrombosis&#x02013;pathogenesis and the rationale for anticoagulation</article-title>. <source xml:lang="en">Thrombosis and Haemostasis</source>, <volume>105</volume>, <fpage>586</fpage>&#x02013;<lpage>596</lpage>.<pub-id pub-id-type="pmid">21225099</pub-id></mixed-citation></ref><ref id="bjh15906-bib-0058"><mixed-citation publication-type="journal" id="bjh15906-cit-0058">
+<string-name>
+<surname>Vall&#x000e9;s</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Lago</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Santos</surname>, <given-names>M.T.</given-names>
+</string-name>, <string-name>
+<surname>Latorre</surname>, <given-names>A.M.</given-names>
+</string-name>, <string-name>
+<surname>Tembl</surname>, <given-names>J.I.</given-names>
+</string-name>, <string-name>
+<surname>Salom</surname>, <given-names>J.B.</given-names>
+</string-name>, <string-name>
+<surname>Nieves</surname>, <given-names>C.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Moscard&#x000f3;</surname>, <given-names>A.</given-names>
+</string-name> (<year>2017</year>) <article-title>Neutrophil extracellular traps are increased in patients with acute ischemic stroke: prognostic significance</article-title>. <source xml:lang="en">Thrombosis and Haemostasis</source>, <volume>117</volume>, <fpage>1919</fpage>&#x02013;<lpage>1929</lpage>.<pub-id pub-id-type="pmid">28837206</pub-id></mixed-citation></ref><ref id="bjh15906-bib-0059"><mixed-citation publication-type="journal" id="bjh15906-cit-0059">
+<string-name>
+<surname>Vorobjeva</surname>, <given-names>N.V.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Pinegin</surname>, <given-names>B.V.</given-names>
+</string-name> (<year>2014</year>) <article-title>Neutrophil extracellular traps: mechanisms of formation and role in health and disease</article-title>. <source xml:lang="en">Biochemistry</source>, <volume>79</volume>, <fpage>1286</fpage>&#x02013;<lpage>1296</lpage>.<pub-id pub-id-type="pmid">25716722</pub-id></mixed-citation></ref><ref id="bjh15906-bib-0060"><mixed-citation publication-type="journal" id="bjh15906-cit-0060">
+<string-name>
+<surname>Yang</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Sun</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Cui</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Yao</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Jia</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Hu</surname>, <given-names>Z.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Zou</surname>, <given-names>X.</given-names>
+</string-name> (<year>2015</year>) <article-title>Procoagulant role of neutrophil extracellular traps in patients with gastric cancer</article-title>. <source xml:lang="en">International Journal of Clinical and Experimental Pathology</source>, <volume>8</volume>, <fpage>14075</fpage>&#x02013;<lpage>14086</lpage>.<pub-id pub-id-type="pmid">26823721</pub-id></mixed-citation></ref><ref id="bjh15906-bib-0061"><mixed-citation publication-type="journal" id="bjh15906-cit-0061">
+<string-name>
+<surname>Zhang</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>Ai</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Dong</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>J.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Xu</surname>, <given-names>L.</given-names>
+</string-name> (<year>2019</year>) <article-title>Circulating oxidized low&#x02010;density lipoprotein is a strong risk factor for the early stage of coronary heart disease</article-title>. <source xml:lang="en">IUBMB Life</source>, <volume>71</volume>, <fpage>277</fpage>&#x02013;<lpage>282</lpage>.<pub-id pub-id-type="pmid">30414358</pub-id></mixed-citation></ref></ref-list></back></article>

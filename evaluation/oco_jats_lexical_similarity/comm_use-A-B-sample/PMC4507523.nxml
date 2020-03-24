@@ -1,0 +1,879 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:ali="http://www.niso.org/schemas/ali/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="review-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Braz J Microbiol</journal-id><journal-id journal-id-type="iso-abbrev">Braz. J. Microbiol</journal-id><journal-id journal-id-type="publisher-id">bjm</journal-id><journal-title-group><journal-title>Brazilian Journal of Microbiology</journal-title></journal-title-group><issn pub-type="ppub">1517-8382</issn><issn pub-type="epub">1678-4405</issn><publisher><publisher-name>Sociedade Brasileira de Microbiologia</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">26273246</article-id><article-id pub-id-type="pmc">4507523</article-id><article-id pub-id-type="doi">10.1590/S1517-838246220140111</article-id><article-categories><subj-group subj-group-type="heading"><subject>Review</subject></subj-group></article-categories><title-group><article-title>Fermentative hydrogen production from agroindustrial lignocellulosic
+substrates</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Reginatto</surname><given-names>Valeria</given-names></name><xref ref-type="aff" rid="aff01">1</xref><xref rid="c01" ref-type="corresp"/></contrib><contrib contrib-type="author"><name><surname>Ant&#x000f4;nio</surname><given-names>Regina Vasconcellos</given-names></name><xref ref-type="aff" rid="aff02">2</xref></contrib></contrib-group><aff id="aff01"><label>1</label>Universidade de S&#x000e3;o Paulo, Faculdade de Filosofia, Ci&#x000ea;ncias e Letras de
+Ribeir&#x000e3;o Preto, Universidade de S&#x000e3;o Paulo, Ribeir&#x000e3;o Preto, SP, Brasil, Departamento de Qu&#x000ed;mica, Faculdade de
+Filosofia, Ci&#x000ea;ncias e Letras de Ribeir&#x000e3;o Preto, Universidade de S&#x000e3;o Paulo,
+Ribeir&#x000e3;o Preto, SP, Brazil.</aff><aff id="aff02"><label>2</label>Universidade Federal de Santa
+Catarina, Universidade Federal de Santa
+Catarina, Ararangu&#x000e1;, SC, Brasil, Universidade Federal de Santa Catarina,
+Ararangu&#x000e1;, SC, Brazil.</aff><author-notes><corresp id="c01">Send correspondence to V. Reginatto. Departamento de Qu&#x000ed;mica,
+Faculdade de Filosofia, Ci&#x000ea;ncias e Letras de Ribeir&#x000e3;o Preto, Universidade de S&#x000e3;o
+Paulo, 14040-901 Ribeir&#x000e3;o Preto-SP, Brazil. E-mail:
+<email>valeriars@ffclrp.usp.br</email>.</corresp><fn id="fn01" fn-type="other"><p>Associate Editor: Lara Dur&#x000e3;es Sette</p></fn></author-notes><pub-date pub-type="epub"><day>01</day><month>6</month><year>2015</year></pub-date><pub-date pub-type="collection"><month>6</month><year>2015</year></pub-date><volume>46</volume><issue>2</issue><fpage>323</fpage><lpage>335</lpage><history><date date-type="received"><day>05</day><month>2</month><year>2014</year></date><date date-type="accepted"><day>09</day><month>10</month><year>2014</year></date></history><permissions><copyright-statement>Copyright &#x000a9; 2015, Sociedade Brasileira de
+Microbiologia</copyright-statement><copyright-year>2015</copyright-year><license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/3.0/"><license-p>All the content of the journal, except where otherwise noted, is
+licensed under a Creative Commons License CC BY-NC.</license-p></license></permissions><abstract><p>To achieve economically competitive biological hydrogen production, it is crucial
+to consider inexpensive materials such as lignocellulosic substrate residues
+derived from agroindustrial activities. It is possible to use (1)
+lignocellulosic materials without any type of pretreatment, (2) lignocellulosic
+materials after a pretreatment step, and (3) lignocellulosic materials
+hydrolysates originating from a pretreatment step followed by enzymatic
+hydrolysis. According to the current literature data on fermentative
+H<sub>2</sub> production presented in this review, thermophilic conditions
+produce H<sub>2</sub> in yields approximately 75% higher than those obtained in
+mesophilic conditions using untreated lignocellulosic substrates. The average
+H<sub>2</sub> production from pretreated material is 3.17 &#x000b1; 1.79 mmol of
+H<sub>2</sub>/g of substrate, which is approximately 50% higher compared
+with the average yield achieved using untreated materials (2.17 &#x000b1; 1.84 mmol of
+H<sub>2</sub>/g of substrate). Biological pretreatment affords the highest
+average yield 4.54 &#x000b1; 1.78 mmol of H<sub>2</sub>/g of substrate compared with the
+acid and basic pretreatment - average yields of 2.94 &#x000b1; 1.85 and 2.41 &#x000b1; 1.52 mmol
+of H<sub>2</sub>/g of substrate, respectively. The average H<sub>2</sub> yield
+from hydrolysates, obtained from a pretreatment step and enzymatic hydrolysis
+(3.78 &#x000b1; 1.92 mmol of H<sub>2</sub>/g), was lower compared with the yield of
+substrates pretreated by biological methods only, demonstrating that it is
+important to avoid the formation of inhibitors generated by chemical
+pretreatments. Based on this review, exploring other microorganisms and
+optimizing the pretreatment and hydrolysis conditions can make the use of
+lignocellulosic substrates a sustainable way to produce H<sub>2</sub>.</p></abstract><kwd-group><kwd>fermentation</kwd><kwd>hydrogen</kwd><kwd>lignocellulosic substrates</kwd><kwd>pretreatment</kwd><kwd>inhibitors</kwd></kwd-group><counts><fig-count count="2"/><table-count count="3"/><equation-count count="4"/><ref-count count="103"/><page-count count="13"/></counts></article-meta></front><body><sec sec-type="intro"><title>Introduction</title><p>H<sub>2</sub> is a promising fuel: it is carbon-free and its combustion produces only
+water (<xref rid="B96" ref-type="bibr">Wang and Wan, 2009</xref>). Although
+H<sub>2</sub> constitutes a clean fuel, currently available methods leading to
+its production, such as methane reforming and partial oil and coal oxidation, demand
+fossil fuels and a high amount of energy (<xref rid="B09" ref-type="bibr">Chaubey
+<italic>et al.</italic>, 2013</xref>). Biological approaches that produce
+H<sub>2</sub> offer several advantages over current physicochemical methods:
+they occur at ambient temperature and pressure, and they use renewable raw materials
+as substrates (<xref rid="B45" ref-type="bibr">Li and Fang, 2007</xref>; <xref rid="B47" ref-type="bibr">Li <italic>et al.</italic>, 2012</xref>).</p><p>A number of microbes belonging to a wide variety of bacterial groups can perform
+fermentative H<sub>2</sub> production, also called dark fermentation because it does
+not require light. The strict anaerobe <italic>Clostridium</italic> spp. and
+facultative anaerobes from the family Enterobacteriaceae are the most often cited
+H<sub>2</sub>-producing bacteria (<xref rid="B85" ref-type="bibr">Seol
+<italic>et al.</italic>, 2008</xref>, <xref rid="B21" ref-type="bibr">Elsharnouby <italic>et al.</italic>, 2013</xref>).</p><p>Mixed cultures that usually originate from an anaerobic environment, such as the
+sludge from anaerobic biodigestors, have also found application in
+H<sub>2</sub>-producing processes. They resist the fluctuations typical of the
+fermentation process, consume a broader range of complex substrates, and can operate
+in a non-sterile environment (<xref rid="B92" ref-type="bibr">Valdez-Vazquez and
+Poggi-Varaldo, 2009</xref>, <xref rid="B40" ref-type="bibr">Kothari <italic>et
+al.</italic>, 2012</xref>, <xref rid="B87" ref-type="bibr">Show <italic>et
+al.</italic>, 2012</xref>; <xref rid="B75" ref-type="bibr">Rafrafi
+<italic>et al.</italic>, 2013</xref>).</p><p>However, it is the choice of substrate for fermentative H<sub>2</sub> production that
+determines the feasibility of the process. The substrate should (1) be
+carbohydrate-rich, (2) originate from renewable resources, (3) suffice for
+fermentation, and (4) promote energetically favorable energy recovery. In addition,
+any necessary pretreatment should be inexpensive (<xref rid="B96" ref-type="bibr">Wang and Wan, 2009</xref>; <xref rid="B09" ref-type="bibr">Chaubey <italic>et
+al.</italic>, 2013</xref>). In this context, several investigators have
+turned to lignocellulosic materials to produce H<sub>2</sub> (<xref rid="B32" ref-type="bibr">Kapdan and Kargi, 2006</xref>; <xref rid="B78" ref-type="bibr">Ren <italic>et al.</italic>, 2009</xref>; <xref rid="B48" ref-type="bibr">Lin
+<italic>et al.</italic>, 2012</xref>). According to <xref rid="B39" ref-type="bibr">Kotay and Das (2008)</xref>, if the use of these resources is
+appropriately controlled, they will become a major source of energy in the future.
+Unfortunately, these residues have a complex chemical structure and often call for
+previous treatment and/or hydrolysis to serve as substrate for biological
+H<sub>2</sub> production. Such pretreatment and/or hydrolysis could not only
+alter the physicochemical features of the waste, making carbohydrates available for
+fermentation, but also afford byproducts that negatively interfere in fermentative
+H<sub>2</sub> production.</p><p>This review compares the yields of fermentative H<sub>2</sub> production from (1)
+different agroindustrial lignocellulosic substrates without any chemical or
+biological pretreatment (2) lignocellulosic materials after a pretreatment step and
+(3) hydrolysates of lignocellulosic materials originating from a pretreatment step
+followed by enzymatic hydrolysis. The comparison of these results will show how the
+pretreatment and hydrolysis of lignocellulosic substrates affect fermentative
+H<sub>2</sub> production. In addition, this review will present the
+microorganisms involved in H<sub>2</sub> production from those materials.</p></sec><sec><title>Lignocellulosic Materials as Substrate for Fermentative H<sub>2</sub>
+Production</title><p>Lignocellulosic materials are the most abundant residues derived from agroindustrial
+activities; therefore, they can potentially become a significant source of renewable
+H<sub>2</sub> (<xref rid="B82" ref-type="bibr">Saratale <italic>et al.</italic>,
+2008</xref>; <xref rid="B43" ref-type="bibr">Levin <italic>et al.</italic>,
+2009</xref>; <xref rid="B78" ref-type="bibr">Ren <italic>et al.</italic>,
+2009</xref>; <xref rid="B12" ref-type="bibr">Cheng <italic>et al.</italic>,
+2011</xref>; <xref rid="B27" ref-type="bibr">Hay <italic>et al.</italic>,
+2013</xref>). Agricultural residues from harvested crops are the cheapest and
+the most abundant readily available lignocellulosic organic waste; they include
+straw, stover, peelings, cobs, stalks, and bagasse (<xref rid="B24" ref-type="bibr">Guo <italic>et al.</italic>, 2010a</xref>; <xref rid="B12" ref-type="bibr">Cheng <italic>et al.</italic>, 2011</xref>; <xref rid="B47" ref-type="bibr">Li
+<italic>et al.</italic>, 2012</xref>). All these residues can undergo
+biological transformations to varying degrees, as well as conversion to hydrogen
+(<xref rid="B24" ref-type="bibr">Guo <italic>et al.</italic>, 2010a</xref>).</p><p>Researchers have investigated several agroindustrial wastes for H<sub>2</sub>
+production. Cornstalk (<xref rid="B07" ref-type="bibr">Cao <italic>et al.</italic>,
+2009</xref>; <xref rid="B06" ref-type="bibr">Cao <italic>et al.</italic>,
+2012</xref>; <xref rid="B13" ref-type="bibr">Cheng <italic>et al.</italic>,
+2012</xref>; <xref rid="B88" ref-type="bibr">Song <italic>et al.</italic>,
+2012</xref>; <xref rid="B102" ref-type="bibr">Zhao <italic>et al.</italic>,
+2013</xref>), wheat straw (<xref rid="B22" ref-type="bibr">Fan <italic>et
+al.</italic>, 2006</xref>; <xref rid="B31" ref-type="bibr">Kaparaju
+<italic>et al.</italic>, 2009</xref>; <xref rid="B37" ref-type="bibr">Kongjan and Angelidaki, 2010</xref>; <xref rid="B62" ref-type="bibr">Nasirian
+<italic>et al.</italic>, 2011</xref>, <xref rid="B73" ref-type="bibr">Quemeneur <italic>et al.</italic>, 2012a</xref>) and sugarcane bagasse (<xref rid="B71" ref-type="bibr">Pattra <italic>et al.</italic>, 2008</xref>; <xref rid="B08" ref-type="bibr">Chairattanamanokorn <italic>et al.</italic>,
+2009</xref>; <xref rid="B23" ref-type="bibr">Fangkum and Reungsang, 2011</xref>)
+are the most cited in the literature.</p><p>Lignocellulosic materials consist primarily of cellulose, hemicelluloses, and lignin.
+Thus, the main products of the enzymatic, chemical, or thermochemical hydrolysis of
+lignocellulosic materials are hexoses, mainly glucose, and pentose sugars, mainly
+xylose.</p><p>In addition to H<sub>2</sub>, the anaerobic digestion of glucose by strict anaerobes
+or facultative microorganisms yields different final products. Depending on the
+bacterial species, pH, and H<sub>2</sub> partial pressure, the fermentation of
+glucose can result in H<sub>2</sub>, CO<sub>2</sub>, acetate and/or butyrate (<xref rid="e01" ref-type="disp-formula">Eqs. 1</xref> and <xref rid="e02" ref-type="disp-formula">2</xref>). Theoretically, when the final product is
+acetate only, 4 mol of H<sub>2</sub>/mol of glucose can emerge (<xref rid="e01" ref-type="disp-formula">Eq. 1</xref>). However, if the final product is
+butyrate, only 2 mol of H<sub>2</sub>/mol of glucose arises (<xref rid="e02" ref-type="disp-formula">Eq. 2</xref>).</p><p>Xylose is the major pentose derived from the hydrolysis of hemicelluloses, which in
+turn constitutes approximately 20 to 30% of plant biomass. It can be used for the
+growth and energy production of numerous microorganisms. The use of xylose as a
+substrate for ethanol production has been extensively studied (<xref rid="B89" ref-type="bibr">Sun and Cheng, 2002</xref>; <xref rid="B49" ref-type="bibr">Lin
+and Tanaka 2006</xref>; <xref rid="B84" ref-type="bibr">Sarks <italic>et
+al.</italic>, 2014</xref>). However, only recently has attention been given
+to H<sub>2</sub> production from xylose fermentation. Theoretically, similarly to
+glucose fermentation, xylose fermentation can produce 3.33 mol H<sub>2</sub>/mol
+xylose when acetate is the fermentation product (<xref rid="e03" ref-type="disp-formula">Eq. 3</xref>). When butyrate is the fermentation
+product, 1.66 mol of H<sub>2</sub>/mol of xylose will emerge (<xref rid="e04" ref-type="disp-formula">Eq. 4</xref>) (<xref rid="B56" ref-type="bibr">Martin
+del Campo <italic>et al.</italic>, 2013</xref>).</p><disp-formula id="e01"><label>(1)</label><mml:math id="m1"><mml:mrow><mml:msub><mml:mrow><mml:mtext>C</mml:mtext></mml:mrow><mml:mn>6</mml:mn></mml:msub><mml:msub><mml:mrow><mml:mtext>H</mml:mtext></mml:mrow><mml:mrow><mml:mn>12</mml:mn></mml:mrow></mml:msub><mml:msub><mml:mrow><mml:mtext>O</mml:mtext></mml:mrow><mml:mn>6</mml:mn></mml:msub><mml:mo>+</mml:mo><mml:mn>2</mml:mn><mml:msub><mml:mrow><mml:mtext>H</mml:mtext></mml:mrow><mml:mn>2</mml:mn></mml:msub><mml:mtext>O</mml:mtext><mml:mo>&#x02192;</mml:mo><mml:mn>2</mml:mn><mml:msub><mml:mrow><mml:mrow><mml:mtext>CH</mml:mtext></mml:mrow></mml:mrow><mml:mn>3</mml:mn></mml:msub><mml:msup><mml:mrow><mml:mrow><mml:mtext>COO</mml:mtext></mml:mrow></mml:mrow><mml:mo>-</mml:mo></mml:msup><mml:mo>+</mml:mo><mml:mn>2</mml:mn><mml:msub><mml:mrow><mml:mrow><mml:mtext>CO</mml:mtext></mml:mrow></mml:mrow><mml:mn>2</mml:mn></mml:msub><mml:mo>+</mml:mo><mml:mn>4</mml:mn><mml:msub><mml:mrow><mml:mtext>H</mml:mtext></mml:mrow><mml:mn>2</mml:mn></mml:msub></mml:mrow></mml:math></disp-formula><disp-formula id="e02"><label>(2)</label><mml:math id="m2"><mml:mrow><mml:msub><mml:mrow><mml:mtext>C</mml:mtext></mml:mrow><mml:mn>6</mml:mn></mml:msub><mml:msub><mml:mrow><mml:mtext>H</mml:mtext></mml:mrow><mml:mrow><mml:mn>12</mml:mn></mml:mrow></mml:msub><mml:msub><mml:mrow><mml:mtext>O</mml:mtext></mml:mrow><mml:mn>6</mml:mn></mml:msub><mml:mo>&#x02192;</mml:mo><mml:msub><mml:mrow><mml:mrow><mml:mtext>CH</mml:mtext></mml:mrow></mml:mrow><mml:mn>3</mml:mn></mml:msub><mml:msub><mml:mrow><mml:mrow><mml:mtext>CH</mml:mtext></mml:mrow></mml:mrow><mml:mn>2</mml:mn></mml:msub><mml:msub><mml:mrow><mml:mrow><mml:mtext>CH</mml:mtext></mml:mrow></mml:mrow><mml:mn>2</mml:mn></mml:msub><mml:msup><mml:mrow><mml:mrow><mml:mtext>COO</mml:mtext></mml:mrow></mml:mrow><mml:mo>-</mml:mo></mml:msup><mml:mo>+</mml:mo><mml:mn>2</mml:mn><mml:msub><mml:mrow><mml:mrow><mml:mtext>CO</mml:mtext></mml:mrow></mml:mrow><mml:mn>2</mml:mn></mml:msub><mml:mo>+</mml:mo><mml:mn>2</mml:mn><mml:msub><mml:mrow><mml:mtext>H</mml:mtext></mml:mrow><mml:mn>2</mml:mn></mml:msub></mml:mrow></mml:math></disp-formula><disp-formula id="e03"><label>(3)</label><mml:math id="m3"><mml:mrow><mml:msub><mml:mrow><mml:mtext>C</mml:mtext></mml:mrow><mml:mn>5</mml:mn></mml:msub><mml:msub><mml:mrow><mml:mtext>H</mml:mtext></mml:mrow><mml:mrow><mml:mn>10</mml:mn></mml:mrow></mml:msub><mml:msub><mml:mrow><mml:mtext>O</mml:mtext></mml:mrow><mml:mn>5</mml:mn></mml:msub><mml:mo>+</mml:mo><mml:mn>1.66</mml:mn><mml:msub><mml:mrow><mml:mtext>H</mml:mtext></mml:mrow><mml:mn>2</mml:mn></mml:msub><mml:mtext>O</mml:mtext><mml:mo>&#x02192;</mml:mo><mml:mn>1.66</mml:mn><mml:msub><mml:mrow><mml:mrow><mml:mtext>CH</mml:mtext></mml:mrow></mml:mrow><mml:mn>3</mml:mn></mml:msub><mml:msup><mml:mrow><mml:mrow><mml:mtext>COO</mml:mtext></mml:mrow></mml:mrow><mml:mo>-</mml:mo></mml:msup><mml:mo>+</mml:mo><mml:mn>1.66</mml:mn><mml:msub><mml:mrow><mml:mrow><mml:mtext>CO</mml:mtext></mml:mrow></mml:mrow><mml:mn>2</mml:mn></mml:msub><mml:mo>+</mml:mo><mml:mn>3.33</mml:mn><mml:msub><mml:mrow><mml:mtext>H</mml:mtext></mml:mrow><mml:mn>2</mml:mn></mml:msub></mml:mrow></mml:math></disp-formula><disp-formula id="e04"><label>(4)</label><mml:math id="m4"><mml:mrow><mml:msub><mml:mrow><mml:mtext>C</mml:mtext></mml:mrow><mml:mn>5</mml:mn></mml:msub><mml:msub><mml:mrow><mml:mtext>H</mml:mtext></mml:mrow><mml:mrow><mml:mn>10</mml:mn></mml:mrow></mml:msub><mml:msub><mml:mrow><mml:mtext>O</mml:mtext></mml:mrow><mml:mn>5</mml:mn></mml:msub><mml:mo>+</mml:mo><mml:mn>1.66</mml:mn><mml:msub><mml:mrow><mml:mtext>H</mml:mtext></mml:mrow><mml:mn>2</mml:mn></mml:msub><mml:mtext>O</mml:mtext><mml:mo>&#x02192;</mml:mo><mml:mn>1.66</mml:mn><mml:msub><mml:mrow><mml:mrow><mml:mtext>CH</mml:mtext></mml:mrow></mml:mrow><mml:mn>3</mml:mn></mml:msub><mml:msub><mml:mrow><mml:mrow><mml:mtext>CH</mml:mtext></mml:mrow></mml:mrow><mml:mn>2</mml:mn></mml:msub><mml:msub><mml:mrow><mml:mrow><mml:mtext>CH</mml:mtext></mml:mrow></mml:mrow><mml:mn>2</mml:mn></mml:msub><mml:msup><mml:mrow><mml:mrow><mml:mtext>COO</mml:mtext></mml:mrow></mml:mrow><mml:mo>-</mml:mo></mml:msup><mml:mo>+</mml:mo><mml:mn>1.66</mml:mn><mml:msub><mml:mrow><mml:mrow><mml:mtext>CO</mml:mtext></mml:mrow></mml:mrow><mml:mn>2</mml:mn></mml:msub><mml:mo>+</mml:mo><mml:mn>1.66</mml:mn><mml:msub><mml:mrow><mml:mtext>H</mml:mtext></mml:mrow><mml:mn>2</mml:mn></mml:msub></mml:mrow></mml:math></disp-formula><p>
+<xref rid="f01" ref-type="fig">Figure 1</xref> shows the main steps of the metabolic
+pathways and enzymes leading to H<sub>2</sub> production throughout glucose and
+xylose fermentation performed by anaerobic microorganisms. The figure shows that the
+enzyme xylose isomerase (XI) catalyzes the isomerization of xylose to xylulose. The
+latter is then phosphorylated by xylulokinase (XK), to afford xylulose-5-phosphate,
+one of the intermediates of the pentose phosphate (PP) pathway. Through the
+activities of epimerase, isomerase, transketolases, and transaldolases, enzymes of
+the PP pathway, xylulose-5-phosphate is converted to fructose-6-phosphate and
+glyceraldehyde-3-phosphate. Both of these compounds are intermediates of the EMP
+pathway, through which they undergo conversion to pyruvate. The supposed activities
+of pyruvate, ferredoxin oxyreductase (PFOR) and ferredoxin-dependent hydrogenase
+(Hyd) will produce H<sub>2</sub>, CO<sub>2</sub>, and acetate.</p><fig id="f01" orientation="portrait" position="float"><label>Figure 1</label><caption><title>Schematic view of the major metabolic pathways that lead to the
+production of H<sub>2</sub>, CO<sub>2</sub>, and acetate from the
+carbohydrate components obtained from the hydrolysis of lignocellulosic
+materials. EMP, Embden-Meyerhoff-Parma; Fd, oxidized ferredoxin;
+FdH<sub>2</sub>, reduced ferredoxin; Hyd, hydrogenase; PFOR, pyruvate:
+ferredoxin oxyreductase; PP, pentose phosphate; XI, xylose isomerase; XK,
+xylulokinase. The dashed arrows indicate multisteps of a metabolic
+pathway.</title></caption><graphic xlink:href="1517-8382-bjm-46-2-323-gf01"/></fig><p>According to the <xref rid="f01" ref-type="fig">Figure 1</xref>, glucose is converted
+to pyruvate, from which H<sub>2</sub>, CO<sub>2</sub>, and acetate are produced, as
+outlined above. It is noteworthy that for both carbohydrates, the consumption of
+reducing power to generate butyrate instead of acetate reduces the H<sub>2</sub>
+yield.</p><p>To produce H<sub>2</sub> by fermentation, it is possible to use (1) lignocellulosic
+materials without any chemical or biological pretreatment, (2) lignocellulosic
+materials after a pretreatment step, or (3) hydrolysates of lignocellulosic
+materials that normally originate after a pretreatment step followed by enzymatic
+hydrolysis. Another approach is to conduct simultaneous saccharification and
+fermentation (SSF), which consists in adding a hydrolytic enzyme(s) or
+microorganisms to a fermentation vessel (<xref rid="B73" ref-type="bibr">Quemeneur
+<italic>et al.</italic>, 2012a</xref>).</p></sec><sec><title>Pretreatment of Lignocellulosic Materials for Fermentative H<sub>2</sub>
+Production</title><p>The complex nature of lignocellulosic substrates may adversely affect their
+biodegradability. Therefore, prehydrolysis, often referred to as pretreatment, is
+required to alter the structure of lignocellulosic biomass to make the sugars
+available for fermentation (<xref rid="B78" ref-type="bibr">Ren <italic>et
+al.</italic>, 2009</xref>, <xref rid="B43" ref-type="bibr">Levin <italic>et
+al.</italic>, 2009</xref>). Carbohydrate polymers (cellulose and
+hemicellulose) and lignin are the main components of lignocellulosic materials
+(<xref rid="B80" ref-type="bibr">Rezende <italic>et al.</italic>, 2011</xref>;
+<xref rid="B60" ref-type="bibr">Mood <italic>et al.</italic>, 2013</xref>).
+Agricultural residues such as wheat straw, corn stalk, sugarcane bagasse, and rice
+straw contain approximately 32&#x02013;47% cellulose, 19&#x02013;27% hemicellulose, and 5&#x02013;24% lignin
+(<xref rid="B89" ref-type="bibr">Sun and Cheng, 2002</xref>). Although
+hemicellulose and lignin are minor components, they protect cellulose. Hence, it is
+necessary to hydrolyze these components, to efficiently use the cellulose (<xref rid="B61" ref-type="bibr">Mosier <italic>et al.</italic>, 2005</xref>; <xref rid="B80" ref-type="bibr">Rezende <italic>et al.</italic>, 2011</xref>). Thus,
+appropriate pretreatment steps reduce the cellulose crystallinity and/or
+polymerization degree and selectively remove hemicellulose and lignin to make
+carbohydrates from lignocellulosic materials accessible for enzymatic hydrolysis
+(<xref rid="B60" ref-type="bibr">Mood <italic>et al.</italic>, 2013</xref>;
+<xref rid="B58" ref-type="bibr">Monlau <italic>et al.</italic>,
+2013a</xref>).</p><p>The main pretreatment methods rely on mechanical, physical, chemical, and biological
+techniques or a combination thereof (<xref rid="B02" ref-type="bibr">Alvira
+<italic>et al.</italic>, 2010</xref>; <xref rid="B25" ref-type="bibr">Guo
+<italic>et al.</italic>, 2010b</xref>; <xref rid="B66" ref-type="bibr">Ogeda
+and Petri, 2010</xref>). These methods serve to prepare lignocellulosic
+materials for bioethanol production mainly, but most of them also find application
+in fermentative H<sub>2</sub> production (<xref rid="B24" ref-type="bibr">Guo
+<italic>et al.</italic>, 2010a</xref>; <xref rid="B60" ref-type="bibr">Mood
+<italic>et al.</italic>, 2013</xref>; <xref rid="B58" ref-type="bibr">Monlau
+<italic>et al.</italic>, 2013a</xref>).</p><p>Physicochemical pretreatment includes steam explosion, steam explosion with ammonium,
+use of organic solvents and supercritical fluids, and use of diluted acids and/or
+bases (<xref rid="B61" ref-type="bibr">Mosier <italic>et al.</italic>, 2005</xref>;
+<xref rid="B93" ref-type="bibr">Vargas Betancur and Pereira Jr, 2010</xref>;
+<xref rid="B59" ref-type="bibr">Monlau <italic>et al.</italic>, 2013b</xref>).
+Biological pretreatment relies on the ability of fungi and bacteria to produce
+enzymes such as lignin peroxidase and laccase, and hemicellulase, which help to
+remove lignin and hemicellulose from the lignocellulosic matrix, respectively (<xref rid="B66" ref-type="bibr">Ogeda and Petri, 2010</xref>).</p><p>Various methods for pretreating lignocellulosic material exist; however, it is
+essential to select a method that minimizes carbohydrate degradation and avoids the
+formation of inhibitory compounds that are toxic to fermentative microorganisms
+(<xref rid="B01" ref-type="bibr">Alriksson <italic>et al.</italic>, 2011</xref>;
+<xref rid="B80" ref-type="bibr">Rezende <italic>et al.</italic>, 2011</xref>;
+<xref rid="B30" ref-type="bibr">Jonsson <italic>et al.</italic>, 2013</xref>).
+Pretreatment at high temperatures rapidly degrades hemicellulose pentoses and to a
+lesser extent hexoses, producing acetic acid and furfurals, which constitute
+potential fermentation inhibitors (<xref rid="B01" ref-type="bibr">Alriksson
+<italic>et al.</italic>, 2011</xref>; <xref rid="B30" ref-type="bibr">Jonsson <italic>et al.</italic>, 2013</xref>).</p><p>
+<xref rid="f02" ref-type="fig">Figure 2</xref> shows the main carbohydrate
+degradation products from hemicelluloses and cellulose hydrolysis,
+<italic>i.e.</italic>, xylose and glucose, as well as furfural,
+hydroxymethylfurfural (HMF), and organic acids, such as formic and acetic acid
+(<xref rid="B68" ref-type="bibr">Palmqvist and Hahn-Hagerdal, 2000</xref>; <xref rid="B30" ref-type="bibr">Jonsson <italic>et al.</italic>, 2013</xref>).</p><fig id="f02" orientation="portrait" position="float"><label>Figure 2</label><caption><title>Products and subproducts from the pretreatment of lignocellulosic
+materials (modified from <xref rid="B30" ref-type="bibr">Jonsson <italic>et
+al.</italic>, 2013</xref>).</title></caption><graphic xlink:href="1517-8382-bjm-46-2-323-gf02"/></fig><p>Furfural originates from pentose dehydration; its concentration in the liquid phase
+increases with rising pretreatment temperature, acid concentration, or pretreatment
+time (<xref rid="B10" ref-type="bibr">Chen <italic>et al.</italic>, 2013</xref>).
+Furfural may react further, to yield formic acid, or it may polymerize.
+Hydroxymethylfurfural (HMF) stems from the dehydration of hexoses such as glucose;
+it can further react to yield levulinic and formic acid (<xref rid="B68" ref-type="bibr">Palmqvist and Hahn-Hagerdal, 2000</xref>; <xref rid="B10" ref-type="bibr">Chen <italic>et al.</italic>, 2013</xref>; <xref rid="B30" ref-type="bibr">Jonsson <italic>et al.</italic>, 2013</xref>). These inhibitors
+may interfere with cell functions and osmotic pressure; they can even directly
+inhibit the acid fermentation pathway (<xref rid="B68" ref-type="bibr">Palmqvist and
+Hahn-Hagerdal, 2000</xref>).</p><p>Acetic acid is an inhibitory substance that also exists in hydrolysates. It is formed
+by the hydrolysis of acetyl groups in hemicellulose and, to some extent, lignin
+(<xref rid="B36" ref-type="bibr">Klinke <italic>et al.</italic>, 2004</xref>).
+In the undissociated form, acetic acid can penetrate the cell membrane and inhibit
+product formation, disrupting the pH balance at high concentration, inhibiting cell
+growth or even killing cells (<xref rid="B35" ref-type="bibr">Klinke <italic>et
+al.</italic>, 2002</xref>). However, some strains can use acetic acid as a
+substrate to produce H<sub>2</sub> (<xref rid="B57" ref-type="bibr">Matsumoto and
+Nishimura, 2007</xref>; <xref rid="B99" ref-type="bibr">Xu <italic>et
+al.</italic>, 2010</xref>).</p><p>Aromatics may arise in hydrolysates depending on the type of pretreatment applied and
+on the ratio of p-coumaryl alcohol, coniferyl, and sinapyl alcohol, the main lignin
+monomers. Pretreatment can transform lignin into a complex mixture of
+low-molecular-weight or "monomeric" phenolic compounds, especially by acid
+impregnation (<xref rid="B36" ref-type="bibr">Klinke <italic>et al.</italic>,
+2004</xref>; <xref rid="B10" ref-type="bibr">Chen <italic>et al.</italic>,
+2013</xref>). Phenolic compounds are well known for being toxic to microbial
+cells. They bear carboxyl, formyl, and hydroxyl groups, which increase the fluidity
+of the membrane and affect its permeability (<xref rid="B78" ref-type="bibr">Ren
+<italic>et al.</italic>, 2009</xref>).</p><p>In summary, the pretreatment of lignocellulosic material to use it as a substrate for
+producing H<sub>2</sub> may generate fermentation inhibitors as well as other
+unusual substrates, such as pentose (xylose) and/or oligosaccharides (<xref rid="B55" ref-type="bibr">Maintinguer <italic>et al.</italic>, 2011</xref>;
+<xref rid="B74" ref-type="bibr">Quemeneur <italic>et al.</italic>,
+2012b</xref>), which is a major drawback.</p><p>The use of xylose as a substrate appears to be less problematic than the presence of
+inhibitory compounds because xylose can be metabolized as illustrated in <xref rid="f01" ref-type="fig">Figure 1</xref>. Indeed a series of
+H<sub>2</sub>-producing microorganisms, such as <italic>Clostridium</italic> spp.
+(<xref rid="B55" ref-type="bibr">Maintinguer <italic>et al.</italic>,
+2011</xref>); <italic>Enterobacter</italic> spp. CN1 (<xref rid="B53" ref-type="bibr">Long <italic>et al.</italic>, 2010</xref>); and the thermophiles
+<italic>Thermoanaerobacterium saccharolyticum</italic> (<xref rid="B77" ref-type="bibr">Ren <italic>et al.</italic>, 2008</xref>; <xref rid="B86" ref-type="bibr">Shaw <italic>et al.</italic>, 2008</xref>), <italic>Thermotoga
+neapolitana</italic> DSM 4359 (<xref rid="B63" ref-type="bibr">Ngo <italic>et
+al.</italic>, 2012</xref>), <italic>Caldicellulosiruptor
+saccharolyticus</italic> (<xref rid="B20" ref-type="bibr">de Vrije <italic>et
+al.</italic>, 2009</xref>) and Thermoanaerobacterium thermosaccharolyticum
+(<xref rid="B33" ref-type="bibr">Khamtib and Reungsang, 2012</xref>), can
+consume and produce hydrogen from xylose. <xref rid="B77" ref-type="bibr">Ren
+<italic>et al.</italic> (2008)</xref> reported that <italic>T.
+saccharolyticum</italic> W16 can ferment a mixture of glucose and xylose with a
+H<sub>2</sub> yield of up to 2.37 mol of H<sub>2</sub>/mol of substrate.</p><p>However, inhibitors such as furan derivatives and phenolic compounds negatively
+affect H<sub>2</sub> production by mixed cultures. According to <xref rid="B73" ref-type="bibr">Qu&#x000e9;m&#x000e9;neur <italic>et al.</italic> (2012)</xref>, furans exert a
+more negative effect than that induced by phenolic compounds. These authors found
+that <italic>Clostridium beijerinckii</italic> strains resisted these inhibitors
+better than other clostridial and non-clostridial bacteria did; therefore,
+<italic>C. beijerinckii</italic> is a promising microorganism for H<sub>2</sub>
+production from lignocellulosic hydrolysates. <xref rid="B90" ref-type="bibr">Tai
+<italic>et al.</italic> (2010)</xref> observed that higher phenol
+concentrations (1 g/L) significantly inhibited <italic>C. butyricum</italic>
+metabolism. Nevertheless, no metabolic inhibition or co-degradation occurred at
+concentrations of approximately 0.6 g/L. <xref rid="B94" ref-type="bibr">Veeravalli
+<italic>et al.</italic> (2013)</xref> observed that furans affected
+fermentative H<sub>2</sub> production by a mixed anaerobic culture. Furan levels of
+up to 1 g/L favored propionate and ethanol generation, decreasing H<sub>2</sub>
+production.</p><p>In conclusion, the main limitation of using pretreated lignocellulosic materials in
+fermentative H<sub>2</sub> production is the presence of these inhibitors.</p></sec><sec><title>H<sub>2</sub> Production From Non-Pretreated Lignocellulosic Materials</title><p>Because pretreatment processes are expensive and can produce inhibitory compounds, it
+would be beneficial to avoid pretreatment and directly convert lignocellulosic
+materials to H<sub>2</sub> (<xref rid="B43" ref-type="bibr">Levin <italic>et
+al.</italic>, 2009</xref>; <xref rid="B76" ref-type="bibr">Raj <italic>et
+al.</italic>, 2012</xref>).</p><p>Only a few reports concerning the production of H<sub>2</sub> from untreated
+lignocellulosic feedstocks exist in the literature (<xref rid="B78" ref-type="bibr">Ren <italic>et al.</italic>, 2009</xref>), and most of them involve
+thermophilic microorganisms. For example, <italic>Clostridium thermocellum</italic>
+ATCC 27405 and <italic>C. saccharolyticus</italic> DSM 8903 can hydrolyze cellulose
+and hemicellulose to produce H<sub>2</sub> (<xref rid="B76" ref-type="bibr">Raj
+<italic>et al.</italic>, 2012</xref>).</p><p>C. saccharolyticus can produce H<sub>2</sub> directly from mechanically comminuted
+switchgrass without any chemical or biological pretreatment (<xref rid="B91" ref-type="bibr">Talluri <italic>et al.</italic>, 2013</xref>).</p><p>Some authors have resorted to co-cultures that allow for the use of lignocellulosic
+materials as substrates. <xref rid="B95" ref-type="bibr">Wang <italic>et
+al.</italic> (2008)</xref> reported that a co-culture consisting of
+<italic>Clostridium acetobutylicum</italic> and <italic>Ethanoigenens
+harbinense</italic> effectively hydrolyzed cellulose and produced H<sub>2</sub>
+from microcrystalline cellulose. <xref rid="B46" ref-type="bibr">Li and Liu
+(2012)</xref> developed a co-culture of <italic>C. thermocellum</italic> and
+<italic>C. thermosaccharolyticum</italic>, to improve hydrogen production via
+the thermophilic fermentation of cornstalk waste. The authors achieved a hydrogen
+yield of 68.2 mL of H<sub>2</sub>/g of cornstalk, 94.1% higher than the yield
+obtained using a monoculture of <italic>C. thermocellum</italic>.</p><p>
+<xref rid="t01" ref-type="table">Table 1</xref> lists results for fermentative
+H<sub>2</sub> production from lignocellulosic materials without any chemical
+pretreatment, the employed inocula, and the H<sub>2</sub> yield obtained from these
+substrates. The results are presented as maximum assessed production yield, as
+indicated by the authors; when possible, we converted the data and expressed them as
+maximum calculated production yield (mmol of H<sub>2</sub>/g of substrate) for
+comparison. All the wastes included in <xref rid="t01" ref-type="table">Table
+1</xref> were milled before being assayed.</p><table-wrap id="t01" orientation="portrait" position="float"><label>Table 1</label><caption><title>Fermentative H<sub>2</sub> production from lignocellulosic residues
+without pretreatment: employed inoculum and H<sub>2</sub> yield obtained
+from these substrates.</title></caption><table frame="hsides" rules="groups"><thead><tr><th valign="top" align="left" rowspan="1" colspan="1">Feedstock</th><th valign="top" align="center" rowspan="1" colspan="1">Inoculum</th><th valign="top" align="center" rowspan="1" colspan="1">T (&#x000b0;C)</th><th valign="top" align="center" rowspan="1" colspan="1">Maximum assessed production yield<xref rid="TFN01" ref-type="table-fn">a</xref>
+</th><th valign="top" align="center" rowspan="1" colspan="1">Maximum calculated production yield
+(mmol H<sub>2</sub>/g of substrate)<xref rid="TFN02" ref-type="table-fn">b</xref>
+</th><th valign="top" align="left" rowspan="1" colspan="1">Reference</th></tr></thead><tbody><tr><td valign="top" align="left" rowspan="1" colspan="1">Cornstalk</td><td valign="top" align="center" rowspan="1" colspan="1">C. thermocellum</td><td valign="top" align="center" rowspan="1" colspan="1">55</td><td valign="top" align="center" rowspan="1" colspan="1">61.4 mL of H<sub>2</sub>/g</td><td valign="top" align="center" rowspan="1" colspan="1">2.28</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="B13" ref-type="bibr">Cheng and Liu, 2012</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">Cornstalk</td><td valign="top" align="center" rowspan="1" colspan="1">anaerobic digester sludge</td><td valign="top" align="center" rowspan="1" colspan="1">55</td><td valign="top" align="center" rowspan="1" colspan="1">37.6 mL of H<sub>2</sub>/g</td><td valign="top" align="center" rowspan="1" colspan="1">1.40</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="B13" ref-type="bibr">Cheng and Liu, 2012</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">Cornstalk</td><td valign="top" align="center" rowspan="1" colspan="1">mixed microflora from rotted wood
+crumb</td><td valign="top" align="center" rowspan="1" colspan="1">60</td><td valign="top" align="center" rowspan="1" colspan="1">115.3 mL of H<sub>2</sub>/g</td><td valign="top" align="center" rowspan="1" colspan="1">4.22</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="B06" ref-type="bibr">Cao <italic>et al</italic>.,
+2012</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">Cornstalk</td><td valign="top" align="center" rowspan="1" colspan="1">
+<italic>C. thermocellum</italic>,
+<italic>C. thermosaccharolyticum</italic>
+</td><td valign="top" align="center" rowspan="1" colspan="1">55</td><td valign="top" align="center" rowspan="1" colspan="1">74.9 mL of H<sub>2</sub>/g</td><td valign="top" align="center" rowspan="1" colspan="1">2.78</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="B46" ref-type="bibr">Li and Liu, 2012</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">Cornstalk</td><td valign="top" align="center" rowspan="1" colspan="1">cow dung compost</td><td valign="top" align="center" rowspan="1" colspan="1">36</td><td valign="top" align="center" rowspan="1" colspan="1">3 mL of H<sub>2</sub>/g</td><td valign="top" align="center" rowspan="1" colspan="1">0.12</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="B101" ref-type="bibr">Zhang <italic>et al</italic>.,
+2007</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">Mushroom cultivation waste</td><td valign="top" align="center" rowspan="1" colspan="1">heated mixed cultures</td><td valign="top" align="center" rowspan="1" colspan="1">55</td><td valign="top" align="center" rowspan="1" colspan="1">0.73 mmol of H<sub>2</sub>/g</td><td valign="top" align="center" rowspan="1" colspan="1">0.73</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="B42" ref-type="bibr">Lay <italic>et al</italic>.,
+2012</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">Grass (Reed canary)</td><td valign="top" align="center" rowspan="1" colspan="1">H<sub>2</sub>-microbial enrichment
+culture</td><td valign="top" align="center" rowspan="1" colspan="1">35</td><td valign="top" align="center" rowspan="1" colspan="1">0.19 mmol of H<sub>2</sub>/g</td><td valign="top" align="center" rowspan="1" colspan="1">0.19</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="B41" ref-type="bibr">Lakaniemi <italic>et al</italic>.,
+2011</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">Grass</td><td valign="top" align="center" rowspan="1" colspan="1">mixed cultures enriched with <italic>C.
+pasteurianum</italic>
+</td><td valign="top" align="center" rowspan="1" colspan="1">35</td><td valign="top" align="center" rowspan="1" colspan="1">4.39 mL of H<sub>2</sub>/g</td><td valign="top" align="center" rowspan="1" colspan="1">0.17</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="B16" ref-type="bibr">Cui and Shen, 2012</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">Grass (switchgrass)</td><td valign="top" align="center" rowspan="1" colspan="1">
+<italic>C. saccharolyticus</italic> DSM
+8903</td><td valign="top" align="center" rowspan="1" colspan="1">65</td><td valign="top" align="center" rowspan="1" colspan="1">11.2 mmol of H<sub>2</sub>/g</td><td valign="top" align="center" rowspan="1" colspan="1">11.2</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="B91" ref-type="bibr">Talluri <italic>et al</italic>.,
+2013</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">Rice straw</td><td valign="top" align="center" rowspan="1" colspan="1">
+<italic>T. neapolitana</italic>
+</td><td valign="top" align="center" rowspan="1" colspan="1">75</td><td valign="top" align="center" rowspan="1" colspan="1">2.3 mmol of H<sub>2</sub>/g</td><td valign="top" align="center" rowspan="1" colspan="1">2.3</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="B64" ref-type="bibr">Nguyen <italic>et al</italic>.,
+2010</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">Rice straw</td><td valign="top" align="center" rowspan="1" colspan="1">sewage sludge</td><td valign="top" align="center" rowspan="1" colspan="1">55</td><td valign="top" align="center" rowspan="1" colspan="1">21 mL of H<sub>2</sub>/g</td><td valign="top" align="center" rowspan="1" colspan="1">0.78</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="B34" ref-type="bibr">Kim <italic>et al</italic>,
+2013</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">Wheat straw</td><td valign="top" align="center" rowspan="1" colspan="1">preheated anaerobic sludge</td><td valign="top" align="center" rowspan="1" colspan="1">37</td><td valign="top" align="center" rowspan="1" colspan="1">10.52 mL of H<sub>2</sub>/g VS<xref rid="TFN03" ref-type="table-fn">c</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">0.41</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="B73" ref-type="bibr">Quemeneur <italic>et al</italic>.,
+2012</xref>
+<xref rid="TFN01" ref-type="table-fn">(a)</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">Wheat straw</td><td valign="top" align="center" rowspan="1" colspan="1">
+<italic>C. saccharolyticus</italic>
+</td><td valign="top" align="center" rowspan="1" colspan="1">70</td><td valign="top" align="center" rowspan="1" colspan="1">44.7 mL of H<sub>2</sub>/g</td><td valign="top" align="center" rowspan="1" colspan="1">1.59</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="B29" ref-type="bibr">Ivanova <italic>et al</italic>.,
+2009</xref>
+</td></tr></tbody></table><table-wrap-foot><fn id="TFN01"><label>a</label><p>Maximum assessed production yields are the results presented by the
+authors.</p></fn><fn id="TFN02"><label>b</label><p>Maximum calculated production yields are results converted from authors'
+data determined according to the ideal gas equation considering a
+pressure of 1 atm and the absolute temperature used during H<sub>2</sub>
+fermentation.</p></fn><fn id="TFN03"><label>c</label><p>VS: Volatile solids contained in the substrate.</p></fn></table-wrap-foot></table-wrap><p>The temperature clearly affected the fermentative H<sub>2</sub> production yield from
+lignocellulosic residues. Most of the studies that used untreated lignocellulosic
+materials employed thermophilic conditions (10, n = 14) to provide yields
+approximately 75% higher than those obtained under mesophilic conditions. Although
+most studies employed a mixed culture as an inoculum, C. thermocellum and T.
+thermosaccharolyticum, previously known as <italic>C. thermosaccharolyticum</italic>
+were the thermophilic microorganisms most frequently employed to produce
+H<sub>2</sub> from untreated feedstock.</p><p>The untreated raw materials presented in <xref rid="t01" ref-type="table">Table
+1</xref> afforded an average maximum calculated H<sub>2</sub> production yield
+of 2.17 (&#x000b1; 1.84) mmol of H<sub>2</sub>/g of substrate; yields ranged from 0.12 to
+11.2 mmol of H<sub>2</sub>/g of substrate. The only study on switchgrass furnished
+the highest yield &#x02212; 11.2 mmol of H<sub>2</sub>/g of substrate (<xref rid="B91" ref-type="bibr">Talluri <italic>et al.</italic>, 2013</xref>). When we excluded
+this study from the calculations, the average H<sub>2</sub> production yield from
+untreated lignocellulosic substrates decreased to 1.41 (&#x000b1; 1.02) mmol of
+H<sub>2</sub>/g, where the highest average yield observed was that obtained for
+cornstalk &#x02212; 2.16 (&#x000b1; 1.17) mmol of H<sub>2</sub>/g.</p></sec><sec><title>H<sub>2</sub> Production From Pretreated Lignocellulosic Materials</title><p>Although some studies on the direct conversion of lignocellulosic materials to
+H<sub>2</sub> exist, most microorganisms require pretreated lignocellulosic
+material as a substrate to produce biohydrogen. The degree of pretreatment depends
+on the nature of the raw material and on the inoculated organism(s) (<xref rid="B78" ref-type="bibr">Ren <italic>et al.</italic>, 2009</xref>).</p><p>Most pretreatment steps generate undesirable inhibitors, but they significantly
+enhance H<sub>2</sub> production. <xref rid="B101" ref-type="bibr">Zhang <italic>et
+al.</italic> (2007)</xref> improved biohydrogen production from cornstalk
+after acidification and heat pretreatment. The authors achieved maximum cumulative
+H<sub>2</sub> production of 150 mL of H<sub>2</sub>/g of VS after treating the
+substrate with 0.2% HCl; this production was 50 times higher than the value obtained
+without pretreatment. Cornstalks treated with NaOH (0.5%) furnished 57 mL of
+H<sub>2</sub>/g of VS, <italic>i.e.</italic>, 19-fold the initial value obtained
+for the raw material (3 mL of H<sub>2</sub>/g of VS) (<xref rid="B101" ref-type="bibr">Zhang <italic>et al.</italic>, 2007</xref>).</p><p>
+<xref rid="t02" ref-type="table">Table 2</xref> summarizes literature results
+concerning the use of pretreated lignocellulosic wastes, the pretreatment type, the
+inoculum, and the H<sub>2</sub> yield obtained from these substrates. The results
+shown in <xref rid="t02" ref-type="table">Table 2</xref> refer to the maximum
+assessed production yield, as indicated by the authors; when possible, we converted
+the data and expressed them as maximum calculated production yield (mmol
+H<sub>2</sub>/g of substrate) for comparison.</p><table-wrap id="t02" orientation="portrait" position="float"><label>Table 2</label><caption><title>Fermentative H<sub>2</sub> production from pretreated lignocellulosic
+residues, pretreatment type, inoculum, and H<sub>2</sub> yield obtained from
+these substrates.</title></caption><table frame="hsides" rules="groups"><thead><tr><th valign="top" align="left" rowspan="1" colspan="1">Feedstock</th><th valign="top" align="left" rowspan="1" colspan="1">Pretreatment</th><th valign="top" align="left" rowspan="1" colspan="1">Inoculum</th><th valign="top" align="center" rowspan="1" colspan="1">T (&#x000b0;C)</th><th valign="top" align="left" rowspan="1" colspan="1">Maximum assessed production yield<xref rid="TFN04" ref-type="table-fn">a</xref>
+</th><th valign="top" align="center" rowspan="1" colspan="1">Maximum calculated production yield
+(mmol H<sub>2</sub>/g of substrate)<xref rid="TFN05" ref-type="table-fn">b</xref>
+</th><th valign="top" align="left" rowspan="1" colspan="1">Reference</th></tr></thead><tbody><tr><td valign="top" align="left" rowspan="1" colspan="1">Beet pulp</td><td valign="top" align="left" rowspan="1" colspan="1">pH 12 with NaOH for 30 min</td><td valign="top" align="left" rowspan="1" colspan="1">anaerobic sludge</td><td valign="top" align="center" rowspan="1" colspan="1">35</td><td valign="top" align="left" rowspan="1" colspan="1">115.6 mL of H<sub>2</sub>/g of COD</td><td valign="top" align="center" rowspan="1" colspan="1">-</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="B67" ref-type="bibr">Ozkan <italic>et al</italic>.,
+2011</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">Corn stalk</td><td valign="top" align="left" rowspan="1" colspan="1">Lime loading of 0.10 g/g of biomass for 96
+h</td><td valign="top" align="left" rowspan="1" colspan="1">mixed microflora from rotted wood
+crumb</td><td valign="top" align="center" rowspan="1" colspan="1">60</td><td valign="top" align="left" rowspan="1" colspan="1">155.4 mL of H<sub>2</sub>/g of TVS</td><td valign="top" align="center" rowspan="1" colspan="1">5.69</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="B06" ref-type="bibr">Cao <italic>et al</italic>.,
+2012</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">Cornstalk</td><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>Phanerochaete chrysosporium</italic>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>T. thermosaccharolyticum</italic>
+</td><td valign="top" align="center" rowspan="1" colspan="1">50</td><td valign="top" align="left" rowspan="1" colspan="1">89.3 mL of H<sub>2</sub>/g</td><td valign="top" align="center" rowspan="1" colspan="1">3.99</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="B102" ref-type="bibr">Zhao <italic>et al</italic>.,
+2013</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>Trichoderma viride</italic>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>T. thermosaccharolyticum</italic>
+</td><td valign="top" align="center" rowspan="1" colspan="1">50</td><td valign="top" align="left" rowspan="1" colspan="1">90.6 mL of H<sub>2</sub>/g</td><td valign="top" align="center" rowspan="1" colspan="1">4.04</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="B102" ref-type="bibr">Zhao <italic>et al</italic>.,
+2013</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">Cornstalk</td><td valign="top" align="left" rowspan="1" colspan="1">solid state enzymolysis</td><td valign="top" align="left" rowspan="1" colspan="1">panda manure</td><td valign="top" align="center" rowspan="1" colspan="1">36</td><td valign="top" align="left" rowspan="1" colspan="1">205.5 mL of H<sub>2</sub>/g of TVS</td><td valign="top" align="center" rowspan="1" colspan="1">8.11<xref rid="TFN06" ref-type="table-fn">*</xref>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="B98" ref-type="bibr">Xing <italic>et al</italic>.,
+2011</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">Cornstalk</td><td valign="top" align="left" rowspan="1" colspan="1">H<sub>2</sub>SO<sub>4</sub> 0.5% at 121&#x000b0;C
+for 60 min</td><td valign="top" align="left" rowspan="1" colspan="1">microwave irradiated cow dung compost</td><td valign="top" align="center" rowspan="1" colspan="1">36</td><td valign="top" align="left" rowspan="1" colspan="1">144.3 mL of H<sub>2</sub>/g</td><td valign="top" align="center" rowspan="1" colspan="1">6.44</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="B88" ref-type="bibr">Song <italic>et al</italic>.,
+2012</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">Cornstalk</td><td valign="top" align="left" rowspan="1" colspan="1">NaOH at 120 &#x000b0;C for 20 min</td><td valign="top" align="left" rowspan="1" colspan="1">anaerobic sludge</td><td valign="top" align="center" rowspan="1" colspan="1">55</td><td valign="top" align="left" rowspan="1" colspan="1">45.7 mL of H<sub>2</sub>/g</td><td valign="top" align="center" rowspan="1" colspan="1">1.70</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="B14" ref-type="bibr">Cheng and Liu, 2012</xref>
+<xref rid="TFN04" ref-type="table-fn">(a)</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">Cornstalk</td><td valign="top" align="left" rowspan="1" colspan="1">Fungal pretreatment</td><td valign="top" align="left" rowspan="1" colspan="1">anaerobic sludge</td><td valign="top" align="center" rowspan="1" colspan="1">55</td><td valign="top" align="left" rowspan="1" colspan="1">54.1 mL of H<sub>2</sub>/g of VS</td><td valign="top" align="center" rowspan="1" colspan="1">2.01<xref rid="TFN06" ref-type="table-fn">*</xref>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="B14" ref-type="bibr">Cheng and Liu, 2012</xref>
+<xref rid="TFN05" ref-type="table-fn">(b)</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">Cornstalk</td><td valign="top" align="left" rowspan="1" colspan="1">Acidification 0.2% HCl</td><td valign="top" align="left" rowspan="1" colspan="1">cow dung compost</td><td valign="top" align="center" rowspan="1" colspan="1">36</td><td valign="top" align="left" rowspan="1" colspan="1">149.69 mL of H<sub>2</sub>/g of TVS</td><td valign="top" align="center" rowspan="1" colspan="1">5.90<xref rid="TFN06" ref-type="table-fn">*</xref>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="B101" ref-type="bibr">Zhang <italic>et al</italic>.,
+2007</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">Corn stover</td><td valign="top" align="left" rowspan="1" colspan="1">1.2% H<sub>2</sub>SO<sub>4</sub>/2 h and
+steam explosion 200 &#x000b0;C for 1 min</td><td valign="top" align="left" rowspan="1" colspan="1">dried sludge</td><td valign="top" align="center" rowspan="1" colspan="1">35</td><td valign="top" align="left" rowspan="1" colspan="1">184.71 mL of H<sub>2</sub>/10 g (18.47
+mL/g)</td><td valign="top" align="center" rowspan="1" colspan="1">0.73</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="B19" ref-type="bibr">Datar <italic>et al</italic>.,
+2007</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">Corn stover</td><td valign="top" align="left" rowspan="1" colspan="1">Microwave assisted acid pretreatment
+(H<sub>2</sub>SO<sub>4</sub> 0.3 N for 45 min)</td><td valign="top" align="left" rowspan="1" colspan="1">anaerobic sludge</td><td valign="top" align="center" rowspan="1" colspan="1">55</td><td valign="top" align="left" rowspan="1" colspan="1">18.22 mL of H<sub>2</sub>/g</td><td valign="top" align="center" rowspan="1" colspan="1">0.68</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="B50" ref-type="bibr">Liu and Cheng, 2010</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">Grass</td><td valign="top" align="left" rowspan="1" colspan="1">4% HCl</td><td valign="top" align="left" rowspan="1" colspan="1">anaerobic</td><td valign="top" align="center" rowspan="1" colspan="1">35</td><td valign="top" align="left" rowspan="1" colspan="1">72.21 mL of H<sub>2</sub>/g</td><td valign="top" align="center" rowspan="1" colspan="1">2.86</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="B16" ref-type="bibr">Cui and Shen 2012</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1">0.5% NaOH</td><td valign="top" align="left" rowspan="1" colspan="1">mixed bacteria</td><td valign="top" align="center" rowspan="1" colspan="1">35</td><td valign="top" align="left" rowspan="1" colspan="1">19.25 mL of H<sub>2</sub>/g</td><td valign="top" align="center" rowspan="1" colspan="1">0.86</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="B16" ref-type="bibr">Cui and Shen 2012</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">Grass (Reed canary)</td><td valign="top" align="left" rowspan="1" colspan="1">3% HCl solution for 90 min at 121 &#x000b0;C</td><td valign="top" align="left" rowspan="1" colspan="1">H<sub>2</sub>-fermenting microbial
+enrichment culture</td><td valign="top" align="center" rowspan="1" colspan="1">35</td><td valign="top" align="left" rowspan="1" colspan="1">1.25 mmol of H<sub>2</sub>/g</td><td valign="top" align="center" rowspan="1" colspan="1">1.25</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="B41" ref-type="bibr">Lakaniemi <italic>et al</italic>.,
+2011</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">Rapeseed stillage</td><td valign="top" align="left" rowspan="1" colspan="1">Alkaline peroxide with steam
+treatment</td><td valign="top" align="left" rowspan="1" colspan="1">digested manure</td><td valign="top" align="center" rowspan="1" colspan="1">55</td><td valign="top" align="left" rowspan="1" colspan="1">79 mL of H<sub>2</sub>/gVS</td><td valign="top" align="center" rowspan="1" colspan="1">2.94<xref rid="TFN06" ref-type="table-fn">*</xref>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="B54" ref-type="bibr">Luo <italic>et al</italic>.,
+2011</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">Rapeseed cake</td><td valign="top" align="left" rowspan="1" colspan="1">Alkaline peroxide with steam
+treatment</td><td valign="top" align="left" rowspan="1" colspan="1">digested manure</td><td valign="top" align="center" rowspan="1" colspan="1">55</td><td valign="top" align="left" rowspan="1" colspan="1">24 mL of H<sub>2</sub>/gVS</td><td valign="top" align="center" rowspan="1" colspan="1">0.89<xref rid="TFN06" ref-type="table-fn">*</xref>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="B54" ref-type="bibr">Luo <italic>et al</italic>.,
+2011</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">Rice straw</td><td valign="top" align="left" rowspan="1" colspan="1">10% ammonia and 1.0%
+H<sub>2</sub>SO<sub>4</sub>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>T. neapolitana</italic>
+</td><td valign="top" align="center" rowspan="1" colspan="1">75</td><td valign="top" align="left" rowspan="1" colspan="1">2.7 mmol of H<sub>2</sub>/g</td><td valign="top" align="center" rowspan="1" colspan="1">2.70</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="B64" ref-type="bibr">Nguyen <italic>et al</italic>.,
+2010</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">Sugarcane bagasse</td><td valign="top" align="left" rowspan="1" colspan="1">0.5% H<sub>2</sub>SO<sub>4</sub> for 60
+min at 121 &#x000b0;C</td><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>C. butyricum</italic>
+</td><td valign="top" align="center" rowspan="1" colspan="1">37</td><td valign="top" align="left" rowspan="1" colspan="1">1.73 mol of H<sub>2</sub>/mol sugar</td><td valign="top" align="center" rowspan="1" colspan="1">-</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="B71" ref-type="bibr">Pattra <italic>et al</italic>.,
+2008</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">Sugarcane bagasse</td><td valign="top" align="left" rowspan="1" colspan="1">H<sub>2</sub>SO<sub>4</sub> at 1% for 60
+min at 121 &#x000b0;C</td><td valign="top" align="left" rowspan="1" colspan="1">preheated elephant dung</td><td valign="top" align="center" rowspan="1" colspan="1">37</td><td valign="top" align="left" rowspan="1" colspan="1">0.84 mol of H<sub>2</sub>/mol sugar</td><td valign="top" align="center" rowspan="1" colspan="1">-</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="B23" ref-type="bibr">Fangkum and Reunsang, 2011</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">Sugarcane bagasse</td><td valign="top" align="left" rowspan="1" colspan="1">H<sub>2</sub>SO<sub>4</sub> at 1% for 60
+min at 121 &#x000b0;C</td><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>T. thermosaccharolyticum</italic>
+</td><td valign="top" align="center" rowspan="1" colspan="1">55</td><td valign="top" align="left" rowspan="1" colspan="1">1.12 mol of H<sub>2</sub>/mol sugar</td><td valign="top" align="center" rowspan="1" colspan="1">-</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="B83" ref-type="bibr">Saripan and Reungsang, 2013</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">Waste ground wheat</td><td valign="top" align="left" rowspan="1" colspan="1">H<sub>2</sub>SO<sub>4</sub>, pH 3.0, 90 &#x000b0;C
+for 15 min</td><td valign="top" align="left" rowspan="1" colspan="1">preheated anaerobic sludge</td><td valign="top" align="center" rowspan="1" colspan="1">37</td><td valign="top" align="left" rowspan="1" colspan="1">946.2 mL</td><td valign="top" align="center" rowspan="1" colspan="1">-</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="B81" ref-type="bibr">Sagnak <italic>et al</italic>.,
+2011</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">Wheat straw</td><td valign="top" align="left" rowspan="1" colspan="1">HCl pretreated</td><td valign="top" align="left" rowspan="1" colspan="1">cow dung compost</td><td valign="top" align="center" rowspan="1" colspan="1">36</td><td valign="top" align="left" rowspan="1" colspan="1">68.1 mL of H<sub>2</sub>/g TVS</td><td valign="top" align="center" rowspan="1" colspan="1">3.04<xref rid="TFN06" ref-type="table-fn">*</xref>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="B22" ref-type="bibr">Fan <italic>et al</italic>.,
+2006</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">Wheat straw</td><td valign="top" align="left" rowspan="1" colspan="1">Hydrothermic 180 &#x000b0;C for 15 min</td><td valign="top" align="left" rowspan="1" colspan="1">preheated anaerobic sludge</td><td valign="top" align="center" rowspan="1" colspan="1">70</td><td valign="top" align="left" rowspan="1" colspan="1">7.36 mmol of H<sub>2</sub>/g sugars</td><td valign="top" align="center" rowspan="1" colspan="1">-</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="B38" ref-type="bibr">Kongjan <italic>et al</italic>.,
+2010</xref>
+</td></tr></tbody></table><table-wrap-foot><fn id="TFN04"><label>a</label><p>Maximum assessed production yields are the results as presented by the
+authors.</p></fn><fn id="TFN05"><label>b</label><p>Maximum calculated production yields results converted from authors' data
+calculated according to the ideal gas equation considering a pressure of
+1 atm and the absolute temperature used during H<sub>2</sub>
+fermentation.</p></fn><fn id="TFN06"><label>*</label><p>Maximum calculated production yield/g of substrate calculated as mmol
+H<sub>2</sub>/g of total volatile solids (TVS) or volatile solids
+(VS) contained in the substrate.</p></fn></table-wrap-foot></table-wrap><p>Acid and base pretreatment have been the pretreatments most frequently employed to
+prepare lignocellulosic materials for biohydrogen production &#x02212; 11 and 6 studies,
+respectively, from the 21 publications presented in <xref rid="t02" ref-type="table">Table 2</xref> have been reported. Enzymatic and/or biological pretreatment
+represent 3 of the 21 studies shown in <xref rid="t02" ref-type="table">Table
+2</xref>. Only one study involved the use of temperature alone.</p><p>As indicated by the maximum calculated production yield data presented in <xref rid="t02" ref-type="table">Table 2</xref>, the biological pretreatment afforded
+the highest average yield 4.54 (&#x000b1; 1.78) mmol of H<sub>2</sub>/g of substrate
+compared with the acid and basic pretreatment (2.94 &#x000b1; 1.85 and 2.41 &#x000b1; 1.52 mmol of
+H<sub>2</sub>/g of substrate, respectively). Therefore, pretreatment
+effectiveness depended on the feedstock and pretreatment conditions, such as acid or
+base concentration, exposure time, and temperature.</p><p>According to <xref rid="t02" ref-type="table">Table 2</xref>, the average
+H<sub>2</sub> production yield from pretreated material was 3.17 (&#x000b1; 1.79),
+ranging from 0.68 to 8.11 mmol of H<sub>2</sub>/g of substrate for corn stover and
+cornstalk, respectively. Pretreated cornstalk furnished the highest average yield
+4.74 (&#x000b1; 1.80) mmol of H<sub>2</sub>/g of substrate, which was approximately 2.2
+times higher that yielded by untreated cornstalk (2.17 &#x000b1; 1.84 mmol of
+H<sub>2</sub>/g of substrate, <xref rid="t01" ref-type="table">Table 1</xref>).
+Therefore, the pretreatment step enhances H<sub>2</sub> production.</p><p>Most studies used a mixed culture of microorganisms previously enriched with
+H<sub>2</sub>-producing bacteria as an inoculum. The thermophilic <italic>T.
+thermosaccharolyticum</italic> was the pure culture most frequently employed in
+the studies using pretreated lignocellulosic wastes as substrates.</p></sec><sec><title>H<sub>2</sub> Production From Lignocellulosic Materials Hydrolysates</title><p>The structural changes that prehydrolysis (pretreatment) promotes in a
+lignocellulosic matrix positively affect the subsequent enzymatic hydrolysis of
+lignocellulosic materials, increasing the saccharification yield (<xref rid="B78" ref-type="bibr">Ren <italic>et al.</italic>, 2009</xref>). Several authors have
+used this strategy to increase the concentration of sugars in hydrolysates for
+H<sub>2</sub> production (<xref rid="B20" ref-type="bibr">de Vrije <italic>et
+al.</italic>, 2009</xref>; <xref rid="B17" ref-type="bibr">Cui <italic>et
+al.</italic>, 2010</xref>; <xref rid="B54" ref-type="bibr">Luo <italic>et
+al.</italic>, 2011</xref>; <xref rid="B69" ref-type="bibr">Pan <italic>et
+al.</italic>, 2011</xref>; <xref rid="B59" ref-type="bibr">Monlau <italic>et
+al.</italic>, 2013b</xref>). <xref rid="B69" ref-type="bibr">Pan <italic>et
+al.</italic> (2011)</xref> pretreated cornstalk containing 81.7% TVS with
+dilute acid, <italic>i.e.</italic>, 1.5% H<sub>2</sub>SO<sub>4</sub>, at 121 &#x000b0;C for
+60 min, followed by enzymatic hydrolysis at 52 &#x000b0;C, pH 4.8, with an enzyme loading of
+9.4 IU/g, to obtain a total soluble sugar content of 562.1 &#x000b1; 6.9 mg/g of TVS during
+the stages of hydrolysis. The maximum hydrogen yield from this hydrolysate using an
+anaerobic mixed culture was calculated in terms of grams of cornstalk (TVS) as 209.8
+mL of H<sub>2</sub>/g of TVS.</p><p>Pretreatment followed by enzymatic hydrolysis is a very efficient method for
+saccharifying lignocellulosic substrates. However, depending on the type of
+substrate and pretreatment conditions employed, the hydrolysates could inhibit
+fermentative H<sub>2</sub> production. <xref rid="B59" ref-type="bibr">Monlau
+<italic>et al.</italic> (2013b)</xref> verified that hydrolysates from
+sunflower stalks pretreated with dilute acid negatively affected
+H<sub>2</sub>-producing microflora. The dilute acid pretreatment condition that
+these authors employed (170 &#x000b0;C, 1 h, 4 g of HCl/100 g of TS) was highly efficient in
+hydrolyzing hemicellulosic material because approximately 3.14 g/L of xylose and
+only 0.28 g/L of glucose emerged in the slurry. In addition to the amount of xylose,
+other byproducts arose - formate (0.6 g/L) and acetate (0.81 g/L), and furan
+derivatives such as furfural (1.15 g/L) and HMF (0.13 g/L). In a batch system
+inoculated with mixed microflora, 15% of this hydrolysate completely inhibited
+H<sub>2</sub> production.</p><p>In a long-term experiment, <xref rid="B04" ref-type="bibr">Arreola-Vargas <italic>et
+al.</italic> (2013)</xref> observed that partial replacement of a synthetic
+medium containing glucose and xylose with an acid and with an enzymatic hydrolysate
+of oat straw, in a continuous reactor, diminished H<sub>2</sub> production. The acid
+hydrolysate consisted mainly of glucose 1.5 g/L and xylose 3.7 g/L as well as
+phenolic compounds, such as HMF (133.2 mg/L), furfural (0.6 mg/L), and vanillin
+(3.59 mg/L). The enzymatic hydrolysate contained 3.8 g/L of glucose and 1.3 g/L of
+xylose, but no HMF, furfural, or vanillin. Both hydrolysates were used to feed an
+anaerobic sequencing batch reactor by gradually substituting the glucose/xylose
+medium with the hydrolysates. The substitution of glucose/xylose by the acid
+hydrolysate disaggregated the granules and interrupted the process. On the other
+hand, the replacement of the glucose/xylose medium with the enzymatic hydrolysate
+without fermentation inhibitors elicited H<sub>2</sub> production. However, the
+H<sub>2</sub> yield and production rate decreased from 2 mol of
+H<sub>2</sub>/mol of sugar and 278 mL of H<sub>2</sub>/L.h to 0.81 mol of
+H<sub>2</sub>/mol of sugar and 29.6 mL H<sub>2</sub>/L.h, respectively, in going
+from the synthetic medium to the enzymatic hydrolysate (<xref rid="B04" ref-type="bibr">Arreola-Vargas <italic>et al.</italic>, 2013</xref>).</p><p>Simultaneous saccharification and fermentation (SSF) has been successfully conducted
+to produce H<sub>2</sub> from pretreated or even untreated lignocellulosic
+substrates by adding hydrolytic enzyme(s) or by seeding hydrolytic enzymes produced
+in the same fermentation vessel. Thus, in this approach, no pretreatments or only
+mild conditions for pretreating substrates are necessary, diminishing the formation
+of fermentation inhibitors (see <xref rid="f02" ref-type="fig">Figure 2</xref>)
+because most saccharification occurs simultaneously with the fermentation
+(Lakshmidevi and Muthukumar, 2010; <xref rid="B73" ref-type="bibr">Quemeneur
+<italic>et al.</italic>, 2012a</xref>; <xref rid="B102" ref-type="bibr">Zhao
+<italic>et al.</italic>, 2013</xref>). For example, <xref rid="B73" ref-type="bibr">Quemeneur <italic>et al.</italic> (2012a)</xref> used a mixed
+culture of microorganisms and evaluated the efficiency of exogenous enzyme addition
+during fermentative H<sub>2</sub> production from wheat straw. The authors used two
+experimental designs: a one-stage system (direct enzyme addition) and a two-stage
+system (enzymatic hydrolysis prior to fermentation). H<sub>2</sub> production from
+untreated wheat straw ranged from 5.18 to 10.52 mL of H<sub>2</sub>/g of
+<italic>vs.</italic> H<sub>2</sub> production yields increased two-fold and
+ranged from 11.06 to 19.63 mL of H<sub>2</sub>/g of VS after the enzymatic treatment
+of the wheat straw. Direct addition of exogenous enzymes during one-stage dark
+fermentation was the best way to improve H<sub>2</sub> production from
+lignocellulosic biomass.</p><p>
+<xref rid="t03" ref-type="table">Table 3</xref> summarizes the lignocellulosic
+material hydrolysates used as substrates for fermentative H<sub>2</sub> production,
+the pretreatment and enzymatic hydrolysis methods used, the source of inoculum or
+the microorganisms involved in the fermentation, and the process yields and/or
+rates. Results regarding H<sub>2</sub> yields from hydrolysates are expressed in
+terms of mmol of H<sub>2</sub>/mmol of sugar or mmol of H<sub>2</sub>/g of substrate
+because it was not always possible to convert these units. In the last case, it was
+possible to compare data with the results of untreated and pretreated substrates
+(<xref rid="t01" ref-type="table">Table 1</xref> and <xref rid="t02" ref-type="table">2</xref>).</p><table-wrap id="t03" orientation="portrait" position="float"><label>Table 3</label><caption><title>Fermentative H<sub>2</sub> production from hydrolysates of
+lignocellulosic substrates according to pretreatment type and enzymatic
+hydrolysis, inocula, yields, and maximum production rate obtained from these
+substrates.</title></caption><table frame="hsides" rules="groups"><thead><tr><th valign="top" align="left" rowspan="1" colspan="1">Feedstock</th><th valign="top" align="left" rowspan="1" colspan="1">Pretreatment/ hydrolysis</th><th valign="top" align="left" rowspan="1" colspan="1">Inoculum</th><th valign="top" align="center" rowspan="1" colspan="1">T (&#x000b0;C)</th><th valign="top" align="center" rowspan="1" colspan="1">Maximum production yield (<xref rid="TFN07" ref-type="table-fn">a</xref>, <xref rid="TFN08" ref-type="table-fn">b</xref>, <xref rid="TFN09" ref-type="table-fn">b*</xref>)</th><th valign="top" align="center" rowspan="1" colspan="1">Maximum production rate (mmol of
+H<sub>2</sub>/L.h)</th><th valign="top" align="left" rowspan="1" colspan="1">Reference</th></tr></thead><tbody><tr><td valign="top" align="left" rowspan="1" colspan="1">Conifer pulp</td><td valign="top" align="left" rowspan="1" colspan="1">55%H<sub>2</sub>SO<sub>4</sub> at 45 &#x000b0;C
+for 2 h, neutralized with Ca(OH)<sub>2</sub>
+</td><td valign="top" align="left" rowspan="1" colspan="1">preheated anaerobic sludge</td><td valign="top" align="center" rowspan="1" colspan="1">37</td><td valign="top" align="center" rowspan="1" colspan="1">2.26<xref rid="TFN07" ref-type="table-fn">a</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">nd</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="B65" ref-type="bibr">Nissil&#x000e4; <italic>et al</italic>.,
+2012</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">Corn stover</td><td valign="top" align="left" rowspan="1" colspan="1">Delignification with 2% NaOH+hydrolysis
+with cellulase and xylanase</td><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>T. thermosaccharolyticum</italic>
+</td><td valign="top" align="center" rowspan="1" colspan="1">60</td><td valign="top" align="center" rowspan="1" colspan="1">nd</td><td valign="top" align="center" rowspan="1" colspan="1">11.2</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="B79" ref-type="bibr">Ren <italic>et al</italic>.,
+2010</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">Cornstalk</td><td valign="top" align="left" rowspan="1" colspan="1">Dilute acid+enzymatic hydrolysis</td><td valign="top" align="left" rowspan="1" colspan="1">anaerobic mixed microflora</td><td valign="top" align="center" rowspan="1" colspan="1">36</td><td valign="top" align="center" rowspan="1" colspan="1">8.58<xref rid="TFN08" ref-type="table-fn">b</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">nd</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="B69" ref-type="bibr">Pan <italic>et al</italic>.,
+2011</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">Cornstalk</td><td valign="top" align="left" rowspan="1" colspan="1">Fungal hydrolysis by <italic>Trichoderma
+viride</italic>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>T. thermosaccharolyticum</italic>
+W16</td><td valign="top" align="center" rowspan="1" colspan="1">60</td><td valign="top" align="center" rowspan="1" colspan="1">3.28<xref rid="TFN08" ref-type="table-fn">b</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">nd</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="B102" ref-type="bibr">Zhao <italic>et al</italic>.,
+2013</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">Miscanthus crop</td><td valign="top" align="left" rowspan="1" colspan="1">Alkaline pretreatment at 75 &#x000b0;C+enzymatic
+hydrolysis</td><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>C. saccharolyticus</italic>
+</td><td valign="top" align="center" rowspan="1" colspan="1">70</td><td valign="top" align="center" rowspan="1" colspan="1">2.9<xref rid="TFN07" ref-type="table-fn">a</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">12.6</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="B20" ref-type="bibr">de Vrije <italic>et al</italic>.,
+2009</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>T. neapolitana</italic>
+</td><td valign="top" align="center" rowspan="1" colspan="1">70</td><td valign="top" align="center" rowspan="1" colspan="1">3.4<xref rid="TFN07" ref-type="table-fn">a</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">13.1</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="B20" ref-type="bibr">de Vrije <italic>et al</italic>.,
+2009</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">Oat straw</td><td valign="top" align="left" rowspan="1" colspan="1">HCl at 2%+90 &#x000b0;C for 2 h</td><td valign="top" align="left" rowspan="1" colspan="1">two anaerobic sludges, heated at 100 &#x000b0;C
+for 30 min.</td><td valign="top" align="center" rowspan="1" colspan="1">30</td><td valign="top" align="center" rowspan="1" colspan="1">2.9<xref rid="TFN07" ref-type="table-fn">a</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">3.3</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="B05" ref-type="bibr">Arriaga <italic>et al</italic>.,
+2011</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">Poplar leaves</td><td valign="top" align="left" rowspan="1" colspan="1">HCl at 4%+2% Viscozyme</td><td valign="top" align="left" rowspan="1" colspan="1">anaerobic mixed bacteria</td><td valign="top" align="center" rowspan="1" colspan="1">35</td><td valign="top" align="center" rowspan="1" colspan="1">1.78<xref rid="TFN08" ref-type="table-fn">b</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">nd</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="B17" ref-type="bibr">Cui <italic>et al</italic>.,
+2010</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">Rapeseed</td><td valign="top" align="left" rowspan="1" colspan="1">Alkaline peroxide with steam
+treatment+celluclast and &#x003b2;-glucosidase</td><td valign="top" align="left" rowspan="1" colspan="1">digested manure</td><td valign="top" align="center" rowspan="1" colspan="1">55</td><td valign="top" align="center" rowspan="1" colspan="1">3.38<xref rid="TFN09" ref-type="table-fn">b*</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">nd</td><td valign="top" align="left" rowspan="1" colspan="1">Luo <italic>et al.</italic>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">Rice straw</td><td valign="top" align="left" rowspan="1" colspan="1">Alkaline
+pretreatment+<italic>Acinetobacter junii</italic> F6-02
+enzymes</td><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>C. butyricum</italic> CGS5</td><td valign="top" align="center" rowspan="1" colspan="1">37</td><td valign="top" align="center" rowspan="1" colspan="1">0.76<xref rid="TFN07" ref-type="table-fn">a</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">1.05</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="B51" ref-type="bibr">Lo <italic>et al</italic>.,
+2010</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">Sugarcane bagasse</td><td valign="top" align="left" rowspan="1" colspan="1">Pretreated with
+H<sub>3</sub>PO<sub>4</sub>+<italic>Cellulomonas uda</italic>
+enzymes</td><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>C. butyricum</italic> CGS5</td><td valign="top" align="center" rowspan="1" colspan="1">37</td><td valign="top" align="center" rowspan="1" colspan="1">1.08<xref rid="TFN07" ref-type="table-fn">a</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">nd</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="B52" ref-type="bibr">Lo <italic>et al</italic>.,
+2011</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">Sugarcane bagasse</td><td valign="top" align="left" rowspan="1" colspan="1">Alkaline and enzymatic hydrolysis with
+cellulase from <italic>Pseudomonas sp</italic>.</td><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>C. pasteurianum</italic>
+</td><td valign="top" align="center" rowspan="1" colspan="1">37</td><td valign="top" align="center" rowspan="1" colspan="1">0.96<xref rid="TFN07" ref-type="table-fn">a</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">1.38</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="B11" ref-type="bibr">Cheng and Chang, 2011</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">Sugarcane bagasse</td><td valign="top" align="left" rowspan="1" colspan="1">NaOH 0.1 mol/L at 100 &#x000b0;C for 2 h and
+hydrolysis with cellulase</td><td valign="top" align="left" rowspan="1" colspan="1">preheated anaerobic sludge</td><td valign="top" align="center" rowspan="1" colspan="1">35</td><td valign="top" align="center" rowspan="1" colspan="1">13.4<xref rid="TFN09" ref-type="table-fn">b*</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">0.28<xref rid="TFN10" ref-type="table-fn">c</xref>
+</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="B08" ref-type="bibr">Chairattanamanokorn <italic>et
+al</italic>., 2009</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">Sunflower stalks</td><td valign="top" align="left" rowspan="1" colspan="1">HCl 4 g at 170 &#x000b0;C for 1 h/100 gTS</td><td valign="top" align="left" rowspan="1" colspan="1">preheated anaerobic sludge</td><td valign="top" align="center" rowspan="1" colspan="1">35</td><td valign="top" align="center" rowspan="1" colspan="1">2.04<xref rid="TFN07" ref-type="table-fn">a</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">nd</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="B58" ref-type="bibr">Monlau <italic>et al</italic>.,
+2013</xref>
+<xref rid="TFN08" ref-type="table-fn">(b)</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">Sweet sorghum bagasse</td><td valign="top" align="left" rowspan="1" colspan="1">Pretreatment with NaOH+cellulase</td><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>C. saccharolyticus</italic>
+</td><td valign="top" align="center" rowspan="1" colspan="1">72</td><td valign="top" align="center" rowspan="1" colspan="1">2.6<xref rid="TFN07" ref-type="table-fn">a</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">10.2 &#x02013; 10.6</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="B70" ref-type="bibr">Panagiotopoulos <italic>et
+al</italic>, 2010</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">Wheat straw</td><td valign="top" align="left" rowspan="1" colspan="1">SSF (acid+enzymatic)</td><td valign="top" align="left" rowspan="1" colspan="1">anaerobic sludge</td><td valign="top" align="center" rowspan="1" colspan="1">36</td><td valign="top" align="center" rowspan="1" colspan="1">5.56<xref rid="TFN09" ref-type="table-fn">b*</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">nd</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="B62" ref-type="bibr">Nasirian <italic>et al</italic>.,
+2011</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">Wheat straw</td><td valign="top" align="left" rowspan="1" colspan="1">Ozone and simultaneous enzymatic
+hydrolysis</td><td valign="top" align="left" rowspan="1" colspan="1">preheated cow manure and pond sediment
+preheated</td><td valign="top" align="center" rowspan="1" colspan="1">35</td><td valign="top" align="center" rowspan="1" colspan="1">3.2<xref rid="TFN08" ref-type="table-fn">b</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">nd</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="B97" ref-type="bibr">Wu <italic>et al</italic>.,
+2013</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">Wheat straw</td><td valign="top" align="left" rowspan="1" colspan="1">SSF
+(<italic>Trichoderma</italic>+fermentation)</td><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="center" rowspan="1" colspan="1">37</td><td valign="top" align="center" rowspan="1" colspan="1">0.80<xref rid="TFN09" ref-type="table-fn">b*</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">nd</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="B73" ref-type="bibr">Quemeneur <italic>et al</italic>.,
+2012</xref>
+<xref rid="TFN07" ref-type="table-fn">(a)</xref>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1"/><td valign="top" align="left" rowspan="1" colspan="1">SSF (acid+enzymatic saccharification prior
+to fermentation)</td><td valign="top" align="left" rowspan="1" colspan="1">preheated anaerobic sludge</td><td valign="top" align="center" rowspan="1" colspan="1">37</td><td valign="top" align="center" rowspan="1" colspan="1">0.45<xref rid="TFN09" ref-type="table-fn">b*</xref>
+</td><td valign="top" align="center" rowspan="1" colspan="1">nd</td><td valign="top" align="left" rowspan="1" colspan="1">
+<xref rid="B73" ref-type="bibr">Quemeneur <italic>et al</italic>.,
+2012</xref>
+<xref rid="TFN07" ref-type="table-fn">(a)</xref>
+</td></tr></tbody></table><table-wrap-foot><fn id="TFN07"><label>a</label><p>Maximum production yield in terms of mmol of H<sub>2</sub>/mmol of
+sugar.</p></fn><fn id="TFN08"><label>b</label><p>Maximum production yield in terms of mmol of H<sub>2</sub>/g of
+substrate.</p></fn><fn id="TFN09"><label>b*</label><p>Maximum production yield in terms of mmol of H<sub>2</sub>/g of total
+volatile solids (TVS) or volatile solids (VS) contained in the
+substrate.</p></fn><fn id="TFN10"><label>c</label><p>Maximum production rate in terms of mmol of H<sub>2</sub>/h.g TVS.</p></fn><fn id="TFN11"><p>nd: not determined.</p></fn></table-wrap-foot></table-wrap><p>According to <xref rid="t03" ref-type="table">Table 3</xref> the H<sub>2</sub>
+production yields from hydrolysates ranged from 0.45 to 13.39 mmol of
+H<sub>2</sub>/g of substrate, for wheat straw and sugarcane bagasse,
+respectively.</p><p>Cornstalk is the most often studied lignocellulosic substrate for H<sub>2</sub>
+production. The average yield using a cornstalk hydrolysate for biohydrogen
+production is 5.93 mmol of H<sub>2</sub>/g of substrate, which is approximately 270%
+and 25% higher than that afforded by the untreated (2.17 mmol of H<sub>2</sub>/g of
+substrate) and pretreated cornstalk (4.74 mmol of H<sub>2</sub>/g of substrate),
+respectively. The results demonstrated that after pretreatment and/or hydrolysis,
+this substrate is potentially applicable in biohydrogen production.</p><p>Although sugarcane bagasse afforded the highest yield &#x02212; 13.39 mmol of H<sub>2</sub>/g
+of TVS; this figure represents the results obtained in only one study (<xref rid="B08" ref-type="bibr">Chairattanamanokorn <italic>et al.</italic>,
+2009</xref>). The average H<sub>2</sub> production yield per mol of sugar of
+pretreated bagasse was 1.23 mol of H<sub>2</sub>/mol of glucose (<xref rid="t02" ref-type="table">Table 2</xref>); for the hydrolysates, this yield dropped to
+1.12 (<xref rid="t03" ref-type="table">Table 3</xref>), demonstrating that
+H<sub>2</sub> production from hydrolysates of this substrate was slightly
+lower.</p><p>Excluding the work of <xref rid="B08" ref-type="bibr">Chairattanamanokorn <italic>et
+al.</italic> (2009)</xref> with sugarcane bagasse, the average H<sub>2</sub>
+production yield with sugarcane bagasse hydrolysates (<xref rid="t03" ref-type="table">Table 3</xref>) was 3.78 &#x000b1; 1.92 mmol of H<sub>2</sub>/g, 20%
+higher compared with the average yields of pretreated substrates. However, this
+average H<sub>2</sub> production yield was lower than that of biologically
+pretreated substrates, 4.54 &#x000b1; 1.78 mmol of H<sub>2</sub>/g. These results
+demonstrate the importance of avoiding the presence of inhibitors originating from
+chemical pretreatment methods.</p></sec><sec><title>Conclusions and Perspectives</title><p>Based on this review, converting agroindustrial lignocellulosic substrates to
+H<sub>2</sub> by fermentative microorganisms is a feasible solution for
+producing H<sub>2</sub> sustainably. However, additional research into the
+pretreatment of lignocellulosic wastes for biohydrogen production is desirable to
+improve the yield and make the process economically viable. Efforts to control the
+formation (or removal) of toxic compounds (such as furan derivatives, phenolics, and
+organic acids, formed during the chemical pretreatment) are necessary because these
+could clearly inhibit H<sub>2</sub> fermentation. Biological pretreatment methods
+afford higher H<sub>2</sub> yields from lignocellulosic materials because they do
+not produce inhibitors.</p><p>The development of microbial strains or consortia resistant to inhibitors remains an
+important research area. Moreover, the discovery of novel H<sub>2</sub>-producing
+microorganisms able to use lignocellulosic derivatives is associated with different
+environmental conditions, particularly high temperatures.</p><p>Currently, results have shown that corn stalk submitted to a pretreatment step and/or
+hydrolysis furnishes a higher average yield of biohydrogen production than that
+afforded by other agroindustrial lignocellulosic substrates. Exploring other
+microorganisms and optimizing the pretreatment and hydrolysis conditions can make
+the use of this substrate and other agroindustrial residues a sustainable way to
+produce clean H<sub>2</sub>.</p></sec></body><back><ack><title>Acknowledgments</title><p>FAPESP (2010-2010/11901-0), CNPq.</p></ack><ref-list><title>References</title><ref id="B01"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Alriksson</surname><given-names>B</given-names></name><name><surname>Cavka</surname><given-names>A</given-names></name><name><surname>Jonsson</surname><given-names>L</given-names></name></person-group><year>2011</year><article-title>Improving the fermentability of enzymatic hydrolysates of
+lignocellulose through chemical <italic>in-situ</italic> detoxification with
+reducing agents</article-title><source>Bioresour Technol</source><volume>102</volume><fpage>1254</fpage><lpage>1263</lpage><pub-id pub-id-type="pmid">20822900</pub-id></element-citation></ref><ref id="B02"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Alvira</surname><given-names>P</given-names></name><name><surname>Tom&#x000e1;s-Pej&#x000f3;</surname><given-names>E</given-names></name><name><surname>Ballesteros</surname><given-names>M</given-names></name><etal/></person-group><year>2010</year><article-title>Pretreatment technologies for an efficient bioethanol production
+process based on enzymatic hydrolysis: A review</article-title><source>Bioresour Technol</source><volume>101</volume><fpage>4851</fpage><lpage>4861</lpage><pub-id pub-id-type="pmid">20042329</pub-id></element-citation></ref><ref id="B03"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Amaro</surname><given-names>HM</given-names></name><name><surname>Macedo</surname><given-names>AC</given-names></name><name><surname>Xavier Malcata</surname><given-names>F</given-names></name></person-group><year>2012</year><article-title>Microalgae: An alternative as sustainable source of
+biofuels?</article-title><source>Energy</source><volume>44</volume><fpage>158</fpage><lpage>166</lpage></element-citation></ref><ref id="B04"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Arreola-Vargas</surname><given-names>J</given-names></name><name><surname>Celis</surname><given-names>LB</given-names></name><name><surname>Buitr&#x000f3;n</surname><given-names>G</given-names></name><etal/></person-group><year>2013</year><article-title>Hydrogen production from acid and enzymatic oat straw
+hydrolysates in an anaerobic sequencing batch reactor: Performance and
+microbial population analysis</article-title><source>Int J Hydrogen Energy</source><volume>38</volume><fpage>13884</fpage><lpage>13894</lpage></element-citation></ref><ref id="B05"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Arriaga</surname><given-names>S</given-names></name><name><surname>Rosas</surname><given-names>I</given-names></name><name><surname>Alatriste-Mondrag&#x000f3;n</surname><given-names>F</given-names></name><etal/></person-group><year>2011</year><article-title>Continuous production of hydrogen from oat straw hydrolysate in a
+biotrickling filter</article-title><source>Int J Hydrogen Energy</source><volume>36</volume><fpage>3442</fpage><lpage>3449</lpage></element-citation></ref><ref id="B06"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cao</surname><given-names>GL</given-names></name><name><surname>Guo</surname><given-names>WQ</given-names></name><name><surname>Wang</surname><given-names>AJ</given-names></name><etal/></person-group><year>2012</year><article-title>Enhanced cellulosic hydrogen production from lime-treated
+cornstalk wastes using thermophilic anaerobic microflora</article-title><source>Int J Hydrogen Energy</source><volume>37</volume><fpage>13161</fpage><lpage>13166</lpage></element-citation></ref><ref id="B07"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cao</surname><given-names>G</given-names></name><name><surname>Ren</surname><given-names>N</given-names></name><name><surname>Wang</surname><given-names>A</given-names></name><etal/></person-group><year>2009</year><article-title>Acid hydrolysis of corn stover for biohydrogen production using
+<italic>Thermoanaerobacterium thermosaccharolyticum</italic>
+W16</article-title><source>Int J Hydrogen Energy</source><volume>34</volume><fpage>7182</fpage><lpage>7188</lpage></element-citation></ref><ref id="B08"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Chairattanamanokorn</surname><given-names>P</given-names></name><name><surname>Penthamkeerati</surname><given-names>P</given-names></name><name><surname>Reungsang</surname><given-names>A</given-names></name><etal/></person-group><year>2009</year><article-title>Production of biohydrogen from hydrolyzed bagasse with thermally
+preheated sludge</article-title><source>Int J Hydrogen Energy</source><volume>34</volume><fpage>7612</fpage><lpage>7617</lpage></element-citation></ref><ref id="B09"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Chaubey</surname><given-names>R</given-names></name><name><surname>Sahu</surname><given-names>S</given-names></name><name><surname>James</surname><given-names>OO</given-names></name><etal/></person-group><year>2013</year><article-title>A review on development of industrial processes and emerging
+techniques for production of hydrogen from renewable and sustainable
+sources</article-title><source>Renew Sust Energ Rev</source><volume>23</volume><fpage>443</fpage><lpage>462</lpage></element-citation></ref><ref id="B10"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Chen</surname><given-names>R</given-names></name><name><surname>Wang</surname><given-names>YZ</given-names></name><name><surname>Liao</surname><given-names>Q</given-names></name><etal/></person-group><year>2013</year><article-title>Hydrolysates of lignocellulosic materials for biohydrogen
+production</article-title><source>Bmb Reports</source><volume>46</volume><fpage>244</fpage><lpage>251</lpage><pub-id pub-id-type="pmid">23710634</pub-id></element-citation></ref><ref id="B11"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cheng</surname><given-names>CL</given-names></name><name><surname>Chang</surname><given-names>JS</given-names></name></person-group><year>2011</year><article-title>Hydrolysis of lignocellulosic feedstock by novel cellulases
+originating from <italic>Pseudomonas</italic> sp. CL3 for fermentative
+hydrogen production</article-title><source>Bioresour Technol</source><volume>102</volume><fpage>8628</fpage><lpage>8634</lpage><pub-id pub-id-type="pmid">21481585</pub-id></element-citation></ref><ref id="B12"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cheng</surname><given-names>CL</given-names></name><name><surname>Lo</surname><given-names>YC</given-names></name><name><surname>Lee</surname><given-names>KS</given-names></name><etal/></person-group><year>2011</year><article-title>Biohydrogen production from lignocellulosic
+feedstock</article-title><source>Bioresour Technol</source><volume>102</volume><fpage>8514</fpage><lpage>8523</lpage><pub-id pub-id-type="pmid">21570833</pub-id></element-citation></ref><ref id="B13"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cheng</surname><given-names>XY</given-names></name><name><surname>Li</surname><given-names>Q</given-names></name><name><surname>Liu</surname><given-names>CZ</given-names></name></person-group><year>2012</year><article-title>Coproduction of hydrogen and methane via anaerobic fermentation
+of cornstalk waste in continuous stirred tank reactor integrated with
+up-flow anaerobic sludge bed</article-title><source>Bioresour Technol</source><volume>114</volume><fpage>327</fpage><lpage>333</lpage><pub-id pub-id-type="pmid">22487130</pub-id></element-citation></ref><ref id="B14"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cheng</surname><given-names>XY</given-names></name><name><surname>Liu</surname><given-names>CZ</given-names></name></person-group><year>2012a</year><article-title>Enhanced coproduction of hydrogen and methane from cornstalks by
+a three-stage anaerobic fermentation process integrated with alkaline
+hydrolysis</article-title><source>Bioresour Technol</source><volume>104</volume><fpage>373</fpage><lpage>379</lpage><pub-id pub-id-type="pmid">22104098</pub-id></element-citation></ref><ref id="B15"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cheng</surname><given-names>XY</given-names></name><name><surname>Liu</surname><given-names>CZ</given-names></name></person-group><year>2012b</year><article-title>Fungal pretreatment enhances hydrogen production via thermophilic
+fermentation of cornstalk</article-title><source>Appl Energy</source><volume>91</volume><fpage>1</fpage><lpage>6</lpage></element-citation></ref><ref id="B16"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cui</surname><given-names>M</given-names></name><name><surname>Shen</surname><given-names>J</given-names></name></person-group><year>2012</year><article-title>Effects of acid and alkaline pretreatments on the biohydrogen
+production from grass by anaerobic dark fermentation</article-title><source>Int J Hydrogen Energy</source><volume>37</volume><fpage>1120</fpage><lpage>1124</lpage></element-citation></ref><ref id="B17"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cui</surname><given-names>M</given-names></name><name><surname>Yuan</surname><given-names>Z</given-names></name><name><surname>Zhi</surname><given-names>X</given-names></name><etal/></person-group><year>2010</year><article-title>Biohydrogen production from poplar leaves pretreated by different
+methods using anaerobic mixed bacteria</article-title><source>Int J Hydrogen Energy</source><volume>35</volume><fpage>4041</fpage><lpage>4047</lpage></element-citation></ref><ref id="B18"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Das</surname><given-names>D</given-names></name><name><surname>Veziroglu</surname><given-names>TN</given-names></name></person-group><year>2008</year><article-title>Advances in biological hydrogen production
+processes</article-title><source>Int J Hydrogen Energy</source><volume>33</volume><fpage>6046</fpage><lpage>6057</lpage></element-citation></ref><ref id="B19"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Datar</surname><given-names>R</given-names></name><name><surname>Huang</surname><given-names>J</given-names></name><name><surname>Maness</surname><given-names>P-C</given-names></name><etal/></person-group><year>2007</year><article-title>Hydrogen production from the fermentation of corn stover biomass
+pretreated with a steam-explosion process</article-title><source>Int J Hydrogen Energy</source><volume>32</volume><fpage>932</fpage><lpage>939</lpage></element-citation></ref><ref id="B20"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>de Vrije</surname><given-names>T</given-names></name><name><surname>Bakker</surname><given-names>RR</given-names></name><name><surname>Budde</surname><given-names>MAW</given-names></name><etal/></person-group><year>2009</year><article-title>Efficient hydrogen production from the lignocellulosic energy
+crop Miscanthus by the extreme thermophilic bacteria
+<italic>Caldicellulosiruptor saccharolyticus</italic> and
+<italic>Thermotoga neapolitana</italic>
+</article-title><source>Biotechnol Biofuels</source><volume>2</volume><fpage>12</fpage><comment><ext-link ext-link-type="uri" xlink:href="http://www.biotechnologyforbiofuels.com/content/2/1/12">http://www.biotechnologyforbiofuels.com/content/2/1/12</ext-link></comment><pub-id pub-id-type="pmid">19534765</pub-id></element-citation></ref><ref id="B21"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Elsharnouby</surname><given-names>O</given-names></name><name><surname>Hafez</surname><given-names>H</given-names></name><name><surname>Nakhla</surname><given-names>G</given-names></name><etal/></person-group><year>2013</year><article-title>A critical literature review on biohydrogen production by pure
+cultures</article-title><source>Int J Hydrogen Energy</source><volume>38</volume><fpage>4945</fpage><lpage>4966</lpage></element-citation></ref><ref id="B22"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Fan</surname><given-names>YT</given-names></name><name><surname>Zhang</surname><given-names>YH</given-names></name><name><surname>Zhang</surname><given-names>SF</given-names></name><etal/></person-group><year>2006</year><article-title>Efficient conversion of wheat straw wastes into biohydrogen gas
+by cow dung compost</article-title><source>Bioresour Technol</source><volume>97</volume><fpage>500</fpage><lpage>505</lpage><pub-id pub-id-type="pmid">15905089</pub-id></element-citation></ref><ref id="B23"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Fangkum</surname><given-names>A</given-names></name><name><surname>Reungsang</surname><given-names>A</given-names></name></person-group><year>2011</year><article-title>Biohydrogen production from sugarcane bagasse hydrolysate by
+elephant dung: Effects of initial pH and substrate
+concentration</article-title><source>Int J Hydrogen Energy</source><volume>36</volume><fpage>8687</fpage><lpage>8696</lpage></element-citation></ref><ref id="B24"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Guo</surname><given-names>XM</given-names></name><name><surname>Trably</surname><given-names>E</given-names></name><name><surname>Latrille</surname><given-names>E</given-names></name><etal/></person-group><year>2010a</year><article-title>Hydrogen production from agricultural waste by dark fermentation:
+A review</article-title><source>Int J Hydrogen Energy</source><volume>35</volume><fpage>10660</fpage><lpage>10673</lpage></element-citation></ref><ref id="B25"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Guo</surname><given-names>Y</given-names></name><name><surname>Kim</surname><given-names>S</given-names></name><name><surname>Sung</surname><given-names>S</given-names></name><etal/></person-group><year>2010b</year><article-title>Effect of ultrasonic treatment of digestion sludge on
+bio-hydrogen production from sucrose by anaerobic
+fermentation</article-title><source>Int J Hydrogen Energy</source><volume>35</volume><fpage>3450</fpage><lpage>3455</lpage></element-citation></ref><ref id="B26"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Haghighi Mood</surname><given-names>S</given-names></name><name><surname>Hossein Golfeshan</surname><given-names>A</given-names></name><name><surname>Tabatabaei</surname><given-names>M</given-names></name><etal/></person-group><year>2013</year><article-title>Lignocellulosic biomass to bioethanol, a comprehensive review
+with a focus on pretreatment</article-title><source>Renew Sust Energ Rev</source><volume>27</volume><fpage>77</fpage><lpage>93</lpage></element-citation></ref><ref id="B27"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hay</surname><given-names>JXW</given-names></name><name><surname>Wu</surname><given-names>TY</given-names></name><name><surname>Juan</surname><given-names>JC</given-names></name><etal/></person-group><year>2013</year><article-title>Biohydrogen production through photo fermentation or dark
+fermentation using waste as a substrate: Overview, economics, and future
+prospects of hydrogen usage</article-title><source>Biofuels Bioprod Bioref</source><volume>7</volume><fpage>334</fpage><lpage>352</lpage></element-citation></ref><ref id="B28"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ho</surname><given-names>KL</given-names></name><name><surname>Lee</surname><given-names>DJ</given-names></name><name><surname>Su</surname><given-names>A</given-names></name><etal/></person-group><year>2012</year><article-title>Biohydrogen from lignocellulosic feedstock via one-step
+process</article-title><source>Int J of Hydrogen Energy</source><volume>37</volume><fpage>15569</fpage><lpage>15574</lpage></element-citation></ref><ref id="B29"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ivanova</surname><given-names>G</given-names></name><name><surname>Rakhely</surname><given-names>G</given-names></name><name><surname>Kovacs</surname><given-names>KL</given-names></name></person-group><year>2009</year><article-title>Thermophilic biohydrogen production from energy plants by
+<italic>Caldicellulosiruptor saccharolyticus</italic> and comparison
+with related studies</article-title><source>Int J Hydrogen Energy</source><volume>34</volume><fpage>3659</fpage><lpage>3670</lpage></element-citation></ref><ref id="B30"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Jonsson</surname><given-names>L</given-names></name><name><surname>Alriksson</surname><given-names>B</given-names></name><name><surname>Nilvebrant</surname><given-names>N-O</given-names></name></person-group><year>2013</year><article-title>Bioconversion of lignocellulose: inhibitors and
+detoxification</article-title><source>Biotechnol Biofuels</source><volume>6</volume><fpage>16</fpage><pub-id pub-id-type="pmid">23356676</pub-id></element-citation></ref><ref id="B31"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kaparaju</surname><given-names>P</given-names></name><name><surname>Serrano</surname><given-names>M</given-names></name><name><surname>Angelidaki</surname><given-names>I</given-names></name></person-group><year>2009</year><article-title>Effect of reactor configuration on biogas production from wheat
+straw hydrolysate</article-title><source>Bioresour Technol</source><volume>100</volume><fpage>6317</fpage><lpage>6323</lpage><pub-id pub-id-type="pmid">19647428</pub-id></element-citation></ref><ref id="B32"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kapdan</surname><given-names>IK</given-names></name><name><surname>Kargi</surname><given-names>F</given-names></name></person-group><year>2006</year><article-title>Bio-hydrogen production from waste materials</article-title><source>Enz Microb Technol</source><volume>38</volume><fpage>569</fpage><lpage>582</lpage></element-citation></ref><ref id="B33"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Khamtib</surname><given-names>S</given-names></name><name><surname>Reungsang</surname><given-names>A</given-names></name></person-group><year>2012</year><article-title>Biohydrogen production from xylose by Thermoanaerobacterium
+thermosaccharolyticum KKU19 isolated from hot spring
+sediment</article-title><source>Int J Hydrogen Energy</source><volume>37</volume><fpage>12219</fpage><lpage>12228</lpage></element-citation></ref><ref id="B34"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kim</surname><given-names>M</given-names></name><name><surname>Liu</surname><given-names>C</given-names></name><name><surname>Noh</surname><given-names>JW</given-names></name><etal/></person-group><year>2013</year><article-title>Hydrogen and methane production from untreated rice straw and raw
+sewage sludge under thermophilic anaerobic conditions</article-title><source>Int J Hydrogen Energy</source><volume>38</volume><fpage>8648</fpage><lpage>8656</lpage></element-citation></ref><ref id="B35"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Klinke</surname><given-names>H</given-names></name><name><surname>Ahring</surname><given-names>B</given-names></name><name><surname>Schmidt</surname><given-names>A</given-names></name><etal/></person-group><year>2002</year><article-title>Characterization of degradation products from alkaline wet
+oxidation of wheat straw</article-title><source>Bioresour Technol</source><volume>82</volume><fpage>15</fpage><lpage>26</lpage><pub-id pub-id-type="pmid">11848374</pub-id></element-citation></ref><ref id="B36"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Klinke</surname><given-names>HB</given-names></name><name><surname>Thomsen</surname><given-names>AB</given-names></name><name><surname>Ahring</surname><given-names>BK</given-names></name></person-group><year>2004</year><article-title>Inhibition of ethanol-producing yeast and bacteria by degradation
+products produced during pre-treatment of biomass</article-title><source>Appl Microbiol Biotechnol</source><volume>66</volume><fpage>10</fpage><lpage>26</lpage><pub-id pub-id-type="pmid">15300416</pub-id></element-citation></ref><ref id="B37"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kongjan</surname><given-names>P</given-names></name><name><surname>Angelidaki</surname><given-names>I</given-names></name></person-group><year>2010</year><article-title>Extreme thermophilic biohydrogen production from wheat straw
+hydrolysate using mixed culture fermentation: Effect of reactor
+configuration</article-title><source>Bioresour Technol</source><volume>101</volume><fpage>7789</fpage><lpage>7796</lpage><pub-id pub-id-type="pmid">20554199</pub-id></element-citation></ref><ref id="B38"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kongjan</surname><given-names>P</given-names></name><name><surname>O-Thong</surname><given-names>S</given-names></name><name><surname>Kotay</surname><given-names>M</given-names></name><etal/></person-group><year>2010</year><article-title>Biohydrogen Production From Wheat Straw Hydrolysate by Dark
+Fermentation Using Extreme Thermophilic Mixed Culture</article-title><source>Biotechnol Bioeng</source><volume>105</volume><fpage>899</fpage><lpage>908</lpage><pub-id pub-id-type="pmid">19998285</pub-id></element-citation></ref><ref id="B39"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kotay</surname><given-names>SM</given-names></name><name><surname>Das</surname><given-names>D</given-names></name></person-group><year>2008</year><article-title>Biohydrogen as a renewable energy resource - Prospects and
+potentials</article-title><source>Int J Hydrogen Energy</source><volume>33</volume><fpage>258</fpage><lpage>263</lpage></element-citation></ref><ref id="B40"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kothari</surname><given-names>R</given-names></name><name><surname>Singh</surname><given-names>DP</given-names></name><name><surname>Tyagi</surname><given-names>VV</given-names></name><etal/></person-group><year>2012</year><article-title>Fermentative hydrogen production - An alternative clean energy
+source</article-title><source>Renew Sust Energ Rev</source><volume>16</volume><fpage>2337</fpage><lpage>2346</lpage></element-citation></ref><ref id="B41"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lakaniemi</surname><given-names>AM</given-names></name><name><surname>Koskinen</surname><given-names>PEP</given-names></name><name><surname>Nevatalo</surname><given-names>LM</given-names></name><etal/></person-group><year>2011</year><article-title>Biogenic hydrogen and methane production from reed canary
+grass</article-title><source>Biomass Bioenergy</source><volume>35</volume><fpage>773</fpage><lpage>780</lpage></element-citation></ref><ref id="B42"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lay</surname><given-names>CH</given-names></name><name><surname>Sung</surname><given-names>IY</given-names></name><name><surname>Kumar</surname><given-names>G</given-names></name><etal/></person-group><year>2012</year><article-title>Optimizing biohydrogen production from mushroom cultivation waste
+using anaerobic mixed cultures</article-title><source>Int J Hydrogen Energy</source><volume>37</volume><fpage>16473</fpage><lpage>16478</lpage></element-citation></ref><ref id="B43"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Levin</surname><given-names>DB</given-names></name><name><surname>Carere</surname><given-names>CR</given-names></name><name><surname>Cicek</surname><given-names>N</given-names></name><etal/></person-group><year>2009</year><article-title>Challenges for biohydrogen production via direct lignocellulose
+fermentation</article-title><source>Int J Hydrogen Energy</source><volume>34</volume><fpage>7390</fpage><lpage>7403</lpage></element-citation></ref><ref id="B44"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Levin</surname><given-names>DB</given-names></name><name><surname>Pitt</surname><given-names>L</given-names></name><name><surname>Love</surname><given-names>M</given-names></name></person-group><year>2004</year><article-title>Biohydrogen production: prospects and limitations to practical
+application</article-title><source>Int J Hydrogen Energy</source><volume>29</volume><fpage>173</fpage><lpage>185</lpage></element-citation></ref><ref id="B45"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Li</surname><given-names>C</given-names></name><name><surname>Fang</surname><given-names>H</given-names></name></person-group><year>2007</year><article-title>Fermentative hydrogen production from wastewater and solid wastes
+by mixed cultures</article-title><source>Crit Rev Environ Sci Technol</source><volume>37</volume><fpage>1</fpage><lpage>39</lpage></element-citation></ref><ref id="B46"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Li</surname><given-names>Q</given-names></name><name><surname>Liu</surname><given-names>CZ</given-names></name></person-group><year>2012</year><article-title>Co-culture of Clostridium thermocellum and Clostridium
+thermosaccharolyticum for enhancing hydrogen production via thermophilic
+fermentation of cornstalk waste</article-title><source>Int J Hydrogen Energy</source><volume>37</volume><fpage>10648</fpage><lpage>10654</lpage></element-citation></ref><ref id="B47"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Li</surname><given-names>YC</given-names></name><name><surname>Liu</surname><given-names>YF</given-names></name><name><surname>Chu</surname><given-names>CY</given-names></name><etal/></person-group><year>2012</year><article-title>Techno-economic evaluation of biohydrogen production from
+wastewater and agricultural waste</article-title><source>Int J Hydrogen Energy</source><volume>37</volume><fpage>15704</fpage><lpage>15710</lpage></element-citation></ref><ref id="B48"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lin</surname><given-names>CY</given-names></name><name><surname>Lay</surname><given-names>CH</given-names></name><name><surname>Sen</surname><given-names>B</given-names></name><etal/></person-group><year>2012</year><article-title>Fermentative hydrogen production from wastewaters: A review and
+prognosis</article-title><source>Int J Hydrogen Energy</source><volume>37</volume><fpage>15632</fpage><lpage>15642</lpage></element-citation></ref><ref id="B49"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lin</surname><given-names>Y</given-names></name><name><surname>Tanaka</surname><given-names>S</given-names></name></person-group><year>2006</year><article-title>Ethanol fermentation from biomass resources: current state and
+prospects</article-title><source>Appl Microbiol Biotechnol</source><volume>69</volume><fpage>627</fpage><lpage>642</lpage><pub-id pub-id-type="pmid">16331454</pub-id></element-citation></ref><ref id="B50"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Liu</surname><given-names>CZ</given-names></name><name><surname>Cheng</surname><given-names>XY</given-names></name></person-group><year>2010</year><article-title>Improved hydrogen production via thermophilic fermentation of
+corn stover by microwave-assisted acid pretreatment</article-title><source>Int J Hydrogen Energy</source><volume>35</volume><fpage>8945</fpage><lpage>8952</lpage></element-citation></ref><ref id="B51"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lo</surname><given-names>YC</given-names></name><name><surname>Lu</surname><given-names>WC</given-names></name><name><surname>Chen</surname><given-names>CY</given-names></name><etal/></person-group><year>2010</year><article-title>Dark fermentative hydrogen production from enzymatic hydrolysate
+of xylan and pretreated rice straw by <italic>Clostridium butyricum</italic>
+CGS5</article-title><source>Bioresour Technol</source><volume>101</volume><fpage>5885</fpage><lpage>5891</lpage><pub-id pub-id-type="pmid">20385486</pub-id></element-citation></ref><ref id="B52"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lo</surname><given-names>YC</given-names></name><name><surname>Su</surname><given-names>YC</given-names></name><name><surname>Cheng</surname><given-names>CL</given-names></name><etal/></person-group><year>2011</year><article-title>Biohydrogen production from pure and natural lignocellulosic
+feedstock with chemical pretreatment and bacterial
+hydrolysis</article-title><source>Int J Hydrogen Energy</source><volume>36</volume><fpage>13955</fpage><lpage>13963</lpage></element-citation></ref><ref id="B53"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Long</surname><given-names>C</given-names></name><name><surname>Cui</surname><given-names>J</given-names></name><name><surname>Liu</surname><given-names>Z</given-names></name><etal/></person-group><year>2010</year><article-title>Statistical optimization of fermentative hydrogen production from
+xylose by newly isolated Enterobacter sp CN1</article-title><source>Int J Hydrogen Energy</source><volume>35</volume><fpage>6657</fpage><lpage>6664</lpage></element-citation></ref><ref id="B54"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Luo</surname><given-names>G</given-names></name><name><surname>Talebnia</surname><given-names>F</given-names></name><name><surname>Karakashev</surname><given-names>D</given-names></name><etal/></person-group><year>2011</year><article-title>Enhanced bioenergy recovery from rapeseed plant in a biorefinery
+concept</article-title><source>Bioresour Technol</source><volume>102</volume><fpage>1433</fpage><lpage>1439</lpage><pub-id pub-id-type="pmid">20933399</pub-id></element-citation></ref><ref id="B55"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Maintinguer</surname><given-names>SI</given-names></name><name><surname>Fernandes</surname><given-names>BS</given-names></name><name><surname>Duarte</surname><given-names>ICS</given-names></name></person-group><year>2011</year><article-title>Fermentative hydrogen production with xylose by
+<italic>Clostridium</italic> and <italic>Klebsiella</italic> species in
+anaerobic batch reactors</article-title><source>Int J Hydrogen Energy</source><volume>36</volume><fpage>13508</fpage><lpage>13517</lpage></element-citation></ref><ref id="B56"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Martin del Campo</surname><given-names>JS</given-names></name><name><surname>Rollin</surname><given-names>J</given-names></name><name><surname>Myung</surname><given-names>S</given-names></name><etal/></person-group><year>2013</year><article-title>High-yield production of dihydrogen from xylose by using a
+synthetic enzyme cascade in a cell-free system</article-title><source>Angew Chem Int Ed</source><volume>52</volume><fpage>1</fpage><lpage>5</lpage></element-citation></ref><ref id="B57"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Matsumoto</surname><given-names>M</given-names></name><name><surname>Nishimura</surname><given-names>Y</given-names></name></person-group><year>2007</year><article-title>Hydrogen production by fermentation using acetic acid and lactic
+acid</article-title><source>J Biosc Bioeng</source><volume>103</volume><fpage>236</fpage><lpage>241</lpage></element-citation></ref><ref id="B58"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Monlau</surname><given-names>F</given-names></name><name><surname>Barakat</surname><given-names>A</given-names></name><name><surname>Trably</surname><given-names>E</given-names></name><etal/></person-group><year>2013a</year><article-title>Lignocellulosic Materials Into Biohydrogen and Biomethane: Impact
+of Structural Features and Pretreatment</article-title><source>Crit Rev Env Sci Technol</source><volume>43</volume><fpage>260</fpage><lpage>322</lpage></element-citation></ref><ref id="B59"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Monlau</surname><given-names>F</given-names></name><name><surname>Aemig</surname><given-names>Q</given-names></name><name><surname>Trably</surname><given-names>E</given-names></name><etal/></person-group><year>2013b</year><article-title>Specific inhibition of biohydrogen-producing
+<italic>Clostridium</italic> sp after dilute-acid pretreatment of
+sunflower stalks</article-title><source>Int J Hydrogen Energy</source><volume>38</volume><fpage>12273</fpage><lpage>12282</lpage></element-citation></ref><ref id="B60"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mood</surname><given-names>SH</given-names></name><name><surname>Golfeshan</surname><given-names>AH</given-names></name><name><surname>Tabatabaei</surname><given-names>M</given-names></name><etal/></person-group><year>2013</year><article-title>Lignocellulosic biomass to bioethanol, a comprehensive review
+with a focus on pretreatment</article-title><source>Renew Sust Energy Rev</source><volume>27</volume><fpage>77</fpage><lpage>93</lpage></element-citation></ref><ref id="B61"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mosier</surname><given-names>N</given-names></name><name><surname>Wyman</surname><given-names>C</given-names></name><name><surname>Dale</surname><given-names>B</given-names></name><etal/></person-group><year>2005</year><article-title>Features of promising technologies for pretreatment of
+lignocellulosic biomass</article-title><source>Bioresour Technol</source><volume>96</volume><fpage>673</fpage><lpage>686</lpage><pub-id pub-id-type="pmid">15588770</pub-id></element-citation></ref><ref id="B62"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Nasirian</surname><given-names>N</given-names></name><name><surname>Almassi</surname><given-names>M</given-names></name><name><surname>Minaei</surname><given-names>S</given-names></name><etal/></person-group><year>2011</year><article-title>Development of a method for biohydrogen production from wheat
+straw by dark fermentation</article-title><source>Int J Hydrogen Energy</source><volume>36</volume><fpage>411</fpage><lpage>420</lpage></element-citation></ref><ref id="B63"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ngo</surname><given-names>TA</given-names></name><name><surname>Nguyen</surname><given-names>TH</given-names></name><name><surname>Bui</surname><given-names>BTV</given-names></name></person-group><year>2012</year><article-title>Thermophilic fermentative hydrogen production from xylose by
+<italic>Thermotoga neapolitana</italic> DSM 4359</article-title><source>Renew Energy</source><volume>37</volume><fpage>174</fpage><lpage>179</lpage></element-citation></ref><ref id="B64"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Nguyen</surname><given-names>T-AD</given-names></name><name><surname>Kim</surname><given-names>K-R</given-names></name><name><surname>Kim</surname><given-names>MS</given-names></name><etal/></person-group><year>2010</year><article-title>Thermophilic hydrogen fermentation from Korean rice straw by
+<italic>Thermotoga neapolitana</italic>
+</article-title><source>Int J Hydrogen Energy</source><volume>35</volume><fpage>13392</fpage><lpage>13398</lpage></element-citation></ref><ref id="B65"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Nissila</surname><given-names>ME</given-names></name><name><surname>Li</surname><given-names>YC</given-names></name><name><surname>Wu</surname><given-names>SY</given-names></name><etal/></person-group><year>2012</year><article-title>Dark Fermentative Hydrogen Production from Neutralized Acid
+Hydrolysates of Conifer Pulp</article-title><source>Appl Biochem Biotechnol</source><volume>168</volume><fpage>2160</fpage><lpage>2169</lpage><pub-id pub-id-type="pmid">23065404</pub-id></element-citation></ref><ref id="B66"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ogeda</surname><given-names>TL</given-names></name><name><surname>Petri</surname><given-names>DFS</given-names></name></person-group><year>2010</year><article-title>Hidr&#x000f3;lise Enzim&#x000e1;tica de Biomassa</article-title><source>Qu&#x000ed;mica Nova</source><volume>36</volume><fpage>1549</fpage><lpage>1558</lpage></element-citation></ref><ref id="B67"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ozkan</surname><given-names>L</given-names></name><name><surname>Erguder</surname><given-names>TH</given-names></name><name><surname>Demirer</surname><given-names>GN</given-names></name></person-group><year>2011</year><article-title>Effects of pretreatment methods on solubilization of beet-pulp
+and biohydrogen production yield</article-title><source>Int J Hydrogen Energy</source><volume>36</volume><fpage>382</fpage><lpage>389</lpage></element-citation></ref><ref id="B68"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Palmqvist</surname><given-names>E</given-names></name><name><surname>Hahn-Hagerdal</surname><given-names>B</given-names></name></person-group><year>2000</year><article-title>Fermentation of lignocellulosic hydrolysates. II: inhibitors and
+mechanisms of inhibition</article-title><source>Bioresour Technol</source><volume>74</volume><fpage>25</fpage><lpage>33</lpage></element-citation></ref><ref id="B69"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Pan</surname><given-names>CM</given-names></name><name><surname>Ma</surname><given-names>HC</given-names></name><name><surname>Fan</surname><given-names>YT</given-names></name><etal/></person-group><year>2011</year><article-title>Bioaugmented cellulosic hydrogen production from cornstalk by
+integrating dilute acid-enzyme hydrolysis and dark
+fermentation</article-title><source>Int J Hydrogen Energy</source><volume>36</volume><fpage>4852</fpage><lpage>4862</lpage></element-citation></ref><ref id="B70"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Panagiotopoulos</surname><given-names>IA</given-names></name><name><surname>Bakker</surname><given-names>RR</given-names></name><name><surname>de Vrije</surname><given-names>T</given-names></name><etal/></person-group><year>2010</year><article-title>Pretreatment of sweet sorghum bagasse for hydrogen production by
+<italic>Caldicellulosiruptor saccharolyticus</italic>
+</article-title><source>Int J Hydrogen Energy</source><volume>35</volume><fpage>7738</fpage><lpage>7747</lpage></element-citation></ref><ref id="B71"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Pattra</surname><given-names>S</given-names></name><name><surname>Sangyoka</surname><given-names>S</given-names></name><name><surname>Boonmee</surname><given-names>M</given-names></name><etal/></person-group><year>2008</year><article-title>Bio-hydrogen production from the fermentation of sugarcane
+bagasse hydrolysate by <italic>Clostridium
+butyricum</italic>
+</article-title><source>Int J Hydrogen Energy</source><volume>33</volume><fpage>5256</fpage><lpage>5265</lpage></element-citation></ref><ref id="B72"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Pawar</surname><given-names>SS</given-names></name><name><surname>Nkemka</surname><given-names>VN</given-names></name><name><surname>Zeidan</surname><given-names>AA</given-names></name><etal/></person-group><year>2013</year><article-title>Biohydrogen production from wheat straw hydrolysate using
+<italic>Caldicellulosiruptor saccharolyticus</italic> followed by biogas
+production in a two-step uncoupled process</article-title><source>Int J Hydrogen Energy</source><volume>38</volume><fpage>9121</fpage><lpage>9130</lpage></element-citation></ref><ref id="B73"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Quemeneur</surname><given-names>M</given-names></name><name><surname>Bittel</surname><given-names>M</given-names></name><name><surname>Trably</surname><given-names>E</given-names></name><etal/></person-group><year>2012a</year><article-title>Effect of enzyme addition on fermentative hydrogen production
+from wheat straw</article-title><source>Int J Hydrogen Energy</source><volume>37</volume><fpage>10639</fpage><lpage>10647</lpage></element-citation></ref><ref id="B74"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Quemeneur</surname><given-names>M</given-names></name><name><surname>Hamelin</surname><given-names>J</given-names></name><name><surname>Barakat</surname><given-names>A</given-names></name><etal/></person-group><year>2012b</year><article-title>Inhibition of fermentative hydrogen production by
+lignocellulose-derived compounds in mixed cultures</article-title><source>Int J Hydrogen Energy</source><volume>37</volume><fpage>3150</fpage><lpage>3159</lpage></element-citation></ref><ref id="B75"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rafrafi</surname><given-names>Y</given-names></name><name><surname>Trably</surname><given-names>E</given-names></name><name><surname>Hamelin</surname><given-names>J</given-names></name><etal/></person-group><year>2013</year><article-title>Sub-dominant bacteria as keystone species in microbial
+communities producing bio-hydrogen</article-title><source>Int J Hydrogen Energy</source><volume>38</volume><fpage>4881</fpage><lpage>5180</lpage></element-citation></ref><ref id="B76"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Raj</surname><given-names>SM</given-names></name><name><surname>Talluri</surname><given-names>S</given-names></name><name><surname>Christopher</surname><given-names>LP</given-names></name></person-group><year>2012</year><article-title>Thermophilic Hydrogen Production from Renewable Resources:
+Current Status and Future Perspectives</article-title><source>Bioenergy Res</source><volume>5</volume><fpage>515</fpage><lpage>531</lpage></element-citation></ref><ref id="B77"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ren</surname><given-names>N</given-names></name><name><surname>Wang</surname><given-names>A</given-names></name><name><surname>Gao</surname><given-names>L</given-names></name><etal/></person-group><year>2008</year><article-title>Bioaugmented hydrogen production from carboxymethyl cellulose and
+partially delignified corn stalks using isolated cultures</article-title><source>Int J Hydrogen Energy</source><volume>33</volume><fpage>5250</fpage><lpage>5255</lpage></element-citation></ref><ref id="B78"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ren</surname><given-names>N</given-names></name><name><surname>Wang</surname><given-names>A</given-names></name><name><surname>Cao</surname><given-names>GL</given-names></name><etal/></person-group><year>2009</year><article-title>Bioconversion of lignocellulosic biomass to hydrogen: Potential
+and challenges</article-title><source>Biotechnol Adv</source><volume>27</volume><fpage>1051</fpage><lpage>1060</lpage><pub-id pub-id-type="pmid">19463936</pub-id></element-citation></ref><ref id="B79"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ren</surname><given-names>NQ</given-names></name><name><surname>Cao</surname><given-names>GL</given-names></name><name><surname>Guo</surname><given-names>WQ</given-names></name><etal/></person-group><year>2010</year><article-title>Biological hydrogen production from corn stover by moderately
+thermophile <italic>Thermoanaerobacterium thermosaccharolyticum</italic>
+W16</article-title><source>Int J Hydrogen Energy</source><volume>35</volume><fpage>2708</fpage><lpage>2712</lpage></element-citation></ref><ref id="B80"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rezende</surname><given-names>CA</given-names></name><name><surname>de Lima</surname><given-names>MA</given-names></name><name><surname>Maziero</surname><given-names>P</given-names></name><etal/></person-group><year>2011</year><article-title>Chemical and morphological characterization of sugarcane bagasse
+submitted to a delignification process for enhanced enzymatic
+digestibility</article-title><source>Biotechnol Biofuels</source><volume>4</volume><fpage>1</fpage><lpage>18</lpage><pub-id pub-id-type="pmid">21269444</pub-id></element-citation></ref><ref id="B81"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sagnak</surname><given-names>R</given-names></name><name><surname>Kargi</surname><given-names>F</given-names></name><name><surname>Kapdan</surname><given-names>IK</given-names></name></person-group><year>2011</year><article-title>Bio-hydrogen production from acid hydrolyzed waste ground wheat
+by dark fermentation</article-title><source>Int J Hydrogen Energy</source><volume>36</volume><fpage>12803</fpage><lpage>12809</lpage></element-citation></ref><ref id="B82"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Saratale</surname><given-names>G</given-names></name><name><surname>Chen</surname><given-names>SD</given-names></name><name><surname>Lo</surname><given-names>YC</given-names></name><etal/></person-group><year>2008</year><article-title>Outlook of biohydrogen production from lignocellulosic feedstock
+using dark fermentation - a review</article-title><source>J Sci Ind Res</source><volume>67</volume><fpage>962</fpage><lpage>979</lpage></element-citation></ref><ref id="B83"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Saripan</surname><given-names>AF</given-names></name><name><surname>Reungsang</surname><given-names>A</given-names></name></person-group><year>2013</year><article-title>Biohydrogen production by <italic>Thermoanaerobacterium
+thermosaccharolyticum</italic> KKU-ED1: Culture conditions optimization
+using xylan as the substrate</article-title><source>Int J Hydrogen Energy</source><volume>38</volume><fpage>6167</fpage><lpage>6173</lpage></element-citation></ref><ref id="B84"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sarks</surname><given-names>C</given-names></name><name><surname>Jin</surname><given-names>M</given-names></name><name><surname>Sato</surname><given-names>TK</given-names></name><etal/></person-group><year>2014</year><article-title>Studying the rapid bioconversion of lignocellulosic sugars into
+ethanol using high cell density fermentations with cell
+recycle</article-title><source>Biotechnol Biofuels</source><volume>15</volume><fpage>73</fpage><lpage>80</lpage><pub-id pub-id-type="pmid">24847379</pub-id></element-citation></ref><ref id="B85"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Seol</surname><given-names>E</given-names></name><name><surname>Kim</surname><given-names>S</given-names></name><name><surname>Raj</surname><given-names>SM</given-names></name><etal/></person-group><year>2008</year><article-title>Comparison of hydrogen-production capability of four different
+Enterobacteriaceae strains under growing and non-growing
+conditions</article-title><source>Int J Hydrogen Energy</source><volume>33</volume><fpage>5169</fpage><lpage>5175</lpage></element-citation></ref><ref id="B86"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Shaw</surname><given-names>AJ</given-names></name><name><surname>Jenney</surname><given-names>FE</given-names><suffix>Jr</suffix></name><name><surname>Adams</surname><given-names>MWW</given-names></name><etal/></person-group><year>2008</year><article-title>End-product pathways in the xylose fermenting bacterium
+<italic>Thermoanaerobacterium saccharolyticum</italic>
+</article-title><source>Enzyme Microb Technol</source><volume>42</volume><fpage>453</fpage><lpage>458</lpage></element-citation></ref><ref id="B87"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Show</surname><given-names>KY</given-names></name><name><surname>Lee</surname><given-names>DJ</given-names></name><name><surname>Tay</surname><given-names>JH</given-names></name><etal/></person-group><year>2012</year><article-title>Biohydrogen production: Current perspectives and the way
+forward</article-title><source>Int J Hydrogen Energy</source><volume>37</volume><fpage>15616</fpage><lpage>15631</lpage></element-citation></ref><ref id="B88"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Song</surname><given-names>ZX</given-names></name><name><surname>Wang</surname><given-names>ZY</given-names></name><name><surname>Wu</surname><given-names>LY</given-names></name><etal/></person-group><year>2012</year><article-title>Effect of microwave irradiation pretreatment of cow dung compost
+on bio-hydrogen process from corn stalk by dark fermentation</article-title><source>Int J Hydrogen Energy</source><volume>37</volume><fpage>6554</fpage><lpage>6561</lpage></element-citation></ref><ref id="B89"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sun</surname><given-names>Y</given-names></name><name><surname>Cheng</surname><given-names>JY</given-names></name></person-group><year>2002</year><article-title>Hydrolysis of lignocellulosic materials for ethanol production: a
+review</article-title><source>Bioresour Technol</source><volume>83</volume><fpage>1</fpage><lpage>11</lpage><pub-id pub-id-type="pmid">12058826</pub-id></element-citation></ref><ref id="B90"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Tai</surname><given-names>J</given-names></name><name><surname>Adav</surname><given-names>SS</given-names></name><name><surname>Su</surname><given-names>A</given-names></name><etal/></person-group><year>2010</year><article-title>Biological hydrogen production from phenol-containing wastewater
+using <italic>Clostridium butyricum</italic>
+</article-title><source>Int J Hydrogen Energy</source><volume>35</volume><fpage>13345</fpage><lpage>13349</lpage></element-citation></ref><ref id="B91"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Talluri</surname><given-names>S</given-names></name><name><surname>Raj</surname><given-names>SM</given-names></name><name><surname>Christopher</surname><given-names>LP</given-names></name></person-group><year>2013</year><article-title>Consolidated bioprocessing of untreated switchgrass to hydrogen
+by the extreme thermophile <italic>Caldicellulosiruptor
+saccharolyticus</italic> DSM 8903</article-title><source>Bioresour Technol</source><volume>139</volume><fpage>272</fpage><lpage>279</lpage><pub-id pub-id-type="pmid">23665687</pub-id></element-citation></ref><ref id="B92"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Valdez-Vazquez</surname><given-names>I</given-names></name><name><surname>Poggi-Varaldo</surname><given-names>HM</given-names></name></person-group><year>2009</year><article-title>Hydrogen production by fermentative consortia</article-title><source>Renew Sust Energ Rev</source><volume>13</volume><fpage>1000</fpage><lpage>1013</lpage></element-citation></ref><ref id="B93"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Vargas Betancur</surname><given-names>GJ</given-names></name><name><surname>Pereira</surname><given-names>N</given-names><suffix>Jr</suffix></name></person-group><year>2010</year><article-title>Sugar cane bagasse as feedstock for second generation ethanol
+production. Part I: Diluted acid pretreatment optimization</article-title><source>Elect J Biotechnol</source><volume>13</volume></element-citation></ref><ref id="B94"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Veeravalli</surname><given-names>SS</given-names></name><name><surname>Chaganti</surname><given-names>SR</given-names></name><name><surname>Lalman</surname><given-names>JA</given-names></name><etal/></person-group><year>2013</year><article-title>Effect of furans and linoleic acid on hydrogen
+production</article-title><source>Int J Hydrogen Energy</source><volume>38</volume><fpage>12283</fpage><lpage>12293</lpage></element-citation></ref><ref id="B95"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wang</surname><given-names>A</given-names></name><name><surname>Ren</surname><given-names>N</given-names></name><name><surname>Shi</surname><given-names>Y</given-names></name><etal/></person-group><year>2008</year><article-title>Bioaugmented hydrogen production from microcrystalline cellulose
+using co-culture - <italic>Clostridium acetobutylicum</italic> X-9 and
+<italic>Ethanoligenens harbinense</italic> B-49</article-title><source>Int J Hydrogen Energy</source><volume>33</volume><fpage>912</fpage><lpage>917</lpage></element-citation></ref><ref id="B96"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wang</surname><given-names>J</given-names></name><name><surname>Wan</surname><given-names>W</given-names></name></person-group><year>2009</year><article-title>Factors influencing fermentative hydrogen production: A
+review</article-title><source>Int J Hydrogen Energy</source><volume>34</volume><fpage>799</fpage><lpage>811</lpage></element-citation></ref><ref id="B97"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wu</surname><given-names>J</given-names></name><name><surname>Upreti</surname><given-names>S</given-names></name><name><surname>Mozaffari</surname><given-names>FE</given-names></name></person-group><year>2013</year><article-title>Ozone pretreatment of wheat straw for enhanced biohydrogen
+production</article-title><source>Int J Hydrogen Energy</source><volume>38</volume><fpage>10270</fpage><lpage>10276</lpage></element-citation></ref><ref id="B98"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Xing</surname><given-names>Y</given-names></name><name><surname>Fan</surname><given-names>SQ</given-names></name><name><surname>Zhang</surname><given-names>JN</given-names></name></person-group><year>2011</year><article-title>Enhanced bio-hydrogen production from corn stalk by anaerobic
+fermentation using response surface methodology</article-title><source>Int J Hydrogen Energy</source><volume>36</volume><fpage>12770</fpage><lpage>12779</lpage></element-citation></ref><ref id="B99"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Xu</surname><given-names>JF</given-names></name><name><surname>Ren</surname><given-names>N</given-names></name><name><surname>Su</surname><given-names>DX</given-names></name><etal/></person-group><year>2010</year><article-title>Bio-hydrogen production from acetic acid steam-exploded corn
+straws by simultaneous saccharification and fermentation with
+<italic>Ethanoligenens harbinense</italic> B49</article-title><source>Int J Hydrogen Energy</source><volume>34</volume><fpage>381</fpage><lpage>386</lpage></element-citation></ref><ref id="B100"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Yang</surname><given-names>Z</given-names></name><name><surname>Guo</surname><given-names>R</given-names></name><name><surname>Xu</surname><given-names>X</given-names></name><etal/></person-group><year>2011</year><article-title>Fermentative hydrogen production from lipid-extracted microalgal
+biomass residues</article-title><source>Appl Energy</source><volume>88</volume><fpage>3468</fpage><lpage>3472</lpage></element-citation></ref><ref id="B101"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zhang</surname><given-names>M-L</given-names></name><name><surname>Fan</surname><given-names>Y-T</given-names></name><name><surname>Xing</surname><given-names>Y</given-names></name><etal/></person-group><year>2007</year><article-title>Enhanced biohydrogen production from cornstalk wastes with
+acidification pretreatment by mixed anaerobic cultures</article-title><source>Biomass Bioenergy</source><volume>31</volume><fpage>250</fpage><lpage>254</lpage></element-citation></ref><ref id="B102"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zhao</surname><given-names>L</given-names></name><name><surname>Cao</surname><given-names>G-L</given-names></name><name><surname>Wang</surname><given-names>A-J</given-names></name><etal/></person-group><year>2013</year><article-title>Simultaneous saccharification and fermentation of fungal
+pretreated cornstalk for hydrogen production using
+<italic>Thermoanaerobacterium thermosaccharolyticum</italic>
+W16</article-title><source>Bioresour Technol</source><volume>145</volume><fpage>103</fpage><lpage>107</lpage><pub-id pub-id-type="pmid">23489570</pub-id></element-citation></ref><ref id="B103"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zhao</surname><given-names>L</given-names></name><name><surname>Cao</surname><given-names>G-L</given-names></name><name><surname>Wang</surname><given-names>A-J</given-names></name><etal/></person-group><year>2013</year><article-title>Enzymatic saccharification of cornstalk by onsite cellulases
+produced by <italic>Trichoderma viride</italic> for enhanced biohydrogen
+production</article-title><source>GCB Bioenergy</source><volume>5</volume><fpage>591</fpage><lpage>598</lpage></element-citation></ref></ref-list></back></article>

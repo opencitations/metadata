@@ -1,0 +1,631 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Br J Haematol</journal-id><journal-id journal-id-type="iso-abbrev">Br. J. Haematol</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1365-2141</journal-id><journal-id journal-id-type="publisher-id">BJH</journal-id><journal-title-group><journal-title>British Journal of Haematology</journal-title></journal-title-group><issn pub-type="ppub">0007-1048</issn><issn pub-type="epub">1365-2141</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">29984830</article-id><article-id pub-id-type="pmc">6175065</article-id><article-id pub-id-type="doi">10.1111/bjh.15459</article-id><article-id pub-id-type="publisher-id">BJH15459</article-id><article-categories><subj-group subj-group-type="overline"><subject>Research Paper</subject></subj-group><subj-group subj-group-type="heading"><subject>Haematological Malignancy</subject></subj-group></article-categories><title-group><article-title>Quality of life during and following sequential treatment of previously untreated patients with multiple myeloma: findings of the Medical Research Council Myeloma <styled-content style="fixed-case">IX</styled-content> randomised study</article-title><alt-title alt-title-type="left-running-head">K.&#x02010;L. Royle <italic>et&#x000a0;al</italic></alt-title></title-group><contrib-group><contrib id="bjh15459-cr-0001" contrib-type="author"><name><surname>Royle</surname><given-names>Kara&#x02010;Louise</given-names></name><xref ref-type="aff" rid="bjh15459-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="bjh15459-cr-0002" contrib-type="author"><name><surname>Gregory</surname><given-names>Walter M.</given-names></name><xref ref-type="aff" rid="bjh15459-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="bjh15459-cr-0003" contrib-type="author"><name><surname>Cairns</surname><given-names>David A.</given-names></name><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-2338-0179</contrib-id><xref ref-type="aff" rid="bjh15459-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="bjh15459-cr-0004" contrib-type="author"><name><surname>Bell</surname><given-names>Sue E.</given-names></name><xref ref-type="aff" rid="bjh15459-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="bjh15459-cr-0005" contrib-type="author"><name><surname>Cook</surname><given-names>Gordon</given-names></name><xref ref-type="aff" rid="bjh15459-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="bjh15459-cr-0006" contrib-type="author"><name><surname>Owen</surname><given-names>Roger G.</given-names></name><xref ref-type="aff" rid="bjh15459-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="bjh15459-cr-0007" contrib-type="author"><name><surname>Drayson</surname><given-names>Mark T.</given-names></name><xref ref-type="aff" rid="bjh15459-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="bjh15459-cr-0008" contrib-type="author"><name><surname>Davies</surname><given-names>Faith E.</given-names></name><xref ref-type="aff" rid="bjh15459-aff-0005">
+<sup>5</sup>
+</xref><xref ref-type="aff" rid="bjh15459-curr-0001">
+<sup>7</sup>
+</xref></contrib><contrib id="bjh15459-cr-0009" contrib-type="author"><name><surname>Jackson</surname><given-names>Graham H.</given-names></name><xref ref-type="aff" rid="bjh15459-aff-0006">
+<sup>6</sup>
+</xref></contrib><contrib id="bjh15459-cr-0010" contrib-type="author"><name><surname>Morgan</surname><given-names>Gareth J.</given-names></name><xref ref-type="aff" rid="bjh15459-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="bjh15459-cr-0011" contrib-type="author" corresp="yes"><name><surname>Child</surname><given-names>J. Anthony</given-names></name><address><email>jachild@doctors.org.uk</email></address><xref ref-type="aff" rid="bjh15459-aff-0001">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="bjh15459-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">CTRU</named-content>
+<institution>University of Leeds</institution>
+<named-content content-type="city">Leeds</named-content>
+<country country="GB">UK</country>
+</aff><aff id="bjh15459-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">LICAP</named-content>
+<institution>University of Leeds</institution>
+<named-content content-type="city">Leeds</named-content>
+<country country="GB">UK</country>
+</aff><aff id="bjh15459-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">HMDS</named-content>
+<institution>St James's University Hospital</institution>
+<named-content content-type="city">Leeds</named-content>
+<country country="GB">UK</country>
+</aff><aff id="bjh15459-aff-0004">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">Clinical Immunology Service</named-content>
+<institution>University of Birmingham</institution>
+<named-content content-type="city">Birmingham</named-content>
+<country country="GB">UK</country>
+</aff><aff id="bjh15459-aff-0005">
+<label><sup>5</sup></label>
+<institution>Institute of Cancer Research</institution>
+<named-content content-type="city">Sutton</named-content>
+<country country="GB">UK</country>
+</aff><aff id="bjh15459-aff-0006">
+<label><sup>6</sup></label>
+<named-content content-type="organisation-division">Northern Cancer Centre</named-content>
+<institution>Newcastle University</institution>
+<named-content content-type="city">Newcastle&#x02010;upon&#x02010;Tyne</named-content>
+<country country="GB">UK</country>
+</aff><aff id="bjh15459-curr-0001"><label><sup>7</sup></label>Present address:
+<named-content content-type="organisation-division">Myeloma Institute</named-content>
+<institution>University of Arkansas for Medical Sciences</institution>
+<named-content content-type="city">Little Rock</named-content>
+<named-content content-type="country-part">AR</named-content>
+<country country="US">USA</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label>
+Correspondence: Dr J A Child, Clinical Trials Research Unit, University of Leeds, Leeds, UK<break/>
+E&#x02010;mail: <email>jachild@doctors.org.uk</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>09</day><month>7</month><year>2018</year></pub-date><pub-date pub-type="ppub"><month>9</month><year>2018</year></pub-date><volume>182</volume><issue>6</issue><issue-id pub-id-type="doi">10.1111/bjh.2018.182.issue-6</issue-id><fpage>816</fpage><lpage>829</lpage><history><date date-type="received"><day>27</day><month>3</month><year>2018</year></date><date date-type="accepted"><day>25</day><month>5</month><year>2018</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> Copyright &#x000a9; 2018 John Wiley & Sons Ltd <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2018 The Authors. <italic>British Journal of Haematology</italic> published by John Wiley &#x00026; Sons Ltd and British Society for Haematology</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:BJH-182-816.pdf"/><abstract id="bjh15459-abs-0001"><title>Summary</title><p>In the Medical Research Council (<styled-content style="fixed-case">MRC</styled-content>) Myeloma <styled-content style="fixed-case">IX</styled-content> trial (<styled-content style="fixed-case">ISRCTN</styled-content>684564111) patients were randomised to sodium clodronate or zoledronic acid and induction treatment: cyclophosphamide, vincristine, doxorubicin and dexamethasone (<styled-content style="fixed-case">CVAD</styled-content>) or cyclophosphamide, thalidomide and dexamethasone (<styled-content style="fixed-case">CTD</styled-content>) followed by autologous stem cell transplant (<styled-content style="fixed-case">ASCT</styled-content>) in the intensive pathway; attenuated <styled-content style="fixed-case">CTD</styled-content> or melphalan and prednisolone (<styled-content style="fixed-case">MP</styled-content>) in the non&#x02010;intensive pathway. Subsequent randomisation allocated patients to either thalidomide or observation. The European Organisation for Research and Treatment of Cancer (<styled-content style="fixed-case">EORTC</styled-content>) quality of life (QoL) questionnaires, <styled-content style="fixed-case">QLQ</styled-content>&#x02010;C30 and <styled-content style="fixed-case">QLQ</styled-content>&#x02010;<styled-content style="fixed-case">MY</styled-content>24, were administered at baseline, 3, 6 and 12&#x000a0;months and annually thereafter, enabling the effect of sequential treatment on patient&#x02010;reported health&#x02010;related QoL (<styled-content style="fixed-case">HR</styled-content>&#x02010;QoL) to be investigated. The protocol specified four subscales of interest: Pain, Fatigue, Global Health Status/Quality of Life and Physical Functioning at 3, 6 and 12&#x000a0;months that were compared using linear models. The intensive pathway showed significant differences in favour of <styled-content style="fixed-case">CTD</styled-content> for Fatigue at 3&#x000a0;months and Physical Functioning at 12&#x000a0;months. The non&#x02010;intensive pathway and maintenance phase reported significant differences at 3&#x000a0;months; Pain (improved with attenuated <styled-content style="fixed-case">CTD</styled-content>) and Global Health status/Quality of Life (improved with observation). The improved outcomes in <styled-content style="fixed-case">MRC</styled-content> Myeloma <styled-content style="fixed-case">IX</styled-content> were accompanied by some beneficial and few detrimental effects on <styled-content style="fixed-case">HR</styled-content>&#x02010;QoL.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="bjh15459-kwd-0001">multiple myeloma</kwd><kwd id="bjh15459-kwd-0002">quality of life</kwd><kwd id="bjh15459-kwd-0003"><styled-content style="fixed-case">EORTC QLQ</styled-content>&#x02010;C30</kwd><kwd id="bjh15459-kwd-0004"><styled-content style="fixed-case">EORTC MY</styled-content>&#x02010;24</kwd><kwd id="bjh15459-kwd-0005">immunomodulatory agent</kwd></kwd-group><funding-group><award-group><funding-source>Ortho Biotech</funding-source></award-group><award-group><funding-source>Celgene</funding-source></award-group><award-group><funding-source>Pharmion</funding-source></award-group><award-group><funding-source>Chugai Pharmaceutical</funding-source></award-group><award-group><funding-source>Medical Research Council</funding-source><award-id>G0100132</award-id></award-group><award-group><funding-source>Novartis</funding-source></award-group><award-group><funding-source>Schering&#x02010;Plough</funding-source></award-group></funding-group><counts><fig-count count="3"/><table-count count="1"/><page-count count="14"/><word-count count="6753"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>bjh15459</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>September 2018</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:version=5.5.0 mode:remove_FC converted:08.10.2018</meta-value></custom-meta></custom-meta-group></article-meta><notes><fn-group id="bjh15459-ntgp-2121"><fn id="bjh15459-note-1231"><p>[Correction added on 26 July 2018, after first online publication: The abbreviation for MP in Table 1 and Figures 1&#x02013;3 have been corrected to &#x0201c;MP, melphalan and prednisolone&#x0201d;].</p></fn></fn-group></notes></front><body><p>The widespread adoption of intensive therapy and the subsequent introduction of novel agents in the treatment of multiple myeloma (MM) inevitably raises questions as to effects on health&#x02010;related quality of life (HR&#x02010;QoL). However, there is still relatively little published quality of life (QoL) data in systematically treated and assessed patients, notably in the first&#x02010;line treatment setting.</p><p>The Medical Research Council (MRC) series of randomised controlled trials of treatment in previously untreated patients with MM up to MRC Myeloma IX provided only limited data on performance status. Myeloma IX included intensive and non&#x02010;intensive pathways and enrolled patients of all ages. Patient&#x02010;reported HR&#x02010;QoL was a secondary endpoint in the trial protocol, with the aim of obtaining QoL data during the induction, consolidation and maintenance phases of treatment to assess the impact of the different regimens and components of treatment. Here, we present the results of the longitudinal analyses.</p><sec id="bjh15459-sec-0002"><title>Methods</title><sec id="bjh15459-sec-0003"><title>MRC myeloma IX</title><p>Myeloma IX recruited patients with newly&#x02010;diagnosed MM aged &#x02265;18&#x000a0;years from 120 centres in the United Kingdom between 2003 and 2007 and was registered with the appropriate organisation (ISRCTN68454111). All 120 centres reviewed the protocol and all recruited participants gave written informed consent in accordance with the Declaration of Helsinki, with an opt&#x02010;in component for the QoL sub&#x02010;study. The study was an open&#x02010;label randomised, phase III trial with a factorial design in which there were two randomisations. The first included randomised allocation of patients to receive a bisphosphonate (sodium clodronate or zoledronic acid) and induction treatment, either intensive or non&#x02010;intensive, determined by the treating clinicians&#x02019; assessments in combination with patient performance status and preferences following informed discussion. In the intensive pathway, patients were randomised to receive cyclophosphamide, vincristine, doxorubicin and dexamethasone (CVAD) or oral cyclophosphamide, thalidomide and dexamethasone (CTD) followed by high dose melphalan plus autologous stem cell transplant (ASCT). In the non&#x02010;intensive pathway, the randomisation was to attenuated CTD (CTDa) or melphalan and prednisolone (MP). A further randomisation allocated patients to either thalidomide maintenance therapy or observation only. Details of the trial, including the randomisation methods and sample size calculation, have been published elsewhere together with results of primary and secondary endpoints related to treatment effectiveness and safety (Morgan <italic>et&#x000a0;al</italic>, <xref rid="bjh15459-bib-0012" ref-type="ref">2010</xref>, <xref rid="bjh15459-bib-0014" ref-type="ref">2012a</xref>,<xref rid="bjh15459-bib-0015" ref-type="ref">b</xref>,<xref rid="bjh15459-bib-0016" ref-type="ref">c</xref>, <xref rid="bjh15459-bib-0017" ref-type="ref">2013</xref>).</p></sec><sec id="bjh15459-sec-0004"><title>Patient&#x02010;reported outcome data collection</title><p>To collect patient&#x02010;reported QoL information, two patient&#x02010;completed European Organisation for Research and Treatment of Cancer (EORTC) questionnaires were used: the EORTC QLQ&#x02010;C30 and QLQ&#x02010;MY24. The QLQ&#x02010;C30 is a fully validated tool used for assessing the QoL of cancer patients (Aaronson <italic>et&#x000a0;al</italic>, <xref rid="bjh15459-bib-0002" ref-type="ref">1993</xref>). When scored, the 30 questions produce 15 subscales relating to HR&#x02010;QoL. The QLQ&#x02010;MY24 is a specific questionnaire module for patients with MM (Stead <italic>et&#x000a0;al</italic>, <xref rid="bjh15459-bib-0022" ref-type="ref">1999</xref>). The QLQ&#x02010;MY24 was validated throughout the original study period and consists of 24 questions, which when scored results in 5 subscales. As a result of the validation process the QLQ&#x02010;MY24 has been refined to the QLQ&#x02010;MY20 (removing the Social Support subscale) (Cocks <italic>et&#x000a0;al</italic>, <xref rid="bjh15459-bib-0005" ref-type="ref">2007</xref>). However, as it was administered, the original QLQ&#x02010;MY24 is used here.</p><p>The over&#x02010;arching QoL population was defined as any patient in the intention to treat (ITT) population, who returned a questionnaire at any time point. The protocol stated that consenting patients should complete questionnaires at baseline, 3, 6, 12&#x000a0;months and then annually up to 5&#x000a0;years post&#x02010;randomisation, unless the patient participated in the maintenance randomisation when they should complete a pre&#x02010;maintenance randomisation questionnaire and then at the same intervals as above. For the primary analysis three separate QoL populations were considered; intensive, non&#x02010;intensive and maintenance. The intensive population was defined as any individual who returned a questionnaire during their induction treatment (pre&#x02010;second randomisation) and was randomised to receive CTD or CVAD. Similarly, the non&#x02010;intensive population was defined as any individual who returned a questionnaire during their induction treatment (pre&#x02010;second randomisation) and was randomised to receive CTDa or MP. Finally, the maintenance population was defined as any individual who was randomised to receive maintenance therapy (thalidomide or observation only) and returned a questionnaire during their treatment. In all three populations, questionnaire compliance was calculated as the proportion of those in the population who returned a questionnaire out of those expected to return a questionnaire (alive on study treatment and not withdrawn). An alternative population to the non&#x02010;intensive and intensive populations was defined for some of the exploratory analysis. This considered the two populations together as a first randomisation population; specifically, any individual who returned a questionnaire during their induction treatment (pre&#x02010;second randomisation) was included in this population.</p></sec><sec id="bjh15459-sec-0005"><title>Data imputation and subscale scoring</title><p>Missing questionnaire data and relevant baseline factors were imputed using multiple imputation by chained equations (MICE) (White <italic>et&#x000a0;al</italic>, <xref rid="bjh15459-bib-0024" ref-type="ref">2011</xref>). The imputation was conducted separately for the three analysis populations described above. In addition, the imputation was conducted by randomised induction treatment in the intensive and non&#x02010;intensive pathways and randomised treatment in the maintenance phase, therefore only individuals with the same randomisation allocation contributed to an individual's imputed value.</p><p>The total number of imputed datasets was determined as the maximum percentage of &#x02018;missingness&#x02019; in a compulsory question at any time point, or baseline measurement [stratification factors, age, sex and International Staging System (ISS)] across the three populations. For each population, imputation was conducted in temporal order, therefore the baseline measurements were imputed first, followed by baseline questionnaire values, then the 3&#x000a0;months questionnaire values and so on. Within each time point, the variables were imputed in order of least to most missing. Note that only questionnaires from the treatment period being considered were used within each imputation phase: for example, only induction questionnaires from non&#x02010;intensive pathway patients were used to impute data for the non&#x02010;intensive pathway.</p><p>The imputed datasets were scored according to the questionnaire manuals and analysis performed in each imputed dataset. The parameter estimates (coefficient and standard errors) were combined according to Rubin (<xref rid="bjh15459-bib-0020" ref-type="ref">1987</xref>) and appropriate Wald tests obtained (White <italic>et&#x000a0;al</italic>, <xref rid="bjh15459-bib-0024" ref-type="ref">2011</xref>). All analyses was undertaken using SAS version 9.4 (SAS Institute, Cary, NC, USA) and data collected up to 8 May 2014.</p></sec><sec id="bjh15459-sec-0006"><title>Primary analysis</title><p>Analyses of patient&#x02010;reported QoL were pre&#x02010;specified in a separate statistical analysis plan. For the primary analysis the dependent variables were defined as the four subscales of interest (Pain, Fatigue, Global Health Status/Quality of Life and Physical Functioning) at three time points (3, 6 and 12&#x000a0;months) for each analysis population (intensive, non&#x02010;intensive and maintenance).</p><p>Multiple linear regression was used to regress the subscale of interest at each time point on the variable of interest. For the first randomisation, this was the allocated induction treatment (intensive: CTD <italic>versus</italic> CVAD, non&#x02010;intensive: CTDa <italic>versus</italic> MP) adjusting for the baseline value of the subscale, the bisphosphonate allocation (sodium clodronate or zoledronic acid), ISS (I&#x02010;III), age, sex, haemoglobin at baseline (&#x0003c;115, &#x02265;115&#x000a0;g/l for males; &#x0003c;95, &#x02265;95&#x000a0;g/l for females), corrected serum calcium at baseline (&#x0003c;2&#x000b7;6, &#x02265;2&#x000b7;6&#x000a0;mmol/l), serum creatinine at baseline (&#x0003c;140, &#x02265;140&#x000a0;&#x003bc;mol/l) and platelet count at baseline (&#x0003c;150, &#x02265;150&#x000a0;&#x000d7;&#x000a0;10<sup>9</sup>/l). Similarly, for the maintenance randomisation, the variable of interest was the randomised treatment allocation (thalidomide <italic>versus</italic> observation only) adjusting for the baseline value of the subscale, the treatment group allocated by the first randomisation, ISS (I&#x02013;III), age and sex. The assumptions of the linear regression models were investigated for each comparison. All statistical tests were two&#x02010;sided and assessed at the 5% level of significance. As a guide for interpretation, an arbitrary difference of &#x02265;10 points in a subscale was pre&#x02010;defined as the minimal important difference (MID) required to suggest clinical relevance (Osoba <italic>et&#x000a0;al</italic>, <xref rid="bjh15459-bib-0019" ref-type="ref">1998</xref>).</p></sec><sec id="bjh15459-sec-0007"><title>Sensitivity and exploratory analysis</title><p>Sensitivity analysis assessed the impact of imputation by estimating models on complete case information. Exploratory analysis consisted of graphical displays, which summarized all questionnaire subscales with respect to the induction treatments and bisphosphonate using complete case information.</p></sec></sec><sec id="bjh15459-sec-0008"><title>Results</title><sec id="bjh15459-sec-0009"><title>Patient progress and baseline characteristics</title><p>Overall 1970 patients were recruited to Myeloma IX; 1822 (92&#x000b7;49%) of these were included in the QoL sub&#x02010;study. The progress of patients through the sub&#x02010;study is shown for the 1819 participants at first randomisation (<italic>N</italic>&#x000a0;=&#x000a0;1061 intensive pathway, <italic>N</italic>&#x000a0;=&#x000a0;758 non&#x02010;intensive pathway) and for the 751 patients at maintenance randomisation in the CONSORT diagrams (Fig&#x000a0;<xref rid="bjh15459-fig-0001" ref-type="fig">1</xref>). In each population intensive and non&#x02010;intensive pathways [Table&#x000a0;<xref rid="bjh15459-tbl-0001" ref-type="table">1</xref> (key demographics and subscales of special interest), Table&#x000a0;SI (haematological characteristics and remaining subscales)] and maintenance phase (Table&#x000a0;SII) the distributions of age, gender, ISS and baseline QoL were similar by allocated treatment. The average ages of patients in the intensive pathway, non&#x02010;intensive pathway and maintenance phase were 58, 73 and 63&#x000a0;years respectively, the latter figure reflecting the inclusion of patients from the two pathways.</p><fig fig-type="Figure" xml:lang="en" id="bjh15459-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>
+<styled-content style="fixed-case">CONSORT</styled-content> diagrams. For the intensive pathway (A), non&#x02010;intensive pathway (B) and the maintenance phase (C). <styled-content style="fixed-case">CTD</styled-content>, cyclophosphamide, thalidomide and dexamethasone; <styled-content style="fixed-case">CTD</styled-content>a, attenuated cyclophosphamide, thalidomide and dexamethasone; <styled-content style="fixed-case">CVAD</styled-content>, cyclophosphamide, vincristine, doxorubicin and dexamethasone; <styled-content style="fixed-case">ITT</styled-content>, intention to treat; MP, melphalan and prednisolone; QoL, quality of life.</p></caption><graphic id="nlm-graphic-1" xlink:href="BJH-182-816-g001"/></fig><table-wrap id="bjh15459-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Select baseline demographics of the QoL population for patients in the intensive and non&#x02010;intensive pathway. The full haematological characteristics and remaining subscales can be found within Table&#x000a0;SI</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1"/><th align="center" colspan="3" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">Intensive pathway</th><th align="center" colspan="3" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">Non&#x02010;intensive pathway</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1"/><th align="center" valign="top" rowspan="1" colspan="1">CVAD (<italic>n</italic>&#x000a0;=&#x000a0;520)</th><th align="center" valign="top" rowspan="1" colspan="1">CTD (<italic>n</italic>&#x000a0;=&#x000a0;541)</th><th align="center" valign="top" rowspan="1" colspan="1">Total (<italic>n</italic>&#x000a0;=&#x000a0;1061)</th><th align="center" valign="top" rowspan="1" colspan="1">MP (<italic>n</italic>&#x000a0;=&#x000a0;373)</th><th align="center" valign="top" rowspan="1" colspan="1">CTDa (<italic>n</italic>&#x000a0;=&#x000a0;385)</th><th align="center" valign="top" rowspan="1" colspan="1">Total (<italic>n</italic>&#x000a0;=&#x000a0;758)</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Age (years) at first randomisation, mean (SD)</td><td align="char" char=" " rowspan="1" colspan="1">57&#x000b7;7 (7&#x000b7;39)</td><td align="char" char=" " rowspan="1" colspan="1">57&#x000b7;9 (7&#x000b7;47)</td><td align="char" char=" " rowspan="1" colspan="1">57&#x000b7;8 (7&#x000b7;43)</td><td align="char" char=" " rowspan="1" colspan="1">73&#x000b7;3 (5&#x000b7;74)</td><td align="char" char=" " rowspan="1" colspan="1">73&#x000b7;1 (5&#x000b7;00)</td><td align="char" char=" " rowspan="1" colspan="1">73&#x000b7;2 (5&#x000b7;37)</td></tr><tr><td align="left" colspan="7" rowspan="1">Sex, <italic>n</italic> (%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Male</td><td align="char" char=" " rowspan="1" colspan="1">324 (62&#x000b7;3%)</td><td align="char" char=" " rowspan="1" colspan="1">336 (62&#x000b7;1%)</td><td align="char" char=" " rowspan="1" colspan="1">660 (62&#x000b7;2%)</td><td align="char" char=" " rowspan="1" colspan="1">204 (54&#x000b7;7%)</td><td align="char" char=" " rowspan="1" colspan="1">217 (56&#x000b7;4%)</td><td align="char" char=" " rowspan="1" colspan="1">421 (55&#x000b7;5%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Female</td><td align="char" char=" " rowspan="1" colspan="1">196 (37&#x000b7;7%)</td><td align="char" char=" " rowspan="1" colspan="1">205 (37&#x000b7;9%)</td><td align="char" char=" " rowspan="1" colspan="1">401 (37&#x000b7;8%)</td><td align="char" char=" " rowspan="1" colspan="1">169 (45&#x000b7;3%)</td><td align="char" char=" " rowspan="1" colspan="1">168 (43&#x000b7;6%)</td><td align="char" char=" " rowspan="1" colspan="1">337 (44&#x000b7;5%)</td></tr><tr><td align="left" colspan="7" rowspan="1">Race, <italic>n</italic> (%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Caucasian</td><td align="char" char=" " rowspan="1" colspan="1">510 (98&#x000b7;1%)</td><td align="char" char=" " rowspan="1" colspan="1">514 (95&#x000b7;0%)</td><td align="char" char=" " rowspan="1" colspan="1">1024 (96&#x000b7;5%)</td><td align="char" char=" " rowspan="1" colspan="1">365 (97&#x000b7;9%)</td><td align="char" char=" " rowspan="1" colspan="1">373 (96&#x000b7;9%)</td><td align="char" char=" " rowspan="1" colspan="1">738 (97&#x000b7;4%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Black African</td><td align="char" char=" " rowspan="1" colspan="1">2 (0&#x000b7;4%)</td><td align="char" char=" " rowspan="1" colspan="1">7 (1&#x000b7;3%)</td><td align="char" char=" " rowspan="1" colspan="1">9 (0&#x000b7;8%)</td><td align="char" char=" " rowspan="1" colspan="1">1 (0&#x000b7;3%)</td><td align="char" char=" " rowspan="1" colspan="1">2 (0&#x000b7;5%)</td><td align="char" char=" " rowspan="1" colspan="1">3 (0&#x000b7;4%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Black Caribbean</td><td align="char" char=" " rowspan="1" colspan="1">2 (0&#x000b7;4%)</td><td align="char" char=" " rowspan="1" colspan="1">3 (0&#x000b7;6%)</td><td align="char" char=" " rowspan="1" colspan="1">5 (0&#x000b7;5%)</td><td align="char" char=" " rowspan="1" colspan="1">4 (1&#x000b7;1%)</td><td align="char" char=" " rowspan="1" colspan="1">3 (0&#x000b7;8%)</td><td align="char" char=" " rowspan="1" colspan="1">7 (0&#x000b7;9%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Asian</td><td align="char" char=" " rowspan="1" colspan="1">4 (0&#x000b7;8%)</td><td align="char" char=" " rowspan="1" colspan="1">9 (1&#x000b7;7%)</td><td align="char" char=" " rowspan="1" colspan="1">13 (1&#x000b7;2%)</td><td align="char" char=" " rowspan="1" colspan="1">1 (0&#x000b7;3%)</td><td align="char" char=" " rowspan="1" colspan="1">1 (0&#x000b7;3%)</td><td align="char" char=" " rowspan="1" colspan="1">2 (0&#x000b7;3%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Other</td><td align="char" char=" " rowspan="1" colspan="1">1 (0&#x000b7;2%)</td><td align="char" char=" " rowspan="1" colspan="1">7 (1&#x000b7;3%)</td><td align="char" char=" " rowspan="1" colspan="1">8 (0&#x000b7;8%)</td><td align="char" char=" " rowspan="1" colspan="1">1 (0&#x000b7;3%)</td><td align="char" char=" " rowspan="1" colspan="1">3 (0&#x000b7;8%)</td><td align="char" char=" " rowspan="1" colspan="1">4 (0&#x000b7;5%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Missing data</td><td align="char" char=" " rowspan="1" colspan="1">1 (0&#x000b7;2%)</td><td align="char" char=" " rowspan="1" colspan="1">1 (0&#x000b7;2%)</td><td align="char" char=" " rowspan="1" colspan="1">2 (0&#x000b7;2%)</td><td align="char" char=" " rowspan="1" colspan="1">1 (0&#x000b7;3%)</td><td align="char" char=" " rowspan="1" colspan="1">3 (0&#x000b7;8%)</td><td align="char" char=" " rowspan="1" colspan="1">4 (0&#x000b7;5%)</td></tr><tr><td align="left" colspan="7" rowspan="1">ISS, <italic>n</italic> (%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">I</td><td align="char" char=" " rowspan="1" colspan="1">122 (23&#x000b7;5%)</td><td align="char" char=" " rowspan="1" colspan="1">150 (27&#x000b7;7%)</td><td align="char" char=" " rowspan="1" colspan="1">272 (25&#x000b7;6%)</td><td align="char" char=" " rowspan="1" colspan="1">63 (16&#x000b7;9%)</td><td align="char" char=" " rowspan="1" colspan="1">43 (11&#x000b7;2%)</td><td align="char" char=" " rowspan="1" colspan="1">106 (14&#x000b7;0%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">II</td><td align="char" char=" " rowspan="1" colspan="1">177 (34&#x000b7;0%)</td><td align="char" char=" " rowspan="1" colspan="1">185 (34&#x000b7;2%)</td><td align="char" char=" " rowspan="1" colspan="1">362 (34&#x000b7;1%)</td><td align="char" char=" " rowspan="1" colspan="1">139 (37&#x000b7;3%)</td><td align="char" char=" " rowspan="1" colspan="1">146 (37&#x000b7;9%)</td><td align="char" char=" " rowspan="1" colspan="1">285 (37&#x000b7;6%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">III</td><td align="char" char=" " rowspan="1" colspan="1">166 (31&#x000b7;9%)</td><td align="char" char=" " rowspan="1" colspan="1">157 (29&#x000b7;0%)</td><td align="char" char=" " rowspan="1" colspan="1">323 (30&#x000b7;4%)</td><td align="char" char=" " rowspan="1" colspan="1">141 (37&#x000b7;8%)</td><td align="char" char=" " rowspan="1" colspan="1">145 (37&#x000b7;7%)</td><td align="char" char=" " rowspan="1" colspan="1">286 (37&#x000b7;7%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Missing data</td><td align="char" char=" " rowspan="1" colspan="1">55 (10&#x000b7;6%)</td><td align="char" char=" " rowspan="1" colspan="1">49 (9&#x000b7;1%)</td><td align="char" char=" " rowspan="1" colspan="1">104 (9&#x000b7;8%)</td><td align="char" char=" " rowspan="1" colspan="1">30 (8&#x000b7;0%)</td><td align="char" char=" " rowspan="1" colspan="1">51 (13&#x000b7;2%)</td><td align="char" char=" " rowspan="1" colspan="1">81 (10&#x000b7;7%)</td></tr><tr><td align="left" colspan="7" rowspan="1">Pain</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Mean (SD)</td><td align="char" char=" " rowspan="1" colspan="1">53&#x000b7;3 (34&#x000b7;41)</td><td align="char" char=" " rowspan="1" colspan="1">53&#x000b7;6 (35&#x000b7;60)</td><td align="char" char=" " rowspan="1" colspan="1">53&#x000b7;4 (35&#x000b7;01)</td><td align="char" char=" " rowspan="1" colspan="1">52&#x000b7;3 (34&#x000b7;46)</td><td align="char" char=" " rowspan="1" colspan="1">50&#x000b7;0 (35&#x000b7;76)</td><td align="char" char=" " rowspan="1" colspan="1">51&#x000b7;2 (35&#x000b7;10)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Missing</td><td align="char" char="." rowspan="1" colspan="1">118</td><td align="char" char="." rowspan="1" colspan="1">112</td><td align="char" char="." rowspan="1" colspan="1">230</td><td align="char" char="." rowspan="1" colspan="1">74</td><td align="char" char="." rowspan="1" colspan="1">89</td><td align="char" char="." rowspan="1" colspan="1">163</td></tr><tr><td align="left" colspan="7" rowspan="1">Fatigue</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Mean (SD)</td><td align="char" char=" " rowspan="1" colspan="1">50&#x000b7;2 (29&#x000b7;36)</td><td align="char" char=" " rowspan="1" colspan="1">50&#x000b7;2 (29&#x000b7;36)</td><td align="char" char=" " rowspan="1" colspan="1">50&#x000b7;2 (29&#x000b7;36)</td><td align="char" char=" " rowspan="1" colspan="1">50&#x000b7;1 (27&#x000b7;91)</td><td align="char" char=" " rowspan="1" colspan="1">50&#x000b7;0 (29&#x000b7;88)</td><td align="char" char=" " rowspan="1" colspan="1">50&#x000b7;1 (28&#x000b7;89)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Missing</td><td align="char" char="." rowspan="1" colspan="1">118</td><td align="char" char="." rowspan="1" colspan="1">112</td><td align="char" char="." rowspan="1" colspan="1">230</td><td align="char" char="." rowspan="1" colspan="1">78</td><td align="char" char="." rowspan="1" colspan="1">88</td><td align="char" char="." rowspan="1" colspan="1">166</td></tr><tr><td align="left" colspan="7" rowspan="1">Physical Functioning</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Mean (SD)</td><td align="char" char=" " rowspan="1" colspan="1">61&#x000b7;5 (30&#x000b7;07)</td><td align="char" char=" " rowspan="1" colspan="1">59&#x000b7;6 (31&#x000b7;04)</td><td align="char" char=" " rowspan="1" colspan="1">60&#x000b7;5 (30&#x000b7;57)</td><td align="char" char=" " rowspan="1" colspan="1">56&#x000b7;5 (27&#x000b7;72)</td><td align="char" char=" " rowspan="1" colspan="1">58&#x000b7;1 (29&#x000b7;34)</td><td align="char" char=" " rowspan="1" colspan="1">57&#x000b7;3 (28&#x000b7;53)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Missing</td><td align="char" char="." rowspan="1" colspan="1">117</td><td align="char" char="." rowspan="1" colspan="1">112</td><td align="char" char="." rowspan="1" colspan="1">229</td><td align="char" char="." rowspan="1" colspan="1">76</td><td align="char" char="." rowspan="1" colspan="1">89</td><td align="char" char="." rowspan="1" colspan="1">165</td></tr><tr><td align="left" colspan="7" rowspan="1">Global Health Status /Quality of Life</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Mean (SD)</td><td align="char" char=" " rowspan="1" colspan="1">51&#x000b7;2 (27&#x000b7;58)</td><td align="char" char=" " rowspan="1" colspan="1">48&#x000b7;6 (27&#x000b7;48)</td><td align="char" char=" " rowspan="1" colspan="1">49&#x000b7;9 (27&#x000b7;54)</td><td align="char" char=" " rowspan="1" colspan="1">49&#x000b7;7 (24&#x000b7;49)</td><td align="char" char=" " rowspan="1" colspan="1">51&#x000b7;6 (27&#x000b7;10)</td><td align="char" char=" " rowspan="1" colspan="1">50&#x000b7;6 (25&#x000b7;82)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Missing</td><td align="char" char="." rowspan="1" colspan="1">118</td><td align="char" char="." rowspan="1" colspan="1">117</td><td align="char" char="." rowspan="1" colspan="1">235</td><td align="char" char="." rowspan="1" colspan="1">79</td><td align="char" char="." rowspan="1" colspan="1">94</td><td align="char" char="." rowspan="1" colspan="1">173</td></tr></tbody></table><table-wrap-foot><fn id="bjh15459-note-0001"><p>CTD, cyclophosphamide, thalidomide and dexamethasone; CTDa, attenuated cyclophosphamide, thalidomide and dexamethasone; CVAD, cyclophosphamide, vincristine, doxorubicin and dexamethasone; MP, melphalan and prednisolone; SD, standard deviation; ISS, international staging system.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec id="bjh15459-sec-0010"><title>Questionnaire return</title><p>The CONSORT diagrams show the questionnaire return rate by allocated treatment group (Fig&#x000a0;<xref rid="bjh15459-fig-0001" ref-type="fig">1</xref>). The return rate and completeness of the questionnaires were generally good with a lower return rate at baseline (20% missing baseline questionnaires in both the intensive and non&#x02010;intensive pathways and 44% missing in the maintenance phase). In the intensive pathway, the CVAD group had a fairly constant rate of &#x02018;missingness&#x02019;, which contrasted with the CTD group where a large discrepancy was observed at 4&#x000a0;years (CVAD: 16% missing, CTD: 24% missing). In the non&#x02010;intensive pathway, a similar proportion of questionnaires were returned in both groups at each time point with the exception of 12&#x000a0;months post&#x02010;randomisation (MP: 13% missing, CTDa: 24% missing). In the maintenance phase, the return rate improved after the low return rate at baseline, with only approximately 10% of questionnaires missing up to 3&#x000a0;years post&#x02010;randomisation. The highest percentage of total &#x02018;missingness&#x02019; not relating to a conditional question was 63%, 71% and 48% for the intensive and non&#x02010;intensive pathways and maintenance phase, respectively. Thus 71 imputed datasets were created for each analysis population.</p></sec><sec id="bjh15459-sec-0011"><title>Principal findings in the treatment pathways</title><p>In the intensive pathway there were no significant differences at any time point between treatment with CVAD and CTD with respect to Pain and Global Health Status/Quality of Life (Fig&#x000a0;<xref rid="bjh15459-fig-0002" ref-type="fig">2</xref>A). However, there were small significant differences in favour of CTD for Fatigue at 3&#x000a0;months with a persistent trend for benefit at 6 and 12&#x000a0;months (Fatigue lower with CTD, 3&#x000a0;months: &#x02212;4&#x000b7;02 [95% confidence interval (CI) &#x02212;7&#x000b7;43, &#x02212;0&#x000b7;61], <italic>P</italic>&#x000a0;=&#x000a0;0&#x000b7;02; 6&#x000a0;months: &#x02212;2&#x000b7;06 [95% CI &#x02212;6&#x000b7;72, 4&#x000b7;48], <italic>P</italic>&#x000a0;=&#x000a0;0&#x000b7;39; 12&#x000a0;months: &#x02212;3&#x000b7;63 [95% CI &#x02212;8&#x000b7;51, 1&#x000b7;26], <italic>P</italic>&#x000a0;=&#x000a0;0&#x000b7;15, Fig&#x000a0;<xref rid="bjh15459-fig-0002" ref-type="fig">2</xref>A) and Physical Functioning at 12&#x000a0;months after small non&#x02010;significant benefits at 3 and 6&#x000a0;months (Physical Functioning higher with CTD, 3&#x000a0;months: 0&#x000b7;83 [95% CI &#x02212;2&#x000b7;37, 4&#x000b7;04], <italic>P</italic>&#x000a0;=&#x000a0;0&#x000b7;61; 6&#x000a0;months: 0&#x000b7;82 [95% CI &#x02212;2&#x000b7;47, 4&#x000b7;10], <italic>P</italic>&#x000a0;=&#x000a0;0&#x000b7;63; 12&#x000a0;months: 4&#x000b7;49 [95% CI 0&#x000b7;22, 8&#x000b7;76], <italic>P</italic>&#x000a0;=&#x000a0;0&#x000b7;04, Fig&#x000a0;<xref rid="bjh15459-fig-0002" ref-type="fig">2</xref>A).</p><fig fig-type="Figure" xml:lang="en" id="bjh15459-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Forest plots of the primary analysis results. For the intensive pathway (A) and non&#x02010;intensive pathway (B) the models were adjusted for the baseline value of the subscale, the bisphosphonate allocation, International Staging System (<styled-content style="fixed-case">ISS</styled-content>), age, sex and the stratification factors of the first randomisation. For the maintenance phase (C), the models were adjusted for the baseline value of the subscale, the treatment group allocated by the first randomisation, <styled-content style="fixed-case">ISS</styled-content>, age and sex. Note that Pain and Fatigue are worse with higher scores whereas Global Health Status/Quality of Life and Physical Functioning are better with higher scores. The black squares and horizontal lines represent the treatment estimate and the associated 95% confidence interval, respectively. <styled-content style="fixed-case">CTD</styled-content>, cyclophosphamide, thalidomide and dexamethasone; <styled-content style="fixed-case">CTD</styled-content>a, attenuated cyclophosphamide, thalidomide and dexamethasone; <styled-content style="fixed-case">CVAD</styled-content>, cyclophosphamide, vincristine, doxorubicin and dexamethasone; <styled-content style="fixed-case">GHS</styled-content>/QoL, Global Health Status/Quality of Life; MP, melphalan and prednisolone.</p></caption><graphic id="nlm-graphic-3" xlink:href="BJH-182-816-g002"/></fig><p>In the non&#x02010;intensive pathway there was a small but highly significant difference in favour of CTDa for Pain at 3&#x000a0;months with a persistent trend for benefit at 6 and 12&#x000a0;months (Pain lower for CTDa, 3&#x000a0;months: &#x02212;8&#x000b7;88 [95% CI &#x02212;13&#x000b7;58, &#x02212;4&#x000b7;18], <italic>P</italic>&#x000a0;=&#x000a0;0&#x000b7;0002; 6&#x000a0;months: &#x02212;4&#x000b7;82 [95% CI &#x02212;9&#x000b7;91, 0&#x000b7;26], <italic>P</italic>&#x000a0;=&#x000a0;0&#x000b7;06; 12&#x000a0;months: &#x02212;4&#x000b7;57 [95% CI &#x02212;11&#x000b7;96, 2&#x000b7;81], <italic>P</italic>&#x000a0;=&#x000a0;0&#x000b7;22, Fig&#x000a0;<xref rid="bjh15459-fig-0002" ref-type="fig">2</xref>B). This difference was smaller than our pre&#x02010;specified MID. There were no significant differences for Fatigue, Global Health Status/Quality of Life or Physical Functioning (Fig&#x000a0;<xref rid="bjh15459-fig-0002" ref-type="fig">2</xref>B).</p><p>In the maintenance phase there was a small significant difference in favour of observation only for Global Health Status/Quality of Life at 3&#x000a0;months with a persistent trend for detriment at 6&#x000a0;months and 12&#x000a0;months (Global Health Status/Quality of Life lower with thalidomide maintenance, 3&#x000a0;months: &#x02212;3&#x000b7;39 [95% CI &#x02212;6&#x000b7;33, &#x02212;0&#x000b7;45], <italic>P</italic>&#x000a0;=&#x000a0;0&#x000b7;02; 6&#x000a0;months: &#x02212;1&#x000b7;28 [95% CI &#x02212;4&#x000b7;86, 2&#x000b7;30], <italic>P</italic>&#x000a0;=&#x000a0;0&#x000b7;48; 12&#x000a0;months: &#x02212;2&#x000b7;15 [95% CI &#x02212;5&#x000b7;98, 1&#x000b7;67], <italic>P</italic>&#x000a0;=&#x000a0;0&#x000b7;27, Fig&#x000a0;<xref rid="bjh15459-fig-0002" ref-type="fig">2</xref>C). There were no significant differences for Pain, Fatigue or Physical Functioning (Fig&#x000a0;<xref rid="bjh15459-fig-0002" ref-type="fig">2</xref>C).</p><p>There was no indication of strong violations of the modelling assumptions. Any observed violations were consistent within each imputed dataset as well as in the complete case analysis.</p></sec><sec id="bjh15459-sec-0012"><title>Long&#x02010;term QoL in subscales of special interest</title><p>In the longer&#x02010;term, at 2, 3, 4 and 5&#x000a0;years post&#x02010;randomisation, the pre&#x02010;specified subscales of Pain, Fatigue, Global Health Status/Quality of Life and Physical Functioning show few differences between the allocated treatments in the intensive pathway, non&#x02010;intensive pathway or maintenance phase. In the intensive pathway (Fig&#x000a0;<xref rid="bjh15459-fig-0003" ref-type="fig">3</xref>A) there is a relatively short&#x02010;term negative effect on both Fatigue and Physical Functioning that could be attributable to high&#x02010;dose therapy and ASCT. However, these negative effects do not persist beyond 1&#x000a0;year of follow&#x02010;up and do not translate to Global Health Status/Quality of Life, which has a general increasing trend, or to any of the other subscales. There are no clear temporal trends in the subscales of special interest for either the non&#x02010;intensive pathway or maintenance phase (Fig&#x000a0;<xref rid="bjh15459-fig-0003" ref-type="fig">3</xref>B and C respectively).</p><fig fig-type="Figure" xml:lang="en" id="bjh15459-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Descriptive plots for the exploratory analysis showing the subscales; Pain, Fatigue, Global Health Status/Quality of Life and Physical Functioning. For the intensive pathway (A), non&#x02010;intensive pathway (B) and maintenance phase (C). These graphs present the mean subscale scores and approximate 95% confidence intervals at each time point by the variable of interest for the four key subscales in complete case data. Note that Pain and Fatigue are worse with higher scores whereas Global Health Status/Quality of Life and Physical Functioning are better with higher scores. <styled-content style="fixed-case">CTD</styled-content>, cyclophosphamide, thalidomide and dexamethasone; <styled-content style="fixed-case">CTD</styled-content>a, attenuated cyclophosphamide, thalidomide and dexamethasone; <styled-content style="fixed-case">CVAD</styled-content>, cyclophosphamide, vincristine, doxorubicin and dexamethasone; MP, melphalan and prednisolone.</p></caption><graphic id="nlm-graphic-5" xlink:href="BJH-182-816-g003"/></fig></sec><sec id="bjh15459-sec-0013"><title>Short and long&#x02010;term QoL in other subscales</title><p>Other EORTC QLQ&#x02010;C30 and QLQ&#x02010;MY24 subscales show largely similar trends and trajectories by allocated treatment. In the intensive pathway CVAD patients had worse Diarrhoea, Insomnia and Side Effects compared to CTD patients at 3&#x000a0;months. It appeared that patients in the CTD group had worse Constipation than patients on CVAD at 3&#x000a0;months (Figure&#x000a0;<xref rid="bjh15459-sup-0001" ref-type="supplementary-material">S1</xref>A). In the non&#x02010;intensive pathway, patients on CTDa had worse Constipation than patients on MP at 3&#x000a0;months (Figure&#x000a0;<xref rid="bjh15459-sup-0001" ref-type="supplementary-material">S1</xref>B). In the maintenance phase, Constipation was worse in those on thalidomide maintenance therapy compared to observation only both at 3 and 6&#x000a0;months (Figure&#x000a0;<xref rid="bjh15459-sup-0001" ref-type="supplementary-material">S1</xref>C).</p></sec><sec id="bjh15459-sec-0014"><title>Short and long&#x02010;term QoL with respect to allocated bisphosphonate treatment</title><p>There was no clear evidence of a difference in any subscale with respect to allocated bisphosphonate treatment, as all of the confidence intervals overlapped at each time point within each subscale (Figure&#x000a0;<xref rid="bjh15459-sup-0001" ref-type="supplementary-material">S2</xref>).</p></sec></sec><sec id="bjh15459-sec-0015"><title>Discussion</title><p>The Myeloma IX study evaluated the use of an immunomodulatory agent (as both induction and maintenance treatment), zoledronic acid (a newer bisphosphonate agent that required parenteral treatment) and high dose therapy with ASCT (without entry criteria explicitly connected to patient age) and showed a number of positive clinical outcomes with improved overall response, progression&#x02010;free survival (PFS) and overall survival (OS). The analysis in this report has shown that these improvements have not come at the cost of clinically relevant decreases in patient&#x02010;reported HR&#x02010;QoL over the short&#x02010;term (during initial treatment) or in the long&#x02010;term (during maintenance treatment and subsequent follow&#x02010;up).</p><p>For the primary analysis, the only factor to demonstrate a clear and highly statistically significant difference between treatments was the Pain result at 3&#x000a0;months, in favour of CTDa (<italic>P</italic>&#x000a0;=&#x000a0;0&#x000b7;0002), this result being supported by a persistent trend in benefit at 6 and 12&#x000a0;months. Although there were statistically significant differences at the 5% level in Fatigue at 3&#x000a0;months and Physical Functioning at 12&#x000a0;months, in favour of CTD, and in Global Health Status/Quality of Life at 3&#x000a0;months in the maintenance phase in favour of observation only compared with thalidomide maintenance, these differences were all slight, and should be interpreted with caution given the number of tests performed.</p><p>It is interesting that pain was reduced with CTDa compared with MP, especially in the short term. It is apparent that the treatment that is more active against the myeloma is also the most effective at relieving pain, despite potentially having greater toxicity. Although the therapies used in Myeloma IX have been largely superseded by more active agents, this finding is still highly relevant to current studies, and is important to explain to the patient, given that, although they are receiving potentially more toxic drugs, the greater activity of these drugs will render them more effective, both in terms of treating the myeloma itself, but also potentially in terms of relieving pain. The same applies to the other HR&#x02010;QoL measures, namely fatigue and physical functioning, which appeared to be improved with CTD/CTDa.</p><p>In terms of clinical relevance, according to the pre&#x02010;defined MID, the primary analysis showed no &#x02018;clinically relevant&#x02019; differences. However, adopting alternative guidance on the interpretation of the individual elements of the EORTC QLQ&#x02010;C30 questionnaire suggests that all but Pain at 3&#x000a0;months, which favoured CTDa in the non&#x02010;intensive pathway, was unlikely to have much clinical relevance (Cocks <italic>et&#x000a0;al</italic>, <xref rid="bjh15459-bib-0006" ref-type="ref">2011</xref>). This same interpretation would have been the conclusion had we adopted alternative criteria where anything between a 6&#x02010; and 17&#x02010;point difference in any sub&#x02010;scale is regarded as clinically relevant (Kvam <italic>et&#x000a0;al</italic>, <xref rid="bjh15459-bib-0011" ref-type="ref">2010</xref>).</p><p>However, if these results are considered temporally and in the long&#x02010;term, most of the subscales are in favour of the experimental treatment. For example, Global Health Status/Quality of Life in the intensive pathway increases in favour of CTD as time passes, despite the difference not attaining statistical or clinical significance according to our pre&#x02010;determined MID. This raises the question, what is more important: a large change in an individual scale, or multiple small changes across key subscales that are maintained over time? Alternative definitions of a MID, whether it be &#x02265;5 points (Kvam <italic>et&#x000a0;al</italic>, <xref rid="bjh15459-bib-0011" ref-type="ref">2010</xref>; Verelst <italic>et&#x000a0;al</italic>, <xref rid="bjh15459-bib-0023" ref-type="ref">2011</xref>; Delforge <italic>et&#x000a0;al</italic>, <xref rid="bjh15459-bib-0007" ref-type="ref">2012</xref>), subscale specific (Cocks <italic>et&#x000a0;al</italic>, <xref rid="bjh15459-bib-0006" ref-type="ref">2011</xref>; Dimopoulos <italic>et&#x000a0;al</italic>, <xref rid="bjh15459-bib-0009" ref-type="ref">2014</xref>; Delforge <italic>et&#x000a0;al</italic>, <xref rid="bjh15459-bib-0008" ref-type="ref">2015</xref>), or &#x02265;10 points, as used in this work, makes comparison between studies very difficult and research less meaningful. A consensus on such measurements is clearly required.</p><p>In our study, absence of significant differences at each time point during follow up indicates that there is little perturbation of HR&#x02010;QoL in the intensive pathway, when comparing the influence of CTD and CVAD, in the non&#x02010;intensive pathway, when investigating the difference between CTDa and MP, or in the maintenance phase when examining the impact of thalidomide maintenance therapy compared to observation only. Also, so far as the two bisphosphonates are concerned, the informal comparisons suggest little difference in HR&#x02010;QoL between patients taking clodronate and those receiving zoledronic acid.</p><p>These results are reassuring and supportive of our conclusions concerning the improved responses and survival outcomes following treatment in Myeloma IX. In the intensive pathway, CTD improved the overall response rate compared to CVAD and CTD was shown to be non&#x02010;inferior to CVAD in terms of PFS and OS (Morgan <italic>et&#x000a0;al</italic>, <xref rid="bjh15459-bib-0014" ref-type="ref">2012a</xref>). In the non&#x02010;intensive pathway, CTDa improved response rate over MP and CTDa was shown to significantly improve PFS compared to MP (Morgan <italic>et&#x000a0;al</italic>, <xref rid="bjh15459-bib-0013" ref-type="ref">2011</xref>). In the maintenance phase, thalidomide was shown to improve PFS and was associated with improved OS compared to observation only although the median duration of maintenance therapy was only 9&#x000a0;months (Morgan <italic>et&#x000a0;al</italic>, <xref rid="bjh15459-bib-0016" ref-type="ref">2012c</xref>). Zoledronic acid reduced the risk of skeletal&#x02010;related events (Morgan <italic>et&#x000a0;al</italic>, <xref rid="bjh15459-bib-0015" ref-type="ref">2012b</xref>) and significantly improved OS compared to sodium clodronate (Morgan <italic>et&#x000a0;al</italic>, <xref rid="bjh15459-bib-0012" ref-type="ref">2010</xref>). These gains in response and outcome were accompanied by some improvements rather than impairment of QoL, as determined by current HR&#x02010;QoL measurement. However, the trial setting and the relatively short periods of maintenance thalidomide delivered, median treatment duration was 7&#x000a0;months (range, 0&#x02013;50&#x000a0;months) overall and 9 (range, 0&#x02013;50&#x000a0;months) and 6 (range, 0&#x02013;46&#x000a0;months) months in the intensive and non&#x02010;intensive pathways, respectively (Morgan <italic>et&#x000a0;al</italic>, <xref rid="bjh15459-bib-0016" ref-type="ref">2012c</xref>), preclude any firm conclusions about the longer term impact of cumulative neuropathic and other side effects on HR&#x02010;QoL.</p><p>These findings are broadly similar to the few published reports of comparable approaches to treatment. The VISTA trial (Delforge <italic>et&#x000a0;al</italic>, <xref rid="bjh15459-bib-0007" ref-type="ref">2012</xref>) reported that QoL was comparable between the two arms (bortezomib and MP (VMP) <italic>versus</italic> MP) after approximately 1&#x000a0;year in a population similar to the non&#x02010;intensive pathway. The finding that thalidomide maintenance therapy has little impact on QoL is consistent with an earlier study (Verelst <italic>et&#x000a0;al</italic>, <xref rid="bjh15459-bib-0023" ref-type="ref">2011</xref>) and the combination of lenalidomide and low&#x02010;dose dexamethasone (RD) <italic>versus</italic> MPT has been reported to improve OS without having a negative effect to QoL (Delforge <italic>et&#x000a0;al</italic>, <xref rid="bjh15459-bib-0008" ref-type="ref">2015</xref>).</p><p>A limitation on all HR&#x02010;QoL studies has been the high proportion of missing data. Although the returned questionnaires were largely complete, there was a substantial number of questionnaires missing at each time point, the baseline questionnaire having the worst return rate. To avoid the exclusion of a large proportion of patient data at later time points, MICE was implemented to impute any missing question answers or baseline measurements. MICE was chosen as it is a suitable stochastic method which is easy to implement (<ext-link ext-link-type="uri" xlink:href="https://stats.idre.ucla.edu/sas/seminars/multiple-imputation-in-sas/mi_new_1/">https://stats.idre.ucla.edu/sas/seminars/multiple-imputation-in-sas/mi_new_1/</ext-link>), and has been applied in a number of recent clinical trials (Ali <italic>et&#x000a0;al</italic>, <xref rid="bjh15459-bib-0003" ref-type="ref">2013</xref>; Coates <italic>et&#x000a0;al</italic>, <xref rid="bjh15459-bib-0004" ref-type="ref">2015</xref>; Neoptolemos <italic>et&#x000a0;al</italic>, <xref rid="bjh15459-bib-0018" ref-type="ref">2017</xref>). MICE assumes that the missing data are missing at random (MAR). i.e., the data is missing conditional on the information that is observed. MAR is an untestable assumption; however, it was thought to be acceptable as the questionnaires were administered at definitive (randomisation&#x02010;based) rather than subjective (treatment&#x02010; or disease&#x02010;based) time points. In addition, sensitivity analyses also showed that results obtained using MICE were consistent with those obtained in a complete case analysis. An alternative criticism could be the choice to exclude any corrections for multiplicity. As only a subset of the total number of endpoints (4 out of 20) and time points (3 out of 7) were pre&#x02010;specified and modelled as of primary interest (generating 36 out of a possible 1020 tests) it was deemed not necessary. However, had we adjusted for the 36 simultaneous tests the results and conclusions would not have deviated from those discussed here given the small number of statistically significant results.</p><p>Patient&#x02010;reported HR&#x02010;QoL has been considered an important endpoint for patients with MM (Kvam &#x00026; Waage, <xref rid="bjh15459-bib-0010" ref-type="ref">2015</xref>), giving the patient input on the effects of treatment (Delforge <italic>et&#x000a0;al</italic>, <xref rid="bjh15459-bib-0007" ref-type="ref">2012</xref>). The results of this study showed that improvements in clinical outcomes were not at the detriment of patient reported HR&#x02010;QoL. The findings are reassuring in the context of continuing development of sequential treatment for induction, consolidation and maintenance. However, such large&#x02010;scale studies, this being the largest to date, are a major undertaking and very unlikely to be given priority in future studies. Indeed, it could be that more sensitive QoL instruments, or potentially instruments focussed on specific domains, for example neurological, will be required to identify clinically relevant differences between treatment combinations. In the context of current trends in treatment with combinations of immunomodulatory agents, proteasome inhibitors, monoclonal antibodies and HDAC inhibitors, be it in modules of intensification as consolidation intended to achieve MRD negativity, sequential, multi&#x02010;agent treatment as longer term &#x0201c;maintenance&#x0201d;, or both, there will be a need to monitor the impact on patients&#x02019; QoL. New standardised, ideally simplified, approaches that consider specific side effects of given agents as well as key QoL measures should be explored.</p></sec><sec id="bjh15459-sec-0017"><title>Authorship contribution</title><p>JAC, GJM and GHJ were the chief investigators, SEB, JAC, GJM, GHJ, FED and MTD designed the trial and developed the protocol. K&#x02010;LR, WMG, DAC and JAC conducted the study, analysed the data and drafted the manuscript. All authors reviewed and approved the final manuscript.</p></sec><sec id="bjh15459-sec-0018"><title>Disclaimers</title><p>The views or opinions expressed in this manuscript are not a representation of the views or opinions of the study funders, sponsor or the authors&#x02019; institutions.</p></sec><sec id="bjh15459-sec-0019"><title>Conflict of interest</title><p>K&#x02010;LR: Research Funding &#x02013; Amgen, Celgene, Merck. WMG: Research Funding &#x02013; Amgen, Celgene, Merck. Honoraria &#x02013; Janssen Corp; Consulting or Advisory Role &#x02013; Celgene. DAC: Research Funding &#x02013; Amgen, Celgene, Merck. SB: Research Funding &#x02013; Amgen, Celgene, Merck. GC: Consulting or Advisory Role &#x02013; Takeda, Celgene, Janssen Corp; Research Funding: Takeda, Janssen Corp. RGO: Honoraria &#x02013; Takeda, Celgene, Janssen Corp; Consulting or Advisory Role &#x02013; Celgene, Janssen Corp; Research Funding &#x02013; Celgene; Travel, Accommodations, Expenses &#x02013; Takeda, Janssen Corp. MTD: Stock and Other Ownership Interests &#x02013; Abingdon Health; Consulting or Advisory Role &#x02013; Abingdon Health. FED: Honoraria &#x02013; Takeda, Janssen Corp, Celgene, Janssen Corp; Consulting or Advisory Role &#x02013; Takeda, Celgene, Janssen Corp; Research Funding: Amgen, Celgene; Travel, Accommodations, Expenses: Takeda, Celgene. GJM: Honoraria &#x02013; Takeda, Celgene; Consulting or Advisory Role &#x02013; Celgene, Takeda, Bristol Meyers; Research Funding &#x02013; Celgene, Janssen Corp. GJH: Honoraria &#x02013; Takeda, Amgen, Celgene, Janssen Corp; Consulting or Advisory Role &#x02013; Takeda, Amgen, Celgene, Janssen Corp; Research Funding: Amgen, Celgene; Travel, Accommodations, Expenses: Takeda, Celgene. JAC: Research Funding; Celgene.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="bjh15459-sup-0001"><caption><p>
+<bold>Table&#x000a0;SI.</bold> Additional baseline demographics of the QoL population for the patients in the intensive and non&#x02010;intensive pathways.</p><p>
+<bold>Table&#x000a0;SII.</bold> Baseline demographics of the QoL population for patients in the maintenance phase.</p><p>
+<bold>Fig S1.</bold> Remaining descriptive plots for the three analysis populations. Intensive (A) non&#x02010;intensive (B) and maintenance (C). These graphs present the mean subscale scores and approximate 95% confidence intervals at each time point by the variable of interest for complete case data.</p></caption><media xlink:href="BJH-182-816-s001.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="bjh15459-sec-0016"><title>Acknowledgements</title><p>The authors thank all the patients, investigators, and staff at participating centres who made this study possible; Professor David Bowen; the MRC Leukaemia Data Monitoring and Ethics Committee; the MRC Leukaemia Trial Steering Committee; the UK National Cancer Research Institute Haematological Oncology Clinical Studies Group; Myeloma UK; and the National Institute for Health Research, for support through the National Cancer Research Network. The Medical Research Council (London, UK; [G0100132]) was the primary funder of the study, with further unrestricted educational grants from Novartis, Schering Health Care, Chugai, Pharmion, Celgene Corporation, and Ortho Biotech.</p></ack><ref-list content-type="cited-references" id="bjh15459-bibl-0001"><title>References</title><ref id="bjh15459-bib-0002"><mixed-citation publication-type="journal" id="bjh15459-cit-0002">
+<string-name>
+<surname>Aaronson</surname>, <given-names>N.K.</given-names>
+</string-name>, <string-name>
+<surname>Ahmedzai</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Bergman</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Bullinger</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Cull</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Duez</surname>, <given-names>N.J.</given-names>
+</string-name>, <string-name>
+<surname>Filiberti</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Flechtner</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Fleishman</surname>, <given-names>S.B.</given-names>
+</string-name>, <string-name>
+<surname>de Haes</surname>, <given-names>J.C.</given-names>
+</string-name>, <string-name>
+<surname>Kaasa</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Klee</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Osoba</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Razavi</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Rofe</surname>, <given-names>P.B.</given-names>
+</string-name>, <string-name>
+<surname>Schraub</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Sneeuw</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Sullivan</surname>, <given-names>M.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Takeda</surname>, <given-names>F.</given-names>
+</string-name> (<year>1993</year>) <article-title>The European Organization for Research and Treatment of Cancer QLQ&#x02010;C30: a quality&#x02010;of&#x02010;life instrument for use in international clinical trials in oncology</article-title>. <source xml:lang="en">Journal of the National Cancer Institute</source>, <volume>85</volume>, <fpage>365</fpage>&#x02013;<lpage>376</lpage>.<pub-id pub-id-type="pmid">8433390</pub-id></mixed-citation></ref><ref id="bjh15459-bib-0003"><mixed-citation publication-type="journal" id="bjh15459-cit-0003">
+<string-name>
+<surname>Ali</surname>, <given-names>A.M.</given-names>
+</string-name>, <string-name>
+<surname>Provenzano</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Bartlett</surname>, <given-names>J.M.</given-names>
+</string-name>, <string-name>
+<surname>Abraham</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Driver</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Munro</surname>, <given-names>A.F.</given-names>
+</string-name>, <string-name>
+<surname>Twelves</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Poole</surname>, <given-names>C.J.</given-names>
+</string-name>, <string-name>
+<surname>Hiller</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Dunn</surname>, <given-names>J.A.</given-names>
+</string-name>, <string-name>
+<surname>Earl</surname>, <given-names>H.M.</given-names>
+</string-name>, <string-name>
+<surname>Caldas</surname>, <given-names>C.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Pharoah</surname>, <given-names>P.D.</given-names>
+</string-name> (<year>2013</year>) <article-title>Prognosis of early breast cancer by immunohistochemistry defined intrinsic sub&#x02010;types in patients treated with adjuvant chemotherapy in the NEAT/BR9601 trial</article-title>. <source xml:lang="en">International Journal of Cancer</source>, <volume>133</volume>, <fpage>1470</fpage>&#x02013;<lpage>1478</lpage>.<pub-id pub-id-type="pmid">23483540</pub-id></mixed-citation></ref><ref id="bjh15459-bib-0004"><mixed-citation publication-type="journal" id="bjh15459-cit-0004">
+<string-name>
+<surname>Coates</surname>, <given-names>L.C.</given-names>
+</string-name>, <string-name>
+<surname>Moverley</surname>, <given-names>A.R.</given-names>
+</string-name>, <string-name>
+<surname>McParland</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Brown</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Navarro&#x02010;Coy</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>O'Dwyer</surname>, <given-names>J.L.</given-names>
+</string-name>, <string-name>
+<surname>Meads</surname>, <given-names>D.M.</given-names>
+</string-name>, <string-name>
+<surname>Emery</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Conaghan</surname>, <given-names>P.G.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Helliwell</surname>, <given-names>P.S.</given-names>
+</string-name> (<year>2015</year>) <article-title>Effect of tight control of inflammation in early psoriatic arthritis (TICOPA): a UK multicentre, open&#x02010;label, randomised controlled trial</article-title>. <source xml:lang="en">Lancet</source>, <volume>386</volume>, <fpage>2489</fpage>&#x02013;<lpage>2498</lpage>.<pub-id pub-id-type="pmid">26433318</pub-id></mixed-citation></ref><ref id="bjh15459-bib-0005"><mixed-citation publication-type="journal" id="bjh15459-cit-0005">
+<string-name>
+<surname>Cocks</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Cohen</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Wisloff</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Sezer</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Hippe</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Gimsing</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Turesson</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Hajek</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Graham</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Phillips</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Stead</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Velikova</surname>, <given-names>G.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Brown</surname>, <given-names>J.</given-names>
+</string-name> (<year>2007</year>) <article-title>An international field study of the reliability and validity of a disease&#x02010;specific questionnaire module (the QLQ&#x02010;MY20) in assessing the quality of life of patients with multiple myeloma</article-title>. <source xml:lang="en">European Journal of Cancer</source>, <volume>43</volume>, <fpage>1670</fpage>&#x02013;<lpage>1678</lpage>.<pub-id pub-id-type="pmid">17574838</pub-id></mixed-citation></ref><ref id="bjh15459-bib-0006"><mixed-citation publication-type="journal" id="bjh15459-cit-0006">
+<string-name>
+<surname>Cocks</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>King</surname>, <given-names>M.T.</given-names>
+</string-name>, <string-name>
+<surname>Velikova</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Martyn St&#x02010;James</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Fayers</surname>, <given-names>P.M.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Brown</surname>, <given-names>J.M.</given-names>
+</string-name> (<year>2011</year>) <article-title>Evidence&#x02010;based guidelines for determination of sample size and interpretation of the European Organisation for the Research and Treatment of Cancer Quality of Life Questionnaire Core 30</article-title>. <source xml:lang="en">Journal of Clinical Oncology</source>, <volume>29</volume>, <fpage>89</fpage>&#x02013;<lpage>96</lpage>.<pub-id pub-id-type="pmid">21098316</pub-id></mixed-citation></ref><ref id="bjh15459-bib-0007"><mixed-citation publication-type="journal" id="bjh15459-cit-0007">
+<string-name>
+<surname>Delforge</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Dhawan</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Robinson</surname>, <given-names>D.</given-names>
+<suffix>Jr</suffix>
+</string-name>, <string-name>
+<surname>Meunier</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Regnault</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Esseltine</surname>, <given-names>D.L.</given-names>
+</string-name>, <string-name>
+<surname>Cakana</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>van de Velde</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Richardson</surname>, <given-names>P.G.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>San Miguel</surname>, <given-names>J.F.</given-names>
+</string-name> (<year>2012</year>) <article-title>Health&#x02010;related quality of life in elderly, newly diagnosed multiple myeloma patients treated with VMP vs. MP: results from the VISTA trial</article-title>. <source xml:lang="en">European Journal of Haematology</source>, <volume>89</volume>, <fpage>16</fpage>&#x02013;<lpage>27</lpage>.<pub-id pub-id-type="pmid">22469559</pub-id></mixed-citation></ref><ref id="bjh15459-bib-0008"><mixed-citation publication-type="journal" id="bjh15459-cit-0008">
+<string-name>
+<surname>Delforge</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Minuk</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Eisenmann</surname>, <given-names>J.C.</given-names>
+</string-name>, <string-name>
+<surname>Arnulf</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Canepa</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Fragasso</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Leyvraz</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Langer</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Ezaydi</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Vogl</surname>, <given-names>D.T.</given-names>
+</string-name>, <string-name>
+<surname>Giraldo&#x02010;Castellano</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Yoon</surname>, <given-names>S.S.</given-names>
+</string-name>, <string-name>
+<surname>Zarnitsky</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Escoffre&#x02010;Barbe</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Lemieux</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Song</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Bahlis</surname>, <given-names>N.J.</given-names>
+</string-name>, <string-name>
+<surname>Guo</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Monzini</surname>, <given-names>M.S.</given-names>
+</string-name>, <string-name>
+<surname>Ervin&#x02010;Haynes</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Houck</surname>, <given-names>V.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Facon</surname>, <given-names>T.</given-names>
+</string-name> (<year>2015</year>) <article-title>Health&#x02010;related quality&#x02010;of&#x02010;life in patients with newly diagnosed multiple myeloma in the FIRST trial: lenalidomide plus low&#x02010;dose dexamethasone versus melphalan, prednisone, thalidomide</article-title>. <source xml:lang="en">Haematologica</source>, <volume>100</volume>, <fpage>826</fpage>&#x02013;<lpage>833</lpage>.<pub-id pub-id-type="pmid">25769541</pub-id></mixed-citation></ref><ref id="bjh15459-bib-0009"><mixed-citation publication-type="journal" id="bjh15459-cit-0009">
+<string-name>
+<surname>Dimopoulos</surname>, <given-names>M.A.</given-names>
+</string-name>, <string-name>
+<surname>Palumbo</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Hajek</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Kropff</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Petrucci</surname>, <given-names>M.T.</given-names>
+</string-name>, <string-name>
+<surname>Lewis</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Millar</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Mei</surname>, <given-names>J.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Delforge</surname>, <given-names>M.</given-names>
+</string-name> (<year>2014</year>) <article-title>Factors that influence health&#x02010;related quality of life in newly diagnosed patients with multiple myeloma aged &#x0003e;/= 65&#x000a0;years treated with melphalan, prednisone and lenalidomide followed by lenalidomide maintenance: results of a randomized trial</article-title>. <source xml:lang="en">Leukaemia &#x00026; Lymphoma</source>, <volume>55</volume>, <fpage>1489</fpage>&#x02013;<lpage>1497</lpage>.</mixed-citation></ref><ref id="bjh15459-bib-0010"><mixed-citation publication-type="journal" id="bjh15459-cit-0010">
+<string-name>
+<surname>Kvam</surname>, <given-names>A.K.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Waage</surname>, <given-names>A.</given-names>
+</string-name> (<year>2015</year>) <article-title>Health&#x02010;related quality of life in patients with multiple myeloma&#x02013;does it matter?</article-title>
+<source xml:lang="en">Haematologica</source>, <volume>100</volume>, <fpage>704</fpage>&#x02013;<lpage>705</lpage>.<pub-id pub-id-type="pmid">26034111</pub-id></mixed-citation></ref><ref id="bjh15459-bib-0011"><mixed-citation publication-type="journal" id="bjh15459-cit-0011">
+<string-name>
+<surname>Kvam</surname>, <given-names>A.K.</given-names>
+</string-name>, <string-name>
+<surname>Fayers</surname>, <given-names>P.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Wisloff</surname>, <given-names>F.</given-names>
+</string-name> (<year>2010</year>) <article-title>What changes in health&#x02010;related quality of life matter to multiple myeloma patients? A prospective study</article-title>. <source xml:lang="en">European Journal of Haematology</source>, <volume>84</volume>, <fpage>345</fpage>&#x02013;<lpage>353</lpage>.<pub-id pub-id-type="pmid">20041946</pub-id></mixed-citation></ref><ref id="bjh15459-bib-0012"><mixed-citation publication-type="journal" id="bjh15459-cit-0012">
+<string-name>
+<surname>Morgan</surname>, <given-names>G.J.</given-names>
+</string-name>, <string-name>
+<surname>Davies</surname>, <given-names>F.E.</given-names>
+</string-name>, <string-name>
+<surname>Gregory</surname>, <given-names>W.M.</given-names>
+</string-name>, <string-name>
+<surname>Cocks</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Bell</surname>, <given-names>S.E.</given-names>
+</string-name>, <string-name>
+<surname>Szubert</surname>, <given-names>A.J.</given-names>
+</string-name>, <string-name>
+<surname>Navarro&#x02010;Coy</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Drayson</surname>, <given-names>M.T.</given-names>
+</string-name>, <string-name>
+<surname>Owen</surname>, <given-names>R.G.</given-names>
+</string-name>, <string-name>
+<surname>Feyler</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Ashcroft</surname>, <given-names>A.J.</given-names>
+</string-name>, <string-name>
+<surname>Ross</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Byrne</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Roddie</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Rudin</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Cook</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Jackson</surname>, <given-names>G.H.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Child</surname>, <given-names>J.A.</given-names>
+</string-name>; <collab collab-type="authors">National Cancer Research Institute Haematological Oncology Clinical Study Group</collab>
+. (<year>2010</year>) <article-title>First&#x02010;line treatment with zoledronic acid as compared with clodronic acid in multiple myeloma (MRC Myeloma IX): a randomised controlled trial</article-title>. <source xml:lang="en">Lancet</source>, <volume>376</volume>, <fpage>1989</fpage>&#x02013;<lpage>1999</lpage>.<pub-id pub-id-type="pmid">21131037</pub-id></mixed-citation></ref><ref id="bjh15459-bib-0013"><mixed-citation publication-type="journal" id="bjh15459-cit-0013">
+<string-name>
+<surname>Morgan</surname>, <given-names>G.J.</given-names>
+</string-name>, <string-name>
+<surname>Davies</surname>, <given-names>F.E.</given-names>
+</string-name>, <string-name>
+<surname>Gregory</surname>, <given-names>W.M.</given-names>
+</string-name>, <string-name>
+<surname>Russell</surname>, <given-names>N.H.</given-names>
+</string-name>, <string-name>
+<surname>Bell</surname>, <given-names>S.E.</given-names>
+</string-name>, <string-name>
+<surname>Szubert</surname>, <given-names>A.J.</given-names>
+</string-name>, <string-name>
+<surname>Navarro Coy</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Cook</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Feyler</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Byrne</surname>, <given-names>J.L.</given-names>
+</string-name>, <string-name>
+<surname>Roddie</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Rudin</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Drayson</surname>, <given-names>M.T.</given-names>
+</string-name>, <string-name>
+<surname>Owen</surname>, <given-names>R.G.</given-names>
+</string-name>, <string-name>
+<surname>Ross</surname>, <given-names>F.M.</given-names>
+</string-name>, <string-name>
+<surname>Jackson</surname>, <given-names>G.H.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Child</surname>, <given-names>J.A.</given-names>
+</string-name> (<year>2011</year>) <article-title>Cyclophosphamide, thalidomide, and dexamethasone (CTD) as initial therapy for patients with multiple myeloma unsuitable for autologous transplantation</article-title>. <source xml:lang="en">Blood</source>, <volume>118</volume>, <fpage>1231</fpage>&#x02013;<lpage>1238</lpage>.<pub-id pub-id-type="pmid">21652683</pub-id></mixed-citation></ref><ref id="bjh15459-bib-0014"><mixed-citation publication-type="journal" id="bjh15459-cit-0014">
+<string-name>
+<surname>Morgan</surname>, <given-names>G.J.</given-names>
+</string-name>, <string-name>
+<surname>Davies</surname>, <given-names>F.E.</given-names>
+</string-name>, <string-name>
+<surname>Gregory</surname>, <given-names>W.M.</given-names>
+</string-name>, <string-name>
+<surname>Bell</surname>, <given-names>S.E.</given-names>
+</string-name>, <string-name>
+<surname>Szubert</surname>, <given-names>A.J.</given-names>
+</string-name>, <string-name>
+<surname>Navarro Coy</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Cook</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Feyler</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Johnson</surname>, <given-names>P.R.</given-names>
+</string-name>, <string-name>
+<surname>Rudin</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Drayson</surname>, <given-names>M.T.</given-names>
+</string-name>, <string-name>
+<surname>Owen</surname>, <given-names>R.G.</given-names>
+</string-name>, <string-name>
+<surname>Ross</surname>, <given-names>F.M.</given-names>
+</string-name>, <string-name>
+<surname>Russell</surname>, <given-names>N.H.</given-names>
+</string-name>, <string-name>
+<surname>Jackson</surname>, <given-names>G.H.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Child</surname>, <given-names>J.A.</given-names>
+</string-name>; <collab collab-type="authors">National Cancer Research Institute Haematological Oncology Clinical Studies Group</collab>
+. (<year>2012a</year>) <article-title>Cyclophosphamide, thalidomide, and dexamethasone as induction therapy for newly diagnosed multiple myeloma patients destined for autologous stem&#x02010;cell transplantation: MRC Myeloma IX randomized trial results</article-title>. <source xml:lang="en">Haematologica</source>, <volume>97</volume>, <fpage>442</fpage>&#x02013;<lpage>450</lpage>.<pub-id pub-id-type="pmid">22058209</pub-id></mixed-citation></ref><ref id="bjh15459-bib-0015"><mixed-citation publication-type="journal" id="bjh15459-cit-0015">
+<string-name>
+<surname>Morgan</surname>, <given-names>G.J.</given-names>
+</string-name>, <string-name>
+<surname>Davies</surname>, <given-names>F.E.</given-names>
+</string-name>, <string-name>
+<surname>Gregory</surname>, <given-names>W.M.</given-names>
+</string-name>, <string-name>
+<surname>Szubert</surname>, <given-names>A.J.</given-names>
+</string-name>, <string-name>
+<surname>Bell</surname>, <given-names>S.E.</given-names>
+</string-name>, <string-name>
+<surname>Drayson</surname>, <given-names>M.T.</given-names>
+</string-name>, <string-name>
+<surname>Owen</surname>, <given-names>R.G.</given-names>
+</string-name>, <string-name>
+<surname>Ashcroft</surname>, <given-names>A.J.</given-names>
+</string-name>, <string-name>
+<surname>Jackson</surname>, <given-names>G.H.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Child</surname>, <given-names>J.A.</given-names>
+</string-name>; <collab collab-type="authors">National Cancer Research Institute Haematological Oncology Clinical Studies Group</collab>
+. (<year>2012b</year>) <article-title>Effects of induction and maintenance plus long&#x02010;term bisphosphonates on bone disease in patients with multiple myeloma: the Medical Research Council Myeloma IX Trial</article-title>. <source xml:lang="en">Blood</source>, <volume>119</volume>, <fpage>5374</fpage>&#x02013;<lpage>5383</lpage>.<pub-id pub-id-type="pmid">22498739</pub-id></mixed-citation></ref><ref id="bjh15459-bib-0016"><mixed-citation publication-type="journal" id="bjh15459-cit-0016">
+<string-name>
+<surname>Morgan</surname>, <given-names>G.J.</given-names>
+</string-name>, <string-name>
+<surname>Gregory</surname>, <given-names>W.M.</given-names>
+</string-name>, <string-name>
+<surname>Davies</surname>, <given-names>F.E.</given-names>
+</string-name>, <string-name>
+<surname>Bell</surname>, <given-names>S.E.</given-names>
+</string-name>, <string-name>
+<surname>Szubert</surname>, <given-names>A.J.</given-names>
+</string-name>, <string-name>
+<surname>Brown</surname>, <given-names>J.M.</given-names>
+</string-name>, <string-name>
+<surname>Coy</surname>, <given-names>N.N.</given-names>
+</string-name>, <string-name>
+<surname>Cook</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Russell</surname>, <given-names>N.H.</given-names>
+</string-name>, <string-name>
+<surname>Rudin</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Roddie</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Drayson</surname>, <given-names>M.T.</given-names>
+</string-name>, <string-name>
+<surname>Owen</surname>, <given-names>R.G.</given-names>
+</string-name>, <string-name>
+<surname>Ross</surname>, <given-names>F.M.</given-names>
+</string-name>, <string-name>
+<surname>Jackson</surname>, <given-names>G.H.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Child</surname>, <given-names>J.A.</given-names>
+</string-name>; <collab collab-type="authors">National Cancer Research Institute Haematological Oncology Clinical Studies Group</collab>
+. (<year>2012c</year>) <article-title>The role of maintenance thalidomide therapy in multiple myeloma: MRC Myeloma IX results and meta&#x02010;analysis</article-title>. <source xml:lang="en">Blood</source>, <volume>119</volume>, <fpage>7</fpage>&#x02013;<lpage>15</lpage>.<pub-id pub-id-type="pmid">22021371</pub-id></mixed-citation></ref><ref id="bjh15459-bib-0017"><mixed-citation publication-type="journal" id="bjh15459-cit-0017">
+<string-name>
+<surname>Morgan</surname>, <given-names>G.J.</given-names>
+</string-name>, <string-name>
+<surname>Davies</surname>, <given-names>F.E.</given-names>
+</string-name>, <string-name>
+<surname>Gregory</surname>, <given-names>W.M.</given-names>
+</string-name>, <string-name>
+<surname>Bell</surname>, <given-names>S.E.</given-names>
+</string-name>, <string-name>
+<surname>Szubert</surname>, <given-names>A.J.</given-names>
+</string-name>, <string-name>
+<surname>Cook</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Drayson</surname>, <given-names>M.T.</given-names>
+</string-name>, <string-name>
+<surname>Owen</surname>, <given-names>R.G.</given-names>
+</string-name>, <string-name>
+<surname>Ross</surname>, <given-names>F.M.</given-names>
+</string-name>, <string-name>
+<surname>Jackson</surname>, <given-names>G.H.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Child</surname>, <given-names>J.A.</given-names>
+</string-name> (<year>2013</year>) <article-title>Long&#x02010;term follow&#x02010;up of MRC Myeloma IX trial: survival outcomes with bisphosphonate and thalidomide treatment</article-title>. <source xml:lang="en">Clinical Cancer Research</source>, <volume>19</volume>, <fpage>6030</fpage>&#x02013;<lpage>6038</lpage>.<pub-id pub-id-type="pmid">23995858</pub-id></mixed-citation></ref><ref id="bjh15459-bib-0018"><mixed-citation publication-type="journal" id="bjh15459-cit-0018">
+<string-name>
+<surname>Neoptolemos</surname>, <given-names>J.P.</given-names>
+</string-name>, <string-name>
+<surname>Palmer</surname>, <given-names>D.H.</given-names>
+</string-name>, <string-name>
+<surname>Ghaneh</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Psarelli</surname>, <given-names>E.E.</given-names>
+</string-name>, <string-name>
+<surname>Valle</surname>, <given-names>J.W.</given-names>
+</string-name>, <string-name>
+<surname>Halloran</surname>, <given-names>C.M.</given-names>
+</string-name>, <string-name>
+<surname>Faluyi</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>O'Reilly</surname>, <given-names>D.A.</given-names>
+</string-name>, <string-name>
+<surname>Cunningham</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Wadsley</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Darby</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Meyer</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Gillmore</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Anthoney</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Lind</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Glimelius</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Falk</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Izbicki</surname>, <given-names>J.R.</given-names>
+</string-name>, <string-name>
+<surname>Middleton</surname>, <given-names>G.W.</given-names>
+</string-name>, <string-name>
+<surname>Cummins</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Ross</surname>, <given-names>P.J.</given-names>
+</string-name>, <string-name>
+<surname>Wasan</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>McDonald</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Crosby</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Ma</surname>, <given-names>Y.T.</given-names>
+</string-name>, <string-name>
+<surname>Patel</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Sherriff</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Soomal</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Borg</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Sothi</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Hammel</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Hackert</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Jackson</surname>, <given-names>R.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Buchler</surname>, <given-names>M.W.</given-names>
+</string-name>; <collab collab-type="authors">European Study Group for Pancreatic Cancer</collab>
+. (<year>2017</year>) <article-title>Comparison of adjuvant gemcitabine and capecitabine with gemcitabine monotherapy in patients with resected pancreatic cancer (ESPAC&#x02010;4): a multicentre, open&#x02010;label, randomised, phase 3 trial</article-title>. <source xml:lang="en">Lancet</source>, <volume>389</volume>, <fpage>1011</fpage>&#x02013;<lpage>1024</lpage>.<pub-id pub-id-type="pmid">28129987</pub-id></mixed-citation></ref><ref id="bjh15459-bib-0019"><mixed-citation publication-type="journal" id="bjh15459-cit-0019">
+<string-name>
+<surname>Osoba</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Rodrigues</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Myles</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Zee</surname>, <given-names>B.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Pater</surname>, <given-names>J.</given-names>
+</string-name> (<year>1998</year>) <article-title>Interpreting the significance of changes in health&#x02010;related quality&#x02010;of&#x02010;life scores</article-title>. <source xml:lang="en">Journal of Clinical Oncology</source>, <volume>16</volume>, <fpage>139</fpage>&#x02013;<lpage>144</lpage>.<pub-id pub-id-type="pmid">9440735</pub-id></mixed-citation></ref><ref id="bjh15459-bib-0020"><mixed-citation publication-type="book" id="bjh15459-cit-0020">
+<string-name>
+<surname>Rubin</surname>, <given-names>D.B.</given-names>
+</string-name> (<year>1987</year>) <source xml:lang="en">Multiple Imputation for Nonresponse in Surveys</source>. <publisher-name>Wiley</publisher-name>, <publisher-loc>New York</publisher-loc>.</mixed-citation></ref><ref id="bjh15459-bib-0022"><mixed-citation publication-type="journal" id="bjh15459-cit-0022">
+<string-name>
+<surname>Stead</surname>, <given-names>M.L.</given-names>
+</string-name>, <string-name>
+<surname>Brown</surname>, <given-names>J.M.</given-names>
+</string-name>, <string-name>
+<surname>Velikova</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Kaasa</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Wisloff</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Child</surname>, <given-names>J.A.</given-names>
+</string-name>, <string-name>
+<surname>Hippe</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Hjorth</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Sezer</surname>, <given-names>O.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Selby</surname>, <given-names>P.</given-names>
+</string-name> (<year>1999</year>) <article-title>Development of an EORTC questionnaire module to be used in health&#x02010;related quality&#x02010;of&#x02010;life assessment for patients with multiple myeloma</article-title>. <source xml:lang="en">British Journal of Haematology</source>, <volume>104</volume>, <fpage>605</fpage>&#x02013;<lpage>611</lpage>.<pub-id pub-id-type="pmid">10086801</pub-id></mixed-citation></ref><ref id="bjh15459-bib-0023"><mixed-citation publication-type="journal" id="bjh15459-cit-0023">
+<string-name>
+<surname>Verelst</surname>, <given-names>S.G.</given-names>
+</string-name>, <string-name>
+<surname>Termorshuizen</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Uyl&#x02010;de Groot</surname>, <given-names>C.A.</given-names>
+</string-name>, <string-name>
+<surname>Schaafsma</surname>, <given-names>M.R.</given-names>
+</string-name>, <string-name>
+<surname>Ammerlaan</surname>, <given-names>A.H.</given-names>
+</string-name>, <string-name>
+<surname>Wittebol</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Sinnige</surname>, <given-names>H.A.</given-names>
+</string-name>, <string-name>
+<surname>Zweegman</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>van Marwijk Kooy</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>van der Griend</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Lokhorst</surname>, <given-names>H.M.</given-names>
+</string-name>, <string-name>
+<surname>Sonneveld</surname>, <given-names>P.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Wijermans</surname>, <given-names>P.W.</given-names>
+</string-name>; <collab collab-type="authors">Dutch&#x02010;Belgium Hemato&#x02010;Oncology Cooperative Group</collab>
+. (<year>2011</year>) <article-title>Effect of thalidomide with melphalan and prednisone on health&#x02010;related quality of life (HRQoL) in elderly patients with newly diagnosed multiple myeloma: a prospective analysis in a randomized trial</article-title>. <source xml:lang="en">Annals of Hematology</source>, <volume>90</volume>, <fpage>1427</fpage>&#x02013;<lpage>1439</lpage>.<pub-id pub-id-type="pmid">21472373</pub-id></mixed-citation></ref><ref id="bjh15459-bib-0024"><mixed-citation publication-type="journal" id="bjh15459-cit-0024">
+<string-name>
+<surname>White</surname>, <given-names>I.R.</given-names>
+</string-name>, <string-name>
+<surname>Royston</surname>, <given-names>P.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Wood</surname>, <given-names>A.M.</given-names>
+</string-name> (<year>2011</year>) <article-title>Multiple imputation using chained equations: issues and guidance for practice</article-title>. <source xml:lang="en">Statistics in Medicine</source>, <volume>30</volume>, <fpage>377</fpage>&#x02013;<lpage>399</lpage>.<pub-id pub-id-type="pmid">21225900</pub-id></mixed-citation></ref></ref-list></back></article>

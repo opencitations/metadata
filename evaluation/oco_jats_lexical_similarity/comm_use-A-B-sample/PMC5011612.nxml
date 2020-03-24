@@ -1,0 +1,514 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Bone Res</journal-id><journal-id journal-id-type="iso-abbrev">Bone Res</journal-id><journal-title-group><journal-title>Bone Research</journal-title></journal-title-group><issn pub-type="ppub">2095-4700</issn><issn pub-type="epub">2095-6231</issn><publisher><publisher-name>Nature Publishing Group</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">27635281</article-id><article-id pub-id-type="pmc">5011612</article-id><article-id pub-id-type="pii">boneres201625</article-id><article-id pub-id-type="doi">10.1038/boneres.2016.25</article-id><article-categories><subj-group subj-group-type="heading"><subject>Article</subject></subj-group></article-categories><title-group><article-title>Mice with a heterozygous <italic>Lrp6</italic> deletion have impaired fracture healing</article-title><alt-title alt-title-type="running"><italic>Lrp6</italic><sup>
+<italic>+/&#x02212;</italic>
+</sup> mice have impaired fracture healing</alt-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Burgers</surname><given-names>Travis A</given-names></name><xref ref-type="aff" rid="aff1">1</xref></contrib><contrib contrib-type="author"><name><surname>Vivanco</surname><given-names>Juan F</given-names></name><xref ref-type="aff" rid="aff2">2</xref></contrib><contrib contrib-type="author"><name><surname>Zahatnansky</surname><given-names>Juraj</given-names></name><xref ref-type="aff" rid="aff1">1</xref></contrib><contrib contrib-type="author"><name><surname>Moren</surname><given-names>Andrew J Vander</given-names></name><xref ref-type="aff" rid="aff3">3</xref></contrib><contrib contrib-type="author"><name><surname>Mason</surname><given-names>James J</given-names></name><xref ref-type="aff" rid="aff1">1</xref></contrib><contrib contrib-type="author"><name><surname>Williams</surname><given-names>Bart O</given-names></name><xref ref-type="aff" rid="aff1">1</xref><xref ref-type="corresp" rid="caf1">*</xref></contrib><aff id="aff1"><label>1</label>
+<institution>Center for Cancer and Cell Biology, Program for Skeletal Disease and Tumor Microenvironment, Van Andel Research Institute</institution>, Grand Rapids, MI, <country>USA</country>
+</aff><aff id="aff2"><label>2</label>
+<institution>Facultad de Ingenieria y Ciencias, Adolfo Ib&#x000e1;&#x000f1;ez University</institution>, Vi&#x000f1;a del Mar, <country>Chile</country>
+</aff><aff id="aff3"><label>3</label>
+<institution>Padnos College of Engineering and Computing, Grand Valley State University</institution>, Grand Rapids, MI, <country>USA</country>
+</aff></contrib-group><author-notes><corresp id="caf1"><label>*</label>
+(<email>bart.williams@vai.org</email>)</corresp></author-notes><pub-date pub-type="epub"><day>06</day><month>09</month><year>2016</year></pub-date><pub-date pub-type="collection"><year>2016</year></pub-date><volume>4</volume><fpage>16025</fpage><lpage/><history><date date-type="received"><day>25</day><month>04</month><year>2016</year></date><date date-type="rev-recd"><day>17</day><month>05</month><year>2016</year></date><date date-type="accepted"><day>22</day><month>06</month><year>2016</year></date></history><permissions><copyright-statement>Copyright &#x000a9; 2016 The Author(s)</copyright-statement><copyright-year>2016</copyright-year><copyright-holder>The Author(s)</copyright-holder><license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/"><!--author-paid--><license-p>This work is licensed under a Creative Commons Attribution 4.0 International License. The images or other third party material in this article are included in the article&#x02019;s Creative Commons license, unless indicated otherwise in the credit line; if the material is not included under the Creative Commons license, users will need to obtain permission from the license holder to reproduce the material. To view a copy of this license, visit <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link></license-p></license></permissions><abstract><p>Bone fracture non-unions, the failure of a fracture to heal, occur in 10%&#x02013;20% of fractures and are a costly and debilitating clinical problem. The Wnt/&#x003b2;-catenin pathway is critical in bone development and fracture healing. Polymorphisms of linking low-density lipoprotein receptor-related protein 6 (LRP6), a Wnt-binding receptor, have been associated with decreased bone mineral density and fragility fractures, although this remains controversial. Mice with a homozygous deletion of <italic>Lrp6</italic> have severe skeletal abnormalities and are not viable, whereas mice with a heterozygous deletion have a combinatory effect with Lrp5 to decrease bone mineral density. As fracture healing closely models embryonic skeletal development, we investigated the process of fracture healing in mice heterozygous for <italic>Lrp6</italic> (<italic>Lrp6</italic>
+<sup>+/&#x02212;</sup>) and hypothesized that the heterozygous deletion of <italic>Lrp6</italic> would impair fracture healing. Mid-diaphyseal femur fractures were induced in <italic>Lrp6</italic>
+<sup>+/&#x02212;</sup> mice and wild-type controls (<italic>Lrp6</italic>
+<sup>+/+</sup>). Fractures were analyzed using micro-computed tomography (&#x003bc;CT) scans, biomechanical testing, and histological analysis. <italic>Lrp6</italic>
+<sup>+/&#x02212;</sup> mice had significantly decreased stiffness and strength at 28 days post fracture (PF) and significantly decreased BV/TV, total density, immature bone density, and mature area within the callus on day-14 and -21 PF; they had significantly increased empty callus area at days 14 and 21 PF. Our results demonstrate that the heterozygous deletion of <italic>Lrp6</italic> impairs fracture healing, which suggests that <italic>Lrp6</italic> has a role in fracture healing.</p></abstract></article-meta></front><body><sec><title>Introduction</title><p>The Wnt/&#x003b2;-catenin pathway is critical in bone development.<sup>
+<xref ref-type="bibr" rid="bib1">1</xref>,<xref ref-type="bibr" rid="bib2">2</xref>
+</sup> The importance of this pathway to bone development was first demonstrated with a report linking low-density lipoprotein receptor-related protein 5 (LRP5) mutations and the pediatric syndrome, osteoporosis pseudoglioma.<sup>
+<xref ref-type="bibr" rid="bib3">3</xref>
+</sup> Soon after, two studies showed that point mutations in LRP5 cause increased bone mass.<sup>
+<xref ref-type="bibr" rid="bib4">4</xref>,<xref ref-type="bibr" rid="bib5">5</xref>
+</sup> The Wnt/&#x003b2;-catenin pathway is initiated when a Wnt protein that binds to the complex that includes Lrp5, Lrp6, and Frizzled.<sup>
+<xref ref-type="bibr" rid="bib6">6</xref>
+</sup> Downstream, this allows &#x003b2;-catenin to avoid ubiquitin-dependent destruction that occurs through disheveled and glycogen synthase kinase 3. Increased levels of &#x003b2;-catenin cause nuclear translocation that causes TCF (transcription factor)/LEF (lymphoid enhancer-binding factor)- and TAZ (transcriptional coactivator with a PDZ-binding domain)-mediated gene transcription.<sup>
+<xref ref-type="bibr" rid="bib7">7</xref>,<xref ref-type="bibr" rid="bib8">8</xref>
+</sup>
+</p><p>Polymorphisms of LRP6 have been associated with decreased bone mineral density and fragility fractures,<sup>
+<xref ref-type="bibr" rid="bib9 bib10 bib11 bib12">9&#x02013;12</xref>
+</sup> although others have not confirmed the results.<sup>
+<xref ref-type="bibr" rid="bib13 bib14 bib15">13&#x02013;15</xref>
+</sup> Mice with a homozygous deletion of <italic>Lrp6</italic> have severe skeletal abnormalities and are not viable.<sup>
+<xref ref-type="bibr" rid="bib16">16</xref>
+</sup> Mice with heterozygous <italic>Lrp6</italic> deletion have a combinatory effect with Lrp5 to decrease bone mineral density.<sup>
+<xref ref-type="bibr" rid="bib17">17</xref>,<xref ref-type="bibr" rid="bib18">18</xref>
+</sup>
+</p><p>Similar to embryonic skeletal development,<sup>
+<xref ref-type="bibr" rid="bib19">19</xref>
+</sup> fracture repair utilizes regulated chondrogenic and osteoblastic phases of bone formation: first, inflammation; second, cartilaginous callus formation; third, endochondral ossification; and fourth, bone remodeling.<sup>
+<xref ref-type="bibr" rid="bib20">20</xref>
+</sup> A non-union occurs if this process is disturbed and the fracture healing lasts longer or does not complete at all. Non-unions occur in 10%&#x02013;20% of fractures<sup>
+<xref ref-type="bibr" rid="bib21">21</xref>,<xref ref-type="bibr" rid="bib22">22</xref>
+</sup> and lead to increased treatment costs and patient morbidity.<sup>
+<xref ref-type="bibr" rid="bib23">23</xref>
+</sup> The Wnt/&#x003b2;-catenin pathway is also important in fracture healing.<sup>
+<xref ref-type="bibr" rid="bib20">20</xref>,<xref ref-type="bibr" rid="bib24 bib25 bib26">24&#x02013;26</xref>
+</sup> Mice with a homozygous deletion of Lrp5 have impaired fracture healing,<sup>
+<xref ref-type="bibr" rid="bib27">27</xref>
+</sup> whereas mice with a homozygous deletion of secreted frizzled-related protein 1, a Wnt/&#x003b2;-catenin inhibitor, have improved fracture healing.<sup>
+<xref ref-type="bibr" rid="bib28">28</xref>
+</sup> To the authors&#x02019; knowledge, there have been no studies investigating the role of <italic>Lrp6</italic> in fracture healing.</p><p>Owing to the importance of the Wnt/&#x003b2;-catenin signaling pathway, specifically LRP6, on bone development and the importance of the Wnt/&#x003b2;-catenin signaling pathway in fracture healing, we hypothesize that the heterozygous deletion of <italic>Lrp6</italic> will impair fracture healing.</p></sec><sec><title>Materials and methods</title><sec><title>Animal model and specimen preparation</title><p>This study was approved by the Institutional Animal Care and Use Committee at the Van Andel Research Institute (Grand Rapids, MI, USA). Mice on a C57BL/6J background with a heterozygous deletion of <italic>Lrp6</italic> (<italic>Lrp6</italic>
+<sup>+/&#x02212;</sup>) and wild-type control (<italic>Lrp6</italic>
+<sup>+/+</sup>) mice were previously generated.<sup>
+<xref ref-type="bibr" rid="bib29">29</xref>
+</sup> To examine fracture healing and biomechanical characteristics, surgery was performed on approximately equivalent numbers of male and female mice that were 11&#x02013;12 weeks old, and the right femur was fractured.</p><p>Each mouse was anesthetized using a subcutaneous weight-matched dose of tribromoethanol (average 350&#x02009;&#x003bc;L dose of 0.079&#x02009;mg&#x000b7;&#x003bc;L<sup>&#x02212;1</sup> solution; Avertin; Winthrop Laboratories, New York, NY, USA). A 23-gauge needle was surgically inserted in the femoral medullary canal of the right femur and a femoral fracture was created at the midshaft using a blunt impact force in a three-point bending technique, following an established procedure.<sup>
+<xref ref-type="bibr" rid="bib30">30</xref>
+</sup> Pain was managed postoperatively with subcutaneous doses of tramadol<sup>
+<xref ref-type="bibr" rid="bib31">31</xref>
+</sup> (20&#x02009;mg&#x000b7;kg<sup>&#x02212;1</sup>; Sigma-Aldrich, St Louis, MO, USA) administered at the time of surgery and at 12, 24, and 36&#x02009;h after fracture. Mice were killed at 7, 14, 21, and 28 days post fracture (PF). Mice were divided into one group for biomechanical and micro-computed tomography (&#x003bc;CT) evaluation (<italic>n</italic>=99) and one group for histological evaluation (<italic>n</italic>=45). For the biomechanical and &#x003bc;CT evaluation, 34 fractured femurs (from 16 <italic>Lrp6</italic>
+<sup>+/+</sup> and 18 <italic>Lrp6</italic>
+<sup>+/&#x02212;</sup> animals) were excluded because the fracture was oblique, comminuted, or incomplete, as determined by follow-up radiographs.<sup>
+<xref ref-type="bibr" rid="bib32">32</xref>
+</sup>
+</p></sec><sec><title>Biomechanical evaluation</title><p>After killing of each animal for biomechanical and &#x003bc;CT analyses, both the fractured and intact femurs were excised and cleaned of the surrounding soft tissue. The intramedullary needle in the fractured femur was removed and samples were stored at &#x02212;20&#x02009;&#x000b0;C in saline-saturated gauze.</p><p>For biomechanical assessment of the bones, all femurs were removed from the freezer, rehydrated in saline, and allowed to equilibrate to room temperature. Four-point bending mechanical testing was performed on the right femur according to the same procedure as our previous work.<sup>
+<xref ref-type="bibr" rid="bib32">32</xref>
+</sup> Force and displacement were directly measured using the TestResources (TestResources, Shakopee, MN, USA) system. Stiffness (defined as the ratio between force and displacement in the representative linear region) and maximum strength (maximum load) were calculated in Excel (Microsoft, Redmond, WA, USA). The coefficient of determination (<italic>R</italic>
+<sup>2</sup>) of the stiffness measure was 0.998 9&#x000b1;0.001 5 (average&#x000b1;s.d.). The stiffness ratio and maximum load ratio were determined as the ratio of the respective fractured femur property to the intact femur property.</p></sec><sec><title>&#x003bc;CT evaluation</title><p>For &#x003bc;CT analysis, all femurs were scanned in saline by &#x003bc;CT using a Skyscan 1172 high-resolution micro-CT (Skyscan, Kontich, Belgium) with a voxel size of 13.3&#x02009;&#x003bc;m. The two Skyscan calibration phantoms were included in each scan. Images were reconstructed using the Skyscan software. Mimics 14.11 (Materialise, Ann Arbor, MI, USA) was used to segment the phantoms and fracture calluses.<sup>
+<xref ref-type="bibr" rid="bib32">32</xref>
+</sup> The linear relationship between the bone mineral content and Hounsfield units (HU)<sup>
+<xref ref-type="bibr" rid="bib33">33</xref>,<xref ref-type="bibr" rid="bib34">34</xref>
+</sup> of each scan was calculated using the known density of the two calibration phantoms (0.25 and 0.75&#x02009;g&#x000b7;cm<sup>&#x02212;3</sup>) and their segmented HU values.</p><p>In Mimics, two transverse slices were used to analyze the bone maturity level of each callus (see Burgers <italic>et al.</italic>
+<sup>
+<xref ref-type="bibr" rid="bib32">32</xref>
+</sup> and Collins <italic>et al.</italic>
+<sup>
+<xref ref-type="bibr" rid="bib35">35</xref>
+</sup> for similar examples). The center of the callus was determined as the location of the small gap between the bones. One slice each was used 0.5&#x02009;mm proximal and distal to the determined center.<sup>
+<xref ref-type="bibr" rid="bib32">32</xref>
+</sup> For each slice, four masks were created. The first mask included the total callus cross-sectional area by differentiating the boundary of the callus from the saline using the Mimics thresholding and &#x0201c;3D LiveWire&#x0201d; tools. The second included only the mature area, described by Komatsu <italic>et al.</italic>
+<sup>
+<xref ref-type="bibr" rid="bib27">27</xref>
+</sup> as that with a density greater than 600&#x02009;mg&#x000b7;cm<sup>&#x02212;</sup>
+<sup>3</sup>. The third included only the immature bone area, described by Komatsu <italic>et al.</italic>
+<sup>
+<xref ref-type="bibr" rid="bib27">27</xref>
+</sup> as that with a density of 250&#x02013;600&#x02009;mg&#x000b7;cm<sup>&#x02212;3</sup>. The fourth was the empty (not mineralized) area with a density less than 250&#x02009;mg&#x000b7;cm<sup>&#x02212;3</sup>. The second through fourth masks were defined using a Boolean operation with the applicable thresholded density range. The total, mature and immature densities of each region were determined by calculating the mineral content divided by the volume (area times slice thickness) of each mask. Mature bone volume over tissue volume (BV/TV) was calculated as the ratio of the mature area to the total area of the callus. Immature bone volume over tissue volume (IV/TV) was calculated as the ratio of the immature area to the total area of the callus.</p></sec><sec><title>Histological evaluation</title><p>For histological analysis, femurs were excised, the needle was removed, and the sample was fixed in 10% neutral buffered formalin for at least 24&#x02009;h, and decalcified in 10% EDTA, pH 7.5 for 5&#x02013;8 days at room temperature. The samples were embedded in paraffin along their long axis and sectioned (5&#x02009;&#x003bc;m). Before staining, slides were deparaffinized and gradually rehydrated though series of ethanol washes. Sections were stained for immunohistochemistry (IHC) and tartrate-resistant acid phosphatase (TRAP). For IHC, in the antigen-retrieval step, slides were incubated in pre-boiled citrate buffer (#005001, Life Technologies, Grand Island, NY, USA) for 10&#x02009;min. Endogenous peroxidase activity was quenched by 3% hydrogen peroxide for 30&#x02009;min. The slides were then incubated overnight with primary rabbit anti-&#x003b2;-catenin antibody (#9562, Cell Signaling, Danvers, MA, USA) diluted 1:200. The secondary biotinylated goat anti-rabbit antibody (#BA-1000, Vector Laboratories, Burlingame, CA, USA) diluted 1:200 was used with the Vectastain avidin biotinylated enzyme complex system for visualization. TRAP staining for osteoclasts was performed using a Leukocyte Acid Phosphatase Kit (#387A, Sigma-Aldrich) and counterstained with hematoxylin.</p></sec><sec><title>Statistical analyses</title><p>The effect of genotype was assessed statistically. Two-tailed Student's <italic>t</italic>-tests were performed in Excel assuming unequal variance between groups, and <italic>P</italic>&#x0003c;0.05 was considered significant. Average and s.d. are reported.</p></sec></sec><sec><title>Results</title><p>The stiffness and maximum strength (maximum load) were measured in <italic>Lrp6</italic>
+<sup>+/&#x02212;</sup> and <italic>Lrp6</italic>
+<sup>+/+</sup> femurs intact (<xref ref-type="fig" rid="fig1">Figure 1</xref>) and during the process of fracture repair (<xref ref-type="fig" rid="fig2">Figure 2</xref>). There was no significant difference in the intact contralateral bones from the <italic>Lrp6</italic>
+<sup>+/&#x02212;</sup> and <italic>Lrp6</italic>
+<sup>+/+</sup> controls at any time point.</p><p>As expected, the stiffness and strength increased throughout healing in both <italic>Lrp6</italic>
+<sup>+/&#x02212;</sup> and <italic>Lrp6</italic>
+<sup>+/+</sup> groups (<xref ref-type="fig" rid="fig2">Figure 2</xref>). Relative to <italic>Lrp6</italic>
+<sup>+/+</sup> mice, <italic>Lrp6</italic>
+<sup>+/&#x02212;</sup> mice had significantly lower stiffness and maximum strength at 28 days PF. The stiffness and maximum load in the <italic>Lrp6</italic>
+<sup>+/&#x02212;</sup> group were decreased to 68 and 80% of the <italic>Lrp6</italic>
+<sup>+/+</sup> group, respectively, at day 28 PF.</p><p>At days 14 and 21 PF, the ratio of the biomechanical properties (stiffness and maximum load) of the fractured to intact limb was not significantly different between the <italic>Lrp6</italic>
+<sup>+/&#x02212;</sup> and <italic>Lrp6</italic>
+<sup>+/+</sup> groups (<xref ref-type="fig" rid="fig3">Figure 3</xref>). At day 28 PF, the stiffness ratio was not significant between groups, but the <italic>Lrp6</italic>
+<sup>+/&#x02212;</sup> had a significantly lower maximum load ratio (75% of the <italic>Lrp6</italic>
+<sup>+/+</sup> group).</p><p>To gain further insight into how the heterozygous deletion of <italic>Lrp6</italic> inhibits the late decrease in biomechanical characteristics of the healing bone, the &#x003bc;CT scans of the calluses during healing were examined. At days 14 and 21 PF, the <italic>Lrp6</italic>
+<sup>+/&#x02212;</sup> group had significantly less callus BV/TV (53% and 74% that of the <italic>Lrp6</italic>
+<sup>+/+</sup> group at days 14 and 21 PF, respectively) and IV/TV (72% and 82%, respectively; <xref ref-type="fig" rid="fig4">Figure 4</xref>). The <italic>Lrp6</italic>
+<sup>+/&#x02212;</sup> group had significantly less total callus density (75% and 83%, respectively) at days 14 and 21 PF and less immature density at day 14 PF (93%); however, there was no significant difference in mature density at any time point (<xref ref-type="fig" rid="fig5">Figure 5</xref>). The <italic>Lrp6</italic>
+<sup>+/&#x02212;</sup> group had significantly less mature area (65% and 82%, respectively) at days 14 and 21 PF and significantly more empty area (198% and 139%, respectively) at days 14 and 21 PF (<xref ref-type="fig" rid="fig6">Figure 6</xref>). There was no significant difference in total callus area or immature area at any time point (<xref ref-type="fig" rid="fig6">Figure 6</xref>).</p><p>To gain further insight into the biological differences within the fracture calluses due to the heterozygous deletion of <italic>Lrp6</italic>, IHC was performed. IHC sections showed no apparent qualitative differences stained for Wnt signaling activity (&#x003b2;-catenin; <xref ref-type="fig" rid="fig7">Figure 7</xref>) or osteoclasts (TRAP; <xref ref-type="fig" rid="fig8">Figure 8</xref>) at any of the three time points (day 21 PF not shown).</p></sec><sec><title>Discussion</title><p>Relative to the <italic>Lrp6</italic>
+<sup>+/+</sup> group, the <italic>Lrp6</italic>
+<sup>+/&#x02212;</sup> group had no significant difference in the stiffness and strength of intact bones at all time points. In a previous study investigating limb development, the <italic>Lrp6</italic>
+<sup>+/&#x02212;</sup> group had significantly decreased trabecular BV/TV compared with the <italic>Lrp6</italic>
+<sup>+/+</sup> group. Other bone characteristics were decreased but not significantly so.<sup>
+<xref ref-type="bibr" rid="bib17">17</xref>
+</sup> The mechanical characteristics are consistent with this result.</p><p>Biomechanical analysis also showed that <italic>Lrp6</italic>
+<sup>+/&#x02212;</sup> mice had significantly reduced stiffness and maximum strength at day 28 PF in the fractured limb. They also had a significantly reduced maximum load ratio of the fractured to intact limb at that time point. This difference later in the healing process demonstrates that the heterozygous deletion of <italic>Lrp6</italic> disrupts at least one stage of endochondral ossification. Fracture healing was also disrupted because of the homozygous deletion of Lrp5<sup>
+<xref ref-type="bibr" rid="bib27">27</xref>
+</sup> and the osteoblast-specific deletion of &#x003b2;-catenin.<sup>
+<xref ref-type="bibr" rid="bib26">26</xref>
+</sup> The results reported here along with the previous literature demonstrate the importance of the role of Wnt signaling in the callus osteoblasts and/or chondrocytes during fracture healing.</p><p>The &#x003bc;CT analysis showed that at days 14 and 21 PF, the time in which chondrogenesis and endochondral ossification is occurring,<sup>
+<xref ref-type="bibr" rid="bib20">20</xref>
+</sup> the <italic>Lrp6</italic>
+<sup>+/&#x02212;</sup> group had significantly less BV/TV, IV/TV, callus density, immature density (only day 14 PF), and mature area compared with the <italic>Lrp6</italic>
+<sup>+/+</sup> group; they also had significantly more empty area. By day 28 PF, there was no significant difference in any of the &#x003bc;CT analyses. The mature bone density decreased over time because of the change of the structure of the callus. Osteoclast activity along the original cortical bone is intense around day 21 PF.<sup>
+<xref ref-type="bibr" rid="bib36">36</xref>
+</sup> As healing progresses, the interior of the callus also loses its density as the mature bone concentrates on the periosteal surface.<sup>
+<xref ref-type="bibr" rid="bib35">35</xref>
+</sup> The empty (not mineralized) area in the callus was approximately doubled in the <italic>Lrp6</italic>
+<sup>+/&#x02212;</sup> group at day 14 PF. This increase in the empty area decreased the total callus density and BV/TV in the <italic>Lrp6</italic>
+<sup>+/&#x02212;</sup> group. The empty areas that are not mineralized are not completely empty as <xref ref-type="fig" rid="fig7">Figure 7</xref> shows that the callus contains numerous cells in the regions that are not mineralized.</p><p>The mature density was likely not different between the groups because there is little gradation in the tissue density of mature bone.<sup>
+<xref ref-type="bibr" rid="bib35">35</xref>
+</sup> By day 14 PF, mature bone is distributed around the outer portions of the callus,<sup>
+<xref ref-type="bibr" rid="bib36">36</xref>
+</sup> which is the most biomechanically advantageous location.<sup>
+<xref ref-type="bibr" rid="bib8">8</xref>,<xref ref-type="bibr" rid="bib37">37</xref>
+</sup> In intact bone it is common that increased bone density leads to increased stiffness and strength, but this is not necessarily the case for fracture healing. It is most advantageous mechanically for the healing bone to be mineralized farther away from the longitudinal centerline of the bone.<sup>
+<xref ref-type="bibr" rid="bib35">35</xref>,<xref ref-type="bibr" rid="bib37">37</xref>
+</sup> For example, during the healing process mineralized callus close to the original cortical bone may be mineralized, but at this location it adds little strength in a bending test. As a result, the &#x003bc;CT measures are useful in measuring some of the mineralization processes of the callus but should be accompanied by mechanical testing because they do not always correlate with stiffness and strength. Because there was no significant difference in the stiffness and maximum load in the callus at days 14 and 21 PF, the decrease in mature area suggests that the mature bone may have been added preferentially toward the inside of the callus.</p><p>Although the immature area was not different between the groups, the immature density was decreased at day 14 PF and the IV/TV was decreased at days 14 and 21 PF in the <italic>Lrp6</italic>
+<sup>+/&#x02212;</sup> group. This suggests that there was some mineralization delay in the immature bone in mineralizing at day 14 PF in the <italic>Lrp6</italic>
+<sup>+/&#x02212;</sup> group. This is consistent with a recent study reporting that <italic>Lrp6</italic> affects early osteogenic differentiation.<sup>
+<xref ref-type="bibr" rid="bib38">38</xref>
+</sup> The area and density of the callus was not different between the two groups in the late stages of healing (day 28 PF), but the <italic>Lrp6</italic>
+<sup>+/&#x02212;</sup> group had significantly decreased stiffness, strength, and maximum load ratio. This, along with the mineralization differences at days 14 and 21 PF, also may indicate that the callus mineralization was more localized toward the inside of the callus where it is not as biomechanically advantageous. To enhance the understanding of the effect of <italic>Lrp6</italic> on fracture healing, future work using finite element analysis could be used to investigate the distribution of mineral within the callus,<sup>
+<xref ref-type="bibr" rid="bib39 bib40 bib41">39&#x02013;41</xref>
+</sup> and nano-indentation studies could be used to investigate tissue-level or location-specific differences within the callus.<sup>
+<xref ref-type="bibr" rid="bib42 bib43 bib44 bib45">42&#x02013;45</xref>
+</sup>
+</p><p>In a mouse model with a homozygous point mutation in <italic>Lrp6</italic> that results in decreased bone mass, lower bone mass in the <italic>Lrp6</italic> mutant mice was because of increased bone resorption from increased osteoclast activity with no change in bone formation.<sup>
+<xref ref-type="bibr" rid="bib46">46</xref>
+</sup> In an osteoblast-specific <italic>Lrp6</italic> knockout mouse model, lower bone mass was because of decreased bone formation with no change in osteoclast activity.<sup>
+<xref ref-type="bibr" rid="bib38">38</xref>,<xref ref-type="bibr" rid="bib47">47</xref>
+</sup> In this study, the qualitative appearance of the callus did not appear different between the <italic>Lrp6</italic>
+<sup>+/&#x02212;</sup> and <italic>Lrp6</italic>
+<sup>+/+</sup> groups in the IHC staining. The progression of healing in the cartilaginous callus followed the same pattern as that of bone built during normal endochondral ossification. The qualitative similarities in &#x003b2;-catenin and TRAP staining indicated that there was no marked difference in Wnt signaling activity or osteoclast activity, respectively. It is possible that any difference in biological activity that may have occurred was muted because of only a single deleted allele of <italic>Lrp6</italic>.</p><p>The mechanical testing and &#x003bc;CT analyses from this study demonstrate the importance of <italic>Lrp6</italic> in fracture healing and support the results of previous work on the importance of Wnt signaling in fracture healing. As embryonic mice with a homozygous <italic>Lrp6</italic> mutation have severe skeletal deformities,<sup>
+<xref ref-type="bibr" rid="bib16">16</xref>
+</sup> it is likely that an <italic>Lrp6</italic> homozygous deletion would amplify the fracture healing impairment compared with that presented in this study. It is not possible to investigate fracture healing in a total body homozygous <italic>Lrp6</italic> deletion because these mice are not viable; however, further investigation into the effect of a homozygous deletion could be investigated in a tissue-specific level using conditional knockout mouse models using the Cre-lox system (a bone- or cartilage-specific Cre model<sup>
+<xref ref-type="bibr" rid="bib48">48</xref>
+</sup> with an <italic>Lrp6</italic>
+<sup>fl/fl</sup> model, for example, refs <xref ref-type="bibr" rid="bib18">18</xref>,<xref ref-type="bibr" rid="bib38">38</xref>,<xref ref-type="bibr" rid="bib47">47</xref>,<xref ref-type="bibr" rid="bib49">49</xref>). These conditional knockout models could also be used to further investigate whether <italic>Lrp6</italic> impairs fracture healing due to the chondrogenic response and/or the later osteoblastic response.</p></sec></body><back><ack><p>We thank the members of the Mason and Williams laboratories at VARI for their assistance; Christiane Kruppa and Martin Hoffmann for assistance in performing surgeries and fractures; David Nadziejka for assistance in preparing the manuscript; Lisa Turner and the VARI histology core for their histology work; VARI&#x02019;s vivarium staff for outstanding animal husbandry; and Martin Alvarado, Luci Korpi, and the Grand Rapids Area Pre-College Engineering Program for helping with this research. BOW is supported by NIH grant AR053293.</p></ack><fn-group><fn fn-type="COI-statement"><p>BOW has received honoraria for presenting seminars related to Wnt signaling at Amgen and Vertex Pharmaceuticals. The remaining authors declare no conflict of interest.</p></fn></fn-group><ref-list><ref id="bib1"><mixed-citation publication-type="journal">
+Zhong Z
+, 
+Ethen NJ
+, 
+Williams BO
+. <article-title>WNT signaling in bone development and homeostasis</article-title>. <source>Wiley Interdiscip Rev Dev Biol</source>
+<year>2014</year>; <volume>3</volume>: <fpage>489</fpage>&#x02013;500.<pub-id pub-id-type="pmid">25270716</pub-id></mixed-citation></ref><ref id="bib2"><mixed-citation publication-type="journal">
+Maupin KA
+, 
+Droscha CJ
+, 
+Williams BO
+. <article-title>A comprehensive overview of skeletal phenotypes associated with alterations in Wnt/beta-catenin signaling in humans and mice</article-title>. <source>Bone Res</source>
+<year>2013</year>; <volume>1</volume>: <fpage>27</fpage>&#x02013;71.<pub-id pub-id-type="pmid">26273492</pub-id></mixed-citation></ref><ref id="bib3"><mixed-citation publication-type="journal">
+Gong Y
+, 
+Slee RB
+, 
+Fukai N
+et al. <article-title>LDL receptor-related protein 5 (LRP5) affects bone accrual and eye development</article-title>. <source>Cell</source>
+<year>2001</year>; <volume>107</volume>: <fpage>513</fpage>&#x02013;523.<pub-id pub-id-type="pmid">11719191</pub-id></mixed-citation></ref><ref id="bib4"><mixed-citation publication-type="journal">
+Boyden LM
+, 
+Mao J
+, 
+Belsky J
+et al. <article-title>High bone density due to a mutation in LDL-receptor-related protein 5</article-title>. <source>N Engl J Med</source>
+<year>2002</year>; <volume>346</volume>: <fpage>1513</fpage>&#x02013;1521.<pub-id pub-id-type="pmid">12015390</pub-id></mixed-citation></ref><ref id="bib5"><mixed-citation publication-type="journal">
+Little RD
+, 
+Carulli JP
+, 
+Del Mastro RG
+et al. <article-title>A mutation in the LDL receptor-related protein 5 gene results in the autosomal dominant high-bone-mass trait</article-title>. <source>Am J Hum Genet</source>
+<year>2002</year>; <volume>70</volume>: <fpage>11</fpage>&#x02013;19.<pub-id pub-id-type="pmid">11741193</pub-id></mixed-citation></ref><ref id="bib6"><mixed-citation publication-type="journal">
+Joiner DM
+, 
+Ke J
+, 
+Zhong Z
+et al. <article-title>LRP5 and LRP6 in development and disease</article-title>. <source>Trends Endocrinol Metab</source>
+<year>2013</year>; <volume>24</volume>: <fpage>31</fpage>&#x02013;39.<pub-id pub-id-type="pmid">23245947</pub-id></mixed-citation></ref><ref id="bib7"><mixed-citation publication-type="journal">
+Azzolin L
+, 
+Zanconato F
+, 
+Bresolin S
+et al. <article-title>Role of TAZ as mediator of Wnt signaling</article-title>. <source>Cell</source>
+<year>2012</year>; <volume>151</volume>: <fpage>1443</fpage>&#x02013;1456.<pub-id pub-id-type="pmid">23245942</pub-id></mixed-citation></ref><ref id="bib8"><mixed-citation publication-type="journal">
+Burgers TA
+, 
+Williams BO
+. <article-title>Regulation of Wnt/beta-catenin signaling within and from osteocytes</article-title>. <source>Bone</source>
+<year>2013</year>; <volume>54</volume>: <fpage>244</fpage>&#x02013;249.<pub-id pub-id-type="pmid">23470835</pub-id></mixed-citation></ref><ref id="bib9"><mixed-citation publication-type="journal">
+van Meurs JB
+, 
+Rivadeneira F
+, 
+Jhamai M
+et al. <article-title>Common genetic variation of the low-density lipoprotein receptor-related protein 5 and 6 genes determines fracture risk in elderly white men</article-title>. <source>J Bone Miner Res</source>
+<year>2006</year>; <volume>21</volume>: <fpage>141</fpage>&#x02013;150.<pub-id pub-id-type="pmid">16355283</pub-id></mixed-citation></ref><ref id="bib10"><mixed-citation publication-type="journal">
+Mani A
+, 
+Radhakrishnan J
+, 
+Wang H
+et al. <article-title>LRP6 mutation in a family with early coronary disease and metabolic risk factors</article-title>. <source>Science</source>
+<year>2007</year>; <volume>315</volume>: <fpage>1278</fpage>&#x02013;1282.<pub-id pub-id-type="pmid">17332414</pub-id></mixed-citation></ref><ref id="bib11"><mixed-citation publication-type="journal">
+Sims AM
+, 
+Shephard N
+, 
+Carter K
+et al. <article-title>Genetic analyses in a sample of individuals with high or low BMD shows association with multiple Wnt pathway genes</article-title>. <source>J Bone Miner Res</source>
+<year>2008</year>; <volume>23</volume>: <fpage>499</fpage>&#x02013;506.<pub-id pub-id-type="pmid">18021006</pub-id></mixed-citation></ref><ref id="bib12"><mixed-citation publication-type="journal">
+Riancho JA
+, 
+Olmos JM
+, 
+Pineda B
+et al. <article-title>Wnt receptors, bone mass, and fractures: gene-wide association analysis of LRP5 and LRP6 polymorphisms with replication</article-title>. <source>Eur J Endocrinol</source>
+<year>2011</year>; <volume>164</volume>: <fpage>123</fpage>&#x02013;131.<pub-id pub-id-type="pmid">20926594</pub-id></mixed-citation></ref><ref id="bib13"><mixed-citation publication-type="journal">
+van Meurs JB
+, 
+Trikalinos TA
+, 
+Ralston SH
+et al. <article-title>Large-scale analysis of association between LRP5 and LRP6 variants and osteoporosis</article-title>. <source>JAMA</source>
+<year>2008</year>; <volume>299</volume>: <fpage>1277</fpage>&#x02013;1290.<pub-id pub-id-type="pmid">18349089</pub-id></mixed-citation></ref><ref id="bib14"><mixed-citation publication-type="journal">
+Mencej-Bedrac S
+, 
+Prezelj J
+, 
+Kocjan T
+et al. <article-title>Analysis of association of LRP5, LRP6, SOST, DKK1, and CTNNB1 genes with bone mineral density in a Slovenian population</article-title>. <source>Calcif Tissue Int</source>
+<year>2009</year>; <volume>85</volume>: <fpage>501</fpage>&#x02013;506.<pub-id pub-id-type="pmid">19898734</pub-id></mixed-citation></ref><ref id="bib15"><mixed-citation publication-type="journal">
+Yerges LM
+, 
+Klei L
+, 
+Cauley JA
+et al. <article-title>Candidate gene analysis of femoral neck trabecular and cortical volumetric bone mineral density in older men</article-title>. <source>J Bone Miner Res</source>
+<year>2010</year>; <volume>25</volume>: <fpage>330</fpage>&#x02013;338.<pub-id pub-id-type="pmid">19619005</pub-id></mixed-citation></ref><ref id="bib16"><mixed-citation publication-type="journal">
+Pinson KI
+, 
+Brennan J
+, 
+Monkley S
+et al. <article-title>An LDL-receptor-related protein mediates Wnt signalling in mice</article-title>. <source>Nature</source>
+<year>2000</year>; <volume>407</volume>: <fpage>535</fpage>&#x02013;538.<pub-id pub-id-type="pmid">11029008</pub-id></mixed-citation></ref><ref id="bib17"><mixed-citation publication-type="journal">
+Holmen SL
+, 
+Giambernardi TA
+, 
+Zylstra CR
+et al. <article-title>Decreased BMD and limb deformities in mice carrying mutations in both Lrp5 and Lrp6</article-title>. <source>J Bone Miner Res</source>
+<year>2004</year>; <volume>19</volume>: <fpage>2033</fpage>&#x02013;2040.<pub-id pub-id-type="pmid">15537447</pub-id></mixed-citation></ref><ref id="bib18"><mixed-citation publication-type="journal">
+Joeng KS
+, 
+Schumacher CA
+, 
+Zylstra-Diegel CR
+et al. <article-title>Lrp5 and Lrp6 redundantly control skeletal development in the mouse embryo</article-title>. <source>Dev Biol</source>
+<year>2011</year>; <volume>359</volume>: <fpage>222</fpage>&#x02013;229.<pub-id pub-id-type="pmid">21924256</pub-id></mixed-citation></ref><ref id="bib19"><mixed-citation publication-type="journal">
+Ferguson CM
+, 
+Miclau T
+, 
+Hu D
+et al. <article-title>Common molecular pathways in skeletal morphogenesis and repair</article-title>. <source>Ann N Y Acad Sci</source>
+<year>1998</year>; <volume>857</volume>: <fpage>33</fpage>&#x02013;42.<pub-id pub-id-type="pmid">9917830</pub-id></mixed-citation></ref><ref id="bib20"><mixed-citation publication-type="journal">
+Hadjiargyrou M
+, 
+Lombardo F
+, 
+Zhao S
+et al. <article-title>Transcriptional profiling of bone regeneration. Insight into the molecular complexity of wound repair</article-title>. <source>J Biol Chem</source>
+<year>2002</year>; <volume>277</volume>: <fpage>30177</fpage>&#x02013;30182.<pub-id pub-id-type="pmid">12055193</pub-id></mixed-citation></ref><ref id="bib21"><mixed-citation publication-type="journal">
+Parker MJ
+, 
+Raghavan R
+, 
+Gurusamy K
+. <article-title>Incidence of fracture-healing complications after femoral neck fractures</article-title>. <source>Clin Orthop Relat Res</source>
+<year>2007</year>; <volume>458</volume>: <fpage>175</fpage>&#x02013;179.<pub-id pub-id-type="pmid">17224836</pub-id></mixed-citation></ref><ref id="bib22"><mixed-citation publication-type="journal">
+Court-Brown CM
+, 
+McQueen MM
+. <article-title>Nonunions of the proximal humerus: their prevalence and functional outcome</article-title>. <source>J Trauma</source>
+<year>2008</year>; <volume>64</volume>: <fpage>1517</fpage>&#x02013;1521.<pub-id pub-id-type="pmid">18545116</pub-id></mixed-citation></ref><ref id="bib23"><mixed-citation publication-type="journal">
+Coulibaly MO
+, 
+Sietsema DL
+, 
+Burgers TA
+et al. <article-title>Recent advances in the use of serological bone formation markers to monitor callus development and fracture healing</article-title>. <source>Crit Rev Eukaryot Gene Expr</source>
+<year>2010</year>; <volume>20</volume>: <fpage>105</fpage>&#x02013;127.<pub-id pub-id-type="pmid">21133841</pub-id></mixed-citation></ref><ref id="bib24"><mixed-citation publication-type="journal">
+French DM
+, 
+Kaul RJ
+, 
+D'Souza AL
+et al. <article-title>WISP-1 is an osteoblastic regulator expressed during skeletal development and fracture repair</article-title>. <source>Am J Pathol</source>
+<year>2004</year>; <volume>165</volume>: <fpage>855</fpage>&#x02013;867.<pub-id pub-id-type="pmid">15331410</pub-id></mixed-citation></ref><ref id="bib25"><mixed-citation publication-type="journal">
+Zhong N
+, 
+Gersch RP
+, 
+Hadjiargyrou M
+. <article-title>Wnt signaling activation during bone regeneration and the role of Dishevelled in chondrocyte proliferation and differentiation</article-title>. <source>Bone</source>
+<year>2006</year>; <volume>39</volume>: <fpage>5</fpage>&#x02013;16.<pub-id pub-id-type="pmid">16459154</pub-id></mixed-citation></ref><ref id="bib26"><mixed-citation publication-type="journal">
+Chen Y
+, 
+Whetstone HC
+, 
+Lin AC
+et al. <article-title>Beta-catenin signaling plays a disparate role in different phases of fracture repair: implications for therapy to improve bone healing</article-title>. <source>PLoS Med</source>
+<year>2007</year>; <volume>4</volume>: <fpage>e249</fpage>.<pub-id pub-id-type="pmid">17676991</pub-id></mixed-citation></ref><ref id="bib27"><mixed-citation publication-type="journal">
+Komatsu DE
+, 
+Mary MN
+, 
+Schroeder RJ
+et al. <article-title>Modulation of Wnt signaling influences fracture repair</article-title>. <source>J Orthop Res</source>
+<year>2010</year>; <volume>28</volume>: <fpage>928</fpage>&#x02013;936.<pub-id pub-id-type="pmid">20063381</pub-id></mixed-citation></ref><ref id="bib28"><mixed-citation publication-type="journal">
+Gaur T
+, 
+Wixted JJ
+, 
+Hussain S
+et al. <article-title>Secreted frizzled related protein 1 is a target to improve fracture healing</article-title>. <source>J Cell Physiol</source>
+<year>2009</year>; <volume>220</volume>: <fpage>174</fpage>&#x02013;181.<pub-id pub-id-type="pmid">19301255</pub-id></mixed-citation></ref><ref id="bib29"><mixed-citation publication-type="journal">
+Kelly OG
+, 
+Pinson KI
+, 
+Skarnes WC
+. <article-title>The Wnt co-receptors Lrp5 and Lrp6 are essential for gastrulation in mice</article-title>. <source>Development</source>
+<year>2004</year>; <volume>131</volume>: <fpage>2803</fpage>&#x02013;2815.<pub-id pub-id-type="pmid">15142971</pub-id></mixed-citation></ref><ref id="bib30"><mixed-citation publication-type="journal">
+Bonnarens F
+, 
+Einhorn TA
+. <article-title>Production of a standard closed fracture in laboratory animal bone</article-title>. <source>J Orthop Res</source>
+<year>1984</year>; <volume>2</volume>: <fpage>97</fpage>&#x02013;101.<pub-id pub-id-type="pmid">6491805</pub-id></mixed-citation></ref><ref id="bib31"><mixed-citation publication-type="journal">
+Hugunin KM
+, 
+Fry C
+, 
+Shuster K
+et al. <article-title>Effects of tramadol and buprenorphine on select immunologic factors in a cecal ligation and puncture model</article-title>. <source>Shock</source>
+<year>2010</year>; <volume>34</volume>: <fpage>250</fpage>&#x02013;260.<pub-id pub-id-type="pmid">20803785</pub-id></mixed-citation></ref><ref id="bib32"><mixed-citation publication-type="journal">
+Burgers TA
+, 
+Hoffmann MF
+, 
+Collins CJ
+et al. <article-title>Mice lacking pten in osteoblasts have improved intramembranous and late endochondral fracture healing</article-title>. <source>PLoS One</source>
+<year>2013</year>; <volume>8</volume>: <fpage>e63857</fpage>.<pub-id pub-id-type="pmid">23675511</pub-id></mixed-citation></ref><ref id="bib33"><mixed-citation publication-type="journal">
+Rho JY
+, 
+Hobatho MC
+, 
+Ashman RB
+. <article-title>Relations of mechanical properties to density and CT numbers in human bone</article-title>. <source>Med Eng Phys</source>
+<year>1995</year>; <volume>17</volume>: <fpage>347</fpage>&#x02013;355.<pub-id pub-id-type="pmid">7670694</pub-id></mixed-citation></ref><ref id="bib34"><mixed-citation publication-type="journal">
+Burgers TA
+, 
+Mason J
+, 
+Niebur G
+et al. <article-title>Compressive properties of trabecular bone in the distal femur</article-title>. <source>J Biomech</source>
+<year>2008</year>; <volume>41</volume>: <fpage>1077</fpage>&#x02013;1085.<pub-id pub-id-type="pmid">18206893</pub-id></mixed-citation></ref><ref id="bib35"><mixed-citation publication-type="journal">
+Collins CJ
+, 
+Vivanco JF
+, 
+Sokn SA
+et al. <article-title>Fracture healing in mice lacking Pten in osteoblasts: a micro-computed tomography image-based analysis of the mechanical properties of the femur</article-title>. <source>J Biomech</source>
+<year>2015</year>; <volume>48</volume>: <fpage>310</fpage>&#x02013;317.<pub-id pub-id-type="pmid">25498366</pub-id></mixed-citation></ref><ref id="bib36"><mixed-citation publication-type="journal">
+Ushiku C
+, 
+Adams DJ
+, 
+Jiang X
+et al. <article-title>Long bone fracture repair in mice harboring GFP reporters for cells within the osteoblastic lineage</article-title>. <source>J Orthop Res</source>
+<year>2010</year>; <volume>28</volume>: <fpage>1338</fpage>&#x02013;1347.<pub-id pub-id-type="pmid">20839319</pub-id></mixed-citation></ref><ref id="bib37"><mixed-citation publication-type="journal">
+Aiyangar AK
+, 
+Au AG
+, 
+Crenshaw TD
+et al. <article-title>Recovery of bone strength in young pigs from an induced short-term dietary calcium deficit followed by a calcium replete diet</article-title>. <source>Med Eng Phys</source>
+<year>2010</year>; <volume>32</volume>: <fpage>1116</fpage>&#x02013;1123.<pub-id pub-id-type="pmid">20920874</pub-id></mixed-citation></ref><ref id="bib38"><mixed-citation publication-type="journal">
+Riddle RC
+, 
+Diegel CR
+, 
+Leslie JM
+et al. <article-title>Lrp5 and Lrp6 exert overlapping functions in osteoblasts during postnatal bone acquisition</article-title>. <source>PLoS One</source>
+<year>2013</year>; <volume>8</volume>: <fpage>e63323</fpage>.<pub-id pub-id-type="pmid">23675479</pub-id></mixed-citation></ref><ref id="bib39"><mixed-citation publication-type="journal">
+Gardner TN
+, 
+Mishra S
+. <article-title>The biomechanical environment of a bone fracture and its influence upon the morphology of healing</article-title>. <source>Med Eng Phys</source>
+<year>2003</year>; <volume>25</volume>: <fpage>455</fpage>&#x02013;464.<pub-id pub-id-type="pmid">12787983</pub-id></mixed-citation></ref><ref id="bib40"><mixed-citation publication-type="journal">
+Vaughan TJ
+, 
+McCarthy CT
+, 
+McNamara LM
+. <article-title>A three-scale finite element investigation into the effects of tissue mineralisation and lamellar organisation in human cortical and trabecular bone</article-title>. <source>J Mech Behav Biomed Mater</source>
+<year>2012</year>; <volume>12</volume>: <fpage>50</fpage>&#x02013;62.<pub-id pub-id-type="pmid">22659366</pub-id></mixed-citation></ref><ref id="bib41"><mixed-citation publication-type="journal">
+Trabelsi N
+, 
+Milgrom C
+, 
+Yosibash Z
+. <article-title>Patient-specific FE analyses of metatarsal bones with inhomogeneous isotropic material properties</article-title>. <source>J Mech Behav Biomed Mater</source>
+<year>2014</year>; <volume>29</volume>: <fpage>177</fpage>&#x02013;189.<pub-id pub-id-type="pmid">24095899</pub-id></mixed-citation></ref><ref id="bib42"><mixed-citation publication-type="journal">
+Leong PL
+, 
+Morgan EF
+. <article-title>Correlations between indentation modulus and mineral density in bone-fracture calluses</article-title>. <source>Integr Comp Biol</source>
+<year>2009</year>; <volume>49</volume>: <fpage>59</fpage>&#x02013;68.<pub-id pub-id-type="pmid">21669846</pub-id></mixed-citation></ref><ref id="bib43"><mixed-citation publication-type="journal">
+Spiesz EM
+, 
+Roschger P
+, 
+Zysset PK
+. <article-title>Elastic anisotropy of uniaxial mineralized collagen fibers measured using two-directional indentation. Effects of hydration state and indentation depth</article-title>. <source>J Mech Behav Biomed Mater</source>
+<year>2012</year>; <volume>12</volume>: <fpage>20</fpage>&#x02013;28.<pub-id pub-id-type="pmid">22664658</pub-id></mixed-citation></ref><ref id="bib44"><mixed-citation publication-type="journal">
+Rodriguez-Florez N
+, 
+Oyen ML
+, 
+Shefelbine SJ
+. <article-title>Insight into differences in nanoindentation properties of bone</article-title>. <source>J Mech Behav Biomed Mater</source>
+<year>2013</year>; <volume>18</volume>: <fpage>90</fpage>&#x02013;99.<pub-id pub-id-type="pmid">23262307</pub-id></mixed-citation></ref><ref id="bib45"><mixed-citation publication-type="journal">
+Slane J
+, 
+Vivanco J
+, 
+Ebenstein D
+et al. <article-title>Multiscale characterization of acrylic bone cement modified with functionalized mesoporous silica nanoparticles</article-title>. <source>J Mech Behav Biomed Mater</source>
+<year>2014</year>; <volume>37</volume>: <fpage>141</fpage>&#x02013;152.<pub-id pub-id-type="pmid">24911668</pub-id></mixed-citation></ref><ref id="bib46"><mixed-citation publication-type="journal">
+Kubota T
+, 
+Michigami T
+, 
+Sakaguchi N
+et al. <article-title>Lrp6 hypomorphic mutation affects bone mass through bone resorption in mice and impairs interaction with Mesd</article-title>. <source>J Bone Miner Res</source>
+<year>2008</year>; <volume>23</volume>: <fpage>1661</fpage>&#x02013;1671.<pub-id pub-id-type="pmid">18505367</pub-id></mixed-citation></ref><ref id="bib47"><mixed-citation publication-type="journal">
+Li C
+, 
+Xing Q
+, 
+Yu B
+et al. <article-title>Disruption of LRP6 in osteoblasts blunts the bone anabolic activity of PTH</article-title>. <source>J Bone Miner Res</source>
+<year>2013</year>; <volume>28</volume>: <fpage>2094</fpage>&#x02013;2108.<pub-id pub-id-type="pmid">23609180</pub-id></mixed-citation></ref><ref id="bib48"><mixed-citation publication-type="journal">
+Elefteriou F
+, 
+Yang X
+. <article-title>Genetic mouse models for bone studies--strengths and limitations</article-title>. <source>Bone</source>
+<year>2011</year>; <volume>49</volume>: <fpage>1242</fpage>&#x02013;1254.<pub-id pub-id-type="pmid">21907838</pub-id></mixed-citation></ref><ref id="bib49"><mixed-citation publication-type="journal">
+Li C
+, 
+Williams BO
+, 
+Cao X
+et al. <article-title>LRP6 in mesenchymal stem cells is required for bone formation during bone growth and bone remodeling</article-title>. <source>Bone Res</source>
+<year>2014</year>; <volume>2</volume>: <fpage>14006</fpage>.<pub-id pub-id-type="pmid">26273519</pub-id></mixed-citation></ref></ref-list></back><floats-group><fig id="fig1"><label>Figure 1</label><caption><p>Biomechanical measures of intact bone. There was no statistical difference in (<bold>a</bold>) stiffness and (<bold>b</bold>) maximum load in <italic>Lrp6</italic>
+<sup>+/&#x02212;</sup> and <italic>Lrp6</italic>
+<sup>+/+</sup> controls at any time point. Error bars indicate one s.d. above the <italic>Lrp6</italic>
+<sup>+/+</sup> group and one s.d. below the <italic>Lrp6</italic>
+<sup>+/&#x02212;</sup> group.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="boneres201625-f1"/></fig><fig id="fig2"><label>Figure 2</label><caption><p>Biomechanical measures of fractured femurs. There was a significant decrease in the (<bold>a</bold>) stiffness and (<bold>b</bold>) maximum load at 28 days post fracture (PF) in the <italic>Lrp6</italic>
+<sup>+/&#x02212;</sup> group. Error bars indicate one s.d. above the <italic>Lrp6</italic>
+<sup>+/+</sup> group and one s.d. below the <italic>Lrp6</italic>
+<sup>+/&#x02212;</sup> group (*<italic>P</italic>&#x0003c;0.05, <italic>Lrp6</italic>
+<sup>+/&#x02212;</sup> and <italic>Lrp6</italic>
+<sup>+/+</sup> at the time point).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="boneres201625-f2"/></fig><fig id="fig3"><label>Figure 3</label><caption><p>Stiffness and maximum load ratios of fractured to intact femurs. There was no statistical difference in the (<bold>a</bold>) stiffness load ratio at any time point. There was a significant decrease in the (<bold>b</bold>) maximum load ratio at 28 days post fracture (PF) in the <italic>Lrp6</italic>
+<sup>+/&#x02212;</sup> group. Error bars indicate one s.d. above the <italic>Lrp6</italic>
+<sup>+/+</sup> group and one s.d. below the <italic>Lrp6</italic>
+<sup>+/&#x02212;</sup> group (*<italic>P</italic>&#x0003c;0.05, <italic>Lrp6</italic>
+<sup>+/&#x02212;</sup> and <italic>Lrp6</italic>
+<sup>+/+</sup> at the time point).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="boneres201625-f3"/></fig><fig id="fig4"><label>Figure 4</label><caption><p>Bone volume over tissue volume (BV/TV) and immature bone volume over tissue volume (IV/TV) ratio for fracture callus. There was a significant decrease in BV/TV and IV/TV at days 14 and 21 post fracture (PF) in the <italic>Lrp6</italic>
+<sup>+/&#x02212;</sup> group. Error bars indicate one s.d. above the <italic>Lrp6</italic>
+<sup>+/+</sup> group and one s.d. below the <italic>Lrp6</italic>
+<sup>+/&#x02212;</sup> group (*<italic>P</italic>&#x0003c;0.05, <italic>Lrp6</italic>
+<sup>+/&#x02212;</sup> and <italic>Lrp6</italic>
+<sup>+/+</sup> at the time point, and note that IV/TV significance is indicated below the data points).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="boneres201625-f4"/></fig><fig id="fig5"><label>Figure 5</label><caption><p>Total callus density, mature callus density, and immature callus density in the fracture callus. There was a significant decrease in (<bold>a</bold>) total callus density at days 14 and 21 post fracture (PF) in the <italic>Lrp6</italic>
+<sup>+/&#x02212;</sup> group and in the (<bold>b</bold>) immature callus density at day 14 PF. There was no significant difference in the mature callus density at any time point. Error bars indicate one s.d. above the <italic>Lrp6</italic>
+<sup>+/+</sup> group and one s.d. below the <italic>Lrp6</italic>
+<sup>+/&#x02212;</sup> group (*<italic>P</italic>&#x0003c;0.05, <italic>Lrp6</italic>
+<sup>+/&#x02212;</sup> and <italic>Lrp6</italic>
+<sup>+/+</sup> at the time point).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="boneres201625-f5"/></fig><fig id="fig6"><label>Figure 6</label><caption><p>Total callus area, mature callus area, immature callus area, and empty callus area in the fracture callus. There was no statistical difference in the (<bold>a</bold>) total area or immature area at any time point. There was a significant increase in the (<bold>b</bold>) empty area and a significant decrease in the (<bold>b</bold>) mature area at days 14 and 21 post fracture (PF) in the <italic>Lrp6</italic>
+<sup>+/&#x02212;</sup> group. There was no statistical difference in total area or immature area at any time point. Error bars indicate one s.d. above for the group with the larger area and one s.d. below for the group with the smaller area (*<italic>P</italic>&#x0003c;0.05, <italic>Lrp6</italic>
+<sup>+/&#x02212;</sup> and <italic>Lrp6</italic>
+<sup>+/+</sup> at the time point).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="boneres201625-f6"/></fig><fig id="fig7"><label>Figure 7</label><caption><p>Representative &#x003b2;-catenin staining (for Wnt signaling activity, brown). There is similar &#x003b2;-catenin expression in the <italic>Lrp6</italic>
+<sup>+/&#x02212;</sup> group (left) compared with the <italic>Lrp6</italic>
+<sup>+/+</sup> controls (right) throughout healing (day 14 post fracture (PF), top; and day 28 PF, bottom, shown here).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="boneres201625-f7"/></fig><fig id="fig8"><label>Figure 8</label><caption><p>Representative tartrate-resistant acid phosphatase (TRAP) staining (for osteoclasts, purple). There is similar TRAP expression in the <italic>Lrp6</italic>
+<sup>+/&#x02212;</sup> group (left) compared with the <italic>Lrp6</italic>
+<sup>+/+</sup> controls (right) throughout healing (day 14 post fracture (PF), top; and day 28 PF, bottom, shown here).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="boneres201625-f8"/></fig></floats-group></article>

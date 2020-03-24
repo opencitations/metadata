@@ -1,0 +1,511 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">3 Biotech</journal-id><journal-id journal-id-type="iso-abbrev">3 Biotech</journal-id><journal-title-group><journal-title>3 Biotech</journal-title></journal-title-group><issn pub-type="epub">2190-5738</issn><publisher><publisher-name>Springer Berlin Heidelberg</publisher-name><publisher-loc>Berlin/Heidelberg</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">28330231</article-id><article-id pub-id-type="pmc">4975724</article-id><article-id pub-id-type="publisher-id">476</article-id><article-id pub-id-type="doi">10.1007/s13205-016-0476-9</article-id><article-categories><subj-group subj-group-type="heading"><subject>Original Article</subject></subj-group></article-categories><title-group><article-title>Prevalence of toxigenic fungi in common medicinal herbs and spices in India</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Aiko</surname><given-names>Visenuo</given-names></name><xref ref-type="aff" rid="Aff1"/></contrib><contrib contrib-type="author" corresp="yes"><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-4417-8041</contrib-id><name><surname>Mehta</surname><given-names>Alka</given-names></name><address><phone>91 416 220 2479</phone><email>alkamehta@vit.ac.in</email></address><xref ref-type="aff" rid="Aff1"/></contrib><aff id="Aff1">School of Bio Sciences and Technology, VIT University, Vellore, 632014 India </aff></contrib-group><pub-date pub-type="epub"><day>5</day><month>8</month><year>2016</year></pub-date><pub-date pub-type="pmc-release"><day>5</day><month>8</month><year>2016</year></pub-date><pub-date pub-type="ppub"><month>12</month><year>2016</year></pub-date><volume>6</volume><issue>2</issue><elocation-id>159</elocation-id><history><date date-type="received"><day>24</day><month>11</month><year>2015</year></date><date date-type="accepted"><day>1</day><month>8</month><year>2016</year></date></history><permissions><copyright-statement>&#x000a9; The Author(s) 2016</copyright-statement><license license-type="OpenAccess"><license-p>
+<bold>Open Access</bold>This article is distributed under the terms of the Creative Commons Attribution 4.0 International License (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made.</license-p></license></permissions><abstract id="Abs1"><p>Mycotoxins are unavoidable contaminants of food grains, feeds, medicinal herbs, and spices, posing as health threat to animals and humans. The objective of this study was to screen medicinal herbs and spices for fungi and mycotoxin contamination and evaluate their safety. Sixty-three samples were examined for fungal contamination and fungal load determined using standard microbiological method. Aflatoxin and citrinin were detected using thin layer chromatography and high-performance chromatography technique. Fifty-eight out of the 63 samples were contaminated, while five were free from fungal contamination. Analysis revealed that 47&#x000a0;% of the samples had a fungal load above 1&#x000a0;&#x000d7;&#x000a0;10<sup>3</sup> cfu/g which is the permissible limit set by World Health Organization. The samples <italic>Mesua ferrea</italic>-II and <italic>Terminalia chebula</italic>-III had the highest fungal load, i.e., 5.0&#x000a0;&#x000d7;&#x000a0;10<sup>4</sup> cfu/g. A total of 187 fungi were isolated, out of which 28 were toxigenic which included 19 aflatoxin-producing <italic>Aspergillus flavus</italic> and 9 citrinin-producing <italic>Penicillium citrinum</italic>. The natural contamination with aflatoxin B<sub>1</sub> was detected only in one sample, i.e., <italic>Arachis hypogaea</italic> (groundnut) which was present beyond the permissible limit. Though toxigenic fungi were isolated, mycotoxins were not detected from any of the medicinal herbs and spices. Medicinal herbs and spices are susceptible to toxigenic fungi; however, they also possess intrinsic factors that inhibit mycotoxin contamination. This study provides a basis in assessing the degree of fungal and potential mycotoxin contamination in medicinal herbs and spices.</p><sec><title>Electronic supplementary material</title><p>The online version of this article (doi:10.1007/s13205-016-0476-9) contains supplementary material, which is available to authorized users.</p></sec></abstract><kwd-group xml:lang="en"><title>Keywords</title><kwd>Aflatoxin B<sub>1</sub></kwd><kwd>Citrinin</kwd><kwd>Fungal load</kwd><kwd>Mycotoxins</kwd></kwd-group><custom-meta-group><custom-meta><meta-name>issue-copyright-statement</meta-name><meta-value>&#x000a9; King Abdulaziz City for Science and Technology 2016</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec id="Sec1"><title>Introduction</title><p>Mycotoxins which literally mean &#x0201c;fungus poison&#x0201d; are secondary metabolites produced by saprophytic fungi, such as <italic>Aspergillus flavus</italic>, <italic>A. ochraceus</italic>, <italic>Fusarium moniliforme</italic>, <italic>F. graminearum</italic>, <italic>Penicillium citrinum</italic>, <italic>P. expansum</italic>, etc. The important mycotoxins causing significant health hazards are aflatoxins, ochratoxin A, citrinin, <italic>Fusarium</italic> toxins, patulin, and zearalenone. They are toxic to both animal species and humans and are reported to be carcinogenic, hepatotoxic, nephrotoxic, cytotoxic, mutagenic, and immuno-suppressive (Hussain and Brasel <xref ref-type="bibr" rid="CR18">2001</xref>).</p><p>Mycotoxins occur as natural and unavoidable contaminants on a variety of food commodities posing as potential health hazard. The occurrence of fungi and mycotoxins in medicinal herbs has been reported from around the world. Studies in India showed the natural occurrence of aflatoxin B<sub>1</sub>, citrinin, ochratoxin A, and zearalenone in medicinal plants and herbal drugs, such as <italic>Asparagus racemosus</italic>, <italic>Cinnamomum zeylanicum</italic>, <italic>Elettaria cardomomum</italic>, <italic>Piper nigrum</italic>, <italic>Zingiber officinale</italic>, etc. (Roy et al. <xref ref-type="bibr" rid="CR29">1988</xref>; Chourasia <xref ref-type="bibr" rid="CR11">1995</xref>; Thirumala-Devi et al. <xref ref-type="bibr" rid="CR32">2001</xref>). The incidence of toxigenic fungi producing aflatoxins, ochratoxin A, and fumonisin on medicinal herbs was reported from Argentina (Rizzo et al. <xref ref-type="bibr" rid="CR27">2004</xref>). An investigation from South Africa showed the presence of fumonisin B<sub>1</sub> in dietary and medicinal wild plants (Sewram et al. <xref ref-type="bibr" rid="CR31">2006</xref>). Bugno et al. (<xref ref-type="bibr" rid="CR8">2006</xref>) had reported the occurrence of aflatoxins-, ochratoxin A-, and citrinin- producing <italic>Aspergillus</italic> and <italic>Penicillium</italic> in medicinal herbs in Brazil. In Saudi Arabia, the presence of aflatoxin B<sub>1</sub> (12&#x02013;40&#x000a0;&#x000b5;g/kg) in <italic>Pimpenella anisum</italic>, <italic>P. nigrum</italic>, <italic>Mentha piperita</italic>, and <italic>Origamun majorana</italic> was reported (Bokhari <xref ref-type="bibr" rid="CR7">2007</xref>). A survey in Korea on spices and processed spice products for aflatoxin contamination showed the presence of aflatoxins at 0.08&#x02013;4.66&#x000a0;&#x000b5;g/kg level in samples of red pepper and ginger products (Cho et al. <xref ref-type="bibr" rid="CR10">2008</xref>). Multicontamination of mycotoxins with T-2 toxin, zearalenone, aflatoxins, ochratoxin A, deoxynivalenol, citrinin, and fumonisin were detected in 84 medicinal herbs surveyed in Spain (Santos et al. <xref ref-type="bibr" rid="CR30">2009</xref>).</p><p>In India, the medicinal properties of plants have been greatly exploited in Ayurveda which is one of the traditional systems of Indian medicine. Herbs are used as dietary and health supplements and the demand for medicinal herbs as an alternative medicine has increased over the last few years. These herbs are often prone to fungal and mycotoxin contamination; the efficacy and safety of medicinal herbs are questionable, and the detailed reports on the same are still scarce (Calixto <xref ref-type="bibr" rid="CR9">2000</xref>; Trucksess and Scott <xref ref-type="bibr" rid="CR34">2008</xref>). The consumption of medicinal herbs contaminated with mycotoxins may cause ill effects rather than improving the well-being of an individual.</p><p>The objective of this study was to evaluate the safety of medicinal herbs and spices by screening for fungal and mycotoxin contamination. In addition, the fungal load in the samples was determined, and toxigenic fungi were identified.</p></sec><sec id="Sec2"><title>Materials and methods</title><sec id="Sec3"><title>Sampling</title><p>Medicinal herbs and spices were collected from retail market and herbal farm in polythene bags which were then brought to the laboratory for testing. The samples obtained from the herbal farm have been certified by CSIR-NISCAIR-National Institute of Science Communication and Information Resources, New Delhi. The samples obtained from the market have been confirmed with the Handbook on Herbaria in India and Neighboring Countries (Viswanathan et al. <xref ref-type="bibr" rid="CR35">2000</xref>).</p><p>A total of 63 samples which includes 38 different types of commonly used herbs, herbal products, spices, and food materials were analyzed for fungal and mycotoxin contamination. Samples were selected based on the common usage and regular availability in retail shops. The samples were recollected after a period of 6 and 12&#x000a0;months based on their availability and analyzed within a week of collection and then stored in a cold room for future use.</p><p>The moisture content of the samples was checked by drying at 80&#x000a0;&#x000b0;C in a hot air oven until their weight remained constant. The total moisture content was then calculated using the given formula (Nielsen <xref ref-type="bibr" rid="CR25">2010</xref>):</p><p>
+<disp-formula id="Equa"><alternatives><tex-math id="M1">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$ {\text{Moisture }}\;\% \, \; = \; \, \left( {{\text{A }}\;{-}\;{\text{ B }}\; \div \;{\text{ A}}} \right) \, \; \times \, \; 100, $$\end{document}</tex-math><mml:math id="M2" display="block"><mml:mrow><mml:mrow><mml:mtext>Moisture</mml:mtext><mml:mspace width="0.333333em"/></mml:mrow><mml:mspace width="0.277778em"/><mml:mo>%</mml:mo><mml:mspace width="0.166667em"/><mml:mspace width="0.277778em"/><mml:mo>=</mml:mo><mml:mspace width="0.277778em"/><mml:mspace width="0.166667em"/><mml:mfenced close=")" open="(" separators=""><mml:mrow><mml:mrow><mml:mtext>A</mml:mtext><mml:mspace width="0.333333em"/></mml:mrow><mml:mspace width="0.277778em"/><mml:mo>-</mml:mo><mml:mspace width="0.277778em"/><mml:mrow><mml:mspace width="0.333333em"/><mml:mtext>B</mml:mtext><mml:mspace width="0.333333em"/></mml:mrow><mml:mspace width="0.277778em"/><mml:mo>&#x000f7;</mml:mo><mml:mspace width="0.277778em"/><mml:mrow><mml:mspace width="0.333333em"/><mml:mtext>A</mml:mtext></mml:mrow></mml:mrow></mml:mfenced><mml:mspace width="0.166667em"/><mml:mspace width="0.277778em"/><mml:mo>&#x000d7;</mml:mo><mml:mspace width="0.166667em"/><mml:mspace width="0.277778em"/><mml:mn>100</mml:mn><mml:mo>,</mml:mo></mml:mrow></mml:math><graphic xlink:href="13205_2016_476_Article_Equa.gif" position="anchor"/></alternatives></disp-formula>where A is the wet weight and B is the dried weight of samples.</p></sec></sec><sec id="Sec4"><title>Materials</title><p>Culture mediums used were Rose Bengal Chloramphenicol Agar (RBCA), Potato Dextrose Agar (PDA), and Yeast Extract Sucrose broth (YES) from HiMedia, India. Thin layer chromatography plates (TLC Silica gel 60 F<sub>254</sub>) were procured from Merck (Darmstadt, Germany), aflatoxin mix (B<sub>1</sub>, B<sub>2</sub>, G<sub>1</sub>, and G<sub>2</sub>) from Supelco (Bellefonte, PA, USA) and citrinin from Sigma (St. Louis, MO, USA).</p><sec id="Sec5"><title>Screening samples for fungal contamination and enumeration of fungal load</title><p>One gram of powdered sample was diluted in 10&#x000a0;ml sterile 0.1&#x000a0;% aqueous peptone. 200 &#x000b5;L of this suspension (dilution factor 10<sup>&#x02212;1</sup>) was inoculated onto PDA and RBCA by the spread plate method (Hocking et al. <xref ref-type="bibr" rid="CR16">2006</xref>). Direct plating was also performed by placing small pieces of unsterilized samples on the medium without dilution. The plates were incubated at 28&#x000a0;&#x000b0;C for 2&#x02013;7&#x000a0;days. The fungal colonies were counted and the total fungal load was calculated as colony forming unit (CFU) per gram of the sample. The different fungal isolates were subcultured on PDA till pure cultures were obtained. The isolated fungi were identified macroscopically and microscopically by their cultural and morphological characteristics. These pure cultures were further analyzed for toxin production and transferred to PDA slants for long-term storage.</p></sec><sec id="Sec6"><title>Screening fungal isolates for mycotoxin producers</title><p>The fungal isolates were inoculated into 5&#x000a0;ml of YES broth and incubated at 28&#x000a0;&#x000b0;C for 7&#x000a0;days. After the incubation period, the broth was filtered through Whatman paper into a separating funnel and then extracted with 10&#x000a0;ml chloroform. The extract was then evaporated to dryness and redissolved in 1&#x000a0;ml chloroform (Kumar et al. <xref ref-type="bibr" rid="CR20">2010</xref>). Without further purification, the extracts were detected for mycotoxin by TLC (Holcomb et al. <xref ref-type="bibr" rid="CR17">1992</xref>; Lin et al. <xref ref-type="bibr" rid="CR21">1998</xref>). Ten microliters of the extracts were spotted on a TLC plate along with mycotoxin standards (aflatoxin B<sub>1</sub>, B<sub>2</sub>, G<sub>1</sub>, G<sub>2</sub>, and citrinin) and developed in toluene: ethyl acetate: formic acid (6:3:1, v/v/v) solvent system. The characteristic fluorescence of mycotoxins was visualized under Ultra Violet (UV) light at 365&#x000a0;nm and confirmed chemically by spraying 50&#x000a0;% aqueous sulfuric acid. The Rf values of the standard aflatoxin B<sub>1</sub>, B<sub>2</sub>, G<sub>1</sub>, G<sub>2</sub>, and citrinin were 0.51, 0.47, 0.4, 0.36, and 0.72, respectively, in the solvent system used. The detection limit of aflatoxin B<sub>1</sub> was noted as 10&#x000a0;ng/ml. The toxigenic fungal isolates were identified on the basis of partial DNA sequence analysis at Agharkar Research Institute, Pune, India.</p></sec><sec id="Sec7"><title>Screening herbs for mycotoxin contamination</title><p>Five grams of the grounded samples were extracted with 20&#x000a0;ml chloroform. The extract was filtered through Whatman paper, evaporated to dryness, and redissolved in 1&#x000a0;ml chloroform (Hitokoto et al. <xref ref-type="bibr" rid="CR15">1978</xref>; Kumar et al. <xref ref-type="bibr" rid="CR20">2010</xref>). Analysis by TLC was performed as described above. The chloroform extract was evaporated to dryness and redissolved in benzene for detection of aflatoxin using high-performance liquid chromatography (HPLC) (Waters, Milford, USA). Twenty microliters was injected into the HPLC sampler and water: actenotrile: methanol (60:20:20 v/v/v) was used as mobile phase at a flow rate of 1&#x000a0;ml/min. Aflatoxin was detected with UV detector at a wavelength of 365&#x000a0;nm. The analysis showed the elution of the standard aflatoxin B<sub>1</sub>, B<sub>2</sub>, G<sub>1</sub>, and G<sub>2</sub> at retention time 9.95, 7.9, 7.19, and 5.77&#x000a0;min, respectively (Supplementary Fig.&#x000a0;1). The performance analysis of HPLC with standard aflatoxin B<sub>1</sub> showed deviation in retention time and peak area within the acceptable value (&#x0003c;5&#x000a0;%) with a detection limit of 6&#x000a0;ng/ml in the experimental condition used.</p></sec></sec><sec id="Sec8"><title>Results</title><sec id="Sec9"><title>Fungal contamination and fungal load</title><p>In this study, the presence of fungi and mycotoxin in medicinal herbs and spices was examined. The moisture content of all the samples was below 9&#x000a0;%, which is the optimum condition for storage. Table&#x000a0;<xref rid="Tab1" ref-type="table">1</xref> shows the samples that were screened for fungal and mycotoxin contamination. The results obtained showed that out of the 63 samples analyzed, 58 were positive for fungal contamination, while 5 were free from any fungus in the experimental conditions used. <italic>Illicium verum, Plantago ovate</italic>, <italic>Rheum emodi</italic>, <italic>Syzygium aromaticum,</italic> and Herbal drug-3 were the samples that had no fungal contamination. Supplementary Fig.&#x000a0;2 shows the fungal contamination in various herbal samples.<table-wrap id="Tab1"><label>Table&#x000a0;1</label><caption><p>Fungal contamination in medicinal herbs and spices</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left">S. no.</th><th align="left">Sample</th><th align="left">Part used</th><th align="left">Fungal load (cfu/g)</th><th align="left">Isolated fungi</th><th align="left">Toxigenic fungi</th></tr></thead><tbody><tr><td align="left" rowspan="3">1</td><td align="left" rowspan="3">
+<italic>Acalypha fruticosa</italic> (Chinni)</td><td align="left" rowspan="3">Leaves</td><td align="left" rowspan="3">2&#x000a0;&#x000d7;&#x000a0;10<sup>2</sup>
+</td><td align="left">
+<italic>Aspergillus niger</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Aspergillus</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Aspergillus</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left" rowspan="4">2</td><td align="left" rowspan="4">
+<italic>Acorus calamus</italic> (Sweet flag)</td><td align="left" rowspan="4">Root</td><td align="left" rowspan="4">4.5&#x000a0;&#x000d7;&#x000a0;10<sup>2</sup>
+</td><td align="left">
+<italic>Aspergillus niger</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Aspergillus</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Cladosporium</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">Unknown</td><td align="left">&#x02013;</td></tr><tr><td align="left" rowspan="3">3</td><td align="left" rowspan="3">
+<italic>Arachis hypogaea</italic> (Groundnut)</td><td align="left" rowspan="3">Seed</td><td align="left" rowspan="3">2.75&#x000a0;&#x000d7;&#x000a0;10<sup>3</sup>
+</td><td align="left">
+<italic>Aspergillus flavus</italic>
+</td><td align="left">AFB<sub>1</sub>
+</td></tr><tr><td align="left">
+<italic>Aspergillus niger</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Aspergillus flavus</italic>
+</td><td align="left">AFB<sub>1</sub>
+</td></tr><tr><td align="left" rowspan="3">4</td><td align="left" rowspan="3">
+<italic>Asparagus racemosus</italic>-I (Shatawer)</td><td align="left" rowspan="3">Root</td><td align="left" rowspan="3">8.5&#x000a0;&#x000d7;&#x000a0;10<sup>3</sup>
+</td><td align="left">
+<italic>Aspergillus niger</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Fusarium</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Penicillium citrinum</italic>
+</td><td align="left">CIT</td></tr><tr><td align="left" rowspan="2">5</td><td align="left" rowspan="2">
+<italic>Asparagus racemosus</italic>-II (Shatawer)</td><td align="left" rowspan="2">Root</td><td align="left" rowspan="2">5.0&#x000a0;&#x000d7;&#x000a0;10<sup>2</sup>
+</td><td align="left">
+<italic>Aspergillus niger</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">Unknown</td><td align="left">&#x02013;</td></tr><tr><td align="left" rowspan="4">6</td><td align="left" rowspan="4">
+<italic>Asparagus racemosus</italic>-III (Shatawer)</td><td align="left" rowspan="4">Root</td><td align="left" rowspan="4">6.0&#x000a0;&#x000d7;&#x000a0;10<sup>2</sup>
+</td><td align="left">
+<italic>Aspergillus niger</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">Unknown</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Penicillium</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Penicillium</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left" rowspan="5">7</td><td align="left" rowspan="5">
+<italic>Asparagus racemosus</italic>-IV (Shatawer)</td><td align="left" rowspan="5">Root</td><td align="left" rowspan="5">1.65&#x000a0;&#x000d7;&#x000a0;10<sup>3</sup>
+</td><td align="left">
+<italic>Aspergillus niger</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Aspergillus</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Aspergillus</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Penicillium</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">Unknown</td><td align="left">&#x02013;</td></tr><tr><td align="left" rowspan="5">8</td><td align="left" rowspan="5">
+<italic>Bergenia ciliate</italic> (Winter bergenia)</td><td align="left" rowspan="5">Root</td><td align="left" rowspan="5">1.15&#x000a0;&#x000d7;&#x000a0;10<sup>3</sup>
+</td><td align="left">
+<italic>Aspergillus niger</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Aspergillus</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Aspergillus</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Aspergillus flavus</italic>
+</td><td align="left">AFB<sub>1</sub>
+</td></tr><tr><td align="left">
+<italic>Aspergillus</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">9</td><td align="left">
+<italic>Brassica juncea</italic> (Mustard)</td><td align="left">Seed</td><td align="left">2.5&#x000a0;&#x000d7;&#x000a0;10<sup>3</sup>
+</td><td align="left">
+<italic>Penicillium</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left" rowspan="7">10</td><td align="left" rowspan="7">
+<italic>Chlorophytum borivilianum</italic>-I (Safed musli)</td><td align="left" rowspan="7">Root</td><td align="left" rowspan="7">3.5&#x000a0;&#x000d7;&#x000a0;10<sup>3</sup>
+</td><td align="left">
+<italic>Aspergillus niger</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Aspergillus flavus</italic>
+</td><td align="left">AFB<sub>1</sub>
+</td></tr><tr><td align="left">
+<italic>Aspergillus</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Fusarium</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Aspergillus</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Cladosporium</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Fusarium</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left" rowspan="8">11</td><td align="left" rowspan="8">
+<italic>Chlorophytum borivilianum</italic>-II (Safed musli)</td><td align="left" rowspan="8">Root</td><td align="left" rowspan="8">8.5&#x000a0;&#x000d7;&#x000a0;10<sup>2</sup>
+</td><td align="left">
+<italic>Aspergillus</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Penicillium citrinum</italic>
+</td><td align="left">CIT</td></tr><tr><td align="left">
+<italic>Penicillium citrinum</italic>
+</td><td align="left">CIT</td></tr><tr><td align="left">
+<italic>Aspergillus</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Fusarium</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Aspergillus</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Penicillium citrinum</italic>
+</td><td align="left">CIT</td></tr><tr><td align="left">
+<italic>Aspergillus</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left" rowspan="2">12</td><td align="left" rowspan="2">
+<italic>Chlorophytum borivilianum</italic>-III (Safed musli)</td><td align="left" rowspan="2">Root</td><td align="left" rowspan="2">4.0&#x000a0;&#x000d7;&#x000a0;10<sup>2</sup>
+</td><td align="left">
+<italic>Aspergillus niger</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Aspergillus</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left" rowspan="2">13</td><td align="left" rowspan="2">
+<italic>Chlorophytum borivilianum</italic>-IV (Safed musli)</td><td align="left" rowspan="2">Root</td><td align="left" rowspan="2">5.65&#x000a0;&#x000d7;&#x000a0;10<sup>3</sup>
+</td><td align="left">
+<italic>Aspergillus niger</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Mucor</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left" rowspan="2">14</td><td align="left" rowspan="2">
+<italic>Cinnamomum verum</italic> (Cinnamon)</td><td align="left" rowspan="2">Bark</td><td align="left" rowspan="2">7.0&#x000a0;&#x000d7;&#x000a0;10<sup>2</sup>
+</td><td align="left">
+<italic>Aspergillus niger</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Mucor</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">15</td><td align="left">
+<italic>Cocus nucifera</italic> (Coconut)</td><td align="left">Fruit</td><td align="left">5.0&#x000a0;&#x000d7;&#x000a0;10<sup>2</sup>
+</td><td align="left">
+<italic>Penicillium</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left" rowspan="3">16</td><td align="left" rowspan="3">
+<italic>Elettaria cardamomum</italic> (Cardamom)</td><td align="left" rowspan="3">Seed pod</td><td align="left" rowspan="3">7.5&#x000a0;&#x000d7;&#x000a0;10<sup>2</sup>
+</td><td align="left">
+<italic>Aspergillus niger</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Mucor</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Rhizopus</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left" rowspan="3">17</td><td align="left" rowspan="3">
+<italic>Ficus arnottiana</italic>-I (Paras peepal)</td><td align="left" rowspan="3">Bark</td><td align="left" rowspan="3">2.2&#x000a0;&#x000d7;&#x000a0;10<sup>3</sup>
+</td><td align="left">
+<italic>Aspergillus niger</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Penicillium citrinum</italic>
+</td><td align="left">CIT</td></tr><tr><td align="left">
+<italic>Penicillium</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left" rowspan="2">18</td><td align="left" rowspan="2">
+<italic>Ficus arnottiana</italic>-II (Paras peepal)</td><td align="left" rowspan="2">Bark</td><td align="left" rowspan="2">2.6&#x000a0;&#x000d7;&#x000a0;10<sup>3</sup>
+</td><td align="left">
+<italic>Penicillium citrinum</italic>
+</td><td align="left">CIT</td></tr><tr><td align="left">
+<italic>Aspergillus</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left" rowspan="2">19</td><td align="left" rowspan="2">
+<italic>Ficus arnottiana</italic>-I (Paras peepal)</td><td align="left" rowspan="2">Flower</td><td align="left" rowspan="2">3.0&#x000a0;&#x000d7;&#x000a0;10<sup>2</sup>
+</td><td align="left">
+<italic>Aspergillus niger</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Mucor</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left" rowspan="3">20</td><td align="left" rowspan="3">
+<italic>Ficus arnottiana</italic>-II (Paras peepal)</td><td align="left" rowspan="3">Flower</td><td align="left" rowspan="3">3.5&#x000a0;&#x000d7;&#x000a0;10<sup>2</sup>
+</td><td align="left">
+<italic>Aspergillus niger</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">Unknown</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Mucor</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left" rowspan="4">21</td><td align="left" rowspan="4">
+<italic>Ficus arnottiana</italic>-III (Paras peepal)</td><td align="left" rowspan="4">Flower</td><td align="left" rowspan="4">5.5&#x000a0;&#x000d7;&#x000a0;10<sup>2</sup>
+</td><td align="left">
+<italic>Aspergillus niger</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Penicillium</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">Unknown</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Aspergillus</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left" rowspan="3">22</td><td align="left" rowspan="3">
+<italic>Ficus arnottiana</italic>-IV (Paras peepal)</td><td align="left" rowspan="3">Flower</td><td align="left" rowspan="3">10.4&#x000a0;&#x000d7;&#x000a0;10<sup>3</sup>
+</td><td align="left">
+<italic>Aspergillus niger</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Mucor</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Penicillium</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left" rowspan="3">23</td><td align="left" rowspan="3">
+<italic>Foeniculum vulgare</italic>-I (Fennel)</td><td align="left" rowspan="3">Seed</td><td align="left" rowspan="3">3.5&#x000a0;&#x000d7;&#x000a0;10<sup>2</sup>
+</td><td align="left">
+<italic>Alternaria</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Mucor</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Aspergillus</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">24</td><td align="left">
+<italic>Foeniculum vulgare</italic>-II (Fennel)</td><td align="left">Seed</td><td align="left">2.0&#x000a0;&#x000d7;&#x000a0;10<sup>3</sup>
+</td><td align="left">Unknown</td><td align="left">&#x02013;</td></tr><tr><td align="left" rowspan="5">25</td><td align="left" rowspan="5">
+<italic>Glycyrrhiza glabra</italic>-I (Mulethi)</td><td align="left" rowspan="5">Root</td><td char="&#x000d7;" align="left" rowspan="5">1.75&#x000a0;&#x000d7;&#x000a0;10<sup>3</sup>
+</td><td align="left">
+<italic>Aspergillus</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Penicillium</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Aspergillus</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Cladosporium</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Penicillium citrinum</italic>
+</td><td align="left">CIT</td></tr><tr><td align="left" rowspan="7">26</td><td align="left" rowspan="7">
+<italic>Glycyrrhiza glabra</italic>-II (Mulethi)</td><td align="left" rowspan="7">Root</td><td char="&#x000d7;" align="left" rowspan="7">3.2&#x000a0;&#x000d7;&#x000a0;10<sup>3</sup>
+</td><td align="left">
+<italic>Aspergillus niger</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Penicillium</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Penicillium</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Penicillium</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Aspergillus flavus</italic>
+</td><td align="left">AFB<sub>1</sub>
+</td></tr><tr><td align="left">
+<italic>Alternaria</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Penicillium</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left" rowspan="5">27</td><td align="left" rowspan="5">
+<italic>Glycyrrhiza glabra</italic>-III (Mulethi)</td><td align="left" rowspan="5">Root</td><td char="&#x000d7;" align="left" rowspan="5">5.0&#x000a0;&#x000d7;&#x000a0;10<sup>3</sup>
+</td><td align="left">
+<italic>Aspergillus niger</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Aspergillus flavus</italic>
+</td><td align="left">AFB<sub>1</sub>
+</td></tr><tr><td align="left">
+<italic>Penicillium</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Aspergillus</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">Unknown</td><td align="left">&#x02013;</td></tr><tr><td align="left">28</td><td align="left">Herbal drug-1</td><td align="left">Unknown herb mixture</td><td char="&#x000d7;" align="left">5.0&#x000a0;&#x000d7;&#x000a0;10<sup>1</sup>
+</td><td align="left">
+<italic>Aspergillus flavus</italic>
+</td><td align="left">AFB<sub>1</sub>
+</td></tr><tr><td align="left" rowspan="4">29</td><td align="left" rowspan="4">Herbal drug-2</td><td align="left" rowspan="4">Unknown herb mixture</td><td char="&#x000d7;" align="left" rowspan="4">1.5&#x000a0;&#x000d7;&#x000a0;10<sup>4</sup>
+</td><td align="left">
+<italic>Aspergillus Niger</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Aspergillus</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Aspergillus</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Aspergillus</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">30</td><td align="left">Herbal drug-3</td><td align="left">Unknown herb mixture</td><td align="left">ND</td><td align="left">ND</td><td align="left">&#x02013;</td></tr><tr><td align="left" rowspan="2">31</td><td align="left" rowspan="2">Herbal drug-4</td><td align="left" rowspan="2">Unknown herb mixture</td><td char="&#x000d7;" align="left" rowspan="2">3.5&#x000a0;&#x000d7;&#x000a0;10<sup>2</sup>
+</td><td align="left">
+<italic>Penicillium citrinum</italic>
+</td><td align="left">CIT</td></tr><tr><td align="left">
+<italic>Aspergillus</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left" rowspan="3">32</td><td align="left" rowspan="3">Herbal drug-5</td><td align="left" rowspan="3">Unknown herb mixture</td><td char="&#x000d7;" align="left" rowspan="3">2.0&#x000a0;&#x000d7;&#x000a0;10<sup>2</sup>
+</td><td align="left">
+<italic>Aspergillus niger</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Mucor</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Aspergillus</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left" rowspan="4">33</td><td align="left" rowspan="4">Herbal drug-6</td><td align="left" rowspan="4">Unknown herb mixture</td><td char="&#x000d7;" align="left" rowspan="4">2.3&#x000a0;&#x000d7;&#x000a0;10<sup>3</sup>
+</td><td align="left">
+<italic>Aspergillus</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Aspergillus</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Aspergillus</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Aspergillus</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left" rowspan="2">34</td><td align="left" rowspan="2">Herbal drug-7</td><td align="left" rowspan="2">Unknown herb mixture</td><td char="&#x000d7;" align="left" rowspan="2">2.0&#x000a0;&#x000d7;&#x000a0;10<sup>2</sup>
+</td><td align="left">
+<italic>Penicillium</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Penicillium</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">35</td><td align="left">
+<italic>Illicium verum</italic> (Star anise)</td><td align="left">Fruit</td><td align="left">ND</td><td align="left">ND</td><td align="left">&#x02013;</td></tr><tr><td align="left" rowspan="6">36</td><td align="left" rowspan="6">
+<italic>Mesua ferrea</italic>-I (Nagkeshar)</td><td align="left" rowspan="6">Flower bud</td><td char="&#x000d7;" align="left" rowspan="6">7.5&#x000a0;&#x000d7;&#x000a0;10<sup>2</sup>
+</td><td align="left">
+<italic>Penicillium citrinum</italic>
+</td><td align="left">CIT</td></tr><tr><td align="left">
+<italic>Penicillium</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Aspergillus</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Aspergillus</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Aspergillus flavus</italic>
+</td><td align="left">AFB<sub>1</sub>
+</td></tr><tr><td align="left">
+<italic>Aspergillus</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left" rowspan="3">37</td><td align="left" rowspan="3">
+<italic>Mesua ferrea</italic>-II (Nagkeshar)</td><td align="left" rowspan="3">Flower bud</td><td char="&#x000d7;" align="left" rowspan="3">5.0&#x000a0;&#x000d7;&#x000a0;10<sup>4</sup>
+</td><td align="left">
+<italic>Aspergillus niger</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Aspergillus flavus</italic>
+</td><td align="left">AFB<sub>1</sub>
+</td></tr><tr><td align="left">
+<italic>Aspergillus flavus</italic>
+</td><td align="left">AFB<sub>1</sub>
+</td></tr><tr><td align="left" rowspan="5">38</td><td align="left" rowspan="5">
+<italic>Mesua ferrea</italic>-III (Nagkeshar)</td><td align="left" rowspan="5">Flower bud</td><td char="&#x000d7;" align="left" rowspan="5">2.6&#x000a0;&#x000d7;&#x000a0;10<sup>3</sup>
+</td><td align="left">
+<italic>Aspergillus niger</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Mucor</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Aspergillus flavus</italic>
+</td><td align="left">AFB<sub>1</sub>
+</td></tr><tr><td align="left">
+<italic>Penicillium</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Cladosporium</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left" rowspan="3">39</td><td align="left" rowspan="3">
+<italic>Myristica fragrans</italic> (Mace)</td><td align="left" rowspan="3">Seed</td><td align="left" rowspan="3">6.5&#x000a0;&#x000d7;&#x000a0;10<sup>2</sup>
+</td><td align="left">
+<italic>Aspergillus niger</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Mucor</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Aspergillus</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left" rowspan="3">40</td><td align="left" rowspan="3">Nimbapatradi churnam</td><td align="left" rowspan="3">Unknown herb mixture</td><td align="left" rowspan="3">8.5&#x000a0;&#x000d7;&#x000a0;10<sup>2</sup>
+</td><td align="left">
+<italic>Aspergillus flavus</italic>
+</td><td align="left">AFB<sub>1</sub>
+</td></tr><tr><td align="left">
+<italic>Aspergillus</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Aspergillus</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left" rowspan="7">41</td><td align="left" rowspan="7">
+<italic>Oroxylum indicum</italic> (Indian trumpet)</td><td align="left" rowspan="7">Stem bark</td><td align="left" rowspan="7">1.8&#x000a0;&#x000d7;&#x000a0;10<sup>3</sup>
+</td><td align="left">
+<italic>Aspergillus</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Aspergillus</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Aspergillus</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Aspergillus</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Cladosporium</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Fusarium</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Aspergillus niger</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left" rowspan="2">42</td><td align="left" rowspan="2">
+<italic>Phyllanthus emblica</italic>-I (Amla)</td><td align="left" rowspan="2">Fruit</td><td align="left" rowspan="2">6.0&#x000a0;&#x000d7;&#x000a0;10<sup>2</sup>
+</td><td align="left">
+<italic>Aspergillus</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Cladosporium</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left" rowspan="4">43</td><td align="left" rowspan="4">
+<italic>Phyllanthus emblica</italic>-II (Amla)</td><td align="left" rowspan="4">Fruit</td><td align="left" rowspan="4">9.0&#x000a0;&#x000d7;&#x000a0;10<sup>2</sup>
+</td><td align="left">
+<italic>Aspergillus niger</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Cladosporium</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Aspergillus</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">Unknown</td><td align="left">&#x02013;</td></tr><tr><td align="left" rowspan="5">44</td><td align="left" rowspan="5">
+<italic>Phyllanthus emblica</italic>-III (Amla)</td><td align="left" rowspan="5">Fruit</td><td align="left" rowspan="5">1.75&#x000a0;&#x000d7;&#x000a0;10<sup>3</sup>
+</td><td align="left">
+<italic>Aspergillus niger</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Penicillium</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Aspergillus</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Aspergillus</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Cladosporium</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">45</td><td align="left">
+<italic>Piper longum</italic> (Long pepper)</td><td align="left">Fruit</td><td align="left">4.0&#x000a0;&#x000d7;&#x000a0;10<sup>2</sup>
+</td><td align="left">
+<italic>Mucor</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left" rowspan="2">46</td><td align="left" rowspan="2">
+<italic>Piper nigrum</italic> (Pepper)</td><td align="left" rowspan="2">Fruit</td><td align="left" rowspan="2">1.0&#x000a0;&#x000d7;&#x000a0;10<sup>2</sup>
+</td><td align="left">
+<italic>Aspergillus niger</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Cladosporium</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">47</td><td align="left">
+<italic>Plantago ovate</italic> (Isabgol)</td><td align="left">Fruit</td><td align="left">ND</td><td align="left">ND</td><td align="left">&#x02013;</td></tr><tr><td align="left">48</td><td align="left">
+<italic>Rheum emodi</italic> (Himalayan rubhada)</td><td align="left">Root</td><td align="left">ND</td><td align="left">ND</td><td align="left">&#x02013;</td></tr><tr><td align="left" rowspan="4">49</td><td align="left" rowspan="4">
+<italic>Sesamum indicum</italic> (Sesame seed)</td><td align="left" rowspan="4">Seed</td><td char="&#x000d7;" align="left" rowspan="4">7.0&#x000a0;&#x000d7;&#x000a0;10<sup>2</sup>
+</td><td align="left">
+<italic>Aspergillus niger</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Aspergillus niger</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Aspergillus flavus</italic>
+</td><td align="left">AFB<sub>1</sub>
+</td></tr><tr><td align="left">
+<italic>Aspergillus flavus</italic>
+</td><td align="left">AFB<sub>1</sub>
+</td></tr><tr><td align="left" rowspan="3">50</td><td align="left" rowspan="3">
+<italic>Stevia rebaudiana</italic> (Stevia)</td><td align="left" rowspan="3">Leaves</td><td char="&#x000d7;" align="left" rowspan="3">3.5&#x000a0;&#x000d7;&#x000a0;10<sup>2</sup>
+</td><td align="left">
+<italic>Aspergillus</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Fusarium</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Alternaria</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">51</td><td align="left">
+<italic>Syzygium aromaticum</italic> (Clove)</td><td align="left">Flower bud</td><td align="left">ND</td><td align="left">ND</td><td align="left">&#x02013;</td></tr><tr><td align="left">52</td><td align="left">
+<italic>Terminalia belerica</italic>-I (Baheda)</td><td align="left">Fruit</td><td char="&#x000d7;" align="left">2.0&#x000a0;&#x000d7;&#x000a0;10<sup>3</sup>
+</td><td align="left">
+<italic>Aspergillus niger</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left" rowspan="2">53</td><td align="left" rowspan="2">
+<italic>Terminalia belerica</italic>-II (Baheda)</td><td align="left" rowspan="2">Fruit</td><td char="&#x000d7;" align="left" rowspan="2">2.0&#x000a0;&#x000d7;&#x000a0;10<sup>3</sup>
+</td><td align="left">
+<italic>Aspergillus niger</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Mucor</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left" rowspan="3">54</td><td align="left" rowspan="3">
+<italic>Terminalia belerica</italic>-III (Baheda)</td><td align="left" rowspan="3">Fruit</td><td char="&#x000d7;" align="left" rowspan="3">2.5&#x000a0;&#x000d7;&#x000a0;10<sup>4</sup>
+</td><td align="left">
+<italic>Aspergillus niger</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Aspergillus flavus</italic>
+</td><td align="left">AFB<sub>1</sub>
+</td></tr><tr><td align="left">
+<italic>Aspergillus flavus</italic>
+</td><td align="left">AFB<sub>1</sub>
+</td></tr><tr><td align="left" rowspan="6">55</td><td align="left" rowspan="6">
+<italic>Terminalia chebula</italic>-I (Harre badi)</td><td align="left" rowspan="6">Fruit</td><td char="&#x000d7;" align="left" rowspan="6">3.0&#x000a0;&#x000d7;&#x000a0;10<sup>3</sup>
+</td><td align="left">
+<italic>Aspergillus niger</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Aspergillus niger</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Cladosporium</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Penicillium</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Aspergillus</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Aspergillus flavus</italic>
+</td><td align="left">AFB<sub>1</sub>
+</td></tr><tr><td align="left">56</td><td align="left">
+<italic>Terminalia chebula</italic>-II (Harre badi)</td><td align="left">Fruit</td><td char="&#x000d7;" align="left">8.0&#x000a0;&#x000d7;&#x000a0;10<sup>3</sup>
+</td><td align="left">
+<italic>Aspergillus niger</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">57</td><td align="left">
+<italic>Terminalia chebula</italic>-III (Harre badi)</td><td align="left">Fruit</td><td align="left">5.0&#x000a0;&#x000d7;&#x000a0;10<sup>4</sup>
+</td><td align="left">
+<italic>Aspergillus niger</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">58</td><td align="left">
+<italic>Terminalia chebula</italic>-I (Harre choti)</td><td align="left">Fruit</td><td align="left">4.5&#x000a0;&#x000d7;&#x000a0;10<sup>2</sup>
+</td><td align="left">
+<italic>Aspergillus niger</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left" rowspan="3">59</td><td align="left" rowspan="3">
+<italic>Terminalia chebula</italic>-II (Harre choti)</td><td align="left" rowspan="3">Fruit</td><td align="left" rowspan="3">8.0&#x000a0;&#x000d7;&#x000a0;10<sup>2</sup>
+</td><td align="left">
+<italic>Aspergillus niger</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Aspergillus flavus</italic>
+</td><td align="left">AFB<sub>1</sub>
+</td></tr><tr><td align="left">
+<italic>Aspergillus</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">60</td><td align="left">
+<italic>Terminalia chebula</italic>-III (Harre choti)</td><td align="left">Fruit</td><td align="left">5.0&#x000a0;&#x000d7;&#x000a0;10<sup>4</sup>
+</td><td align="left">
+<italic>Aspergillus niger</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left" rowspan="2">61</td><td align="left" rowspan="2">
+<italic>Withania somnifera</italic>-I (Ashwagandha)</td><td align="left" rowspan="2">Root</td><td align="left" rowspan="2">2.6&#x000a0;&#x000d7;&#x000a0;10<sup>3</sup>
+</td><td align="left">
+<italic>Mucor</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Aspergillus niger</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left" rowspan="3">62</td><td align="left" rowspan="3">
+<italic>Withania somnifera</italic>-II (Ashwagandha)</td><td align="left" rowspan="3">Root</td><td align="left" rowspan="3">3.2&#x000a0;&#x000d7;&#x000a0;10<sup>3</sup>
+</td><td align="left">
+<italic>Aspergillus niger</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Aspergillus flavus</italic>
+</td><td align="left">AFB<sub>1</sub>
+</td></tr><tr><td align="left">
+<italic>Mucor</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left" rowspan="6">63</td><td align="left" rowspan="6">
+<italic>Withania somnifera</italic>-III (Ashwagandha)</td><td align="left" rowspan="6">Root</td><td align="left" rowspan="6">5.5&#x000a0;&#x000d7;&#x000a0;10<sup>2</sup>
+</td><td align="left">
+<italic>Aspergillus niger</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Mucor</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Penicillium</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">Unknown</td><td align="left">&#x02013;</td></tr><tr><td align="left">
+<italic>Cladosporium</italic>
+</td><td align="left">&#x02013;</td></tr><tr><td align="left">Unknown</td><td align="left">&#x02013;</td></tr></tbody></table><table-wrap-foot><p>Samples collected at different intervals are represented as I, II, III, and IV</p><p>
+<italic>AFB</italic>
+<sub><italic>1</italic></sub> aflatoxin B<sub>1</sub>, <italic>CIT</italic> citrinin, <italic>ND</italic> none detected in the experimental conditions used</p></table-wrap-foot></table-wrap>
+</p><p>The fungal load in the samples were enumerated as colony forming unit per gram (CFU/g) of sample and given in Table&#x000a0;<xref rid="Tab1" ref-type="table">1</xref>. Nine herbs comprising 14.28&#x000a0;% of the total samples had the highest fungal contamination (5.0&#x000a0;&#x000d7;&#x000a0;10<sup>3</sup> to 5.0&#x000a0;&#x000d7;&#x000a0;10<sup>4</sup> cfu/g) which includes <italic>Asparagus racemosus</italic>-<italic>I</italic>, <italic>Chlorophytum borivilianum</italic>-<italic>IV</italic>, <italic>Ficus arnottiana</italic>-<italic>IV</italic>, Herbal drug-2, <italic>Mesua ferrea</italic>-<italic>II</italic>, <italic>Terminalia belerica</italic>-<italic>III,</italic>
+<italic>Terminalia chebula</italic>-<italic>II (Harre badi)</italic>, <italic>Terminalia chebula</italic>-<italic>III (Harre badi)</italic>, and <italic>Terminalia chebula</italic>-<italic>III (Harre choti)</italic>. The majority of the herbs (52&#x000a0;%) had a fungal load in the range of 5.0&#x000a0;&#x000d7;&#x000a0;10<sup>2</sup> to 5.0&#x000a0;&#x000d7;&#x000a0;10<sup>3</sup>. Samples that contain the least fungal load (5.0&#x000a0;&#x000d7;&#x000a0;10<sup>1</sup> to 3.5&#x000a0;&#x000d7;&#x000a0;10<sup>2</sup> cfu/g) include <italic>Asparagus racemosus</italic>-2, Herbal drug-1, <italic>Ficus arnottiana</italic>-1 (Fruit), <italic>Ficus arnottiana</italic>-2 (Fruit), Herbal drug-5, Herbal drug-7, and <italic>Acalypha fruticosa</italic>. The result showed that 45.31&#x000a0;% of the samples have a fungal load above the permissible limit of the World Health Organization (WHO <xref ref-type="bibr" rid="CR36">2005</xref>). A contamination limit of 1&#x000a0;&#x000d7;&#x000a0;10<sup>3</sup> cfu/g has been set by WHO for yeasts and molds in medicinal plants.</p></sec><sec id="Sec10"><title>Fungal isolates</title><p>A total of 187 fungi were isolated from the samples of medicinal herbs, spices, and food materials (Table&#x000a0;<xref rid="Tab1" ref-type="table">1</xref>). The different genus of the fungi, such as <italic>Aspergillus</italic>, <italic>Penicillium</italic>, <italic>Mucor</italic>, <italic>Cladosporium</italic>, <italic>Fusarium</italic>, <italic>Alternaria,</italic> and <italic>Rhizopus,</italic> were identified. Among the various species of <italic>Aspergillus</italic>, <italic>Aspergillus niger</italic> was found to be the most commonly occurring contaminant and was isolated from 42 (66.66&#x000a0;%) samples. The fungal isolates were further screened for mycotoxin producers especially for aflatoxins and citrinin (Supplementary Fig.&#x000a0;3). Twenty-eight fungi out of 187 isolates were mycotoxin producers which included 19 aflatoxin B<sub>1</sub>-producing <italic>Aspergillus flavus</italic> and 9 citrinin-producing <italic>Penicillium citrinum</italic>. The toxins were further confirmed by running the extracts spiked with aflatoxins and citrinin standards on TLC plates and spraying with aqueous sulphuric acid. The toxigenic <italic>Aspergillus</italic> isolates were identified as <italic>Aspergillus flavus</italic> Link 1809 similarity with NCBI sequence accession HQ14704.1, whereas the toxigenic <italic>Penicillium</italic> isolates were identified as <italic>Penicillium citrinum</italic> Sopp 1910 similarity with NCBI sequence accession HQ232482.1.</p><p>Toxigenic fungi were isolated from samples that had low fungal load, such as <italic>Sesamum indicum</italic> and Herbal drug-1; while samples that had a high fungal load, such as <italic>Terminalia chebula</italic>-4 and Herbal drug-2, had no toxigenic fungi. Aflatoxin B<sub>1</sub>-producing <italic>A. flavus</italic> and citrinin-producing <italic>P. citrinum</italic> were isolated from all the samples of <italic>Glycyrrhiza glabra</italic>. A total of 19 fungi were isolated from the four samples of <italic>Chlorophytum borivilianum</italic> out of which three were <italic>P. citrinum</italic> producing citrinin and one was <italic>A. flavus</italic> producing aflatoxin B<sub>1</sub>. When the bark and fruit of <italic>Ficus arnottiana</italic> were screened, the occurrence of citrinin-producing <italic>Penicillium</italic> on the bark and the absence of toxigenic fungi on the fruit were found to be consistent in all the samples collected at different time periods. The presence of toxigenic <italic>A. flavus</italic> on <italic>Mesua ferrea</italic> occurred consistently when screened again after a period of 6 and 12&#x000a0;months. All the samples of <italic>Asparagus racemosus</italic> which is commonly used in herbal drugs were contaminated with fungi; however, none of the <italic>Aspergillus</italic> isolates were toxigenic, and only one <italic>P. citrinum</italic> was a citrinin producer.</p></sec><sec id="Sec11"><title>Mycotoxin contamination</title><p>About 33&#x000a0;% of the samples analyzed showed the presence of toxigenic fungi producing aflatoxins and citrinin, which indicate the potential for the presence of mycotoxins in herbs. Therefore, the herbs were further screened for natural contamination with aflatoxins and citrinin. Of the 63 samples analyzed, only one sample was found to be contaminated with aflatoxin B<sub>1</sub>. The HPLC analysis of <italic>Arachis hypogaea</italic> (groundnut) sample showed the presence of a peak at a retention time of 10.06&#x000a0;min which corresponded with the standard aflatoxin B<sub>1</sub> (Supplementary Fig.&#x000a0;4). The concentration of aflatoxin B<sub>1</sub> in groundnut was found to be 2.5&#x000a0;mg/kg, which is beyond the Indian permissible limit, i.e., 30&#x000a0;&#x000b5;g/kg. This groundnut sample was highly contaminated with toxigenic <italic>Aspergillus</italic>. Though toxigenic fungi were present in the other samples, mycotoxins were not detected from any of the herbs and medicinal plants. The result suggests that the herbs either were free from mycotoxin contamination or present below the detectable limit.</p></sec></sec><sec id="Sec12"><title>Discussion</title><p>Mycotoxins have been identified as important toxins affecting animal species and humans ever since the discovery of aflatoxin B<sub>1</sub> in 1960. Mycotoxigenic fungi are ubiquitous in nature and are held responsible for economic loss by decreasing the crop yield and quality of food. The presence of fungi and their mycotoxins are reported not only in food grains but also in medicinal herbs and processed foods. In this study, medicinal herbs and spices were screened for the presence of fungi and mycotoxin. Among the various fungal isolates, <italic>Aspergillus</italic> and <italic>Penicillium</italic> were the predominant fungi isolated which corresponded with previous reports. Species of <italic>Aspergillus, Penicillium</italic>, and <italic>Fusarium</italic> are the major producers of mycotoxins, and hence, there occurrence in the samples is of high significance. Efuntoye (<xref ref-type="bibr" rid="CR12">1996</xref>) had also reported that species of the genera <italic>Aspergillus, Penicillium</italic>, and <italic>Fusarium</italic> were the most abundant fungi present in medicinal herbs. Examination of 84 medicinal plants and spices revealed <italic>A. flavus</italic>, <italic>A. parasiticus</italic>, <italic>F. oxysporum</italic>, and <italic>P. viridicatum</italic> as the most commonly occurring contaminant (Aziz et al. <xref ref-type="bibr" rid="CR5">1998</xref>). Other genera, such as <italic>Fusarium, Mucor</italic> and <italic>Trichoderma</italic>, were also reported as dominant fungi present in medicinal plants and herbal drugs (Efuntoye <xref ref-type="bibr" rid="CR12">1996</xref>; Martins et al. <xref ref-type="bibr" rid="CR23">2001</xref>). <italic>Aspergillus niger</italic> has been reported as a frequent contaminant in medicinal plants (Efuntoye <xref ref-type="bibr" rid="CR12">1996</xref>; Abou-Arab et al. <xref ref-type="bibr" rid="CR1">1999</xref>; Bugno et al. <xref ref-type="bibr" rid="CR8">2006</xref>). The presence of <italic>A. niger</italic> on the herbs may or may not cause any ill effects.</p><p>Although <italic>Aspergillus</italic>, <italic>Penicillium</italic>, and <italic>Fusarium</italic> are the major producers of mycotoxins, not all species are toxigenic. As seen from this study, though all the samples of <italic>Phyllanthus emblica</italic> were contaminated with several species of <italic>Aspergillus</italic>, <italic>Cladosporium</italic>, and <italic>Penicillium</italic>, none of the isolates were found toxigenic. It was reported that only 21.9&#x000a0;% of <italic>Aspergillus</italic> and <italic>Penicillium</italic> isolates from herbal drugs were producers of aflatoxins, ochratoxin A, and citrinin (Bugno et al. <xref ref-type="bibr" rid="CR8">2006</xref>). Similarly, Aziz et al. (<xref ref-type="bibr" rid="CR5">1998</xref>) had reported that 37&#x000a0;% of <italic>Aspergillus</italic> isolates from medicinal plants and spices were aflatoxin producers.</p><p>Groundnuts are known to be commonly contaminated with aflatoxin B<sub>1</sub>, and in this study, a high amount of aflatoxin B<sub>1</sub> on groundnut sample was detected. It is interesting to note that none of the medicinal herbs and spices was positive for the toxins analyzed. The samples from which toxigenic fungi were isolated also tested negative for natural mycotoxin contamination. An earlier investigation by Abou-Arab et al. (<xref ref-type="bibr" rid="CR1">1999</xref>) reported the occurrence of <italic>Aspergillus</italic>, <italic>Penicillium</italic>, and <italic>Fusarium</italic> species in medicinal plants; however, natural mycotoxin contamination was absent in all the samples. Another investigator reported the presence of aflatoxins in spices but interestingly not in aromatic herb, herb-tea, and medicinal plant samples (Romagnoli et al. <xref ref-type="bibr" rid="CR28">2007</xref>). In conformity with the findings of earlier investigators, this study also suggests that the presence of toxigenic fungi does not mean mycotoxin contamination in herbs.</p><p>Though several toxigenic strains were isolated from the samples, the herb itself may not be a good substrate for toxin production. Many fungal strains which produce toxins in synthetic medium were unable to produce toxins in medicinal plants. The absence of mycotoxins as a natural contaminant in samples may be due to intrinsic characteristics of herbs such as essential oils which inhibit the toxin production (Al-Rahmah et al. <xref ref-type="bibr" rid="CR4">2011</xref>; Prakash et al. <xref ref-type="bibr" rid="CR26">2011</xref>). The herb <italic>Withania somnifera</italic> has been reported to possess the ability to inhibit aflatoxin B<sub>1</sub> synthesis (Krishnamurthy and Shashikala <xref ref-type="bibr" rid="CR19">2006</xref>). In addition, in this study, aflatoxin-producing <italic>Aspergillus flavus</italic> was isolated from this herb; however, aflatoxin B<sub>1</sub> itself was not detected. The antioxidant property of several plants, especially herbs and spices, is detrimental to secondary metabolism and, hence, has the natural potential for inhibiting mycotoxin. It has been demonstrated that the presence of active oxygen is favorable for aflatoxin B<sub>1</sub> production by Narasaiah et al. (<xref ref-type="bibr" rid="CR24">2006</xref>). Hence, the antioxidants of several plants have been extensively studied as anti-fungal and anti-mycotoxin agents (Gulcin et al. <xref ref-type="bibr" rid="CR14">2012</xref>; Mahoney et al. <xref ref-type="bibr" rid="CR22">2010</xref>). The powder and essential oil of <italic>Cymbopogon citratus</italic> have been shown to inhibit aflatoxin B<sub>1</sub> and also preserve the quality of melon seed under storage (Bankole and Joda <xref ref-type="bibr" rid="CR6">2004</xref>). The essential oils of <italic>Cinnamomum jensenianum</italic> (Tian et al. <xref ref-type="bibr" rid="CR33">2011</xref>), <italic>Ocimum sanctum</italic> (Kumar et al. <xref ref-type="bibr" rid="CR20">2010</xref>), and <italic>Zataria multiflora</italic> (Gandomi et al. <xref ref-type="bibr" rid="CR13">2009</xref>) were efficiently used against toxigenic fungi and aflatoxin B<sub>1</sub>, and their safe use as natural preservative of food has been implicated. The use of whole spices, such as <italic>Syzygium aromaticum</italic> and <italic>Cinnamomum verum</italic>, has been shown to inhibit the growth of <italic>A. flavus</italic> and <italic>P. citrinum</italic> and their toxins in culture media and rice grains (Aiko and Mehta <xref ref-type="bibr" rid="CR2">2013a</xref>, <xref ref-type="bibr" rid="CR3">b</xref>). These reports corroborated with the observations of the present study in which the absence of mycotoxin could be attributed to the inhibitory property of the herbs and spices.</p><p>As the environmental conditions are conducive for the fungal growth in tropical region, most of the samples investigated in this study were heavily contaminated with toxigenic as well as non-toxigenic fungi. The sample <italic>Asparagus racemosus</italic> collected from the herbal farm showed heavy contamination, while the same sample in packed form was less contaminated. Thus, suggesting that proper cleaning and packaging is effective in reducing the fungal contamination. However, several other herbal drugs that were packed and sold in the market, such as Nimbapatradi churnam, Harre badi, Safed museli, Herbal drug-1, and Herbal drug-4, had high fungal load, and toxigenic fungi were present in each of them. Though mycotoxin was not detected from these herbs, the presence of toxigenic fungi poses a risk of mycotoxin contamination and, thereby, subject humans to potential health threats.</p></sec><sec id="Sec13"><title>Conclusion</title><p>Medicinal plants and herbs are commonly used in most households in the form of culinary for flavor and aroma, as herbal teas or to alleviate illness. This study concludes that medicinal herbs and spices can be contaminated with mycotoxins-producing fungi. The results showed that not only the raw materials but the processed herbs as well are susceptible to toxigenic fungi. Contamination of these products with toxigenic fungi poses serious health threats, since their presence can cause ill effects rather than improving the quality of life. Proper storage conditions and quality control at every stage of processing, packaging or marketing are necessary for the safety of the consumers. This study provides a basis in assessing the degree of fungal and potential mycotoxin contamination in medicinal plants, herbs, and spices, thus providing quality control.
+</p></sec><sec sec-type="supplementary-material"><title>Electronic supplementary material</title><sec id="Sec14"><p>Below is the link to the electronic supplementary material.
+<supplementary-material content-type="local-data" id="MOESM1"><media xlink:href="13205_2016_476_MOESM1_ESM.jpg"><caption><p>
+<bold>Supplementary Fig.1</bold> HPLC analysis of standard aflatoxin B<sub>1</sub>, B<sub>2</sub>, G<sub>1</sub>, and G<sub>2</sub> at a retention time of 9.95, 7.9, 7.16, and 5.77 min, respectively, detected at 365 nm (JPEG 1019 kb).</p></caption></media></supplementary-material>
+<supplementary-material content-type="local-data" id="MOESM2"><media xlink:href="13205_2016_476_MOESM2_ESM.jpg"><caption><p>
+<bold>Supplementary Fig.&#x000a0;2</bold> RBCA plates showing fungal growth from herbal samples. 1-<italic>Chlorophytum borivilianum</italic>, 2-<italic>Phyllanthus emblica-</italic>II, 3- <italic>Sesamum indicum</italic>, 4-<italic>Terminalia chebula</italic>, 5- <italic>Arachis hypogaea</italic>, 6-<italic>Acorus calamus</italic>, 7-<italic>Oroxylum indicum</italic>, 8-<italic>Glycyrrhiza glabra</italic>, 9-<italic>Brassica juncea</italic>, 10-Herbal drug-6, 11- <italic>Ficus arnottiana</italic> (fruit), 12- <italic>Asparagus racemosus</italic>, 13-<italic>Phyllanthus emblica</italic>-I, 14- <italic>Bergenia ciliata</italic>, 15-<italic>Mesua ferrea</italic>, 16- <italic>Chlorophytum borivilianum</italic>-3, 17-<italic>Withania somnifera</italic>, 18-Herbal drug-5 (JPEG 2170 kb).</p></caption></media></supplementary-material>
+<supplementary-material content-type="local-data" id="MOESM3"><media xlink:href="13205_2016_476_MOESM3_ESM.jpg"><caption><p>
+<bold>Supplementary Fig.&#x000a0;3</bold> TLC plate showing Citrinin as yellow streaks (Rf- 0.72) and Aflatoxin as blue spots (Rf- B<sub>1</sub> 0.51, B<sub>2</sub> 0.47, G<sub>1</sub> 0.4, G<sub>2</sub> 0.36) extracted from the fungal isolates. Lane 1-Citrinin standard, 2-<italic>Ficus arnottiana</italic>-I, 3-<italic>Mesua ferrea</italic>, 6-<italic>Chlorophytum borivilianum</italic>, 9-<italic>Glycyrrhiza glabra</italic>-II, 11-<italic>Ficus arnottiana</italic>-II, 12-<italic>Glycyrrhiza glabra</italic>-I, 15-<italic>Withania somnifera</italic>-II, 20-Aflatoxin standard, 22-<italic>Asparagus racemosus-</italic>I, 24-<italic>Sesamum indicum</italic>, 26-<italic>Arachis hypogaea</italic>, 28-<italic>Bergenia ciliate</italic> (JPEG 419 kb).</p></caption></media></supplementary-material>
+<supplementary-material content-type="local-data" id="MOESM4"><media xlink:href="13205_2016_476_MOESM4_ESM.jpg"><caption><p>
+<bold>Supplementary Fig.4</bold> HPLC analysis of <italic>Arachis hypogaea</italic> (groundnut) sample showing aflatoxin B<sub>1</sub> peak at 10.06 min retention time (JPEG 1027 kb)</p></caption></media></supplementary-material>
+</p></sec></sec></body><back><ack><p>The authors are thankful to the management of VIT University for providing the facilities for this work and financial support to Ms. Visenuo Aiko. The authors also gratefully acknowledge the Jeevan Herbs and Agro Farms, India for supplying the herb samples.</p></ack><notes notes-type="COI-statement"><title>Compliance with ethical standards</title><sec id="FPar1"><title>Conflict of interest</title><p>The authors declare that they have no conflicts of interest in the publication.</p></sec></notes><ref-list id="Bib1"><title>References</title><ref id="CR1"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Abou-Arab</surname><given-names>AAK</given-names></name><name><surname>Kawther</surname><given-names>MS</given-names></name><name><surname>El Tantawy</surname><given-names>ME</given-names></name><name><surname>Badeae</surname><given-names>RI</given-names></name><name><surname>Khayrai</surname><given-names>N</given-names></name></person-group><article-title>Quality estimation of some contaminants in commonly used medicinal plants in the Egyptian market</article-title><source>Food Chem</source><year>1999</year><volume>67</volume><fpage>357</fpage><lpage>363</lpage><pub-id pub-id-type="doi">10.1016/S0308-8146(99)00082-5</pub-id></element-citation></ref><ref id="CR2"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Aiko</surname><given-names>V</given-names></name><name><surname>Mehta</surname><given-names>A</given-names></name></person-group><article-title>Control of <italic>Aspergillus flavus</italic> and aflatoxin production with spices in culture media and rice</article-title><source>World Mycotoxin J</source><year>2013</year><volume>6</volume><issue>1</issue><fpage>43</fpage><lpage>50</lpage><pub-id pub-id-type="doi">10.3920/WMJ2012.1437</pub-id></element-citation></ref><ref id="CR3"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Aiko</surname><given-names>V</given-names></name><name><surname>Mehta</surname><given-names>A</given-names></name></person-group><article-title>Inhibitory effect of clove (<italic>Syzygium aromaticum</italic>) on the growth of <italic>Penicillium citrinum</italic> and citrinin production</article-title><source>J Food Saf</source><year>2013</year><volume>33</volume><fpage>440</fpage><lpage>444</lpage><pub-id pub-id-type="doi">10.1111/jfs.12074</pub-id></element-citation></ref><ref id="CR4"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Al-Rahmah</surname><given-names>N</given-names></name><name><surname>Mostafa</surname><given-names>A</given-names></name><name><surname>Abdel-Megeed</surname><given-names>A</given-names></name></person-group><article-title>Antifungal and antiaflatoxigenic activities of some plant extracts</article-title><source>Afr J Microbiol Res</source><year>2011</year><volume>5</volume><issue>11</issue><fpage>1342</fpage><lpage>1348</lpage><pub-id pub-id-type="doi">10.5897/AJMR11.219</pub-id></element-citation></ref><ref id="CR5"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Aziz</surname><given-names>NH</given-names></name><name><surname>Youssef</surname><given-names>YA</given-names></name><name><surname>El-Fouly</surname><given-names>MZ</given-names></name><name><surname>Moussa</surname><given-names>LA</given-names></name></person-group><article-title>Contamination of some common medicinal plant samples and spices by fungi and their mycotoxins</article-title><source>Bot Bull Acad Sin</source><year>1998</year><volume>39</volume><fpage>279</fpage><lpage>285</lpage></element-citation></ref><ref id="CR6"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bankole</surname><given-names>SA</given-names></name><name><surname>Joda</surname><given-names>AO</given-names></name></person-group><article-title>Effect of lemon grass (<italic>Cymbopogon citratus</italic> Stapf) powder and essential oil on mould deterioration and aflatoxin contamination of melon seeds (<italic>Colocynthis citrullus</italic> L.)</article-title><source>Afr J Biotechnol</source><year>2004</year><volume>3</volume><issue>1</issue><fpage>52</fpage><lpage>59</lpage><pub-id pub-id-type="doi">10.5897/AJB2004.000-2009</pub-id></element-citation></ref><ref id="CR7"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bokhari</surname><given-names>FM</given-names></name></person-group><article-title>Spices mycobiota and mycotoxins available in Saudi Arabia and their abilities to inhibit growth of some toxigenic fungi</article-title><source>Mycobiology</source><year>2007</year><volume>35</volume><issue>2</issue><fpage>47</fpage><lpage>53</lpage><pub-id pub-id-type="doi">10.4489/MYCO.2007.35.2.047</pub-id><pub-id pub-id-type="pmid">24015069</pub-id></element-citation></ref><ref id="CR8"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bugno</surname><given-names>A</given-names></name><name><surname>Almodovar</surname><given-names>AAB</given-names></name><name><surname>Pereira</surname><given-names>TC</given-names></name><name><surname>Pinto</surname><given-names>TJA</given-names></name><name><surname>Sabino</surname><given-names>M</given-names></name></person-group><article-title>Occurrence of toxigenic fungi in herbal drugs</article-title><source>Braz J Microbiol</source><year>2006</year><volume>37</volume><fpage>47</fpage><lpage>51</lpage><pub-id pub-id-type="doi">10.1590/S1517-83822006000100009</pub-id></element-citation></ref><ref id="CR9"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Calixto</surname><given-names>JB</given-names></name></person-group><article-title>Efficacy, safety, quality control, marketing and regulatory guidelines for herbal medicines (phytotherapeutic agents)</article-title><source>Braz J Med Biol Res</source><year>2000</year><volume>33</volume><fpage>179</fpage><lpage>189</lpage><pub-id pub-id-type="doi">10.1590/S0100-879X2000000200004</pub-id><pub-id pub-id-type="pmid">10657057</pub-id></element-citation></ref><ref id="CR10"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cho</surname><given-names>SH</given-names></name><name><surname>Lee</surname><given-names>CH</given-names></name><name><surname>Jang</surname><given-names>MR</given-names></name><name><surname>Son</surname><given-names>YW</given-names></name><name><surname>Lee</surname><given-names>SM</given-names></name><name><surname>Choi</surname><given-names>IS</given-names></name><name><surname>Kim</surname><given-names>SM</given-names></name><name><surname>Kim</surname><given-names>DB</given-names></name></person-group><article-title>Aflatoxin contamination in spices and processed spice products commercialized in Korea</article-title><source>Food Chem</source><year>2008</year><volume>107</volume><fpage>1283</fpage><lpage>1288</lpage><pub-id pub-id-type="doi">10.1016/j.foodchem.2007.08.049</pub-id></element-citation></ref><ref id="CR11"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Chourasia</surname><given-names>HK</given-names></name></person-group><article-title>Mycobiota and mycotoxins in herbal drugs of Indian pharmaceutical industries</article-title><source>Mycol Res</source><year>1995</year><volume>99</volume><issue>6</issue><fpage>697</fpage><lpage>703</lpage><pub-id pub-id-type="doi">10.1016/S0953-7562(09)80531-5</pub-id></element-citation></ref><ref id="CR12"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Efuntoye</surname><given-names>MO</given-names></name></person-group><article-title>Fungi associated with herbal drug plants during storage</article-title><source>Mycopathologia</source><year>1996</year><volume>136</volume><fpage>115</fpage><lpage>118</lpage><pub-id pub-id-type="doi">10.1007/BF00437505</pub-id><pub-id pub-id-type="pmid">9208479</pub-id></element-citation></ref><ref id="CR13"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gandomi</surname><given-names>H</given-names></name><name><surname>Misaghi</surname><given-names>A</given-names></name><name><surname>Basti</surname><given-names>AA</given-names></name><name><surname>Bokaei</surname><given-names>S</given-names></name><name><surname>Khosravi</surname><given-names>A</given-names></name><name><surname>Abbasifar</surname><given-names>A</given-names></name><name><surname>Javan</surname><given-names>AJ</given-names></name></person-group><article-title>Effect of <italic>Zataria multiflora</italic> Boiss. Essential oil on growth and aflatoxin formation by <italic>Aspergillus flavus</italic> in culture media and cheese</article-title><source>Food Chem Toxicol</source><year>2009</year><volume>47</volume><fpage>2397</fpage><lpage>2400</lpage><pub-id pub-id-type="doi">10.1016/j.fct.2009.05.024</pub-id><pub-id pub-id-type="pmid">19477213</pub-id></element-citation></ref><ref id="CR14"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gulcin</surname><given-names>I</given-names></name><name><surname>Elmastas</surname><given-names>H</given-names></name><name><surname>Aboul-Enein</surname><given-names>HY</given-names></name></person-group><article-title>Antioxidant activity of clove oil&#x02014;a powerful antioxidant</article-title><source>Arabian J Chem</source><year>2012</year><volume>5</volume><issue>4</issue><fpage>489</fpage><lpage>499</lpage><pub-id pub-id-type="doi">10.1016/j.arabjc.2010.09.016</pub-id></element-citation></ref><ref id="CR15"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hitokoto</surname><given-names>H</given-names></name><name><surname>Morozumi</surname><given-names>S</given-names></name><name><surname>Wauke</surname><given-names>T</given-names></name><name><surname>Sakai</surname><given-names>S</given-names></name><name><surname>Kurata</surname><given-names>H</given-names></name></person-group><article-title>Fungal contamination and mycotoxin detection in powdered herbal drugs</article-title><source>Appl Environ Microbiol</source><year>1978</year><volume>36</volume><issue>2</issue><fpage>252</fpage><lpage>256</lpage><pub-id pub-id-type="pmid">697361</pub-id></element-citation></ref><ref id="CR16"><mixed-citation publication-type="other">Hocking AD, Pitt JI, Samson RA, Thrane U (2006) Advances in food mycology. Springer Publishers 571(4):343&#x02013;348</mixed-citation></ref><ref id="CR17"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Holcomb</surname><given-names>M</given-names></name><name><surname>Wilson</surname><given-names>DM</given-names></name><name><surname>Trucksess</surname><given-names>MW</given-names></name><name><surname>Thomson</surname><given-names>HC</given-names><suffix>Jr</suffix></name></person-group><article-title>Determination of aflatoxins in food products by chromatography</article-title><source>J Chromatogr A</source><year>1992</year><volume>624</volume><issue>1&#x02013;2</issue><fpage>341</fpage><lpage>352</lpage><pub-id pub-id-type="doi">10.1016/0021-9673(92)85687-O</pub-id></element-citation></ref><ref id="CR18"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hussain</surname><given-names>SH</given-names></name><name><surname>Brasel</surname><given-names>JM</given-names></name></person-group><article-title>Toxicity, metabolism and impact of mycotoxins on humans and animals</article-title><source>Toxicology</source><year>2001</year><volume>169</volume><fpage>101</fpage><lpage>134</lpage><pub-id pub-id-type="doi">10.1016/S0300-483X(01)00471-1</pub-id></element-citation></ref><ref id="CR19"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Krishnamurthy</surname><given-names>YL</given-names></name><name><surname>Shashikala</surname><given-names>J</given-names></name></person-group><article-title>Inhibition of aflatoxin B1 production of <italic>Aspergillus flavus</italic>, isolated from soybean seeds by certain natural plant products</article-title><source>Lett Appl Microbiol</source><year>2006</year><volume>43</volume><fpage>469</fpage><lpage>474</lpage><pub-id pub-id-type="doi">10.1111/j.1472-765X.2006.02011.x</pub-id><pub-id pub-id-type="pmid">17032218</pub-id></element-citation></ref><ref id="CR20"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kumar</surname><given-names>A</given-names></name><name><surname>Shukla</surname><given-names>R</given-names></name><name><surname>Singh</surname><given-names>P</given-names></name><name><surname>Dubey</surname><given-names>NK</given-names></name></person-group><article-title>Chemical composition, antifungal and antiaflatoxigenic activities of <italic>Ocimum sanctum</italic> L. essential oil and its safety assessment as plant based antimicrobial</article-title><source>Food Chem Toxicol</source><year>2010</year><volume>48</volume><issue>2</issue><fpage>539</fpage><lpage>543</lpage><pub-id pub-id-type="doi">10.1016/j.fct.2009.11.028</pub-id><pub-id pub-id-type="pmid">19909781</pub-id></element-citation></ref><ref id="CR21"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lin</surname><given-names>L</given-names></name><name><surname>Zhang</surname><given-names>J</given-names></name><name><surname>Wang</surname><given-names>P</given-names></name><name><surname>Wang</surname><given-names>Y</given-names></name><name><surname>Chen</surname><given-names>J</given-names></name></person-group><article-title>Thin-layer chromatography of mycotoxins and comparison with other chromatographic methods</article-title><source>J Chromatogr A</source><year>1998</year><volume>815</volume><fpage>3</fpage><lpage>20</lpage><pub-id pub-id-type="doi">10.1016/S0021-9673(98)00204-0</pub-id><pub-id pub-id-type="pmid">9718702</pub-id></element-citation></ref><ref id="CR22"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mahoney</surname><given-names>NE</given-names></name><name><surname>Molyneux</surname><given-names>R</given-names></name><name><surname>Kim</surname><given-names>JH</given-names></name><name><surname>Campbell</surname><given-names>BC</given-names></name><name><surname>Waiss</surname><given-names>AC</given-names></name><name><surname>Hagerman</surname><given-names>AE</given-names></name></person-group><article-title>Aflatoxigenesis induced in <italic>Aspergillus flavus</italic> by oxidative stress and reduction by phenolic antioxidants from tree nuts</article-title><source>World Mycotoxin J.</source><year>2010</year><volume>3</volume><issue>1</issue><fpage>49</fpage><lpage>57</lpage><pub-id pub-id-type="doi">10.3920/WMJ2009.1185</pub-id></element-citation></ref><ref id="CR23"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Martins</surname><given-names>HM</given-names></name><name><surname>Martins</surname><given-names>ML</given-names></name><name><surname>Dias</surname><given-names>MI</given-names></name><name><surname>Bernardo</surname><given-names>F</given-names></name></person-group><article-title>Evaluation of microbiological quality of medicinal plants used in natural infusions</article-title><source>Int J Food Microbiol</source><year>2001</year><volume>68</volume><fpage>149</fpage><lpage>153</lpage><pub-id pub-id-type="doi">10.1016/S0168-1605(01)00480-9</pub-id><pub-id pub-id-type="pmid">11545215</pub-id></element-citation></ref><ref id="CR24"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Narasaiah</surname><given-names>KV</given-names></name><name><surname>Sashidhar</surname><given-names>RB</given-names></name><name><surname>Subramanyam</surname><given-names>C</given-names></name></person-group><article-title>Biochemical analysis of oxidative stress in the production of aflatoxin and its precursor intermediates</article-title><source>Mycopathologia</source><year>2006</year><volume>162</volume><fpage>179</fpage><lpage>189</lpage><pub-id pub-id-type="doi">10.1007/s11046-006-0052-7</pub-id><pub-id pub-id-type="pmid">16944285</pub-id></element-citation></ref><ref id="CR25"><mixed-citation publication-type="other">Nielsen SS (2010) Food analysis laboratory manual. Food science text series. Springer Publishers 17</mixed-citation></ref><ref id="CR26"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Prakash</surname><given-names>B</given-names></name><name><surname>Shukla</surname><given-names>R</given-names></name><name><surname>Singh</surname><given-names>P</given-names></name><name><surname>Mishra</surname><given-names>PK</given-names></name><name><surname>Dubey</surname><given-names>NK</given-names></name><name><surname>Kharwar</surname><given-names>RN</given-names></name></person-group><article-title>Efficacy of chemically characterized <italic>Ocimum gratissimum</italic> L. essential oil as an antioxidant and a safe plant based antimicrobial against fungal and aflatoxin B1 contamination of spices</article-title><source>Food Res Int</source><year>2011</year><volume>44</volume><fpage>385</fpage><lpage>390</lpage><pub-id pub-id-type="doi">10.1016/j.foodres.2010.10.002</pub-id></element-citation></ref><ref id="CR27"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rizzo</surname><given-names>I</given-names></name><name><surname>Vedoya</surname><given-names>G</given-names></name><name><surname>Maurutto</surname><given-names>S</given-names></name><name><surname>Haidukowski</surname><given-names>M</given-names></name><name><surname>Varsavsky</surname><given-names>E</given-names></name></person-group><article-title>Assessment of toxigenic fungi on Argentinean medicinal herbs</article-title><source>Microbiol Res</source><year>2004</year><volume>159</volume><fpage>113</fpage><lpage>120</lpage><pub-id pub-id-type="doi">10.1016/j.micres.2004.01.013</pub-id><pub-id pub-id-type="pmid">15293944</pub-id></element-citation></ref><ref id="CR28"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Romagnoli</surname><given-names>B</given-names></name><name><surname>Menna</surname><given-names>V</given-names></name><name><surname>Gruppioni</surname><given-names>N</given-names></name><name><surname>Bergamini</surname><given-names>C</given-names></name></person-group><article-title>Aflatoxins in spices, aromatic herbs, herb-teas and medicinal plants marketed in Italy</article-title><source>Food Control</source><year>2007</year><volume>18</volume><issue>6</issue><fpage>697</fpage><lpage>701</lpage><pub-id pub-id-type="doi">10.1016/j.foodcont.2006.02.020</pub-id></element-citation></ref><ref id="CR29"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Roy</surname><given-names>AK</given-names></name><name><surname>Sinha</surname><given-names>KK</given-names></name><name><surname>Chourasia</surname><given-names>HK</given-names></name></person-group><article-title>Aflatoxin contamination of some common drug plants</article-title><source>Appl Environ Microbiol</source><year>1988</year><volume>54</volume><issue>3</issue><fpage>842</fpage><lpage>843</lpage><pub-id pub-id-type="pmid">3132102</pub-id></element-citation></ref><ref id="CR30"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Santos</surname><given-names>L</given-names></name><name><surname>Marin</surname><given-names>S</given-names></name><name><surname>Sanchis</surname><given-names>V</given-names></name><name><surname>Ramos</surname><given-names>AJ</given-names></name></person-group><article-title>Screening of mycotoxin multicontamination in medicinal and aromatic herbs sampled in Spain</article-title><source>J Sci Food Agr</source><year>2009</year><volume>89</volume><issue>10</issue><fpage>1802</fpage><lpage>1807</lpage><pub-id pub-id-type="doi">10.1002/jsfa.3647</pub-id></element-citation></ref><ref id="CR31"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sewram</surname><given-names>V</given-names></name><name><surname>Shephard</surname><given-names>GS</given-names></name><name><surname>Merwe</surname><given-names>LVD</given-names></name><name><surname>Jacobs</surname><given-names>TV</given-names></name></person-group><article-title>Mycotoxin contamination of dietary and medicinal wild plants in the Eastern Cape Province of South Africa</article-title><source>J Agr Food Chem</source><year>2006</year><volume>54</volume><fpage>5688</fpage><lpage>5693</lpage><pub-id pub-id-type="doi">10.1021/jf060483b</pub-id><pub-id pub-id-type="pmid">16848564</pub-id></element-citation></ref><ref id="CR32"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Thirumala-Devi</surname><given-names>K</given-names></name><name><surname>Mayo</surname><given-names>MA</given-names></name><name><surname>Reddy</surname><given-names>G</given-names></name><name><surname>Emmanuel</surname><given-names>KE</given-names></name><name><surname>Larondelle</surname><given-names>Y</given-names></name><name><surname>Reddy</surname><given-names>DVR</given-names></name></person-group><article-title>Occurrence of ochratoxin A in black pepper, coriander, ginger and turmeric in India</article-title><source>Food Addit Contam</source><year>2001</year><volume>18</volume><issue>9</issue><fpage>830</fpage><lpage>835</lpage><pub-id pub-id-type="doi">10.1080/02652030117589</pub-id><pub-id pub-id-type="pmid">11552750</pub-id></element-citation></ref><ref id="CR33"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Tian</surname><given-names>J</given-names></name><name><surname>Huang</surname><given-names>B</given-names></name><name><surname>Luo</surname><given-names>Z</given-names></name><name><surname>Zeng</surname><given-names>H</given-names></name><name><surname>Ban</surname><given-names>X</given-names></name><name><surname>He</surname><given-names>J</given-names></name><name><surname>Wang</surname><given-names>Y</given-names></name></person-group><article-title>The control of <italic>Aspergillus flavus</italic> with <italic>Cinnamomum jensenianum</italic> Hand.-Mazz essential oil and its potential use as a food preservative</article-title><source>Food Chem</source><year>2011</year><volume>130</volume><issue>3</issue><fpage>520</fpage><lpage>527</lpage><pub-id pub-id-type="doi">10.1016/j.foodchem.2011.07.061</pub-id></element-citation></ref><ref id="CR34"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Trucksess</surname><given-names>MW</given-names></name><name><surname>Scott</surname><given-names>PM</given-names></name></person-group><article-title>Mycotoxins in botanical and dried fruits: a review</article-title><source>Food Addit Contam</source><year>2008</year><volume>25</volume><issue>2</issue><fpage>181</fpage><lpage>192</lpage><pub-id pub-id-type="doi">10.1080/02652030701567459</pub-id></element-citation></ref><ref id="CR35"><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Viswanathan</surname><given-names>MV</given-names></name><name><surname>Singh</surname><given-names>HB</given-names></name><name><surname>Bhagwat</surname><given-names>PR</given-names></name></person-group><source>Handbook on Herbaria in India and Neighbouring Countries</source><year>2000</year><publisher-loc>New Delhi</publisher-loc><publisher-name>National Institute of Science Communication</publisher-name></element-citation></ref><ref id="CR36"><mixed-citation publication-type="other">World Health Organisation (2005) Quality control methods for medicinal plant materials. World Health Organization. Working document QAS/05.131/Rev.1, 37</mixed-citation></ref></ref-list></back></article>

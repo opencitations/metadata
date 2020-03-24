@@ -1,0 +1,118 @@
+report document
+has edition
+# was derived from
+book
+uses identifier scheme
+# rdf-schema#label
+has exemplar
+journal article
+# is specialization of
+text chunk
+# has literal value
+# is context of
+# has annotation
+# entity
+footnote
+# sentence
+# has target
+# has element
+# distant citation
+series
+# preferredNamespaceUri
+discourse element
+# has citation characterisation
+has subtitle
+# ontology
+# funder self citation
+expression collection
+print object
+manifestation
+has embodiment
+identifier
+editor
+isbn
+journal volume
+data file
+title
+publisher
+# is document context for
+# is part of
+author
+has family name
+table
+book chapter
+section title
+# is role held by
+has citation time span
+url
+# was invalidated at time
+specification document
+orcid
+references
+digital manifestation
+thesis
+# journal cartel citation
+has title
+# annotation
+# journal self citation
+creator
+bibliographic reference
+has content
+expression
+# has next
+section
+pmid
+had primary source
+issn
+has starting page
+has number
+paragraph
+book set
+# agent
+academic proceedings
+caption
+has ending page
+journal
+in-text reference pointer
+# single location pointer list
+has cited entity
+# has co-authorship citation level
+citation
+date
+has description
+# has body
+# has part
+cites
+proceedings paper
+reference book
+# owl#versionInfo
+# was attributed to
+# was generated at time
+with role
+# author network self citation
+role
+# affiliation self citation
+identifier scheme
+# author self citation
+doi
+pmcid
+oci
+book series
+# role in time
+has given name
+denotes
+has publication date
+has identifier
+# self citation
+has name
+rights
+contributor
+journal issue
+has citation creation date
+# rdf-schema#seeAlso
+# preferredNamespacePrefix
+has citing entity
+# has update query
+# archival document
+# rdf-schema#comment
+description

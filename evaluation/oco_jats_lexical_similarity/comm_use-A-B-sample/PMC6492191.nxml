@@ -1,0 +1,1311 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Br J Haematol</journal-id><journal-id journal-id-type="iso-abbrev">Br. J. Haematol</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1365-2141</journal-id><journal-id journal-id-type="publisher-id">BJH</journal-id><journal-title-group><journal-title>British Journal of Haematology</journal-title></journal-title-group><issn pub-type="ppub">0007-1048</issn><issn pub-type="epub">1365-2141</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">30596405</article-id><article-id pub-id-type="pmc">6492191</article-id><article-id pub-id-type="doi">10.1111/bjh.15578</article-id><article-id pub-id-type="publisher-id">BJH15578</article-id><article-categories><subj-group subj-group-type="overline"><subject>Research Paper</subject></subj-group><subj-group subj-group-type="heading"><subject>Haematological Malignancy</subject></subj-group></article-categories><title-group><article-title>Direct role of <styled-content style="fixed-case">FLT</styled-content>3 in regulation of early lymphoid progenitors</article-title><alt-title alt-title-type="left-running-head">A. Zriwil <italic>et&#x000a0;al</italic></alt-title></title-group><contrib-group><contrib id="bjh15578-cr-0001" contrib-type="author"><name><surname>Zriwil</surname><given-names>Alya</given-names></name><xref ref-type="aff" rid="bjh15578-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="bjh15578-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="bjh15578-cr-0002" contrib-type="author"><name><surname>B&#x000f6;iers</surname><given-names>Charlotta</given-names></name><xref ref-type="aff" rid="bjh15578-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="bjh15578-cr-0003" contrib-type="author"><name><surname>Kristiansen</surname><given-names>Trine A.</given-names></name><xref ref-type="aff" rid="bjh15578-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="bjh15578-cr-0004" contrib-type="author"><name><surname>Wittmann</surname><given-names>Lilian</given-names></name><xref ref-type="aff" rid="bjh15578-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="bjh15578-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="bjh15578-cr-0005" contrib-type="author"><name><surname>Yuan</surname><given-names>Joan</given-names></name><xref ref-type="aff" rid="bjh15578-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="bjh15578-cr-0006" contrib-type="author"><name><surname>Nerlov</surname><given-names>Claus</given-names></name><xref ref-type="aff" rid="bjh15578-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="bjh15578-cr-0007" contrib-type="author" corresp="yes"><name><surname>Sitnicka</surname><given-names>Ewa</given-names></name><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-5332-7048</contrib-id><address><email>ewa.sitnicka@med.lu.se</email></address><xref ref-type="aff" rid="bjh15578-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="bjh15578-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="author-notes" rid="bjh15578-note-1001">
+<sup>&#x02020;</sup>
+</xref></contrib><contrib id="bjh15578-cr-0008" contrib-type="author" corresp="yes"><name><surname>Jacobsen</surname><given-names>Sten E. W.</given-names></name><address><email>sten.eirik.jacobsen@ki.se</email></address><xref ref-type="aff" rid="bjh15578-aff-0004">
+<sup>4</sup>
+</xref><xref ref-type="aff" rid="bjh15578-aff-0005">
+<sup>5</sup>
+</xref><xref ref-type="author-notes" rid="bjh15578-note-1001">
+<sup>&#x02020;</sup>
+</xref><xref ref-type="author-notes" rid="bjh15578-note-1002">
+<sup>&#x02021;</sup>
+</xref></contrib></contrib-group><aff id="bjh15578-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Lund Center for Stem Cell Biology and Cell Therapy</named-content>
+<institution>Lund University</institution>
+<named-content content-type="city">Lund</named-content>
+<country country="SE">Sweden</country>
+</aff><aff id="bjh15578-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Division of Molecular Haematology</named-content>
+<named-content content-type="organisation-division">Department of Laboratory Medicine</named-content>
+<institution>Lund University</institution>
+<named-content content-type="city">Lund</named-content>
+<country country="SE">Sweden</country>
+</aff><aff id="bjh15578-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Molecular Medicine and Gene Therapy</named-content>
+<named-content content-type="organisation-division">Lund Stem Cell Center</named-content>
+<institution>Lund University</institution>
+<named-content content-type="city">Lund</named-content>
+<country country="SE">Sweden</country>
+</aff><aff id="bjh15578-aff-0004">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">MRC Molecular Haematology Unit</named-content>
+<institution>Weatherall Institute of Molecular Medicine</institution>
+<institution>John Radcliffe Hospital</institution>
+<institution>University of Oxford</institution>
+<named-content content-type="city">Oxford</named-content>
+<country country="GB">United Kingdom</country>
+</aff><aff id="bjh15578-aff-0005">
+<label><sup>5</sup></label>
+<named-content content-type="organisation-division">Wallenberg Institute for Regenerative Medicine</named-content>
+<named-content content-type="organisation-division">Department of Cell and Molecular Biology</named-content>
+<named-content content-type="organisation-division">Center for Haematology and Regenerative Medicine</named-content>
+<named-content content-type="organisation-division">Department of Medicine Huddinge</named-content>
+<institution>Karolinska Institutet and Karolinska University Hospital Huddinge</institution>
+<named-content content-type="city">Stockholm</named-content>
+<country country="SE">Sweden</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label>
+Correspondence: Sten Eirik W. Jacobsen, Karolinska Institutet, Haematopoietic Stem Cell Laboratory, Department of Medicine Huddinge, Center for Haematology and Regenerative Medicine (HERM), Karolinska University Hospital, 141&#x02010;86 Stockholm, Sweden.<break/>
+E&#x02010;mail: <email>sten.eirik.jacobsen@ki.se</email><break/>
+or<break/>
+Ewa Sitnicka, Division of Molecular Haematology, Department of Laboratory Medicine, Lund University, BMC, B12, Klinikgatan 26, 221&#x02010;84 Lund, Sweden;<break/>
+Email: <email>ewa.sitnicka@med.lu.se</email><break/></corresp><fn fn-type="equal" id="bjh15578-note-1001"><label>&#x02020;</label><p>These authors contributed equally</p></fn><fn id="bjh15578-note-1002"><label>&#x02021;</label><p>Lead Contact</p></fn></author-notes><pub-date pub-type="epub"><day>14</day><month>9</month><year>2018</year></pub-date><pub-date pub-type="ppub"><month>11</month><year>2018</year></pub-date><volume>183</volume><issue>4</issue><issue-id pub-id-type="doi">10.1111/bjh.2018.183.issue-4</issue-id><fpage>588</fpage><lpage>600</lpage><history><date date-type="received"><day>15</day><month>1</month><year>2018</year></date><date date-type="accepted"><day>21</day><month>6</month><year>2018</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2018 British Society for Haematology and John Wiley & Sons Ltd <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2018 The Authors. <italic>British Journal of Haematology</italic> published by British Society for Haematology and John Wiley &#x00026; Sons Ltd</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:BJH-183-588.pdf"/><abstract id="bjh15578-abs-0001"><title>Summary</title><p>Given that <styled-content style="fixed-case">FLT</styled-content>3 expression is highly restricted on lymphoid progenitors, it is possible that the established role of <styled-content style="fixed-case">FLT</styled-content>3 in the regulation of B and T lymphopoiesis reflects its high expression and role in regulation of lymphoid&#x02010;primed multipotent progenitors (<styled-content style="fixed-case">LMPP</styled-content>s) or common lymphoid progenitors (<styled-content style="fixed-case">CLP</styled-content>s). We generated a <italic>Flt3</italic> conditional knock&#x02010;out (<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup>) mouse model to address the direct role of <styled-content style="fixed-case">FLT</styled-content>3 in regulation of lymphoid&#x02010;restricted progenitors, subsequent to turning on <italic>Rag1</italic> expression, as well as potentially ontogeny&#x02010;specific roles in B and T lymphopoiesis. Our studies establish a prominent and direct role of <styled-content style="fixed-case">FLT</styled-content>3, independently of the established role of <styled-content style="fixed-case">FLT</styled-content>3 in regulation of <styled-content style="fixed-case">LMPP</styled-content>s and <styled-content style="fixed-case">CLP</styled-content>s, in regulation of fetal as well as adult early B cell progenitors, and the early thymic progenitors (<styled-content style="fixed-case">ETP</styled-content>s) in adult mice but not in the fetus. Our findings highlight the potential benefit of targeting poor prognosis acute B&#x02010;cell progenitor leukaemia and <styled-content style="fixed-case">ETP</styled-content> leukaemia with recurrent <italic><styled-content style="fixed-case">FLT</styled-content>3</italic> mutations using clinical <styled-content style="fixed-case">FLT</styled-content>3 inhibitors.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="bjh15578-kwd-0001">conditional knock&#x02010;out mouse model</kwd><kwd id="bjh15578-kwd-0002"><styled-content style="fixed-case">FLT</styled-content>3</kwd><kwd id="bjh15578-kwd-0003">haematopoiesis</kwd><kwd id="bjh15578-kwd-0004">lymphoid progenitors</kwd><kwd id="bjh15578-kwd-0005">lymphoid development</kwd></kwd-group><funding-group><award-group><funding-source>Swedish Childhood Cancer Foundation</funding-source><award-id>PR20130043</award-id><award-id>PR 20150063</award-id><award-id>PDS13/005</award-id><award-id>TFJ08</award-id></award-group><award-group><funding-source>Gunnar Nilsson Foundation</funding-source><award-id>522</award-id></award-group><award-group><funding-source>Lund University Hospital</funding-source><award-id>ALFSKANE 274081</award-id></award-group><award-group><funding-source>Hemato&#x02010;Linne</funding-source></award-group><award-group><funding-source>Stem Therapy Program</funding-source></award-group><award-group><funding-source>UK MRC</funding-source><award-id>G0801073</award-id><award-id>MC_UU_12009/5</award-id></award-group><award-group><funding-source>Swedish Research Council</funding-source></award-group><award-group><funding-source>Swedish Research Council, Marie Sklodowska Curie Actions, Cofund, Project INCA</funding-source><award-id>#2015&#x02010;00135</award-id><award-id>#600398</award-id></award-group></funding-group><counts><fig-count count="4"/><table-count count="0"/><page-count count="13"/><word-count count="7548"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>bjh15578</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>November 2018</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:5.6.2.1 mode:remove_FC converted:01.05.2019</meta-value></custom-meta></custom-meta-group></article-meta></front><body><p>Haematopoiesis is characterized by a very high turnover of mature blood cells of multiple lineages as well as their progenitors, a process partly regulated by a large number of haematopoietic growth factors or cytokines (Metcalf, <xref rid="bjh15578-bib-0034" ref-type="ref">2008</xref>). Signalling through multiple cell surface tyrosine kinase receptors, triggered through binding of their specific ligands, represents an important extrinsic regulation of distinct haematopoietic stem and progenitor cells both in human and mouse (Ullrich &#x00026; Schlessinger, <xref rid="bjh15578-bib-0048" ref-type="ref">1990</xref>; Scheijen &#x00026; Griffin, <xref rid="bjh15578-bib-0040" ref-type="ref">2002</xref>).</p><p>The FMS&#x02010;like tyrosine kinase 3 receptor (encoded by the <italic>Flt3</italic> gene, also called <italic>Flk2</italic>) is a type III receptor tyrosine kinase (Matthews <italic>et&#x000a0;al</italic>, <xref rid="bjh15578-bib-0030" ref-type="ref">1991</xref>; Rosnet <italic>et&#x000a0;al</italic>, <xref rid="bjh15578-bib-0037" ref-type="ref">1991</xref>; Rosnet <italic>et&#x000a0;al</italic>, <xref rid="bjh15578-bib-0038" ref-type="ref">1993</xref>). Its ligand, FLT3 ligand (FLT3L) exists in a soluble as well as membrane&#x02010;bound form (Lyman <italic>et&#x000a0;al</italic>, <xref rid="bjh15578-bib-0026" ref-type="ref">1995</xref>; Lyman &#x00026; Jacobsen, <xref rid="bjh15578-bib-0025" ref-type="ref">1998</xref>). Studies in mice have established that FLT3 and FLT3L play an important role in lymphopoiesis (Lyman &#x00026; Jacobsen, <xref rid="bjh15578-bib-0025" ref-type="ref">1998</xref>; McKenna <italic>et&#x000a0;al</italic>, <xref rid="bjh15578-bib-0032" ref-type="ref">2000</xref>; Sitnicka <italic>et&#x000a0;al</italic>, <xref rid="bjh15578-bib-0041" ref-type="ref">2002</xref>; Tsapogas <italic>et&#x000a0;al</italic>, <xref rid="bjh15578-bib-0046" ref-type="ref">2017</xref>). Although not expressed on haematopoietic stem cells (HSCs), FLT3 expression is initiated on multipotent progenitors (MPPs) and sustained on common lymphoid progenitors (CLPs), but is only expressed on the very earliest B&#x02010;cell and T&#x02010;cell progenitors (Wasserman <italic>et&#x000a0;al</italic>, <xref rid="bjh15578-bib-0050" ref-type="ref">1995</xref>; Adolfsson <italic>et&#x000a0;al</italic>, <xref rid="bjh15578-bib-0001" ref-type="ref">2001</xref>, <xref rid="bjh15578-bib-0002" ref-type="ref">2005</xref>; Sitnicka <italic>et&#x000a0;al</italic>, <xref rid="bjh15578-bib-0041" ref-type="ref">2002</xref>; Boyer <italic>et&#x000a0;al</italic>, <xref rid="bjh15578-bib-0009" ref-type="ref">2011</xref>; Buza&#x02010;Vidas <italic>et&#x000a0;al</italic>, <xref rid="bjh15578-bib-0012" ref-type="ref">2011</xref>; Luc <italic>et&#x000a0;al</italic>, <xref rid="bjh15578-bib-0023" ref-type="ref">2012</xref>). Lymphoid&#x02010;primed multipotent progenitors (LMPPs) express the highest levels of FLT3 (Adolfsson <italic>et&#x000a0;al</italic>, <xref rid="bjh15578-bib-0002" ref-type="ref">2005</xref>), and FLT3 plays a key role in LMPP and CLP maintenance (Sitnicka <italic>et&#x000a0;al</italic>, <xref rid="bjh15578-bib-0041" ref-type="ref">2002</xref>, <xref rid="bjh15578-bib-0043" ref-type="ref">2007</xref>). As recently highlighted (Tsapogas <italic>et&#x000a0;al</italic>, <xref rid="bjh15578-bib-0046" ref-type="ref">2017</xref>), because no <italic>Flt3</italic> conditional knockout mouse has been generated, it remains unclear to what degree the reductions observed in B lymphocyte and thymocyte progenitors in mice with germ line deletion of FLT3 or FLT3L (Mackarehtschian <italic>et&#x000a0;al</italic>, <xref rid="bjh15578-bib-0027" ref-type="ref">1995</xref>; Sitnicka <italic>et&#x000a0;al</italic>, <xref rid="bjh15578-bib-0042" ref-type="ref">2003</xref>, <xref rid="bjh15578-bib-0043" ref-type="ref">2007</xref>), are secondary to loss of LMPPs and/or CLPs prior to becoming programmed for lymphoid&#x02010;restricted development, or also reflect a distinct role of FLT3 also in already lymphoid&#x02010;restricted progenitors. In fact, the expression of FLT3 in the B&#x02010; and T&#x02010;lymphocyte lineages, is restricted to the earliest pre&#x02010;proB and early thymic progenitors (ETPs), respectively (Wasserman <italic>et&#x000a0;al</italic>, <xref rid="bjh15578-bib-0050" ref-type="ref">1995</xref>; Mansson <italic>et&#x000a0;al</italic>, <xref rid="bjh15578-bib-0029" ref-type="ref">2010</xref>; Luc <italic>et&#x000a0;al</italic>, <xref rid="bjh15578-bib-0023" ref-type="ref">2012</xref>), progenitors suggested largely to represent not fully lymphoid&#x02010;restricted progenitors (Rumfelt <italic>et&#x000a0;al</italic>, <xref rid="bjh15578-bib-0039" ref-type="ref">2006</xref>; Luc <italic>et&#x000a0;al</italic>, <xref rid="bjh15578-bib-0023" ref-type="ref">2012</xref>). Establishing to what degree FLT3 plays a direct role in regulating already lymphoid&#x02010;programmed progenitors, is of particular relevance for the high prevalence of two types of <italic>FLT3</italic> driver mutations, internal tandem duplication (ITD) and recurrent FLT3 point&#x02010;mutations, both associated with a poor clinical outcome in acute leukaemia (Stirewalt &#x00026; Radich, <xref rid="bjh15578-bib-0045" ref-type="ref">2003</xref>; Tsapogas <italic>et&#x000a0;al</italic>, <xref rid="bjh15578-bib-0046" ref-type="ref">2017</xref>), including distinct ETP and B&#x02010;cell progenitor leukaemia (Armstrong <italic>et&#x000a0;al</italic>, <xref rid="bjh15578-bib-0005" ref-type="ref">2004</xref>; Neumann <italic>et&#x000a0;al</italic>, <xref rid="bjh15578-bib-0035" ref-type="ref">2013</xref>).</p><p>Furthermore, cytokine receptors and their ligands are thought to play distinct roles at different stages of development, and this has been also specifically suggested for FLT3 and FLT3L (Vosshenrich <italic>et&#x000a0;al</italic>, <xref rid="bjh15578-bib-0049" ref-type="ref">2003</xref>; Boiers <italic>et&#x000a0;al</italic>, <xref rid="bjh15578-bib-0008" ref-type="ref">2013</xref>; Beaudin <italic>et&#x000a0;al</italic>, <xref rid="bjh15578-bib-0007" ref-type="ref">2016</xref>). To more specifically address progenitor stage&#x02010; and ontogeny&#x02010;specific roles of FLT3 in regulation of normal lymphopoiesis, we generated a <italic>Flt3 floxed/floxed</italic> conditional knock&#x02010;out (<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup>) mouse line, allowing us to specifically target FLT3 deletion in a temporal and spatial manner.</p><sec id="bjh15578-sec-0002"><title>Methods and materials</title><sec id="bjh15578-sec-0003"><title>Animals</title><p>The <italic>Flt3 floxed/floxed</italic> conditional knock&#x02010;out (<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup>) mouse line was generated using a DNA targeting construct in which the genomic fragment of the mouse <italic>Flt3</italic> gene has exon 15 flanked by LoxP sites (flox) and with an Frt&#x02010;neomycin&#x02010;Frt cassette inserted into intron 15 of the mouse <italic>Flt3</italic> gene. The IB10/C embryonic stem (ES) cell line (E14 subclone 129/Ola) was electroporated with the targeting construct and targeted clones selected using neomycin. Correctly&#x02010;targeted ES clones were introduced into C57BL6 blastocysts by injection into the blastocyst cavity. Injected blastocysts were then transplanted to the uterus of pseudo&#x02010;pregnant foster mothers. Offspring positive for the floxed <italic>Flt3</italic> allele were then crossed with Flp&#x02010;deleter mice to remove the neomycin cassette. Screening of <italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> mice was carried out using 2 primers flanking the 5&#x02032; loxP site Primer 1: AGATGCCAGGACATCAGGAACCTG and Primer 2: ATCAGCCACACCAGACACAGAGATC. <italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> mice were then backcrossed for more than 5 generations with C57/Bl6 mice and subsequently crossed with different Cre&#x02010;recombinase mouse strains (all on a C57/Bl6 genetic background).</p><p>
+<italic>Vav1</italic>
+<sup><italic>cre/+</italic></sup>
+<italic>, Mx1</italic>
+<sup><italic>cre/+</italic></sup>, <italic>Rag1</italic>
+<sup><italic>cre/+</italic></sup> mice have been previously described (Kuhn <italic>et&#x000a0;al</italic>, <xref rid="bjh15578-bib-0022" ref-type="ref">1995</xref>; McCormack <italic>et&#x000a0;al</italic>, <xref rid="bjh15578-bib-0031" ref-type="ref">2003</xref>; Stadtfeld &#x00026; Graf, <xref rid="bjh15578-bib-0044" ref-type="ref">2005</xref>). For each cross, non&#x02010;Cre expressing <italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> females were bred with <italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> males heterozygous for the <italic>Cre</italic> of interest to yield <italic>Cre</italic>
+<sup><italic>+</italic></sup>
+<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> as well as <italic>Cre</italic>
+<sup><italic>&#x02212;</italic></sup>
+<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> control littermates. For timed pregnancies, mice were mated late afternoon and females were checked the following morning for the presence of a vaginal plug designated as embryonic day 0&#x000b7;5 (E0&#x000b7;5).</p><p>All mice were maintained under specific pathogen&#x02010;free conditions at Lund University Animal Facility. The Ethical Committee at Lund University approved all performed experiments.</p></sec><sec id="bjh15578-sec-0004"><title>Dissections and cell preparations</title><p>The fetal liver (FL) and fetal thymus were dissected and mechanically disrupted with a syringe. Bone marrow (BM) cells were extracted from femora and tibia using a mortar. Peritoneal cavity lavage was performed using 10&#x000a0;ml of phosphate&#x02010;buffered saline (PBS) (Thermo Fisher Scientific Inc, Logan, UT, USA) containing 5% of Fetal Bovine Serum (FBS) (Hyclone, Logan, UT, USA). Single&#x02010;cell suspensions were prepared in PBS containing 5% of FBS and filtered through a 70&#x02010;&#x003bc;m cell strainer (BD Biosciences, San Jose, CA, USA). Cells were counted with the Sysmex (KX&#x02010;21N) Haematology analyser (Sysmex Corporation Europe GmbH, Norderstedt, Germany).</p></sec><sec id="bjh15578-sec-0005"><title>Flow cytometry and fluorescence&#x02010;activated cell sorting (FACS)</title><p>Dissected fetal tissues and adult BM were treated with purified anti&#x02010;CD16/32 antibody (Fc&#x02010;block) and then stained with specific mouse monoclonal antibodies (mAb). mAbs used to stain cell surface markers are listed in Table&#x000a0;SI. 7&#x02010;aminoactinomycinD (7&#x02010;AAD, Sigma&#x02010;Aldrich Company Ltd, St. Louis, MO, USA) was used to exclude dead cells from the analysis. Samples were analysed on an LSRII (BD Biosciences) and analysis was performed using FlowJo software (version 9.3; TreeStar, Ashland, OR, USA). For all the flow cytometry profiles shown, singlet viable cells were first gated as lineage negative and further gating is indicated with arrows.</p></sec><sec id="bjh15578-sec-0006"><title>Induction of <italic>Flt3</italic> deletion</title><p>
+<italic>Mx1</italic>
+<sup><italic>cre/+</italic></sup>
+<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> and <italic>Mx1</italic>
+<sup><italic>+/+</italic></sup>
+<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> mice were injected at 7&#x000a0;weeks with 5 intraperitoneal injections of 300&#x000a0;&#x003bc;g of polyinositolic polycytidylic acid (pIpC) at two&#x02010;day intervals. Mice were analysed at 4&#x000a0;weeks post&#x02010;injection. Deletion efficiency was assessed by sorting 100&#x000a0;000 cells, extracting DNA and performing polymerase chain reaction (PCR) using the KAPA Mouse Genotyping Kit from KAPA Biosystems (Wilmington, MA, USA) with the following primers: Primer 1: AGATGCCAGGACATCAGGAACCTG, Primer 2: ATCAGCCACACCAGACACAGAGATC and Primer 3: CAGTCCCGAGGGGA TGATAC according to the manufacturer protocol.</p></sec><sec id="bjh15578-sec-0007"><title>Transplantation assay</title><p>Lethally irradiated (900&#x000a0;cGy) 12&#x02010; to 16&#x02010;week&#x02010;old C57BL/6 CD45.1 wild type (WT) recipient mice were transplanted intravenously with 2&#x000a0;&#x000d7;&#x000a0;10<sup>6</sup> cells unfractionated BM cells from <italic>Mx1</italic>
+<sup><italic>cre/+</italic></sup>
+<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> (CD45.2) or <italic>Mx1</italic>
+<sup><italic>+/+</italic></sup>
+<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> (CD45.2) mice together with 2&#x000a0;&#x000d7;&#x000a0;10<sup>6</sup> unfractionated BM competitor cells from WT CD45.1 mice, or 2&#x000a0;&#x000d7;&#x000a0;10<sup>6</sup> unfractionated E14.5 FL cells from <italic>Rag1</italic>
+<sup><italic>cre/+</italic></sup>
+<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> (CD45.2) or <italic>Rag1</italic>
+<sup><italic>+/+</italic></sup>
+<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> (CD45.2) together with 2&#x000a0;&#x000d7;&#x000a0;10<sup>6</sup> unfractionated E14.5 FL competitor cells from WT CD45.1 mice. Four weeks after transplantation, mice transplanted with <italic>Mx1</italic>
+<sup><italic>cre/+</italic></sup>
+<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> or <italic>Mx1</italic>
+<sup><italic>+/+</italic></sup>
+<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> BM cells were injected with 5 intraperitoneal injections of 300&#x000a0;&#x003bc;g of pIpC at two&#x02010;day intervals and then analysed for reconstitution at 8&#x000a0;weeks post&#x02010;transplantation.</p></sec><sec id="bjh15578-sec-0008"><title>Statistics</title><p>Prism software (GraphPad Software Inc., La Jolla, CA, USA) was used for all statistical analysis. Statistical significances were determined using an unpaired Mann&#x02013;Whitney test. The significance level was set at <italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0&#x000b7;05.</p></sec></sec><sec id="bjh15578-sec-0009"><title>Results</title><sec id="bjh15578-sec-0010"><title>Requirement for FLT3 during adult haematopoiesis</title><p>To investigate the requirement for FLT3 at different stages of development and distinct haematopoietic progenitor stages, we generated mice in which loxP sites had been inserted into the flanking introns of exon 15 of the <italic>Flt3</italic> gene (<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup>). Exon 15 encodes for a kinase ATP binding domain required for signal transduction upon ligand binding after dimerization and auto&#x02010;phosphorylation of the FLT3 receptor (Ubersax &#x00026; Ferrell, <xref rid="bjh15578-bib-0047" ref-type="ref">2007</xref>). As such, excision of exon 15 using Cre/loxP recombination should result in a non&#x02010;functional FLT3 protein. It was however unclear to what degree this targeting strategy also would result in loss of FLT3 protein expression. Therefore, to first validate the impact of this targeting strategy on FLT3 expression and haematopoiesis, we crossed <italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> mice with <italic>Vav1</italic>
+<sup><italic>cre/+</italic></sup> mice, which efficiently targets Cre expression to the entire haematopoietic system, including HSCs, from an early stage of haematopoietic development following emergence of definitive HSCs (Ogilvy <italic>et&#x000a0;al</italic>, <xref rid="bjh15578-bib-0036" ref-type="ref">1999</xref>; Almarza <italic>et&#x000a0;al</italic>, <xref rid="bjh15578-bib-0003" ref-type="ref">2004</xref>; Stadtfeld &#x00026; Graf, <xref rid="bjh15578-bib-0044" ref-type="ref">2005</xref>). Whereas bone marrow cellularity was not affected (Figure&#x000a0;<xref rid="bjh15578-sup-0001" ref-type="supplementary-material">S1</xref>A), adult <italic>Vav1</italic>
+<sup><italic>cre/+</italic></sup>
+<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> mice demonstrated a complete loss of FLT3 expression on Lin<sup><italic>&#x02212;</italic></sup>SCA&#x02010;1<sup>+</sup>KIT<sup>+</sup> (LSK) cells as well as Lin<sup>&#x02212;</sup>SCA&#x02010;1<sup>low</sup>KIT<sup>low</sup>IL7R<sup>+</sup> CLPs (Figure&#x000a0;<xref rid="bjh15578-sup-0001" ref-type="supplementary-material">S1</xref>B). Moreover, in agreement with previous studies of conventional germ&#x02010;line <italic>Flt3</italic> and <italic>Flt3l</italic> knockout mice (in which <italic>Flt3</italic> o<italic>r Flt3l</italic> expression is permanently disrupted in the entire mouse) (Mackarehtschian <italic>et&#x000a0;al</italic>, <xref rid="bjh15578-bib-0027" ref-type="ref">1995</xref>; McKenna <italic>et&#x000a0;al</italic>, <xref rid="bjh15578-bib-0032" ref-type="ref">2000</xref>; Sitnicka <italic>et&#x000a0;al</italic>, <xref rid="bjh15578-bib-0042" ref-type="ref">2003</xref>, <xref rid="bjh15578-bib-0043" ref-type="ref">2007</xref>), pan&#x02010;haematopoietic loss of FLT3 expression&#x000a0;from early fetal development did not affect numbers of&#x000a0;LSKCD48<sup><italic>&#x02212;</italic></sup>CD150<sup>+</sup> long&#x02010;term (LT)&#x02010;HSCs (Figure&#x000a0;<xref rid="bjh15578-sup-0001" ref-type="supplementary-material">S1</xref>C).&#x000a0;Whereas LSKCD48<sup><italic>&#x02212;</italic></sup>CD150<sup><italic>&#x02212;</italic></sup> short&#x02010;term (ST)&#x02010;HSCs/MPPs and CD48<sup>+</sup>CD150<sup>+</sup> MPPs were also unaffected in adult <italic>Vav1</italic>
+<sup><italic>cre/+</italic></sup>
+<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> mice, distinct reductions were observed in CD48<sup>+</sup>CD150<sup><italic>&#x02212;</italic></sup>MPPs which include the majority of LMPPs (Kiel <italic>et&#x000a0;al</italic>, <xref rid="bjh15578-bib-0021" ref-type="ref">2005</xref>; Mead <italic>et&#x000a0;al</italic>, <xref rid="bjh15578-bib-0033" ref-type="ref">2013</xref>), CLPs (Figure&#x000a0;<xref rid="bjh15578-sup-0001" ref-type="supplementary-material">S1</xref>B&#x02013;C), B&#x02010;lymphoid restricted progenitors (Figure&#x000a0;<xref rid="bjh15578-sup-0001" ref-type="supplementary-material">S1</xref>D), and the earliest (double&#x02010;negative; DN) progenitors in the thymus, (Figure&#x000a0;<xref rid="bjh15578-sup-0001" ref-type="supplementary-material">S1</xref>E).</p><p>As previous studies have suggested that FLT3 might have distinct roles in adult and fetal haematopoiesis (Vosshenrich <italic>et&#x000a0;al</italic>, <xref rid="bjh15578-bib-0049" ref-type="ref">2003</xref>; Boiers <italic>et&#x000a0;al</italic>, <xref rid="bjh15578-bib-0008" ref-type="ref">2013</xref>; Beaudin <italic>et&#x000a0;al</italic>, <xref rid="bjh15578-bib-0007" ref-type="ref">2016</xref>), we next specifically investigated the role of FLT3 in adult haematopoiesis by crossing <italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> with <italic>Mx1&#x02010;cre</italic>
+<sup><italic>cre/+</italic></sup> mice in which Cre is only expressed upon induction with either interferon&#x02010;&#x003b1; or the interferon inducer pIpC (Kuhn <italic>et&#x000a0;al</italic>, <xref rid="bjh15578-bib-0022" ref-type="ref">1995</xref>). We treated adult (8&#x02010;week&#x02010;old) <italic>Mx1</italic>
+<sup><italic>cre/+</italic></sup>
+<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> and <italic>Mx1</italic>
+<sup><italic>+/+</italic></sup>
+<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> mice with intraperitoneal pIpC injections and analysed the impact 4&#x000a0;weeks later. As in <italic>Vav1</italic>
+<sup><italic>cre/+</italic></sup>
+<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> mice, FLT3 expression was almost completely lost on Lin<sup><italic>&#x02212;</italic></sup>SCA&#x02010;1<sup>+</sup>KIT<sup>+</sup> and CLPs in adult <italic>Mx1</italic>
+<sup><italic>cre/+</italic></sup>
+<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> mice following pIpC treatment (Fig&#x000a0;<xref rid="bjh15578-fig-0001" ref-type="fig">1</xref>A). No change was observed in total BM cellularity (Figure&#x000a0;<xref rid="bjh15578-sup-0001" ref-type="supplementary-material">S2</xref>A), nor in the number of HSCs (Lin<sup>&#x02212;</sup>SCA&#x02010;1<sup>+</sup>KIT<sup>+</sup>CD48<sup>&#x02212;</sup>CD150<sup>+</sup>; Fig&#x000a0;<xref rid="bjh15578-fig-0001" ref-type="fig">1</xref>B), in agreement with the lack of FLT3 expression on mouse HSCs (Sitnicka <italic>et&#x000a0;al</italic>, <xref rid="bjh15578-bib-0041" ref-type="ref">2002</xref>; Buza&#x02010;Vidas <italic>et&#x000a0;al</italic>, <xref rid="bjh15578-bib-0011" ref-type="ref">2009</xref>; Beaudin <italic>et&#x000a0;al</italic>, <xref rid="bjh15578-bib-0006" ref-type="ref">2014</xref>, <xref rid="bjh15578-bib-0007" ref-type="ref">2016</xref>). In contrast, CD48<sup>+</sup>CD150<sup><italic>&#x02212;</italic></sup> MPPs, containing LMPPs normally expressing the highest levels of FLT3 (Adolfsson <italic>et&#x000a0;al</italic>, <xref rid="bjh15578-bib-0002" ref-type="ref">2005</xref>; Mead <italic>et&#x000a0;al</italic>, <xref rid="bjh15578-bib-0033" ref-type="ref">2013</xref>), were distinctly reduced (Fig&#x000a0;<xref rid="bjh15578-fig-0001" ref-type="fig">1</xref>B). Notably, despite of the loss of FLT3 expression, CLP numbers were unaffected in adult <italic>Mx1</italic>
+<sup><italic>cre/+</italic></sup>
+<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> mice 4&#x000a0;weeks following pIpC treatment (Fig&#x000a0;<xref rid="bjh15578-fig-0001" ref-type="fig">1</xref>B), suggesting that the maintenance of adult CLPs is less dependent on FLT3 than LMPPs. Surprisingly, and in contrast to adult mice with constitutive knock&#x02010;out of FLT3 (Mackarehtschian <italic>et&#x000a0;al</italic>, <xref rid="bjh15578-bib-0027" ref-type="ref">1995</xref>), no changes were observed in distinct stages of B&#x02010;cell progenitors (ProB: Lin<sup><italic>&#x02212;</italic></sup>B220<sup>+</sup>CD43<sup>+</sup>CD19<sup>+</sup>CD24<sup>+</sup> CD93<sup>+</sup>; PreB: Lin<sup><italic>&#x02212;</italic></sup>B220<sup>+</sup>CD43<sup><italic>&#x02212;</italic></sup>CD19<sup>+</sup>IgM<sup><italic>&#x02212;</italic></sup>; IgM<sup>+</sup> B cells: Lin<sup><italic>&#x02212;</italic></sup>B220<sup>+</sup>CD43<sup><italic>&#x02212;</italic></sup>CD19<sup>+</sup>IgM<sup>+</sup>) in adult <italic>Mx1</italic>
+<sup><italic>cre/+</italic></sup>
+<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> mice following pIpC treatment (Fig&#x000a0;<xref rid="bjh15578-fig-0001" ref-type="fig">1</xref>C). In contrast, while no significant change was observed in total thymus cellularity (Figure&#x000a0;<xref rid="bjh15578-sup-0001" ref-type="supplementary-material">S2</xref>B), a clear reduction was observed in the ETP (Lin<sup><italic>&#x02212;</italic></sup>CD4<sup><italic>&#x02212;</italic></sup>CD8a<sup><italic>&#x02212;</italic></sup>KIT<sup>+</sup>CD25<sup><italic>&#x02212;</italic></sup>), Double Negative 2 (DN2; Lin<sup><italic>&#x02212;</italic></sup>CD4<sup><italic>&#x02212;</italic></sup>CD8a<sup><italic>&#x02212;</italic></sup>KIT<sup>+</sup>CD25<sup>+</sup>) and Double Negative 3 (DN3; Lin<sup><italic>&#x02212;</italic></sup>CD4<sup><italic>&#x02212;</italic></sup>CD8a<sup><italic>&#x02212;</italic></sup>KIT<sup><italic>&#x02212;</italic></sup>CD25<sup>+</sup>) thymocytes in adult <italic>Mx1</italic>
+<sup><italic>cre/+</italic></sup>
+<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> mice following pIpC treatment (Fig&#x000a0;<xref rid="bjh15578-fig-0001" ref-type="fig">1</xref>D), demonstrating a strict requirement for FLT3 function during steady&#x02010;state adult thymopoiesis.</p><fig fig-type="Figure" xml:lang="en" id="bjh15578-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Role of <styled-content style="fixed-case">FLT</styled-content>3 in steady&#x02010;state adult haematopoiesis. (A) Representative fluorescence&#x02010;activated cell sorting (<styled-content style="fixed-case">FACS</styled-content>) profiles showing <styled-content style="fixed-case">FLT</styled-content>3 surface expression on Lin<sup>&#x02212;</sup>SCA&#x02010;1<sup>+</sup>KIT<sup>+</sup> cells and Lin<sup>&#x02212;</sup>SCA&#x02010;1<sup>low</sup>KIT<sup>low</sup> cells in <italic>Mx1</italic>
+<sup><italic>+/+</italic></sup>
+<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> compared to <italic>Mx1</italic>
+<sup><italic>cre/+</italic></sup>
+<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> bone marrow (<styled-content style="fixed-case">BM</styled-content>) (numbers represent mean percentages of 6&#x02013;8 mice per genotype) 4&#x000a0;weeks after polyinositolic polycytidylic acid (<styled-content style="fixed-case">pIpC</styled-content>) injection. In addition to isotype control and Fluorescence Minus One (<styled-content style="fixed-case">FMO</styled-content>) controls, gates for <styled-content style="fixed-case">FLT</styled-content>3 expression were set using long&#x02010;term haematopoietic stem cells (<styled-content style="fixed-case">LT</styled-content>&#x02010;<styled-content style="fixed-case">HSC</styled-content>s) as a negative internal reference population (<styled-content style="fixed-case">IRP</styled-content>), to improve the reliable detection of <styled-content style="fixed-case">FLT</styled-content>3 positive and negative cells, as <styled-content style="fixed-case">HSC</styled-content>s have been&#x000a0;established to lack cell surface <styled-content style="fixed-case">FLT</styled-content>3 expression (Adolfsson <italic>et&#x000a0;al</italic>, <xref rid="bjh15578-bib-0001" ref-type="ref">2001</xref>). (B&#x02013;C) Mean percentages (&#x000b1;SD of total <styled-content style="fixed-case">BM</styled-content> cells) of (B) <styled-content style="fixed-case">LT</styled-content>&#x02010;<styled-content style="fixed-case">HSC</styled-content>s (Lin<sup>&#x02212;</sup>SCA<sup>&#x02212;</sup>1<sup>+</sup>KIT<sup>+</sup>CD48&#x02010;CD150<sup>+</sup>), <styled-content style="fixed-case">CD</styled-content>48<sup><italic>&#x02212;</italic></sup>
+<styled-content style="fixed-case">CD</styled-content>150<sup><italic>&#x02212;</italic></sup> short&#x02010;term (<styled-content style="fixed-case">ST</styled-content>)&#x02010;<styled-content style="fixed-case">HSC</styled-content>s (Lin<sup>&#x02212;</sup>SCA&#x02010;1<sup>+</sup>KIT<sup>+</sup>CD48<sup>&#x02212;</sup>CD150<sup>&#x02212;</sup>), <styled-content style="fixed-case">CD</styled-content>48<sup>+</sup>
+<styled-content style="fixed-case">CD</styled-content>150<sup>+</sup> multipotent progenitors (<styled-content style="fixed-case">MPP</styled-content>s) (Lin<sup>&#x02212;</sup>SCA&#x02010;1<sup>+</sup>KIT<sup>+</sup>CD48<sup>+</sup>CD150<sup>+</sup>), <styled-content style="fixed-case">CD</styled-content>48<sup>+</sup>
+<styled-content style="fixed-case">CD</styled-content>150<sup><italic>&#x02212;</italic></sup>
+<styled-content style="fixed-case">MPP</styled-content>s (Lin<sup>&#x02212;</sup>SCA&#x02010;1<sup>+</sup>KIT<sup>+</sup>CD48<sup>+</sup>CD150<sup>&#x02212;</sup>) and common lymphoid progenitors (<styled-content style="fixed-case">CLP</styled-content>s) (Lin<sup>&#x02212;</sup>SCA&#x02010;1<sup>low</sup>KIT<sup>low</sup>IL&#x02010;7R<sup>+</sup>), (C) ProB cells (Lin<sup><italic>&#x02212;</italic></sup>B220<sup>+</sup>
+<styled-content style="fixed-case">CD</styled-content>43<sup>+</sup>
+<styled-content style="fixed-case">CD</styled-content>19<sup>+</sup>
+<styled-content style="fixed-case">CD</styled-content>24<sup>+</sup>
+<styled-content style="fixed-case">CD</styled-content>93<sup>+</sup>), PreB cells (Lin<sup><italic>&#x02212;</italic></sup>B220<sup>+</sup>
+<styled-content style="fixed-case">CD</styled-content>43<sup><italic>&#x02212;</italic></sup>
+<styled-content style="fixed-case">CD</styled-content>19<sup>+</sup>IgM<sup><italic>&#x02212;</italic></sup>) and IgM<sup>+</sup> B cells (Lin<sup><italic>&#x02212;</italic></sup>B220<sup>+</sup>
+<styled-content style="fixed-case">CD</styled-content>43<sup><italic>&#x02212;</italic></sup>
+<styled-content style="fixed-case">CD</styled-content>19<sup>+</sup>IgM<sup>+</sup>) in 12&#x02010;week&#x02010;old <italic>Mx1</italic>
+<sup><italic>+/+</italic></sup>
+<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> and <italic>Mx1</italic>
+<sup><italic>cre/+</italic></sup>
+<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> mice (<italic>n</italic>&#x000a0;=&#x000a0;6&#x02013;8 mice per genotype in 3 experiments) 4&#x000a0;weeks after <styled-content style="fixed-case">pIpC</styled-content> injection. (D) Mean percentages (&#x000b1;SD of total thymus cells) of early thymic progenitors (<styled-content style="fixed-case">ETP</styled-content>s) (Lin<sup><italic>&#x02212;</italic></sup>
+<styled-content style="fixed-case">CD</styled-content>4<sup><italic>&#x02212;</italic></sup>
+<styled-content style="fixed-case">CD</styled-content>8a<sup><italic>&#x02212;</italic></sup>
+<styled-content style="fixed-case">KIT</styled-content>
+<sup>+</sup>
+<styled-content style="fixed-case">CD</styled-content>25<sup><italic>&#x02212;</italic></sup>), Double Negative 2 (<styled-content style="fixed-case">DN</styled-content>2) (Lin<sup><italic>&#x02212;</italic></sup>
+<styled-content style="fixed-case">CD</styled-content>4<sup><italic>&#x02212;</italic></sup>
+<styled-content style="fixed-case">CD</styled-content>8a<sup><italic>&#x02212;</italic></sup>
+<styled-content style="fixed-case">KIT</styled-content>
+<sup>+</sup>
+<styled-content style="fixed-case">CD</styled-content>25<sup>+</sup>) and Double Negative 3 (<styled-content style="fixed-case">DN</styled-content>3) (Lin<sup><italic>&#x02212;</italic></sup>
+<styled-content style="fixed-case">CD</styled-content>4<sup><italic>&#x02212;</italic></sup>
+<styled-content style="fixed-case">CD</styled-content>8a<sup><italic>&#x02212;</italic></sup>
+<styled-content style="fixed-case">KIT</styled-content>
+<sup><italic>&#x02212;</italic></sup>
+<styled-content style="fixed-case">CD</styled-content>25<sup>+</sup>) cells in 12&#x02010;week&#x02010;old <italic>Mx1</italic>
+<sup><italic>+/+</italic></sup>
+<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> and <italic>Mx1</italic>
+<sup><italic>cre/+</italic></sup>
+<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> mice (<italic>n</italic>&#x000a0;=&#x000a0;6&#x02013;8 mice per genotype in 3 experiments) 4&#x000a0;weeks after <styled-content style="fixed-case">pIpC</styled-content> injection. (E) Polymerase chain reaction analysis of recombination at the <italic>Flt3</italic> locus in ProB cells in <italic>Mx1</italic>
+<sup><italic>+/+</italic></sup>
+<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> and <italic>Mx1</italic>
+<sup><italic>cre/+</italic></sup>
+<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> mice 4&#x000a0;weeks after <styled-content style="fixed-case">pIpC</styled-content> injection. Also shown are <italic>Vav1</italic>
+<sup><italic>+/+</italic></sup>
+<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup>, <italic>Vav1</italic>
+<sup><italic>cre/+</italic></sup>
+<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> and wild type (<styled-content style="fixed-case">WT</styled-content>) controls. The upper band represents the deleted Flt3 allele (461&#x000a0;bp), the middle band the floxed Flt3 allele (282&#x000a0;bp) and the lower band the <styled-content style="fixed-case">WT</styled-content> allele (205&#x000a0;bp). (F&#x02013;H) Mean percentages (&#x000b1;SD) contribution of <styled-content style="fixed-case">CD</styled-content>45.2 cells to (F) <styled-content style="fixed-case">LT</styled-content>&#x02010;<styled-content style="fixed-case">HSC</styled-content>s, <styled-content style="fixed-case">CD</styled-content>48<sup>+</sup>
+<styled-content style="fixed-case">CD</styled-content>150<sup><italic>&#x02212;</italic></sup>
+<styled-content style="fixed-case">MPP</styled-content>s and <styled-content style="fixed-case">CLP</styled-content>s, (G) ProB cells, PreB cells and IgM<sup>+</sup> B cells in <styled-content style="fixed-case">BM</styled-content> and (H) <styled-content style="fixed-case">ETP</styled-content>,<styled-content style="fixed-case"> DN</styled-content>2 and <styled-content style="fixed-case">DN</styled-content>3 cells in thymus of mice transplanted with 2&#x000a0;&#x000d7;&#x000a0;10<sup>6</sup> cells unfractionated <styled-content style="fixed-case">BM</styled-content> cells from <italic>Mx1</italic>
+<sup><italic>+/+</italic></sup>
+<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> (<styled-content style="fixed-case">CD</styled-content>45.2) or <italic>Mx1</italic>
+<sup><italic>cre/+</italic></sup>
+<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> (<styled-content style="fixed-case">CD</styled-content>45.2) mice (<italic>n</italic>&#x000a0;=&#x000a0;6 per genotype) together with 2&#x000a0;&#x000d7;&#x000a0;10<sup>6</sup> cells unfractionated <styled-content style="fixed-case">BM</styled-content> competitor cells from <styled-content style="fixed-case">WT CD</styled-content>45.1 mice, analysed 8&#x000a0;weeks post&#x02010;transplantation and 4&#x000a0;weeks after <styled-content style="fixed-case">pIpC</styled-content> injection. *<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0&#x000b7;05; **<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0&#x000b7;01; ***<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0&#x000b7;001.</p></caption><graphic id="nlm-graphic-1" xlink:href="BJH-183-588-g001"/></fig><p>Genomic PCR analysis of ProB cells purified from <italic>Mx1</italic>
+<sup><italic>cre/+</italic></sup>
+<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> BM demonstrated that the majority of <italic>Mx1</italic>
+<sup><italic>cre/+</italic></sup>
+<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> ProB cells had a remaining floxed Flt3 allele (Fig&#x000a0;<xref rid="bjh15578-fig-0001" ref-type="fig">1</xref>E) suggesting that non&#x02010;deleted (wild&#x02010;type) progenitors, such as CLPs, have a competitive advantage over <italic>Flt3&#x02010;</italic>deleted progenitors in sustaining adult early B cell progenitors. In agreement with this, upon transplantation of unfractionated adult BM cells from CD45.2 <italic>Mx1</italic>
+<sup><italic>+/+</italic></sup>
+<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> or <italic>Mx1</italic>
+<sup><italic>cre/+</italic></sup>
+<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> donor mice together with competitor CD45.1 BM cells into lethally&#x02010;irradiated adult CD45.1 recipients followed by pIpC treatment, we observed a consistently reduced contribution of <italic>Mx1</italic>
+<sup><italic>cre/+</italic></sup>
+<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> cells to CD48<sup>+</sup>CD150<sup><italic>&#x02212;</italic></sup> MPPs and CLPs, as well as B&#x02010;cell and T&#x02010;cell progenitors (Fig&#x000a0;<xref rid="bjh15578-fig-0001" ref-type="fig">1</xref>F&#x02013;H, Figure&#x000a0;<xref rid="bjh15578-sup-0001" ref-type="supplementary-material">S2</xref>C&#x02013;E).</p><p>Thus, FLT3 plays an important role in sustaining multiple stages of lympho&#x02010;myeloid progenitors in adult haematopoiesis.</p></sec><sec id="bjh15578-sec-0011"><title>Requirement for FLT3 after initiation of lymphoid lineage programme</title><p>Previously reported reductions in the earliest B&#x02010; and T&#x02010;lymphoid progenitors in conventional <italic>Flt3</italic> knockout mice could potentially be secondary to reductions in high FLT3&#x02010;expressing LMPPs and/or CLPs rather than reflecting a specific and direct role of FLT3 in downstream B&#x02010; and T&#x02010;cell committed progenitors. To more specifically investigate the potential&#x000a0;direct role of FLT3 down&#x02010;stream of adult LMPPs and in&#x000a0;already lymphoid&#x02010;programmed progenitors, we crossed <italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> and <italic>Rag1</italic>
+<sup><italic>cre/+</italic></sup> mice, to exclusively target loss of FLT3 function to cells already expressing high levels of <italic>Rag1</italic> (McCormack <italic>et&#x000a0;al</italic>, <xref rid="bjh15578-bib-0031" ref-type="ref">2003</xref>). Importantly, and in agreement with only a fraction of adult LMPPs expressing <italic>Rag1</italic> and at very low levels (Adolfsson <italic>et&#x000a0;al</italic>, <xref rid="bjh15578-bib-0002" ref-type="ref">2005</xref>; Mansson <italic>et&#x000a0;al</italic>, <xref rid="bjh15578-bib-0028" ref-type="ref">2007</xref>, <xref rid="bjh15578-bib-0029" ref-type="ref">2010</xref>; Luc <italic>et&#x000a0;al</italic>, <xref rid="bjh15578-bib-0023" ref-type="ref">2012</xref>), we observed no change in FLT3 cell surface expression on LMPPs, whereas a reduced fraction of Lin<sup><italic>&#x02212;</italic></sup>SCA&#x02010;1<sup>low</sup>KIT<sup>low</sup>IL7R<sup>+</sup> CLPs expressed FLT3 (Fig&#x000a0;<xref rid="bjh15578-fig-0002" ref-type="fig">2</xref>A)<bold>.</bold> Despite this<bold>,</bold> not only long&#x02010;term (LT)&#x02010;HSCs, short&#x02010;term (ST)&#x02010;HSCs, CD48<sup>+</sup>CD150<sup>+</sup> MPPs and CD48<sup>+</sup>CD150<sup><italic>&#x02212;</italic></sup> MPPs, but also total CLP numbers were unaffected in the BM of adult <italic>Rag1</italic>
+<sup><italic>cre/+</italic></sup>
+<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> mice (Fig&#x000a0;<xref rid="bjh15578-fig-0002" ref-type="fig">2</xref>B; Figure&#x000a0;<xref rid="bjh15578-sup-0001" ref-type="supplementary-material">S3</xref>A), unlike in adult <italic>Vav1</italic>
+<sup><italic>cre/+</italic></sup>
+<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> mice (Figure&#x000a0;<xref rid="bjh15578-sup-0001" ref-type="supplementary-material">S1</xref>B&#x02013;C). The proportion of CD48<sup><italic>&#x02212;</italic></sup>CD150<sup><italic>&#x02212;</italic></sup> ST&#x02010;HSCs, CD48<sup>+</sup>CD150<sup>+</sup> MPPs and CD48<sup>+</sup>CD150<sup><italic>&#x02212;</italic></sup> MPPs, expressing FLT3 were not altered (Fig&#x000a0;<xref rid="bjh15578-fig-0002" ref-type="fig">2</xref>C&#x02013;D). Notably, although the total numbers of CLPs were unaffected, the FLT3<sup>+</sup> fraction of CLPs in <italic>Rag1</italic>
+<sup><italic>cre/+</italic></sup>
+<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> mice was significantly reduced with a corresponding increase in FLT3<sup><italic>&#x02212;</italic></sup> CLPs (Fig&#x000a0;<xref rid="bjh15578-fig-0002" ref-type="fig">2</xref>C&#x02013;D), compatible with a fraction of CLPs being sustained at normal levels although deleted for FLT3 expression. Notably, even if LMPP and CLP numbers in adult <italic>Rag1</italic>
+<sup><italic>cre/+</italic></sup>
+<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> mice were unaffected, ProB, PreB and IgM<sup>+</sup> B cells in the BM (Fig&#x000a0;<xref rid="bjh15578-fig-0002" ref-type="fig">2</xref>E) as well as ETPs in the thymus were significantly reduced (Fig&#x000a0;<xref rid="bjh15578-fig-0002" ref-type="fig">2</xref>F; Figure&#x000a0;<xref rid="bjh15578-sup-0001" ref-type="supplementary-material">S3</xref>B), to a similar degree as in <italic>Vav1</italic>
+<sup><italic>cre/+</italic></sup>
+<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> mice (Figure&#x000a0;<xref rid="bjh15578-sup-0001" ref-type="supplementary-material">S1</xref>D&#x02013;E), establishing a strict requirement for FLT3, independently of LMPPs and CLPs, and after initiation of lymphoid&#x02010;restricted gene expression in adult haematopoiesis.</p><fig fig-type="Figure" xml:lang="en" id="bjh15578-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Role of <styled-content style="fixed-case">FLT</styled-content>3 in adult lymphoid&#x02010;committed progenitors. (A) Representative fluorescence&#x02010;activated cell sorting (<styled-content style="fixed-case">FACS</styled-content>) profiles showing <styled-content style="fixed-case">FLT</styled-content>3 surface expression on Lin<sup>&#x02212;</sup>SCA&#x02010;1<sup>+</sup>KIT<sup>+</sup> cells and Lin<sup>&#x02212;</sup>SCA&#x02010;1<sup>low</sup>KIT<sup>low</sup> cells in <italic>Rag1</italic>
+<sup><italic>+/+</italic></sup>
+<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> compared to <italic>Rag1</italic>
+<sup><italic>cre/+</italic></sup>
+<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> bone marrow (<styled-content style="fixed-case">BM</styled-content>) (numbers represent mean percentages of 7 mice per genotype). Gates were set using long&#x02010;term haematopoietic stem cells (<styled-content style="fixed-case">LT</styled-content>&#x02010;<styled-content style="fixed-case">HSC</styled-content>s) as a negative internal reference population (<styled-content style="fixed-case">IRP</styled-content>). (B) Mean percentages (&#x000b1;SD of total <styled-content style="fixed-case">BM</styled-content> cells) of <styled-content style="fixed-case">CD</styled-content>48<sup><italic>&#x02212;</italic></sup>
+<styled-content style="fixed-case">CD</styled-content>150<sup>+</sup>
+<styled-content style="fixed-case">LT</styled-content>&#x02010;<styled-content style="fixed-case">HSC</styled-content>s, <styled-content style="fixed-case">CD</styled-content>48<sup><italic>&#x02212;</italic></sup>
+<styled-content style="fixed-case">CD</styled-content>150<sup><italic>&#x02212;</italic></sup> short&#x02010;term (<styled-content style="fixed-case">ST</styled-content>)&#x02010;<styled-content style="fixed-case">HSC</styled-content>s, <styled-content style="fixed-case">CD</styled-content>48<sup>+</sup>
+<styled-content style="fixed-case">CD</styled-content>150<sup>+</sup> multipotent progenitors (<styled-content style="fixed-case">MPP</styled-content>s), <styled-content style="fixed-case">CD</styled-content>48<sup>+</sup>
+<styled-content style="fixed-case">CD</styled-content>150<sup><italic>&#x02212;</italic></sup>
+<styled-content style="fixed-case">MPP</styled-content>s and common lymphoid progenitors (<styled-content style="fixed-case">CLP</styled-content>s) in 12&#x02010;week&#x02010;old <italic>Rag1</italic>
+<sup><italic>+/+</italic></sup>
+<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> and <italic>Rag1</italic>
+<sup><italic>cre/+</italic></sup>
+<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> mice (<italic>n</italic>&#x000a0;=&#x000a0;7 mice per genotype in 2 experiments). (C&#x02013;D) Mean percentages (&#x000b1;SD of total <styled-content style="fixed-case">BM</styled-content> cells) <styled-content style="fixed-case">FLT</styled-content>3<sup><italic>&#x02212;</italic></sup> and <styled-content style="fixed-case">FLT</styled-content>3<sup>+</sup> subsets of (C) <styled-content style="fixed-case">CD</styled-content>48<sup><italic>&#x02212;</italic></sup>
+<styled-content style="fixed-case">CD</styled-content>150<sup><italic>&#x02212;</italic></sup>
+<styled-content style="fixed-case">ST</styled-content>&#x02010;<styled-content style="fixed-case">HSC</styled-content>s, <styled-content style="fixed-case">CD</styled-content>48<sup>+</sup>
+<styled-content style="fixed-case">CD</styled-content>150<sup>+</sup>
+<styled-content style="fixed-case">MPP</styled-content>s and (D) <styled-content style="fixed-case">CD</styled-content>48<sup>+</sup>
+<styled-content style="fixed-case">CD</styled-content>150<sup><italic>&#x02212;</italic></sup>
+<styled-content style="fixed-case">MPP</styled-content>s and <styled-content style="fixed-case">CLP</styled-content>s in 12&#x02010;week&#x02010;old <italic>Rag1</italic>
+<sup><italic>+/+</italic></sup>
+<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> and <italic>Rag1</italic>
+<sup><italic>cre/+</italic></sup>
+<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> mice (<italic>n</italic>&#x000a0;=&#x000a0;7 mice per genotype in 2 experiments). (E) Mean percentages (&#x000b1;SD of total <styled-content style="fixed-case">BM</styled-content> cells) of ProB cells, PreB cells and IgM<sup>+</sup> B cells in 12&#x02010;week&#x02010;old <italic>Rag1</italic>
+<sup><italic>+/+</italic></sup>
+<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> and <italic>Rag1</italic>
+<sup><italic>cre/+</italic></sup>
+<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> mice (<italic>n</italic>&#x000a0;=&#x000a0;7 mice per genotype in 2 experiments). (F) Mean percentages (&#x000b1;SD of total thymus cells) of early thymic progenitor (<styled-content style="fixed-case">ETP</styled-content>), Double Negative 2 (<styled-content style="fixed-case">DN</styled-content>2) and Double Negative 3 (<styled-content style="fixed-case">DN</styled-content>3) cells in 12&#x02010;weekold adult thymus from <italic>Rag1</italic>
+<sup><italic>+/+</italic></sup>
+<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> and <italic>Rag1</italic>
+<sup><italic>cre/+</italic></sup>
+<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> mice (<italic>n</italic>&#x000a0;=&#x000a0;7 mice per genotype in 2 experiments). *<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0&#x000b7;05; **<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0&#x000b7;01; ***<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0&#x000b7;001; ns, not significant.</p></caption><graphic id="nlm-graphic-3" xlink:href="BJH-183-588-g002"/></fig><p>Previous studies have suggested that the cytokine requirement might be distinct for fetal and adult lymphoid progenitors (Carvalho <italic>et&#x000a0;al</italic>, <xref rid="bjh15578-bib-0014" ref-type="ref">2001</xref>; Vosshenrich <italic>et&#x000a0;al</italic>, <xref rid="bjh15578-bib-0049" ref-type="ref">2003</xref>; Hesslein <italic>et&#x000a0;al</italic>, <xref rid="bjh15578-bib-0018" ref-type="ref">2006</xref>; Beaudin <italic>et&#x000a0;al</italic>, <xref rid="bjh15578-bib-0007" ref-type="ref">2016</xref>; Zriwil <italic>et&#x000a0;al</italic>, <xref rid="bjh15578-bib-0052" ref-type="ref">2016</xref>). Moreover, LMPPs in the FL express higher levels of lymphoid genes, including <italic>Rag1,</italic> when compared to their adult counterparts (Boiers <italic>et&#x000a0;al</italic>, <xref rid="bjh15578-bib-0008" ref-type="ref">2013</xref>). We therefore next investigated the impact of <italic>Flt3</italic> deletion in the E14.5 FL of <italic>Rag1</italic>
+<sup><italic>cre/+</italic></sup>
+<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> embryos. In agreement with their higher <italic>Rag1</italic> expression (Boiers <italic>et&#x000a0;al</italic>, <xref rid="bjh15578-bib-0008" ref-type="ref">2013</xref>), we observed a slight reduction in LSK cells expressing FLT3 and a more distinct and significant reduction on Lin<sup>&#x02212;</sup>SCA&#x02010;1<sup>low</sup>KIT<sup>low</sup>IL&#x02010;7R<sup>+</sup> CLPs (Fig&#x000a0;<xref rid="bjh15578-fig-0003" ref-type="fig">3</xref>A). Despite this, not only CD48<sup><italic>&#x02212;</italic></sup>CD150<sup>+</sup> LT&#x02010;HSCs, CD48<sup><italic>&#x02212;</italic></sup>CD150<sup><italic>&#x02212;</italic></sup> ST&#x02010;HSCs and CD48<sup>+</sup>CD150<sup>+</sup> MPPs, but also CD48<sup>+</sup>CD150<sup><italic>&#x02212;</italic></sup> MPPs and CLPs were unaffected in the E14.5 <italic>Rag1</italic>
+<sup><italic>cre/+</italic></sup>
+<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> FL (Fig&#x000a0;<xref rid="bjh15578-fig-0003" ref-type="fig">3</xref>B). Whereas the FLT3<sup>+</sup> and FLT3<sup><italic>&#x02212;</italic></sup> fractions of the different LSK HSC and MPP fractions were unaffected in the <italic>Rag1</italic>
+<sup><italic>cre/+</italic></sup>
+<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> FL, FLT3<sup>+</sup> CLPs were reduced and FLT3<sup><italic>&#x02212;</italic></sup> CLPs correspondingly increased (Fig&#x000a0;<xref rid="bjh15578-fig-0003" ref-type="fig">3</xref>C&#x02013;D), similar to what was observed in the adult BM. Notably, the earliest ProB cell progenitors emerging in the FL at this stage, were reduced by almost 90%, demonstrating a direct and critical role of FLT3 in fetal B cell progenitors&#x000a0;(Fig&#x000a0;<xref rid="bjh15578-fig-0003" ref-type="fig">3</xref>E, Figure&#x000a0;<xref rid="bjh15578-sup-0001" ref-type="supplementary-material">S4</xref>A&#x02013;B). In contrast, the earliest thymic&#x000a0;progenitors in the E14.5 thymus were unaffected in <italic>Rag1</italic>
+<sup><italic>cre/+</italic></sup>
+<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> embryos (Fig&#x000a0;<xref rid="bjh15578-fig-0003" ref-type="fig">3</xref>F, Figure&#x000a0;<xref rid="bjh15578-sup-0001" ref-type="supplementary-material">S4</xref>C). Even when E14.5 CD45.2 <italic>Rag1</italic>
+<sup><italic>cre/+</italic></sup>
+<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> FL cells were competitively transplanted into lethally&#x02010;irradiated adult wild&#x02010;type (WT) CD45.1 recipients, we observed no impact of <italic>Flt3</italic> deficiency on the earliest LMPP and CLP progenitor compartments (Fig&#x000a0;<xref rid="bjh15578-fig-0003" ref-type="fig">3</xref>G), while early B&#x02010; and T&#x02010;cell progenitors were distinctly reduced (Fig&#x000a0;<xref rid="bjh15578-fig-0003" ref-type="fig">3</xref>H&#x02013;I, Figure&#x000a0;<xref rid="bjh15578-sup-0001" ref-type="supplementary-material">S4</xref>D&#x02013;F), again supporting a distinct role of FLT3 in early lymphoid progenitors subsequent to the initiation of lymphoid lineage programming.</p><fig fig-type="Figure" xml:lang="en" id="bjh15578-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Role of <styled-content style="fixed-case">FLT</styled-content>3 in fetal lymphoid&#x02010;committed progenitors. (A) Representative fluorescence&#x02010;activated cell sorting (<styled-content style="fixed-case">FACS</styled-content>)profiles showing <styled-content style="fixed-case">FLT</styled-content>3 surface expression on Lin<sup>&#x02212;</sup>SCA&#x02010;1<sup>+</sup>KIT<sup>+</sup> cells and Lin<sup>&#x02212;</sup>SCA&#x02010;1<sup>low</sup>KIT<sup>low</sup> cells in <italic>Rag1</italic>
+<sup><italic>+/+</italic></sup>
+<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> compared to <italic>Rag1</italic>
+<sup><italic>cre/+</italic></sup>
+<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> E14.5 fetal liver (<styled-content style="fixed-case">FL</styled-content>) cells (numbers represent mean percentages of 8&#x02013;11 embryos per genotype). (B) Mean percentages (&#x000b1;SD of total <styled-content style="fixed-case">FL</styled-content> cells) of <styled-content style="fixed-case">CD</styled-content>48<sup><italic>&#x02212;</italic></sup>
+<styled-content style="fixed-case">CD</styled-content>150<sup>+</sup> long&#x02010;term haematopoietic stem cells (<styled-content style="fixed-case">LT</styled-content>&#x02010;<styled-content style="fixed-case">HSC</styled-content>s), <styled-content style="fixed-case">CD</styled-content>48<sup><italic>&#x02212;</italic></sup>
+<styled-content style="fixed-case">CD</styled-content>150<sup><italic>&#x02212;</italic></sup> short&#x02010;term (<styled-content style="fixed-case">ST</styled-content>)&#x02010;<styled-content style="fixed-case">HSC</styled-content>s, <styled-content style="fixed-case">CD</styled-content>48<sup>+</sup>
+<styled-content style="fixed-case">CD</styled-content>150<sup>+</sup> multipotent progenitors (<styled-content style="fixed-case">MPP</styled-content>s), <styled-content style="fixed-case">CD</styled-content>48<sup>+</sup>
+<styled-content style="fixed-case">CD</styled-content>150<sup><italic>&#x02212;</italic></sup>
+<styled-content style="fixed-case">MPP</styled-content>s and common lymphoid progenitors (<styled-content style="fixed-case">CLP</styled-content>s) in E14.5 <italic>Rag1</italic>
+<sup><italic>+/+</italic></sup>
+<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> and <italic>Rag1</italic>
+<sup><italic>cre/+</italic></sup>
+<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> embryos (<italic>n</italic>&#x000a0;=&#x000a0;8&#x02013;11 embryos per genotype in 2 experiments). (C&#x02013;D) Mean percentages (&#x000b1;SD of total <styled-content style="fixed-case">FL</styled-content> cells) <styled-content style="fixed-case">FLT</styled-content>3<sup><italic>&#x02212;</italic></sup> and <styled-content style="fixed-case">FLT</styled-content>3<sup>+</sup> subsets of (C) <styled-content style="fixed-case">CD</styled-content>48<sup><italic>&#x02212;</italic></sup>
+<styled-content style="fixed-case">CD</styled-content>150<sup><italic>&#x02212;</italic></sup>
+<styled-content style="fixed-case">ST</styled-content>&#x02010;<styled-content style="fixed-case">HSC</styled-content>s, <styled-content style="fixed-case">CD</styled-content>48<sup>+</sup>
+<styled-content style="fixed-case">CD</styled-content>150<sup>+</sup>
+<styled-content style="fixed-case">MPP</styled-content>s and (D) <styled-content style="fixed-case">CD</styled-content>48<sup>+</sup>
+<styled-content style="fixed-case">CD</styled-content>150<sup><italic>&#x02212;</italic></sup>
+<styled-content style="fixed-case">MPP</styled-content>s and <styled-content style="fixed-case">CLP</styled-content>s in E14.5 <italic>Rag1</italic>
+<sup><italic>+/+</italic></sup>
+<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> and <italic>Rag1</italic>
+<sup><italic>cre/+</italic></sup>
+<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> embryos (<italic>n</italic>&#x000a0;=&#x000a0;8&#x02013;11 embryos per genotype in 2 experiments). (E) Mean percentages (&#x000b1;SD of total <styled-content style="fixed-case">FL</styled-content> cells) of ProB cells in E14.5 <italic>Rag1</italic>
+<sup><italic>+/+</italic></sup>
+<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> and <italic>Rag1</italic>
+<sup><italic>cre/+</italic></sup>
+<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> embryos (<italic>n</italic>&#x000a0;=&#x000a0;8&#x02013;11 embryos per genotype in 2 experiments). (F) Mean percentages (&#x000b1;SD of total fetal thymus cells) of early thymic progenitor (<styled-content style="fixed-case">ETP</styled-content>) and Double Negative 2 (<styled-content style="fixed-case">DN</styled-content>2) cells in E14.5 <italic>Rag1</italic>
+<sup><italic>+/+</italic></sup>
+<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> and <italic>Rag1</italic>
+<sup><italic>cre/+</italic></sup>
+<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> embryos (<italic>n</italic>&#x000a0;=&#x000a0;4&#x02013;7 embryos per genotype in 1 experiment). (G&#x02013;I) Mean percentages (&#x000b1;SD) contribution of <styled-content style="fixed-case">CD</styled-content>45.2 cells to (G) <styled-content style="fixed-case">LT</styled-content>&#x02010;<styled-content style="fixed-case">HSC</styled-content>s, <styled-content style="fixed-case">CD</styled-content>48<sup>+</sup>
+<styled-content style="fixed-case">CD</styled-content>150<sup><italic>&#x02212;</italic></sup>
+<styled-content style="fixed-case">MPP</styled-content>s and <styled-content style="fixed-case">CLP</styled-content>s, (H) ProB cells, PreB cells, and IgM<sup>+</sup> B cells in bone marrow and (I) <styled-content style="fixed-case">ETP</styled-content>,<styled-content style="fixed-case"> DN</styled-content>2 and Double Negative 3 (<styled-content style="fixed-case">DN</styled-content>3) cells in thymus of lethally&#x02010;irradiated <styled-content style="fixed-case">CD</styled-content>45.1 mice transplanted with 2&#x000a0;&#x000d7;&#x000a0;10<sup>6</sup> cells unfractionated E14.5 <styled-content style="fixed-case">FL</styled-content> cells from <italic>Rag1</italic>
+<sup><italic>+/+</italic></sup>
+<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> (<styled-content style="fixed-case">CD</styled-content>45.2) or <italic>Rag1</italic>
+<sup><italic>cre/+</italic></sup>
+<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> (<styled-content style="fixed-case">CD</styled-content>45.2) mice (<italic>n</italic>&#x000a0;=&#x000a0;5 per genotype) together with 2&#x000a0;&#x000d7;&#x000a0;10<sup>6</sup> cells unfractionated E14.5 <styled-content style="fixed-case">FL</styled-content> competitor cells from wild type <styled-content style="fixed-case">CD</styled-content>45.1 embryos, analysed 8&#x000a0;weeks post&#x02010;transplantation. *<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0&#x000b7;05; **<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0&#x000b7;01; ***<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0&#x000b7;001.</p></caption><graphic id="nlm-graphic-5" xlink:href="BJH-183-588-g003"/></fig></sec><sec id="bjh15578-sec-0012"><title>Role of FLT3 in maintenance of distinct B cell subsets</title><p>As we observed a strong impact of lymphoid&#x02010;restricted deletion of FLT3 on B&#x02010;progenitor cell maintenance in the embryo as well as in adult haematopoiesis, we next investigated to what degree the generation and maintenance of the preferentially fetal&#x02010;derived mature B1a and Marginal Zone B (MZB) cells (Hardy &#x00026; Hayakawa, <xref rid="bjh15578-bib-0017" ref-type="ref">1991</xref>; Kantor <italic>et&#x000a0;al</italic>, <xref rid="bjh15578-bib-0020" ref-type="ref">1992</xref>; Yoshimoto <italic>et&#x000a0;al</italic>, <xref rid="bjh15578-bib-0051" ref-type="ref">2011</xref>) as well as conventional B2 cells which are also produced during adult haematopoiesis (Hao &#x00026; Rajewsky, <xref rid="bjh15578-bib-0016" ref-type="ref">2001</xref>) are dependent on intact FLT3 function. At steady state, follicular B2 cells (CD19<sup>+</sup>CD93<sup><italic>&#x02212;</italic></sup>CD5<sup><italic>&#x02212;</italic></sup>CD43<sup><italic>&#x02212;</italic></sup>CD23<sup>+</sup>CD1d<sup><italic>&#x02212;</italic></sup>) were unaffected in the spleen and peritoneal cavity (CD19<sup>+</sup>CD5<sup><italic>&#x02212;</italic></sup>CD43<sup><italic>&#x02212;</italic></sup>CD23<sup>+</sup>CD11b<sup><italic>&#x02212;</italic></sup>) of adult <italic>Rag1</italic>
+<sup><italic>cre/+</italic></sup>
+<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> mice, as were B1a (CD19<sup>+</sup>CD93<sup><italic>&#x02212;</italic></sup>CD5<sup>+</sup>CD43<sup>+</sup>CD23<sup><italic>&#x02212;</italic></sup>CD1d<sup><italic>&#x02212;</italic></sup>) and MZB (CD19<sup>+</sup>CD93<sup><italic>&#x02212;</italic></sup>CD23&#x02010;CD1d<sup>+</sup>) cells in the spleen and B1a (CD19<sup>+</sup>CD5<sup>+</sup>CD43<sup>+</sup>CD23<sup><italic>&#x02212;</italic></sup>) cells in the peritoneal cavity (Fig&#x000a0;<xref rid="bjh15578-fig-0004" ref-type="fig">4</xref>A&#x02013;D, Figure&#x000a0;<xref rid="bjh15578-sup-0001" ref-type="supplementary-material">S3</xref>C). Fetal&#x02010;derived B1a cells and MZB cells are long&#x02010;lived and possess self&#x02010;renewal potential (Hao &#x00026; Rajewsky, <xref rid="bjh15578-bib-0016" ref-type="ref">2001</xref>), which could result in a compensatory expansion to correct any reductions due to loss of FLT3 function. To further assess the role of FLT3 in maintenance of B1a and MZB cells, we therefore analysed the spleen and peritoneal cavity of mice transplanted with unfractionated E14.5 FL cells from CD45.2 <italic>Rag1</italic>
+<sup><italic>cre/+</italic></sup>
+<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> embryos, together with competitor E14.5 FL WT CD45.1 cells. At 8&#x000a0;weeks following transplantation, we observed an impairment in reconstitution of B1a, MZB as well as B2 cells in the spleen and peritoneal cavity of recipients of <italic>Rag1</italic>
+<sup><italic>cre/+</italic></sup>
+<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> FL cells (Fig&#x000a0;<xref rid="bjh15578-fig-0004" ref-type="fig">4</xref>E&#x02013;F), establishing an important role of FLT3 for the homeostasis of each of these distinct B cell populations from already lymphoid&#x02010;restricted progenitors.</p><fig fig-type="Figure" xml:lang="en" id="bjh15578-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Role of <styled-content style="fixed-case">FLT</styled-content>3 in generation of distinct subsets of B cells. (A) Representative fluorescence&#x02010;activated cell sorting (<styled-content style="fixed-case">FACS</styled-content>)profiles of Follicular B2 cells (<styled-content style="fixed-case">CD</styled-content>19<sup>+</sup>
+<styled-content style="fixed-case">CD</styled-content>93<sup><italic>&#x02212;</italic></sup>
+<styled-content style="fixed-case">CD</styled-content>5<sup><italic>&#x02212;</italic></sup>
+<styled-content style="fixed-case">CD</styled-content>43<sup><italic>&#x02212;</italic></sup>
+<styled-content style="fixed-case">CD</styled-content>23<sup>+</sup>
+<styled-content style="fixed-case">CD</styled-content>1d<sup><italic>&#x02212;</italic></sup>), Marginal Zone B cells (<styled-content style="fixed-case">MZB</styled-content>:<styled-content style="fixed-case"> CD</styled-content>19<sup>+</sup>
+<styled-content style="fixed-case">CD</styled-content>93<sup><italic>&#x02212;</italic></sup>
+<styled-content style="fixed-case">CD</styled-content>23&#x02010;<styled-content style="fixed-case">CD</styled-content>1d<sup>+</sup>) and B1a cells (<styled-content style="fixed-case">CD</styled-content>19<sup>+</sup>
+<styled-content style="fixed-case">CD</styled-content>93<sup><italic>&#x02212;</italic></sup>
+<styled-content style="fixed-case">CD</styled-content>5<sup>+</sup>
+<styled-content style="fixed-case">CD</styled-content>43<sup>+</sup>
+<styled-content style="fixed-case">CD</styled-content>23<sup><italic>&#x02212;</italic></sup>
+<styled-content style="fixed-case">CD</styled-content>1d<sup><italic>&#x02212;</italic></sup>) in spleen in 12&#x02010;week&#x02010;old <italic>Rag1</italic>
+<sup><italic>+/+</italic></sup>
+<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> and <italic>Rag1</italic>
+<sup><italic>cre/+</italic></sup>
+<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> mice (numbers in gates represent percentages of total spleen cells). (B) Mean percentages (&#x000b1;SD of total spleen cells) of follicular B2, <styled-content style="fixed-case">MZB</styled-content> and B1a cells in 12&#x02010;week&#x02010;old <italic>Rag1</italic>
+<sup><italic>+/+</italic></sup>
+<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> and <italic>Rag1</italic>
+<sup><italic>cre/+</italic></sup>
+<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> mice (<italic>n</italic>&#x000a0;=&#x000a0;6 mice per genotype in 2 experiments). (C) Representative <styled-content style="fixed-case">FACS</styled-content> profiles of B2 cells (<styled-content style="fixed-case">CD</styled-content>19<sup>+</sup>
+<styled-content style="fixed-case">CD</styled-content>5<sup><italic>&#x02212;</italic></sup>
+<styled-content style="fixed-case">CD</styled-content>43<sup><italic>&#x02212;</italic></sup>
+<styled-content style="fixed-case">CD</styled-content>23<sup>+</sup>
+<styled-content style="fixed-case">CD</styled-content>11b<sup><italic>&#x02212;</italic></sup>) and B1a cells (<styled-content style="fixed-case">CD</styled-content>19<sup>+</sup>
+<styled-content style="fixed-case">CD</styled-content>5<sup>+</sup>
+<styled-content style="fixed-case">CD</styled-content>43<sup>+</sup>
+<styled-content style="fixed-case">CD</styled-content>23<sup><italic>&#x02212;</italic></sup>) in the peritoneal cavity (<styled-content style="fixed-case">PC</styled-content>) of 12&#x02010;week&#x02010;old <italic>Rag1</italic>
+<sup><italic>+/+</italic></sup>
+<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> and <italic>Rag1</italic>
+<sup><italic>cre/+</italic></sup>
+<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> mice (numbers in gates represent percentages of total PC cells). (D) Mean percentages (&#x000b1;SD of total <styled-content style="fixed-case">PC</styled-content> cells) B2 cells and B1a cells of 12&#x02010;week&#x02010;old <italic>Rag1</italic>
+<sup><italic>+/+</italic></sup>
+<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> and <italic>Rag1</italic>
+<sup><italic>cre/+</italic></sup>
+<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> mice (<italic>n</italic>&#x000a0;=&#x000a0;6 mice per genotype in 2 experiments). (E&#x02013;F) Mean percentages (&#x000b1;SD) contribution of <styled-content style="fixed-case">CD</styled-content>45.2 cells to (E) follicular B2 cells, <styled-content style="fixed-case">MZB</styled-content> cells and B1a cells in the spleen and to (F) B2 cells and B1a cells in the <styled-content style="fixed-case">PC</styled-content> of <styled-content style="fixed-case">CD</styled-content>45.1 wild type (<styled-content style="fixed-case">WT</styled-content>) mice transplanted with 2&#x000a0;&#x000d7;&#x000a0;10<sup>6</sup> unfractionated E14.5 <styled-content style="fixed-case">FL</styled-content> cells from <italic>Rag1</italic>
+<sup><italic>+/+</italic></sup>
+<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> (<styled-content style="fixed-case">CD</styled-content>45.2) or <italic>Rag1</italic>
+<sup><italic>cre/+</italic></sup>
+<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> (<styled-content style="fixed-case">CD</styled-content>45.2) mice (<italic>n</italic>&#x000a0;=&#x000a0;2&#x02013;5 per genotype) together with 2&#x000a0;&#x000d7;&#x000a0;10<sup>6</sup> cells unfractionated E14.5 <styled-content style="fixed-case">FL WT CD</styled-content>45.1 competitor cells, analysed 8&#x000a0;weeks post&#x02010;transplantation.</p></caption><graphic id="nlm-graphic-7" xlink:href="BJH-183-588-g004"/></fig></sec></sec><sec id="bjh15578-sec-0013"><title>Discussion</title><p>Despite the established role of FLT3 in B&#x02010; and T&#x02010;lymphopoiesis (Mackarehtschian <italic>et&#x000a0;al</italic>, <xref rid="bjh15578-bib-0027" ref-type="ref">1995</xref>; McKenna <italic>et&#x000a0;al</italic>, <xref rid="bjh15578-bib-0032" ref-type="ref">2000</xref>; Sitnicka <italic>et&#x000a0;al</italic>, <xref rid="bjh15578-bib-0042" ref-type="ref">2003</xref>, <xref rid="bjh15578-bib-0043" ref-type="ref">2007</xref>; Buza&#x02010;Vidas <italic>et&#x000a0;al</italic>, <xref rid="bjh15578-bib-0010" ref-type="ref">2007</xref>), and the involvement of recurrent <italic>FLT3</italic> mutations in acute B&#x02010; and T&#x02010;cell progenitor leukaemia (Carow <italic>et&#x000a0;al</italic>, <xref rid="bjh15578-bib-0013" ref-type="ref">1996</xref>; Gilliland &#x00026; Griffin, <xref rid="bjh15578-bib-0015" ref-type="ref">2002</xref>; Armstrong <italic>et&#x000a0;al</italic>, <xref rid="bjh15578-bib-0005" ref-type="ref">2004</xref>; Neumann <italic>et&#x000a0;al</italic>, <xref rid="bjh15578-bib-0035" ref-type="ref">2013</xref>), it has remained unclear whether lymphoid&#x02010;restricted progenitors are directly dependent on FLT3. This is particularly relevant because FLT3 expression is highest and critically important on the earliest adult lympho&#x02010;myeloid LMPPs, of which only a fraction express low levels of <italic>Rag1</italic> (Adolfsson <italic>et&#x000a0;al</italic>, <xref rid="bjh15578-bib-0002" ref-type="ref">2005</xref>), whereas only the very earliest T&#x02010; and B&#x02010;cell progenitors express FLT3 (Wasserman <italic>et&#x000a0;al</italic>, <xref rid="bjh15578-bib-0050" ref-type="ref">1995</xref>; Mansson <italic>et&#x000a0;al</italic>, <xref rid="bjh15578-bib-0029" ref-type="ref">2010</xref>; Luc <italic>et&#x000a0;al</italic>, <xref rid="bjh15578-bib-0023" ref-type="ref">2012</xref>). Herein, we developed a <italic>Flt3</italic> conditional knockout mouse model to specifically investigate a potential requirement for FLT3 in progenitors already programmed for lymphopoiesis, as determined by high <italic>Rag1</italic> expression, as well as potentially distinct roles in fetal and adult lymphopoiesis.</p><p>Our studies confirmed that while having no role in the regulation of HSCs, FLT3 is important for sustaining normal numbers of LMPPs in adult BM as well as ETPs in the adult thymus. In contrast, CLPs were only minimally affected when induced to loose FLT3 expression in adult mice, establishing that LMPPs are more dependent on intact FLT3 expression and function than CLPs in adult steady&#x02010;state haematopoiesis. Notably, B&#x02010;cell progenitor numbers were also unaffected upon inducible pan&#x02010;haematopoietic deletion of FLT3 in adult mice. Nevertheless, molecular analysis of B&#x02010;cell progenitors demonstrated that <italic>Flt3&#x02010;</italic>deleted adult progenitors, such as LMPPs or CLPs, have a considerable competitive disadvantage in producing B&#x02010;cell progenitors compared to the rare progenitors escaping <italic>Flt3</italic> deletion in our model. In agreement with this observation, competitive Mx1Cre adult BM transplantation experiments demonstrated as soon as 4&#x000a0;weeks post&#x02010;transplantation that not only the generation of CD48<sup>+</sup>CD150<sup><italic>&#x02212;</italic></sup>MPPs (representing predominantly LMPPs) and T&#x02010;cell progenitors, but also CLPs, B&#x02010;cell progenitors, and mature B cells were significantly impaired from FLT3&#x02010;deleted BM cells.</p><p>To address whether FLT3 plays a direct role in the regulation of adult lymphoid&#x02010;restricted progenitor maintenance, rather than in their generation from LMPPs, we specifically deleted <italic>Flt3</italic> through <italic>Rag1</italic>
+<sup><italic>cre/+</italic></sup>&#x02010;induced recombination (McCormack <italic>et&#x000a0;al</italic>, <xref rid="bjh15578-bib-0031" ref-type="ref">2003</xref>). As expected, due to their low levels of <italic>Rag1</italic> expression, FLT3 expression was unaffected on LMPPs as were LMPP numbers in adult BM. Notably, whereas FLT3 expression was deleted in approximately 50% of CLPs, CLP number was also unaffected in the BM of adult <italic>Rag1</italic>
+<sup><italic>cre/+</italic></sup>
+<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> mice. This allowed for the specific establishment of a distinct role of FLT3 in direct regulation of early B&#x02010; and T&#x02010;cell progenitors independently of the role of FLT3 in regulation of earlier LMPPs and CLPs, because the earliest BM B&#x02010;cell progenitors and thymic T&#x02010;cell progenitors were distinctly reduced in adult <italic>Rag1</italic>
+<sup><italic>cre/+</italic></sup>
+<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> mice, in the absence of an impact on LMPPs and CLPs. This is of considerable significance, given that FLT3 expression in the B and T cell lineages is restricted to the very earliest B&#x02010; and T&#x02010;cell progenitors, pre&#x02010;proB cells (Wasserman <italic>et&#x000a0;al</italic>, <xref rid="bjh15578-bib-0050" ref-type="ref">1995</xref>) and ETPs (Luc <italic>et&#x000a0;al</italic>, <xref rid="bjh15578-bib-0023" ref-type="ref">2012</xref>), respectively. Importantly, these progenitors are likely to also be key cellular targets for recurrent <italic>FLT3</italic> driver mutations in patients with acute B&#x02010;cell progenitor and ETP leukaemia (Carow <italic>et&#x000a0;al</italic>, <xref rid="bjh15578-bib-0013" ref-type="ref">1996</xref>; Armstrong <italic>et&#x000a0;al</italic>, <xref rid="bjh15578-bib-0005" ref-type="ref">2004</xref>; Neumann <italic>et&#x000a0;al</italic>, <xref rid="bjh15578-bib-0035" ref-type="ref">2013</xref>). Our findings therefore highlight the potential benefit of targeting these leukaemias with clinical FLT3 inhibitors (Annesley &#x00026; Brown, <xref rid="bjh15578-bib-0004" ref-type="ref">2014</xref>).</p><p>Also in the liver of <italic>Rag1</italic>
+<sup><italic>cre/+</italic></sup>
+<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> embryos, we observed a dramatic reduction in early B&#x02010;cell progenitors in the absence of a significant reduction of fetal LMPPs and CLPs, demonstrating a distinct and prominent requirement for FLT3 in fetal B&#x02010;lymphoid progenitors, again independently of a role in earlier progenitors. Interestingly, distinct from adult haematopoiesis, E14.5 fetal thymic progenitor homeostasis was not affected in <italic>Rag1</italic>
+<sup><italic>cre/+</italic></sup>
+<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> mice, despite FLT3 being expressed on fetal ETPs (Luis <italic>et&#x000a0;al</italic>, <xref rid="bjh15578-bib-0024" ref-type="ref">2016</xref>). However, at 4&#x000a0;weeks after competitive transplantation of <italic>Rag1</italic>
+<sup><italic>cre/+</italic></sup>
+<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> FL cells into adult recipients, while CD48<sup>+</sup>CD150<sup><italic>&#x02212;</italic></sup> MPPs and CLPs remained unaffected, an impaired generation of not only B cell progenitors but also early thymocyte progenitors could be readily detected from <italic>Rag1</italic>
+<sup><italic>cre/+</italic></sup>
+<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> FL cells. The distinct thymocyte phenotype observed upon transplantation of E14.5 <italic>Rag1</italic>
+<sup><italic>cre/+</italic></sup>
+<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> FL cells into adult recipients but not in the <italic>Rag1</italic>
+<sup><italic>cre/+</italic></sup>
+<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> E14.5 fetal thymus, combined with a similar early thymocyte defect observed in unperturbed adult <italic>Rag1</italic>
+<sup><italic>cre/+</italic></sup>
+<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> mice, suggest a distinct requirement for FLT3 signalling in adult but not fetal thymopoiesis, potentially explained by distinct differences in the fetal and adult thymic environment. In contrast, fetal and adult B&#x02010;lymphopoiesis are both dependent on intact FLT3 expression and function.</p><p>Despite its very restricted expression, our studies demonstrate that FLT3 plays an important and distinct role in the direct regulation of early B cell&#x02010;restricted progenitors in FL as well as in adult BM. In further agreement with its crucial role in B&#x02010;lymphopoiesis, our studies of <italic>Rag1</italic>
+<sup><italic>cre/+</italic></sup>
+<italic>Flt3</italic>
+<sup><italic>fl/fl</italic></sup> mice establish a critical role for FLT3 in the maintenance of fetal&#x02010;derived B1a and MZB cells (Hardy &#x00026; Hayakawa, <xref rid="bjh15578-bib-0017" ref-type="ref">1991</xref>; Kantor <italic>et&#x000a0;al</italic>, <xref rid="bjh15578-bib-0020" ref-type="ref">1992</xref>; Yoshimoto <italic>et&#x000a0;al</italic>, <xref rid="bjh15578-bib-0051" ref-type="ref">2011</xref>) as well as conventional B2 cells (Hao &#x00026; Rajewsky, <xref rid="bjh15578-bib-0016" ref-type="ref">2001</xref>). Previous studies have shown that the important role of FLT3 in fetal B1 and B2 lymphopoiesis is even more evident in the absence of interleukin 7 (IL7). Specifically, in the absence of the IL7 ligand and FLT3 ligand, fetal and adult B lymphopoiesis is almost entirely lost, suggesting that thymic stromal lymphoprotein (TSLP), also acting through the IL7 receptor, is unable to rescue B cell development in the absence of FLT3 ligand and IL7 (Sitnicka <italic>et&#x000a0;al</italic>, <xref rid="bjh15578-bib-0042" ref-type="ref">2003</xref>; Jensen <italic>et&#x000a0;al</italic>, <xref rid="bjh15578-bib-0019" ref-type="ref">2008</xref>).</p><p>In conclusion, through lymphoid&#x02010;restricted and ontogeny&#x02010;specific deletion of FLT3 expression and function, we establish that the important role of FLT3 in fetal and adult B&#x02010; and T&#x02010;lymphopoiesis is, in fact, not primarily explained by its role in regulation of LMPPs and CLPs, but rather by a direct and more prominent role in the regulation of the very earliest <italic>Rag1</italic> expressing B&#x02010; and T&#x02010; cell progenitors, which are likely to be primary cellular targets for recurrent FLT3 mutations in clinically distinct B&#x02010; and T&#x02010;cell progenitor cell leukaemia.</p></sec><sec id="bjh15578-sec-0014"><title>Author contributions</title><p>AZ, ES and SEWJ designed and conceptualized the overall research and analysed the data. CN designed and supervised the generation of the <italic>Flt3</italic> conditional knockout targeting construct and targeting of ES cells. AZ performed the experiments. TAK performed B1 cell analysis experiments. LW provided expertise in the animal work. CB contributed to the design, analysis of experiments, data analysis and writing of the manuscript. JY contributed with expert advice and input on B cell development. AZ, ES and SEWJ wrote the manuscript. All authors read and approved the submitted manuscript.</p></sec><sec id="bjh15578-sec-0016"><title>Declaration of interest</title><p>The authors declare no competing financial interests.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="bjh15578-sup-0001"><caption><p>
+<bold>Figure</bold>&#x000a0;<bold>S1</bold>. Provides data validating the model.</p><p>
+<bold>Figure</bold>&#x000a0;<bold>S2</bold>. Provides data that extends the findings in Fig&#x000a0;1.</p><p>
+<bold>Figure</bold>&#x000a0;<bold>S3</bold>. Provides data that extends the findings in Figs&#x000a0;2, 3 and 4.</p><p>
+<bold>Figure</bold>&#x000a0;<bold>S4</bold>. Provides data that extends the findings in Fig&#x000a0;3.</p><p>
+<bold>Table</bold>&#x000a0;<bold>S1</bold>. Provides the list of antibodies used in the study.</p></caption><media xlink:href="BJH-183-588-s001.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="bjh15578-sec-0015"><title>Acknowledgements</title><p>The authors thank Professor Terence H Rabbitts for providing <italic>Rag1</italic>
+<sup>cre/+</sup> mice, Prof Thomas Graf for <italic>Vav1</italic>
+<sup>cre/+</sup> mice and Drs. Stephan Teglund and Johannes Wilbertz at the Karolinska Centre for Transgene Technologies for performing blastocyst injections. This work was supported by the Swedish Childhood Cancer Foundation (PR20130043, PR 20150063; ES and SEWJ), the Gunnar Nilsson Foundation (Project 522; ES), the ALF Clinical Research Award from Lund University Hospital (ALFSKANE 274081; ES), Hemato&#x02010;Linne (ES and SEWJ), Stem Therapy Program (ES), UK MRC G0801073 and MC_UU_12009/5 (SEWJ) and an International recruitment award from the Swedish Research Council (SEWJ). CB was supported by a postdoctoral fellow grant from the Swedish Childhood Cancer Foundation (PDS13/005) and the Swedish Research Council, Marie Sklodowska Curie Actions, Cofund, Project INCA&#x000a0;(#2015&#x02010;00135, #600398). ES had an Associate Professor position supported by the Swedish Childhood Cancer Foundation (TFJ08).</p></ack><ref-list content-type="cited-references" id="bjh15578-bibl-0001"><title>References</title><ref id="bjh15578-bib-0001"><mixed-citation publication-type="journal" id="bjh15578-cit-0001">
+<string-name>
+<surname>Adolfsson</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Borge</surname>, <given-names>O.J.</given-names>
+</string-name>, <string-name>
+<surname>Bryder</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Theilgaard&#x02010;Monch</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Astrand&#x02010;Grundstrom</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Sitnicka</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Sasaki</surname>, <given-names>Y.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Jacobsen</surname>, <given-names>S.E.</given-names>
+</string-name> (<year>2001</year>) <article-title>Upregulation of Flt3 expression within the bone marrow Lin(&#x02010;)Sca1(+)c&#x02010;kit(+) stem cell compartment is accompanied by loss of self&#x02010;renewal capacity</article-title>. <source xml:lang="en">Immunity</source>, <volume>15</volume>, <fpage>659</fpage>&#x02013;<lpage>669</lpage>.<pub-id pub-id-type="pmid">11672547</pub-id></mixed-citation></ref><ref id="bjh15578-bib-0002"><mixed-citation publication-type="journal" id="bjh15578-cit-0002">
+<string-name>
+<surname>Adolfsson</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Mansson</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Buza&#x02010;Vidas</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Hultquist</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Liuba</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Jensen</surname>, <given-names>C.T.</given-names>
+</string-name>, <string-name>
+<surname>Bryder</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Borge</surname>, <given-names>O.J.</given-names>
+</string-name>, <string-name>
+<surname>Thoren</surname>, <given-names>L.A.</given-names>
+</string-name>, <string-name>
+<surname>Anderson</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Sitnicka</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Sasaki</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Sigvardsson</surname>, <given-names>M.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Jacobsen</surname>, <given-names>S.E.</given-names>
+</string-name> (<year>2005</year>) <article-title>Identification of Flt3+ lympho&#x02010;myeloid stem cells lacking erythro&#x02010;megakaryocytic potential a revised road map for adult blood lineage commitment</article-title>. <source xml:lang="en">Cell</source>, <volume>121</volume>, <fpage>295</fpage>&#x02013;<lpage>306</lpage>.<pub-id pub-id-type="pmid">15851035</pub-id></mixed-citation></ref><ref id="bjh15578-bib-0003"><mixed-citation publication-type="journal" id="bjh15578-cit-0003">
+<string-name>
+<surname>Almarza</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Segovia</surname>, <given-names>J.C.</given-names>
+</string-name>, <string-name>
+<surname>Guenechea</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Gomez</surname>, <given-names>S.G.</given-names>
+</string-name>, <string-name>
+<surname>Ramirez</surname>, <given-names>A.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Bueren</surname>, <given-names>J.A.</given-names>
+</string-name> (<year>2004</year>) <article-title>Regulatory elements of the vav gene drive transgene expression in hematopoietic stem cells from adult mice</article-title>. <source xml:lang="en">Experimental Hematology</source>, <volume>32</volume>, <fpage>360</fpage>&#x02013;<lpage>364</lpage>.<pub-id pub-id-type="pmid">15050746</pub-id></mixed-citation></ref><ref id="bjh15578-bib-0004"><mixed-citation publication-type="journal" id="bjh15578-cit-0004">
+<string-name>
+<surname>Annesley</surname>, <given-names>C.E.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Brown</surname>, <given-names>P.</given-names>
+</string-name> (<year>2014</year>) <article-title>The biology and targeting of FLT3 in pediatric leukemia</article-title>. <source xml:lang="en">Frontiers in Oncology</source>, <volume>4</volume>, <fpage>263</fpage>.<pub-id pub-id-type="pmid">25295230</pub-id></mixed-citation></ref><ref id="bjh15578-bib-0005"><mixed-citation publication-type="journal" id="bjh15578-cit-0005">
+<string-name>
+<surname>Armstrong</surname>, <given-names>S.A.</given-names>
+</string-name>, <string-name>
+<surname>Mabon</surname>, <given-names>M.E.</given-names>
+</string-name>, <string-name>
+<surname>Silverman</surname>, <given-names>L.B.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Gribben</surname>, <given-names>J.G.</given-names>
+</string-name>, <string-name>
+<surname>Fox</surname>, <given-names>E.A.</given-names>
+</string-name>, <string-name>
+<surname>Sallan</surname>, <given-names>S.E.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Korsmeyer</surname>, <given-names>S.J.</given-names>
+</string-name> (<year>2004</year>) <article-title>FLT3 mutations in childhood acute lymphoblastic leukemia</article-title>. <source xml:lang="en">Blood</source>, <volume>103</volume>, <fpage>3544</fpage>&#x02013;<lpage>3546</lpage>.<pub-id pub-id-type="pmid">14670924</pub-id></mixed-citation></ref><ref id="bjh15578-bib-0006"><mixed-citation publication-type="journal" id="bjh15578-cit-0006">
+<string-name>
+<surname>Beaudin</surname>, <given-names>A.E.</given-names>
+</string-name>, <string-name>
+<surname>Boyer</surname>, <given-names>S.W.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Forsberg</surname>, <given-names>E.C.</given-names>
+</string-name> (<year>2014</year>) <article-title>Flk2/Flt3 promotes both myeloid and lymphoid development by expanding non&#x02010;self&#x02010;renewing multipotent hematopoietic progenitor cells</article-title>. <source xml:lang="en">Experimental Hematology</source>, <volume>42</volume>, <fpage>e214</fpage>.</mixed-citation></ref><ref id="bjh15578-bib-0007"><mixed-citation publication-type="journal" id="bjh15578-cit-0007">
+<string-name>
+<surname>Beaudin</surname>, <given-names>A.E.</given-names>
+</string-name>, <string-name>
+<surname>Boyer</surname>, <given-names>S.W.</given-names>
+</string-name>, <string-name>
+<surname>Perez&#x02010;Cunningham</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Hernandez</surname>, <given-names>G.E.</given-names>
+</string-name>, <string-name>
+<surname>Derderian</surname>, <given-names>S.C.</given-names>
+</string-name>, <string-name>
+<surname>Jujjavarapu</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Aaserude</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>MacKenzie</surname>, <given-names>T.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Forsberg</surname>, <given-names>E.C.</given-names>
+</string-name> (<year>2016</year>) <article-title>A transient developmental hematopoietic stem cell gives rise to innate&#x02010;like B and T cells</article-title>. <source xml:lang="en">Cell Stem Cell</source>, <volume>19</volume>, <fpage>768</fpage>&#x02013;<lpage>783</lpage>.<pub-id pub-id-type="pmid">27666010</pub-id></mixed-citation></ref><ref id="bjh15578-bib-0008"><mixed-citation publication-type="journal" id="bjh15578-cit-0008">
+<string-name>
+<surname>Boiers</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Carrelha</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Lutteropp</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Luc</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Green</surname>, <given-names>J.C.</given-names>
+</string-name>, <string-name>
+<surname>Azzoni</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Woll</surname>, <given-names>P.S.</given-names>
+</string-name>, <string-name>
+<surname>Mead</surname>, <given-names>A.J.</given-names>
+</string-name>, <string-name>
+<surname>Hultquist</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Swiers</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Perdiguero</surname>, <given-names>E.G.</given-names>
+</string-name>, <string-name>
+<surname>Macaulay</surname>, <given-names>I.C.</given-names>
+</string-name>, <string-name>
+<surname>Melchiori</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Luis</surname>, <given-names>T.C.</given-names>
+</string-name>, <string-name>
+<surname>Kharazi</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Bouriez&#x02010;Jones</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Deng</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>Ponten</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Atkinson</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Jensen</surname>, <given-names>C.T.</given-names>
+</string-name>, <string-name>
+<surname>Sitnicka</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Geissmann</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Godin</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Sandberg</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>de Bruijn</surname>, <given-names>M.F.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Jacobsen</surname>, <given-names>S.E.</given-names>
+</string-name> (<year>2013</year>) <article-title>Lymphomyeloid contribution of an immune&#x02010;restricted progenitor emerging prior to definitive hematopoietic stem cells</article-title>. <source xml:lang="en">Cell Stem Cell</source>, <volume>13</volume>, <fpage>535</fpage>&#x02013;<lpage>548</lpage>.<pub-id pub-id-type="pmid">24054998</pub-id></mixed-citation></ref><ref id="bjh15578-bib-0009"><mixed-citation publication-type="journal" id="bjh15578-cit-0009">
+<string-name>
+<surname>Boyer</surname>, <given-names>S.W.</given-names>
+</string-name>, <string-name>
+<surname>Schroeder</surname>, <given-names>A.V.</given-names>
+</string-name>, <string-name>
+<surname>Smith&#x02010;Berdan</surname>, <given-names>S.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Forsberg</surname>, <given-names>E.C.</given-names>
+</string-name> (<year>2011</year>) <article-title>All hematopoietic cells develop from hematopoietic stem cells through Flk2/Flt3&#x02010;positive progenitor cells</article-title>. <source xml:lang="en">Cell Stem Cell</source>, <volume>9</volume>, <fpage>64</fpage>&#x02013;<lpage>73</lpage>.<pub-id pub-id-type="pmid">21726834</pub-id></mixed-citation></ref><ref id="bjh15578-bib-0010"><mixed-citation publication-type="journal" id="bjh15578-cit-0010">
+<string-name>
+<surname>Buza&#x02010;Vidas</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Cheng</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Duarte</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Nozad</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Jacobsen</surname>, <given-names>S.E.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Sitnicka</surname>, <given-names>E.</given-names>
+</string-name> (<year>2007</year>) <article-title>Crucial role of FLT3 ligand in immune reconstitution after bone marrow transplantation and high&#x02010;dose chemotherapy</article-title>. <source xml:lang="en">Blood</source>, <volume>110</volume>, <fpage>424</fpage>&#x02013;<lpage>432</lpage>.<pub-id pub-id-type="pmid">17379745</pub-id></mixed-citation></ref><ref id="bjh15578-bib-0011"><mixed-citation publication-type="journal" id="bjh15578-cit-0011">
+<string-name>
+<surname>Buza&#x02010;Vidas</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Cheng</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Duarte</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Charoudeh</surname>, <given-names>H.N.</given-names>
+</string-name>, <string-name>
+<surname>Jacobsen</surname>, <given-names>S.E.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Sitnicka</surname>, <given-names>E.</given-names>
+</string-name> (<year>2009</year>) <article-title>FLT3 receptor and ligand are dispensable for maintenance and posttransplantation expansion of mouse hematopoietic stem cells</article-title>. <source xml:lang="en">Blood</source>, <volume>113</volume>, <fpage>3453</fpage>&#x02013;<lpage>3460</lpage>.<pub-id pub-id-type="pmid">19188666</pub-id></mixed-citation></ref><ref id="bjh15578-bib-0012"><mixed-citation publication-type="journal" id="bjh15578-cit-0012">
+<string-name>
+<surname>Buza&#x02010;Vidas</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Woll</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Hultquist</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Duarte</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Lutteropp</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Bouriez&#x02010;Jones</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Ferry</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Luc</surname>, <given-names>S.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Jacobsen</surname>, <given-names>S.E.</given-names>
+</string-name> (<year>2011</year>) <article-title>FLT3 expression initiates in fully multipotent mouse hematopoietic progenitor cells</article-title>. <source xml:lang="en">Blood</source>, <volume>118</volume>, <fpage>1544</fpage>&#x02013;<lpage>1548</lpage>.<pub-id pub-id-type="pmid">21628405</pub-id></mixed-citation></ref><ref id="bjh15578-bib-0013"><mixed-citation publication-type="journal" id="bjh15578-cit-0013">
+<string-name>
+<surname>Carow</surname>, <given-names>C.E.</given-names>
+</string-name>, <string-name>
+<surname>Levenstein</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Kaufmann</surname>, <given-names>S.H.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Amin</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Rockwell</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Witte</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Borowitz</surname>, <given-names>M.J.</given-names>
+</string-name>, <string-name>
+<surname>Civin</surname>, <given-names>C.I.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Small</surname>, <given-names>D.</given-names>
+</string-name> (<year>1996</year>) <article-title>Expression of the hematopoietic growth factor receptor FLT3 (STK&#x02010;1/Flk2) in human leukemias</article-title>. <source xml:lang="en">Blood</source>, <volume>87</volume>, <fpage>1089</fpage>&#x02013;<lpage>1096</lpage>.<pub-id pub-id-type="pmid">8562934</pub-id></mixed-citation></ref><ref id="bjh15578-bib-0014"><mixed-citation publication-type="journal" id="bjh15578-cit-0014">
+<string-name>
+<surname>Carvalho</surname>, <given-names>T.L.</given-names>
+</string-name>, <string-name>
+<surname>Mota&#x02010;Santos</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Cumano</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Demengeot</surname>, <given-names>J.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Vieira</surname>, <given-names>P.</given-names>
+</string-name> (<year>2001</year>) <article-title>Arrested B lymphopoiesis and persistence of activated B cells in adult interleukin 7(&#x02010;/)&#x02010; mice</article-title>. <source xml:lang="en">Journal of Experimental Medicine</source>, <volume>194</volume>, <fpage>1141</fpage>&#x02013;<lpage>1150</lpage>.<pub-id pub-id-type="pmid">11602642</pub-id></mixed-citation></ref><ref id="bjh15578-bib-0015"><mixed-citation publication-type="journal" id="bjh15578-cit-0015">
+<string-name>
+<surname>Gilliland</surname>, <given-names>D.G.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Griffin</surname>, <given-names>J.D.</given-names>
+</string-name> (<year>2002</year>) <article-title>The roles of FLT3 in hematopoiesis and leukemia</article-title>. <source xml:lang="en">Blood</source>, <volume>100</volume>, <fpage>1532</fpage>&#x02013;<lpage>1542</lpage>.<pub-id pub-id-type="pmid">12176867</pub-id></mixed-citation></ref><ref id="bjh15578-bib-0016"><mixed-citation publication-type="journal" id="bjh15578-cit-0016">
+<string-name>
+<surname>Hao</surname>, <given-names>Z.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Rajewsky</surname>, <given-names>K.</given-names>
+</string-name> (<year>2001</year>) <article-title>Homeostasis of peripheral B cells in the absence of B cell influx from the bone marrow</article-title>. <source xml:lang="en">Journal of Experimental Medicine</source>, <volume>194</volume>, <fpage>1151</fpage>&#x02013;<lpage>1164</lpage>.<pub-id pub-id-type="pmid">11602643</pub-id></mixed-citation></ref><ref id="bjh15578-bib-0017"><mixed-citation publication-type="journal" id="bjh15578-cit-0017">
+<string-name>
+<surname>Hardy</surname>, <given-names>R.R.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Hayakawa</surname>, <given-names>K.</given-names>
+</string-name> (<year>1991</year>) <article-title>A developmental switch in B lymphopoiesis</article-title>. <source xml:lang="en">Proceedings of the National Academy of Sciences of the United States of America</source>, <volume>88</volume>, <fpage>11550</fpage>&#x02013;<lpage>11554</lpage>.<pub-id pub-id-type="pmid">1722338</pub-id></mixed-citation></ref><ref id="bjh15578-bib-0018"><mixed-citation publication-type="journal" id="bjh15578-cit-0018">
+<string-name>
+<surname>Hesslein</surname>, <given-names>D.G.</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>, <given-names>S.Y.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Schatz</surname>, <given-names>D.G.</given-names>
+</string-name> (<year>2006</year>) <article-title>Origins of peripheral B cells in IL&#x02010;7 receptor&#x02010;deficient mice</article-title>. <source xml:lang="en">Molecular Immunology</source>, <volume>43</volume>, <fpage>326</fpage>&#x02013;<lpage>334</lpage>.<pub-id pub-id-type="pmid">16310046</pub-id></mixed-citation></ref><ref id="bjh15578-bib-0019"><mixed-citation publication-type="journal" id="bjh15578-cit-0019">
+<string-name>
+<surname>Jensen</surname>, <given-names>C.T.</given-names>
+</string-name>, <string-name>
+<surname>Kharazi</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Boiers</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Cheng</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Lubking</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Sitnicka</surname>, <given-names>E.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Jacobsen</surname>, <given-names>S.E.</given-names>
+</string-name> (<year>2008</year>) <article-title>FLT3 ligand and not TSLP is the key regulator of IL&#x02010;7&#x02010;independent B&#x02010;1 and B&#x02010;2 B lymphopoiesis</article-title>. <source xml:lang="en">Blood</source>, <volume>112</volume>, <fpage>2297</fpage>&#x02013;<lpage>2304</lpage>.<pub-id pub-id-type="pmid">18566323</pub-id></mixed-citation></ref><ref id="bjh15578-bib-0020"><mixed-citation publication-type="journal" id="bjh15578-cit-0020">
+<string-name>
+<surname>Kantor</surname>, <given-names>A.B.</given-names>
+</string-name>, <string-name>
+<surname>Stall</surname>, <given-names>A.M.</given-names>
+</string-name>, <string-name>
+<surname>Adams</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Herzenberg</surname>, <given-names>L.A.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Herzenberg</surname>, <given-names>L.A.</given-names>
+</string-name> (<year>1992</year>) <article-title>Differential development of progenitor activity for three B&#x02010;cell lineages</article-title>. <source xml:lang="en">Proceedings of the National Academy of Sciences of the United States of America</source>, <volume>89</volume>, <fpage>3320</fpage>&#x02013;<lpage>3324</lpage>.<pub-id pub-id-type="pmid">1565622</pub-id></mixed-citation></ref><ref id="bjh15578-bib-0021"><mixed-citation publication-type="journal" id="bjh15578-cit-0021">
+<string-name>
+<surname>Kiel</surname>, <given-names>M.J.</given-names>
+</string-name>, <string-name>
+<surname>Yilmaz</surname>, <given-names>O.H.</given-names>
+</string-name>, <string-name>
+<surname>Iwashita</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Yilmaz</surname>, <given-names>O.H.</given-names>
+</string-name>, <string-name>
+<surname>Terhorst</surname>, <given-names>C.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Morrison</surname>, <given-names>S.J.</given-names>
+</string-name> (<year>2005</year>) <article-title>SLAM family receptors distinguish hematopoietic stem and progenitor cells and reveal endothelial niches for stem cells</article-title>. <source xml:lang="en">Cell</source>, <volume>121</volume>, <fpage>1109</fpage>&#x02013;<lpage>1121</lpage>.<pub-id pub-id-type="pmid">15989959</pub-id></mixed-citation></ref><ref id="bjh15578-bib-0022"><mixed-citation publication-type="journal" id="bjh15578-cit-0022">
+<string-name>
+<surname>Kuhn</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Schwenk</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Aguet</surname>, <given-names>M.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Rajewsky</surname>, <given-names>K.</given-names>
+</string-name> (<year>1995</year>) <article-title>Inducible gene targeting in mice</article-title>. <source xml:lang="en">Science</source>, <volume>269</volume>, <fpage>1427</fpage>&#x02013;<lpage>1429</lpage>.<pub-id pub-id-type="pmid">7660125</pub-id></mixed-citation></ref><ref id="bjh15578-bib-0023"><mixed-citation publication-type="journal" id="bjh15578-cit-0023">
+<string-name>
+<surname>Luc</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Luis</surname>, <given-names>T.C.</given-names>
+</string-name>, <string-name>
+<surname>Boukarabila</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Macaulay</surname>, <given-names>I.C.</given-names>
+</string-name>, <string-name>
+<surname>Buza&#x02010;Vidas</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Bouriez&#x02010;Jones</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Lutteropp</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Woll</surname>, <given-names>P.S.</given-names>
+</string-name>, <string-name>
+<surname>Loughran</surname>, <given-names>S.J.</given-names>
+</string-name>, <string-name>
+<surname>Mead</surname>, <given-names>A.J.</given-names>
+</string-name>, <string-name>
+<surname>Hultquist</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Brown</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Mizukami</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Matsuoka</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Ferry</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Anderson</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Duarte</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Atkinson</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Soneji</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Domanski</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Farley</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Sanjuan&#x02010;Pla</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Carella</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Patient</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>de Bruijn</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Enver</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Nerlov</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Blackburn</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Godin</surname>, <given-names>I.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Jacobsen</surname>, <given-names>S.E.</given-names>
+</string-name> (<year>2012</year>) <article-title>The earliest thymic T cell progenitors sustain B cell and myeloid lineage potential</article-title>. <source xml:lang="en">Nature Immunology</source>, <volume>13</volume>, <fpage>412</fpage>&#x02013;<lpage>419</lpage>.<pub-id pub-id-type="pmid">22344248</pub-id></mixed-citation></ref><ref id="bjh15578-bib-0024"><mixed-citation publication-type="journal" id="bjh15578-cit-0024">
+<string-name>
+<surname>Luis</surname>, <given-names>T.C.</given-names>
+</string-name>, <string-name>
+<surname>Luc</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Mizukami</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Boukarabila</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Thongjuea</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Woll</surname>, <given-names>P.S.</given-names>
+</string-name>, <string-name>
+<surname>Azzoni</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Giustacchini</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Lutteropp</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Bouriez&#x02010;Jones</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Vaidya</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Mead</surname>, <given-names>A.J.</given-names>
+</string-name>, <string-name>
+<surname>Atkinson</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Boiers</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Carrelha</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Macaulay</surname>, <given-names>I.C.</given-names>
+</string-name>, <string-name>
+<surname>Patient</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Geissmann</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Nerlov</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Sandberg</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>de Bruijn</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Blackburn</surname>, <given-names>C.C.</given-names>
+</string-name>, <string-name>
+<surname>Godin</surname>, <given-names>I.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Jacobsen</surname>, <given-names>S.E.W.</given-names>
+</string-name> (<year>2016</year>) <article-title>Initial seeding of the embryonic thymus by immune&#x02010;restricted lympho&#x02010;myeloid progenitors</article-title>. <source xml:lang="en">Nature Immunology</source>, <volume>17</volume>, <fpage>1424</fpage>&#x02013;<lpage>1435</lpage>.<pub-id pub-id-type="pmid">27695000</pub-id></mixed-citation></ref><ref id="bjh15578-bib-0025"><mixed-citation publication-type="journal" id="bjh15578-cit-0025">
+<string-name>
+<surname>Lyman</surname>, <given-names>S.D.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Jacobsen</surname>, <given-names>S.E.</given-names>
+</string-name> (<year>1998</year>) <article-title>c&#x02010;kit ligand and Flt3 ligand: stem/progenitor cell factors with overlapping yet distinct activities</article-title>. <source xml:lang="en">Blood</source>, <volume>91</volume>, <fpage>1101</fpage>&#x02013;<lpage>1134</lpage>.<pub-id pub-id-type="pmid">9454740</pub-id></mixed-citation></ref><ref id="bjh15578-bib-0026"><mixed-citation publication-type="journal" id="bjh15578-cit-0026">
+<string-name>
+<surname>Lyman</surname>, <given-names>S.D.</given-names>
+</string-name>, <string-name>
+<surname>James</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Escobar</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Downey</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>de Vries</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Brasel</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Stocking</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Beckmann</surname>, <given-names>M.P.</given-names>
+</string-name>, <string-name>
+<surname>Copeland</surname>, <given-names>N.G.</given-names>
+</string-name>, <string-name>
+<surname>Cleveland</surname>, <given-names>L.S.</given-names>
+</string-name>, <string-name>
+<surname>Jenkins</surname>, <given-names>N.A.</given-names>
+</string-name>, <string-name>
+<surname>Belmont</surname>, <given-names>J.W.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Davison</surname>, <given-names>B.L.</given-names>
+</string-name> (<year>1995</year>) <article-title>Identification of soluble and membrane&#x02010;bound isoforms of the murine flt3 ligand generated by alternative splicing of mRNAs</article-title>. <source xml:lang="en">Oncogene</source>, <volume>10</volume>, <fpage>149</fpage>&#x02013;<lpage>157</lpage>.<pub-id pub-id-type="pmid">7824267</pub-id></mixed-citation></ref><ref id="bjh15578-bib-0027"><mixed-citation publication-type="journal" id="bjh15578-cit-0027">
+<string-name>
+<surname>Mackarehtschian</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Hardin</surname>, <given-names>J.D.</given-names>
+</string-name>, <string-name>
+<surname>Moore</surname>, <given-names>K.A.</given-names>
+</string-name>, <string-name>
+<surname>Boast</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Goff</surname>, <given-names>S.P.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Lemischka</surname>, <given-names>I.R.</given-names>
+</string-name> (<year>1995</year>) <article-title>Targeted disruption of the flk2/flt3 gene leads to deficiencies in primitive hematopoietic progenitors</article-title>. <source xml:lang="en">Immunity</source>, <volume>3</volume>, <fpage>147</fpage>&#x02013;<lpage>161</lpage>.<pub-id pub-id-type="pmid">7621074</pub-id></mixed-citation></ref><ref id="bjh15578-bib-0028"><mixed-citation publication-type="journal" id="bjh15578-cit-0028">
+<string-name>
+<surname>Mansson</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Hultquist</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Luc</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Anderson</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Kharazi</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Al&#x02010;Hashmi</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Liuba</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Thoren</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Adolfsson</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Buza&#x02010;Vidas</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Qian</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Soneji</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Enver</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Sigvardsson</surname>, <given-names>M.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Jacobsen</surname>, <given-names>S.E.</given-names>
+</string-name> (<year>2007</year>) <article-title>Molecular evidence for hierarchical transcriptional lineage priming in fetal and adult stem cells and multipotent progenitors</article-title>. <source xml:lang="en">Immunity</source>, <volume>26</volume>, <fpage>407</fpage>&#x02013;<lpage>419</lpage>.<pub-id pub-id-type="pmid">17433729</pub-id></mixed-citation></ref><ref id="bjh15578-bib-0029"><mixed-citation publication-type="journal" id="bjh15578-cit-0029">
+<string-name>
+<surname>Mansson</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Zandi</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Welinder</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Tsapogas</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Sakaguchi</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Bryder</surname>, <given-names>D.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Sigvardsson</surname>, <given-names>M.</given-names>
+</string-name> (<year>2010</year>) <article-title>Single&#x02010;cell analysis of the common lymphoid progenitor compartment reveals functional and molecular heterogeneity</article-title>. <source xml:lang="en">Blood</source>, <volume>115</volume>, <fpage>2601</fpage>&#x02013;<lpage>2609</lpage>.<pub-id pub-id-type="pmid">19996414</pub-id></mixed-citation></ref><ref id="bjh15578-bib-0030"><mixed-citation publication-type="journal" id="bjh15578-cit-0030">
+<string-name>
+<surname>Matthews</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Jordan</surname>, <given-names>C.T.</given-names>
+</string-name>, <string-name>
+<surname>Wiegand</surname>, <given-names>G.W.</given-names>
+</string-name>, <string-name>
+<surname>Pardoll</surname>, <given-names>D.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Lemischka</surname>, <given-names>I.R.</given-names>
+</string-name> (<year>1991</year>) <article-title>A receptor tyrosine kinase specific to hematopoietic stem and progenitor cell&#x02010;enriched populations</article-title>. <source xml:lang="en">Cell</source>, <volume>65</volume>, <fpage>1143</fpage>&#x02013;<lpage>1152</lpage>.<pub-id pub-id-type="pmid">1648448</pub-id></mixed-citation></ref><ref id="bjh15578-bib-0031"><mixed-citation publication-type="journal" id="bjh15578-cit-0031">
+<string-name>
+<surname>McCormack</surname>, <given-names>M.P.</given-names>
+</string-name>, <string-name>
+<surname>Forster</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Drynan</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Pannell</surname>, <given-names>R.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Rabbitts</surname>, <given-names>T.H.</given-names>
+</string-name> (<year>2003</year>) <article-title>The LMO2 T&#x02010;cell oncogene is activated via chromosomal translocations or retroviral insertion during gene therapy but has no mandatory role in normal T&#x02010;cell development</article-title>. <source xml:lang="en">Molecular and Cellular Biology</source>, <volume>23</volume>, <fpage>9003</fpage>&#x02013;<lpage>9013</lpage>.<pub-id pub-id-type="pmid">14645513</pub-id></mixed-citation></ref><ref id="bjh15578-bib-0032"><mixed-citation publication-type="journal" id="bjh15578-cit-0032">
+<string-name>
+<surname>McKenna</surname>, <given-names>H.J.</given-names>
+</string-name>, <string-name>
+<surname>Stocking</surname>, <given-names>K.L.</given-names>
+</string-name>, <string-name>
+<surname>Miller</surname>, <given-names>R.E.</given-names>
+</string-name>, <string-name>
+<surname>Brasel</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>De Smedt</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Maraskovsky</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Maliszewski</surname>, <given-names>C.R.</given-names>
+</string-name>, <string-name>
+<surname>Lynch</surname>, <given-names>D.H.</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Pulendran</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Roux</surname>, <given-names>E.R.</given-names>
+</string-name>, <string-name>
+<surname>Teepe</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Lyman</surname>, <given-names>S.D.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Peschon</surname>, <given-names>J.J.</given-names>
+</string-name> (<year>2000</year>) <article-title>Mice lacking flt3 ligand have deficient hematopoiesis affecting hematopoietic progenitor cells, dendritic cells, and natural killer cells</article-title>. <source xml:lang="en">Blood</source>, <volume>95</volume>, <fpage>3489</fpage>&#x02013;<lpage>3497</lpage>.<pub-id pub-id-type="pmid">10828034</pub-id></mixed-citation></ref><ref id="bjh15578-bib-0033"><mixed-citation publication-type="journal" id="bjh15578-cit-0033">
+<string-name>
+<surname>Mead</surname>, <given-names>A.J.</given-names>
+</string-name>, <string-name>
+<surname>Kharazi</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Atkinson</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Macaulay</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Pecquet</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Loughran</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Lutteropp</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Woll</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Chowdhury</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Luc</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Buza&#x02010;Vidas</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Ferry</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Clark</surname>, <given-names>S.A.</given-names>
+</string-name>, <string-name>
+<surname>Goardon</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Vyas</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Constantinescu</surname>, <given-names>S.N.</given-names>
+</string-name>, <string-name>
+<surname>Sitnicka</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Nerlov</surname>, <given-names>C.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Jacobsen</surname>, <given-names>S.E.</given-names>
+</string-name> (<year>2013</year>) <article-title>FLT3&#x02010;ITDs instruct a myeloid differentiation and transformation bias in lymphomyeloid multipotent progenitors</article-title>. <source xml:lang="en">Cell Reports</source>, <volume>3</volume>, <fpage>1766</fpage>&#x02013;<lpage>1776</lpage>.<pub-id pub-id-type="pmid">23727242</pub-id></mixed-citation></ref><ref id="bjh15578-bib-0034"><mixed-citation publication-type="journal" id="bjh15578-cit-0034">
+<string-name>
+<surname>Metcalf</surname>, <given-names>D.</given-names>
+</string-name> (<year>2008</year>) <article-title>Hematopoietic cytokines</article-title>. <source xml:lang="en">Blood</source>, <volume>111</volume>, <fpage>485</fpage>&#x02013;<lpage>491</lpage>.<pub-id pub-id-type="pmid">18182579</pub-id></mixed-citation></ref><ref id="bjh15578-bib-0035"><mixed-citation publication-type="journal" id="bjh15578-cit-0035">
+<string-name>
+<surname>Neumann</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Coskun</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Fransecky</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Mochmann</surname>, <given-names>L.H.</given-names>
+</string-name>, <string-name>
+<surname>Bartram</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Sartangi</surname>, <given-names>N.F.</given-names>
+</string-name>, <string-name>
+<surname>Heesch</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Gokbuget</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Schwartz</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Brandts</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Schlee</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Haas</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Duhrsen</surname>, <given-names>U.</given-names>
+</string-name>, <string-name>
+<surname>Griesshammer</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Dohner</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Ehninger</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Burmeister</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Blau</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Thiel</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Hoelzer</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Hofmann</surname>, <given-names>W.K.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Baldus</surname>, <given-names>C.D.</given-names>
+</string-name> (<year>2013</year>) <article-title>FLT3 mutations in early T&#x02010;cell precursor ALL characterize a stem cell like leukemia and imply the clinical use of tyrosine kinase inhibitors</article-title>. <source xml:lang="en">PLoS ONE</source>, <volume>8</volume>, <fpage>e53190</fpage>.<pub-id pub-id-type="pmid">23359050</pub-id></mixed-citation></ref><ref id="bjh15578-bib-0036"><mixed-citation publication-type="journal" id="bjh15578-cit-0036">
+<string-name>
+<surname>Ogilvy</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Metcalf</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Gibson</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Bath</surname>, <given-names>M.L.</given-names>
+</string-name>, <string-name>
+<surname>Harris</surname>, <given-names>A.W.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Adams</surname>, <given-names>J.M.</given-names>
+</string-name> (<year>1999</year>) <article-title>Promoter elements of vav drive transgene expression in&#x000a0;vivo throughout the hematopoietic compartment</article-title>. <source xml:lang="en">Blood</source>, <volume>94</volume>, <fpage>1855</fpage>&#x02013;<lpage>1863</lpage>.<pub-id pub-id-type="pmid">10477714</pub-id></mixed-citation></ref><ref id="bjh15578-bib-0037"><mixed-citation publication-type="journal" id="bjh15578-cit-0037">
+<string-name>
+<surname>Rosnet</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Marchetto</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>deLapeyriere</surname>, <given-names>O.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Birnbaum</surname>, <given-names>D.</given-names>
+</string-name> (<year>1991</year>) <article-title>Murine Flt3, a gene encoding a novel tyrosine kinase receptor of the PDGFR/CSF1R family</article-title>. <source xml:lang="en">Oncogene</source>, <volume>6</volume>, <fpage>1641</fpage>&#x02013;<lpage>1650</lpage>.<pub-id pub-id-type="pmid">1656368</pub-id></mixed-citation></ref><ref id="bjh15578-bib-0038"><mixed-citation publication-type="journal" id="bjh15578-cit-0038">
+<string-name>
+<surname>Rosnet</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Schiff</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Pebusque</surname>, <given-names>M.J.</given-names>
+</string-name>, <string-name>
+<surname>Marchetto</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Tonnelle</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Toiron</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Birg</surname>, <given-names>F.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Birnbaum</surname>, <given-names>D.</given-names>
+</string-name> (<year>1993</year>) <article-title>Human FLT3/FLK2 gene: CDNA cloning and expression in hematopoietic cells</article-title>. <source xml:lang="en">Blood</source>, <volume>82</volume>, <fpage>1110</fpage>&#x02013;<lpage>1119</lpage>.<pub-id pub-id-type="pmid">8394751</pub-id></mixed-citation></ref><ref id="bjh15578-bib-0039"><mixed-citation publication-type="journal" id="bjh15578-cit-0039">
+<string-name>
+<surname>Rumfelt</surname>, <given-names>L.L.</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Rowley</surname>, <given-names>B.M.</given-names>
+</string-name>, <string-name>
+<surname>Shinton</surname>, <given-names>S.A.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Hardy</surname>, <given-names>R.R.</given-names>
+</string-name> (<year>2006</year>) <article-title>Lineage specification and plasticity in CD19&#x02010; early B cell precursors</article-title>. <source xml:lang="en">Journal of Experimental Medicine</source>, <volume>203</volume>, <fpage>675</fpage>&#x02013;<lpage>687</lpage>.<pub-id pub-id-type="pmid">16505143</pub-id></mixed-citation></ref><ref id="bjh15578-bib-0040"><mixed-citation publication-type="journal" id="bjh15578-cit-0040">
+<string-name>
+<surname>Scheijen</surname>, <given-names>B.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Griffin</surname>, <given-names>J.D.</given-names>
+</string-name> (<year>2002</year>) <article-title>Tyrosine kinase oncogenes in normal hematopoiesis and hematological disease</article-title>. <source xml:lang="en">Oncogene</source>, <volume>21</volume>, <fpage>3314</fpage>&#x02013;<lpage>3333</lpage>.<pub-id pub-id-type="pmid">12032772</pub-id></mixed-citation></ref><ref id="bjh15578-bib-0041"><mixed-citation publication-type="journal" id="bjh15578-cit-0041">
+<string-name>
+<surname>Sitnicka</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Bryder</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Theilgaard&#x02010;Monch</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Buza&#x02010;Vidas</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Adolfsson</surname>, <given-names>J.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Jacobsen</surname>, <given-names>S.E.</given-names>
+</string-name> (<year>2002</year>) <article-title>Key role of flt3 ligand in regulation of the common lymphoid progenitor but not in maintenance of the hematopoietic stem cell pool</article-title>. <source xml:lang="en">Immunity</source>, <volume>17</volume>, <fpage>463</fpage>&#x02013;<lpage>472</lpage>.<pub-id pub-id-type="pmid">12387740</pub-id></mixed-citation></ref><ref id="bjh15578-bib-0042"><mixed-citation publication-type="journal" id="bjh15578-cit-0042">
+<string-name>
+<surname>Sitnicka</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Brakebusch</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Martensson</surname>, <given-names>I.L.</given-names>
+</string-name>, <string-name>
+<surname>Svensson</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Agace</surname>, <given-names>W.W.</given-names>
+</string-name>, <string-name>
+<surname>Sigvardsson</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Buza&#x02010;Vidas</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Bryder</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Cilio</surname>, <given-names>C.M.</given-names>
+</string-name>, <string-name>
+<surname>Ahlenius</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Maraskovsky</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Peschon</surname>, <given-names>J.J.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Jacobsen</surname>, <given-names>S.E.</given-names>
+</string-name> (<year>2003</year>) <article-title>Complementary signaling through flt3 and interleukin&#x02010;7 receptor alpha is indispensable for fetal and adult B cell genesis</article-title>. <source xml:lang="en">Journal of Experimental Medicine</source>, <volume>198</volume>, <fpage>1495</fpage>&#x02013;<lpage>1506</lpage>.<pub-id pub-id-type="pmid">14610045</pub-id></mixed-citation></ref><ref id="bjh15578-bib-0043"><mixed-citation publication-type="journal" id="bjh15578-cit-0043">
+<string-name>
+<surname>Sitnicka</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Buza&#x02010;Vidas</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Ahlenius</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Cilio</surname>, <given-names>C.M.</given-names>
+</string-name>, <string-name>
+<surname>Gekas</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Nygren</surname>, <given-names>J.M.</given-names>
+</string-name>, <string-name>
+<surname>Mansson</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Cheng</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Jensen</surname>, <given-names>C.T.</given-names>
+</string-name>, <string-name>
+<surname>Svensson</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Leandersson</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Agace</surname>, <given-names>W.W.</given-names>
+</string-name>, <string-name>
+<surname>Sigvardsson</surname>, <given-names>M.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Jacobsen</surname>, <given-names>S.E.</given-names>
+</string-name> (<year>2007</year>) <article-title>Critical role of FLT3 ligand in IL&#x02010;7 receptor independent T lymphopoiesis and regulation of lymphoid&#x02010;primed multipotent progenitors</article-title>. <source xml:lang="en">Blood</source>, <volume>110</volume>, <fpage>2955</fpage>&#x02013;<lpage>2964</lpage>.<pub-id pub-id-type="pmid">17540845</pub-id></mixed-citation></ref><ref id="bjh15578-bib-0044"><mixed-citation publication-type="journal" id="bjh15578-cit-0044">
+<string-name>
+<surname>Stadtfeld</surname>, <given-names>M.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Graf</surname>, <given-names>T.</given-names>
+</string-name> (<year>2005</year>) <article-title>Assessing the role of hematopoietic plasticity for endothelial and hepatocyte development by non&#x02010;invasive lineage tracing</article-title>. <source xml:lang="en">Development</source>, <volume>132</volume>, <fpage>203</fpage>&#x02013;<lpage>213</lpage>.<pub-id pub-id-type="pmid">15576407</pub-id></mixed-citation></ref><ref id="bjh15578-bib-0045"><mixed-citation publication-type="journal" id="bjh15578-cit-0045">
+<string-name>
+<surname>Stirewalt</surname>, <given-names>D.L.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Radich</surname>, <given-names>J.P.</given-names>
+</string-name> (<year>2003</year>) <article-title>The role of FLT3 in haematopoietic malignancies</article-title>. <source xml:lang="en">Nature Reviews Cancer</source>, <volume>3</volume>, <fpage>650</fpage>&#x02013;<lpage>665</lpage>.<pub-id pub-id-type="pmid">12951584</pub-id></mixed-citation></ref><ref id="bjh15578-bib-0046"><mixed-citation publication-type="journal" id="bjh15578-cit-0046">
+<string-name>
+<surname>Tsapogas</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Mooney</surname>, <given-names>C.J.</given-names>
+</string-name>, <string-name>
+<surname>Brown</surname>, <given-names>G.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Rolink</surname>, <given-names>A.</given-names>
+</string-name> (<year>2017</year>) <article-title>The cytokine Flt3&#x02010;ligand in normal and malignant hematopoiesis</article-title>. <source xml:lang="en">International Journal of Molecular Sciences</source>, <volume>18</volume>, <fpage>1115</fpage>.</mixed-citation></ref><ref id="bjh15578-bib-0047"><mixed-citation publication-type="journal" id="bjh15578-cit-0047">
+<string-name>
+<surname>Ubersax</surname>, <given-names>J.A.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Ferrell</surname>, <given-names>J.E.</given-names>
+<suffix>Jr</suffix>
+</string-name> (<year>2007</year>) <article-title>Mechanisms of specificity in protein phosphorylation</article-title>. <source xml:lang="en">Nature Reviews Molecular Cell Biology</source>, <volume>8</volume>, <fpage>530</fpage>&#x02013;<lpage>541</lpage>.<pub-id pub-id-type="pmid">17585314</pub-id></mixed-citation></ref><ref id="bjh15578-bib-0048"><mixed-citation publication-type="journal" id="bjh15578-cit-0048">
+<string-name>
+<surname>Ullrich</surname>, <given-names>A.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Schlessinger</surname>, <given-names>J.</given-names>
+</string-name> (<year>1990</year>) <article-title>Signal transduction by receptors with tyrosine kinase activity</article-title>. <source xml:lang="en">Cell</source>, <volume>61</volume>, <fpage>203</fpage>&#x02013;<lpage>212</lpage>.<pub-id pub-id-type="pmid">2158859</pub-id></mixed-citation></ref><ref id="bjh15578-bib-0049"><mixed-citation publication-type="journal" id="bjh15578-cit-0049">
+<string-name>
+<surname>Vosshenrich</surname>, <given-names>C.A.</given-names>
+</string-name>, <string-name>
+<surname>Cumano</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Muller</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Di Santo</surname>, <given-names>J.P.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Vieira</surname>, <given-names>P.</given-names>
+</string-name> (<year>2003</year>) <article-title>Thymic stromal&#x02010;derived lymphopoietin distinguishes fetal from adult B cell development</article-title>. <source xml:lang="en">Nature Immunology</source>, <volume>4</volume>, <fpage>773</fpage>&#x02013;<lpage>779</lpage>.<pub-id pub-id-type="pmid">12872121</pub-id></mixed-citation></ref><ref id="bjh15578-bib-0050"><mixed-citation publication-type="journal" id="bjh15578-cit-0050">
+<string-name>
+<surname>Wasserman</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>Y.S.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Hardy</surname>, <given-names>R.R.</given-names>
+</string-name> (<year>1995</year>) <article-title>Differential expression of the blk and ret tyrosine kinases during B lineage development is dependent on Ig rearrangement</article-title>. <source xml:lang="en">The Journal of Immunology</source>, <volume>155</volume>, <fpage>644</fpage>&#x02013;<lpage>651</lpage>.<pub-id pub-id-type="pmid">7608542</pub-id></mixed-citation></ref><ref id="bjh15578-bib-0051"><mixed-citation publication-type="journal" id="bjh15578-cit-0051">
+<string-name>
+<surname>Yoshimoto</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Montecino&#x02010;Rodriguez</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Ferkowicz</surname>, <given-names>M.J.</given-names>
+</string-name>, <string-name>
+<surname>Porayette</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Shelley</surname>, <given-names>W.C.</given-names>
+</string-name>, <string-name>
+<surname>Conway</surname>, <given-names>S.J.</given-names>
+</string-name>, <string-name>
+<surname>Dorshkind</surname>, <given-names>K.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Yoder</surname>, <given-names>M.C.</given-names>
+</string-name> (<year>2011</year>) <article-title>Embryonic day 9 yolk sac and intra&#x02010;embryonic hemogenic endothelium independently generate a B&#x02010;1 and marginal zone progenitor lacking B&#x02010;2 potential</article-title>. <source xml:lang="en">Proceedings of the National Academy of Sciences of the United States of America</source>, <volume>108</volume>, <fpage>1468</fpage>&#x02013;<lpage>1473</lpage>.<pub-id pub-id-type="pmid">21209332</pub-id></mixed-citation></ref><ref id="bjh15578-bib-0052"><mixed-citation publication-type="journal" id="bjh15578-cit-0052">
+<string-name>
+<surname>Zriwil</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Boiers</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Wittmann</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Green</surname>, <given-names>J.C.</given-names>
+</string-name>, <string-name>
+<surname>Woll</surname>, <given-names>P.S.</given-names>
+</string-name>, <string-name>
+<surname>Jacobsen</surname>, <given-names>S.E.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Sitnicka</surname>, <given-names>E.</given-names>
+</string-name> (<year>2016</year>) <article-title>Macrophage colony&#x02010;stimulating factor receptor marks and regulates a fetal myeloid&#x02010;primed B&#x02010;cell progenitor in mice</article-title>. <source xml:lang="en">Blood</source>, <volume>128</volume>, <fpage>217</fpage>&#x02013;<lpage>226</lpage>.<pub-id pub-id-type="pmid">27207794</pub-id></mixed-citation></ref></ref-list></back></article>

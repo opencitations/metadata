@@ -1,0 +1,535 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?properties manuscript?><front><journal-meta><journal-id journal-id-type="nlm-journal-id">101740247</journal-id><journal-id journal-id-type="nlm-ta">AAS Open Res</journal-id><journal-id journal-id-type="iso-abbrev">AAS Open Res</journal-id><journal-title-group><journal-title>AAS open research</journal-title></journal-title-group><issn pub-type="epub">2515-9321</issn></journal-meta><article-meta><article-id pub-id-type="pmid">31517248</article-id><article-id pub-id-type="pmc">6742509</article-id><article-id pub-id-type="manuscript">EMS84056</article-id><article-id pub-id-type="doi">10.12688/aasopenres.12925.1</article-id><article-categories><subj-group subj-group-type="heading"><subject>Article</subject></subj-group></article-categories><title-group><article-title>Association between CD4 T cell counts and the immune status among
+adult critically ill HIV-negative patients in intensive care units in
+Uganda</article-title><fn-group content-type="pub-status"><fn id="FN1"><p id="P1">[version 1; peer review: 1 approved, 2 approved with
+reservations]</p></fn></fn-group></title-group><contrib-group><contrib contrib-type="author" corresp="yes"><name><surname>Kavuma Mwanje</surname><given-names>Arthur</given-names></name><role content-type="http://credit.casrai.org/">Conceptualization</role><role content-type="http://credit.casrai.org/">Data Curation</role><role content-type="http://credit.casrai.org/">Formal Analysis</role><role content-type="http://credit.casrai.org/">Funding Acquisition</role><role content-type="http://credit.casrai.org/">Investigation</role><role content-type="http://credit.casrai.org/">Methodology</role><role content-type="http://credit.casrai.org/">Project Administration</role><role content-type="http://credit.casrai.org/">Supervision</role><role content-type="http://credit.casrai.org/">Writing &#x02013; Original Draft
+Preparation</role><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-1249-3258</contrib-id><xref rid="C1" ref-type="corresp">a</xref><xref ref-type="aff" rid="A1">1</xref><xref ref-type="aff" rid="A2">2</xref></contrib><contrib contrib-type="author" corresp="no"><name><surname>Ejoku</surname><given-names>Joseph</given-names></name><role content-type="http://credit.casrai.org/">Conceptualization</role><role content-type="http://credit.casrai.org/">Methodology</role><role content-type="http://credit.casrai.org/">Project Administration</role><role content-type="http://credit.casrai.org/">Supervision</role><xref ref-type="aff" rid="A3">3</xref><xref ref-type="aff" rid="A4">4</xref></contrib><contrib contrib-type="author" corresp="no"><name><surname>Ssemogerere</surname><given-names>Lameck</given-names></name><role content-type="http://credit.casrai.org/">Conceptualization</role><role content-type="http://credit.casrai.org/">Data Curation</role><role content-type="http://credit.casrai.org/">Methodology</role><role content-type="http://credit.casrai.org/">Supervision</role><role content-type="http://credit.casrai.org/">Writing &#x02013; Original Draft
+Preparation</role><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-3117-1350</contrib-id><xref ref-type="aff" rid="A1">1</xref><xref ref-type="aff" rid="A3">3</xref></contrib><contrib contrib-type="author" corresp="no"><name><surname>Lubulwa</surname><given-names>Clare</given-names></name><role content-type="http://credit.casrai.org/">Conceptualization</role><role content-type="http://credit.casrai.org/">Data Curation</role><role content-type="http://credit.casrai.org/">Methodology</role><role content-type="http://credit.casrai.org/">Supervision</role><xref ref-type="aff" rid="A4">4</xref></contrib><contrib contrib-type="author" corresp="no"><name><surname>Namata</surname><given-names>Christine</given-names></name><role content-type="http://credit.casrai.org/">Conceptualization</role><role content-type="http://credit.casrai.org/">Data Curation</role><role content-type="http://credit.casrai.org/">Methodology</role><role content-type="http://credit.casrai.org/">Writing &#x02013; Original Draft
+Preparation</role><xref ref-type="aff" rid="A1">1</xref></contrib><contrib contrib-type="author" corresp="no"><name><surname>Kwizera</surname><given-names>Arthur</given-names></name><role content-type="http://credit.casrai.org/">Conceptualization</role><role content-type="http://credit.casrai.org/">Data Curation</role><role content-type="http://credit.casrai.org/">Formal Analysis</role><role content-type="http://credit.casrai.org/">Writing &#x02013; Original Draft
+Preparation</role><role content-type="http://credit.casrai.org/">Writing &#x02013; Review &#x00026;
+Editing</role><xref ref-type="aff" rid="A1">1</xref></contrib><contrib contrib-type="author" corresp="no"><name><surname>Wabule</surname><given-names>Agnes</given-names></name><role content-type="http://credit.casrai.org/">Data Curation</role><role content-type="http://credit.casrai.org/">Formal Analysis</role><role content-type="http://credit.casrai.org/">Methodology</role><role content-type="http://credit.casrai.org/">Project Administration</role><role content-type="http://credit.casrai.org/">Writing &#x02013; Original Draft
+Preparation</role><xref ref-type="aff" rid="A1">1</xref></contrib><contrib contrib-type="author" corresp="no"><name><surname>Okello</surname><given-names>Erasmus</given-names></name><role content-type="http://credit.casrai.org/">Conceptualization</role><role content-type="http://credit.casrai.org/">Data Curation</role><role content-type="http://credit.casrai.org/">Methodology</role><role content-type="http://credit.casrai.org/">Writing &#x02013; Original Draft
+Preparation</role><xref ref-type="aff" rid="A1">1</xref></contrib><contrib contrib-type="author" corresp="no"><name><surname>Kizito</surname><given-names>Samuel</given-names></name><role content-type="http://credit.casrai.org/">Data Curation</role><role content-type="http://credit.casrai.org/">Formal Analysis</role><role content-type="http://credit.casrai.org/">Methodology</role><role content-type="http://credit.casrai.org/">Software</role><role content-type="http://credit.casrai.org/">Writing &#x02013; Original Draft
+Preparation</role><xref ref-type="aff" rid="A5">5</xref></contrib><contrib contrib-type="author" corresp="no"><name><surname>Lubikire</surname><given-names>Aggrey</given-names></name><role content-type="http://credit.casrai.org/">Conceptualization</role><role content-type="http://credit.casrai.org/">Data Curation</role><role content-type="http://credit.casrai.org/">Methodology</role><role content-type="http://credit.casrai.org/">Writing &#x02013; Original Draft
+Preparation</role><xref ref-type="aff" rid="A1">1</xref></contrib><contrib contrib-type="author" corresp="no"><name><surname>Sendagire</surname><given-names>Cornelius</given-names></name><role content-type="http://credit.casrai.org/">Conceptualization</role><role content-type="http://credit.casrai.org/">Data Curation</role><role content-type="http://credit.casrai.org/">Methodology</role><role content-type="http://credit.casrai.org/">Writing &#x02013; Original Draft
+Preparation</role><xref ref-type="aff" rid="A3">3</xref></contrib><contrib contrib-type="author" corresp="no"><name><surname>Andia Biraro</surname><given-names>Irene</given-names></name><role content-type="http://credit.casrai.org/">Conceptualization</role><role content-type="http://credit.casrai.org/">Methodology</role><role content-type="http://credit.casrai.org/">Supervision</role><role content-type="http://credit.casrai.org/">Validation</role><role content-type="http://credit.casrai.org/">Writing &#x02013; Original Draft
+Preparation</role><role content-type="http://credit.casrai.org/">Writing &#x02013; Review &#x00026;
+Editing</role><xref ref-type="aff" rid="A6">6</xref><xref ref-type="aff" rid="A7">7</xref></contrib><aff id="A1">
+<label>1</label>Department of Anaesthesia, Makerere University, Kampala, 256,
+Uganda</aff><aff id="A2">
+<label>2</label>Department of Anaesthesia, Holy Cross Orthodox Hospital,
+Kampala, 256, Uganda</aff><aff id="A3">
+<label>3</label>Department of Anaesthesia, Uganda Heart Institute, Kampala, 256,
+Uganda</aff><aff id="A4">
+<label>4</label>Department of Anaesthesia, Mulago National Referral Hospital,
+Kampala, 256, Uganda</aff><aff id="A5">
+<label>5</label>Department of Clinical Epidemiology and Biostatistics, Makerere
+University, Kampala, 256, Uganda</aff><aff id="A6">
+<label>6</label>Medical Research Council, Uganda Virus Research-Institute Uganda
+Research Unit on AIDS, Kampala, 256, Uganda</aff><aff id="A7">
+<label>7</label>Department of Internal Medicine, Makerere University, Kampala,
+256, Uganda</aff></contrib-group><author-notes><corresp id="C1"><label>a</label><email xlink:href="mailto:kart227@yahoo.com">kart227@yahoo.com</email></corresp><fn fn-type="COI-statement" id="FN2"><p id="P2">No competing interests were disclosed.</p></fn></author-notes><pub-date pub-type="epub"><day>8</day><month>1</month><year>2019</year></pub-date><pub-date pub-type="pmc-release"><day>12</day><month>9</month><year>2019</year></pub-date><volume>2</volume><elocation-id>2</elocation-id><permissions><license xlink:href="http://creativecommons.org/licenses/by/4.0/"><license-p>This is an open access article distributed under the terms of the
+Creative Commons Attribution Licence, which permits unrestricted use,
+distribution, and reproduction in any medium, provided the original work is
+properly cited.</license-p></license></permissions><self-uri xlink:href="https://aasopenresearch.org/articles/2-2"/><abstract><p id="P3">
+<bold>Background</bold>: Cluster of differentiation 4 (CD4) T cells play a
+central role in regulation of adaptive T cell-mediated immune responses. Low CD4
+T cell counts are not routinely reported as a marker of immune deficiency among
+HIV-negative individuals, as is the norm among their HIV positive counterparts.
+Despite evidence of mortality rates as high as 40% among Ugandan critically ill
+HIV-negative patients, the use of CD4 T cell counts as a measure of the immune
+status has never been explored among this population. This study assessed the
+immune status of adult critically ill HIV-negative patients admitted to Ugandan
+intensive care units (ICUs) using CD4 T cell count as a surrogate marker.</p><p id="P4">
+<bold>Methods:</bold> A multicentre prospective cohort was conducted between
+1<sup>st</sup> August 2017 and 1<sup>st</sup> March 2018 at four Ugandan
+ICUs. A total of 130 critically ill HIV negative patients were consecutively
+enrolled into the study. Data on sociodemographics, clinical characteristics,
+critical illness scores, CD4 T cell counts were obtained at baseline and
+mortality at day 28.</p><p id="P5">
+<bold>Results:</bold> The mean age of patients was 45&#x000b1; 18 years
+(mean&#x000b1;SD) and majority (60.8%) were male. After a 28-day follow up, 71
+[54.6%, 95% CI (45.9-63.3)] were found to have CD4 counts less than 500
+cells/mm&#x000b3;, which were not found to be significantly associated with
+mortality at day 28, OR (95%) 1 (0.4&#x02013;2.4), p = 0.093. CD4 cell count
+receiver operator characteristic curve (ROC) area was 0.5195, comparable to
+APACHE II ROC area 0.5426 for predicting 24-hour mortality.</p><p id="P6">
+<bold>Conclusions:</bold> CD4 T cell counts were generally low among
+HIV-negative critically ill patients. Low CD4 T cells did not predict ICU
+mortality at day 28. CD4 T cell counts were not found to be inferior to APACHE
+II score in predicting 24 hour ICU mortality.</p></abstract><kwd-group kwd-group-type="author"><kwd>CD4 T cells</kwd><kwd>HIV negative</kwd><kwd>critically ill</kwd><kwd>immune status</kwd></kwd-group></article-meta></front><body><sec sec-type="intro" id="S1"><title>Introduction</title><p id="P7">Cluster of differentiation 4 (CD4) is a glycoprotein found on the surface of
+immune cells such as T helper cells and macrophages<xref rid="R1" ref-type="bibr">1</xref>. If CD4 T cells become depleted, the body is left susceptible to a
+wide spectrum of viral and bacterial infections that it would otherwise have been
+able to fight<xref rid="R2" ref-type="bibr">2</xref>. CD4 T cells play a central
+role in the cascade of events forming immune response to foreign antigen, hence
+monitoring their levels is necessary to understand the extent of immune
+deficiency<xref rid="R3" ref-type="bibr">3</xref>. A normal CD4 T cell count in
+an adult is usually between 500 and 1500 cells/mm&#x000b3;<xref rid="R4" ref-type="bibr">4</xref>. Low CD4 T cell levels are reported in HIV-positive
+patients as a marker of poor immune status and may fall to as low as zero cells in
+peripheral blood. Similarly, CD4 T cells may be suppressed among HIV negative
+patients that suffer from critical illnesses<xref rid="R5" ref-type="bibr">5</xref>.
+CD4 T cell counts differ across different HIV-negative populations, due to a variety
+of factors that include environmental, immunological and genetic factors<xref rid="R6" ref-type="bibr">6</xref>.</p><p id="P8">Critical care has become an important area of the health sciences, leading to
+development of scoring systems to guide clinicians in estimating patients&#x02019;
+prognoses, and in particular the risk of mortality. The most frequently used scoring
+system is the Acute Physiology Age and Chronic Health Evaluation II (APACHE II)<xref rid="R7" ref-type="bibr">7</xref> which predicts mortality in the first 24 hours
+of admission to ICU.</p><p id="P9">Low CD4 T cell counts were associated with mortality among HIV patients
+admitted to African ICU<xref rid="R8" ref-type="bibr">8</xref>. Surprisingly, very
+low CD4 T cell counts are fairly common among people without HIV, and are likely to
+be present among 40 and 70% of people admitted to ICUs<xref rid="R9" ref-type="bibr">9</xref>.</p><p id="P10">No such study had been conducted in Uganda before; hence, no available
+policies regarding use of CD4 T cell counts among critically ill HIV-negative
+patients from the Ugandan Ministry of Health.</p></sec><sec sec-type="methods" id="S2"><title>Methods</title><sec id="S3"><title>Study background</title><p id="P11">We conducted a prospective cohort study between 1<sup>st</sup> August
+2017 and 1<sup>st</sup> March 2018 at Mulago National Referral ICU, Uganda Heart
+Institute ICU, International Hospital Kampala ICU and Nakasero Hospital Limited
+ICU in Kampala city, Uganda. Baseline data on patients&#x02019; demographic
+variables (employment status, education level, family income, smoking, age, sex
+and ethnicity), admission diagnosis, CD4 T Cell counts and APACHE II scores were
+collected. We included adult HIV negative critically ill, APACHE II scored,
+medical/surgical ICU patients and excluded patients found admitted to ICU beyond
+24 hours and those on immunosuppressant drugs such as steroids prior to
+admission. A total of 130 critically ill HIV-negative adults were enrolled into
+the study of which 127 participants gave written informed assent on behalf of
+their critically ill patients while 3 were waived of consent by the ethics
+committee because they had no proxies. The sample size was calculated using the
+formula for sample size calculation for two groups with a continuous outcome as
+outlined in Designing Clinical Research by Hulley <italic>et al.</italic><xref rid="R10" ref-type="bibr">10</xref>. <italic/> We aimed for power of 80%,
+level of significance of 95% and using mean estimates of CD4 from a study<xref rid="R6" ref-type="bibr">6</xref>. All study participants were followed for
+28 days and end of follow up survival and mortality data was collected.</p></sec><sec id="S4"><title>Patient assessment</title><p id="P12">Referring to World Health Organization, we grouped CD4 levels into two;
+where CD4 above 500 cells/mm&#x000b3; signified immune competent or normal CD4
+count and those with CD4 less than 500 cells/mm&#x000b3; reflecting low
+immunity.</p><p id="P13">The APACHE II scores and blood draws for CD4 T cell counts were
+performed upon admission between 8 am and 10 am. Blood sampling followed a
+standard laboratory practice. Approximately 3 to 5 ml of blood were collected in
+K3/K2 EDTA vacutainers, labeled with the patient&#x02019;s identification, date
+and time of collection, and the name of the collecting personnel. To assess
+patients&#x02019; CD4 levels, BD FACSCalibur anticoagulated blood samples
+transported at ambient temperature (20&#x02013;25&#x000b0;C) was stained within 48
+hours of draw and then analyzed within 6 hours of staining<xref rid="R11" ref-type="bibr">11</xref>. Samples were analysed from a 4-star laboratory of
+Makerere-Mbarara University Joint AIDS Program. Sample transport was by hand
+delivery and no transport was done on non-testing days. A coding manual for
+laboratory results was developed for broken samples, insufficient, clotted,
+frozen, haemolysed blood, samples not been drawn in K3/K2 EDTA vacutainers and
+errors in laboratory procedures. </p><p id="P14">Strict procedures for data management during the pre-analytical,
+analytical and post analytical phase of testing were conducted to ensure the
+reliable production and delivery of accurate test results. Laboratory equipment
+was calibrated daily and sample laboratory registers were used to record receipt
+of samples and the production and release of results on entry of test result
+form.</p><p id="P15">The collection sites maintained the test request form. Testing
+laboratory had reliable systems for receiving and processing result data with
+uniform basic data handling, storage and reporting standards. The testing
+laboratory maintained records of result data for defined periods, to allow
+repeat reporting of lost test results, as well as aggregation for monitoring and
+evaluation or other research purposes. The testing laboratory also ensured
+reliable and rapid delivery of results.</p></sec><sec id="S5"><title>APACHE II questionnaire</title><p id="P16">The questionnaires were cross-checked by the principal investigator (PI)
+to ensure completeness before leaving the study site and periodically, the PI
+arranged a meeting with the assistants to validate data. Computer in-built
+checks reinforced data completeness. Quantitative data was double-entered to
+ensure correctness of data entered. According to WHO guidelines, the
+questionnaire was translated into Luganda a local dialect and back-translated
+into English by K.A.M.</p><p id="P17">To address potential sources of bias, the PI and critical care nurses
+(research assistants) sampled the participants by drawing blood and filling the
+questionnaires that were retained at the study sites. The laboratory technician
+(research assistant) transported all samples with only a laboratory request form
+and did not participate in drawing blood from the patients, only K.A.M. accessed
+the study results and strictly 130 participants were recruited and all completed
+a 28-day follow-up.</p></sec><sec id="S6"><title>Ethical approval</title><p id="P18">This study was approved by Research and Ethics Committee of Makerere
+University. A waiver of requirement for consent for unconscious patients without
+proxies was obtained with a reference number 2017-095. Final approval was
+granted by Uganda National Council for Science and Technology with a reference
+number HS104ES.</p></sec><sec id="S7"><title>Data management and statistical analysis</title><p id="P19">An electronic database was created using <ext-link ext-link-type="uri" xlink:href="https://www.epidata.dk/">EpiData</ext-link>
+version 3.1 to enter the raw data from the questionnaires. The data was then
+transferred to STATA version 14.1 for analysis. In determining the CD4 T cell
+counts among the study participants, we presented the mean CD4 count with its
+corresponding standard deviation since it was normally distributed. In addition,
+we presented the CD4 as a categorized variable with frequencies (and
+percentages) for the various cutoffs with the corresponding 95% confidence
+intervals of the proportions.</p><p id="P20">In order to determine the relationship between CD4 T cell counts and
+28-day ICU mortality, we performed multivariate logistic regression with CD4
+count as the main predictor and 28-day mortality as the outcome. Prior to
+performing the multivariate logistic regression models, we performed bivariate
+analysis and all the variables with a p-value of 0.2 or less were included in
+the multivariate model.</p><p id="P21">Multivariate logistic regression was performed to determine how the CD4
+jointly with other variables was associated with 28-day mortality. The variables
+were entered into a stepwise logistic model. Significance was set at p-value of
+0.05 or less. The goodness of fit of the final model was tested using the Hosmer
+&#x00026; Lemeshow goodness of fit, testing the null hypothesis that the final model
+adequately fits the data.</p><p id="P22">To assess the feasibility of using CD4 T cell counts to predict 24-hour
+mortality, as compared to APACHE II score, we compared the area under the
+Receiver Operator Characteristic Curves (ROC) between CD4 and APACHE II in
+predicting mortality. Prior to generating the ROC, we generated the
+sensitivities and specificities for the different cutoffs for both CD4 count and
+APACHE II. The ROC was then generated with y-axis being sensitivity and the
+x-axis being 1-specificity.</p></sec></sec><sec sec-type="results" id="S8"><title>Results</title><sec id="S9"><title>Patient characteristics</title><p id="P23">More than half (53.9%) of the participants were recruited from MNRH
+followed by IHK (24.6%), NHL (19.2%) and lastly UHI (2.3%). Non-smoking
+self-employed black males dominated the study population at a mean age of
+45.2&#x000b1;18.3 (mean&#x000b1;SD) and a family income above $1 as shown in <xref rid="T1" ref-type="table">Table 1</xref>. The major indication for admitting
+to ICU was postoperative high critical care requirements (46.2%), whilst the
+least common was urinary tract infection (UTI) (0.8%). Details are shown in
+<xref rid="T2" ref-type="table">Table 2</xref>. All raw data are available
+on <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.17605/OSF.IO/JBMKP">OSF</ext-link><xref rid="R12" ref-type="bibr">12</xref>.</p></sec><sec id="S10"><title>CD4 T cell counts among critically ill HIV-negative patients</title><p id="P26">Overall 130 CD4 tests were carried out, of which 71 [54.6%, 95% CI
+(45.9-63.3)] were low (less than 500 cells/mm&#x000b3;). The mean CD4 count was
+494.4&#x000b1;282 cells/mm&#x000b3; (mean&#x000b1;SD), and the lowest count was 50
+cells/mm&#x000b3;. Other details are shown in <xref rid="T3" ref-type="table">Table
+3</xref>. There was no significant association in mortality outcome between
+those who had normal (CD4 &#x02265;500 cells/mm&#x000b3;) and low (CD4 &#x0003c;500
+cells/mm&#x000b3;) CD4 counts (p = 0.64). Other details are shown in <xref rid="T4" ref-type="table">Table 4</xref>.</p></sec><sec id="S11"><title>Relationship between CD4 T cell counts and 28-day mortality</title><p id="P28">At bivariate analysis, smoking, admitting a patient from another
+hospital, ICUs for hospitals MNRH, NHL and UHI had a strong statistically
+significant association with mortality at day 28. At multivariate analysis,
+abnormal CD4 count was not found to be significantly associated with mortality
+at day 28 in our population OR (95%) 1 (0.4&#x02013;2.4) p = 0.093. Other details
+are shown in <xref rid="T5" ref-type="table">Table 5</xref>.</p></sec><sec id="S12"><title>Feasibility of using CD4 T cell counts to predict 24-hour mortality as
+compared to APACHE II score</title><p id="P30">From the receiver operator characteristic curves for comparing CD4 cell
+count and APACHE II score in predicting mortality, the area under the curve for
+the two graphs was comparable (this signified that CD4 count could be as good as
+APACHE II score). However, both graphs demonstrated very low area under the
+curve (the closer to 1 the area is, the more diagnostically accurate the curve).
+Therefore, the data signified that both APACHE II and CD4 were not good
+predictors of the outcome, despite being comparable (<xref rid="F1" ref-type="fig">Figure 1</xref>).</p></sec></sec><sec sec-type="discussion" id="S13"><title>Discussion</title><sec id="S14"><title>Demographics and clinical characteristics</title><p id="P31">To our knowledge, this multicenter cohort study is the first report to
+discuss the immune status of critically ill HIV-negative patients admitted to
+Ugandan ICUs using CD4 T cell count as a surrogate marker. Almost all
+participants were black, of African descent and non-smokers, because black
+Africans, who rarely smoke, dominated the study population.</p><p id="P32">Most admissions from all the four ICUs were surgical cases and those
+requiring high postoperative care contributed the highest number of participants
+while the least was due to UTI. This is because MNRH is the referral center for
+most critical patients and strictly to mention the trauma patients. The same
+happened to UHI ICU that admitted mostly surgical cases.</p><p id="P33">In our study, we found that more than half of the participants had low
+CD4 T cell counts This may have been caused by critical illness that led to
+production of cortisol. This in turn may have suppressed the production of CD4 T
+cells. Our findings agree with a study conducted in nine consecutive patients
+admitted to the ICU with sepsis in Japan, whose CD4 cells were clearly reduced
+below 500 cells/mm&#x000b3; and remained at that level for entire 4 weeks<xref rid="R13" ref-type="bibr">13</xref>. These findings are also in agreement
+with a study conducted in HIV-negative Senegalese individuals, which found that
+CD4 cell counts varied in HIV-negative individuals<xref rid="R6" ref-type="bibr">6</xref>. Though our study population was purely HIV negative, we found
+that more than 50% of the participants had low CD4 cell counts, with four
+participants having their CD4 cell counts as low as less than 50 cells/mm&#x000b3;
+and six participants having counts less than 200 cells/mm&#x000b3;, values
+considered to indicate AIDS in patients living with HIV. Hence critical illness
+alone, without HIV infection, can present a picture that resembles that of AIDS
+in HIV-negative critically ill patients.</p><p id="P34">We did not find a statistically significant association between CD4 T
+cell counts and ICU mortality at day 28 among critically ill HIV-negative
+patients in our population. This is consistent with a study conducted by Feeney
+<italic>et al</italic>., which did not find whether low CD4 T cell counts
+were associated with a poor prognosis<xref rid="R9" ref-type="bibr">9</xref>.
+The reason why this American study agrees with our findings could be entirely
+attributable to the sample size that is almost similar in both studies. However,
+our results contradict with other studies that have shown that septic patients
+with loss of CD4 T cells have a higher mortality<xref rid="R14" ref-type="bibr">14</xref>. It is also in contrast with a study conducted in 2007, which
+showed that low CD4 T cell counts were associated with death<xref rid="R14" ref-type="bibr">14</xref>. Our findings could be ascribed to the fact that
+CD4 T cells are a surrogate marker of the many immune cells. Hence, measuring
+CD4 alone could not yield reliable information to predict mortality. Another
+reason for the lack of statistical significance observed would be due to the
+sample size and short-term follow-up that may be were not adequate to give
+dependable results. It is also prudent to note that CD4 T cells were only
+sampled once, hence making it hard to track the exact CD4 cells at the time of
+the patient&#x02019;s demise.</p><p id="P35">Both high APACHE II and low CD4 count could predict a 24-hour mortality
+in our population; however, despite being comparable, both were not good
+predictors of mortality. This is in line with a study conducted in 2000, where
+elevated APACHE II score remained a significantly negative predictor of survival
+at 28-day mortality<xref rid="R15" ref-type="bibr">15</xref>. It also concurs
+with a study conducted in 2015 that reported that the median APACHE II of 25
+predicted greater than 50% mortality<xref rid="R8" ref-type="bibr">8</xref>. The
+latter leaves a benefit of doubt, as the study did not report that mortality
+would be 100%. However it is in contrast with a study done in 1995 that did not
+find any relationship between CD4 counts and APACHE II score, predicted
+mortality rate, or survival rate<xref rid="R9" ref-type="bibr">9</xref>.</p></sec></sec><sec sec-type="conclusions" id="S15"><title>Conclusion</title><p id="P36">From our study, we conclude that CD4 T cell counts were generally low among
+HIV-negative critically ill patients and recommend that this indicator should be
+incorporated onto the panel of baseline investigations in this group of patients. We
+also established that low CD4 cells did not predict mortality at day 28 in our study
+population, although it would predict 24-hour mortality and was not inferior to
+prediction using APACHE II score. Hence, we suggest the use of CD4 T Cell counts in
+resource constrained setup to help in directing proper use of resources. Critically
+ill patients with low CD4 T cell counts should be supplemented with immunoadjuvant
+therapy to restore their immune system and also prevent loss of functional T helper
+cells as these play a major role in defending the body against pathogens. Further
+multinational studies on serial CD4 sampling until patients&#x02019; demise and a
+longer follow-up period are required.</p></sec><sec sec-type="data-availability" id="S16"><title>Data availability</title><p id="P37">Raw data associated with this study are available on OSF in csv and dta
+formats. DOI: <ext-link ext-link-type="uri" xlink:href="https://dx.doi.org/10.17605/OSF.IO/JBMKP">https://doi.org/10.17605/OSF.IO/JBMKP</ext-link><xref rid="R12" ref-type="bibr">12</xref>.</p><p id="P38">Data are available under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/publicdomain/zero/1.0/">Creative Commons Zero "No rights reserved" data
+waiver</ext-link> (CC0 1.0 Public domain dedication).</p></sec></body><back><ack id="SA1"><sec id="SA2"><title>Grant Information</title><p id="PF1">KAM, NC and AK are supported through the DELTAS Africa Initiative grant
+#DEL-15-011 to THRiVE-2. The DELTAS Africa Initiative is an independent funding
+scheme of the African Academy of Sciences (AAS)&#x02019;s Alliance for Accelerating
+Excellence in Science in Africa (AESA) and supported by the New Partnership for
+Africa&#x02019;s Development Planning and Coordinating Agency (NEPAD Agency),
+with funding from the Wellcome Trust grant 107742 and the UK
+government. The views expressed in this publication are those of the authors and
+not necessarily those of AAS, NEPAD Agency, Wellcome Trust or the UK
+government.</p><p id="PF2">
+<italic>The funders had no role in study design, data collection and analysis,
+decision to publish, or preparation of the manuscript.</italic>
+</p></sec></ack><ref-list><ref id="R1"><label>1</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bernard</surname><given-names>A</given-names></name><name><surname>Boumsell</surname><given-names>L</given-names></name><name><surname>Hill</surname><given-names>C</given-names></name></person-group>: <article-title>Joint report of the first international workshop
+on human leucocyte differentiation antigens by the investigators of the
+participating laboratories</article-title>. In <italic>Leucocyte
+typing</italic>
+Springer.<year>1984</year>;<fpage>9</fpage>&#x02013;<lpage>142</lpage>.
+<pub-id pub-id-type="doi">10.1007/978-3-642-68857-7_3</pub-id>
+</mixed-citation></ref><ref id="R2"><label>2</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Asadi</surname><given-names>S</given-names></name><name><surname>Heydari</surname><given-names>E</given-names></name></person-group>: <article-title>Effectiveness Mir-93, Mir-20a, Mir-20b, Rorc,
+Stat3, Cd4+, Smad6, Smad7, Mtor, Foxo1, Foxp3, Gata3, Pparg, Inf&#x003b3;,
+Hif1&#x003b1;, Il-17, Il-23, Il-1r, Il-21r, Il-21, Il-22, Il-6, T-Bet, Smad4,
+Smad2, Stat5a, Stat5b, Stat1, Stat4, Stat6, In Cell Differentiation
+Na&#x000ef;ve Cd4+ From Th17 Cells In Patients With Multiple Sclerosis In The
+City Of Tabriz In Iran.</article-title>
+<source><italic>World J Pharm Pharm Sci.</italic></source>
+<year>2016</year>;<volume>5</volume>(<issue>2</issue>). <ext-link ext-link-type="uri" xlink:href="https://www.google.com/url?sa=t&#x00026;rct=j&#x00026;q=&#x00026;esrc=s&#x00026;source=web&#x00026;cd=2&#x00026;cad=rja&#x00026;uact=8&#x00026;ved=2ahUKEwjywv38utPfAhULtI8KHcPUCWUQFjABegQIABAC&#x00026;url=https%3A%2F%2Fwww.wjpps.com%2Fdownload%2Farticle%2F1454484092.pdf&#x00026;usg=AOvVaw1BTrnIjzw-kv0RIs3495fX">Reference Source</ext-link>
+</mixed-citation></ref><ref id="R3"><label>3</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Shete</surname><given-names>A</given-names></name><name><surname>Thakar</surname><given-names>M</given-names></name><name><surname>Abraham</surname><given-names>PR</given-names></name><etal/></person-group>: <article-title>A review on peripheral blood CD4+ T lymphocyte
+counts in healthy adult Indians.</article-title>
+<source><italic>Indian J Med Res.</italic></source>
+<year>2010</year>;<volume>132</volume>(<issue>6</issue>):<fpage>667</fpage>&#x02013;<lpage>75</lpage>.
+<!--<pub-id pub-id-type="pmcid">3102453</pub-id>-->
+<pub-id pub-id-type="pmid">21245613</pub-id></mixed-citation></ref><ref id="R4"><label>4</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Carter</surname><given-names>M</given-names></name><name><surname>Hughson</surname><given-names>G</given-names></name></person-group>: <article-title>CD4 Cell
+Counts</article-title>.<year>2012</year>; NAM Publications.</mixed-citation></ref><ref id="R5"><label>5</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Irwin</surname><given-names>M</given-names></name></person-group>: <article-title>Low CD4 counts: a variety of causes and their
+implications to a multi-factorial model of AIDS.</article-title>
+<source><italic>Br Med J online.</italic></source>
+<year>2001</year>
+<ext-link ext-link-type="uri" xlink:href="https://pdfs.semanticscholar.org/0f5f/6e94e9a77ff22ffe3ae192b6379b019f94ce.pdf?_ga=2.148468727.1319188841.1546583073-918838908.1546422978">Reference Source</ext-link>
+</mixed-citation></ref><ref id="R6"><label>6</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mair</surname><given-names>C</given-names></name><name><surname>Hawes</surname><given-names>SE</given-names></name><name><surname>Agne</surname><given-names>HD</given-names></name><etal/></person-group>: <article-title>Factors associated with CD4 lymphocyte counts in
+HIV-negative Senegalese individuals.</article-title>
+<source><italic>Clin Exp Immunol.</italic></source>
+<year>2008</year>;<volume>151</volume>(<issue>3</issue>):<fpage>432</fpage>&#x02013;<lpage>440</lpage>.
+<pub-id pub-id-type="doi">10.1111/j.1365-2249.2007.03573.x</pub-id>
+<!--<pub-id pub-id-type="pmcid">2276971</pub-id>-->
+<pub-id pub-id-type="pmid">18190600</pub-id></mixed-citation></ref><ref id="R7"><label>7</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Naved</surname><given-names>SA</given-names></name><name><surname>Siddiqui</surname><given-names>S</given-names></name><name><surname>Khan</surname><given-names>FH</given-names></name></person-group>: <article-title>APACHE-II score correlation with mortality and
+length of stay in an intensive care unit.</article-title>
+<source><italic>J Coll Physicians Surg Pak.</italic></source>
+<year>2011</year>;<volume>21</volume>(<issue>1</issue>):<fpage>4</fpage>&#x02013;<lpage>8</lpage>.
+<pub-id pub-id-type="pmid">21276376</pub-id></mixed-citation></ref><ref id="R8"><label>8</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kwizera</surname><given-names>A</given-names></name><name><surname>Nakibuuko</surname><given-names>J</given-names></name><name><surname>Ssemogerere</surname><given-names>L</given-names></name><etal/></person-group>: <article-title>Clinical characteristics and short-term outcomes
+of hiv patients admitted to an african intensive care unit.</article-title>
+<source><italic>Intensive Care Med Exp.</italic></source>
+<year>2015</year>;<volume>3</volume>(<issue>S1</issue>):<fpage>A351</fpage>
+<pub-id pub-id-type="doi">10.1186/2197-425X-3-S1-A351</pub-id>
+<!--<pub-id pub-id-type="pmcid">4796737</pub-id>-->
+</mixed-citation></ref><ref id="R9"><label>9</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Feeney</surname><given-names>C</given-names></name><name><surname>Bryzman</surname><given-names>S</given-names></name><name><surname>Kong</surname><given-names>L</given-names></name><etal/></person-group>: <article-title>T-lymphocyte subsets in acute
+illness.</article-title>
+<source><italic>Crit Care Med.</italic></source>
+<year>1995</year>;<volume>23</volume>(<issue>10</issue>):<fpage>1680</fpage>&#x02013;<lpage>1685</lpage>.
+<pub-id pub-id-type="pmid">7587233</pub-id></mixed-citation></ref><ref id="R10"><label>10</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hulley</surname><given-names>SB</given-names></name><name><surname>Cummings</surname><given-names>SR</given-names></name></person-group>: <article-title>Designing clinical
+research.</article-title>Baltimore, Md: Williams &#x00026;
+Wilkins;<year>1988</year>;<fpage>218</fpage>.</mixed-citation></ref><ref id="R11"><label>11</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Manasa</surname><given-names>J</given-names></name><name><surname>Musabaike</surname><given-names>H</given-names></name><name><surname>Masimirembwa</surname><given-names>C</given-names></name><etal/></person-group>: <article-title>Evaluation of the Partec flow cytometer against
+the BD FACSCalibur system for monitoring immune responses of human
+immunodeficiency virus-infected patients in Zimbabwe.</article-title>
+<source><italic>Clin Vaccine Immunol.</italic></source>
+<year>2007</year>;<volume>14</volume>(<issue>3</issue>):<fpage>293</fpage>&#x02013;<lpage>298</lpage>.
+<pub-id pub-id-type="doi">10.1128/CVI.00416-06</pub-id>
+<!--<pub-id pub-id-type="pmcid">1828850</pub-id>-->
+<pub-id pub-id-type="pmid">17267593</pub-id></mixed-citation></ref><ref id="R12"><label>12</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mwanje</surname><given-names>KA</given-names></name><name><surname>Arthur</surname><given-names>K</given-names></name><name><surname>Irene</surname><given-names>AB</given-names></name><etal/></person-group>: <article-title>Association between CD4 T cell counts and the
+immune status among adult critically ill HIV-negative patients in intensive
+care units in Uganda</article-title>.<year>2018</year>
+<pub-id pub-id-type="doi">10.17605/OSF.IO/JBMKP</pub-id>
+</mixed-citation></ref><ref id="R13"><label>13</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Nishijima</surname><given-names>MK</given-names></name><name><surname>Takezawa</surname><given-names>J</given-names></name><name><surname>Hosotsubo</surname><given-names>KK</given-names></name><etal/></person-group>: <article-title>Serial changes in cellular immunity of septic
+patients with multiple organ-system failure.</article-title>
+<source><italic>Crit Care Med.</italic></source>
+<year>1986</year>;<volume>14</volume>(<issue>2</issue>):<fpage>87</fpage>&#x02013;<lpage>91</lpage>.
+<pub-id pub-id-type="doi">10.1097/00003246-198602000-00002</pub-id>
+<pub-id pub-id-type="pmid">3943329</pub-id></mixed-citation></ref><ref id="R14"><label>14</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Francois</surname><given-names>B</given-names></name><name><surname>Jeannet</surname><given-names>R</given-names></name><name><surname>Daix</surname><given-names>T</given-names></name><etal/></person-group>: <article-title>Interleukin-7 restores lymphocytes in septic
+shock: the IRIS-7 randomized clinical trial.</article-title>
+<source><italic>JCI Insight.</italic></source>
+<year>2018</year>;<volume>3</volume>(<issue>5</issue>): pii: 98960.
+<pub-id pub-id-type="doi">10.1172/jci.insight.98960</pub-id>
+<!--<pub-id pub-id-type="pmcid">5922293</pub-id>-->
+<pub-id pub-id-type="pmid">29515037</pub-id></mixed-citation></ref><ref id="R15"><label>15</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lipsett</surname><given-names>PA</given-names></name><name><surname>Swoboda</surname><given-names>SM</given-names></name><name><surname>Dickerson</surname><given-names>J</given-names></name><etal/></person-group>: <article-title>Survival and functional outcome after prolonged
+intensive care unit stay.</article-title>
+<source><italic>Ann Surg.</italic></source>
+<year>2000</year>;<volume>231</volume>(<issue>2</issue>):<fpage>262</fpage>&#x02013;<lpage>268</lpage>.
+<pub-id pub-id-type="doi">10.1097/00000658-200002000-00016</pub-id>
+<!--<pub-id pub-id-type="pmcid">1420995</pub-id>-->
+<pub-id pub-id-type="pmid">10674619</pub-id></mixed-citation></ref></ref-list></back><floats-group><table-wrap orientation="portrait" id="T1" position="float"><label>Table 1. </label><caption><title>Baseline demographic and clinical characteristics among critically ill HIV
+negative patients in Ugandan ICUs.</title></caption><table frame="hsides" rules="groups" content-type="article-table"><thead><tr><th align="left" rowspan="1" colspan="1">Variable</th><th align="left" rowspan="1" colspan="1">Patients, N (%) <xref rid="P24" ref-type="other">*</xref>
+</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Hospital </td><td rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;IHK</td><td align="left" rowspan="1" colspan="1">32 (24.6)</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;MNRH</td><td align="left" rowspan="1" colspan="1">70 (53.9)</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;NHL</td><td align="left" rowspan="1" colspan="1">25 (19.2)</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;UHI</td><td align="left" rowspan="1" colspan="1">3 (2.3)</td></tr><tr><td align="left" rowspan="1" colspan="1">Gender </td><td rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;Male </td><td align="left" rowspan="1" colspan="1">79 (60.8)</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;Female </td><td align="left" rowspan="1" colspan="1">50 (38.5)</td></tr><tr><td align="left" rowspan="1" colspan="1">Age in years <xref rid="P24" ref-type="other">&#x02020;</xref>
+</td><td align="left" rowspan="1" colspan="1">45&#x000b1;18</td></tr><tr><td align="left" rowspan="1" colspan="1">Ethnicity </td><td rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;Black </td><td align="left" rowspan="1" colspan="1">122 (93.8)</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;Asian </td><td align="left" rowspan="1" colspan="1">3 (2.3)</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;Caucasian </td><td align="left" rowspan="1" colspan="1">2 (1.5)</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;Not
+disclosed </td><td align="left" rowspan="1" colspan="1">3 (2.3)</td></tr><tr><td align="left" rowspan="1" colspan="1">Family income </td><td rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;Above $1 a
+day</td><td align="left" rowspan="1" colspan="1">65 (50)</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;Below $1 a
+day </td><td align="left" rowspan="1" colspan="1">59 (45.4)</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;Not
+disclosed </td><td align="left" rowspan="1" colspan="1">6 (4.6)</td></tr><tr><td align="left" rowspan="1" colspan="1">Employment status </td><td rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;Professional
+Job </td><td align="left" rowspan="1" colspan="1">35 (26.9)</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;Self
+employed </td><td align="left" rowspan="1" colspan="1">60 (46.2)</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;Unemployed </td><td align="left" rowspan="1" colspan="1">31 (23.9)</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;Others</td><td align="left" rowspan="1" colspan="1">4 (3)</td></tr><tr><td align="left" rowspan="1" colspan="1">Education status </td><td rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;
+University/tertiary </td><td align="left" rowspan="1" colspan="1">54 (41.5)</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0; Secondary </td><td align="left" rowspan="1" colspan="1">33 (25.4)</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0; Primary </td><td align="left" rowspan="1" colspan="1">34 (26.2)</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0; None </td><td align="left" rowspan="1" colspan="1">5 (3.9)</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0; Not
+disclosed </td><td align="left" rowspan="1" colspan="1">4 (3.1)</td></tr><tr><td align="left" rowspan="1" colspan="1">Smoking status </td><td rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0; Smoker </td><td align="left" rowspan="1" colspan="1">9 (6.9)</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0; Non-smoker </td><td align="left" rowspan="1" colspan="1">115 (88.5)</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0; Not
+disclosed </td><td align="left" rowspan="1" colspan="1">6 (4.6)</td></tr><tr><td align="left" rowspan="1" colspan="1">CD4 cell count time </td><td rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;At 0800
+h</td><td align="left" rowspan="1" colspan="1">90 (69.2)</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;At 1000
+h</td><td align="left" rowspan="1" colspan="1">37 (28.5)</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;Others </td><td align="left" rowspan="1" colspan="1">3 (2.3)</td></tr><tr><td align="left" rowspan="1" colspan="1">Time to death (days) <xref rid="P24" ref-type="other">&#x02020;</xref>
+</td><td align="left" rowspan="1" colspan="1">6.6&#x000b1;6.5</td></tr><tr><td align="left" rowspan="1" colspan="1">Status at 28 days </td><td rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;Alive </td><td align="left" rowspan="1" colspan="1">93 (71.5)</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;Dead </td><td align="left" rowspan="1" colspan="1">37 (28.5)</td></tr><tr><td align="left" rowspan="1" colspan="1">Admission source </td><td rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;Operating
+theatre </td><td align="left" rowspan="1" colspan="1">48 (36.9)</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;Medical
+wards </td><td align="left" rowspan="1" colspan="1">16 (12.3)</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;Obstetrics </td><td align="left" rowspan="1" colspan="1">2 (1.5)</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;Surgical
+wards </td><td align="left" rowspan="1" colspan="1">12 (9.2)</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;Private
+wing </td><td align="left" rowspan="1" colspan="1">3 (2.3)</td></tr></tbody></table><table-wrap-foot><fn id="TFN3"><p id="P24">*Unless indicated. &#x02020;Data given as mean &#x000b1; standard
+deviation.</p></fn></table-wrap-foot></table-wrap><table-wrap orientation="portrait" id="T2" position="float"><label>Table 2. </label><caption><title>Showing indications for admission to ICU among critically ill HIV negative
+patients in Ugandan ICUs.</title></caption><table frame="hsides" rules="groups" content-type="article-table"><thead><tr><th align="left" rowspan="1" colspan="1">Variable</th><th align="left" rowspan="1" colspan="1">Patients, n (%)</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Post-operative care </td><td align="left" rowspan="1" colspan="1">60 (46.2)</td></tr><tr><td align="left" rowspan="1" colspan="1"> Central nervous system</td><td rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;Stroke </td><td align="left" rowspan="1" colspan="1">10 (7.7)</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;Seizures </td><td align="left" rowspan="1" colspan="1">12 (9.2)</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;Head injury </td><td align="left" rowspan="1" colspan="1">29 (22.3)</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;Altered
+mental status (unknown cause)</td><td align="left" rowspan="1" colspan="1">14 (10.8)</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;Cervical
+spine injury </td><td align="left" rowspan="1" colspan="1">2 (1.5)</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;Other
+neurological indication <xref rid="P25" ref-type="other">1</xref>
+</td><td align="left" rowspan="1" colspan="1">9 (6.9)</td></tr><tr><td align="left" rowspan="1" colspan="1">Cardiovascular </td><td rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;Heart
+failure with cardiogenic shock </td><td align="left" rowspan="1" colspan="1">4 (3.1)</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;Post
+cardiac arrest </td><td align="left" rowspan="1" colspan="1">8 (6.2)</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;Acute
+MI</td><td align="left" rowspan="1" colspan="1">1 (0.8)</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;Others
+<xref rid="P25" ref-type="other">2</xref>
+</td><td align="left" rowspan="1" colspan="1">5 (3.8)</td></tr><tr><td align="left" rowspan="1" colspan="1">Respiratory </td><td rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;General
+respiratory distress</td><td align="left" rowspan="1" colspan="1">35 (26.9)</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;Severe
+pneumonia </td><td align="left" rowspan="1" colspan="1">8 (6.2)</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;Others
+<xref rid="P25" ref-type="other">3</xref>
+</td><td align="left" rowspan="1" colspan="1">14 (10.8)</td></tr><tr><td align="left" rowspan="1" colspan="1">Gastrointestinal </td><td rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0; Gastro
+intestinal bleeding </td><td align="left" rowspan="1" colspan="1">6 (4.6)</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;
+Peritonitis </td><td align="left" rowspan="1" colspan="1">7 (5.4)</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0; Other
+<xref rid="P25" ref-type="other">4</xref>
+</td><td align="left" rowspan="1" colspan="1">5 (3.9)</td></tr><tr><td align="left" rowspan="1" colspan="1">Renal </td><td rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0; Acute
+renal failure </td><td align="left" rowspan="1" colspan="1">15 (11.5)</td></tr><tr><td align="left" rowspan="1" colspan="1">Infections </td><td rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0; CNS
+infections </td><td align="left" rowspan="1" colspan="1">3 (2.3)</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0; Cardiac </td><td align="left" rowspan="1" colspan="1">2 (1.5)</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;
+Respiratory infections </td><td align="left" rowspan="1" colspan="1">19 (14.6)</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0; Urinary
+tract infections </td><td align="left" rowspan="1" colspan="1">1 (0.8)</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;
+Gastrointestinal infections </td><td align="left" rowspan="1" colspan="1">7 (5.3)</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0; Soft
+tissue infections </td><td align="left" rowspan="1" colspan="1">2 (1.5)</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0; Blood
+stream</td><td align="left" rowspan="1" colspan="1">8 (6.2)</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0; Sepsis </td><td align="left" rowspan="1" colspan="1">26 (20)</td></tr><tr><td align="left" rowspan="1" colspan="1">Malnutrition </td><td align="left" rowspan="1" colspan="1">6 (4.6)</td></tr><tr><td align="left" rowspan="1" colspan="1">Tumors <xref rid="P25" ref-type="other">5</xref>
+</td><td align="left" rowspan="1" colspan="1">7 (5.4)</td></tr><tr><td align="left" rowspan="1" colspan="1">Trauma surgery </td><td align="left" rowspan="1" colspan="1">19 (14.6)</td></tr><tr><td align="left" rowspan="1" colspan="1">Scheduled surgery </td><td align="left" rowspan="1" colspan="1">18 (13.9)</td></tr><tr><td align="left" rowspan="1" colspan="1">Emergency surgery </td><td align="left" rowspan="1" colspan="1">16 (12.3)</td></tr><tr><td align="left" rowspan="1" colspan="1">Post-partum hemorrhage </td><td align="left" rowspan="1" colspan="1">3 (2.3)</td></tr><tr><td align="left" rowspan="1" colspan="1">Other indications </td><td align="left" rowspan="1" colspan="1">6 (4.6)</td></tr><tr><td align="left" rowspan="1" colspan="1">Comorbidities </td><td align="left" rowspan="1" colspan="1">12(9.2)</td></tr></tbody></table><table-wrap-foot><fn id="TFN4"><p id="P25"><sup>1</sup>Neurological diseases include brain tumors, cerebellar
+lesion.<sup>2</sup>Cardiac diseases include arrhythmias, pericardial
+effusion and myoma.<sup>3</sup>Respiratory diseases include aspiration
+pneumonia, bilateral pneumothorax, pulmonary embolism, pulmonary edema and
+other forms of chest trauma.<sup>4</sup>Gastrointestinal diseases include
+intestinal obstruction, liver disease, cholelithiasis, and hepatitis, Other
+indications include hemorrhage, burst abdomen, drug toxicity, electrolyte
+imbalance, sick sinus syndrome.<sup>5</sup>Include brain and lung
+tumors.</p></fn></table-wrap-foot></table-wrap><table-wrap orientation="portrait" id="T3" position="float"><label>Table 3. </label><caption><title>CD4 T cell counts among critically ill HIV-negative patients in Ugandan
+ICUs.</title></caption><table frame="hsides" rules="groups" content-type="article-table"><thead><tr><th align="left" rowspan="1" colspan="1">CD4 count, cells/mm <sup>3</sup>
+</th><th align="left" rowspan="1" colspan="1">Patients, n (%)</th><th align="left" rowspan="1" colspan="1">95 % CI</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Less than 100</td><td align="left" rowspan="1" colspan="1">4 (3.1)</td><td align="left" rowspan="1" colspan="1">0-6</td></tr><tr><td align="left" rowspan="1" colspan="1">100-499</td><td align="left" rowspan="1" colspan="1">67 (51.5)</td><td align="left" rowspan="1" colspan="1">42.8-60.3</td></tr><tr><td align="left" rowspan="1" colspan="1">500 and above </td><td align="left" rowspan="1" colspan="1">59 (45.4)</td><td align="left" rowspan="1" colspan="1">36.9-54.1</td></tr></tbody></table></table-wrap><table-wrap orientation="portrait" id="T4" position="float"><label>Table 4. </label><caption><title>Normal and low CD4 T cell counts among critically ill HIV negative patients
+in Ugandan ICUs.</title></caption><table frame="hsides" rules="groups" content-type="article-table"><thead><tr><th align="left" rowspan="2" valign="top" colspan="1">Variable</th><th align="center" colspan="2" rowspan="1">CD4 count (cells/mm
+<sup>3</sup>)</th><th align="left" rowspan="2" valign="top" colspan="1">P value <xref rid="P27" ref-type="other">*</xref>
+</th></tr><tr><th align="left" rowspan="1" colspan="1">Normal &#x02265; 500
+<break/>(N=59)</th><th align="left" rowspan="1" colspan="1">Low &#x0003c; 500 <break/>(N=71)</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Age, years <xref rid="P27" ref-type="other">&#x02020;</xref>
+</td><td align="left" rowspan="1" colspan="1">45.2&#x000b1;19.7</td><td align="left" rowspan="1" colspan="1">45.2&#x000b1;17.3</td><td align="left" rowspan="1" colspan="1">0.99</td></tr><tr><td align="left" rowspan="1" colspan="1">Outcome <xref rid="P27" ref-type="other">&#x02021;</xref>
+</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Alive </td><td align="left" rowspan="1" colspan="1">41 (69.5)</td><td align="left" rowspan="1" colspan="1">52 (73.2)</td><td align="left" rowspan="1" colspan="1">0.64</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Dead </td><td align="left" rowspan="1" colspan="1">18 (30.5)</td><td align="left" rowspan="1" colspan="1">19 (26.8)</td><td rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Time to death, days <xref rid="P27" ref-type="other">&#x02020;</xref>
+</td><td align="left" rowspan="1" colspan="1">6.4&#x000b1;6.6</td><td align="left" rowspan="1" colspan="1">6.7&#x000b1;6.6</td><td align="left" rowspan="1" colspan="1">0.91</td></tr><tr><td align="left" rowspan="1" colspan="1">ICU stay (survivors) <xref rid="P27" ref-type="other">&#x02020;</xref>
+</td><td align="left" rowspan="1" colspan="1">10.8&#x000b1;9.6</td><td align="left" rowspan="1" colspan="1">7.6&#x000b1;7.7</td><td align="left" rowspan="1" colspan="1">0.077</td></tr></tbody></table><table-wrap-foot><fn id="TFN5"><p id="P27">*For outcome, chi-squared test was used; for age, ICU stay and time
+to death, Student&#x02019;s t-test was used. &#x02020;Data given as
+mean&#x000b1;SD. &#x02021;Data given as n (%).</p></fn></table-wrap-foot></table-wrap><table-wrap orientation="portrait" id="T5" position="float"><label>Table 5. </label><caption><title>Multivariate analysis for relationship between CD4 and 28-day mortality among
+critically ill HIV negative patients admitted to ICUs in Kampala.</title></caption><table frame="hsides" rules="groups" content-type="article-table"><thead><tr><th align="left" rowspan="1" colspan="1">Variable </th><th align="left" rowspan="1" colspan="1">28-day mortality, n/N (%)</th><th align="left" rowspan="1" colspan="1">aOR (95%)</th><th align="left" rowspan="1" colspan="1">P value </th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Age</td><td rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">0.2 (0-1.4)</td><td align="left" rowspan="1" colspan="1">0.093</td></tr><tr><td align="left" rowspan="1" colspan="1">CD4 count</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;Normal (&#x02265;500 cells/mm
+<sup>3</sup>) </td><td align="left" rowspan="1" colspan="1">18/59 (30.5)</td><td align="left" rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;Low
+(&#x0003c;500 cells/mm <sup>3</sup>)</td><td align="left" rowspan="1" colspan="1">19/71 (26.8)</td><td align="left" rowspan="1" colspan="1">1 (0.4-2.4)</td><td align="left" rowspan="1" colspan="1">0.990</td></tr><tr><td align="left" rowspan="1" colspan="1"> Head injury</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;No</td><td align="left" rowspan="1" colspan="1">25/101 (24.8)</td><td align="left" rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;Yes</td><td align="left" rowspan="1" colspan="1">12/29 (41.4)</td><td align="left" rowspan="1" colspan="1">3.1 (1.1-8.8)</td><td align="left" rowspan="1" colspan="1">0.033</td></tr><tr><td align="left" rowspan="1" colspan="1">Sepsis</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;
+No</td><td align="left" rowspan="1" colspan="1">27/104 (26)</td><td align="left" rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;Yes</td><td align="left" rowspan="1" colspan="1">10/26 (38.5)</td><td align="left" rowspan="1" colspan="1">1.7 (0.6-5)</td><td align="left" rowspan="1" colspan="1">0.338</td></tr><tr><td align="left" rowspan="1" colspan="1">Gastrointestinal bleeding</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;No</td><td align="left" rowspan="1" colspan="1">3/6 (50)</td><td align="left" rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;Yes</td><td align="left" rowspan="1" colspan="1">3/6 (50)</td><td align="left" rowspan="1" colspan="1">3.7 (0.8-23.3)</td><td align="left" rowspan="1" colspan="1">0.167</td></tr><tr><td align="left" rowspan="1" colspan="1">Elective surgery</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;No</td><td align="left" rowspan="1" colspan="1">36/112 (32.1)</td><td align="left" rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;Yes</td><td align="left" rowspan="1" colspan="1">1/18 (5.6)</td><td align="left" rowspan="1" colspan="1">0.2 (0-1.4)</td><td align="left" rowspan="1" colspan="1">0.093</td></tr><tr><td align="left" rowspan="1" colspan="1">Admission source</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;Operating theatre</td><td align="left" rowspan="1" colspan="1">10/48 (20.8)</td><td align="left" rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;Medical wards</td><td align="left" rowspan="1" colspan="1">5/16 (31.3)</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;Obstetrics</td><td align="left" rowspan="1" colspan="1">1/2 (50)</td><td align="left" rowspan="1" colspan="1">4.5 (0.2-85.1)</td><td align="left" rowspan="1" colspan="1">0.311</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;Surgical wards</td><td align="left" rowspan="1" colspan="1">4/12 (33.3)</td><td align="left" rowspan="1" colspan="1">1.2 (0.2-6.2)</td><td align="left" rowspan="1" colspan="1">0.830</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;A&#x00026;E</td><td align="left" rowspan="1" colspan="1">12/42 (28.6)</td><td align="left" rowspan="1" colspan="1">0.8 (0.3-2.4)</td><td align="left" rowspan="1" colspan="1">0.716</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;Another hospital</td><td align="left" rowspan="1" colspan="1">5/16 (31.3)</td><td align="left" rowspan="1" colspan="1">8.5 (1.2-55.3)</td><td align="left" rowspan="1" colspan="1">0.026</td></tr></tbody></table><table-wrap-foot><fn id="TFN6"><p id="P29">aOR, adjusted odds ratio. In the model above, we adjusted for
+hospital, reasons for ICU admission, admission source and smoking
+history.</p></fn></table-wrap-foot></table-wrap><fig fig-type="figure" orientation="portrait" id="F1" position="float"><label>Figure 1. </label><caption><title>Receiver operator characteristic curve showing the feasibility of using CD4
+cell counts to predict 24-hour mortality as compared to APACHE II score among
+critically ill HIV-negative patients.</title></caption><graphic xlink:href="aasopenres-2-13997-g0000"/></fig></floats-group><sub-article id="REPORT26948" article-type="peer-review"><front-stub><article-id pub-id-type="doi">10.21956/aasopenres.13997.r26948</article-id><title-group><article-title>Reviewer response for version 1</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Wade</surname><given-names>Djibril</given-names></name><xref ref-type="aff" rid="A8">1</xref><role>Referee</role><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-1321-365X</contrib-id></contrib><aff id="A8">
+<label>1</label>IRESSEF (Institute of Research in Health, Epidemiological
+Surveillance and Training), Dakar, Senegal</aff></contrib-group><author-notes><fn fn-type="COI-statement" id="FN7"><p id="P39">
+<bold>Competing interests: </bold>No competing interests were disclosed.</p></fn></author-notes><pub-date pub-type="epub"><day>5</day><month>7</month><year>2019</year></pub-date><permissions><license xlink:href="http://creativecommons.org/licenses/by/4.0/"><license-p>This is an open access peer review report distributed under the terms
+of the Creative Commons Attribution Licence, which permits unrestricted use,
+distribution, and reproduction in any medium, provided the original work is
+properly cited.</license-p></license></permissions><custom-meta-group><custom-meta><meta-name>recommendation</meta-name><meta-value>approve-with-reservations</meta-value></custom-meta></custom-meta-group></front-stub><body><p id="P40">The article is well written and easily understandable. It deals with the use
+of CD4 T-cell counts as a surrogate marker for 28 days mortality in HIV negative
+patients which is really interesting and will bring a new usage of the CD4 T-cell
+count which was mainly used to monitor immune system monitoring in HIV-infected
+patients.</p><p id="P42"> I would just recommend adding reference to the studies&#x000a0;that
+established the normal values of CD4 T-cell counts in the Ugandan population
+(Nanzigu <italic>et al.</italic>, 2011<xref rid="R16" ref-type="bibr">1</xref>)
+where the 95% reference ranges for absolute CD4 count was 418 - 2105 cells/&#x000b5;L.
+In some countries mainly in resource-limited settings, people are exposed to a
+variety of infectious diseases and other conditions including stress that may affect
+CD4 count, and this is highly expected in patients attending ICUs. Given the normal
+values of CD4 counts in Uganda, my final recommendation will be to please adjust
+what you considered low CD4 counts.</p><p id="P43">I confirm that I have read this submission and believe that I have an
+appropriate level of expertise to confirm that it is of an acceptable scientific
+standard, however I have significant reservations, as outlined above.</p></body><back><ref-list><title>References</title><ref id="R16"><label>1</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Nanzigu</surname><given-names>S</given-names></name><name><surname>Waako</surname><given-names>P</given-names></name><name><surname>Petzold</surname><given-names>M</given-names></name><name><surname>Kiwanuka</surname><given-names>G</given-names></name><name><surname>Dungu</surname><given-names>H</given-names></name><name><surname>Makumbi</surname><given-names>F</given-names></name><name><surname>Gustafsson</surname><given-names>LL</given-names></name><name><surname>Eriksen</surname><given-names>J</given-names></name></person-group>: <article-title>CD4-T-Lymphocyte
+Reference Ranges in Uganda and Its Influencing Factors</article-title>. <source><italic>Laboratory Medicine</italic></source>.<year>2011</year>;<volume>42</volume>(<issue>2</issue>) :
+<fpage>94</fpage>-<lpage>101</lpage>
+<pub-id pub-id-type="doi">10.1309/LMFT0VCE1UGO9YGD</pub-id>
+</mixed-citation></ref></ref-list></back></sub-article><sub-article id="REPORT26831" article-type="peer-review"><front-stub><article-id pub-id-type="doi">10.21956/aasopenres.13997.r26831</article-id><title-group><article-title>Reviewer response for version 1</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Barugahare</surname><given-names>Banson</given-names></name><xref ref-type="aff" rid="A9">1</xref><role>Referee</role></contrib><aff id="A9">
+<label>1</label>Faculty of Science and Education, Busitema University, Tororo,
+Uganda</aff></contrib-group><author-notes><fn fn-type="COI-statement" id="FN8"><p id="P44">
+<bold>Competing interests: </bold>No competing interests were disclosed.</p></fn></author-notes><pub-date pub-type="epub"><day>16</day><month>4</month><year>2019</year></pub-date><permissions><license xlink:href="http://creativecommons.org/licenses/by/4.0/"><license-p>This is an open access peer review report distributed under the terms
+of the Creative Commons Attribution Licence, which permits unrestricted use,
+distribution, and reproduction in any medium, provided the original work is
+properly cited.</license-p></license></permissions><custom-meta-group><custom-meta><meta-name>recommendation</meta-name><meta-value>approve</meta-value></custom-meta></custom-meta-group></front-stub><body><p id="P45">I have reviewed the manuscript <italic>&#x0201c;Association between CD4 T
+cell counts and the immune status among adult critically ill HIV-negative
+patients in intensive care units in Uganda&#x0201d;. </italic>The finding that
+CD4 T cell counts were generally low among HIV-negative critically ill patients but
+did not predict ICU mortality is fundamental. This result calls for further
+immunological studies. Nevertheless, I would like to recommend the authors to review
+and make reference to the previous Ugandan population based CD4 normal value
+studies. This information is available from a couple of studies by Tugume <italic>et
+al.</italic> (1995<xref rid="R17" ref-type="bibr">1</xref>) and Lugada
+<italic>et al.</italic> (2004<xref rid="R18" ref-type="bibr">2</xref>). The
+background literature from these papers will inform the discussion and conclusion of
+this study to a more acceptable position than it is now.</p><p id="P46">I confirm that I have read this submission and believe that I have an
+appropriate level of expertise to confirm that it is of an acceptable scientific
+standard.</p></body><back><ref-list><title>References</title><ref id="R17"><label>1</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tugume</surname><given-names>SB</given-names></name><name><surname>Piwowar</surname><given-names>EM</given-names></name><name><surname>Lutalo</surname><given-names>T</given-names></name><name><surname>Mugyenyi</surname><given-names>PN</given-names></name><name><surname>Grant</surname><given-names>RM</given-names></name><name><surname>Mangeni</surname><given-names>FW</given-names></name><name><surname>Pattishall</surname><given-names>K</given-names></name><name><surname>Katongole-Mbidde</surname><given-names>E</given-names></name></person-group>: <article-title>Hematological
+reference ranges among healthy Ugandans.</article-title>
+<source><italic>Clin Diagn Lab Immunol</italic></source>.<year>1995</year>;<volume>2</volume>(<issue>2</issue>)
+:<fpage>233</fpage>-<lpage>5</lpage>
+<pub-id pub-id-type="pmid">7697535</pub-id></mixed-citation></ref><ref id="R18"><label>2</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lugada</surname><given-names>ES</given-names></name><name><surname>Mermin</surname><given-names>J</given-names></name><name><surname>Kaharuza</surname><given-names>F</given-names></name><name><surname>Ulvestad</surname><given-names>E</given-names></name><name><surname>Were</surname><given-names>W</given-names></name><name><surname>Langeland</surname><given-names>N</given-names></name><name><surname>Asjo</surname><given-names>B</given-names></name><name><surname>Malamba</surname><given-names>S</given-names></name><name><surname>Downing</surname><given-names>R</given-names></name></person-group>: <article-title>Population-based
+hematologic and immunologic reference values for a healthy Ugandan
+population.</article-title>
+<source><italic>Clin Diagn Lab Immunol</italic></source>.<year>2004</year>;<volume>11</volume>(<issue>1</issue>)
+:<fpage>29</fpage>-<lpage>34</lpage>
+<pub-id pub-id-type="pmid">14715541</pub-id></mixed-citation></ref></ref-list></back></sub-article><sub-article id="REPORT26753" article-type="peer-review"><front-stub><article-id pub-id-type="doi">10.21956/aasopenres.13997.r26753</article-id><title-group><article-title>Reviewer response for version 1</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>D&#x000fc;nser</surname><given-names>Martin W.</given-names></name><xref ref-type="aff" rid="A10">1</xref><role>Referee</role></contrib><aff id="A10">
+<label>1</label>Kepler University Hospital, Linz, Austria</aff></contrib-group><author-notes><fn fn-type="COI-statement" id="FN9"><p id="P47">
+<bold>Competing interests: </bold>No competing interests were disclosed.</p></fn></author-notes><pub-date pub-type="epub"><day>26</day><month>2</month><year>2019</year></pub-date><permissions><license xlink:href="http://creativecommons.org/licenses/by/4.0/"><license-p>This is an open access peer review report distributed under the terms
+of the Creative Commons Attribution Licence, which permits unrestricted use,
+distribution, and reproduction in any medium, provided the original work is
+properly cited.</license-p></license></permissions><custom-meta-group><custom-meta><meta-name>recommendation</meta-name><meta-value>approve-with-reservations</meta-value></custom-meta></custom-meta-group></front-stub><body><p id="P48">This is a very interesting work examining a novel aspect of intensive care
+medicine. The authors need to be commended for their efforts. Despite several
+positive aspects, I have some concerns and comments regarding the presented
+manuscript. Comments are enumerated in the order they appear in the text:</p><p id="P49"> &#x000a0; <list list-type="order" id="L1"><list-item><p id="P50">I suggest that the authors include a separate
+&#x0201c;Inclusion/Exclusion criteria&#x0201d; paragraph into the Methods
+section. In this paragraph, they need to be clear about the criteria
+used.&#x000a0;</p></list-item><list-item><p id="P51">One of, if not the most, important comments is that the authors
+explain how they determined negative HIV-status. Was this always done by
+negative HIV testing? Which test was used? Please give specific details
+about this as it is key for your argumentation that you included only
+HIV negative patients.&#x000a0;</p></list-item><list-item><p id="P52">Methods section, Study background paragraph: Please re-phrase
+the sentence that participants gave written informed consent on behalf
+of their critically ill patients. Did you mean that the next of kin gave
+written informed consent on behalf of their critically ill
+relatives?&#x000a0;</p></list-item><list-item><p id="P53">It is unclear how the authors performed a sample size
+calculation for two groups if they designed a cohort study which
+included only one arm. This is not possible. Please clarify or
+omit.&#x000a0;</p></list-item><list-item><p id="P54">Please clearly describe your primary and secondary study
+endpoint in the Methods section (e.g. the Statistical Analysis
+paragraph).&#x000a0;</p></list-item><list-item><p id="P55">Table 1: In the text it is given that the CD4 count was
+determined between 8 and 10 am. In Table 1 it is given that the CD4
+count was measured at 8 or 10 am. Please clarify. After all, why is it
+important whether CD4 count is determined at 8 or 10 am?&#x000a0;</p></list-item><list-item><p id="P56">Table 2: Please indicate n (%) for all summary diagnoses (e.g.
+Central nervous system, cardiovascular, respiratory, etc.). Furthermore,
+please specify 'general respiratory distress' (which is a very broad
+term) and 'cardiac'.&#x000a0;</p></list-item><list-item><p id="P57">Results, page 5, first paragraph, last one before&#x000a0;sentence:
+Please re-phrase as it is difficult to read.&#x000a0;</p></list-item><list-item><p id="P58">Results, page 5, subheading &#x0201c;Relationship between
+[&#x02026;]&#x0201d;. The paragraph suggests that you tested an
+association (multivariate analysis) and not a relationship.&#x000a0;</p></list-item><list-item><p id="P59">Table 3: What do you think about changing Table 3 into a
+scatterblot figure?</p></list-item><list-item><p id="P60">Table 5: Did you include age as a binary variable? Why is the OR
+below one for age? The higher the age the lower the mortality? This does
+not make sense. The OR (CI95%) for medical wards is not given.&#x000a0;</p></list-item><list-item><p id="P61">Since CD4 count was only determined at a single time point after
+ICU admission, it is unclear how the dynamics of this parameter is. Do
+you have data to analyse the association between CD4 count and the
+duration of hospital stay or disease duration before ICU
+admission?&#x000a0;&#x000a0;</p></list-item><list-item><p id="P62">Figure 1 simply shows that both APACHE II and the CD4 count are
+useless for prediction of 24-hour mortality. This could be mentioned in
+the text but does not deserve presentation in a figure. Please omit.
+Moreover, prediction of 24-hour mortality is not a common goal in
+intensive care medicine. From the point of view of this reviewer, APACHE
+II is not validated to predict mortality at this early stage of critical
+illness.&#x000a0;</p></list-item><list-item><p id="P63">The limitation that this is a single centre study and that it is
+unclear whether its results can be extrapolated to other centres and
+regions should be mentioned.&#x000a0;</p></list-item><list-item><p id="P64">The conclusion paragraph of the text is too low and partly not
+supported by the results of the study. Please rephrase the conclusion
+paragraph of BOTH the abstract and the main text to: &#x0201c;In this
+HIV-negative critically ill population, CD4 count was &#x0003c;500
+cells/mm&#x000b3; in 51.5% of patients. We found no association between the
+CD4 count and mortality at day 28.&#x0201d;&#x000a0;</p></list-item><list-item><p id="P65">Overall, the manuscript would benefit from proof reading by a
+native English Speaker.</p></list-item></list>
+</p><p id="P66">I confirm that I have read this submission and believe that I have an
+appropriate level of expertise to confirm that it is of an acceptable scientific
+standard, however I have significant reservations, as outlined above.</p></body></sub-article></article>

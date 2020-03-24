@@ -1,0 +1,681 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">3 Biotech</journal-id><journal-id journal-id-type="iso-abbrev">3 Biotech</journal-id><journal-title-group><journal-title>3 Biotech</journal-title></journal-title-group><issn pub-type="epub">2190-5738</issn><publisher><publisher-name>Springer Berlin Heidelberg</publisher-name><publisher-loc>Berlin/Heidelberg</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">28330202</article-id><article-id pub-id-type="pmc">4909020</article-id><article-id pub-id-type="publisher-id">434</article-id><article-id pub-id-type="doi">10.1007/s13205-016-0434-6</article-id><article-categories><subj-group subj-group-type="heading"><subject>Original Article</subject></subj-group></article-categories><title-group><article-title>Impact of various media and organic
+carbon sources on biofuel production potential from <italic>Chlorella</italic> spp.</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Sharma</surname><given-names>Amit Kumar</given-names></name><address><phone>+91-9634800400</phone><email>amit.orgchemistry@gmail.com</email></address><xref ref-type="aff" rid="Aff1">1</xref></contrib><contrib contrib-type="author" corresp="yes"><name><surname>Sahoo</surname><given-names>Pradeepta Kumar</given-names></name><address><phone>+91-9997110710</phone><email>pksahoo.iitd@gmail.com</email></address><xref ref-type="aff" rid="Aff1">1</xref></contrib><contrib contrib-type="author"><name><surname>Singhal</surname><given-names>Shailey</given-names></name><address><phone>+91-9412480972</phone><email>shailey@ddn.upes.ac.in</email></address><xref ref-type="aff" rid="Aff2">2</xref></contrib><contrib contrib-type="author"><name><surname>Patel</surname><given-names>Alok</given-names></name><address><phone>+91-9675453418</phone><email>biotechalok@gmail.com</email></address><xref ref-type="aff" rid="Aff3">3</xref></contrib><aff id="Aff1"><label>1</label>Biofuel Research Laboratory, Institute of Alternative Energy
+Research, University of Petroleum and Energy Studies, Bidholi, Dehradun, Uttrakhand 248007 India </aff><aff id="Aff2"><label>2</label>Department of Chemistry, University of Petroleum and Energy Studies, Bidholi, Dehradun, Uttrakhand 248007 India </aff><aff id="Aff3"><label>3</label>Department of Biotechnology, Molecular Microbiology Laboratory, IIT Roorkee, Roorkee, 247667 India </aff></contrib-group><pub-date pub-type="epub"><day>31</day><month>5</month><year>2016</year></pub-date><pub-date pub-type="pmc-release"><day>31</day><month>5</month><year>2016</year></pub-date><pub-date pub-type="ppub"><month>12</month><year>2016</year></pub-date><volume>6</volume><issue>2</issue><elocation-id>116</elocation-id><history><date date-type="received"><day>29</day><month>2</month><year>2016</year></date><date date-type="accepted"><day>24</day><month>5</month><year>2016</year></date></history><permissions><copyright-statement>&#x000a9; The Author(s) 2016</copyright-statement><license license-type="OpenAccess"><license-p>
+<bold>Open Access</bold>This article is distributed under the
+terms of the Creative Commons Attribution 4.0 International License (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>), which permits unrestricted use, distribution, and reproduction in
+any medium, provided you give appropriate credit to the original author(s) and the
+source, provide a link to the Creative Commons license, and indicate if changes
+were made.</license-p></license></permissions><abstract id="Abs1"><p>In this study, five <italic>Chlorella
+species</italic> (<italic>Chlorella vulgaris</italic>,
+<italic>Chlorella minutissima</italic>, <italic>Chlorella pyrenoidosa</italic>, <italic>Chlorella</italic>
+sp.1 and <italic>Chlorella</italic> sp.2) were grown in various
+nutrient medium including BG-11, BBM, Fog&#x02019;s medium and M<sub>4</sub>N
+medium for the evolution of biomass and lipid production potential. Among the tested
+medium, BG-11 was found most economical and efficient medium for all <italic>Chlorella</italic> species. To see the impact of organic carbon
+sources on lipid production potential, all microalgae species were also cultured in
+selected medium (BG-11) with different organic carbon sources like glucose,
+glycerol, sodium acetate, and sucrose under mixotrophic condition. The results
+showed that all <italic>Chlorella</italic> species performs better
+under mixotrophic condition, but <italic>Chlorella
+vulgaris</italic> achieved maximum lipid productivity (3.5 folds higher) in
+glycerol supplemented culture medium than control medium among all species.</p><sec><title>Electronic supplementary material</title><p>The online version of this article (doi:10.1007/s13205-016-0434-6) contains supplementary material, which is available to authorized
+users.</p></sec></abstract><kwd-group xml:lang="en"><title>Keywords</title><kwd><italic>Chlorella</italic> sp.</kwd><kwd>Culture medium</kwd><kwd>Organic carbon sources</kwd><kwd>Lipid production</kwd><kwd>Biofuel</kwd></kwd-group><funding-group><award-group><funding-source><institution> university of petroleum and energy studies </institution></funding-source></award-group></funding-group><custom-meta-group><custom-meta><meta-name>issue-copyright-statement</meta-name><meta-value>&#x000a9; The Author(s) 2016</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec id="Sec1"><title>Introduction</title><p>Current research scenario has been focused on sustainable and
+renewable biofuels due to depletion of world crude oil reserves and hike in fossil
+fuels prices (Williams et al. <xref ref-type="bibr" rid="CR33">2009</xref>;
+Sajid et al. <xref ref-type="bibr" rid="CR28">2016</xref>). Among various
+sources of renewable energy, microalgae are getting more attention as liquid
+(biodiesel and bioethanol) and gaseous (biogas and hydrogen) sources of renewable
+fuels (Prajapati et al. <xref ref-type="bibr" rid="CR26">2014</xref>).
+Microalgae has various advantages over other sources, such as having high lipid
+productivity, devoid of any seasonal changes, less water and land requirement and
+greater photosynthetic efficiency, which make it more sustainable. Besides
+autotrophic growth, microalgae also grow well on various cheap carbon sources such
+as wastewater (Prajapati et al. <xref ref-type="bibr" rid="CR25">2013</xref>),
+in hetrotrophic mode.</p><p>Cultivation condition of microalgae affects both the biomass and lipid
+productivity along with cost-effectiveness. The composition of nutrient media
+(Nitrogen, carbon, phosphorus and trace metals) is one of the most significant
+factors that affect growth parameter and biochemical composition of microalgae (Lam
+and Lee <xref ref-type="bibr" rid="CR19">2012</xref>; Li et al. <xref ref-type="bibr" rid="CR20">2012</xref>; Prathima Devi et al. <xref ref-type="bibr" rid="CR27">2012</xref>; Wang et al. <xref ref-type="bibr" rid="CR32">2014</xref>; Lin and Wu <xref ref-type="bibr" rid="CR21">2015</xref>). The effect of different media composition (Allen medium,
+Bold&#x02019;s Basal Medium, BG-11 medium, F&#x02013;Si medium, SK medium, Walne&#x02019;s medium) on growth
+rate and lipid accumulation of <italic>C. pyrenoidosa</italic> was
+studied by Wang et al. (<xref ref-type="bibr" rid="CR32">2014</xref>) and found
+F&#x02013;Si medium is the best and most economical medium for <italic>C.
+pyrenoidosa</italic> under outdoor conditions (Wang et al. <xref ref-type="bibr" rid="CR32">2014</xref>). Huerlimann et al. cultured <italic>Isochrysis</italic> sp., <italic>Nannochloropsis</italic> sp., <italic>Tetraselmis</italic>
+sp., and <italic>Rhodomonas</italic> sp. microalgae species in
+three growth medium (L1, f/2, and K-medium) to study the differences in biomass
+yield, lipid content and lipid productivity. Hence, it is necessitated to
+investigate and select suitable medium and nutrient level for the cultivation of
+microalgae with rapid growth and higher lipid content (Huerlimann et al.
+<xref ref-type="bibr" rid="CR14">2010</xref>). In addition, it was also
+reported that biomass and lipid production of microalgae is also greatly affected by
+different carbon sources and concentration (Cheirsilp and Torpee <xref ref-type="bibr" rid="CR2">2012</xref>; Lam and Lee <xref ref-type="bibr" rid="CR19">2012</xref>; Gim et al. <xref ref-type="bibr" rid="CR10">2014</xref>;
+Choi and Yu <xref ref-type="bibr" rid="CR4">2015</xref>). The mixotrophic
+cultivation, using both organic and inorganic (CO<sub>2</sub>) carbon
+sources in presence of light, is a good strategy to obtain large biomass and higher
+lipid content (Gao et al. <xref ref-type="bibr" rid="CR9">2010</xref>;
+Bhatnagar et al. <xref ref-type="bibr" rid="CR1">2011</xref>; Choi and Yu
+<xref ref-type="bibr" rid="CR4">2015</xref>; Lin and Wu <xref ref-type="bibr" rid="CR21">2015</xref>).</p><p>The aim of this study is to select and modify growth medium for
+enhancing biomass and lipid production of <italic>Chlorella
+vulgaris</italic>, <italic>Chlorella minutissima</italic>,
+<italic>Chlorella pyrenoidosa</italic>, <italic>Chlorella</italic> sp. 1 and <italic>Chlorella</italic> sp. 2
+towards biodiesel production. First, to identify suitable medium, all <italic>Chlorella</italic> species were grown in BG-11, BBM, Fogg&#x02019;s medium
+and M<sub>4</sub>N. Then, to study the effect of different carbon
+sources (Fructose, Glycerol, Glucose and Sodium acetate) on growth and lipid
+content, all the five <italic>Chlorella</italic> species were
+cultivated in BG-11 nutrient medium under mixotrophic condition.</p></sec><sec id="Sec2"><title>Material and methodology</title><sec id="Sec3"><title>Microalgae strain and pre-cultivation conditions</title><p>Pure cultures of <italic>Chlorella
+vulgaris</italic>, <italic>Chlorella minutissima</italic>,
+<italic>Chlorella pyrenoidosa</italic> and <italic>Chlorella</italic> sp. <italic>2</italic> were
+procured from Vivekananda Institute of Algal Technology (VIAT), Chennai (India);
+Centre for Conservation and Utilization of Blue Green Algae, IARI New Delhi
+(India), National Collection of Industrial Microorganisms (NCIM), National
+Chemical Laboratory, Pune (India) and Yogi Vemana University, Vemanapuram, Kadapa,
+Andhra Pradesh, India, respectively. A microalgal species was also collected from
+a pond nearby the area of Dehradun, Uttarakhand and purified at agar plates by
+standard protocol (Guillard <xref ref-type="bibr" rid="CR12">2005</xref>). It
+was identified morphologically as <italic>Chlorella</italic> sp.
+and is represented here as &#x0201c;<italic>Chlorella</italic> sp.
+1<italic>&#x0201d;</italic>, whereas algae procured from Yogi Vemana
+University, Vemanapuram, Kadapa, Andhra Pradesh, is represented as &#x0201c;<italic>Chlorella</italic> sp. 2&#x0201d; in this study. The stock cultures of
+all the strains were maintained regularly on agar slants using sterilized BBM
+medium (with initial pH of 6.8) under laboratory conditions at 24&#x000a0;&#x000b0;C (&#x000b1;1&#x000a0;&#x000b0;C) under
+(~2500&#x000a0;lx) light intensity and 16/8 light dark cycle. All the strains were
+transferred from agar slant into a liquid medium and incubated under the same
+conditions of temperature and light in photobioreactor. Liquid cultures were used
+as the inoculum for the designed experiments. The morphology of pure strains was
+regularly examined under an optical microscope and photographed by a Nikon Eclipse
+Ci-E microscope (serial no. 59E05).</p></sec><sec id="Sec4"><title>Screening and identification of efficient growth media for maximum lipid
+productivity</title><p>The growth performance and lipid productivity of microalgae is
+highly influenced by the composition of medium used for cultivation. Four media
+that have been used for photoautotrophic culture of <italic>Chlorella</italic> species include Bold&#x02019;s basal medium (BBM), BG-11, Fog&#x02019;s
+medium and M4N.</p><p>
+<italic>Bold&#x02019;s basal medium</italic> (Ilavarasi et al.
+<xref ref-type="bibr" rid="CR15">2011</xref>); NaNO<sub>3</sub>
+250&#x000a0;mg/L, K<sub>2</sub>HPO<sub>4</sub> 75&#x000a0;mg/L,
+MgSO<sub>4</sub>.7H2O 75&#x000a0;mg/L,
+CaCl<sub>2</sub>.2H<sub>2</sub>O 25&#x000a0;mg/L,
+KH<sub>2</sub>PO<sub>4</sub> 175&#x000a0;mg/L, NaCl
+25&#x000a0;mg/L<sup>,</sup> Alkaline EDTA solution 1&#x000a0;mg/L (Alkaline EDTA
+solution: 5&#x000a0;g Na<sub>2</sub>-EDTA and 3.1&#x000a0;g KOH in 100&#x000a0;ml distilled
+water), Acidified Iron solution 1&#x000a0;mg/L (Acidified Iron solution
+FeSO<sub>4</sub>.7H2O .498&#x000a0;g and 0.1&#x000a0;ml
+H<sub>2</sub>SO<sub>4</sub> in 100&#x000a0;ml distilled water)
+Trace metal solution 1&#x000a0;ml/L (Trace metal solution:
+MnCl<sub>2</sub>.4H<sub>2</sub>O 1.44&#x000a0;g/L,
+ZnSO<sub>4</sub>.7H<sub>2</sub>O 8.82&#x000a0;g/L,
+(NH<sub>4</sub>)<sub>6</sub>
+Mo<sub>7</sub>O<sub>24</sub>.2H<sub>2</sub>O
+0.88&#x000a0;g/L,
+Co(NO<sub>3</sub>)<sub>2</sub>.6H<sub>2</sub>O
+0.49&#x000a0;g/L, CuSO<sub>4</sub>.5 H<sub>2</sub>O
+1.57&#x000a0;g/L).</p><p>
+<italic>BG-11 medium</italic> (Ilavarasi et al. <xref ref-type="bibr" rid="CR15">2011</xref>); NaNO<sub>3</sub> 1500&#x000a0;mg/L,
+K<sub>2</sub>HPO<sub>4</sub>
+40&#x000a0;mg/L<sup>,</sup> MgSO<sub>4</sub>.7H2O 75&#x000a0;mg/L,
+CaCl<sub>2</sub>.2H<sub>2</sub>O 36&#x000a0;mg/L, Citric acid
+6&#x000a0;mg/L, Trace metal solution 1&#x000a0;ml/L (Trace metal solution:
+FeC<sub>6</sub>H<sub>5</sub>O<sub>7</sub>.NH<sub>4</sub>OH
+6&#x000a0;g/L, Na<sub>2</sub>-EDTA 1&#x000a0;g/L,
+MnCl<sub>2</sub>.4H<sub>2</sub>O 1.81&#x000a0;g/L,
+ZnSO<sub>4</sub>.7H<sub>2</sub>O 0.222&#x000a0;g/L,
+Na<sub>2</sub>
+MoO<sub>4</sub>.2H<sub>2</sub>O 0.39&#x000a0;g/L,
+CuSO<sub>4</sub>.5H<sub>2</sub>O 0.08&#x000a0;mg/L,
+H<sub>3</sub>BO<sub>3</sub> 2.86&#x000a0;g/L.</p><p>
+<italic>Fog medium</italic> (Kothari et al. <xref ref-type="bibr" rid="CR17">2012</xref>); KNO<sub>3</sub> 2000&#x000a0;mg/L,
+K<sub>2</sub>HPO<sub>4</sub> 200&#x000a0;mg/L,
+MgSO<sub>4</sub>.7H2O 200&#x000a0;mg/L,
+CaCl<sub>2</sub>.2H<sub>2</sub>O 100&#x000a0;mg/L, Fe-EDTA
+solution 5&#x000a0;ml/L (Fe-EDTA solution: 745&#x000a0;mg Na<sub>2</sub>-EDTA and
+557&#x000a0;mg FeSO<sub>4</sub>.7H<sub>2</sub>O in 100&#x000a0;ml
+distilled water), Trace metal solution 1&#x000a0;ml/L (Trace metal solution:
+H<sub>3</sub>BO<sub>3</sub> 2.86&#x000a0;g/L,
+MnCl<sub>2</sub>.4H<sub>2</sub>O 1.81&#x000a0;g/L,
+ZnSO<sub>4</sub>.7H<sub>2</sub>O 0.222&#x000a0;g/L,
+Na<sub>2</sub>
+MoO<sub>4</sub>-2H<sub>2</sub>O 0.39&#x000a0;g/L,
+CuSO<sub>4</sub>.5H<sub>2</sub>O 0.08&#x000a0;g/L,).</p><p>
+<italic>M</italic>
+<sub><italic>4</italic></sub>
+<italic>N medium</italic> (Yanagi et al. <xref ref-type="bibr" rid="CR34">1995</xref>); KNO<sub>3</sub> 5000&#x000a0;mg/L,
+K<sub>2</sub>HPO<sub>4</sub> 1250&#x000a0;mg/L,
+MgSO<sub>4</sub>.7H<sub>2</sub>O 25000&#x000a0;mg/L,
+CaCl<sub>2</sub>.2H<sub>2</sub>O 100&#x000a0;mg/L,
+FeSO<sub>4</sub>.7H<sub>2</sub>O 30&#x000a0;mg/L, Trace metal
+solution 1&#x000a0;ml/L (Trace metal solution:,
+MnCl<sub>2</sub>.4H<sub>2</sub>O 1.81&#x000a0;g/L,
+ZnSO<sub>4</sub>.7H<sub>2</sub>O 0.222&#x000a0;g/L,
+Na<sub>2</sub>MoO<sub>4</sub>.2H<sub>2</sub>O
+0.39&#x000a0;g/L, CuSO<sub>4</sub>.5H<sub>2</sub>O 0.08&#x000a0;g/L,
+H<sub>3</sub>BO<sub>3</sub> 2.86&#x000a0;g/L).</p><p>All the <italic>Chlorella species</italic> were
+cultured in 250&#x000a0;ml Erlenmeyer flasks containing 125&#x000a0;ml liquid using above four
+nutrient media composition under cool florescent light (~2500&#x000a0;lx) at 24&#x000a0;&#x000b0;C (&#x000b1;1&#x000a0;&#x000b0;C)
+and 16:8 light dark cycle in a photo bioreactor.</p></sec><sec id="Sec5"><title>Effect of organic carbon sources on biomass production and lipid
+accumulation</title><p>Ignoring CO<sub>2</sub> in air, the effect of different
+organic carbon sources like glucose, glycerol, sodium acetate, and sucrose) was
+also tested with selected BG-11 growth media. Carbon content of different organic
+sources was kept same (0.5&#x000a0;g/L) during the experiment. Sterile media was used
+during whole experiment. The experiments were conducted at room temperature
+(~22&#x02013;30&#x000a0;&#x000b0;C) under cool white, fluorescent light for 14&#x000a0;days. 1&#x000a0;l bottle was used
+as a lab scale photobioreactor. Working volume of photobioreactor was kept 600&#x000a0;ml
+with 10&#x000a0;% (v/v) inoculum. The photoperiod was set 16:8 light: dark period with
+fluorescent illumination of ~3000&#x000a0;lx. The culture was aerated (200&#x000a0;ml/min) by
+aquarium pump to avoid settling of microalgal biomass. The experiment was
+performed for 14&#x000a0;days at batch scale. Initial pH of medium was adjusted to be
+7.0.</p></sec><sec id="Sec6"><title>Analytical methods</title><sec id="Sec7"><title>Cultivation parameters</title><p>Microalgae growth was determined by measuring the optical density
+at 680&#x000a0;nm (OD680) using UV&#x02013;visible spectrophotometer (Thermo Scientific) daily
+and related to algal biomass (g/L). For biomass estimation 10&#x000a0;ml sample
+containing algae was filtered through pre-weighted Whatman GF/C glass fiber
+filter and dried in oven at 60&#x000a0;&#x000b0;C until constant weight. The dry weight of algae
+is determined by subtracting from final weight of whatman GF/C glass fiber
+filter with algae to initial weight.</p><p>The biomass productivity P (mg/L/day) was calculated by following
+equation:<disp-formula id="Equ1"><label>1</label><alternatives><tex-math id="M1">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$P = \frac{{{\text{W}}_{2} - {\text{W}}_{1} }}{t}$$\end{document}</tex-math><mml:math id="M2" display="block"><mml:mrow><mml:mi>P</mml:mi><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:msub><mml:mtext>W</mml:mtext><mml:mn>2</mml:mn></mml:msub><mml:mo>-</mml:mo><mml:msub><mml:mtext>W</mml:mtext><mml:mn>1</mml:mn></mml:msub></mml:mrow><mml:mi>t</mml:mi></mml:mfrac></mml:mrow></mml:math><graphic xlink:href="13205_2016_434_Article_Equ1.gif" position="anchor"/></alternatives></disp-formula>where, W<sub>1</sub> was the initial biomass
+concentration, W<sub>2</sub> was the biomass concentration at the
+last day of cultivation, <italic>t</italic> was the
+cultivation time.</p></sec><sec id="Sec8"><title>Lipid extraction and measurement</title><p>Lipid was extracted by applying Folch extraction method (Folch et
+al. <xref ref-type="bibr" rid="CR7">1957</xref>). According to this method,
+a weighted amount of biomass (0.250&#x000a0;mg) was dissolved in 5&#x000a0;ml
+chloroform/methanol (2:1 v/v) and vortex for 30&#x000a0;s. This was followed by
+agitating the mixture for 15&#x02013;20&#x000a0;min at room temperature. The mixture was then
+centrifuged at 8000&#x000a0;rpm for 10&#x000a0;min to separate cell debris from supernatant.
+This supernatant was washed by 0.9&#x000a0;% NaCl solution and vortex for few seconds.
+The mixture was centrifuged at 3000&#x000a0;rpm for 5&#x000a0;min. Lower chloroform layer with
+lipid was removed carefully and collected in 20&#x000a0;ml pre-weighted glass vial. The
+residue was re-extracted with 2.5&#x000a0;ml chloroform/methanol (1:1 v/v) thrice as
+stated above. The supernatant was collected in same vial. The solvent was then
+dried at 65&#x000a0;&#x000b0;C in oven until constant weight of lipid was achieved. The lipid
+content was calculated gravimetrically. The lipid productivity (mg/L/d) was
+calculated by the following equation:<disp-formula id="Equ2"><label>2</label><alternatives><tex-math id="M3">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\text{Lipid}}\;{\text{productivity}} = \frac{{{\text{Lipid}}\;{\text{content}}_{t} \times {\text{W}}_{1} - {\text{Lipid}}\;{\text{content}}_{0} \times {\text{W}}_{2} }}{t} \times 1000$$\end{document}</tex-math><mml:math id="M4" display="block"><mml:mrow><mml:mtext>Lipid</mml:mtext><mml:mspace width="0.277778em"/><mml:mtext>productivity</mml:mtext><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:mtext>Lipid</mml:mtext><mml:mspace width="0.277778em"/><mml:msub><mml:mtext>content</mml:mtext><mml:mi>t</mml:mi></mml:msub><mml:mo>&#x000d7;</mml:mo><mml:msub><mml:mtext>W</mml:mtext><mml:mn>1</mml:mn></mml:msub><mml:mo>-</mml:mo><mml:mtext>Lipid</mml:mtext><mml:mspace width="0.277778em"/><mml:msub><mml:mtext>content</mml:mtext><mml:mn>0</mml:mn></mml:msub><mml:mo>&#x000d7;</mml:mo><mml:msub><mml:mtext>W</mml:mtext><mml:mn>2</mml:mn></mml:msub></mml:mrow><mml:mi>t</mml:mi></mml:mfrac><mml:mo>&#x000d7;</mml:mo><mml:mn>1000</mml:mn></mml:mrow></mml:math><graphic xlink:href="13205_2016_434_Article_Equ2.gif" position="anchor"/></alternatives></disp-formula>where Lipid content<sub>t</sub> was the lipid content at
+the last day of cultivation and Lipid content<sub>0</sub> was the
+initial lipid content in algal cells.</p></sec><sec id="Sec9"><title>Fatty acid profile analysis</title><p>Fatty acid extracted by Folch method was converted to their
+methyl esters by transesterification. Lipid was dissolved in 1&#x000a0;ml of 1&#x000a0;% NaOH in
+CH<sub>3</sub>OH and heated for 55&#x000a0;&#x000b0;C for 15&#x000a0;min. Then, 2&#x000a0;ml of
+5&#x000a0;% methanolic HCl was added and again heated for 15&#x000a0;min at 55&#x000a0;&#x000b0;C. The obtained
+product mixture was washed with distilled water. Fatty acid methyl esters (FAME)
+were extracted using 1&#x000a0;ml hexane thrice and evaporated to dryness (Kumari et al.
+<xref ref-type="bibr" rid="CR18">2011</xref>). FAME was re-dissolved in
+200&#x000a0;&#x000b5;l hexane and analyzed using a Gas chromatograph (Nucon 5700 series)
+equipped with Flame ionization detector (FID) using EOX column (serial no 5061;
+30&#x000a0;m&#x000a0;&#x000d7;&#x000a0;0.25&#x000a0;mm&#x000a0;&#x000d7;&#x000a0;0.25&#x000a0;&#x000b5;m). Pure Nitrogen (99.999&#x000a0;%) used as carrier gas with a
+flow rate of 1&#x000a0;ml/min and pre-column pressure of 49.7&#x000a0;kPa. The initial
+temperature was set at 160&#x000a0;&#x000b0;C for 2&#x000a0;min, followed by a 4&#x000a0;&#x000b0;C/min ramp up to
+240&#x000a0;&#x000b0;C and maintained for 50&#x000a0;min. The injector and FID detector temperature was
+set at 240 and 220&#x000a0;&#x000b0;C, respectively. FAME peaks were identified by the
+comparison of their retention time with authentic standard by GC and quantified
+by normalization. Methylated heptadecanoic acid was used as an internal
+standard.</p></sec><sec id="Sec10"><title>Prediction of fuel properties</title><p>Fuel properties of biodiesel obtained from <italic>Chlorella</italic> spp. were examined with the help of
+following equations (Sinha et al. <xref ref-type="bibr" rid="CR30">2016</xref>)<disp-formula id="Equ3"><label>3</label><alternatives><tex-math id="M5">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\mathbf{SV}} = \, \varSigma \, \left( { 5 60 \, \times N} \right) /M_{\text{W}}$$\end{document}</tex-math><mml:math id="M6" display="block"><mml:mrow><mml:mi mathvariant="bold">SV</mml:mi><mml:mo>=</mml:mo><mml:mspace width="0.166667em"/><mml:mi mathvariant="italic">&#x003a3;</mml:mi><mml:mspace width="0.166667em"/><mml:mfenced close=")" open="(" separators=""><mml:mrow><mml:mn>560</mml:mn><mml:mspace width="0.166667em"/><mml:mo>&#x000d7;</mml:mo><mml:mi>N</mml:mi></mml:mrow></mml:mfenced><mml:mo stretchy="false">/</mml:mo><mml:msub><mml:mi>M</mml:mi><mml:mtext>W</mml:mtext></mml:msub></mml:mrow></mml:math><graphic xlink:href="13205_2016_434_Article_Equ3.gif" position="anchor"/></alternatives></disp-formula>
+<disp-formula id="Equ4"><label>4</label><alternatives><tex-math id="M7">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\mathbf{IV}} = \, \varSigma \, \left( { 2 5 4 { } \times N \times D} \right) /M_{\text{W}}$$\end{document}</tex-math><mml:math id="M8" display="block"><mml:mrow><mml:mi mathvariant="bold">IV</mml:mi><mml:mo>=</mml:mo><mml:mspace width="0.166667em"/><mml:mi mathvariant="italic">&#x003a3;</mml:mi><mml:mspace width="0.166667em"/><mml:mfenced close=")" open="(" separators=""><mml:mrow><mml:mn>254</mml:mn><mml:mrow/><mml:mo>&#x000d7;</mml:mo><mml:mi>N</mml:mi><mml:mo>&#x000d7;</mml:mo><mml:mi>D</mml:mi></mml:mrow></mml:mfenced><mml:mo stretchy="false">/</mml:mo><mml:msub><mml:mi>M</mml:mi><mml:mtext>W</mml:mtext></mml:msub></mml:mrow></mml:math><graphic xlink:href="13205_2016_434_Article_Equ4.gif" position="anchor"/></alternatives></disp-formula>
+<disp-formula id="Equ5"><label>5</label><alternatives><tex-math id="M9">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\mathbf{CN}} = \, \left( { 4 6. 3 { } + { 5458 }/{\text{SV}}} \right) \, - \, \left( {0. 2 2 5 { } \times {\text{IV}}} \right)$$\end{document}</tex-math><mml:math id="M10" display="block"><mml:mrow><mml:mi mathvariant="bold">CN</mml:mi><mml:mo>=</mml:mo><mml:mspace width="0.166667em"/><mml:mfenced close=")" open="(" separators=""><mml:mrow><mml:mn>46.3</mml:mn><mml:mrow/><mml:mo>+</mml:mo><mml:mn>5458</mml:mn><mml:mo stretchy="false">/</mml:mo><mml:mtext>SV</mml:mtext></mml:mrow></mml:mfenced><mml:mspace width="0.166667em"/><mml:mo>-</mml:mo><mml:mspace width="0.166667em"/><mml:mfenced close=")" open="(" separators=""><mml:mrow><mml:mn>0.225</mml:mn><mml:mrow/><mml:mo>&#x000d7;</mml:mo><mml:mtext>IV</mml:mtext></mml:mrow></mml:mfenced></mml:mrow></mml:math><graphic xlink:href="13205_2016_434_Article_Equ5.gif" position="anchor"/></alternatives></disp-formula>
+<disp-formula id="Equ6"><label>6</label><alternatives><tex-math id="M11">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\mathbf{DU}} = \, \left( {{\text{MUFA}},{\text{ wt }}\% } \right) \, + \, \left( { 2 { } \times {\text{ PUFA}},{\text{ wt }}\% } \right)$$\end{document}</tex-math><mml:math id="M12" display="block"><mml:mrow><mml:mi mathvariant="bold">DU</mml:mi><mml:mo>=</mml:mo><mml:mspace width="0.166667em"/><mml:mfenced close=")" open="(" separators=""><mml:mrow><mml:mtext>MUFA</mml:mtext><mml:mo>,</mml:mo><mml:mrow><mml:mspace width="0.333333em"/><mml:mtext>wt</mml:mtext><mml:mspace width="0.333333em"/></mml:mrow><mml:mo>%</mml:mo></mml:mrow></mml:mfenced><mml:mspace width="0.166667em"/><mml:mo>+</mml:mo><mml:mspace width="0.166667em"/><mml:mfenced close=")" open="(" separators=""><mml:mrow><mml:mn>2</mml:mn><mml:mrow/><mml:mo>&#x000d7;</mml:mo><mml:mrow><mml:mspace width="0.333333em"/><mml:mtext>PUFA</mml:mtext></mml:mrow><mml:mo>,</mml:mo><mml:mrow><mml:mspace width="0.333333em"/><mml:mtext>wt</mml:mtext><mml:mspace width="0.333333em"/></mml:mrow><mml:mo>%</mml:mo></mml:mrow></mml:mfenced></mml:mrow></mml:math><graphic xlink:href="13205_2016_434_Article_Equ6.gif" position="anchor"/></alternatives></disp-formula>
+<disp-formula id="Equa"><alternatives><tex-math id="M13">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\begin{aligned} {\mathbf{LCSF}} = \, \left( {0. 1 { } \times {\text{ C 16}}: \, 0} \right) \, + \, \left( {0. 5 { } \times {\text{ C18}}: \, 0} \right) \, + \, \left( { 1 { } \times {\text{ C2}}0: \, 0} \right) \, + \, \left( { 2 { } \times {\text{ C24}}: \, 0} \right) \hfill \\ \end{aligned}$$\end{document}</tex-math><mml:math id="M14" display="block"><mml:mrow><mml:mtable columnspacing="0.5ex"><mml:mtr><mml:mtd columnalign="right"><mml:mrow><mml:mi mathvariant="bold">LCSF</mml:mi><mml:mo>=</mml:mo><mml:mspace width="0.166667em"/><mml:mfenced close=")" open="(" separators=""><mml:mrow><mml:mn>0.1</mml:mn><mml:mrow/><mml:mo>&#x000d7;</mml:mo><mml:mrow><mml:mspace width="0.333333em"/><mml:mtext>C 16</mml:mtext></mml:mrow><mml:mo>:</mml:mo><mml:mspace width="0.166667em"/><mml:mn>0</mml:mn></mml:mrow></mml:mfenced><mml:mspace width="0.166667em"/><mml:mo>+</mml:mo><mml:mspace width="0.166667em"/><mml:mfenced close=")" open="(" separators=""><mml:mrow><mml:mn>0.5</mml:mn><mml:mrow/><mml:mo>&#x000d7;</mml:mo><mml:mrow><mml:mspace width="0.333333em"/><mml:mtext>C18</mml:mtext></mml:mrow><mml:mo>:</mml:mo><mml:mspace width="0.166667em"/><mml:mn>0</mml:mn></mml:mrow></mml:mfenced><mml:mspace width="0.166667em"/><mml:mo>+</mml:mo><mml:mspace width="0.166667em"/><mml:mfenced close=")" open="(" separators=""><mml:mrow><mml:mn>1</mml:mn><mml:mrow/><mml:mo>&#x000d7;</mml:mo><mml:mrow><mml:mspace width="0.333333em"/><mml:mtext>C2</mml:mtext></mml:mrow><mml:mn>0</mml:mn><mml:mo>:</mml:mo><mml:mspace width="0.166667em"/><mml:mn>0</mml:mn></mml:mrow></mml:mfenced><mml:mspace width="0.166667em"/><mml:mo>+</mml:mo><mml:mspace width="0.166667em"/><mml:mfenced close=")" open="(" separators=""><mml:mrow><mml:mn>2</mml:mn><mml:mrow/><mml:mo>&#x000d7;</mml:mo><mml:mrow><mml:mspace width="0.333333em"/><mml:mtext>C24</mml:mtext></mml:mrow><mml:mo>:</mml:mo><mml:mspace width="0.166667em"/><mml:mn>0</mml:mn></mml:mrow></mml:mfenced></mml:mrow></mml:mtd></mml:mtr><mml:mtr><mml:mtd columnalign="right"><mml:mrow/></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:math><graphic xlink:href="13205_2016_434_Article_Equa.gif" position="anchor"/></alternatives></disp-formula>
+<disp-formula id="Equ7"><label>7</label><alternatives><tex-math id="M15">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\begin{aligned} {\mathbf{CFPP}} = \, \left( { 3. 1 4 1 7 { } \times {\text{ LCSF}}} \right) - 1 6. 4 7 7\hfill \\ \end{aligned}$$\end{document}</tex-math><mml:math id="M16" display="block"><mml:mrow><mml:mtable columnspacing="0.5ex"><mml:mtr><mml:mtd columnalign="right"><mml:mrow><mml:mi mathvariant="bold">CFPP</mml:mi><mml:mo>=</mml:mo><mml:mspace width="0.166667em"/><mml:mfenced close=")" open="(" separators=""><mml:mrow><mml:mn>3.1417</mml:mn><mml:mrow/><mml:mo>&#x000d7;</mml:mo><mml:mrow><mml:mspace width="0.333333em"/><mml:mtext>LCSF</mml:mtext></mml:mrow></mml:mrow></mml:mfenced><mml:mo>-</mml:mo><mml:mn>16.477</mml:mn></mml:mrow></mml:mtd></mml:mtr><mml:mtr><mml:mtd columnalign="right"><mml:mrow/></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:math><graphic xlink:href="13205_2016_434_Article_Equ7.gif" position="anchor"/></alternatives></disp-formula>
+<disp-formula id="Equ8"><label>8</label><alternatives><tex-math id="M17">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\mathbf{OS}} = 1 1 7: 9 2 9 5/{\text{X }} - 2: 5 90 5 { }\left( {{\text{where }}0 &#x0003c; {\text{X}} &#x0003e; 100} \right)$$\end{document}</tex-math><mml:math id="M18" display="block"><mml:mrow><mml:mi mathvariant="bold">OS</mml:mi><mml:mo>=</mml:mo><mml:mn>117</mml:mn><mml:mo>:</mml:mo><mml:mn>9295</mml:mn><mml:mo stretchy="false">/</mml:mo><mml:mrow><mml:mtext>X</mml:mtext><mml:mspace width="0.333333em"/></mml:mrow><mml:mo>-</mml:mo><mml:mn>2</mml:mn><mml:mo>:</mml:mo><mml:mn>5905</mml:mn><mml:mrow/><mml:mfenced close=")" open="(" separators=""><mml:mrow><mml:mrow><mml:mtext>where</mml:mtext><mml:mspace width="0.333333em"/></mml:mrow><mml:mn>0</mml:mn><mml:mo>&#x0003c;</mml:mo><mml:mtext>X</mml:mtext><mml:mo>&#x0003e;</mml:mo><mml:mn>100</mml:mn></mml:mrow></mml:mfenced></mml:mrow></mml:math><graphic xlink:href="13205_2016_434_Article_Equ8.gif" position="anchor"/></alternatives></disp-formula>
+<disp-formula id="Equ9"><label>9</label><alternatives><tex-math id="M19">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\mathbf{CP}} = \, (0. 5 2 6 { } \times {\text{ C 16 }}{-}{ 4}. 9 9 2)$$\end{document}</tex-math><mml:math id="M20" display="block"><mml:mrow><mml:mi mathvariant="bold">CP</mml:mi><mml:mo>=</mml:mo><mml:mspace width="0.166667em"/><mml:mo stretchy="false">(</mml:mo><mml:mn>0.526</mml:mn><mml:mrow/><mml:mo>&#x000d7;</mml:mo><mml:mrow><mml:mspace width="0.333333em"/><mml:mtext>C 16</mml:mtext><mml:mspace width="0.333333em"/></mml:mrow><mml:mo>-</mml:mo><mml:mn>4.992</mml:mn><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:math><graphic xlink:href="13205_2016_434_Article_Equ9.gif" position="anchor"/></alternatives></disp-formula>
+<disp-formula id="Equ10"><label>10</label><alternatives><tex-math id="M21">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\mathbf{PP}} = \, \left( {0. 5 7 1 { } \times {\text{ C 16}} - 1 2. 2 40} \right)$$\end{document}</tex-math><mml:math id="M22" display="block"><mml:mrow><mml:mi mathvariant="bold">PP</mml:mi><mml:mo>=</mml:mo><mml:mspace width="0.166667em"/><mml:mfenced close=")" open="(" separators=""><mml:mrow><mml:mn>0.571</mml:mn><mml:mrow/><mml:mo>&#x000d7;</mml:mo><mml:mrow><mml:mspace width="0.333333em"/><mml:mtext>C 16</mml:mtext></mml:mrow><mml:mo>-</mml:mo><mml:mn>12.240</mml:mn></mml:mrow></mml:mfenced></mml:mrow></mml:math><graphic xlink:href="13205_2016_434_Article_Equ10.gif" position="anchor"/></alternatives></disp-formula>
+<disp-formula id="Equb"><alternatives><tex-math id="M23">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\mathbf{HHV}}\left( {{\mathbf{MJ}}/{\mathbf{kg}}} \right) = { 49}: 4 3 { } - \, 0:0 4 1 { } \times \, \left( {\text{SV}} \right) - 0:0 1 5\left( {\text{IV}} \right)$$\end{document}</tex-math><mml:math id="M24" display="block"><mml:mrow><mml:mi mathvariant="bold">HHV</mml:mi><mml:mfenced close=")" open="(" separators=""><mml:mrow><mml:mi mathvariant="bold">MJ</mml:mi><mml:mo stretchy="false">/</mml:mo><mml:mi mathvariant="bold">kg</mml:mi></mml:mrow></mml:mfenced><mml:mo>=</mml:mo><mml:mn>49</mml:mn><mml:mo>:</mml:mo><mml:mn>43</mml:mn><mml:mrow/><mml:mo>-</mml:mo><mml:mspace width="0.166667em"/><mml:mn>0</mml:mn><mml:mo>:</mml:mo><mml:mn>041</mml:mn><mml:mrow/><mml:mo>&#x000d7;</mml:mo><mml:mspace width="0.166667em"/><mml:mfenced close=")" open="("><mml:mtext>SV</mml:mtext></mml:mfenced><mml:mo>-</mml:mo><mml:mn>0</mml:mn><mml:mo>:</mml:mo><mml:mn>015</mml:mn><mml:mfenced close=")" open="("><mml:mtext>IV</mml:mtext></mml:mfenced></mml:mrow></mml:math><graphic xlink:href="13205_2016_434_Article_Equb.gif" position="anchor"/></alternatives></disp-formula> where <italic>N</italic> is the percentage of each
+fatty acid, <italic>M</italic>
+<sub>W</sub> is the molecular mass of fatty acid, <italic>M</italic>
+<sub><italic>i</italic></sub> is the molecular mass of <italic>i</italic>th
+fatty acid, <italic>D</italic> is the number of double bonds,
+MUFA is monounsaturated fatty acids, PUFA is polyunsaturated fatty acid, CFPP is
+cold filter pluging point, OS oxidation stability, CP cloud point, PP pour
+point, <italic>X</italic> is the percentage of linoleic and
+linolenic acids (wt&#x000a0;%) and HHV is the calorific value of FAME in MJ/Kg.</p></sec></sec><sec id="Sec11"><title>Statistics</title><p>The data were recorded in triplicates and represented as mean of
+three experiments with &#x000b1;standard deviation.</p></sec></sec><sec id="Sec12"><title>Result and discussion</title><sec id="Sec13"><title>Characterization of microalgae strains</title><p>Five strains of fresh water microalgae (<italic>Chlorella vulgaris</italic>, <italic>Chlorella
+minutissima</italic>, <italic>Chlorella pyrenoidosa,
+Chlorella</italic> sp. 1 and <italic>Chlorella</italic> sp.
+2) selected for the laboratory experiments belong to the division of Chlorophyta
+and the class of Chlorophyceae. The pictures of all the five green microalgae were
+taken by an optical microscope (S1). One microalgae species was isolated from
+Dehradun region and identified morphologically. Characteristics and Morphological
+features of the isolated microalgae have its close similarity with genus <italic>Chlorella vulgaris, Chlorella minutissima, Chlorella
+pyrenoidosa,</italic> and <italic>chlorella</italic> sp. 2
+and represented here as <italic>Chlorella</italic> sp. 1. The
+individual cells of the colonies were in the range of 2&#x02013;10&#x000a0;&#x000b5;m. Microalgal cells
+were green color, unicellular, and spherical in shape.</p></sec><sec id="Sec14"><title>Screening and identification of efficient growth media for maximum lipid
+productivity</title><p>All the microalgae species (<italic>Chlorella
+vulgaris</italic>, <italic>Chlorella minutissima</italic>,
+<italic>Chlorella pyrenoidosa</italic>, <italic>Chlorella</italic> sp. 1, and <italic>Chlorella</italic> sp. 2) were cultured in four media i.e. BG-11, BBM, Fog&#x02019;s
+and M<sub>4</sub>N medium in 250&#x000a0;ml Erlenmeyer flasks (conical flask)
+each containing 125&#x000a0;ml media. The results revealed that all the microalgal species
+had approximately 2&#x000a0;days lag period and reached the exponential phase within
+4&#x02013;6&#x000a0;days in all the media. Microalgae cells achieved stationary phase within
+15&#x000a0;days and after that cells growth was very slow as shown in Fig.&#x000a0;<xref rid="Fig1" ref-type="fig">1</xref>. As each microalgal species shows different
+biochemical composition (e.g., protein, amino acids, carbohydrate, lipid, fatty
+acids, chlorophyll and carotenoids) in different media which is reflected by
+different optical density (OD) of samples. Hence, biomass dry weight (DW) does not
+correlate well with OD for different culture media or strains. To avoid this
+error, actual biomass concentration dry weight (DW) was used to study microalgae
+growth in different media. DW biomass concentration of all the five microalgae
+species at the stationary phase are shown Fig.&#x000a0;<xref rid="Fig2" ref-type="fig">2</xref>. It was examined that highest biomass concentration of
+<italic>Chlorella vulgaris</italic> was in BG-11
+(1.64&#x000a0;&#x000b1;&#x000a0;0.07&#x000a0;g/L), followed by BBM (1.58&#x000a0;&#x000b1;&#x000a0;0.05&#x000a0;g/L), Fog&#x02019;s medium
+(1.33&#x000a0;&#x000b1;&#x000a0;0.03&#x000a0;g/L) and M<sub>4</sub>N (1.30&#x000a0;&#x000b1;&#x000a0;0.04&#x000a0;g/L). Similarly,
+<italic>Chlorella minutissima</italic> (1.52&#x000a0;&#x000b1;&#x000a0;0.03&#x000a0;g/L) and
+<italic>Chlorella</italic> sp. 1 (1.39&#x000a0;&#x000b1;&#x000a0;0.05&#x000a0;g/L) also showed
+maximum biomass concentration in BG-11. But, in case of <italic>Chlorella pyrenoidosa</italic> and <italic>Chlorella</italic> sp. 2, biomass concentration was maximum (1.69&#x000a0;&#x000b1;&#x000a0;0.02 and
+1.48&#x000a0;&#x000b1;&#x000a0;0.06&#x000a0;g/L, respectively) in Fog&#x02019;s medium. This can be explained by the fact
+that higher nitrogen concentration is favorable for increasing biomass growth (Li
+et al. <xref ref-type="bibr" rid="CR20">2012</xref>). However,
+M<sub>4</sub>N (having maximum nitrogen concentration) showed poor
+biomass concentration which is due to deleterious effect of nitrogen at higher
+concentrations (Li et al. <xref ref-type="bibr" rid="CR20">2012</xref>).<fig id="Fig1"><label>Fig.&#x000a0;1</label><caption><p>OD of <italic>Chlorella vulgaris</italic>,
+<italic>Chlorella minutissima</italic>, <italic>Chlorella pyrenoidosa</italic>, <italic>Chlorella</italic> sp. 1 and <italic>Chlorella</italic> sp. 2 biomass in different nutrient
+media</p></caption><graphic xlink:href="13205_2016_434_Fig1_HTML" id="MO12"/></fig>
+<fig id="Fig2"><label>Fig.&#x000a0;2</label><caption><p>Comparison of biomass DW of five microalgal strains in four
+culture media. Cv, <italic>Chlorella vulgaris</italic>;
+Cm, <italic>Chlorella minutissima</italic>; Cp,
+<italic>Chlorella pyrenoidosa</italic>; Chlorella 1,
+<italic>Chlorella</italic> sp. 1 and Chlorella 2,
+<italic>Chlorella</italic> sp. 2</p></caption><graphic xlink:href="13205_2016_434_Fig2_HTML" id="MO13"/></fig>
+</p><p>Lipid content was reported as a percentage of lipids to biomass DW.
+Similar to biomass yield, significant variances in lipid content were found across
+strains and culture media. Lipid contents and productivity of all the five strains
+in different culture media are shown in Figs.&#x000a0;<xref rid="Fig3" ref-type="fig">3</xref> and <xref rid="Fig4" ref-type="fig">4</xref>, respectively.
+Maximum lipid content and productivity was found in BBM media for all the
+<italic>Chlorella</italic>
+<italic>species</italic>. The highest lipid content of
+15.87&#x000a0;&#x000b1;&#x000a0;0.77&#x000a0;% was found for <italic>Chlorella</italic> sp. 1
+cultivated in BBM, followed by <italic>Chlorella
+vulgaris</italic> (15.57&#x000a0;&#x000b1;&#x000a0;1.44&#x000a0;%), <italic>Chlorella
+minutissima</italic> (12.95&#x000a0;&#x000b1;&#x000a0;0.53&#x000a0;%), <italic>Chlorella
+pyrenoidosa</italic> (11.43&#x000a0;&#x000b1;&#x000a0;1.26&#x000a0;%) and <italic>Chlorella</italic> sp. 2 (9.64&#x000a0;&#x000b1;&#x000a0;0.86&#x000a0;%) in BBM medium. Minimum lipid content
+was observed in M<sub>4</sub>N growth medium. Furthermore, all
+microalgae species showed highest lipid productivity in BBM growth media and
+lowest in M<sub>4</sub>N medium. Among all the tested species, maximum
+lipid productivity was observed for <italic>Chlorella
+vulgaris</italic> (12.35&#x000a0;&#x000b1;&#x000a0;0.37&#x000a0;mg/L/d), followed by <italic>Chlorella</italic> sp. 1 (9.56&#x000a0;&#x000b1;&#x000a0;0.43&#x000a0;mg/L/d), <italic>Chlorella minutissima</italic> (9.41&#x000a0;&#x000b1;&#x000a0;0.67&#x000a0;mg/L/d), <italic>Chlorella pyrenoidosa</italic> (8.88&#x000a0;&#x000b1;&#x000a0;0.41&#x000a0;mg/L/d) and <italic>Chlorella</italic> sp. 2 (6.39&#x000a0;&#x000b1;&#x000a0;0.35&#x000a0;mg/L/d). These data are
+supported by the fact that nitrogen starvation condition results in more lipid
+accumulation (Converti et al. <xref ref-type="bibr" rid="CR5">2009</xref>;
+Chen et al. <xref ref-type="bibr" rid="CR3">2011</xref>; Feng et al.
+<xref ref-type="bibr" rid="CR6">2011</xref>; Kumari et al. <xref ref-type="bibr" rid="CR18">2011</xref>; Li et al. <xref ref-type="bibr" rid="CR20">2012</xref>). The selection of culture medium depends upon various
+factors viz. the target product, growth rate, and medium cost. However, nitrogen
+is the key factor in growth medium and also a limiting nutrient affecting the
+biomass growth and lipid productivity of various microalgae (Griffiths and
+Harrison <xref ref-type="bibr" rid="CR11">2009</xref>). Culture media
+comparison shows that on an average BBM gave highest lipid content and
+productivity, followed by BG-11, whereas Fog&#x02019;s medium and
+M<sub>4</sub>N had the lowest. Generally, lipid content of
+microalgae increases when microalgae are subjected to unfavorable culture
+conditions, such as nutrient starvation (Converti et al. <xref ref-type="bibr" rid="CR5">2009</xref>; Chen et al. <xref ref-type="bibr" rid="CR3">2011</xref>; Feng et al. <xref ref-type="bibr" rid="CR6">2011</xref>). According to Li et al. (<xref ref-type="bibr" rid="CR20">2012</xref>), the lipid yield of microalgae species can be improved by
+at least 300&#x000a0;% under nitrogen limited conditions. Since, lipid production is the
+main aim of microalgae cultivation in this study, BBM and BG-11 are the preferred
+growth media. BBM had higher lipid content and productivity due to relatively
+lower nitrogen and phosphate concentrations, whereas, BG-11 medium being nitrogen
+rich medium has good potential to increase lipid productivity by applying nitrogen
+deficient condition (Li et al. <xref ref-type="bibr" rid="CR20">2012</xref>).
+Furthermore, total cost of chemicals to prepare 1&#x000a0;l medium was found to be Rs.
+0.784 and Rs. 0.472 for BG-11 and BBM growth media, respectively. When applying
+nitrogen deficient medium (suppose half concentration of nitrogen in case of
+BG-11) to culture algae, the cost of BG-11 preparation will be reduced up to Rs.
+0.460. While BBM is already nitrogen deficient medium and further decrease in
+nitrogen concentration will results in reduction of total lipid productivity.
+Therefore, on the basis of potential of growth medium for enhancing lipid
+productivity and cost reduction, BG-11 had been considered as best medium in this
+study and used as culture medium for further study.<fig id="Fig3"><label>Fig.&#x000a0;3</label><caption><p>Comparison of lipid content of five microalgal strains in four
+culture media. Cv, <italic>Chlorella vulgaris</italic>;
+Cm, <italic>Chlorella minutissima</italic>; Cp,
+<italic>Chlorella pyrenoidosa</italic>; Chlorella 1,
+<italic>Chlorella</italic> sp. 1 and Chlorella 2,
+<italic>Chlorella</italic> sp. 2</p></caption><graphic xlink:href="13205_2016_434_Fig3_HTML" id="MO14"/></fig>
+<fig id="Fig4"><label>Fig.&#x000a0;4</label><caption><p>Comparison of lipid productivity of five microalgal strains in
+four culture media. Cv, <italic>Chlorella
+vulgaris</italic>; Cm, <italic>Chlorella
+minutissima</italic>; Cp, <italic>Chlorella
+pyrenoidosa</italic>; Chlorella 1, <italic>Chlorella</italic> sp. 1 and Chlorella 2, <italic>Chlorella</italic> sp. 2</p></caption><graphic xlink:href="13205_2016_434_Fig4_HTML" id="MO15"/></fig>
+</p></sec><sec id="Sec15"><title>Effect of carbon sources on microalgae growth and lipid
+accumulation</title><p>In this study, all the <italic>Chlorella
+species</italic> were grown in optimized BG-11 medium (optimized in previous
+research paper, Sharma et al. <xref ref-type="bibr" rid="CR29">2016</xref>)
+with different organic carbon sources at room temperature and 16:8 light:dark
+cycle. The supplemented organic carbon sources were glucose (7.22&#x000a0;mM), glycerol
+(14.13&#x000a0;mM), sodium acetate (21.09&#x000a0;mM) and sucrose (3.51&#x000a0;mM) with fixed amount of
+carbon content (0.5&#x000a0;g/L).</p><p>Among the tested organic carbon sources, glucose was found the best
+carbon source for mixotrophic growth of all the <italic>Chlorella</italic> strains, followed by glycerol, sodium acetate and sucrose.
+The study showed that addition of glucose results in maximum biomass production of
+2.08, 2.04, 1.84, 1.53 and 1.43&#x000a0;g/L for <italic>Chlorella
+vulgaris</italic>, <italic>Chlorella minutissima</italic>,
+<italic>Chlorella pyrenoidosa</italic>, <italic>Chlorella</italic> sp. 1 and <italic>Chlorella</italic> sp. 2 at stationary phase (Fig.&#x000a0;<xref rid="Fig5" ref-type="fig">5</xref>). However, all the microalgae species achieved maximum biomass
+concentration within 8&#x02013;11&#x000a0;days in the culture medium supplemented with glucose and
+the average highest biomass productivity were found 274.46&#x000a0;mg/L/day for <italic>Chlorella vulgaris</italic>, followed by 239.15&#x000a0;mg/L/day for
+<italic>Chlorella minutissima</italic>, 191.28&#x000a0;mg/L/day for
+<italic>Chlorella pyrenoidosa</italic>, 162.52&#x000a0;mg/L/day for
+<italic>Chlorella</italic> sp. 1 and 111.36&#x000a0;mg/L/day for
+<italic>Chlorella</italic> sp. 1, respectively. Biomass
+concentration of all the microalgal stains was poor in sucrose culture medium at
+stationary phase. These results are in agreement with previous report that glucose
+is an efficient trigger to increase biomass productivity of the microalgae
+(Perez-Garcia et al. <xref ref-type="bibr" rid="CR23">2011a</xref>; Cheirsilp
+and Torpee <xref ref-type="bibr" rid="CR2">2012</xref>; Sun et al.
+<xref ref-type="bibr" rid="CR31">2014</xref>). This can be explained by the
+fact that glucose is the raw material for photosynthesis and under mixotrophic
+growth, it can be utilized in the presence of light for energy metabolism for ATP
+and NAD(P)H production, and, therefore, biomass growth can be accelerated (Yang et
+al. <xref ref-type="bibr" rid="CR35">2000</xref>). On the other hand, lipid
+contents of four <italic>Chlorella</italic> strains (<italic>Chlorella vulgaris</italic>, <italic>Chlorella
+minutissima</italic>, <italic>Chlorella
+pyrenoidosa</italic>, <italic>Chlorella</italic> sp. 1) were
+significantly higher in culture medium supplemented with glycerol as carbon source
+and followed by sodium acetate, glucose, and sucrose organic carbon sources, while
+<italic>Chlorella</italic> sp. 2 showed maximum lipid content
+in sodium acetate culture medium (Fig.&#x000a0;<xref rid="Fig6" ref-type="fig">6</xref>).
+Maximum lipid production was 24.32&#x000a0;% for <italic>Chlorella
+vulgaris,</italic> 18.59&#x000a0;% for <italic>Chlorella
+minutissima</italic>, 17.10&#x000a0;% for <italic>Chlorella
+pyrenoidosa</italic> and 23.31&#x000a0;% for <italic>Chlorella</italic> sp. 1 in glycerol culture medium while 13.42&#x000a0;% <italic>for Chlorella</italic> sp. 2 <italic>in sodium
+acetate.</italic> Lipid production was found to be lowest in case of sucrose
+carbon source for all the tested microalgal strains except <italic>Chlorella</italic> sp. 2 which showed exceptional behavior and minimum lipid
+content of this species was in glycerol. Maximum lipid yield observed for the
+tested microalgal strains was 490.74&#x000a0;mg/L for <italic>Chlorella
+vulgaris</italic>, 369.13&#x000a0;mg/L for <italic>Chlorella
+minutissima</italic>, 282.59&#x000a0;mg/L for <italic>Chlorella
+pyrenoidosa</italic>, and 325.4&#x000a0;mg/L for <italic>Chlorella</italic> sp. 1 in glycerol culture medium which was more than
+twofolds higher in comparison to control culture (phototrophic culture) for all
+these species. On the other hand, <italic>Chlorella</italic> sp.
+2 had shown highest lipid yield (188.58&#x000a0;mg/L) in glucose. This can be explained by
+the fact that glucose is a simple hexose monosaccharide, which is first
+catabolized into glucose-6-phosphate (important intermediate product for various
+metabolic precursors) and subsequently to pyruvate through anaerobic glycolysis
+process, then it enters into tricarboxylic acid cycle (TCA cycle) followed by
+mitochondrial oxidative phosphorylation for ATPs production (Lu et al.
+<xref ref-type="bibr" rid="CR22">2011</xref>). On the other hand, glycerol
+enters the cells by simple diffusion without any extra energy, does not behave as
+a source of carbons for biosynthesis (Perez-Garcia et al. <xref ref-type="bibr" rid="CR24">2011b</xref>). The pentose phosphate pathway (PPP) is
+inhibited during glycerol assimilation (Chen et al. <xref ref-type="bibr" rid="CR3">2011</xref>). More glycerol would be used in the Embden&#x02013;Meyerh of
+pathway (EMP), and then sacrifice to generate lipids. Furthermore, glycerol is a
+substrate for triacylglycerol (TAG) synthesis. Overall, it was found that
+different biomass and lipid productions of all the five microalgal species were
+due to their different metabolic pathways of carbon and energy sources. Lipid
+productivity of <italic>Chlorella vulgaris</italic>
+(50.17&#x000a0;mg/L/d), <italic>Chlorella pyrenoidosa</italic>
+(23.91&#x000a0;mg/L/d) and <italic>Chlorella</italic> sp. 1
+(28.69&#x000a0;mg/L/d) was observed best in glycerol medium, whereas <italic>Chlorella minutissima</italic> (35.8&#x000a0;mg/L/d) and <italic>Chlorella</italic> sp. 2 (14.73&#x000a0;mg/L/d) showed maximum lipid
+productivity in glucose supplemented culture medium (Fig.&#x000a0;<xref rid="Fig7" ref-type="fig">7</xref>). But higher cost of glucose is a major hurdle to
+microalgal biodiesel production economics. Additionally, glycerol is much cheaper
+than glucose and also a byproduct of biodiesel production. Therefore, utilizing
+glycerol for microalgae cultivation may be a good approach for recycling it and
+reduction of biodiesel production cost. Hence, glycerol is more promising
+candidate to make algae biodiesel economically viable.<fig id="Fig5"><label>Fig.&#x000a0;5</label><caption><p>Biomass growths of <italic>Chlorella
+vulgaris</italic>, <italic>Chlorella
+minutissima</italic>, <italic>Chlorella
+pyrenoidosa</italic>, <italic>Chlorella</italic> sp.
+1 and <italic>Chlorella</italic> sp. 2 under different
+carbon sources</p></caption><graphic xlink:href="13205_2016_434_Fig5_HTML" id="MO16"/></fig>
+<fig id="Fig6"><label>Fig.&#x000a0;6</label><caption><p>Lipid contents of <italic>Chlorella vulgaris,
+Chlorella minutissima, Chlorella pyrenoidosa</italic>, <italic>Chlorella</italic> sp. 1 and <italic>Chlorella</italic> sp. 2 under different carbon sources</p></caption><graphic xlink:href="13205_2016_434_Fig6_HTML" id="MO17"/></fig>
+<fig id="Fig7"><label>Fig.&#x000a0;7</label><caption><p>Lipid productivities of <italic>Chlorella
+vulgaris</italic>, <italic>Chlorella
+minutissima</italic>, <italic>Chlorella
+pyrenoidosa</italic>, <italic>Chlorella</italic> sp.
+1 and <italic>Chlorella</italic> sp. 2 under different
+carbon sources</p></caption><graphic xlink:href="13205_2016_434_Fig7_HTML" id="MO18"/></fig>
+</p></sec><sec id="Sec16"><title>Predicted fuel properties of biodiesel extracted from <italic>Chlorella</italic> species</title><p>Fuel properties of biodiesel are highly influenced by fatty acid
+composition of algae. Fatty acid composition of <italic>Chlorella
+vulgaris</italic>, <italic>Chlorella minutissima</italic>,
+<italic>Chlorella pyrenoidosa</italic>
+<italic>Chlorella</italic> sp. 1 and <italic>Chlorella</italic> sp. 2 is shown in Table&#x000a0;<xref rid="Tab1" ref-type="table">1</xref>. Results showed that <italic>Chlorella
+pyrenoidosa</italic> contains higher saturated FAME (45.07&#x000a0;%) than <italic>Chlorella vulgaris</italic> (31.73&#x000a0;%), <italic>Chlorella minutissima</italic> (35.14&#x000a0;%), <italic>Chlorella</italic> sp. 1 (33.14&#x000a0;%) and <italic>Chlorella</italic> sp. 2 (44.94&#x000a0;%), whereas mono unsaturated fatty acid were
+found maximum for <italic>Chlorella minutissima</italic>
+(38.01&#x000a0;%), followed by <italic>Chlorella</italic> sp. 2
+(34.53&#x000a0;%), <italic>Chlorella pyrenoidosa</italic> (33.42&#x000a0;%),
+<italic>Chlorella vulgaris</italic> (21.76&#x000a0;%) and <italic>Chlorella</italic> sp. 2 (17.34&#x000a0;%). Further analysis showed that
+polyunsaturated fatty acid were 36.14, 25.33, 19.87, 32.36 and 36.19&#x000a0;% in
+<italic>Chlorella vulgaris</italic>, <italic>Chlorella minutissima,</italic>
+<italic>Chlorella pyrenoidosa,</italic>
+<italic>Chlorella</italic> sp. 1 and <italic>Chlorella</italic> sp. 2, respectively. Previous research showed that ideal
+biodiesel would have low level of polyunsaturated and saturated fatty acids to
+support the favorable oxidative stability and cold flow problem (Knothe
+<xref ref-type="bibr" rid="CR16">2009</xref>; Hoekman et al. <xref ref-type="bibr" rid="CR13">2012</xref>). Therefore, presence of monounsaturated
+fatty acids, such as palmitoleic acid (16:1) and oleic acid (18:1), play a big
+role for giving the best compromise between oxidative stability and cold flow
+(Knothe <xref ref-type="bibr" rid="CR16">2009</xref>; Hoekman et al.
+<xref ref-type="bibr" rid="CR13">2012</xref>). In this study,
+monounsaturated fatty acids were analyzed from 17.34 to 38.01&#x000a0;% for the tested
+<italic>Chlorella</italic> strains. Among the tested species,
+<italic>Chlorella minutissima</italic> showed maximum
+monounsaturated fatty acids (38.01&#x000a0;%) and <italic>Chlorella</italic> sp. 2 showed minimum monounsaturated fatty acids
+(17.34&#x000a0;%).<table-wrap id="Tab1"><label>Table&#x000a0;1</label><caption><p>Fatty acid composition of <italic>Chlorella
+vulgaris, Chlorella minutissima, Chlorella pyrenoidosa,
+Chlorella</italic> sp. 1 and <italic>Chlorella</italic> sp. 2</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left">Fatty acid composition (%)</th><th align="left">
+<italic>Chlorella vulgaris</italic>
+</th><th align="left">
+<italic>Chlorella minutissima</italic>
+</th><th align="left">
+<italic>Chlorella pyrenoidosa</italic>
+</th><th align="left">
+<italic>Chlorella</italic> sp. 1</th><th align="left">
+<italic>Chlorella</italic> sp. 2</th></tr></thead><tbody><tr><td align="left">C 8:0</td><td align="left">0.1746</td><td char="." align="char">0.5943</td><td align="left">nd</td><td char="." align="char">0.9883</td><td align="left">0.4798</td></tr><tr><td align="left">C 10:0</td><td align="left">0.5171</td><td char="." align="char">2.8572</td><td align="left">0.2105</td><td char="." align="char">1.8319</td><td align="left">0.7548</td></tr><tr><td align="left">C 12:0</td><td align="left">nd</td><td char="." align="char">2.1761</td><td align="left">1.8167</td><td char="." align="char">1.2387</td><td align="left">2.6925</td></tr><tr><td align="left">C 14:0</td><td align="left">3.3011</td><td char="." align="char">2.8349</td><td align="left">7.2533</td><td char="." align="char">2.3923</td><td align="left">0.4662</td></tr><tr><td align="left">C 16:0</td><td align="left">21.5492</td><td char="." align="char">19.9060</td><td align="left">28.6448</td><td char="." align="char">22.0379</td><td align="left">36.1705</td></tr><tr><td align="left">C 16:1</td><td align="left">0.1747</td><td char="." align="char">9.4912</td><td align="left">nd</td><td char="." align="char">4.9447</td><td align="left">1.5880</td></tr><tr><td align="left">C 18:0</td><td align="left">5.0270</td><td char="." align="char">4.6787</td><td align="left">7.1502</td><td char="." align="char">3.7954</td><td align="left">5.757</td></tr><tr><td align="left">C 18:1</td><td align="left">21.5925</td><td char="." align="char">28.5275</td><td align="left">33.4208</td><td char="." align="char">29.5875</td><td align="left">15.7582</td></tr><tr><td align="left">C 18:2</td><td align="left">31.5895</td><td char="." align="char">17.8802</td><td align="left">14.4817</td><td char="." align="char">18.1586</td><td align="left">30.6374</td></tr><tr><td align="left">C 18:3</td><td align="left">4.5529</td><td char="." align="char">7.4552</td><td align="left">5.3940</td><td char="." align="char">14.2094</td><td align="left">5.5537</td></tr><tr><td align="left">C 20:0</td><td align="left">0.4816</td><td char="." align="char">0.5592</td><td align="left">nd</td><td char="." align="char">0.7173</td><td align="left">0.6234</td></tr><tr><td align="left">C 22:0</td><td align="left">0.6832</td><td char="." align="char">1.5337</td><td align="left">nd</td><td char="." align="char">0.1479</td><td align="left">nd</td></tr><tr><td align="left">Saturated fatty acids</td><td align="left">31.7338</td><td char="." align="char">35.1401</td><td align="left">45.0755</td><td char="." align="char">33.1497</td><td align="left">44.9442</td></tr><tr><td align="left">Mono unsaturated fatty acids</td><td align="left">21.7672</td><td char="." align="char">38.0187</td><td align="left">33.4208</td><td char="." align="char">34.5322</td><td align="left">17.3462</td></tr><tr><td align="left">poly unsaturated fatty acids</td><td align="left">36.1424</td><td char="." align="char">25.3354</td><td align="left">19.8757</td><td char="." align="char">32.368</td><td align="left">36.1911</td></tr></tbody></table></table-wrap>
+</p><p>It was reported that biodiesel composition enriched with C16&#x02013;C18
+fatty acids have good fuel properties (Knothe <xref ref-type="bibr" rid="CR16">2009</xref>). As shown in Table&#x000a0;<xref rid="Tab1" ref-type="table">1</xref>, fatty acid compositions of all <italic>Chlorella</italic> strains have major constituent of palmitic (16:0), stearic
+(18:0), oleic (18:1), linoleic (18:2), and linolenic (18:3) acids. The presence of
+more polyunsaturated FAME results in lower oxidation stability of biodiesel. This
+can be explained by the fact that polyunsaturated FAME contains reactive sites
+which are susceptible for attack of free radicals during oxidation reaction.
+According to European standards EN14214, for an ideal biodiesel the percentage of
+linolenic acid (C18:3) and polyunsaturated FA (&#x0003e;4 double bond) should not
+increase 12 and 1&#x000a0;%, respectively (Knothe <xref ref-type="bibr" rid="CR16">2009</xref>). Maximum linolenic acid (C18:3) was found in <italic>Chlorella</italic> sp. 2. (14.20&#x000a0;%) while minimum was for
+<italic>Chlorella vulgaris</italic> (4.55&#x000a0;%). Furthermore,
+polyunsaturated FA (&#x0003e;4 double bond) was absent in all the <italic>Chlorella</italic> strains.</p><p>Table&#x000a0;<xref rid="Tab2" ref-type="table">2</xref> shows predicted
+fuel properties of <italic>Chlorella vulgaris</italic>,
+<italic>Chlorella minutissima</italic>
+<italic>Chlorella pyrenoidosa Chlorella</italic> sp. 1 and
+<italic>Chlorella</italic> sp. 2. Iodine value is the
+measurement of total unsaturation in biodiesel. Higher Iodine Value of the
+biodiesel may result in the polymerization of glycerides and deposition of
+lubricant in the engine (Francisco et al. <xref ref-type="bibr" rid="CR8">2010</xref>). According to European standards EN 14214, iodine value of
+biodiesel should not be more than 120&#x000a0;g I2/100&#x000a0;g. In this study, maximum iodine
+value was observed for <italic>Chlorella</italic> sp. 1 (99.92)
+while <italic>Chlorella pyrenoidosa</italic> showed minimum
+iodine value (68.90). Cetane number indicates combustion behavior of fuel in
+engine. The higher cetane value results in better combustion of fuel, lower NOx
+emission, less occurrence of knocking and easier start- up of engine. According to
+ASTMD6751, European (EN 14214) and Australian standard and National Petroleum
+Agency (ANP255) standard the minimum cetane value should be 47, 51 and 45,
+respectively. In this study the cetane value of <italic>Chlorella
+vulgaris</italic>, <italic>Chlorella minutissima</italic>,
+<italic>Chlorella pyrenoidosa, Chlorella</italic> sp. 1 and
+<italic>Chlorella</italic> sp. 2 is found 57.10, 54.42, 58.47,
+50.88 and 54.68 which satisfied the above standards. Oxidation stability of
+biodiesel depends of presence of polyunsaturated FAME in biodiesel. This can be
+explained by the fact that polyunsaturated FAME contains reactive sites which are
+susceptible for attack of free radicals during oxidation reaction. According to EN
+14214, the oxidative stability should be above 6&#x000a0;h. In this case, oxidation
+stability of five strains recorded 5.8&#x02013;8.5&#x000a0;h. Cold fuel properties, such as cold
+filter plugging point, cloud point and pour point, are the most important
+properties for low temperatures applications. CP is the temperature at which
+crystallization begins and PP at which fuel no longer pours. These properties are
+highly affected by the presence of saturated FAME in biodiesel. Higher value of
+saturated FAME will result in poor cold properties. ASTM D6751 specifies CP range
+&#x02212;3 to 12&#x000a0;&#x000b0;C and PP &#x02212;15 to 20&#x000a0;&#x000b0;C. Five <italic>Chlorella</italic>
+strains examined in this study showed CP ranges from 6.43 to 14.86&#x000a0;&#x000b0;C and PP from
+0.16 to 9.32&#x000a0;&#x000b0;C. Calorific value is the indication of energy produced by the
+combustion of fuel and it was found to be maximum (40.78&#x000a0;MJ/Kg) for <italic>Chlorella vulgaris</italic> and minimum for followed by
+<italic>Chlorella sp1</italic> (39.66&#x000a0;MJ/Kg).<table-wrap id="Tab2"><label>Table&#x000a0;2</label><caption><p>Fuel properties of biodiesel produced from <italic>Chlorella vulgaris, Chlorella minutissima, Chlorella
+pyrenoidosa, Chlorella</italic> sp. 1 and <italic>Chlorella</italic> sp. 2</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left">Fatty acid composition (%)</th><th align="left">
+<italic>Chlorella vulgaris</italic>
+</th><th align="left">
+<italic>Chlorella minutissima</italic>
+</th><th align="left">
+<italic>Chlorella pyrenoidosa</italic>
+</th><th align="left">
+<italic>Chlorella</italic> sp. 1</th><th align="left">
+<italic>Chlorella</italic> sp. 2</th></tr></thead><tbody><tr><td align="left">Saponification value (mg KOH g<sup>&#x02212;</sup>1
+oil)</td><td char="." align="char">178.68</td><td char="." align="char">199.94</td><td char="." align="char">197.21</td><td char="." align="char">201.63</td><td char="." align="char">198.48</td></tr><tr><td align="left">Iodine value (g I<sub>2</sub>
+100&#x000a0;g<sup>&#x02212;1</sup> oil)</td><td char="." align="char">87.73</td><td char="." align="char">85.22</td><td char="." align="char">68.90</td><td char="." align="char">99.92</td><td char="." align="char">84.95</td></tr><tr><td align="left">Cetane number</td><td char="." align="char">57.10</td><td char="." align="char">54.42</td><td char="." align="char">58.47</td><td char="." align="char">50.88</td><td char="." align="char">54.68</td></tr><tr><td align="left">DU (%)</td><td char="." align="char">94.05</td><td char="." align="char">88.68</td><td char="." align="char">73.17</td><td char="." align="char">99.26</td><td char="." align="char">89.72</td></tr><tr><td align="left">LCSF (&#x000b0;C)</td><td char="." align="char">5.15</td><td char="." align="char">4.88</td><td char="." align="char">6.43</td><td char="." align="char">4.81</td><td char="." align="char">7.11</td></tr><tr><td align="left">CFPP (&#x000b0;C)</td><td char="." align="char">&#x02212;0.29</td><td char="." align="char">&#x02212;1.11</td><td char="." align="char">3.75</td><td char="." align="char">&#x02212;1.33</td><td char="." align="char">5.88</td></tr><tr><td align="left">Oxidation stability (h)</td><td char="." align="char">5.8</td><td char="." align="char">7.2</td><td char="." align="char">8.5</td><td char="." align="char">6.2</td><td char="." align="char">5.8</td></tr><tr><td align="left">Cloud point (&#x000b0;C)</td><td char="." align="char">6.43</td><td char="." align="char">10.47</td><td char="." align="char">10.07</td><td char="." align="char">9.20</td><td char="." align="char">14.86</td></tr><tr><td align="left">Pour point (&#x000b0;C)</td><td char="." align="char">0.16</td><td char="." align="char">4.54</td><td char="." align="char">4.11</td><td char="." align="char">3.16</td><td char="." align="char">9.32</td></tr><tr><td align="left">Higher heating value (MJ/kg)</td><td char="." align="char">40.78</td><td char="." align="char">39.95</td><td char="." align="char">40.31</td><td char="." align="char">39.66</td><td char="." align="char">40.01</td></tr></tbody></table></table-wrap>
+</p></sec></sec><sec id="Sec17"><title>Conclusion</title><p>This study investigates the effect of various growth media and
+organic carbon sources on biomass and lipid production potential of five <italic>Chlorella</italic> species (<italic>Chlorella
+vulgaris</italic>, <italic>Chlorella minutissima</italic>,
+<italic>Chlorella pyrenoidosa</italic>, <italic>Chlorella</italic> sp. 1 and <italic>Chlorella</italic> sp.
+2). The results revealed that all the species showed good potential for lipid
+production in BG-11 supplemented with glycerol in comparison to controlled medium.
+However, maximum lipid yield was observed for <italic>Chlorella
+vulgaris</italic> (490.74&#x000a0;&#x000b1;&#x000a0;12.30&#x000a0;mg/L) among all the tested species. On the
+basis of lipid productivity, fatty acid composition and fuel properties, it is
+observed that <italic>Chlorella vulgaris</italic> showed good
+potential in BG-11 growth media supplemented with glycerol under mixotrophic
+condition for biodiesel production, but it further needs research for the
+optimization of C:N:P ratio for large-scale biodiesel production.</p></sec><sec sec-type="supplementary-material"><title>Electronic supplementary material</title><sec id="Sec18"><p>Below is the link to the electronic supplementary material.
+<supplementary-material content-type="local-data" id="MOESM1"><media xlink:href="13205_2016_434_MOESM1_ESM.docx"><caption><p>Supplementary material 1 (DOCX 453 kb)</p></caption></media></supplementary-material>
+</p></sec></sec></body><back><ack><p>Authors are highly thankful to our Chancellor Prof. S. J. Chopra, Former
+Vice Chancellor Dr. Parag Diwan, Vice Chancellor Dr. Shrihari, University of
+Petroleum and Energy Studies, Dehradun and R &#x00026; D department for their continuous
+encouragement and valuable mentorship.</p></ack><notes notes-type="COI-statement"><title>Compliance with ethical standards</title><sec id="FPar1"><title>Conflict of interest</title><p>The authors declare that they have no conflict of interest.</p></sec></notes><ref-list id="Bib1"><title>References</title><ref id="CR1"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bhatnagar</surname><given-names>A</given-names></name><name><surname>Chinnasamy</surname><given-names>S</given-names></name><name><surname>Singh</surname><given-names>M</given-names></name><name><surname>Das</surname><given-names>KC</given-names></name></person-group><article-title>Renewable biomass production by mixotrophic algae in
+the presence of various carbon sources and wastewaters</article-title><source>Appl Energy</source><year>2011</year><volume>88</volume><fpage>3425</fpage><lpage>3431</lpage><pub-id pub-id-type="doi">10.1016/j.apenergy.2010.12.064</pub-id></element-citation></ref><ref id="CR2"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cheirsilp</surname><given-names>B</given-names></name><name><surname>Torpee</surname><given-names>S</given-names></name></person-group><article-title>Enhanced growth and lipid production of microalgae
+under mixotrophic culture condition: effect of light intensity, glucose
+concentration and fed-batch cultivation</article-title><source>Bioresour Technol</source><year>2012</year><volume>110</volume><fpage>510</fpage><lpage>516</lpage><pub-id pub-id-type="doi">10.1016/j.biortech.2012.01.125</pub-id><pub-id pub-id-type="pmid">22361073</pub-id></element-citation></ref><ref id="CR3"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Chen</surname><given-names>CY</given-names></name><name><surname>Yeh</surname><given-names>KL</given-names></name><name><surname>Aisyah</surname><given-names>R</given-names></name><etal/></person-group><article-title>Cultivation, photobioreactor design and harvesting of
+microalgae for biodiesel production: a critical review</article-title><source>Bioresour Technol</source><year>2011</year><volume>102</volume><fpage>71</fpage><lpage>81</lpage><pub-id pub-id-type="doi">10.1016/j.biortech.2010.06.159</pub-id><pub-id pub-id-type="pmid">20674344</pub-id></element-citation></ref><ref id="CR4"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Choi</surname><given-names>HJ</given-names></name><name><surname>Yu</surname><given-names>SW</given-names></name></person-group><article-title>Influence of crude glycerol on the biomass and lipid
+content of microalgae</article-title><source>Biotechnol Biotechnol Equip</source><year>2015</year><volume>29</volume><fpage>506</fpage><lpage>513</lpage><pub-id pub-id-type="doi">10.1080/13102818.2015.1013988</pub-id></element-citation></ref><ref id="CR5"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Converti</surname><given-names>A</given-names></name><name><surname>Casazza</surname><given-names>AA</given-names></name><name><surname>Ortiz</surname><given-names>EY</given-names></name><etal/></person-group><article-title>Effect of temperature and nitrogen concentration on
+the growth and lipid content of <italic>Nannochloropsis
+oculata</italic> and <italic>Chlorella vulgaris</italic>
+for biodiesel production</article-title><source>Chem Eng Process Process Intensif</source><year>2009</year><volume>48</volume><fpage>1146</fpage><lpage>1151</lpage><pub-id pub-id-type="doi">10.1016/j.cep.2009.03.006</pub-id></element-citation></ref><ref id="CR6"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Feng</surname><given-names>P</given-names></name><name><surname>Deng</surname><given-names>Z</given-names></name><name><surname>Hu</surname><given-names>Z</given-names></name><name><surname>Fan</surname><given-names>L</given-names></name></person-group><article-title>Lipid accumulation and growth of Chlorella
+zofingiensis in flat plate photobioreactors outdoors</article-title><source>Bioresour Technol</source><year>2011</year><volume>102</volume><fpage>10577</fpage><lpage>10584</lpage><pub-id pub-id-type="doi">10.1016/j.biortech.2011.08.109</pub-id><pub-id pub-id-type="pmid">21955881</pub-id></element-citation></ref><ref id="CR7"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Folch</surname><given-names>J</given-names></name><name><surname>Lees</surname><given-names>M</given-names></name><name><surname>Sloane</surname><given-names>Stanley G</given-names></name></person-group><article-title>A simple method of isolation and purification of total
+lipids from animal tissues</article-title><source>J Biol Chem</source><year>1957</year><volume>226</volume><fpage>497</fpage><lpage>509</lpage><pub-id pub-id-type="pmid">13428781</pub-id></element-citation></ref><ref id="CR8"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Francisco</surname><given-names>EC</given-names></name><name><surname>Neves</surname><given-names>DB</given-names></name><name><surname>Jacob-Lopes</surname><given-names>E</given-names></name><name><surname>Franco</surname><given-names>TF</given-names></name></person-group><article-title>Microalgae as feedstock for biodiesel production:
+carbon dioxide sequestration, lipid production and biofuel
+quality</article-title><source>J Chem Technol Biotechnol</source><year>2010</year><volume>85</volume><fpage>395</fpage><lpage>403</lpage><pub-id pub-id-type="doi">10.1002/jctb.2338</pub-id></element-citation></ref><ref id="CR9"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gao</surname><given-names>C</given-names></name><name><surname>Zhai</surname><given-names>Y</given-names></name><name><surname>Ding</surname><given-names>Y</given-names></name><name><surname>Wu</surname><given-names>Q</given-names></name></person-group><article-title>Application of sweet sorghum for biodiesel production
+by heterotrophic microalga Chlorella protothecoides</article-title><source>Appl Energy</source><year>2010</year><volume>87</volume><fpage>756</fpage><lpage>761</lpage><pub-id pub-id-type="doi">10.1016/j.apenergy.2009.09.006</pub-id></element-citation></ref><ref id="CR10"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gim</surname><given-names>GH</given-names></name><name><surname>Kim</surname><given-names>JK</given-names></name><name><surname>Kim</surname><given-names>HS</given-names></name><etal/></person-group><article-title>Comparison of biomass production and total lipid
+content of freshwater green microalgae cultivated under various culture
+conditions</article-title><source>Bioprocess Biosyst Eng</source><year>2014</year><volume>37</volume><fpage>99</fpage><lpage>106</lpage><pub-id pub-id-type="doi">10.1007/s00449-013-0920-8</pub-id><pub-id pub-id-type="pmid">23640179</pub-id></element-citation></ref><ref id="CR11"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Griffiths</surname><given-names>MJ</given-names></name><name><surname>Harrison</surname><given-names>STL</given-names></name></person-group><article-title>Lipid productivity as a key characteristic for
+choosing algal species for biodiesel production</article-title><source>J Appl Phycol</source><year>2009</year><volume>21</volume><fpage>493</fpage><lpage>507</lpage><pub-id pub-id-type="doi">10.1007/s10811-008-9392-7</pub-id></element-citation></ref><ref id="CR12"><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Guillard</surname><given-names>RRL</given-names></name></person-group><person-group person-group-type="editor"><name><surname>Andersen</surname><given-names>RA</given-names></name></person-group><article-title>Purification Methods for Microalgae</article-title><source>Algal culturing techniques</source><year>2005</year><publisher-loc>USA</publisher-loc><publisher-name>Elesvier Academic Press</publisher-name><fpage>117</fpage><lpage>132</lpage></element-citation></ref><ref id="CR13"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hoekman</surname><given-names>SK</given-names></name><name><surname>Broch</surname><given-names>A</given-names></name><name><surname>Robbins</surname><given-names>C</given-names></name><name><surname>Ceniceros</surname><given-names>E</given-names></name><name><surname>Natarajan</surname><given-names>M</given-names></name></person-group><article-title>Review of biodiesel composition, properties, and
+specifications</article-title><source>Renew. Sustain Energy Rev</source><year>2012</year><volume>16</volume><fpage>143</fpage><lpage>169</lpage><pub-id pub-id-type="doi">10.1016/j.rser.2011.07.143</pub-id></element-citation></ref><ref id="CR14"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Huerlimann</surname><given-names>R</given-names></name><name><surname>de Nys</surname><given-names>R</given-names></name><name><surname>Heimann</surname><given-names>K</given-names></name></person-group><article-title>Growth, lipid content, productivity, and fatty acid
+composition of tropical microalgae for scale-up production</article-title><source>Biotechnol Bioeng</source><year>2010</year><volume>107</volume><fpage>245</fpage><lpage>257</lpage><pub-id pub-id-type="doi">10.1002/bit.22809</pub-id><pub-id pub-id-type="pmid">20506156</pub-id></element-citation></ref><ref id="CR15"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ilavarasi</surname><given-names>A</given-names></name><name><surname>Mubarakali</surname><given-names>D</given-names></name><name><surname>Praveenkumar</surname><given-names>R</given-names></name><etal/></person-group><article-title>Optimization of various growth media to freshwater
+microalgae for biomass production</article-title><source>Biotechnology</source><year>2011</year><volume>10</volume><fpage>540</fpage><lpage>545</lpage><pub-id pub-id-type="doi">10.3923/biotech.2011.540.545</pub-id></element-citation></ref><ref id="CR16"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Knothe</surname><given-names>G</given-names></name></person-group><article-title>Improving biodiesel fuel properties by modifying fatty
+ester composition</article-title><source>Energy Environ Sci</source><year>2009</year><volume>2</volume><fpage>759</fpage><lpage>766</lpage><pub-id pub-id-type="doi">10.1039/b903941d</pub-id></element-citation></ref><ref id="CR17"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kothari</surname><given-names>R</given-names></name><name><surname>Pathak</surname><given-names>VV</given-names></name><name><surname>Kumar</surname><given-names>V</given-names></name><name><surname>Singh</surname><given-names>DP</given-names></name></person-group><article-title>Bioresource technology experimental study for growth
+potential of unicellular alga <italic>Chlorella
+pyrenoidosa</italic> on dairy waste water : an integrated approach for
+treatment and biofuel production</article-title><source>Bioresour Technol</source><year>2012</year><volume>116</volume><fpage>466</fpage><lpage>470</lpage><pub-id pub-id-type="doi">10.1016/j.biortech.2012.03.121</pub-id><pub-id pub-id-type="pmid">22525258</pub-id></element-citation></ref><ref id="CR18"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kumari</surname><given-names>P</given-names></name><name><surname>Reddy</surname><given-names>CRK</given-names></name><name><surname>Jha</surname><given-names>B</given-names></name></person-group><article-title>Comparative evaluation and selection of a method for
+lipid and fatty acid extraction from macroalgae</article-title><source>Anal Biochem</source><year>2011</year><volume>415</volume><fpage>134</fpage><lpage>144</lpage><pub-id pub-id-type="doi">10.1016/j.ab.2011.04.010</pub-id><pub-id pub-id-type="pmid">21539805</pub-id></element-citation></ref><ref id="CR19"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lam</surname><given-names>MK</given-names></name><name><surname>Lee</surname><given-names>KT</given-names></name></person-group><article-title>Potential of using organic fertilizer to cultivate
+Chlorella vulgaris for biodiesel production</article-title><source>Appl Energy</source><year>2012</year><volume>94</volume><fpage>303</fpage><lpage>308</lpage><pub-id pub-id-type="doi">10.1016/j.apenergy.2012.01.075</pub-id></element-citation></ref><ref id="CR20"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Li</surname><given-names>Y</given-names></name><name><surname>Fei</surname><given-names>X</given-names></name><name><surname>Deng</surname><given-names>X</given-names></name></person-group><article-title>Novel molecular insights into nitrogen
+starvation-induced triacylglycerols accumulation revealed by differential gene
+expression analysis in green algae <italic>Micractinium
+pusillum</italic></article-title><source>Biomass Bioenergy</source><year>2012</year><volume>42</volume><fpage>199</fpage><lpage>211</lpage><pub-id pub-id-type="doi">10.1016/j.biombioe.2012.03.010</pub-id></element-citation></ref><ref id="CR21"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lin</surname><given-names>T-S</given-names></name><name><surname>Wu</surname><given-names>J-Y</given-names></name></person-group><article-title>Effect of carbon sources on growth and lipid
+accumulation of newly isolated microalgae cultured under mixotrophic
+condition</article-title><source>Bioresour Technol</source><year>2015</year><volume>184</volume><fpage>100</fpage><lpage>107</lpage><pub-id pub-id-type="doi">10.1016/j.biortech.2014.11.005</pub-id><pub-id pub-id-type="pmid">25443671</pub-id></element-citation></ref><ref id="CR22"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lu</surname><given-names>J</given-names></name><name><surname>Sheahan</surname><given-names>C</given-names></name><name><surname>Fu</surname><given-names>P</given-names></name></person-group><article-title>Metabolic engineering of algae for fourth generation
+biofuels production</article-title><source>Energy Environ Sci</source><year>2011</year><volume>4</volume><fpage>2451</fpage><lpage>2466</lpage><pub-id pub-id-type="doi">10.1039/c0ee00593b</pub-id></element-citation></ref><ref id="CR23"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Perez-Garcia</surname><given-names>O</given-names></name><name><surname>Escalante</surname><given-names>FME</given-names></name><name><surname>de-Bashan</surname><given-names>LE</given-names></name><name><surname>Bashan</surname><given-names>Y</given-names></name></person-group><article-title>Heterotrophic cultures of microalgae: metabolism and
+potential products</article-title><source>Water Res</source><year>2011</year><volume>45</volume><fpage>11</fpage><lpage>36</lpage><pub-id pub-id-type="doi">10.1016/j.watres.2010.08.037</pub-id><pub-id pub-id-type="pmid">20970155</pub-id></element-citation></ref><ref id="CR24"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Perez-Garcia</surname><given-names>O</given-names></name><name><surname>Escalante</surname><given-names>FME</given-names></name><name><surname>de-Bashan</surname><given-names>LE</given-names></name><name><surname>Bashan</surname><given-names>Y</given-names></name></person-group><article-title>Heterotrophic cultures of microalgae: metabolism and
+potential products</article-title><source>Water Res</source><year>2011</year><volume>45</volume><fpage>11</fpage><lpage>36</lpage><pub-id pub-id-type="doi">10.1016/j.watres.2010.08.037</pub-id><pub-id pub-id-type="pmid">20970155</pub-id></element-citation></ref><ref id="CR25"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Prajapati</surname><given-names>SK</given-names></name><name><surname>Kaushik</surname><given-names>P</given-names></name><name><surname>Malik</surname><given-names>P</given-names></name><name><surname>Vijay</surname><given-names>VK</given-names></name></person-group><article-title>Phycoremediation coupled production of algal biomass,
+harvesting and anaerobic digestion: possibilities and challenges</article-title><source>Biotechnol Adv</source><year>2013</year><volume>31</volume><fpage>1408</fpage><lpage>1425</lpage><pub-id pub-id-type="doi">10.1016/j.biotechadv.2013.06.005</pub-id><pub-id pub-id-type="pmid">23827782</pub-id></element-citation></ref><ref id="CR26"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Prajapati</surname><given-names>SK</given-names></name><name><surname>Malik</surname><given-names>A</given-names></name><name><surname>Vijay</surname><given-names>VK</given-names></name></person-group><article-title>Comparative evaluation of biomass production and
+bioenergy generation potential of <italic>Chlorella</italic>
+spp. through anaerobic digestion</article-title><source>Appl Energy</source><year>2014</year><volume>114</volume><fpage>790</fpage><lpage>797</lpage><pub-id pub-id-type="doi">10.1016/j.apenergy.2013.08.021</pub-id></element-citation></ref><ref id="CR27"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Prathima Devi</surname><given-names>M</given-names></name><name><surname>Venkata Subhash</surname><given-names>G</given-names></name><name><surname>Venkata Mohan</surname><given-names>S</given-names></name></person-group><article-title>Heterotrophic cultivation of mixed microalgae for
+lipid accumulation and wastewater treatment during sequential growth and
+starvation phases: effect of nutrient supplementation</article-title><source>Renew Energy</source><year>2012</year><volume>43</volume><fpage>276</fpage><lpage>283</lpage><pub-id pub-id-type="doi">10.1016/j.renene.2011.11.021</pub-id></element-citation></ref><ref id="CR28"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sajid</surname><given-names>Z</given-names></name><name><surname>Khan</surname><given-names>F</given-names></name><name><surname>Zhang</surname><given-names>Y</given-names></name></person-group><article-title>Process simulation and life cycle analysis of
+biodiesel production</article-title><source>Renew Energy</source><year>2016</year><volume>85</volume><fpage>945</fpage><lpage>952</lpage><pub-id pub-id-type="doi">10.1016/j.renene.2015.07.046</pub-id></element-citation></ref><ref id="CR29"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sharma</surname><given-names>AK</given-names></name><name><surname>Sahoo</surname><given-names>PK</given-names></name><name><surname>Singhal</surname><given-names>S</given-names></name></person-group><article-title>Comparative evolution of biomass production and lipid
+accumulation potential of Chlorella species grown in a bubble column
+photobioreactor</article-title><source>Biofuels</source><year>2016</year></element-citation></ref><ref id="CR30"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sinha</surname><given-names>SK</given-names></name><name><surname>Gupta</surname><given-names>A</given-names></name><name><surname>Bharalee</surname><given-names>R</given-names></name></person-group><article-title>Production of biodiesel from freshwater microalgae and
+evaluation of fuel properties based on fatty acid methyl ester
+profile</article-title><source>Biofuels</source><year>2016</year></element-citation></ref><ref id="CR31"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sun</surname><given-names>Y</given-names></name><name><surname>Liu</surname><given-names>J</given-names></name><name><surname>Xie</surname><given-names>T</given-names></name><etal/></person-group><article-title>Enhanced lipid accumulation by <italic>Chlorella vulgaris</italic> in a two-stage fed-batch culture with
+glycerol</article-title><source>Energy Fuels</source><year>2014</year><volume>28</volume><fpage>3172</fpage><lpage>3177</lpage><pub-id pub-id-type="doi">10.1021/ef5000326</pub-id></element-citation></ref><ref id="CR32"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wang</surname><given-names>W</given-names></name><name><surname>Han</surname><given-names>F</given-names></name><name><surname>Li</surname><given-names>Y</given-names></name><etal/></person-group><article-title>Medium screening and optimization for photoautotrophic
+culture of <italic>Chlorella pyrenoidosa</italic> with high
+lipid productivity indoors and outdoors</article-title><source>Bioresour Technol</source><year>2014</year><volume>170</volume><fpage>395</fpage><lpage>403</lpage><pub-id pub-id-type="doi">10.1016/j.biortech.2014.08.030</pub-id><pub-id pub-id-type="pmid">25156876</pub-id></element-citation></ref><ref id="CR33"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Williams</surname><given-names>PRD</given-names></name><name><surname>Inman</surname><given-names>D</given-names></name><name><surname>Aden</surname><given-names>A</given-names></name><name><surname>Heath</surname><given-names>GA</given-names></name></person-group><article-title>Environmental and Sustainability factors associated
+with next-generation biofuels in the U.S.: what do we really
+know?</article-title><source>Environ Sci Technol</source><year>2009</year><volume>43</volume><fpage>4763</fpage><lpage>4775</lpage><pub-id pub-id-type="doi">10.1021/es900250d</pub-id><pub-id pub-id-type="pmid">19673263</pub-id></element-citation></ref><ref id="CR34"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Yanagi</surname><given-names>M</given-names></name><name><surname>Watanabe</surname><given-names>Y</given-names></name><name><surname>Saiki</surname><given-names>H</given-names></name></person-group><article-title>CO2 fixation by <italic>Chlorella</italic> sp. HA-1 and its utilization</article-title><source>Energy Convers Manag</source><year>1995</year><volume>36</volume><fpage>713</fpage><lpage>716</lpage><pub-id pub-id-type="doi">10.1016/0196-8904(95)00104-L</pub-id></element-citation></ref><ref id="CR35"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Yang</surname><given-names>C</given-names></name><name><surname>Hua</surname><given-names>Q</given-names></name><name><surname>Shimizu</surname><given-names>K</given-names></name></person-group><article-title>Energetics and carbon metabolism during growth of
+microalgalcells under photoautotrophic, mixotrophic and
+cycliclight-autotrophic/dark-heterotrophic conditions</article-title><source>Biochem Eng J</source><year>2000</year><volume>6</volume><fpage>87</fpage><lpage>102</lpage><pub-id pub-id-type="doi">10.1016/S1369-703X(00)00080-2</pub-id><pub-id pub-id-type="pmid">10959082</pub-id></element-citation></ref></ref-list></back></article>

@@ -1,0 +1,1023 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="review-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Br J Haematol</journal-id><journal-id journal-id-type="iso-abbrev">Br. J. Haematol</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1365-2141</journal-id><journal-id journal-id-type="publisher-id">BJH</journal-id><journal-title-group><journal-title>British Journal of Haematology</journal-title></journal-title-group><issn pub-type="ppub">0007-1048</issn><issn pub-type="epub">1365-2141</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">26996518</article-id><article-id pub-id-type="pmc">4914896</article-id><article-id pub-id-type="doi">10.1111/bjh.14010</article-id><article-id pub-id-type="publisher-id">BJH14010</article-id><article-categories><subj-group subj-group-type="overline"><subject>Review</subject></subj-group><subj-group subj-group-type="heading"><subject>Reviews</subject></subj-group></article-categories><title-group><article-title>Concise review: programming human pluripotent stem cells into blood</article-title><alt-title alt-title-type="left-running-head">Review</alt-title></title-group><contrib-group><contrib id="bjh14010-cr-0001" contrib-type="author"><name><surname>Easterbrook</surname><given-names>Jennifer</given-names></name><xref ref-type="aff" rid="bjh14010-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="bjh14010-cr-0002" contrib-type="author"><name><surname>Fidanza</surname><given-names>Antonella</given-names></name><xref ref-type="aff" rid="bjh14010-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="bjh14010-cr-0003" contrib-type="author" corresp="yes"><name><surname>Forrester</surname><given-names>Lesley M.</given-names></name><xref ref-type="aff" rid="bjh14010-aff-0001">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="bjh14010-aff-0001"><label><sup>1</sup></label><named-content content-type="organisation-division">MRC Centre for Regenerative Medicine</named-content><institution>University of Edinburgh</institution><named-content content-type="city">Edinburgh</named-content><country country="GB">UK</country></aff><author-notes><corresp id="correspondenceTo"><label>*</label>
+Correspondence: Lesley M. Forrester, MRC Centre for Regenerative Medicine, Scottish Centre for Regenerative Medicine, The University of Edinburgh, Edinburgh Bioquarter, 5 Little France Drive, Edinburgh, EH16 4UU, UK.<break/>
+E&#x02010;mail: <email>l.forrester@ed.ac.uk</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>21</day><month>3</month><year>2016</year></pub-date><pub-date pub-type="ppub"><month>6</month><year>2016</year></pub-date><volume>173</volume><issue>5</issue><issue-id pub-id-type="doi">10.1111/bjh.2016.173.issue-5</issue-id><fpage>671</fpage><lpage>679</lpage><permissions><!--<copyright-statement content-type="issue-copyright"> Copyright &#x000a9; 2016 John Wiley & Sons Ltd <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2016 The Authors. <italic>British Journal of Haematology</italic> published by John Wiley &#x00026; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:BJH-173-671.pdf"/><abstract id="bjh14010-abs-0001"><title>Summary</title><p>Blood disorders are treated with cell therapies including haematopoietic stem cell (<styled-content style="fixed-case">HSC</styled-content>) transplantation as well as platelet and red blood cell transfusions. However the source of cells is entirely dependent on donors, procedures are susceptible to transfusion&#x02010;transmitted infections and serious complications can arise in recipients due to immunological incompatibility. These problems could be alleviated if it was possible to produce haematopoietic cells <italic>in&#x000a0;vitro</italic> from an autologous and renewable cell source. The production of haematopoietic cells in the laboratory from human induced pluripotent stem cells (<styled-content style="fixed-case">iPSC</styled-content>s) may provide a route to realize this goal but it has proven challenging to generate long&#x02010;term reconstituting <styled-content style="fixed-case">HSC</styled-content>s. To date, the optimization of differentiation protocols has mostly relied on the manipulation of extrinsic signals to mimic the <italic>in&#x000a0;vivo</italic> environment. We review studies that have taken an alternative approach to modulate intrinsic signals by enforced expression of transcription factors. Single and combinations of multiple transcription factors have been used in a variety of contexts to enhance the production of haematopoietic cells from human pluripotent stem cells. This programming approach, together with the recent advances in the production and use of synthetic transcription factors, holds great promise for the production of fully functional <styled-content style="fixed-case">HSC</styled-content>s in the future.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="bjh14010-kwd-0001">pluripotent stem cells</kwd><kwd id="bjh14010-kwd-0002">differentiation</kwd><kwd id="bjh14010-kwd-0003">hematopoietic stem cells</kwd><kwd id="bjh14010-kwd-0004">hematopoietic progenitors cells</kwd><kwd id="bjh14010-kwd-0005">transcription factors</kwd><kwd id="bjh14010-kwd-0006">programming</kwd></kwd-group><funding-group><award-group><funding-source>Wellcome Trust</funding-source><award-id>102610</award-id><award-id>100468/Z/12/Z</award-id></award-group></funding-group><counts><page-count count="9"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>bjh14010</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>June 2016</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:4.9.1 mode:remove_FC converted:21.06.2016</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec id="bjh14010-sec-0001"><title>The quest for engraftable HSCs</title><p>The generation of an unlimited supply of clinical&#x02010;grade, engraftable haematopoietic stem cells (HSCs) and fully functional mature blood cells is a highly sought after goal for clinical haematologists. HSC transplantation is currently the most widely used regenerative therapy in clinical practice, used as a potentially curative treatment for a wide range of malignant and non&#x02010;malignant conditions. The current major source of HSCs is from peripheral blood following mobilization from bone marrow (BM), with BM itself and umbilical cord blood (UCB) providing alternative sources. However, problems with all of these sources include a significant shortage of appropriate donor supplies, the requirement for immune compatibility and risk of transmission of infectious or malignant disease. The ultimate goal of this field is therefore to produce a reliable and scalable source of HSCs capable of efficient and complete long&#x02010;term engraftment. In addition to their direct therapeutic application for BM transplantation, HSCs could provide a source of mature haematopoietic cells for other therapeutic purposes such as red blood cell and platelet transfusions and for drug testing and modelling of both human development and haematological malignancies.</p><p>Pluripotent stem cells (PSCs) could potentially provide the answer to this quest (Table&#x000a0;<xref rid="bjh14010-tbl-0001" ref-type="table-wrap">1</xref>). These cells are capable of extensive self&#x02010;renewal in the laboratory and can be differentiated into any cell type of the body, including blood cells. One type of PSC, known as human embryonic stem cells (hESCs) is derived from the inner cell mass of the embryonic blastocyst but, although they provide an excellent tool to study human biology, ethical concerns associated with their origin limit their use in the clinic. Hence the advent of induced&#x02010;pluripotent stem cells (iPSCs) led to great optimism in the field as a potentially limitless source of clinical&#x02010;grade, immunologically&#x02010;matched hematopoietic cells (Kaufman, <xref rid="bjh14010-bib-0022" ref-type="ref">2009</xref>). Human iPSCs can be produced by reprogramming mature adult cells, such as skin cells, into stem cells with the &#x02018;pluripotency&#x02010;associated transcription factor&#x02019;&#x02010;encoding genes, <italic>POU5F1, KLF4, SOX2</italic> and <italic>MYC</italic> (Takahashi <italic>et&#x000a0;al</italic>, <xref rid="bjh14010-bib-0057" ref-type="ref">2007</xref>). Their extensive self&#x02010;renewal capacity and ability to differentiate into any cell type means that they can provide an autologous source for any cell type.</p><table-wrap id="bjh14010-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Key definitions</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><tbody><tr><td align="left" rowspan="1" colspan="1">PSC</td><td align="left" rowspan="1" colspan="1">Pluripotent stem cell</td><td align="left" rowspan="1" colspan="1">Includes both ESCs and iPSCs</td></tr><tr><td align="left" rowspan="1" colspan="1">iPSC</td><td align="left" rowspan="1" colspan="1">Induced pluripotent stem cell</td><td align="left" rowspan="1" colspan="1">Derived from reprogrammed adult somatic cells</td></tr><tr><td align="left" rowspan="1" colspan="1">hESC</td><td align="left" rowspan="1" colspan="1">Human embryonic stem cell</td><td align="left" rowspan="1" colspan="1">Derived from the inner cell mass of a blastocyst</td></tr><tr><td align="left" rowspan="1" colspan="1">EB</td><td align="left" rowspan="1" colspan="1">Embryoid body</td><td align="left" rowspan="1" colspan="1">Three dimensional aggregate of PSCs in suspension</td></tr><tr><td align="left" rowspan="1" colspan="1">HSC</td><td align="left" rowspan="1" colspan="1">Haematopoietic stem cell</td><td align="left" rowspan="1" colspan="1">Capacity for long&#x02010;term multilineage engraftment &#x00026; serial transplantation</td></tr><tr><td align="left" rowspan="1" colspan="1">HPC</td><td align="left" rowspan="1" colspan="1">Haematopoietic progenitor cell</td><td align="left" rowspan="1" colspan="1">Precursor cell lacking true HSC properties above</td></tr><tr><td align="left" rowspan="1" colspan="1">TF</td><td align="left" rowspan="1" colspan="1">Transcription factor</td><td align="left" rowspan="1" colspan="1">Protein controlling DNA transcription</td></tr><tr><td align="left" rowspan="1" colspan="1">HE</td><td align="left" rowspan="1" colspan="1">Haemogenic endothelium</td><td align="left" rowspan="1" colspan="1">Specialized endothelium with haematopoietic potential</td></tr></tbody></table><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><p>Attempts to generate haematopoietic cell types from iPSCs and hESCs have thus far involved differentiation protocols that include the step&#x02010;wise addition of cytokines in serum&#x02010;free conditions, differentiation of PSCs in three&#x02010;dimensional structures known as embryoid bodies (EBs) or co&#x02010;culture on stromal cells (Kaufman <italic>et&#x000a0;al</italic>, <xref rid="bjh14010-bib-0023" ref-type="ref">2001</xref>; Zambidis <italic>et&#x000a0;al</italic>, <xref rid="bjh14010-bib-0062" ref-type="ref">2005</xref>; Kennedy <italic>et&#x000a0;al</italic>, <xref rid="bjh14010-bib-0024" ref-type="ref">2007</xref>; Ledran <italic>et&#x000a0;al</italic>, <xref rid="bjh14010-bib-0031" ref-type="ref">2008</xref>; Salvagiotto <italic>et&#x000a0;al</italic>, <xref rid="bjh14010-bib-0050" ref-type="ref">2011</xref>). There has been some success in producing multilineage progenitors and cells that are capable of limited <italic>in&#x000a0;vivo</italic> reconstitution but there are no robust, reproducible protocols that can generate long&#x02010;term reconstituting HSCs. While mature blood cells, such as macrophages (Choi <italic>et&#x000a0;al</italic>, <xref rid="bjh14010-bib-0008" ref-type="ref">2011</xref>), dendritic cells, and erythrocytes (Kobari <italic>et&#x000a0;al</italic>, <xref rid="bjh14010-bib-0025" ref-type="ref">2012</xref>), can be produced, these protocols also have significant limitations. For instance, hESC&#x02010;derived erythroid cells predominantly express fetal rather than adult globins and fail to enucleate efficiently (Mountford <italic>et&#x000a0;al</italic>, <xref rid="bjh14010-bib-0038" ref-type="ref">2010</xref>; Mazurier <italic>et&#x000a0;al</italic>, <xref rid="bjh14010-bib-0035" ref-type="ref">2011</xref>). It is noteworthy that many of these studies report significant variations in the haematopoietic potential of different hESC/iPSC lines in identical culture conditions suggesting that there are specific intrinsic signals that regulate the production of haematopoietic cells <italic>in&#x000a0;vitro</italic> (Melichar <italic>et&#x000a0;al</italic>, <xref rid="bjh14010-bib-0036" ref-type="ref">2011</xref>). Could manipulation of these intrinsic signals be the solution? While it is clear that intrinsic signalling involves highly complex genetic networks, specific master regulatory transcription factors (TFs) have been identified which regulate haematopoietic development (Lessard <italic>et&#x000a0;al</italic>, <xref rid="bjh14010-bib-0032" ref-type="ref">2004</xref>; Teitell &#x00026; Mikkola, <xref rid="bjh14010-bib-0058" ref-type="ref">2006</xref>; Wilson <italic>et&#x000a0;al</italic>, <xref rid="bjh14010-bib-0059" ref-type="ref">2011</xref>). The production of HSCs from human PSCs <italic>in&#x000a0;vitro</italic> could be enhanced potentially by manipulating the expression of these key TFs.</p></sec><sec id="bjh14010-sec-0002"><title>Genetic programming with transcription factors</title><p>The concept of TF programming, whereby overexpression of master TFs in one cell type can convert the cell into a different functional cell, was first demonstrated by the conversion of murine fibroblasts to cells with myogenic properties with the single TF&#x02010;encoding gene, <italic>Myod1</italic> (Davis <italic>et&#x000a0;al</italic>, <xref rid="bjh14010-bib-0009" ref-type="ref">1987</xref>). However, arguably the most acclaimed example was the landmark report that fully differentiated somatic cells can be reprogrammed to PSCs by the exogenous expression of just four TFs (Takahashi &#x00026; Yamanaka, <xref rid="bjh14010-bib-0056" ref-type="ref">2006</xref>). TF programming has also been used to produce haematopoietic progenitor cells (HPCs)/HSCs either from a mature differentiated cell type (herein referred to as direct programming) or from PSCs (herein referred to as forward programming) (Fig&#x000a0;<xref rid="bjh14010-fig-0001" ref-type="fig">1</xref>). Human dermal fibroblasts were converted to myeloid&#x02010;restricted multilineage HPCs in a direct programming strategy by the ectopic expression of the pluripotency&#x02010;associated TFs, <italic>POU5F1</italic> (Szabo <italic>et&#x000a0;al</italic>, <xref rid="bjh14010-bib-0055" ref-type="ref">2010</xref>) and <italic>SOX2</italic> (Pulecio <italic>et&#x000a0;al</italic>, <xref rid="bjh14010-bib-0041" ref-type="ref">2014</xref>). Similarly, two studies demonstrated that murine fibroblasts could be directly converted to HPCs using combinations of haematopoietic TFs (Pereira <italic>et&#x000a0;al</italic>, <xref rid="bjh14010-bib-0040" ref-type="ref">2013</xref>; Batta <italic>et&#x000a0;al</italic>, <xref rid="bjh14010-bib-0004" ref-type="ref">2014</xref>). These direct programming strategies will not be discussed in detail here as an excellent review on this topic has been published recently (Ebina &#x00026; Rossi, <xref rid="bjh14010-bib-0012" ref-type="ref">2015</xref>). However, it is clear that this direct programming strategy has not been able to generate robust long&#x02010;term repopulating HSCs with multilineage potential.</p><fig fig-type="Figure" xml:lang="en" id="bjh14010-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Programming strategies employed for the production of human haematopoietic cells <italic>in&#x000a0;vitro</italic>. The production of haematopoietic progenitors cells (<styled-content style="fixed-case">HPC</styled-content>s) from human pluripotent stem cells (<styled-content style="fixed-case">PSC</styled-content>s) has been enhanced by the overexpression of single or multiple <styled-content style="fixed-case">TF</styled-content>s (forward programming). <styled-content style="fixed-case">TF</styled-content>s have also been used to programme other mature cell types, such as endothelial cells and fibroblasts, into <styled-content style="fixed-case">HPC</styled-content>s (direct programming). The production of multilineage cells with serial transplantation capacity has been achieved <italic>in&#x000a0;vitro</italic> (dotted arrow) but these cells lacked T cell potential <italic>in&#x000a0;vivo</italic> so it is premature to consider these as fully functional haematopoietic stem cells (<styled-content style="fixed-case">HSC</styled-content>s). Classic reprogramming of fibroblasts into <styled-content style="fixed-case">PSC</styled-content>s with the four <styled-content style="fixed-case">TF</styled-content>s reported by Takahashi <italic>et&#x000a0;al</italic>., (<xref rid="bjh14010-bib-0057" ref-type="ref">2007</xref>) has been included for completeness. See text for references.</p></caption><graphic id="nlm-graphic-1" xlink:href="BJH-173-671-g001"/></fig><p>One approach to this problem has been to use a starting cell that has a more similar epigenetic memory to functional haematopoietic cells. For example, direct programming of human umbilical vein and dermal microvascular endothelial cells with <italic>FOSB, GFI1, RUNX1</italic> and <italic>SPI1</italic> resulted in the production of multipotent HPCs capable of long&#x02010;term engraftment and serial transplantation. However, although a small but significant population of T cells were generated <italic>in&#x000a0;vitro</italic> when the expression of <italic>SPI1</italic> was temporally restricted, T cells were not detected in engrafted recipients (Sandler <italic>et&#x000a0;al</italic>, <xref rid="bjh14010-bib-0052" ref-type="ref">2014</xref>). This study emphasized the importance of the microenvironment as reprogrammed cells had to be propagated within an instructive vascular niche to induce the outgrowth of multipotent HPCs.</p><p>Transient expression of <italic>Runx1, Hlf, Lmo2, Prdm5, Pbx1,</italic> and <italic>Zfp37</italic> in primary murine lymphoid and myeloid progenitors further supported the hypothesis that reducing the epigenetic barrier could provide a route to the successful production of HSCs (Riddell <italic>et&#x000a0;al</italic>, <xref rid="bjh14010-bib-0046" ref-type="ref">2014</xref>). Cells with clonal multilineage differentiation potential [termed induced&#x02010;HSCs (i&#x02010;HSCs)] capable of serial transplantation were generated using this strategy. However, although the TFs were delivered to their target cells <italic>ex&#x000a0;vivo</italic>, the cells were then returned to the haematopoietic inductive microenvironment <italic>in&#x000a0;vivo</italic>, again highlighting the fact that the environment plays an essential role in maturation and maintenance of reprogrammed cells. While an exciting advance, this study required HSCs to be selected and expanded <italic>in&#x000a0;vivo</italic> and clearly this type of strategy would be difficult to replicate routinely in the clinical setting.</p></sec><sec id="bjh14010-sec-0003"><title>Forward programming of hPSCs</title><p>While different starting cells have been employed in an attempt to &#x02018;lower the epigenetic barrier&#x02019;, human PSCs arguably provide the best genomic landscape for successful production of HSCs. Forward programming of human PSCs with appropriate TFs is therefore an exciting prospect (Fig&#x000a0;<xref rid="bjh14010-fig-0001" ref-type="fig">1</xref>). In this review we highlight recent studies that have used forward programming in both human ESCs and iPSCs to enhance production of HPCs. We summarize the role of the chosen TFs in haematopoiesis <italic>in&#x000a0;vivo</italic>, describe the selection strategies &#x00026; differentiation methods employed and discuss the reported effects on HPC/HSC production (Table&#x000a0;<xref rid="bjh14010-tbl-0002" ref-type="table-wrap">2</xref>). A number of strategies have used single TFs to enhance haematopoietic differentiation but more recently combinatorial strategies involving multiple TFs have been used.</p><table-wrap id="bjh14010-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Effect of transcription factor overexpression on production of HPCs and HSCs from human PSCs</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Reference</th><th align="left" valign="top" rowspan="1" colspan="1">Genes</th><th align="left" valign="top" rowspan="1" colspan="1">How gene identified</th><th align="left" valign="top" rowspan="1" colspan="1">Overexpression system</th><th align="left" valign="top" rowspan="1" colspan="1">Differentiation System</th><th align="left" valign="top" rowspan="1" colspan="1">Cell Lines</th><th align="left" valign="top" rowspan="1" colspan="1">HPC production (CFU&#x02010;C)</th><th align="left" valign="top" rowspan="1" colspan="1">
+<xref ref-type="fn" rid="bjh14010-note-0003">b</xref>HSC production</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Yung <italic>et&#x000a0;al</italic> (<xref rid="bjh14010-bib-0061" ref-type="ref">2011</xref>)</td><td align="left" rowspan="1" colspan="1">
+<italic>TAL1</italic>
+</td><td align="left" rowspan="1" colspan="1">Transcriptional profiling of hESC&#x02010;derived CD31<sup>+</sup>KDR<sup>+</sup> cells and literature</td><td align="left" rowspan="1" colspan="1">Lentivirus</td><td align="left" rowspan="1" colspan="1">
+EB<break/>
+(Serum&#x02010;free<break/>
+Feeder&#x02010;free)
+</td><td align="left" rowspan="1" colspan="1">hESCs: H1, H9</td><td align="left" rowspan="1" colspan="1">
+<inline-graphic xlink:href="BJH-173-671-g002.jpg" xlink:title="image"/>CFU&#x02010;Cs<break/>
+(mostly CFU&#x02010;E/BFU&#x02010;E)
+</td><td align="left" rowspan="1" colspan="1">Nil</td></tr><tr><td align="left" rowspan="1" colspan="1">Real <italic>et&#x000a0;al</italic> (<xref rid="bjh14010-bib-0044" ref-type="ref">2012</xref>)</td><td align="left" rowspan="1" colspan="1">
+<italic>TAL1</italic>
+</td><td align="left" rowspan="1" colspan="1">Literature</td><td align="left" rowspan="1" colspan="1">Lentivirus</td><td align="left" rowspan="1" colspan="1">EB and OP9 co&#x02010;culture</td><td align="left" rowspan="1" colspan="1">hESCs: H9, AND1, HS181</td><td align="left" rowspan="1" colspan="1">
+<inline-graphic xlink:href="BJH-173-671-g003.jpg" xlink:title="image"/>CFU&#x02010;Cs</td><td align="left" rowspan="1" colspan="1">Nil</td></tr><tr><td align="left" rowspan="1" colspan="1">Ran <italic>et&#x000a0;al</italic> (<xref rid="bjh14010-bib-0043" ref-type="ref">2013</xref>)</td><td align="left" rowspan="1" colspan="1">
+<italic>RUNX1A</italic>
+</td><td align="left" rowspan="1" colspan="1">Literature</td><td align="left" rowspan="1" colspan="1">Lentivirus</td><td align="left" rowspan="1" colspan="1">Spin EB</td><td align="left" rowspan="1" colspan="1">
+hESCs: H9<break/>
+hiPSCs: BC1, iCB5
+</td><td align="left" rowspan="1" colspan="1">
+<inline-graphic xlink:href="BJH-173-671-g004.jpg" xlink:title="image"/>CFU&#x02010;Cs</td><td align="left" rowspan="1" colspan="1">Short&#x02010;term engraftment</td></tr><tr><td align="left" rowspan="1" colspan="1">Real <italic>et&#x000a0;al</italic> (<xref rid="bjh14010-bib-0045" ref-type="ref">2013</xref>)</td><td align="left" rowspan="1" colspan="1">
+<italic>RUNX1C</italic>
+</td><td align="left" rowspan="1" colspan="1">Literature</td><td align="left" rowspan="1" colspan="1">Lentivirus</td><td align="left" rowspan="1" colspan="1">EB and OP9 co&#x02010;culture</td><td align="left" rowspan="1" colspan="1">hESCs: H9, AND1, HS181</td><td align="left" rowspan="1" colspan="1">
+<inline-graphic xlink:href="BJH-173-671-g005.jpg" xlink:title="image"/>CFU&#x02010;Cs</td><td align="left" rowspan="1" colspan="1">Nil</td></tr><tr><td align="left" rowspan="1" colspan="1">Nakajima&#x02010;Takagi <italic>et&#x000a0;al</italic> (<xref rid="bjh14010-bib-0039" ref-type="ref">2013</xref>)</td><td align="left" rowspan="1" colspan="1">
+<italic>SOX17</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>In vitro</italic> screen of 13 haematopoietic regulators by overexpression in hPSC&#x02010;derived CD34<sup>+</sup>CD43<sup>&#x02212;</sup> cells</td><td align="left" rowspan="1" colspan="1">Retrovirus</td><td align="left" rowspan="1" colspan="1">EB and OP9 co&#x02010;culture</td><td align="left" rowspan="1" colspan="1">
+hESCs: H1<break/>
+hiPSCs: TkCBV4&#x02010;7
+</td><td align="left" rowspan="1" colspan="1">ND (<inline-graphic xlink:href="BJH-173-671-g006.jpg" xlink:title="image"/> CD34<sup>+</sup> CD43<sup>+</sup> CD45<sup>&#x02212;/low</sup> cells)</td><td align="left" rowspan="1" colspan="1">ND</td></tr><tr><td align="left" rowspan="1" colspan="1">Ramos&#x02010;mejia <italic>et&#x000a0;al</italic> (<xref rid="bjh14010-bib-0042" ref-type="ref">2014</xref>)</td><td align="left" rowspan="1" colspan="1">
+<italic>HOXA9</italic>
+</td><td align="left" rowspan="1" colspan="1">Previous work: Differential expression in cord blood CD34<sup>+</sup> vs hESC&#x02010;derived CD34<sup>+</sup>
+</td><td align="left" rowspan="1" colspan="1">Lentivirus</td><td align="left" rowspan="1" colspan="1">EB and OP9 co&#x02010;culture</td><td align="left" rowspan="1" colspan="1">hESCs: H9, AND1</td><td align="left" rowspan="1" colspan="1">
+<inline-graphic xlink:href="BJH-173-671-g007.jpg" xlink:title="image"/>CFU&#x02010;Cs (skewed to CFU&#x02010;G)</td><td align="left" rowspan="1" colspan="1">Nil</td></tr><tr><td align="left" rowspan="1" colspan="1">Forrester and Jackson (<xref rid="bjh14010-bib-0014" ref-type="ref">2012</xref>)</td><td align="left" rowspan="1" colspan="1">
+<italic>HOXB4</italic>
+</td><td align="left" rowspan="1" colspan="1">See review</td><td align="left" rowspan="1" colspan="1">Various</td><td align="left" rowspan="1" colspan="1">Various</td><td align="left" rowspan="1" colspan="1">Various</td><td align="left" rowspan="1" colspan="1">Variable</td><td align="left" rowspan="1" colspan="1">Nil</td></tr><tr><td align="left" rowspan="1" colspan="1">Elcheva <italic>et&#x000a0;al</italic> (<xref rid="bjh14010-bib-0013" ref-type="ref">2014</xref>)</td><td align="left" rowspan="1" colspan="1">
+<italic>GATA2/ETV2</italic>
+<break/>
+<italic>GATA2/TAL1</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>In vitro</italic> screen of 27 candidate genes using over&#x02010;expression in hPSCs</td><td align="left" rowspan="1" colspan="1">Lentivirus and modified mRNA</td><td align="left" rowspan="1" colspan="1">OP9 co&#x02010;culture</td><td align="left" rowspan="1" colspan="1">
+hESCs: H1, H9<break/>
+hiPSCs: DF&#x02010;19&#x02010;9&#x02010;7T, DF&#x02010;4&#x02010;3&#x02010;7T
+</td><td align="left" rowspan="1" colspan="1">
+GATA2/ETV2: pan&#x02010;myeloid<break/>
+GATA2/TAL1: erythro&#x02010;megakaryocytic
+</td><td align="left" rowspan="1" colspan="1">Nil</td></tr><tr><td align="left" rowspan="1" colspan="1">Doulatov <italic>et&#x000a0;al</italic> (<xref rid="bjh14010-bib-0010" ref-type="ref">2013</xref>)</td><td align="left" rowspan="1" colspan="1">
+<italic>HOXA9, ERG, RORA, SOX4, MYB</italic>
+</td><td align="left" rowspan="1" colspan="1">
+Compared expression in HSCs vs progenitors/mature cells.<break/>
+<italic>In vitro</italic>/<italic>in&#x000a0;vivo</italic> screens using overexpression system
+</td><td align="left" rowspan="1" colspan="1">
+Lentivirus<break/>
+<italic>(Constitutive &#x00026; Inducible)</italic>
+</td><td align="left" rowspan="1" colspan="1">EB</td><td align="left" rowspan="1" colspan="1">
+<xref ref-type="fn" rid="bjh14010-note-0002">a</xref>hESCs: CHB6<break/>
+<xref ref-type="fn" rid="bjh14010-note-0002">a</xref>hiPSCs: MSC&#x02010;IPS1
+</td><td align="left" rowspan="1" colspan="1">
+<inline-graphic xlink:href="BJH-173-671-g008.jpg" xlink:title="image"/>CFU&#x02010;GEMM</td><td align="left" rowspan="1" colspan="1">Short term myeloid &#x00026; erythroid engraftment</td></tr></tbody></table><table-wrap-foot><fn id="bjh14010-note-0001"><p>ND, Not determined; EB, Embryoid body; hESCs, human embryonic stem cells; hiPSCs, human induced&#x02010;pluripotent stem cells; CFU&#x02010;C, Colony&#x02010;forming unit in culture; CFU&#x02010;E, CFU&#x02010;Erythroid; CFU&#x02010;G, CFU&#x02010;Granulocyte; CFU&#x02010;GEMM, CFU&#x02010;granulocyte/erythroid/monocyte/megakaryocyte; BFU&#x02010;E, Blast&#x02010;forming unit in culture&#x02010;erythroid; HSC, Haematopoietic stem cell; HPC, Haematopoietic progenitor cell.</p></fn><fn id="bjh14010-note-0002"><label>a</label><p>With the exception of Doulatov <italic>et&#x000a0;al</italic> (<xref rid="bjh14010-bib-0010" ref-type="ref">2013</xref>) who used hPSC&#x02010;derived CD34<sup>+</sup>CD45<sup>+</sup> as starting cells, these are all examples of forward programming of human PSCs. All overexpression systems are constitutive unless specified otherwise.</p></fn><fn id="bjh14010-note-0003"><label>b</label><p>&#x02019;HSC production&#x02019; denotes <italic>in&#x000a0;vivo</italic> engraftment.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec id="bjh14010-sec-0004"><title>Forward programming of human PSCs with single transcription factors</title><p>
+<italic>TAL1</italic> (T cell acute lymphocytic leukaemia 1), also known as <italic>SCL</italic> (stem cell leukaemia), is a critical haematopoietic regulator that plays a key role in both embryonic and adult HSC specification and its rearrangement is associated with several human leukaemias (L&#x000e9;cuyer &#x00026; Hoang, <xref rid="bjh14010-bib-0030" ref-type="ref">2004</xref>). Mice carrying a homozygous deletion of the <italic>Tal1</italic> gene do not survive beyond embryonic day 9&#x000b7;5 due to a failure of haematopoietic development (Shivdasani <italic>et&#x000a0;al</italic>, <xref rid="bjh14010-bib-0054" ref-type="ref">1995</xref>) but its precise role remains unclear. In one study, <italic>Tal1</italic> was shown to be indispensable for the <italic>establishment</italic> of the haemogenic endothelium (HE) (Lancrin <italic>et&#x000a0;al</italic>, <xref rid="bjh14010-bib-0029" ref-type="ref">2009</xref>), but in another it is allegedly dispensable for the development of the haemangioblast but essential for subsequent haematopoietic <italic>commitment</italic> (D'Souza <italic>et&#x000a0;al</italic>, <xref rid="bjh14010-bib-0011" ref-type="ref">2005</xref>).</p><p>The role of <italic>TAL1</italic> in early human haematopoiesis has been investigated using the hESC differentiation system (Yung <italic>et&#x000a0;al</italic>, <xref rid="bjh14010-bib-0061" ref-type="ref">2011</xref>; Real <italic>et&#x000a0;al</italic>, <xref rid="bjh14010-bib-0044" ref-type="ref">2012</xref>). <italic>TAL1</italic> was identified as being the most highly upregulated transcript in the emerging haemangioblast (CD31<sup>+</sup>CD309<sup>+</sup> cells) during the first 4&#x000a0;days of a feeder&#x02010;free, serum&#x02010;free hESC haematopoietic differentiation protocol (Yung <italic>et&#x000a0;al</italic>, <xref rid="bjh14010-bib-0061" ref-type="ref">2011</xref>). Subsequent experiments, in which the <italic>TAL1</italic> cDNA was overexpressed more than 100&#x02010;fold in hESCs, demonstrated enhanced differentiation of meso&#x02010;endodermal lineages and increased differentiation to all myeloid lineages. <italic>TAL1</italic> overexpression also accelerated formation of erythro&#x02010;megakaryocytic progenitors and most notably accelerated erythroid differentiation. Intra&#x02010;splenic transplantation of <italic>TAL1</italic>&#x02010;overexpressing hESC&#x02010;derived haematopoietic cells enhanced recovery of immunocompromised mice from induced acute haemolytic anemia but no significant engraftment of cells was detected. The authors suggested that the observation could indicate that overexpression of <italic>TAL1</italic> might also have a paracrine effect comparable to that reported for <italic>HOXB4</italic> (Jackson <italic>et&#x000a0;al</italic>, <xref rid="bjh14010-bib-0020" ref-type="ref">2012</xref>) but this clearly requires further investigation. <italic>TAL1</italic> was also reported to be expressed in hESCs&#x02010;derived haemato&#x02010;endothelial progenitors (CD45<sup>&#x02010;</sup>CD31<sup>+</sup>CD34<sup>+</sup>) and in CD45<sup>+</sup> cells using an OP9 co&#x02010;culture differentiation system (Real <italic>et&#x000a0;al</italic>, <xref rid="bjh14010-bib-0044" ref-type="ref">2012</xref>). Overexpression of <italic>TAL1</italic> in that system accelerated the production of the haemato&#x02010;endothelial progenitors and the subsequent differentiation into HPCs (CD34<sup>+</sup>CD45<sup>+</sup>) with significant clonogenic potential, but these cells failed to engraft <italic>in&#x000a0;vivo</italic>. Silencing of endogenous <italic>TAL1</italic> using sh<italic>TAL1</italic> abrogated haematopoietic specification of hESCs, which further supports its key role in that process. Thus, in contrast to the conflicting findings in the murine system, studies in the hESC system suggest that <italic>TAL1</italic> is essential <italic>both</italic> for the establishment of the HE and its subsequent haematopoietic commitment and is a good candidate for forward programming strategies.</p><p>
+<italic>RUNX1 (AML1, CBFA2, PEBP2aB)</italic> is essential for the establishment of the definitive haematopoietic system during development and is a key transcriptional regulator of normal and malignant haematopoiesis (Chen <italic>et&#x000a0;al</italic>, <xref rid="bjh14010-bib-0007" ref-type="ref">2009</xref>; Lam &#x00026; Zhang, <xref rid="bjh14010-bib-0028" ref-type="ref">2012</xref>; Liakhovitskaia <italic>et&#x000a0;al</italic>, <xref rid="bjh14010-bib-0033" ref-type="ref">2014</xref>). While there are at least 12 different mRNA isoforms, three main protein isoforms (RUNX1A/B/C) are most well studied. Overexpression of <italic>RUNX1A</italic> using constitutive lentiviral transduction in a defined spin EB differentiation system significantly enhanced haematopoietic differentiation of human PSCs (Ran <italic>et&#x000a0;al</italic>, <xref rid="bjh14010-bib-0043" ref-type="ref">2013</xref>). Gene expression analysis revealed that <italic>RUNX1A</italic> forced lineage commitment to mesoderm and specifically enhanced haemogenic differentiation. There was expansion of HPCs and establishment of &#x02018;definitive HSCs&#x02019; as evidenced by higher &#x003b2; globin expression and multilineage <italic>in&#x000a0;vivo</italic> engraftment of immunodeficient (NSG) mice at 9&#x000a0;weeks. However, while these <italic>in&#x000a0;vivo</italic> engraftment results were extremely promising, there remains the possibility that the engraftment could have been due to <italic>RUNX1A</italic>&#x02010;mediated transformation of hESC&#x02010;derived cells, particularly given it is known to contribute to leukaemogenesis (Real <italic>et&#x000a0;al</italic>, <xref rid="bjh14010-bib-0045" ref-type="ref">2013</xref>). In these experiments <italic>RUNX1A</italic> was expressed at very high, non&#x02010;physiological levels (&#x0003e;700&#x02010;fold higher than normal) and the <italic>RUNX1A</italic>&#x02010;expressing CD45<sup>+</sup>CD34<sup>+</sup> cells showed a surprisingly greater rate of expansion (&#x0003e;25&#x02010;fold) compared to their CD34<sup>+</sup> UCB&#x02010;derived counterparts. <italic>RUNX1A</italic>&#x02010;expressing cells were limited in their terminal differentiation capacity with approximately 80% of the CD45<sup>+</sup> cells retaining the CD34 marker, indicating that they retained a progenitor&#x02010;like phenotype. Furthermore, although 100% of the analysed mice showed some level of engraftment, multilineage analysis revealed that only a relatively small proportion of the engrafted cells expressed mature haematopoietic cell markers (~11% myeloid, 8% lymphoid, 5% erythroid), indicating that over 70% of the repopulation consisted of undifferentiated progenitors.</p><p>In another study using an OP9 co&#x02010;culture differentiation system, the emergence of haematopoietic cells was shown to parallel more closely to the expression of the <italic>RUNX1C</italic>, rather than the <italic>RUNX1A</italic> isoform but while overexpression of <italic>RUNX1C</italic> also accelerated and enhanced the production of haemato&#x02010;endothelial cells, no <italic>in&#x000a0;vivo</italic> engraftment was detected (Real <italic>et&#x000a0;al</italic>, <xref rid="bjh14010-bib-0045" ref-type="ref">2013</xref>). Hence, although <italic>RUNX1A</italic> overexpression holds promise as a potential forward programming factor for <italic>in&#x000a0;vitro</italic> HSC production, further studies are required to investigate its possible transformation potential. This issue could be addressed using an inducible rather than constitutive expression system or by using cell&#x02010;permeable proteins rather than lentiviral transduction of cDNA sequences. Exemplified by the use of HOXB4&#x02010;TAT proteins (Krosl <italic>et&#x000a0;al</italic>, <xref rid="bjh14010-bib-0026" ref-type="ref">2003</xref>), such cell&#x02010;permeable TFs would have a limited half&#x02010;life and oncogenic transformation and/or insertional mutagenesis associated with genomic integration would be avoided.</p><p>
+<italic>SOX17</italic> (Sry box 17) plays a role in a number of developmental processes, including endoderm (Hudson <italic>et&#x000a0;al</italic>, <xref rid="bjh14010-bib-0018" ref-type="ref">1997</xref>; Kanai&#x02010;Azuma <italic>et&#x000a0;al</italic>, <xref rid="bjh14010-bib-0021" ref-type="ref">2002</xref>) and vascular development (Matsui <italic>et&#x000a0;al</italic>, <xref rid="bjh14010-bib-0034" ref-type="ref">2006</xref>)<sup>,</sup> and has been shown to be important for the regulation of murine fetal and neonatal, but not adult, HSCs. Overexpression of <italic>SOX17</italic> has been reported to confer fetal characteristics onto adult HPCs (He <italic>et&#x000a0;al</italic>, <xref rid="bjh14010-bib-0016" ref-type="ref">2011</xref>). To identify genes promoting haematopoietic development of hPSCs, genes encoding 13 TFs known to be haematopoietic regulators (including <italic>RUNX1, GATA2, HOXB4, TAL1, SOX17</italic>) were overexpressed in hESC/iPSC&#x02010;derived CD34<sup>+</sup>CD43<sup>&#x02212;</sup> endothelial cells (Nakajima&#x02010;Takagi <italic>et&#x000a0;al</italic>, <xref rid="bjh14010-bib-0039" ref-type="ref">2013</xref>)<italic>. SOX17</italic> was found to be the only TF that promoted cell growth and supported the expansion of CD34<sup>+</sup>43<sup>+</sup>45<sup>&#x02212;/low</sup> cells expressing the HE marker, CD144 (VE&#x02010;Cadherin). <italic>SOX17</italic> was expressed at higher levels in CD34<sup>+</sup>43<sup>&#x02212;</sup> cells compared to CD34<sup>+</sup>43<sup>+</sup>45<sup>&#x02212;</sup> (&#x02018;pre&#x02010;HPCs&#x02019;) and CD34<sup>+</sup>43<sup>+</sup>45<sup>+</sup> (&#x02018;HPCs&#x02019;). Overexpression of <italic>SOX17</italic> promoted expansion of HE&#x02010;like cells but inhibited haematopoietic differentiation of pre&#x02010;HPCs and HPCs and reprogrammed them into HE&#x02010;like cells, while depletion of <italic>SOX17</italic> in pre&#x02010;HPCs did not affect their haematopoietic differentiation. Hence, this study suggests that <italic>SOX17</italic> is a master regulator of HE but must be downregulated thereafter to allow haematopoietic differentiation to occur. The use of <italic>SOX17</italic> in a forward programming strategy to generate haematopoietic cells from iPSCs will therefore require an expression strategy that will allow it to be switched on and off at the appropriate time during the differentiation protocol.</p><p>HOXB4 belongs to the homeobox&#x02010;containing class of proteins that are well known to play an important role in haematopoietic development (Alharbi <italic>et&#x000a0;al</italic>, <xref rid="bjh14010-bib-0001" ref-type="ref">2013</xref>). Enforced expression of <italic>HOXB4</italic> results in the expansion of adult HSCs <italic>ex&#x000a0;vivo</italic> (Antonchuk <italic>et&#x000a0;al</italic>, <xref rid="bjh14010-bib-0002" ref-type="ref">2002</xref>; Schiedlmeier <italic>et&#x000a0;al</italic>, <xref rid="bjh14010-bib-0053" ref-type="ref">2003</xref>) and has been shown to confer long&#x02010;term reconstitution ability on primitive yolk sac cells and mouse ESCs (Kyba <italic>et&#x000a0;al</italic>, <xref rid="bjh14010-bib-0027" ref-type="ref">2002</xref>). It is widely reported to enhance the production of haematopoietic cells from murine ESCs and its activity appears to be mediated both via cell autonomous &#x00026; paracrine mechanisms (Jackson <italic>et&#x000a0;al</italic>, <xref rid="bjh14010-bib-0020" ref-type="ref">2012</xref>). However, its effect on the differentiation of hESCs is less clear. Variable results in hESC studies are likely to be due to the different strategies used to express HOXB4 protein resulting in differing levels of expression and the variety of differentiation systems employed (Forrester &#x00026; Jackson, <xref rid="bjh14010-bib-0014" ref-type="ref">2012</xref>). Using a well&#x02010;defined serum&#x02010;free, feeder&#x02010;free hPSC differentiation system and an inducible expression strategy, our group has recently shown that activation of an inducible HOXB4&#x02010;ER<sup>T2</sup> fusion protein enhanced the production of multipotential progenitors, it has no effect on subsequent erythroid maturation and hence failed to produce a more &#x02018;definitive&#x02019; phenotype (Jackson <italic>et&#x000a0;al</italic>., <xref rid="bjh14010-bib-0101" ref-type="ref">2016</xref>).</p><p>HOXA9 is another homeobox&#x02010;containing protein that plays a crucial role in haematopoiesis <italic>in&#x000a0;vivo</italic>. It is expressed in HPCs and is downregulated upon differentiation, knockout mice display significant haematopoietic defects and it is frequently overexpressed in human leukaemias (Alharbi <italic>et&#x000a0;al</italic>, <xref rid="bjh14010-bib-0001" ref-type="ref">2013</xref>). In a study to compare the expression profiles of hESC&#x02010;derived and cord blood&#x02010;derived HPCs, <italic>HOXA9</italic> was found be to expressed at a significantly lower level in hESC&#x02010;derived HPCs and so was considered as one of the factors that could be used to improve the function of hESC&#x02010;derived cells (Ramos&#x02010;mejia <italic>et&#x000a0;al</italic>, <xref rid="bjh14010-bib-0042" ref-type="ref">2014</xref>). Using a lentiviral expression system this study demonstrated that enforced expression of <italic>HOXA9</italic> in hESCs promoted the commitment of haemogenic precursors (CD31<sup>+</sup>CD34<sup>+</sup>CD45<sup>&#x02212;</sup>) to clonogenic HPCs and mature CD45<sup>+</sup> cells. However, <italic>HOXA9</italic> alone was not sufficient to confer <italic>in&#x000a0;vivo</italic> long&#x02010;term engraftment potential to hESC&#x02010;derived HPCs, reinforcing the notion that multiple TFs will be required for the production of definitive HSCs from human PSCs.</p><p>Through ectopic expression of TFs in various haematopoietic differentiation systems, the studies reviewed here have affirmed their key role in haematopoiesis and have revealed important insights into the process of human haematopoietic development. Importantly however, apart from the potentially promising results with <italic>RUNX1A</italic>, the overexpression of single TFs has so far failed to produce <italic>in&#x000a0;vivo</italic> engraftable HSCs. Given the complex nature of haematopoietic commitment, it is perhaps not surprising that a single TF alone could not initiate the entire haematopoietic programme.</p></sec><sec id="bjh14010-sec-0005"><title>Forward programming of human PSCs with multiple transcription factors</title><p>The concomitant overexpression of multiple TFs was employed to elucidate the transcriptional control of HE production. For this, 27 candidate genes were screened that were known from the literature to be key transcriptional regulators of both mesodermal and angio&#x02010;haematopoietic specification as well as HSC development itself (Elcheva <italic>et&#x000a0;al</italic>, <xref rid="bjh14010-bib-0013" ref-type="ref">2014</xref>). Using both lentiviral transduction and overexpression of modified mRNA, two distinct haemato&#x02010;endothelial programmes in differentiating hPSCs were demonstrated: pan&#x02010;myeloid (<italic>ETV2</italic> and <italic>GATA2</italic>) and erythro&#x02010;megakaryocytic (<italic>GATA2</italic> and <italic>TAL1</italic>). Both combinations induced human PSCs directly to HE but with differing capacities for further lineage specification. Hence, this suggests that the specification to discrete HPCs starts at the HE stage and is regulated by distinct transcriptional programmes. It is an interesting reflection that although complex genetic networks are undoubtedly involved in haematopoiesis, yet such a small subset of transcriptional regulators are capable of activating a TF network leading to HE formation with different functional capacities.</p><p>Multiple TFs were also used to convert lineage&#x02010;restricted progenitors derived from human PSCs (CD34<sup>+</sup>45<sup>+</sup> myeloid precursors) to multipotential progenitors (Doulatov <italic>et&#x000a0;al</italic>, <xref rid="bjh14010-bib-0010" ref-type="ref">2013</xref>). Candidate TFs were initially selected based on those more highly expressed in HSCs compared to HPCs or mature cells in mouse &#x00026; human gene expression data sets. An <italic>in&#x000a0;vitro</italic> screen for self&#x02010;renewal capacity based on detecting clonogenic progenitors by serial plating was then employed. <italic>HOXA9, ERG</italic> and <italic>RORA</italic> were identified as conferring self&#x02010;renewal capacity when overexpressed <italic>in&#x000a0;vitro</italic>. Using an inducible lentiviral system, ectopic expression of two additional factors, <italic>SOX4</italic> and <italic>MYB</italic>, conferred short&#x02010;term engraftment of the myeloid and erythroid lineages <italic>in&#x000a0;vivo</italic> and the erythroid precursors underwent haemoglobin switching <italic>in&#x000a0;vivo</italic>. However, despite obtaining T lymphoid potential <italic>in&#x000a0;vitro</italic>, no lymphoid engraftment could be demonstrated <italic>in&#x000a0;vivo</italic> and the overall engraftment level waned with time.</p></sec><sec id="bjh14010-sec-0006"><title>Future perspectives</title><p>Transcription factor programming is a relatively new approach to the production and expansion of HSC/HPCs and our experience in human cells is still in its infancy. While the studies described in this review have undoubtedly progressed the field, we are still some way from achieving large&#x02010;scale production of HSCs and functional mature blood cells that could be used safely in the clinic.</p><p>To date, fully functional HSCs capable of long&#x02010;term multilineage engraftment and secondary transplantation have only being achieved in the mouse using the <italic>in&#x000a0;vivo</italic> microenvironment for selection of HSCs (Riddell <italic>et&#x000a0;al</italic>, <xref rid="bjh14010-bib-0046" ref-type="ref">2014</xref>). The lack of success in generating fully functional HSCs probably reflects a failure to precisely recapitulate the <italic>in&#x000a0;vivo</italic> developmental process. Mammalian embryonic haematopoiesis occurs in three waves within discrete anatomical niches (Yoder, <xref rid="bjh14010-bib-0060" ref-type="ref">2014</xref>) and it is proposed that the &#x02018;immature&#x02019; nature of human PSC&#x02010;derived cells (e.g. production of nucleated RBCs with fetal rather than adult globin) may be due to them arising from the first or second wave of haematopoiesis rather than the third &#x02018;definitive&#x02019; wave. Current knowledge of human embryonic haematopoiesis is largely extrapolated from animal models and until recently we have lacked a clear understanding of a stepwise route to HSC production <italic>in&#x000a0;vivo</italic>. The recent identification of surface markers of HSCs and their precursors (Rybtsov <italic>et&#x000a0;al</italic>, <xref rid="bjh14010-bib-0047" ref-type="ref">2011</xref>, <xref rid="bjh14010-bib-0048" ref-type="ref">2014</xref>; Ivanovs <italic>et&#x000a0;al</italic>, <xref rid="bjh14010-bib-0019" ref-type="ref">2014</xref>) will provide vital reference points for their future production <italic>in&#x000a0;vitro</italic>. The exact orchestration of both intrinsic and extrinsic signals mimicking the complex spatial, temporal and mechanical environment of the human embryo must be present if we are to produce HSCs <italic>in&#x000a0;vitro</italic>.</p><p>Development of reprogramming technologies in well&#x02010;defined serum&#x02010;free, good manufacturing practice&#x02010;compliant human haematopoietic differentiation systems is essential if they are to be readily transferable to the clinic. Many of the differentiations systems used in studies to date have included serum or xenobiotic feeder cells that could not be directly translated into a therapeutic protocol.</p><p>In addition, many of the TFs used in the studies reviewed here are proto&#x02010;oncogenes and it is very likely that successful programming to HSCs will involve alteration of genetic networks common to both stem and cancer cells. This clearly raises important safety considerations as we move closer to clinical applications. Overexpression of a single TF is less likely to lead to malignant transformation as a &#x02018;single hit&#x02019;, without other co&#x02010;existent mutations. Yet the studies described suggest that overexpression of multiple TFs is likely to be more successful.</p><p>Thus the use of inducible expression strategies will be vital for ensuring only transient overexpression of TFs and to limit the oncogenic transformation of the cells produced. Most of the studies discussed have predominantly employed lentiviruses, which are randomly integrated into the genome and therefore may disrupt genome integrity and/or enhance oncogenic potential.</p><p>In the studies described here TFs were selected based on their known role in haematopoiesis or using a variety of screening strategies (Table&#x000a0;<xref rid="bjh14010-tbl-0001" ref-type="table-wrap">1</xref>) and have paved the way for further <italic>in&#x000a0;vitro</italic> and <italic>in&#x000a0;vivo</italic> screening for TF combinations to be tested. Future screening studies will benefit from using more sophisticated genome editing strategies such as the integration of transgenes into the AAVS locus using the CRISPR/CAS9 system to ensure robust and consistent expression (Sadelain <italic>et&#x000a0;al</italic>, <xref rid="bjh14010-bib-0049" ref-type="ref">2012</xref>). This locus provides a &#x02018;safe harbour&#x02019;, which avoids insertional mutagenesis that can occur using a random integration system. Ultimately, non&#x02010;integrative strategies that result in transient protein expression such as synthetic modified mRNA, non&#x02010;integrating plasmids (Bernal, <xref rid="bjh14010-bib-0005" ref-type="ref">2013</xref>) and cell&#x02010;permeable TFs, as discussed earlier, could be safer alternatives.</p><p>Exciting advances in the production of synthetic TFs such as zinc finger, TALE and CAS9 proteins are likely to provide even more sophisticated tools to modulate the expression of endogenous genes that could bypass the need for transgene insertion altogether (Hockemeyer <italic>et&#x000a0;al</italic>, <xref rid="bjh14010-bib-0017" ref-type="ref">2011</xref>; Miller <italic>et&#x000a0;al</italic>, <xref rid="bjh14010-bib-0037" ref-type="ref">2011</xref>). For example, variant CAS9 proteins have been developed that can be directed to the regulatory regions of gene promoters using complementary guide RNAs and, when tethered to transcriptional activators (e.g VP64), they are able to activate the expression of that target gene (Gilbert <italic>et&#x000a0;al</italic>, <xref rid="bjh14010-bib-0015" ref-type="ref">2014</xref>; Sander &#x00026; Joung, <xref rid="bjh14010-bib-0051" ref-type="ref">2014</xref>). Very recently this strategy has been used to induce neuronal differentiation of human iPSCs via the activation of <italic>NEUROG2</italic> and <italic>NEUROD1</italic> (Chavez <italic>et&#x000a0;al</italic>, <xref rid="bjh14010-bib-0006" ref-type="ref">2015</xref>) and to improve directed differentiation to pancreatic progenitor&#x02010;like cells by activating simultaneously <italic>SOX17, FOXA2, PDX1</italic> and <italic>NKX6&#x02010;1</italic> (Balboa <italic>et&#x000a0;al</italic>, <xref rid="bjh14010-bib-0003" ref-type="ref">2015</xref>). This may well be an effective and safer strategy for forward programming PSCs into blood cell lineages.</p><p>The use of new programming technologies in combination with a better understanding of the inductive environment and the precise phenotype of the desired cell type may well lead to new breakthroughs during the next decade and bring us closer to the overall goal of the <italic>in&#x000a0;vitro</italic> production of fully functional HSCs for use in the clinic.</p></sec><sec id="bjh14010-sec-0008"><title>Author contributions</title><p>Jennifer Easterbrook: Conception &#x00026; design, manuscript writing. Antonella Fidanza: Manuscript writing. Lesley M Forrester: Conception &#x00026; design, manuscript writing.</p></sec></body><back><ack id="bjh14010-sec-0007"><title>Acknowledgements</title><p>The authors thank the Wellcome Trust (102610 and 100468/Z/12/Z) for funding and Melany Jackson for critical reading of the manuscript.</p></ack><ref-list content-type="cited-references" id="bjh14010-bibl-0001"><title>References</title><ref id="bjh14010-bib-0001"><mixed-citation publication-type="journal" id="bjh14010-cit-0001">
+<string-name>
+<surname>Alharbi</surname>, <given-names>R.A.</given-names>
+</string-name>, <string-name>
+<surname>Pettengell</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Pandha</surname>, <given-names>H.S.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Morgan</surname>, <given-names>R.</given-names>
+</string-name> (<year>2013</year>) <article-title>The role of HOX genes in normal hematopoiesis and acute leukemia</article-title>. <source>Leukemia</source>, <volume>27</volume>, <fpage>1000</fpage>&#x02013;<lpage>1008</lpage>.<pub-id pub-id-type="pmid">23212154</pub-id></mixed-citation></ref><ref id="bjh14010-bib-0002"><mixed-citation publication-type="journal" id="bjh14010-cit-0002">
+<string-name>
+<surname>Antonchuk</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Sauvageau</surname>, <given-names>G.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Humphries</surname>, <given-names>R.K.</given-names>
+</string-name> (<year>2002</year>) <article-title>HOXB4&#x02010;induced expansion of adult hematopoietic stem cells <italic>ex&#x000a0;vivo</italic>
+</article-title>. <source>Cell</source>, <volume>109</volume>, <fpage>39</fpage>&#x02013;<lpage>45</lpage>.<pub-id pub-id-type="pmid">11955445</pub-id></mixed-citation></ref><ref id="bjh14010-bib-0003"><mixed-citation publication-type="journal" id="bjh14010-cit-0003">
+<string-name>
+<surname>Balboa</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Weltner</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Eurola</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Trokovic</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Wartiovaara</surname>, <given-names>K.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Otonkoski</surname>, <given-names>T.</given-names>
+</string-name> (<year>2015</year>) <article-title>Conditionally stabilized dCas9 activator for controlling gene expression in human cell reprogramming and differentiation</article-title>. <source>Stem Cell Reports</source>, <volume>5</volume>, <fpage>448</fpage>&#x02013;<lpage>459</lpage>.<pub-id pub-id-type="pmid">26352799</pub-id></mixed-citation></ref><ref id="bjh14010-bib-0004"><mixed-citation publication-type="journal" id="bjh14010-cit-0004">
+<string-name>
+<surname>Batta</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Florkowska</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Kouskoff</surname>, <given-names>V.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Lacaud</surname>, <given-names>G.</given-names>
+</string-name> (<year>2014</year>) <article-title>Direct reprogramming of murine fibroblasts to hematopoietic progenitor cells</article-title>. <source>Cell Reports</source>, <volume>9</volume>, <fpage>1871</fpage>&#x02013;<lpage>1884</lpage>.<pub-id pub-id-type="pmid">25466247</pub-id></mixed-citation></ref><ref id="bjh14010-bib-0005"><mixed-citation publication-type="journal" id="bjh14010-cit-0005">
+<string-name>
+<surname>Bernal</surname>, <given-names>J.A.</given-names>
+</string-name> (<year>2013</year>) <article-title>RNA&#x02010;based tools for nuclear reprogramming and lineage&#x02010;conversion: towards clinical applications</article-title>. <source>Journal of Cardiovascular Translational Research</source>, <volume>6</volume>, <fpage>956</fpage>&#x02013;<lpage>968</lpage>.<pub-id pub-id-type="pmid">23852582</pub-id></mixed-citation></ref><ref id="bjh14010-bib-0006"><mixed-citation publication-type="journal" id="bjh14010-cit-0006">
+<string-name>
+<surname>Chavez</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Scheiman</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Vora</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Pruitt</surname>, <given-names>B.W.</given-names>
+</string-name>, <string-name>
+<surname>Tuttle</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>P R Iyer</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Kiani</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Guzman</surname>, <given-names>C.D.</given-names>
+</string-name>, <string-name>
+<surname>Wiegand</surname>, <given-names>D.J.</given-names>
+</string-name>, <string-name>
+<surname>Ter&#x02010;Ovanesyan</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Braff</surname>, <given-names>J.L.</given-names>
+</string-name>, <string-name>
+<surname>Davidsohn</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Housden</surname>, <given-names>B.E.</given-names>
+</string-name>, <string-name>
+<surname>Perrimon</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Weiss</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Aach</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Collins</surname>, <given-names>J.J.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Church</surname>, <given-names>G.M.</given-names>
+</string-name> (<year>2015</year>) <article-title>Highly efficient Cas9&#x02010;mediated transcriptional programming</article-title>. <source>Nature Methods</source>, <volume>12</volume>, <fpage>326</fpage>&#x02013;<lpage>328</lpage>.<pub-id pub-id-type="pmid">25730490</pub-id></mixed-citation></ref><ref id="bjh14010-bib-0007"><mixed-citation publication-type="journal" id="bjh14010-cit-0007">
+<string-name>
+<surname>Chen</surname>, <given-names>M.J.</given-names>
+</string-name>, <string-name>
+<surname>Yokomizo</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Zeigler</surname>, <given-names>B.M.</given-names>
+</string-name>, <string-name>
+<surname>Dzierzak</surname>, <given-names>E.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Speck</surname>, <given-names>N.A.</given-names>
+</string-name> (<year>2009</year>) <article-title>Runx1 is required for the endothelial to haematopoietic cell transition but not thereafter</article-title>. <source>Nature</source>, <volume>457</volume>, <fpage>887</fpage>&#x02013;<lpage>891</lpage>.<pub-id pub-id-type="pmid">19129762</pub-id></mixed-citation></ref><ref id="bjh14010-bib-0008"><mixed-citation publication-type="journal" id="bjh14010-cit-0008">
+<string-name>
+<surname>Choi</surname>, <given-names>K.&#x02010;D.</given-names>
+</string-name>, <string-name>
+<surname>Vodyanik</surname>, <given-names>M.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Slukvin</surname>, <given-names>I.I.</given-names>
+</string-name> (<year>2011</year>) <article-title>Hematopoietic differentiation and production of mature myeloid cells from human pluripotent stem cells</article-title>. <source>Nature Protocols</source>, <volume>6</volume>, <fpage>296</fpage>&#x02013;<lpage>313</lpage>.<pub-id pub-id-type="pmid">21372811</pub-id></mixed-citation></ref><ref id="bjh14010-bib-0009"><mixed-citation publication-type="journal" id="bjh14010-cit-0009">
+<string-name>
+<surname>Davis</surname>, <given-names>R.L.</given-names>
+</string-name>, <string-name>
+<surname>Weintraub</surname>, <given-names>H.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Lassar</surname>, <given-names>A.B.</given-names>
+</string-name> (<year>1987</year>) <article-title>Expression of a single transfected cDNA converts fibroblasts to myoblasts</article-title>. <source>Cell</source>, <volume>51</volume>, <fpage>987</fpage>&#x02013;<lpage>1000</lpage>.<pub-id pub-id-type="pmid">3690668</pub-id></mixed-citation></ref><ref id="bjh14010-bib-0010"><mixed-citation publication-type="journal" id="bjh14010-cit-0010">
+<string-name>
+<surname>Doulatov</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Vo</surname>, <given-names>L.T.</given-names>
+</string-name>, <string-name>
+<surname>Chou</surname>, <given-names>S.S.</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>, <given-names>P.G.</given-names>
+</string-name>, <string-name>
+<surname>Arora</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Hadland</surname>, <given-names>B.K.</given-names>
+</string-name>, <string-name>
+<surname>Bernstein</surname>, <given-names>I.D.</given-names>
+</string-name>, <string-name>
+<surname>Collins</surname>, <given-names>J.J.</given-names>
+</string-name>, <string-name>
+<surname>Zon</surname>, <given-names>L.I.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Daley</surname>, <given-names>G.Q.</given-names>
+</string-name> (<year>2013</year>) <article-title>Induction of multipotential hematopoietic progenitors from human pluripotent stem cells via respecification of lineage&#x02010;restricted precursors</article-title>. <source>Cell Stem Cell</source>, <volume>13</volume>, <fpage>459</fpage>&#x02013;<lpage>470</lpage>.<pub-id pub-id-type="pmid">24094326</pub-id></mixed-citation></ref><ref id="bjh14010-bib-0011"><mixed-citation publication-type="journal" id="bjh14010-cit-0011">
+<string-name>
+<surname>D'Souza</surname>, <given-names>S.L.</given-names>
+</string-name>, <string-name>
+<surname>Elefanty</surname>, <given-names>A.G.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Keller</surname>, <given-names>G.</given-names>
+</string-name> (<year>2005</year>) <article-title>SCL/Tal&#x02010;1 is essential for hematopoietic commitment of the hemangioblast but not for its development</article-title>. <source>Blood</source>, <volume>105</volume>, <fpage>3862</fpage>&#x02013;<lpage>3870</lpage>.<pub-id pub-id-type="pmid">15677567</pub-id></mixed-citation></ref><ref id="bjh14010-bib-0012"><mixed-citation publication-type="journal" id="bjh14010-cit-0012">
+<string-name>
+<surname>Ebina</surname>, <given-names>W.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Rossi</surname>, <given-names>D.J.</given-names>
+</string-name> (<year>2015</year>) <article-title>Transcription factor&#x02010;mediated reprogramming toward hematopoietic stem cells</article-title>. <source>The EMBO Journal</source>, <volume>34</volume>, <fpage>694</fpage>&#x02013;<lpage>709</lpage>.<pub-id pub-id-type="pmid">25712209</pub-id></mixed-citation></ref><ref id="bjh14010-bib-0013"><mixed-citation publication-type="journal" id="bjh14010-cit-0013">
+<string-name>
+<surname>Elcheva</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Brok&#x02010;volchanskaya</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Kumar</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Tong</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Vodyanik</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Swanson</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Stewart</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Kyba</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Yakubov</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Cooke</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Thomson</surname>, <given-names>J.A.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Slukvin</surname>, <given-names>I.</given-names>
+</string-name> (<year>2014</year>) <article-title>Direct induction of haematoendothelial programs in human pluripotent stem cells by transcriptional regulators</article-title>. <source>Nature Communications</source>, <volume>5</volume>, <fpage>1</fpage>&#x02013;<lpage>11</lpage>.</mixed-citation></ref><ref id="bjh14010-bib-0014"><mixed-citation publication-type="journal" id="bjh14010-cit-0014">
+<string-name>
+<surname>Forrester</surname>, <given-names>L.M.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Jackson</surname>, <given-names>M.</given-names>
+</string-name> (<year>2012</year>) <article-title>Mechanism of action of HOXB4 on the hematopoietic differentiation of embryonic stem cells</article-title>. <source>Stem Cells</source>, <volume>30</volume>, <fpage>379</fpage>&#x02013;<lpage>385</lpage>.<pub-id pub-id-type="pmid">22267295</pub-id></mixed-citation></ref><ref id="bjh14010-bib-0015"><mixed-citation publication-type="journal" id="bjh14010-cit-0015">
+<string-name>
+<surname>Gilbert</surname>, <given-names>L.A.</given-names>
+</string-name>, <string-name>
+<surname>Horlbeck</surname>, <given-names>M.A.</given-names>
+</string-name>, <string-name>
+<surname>Adamson</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Villalta</surname>, <given-names>J.E.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Whitehead</surname>, <given-names>E.H.</given-names>
+</string-name>, <string-name>
+<surname>Guimaraes</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Panning</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Ploegh</surname>, <given-names>H.L.</given-names>
+</string-name>, <string-name>
+<surname>Bassik</surname>, <given-names>M.C.</given-names>
+</string-name>, <string-name>
+<surname>Qi</surname>, <given-names>L.S.</given-names>
+</string-name>, <string-name>
+<surname>Kampmann</surname>, <given-names>M.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Weissman</surname>, <given-names>J.S.</given-names>
+</string-name> (<year>2014</year>) <article-title>Genome&#x02010;Scale CRISPR&#x02010;Mediated Control of Gene Repression and Activation</article-title>. <source>Cell</source>, <volume>159</volume>, <fpage>647</fpage>&#x02013;<lpage>661</lpage>.<pub-id pub-id-type="pmid">25307932</pub-id></mixed-citation></ref><ref id="bjh14010-bib-0016"><mixed-citation publication-type="journal" id="bjh14010-cit-0016">
+<string-name>
+<surname>He</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Lim</surname>, <given-names>M.S.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Morrison</surname>, <given-names>S.J.</given-names>
+</string-name> (<year>2011</year>) <article-title>Sox17 expression confers self&#x02010;renewal potential and fetal stem cell characteristics upon adult hematopoietic progenitors</article-title>. <source>Genes &#x00026; Development</source>, <volume>25</volume>, <fpage>1613</fpage>&#x02013;<lpage>1627</lpage>.<pub-id pub-id-type="pmid">21828271</pub-id></mixed-citation></ref><ref id="bjh14010-bib-0017"><mixed-citation publication-type="journal" id="bjh14010-cit-0017">
+<string-name>
+<surname>Hockemeyer</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Kiani</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Lai</surname>, <given-names>C.S.</given-names>
+</string-name>, <string-name>
+<surname>Gao</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>Cassady</surname>, <given-names>J.P.</given-names>
+</string-name>, <string-name>
+<surname>Cost</surname>, <given-names>G.J.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Santiago</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Miller</surname>, <given-names>J.C.</given-names>
+</string-name>, <string-name>
+<surname>Zeitler</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Cherone</surname>, <given-names>J.M.</given-names>
+</string-name>, <string-name>
+<surname>Meng</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Hinkley</surname>, <given-names>S.J.</given-names>
+</string-name>, <string-name>
+<surname>Rebar</surname>, <given-names>E.J.</given-names>
+</string-name>, <string-name>
+<surname>Gregory</surname>, <given-names>P.D.</given-names>
+</string-name>, <string-name>
+<surname>Urnov</surname>, <given-names>F.D.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Jaenisch</surname>, <given-names>R.</given-names>
+</string-name> (<year>2011</year>) <article-title>Genetic engineering of human pluripotent cells using TALE nucleases</article-title>. <source>Nature Biotechnology</source>, <volume>29</volume>, <fpage>731</fpage>&#x02013;<lpage>734</lpage>.</mixed-citation></ref><ref id="bjh14010-bib-0018"><mixed-citation publication-type="journal" id="bjh14010-cit-0018">
+<string-name>
+<surname>Hudson</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Clements</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Friday</surname>, <given-names>R.V.</given-names>
+</string-name>, <string-name>
+<surname>Stott</surname>, <given-names>D.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Woodland</surname>, <given-names>H.R.</given-names>
+</string-name> (<year>1997</year>) <article-title>Xsox17alpha and &#x02010;beta mediate endoderm formation in Xenopus</article-title>. <source>Cell</source>, <volume>91</volume>, <fpage>397</fpage>&#x02013;<lpage>405</lpage>.<pub-id pub-id-type="pmid">9363948</pub-id></mixed-citation></ref><ref id="bjh14010-bib-0019"><mixed-citation publication-type="journal" id="bjh14010-cit-0019">
+<string-name>
+<surname>Ivanovs</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Rybtsov</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Anderson</surname>, <given-names>R.A.</given-names>
+</string-name>, <string-name>
+<surname>Turner</surname>, <given-names>M.L.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Medvinsky</surname>, <given-names>A.</given-names>
+</string-name> (<year>2014</year>) <article-title>Identification of the niche and phenotype of the first human hematopoietic stem cells</article-title>. <source>Stem Cell Reports</source>, <volume>2</volume>, <fpage>449</fpage>&#x02013;<lpage>456</lpage>.<pub-id pub-id-type="pmid">24749070</pub-id></mixed-citation></ref><ref id="bjh14010-bib-0020"><mixed-citation publication-type="journal" id="bjh14010-cit-0020">
+<string-name>
+<surname>Jackson</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Axton</surname>, <given-names>R.A.</given-names>
+</string-name>, <string-name>
+<surname>Taylor</surname>, <given-names>A.H.</given-names>
+</string-name>, <string-name>
+<surname>Wilson</surname>, <given-names>J.A.</given-names>
+</string-name>, <string-name>
+<surname>Gordon&#x02010;Keylock</surname>, <given-names>S.A.M.</given-names>
+</string-name>, <string-name>
+<surname>Kokkaliaris</surname>, <given-names>K.D.</given-names>
+</string-name>, <string-name>
+<surname>Brickman</surname>, <given-names>J.M.</given-names>
+</string-name>, <string-name>
+<surname>Schulz</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Hummel</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Hubner</surname>, <given-names>N.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Forrester</surname>, <given-names>L.M.</given-names>
+</string-name> (<year>2012</year>) <article-title>HOXB4 can enhance the differentiation of embryonic stem cells by modulating the hematopoietic niche</article-title>. <source>Stem Cells</source>, <volume>30</volume>, <fpage>150</fpage>&#x02013;<lpage>160</lpage>.<pub-id pub-id-type="pmid">22084016</pub-id></mixed-citation></ref><ref id="bjh14010-bib-0101"><mixed-citation publication-type="journal" id="bjh14010-cit-0101">
+<string-name>
+<surname>Jackson</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Ma</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Taylor</surname>, <given-names>A.H.</given-names>
+</string-name>, <string-name>
+<surname>Axton</surname>, <given-names>R.A.</given-names>
+</string-name>, <string-name>
+<surname>Easterbrook</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Kydonaki</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Olivier</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Marenah</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Stanley</surname>, <given-names>E.G.</given-names>
+</string-name>, <string-name>
+<surname>Elefanty</surname>, <given-names>A.G.</given-names>
+</string-name>, <string-name>
+<surname>Joanne</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Mountford</surname>, <given-names>J.C.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Forrester</surname>, <given-names>L.M.</given-names>
+</string-name> (<year>2016</year>). <article-title>Enforced expression of HOXB4 in human embryonic stem cells enhances the production of haematopoietic progenitors but has no effect on the maturation of red blood cells</article-title>. <source>Stem Cells Translational Medicine</source> (in press).</mixed-citation></ref><ref id="bjh14010-bib-0021"><mixed-citation publication-type="journal" id="bjh14010-cit-0021">
+<string-name>
+<surname>Kanai&#x02010;Azuma</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Kanai</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Gad</surname>, <given-names>J.M.</given-names>
+</string-name>, <string-name>
+<surname>Tajima</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Taya</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Kurohmaru</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Sanai</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Yonekawa</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Yazaki</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Tam</surname>, <given-names>P.P.L.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Hayashi</surname>, <given-names>Y.</given-names>
+</string-name> (<year>2002</year>) <article-title>Depletion of definitive gut endoderm in Sox17&#x02010;null mutant mice</article-title>. <source>Development</source>, <volume>129</volume>, <fpage>2367</fpage>&#x02013;<lpage>2379</lpage>.<pub-id pub-id-type="pmid">11973269</pub-id></mixed-citation></ref><ref id="bjh14010-bib-0022"><mixed-citation publication-type="journal" id="bjh14010-cit-0022">
+<string-name>
+<surname>Kaufman</surname>, <given-names>D.S.</given-names>
+</string-name> (<year>2009</year>) <article-title>Toward clinical therapies using hematopoietic cells derived from human pluripotent stem cells</article-title>. <source>Blood</source>, <volume>114</volume>, <fpage>3513</fpage>&#x02013;<lpage>3523</lpage>.<pub-id pub-id-type="pmid">19652198</pub-id></mixed-citation></ref><ref id="bjh14010-bib-0023"><mixed-citation publication-type="journal" id="bjh14010-cit-0023">
+<string-name>
+<surname>Kaufman</surname>, <given-names>D.S.</given-names>
+</string-name>, <string-name>
+<surname>Hanson</surname>, <given-names>E.T.</given-names>
+</string-name>, <string-name>
+<surname>Lewis</surname>, <given-names>R.L.</given-names>
+</string-name>, <string-name>
+<surname>Auerbach</surname>, <given-names>R.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Thomson</surname>, <given-names>J.</given-names>
+</string-name> (<year>2001</year>) <article-title>Hematopoietic colony&#x02010;forming cells derived from human embryonic stem cells</article-title>. <source>Proceedings of the National Academy of Sciences of the United States of America</source>, <volume>98</volume>, <fpage>10716</fpage>&#x02013;<lpage>10721</lpage>.<pub-id pub-id-type="pmid">11535826</pub-id></mixed-citation></ref><ref id="bjh14010-bib-0024"><mixed-citation publication-type="journal" id="bjh14010-cit-0024">
+<string-name>
+<surname>Kennedy</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>D'Souza</surname>, <given-names>S.L.</given-names>
+</string-name>, <string-name>
+<surname>Lynch&#x02010;Kattman</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Schwantz</surname>, <given-names>S.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Keller</surname>, <given-names>G.</given-names>
+</string-name> (<year>2007</year>) <article-title>Development of the hemangioblast defines the onset of hematopoiesis in human ES cell differentiation cultures</article-title>. <source>Blood</source>, <volume>109</volume>, <fpage>2679</fpage>&#x02013;<lpage>2687</lpage>.<pub-id pub-id-type="pmid">17148580</pub-id></mixed-citation></ref><ref id="bjh14010-bib-0025"><mixed-citation publication-type="journal" id="bjh14010-cit-0025">
+<string-name>
+<surname>Kobari</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Yates</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Oudrhiri</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Francina</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Kiger</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Mazurier</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Rouzbeh</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>El&#x02010;Nemer</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Hebert</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Giarratana</surname>, <given-names>M.&#x02010;C.</given-names>
+</string-name>, <string-name>
+<surname>Fran&#x000e7;ois</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Chapel</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Lapillonne</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Luton</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Bennaceur&#x02010;Griscelli</surname>, <given-names>A.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Douay</surname>, <given-names>L.</given-names>
+</string-name> (<year>2012</year>) <article-title>Human induced pluripotent stem cells can reach complete terminal maturation: <italic>in&#x000a0;vivo</italic> and <italic>in&#x000a0;vitro</italic> evidence in the erythropoietic differentiation model</article-title>. <source>Haematologica</source>, <volume>97</volume>, <fpage>1795</fpage>&#x02013;<lpage>1803</lpage>.<pub-id pub-id-type="pmid">22733021</pub-id></mixed-citation></ref><ref id="bjh14010-bib-0026"><mixed-citation publication-type="journal" id="bjh14010-cit-0026">
+<string-name>
+<surname>Krosl</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Austin</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Beslu</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Kroon</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Humphries</surname>, <given-names>R.K.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Sauvageau</surname>, <given-names>G.</given-names>
+</string-name> (<year>2003</year>) <article-title>
+<italic>In vitro</italic> expansion of hematopoietic stem cells by recombinant TAT&#x02010;HOXB4 protein</article-title>. <source>Nature Medicine</source>, <volume>9</volume>, <fpage>1428</fpage>&#x02013;<lpage>1432</lpage>.</mixed-citation></ref><ref id="bjh14010-bib-0027"><mixed-citation publication-type="journal" id="bjh14010-cit-0027">
+<string-name>
+<surname>Kyba</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Perlingeiro</surname>, <given-names>R.C.R.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Daley</surname>, <given-names>G.Q.</given-names>
+</string-name> (<year>2002</year>) <article-title>HoxB4 confers definitive lymphoid&#x02010;myeloid engraftment potential on embryonic stem cell and yolk sac hematopoietic progenitors</article-title>. <source>Cell</source>, <volume>109</volume>, <fpage>29</fpage>&#x02013;<lpage>37</lpage>.<pub-id pub-id-type="pmid">11955444</pub-id></mixed-citation></ref><ref id="bjh14010-bib-0028"><mixed-citation publication-type="journal" id="bjh14010-cit-0028">
+<string-name>
+<surname>Lam</surname>, <given-names>K.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Zhang</surname>, <given-names>D.&#x02010;E.</given-names>
+</string-name> (<year>2012</year>) <article-title>RUNX1 and RUNX1&#x02010;ETO: roles in hematopoiesis and leukemogenesis</article-title>. <source>Frontiers in Bioscience</source>, <volume>17</volume>, <fpage>1120</fpage>&#x02013;<lpage>1139</lpage>.</mixed-citation></ref><ref id="bjh14010-bib-0029"><mixed-citation publication-type="journal" id="bjh14010-cit-0029">
+<string-name>
+<surname>Lancrin</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Sroczynska</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Stephenson</surname>, <given-names>C.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Allen</surname>, <given-names>T.</given-names>
+</string-name> (<year>2009</year>) <article-title>The haemangioblast generates haematopoietic cells through a haemogenic endothelium stage</article-title>. <source>Nature</source>, <volume>457</volume>, <fpage>892</fpage>&#x02013;<lpage>895</lpage>.<pub-id pub-id-type="pmid">19182774</pub-id></mixed-citation></ref><ref id="bjh14010-bib-0030"><mixed-citation publication-type="journal" id="bjh14010-cit-0030">
+<string-name>
+<surname>L&#x000e9;cuyer</surname>, <given-names>E.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Hoang</surname>, <given-names>T.</given-names>
+</string-name> (<year>2004</year>) <article-title>SCL: from the origin of hematopoiesis to stem cells and leukemia</article-title>. <source>Experimental Hematology</source>, <volume>32</volume>, <fpage>11</fpage>&#x02013;<lpage>24</lpage>.<pub-id pub-id-type="pmid">14725896</pub-id></mixed-citation></ref><ref id="bjh14010-bib-0031"><mixed-citation publication-type="journal" id="bjh14010-cit-0031">
+<string-name>
+<surname>Ledran</surname>, <given-names>M.H.</given-names>
+</string-name>, <string-name>
+<surname>Krassowska</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Armstrong</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Dimmick</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Renstr&#x000f6;m</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Lang</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Yung</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Santibanez&#x02010;Coref</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Dzierzak</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Stojkovic</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Oostendorp</surname>, <given-names>R.A. J.</given-names>
+</string-name>, <string-name>
+<surname>Forrester</surname>, <given-names>L.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Lako</surname>, <given-names>M.</given-names>
+</string-name> (<year>2008</year>) <article-title>Efficient hematopoietic differentiation of human embryonic stem cells on stromal cells derived from hematopoietic niches</article-title>. <source>Cell Stem Cell</source>, <volume>3</volume>, <fpage>85</fpage>&#x02013;<lpage>98</lpage>.<pub-id pub-id-type="pmid">18593561</pub-id></mixed-citation></ref><ref id="bjh14010-bib-0032"><mixed-citation publication-type="journal" id="bjh14010-cit-0032">
+<string-name>
+<surname>Lessard</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Faubert</surname>, <given-names>A.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Sauvageau</surname>, <given-names>G.</given-names>
+</string-name> (<year>2004</year>) <article-title>Genetic programs regulating HSC specification, maintenance and expansion</article-title>. <source>Oncogene</source>, <volume>23</volume>, <fpage>7199</fpage>&#x02013;<lpage>7209</lpage>.<pub-id pub-id-type="pmid">15378080</pub-id></mixed-citation></ref><ref id="bjh14010-bib-0033"><mixed-citation publication-type="journal" id="bjh14010-cit-0033">
+<string-name>
+<surname>Liakhovitskaia</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Rybtsov</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Batsivari</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Rybtsova</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Rode</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>de Bruijn</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Buchholz</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Gordon&#x02010;Keylock</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>, <given-names>S.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Medvinsky</surname>, <given-names>A.</given-names>
+</string-name> (<year>2014</year>) <article-title>Runx1 is required for progression of CD41&#x000a0;+&#x000a0; embryonic precursors into HSCs but not prior to this</article-title>. <source>Development</source>, <volume>141</volume>, <fpage>3319</fpage>&#x02013;<lpage>3323</lpage>.<pub-id pub-id-type="pmid">25139854</pub-id></mixed-citation></ref><ref id="bjh14010-bib-0034"><mixed-citation publication-type="journal" id="bjh14010-cit-0034">
+<string-name>
+<surname>Matsui</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Kanai&#x02010;Azuma</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Hara</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Matoba</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Hiramatsu</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Kawakami</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Kurohmaru</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Koopman</surname>, <given-names>P.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Kanai</surname>, <given-names>Y.</given-names>
+</string-name> (<year>2006</year>) <article-title>Redundant roles of Sox17 and Sox18 in postnatal angiogenesis in mice</article-title>. <source>Journal of Cell Science</source>, <volume>119</volume>, <fpage>3513</fpage>&#x02013;<lpage>3526</lpage>.<pub-id pub-id-type="pmid">16895970</pub-id></mixed-citation></ref><ref id="bjh14010-bib-0035"><mixed-citation publication-type="journal" id="bjh14010-cit-0035">
+<string-name>
+<surname>Mazurier</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Douay</surname>, <given-names>L.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Lapillonne</surname>, <given-names>H.</given-names>
+</string-name> (<year>2011</year>) <article-title>Red blood cells from induced pluripotent stem cells: hurdles and developments</article-title>. <source>Current Opinion in Hematology</source>, <volume>18</volume>, <fpage>249</fpage>&#x02013;<lpage>253</lpage>.<pub-id pub-id-type="pmid">21519239</pub-id></mixed-citation></ref><ref id="bjh14010-bib-0036"><mixed-citation publication-type="journal" id="bjh14010-cit-0036">
+<string-name>
+<surname>Melichar</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Ross</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Haber</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Cado</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Nolla</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Robey</surname>, <given-names>E.A</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Winoto</surname>, <given-names>A.</given-names>
+</string-name> (<year>2011</year>) <article-title>Comparative study of hematopoietic differentiation between human embryonic stem cell lines</article-title>. <source>PLoS ONE</source>, <volume>6</volume>, <fpage>e19854</fpage>.<pub-id pub-id-type="pmid">21603627</pub-id></mixed-citation></ref><ref id="bjh14010-bib-0037"><mixed-citation publication-type="journal" id="bjh14010-cit-0037">
+<string-name>
+<surname>Miller</surname>, <given-names>J.C.</given-names>
+</string-name>, <string-name>
+<surname>Tan</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Qiao</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Barlow</surname>, <given-names>K.A.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Xia</surname>, <given-names>D.F.</given-names>
+</string-name>, <string-name>
+<surname>Meng</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Paschon</surname>, <given-names>D.E.</given-names>
+</string-name>, <string-name>
+<surname>Leung</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Hinkley</surname>, <given-names>S.J.</given-names>
+</string-name>, <string-name>
+<surname>Dulay</surname>, <given-names>G.P.</given-names>
+</string-name>, <string-name>
+<surname>Hua</surname>, <given-names>K.L.</given-names>
+</string-name>, <string-name>
+<surname>Ankoudinova</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Cost</surname>, <given-names>G.J.</given-names>
+</string-name>, <string-name>
+<surname>Urnov</surname>, <given-names>F.D.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>H.S.</given-names>
+</string-name>, <string-name>
+<surname>Holmes</surname>, <given-names>M.C.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Gregory</surname>, <given-names>P.D.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Rebar</surname>, <given-names>E.J.</given-names>
+</string-name> (<year>2011</year>) <article-title>A TALE nuclease architecture for efficient genome editing</article-title>. <source>Nature Biotechnology</source>, <volume>29</volume>, <fpage>143</fpage>&#x02013;<lpage>148</lpage>.</mixed-citation></ref><ref id="bjh14010-bib-0038"><mixed-citation publication-type="journal" id="bjh14010-cit-0038">
+<string-name>
+<surname>Mountford</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Olivier</surname>, <given-names>E.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Turner</surname>, <given-names>M.</given-names>
+</string-name> (<year>2010</year>) <article-title>Prospects for the manufacture of red cells for transfusion</article-title>. <source>British Journal of Haematology</source>, <volume>149</volume>, <fpage>22</fpage>&#x02013;<lpage>34</lpage>.<pub-id pub-id-type="pmid">20151974</pub-id></mixed-citation></ref><ref id="bjh14010-bib-0039"><mixed-citation publication-type="journal" id="bjh14010-cit-0039">
+<string-name>
+<surname>Nakajima&#x02010;Takagi</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Osawa</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Oshima</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Takagi</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Miyagi</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Endoh</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Endo</surname>, <given-names>T.A</given-names>
+</string-name>, <string-name>
+<surname>Takayama</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Eto</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Toyoda</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Koseki</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Nakauchi</surname>, <given-names>H.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Iwama</surname>, <given-names>A.</given-names>
+</string-name> (<year>2013</year>) <article-title>Role of SOX17 in hematopoietic development from human embryonic stem cells</article-title>. <source>Blood</source>, <volume>121</volume>, <fpage>447</fpage>&#x02013;<lpage>458</lpage>.<pub-id pub-id-type="pmid">23169777</pub-id></mixed-citation></ref><ref id="bjh14010-bib-0040"><mixed-citation publication-type="journal" id="bjh14010-cit-0040">
+<string-name>
+<surname>Pereira</surname>, <given-names>C.&#x02010;F.</given-names>
+</string-name>, <string-name>
+<surname>Chang</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Qiu</surname>, <given-names>J.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Niu</surname>, <given-names>X.</given-names>
+</string-name> (<year>2013</year>) <article-title>Induction of a hemogenic program in mouse fibroblasts</article-title>. <source>Cell Stem Cell</source>, <volume>13</volume>, <fpage>205</fpage>&#x02013;<lpage>218</lpage>.<pub-id pub-id-type="pmid">23770078</pub-id></mixed-citation></ref><ref id="bjh14010-bib-0041"><mixed-citation publication-type="journal" id="bjh14010-cit-0041">
+<string-name>
+<surname>Pulecio</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Nivet</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Sancho&#x02010;Martinez</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Vitaloni</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Guenechea</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Xia</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Kurian</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Dubova</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Bueren</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Laricchia&#x02010;robbio</surname>, <given-names>L.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Izpisua Belmonte</surname>, <given-names>J.C.</given-names>
+</string-name> (<year>2014</year>) <article-title>Conversion of human fibroblasts into monocyte&#x02010;like progenitor cells</article-title>. <source>Stem Cells</source>, <volume>32</volume>, <fpage>2923</fpage>&#x02013;<lpage>2938</lpage>.<pub-id pub-id-type="pmid">25175072</pub-id></mixed-citation></ref><ref id="bjh14010-bib-0042"><mixed-citation publication-type="journal" id="bjh14010-cit-0042">
+<string-name>
+<surname>Ramos&#x02010;mejia</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Navarro&#x02010;montero</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Ayllon</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Bueno</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Romero</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Real</surname>, <given-names>P.J.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Menendez</surname>, <given-names>P.</given-names>
+</string-name> (<year>2014</year>) <article-title>HOXA9 promotes hematopoietic commitment of human embryonic stem cells</article-title>. <source>Blood</source>, <volume>124</volume>, <fpage>3065</fpage>&#x02013;<lpage>3076</lpage>.<pub-id pub-id-type="pmid">25185710</pub-id></mixed-citation></ref><ref id="bjh14010-bib-0043"><mixed-citation publication-type="journal" id="bjh14010-cit-0043">
+<string-name>
+<surname>Ran</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Shia</surname>, <given-names>W.&#x02010;J.</given-names>
+</string-name>, <string-name>
+<surname>Lo</surname>, <given-names>M.&#x02010;C.</given-names>
+</string-name>, <string-name>
+<surname>Fan</surname>, <given-names>J.&#x02010;B.</given-names>
+</string-name>, <string-name>
+<surname>Knorr</surname>, <given-names>D.A</given-names>
+</string-name>, <string-name>
+<surname>Ferrell</surname>, <given-names>P.I.</given-names>
+</string-name>, <string-name>
+<surname>Ye</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Yan</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Cheng</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Kaufman</surname>, <given-names>D.S.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Zhang</surname>, <given-names>D.&#x02010;E.</given-names>
+</string-name> (<year>2013</year>) <article-title>RUNX1a enhances hematopoietic lineage commitment from human embryonic stem cells and inducible pluripotent stem cells</article-title>. <source>Blood</source>, <volume>121</volume>, <fpage>2882</fpage>&#x02013;<lpage>2890</lpage>.<pub-id pub-id-type="pmid">23372166</pub-id></mixed-citation></ref><ref id="bjh14010-bib-0044"><mixed-citation publication-type="journal" id="bjh14010-cit-0044">
+<string-name>
+<surname>Real</surname>, <given-names>P.J.</given-names>
+</string-name>, <string-name>
+<surname>Ligero</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Ayllon</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Ramos&#x02010;Mejia</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Bueno</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Gutierrez&#x02010;Aranda</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Navarro&#x02010;Montero</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Lako</surname>, <given-names>M.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Menendez</surname>, <given-names>P.</given-names>
+</string-name> (<year>2012</year>) <article-title>SCL/TAL1 regulates hematopoietic specification from human embryonic stem cells</article-title>. <source>Molecular Therapy</source>, <volume>20</volume>, <fpage>1443</fpage>&#x02013;<lpage>1453</lpage>.<pub-id pub-id-type="pmid">22491213</pub-id></mixed-citation></ref><ref id="bjh14010-bib-0045"><mixed-citation publication-type="journal" id="bjh14010-cit-0045">
+<string-name>
+<surname>Real</surname>, <given-names>P.J.</given-names>
+</string-name>, <string-name>
+<surname>Navarro&#x02010;Montero</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Ramos&#x02010;Mej&#x000ed;a</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Ayll&#x000f3;n</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Bueno</surname>, <given-names>C.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Men&#x000e9;ndez</surname>, <given-names>P.</given-names>
+</string-name> (<year>2013</year>) <article-title>The role of RUNX1 isoforms in hematopoietic commitment of human pluripotent stem cells</article-title>. <source>Blood</source>, <volume>121</volume>, <fpage>5250</fpage>&#x02013;<lpage>5252</lpage>.<pub-id pub-id-type="pmid">23813937</pub-id></mixed-citation></ref><ref id="bjh14010-bib-0046"><mixed-citation publication-type="journal" id="bjh14010-cit-0046">
+<string-name>
+<surname>Riddell</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Gazit</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Garrison</surname>, <given-names>B.S.</given-names>
+</string-name>, <string-name>
+<surname>Guo</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Saadatpour</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Mandal</surname>, <given-names>P.K.</given-names>
+</string-name>, <string-name>
+<surname>Ebina</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Volchkov</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Yuan</surname>, <given-names>G.&#x02010;C.</given-names>
+</string-name>, <string-name>
+<surname>Orkin</surname>, <given-names>S.H.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Rossi</surname>, <given-names>D.J.</given-names>
+</string-name> (<year>2014</year>) <article-title>Reprogramming committed murine blood cells to induced hematopoietic stem cells with defined factors</article-title>. <source>Cell</source>, <volume>157</volume>, <fpage>549</fpage>&#x02013;<lpage>564</lpage>.<pub-id pub-id-type="pmid">24766805</pub-id></mixed-citation></ref><ref id="bjh14010-bib-0047"><mixed-citation publication-type="journal" id="bjh14010-cit-0047">
+<string-name>
+<surname>Rybtsov</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Sobiesiak</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Taoudi</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Souilhol</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Senserrich</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Liakhovitskaia</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Ivanovs</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Frampton</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>, <given-names>S.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Medvinsky</surname>, <given-names>A.</given-names>
+</string-name> (<year>2011</year>) <article-title>Hierarchical organization and early hematopoietic specification of the developing HSC lineage in the AGM region</article-title>. <source>The Journal of Experimental Medicine</source>, <volume>208</volume>, <fpage>1305</fpage>&#x02013;<lpage>1315</lpage>.<pub-id pub-id-type="pmid">21624936</pub-id></mixed-citation></ref><ref id="bjh14010-bib-0048"><mixed-citation publication-type="journal" id="bjh14010-cit-0048">
+<string-name>
+<surname>Rybtsov</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Batsivari</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Bilotkach</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Paruzina</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Senserrich</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Nerushev</surname>, <given-names>O.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Medvinsky</surname>, <given-names>A.</given-names>
+</string-name> (<year>2014</year>) <article-title>Tracing the origin of the HSC hierarchy reveals an SCF&#x02010;dependent, IL&#x02010;3&#x02010;independent CD43(&#x02010;) embryonic precursor</article-title>. <source>Stem Cell Reports</source>, <volume>3</volume>, <fpage>489</fpage>&#x02013;<lpage>501</lpage>.<pub-id pub-id-type="pmid">25241746</pub-id></mixed-citation></ref><ref id="bjh14010-bib-0049"><mixed-citation publication-type="journal" id="bjh14010-cit-0049">
+<string-name>
+<surname>Sadelain</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Papapetrou</surname>, <given-names>E.P.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Bushman</surname>, <given-names>F.D.</given-names>
+</string-name> (<year>2012</year>) <article-title>Safe harbours for the integration of new DNA in the human genome</article-title>. <source>Nature Reviews. Cancer</source>, <volume>12</volume>, <fpage>51</fpage>&#x02013;<lpage>58</lpage>.</mixed-citation></ref><ref id="bjh14010-bib-0050"><mixed-citation publication-type="journal" id="bjh14010-cit-0050">
+<string-name>
+<surname>Salvagiotto</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Burton</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Daigh</surname>, <given-names>C.A.</given-names>
+</string-name>, <string-name>
+<surname>Rajesh</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Slukvin</surname>, <given-names>I.I.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Seay</surname>, <given-names>N.J.</given-names>
+</string-name> (<year>2011</year>) <article-title>A defined, feeder&#x02010;free, serum&#x02010;free system to generate <italic>in&#x000a0;vitro</italic> hematopoietic progenitors and differentiated blood cells from hESCs and hiPSCs</article-title>. <source>PLoS ONE</source>, <volume>6</volume>, <fpage>e17829</fpage>.<pub-id pub-id-type="pmid">21445267</pub-id></mixed-citation></ref><ref id="bjh14010-bib-0051"><mixed-citation publication-type="journal" id="bjh14010-cit-0051">
+<string-name>
+<surname>Sander</surname>, <given-names>J.D.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Joung</surname>, <given-names>J.K.</given-names>
+</string-name> (<year>2014</year>) <article-title>CRISPR&#x02010;Cas systems for editing, regulating and targeting genomes</article-title>. <source>Nature Biotechnology</source>, <volume>32</volume>, <fpage>347</fpage>&#x02013;<lpage>355</lpage>.</mixed-citation></ref><ref id="bjh14010-bib-0052"><mixed-citation publication-type="journal" id="bjh14010-cit-0052">
+<string-name>
+<surname>Sandler</surname>, <given-names>V.M.</given-names>
+</string-name>, <string-name>
+<surname>Lis</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Kedem</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>James</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Elemento</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Butler</surname>, <given-names>J.M.</given-names>
+</string-name>, <string-name>
+<surname>Scandura</surname>, <given-names>J.M.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Rafii</surname>, <given-names>S.</given-names>
+</string-name> (<year>2014</year>) <article-title>Reprogramming human endothelial cells to haematopoietic cells requires vascular induction</article-title>. <source>Nature</source>, <volume>511</volume>, <fpage>312</fpage>&#x02013;<lpage>318</lpage>.<pub-id pub-id-type="pmid">25030167</pub-id></mixed-citation></ref><ref id="bjh14010-bib-0053"><mixed-citation publication-type="journal" id="bjh14010-cit-0053">
+<string-name>
+<surname>Schiedlmeier</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Klump</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Will</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Arman&#x02010;Kalcek</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Rimek</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Friel</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Baum</surname>, <given-names>C.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Ostertag</surname>, <given-names>W.</given-names>
+</string-name> (<year>2003</year>) <article-title>High&#x02010;level ectopic HOXB4 expression confers a profound <italic>in&#x000a0;vivo</italic> competitive growth advantage on human cord blood CD34&#x000a0;+&#x000a0; cells, but impairs lymphomyeloid differentiation</article-title>. <source>Blood</source>, <volume>101</volume>, <fpage>1759</fpage>&#x02013;<lpage>1768</lpage>.<pub-id pub-id-type="pmid">12406897</pub-id></mixed-citation></ref><ref id="bjh14010-bib-0054"><mixed-citation publication-type="journal" id="bjh14010-cit-0054">
+<string-name>
+<surname>Shivdasani</surname>, <given-names>R.A.</given-names>
+</string-name>, <string-name>
+<surname>Mayer</surname>, <given-names>E.L.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Orkin</surname>, <given-names>S.H.</given-names>
+</string-name> (<year>1995</year>) <article-title>Absence of blood formation in mice lacking the T&#x02010;cell leukaemia oncoprotein tal&#x02010;1/SCL</article-title>. <source>Nature</source>, <volume>373</volume>, <fpage>432</fpage>&#x02013;<lpage>434</lpage>.<pub-id pub-id-type="pmid">7830794</pub-id></mixed-citation></ref><ref id="bjh14010-bib-0055"><mixed-citation publication-type="journal" id="bjh14010-cit-0055">
+<string-name>
+<surname>Szabo</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Rampalli</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Risue&#x000f1;o</surname>, <given-names>R.M.</given-names>
+</string-name>, <string-name>
+<surname>Schnerch</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Mitchell</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Fiebig&#x02010;Comyn</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Levadoux&#x02010;Martin</surname>, <given-names>M.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Bhatia</surname>, <given-names>M.</given-names>
+</string-name> (<year>2010</year>) <article-title>Direct conversion of human fibroblasts to multilineage blood progenitors</article-title>. <source>Nature</source>, <volume>468</volume>, <fpage>521</fpage>&#x02013;<lpage>526</lpage>.<pub-id pub-id-type="pmid">21057492</pub-id></mixed-citation></ref><ref id="bjh14010-bib-0056"><mixed-citation publication-type="journal" id="bjh14010-cit-0056">
+<string-name>
+<surname>Takahashi</surname>, <given-names>K.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Yamanaka</surname>, <given-names>S.</given-names>
+</string-name> (<year>2006</year>) <article-title>Induction of pluripotent stem cells from mouse embryonic and adult fibroblast cultures by defined factors</article-title>. <source>Cell</source>, <volume>126</volume>, <fpage>663</fpage>&#x02013;<lpage>676</lpage>.<pub-id pub-id-type="pmid">16904174</pub-id></mixed-citation></ref><ref id="bjh14010-bib-0057"><mixed-citation publication-type="journal" id="bjh14010-cit-0057">
+<string-name>
+<surname>Takahashi</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Tanabe</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Ohnuki</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Narita</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Ichisaka</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Tomoda</surname>, <given-names>K.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Yamanaka</surname>, <given-names>S.</given-names>
+</string-name> (<year>2007</year>) <article-title>Induction of pluripotent stem cells from adult human fibroblasts by defined factors</article-title>. <source>Cell</source>, <volume>131</volume>, <fpage>861</fpage>&#x02013;<lpage>872</lpage>.<pub-id pub-id-type="pmid">18035408</pub-id></mixed-citation></ref><ref id="bjh14010-bib-0058"><mixed-citation publication-type="journal" id="bjh14010-cit-0058">
+<string-name>
+<surname>Teitell</surname>, <given-names>M.A.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Mikkola</surname>, <given-names>H.K.A.</given-names>
+</string-name> (<year>2006</year>) <article-title>Transcriptional activators, repressors, and epigenetic modifiers controlling hematopoietic stem cell development</article-title>. <source>Pediatric Research</source>, <volume>59</volume>, <fpage>33R</fpage>&#x02013;<lpage>39R</lpage>.<pub-id pub-id-type="pmid">16326987</pub-id></mixed-citation></ref><ref id="bjh14010-bib-0059"><mixed-citation publication-type="journal" id="bjh14010-cit-0059">
+<string-name>
+<surname>Wilson</surname>, <given-names>N.K.</given-names>
+</string-name>, <string-name>
+<surname>Calero&#x02010;Nieto</surname>, <given-names>F.J.</given-names>
+</string-name>, <string-name>
+<surname>Ferreira</surname>, <given-names>R.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>G&#x000f6;ttgens</surname>, <given-names>B.</given-names>
+</string-name> (<year>2011</year>) <article-title>Transcriptional regulation of haematopoietic transcription factors</article-title>. <source>Stem Cell Research &#x00026; Therapy</source>, <volume>2</volume>, <fpage>6</fpage>.<pub-id pub-id-type="pmid">21345252</pub-id></mixed-citation></ref><ref id="bjh14010-bib-0060"><mixed-citation publication-type="journal" id="bjh14010-cit-0060">
+<string-name>
+<surname>Yoder</surname>, <given-names>M.C.</given-names>
+</string-name> (<year>2014</year>) <article-title>Inducing definitive hematopoiesis in a dish</article-title>. <source>Nature Biotechnology</source>, <volume>32</volume>, <fpage>539</fpage>&#x02013;<lpage>541</lpage>.</mixed-citation></ref><ref id="bjh14010-bib-0061"><mixed-citation publication-type="journal" id="bjh14010-cit-0061">
+<string-name>
+<surname>Yung</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Ledran</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Moreno&#x02010;Gimeno</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Conesa</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Montaner</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Dopazo</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Dimmick</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Slater</surname>, <given-names>N.J.</given-names>
+</string-name>, <string-name>
+<surname>Marenah</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Real</surname>, <given-names>P.J.</given-names>
+</string-name>, <string-name>
+<surname>Paraskevopoulou</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Bisbal</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Burks</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Santibanez&#x02010;Koref</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Moreno</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Mountford</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Menendez</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Armstrong</surname>, <given-names>L.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Lako</surname>, <given-names>M.</given-names>
+</string-name> (<year>2011</year>) <article-title>Large&#x02010;scale transcriptional profiling and functional assays reveal important roles for Rho&#x02010;GTPase signalling and SCL during haematopoietic differentiation of human embryonic stem cells</article-title>. <source>Human Molecular Genetics</source>, <volume>20</volume>, <fpage>4932</fpage>&#x02013;<lpage>4946</lpage>.<pub-id pub-id-type="pmid">21937587</pub-id></mixed-citation></ref><ref id="bjh14010-bib-0062"><mixed-citation publication-type="journal" id="bjh14010-cit-0062">
+<string-name>
+<surname>Zambidis</surname>, <given-names>E.T.</given-names>
+</string-name>, <string-name>
+<surname>Peault</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Park</surname>, <given-names>T.S.</given-names>
+</string-name>, <string-name>
+<surname>Bunz</surname>, <given-names>F.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Civin</surname>, <given-names>C.I.</given-names>
+</string-name> (<year>2005</year>) <article-title>Hematopoietic differentiation of human embryonic stem cells progresses through sequential hematoendothelial, primitive, and definitive stages resembling human yolk sac development</article-title>. <source>Blood</source>, <volume>106</volume>, <fpage>860</fpage>&#x02013;<lpage>870</lpage>.<pub-id pub-id-type="pmid">15831705</pub-id></mixed-citation></ref></ref-list></back></article>

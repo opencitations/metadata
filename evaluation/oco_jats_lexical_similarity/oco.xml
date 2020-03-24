@@ -1,0 +1,771 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:vann="http://purl.org/vocab/vann/"
+>
+  <rdf:Description rdf:about="http://purl.org/spar/fabio/ReportDocument">
+    <rdfs:isDefinedBy rdf:resource="http://purl.org/spar/fabio"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label xml:lang="en">report document</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://purl.org/spar/fabio/Expression"/>
+    <rdfs:comment xml:lang="en">The realization of a report, usually in printed form.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://prismstandard.org/namespaces/basic/2.0/edition">
+    <rdfs:label xml:lang="en">has edition</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdfs:comment xml:lang="en">An identifier for one of several alternative issues of a magazine, a book or other resource.</rdfs:comment>
+    <rdfs:isDefinedBy rdf:resource="http://purl.org/spar/fabio"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/ns/prov#wasDerivedFrom">
+    <rdfs:isDefinedBy rdf:resource="http://www.w3.org/ns/prov"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdfs:comment xml:lang="en">This property allows the specification of a derivation from another entity, where a derivation is a transformation of an entity into another, an update of an entity resulting in a new one, or the construction of a new entity based on a pre-existing entity.</rdfs:comment>
+    <rdfs:label xml:lang="en">was derived from</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/spar/fabio/Book">
+    <rdfs:comment xml:lang="en">A non-serial document that is complete in one volume or a designated finite number of volumes.  A book published by a publisher is usually  identified by an International Standard Book Number (ISBN), and may be manifested as a physical printed publication on paper bound in a hard or soft cover, or in electronic format as an 'e-book'.</rdfs:comment>
+    <rdfs:isDefinedBy rdf:resource="http://purl.org/spar/fabio"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label xml:lang="en">book</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://purl.org/spar/fabio/Expression"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/spar/datacite/usesIdentifierScheme">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.org/spar/datacite"/>
+    <rdfs:label xml:lang="en">uses identifier scheme</rdfs:label>
+    <rdfs:comment xml:lang="en">An object property permitting specification of the identifier scheme used to provide the identifier for an entity – either a funder, a person or a resource – defined as an individual of the class datacite:IdentifierScheme.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2000/01/rdf-schema#label">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AnnotationProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/vocab/frbr/core#exemplar">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdfs:label xml:lang="en">has exemplar</rdfs:label>
+    <rdfs:isDefinedBy rdf:resource="http://purl.org/spar/frbr"/>
+    <rdfs:comment xml:lang="en">A manifestation exemplified in an item.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/spar/fabio/JournalArticle">
+    <rdfs:subClassOf rdf:resource="http://purl.org/spar/fabio/Expression"/>
+    <rdfs:comment xml:lang="en">An article, typically the realization of a research paper reporting original research findings, published in a journal issue.  </rdfs:comment>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.org/spar/fabio"/>
+    <rdfs:label xml:lang="en">journal article</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/ns/prov#specializationOf">
+    <rdfs:isDefinedBy rdf:resource="http://www.w3.org/ns/prov"/>
+    <rdfs:label xml:lang="en">is specialization of</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdfs:comment xml:lang="en">This property allows one to indicate that an entity that is a specialization of another shares all aspects of the latter, and additionally presents more specific aspects of the same thing as the latter.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/spar/doco/TextChunk">
+    <rdfs:comment xml:lang="en">A piece of text, e.g. the content of a table cell, defined by a start point and an end point.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://purl.org/spar/deo/DiscourseElement"/>
+    <rdfs:label xml:lang="en">text chunk</rdfs:label>
+    <rdfs:isDefinedBy rdf:resource="http://purl.org/spar/doco"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.essepuntato.it/2010/06/literalreification/hasLiteralValue">
+    <rdfs:label xml:lang="en">has literal value</rdfs:label>
+    <rdfs:isDefinedBy rdf:resource="http://www.essepuntato.it/2010/06/literalreification"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdfs:comment xml:lang="en">It is used to specify the literal value that an identifier has.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/spar/c4o/isContextOf">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdfs:label xml:lang="en">is context of</rdfs:label>
+    <rdfs:isDefinedBy>http://purl.org/spar/c4o</rdfs:isDefinedBy>
+    <rdfs:comment xml:lang="en">The property relates a discourse element (e.g. a sentence) to any textual device (such as reference pointers or lists of pointers) for which the discourse element is context of.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/oc/ontology/hasAnnotation">
+    <rdfs:isDefinedBy rdf:resource="https://w3id.org/oc/ontology"/>
+    <rdfs:label xml:lang="en">has annotation</rdfs:label>
+    <rdfs:comment xml:lang="en">The property relates an entity to an annotation, e.g. a reference pointer can be linked to an annotation having as body a citation.</rdfs:comment>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/ns/prov#Entity">
+    <rdfs:isDefinedBy rdf:resource="http://www.w3.org/ns/prov"/>
+    <rdfs:comment xml:lang="en">In the OpenCitations Corpus, an entity represents a particular snapshot recording the metadata associated with another individual entity at a particular time.</rdfs:comment>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label xml:lang="en">entity</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/spar/doco/Footnote">
+    <rdfs:comment xml:lang="en">A structure within a sentence that permits the author to make a comment or to cite another publication in support of the text, or both. A footnote is normally flagged by a superscript number immediately following that portion of the text to which it relates. For convenience of reading, the text of the footnote is usually printed at the bottom of the page or at the end of a text.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://purl.org/spar/deo/DiscourseElement"/>
+    <rdfs:label xml:lang="en">footnote</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.org/spar/doco"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/spar/doco/Sentence">
+    <rdfs:subClassOf rdf:resource="http://purl.org/spar/deo/DiscourseElement"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.org/spar/doco"/>
+    <rdfs:label xml:lang="en">sentence</rdfs:label>
+    <rdfs:comment xml:lang="en">An expression in natural language forming a single grammatical unit.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/ns/oa#hasTarget">
+    <rdfs:isDefinedBy rdf:resource="http://www.w3.org/ns/oa"/>
+    <owl:inverseOf rdf:resource="https://w3id.org/oc/ontology/hasAnnotation"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdfs:comment xml:lang="en">The target entity of an annotation.</rdfs:comment>
+    <rdfs:label xml:lang="en">has target</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/co/element">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdfs:comment xml:lang="en">The property relates a list of reference pointers to reference pointers the are included in the list.</rdfs:comment>
+    <rdfs:isDefinedBy>http://purl.org/co</rdfs:isDefinedBy>
+    <rdfs:label xml:lang="en">has element</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/spar/cito/DistantCitation">
+    <rdfs:subClassOf rdf:resource="http://purl.org/spar/cito/Citation"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label xml:lang="en">distant citation</rdfs:label>
+    <rdfs:isDefinedBy rdf:resource="http://purl.org/spar/cito"/>
+    <rdfs:comment xml:lang="en">A citation in which the citing and the cited entities have nothing significant in common with one another (for example authors, journal, institutional affiliation, or funding agency) over and beyond their subject matter.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/spar/fabio/Series">
+    <rdfs:comment xml:lang="en">A sequence of expressions having certain characteristics in common that are formally identified together as a group.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://purl.org/spar/fabio/Expression"/>
+    <rdfs:label xml:lang="en">series</rdfs:label>
+    <rdfs:isDefinedBy rdf:resource="http://purl.org/spar/fabio"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/vocab/vann/preferredNamespaceUri">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AnnotationProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/spar/deo/DiscourseElement">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.org/spar/deo"/>
+    <rdfs:comment xml:lang="en">A document component, either structural (e.g. paragraph, section, chapter, table, caption, footnote, title) or rhetorical (e.g. introduction, discussion, acknowledgements, reference list, figure, appendix), in which the content of a bibliographic resource can be organized.</rdfs:comment>
+    <rdfs:label xml:lang="en">discourse element</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/spar/cito/hasCitationCharacterisation">
+    <rdfs:domain rdf:resource="http://purl.org/spar/cito/Citation"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.org/spar/cito"/>
+    <rdfs:comment xml:lang="en">The property relates a citation to its inteded purpose. CiTO properties are used as range of the property.</rdfs:comment>
+    <rdfs:label xml:lang="en">has citation characterisation</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/spar/fabio/hasSubtitle">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdfs:label xml:lang="en">has subtitle</rdfs:label>
+    <rdfs:isDefinedBy rdf:resource="http://purl.org/spar/fabio"/>
+    <rdfs:comment xml:lang="en">A secondary title that follows the main title of a work.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/oc/ontology">
+    <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OCO, the OpenCitations Ontology</dc:title>
+    <dc:description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OCO, the OpenCitations Ontology, is not yet another bibliographic ontology, rather it is just a place where existing and complementary ontological entities from several other ontologies are grouped together for the purpose of providing descriptive metadata as introduced in the [OpenCitations Data Model(ODCM)](http://opencitations.net/model).
+
+* bibliographic resources (br), class fabio:Expression and its subclasses – resources that either cites or are cited by other bibliographic resources (e.g. journal articles), or that contain such citing/cited resources (e.g. journals);
+
+* resource embodiments (re), class fabio:Manifestation and its subclasses – details of the physical or digital forms in which the bibliographic resources are made available by their publishers;
+
+* discourse elements (de), class deo:DiscourseElement and its subclasses - a document component, either structural (e.g. paragraph, section, chapter, table, caption, footnote, title) or rhetorical (e.g. introduction, discussion, acknowledgements, reference list, figure, appendix), in which the content of a bibliographic resource can be organized;
+
+* reference pointers (rp), class c4o:InTextReferencePointer - a textual device (e.g. “[1]”), denoting a single bibliographic reference, that is embedded in the text of a document within the context of a particular sentence or text chunk;
+
+* pointer list (pl), class c4o:SingleLocationPointerList - a textual device (e.g. “[1, 2, 3]” or “[4-9]”) which includes a number of reference pointers denoting the specific bibliographic references to which the list pertains;
+
+* bibliographic reference entries (be), class biro:BibliographicReference – the literal textual bibliographic entries occurring in the reference lists within bibliographic resources, that reference other bibliographic resources;
+
+* responsible agents (ra), class foaf:Agent – names of agents having certain roles with respect to bibliographic resources (i.e. names of authors, editors, publishers, etc.);
+agent roles (ar), class pro:RoleInTime – roles held by agents with respect to bibliographic resources (e.g. author, editor, publisher);
+
+* identifiers (id), class datacite:Identifier – external identifiers (e.g. DOI, ORCID, PubMedID) associated with the bibliographic entities;
+
+* citations (ci), class cito:Citation - conceptual directional links from a citing entity to a cited entity, created by a human performative act of making a citation.</dc:description>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Ontology"/>
+    <dc:rights xml:lang="en">This work is distributed under a Creative Commons Attribution License (http://creativecommons.org/licenses/by/4.0/).</dc:rights>
+    <vann:preferredNamespacePrefix rdf:datatype="http://www.w3.org/2001/XMLSchema#string">oco</vann:preferredNamespacePrefix>
+    <vann:preferredNamespaceUri rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://w3id.org/oc/ontology/</vann:preferredNamespaceUri>
+    <owl:versionInfo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2.0</owl:versionInfo>
+    <owl:versionIRI rdf:resource="https://w3id.org/oc/ontology/2019-09-19"/>
+    <dc:date>2019-09-19</dc:date>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OCO, the OpenCitations Ontology, is not yet another bibliographic ontology. Rather it is just a place where existing and complementary ontological entities from several other ontologies, all employed in the OpenCitations Data Model, are grouped together for the purpose of providing descriptive metadata for the OpenCitations Corpus (OCC), the OpenCitations Indexes and other OpenCitations datasets. This model is freely available for third parties to use to model their own data, either for their independent use or to permit their data, conformed to the OpenCitations Data Model, to be published on their behalf by OpenCitations.</rdfs:comment>
+    <dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marilena Daquino</dc:creator>
+    <dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Silvio Peroni</dc:creator>
+    <dc:description rdf:resource="https://rawgit.com/essepuntato/opencitations/master/ontology/core.png"/>
+    <owl:priorVersion rdf:resource="https://w3id.org/oc/ontology/2018-02-23"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/spar/cito/FunderSelfCitation">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:comment xml:lang="en">A citation in which the works reported in the citing and the cited entities were funded by the same funding agency.</rdfs:comment>
+    <rdfs:label xml:lang="en">funder self citation</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://purl.org/spar/cito/SelfCitation"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.org/spar/cito"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/spar/fabio/ExpressionCollection">
+    <rdfs:subClassOf rdf:resource="http://purl.org/spar/fabio/Expression"/>
+    <rdfs:label xml:lang="en">expression collection</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.org/spar/fabio"/>
+    <rdfs:comment xml:lang="en">A collection of expressions, for example a periodical or a book series.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/spar/fabio/PrintObject">
+    <rdfs:subClassOf rdf:resource="http://purl.org/spar/fabio/Manifestation"/>
+    <rdfs:label xml:lang="en">print object</rdfs:label>
+    <rdfs:comment xml:lang="en">An analog manifestation in physical printed form, typically on paper.</rdfs:comment>
+    <rdfs:isDefinedBy rdf:resource="http://purl.org/spar/fabio"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/spar/fabio/Manifestation">
+    <rdfs:comment xml:lang="en">In the OpenCitations Corpus, this class is used to represent any detail of the physical or digital forms in which the bibliographic resources are made available by their publishers.</rdfs:comment>
+    <rdfs:label xml:lang="en">manifestation</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.org/spar/fabio"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/vocab/frbr/core#embodiment">
+    <rdfs:label xml:lang="en">has embodiment</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdfs:comment xml:lang="en">An expression embodied in a manifestation.</rdfs:comment>
+    <rdfs:isDefinedBy rdf:resource="http://purl.org/spar/frbr"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/spar/datacite/Identifier">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.org/spar/datacite"/>
+    <rdfs:label xml:lang="en">identifier</rdfs:label>
+    <rdfs:comment xml:lang="en">An identifier that uniquely identities an entity – such as a funding agency, a person and a resource – belonging to a particular scheme such as those specified by individuals of the class datacite:IdentifierScheme.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/spar/pro/editor">
+    <rdfs:isDefinedBy rdf:resource="http://purl.org/spar/pro"/>
+    <rdfs:label xml:lang="en">editor</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/spar/pro/Role"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdfs:comment xml:lang="en">The role of a person who selects and prepares for publication material written and submitted by authors.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/spar/datacite/isbn">
+    <rdfs:label xml:lang="en">isbn</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdf:type rdf:resource="http://purl.org/spar/datacite/IdentifierScheme"/>
+    <rdfs:comment xml:lang="en">International Standard Book Number.</rdfs:comment>
+    <rdfs:isDefinedBy rdf:resource="http://purl.org/spar/datacite"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/spar/fabio/JournalVolume">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:subClassOf rdf:resource="http://purl.org/spar/fabio/Expression"/>
+    <rdfs:comment xml:lang="en">A particular published volume of a journal, comprising one or more journal issues.</rdfs:comment>
+    <rdfs:label xml:lang="en">journal volume</rdfs:label>
+    <rdfs:isDefinedBy rdf:resource="http://purl.org/spar/fabio"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/spar/fabio/DataFile">
+    <rdfs:label xml:lang="en">data file</rdfs:label>
+    <rdfs:isDefinedBy rdf:resource="http://purl.org/spar/fabio"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:comment xml:lang="en">A realisation of a fabio:Dataset (a frbr:Work) containing a defined collection of data with specific content and possibly with a specific version number, that can be embodied as a fabio:Digital Manifestation (a frbr:Manifestation with a specific format) and be represented by a specific fabio:ComputerFile (a frbr:Item) on someone's hard drive.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://purl.org/spar/fabio/Expression"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/dc/elements/1.1/title">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AnnotationProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/spar/pro/publisher">
+    <rdfs:label xml:lang="en">publisher</rdfs:label>
+    <rdfs:comment xml:lang="en">The role of a person or an organization that published material, or of a publisher's employee who has responsibility for such publications.</rdfs:comment>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.org/spar/pro"/>
+    <rdf:type rdf:resource="http://purl.org/spar/pro/Role"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/spar/pro/isDocumentContextFor">
+    <rdfs:isDefinedBy rdf:resource="http://purl.org/spar/pro"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdfs:comment xml:lang="en">A property relating a document to the role for which that document provides the context (e.g. relating a document to the role of author or peer-reviewer of that document).</rdfs:comment>
+    <rdfs:label xml:lang="en">is document context for</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/vocab/frbr/core#partOf">
+    <rdfs:label xml:lang="en">is part of</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdfs:comment xml:lang="en">An expression (e.g. a article) which is incorporated in another expression (e.g. a journal issue).</rdfs:comment>
+    <rdfs:isDefinedBy rdf:resource="http://purl.org/spar/frbr"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/spar/pro/author">
+    <rdfs:comment xml:lang="en">The role a person has of authorship of some material (for example a document).</rdfs:comment>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdf:type rdf:resource="http://purl.org/spar/pro/Role"/>
+    <rdfs:label xml:lang="en">author</rdfs:label>
+    <rdfs:isDefinedBy rdf:resource="http://purl.org/spar/pro"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://xmlns.com/foaf/0.1/familyName">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdfs:isDefinedBy rdf:resource="http://xmlns.com/foaf/0.1"/>
+    <rdfs:label xml:lang="en">has family name</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The family name of a person.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/spar/doco/Table">
+    <rdfs:subClassOf rdf:resource="http://purl.org/spar/deo/DiscourseElement"/>
+    <rdfs:label xml:lang="en">table</rdfs:label>
+    <rdfs:comment xml:lang="en">A set of data arranged in cells within rows and columns.</rdfs:comment>
+    <rdfs:isDefinedBy rdf:resource="http://purl.org/spar/doco"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/spar/fabio/BookChapter">
+    <rdfs:comment xml:lang="en">A defined chapter of a book, usually with a separate title or number.</rdfs:comment>
+    <rdfs:label xml:lang="en">book chapter</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.org/spar/fabio"/>
+    <rdfs:subClassOf rdf:resource="http://purl.org/spar/fabio/Expression"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/spar/doco/SectionTitle">
+    <rdfs:comment xml:lang="en">A word, phrase or sentence that precedes and indicates the subject of a document or a document component - e.g., a book, a report, a news article, a chapter, a section or a table.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://purl.org/spar/deo/DiscourseElement"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label xml:lang="en">section title</rdfs:label>
+    <rdfs:isDefinedBy rdf:resource="http://purl.org/spar/doco"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/spar/pro/isHeldBy">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdfs:comment xml:lang="en">A property relating a role in time that an agent holds, or a contribution situation that an agent makes, to that agent.</rdfs:comment>
+    <rdfs:label xml:lang="en">is role held by</rdfs:label>
+    <rdfs:isDefinedBy rdf:resource="http://purl.org/spar/pro"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/spar/cito/hasCitationTimeSpan">
+    <rdfs:label xml:lang="en">has citation time span</rdfs:label>
+    <rdfs:comment xml:lang="en">The temporal characteristic of a citation, namely the interval between the publication date of the cited entity and the publication date of the citing entity. Note that when one or both of the publication dates is given as just 'year', then the citation time span is rounded to the nearest year, and when one or both of the publication dates is given as just 'year and month', then the citation time span is rounded to the nearest month, with the inherent inaccuracies that such rounding involves.</rdfs:comment>
+    <rdfs:comment rdf:resource="http://purl.org/spar/cito"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/spar/datacite/url">
+    <rdfs:comment xml:lang="en">Uniform Resource Locator.</rdfs:comment>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdf:type rdf:resource="http://purl.org/spar/datacite/IdentifierScheme"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.org/spar/datacite"/>
+    <rdfs:label xml:lang="en">url</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/ns/prov#invalidatedAtTime">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdfs:comment xml:lang="en">The date on which a particular entity was invalidated.</rdfs:comment>
+    <rdfs:label xml:lang="en">was invalidated at time</rdfs:label>
+    <rdfs:isDefinedBy rdf:resource="http://www.w3.org/ns/prov"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/spar/fabio/SpecificationDocument">
+    <rdfs:subClassOf rdf:resource="http://purl.org/spar/fabio/Expression"/>
+    <rdfs:label xml:lang="en">specification document</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.org/spar/fabio"/>
+    <rdfs:comment xml:lang="en">The realization of a specification (a standard, a workflow, etc.).</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/spar/datacite/orcid">
+    <rdf:type rdf:resource="http://purl.org/spar/datacite/IdentifierScheme"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.org/spar/datacite"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdfs:label xml:lang="en">orcid</rdfs:label>
+    <rdfs:comment xml:lang="en">Open Researcher and Contributor Identifier.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/spar/biro/references">
+    <rdfs:isDefinedBy rdf:resource="http://purl.org/spar/biro"/>
+    <rdfs:comment xml:lang="en">The relation between a bibliographic reference and the publication being referenced.</rdfs:comment>
+    <rdfs:label xml:lang="en">references</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/spar/fabio/DigitalManifestation">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.org/spar/fabio"/>
+    <rdfs:comment xml:lang="en">A manifestation that represents data in binary form, encoding the data as a series of 0s and 1s.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://purl.org/spar/fabio/Manifestation"/>
+    <rdfs:label xml:lang="en">digital manifestation</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/spar/fabio/Thesis">
+    <rdfs:comment xml:lang="en">A book authored by a student containing a formal presentations of research outputs submitted for examination in completion of a course of study at an institution of higher education, to fulfil the requirements for an academic degree.  Also know as a dissertation.  [For the alternative meaning of the word 'thesis', namely the formulation of a concept, hypothesis, idea, point of view or theory presented for review and/or discussion, use fabio:Proposition.]</rdfs:comment>
+    <rdfs:isDefinedBy rdf:resource="http://purl.org/spar/fabio"/>
+    <rdfs:subClassOf rdf:resource="http://purl.org/spar/fabio/Expression"/>
+    <rdfs:label xml:lang="en">thesis</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/spar/cito/JournalCartelCitation">
+    <rdfs:isDefinedBy rdf:resource="http://purl.org/spar/cito"/>
+    <rdfs:label xml:lang="en">journal cartel citation</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:comment xml:lang="en">A citation from one journal to another journal which forms one of a very large number of citations from the citing journal to recent articles in the cited journal, possibly undertaken as part of a citation cartel for the purpose of gaming the impact factor of the cited journal.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://purl.org/spar/cito/Citation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/dc/terms/title">
+    <rdfs:comment xml:lang="en">A name given to a resource. Typically, the title will be the name by which the resource is formally known.</rdfs:comment>
+    <rdfs:isDefinedBy rdf:resource="http://purl.org/dc/terms"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdfs:label xml:lang="en">has title</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/ns/oa#Annotation">
+    <rdfs:isDefinedBy rdf:resource="http://www.w3.org/ns/oa"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label xml:lang="en">annotation</rdfs:label>
+    <rdfs:comment xml:lang="en">An annotation either to an in-text reference pointer or to a bibliographic reference entry, describing the citation it instantiates.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/spar/cito/JournalSelfCitation">
+    <rdfs:isDefinedBy rdf:resource="http://purl.org/spar/cito"/>
+    <rdfs:subClassOf rdf:resource="http://purl.org/spar/cito/SelfCitation"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:comment xml:lang="en">A citation in which the citing and the cited entities are published in the same journal.</rdfs:comment>
+    <rdfs:label xml:lang="en">journal self citation</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/dc/elements/1.1/creator">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AnnotationProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/spar/biro/BibliographicReference">
+    <rdfs:isDefinedBy rdf:resource="http://purl.org/spar/biro"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:comment xml:lang="en">An expression of a bibliographic record in a specific format, that references a particular textual or data publication (or a work in preparation for publication). Each bibliographic reference is a list of items containing entities that describe aspects of the referenced work - for example authors, title, journal, publication year - selected from the bibliographic record.  Note that because different journal styles may require omission of elements of the bibliographic record in references included in a paper's reference list (e.g. the title, the identifier, the names of the eighth and subsequent authors), and because errors can be introduced when an author creates a bibliographic reference, the bibliographic reference to a published work may not be a complete or fully accurate expression of the information contained within the authoritative bibliographic record for that work.</rdfs:comment>
+    <rdfs:label xml:lang="en">bibliographic reference</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/spar/c4o/hasContent">
+    <rdfs:isDefinedBy rdf:resource="http://purl.org/spar/c4o"/>
+    <rdfs:label xml:lang="en">has content</rdfs:label>
+    <rdfs:comment xml:lang="en">It is used to specify the textual content of a bibliographic reference, a discourse element, or a reference pointer.</rdfs:comment>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/spar/fabio/Expression">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label xml:lang="en">expression</rdfs:label>
+    <rdfs:isDefinedBy rdf:resource="http://purl.org/spar/fabio"/>
+    <rdfs:comment xml:lang="en">In the OpenCitations Corpus, this class is used to represent any bibliographic resource, i.e. citing papers, cited resources, and containers (e.g. journals, books, proceedings) for those resources.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/oc/ontology/hasNext">
+    <rdfs:isDefinedBy rdf:resource="https://w3id.org/oc/ontology"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AsymmetricProperty"/>
+    <rdfs:label xml:lang="en">has next</rdfs:label>
+    <rdfs:comment xml:lang="en">This property allows to specify the following entity in a sequence of entities, e.g. a reference pointer in a list of pointers, a role in a sequence of agents' roles of the same type associated with the same bibliographic resource (so as to define, for instance, its ordered list of authors).</rdfs:comment>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#IrreflexiveProperty"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/spar/doco/Section">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.org/spar/doco"/>
+    <rdfs:subClassOf rdf:resource="http://purl.org/spar/deo/DiscourseElement"/>
+    <rdfs:label xml:lang="en">section</rdfs:label>
+    <rdfs:comment xml:lang="en">A logical division of the text, usually numbered and/or titled, which may contain subsections.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/spar/datacite/pmid">
+    <rdf:type rdf:resource="http://purl.org/spar/datacite/IdentifierScheme"/>
+    <rdfs:comment xml:lang="en">PubMed Identifier.</rdfs:comment>
+    <rdfs:isDefinedBy rdf:resource="http://purl.org/spar/datacite"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdfs:label xml:lang="en">pmid</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/ns/prov#hadPrimarySource">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdfs:comment xml:lang="en">This property allows the specification of a primary source for a resource, i.e. something produced by some agent with direct experience and knowledge about such resource.</rdfs:comment>
+    <rdfs:isDefinedBy rdf:resource="http://www.w3.org/ns/prov"/>
+    <rdfs:label xml:lang="en">had primary source</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/spar/datacite/issn">
+    <rdfs:comment xml:lang="en">International Standard Serial Number.</rdfs:comment>
+    <rdfs:isDefinedBy rdf:resource="http://purl.org/spar/datacite"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdf:type rdf:resource="http://purl.org/spar/datacite/IdentifierScheme"/>
+    <rdfs:label xml:lang="en">issn</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://prismstandard.org/namespaces/basic/2.0/startingPage">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdfs:comment xml:lang="en">Identifies the first page of an entity such as a journal article.</rdfs:comment>
+    <rdfs:label xml:lang="en">has starting page</rdfs:label>
+    <rdfs:isDefinedBy rdf:resource="http://purl.org/spar/fabio"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/spar/fabio/hasSequenceIdentifier">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdfs:label xml:lang="en">has number</rdfs:label>
+    <rdfs:isDefinedBy rdf:resource="http://purl.org/spar/fabio"/>
+    <rdfs:comment xml:lang="en">A literal (for example a number or a letter) that identifies the sequence position of a work within a particular context, for example a book in a book series, a chapter in a document, a volume in a journal.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/spar/doco/Paragraph">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:subClassOf rdf:resource="http://purl.org/spar/deo/DiscourseElement"/>
+    <rdfs:label xml:lang="en">paragraph</rdfs:label>
+    <rdfs:comment xml:lang="en">A self-contained unit of discourse that deals with a particular point or idea. Paragraphs contains one or more sentences. The start of a paragraph is indicated by beginning on a new line, which may be indented or separated by a small vertical space by the preceding paragraph.</rdfs:comment>
+    <rdfs:isDefinedBy rdf:resource="http://purl.org/spar/doco"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/spar/fabio/BookSet">
+    <rdfs:comment xml:lang="en">A set of books having certain characteristics in common that informally allow their identification together as a group - for instance, the books of the Harry Potter saga.</rdfs:comment>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.org/spar/fabio"/>
+    <rdfs:subClassOf rdf:resource="http://purl.org/spar/fabio/Expression"/>
+    <rdfs:label xml:lang="en">book set</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://xmlns.com/foaf/0.1/Agent">
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">An agent (eg. person, group, software or physical artifact).</rdfs:comment>
+    <rdfs:isDefinedBy rdf:resource="http://xmlns.com/foaf/0.1"/>
+    <rdfs:label xml:lang="en">agent</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/spar/fabio/AcademicProceedings">
+    <rdfs:label xml:lang="en">academic proceedings</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://purl.org/spar/fabio/Expression"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.org/spar/fabio"/>
+    <rdfs:comment xml:lang="en">A document containing the programme and collected papers, or their abstracts, presented at an academic meeting.</rdfs:comment>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/spar/deo/Caption">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:subClassOf rdf:resource="http://purl.org/spar/deo/DiscourseElement"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.org/spar/deo"/>
+    <rdfs:comment xml:lang="en">Text accompanying another item, such as a picture.</rdfs:comment>
+    <rdfs:label xml:lang="en">caption</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://prismstandard.org/namespaces/basic/2.0/endingPage">
+    <rdfs:comment xml:lang="en">Identifies the last page of an entity such as a journal article.</rdfs:comment>
+    <rdfs:isDefinedBy rdf:resource="http://purl.org/spar/fabio"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdfs:label xml:lang="en">has ending page</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/spar/fabio/Journal">
+    <rdfs:isDefinedBy rdf:resource="http://purl.org/spar/fabio"/>
+    <rdfs:comment xml:lang="en">A scholarly periodical primarily devoted to the publication of original research papers. [Printed and electronic manifestations of the same journal are usually identified by separate print and electronic International Standard Serial Numbers (ISSN or eISSN, respectively), that identifies the journal as a whole, not to individual issues of it.]</rdfs:comment>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:subClassOf rdf:resource="http://purl.org/spar/fabio/Expression"/>
+    <rdfs:label xml:lang="en">journal</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/spar/c4o/InTextReferencePointer">
+    <rdfs:comment xml:lang="en">A textual device (e.g. “[1]”), denoting a single bibliographic reference, that is embedded in the text of a document within the context of a particular sentence or text chunk.</rdfs:comment>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.org/spar/c4o"/>
+    <rdfs:label xml:lang="en">in-text reference pointer</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/spar/c4o/SingleLocationPointerList">
+    <rdfs:isDefinedBy rdf:resource="http://purl.org/spar/c4o"/>
+    <rdfs:comment xml:lang="en">A textual device (e.g. “[1, 2, 3]” or “[4-9]”) which includes a number of reference pointers denoting the specific bibliographic references to which the list pertains</rdfs:comment>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label xml:lang="en">single location pointer list</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/spar/cito/hasCitedEntity">
+    <rdfs:isDefinedBy rdf:resource="http://purl.org/spar/cito"/>
+    <rdfs:label xml:lang="en">has cited entity</rdfs:label>
+    <rdfs:comment xml:lang="en">A property that relates a citation to the cited entity.</rdfs:comment>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/spar/cito/hasCoAuthorshipCitationLevel">
+    <rdfs:label xml:lang="en">has co-authorship citation level</rdfs:label>
+    <rdfs:isDefinedBy rdf:resource="http://purl.org/spar/cito"/>
+    <rdfs:comment xml:lang="en">This property specifies the minimal distance that one of the authors of the citing entity has with regards to one of the authors of the cited entity, according to their co-authorship network.</rdfs:comment>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/spar/cito/Citation">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.org/spar/cito"/>
+    <rdfs:label xml:lang="en">citation</rdfs:label>
+    <rdfs:comment xml:lang="en">A citation is a conceptual directional link from a citing entity to a cited entity, created by a human performative act of making a citation, typically instantiated by the inclusion of a bibliographic reference (biro:BibliographicReference) in the reference list of the citing entity, or by the inclusion within the citing entity of a link, in the form of an HTTP Uniform Resource Locator (URL), to a resource on the World Wide Web.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/dc/elements/1.1/date">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AnnotationProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/dc/terms/description">
+    <rdfs:comment xml:lang="en">A textual description of a resource.</rdfs:comment>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.org/dc/terms"/>
+    <rdfs:label xml:lang="en">has description</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/ns/oa#hasBody">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdfs:comment xml:lang="en">The property relates an annotation to the body (the content) of the annotation.</rdfs:comment>
+    <rdfs:label xml:lang="en">has body</rdfs:label>
+    <rdfs:isDefinedBy rdf:resource="http://www.w3.org/ns/oa"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/vocab/frbr/core#part">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdfs:label xml:lang="en">has part</rdfs:label>
+    <rdfs:comment xml:lang="en">A part of an expression.</rdfs:comment>
+    <rdfs:isDefinedBy rdf:resource="http://purl.org/spar/frbr"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/spar/cito/cites">
+    <rdfs:label xml:lang="en">cites</rdfs:label>
+    <rdfs:isDefinedBy rdf:resource="http://purl.org/spar/cito"/>
+    <rdfs:comment xml:lang="en">The citing entity cites the cited entity, either directly and explicitly (as in the reference list of a journal article), indirectly (e.g. by citing a more recent paper by the same group on the same topic), or implicitly (e.g. as in artistic quotations or parodies, or in cases of plagiarism).</rdfs:comment>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/spar/fabio/ProceedingsPaper">
+    <rdfs:comment xml:lang="en">A paper, typically the realization of a research paper reporting original research findings, usually published within an academic proceedings volume.</rdfs:comment>
+    <rdfs:label xml:lang="en">proceedings paper</rdfs:label>
+    <rdfs:isDefinedBy rdf:resource="http://purl.org/spar/fabio"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:subClassOf rdf:resource="http://purl.org/spar/fabio/Expression"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/spar/fabio/ReferenceBook">
+    <rdfs:comment xml:lang="en">A book containing authoritative factual information, such as a dictionary, encyclopaedia, handbook or field guide, which is a realisation of a certain reference work and may contain several reference entries.</rdfs:comment>
+    <rdfs:label xml:lang="en">reference book</rdfs:label>
+    <rdfs:isDefinedBy rdf:resource="http://purl.org/spar/fabio"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:subClassOf rdf:resource="http://purl.org/spar/fabio/Expression"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2002/07/owl#versionInfo">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AnnotationProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/ns/prov#wasAttributedTo">
+    <rdfs:isDefinedBy rdf:resource="http://www.w3.org/ns/prov"/>
+    <rdfs:comment xml:lang="en">This property allows one to ascribe an entity to an agent.</rdfs:comment>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdfs:label xml:lang="en">was attributed to</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/ns/prov#generatedAtTime">
+    <rdfs:comment xml:lang="en">The date on which a particular entity was created.</rdfs:comment>
+    <rdfs:label xml:lang="en">was generated at time</rdfs:label>
+    <rdfs:isDefinedBy rdf:resource="http://www.w3.org/ns/prov"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/spar/pro/withRole">
+    <rdfs:isDefinedBy rdf:resource="http://purl.org/spar/pro"/>
+    <rdfs:label xml:lang="en">with role</rdfs:label>
+    <rdfs:comment xml:lang="en">An object property connecting an agent's role in time to a definition of the type of role held by this agent, specified as an instance of the class pro:Role or of one of its sub-classes.</rdfs:comment>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/spar/cito/AuthorNetworkSelfCitation">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.org/spar/cito"/>
+    <rdfs:subClassOf rdf:resource="http://purl.org/spar/cito/SelfCitation"/>
+    <rdfs:label xml:lang="en">author network self citation</rdfs:label>
+    <rdfs:comment xml:lang="en">A citation in which at least one author of the citing entity has direct or indirect co-authorship links with one of the authors of the cited entity.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/spar/pro/Role">
+    <rdfs:comment xml:lang="en">A role an agent may have.  Individual members of this class or its sub-classes are used to specify particular roles.</rdfs:comment>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label xml:lang="en">role</rdfs:label>
+    <rdfs:isDefinedBy rdf:resource="http://purl.org/spar/pro"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/spar/cito/AffiliationSelfCitation">
+    <rdfs:label xml:lang="en">affiliation self citation</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:comment xml:lang="en">A citation in which at least one author from each of the citing and the cited entities is affiliated with the same academic institution.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://purl.org/spar/cito/SelfCitation"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.org/spar/cito"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/spar/datacite/IdentifierScheme">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label xml:lang="en">identifier scheme</rdfs:label>
+    <rdfs:isDefinedBy rdf:resource="http://purl.org/spar/datacite"/>
+    <rdfs:comment xml:lang="en">The identifier scheme used to identify an entity such as a funding agency, a person or a resource. Individual schemes are defines as members of this class.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/spar/cito/AuthorSelfCitation">
+    <rdfs:label xml:lang="en">author self citation</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://purl.org/spar/cito/SelfCitation"/>
+    <rdfs:comment xml:lang="en">A citation in which the citing and the cited entities have at least one author in common.</rdfs:comment>
+    <rdfs:isDefinedBy rdf:resource="http://purl.org/spar/cito"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/spar/datacite/doi">
+    <rdfs:label xml:lang="en">doi</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/spar/datacite/IdentifierScheme"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.org/spar/datacite"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdfs:comment xml:lang="en">Digital Object Identier.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/spar/datacite/pmcid">
+    <rdfs:comment xml:lang="en">PubMed Central Identifier.</rdfs:comment>
+    <rdf:type rdf:resource="http://purl.org/spar/datacite/IdentifierScheme"/>
+    <rdfs:label xml:lang="en">pmcid</rdfs:label>
+    <rdfs:isDefinedBy rdf:resource="http://purl.org/spar/datacite"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/spar/datacite/oci">
+    <rdfs:label xml:lang="en">oci</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/spar/datacite/IdentifierScheme"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.org/spar/datacite"/>
+    <rdfs:comment xml:lang="en">Open Citation Identifier.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/spar/fabio/BookSeries">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:subClassOf rdf:resource="http://purl.org/spar/fabio/Expression"/>
+    <rdfs:comment xml:lang="en">A sequence of books having certain characteristics in common that are formally identified together as a group - for instance, the books in the Law, Governance and Technology Series published by Springer.</rdfs:comment>
+    <rdfs:label xml:lang="en">book series</rdfs:label>
+    <owl:disjointWith rdf:resource="http://purl.org/spar/fabio/BookSet"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.org/spar/fabio"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/spar/pro/RoleInTime">
+    <rdfs:isDefinedBy rdf:resource="http://purl.org/spar/pro"/>
+    <rdfs:label xml:lang="en">role in time</rdfs:label>
+    <dc:description xml:lang="en">A role in time describes always:
+
+* a particular role R
+
+* a particular agent A holding R
+
+* a particular time interval T in which A holds R (optional)
+
+* one or more entities (e.g. a particular bibliographic entity or a specific institution) that defines a context for R held by A. (At least one contextual entity should be specified for a particular role).</dc:description>
+    <rdfs:comment xml:lang="en">A particular situation that describe a role an agent may have, that can be restricted to a particular time interval.</rdfs:comment>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://xmlns.com/foaf/0.1/givenName">
+    <rdfs:label xml:lang="en">has given name</rdfs:label>
+    <rdfs:isDefinedBy rdf:resource="http://xmlns.com/foaf/0.1"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The given name of a person.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/spar/c4o/denotes">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdfs:label xml:lang="en">denotes</rdfs:label>
+    <rdfs:comment xml:lang="en">The property relates a reference pointer to the bibliographic entry that is denoted by the reference pointer.</rdfs:comment>
+    <rdfs:isDefinedBy rdf:resource="http://purl.org/spar/c4o"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://prismstandard.org/namespaces/basic/2.0/publicationDate">
+    <rdfs:comment xml:lang="en">The date on which a resource is published or disclosed.</rdfs:comment>
+    <rdfs:isDefinedBy rdf:resource="http://purl.org/spar/fabio"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdfs:label xml:lang="en">has publication date</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/spar/datacite/hasIdentifier">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdfs:comment xml:lang="en">An object property specifying a datacite:Identifier that provides a unique identifer for the entity (either a funder, a person or a resource).</rdfs:comment>
+    <rdfs:isDefinedBy rdf:resource="http://purl.org/spar/datacite"/>
+    <rdfs:label xml:lang="en">has identifier</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/spar/cito/SelfCitation">
+    <rdfs:isDefinedBy rdf:resource="http://purl.org/spar/cito"/>
+    <rdfs:label xml:lang="en">self citation</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:subClassOf rdf:resource="http://purl.org/spar/cito/Citation"/>
+    <rdfs:comment xml:lang="en">A citation in which the citing and the cited entities have something significant in common with one another, over and beyond their subject matter, for example authors, journal, institutional affiliation, or funding agency.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://xmlns.com/foaf/0.1/name">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdfs:label xml:lang="en">has name</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The name of an agent.</rdfs:comment>
+    <rdfs:isDefinedBy rdf:resource="http://xmlns.com/foaf/0.1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/dc/elements/1.1/rights">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AnnotationProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/dc/elements/1.1/contributor">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AnnotationProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/spar/fabio/JournalIssue">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.org/spar/fabio"/>
+    <rdfs:subClassOf rdf:resource="http://purl.org/spar/fabio/Expression"/>
+    <rdfs:label xml:lang="en">journal issue</rdfs:label>
+    <rdfs:comment xml:lang="en">A particular published issue of a journal, one or more of which will constitute a volume of the journal.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/spar/cito/hasCitationCreationDate">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdfs:comment xml:lang="en">The date on which the citation was created. This has the same numerical value as the publication date of the citing bibliographic resource, but is a property of the citation itself. When combined with the citation time span, it permits that citation to be located in history.</rdfs:comment>
+    <rdfs:isDefinedBy rdf:resource="http://purl.org/spar/cito"/>
+    <rdfs:label xml:lang="en">has citation creation date</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2000/01/rdf-schema#seeAlso">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AnnotationProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/vocab/vann/preferredNamespacePrefix">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AnnotationProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/spar/cito/hasCitingEntity">
+    <rdfs:comment xml:lang="en">A property that relates a citation to the citing entity.</rdfs:comment>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdfs:label xml:lang="en">has citing entity</rdfs:label>
+    <rdfs:isDefinedBy rdf:resource="http://purl.org/spar/cito"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/oc/ontology/hasUpdateQuery">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdfs:isDefinedBy rdf:resource="https://w3id.org/oc/ontology"/>
+    <dc:description xml:lang="en">This property allows one to specify the UPDATE SPARQL query that keeps track of which metadata have been modified as the result of a modification of some of the metadata or the merging of the metadata relating to a particular bibliographic entity.</dc:description>
+    <rdfs:label xml:lang="en">has update query</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/spar/fabio/ArchivalDocument">
+    <rdfs:subClassOf rdf:resource="http://purl.org/spar/fabio/Expression"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.org/spar/fabio"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label xml:lang="en">archival document</rdfs:label>
+    <rdfs:comment xml:lang="en">An archival document is a realization of the content related to an archival record. It can be exemplified as a book, a document, a letter, a database, etc.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2000/01/rdf-schema#comment">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AnnotationProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/dc/elements/1.1/description">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AnnotationProperty"/>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,1091 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Br J Haematol</journal-id><journal-id journal-id-type="iso-abbrev">Br. J. Haematol</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1365-2141</journal-id><journal-id journal-id-type="publisher-id">BJH</journal-id><journal-title-group><journal-title>British Journal of Haematology</journal-title></journal-title-group><issn pub-type="ppub">0007-1048</issn><issn pub-type="epub">1365-2141</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">26597595</article-id><article-id pub-id-type="pmc">4833185</article-id><article-id pub-id-type="doi">10.1111/bjh.13836</article-id><article-id pub-id-type="publisher-id">BJH13836</article-id><article-categories><subj-group subj-group-type="overline"><subject>Research Paper</subject></subj-group><subj-group subj-group-type="heading"><subject>Haematological Malignancy</subject></subj-group></article-categories><title-group><article-title>A 4&#x02010;gene expression score associated with high levels of <italic>Wilms Tumor&#x02010;1 (<styled-content style="fixed-case">WT</styled-content>1)</italic> expression is an adverse prognostic factor in acute myeloid leukaemia</article-title><alt-title alt-title-type="left-running-head">A. Niavarani <italic>et&#x000a0;al</italic></alt-title></title-group><contrib-group><contrib id="bjh13836-cr-0001" contrib-type="author" corresp="yes"><name><surname>Niavarani</surname><given-names>Ahmadreza</given-names></name><xref ref-type="aff" rid="bjh13836-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="bjh13836-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="bjh13836-cr-0002" contrib-type="author"><name><surname>Herold</surname><given-names>Tobias</given-names></name><xref ref-type="aff" rid="bjh13836-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="bjh13836-cr-0003" contrib-type="author"><name><surname>Reyal</surname><given-names>Yasmin</given-names></name><xref ref-type="aff" rid="bjh13836-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="bjh13836-cr-0004" contrib-type="author"><name><surname>Sauerland</surname><given-names>Maria C.</given-names></name><xref ref-type="aff" rid="bjh13836-aff-0005">
+<sup>5</sup>
+</xref><xref ref-type="aff" rid="bjh13836-aff-0006">
+<sup>6</sup>
+</xref></contrib><contrib id="bjh13836-cr-0005" contrib-type="author"><name><surname>Buchner</surname><given-names>Thomas</given-names></name><xref ref-type="aff" rid="bjh13836-aff-0007">
+<sup>7</sup>
+</xref></contrib><contrib id="bjh13836-cr-0006" contrib-type="author"><name><surname>Hiddemann</surname><given-names>Wolfgang</given-names></name><xref ref-type="aff" rid="bjh13836-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="bjh13836-cr-0007" contrib-type="author"><name><surname>Bohlander</surname><given-names>Stefan K.</given-names></name><xref ref-type="aff" rid="bjh13836-aff-0007">
+<sup>7</sup>
+</xref></contrib><contrib id="bjh13836-cr-0008" contrib-type="author"><name><surname>Valk</surname><given-names>Peter J. M.</given-names></name><xref ref-type="aff" rid="bjh13836-aff-0008">
+<sup>8</sup>
+</xref></contrib><contrib id="bjh13836-cr-0009" contrib-type="author" corresp="yes"><name><surname>Bonnet</surname><given-names>Dominique</given-names></name><xref ref-type="aff" rid="bjh13836-aff-0002">
+<sup>2</sup>
+</xref></contrib></contrib-group><aff id="bjh13836-aff-0001"><label><sup>1</sup></label><named-content content-type="organisation-division">Digestive Oncology Research Center</named-content><institution>Digestive Disease Research Institute (DDRI)</institution><institution>Shariati Hospital</institution><institution>Tehran University of Medical Sciences</institution><named-content content-type="city">Tehran</named-content><country country="IR">Iran</country></aff><aff id="bjh13836-aff-0002"><label><sup>2</sup></label><named-content content-type="organisation-division">Haematopoietic Stem Cell Laboratory</named-content><institution>London Research Institute</institution><institution>Cancer Research UK</institution><named-content content-type="city">London</named-content><country country="GB">United Kingdom</country></aff><aff id="bjh13836-aff-0003"><label><sup>3</sup></label><named-content content-type="organisation-division">Department of Internal Medicine 3</named-content><institution>University Hospital Grosshadern</institution><institution>Ludwig&#x02010;Maximilians&#x02010;Universit&#x000e4;t</institution><named-content content-type="city">Munich</named-content><country country="DE">Germany</country></aff><aff id="bjh13836-aff-0004"><label><sup>4</sup></label><named-content content-type="organisation-division">Department of Haematology</named-content><institution>University College London Hospitals NHS Trust</institution><named-content content-type="city">London</named-content><country country="GB">UK</country></aff><aff id="bjh13836-aff-0005"><label><sup>5</sup></label><named-content content-type="organisation-division">Institute of Biostatistics and Clinical Research</named-content><institution>University of M&#x000fc;nster</institution><named-content content-type="city">M&#x000fc;nster</named-content><country country="DE">Germany</country></aff><aff id="bjh13836-aff-0006"><label><sup>6</sup></label><named-content content-type="organisation-division">Department of Medicine A &#x02010; Haematology, Oncology and Pneumology</named-content><institution>University of M&#x000fc;nster</institution><named-content content-type="city">M&#x000fc;nster</named-content><country country="DE">Germany</country></aff><aff id="bjh13836-aff-0007"><label><sup>7</sup></label><named-content content-type="organisation-division">Department of Molecular Medicine and Pathology</named-content><institution>The University of Auckland</institution><named-content content-type="city">Auckland</named-content><country country="NZ">New Zealand</country></aff><aff id="bjh13836-aff-0008"><label><sup>8</sup></label><named-content content-type="organisation-division">Department of Haematology</named-content><institution>Erasmus University Medical Centre Cancer Institute</institution><named-content content-type="city">Rotterdam</named-content><country country="NL">the Netherlands</country></aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence:</bold> Professor Dominique Bonnet, Haematopoietic Stem Cell Laboratory, London Research Institute, Cancer Research UK, 44 Lincoln's Inn Fields, WC2A 3LY, London, UK.<break/>
+E&#x02010;mail: <email>dominique.bonnet@crick.ac.uk</email><break/>
+Dr. Ahmadreza Niavarani, Digestive Disease Research Institute (DDRI), Tehran University of Medical Sciences, Shariati Hospital, N. Kargar &#x02010; Ale&#x02010;Ahmad junction, 14117&#x02010;13135, Tehran, Iran.<break/>
+E&#x02010;mail: <email>niavarani@tums.ac.ir</email><break/></corresp></author-notes><pub-date pub-type="ppub"><month>2</month><year>2016</year></pub-date><pub-date pub-type="epub"><day>24</day><month>11</month><year>2015</year></pub-date><volume>172</volume><issue>3</issue><issue-id pub-id-type="doi">10.1111/bjh.2016.172.issue-3</issue-id><fpage>401</fpage><lpage>411</lpage><history><date date-type="received"><day>25</day><month>7</month><year>2015</year></date><date date-type="accepted"><day>22</day><month>9</month><year>2015</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> Copyright &#x000a9; 2016 John Wiley & Sons Ltd <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2015 The Authors. <italic>British Journal of Haematology</italic> published by John Wiley &#x00026; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:BJH-172-401.pdf"/><abstract id="bjh13836-abs-0001"><title>Summary</title><p>
+<italic>Wilms Tumor&#x02010;1 (<styled-content style="fixed-case">WT</styled-content>1)</italic> expression level is implicated in the prognosis of acute myeloid leukaemia (<styled-content style="fixed-case">AML</styled-content>). We hypothesized that a gene expression profile associated with <italic><styled-content style="fixed-case">WT</styled-content>1</italic> expression levels might be a good surrogate marker. We identified high <italic><styled-content style="fixed-case">WT</styled-content>1</italic> gene sets by comparing the gene expression profiles in the highest and lowest quartiles of <italic><styled-content style="fixed-case">WT</styled-content>1</italic> expression in two large <styled-content style="fixed-case">AML</styled-content> studies. Two high <italic><styled-content style="fixed-case">WT</styled-content>1</italic> gene sets were found to be highly correlated in terms of the altered genes and expression profiles. We identified a 17&#x02010;probe set signature of the high <italic><styled-content style="fixed-case">WT</styled-content>1</italic> set as the optimal prognostic predictor in the first <styled-content style="fixed-case">AML</styled-content> set, and showed that it was able to predict prognosis in the second <styled-content style="fixed-case">AML</styled-content> series after adjustment for European LeukaemiaNet genetic groups. The gene signature also proved to be of prognostic value in a third <styled-content style="fixed-case">AML</styled-content> series of 163 samples assessed by <styled-content style="fixed-case">RNA</styled-content> sequencing, demonstrating its cross&#x02010;platform consistency<bold>.</bold> This led us to derive a 4&#x02010;gene expression score, which faithfully predicted adverse outcome. In conclusion, a short gene signature associated with high <italic><styled-content style="fixed-case">WT</styled-content>1</italic> expression levels and the resultant 4&#x02010;gene expression score were found to be predictive of adverse prognosis in <styled-content style="fixed-case">AML</styled-content>. This study provides new clues to the molecular pathways underlying high <italic><styled-content style="fixed-case">WT</styled-content>1</italic> states in leukaemia.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="bjh13836-kwd-0001"><italic><styled-content style="fixed-case">WT</styled-content>1</italic></kwd><kwd id="bjh13836-kwd-0002">gene signature</kwd><kwd id="bjh13836-kwd-0003">expression score</kwd><kwd id="bjh13836-kwd-0004"><styled-content style="fixed-case">AML</styled-content></kwd><kwd id="bjh13836-kwd-0005">prognosis</kwd></kwd-group><counts><page-count count="11"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>bjh13836</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>February 2016</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:4.9.1 mode:remove_FC converted:23.06.2016</meta-value></custom-meta></custom-meta-group></article-meta></front><body><p>Acute myeloid leukaemia (AML) is a heterogeneous disease with variable prognosis depending mainly on the underlying genetic aberrations. AML patients are classified according to different risk&#x02010;stratification guidelines, including those of the World Health Organization (WHO) (Swerdlow <italic>et&#x000a0;al</italic>, <xref rid="bjh13836-bib-0030" ref-type="ref">2008</xref>) and the European LeukaemiaNet (ELN) (Dohner <italic>et&#x000a0;al</italic>, <xref rid="bjh13836-bib-0006" ref-type="ref">2010</xref>). These guidelines are mainly based on the presence or absence of specific cytogenetic aberrations and gene mutations. However, the guidelines have evolved over the years, as more and more new factors are found to affect AML prognosis given our increasing knowledge of the AML biology as well as the emergence of modern powerful high&#x02010;throughput tools, including gene expression profiling (GEP) and next generation sequencing. Several studies have since attempted to explore the correlation of biologically relevant events to AML&#x02010;GEP and prognosis using supervised cluster analysis. These studies have led to identification of several prognostic gene signatures related to various biological or clinical characteristics, including gene rearrangements (Camos <italic>et&#x000a0;al</italic>, <xref rid="bjh13836-bib-0004" ref-type="ref">2006</xref>; Wilson <italic>et&#x000a0;al</italic>, <xref rid="bjh13836-bib-0040" ref-type="ref">2006</xref>), gene mutations in <italic>NPM1</italic> (Verhaak <italic>et&#x000a0;al</italic>, <xref rid="bjh13836-bib-0036" ref-type="ref">2005</xref>), <italic>CEBPA</italic> (Wouters <italic>et&#x000a0;al</italic>, <xref rid="bjh13836-bib-0041" ref-type="ref">2009</xref>), <italic>FLT3</italic> (Neben <italic>et&#x000a0;al</italic>, <xref rid="bjh13836-bib-0024" ref-type="ref">2005</xref>) and <italic>WT1</italic> (Becker <italic>et&#x000a0;al</italic>, <xref rid="bjh13836-bib-0001" ref-type="ref">2010</xref>), gene expression (de Jonge <italic>et&#x000a0;al</italic>, <xref rid="bjh13836-bib-0015" ref-type="ref">2010</xref>), leukaemic stem cells (Gentles <italic>et&#x000a0;al</italic>, <xref rid="bjh13836-bib-0009" ref-type="ref">2010</xref>) and drug sensitivity (Tagliafico <italic>et&#x000a0;al</italic>, <xref rid="bjh13836-bib-0031" ref-type="ref">2006</xref>).</p><p>High levels of <italic>WT1</italic> expression were originally found to be associated with poor prognosis in adult AML patients and used as a marker for the detection of minimal residual disease in AML (Inoue <italic>et&#x000a0;al</italic>, <xref rid="bjh13836-bib-0012" ref-type="ref">1994</xref>), as well as in acute lymphoblastic (ALL) (Inoue <italic>et&#x000a0;al</italic>, <xref rid="bjh13836-bib-0012" ref-type="ref">1994</xref>) and chronic myeloid leukaemia (CML) (Inoue <italic>et&#x000a0;al</italic>, <xref rid="bjh13836-bib-0013" ref-type="ref">1996</xref>). The predictive value of isolated high <italic>WT1</italic> expression in AML has been confirmed in several follow&#x02010;up long&#x02010;term studies (Bergmann <italic>et&#x000a0;al</italic>, <xref rid="bjh13836-bib-0002" ref-type="ref">1997</xref>; Trka <italic>et&#x000a0;al</italic>, <xref rid="bjh13836-bib-0034" ref-type="ref">2002</xref>), and it was in fact extended to therapy subgroups, including haematopoietic stem cell transplantation (Jacobsohn <italic>et&#x000a0;al</italic>, <xref rid="bjh13836-bib-0014" ref-type="ref">2009</xref>), though it was not a consistent finding in this setting (Ostergaard <italic>et&#x000a0;al</italic>, <xref rid="bjh13836-bib-0025" ref-type="ref">2004</xref>). However, despite numerous clinical studies providing solid evidence for the role of high <italic>WT1</italic> levels in leukaemia, its role is not yet clearly defined in the context of other known risk factors relevant for AML prognosis. Moreover, little is known about the molecular alterations associated to high <italic>WT1</italic> levels that can be responsible for its poor prognostic impact. As a transcriptional regulator, WT1 binds to some common DNA binding sites (Rauscher <italic>et&#x000a0;al</italic>, <xref rid="bjh13836-bib-0027" ref-type="ref">1990</xref>), and it is not surprising that changes in its expression levels are associated with changes in the expression of hundreds of genes (Kim <italic>et&#x000a0;al</italic>, <xref rid="bjh13836-bib-0016" ref-type="ref">2009</xref>; Vidovic <italic>et&#x000a0;al</italic>, <xref rid="bjh13836-bib-0038" ref-type="ref">2013</xref>). We hypothesized that high <italic>WT1</italic> expression was the sign of a true biological entity associated with a characteristic gene expression profile, and potentially correlated to AML prognosis. We tested this hypothesis by exploring the GEP differences among high&#x02010; and low&#x02010;expressing <italic>WT1</italic> samples in two large AML series and next attempted to predict AML outcome using a gene signature and a gene expression score determined from high <italic>WT1</italic> expression. This can shed some light on the molecular mechanisms underlying the role of high <italic>WT1</italic> in AML pathogenesis as well as prognosis.</p><sec id="bjh13836-sec-0002"><title>Methods and materials</title><sec id="bjh13836-sec-0003"><title>Patients and samples</title><p>The first series of AML patients, hereafter called &#x02018;Netherlands series&#x02019;, comprised 524 younger adult (&#x02264;60&#x000a0;years) cases who have been treated according to sequential the Dutch&#x02010;Belgian Haemato&#x02010;Oncology Cooperative Group and the Swiss Group for Clinical Cancer Research (HOVON/SAKK) AML&#x02010;04, &#x02010;04A, &#x02010;29, &#x02010;32, &#x02010;42, and &#x02010;43 protocols (Valk <italic>et&#x000a0;al</italic>, <xref rid="bjh13836-bib-0035" ref-type="ref">2004</xref>; de Jonge <italic>et&#x000a0;al</italic>, <xref rid="bjh13836-bib-0015" ref-type="ref">2010</xref>). The second series, hereafter called &#x02018;Germany series&#x02019;, consisted of 562 adult AML patients who were enrolled in the German AMLCG&#x02010;99, AMLCG&#x02010;M3, AMLSG AML HD98A or HD98B trial protocols (Herold <italic>et&#x000a0;al</italic>, <xref rid="bjh13836-bib-0011" ref-type="ref">2014</xref>). The third series, hereafter called The Cancer Genome Atlas series (&#x02018;TCGA series&#x02019;), consisted of 163 adult AML patients enrolled in Cancer and Leukemia Group B (CALGB) treatment protocols 8525, 8923, 9621, 9720, 10201, and 19808 including those with survival and immunophenotyping data (The Cancer Genome Atlas Research Network, <xref rid="bjh13836-bib-0033" ref-type="ref">2013</xref>). The Netherlands (GSE14468) and Germany (GSE37642) gene expression sets were retrieved from NCBI Gene Expression Omnibus (GEO), and the normalized RSEM (RNS sequencing [RNA&#x02010;Seq]&#x000a0;by Expectation&#x02010;Maximization) and clinical AML data set (LAML) were obtained from the TCGA Data Portal (<ext-link ext-link-type="uri" xlink:href="https://tcga-data.nci.nih.gov/tcga/tcgaDownload.jsp">https://tcga-data.nci.nih.gov/tcga/tcgaDownload.jsp</ext-link>).</p></sec><sec id="bjh13836-sec-0004"><title>Gene expression profiling</title><p>The Netherlands Study employed HG&#x02010;U133 Plus 2&#x000b7;0 arrays (Affymetrix, Santa Clara, CA, USA) for gene expression profiling (Verhaak <italic>et&#x000a0;al</italic>, <xref rid="bjh13836-bib-0037" ref-type="ref">2009</xref>), while the Germany Study used either HG&#x02010;U133 Plus 2&#x000b7;0 or HG&#x02010;U133A and U133B arrays (Affymetrix) (Li <italic>et&#x000a0;al</italic>, <xref rid="bjh13836-bib-0019" ref-type="ref">2013</xref>). For practical reasons, only common probe&#x02010;sets among two Germany subgroups were used in this study. The normalized RSEM data obtained from RNA&#x02010;seq was used as an estimate of TCGA gene expression profiles.</p></sec><sec id="bjh13836-sec-0005"><title>High <italic>WT1</italic> gene set</title><p>Each data series was separately sorted based on <italic>WT1</italic> expression (using probe&#x02010;set 206067_s_at), resulting in four quartiles. The fourth quartile (Q4) of the samples with highest mean <italic>WT1</italic> expression was compared with the first quartile (Q1) with lowest mean <italic>WT1</italic> expression. Those probe&#x02010;sets with significant differential expression in Q4 as compared to Q1 were considered as the high <italic>WT1</italic> gene set for that AML series.</p></sec><sec id="bjh13836-sec-0006"><title>Statistical analysis</title><p>The two&#x02010;tailed student's <italic>t</italic>&#x02010;test (IBM <sc>spss</sc>, v.20, IBM, Armonk, NY, USA) was used to compare the means among Q4 <italic>versus</italic> Q1 samples, with acceptable Benjamini false discovery rate (FDR) of less than 0&#x000b7;05. Linear regression analysis (IBM <sc>spss</sc>, v.20) was performed to study the correlation of the differences among various gene sets. Overall survival (OS) was measured from the date of patient enrolment to the date of death. Event&#x02010;free survival (EFS) was measured from the date of patient enrolment to the date of failure to achieve complete remission, relapse from complete remission or death. Relapse&#x02010;free survival (RFS) was measured from the date of complete remission to the date of relapse or death. Cox regression test (IBM SPSS, v.20) was used for univariate and multivariate analysis of survival in the classifier and validation AML series. Univariate Cox regression analysis was performed using each of the potentially implicated variables. Multivariate Cox regression analysis was performed using all variables with <italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0&#x000b7;1 in univariate analyses. Kaplan&#x02013;Meier analysis was performed using Mantel&#x02010;Cox statistic (IBM <sc>spss</sc>, v.20) in order to test the equality of survival distributions for the different levels of the classifier in both the classifier and validation AML series.</p></sec><sec id="bjh13836-sec-0007"><title>Outcome prediction</title><p>The online KNNXValidation tool (version 6) from GenePattern suite (version 3&#x000b7;8&#x000b7;1; Broad Institute, Cambridge, MA, USA) (Reich <italic>et&#x000a0;al</italic>, <xref rid="bjh13836-bib-0028" ref-type="ref">2006</xref>) was employed to predict the prognostic gene signature, with EFS as the favourable event, and all others (dead, no remission, progressive disease/relapse) as adverse events. The Student's <italic>t</italic>&#x02010;test (median) was used to select the probe&#x02010;sets. The resultant predicting list was trimmed so that only those probe&#x02010;sets that repeated in at least 90% of the permutations were kept. GENE&#x02010;E (<ext-link ext-link-type="uri" xlink:href="http://www.broadinstitute.org/cancer/software/GENE-E/">http://www.broadinstitute.org/cancer/software/GENE-E/</ext-link>) was used for supervised clustering of each AML series using trimmed probe&#x02010;set list or candidate gene signature.</p></sec><sec id="bjh13836-sec-0008"><title>Gene expression score</title><p>Receiver operating characteristic (ROC) curve analysis (IBM SPSS, v.20) was performed for individual probe&#x02010;sets of the gene signature in order to assess their correlations to the EFS in the Netherlands series. Expression scores were developed for each sample using addition of the expression levels for the top two significant probe&#x02010;sets considering their positive or negative correlation to the EFS. This was repeated after inclusion of the progressively less significant probe&#x02010;sets, giving rise to expression scores for the lists of 2&#x02013;17 probe&#x02010;sets. The median expression scores were used to classify the samples into two groups, and their association to the EFS were assessed using ROC curve analysis.</p></sec><sec id="bjh13836-sec-0009"><title>Pathway analysis</title><p>Pathway analysis was performed using GeneGo MetaCore (<ext-link ext-link-type="uri" xlink:href="https://portal.genego.com">https://portal.genego.com</ext-link>). In brief, the gene set was uploaded to MetaCore and Functional Ontology Analysis was performed to identify the enriched pathway maps. Build Networks Analysis was conducted to identify the Shortest Paths among input genes.</p></sec></sec><sec id="bjh13836-sec-0010"><title>Results</title><sec id="bjh13836-sec-0011"><title>A high degree of correlation was found between the high <italic>WT1</italic> gene sets from two AML series</title><p>Normalized gene expression data were used to obtain differentially expressed genes in high <italic>WT1</italic> expressing samples. Comparison of the high <italic>WT1</italic> (Q4) and low <italic>WT1</italic> (Q1) samples in the Netherlands series (Fig&#x000a0;<xref rid="bjh13836-fig-0001" ref-type="fig">1</xref>) identified 19&#x000a0;318 probe&#x02010;sets as differentially expressed (Table&#x000a0;SI), including <italic>WT1</italic> expression level showing 10&#x000b7;3 fold difference. Likewise, 23&#x000a0;705 probe&#x02010;sets were found to be differentially expressed in high <italic>WT1</italic> samples in the Germany series (Table&#x000a0;SII), including <italic>WT1</italic> expression level, which showed 16&#x000b7;4&#x02010;fold difference. These probe&#x02010;sets represented genes that were either positively or negatively correlated with <italic>WT1</italic> expression levels. About 62% of the probe&#x02010;sets in the Netherlands high <italic>WT1</italic> gene set were also found in the Germany high <italic>WT1</italic> set, with 96&#x000b7;7% of them differing in the same direction. Linear regression analysis showed a high degree of correlation of the fold differences between the two high <italic>WT1</italic> sets (Fig&#x000a0;S1). At the gene level, 57% similarity was observed between the top 100 genes from the two high <italic>WT1</italic> gene sets (Tables&#x000a0;SI and SII).</p><fig fig-type="Figure" xml:lang="en" id="bjh13836-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>The workflow used to identify and validate the prognostic gene signature associated with high levels of <italic><styled-content style="fixed-case">WT</styled-content>1</italic> expression. <styled-content style="fixed-case">AML</styled-content>, acute myeloid leukaemia; <styled-content style="fixed-case">GEP</styled-content>, gene expression profiling; <styled-content style="fixed-case">OS</styled-content>, overall survival; <styled-content style="fixed-case">EFS</styled-content>, event&#x02010;free survival; <styled-content style="fixed-case">RFS</styled-content>, relapse&#x02010;free survival; <styled-content style="fixed-case">TCGA</styled-content>, The Cancer Genome Atlas.</p></caption><graphic id="nlm-graphic-1" xlink:href="BJH-172-401-g001"/></fig></sec><sec id="bjh13836-sec-0012"><title>A 17&#x02010;probe set signature was found to be the optimal predictor of prognosis in the Netherlands AML series</title><p>The workflow that was used for prediction training and validation is illustrated in Fig&#x000a0;<xref rid="bjh13836-fig-0001" ref-type="fig">1</xref>. Briefly, The Netherlands GEP limited to the high <italic>WT1</italic> set was used as a classifier by means of KNNXValidation and EFS as the favourable event. GEP of the AML samples were clustered using lists of 10 to 50 probe&#x02010;sets as predicted by KNNXValidation. Classification of the Netherlands AML series using each predicted list identified a cluster of patients with distinct GEP that was associated with high <italic>WT1</italic> expression levels (Q4). This high <italic>WT1</italic> cluster was found to be associated with adverse prognosis, with a list of 17 probe&#x02010;sets (herein called S17 signature) as the optimal predictor of the long&#x02010;term prognosis in terms of both significance level and hazard ratio (HR) (Fig&#x000a0;S2). The S17 signature (Table&#x000a0;SIII) classified a distinct cluster of patients (Fig&#x000a0;<xref rid="bjh13836-fig-0002" ref-type="fig">2</xref>A) associated with high <italic>WT1</italic> status [Odds ratio (OR)&#x000a0;=3&#x000b7;0, <italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>1&#x000b7;6&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02212;6</sup>] as well as poor prognosis, with 5&#x02010;year OS of 9&#x000b7;6% vs. 44&#x000b7;1% {HR&#x000a0;=&#x000a0;2&#x000b7;72 [95% confidence interval (CI): 2&#x000b7;15&#x02013;3&#x000b7;44]}, and 5&#x02010;year EFS of&#x000a0;6&#x000b7;1% vs. 37&#x000b7;7% (HR&#x000a0;=&#x000a0;2&#x000b7;69 [95% CI: 2&#x000b7;10&#x02013;3&#x000b7;44]) (Fig&#x000a0;<xref rid="bjh13836-fig-0002" ref-type="fig">2</xref>B&#x02013;C, Table&#x000a0;SIV). The median OS and EFS for this cluster of patients were 8&#x000b7;3 (95% CI: 6&#x000b7;7&#x02013;9&#x000b7;9) and 4&#x000b7;9 (95% CI: 3&#x000b7;2&#x02013;6&#x000b7;5) months respectively, compared to 32&#x000b7;3 (95% CI: 16&#x000b7;81&#x02013;47&#x000b7;8) and 14&#x000b7;5 (95% CI: 9&#x000b7;4&#x02013;19&#x000b7;5) months for others. Although the high <italic>WT1</italic> cluster was also found to be correlated to other known risk factors including del(5q)/(7q), <italic>FLT3</italic>&#x02010;internal tandem duplication (ITD), <italic>WT1</italic> status (positively), and inv(16), t(15;17), t(8;21), <italic>FLT3</italic>&#x02010;tyrosine kinase domain (TKD) and <italic>CEBPA</italic> (double mutation) status (negatively) (Fig&#x000a0;<xref rid="bjh13836-fig-0002" ref-type="fig">2</xref>A), its prognostic impact remained highly significant after adjustment for baseline characteristics and known prognostic factors (Table&#x000a0;<xref rid="bjh13836-tbl-0001" ref-type="table-wrap">1</xref>).</p><fig fig-type="Figure" xml:lang="en" id="bjh13836-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>(A) Supervised clustering of the Netherlands acute myeloid leukaemia (<styled-content style="fixed-case">AML</styled-content>) series using the S17 signature. The marked cluster of the high <italic><styled-content style="fixed-case">WT</styled-content>1</italic> comprising of 34% of the patients with <styled-content style="fixed-case">AML</styled-content> showed distinct gene expression profiling as compared to the remaining clusters. This cluster was found to be positively associated with del(5q)/(7q), <italic><styled-content style="fixed-case">FLT</styled-content>3</italic>&#x02010;internal tandem duplication (<styled-content style="fixed-case">ITD</styled-content>) and <italic><styled-content style="fixed-case">WT</styled-content>1</italic> mutational status, whereas it was negatively associated with inv(16), t(15;17), t(8;21), and <italic><styled-content style="fixed-case">CEBPA</styled-content></italic> double mutation, with the latter markers creating distinct clusters. (B, C) Kaplan&#x02013;Meier analysis of the survival in the training Netherland series clustered by S17 signature. Log&#x02010;Rank (Mantel&#x02013;Cox) <italic>P</italic>&#x02010;values included 4&#x000b7;4&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02212;18</sup> and 2&#x000b7;1&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02212;16</sup> for <styled-content style="fixed-case">OS</styled-content> (B) and <styled-content style="fixed-case">EFS</styled-content> (C), respectively. <styled-content style="fixed-case">OS</styled-content>, overall survival; <styled-content style="fixed-case">EFS</styled-content>, event&#x02010;free survival;</p></caption><graphic id="nlm-graphic-3" xlink:href="BJH-172-401-g002"/></fig><table-wrap id="bjh13836-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Multivariate analysis of the OS and EFS in the Netherlands acute myeloid leukaemia series using Cox Regression analysis of those variables which were significant at the level of <italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.1 in univariate Cox Regression</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="3" valign="top" colspan="1">Variable</th><th align="char" colspan="4" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">OS</th><th align="char" colspan="4" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">EFS</th></tr><tr style="border-bottom:solid 1px #000000"><th align="char" rowspan="2" valign="top" colspan="1">
+<italic>P</italic>&#x02010;value</th><th align="char" rowspan="2" valign="top" colspan="1">HR</th><th align="char" colspan="2" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">95% CI for HR</th><th align="char" rowspan="2" valign="top" colspan="1">
+<italic>P</italic>&#x02010;value</th><th align="char" rowspan="2" valign="top" colspan="1">HR</th><th align="char" colspan="2" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">95% CI for HR</th></tr><tr style="border-bottom:solid 1px #000000"><th align="char" valign="top" rowspan="1" colspan="1">Lower</th><th align="char" valign="top" rowspan="1" colspan="1">Upper</th><th align="char" valign="top" rowspan="1" colspan="1">Lower</th><th align="char" valign="top" rowspan="1" colspan="1">Upper</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">S17 signature</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">&#x0003c;0&#x000b7;001</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">1&#x000b7;852</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">1&#x000b7;387</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">2&#x000b7;473</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">&#x0003c;0&#x000b7;001</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">1&#x000b7;934</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">1&#x000b7;465</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">2&#x000b7;555</td></tr><tr><td align="left" rowspan="1" colspan="1">Age</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">0&#x000b7;026</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">1&#x000b7;121</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">1&#x000b7;013</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">1&#x000b7;239</td><td align="char" rowspan="1" colspan="1">NS</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">&#x02010;</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">&#x02010;</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">&#x02010;</td></tr><tr><td align="left" rowspan="1" colspan="1">Complex karyotype</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">0&#x000b7;001</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">2&#x000b7;198</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">1&#x000b7;397</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">3&#x000b7;458</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">0&#x000b7;001</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">2&#x000b7;182</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">1&#x000b7;354</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">3&#x000b7;518</td></tr><tr><td align="left" rowspan="1" colspan="1">del(5q)/del(7q)</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">0&#x000b7;017</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">1&#x000b7;76</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">1&#x000b7;109</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">2&#x000b7;795</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">0&#x000b7;001</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">2&#x000b7;027</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">1&#x000b7;322</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">3&#x000b7;109</td></tr><tr><td align="left" rowspan="1" colspan="1">inv(16)</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">0&#x000b7;027</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">0&#x000b7;537</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">0&#x000b7;31</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">0&#x000b7;931</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">0&#x000b7;036</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">0&#x000b7;569</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">0&#x000b7;336</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">0&#x000b7;964</td></tr><tr><td align="left" rowspan="1" colspan="1">t(8;21)</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">0&#x000b7;010</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">0&#x000b7;465</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">0&#x000b7;259</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">0&#x000b7;833</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">0&#x000b7;004</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">0&#x000b7;444</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">0&#x000b7;254</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">0&#x000b7;775</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>FLT3</italic>&#x02010;ITD</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">0&#x000b7;004</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">1&#x000b7;526</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">1&#x000b7;142</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">2&#x000b7;037</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">0&#x000b7;003</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">1&#x000b7;548</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">1&#x000b7;161</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">2&#x000b7;062</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>NPM1</italic>&#x02010;mutated</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">0&#x000b7;001</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">0&#x000b7;615</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">0&#x000b7;456</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">0&#x000b7;83</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">0&#x000b7;001</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">0&#x000b7;603</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">0&#x000b7;452</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">0&#x000b7;804</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>CEBPA</italic>&#x02010;double&#x02010;mutated</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">0&#x000b7;008</td><td align="char" rowspan="1" colspan="1">0&#x000b7;397</td><td align="char" rowspan="1" colspan="1">0&#x000b7;201</td><td align="char" rowspan="1" colspan="1">0&#x000b7;785</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">0&#x000b7;008</td><td align="char" rowspan="1" colspan="1">0&#x000b7;4</td><td align="char" rowspan="1" colspan="1">0&#x000b7;203</td><td align="char" rowspan="1" colspan="1">0&#x000b7;789</td></tr></tbody></table><table-wrap-foot><fn id="bjh13836-note-0001"><p>OS, overall survival; EFS, event&#x02010;free survival; HR, Hazard ratio.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec id="bjh13836-sec-0013"><title>The S17 signature was an independent prognostic factor in the Germany AML series</title><p>In order to validate the prognostic value of the S17 signature, it was tested against the Germany series. Supervised clustering of the Germany series using the gene signature predicted a cluster of patients with a distinct GEP similar to the Netherlands series (Fig&#x000a0;<xref rid="bjh13836-fig-0003" ref-type="fig">3</xref>A) and predicting both adverse OS and RFS (Fig&#x000a0;<xref rid="bjh13836-fig-0003" ref-type="fig">3</xref>B&#x02013;C, Table&#x000a0;SV). The median OS was 7&#x000b7;6 (95% CI: 5&#x000b7;9&#x02013;9&#x000b7;3) months for the cluster of patients with high <italic>WT1</italic> as compared to 13&#x000b7;9 (95% CI: 11&#x000b7;0&#x02013;16&#x000b7;8) months for other cases. Similarly, the median RFS was 5&#x000b7;3 (95% CI: 4&#x000b7;2&#x02013;6&#x000b7;4) months for high <italic>WT1</italic> cases as compared to 17&#x000b7;3 (95% CI: 13&#x000b7;4&#x02013;21&#x000b7;2) months for the remaining patients. This prognostic impact of the S17 signature remained statistically significant after adjustment for baseline characteristics and ELN genetic risk groups (Table&#x000a0;<xref rid="bjh13836-tbl-0002" ref-type="table-wrap">2</xref>).</p><fig fig-type="Figure" xml:lang="en" id="bjh13836-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>(A) Supervised clustering of the Germany acute myeloid leukaemia series using the S17 signature. The marked cluster of the high <italic><styled-content style="fixed-case">WT</styled-content>1</italic> patients, comprising 31% of the cases, showed distinct gene expression profiling as compared to the remaining clusters. (B, C) Kaplan&#x02013;Meier analysis of the survival in the Germany validation series clustered by S17 signature. Log&#x02010;Rank (Mantel&#x02013;Cox) <italic>P</italic>&#x02010;values included 2&#x000b7;2&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02212;13</sup> and 5&#x000b7;4&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02212;12</sup> for <styled-content style="fixed-case">OS</styled-content> (B) and <styled-content style="fixed-case">RFS</styled-content> (C), respectively. <styled-content style="fixed-case">OS</styled-content>, overall survival; <styled-content style="fixed-case">RFS</styled-content>, relapse&#x02010;free survival;</p></caption><graphic id="nlm-graphic-5" xlink:href="BJH-172-401-g003"/></fig><table-wrap id="bjh13836-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Multivariate analysis of the OS and RFS in the Germany AML series using Cox Regression analysis of the ELN genetic groups and those variables which were significant at the level of <italic>P&#x000a0;</italic>&#x0003c;&#x000a0;0&#x000b7;1 in univariate Cox Regression</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="3" valign="top" colspan="1">Variable</th><th align="char" colspan="4" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">OS</th><th align="char" colspan="4" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">RFS</th></tr><tr style="border-bottom:solid 1px #000000"><th align="char" rowspan="2" valign="top" colspan="1">
+<italic>P</italic>&#x02010;value</th><th align="char" rowspan="2" valign="top" colspan="1">HR</th><th align="char" colspan="2" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">95% CI for HR</th><th align="char" rowspan="2" valign="top" colspan="1">
+<italic>P</italic>&#x02010;value</th><th align="char" rowspan="2" valign="top" colspan="1">HR</th><th align="char" colspan="2" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">95% CI for HR</th></tr><tr style="border-bottom:solid 1px #000000"><th align="char" valign="top" rowspan="1" colspan="1">Lower</th><th align="char" valign="top" rowspan="1" colspan="1">Upper</th><th align="char" valign="top" rowspan="1" colspan="1">Lower</th><th align="char" valign="top" rowspan="1" colspan="1">Upper</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">S17 signature</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">&#x0003c;0&#x000b7;001</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">1&#x000b7;485</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">1&#x000b7;186</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">1&#x000b7;860</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">&#x0003c;0&#x000b7;001</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">1&#x000b7;834</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">1&#x000b7;326</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">2&#x000b7;536</td></tr><tr><td align="left" rowspan="1" colspan="1">Age</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">&#x0003c;0&#x000b7;001</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">1&#x000b7;291</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">1&#x000b7;197</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">1&#x000b7;391</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">&#x0003c;0&#x000b7;001</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">1&#x000b7;198</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">1&#x000b7;081</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">1&#x000b7;327</td></tr><tr><td align="left" rowspan="1" colspan="1">ELN2<xref ref-type="fn" rid="bjh13836-note-0003">a</xref>
+</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">&#x0003c;0&#x000b7;001</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">2&#x000b7;395</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">1&#x000b7;743</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">3&#x000b7;291</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">&#x0003c;0&#x000b7;001</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">3&#x000b7;147</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">2&#x000b7;124</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">4&#x000b7;663</td></tr><tr><td align="left" rowspan="1" colspan="1">ELN3<xref ref-type="fn" rid="bjh13836-note-0003">a</xref>
+</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">&#x0003c;0&#x000b7;001</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">2&#x000b7;395</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">1&#x000b7;732</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">3&#x000b7;312</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">&#x0003c;0&#x000b7;001</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">2&#x000b7;153</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">1&#x000b7;405</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">3&#x000b7;299</td></tr><tr><td align="left" rowspan="1" colspan="1">ELN4<xref ref-type="fn" rid="bjh13836-note-0003">a</xref>
+</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">&#x0003c;0&#x000b7;001</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">3&#x000b7;306</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">2&#x000b7;376</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">4&#x000b7;599</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">&#x0003c;0&#x000b7;001</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">6&#x000b7;401</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">4&#x000b7;027</td><td align="char" char="&#x000b7;" rowspan="1" colspan="1">10&#x000b7;175</td></tr></tbody></table><table-wrap-foot><fn id="bjh13836-note-0002"><p>OS, overall survival; RFS, relapse&#x02010;free survival; HR, Hazard ratio.</p></fn><fn id="bjh13836-note-0003"><label>a</label><p>The ELN2, ELN3, and ELN4 indicate the corresponding genetic ELN groups compared to the ELN1 group, respectively.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec id="bjh13836-sec-0014"><title>The S17 signature predicted adverse survival in the TCGA AML series</title><p>We further tested the prognostic value of the high <italic>WT1</italic> signature in the TCGA series, which showed a cluster of patients with a similar distinct GEP (Fig&#x000a0;<xref rid="bjh13836-fig-0004" ref-type="fig">4</xref>A), predicting adverse OS (Fig&#x000a0;<xref rid="bjh13836-fig-0004" ref-type="fig">4</xref>B). The median OS was 12&#x000b7;0 (95% CI: 10&#x000b7;1&#x02013;13&#x000b7;9) months for the cluster of patients with high <italic>WT1</italic> as compared to 19&#x000b7;1 (95% CI: 11&#x000b7;2&#x02013;27&#x000b7;0) months for others. No correlation was found between the high <italic>WT1</italic> cluster and gene mutations of prognostic significance, including <italic>FLT3</italic>&#x02010;ITD<italic>, NPM1,</italic> or <italic>IDH</italic> mutations. Immunophenotyping analysis of the AML cells identified a positive correlation of the high <italic>WT1</italic> cluster with CD34<sup>+</sup> (OR&#x000a0;=&#x000a0;4&#x000b7;5, <italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0&#x000b7;001) and CD7<sup>+</sup> (OR&#x000a0;=&#x000a0;14&#x000b7;4, <italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0&#x000b7;03) cells.</p><fig fig-type="Figure" xml:lang="en" id="bjh13836-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>(A) Supervised clustering of the The Cancer Genome Atlas (<styled-content style="fixed-case">TCGA</styled-content>) acute myeloid leukaemia (<styled-content style="fixed-case">AML</styled-content>) series using the S17 signature. The marked cluster of the high <italic><styled-content style="fixed-case">WT</styled-content>1</italic> patients, comprising 36% of the cases, showed distinct gene expression profiling as compared to the remaining clusters. (B) Kaplan&#x02013;Meier analysis of the survival in the <styled-content style="fixed-case">TCGA</styled-content> validation series clustered by S17 signature. Log&#x02010;Rank (Mantel&#x02013;Cox) <italic>P</italic>&#x02010;value was 6&#x000b7;9&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02212;3</sup> for <styled-content style="fixed-case">OS</styled-content>.</p></caption><graphic id="nlm-graphic-7" xlink:href="BJH-172-401-g004"/></fig></sec><sec id="bjh13836-sec-0015"><title>An expression score based on top four genes predicted adverse outcome in three AML series</title><p>ROC curve analysis ranked 17 probe&#x02010;sets based on their correlation to the EFS in the Netherlands series (Table&#x000a0;SVI). <italic>CD109</italic> (226545_at) was the most significant gene and the <italic>HAVCR2</italic> (1555628_a_at) the least significant. A gene expression score derived from the cumulative expression levels of the top four genes [<italic>CD109, KIAA0125</italic> (also termed <italic>FAM30A</italic>)<italic>, NGFRAP1</italic> and <italic>ZC3H12C</italic>], herein called W4, demonstrated very high correlation to the EFS in the Netherlands series (Table&#x000a0;SVII). The W4 genes were all overexpressed in the poor risk group. As anticipated, the W4 score predicted adverse outcome in the Netherlands series tested by Cox regression analysis (Fig&#x000a0;<xref rid="bjh13836-fig-0005" ref-type="fig">5</xref>A), with a median OS of 10&#x000b7;9 and 85&#x000b7;5&#x000a0;months (<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>2&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02212;14</sup>) in the high&#x02010; and low&#x02010;W4 cases, respectively. Similarly, the median EFS was 8&#x000b7;0 and 26&#x000b7;7&#x000a0;months (<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>4&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02212;13</sup>) in these groups (Fig&#x000a0;<xref rid="bjh13836-fig-0005" ref-type="fig">5</xref>B), and remained statistically significant after adjustment for baseline characteristics and known prognostic factors (Table&#x000a0;SVIII). The W4 expression score was also able to predict adverse outcome in the Germany series. The median OS was 8&#x000b7;5 and 24&#x000b7;5 (<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>2&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02212;12</sup>) among the high&#x02010; and low&#x02010;W4 cases, respectively, and the median RFS was 7&#x000b7;6 and 33&#x000b7;7&#x000a0;months (<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>3&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02212;11</sup>) in these groups (Fig&#x000a0;<xref rid="bjh13836-fig-0005" ref-type="fig">5</xref>C, D). This prognostic impact remained statistically significant after adjustment for baseline characteristics and ELN genetic groups (Table&#x000a0;SIX). The positive predictive value (PPV) and negative predictive value (NPV) of the marker for prediction of adverse OS were 85&#x000b7;8% and 39&#x000b7;3%, respectively. They were found to be 84&#x000b7;6% and 43&#x000b7;8%, respectively, for prediction of adverse RFS. Finally, the W4 score was found to be predictive of adverse OS in the TCGA series. The median OS was found to be 11&#x000b7;0 and 26&#x000b7;0&#x000a0;months (<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>7&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02212;4</sup>) among high&#x02010; and low&#x02010;W4 cases, respectively (Fig&#x000a0;<xref rid="bjh13836-fig-0005" ref-type="fig">5</xref>E). The PPV and NPV of the marker for prediction of adverse OS were 75&#x000b7;3% and 46&#x000b7;3%, respectively.</p><fig fig-type="Figure" xml:lang="en" id="bjh13836-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>Kaplan&#x02013;Meier analysis of the survival in three acute myeloid leukaemia (<styled-content style="fixed-case">AML</styled-content>) series as stratified using W4 gene expression score. (A, B) Survival analysis in the Netherlands <styled-content style="fixed-case">AML</styled-content> series. (C, D) Survival analysis in the Germany series. (E) Survival analysis in The Cancer Genome Atlas series. <styled-content style="fixed-case">OS</styled-content>, overall survival; <styled-content style="fixed-case">EFS</styled-content>, event&#x02010;free survival; <styled-content style="fixed-case">RFS</styled-content>, relapse&#x02010;free survival.</p></caption><graphic id="nlm-graphic-9" xlink:href="BJH-172-401-g005"/></fig></sec><sec id="bjh13836-sec-0016"><title>Pathway analysis</title><p>MetaCore pathway analysis of the Netherlands high <italic>WT1</italic> set of &#x0003e;2&#x02010;fold difference identified Antigen Presentation by major histocompatibility complex (MHC) Class II as the top relevant pathway (Fig&#x000a0;S3). Most of the pathway genes were found to show low expression, indicating the downregulation of the whole pathway. Likewise, Antigen Presentation by MHC&#x02010;II was found as the most biologically relevant pathway in the Germany high <italic>WT1</italic> set of &#x0003e;2&#x02010;fold difference (FDR&#x000a0;=&#x000a0;8&#x000b7;5&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02212;3</sup>). MetaCore analysis of the S17 plus WT1 identified a single dense network, indicating their frequent interactions (Fig&#x000a0;S4). Three canonical pathways were identified, including those terminating on NFKB1, CREB1, and MEF2 transcription factors. The upregulated HDAC4 seemed to be in a hub position for the network.</p></sec></sec><sec id="bjh13836-sec-0017"><title>Discussion</title><p>Several studies have attempted to risk&#x02010;stratify AML patients using gene signatures obtained from GEP, though most of these signatures were correlated with known risk factors and hence of no further clinical benefit, including those associated with mutations in <italic>NPM1</italic> (Verhaak <italic>et&#x000a0;al</italic>, <xref rid="bjh13836-bib-0036" ref-type="ref">2005</xref>), double mutant <italic>CEBPA</italic> (Wouters <italic>et&#x000a0;al</italic>, <xref rid="bjh13836-bib-0041" ref-type="ref">2009</xref>) and <italic>FLT3&#x02010;</italic>ITD (Neben <italic>et&#x000a0;al</italic>, <xref rid="bjh13836-bib-0024" ref-type="ref">2005</xref>). Metzeler <italic>et&#x000a0;al</italic> (<xref rid="bjh13836-bib-0022" ref-type="ref">2008</xref>) used an unbiased approach to identify all genes whose expression levels were correlated to the OS, which led to a prognostic score based on a 66&#x02010;gene signature. More recently, Li <italic>et&#x000a0;al</italic> (<xref rid="bjh13836-bib-0019" ref-type="ref">2013</xref>) conducted a similar global study with more extensive training and validation steps and&#x000a0;identified a 24&#x02010;gene signature that improved ELN risk classification of AML. On the other hand, Becker <italic>et&#x000a0;al</italic> (<xref rid="bjh13836-bib-0001" ref-type="ref">2010</xref>) described a signature of 131 genes that was associated with the <italic>WT1</italic> mutation, though without any clinical impact.</p><p>We showed here that differentially expressed genes in high <italic>WT1</italic> samples were highly correlated in two AML series in terms of altered genes, expression profiles and implicated pathways, collectively corroborating the biological relevance of the high <italic>WT1</italic> gene signature. Hence, we inferred a 16&#x02010;gene signature using differentially expressed genes in high <italic>WT1</italic> samples that was able to predict AML outcome in two independent AML series. Although the S17 signature was also associated with other known risk factors including some cytogenetic aberrations, <italic>FLT3</italic>&#x02010;ITD and <italic>NPM1</italic> status, as anticipated from a marker which is overexpressed in the vast majority of AML samples (Ostergaard <italic>et&#x000a0;al</italic>, <xref rid="bjh13836-bib-0025" ref-type="ref">2004</xref>), it was also predictive of clinical outcome independently of the currently accepted ELN genetic groups (Dohner <italic>et&#x000a0;al</italic>, <xref rid="bjh13836-bib-0006" ref-type="ref">2010</xref>). This might reflect the prognostic value of <italic>WT1</italic> expression level in the vast majority of AML patients regardless of their underlying genetic risk factors (Bergmann <italic>et&#x000a0;al</italic>, <xref rid="bjh13836-bib-0002" ref-type="ref">1997</xref>; Trka <italic>et&#x000a0;al</italic>, <xref rid="bjh13836-bib-0034" ref-type="ref">2002</xref>).</p><p>
+<italic>WT1</italic> mutation has been controversially reported to be associated with adverse prognosis in AML (Virappane <italic>et&#x000a0;al</italic>, <xref rid="bjh13836-bib-0039" ref-type="ref">2008</xref>; Gaidzik <italic>et&#x000a0;al</italic>, <xref rid="bjh13836-bib-0008" ref-type="ref">2009</xref>). We did not observe any prognostic impact of <italic>WT1</italic> mutation in the Netherlands series. However, given the association of the <italic>WT1</italic> mutation with the S17 signature, one cannot rule out the possibility of its indirect impact through <italic>WT1</italic> expression level. Given the growing list of gene mutations of prognostic implication in AML, including recently identified mutations in <italic>DNMT3A, TET2,</italic> and <italic>ASXL1</italic>, a good surrogate marker can be a more global one, such as the S17 signature, which is correlated to several markers, in addition to its independent impact. We also identified a CD34<sup>+</sup>&#x02010;CD7<sup>+</sup> phenotype for high <italic>WT1</italic> cluster of AML cells, which has already been found to be associated with poor risk in AML (Del Poeta <italic>et&#x000a0;al</italic>, <xref rid="bjh13836-bib-0005" ref-type="ref">1995</xref>) and possibly involved in clonal evolution of CML (Kosugi <italic>et&#x000a0;al</italic>, <xref rid="bjh13836-bib-0017" ref-type="ref">2005</xref>). However, the implication of this finding needs further investigation.</p><p>Antigen Presentation by MHC Class II was found to be the most relevant biological pathway in our study, which is in line with findings of Wilson <italic>et&#x000a0;al</italic> (<xref rid="bjh13836-bib-0040" ref-type="ref">2006</xref>), who demonstrated that a cluster of AML patients with high <italic>WT1</italic> expression also showed low expression of MHC&#x02010;II genes. The fact that targetable HDAC4 has been found to be a master regulator of the S17 network might be of potential therapeutic relevance [reviewed in (Tan <italic>et&#x000a0;al</italic>, <xref rid="bjh13836-bib-0032" ref-type="ref">2010</xref>)].</p><p>Finally, the S17 signature consistently predicted long term outcome in different clinical settings, including age groups, karyotype status and a wide variety of treatment regimens. The S17 signature also demonstrated a similar prognostic value in the much smaller series of TCGA&#x02010;AML samples assessed using a different GEP platform, i.e. RNA&#x02010;seq, demonstrating robust cross&#x02010;platform predictive value. This was particularly promising, given that the RNA&#x02010;seq gene expression data show broad dynamic range (Zhao <italic>et&#x000a0;al</italic>, <xref rid="bjh13836-bib-0042" ref-type="ref">2014</xref>) and a very high correlation to qRT&#x02010;PCR results (Rapaport <italic>et&#x000a0;al</italic>, <xref rid="bjh13836-bib-0026" ref-type="ref">2013</xref>). We hence attempted to derive a gene expression score using the most significant genes amongst those included in the S17 signature. This led to the 4&#x02010;gene W4 score, which faithfully predicted the adverse outcome in the TCGA series tested by RNA&#x02010;seq, as well as the other two AML series examined by microarray analyses. Therefore, the W4 score can be easily used in a short AML series, or in its normalized form, as a surrogate marker for the prognostication of AML patients on a day&#x02010;to&#x02010;day basis. Among the W4 genes, <italic>CD109,</italic> which is also found in the gene signature reported by Metzeler <italic>et&#x000a0;al</italic> (<xref rid="bjh13836-bib-0022" ref-type="ref">2008</xref>), is known to be expressed on a subset of haematopoietic stem and progenitor cells (Lin <italic>et&#x000a0;al</italic>, <xref rid="bjh13836-bib-0020" ref-type="ref">2002</xref>) as well as activated platelets and T&#x02010;lymphoblasts (Sutherland <italic>et&#x000a0;al</italic>, <xref rid="bjh13836-bib-0029" ref-type="ref">1991</xref>), corroborating our immunophenotyping findings. <italic>CD109</italic> overexpression has also been observed in many human cancers (Hashimoto <italic>et&#x000a0;al</italic>, <xref rid="bjh13836-bib-0010" ref-type="ref">2004</xref>). The other overexpressed gene, <italic>NGFRAP1,</italic> belongs to the neurotrophin signalling pathway, of which many genes, including <italic>NTRK1, NTRK2</italic> and <italic>NTRK3,</italic> are known to be implicated in leukaemogenesis (Eguchi <italic>et&#x000a0;al</italic>, <xref rid="bjh13836-bib-0007" ref-type="ref">1999</xref>; Meyer <italic>et&#x000a0;al</italic>, <xref rid="bjh13836-bib-0023" ref-type="ref">2007</xref>; Li <italic>et&#x000a0;al</italic>, <xref rid="bjh13836-bib-0018" ref-type="ref">2009</xref>). To our knowledge, the W4 risk score is the simplest gene expression score predicting long&#x02010;term AML prognosis (Gentles <italic>et&#x000a0;al</italic>, <xref rid="bjh13836-bib-0009" ref-type="ref">2010</xref>; Bou Samra <italic>et&#x000a0;al</italic>, <xref rid="bjh13836-bib-0003" ref-type="ref">2012</xref>; Marcucci <italic>et&#x000a0;al</italic>, <xref rid="bjh13836-bib-0021" ref-type="ref">2014</xref>).</p><p>In conclusion, we identified a short gene signature associated with high <italic>WT1</italic> expression and demonstrated its adverse and independent prognostic impact in adult AML patients. A 4&#x02010;gene expression score was next derived, which similarly predicted AML prognosis in the three series examined. Our study proposes a novel way to incorporate a candidate prognostic factor, i.e. <italic>WT1</italic> expression level, into the current models of AML risk stratification and provides new clues to the molecular mechanisms underlying <italic>WT1</italic> regulation. These promising results will have to be validated in further trials.</p></sec><sec id="bjh13836-sec-0018"><title>Author contributions</title><p>AN performed the research and wrote the manuscript; AN and DB designed the research study; AN and TH analysed the data; TH, YR, MCS, TB, WH, SKB, PJMV, and DB contributed essential data and reviewed the manuscript.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data"><caption><p>
+<bold>Fig S1.</bold> Differential gene expression in shared probe sets among Netherlands and Germany high&#x02010;<italic>WT1</italic> gene sets. The differences in expression levels were significantly correlated among two gene sets (<italic>r</italic>
+<sup>2</sup>&#x000a0;=&#x000a0;0.81, <italic>P&#x000a0;</italic>&#x0003c;&#x000a0;10<sup>&#x02212;18</sup>).</p><p>
+<bold>Fig S2.</bold> Univariate survival analysis of the supervised clustering by candidate lists of probe sets in order to obtain the optimal survival predictor.</p><p>
+<bold>Fig S3.</bold> Antigen Presentation by MHC Class II as the most significant MetaCore pathway deregulated in Netherlands 2&#x02010;fold high&#x02010;<italic>WT1</italic> set (826 probe sets). Those genes with an adjacent color bar showed differed expression in high&#x02010;<italic>WT1</italic> state, with the height of the bar as the relative decrease (blue) or increase (red) in expression level of the gene. Most key genes showed decreased expression, and hence the entire pathway seems to be downregulated in high&#x02010;<italic>WT1</italic>.</p><p>
+<bold>Fig S4.</bold> MetaCore Shortest Network as defined by the network formed among the S17 gene products and WT1, with not more than one connection.</p><p>
+<bold>Table&#x000a0;SI.</bold> Top 100 genes differentially expressed between the highest (Q4) and lowest (Q1) quartiles of <italic>WT1</italic> expression level in the Netherlands series, or Netherlands high&#x02010;<italic>WT1</italic> set.</p><p>
+<bold>Table&#x000a0;SII.</bold> Top 100 genes diffentially expressed between the highest (Q4) and lowest (Q1) quartiles of <italic>WT1</italic> expression level in the Germany series, or Germany high&#x02010;<italic>WT1</italic> set.</p><p>
+<bold>Table&#x000a0;SIII.</bold> The S17 signature (consisting of 16 unique gene transcripts) which optimally classified the high&#x02010;WT1 cluster associated with poor prognosis in Netherlands high&#x02010;<italic>WT1</italic> state.</p><p>
+<bold>Table&#x000a0;SIV.</bold> Univariate analysis of the OS and EFS in the Netherlands AML series using Cox Regression analysis of the basic covariates and cytogenetic and molecular aberrations.</p><p>
+<bold>Table&#x000a0;SV.</bold> Univariate analysis of the OS and RFS in Germany AML series using Cox Regression analysis of all potentially implicated variables.</p><p>
+<bold>Table&#x000a0;SVI.</bold> Correlation of the individual S17 probe sets to the EFS in the Netherlands series using ROC curve analysis. Those probe&#x02010;sets with AUCs (area under the curve) significantly above 0.5 correlate positively with the EFS, while those with AUCs less than 0.5 correlate negatively.</p><p>
+<bold>Table&#x000a0;SVII.</bold> Correlation of the gene scores obtained from cumulative gene expression of the <italic>n</italic> most significant probe&#x02010;sets of the S17 to the EFS in the Netherlands series using ROC curve analysis. Both the AUC (area under the curve) and the <italic>P</italic>&#x02010;value did change little after W4.</p><p>
+<bold>Table&#x000a0;SVIII.</bold> Multivariate analysis of the OS and EFS in the Netherlands AML series using Cox Regression analysis of those variables which were significant at the level of <italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.1 in univariate Cox Regression.</p><p>
+<bold>Table&#x000a0;SXI.</bold> Multivariate analysis of the OS and RFS in Germany AML series using Cox Regression analysis of the ELN genetic groups and those variables which were significant at the level of <italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.1 in univariate Cox Regression.</p></caption><media xlink:href="BJH-172-401-s001.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ref-list content-type="cited-references" id="bjh13836-bibl-0001"><title>References</title><ref id="bjh13836-bib-0001"><mixed-citation publication-type="journal" id="bjh13836-cit-0001">
+<string-name>
+<surname>Becker</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Marcucci</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Maharry</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Radmacher</surname>, <given-names>M.D.</given-names>
+</string-name>, <string-name>
+<surname>Mrozek</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Margeson</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Whitman</surname>, <given-names>S.P.</given-names>
+</string-name>, <string-name>
+<surname>Paschka</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Holland</surname>, <given-names>K.B.</given-names>
+</string-name>, <string-name>
+<surname>Schwind</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>, <given-names>Y.Z.</given-names>
+</string-name>, <string-name>
+<surname>Powell</surname>, <given-names>B.L.</given-names>
+</string-name>, <string-name>
+<surname>Carter</surname>, <given-names>T.H.</given-names>
+</string-name>, <string-name>
+<surname>Kolitz</surname>, <given-names>J.E.</given-names>
+</string-name>, <string-name>
+<surname>Wetzler</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Carroll</surname>, <given-names>A.J.</given-names>
+</string-name>, <string-name>
+<surname>Baer</surname>, <given-names>M.R.</given-names>
+</string-name>, <string-name>
+<surname>Moore</surname>, <given-names>J.O.</given-names>
+</string-name>, <string-name>
+<surname>Caligiuri</surname>, <given-names>M.A.</given-names>
+</string-name>, <string-name>
+<surname>Larson</surname>, <given-names>R.A.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Bloomfield</surname>, <given-names>C.D.</given-names>
+</string-name> (<year>2010</year>) <article-title>Mutations of the Wilms tumor 1 gene (WT1) in older patients with primary cytogenetically normal acute myeloid leukemia: a Cancer and Leukemia Group B study</article-title>. <source>Blood</source>, <volume>116</volume>, <fpage>788</fpage>&#x02013;<lpage>792</lpage>.<pub-id pub-id-type="pmid">20442368</pub-id></mixed-citation></ref><ref id="bjh13836-bib-0002"><mixed-citation publication-type="journal" id="bjh13836-cit-0002">
+<string-name>
+<surname>Bergmann</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Miething</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Maurer</surname>, <given-names>U.</given-names>
+</string-name>, <string-name>
+<surname>Brieger</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Karakas</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Weidmann</surname>, <given-names>E.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Hoelzer</surname>, <given-names>D.</given-names>
+</string-name> (<year>1997</year>) <article-title>High levels of Wilms' tumor gene (wt1) mRNA in acute myeloid leukemias are associated with a worse long&#x02010;term outcome</article-title>. <source>Blood</source>, <volume>90</volume>, <fpage>1217</fpage>&#x02013;<lpage>1225</lpage>.<pub-id pub-id-type="pmid">9242555</pub-id></mixed-citation></ref><ref id="bjh13836-bib-0003"><mixed-citation publication-type="journal" id="bjh13836-cit-0003">
+<string-name>
+<surname>Bou Samra</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Klein</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Commes</surname>, <given-names>T.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Moreaux</surname>, <given-names>J.</given-names>
+</string-name> (<year>2012</year>) <article-title>Development of gene expression&#x02010;based risk score in cytogenetically normal acute myeloid leukemia patients</article-title>. <source>Oncotarget</source>, <volume>3</volume>, <fpage>824</fpage>&#x02013;<lpage>832</lpage>.<pub-id pub-id-type="pmid">22910040</pub-id></mixed-citation></ref><ref id="bjh13836-bib-0004"><mixed-citation publication-type="journal" id="bjh13836-cit-0004">
+<string-name>
+<surname>Camos</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Esteve</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Jares</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Colomer</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Rozman</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Villamor</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Costa</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Carrio</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Nomdedeu</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Montserrat</surname>, <given-names>E.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Campo</surname>, <given-names>E.</given-names>
+</string-name> (<year>2006</year>) <article-title>Gene expression profiling of acute myeloid leukemia with translocation t(8;16)(p11;p13) and MYST3&#x02010;CREBBP rearrangement reveals a distinctive signature with a specific pattern of HOX gene expression</article-title>. <source>Cancer Research</source>, <volume>66</volume>, <fpage>6947</fpage>&#x02013;<lpage>6954</lpage>.<pub-id pub-id-type="pmid">16849538</pub-id></mixed-citation></ref><ref id="bjh13836-bib-0005"><mixed-citation publication-type="journal" id="bjh13836-cit-0005">
+<string-name>
+<surname>Del Poeta</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Stasi</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Venditti</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Cox</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Aronica</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Masi</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Bruno</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Simone</surname>, <given-names>M.D.</given-names>
+</string-name>, <string-name>
+<surname>Buccisano</surname>, <given-names>F.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Papa</surname>, <given-names>G.</given-names>
+</string-name> (<year>1995</year>) <article-title>CD7 expression in acute myeloid leukemia</article-title>. <source>Leukaemia &#x00026; Lymphoma</source>, <volume>17</volume>, <fpage>111</fpage>&#x02013;<lpage>119</lpage>.</mixed-citation></ref><ref id="bjh13836-bib-0006"><mixed-citation publication-type="journal" id="bjh13836-cit-0006">
+<string-name>
+<surname>Dohner</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Estey</surname>, <given-names>E.H.</given-names>
+</string-name>, <string-name>
+<surname>Amadori</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Appelbaum</surname>, <given-names>F.R.</given-names>
+</string-name>, <string-name>
+<surname>Buchner</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Burnett</surname>, <given-names>A.K.</given-names>
+</string-name>, <string-name>
+<surname>Dombret</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Fenaux</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Grimwade</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Larson</surname>, <given-names>R.A.</given-names>
+</string-name>, <string-name>
+<surname>Lo&#x02010;Coco</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Naoe</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Niederwieser</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Ossenkoppele</surname>, <given-names>G.J.</given-names>
+</string-name>, <string-name>
+<surname>Sanz</surname>, <given-names>M.A.</given-names>
+</string-name>, <string-name>
+<surname>Sierra</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Tallman</surname>, <given-names>M.S.</given-names>
+</string-name>, <string-name>
+<surname>Lowenberg</surname>, <given-names>B.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Bloomfield</surname>, <given-names>C.D.</given-names>
+</string-name> (<year>2010</year>) <article-title>Diagnosis and management of acute myeloid leukemia in adults: recommendations from an international expert panel, on behalf of the European LeukemiaNet</article-title>. <source>Blood</source>, <volume>115</volume>, <fpage>453</fpage>&#x02013;<lpage>474</lpage>.<pub-id pub-id-type="pmid">19880497</pub-id></mixed-citation></ref><ref id="bjh13836-bib-0007"><mixed-citation publication-type="journal" id="bjh13836-cit-0007">
+<string-name>
+<surname>Eguchi</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Eguchi&#x02010;Ishimae</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Tojo</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Morishita</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Suzuki</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Sato</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Kudoh</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Tanaka</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Setoyama</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Nagamura</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Asano</surname>, <given-names>S.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Kamada</surname>, <given-names>N.</given-names>
+</string-name> (<year>1999</year>) <article-title>Fusion of ETV6 to neurotrophin&#x02010;3 receptor TRKC in acute myeloid leukemia with t(12;15)(p13;q25)</article-title>. <source>Blood</source>, <volume>93</volume>, <fpage>1355</fpage>&#x02013;<lpage>1363</lpage>.<pub-id pub-id-type="pmid">9949179</pub-id></mixed-citation></ref><ref id="bjh13836-bib-0008"><mixed-citation publication-type="journal" id="bjh13836-cit-0008">
+<string-name>
+<surname>Gaidzik</surname>, <given-names>V.I.</given-names>
+</string-name>, <string-name>
+<surname>Schlenk</surname>, <given-names>R.F.</given-names>
+</string-name>, <string-name>
+<surname>Moschny</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Becker</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Bullinger</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Corbacioglu</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Krauter</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Schlegelberger</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Ganser</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Dohner</surname>, <given-names>H.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Dohner</surname>, <given-names>K.</given-names>
+</string-name> (<year>2009</year>) <article-title>Prognostic impact of WT1 mutations in cytogenetically normal acute myeloid leukemia: a study of the German&#x02010;Austrian AML Study Group</article-title>. <source>Blood</source>, <volume>113</volume>, <fpage>4505</fpage>&#x02013;<lpage>4511</lpage>.<pub-id pub-id-type="pmid">19221039</pub-id></mixed-citation></ref><ref id="bjh13836-bib-0009"><mixed-citation publication-type="journal" id="bjh13836-cit-0009">
+<string-name>
+<surname>Gentles</surname>, <given-names>A.J.</given-names>
+</string-name>, <string-name>
+<surname>Plevritis</surname>, <given-names>S.K.</given-names>
+</string-name>, <string-name>
+<surname>Majeti</surname>, <given-names>R.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Alizadeh</surname>, <given-names>A.A.</given-names>
+</string-name> (<year>2010</year>) <article-title>Association of a leukemic stem cell gene expression signature with clinical outcomes in acute myeloid leukemia</article-title>. <source>JAMA</source>, <volume>304</volume>, <fpage>2706</fpage>&#x02013;<lpage>2715</lpage>.<pub-id pub-id-type="pmid">21177505</pub-id></mixed-citation></ref><ref id="bjh13836-bib-0010"><mixed-citation publication-type="journal" id="bjh13836-cit-0010">
+<string-name>
+<surname>Hashimoto</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Ichihara</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Watanabe</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Kawai</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Koshikawa</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Yuasa</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Takahashi</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Yatabe</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Murakumo</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>J.M.</given-names>
+</string-name>, <string-name>
+<surname>Nimura</surname>, <given-names>Y.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Takahashi</surname>, <given-names>M.</given-names>
+</string-name> (<year>2004</year>) <article-title>Expression of CD109 in human cancer</article-title>. <source>Oncogene</source>, <volume>23</volume>, <fpage>3716</fpage>&#x02013;<lpage>3720</lpage>.<pub-id pub-id-type="pmid">15116102</pub-id></mixed-citation></ref><ref id="bjh13836-bib-0011"><mixed-citation publication-type="journal" id="bjh13836-cit-0011">
+<string-name>
+<surname>Herold</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Metzeler</surname>, <given-names>K.H.</given-names>
+</string-name>, <string-name>
+<surname>Vosberg</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Hartmann</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Rollig</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Stolzel</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Schneider</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Hubmann</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Zellmeier</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Ksienzyk</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Jurinovic</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Pasalic</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Kakadia</surname>, <given-names>P. M.</given-names>
+</string-name>, <string-name>
+<surname>Dufour</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Graf</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Krebs</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Blum</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Sauerland</surname>, <given-names>M. C.</given-names>
+</string-name>, <string-name>
+<surname>Buchner</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Berdel</surname>, <given-names>W. E.</given-names>
+</string-name>, <string-name>
+<surname>Woermann</surname>, <given-names>B. J.</given-names>
+</string-name>, <string-name>
+<surname>Bornhauser</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Ehninger</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Mansmann</surname>, <given-names>U.</given-names>
+</string-name>, <string-name>
+<surname>Hiddemann</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Bohlander</surname>, <given-names>S. K.</given-names>
+</string-name>, <string-name>
+<surname>Spiekermann</surname>, <given-names>K.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Greif</surname>, <given-names>P. A.</given-names>
+</string-name> (<year>2014</year>) <article-title>Isolated trisomy 13 defines a homogeneous AML subgroup with high frequency of mutations in spliceosome genes and poor prognosis</article-title>. <source>Blood</source>, <volume>124</volume>, <fpage>1304</fpage>&#x02013;<lpage>1311</lpage>.<pub-id pub-id-type="pmid">24923295</pub-id></mixed-citation></ref><ref id="bjh13836-bib-0012"><mixed-citation publication-type="journal" id="bjh13836-cit-0012">
+<string-name>
+<surname>Inoue</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Sugiyama</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Ogawa</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Nakagawa</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Yamagami</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Miwa</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Kita</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Hiraoka</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Masaoka</surname>, <given-names>T.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Nasu</surname>, <given-names>K.</given-names>
+</string-name> (<year>1994</year>) <article-title>WT1 as a new prognostic factor and a new marker for the detection of minimal residual disease in acute leukemia</article-title>. <source>Blood</source>, <volume>84</volume>, <fpage>3071</fpage>&#x02013;<lpage>3079</lpage>.<pub-id pub-id-type="pmid">7949179</pub-id></mixed-citation></ref><ref id="bjh13836-bib-0013"><mixed-citation publication-type="journal" id="bjh13836-cit-0013">
+<string-name>
+<surname>Inoue</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Ogawa</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Yamagami</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Soma</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Tani</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Tatekawa</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Oji</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Tamaki</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Kyo</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Dohy</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Hiraoka</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Masaoka</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Kishimoto</surname>, <given-names>T.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Sugiyama</surname>, <given-names>H.</given-names>
+</string-name> (<year>1996</year>) <article-title>Long&#x02010;term follow&#x02010;up of minimal residual disease in leukemia patients by monitoring WT1 (Wilms tumor gene) expression levels</article-title>. <source>Blood</source>, <volume>88</volume>, <fpage>2267</fpage>&#x02013;<lpage>2278</lpage>.<pub-id pub-id-type="pmid">8822948</pub-id></mixed-citation></ref><ref id="bjh13836-bib-0014"><mixed-citation publication-type="journal" id="bjh13836-cit-0014">
+<string-name>
+<surname>Jacobsohn</surname>, <given-names>D.A.</given-names>
+</string-name>, <string-name>
+<surname>Tse</surname>, <given-names>W.T.</given-names>
+</string-name>, <string-name>
+<surname>Chaleff</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Rademaker</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Duerst</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Olszewski</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Chou</surname>, <given-names>P.M.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Kletzel</surname>, <given-names>M.</given-names>
+</string-name> (<year>2009</year>) <article-title>High WT1 gene expression before haematopoietic stem cell transplant in children with acute myeloid leukaemia predicts poor event&#x02010;free survival</article-title>. <source>British Journal of Haematology</source>, <volume>146</volume>, <fpage>669</fpage>&#x02013;<lpage>674</lpage>.<pub-id pub-id-type="pmid">19650884</pub-id></mixed-citation></ref><ref id="bjh13836-bib-0015"><mixed-citation publication-type="journal" id="bjh13836-cit-0015">
+<string-name>
+<surname>de Jonge</surname>, <given-names>H.J.</given-names>
+</string-name>, <string-name>
+<surname>Valk</surname>, <given-names>P.J.</given-names>
+</string-name>, <string-name>
+<surname>Veeger</surname>, <given-names>N.J.</given-names>
+</string-name>, <string-name>
+<surname>ter Elst</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>den Boer</surname>, <given-names>M.L.</given-names>
+</string-name>, <string-name>
+<surname>Cloos</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>de Haas</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>van den Heuvel&#x02010;Eibrink</surname>, <given-names>M.M.</given-names>
+</string-name>, <string-name>
+<surname>Kaspers</surname>, <given-names>G.J.</given-names>
+</string-name>, <string-name>
+<surname>Zwaan</surname>, <given-names>C.M.</given-names>
+</string-name>, <string-name>
+<surname>Kamps</surname>, <given-names>W. A.</given-names>
+</string-name>, <string-name>
+<surname>Lowenberg</surname>, <given-names>B.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>de Bont</surname>, <given-names>E. S.</given-names>
+</string-name> (<year>2010</year>) <article-title>High VEGFC expression is associated with unique gene expression profiles and predicts adverse prognosis in pediatric and adult acute myeloid leukemia</article-title>. <source>Blood</source>, <volume>116</volume>, <fpage>1747</fpage>&#x02013;<lpage>1754</lpage>.<pub-id pub-id-type="pmid">20522712</pub-id></mixed-citation></ref><ref id="bjh13836-bib-0016"><mixed-citation publication-type="journal" id="bjh13836-cit-0016">
+<string-name>
+<surname>Kim</surname>, <given-names>M.K.</given-names>
+</string-name>, <string-name>
+<surname>McGarry</surname>, <given-names>T.J.</given-names>
+</string-name>, <string-name>
+<surname>P</surname>, <given-names>O.B.</given-names>
+</string-name>, <string-name>
+<surname>Flatow</surname>, <given-names>J.M.</given-names>
+</string-name>, <string-name>
+<surname>Golden</surname>, <given-names>A.A.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Licht</surname>, <given-names>J.D.</given-names>
+</string-name> (<year>2009</year>) <article-title>An integrated genome screen identifies the Wnt signaling pathway as a major target of WT1</article-title>. <source>Proc Natl Acad Sci U S A</source>, <volume>106</volume>, <fpage>11154</fpage>&#x02013;<lpage>11159</lpage>.<pub-id pub-id-type="pmid">19549856</pub-id></mixed-citation></ref><ref id="bjh13836-bib-0017"><mixed-citation publication-type="journal" id="bjh13836-cit-0017">
+<string-name>
+<surname>Kosugi</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Ebihara</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Nakahata</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Saisho</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Asano</surname>, <given-names>S.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Tojo</surname>, <given-names>A.</given-names>
+</string-name> (<year>2005</year>) <article-title>CD34&#x000a0;+&#x000a0;CD7&#x000a0;+&#x000a0; leukemic progenitor cells may be involved in maintenance and clonal evolution of chronic myeloid leukemia</article-title>. <source>Clinical Cancer Research</source>, <volume>11</volume>, <fpage>505</fpage>&#x02013;<lpage>511</lpage>.<pub-id pub-id-type="pmid">15701834</pub-id></mixed-citation></ref><ref id="bjh13836-bib-0018"><mixed-citation publication-type="journal" id="bjh13836-cit-0018">
+<string-name>
+<surname>Li</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Beutel</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Rhein</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Meyer</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Koenecke</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Neumann</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Krauter</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>von Neuhoff</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Heuser</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Diedrich</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Gohring</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Wilkens</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Schlegelberger</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Ganser</surname>, <given-names>A.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Baum</surname>, <given-names>C.</given-names>
+</string-name> (<year>2009</year>) <article-title>High&#x02010;affinity neurotrophin receptors and ligands promote leukemogenesis</article-title>. <source>Blood</source>, <volume>113</volume>, <fpage>2028</fpage>&#x02013;<lpage>2037</lpage>.<pub-id pub-id-type="pmid">19059881</pub-id></mixed-citation></ref><ref id="bjh13836-bib-0019"><mixed-citation publication-type="journal" id="bjh13836-cit-0019">
+<string-name>
+<surname>Li</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Herold</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>He</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Valk</surname>, <given-names>P.J.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Jurinovic</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Mansmann</surname>, <given-names>U.</given-names>
+</string-name>, <string-name>
+<surname>Radmacher</surname>, <given-names>M.D.</given-names>
+</string-name>, <string-name>
+<surname>Maharry</surname>, <given-names>K.S.</given-names>
+</string-name>, <string-name>
+<surname>Sun</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Jiang</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Sauerland</surname>, <given-names>M.C.</given-names>
+</string-name>, <string-name>
+<surname>Buchner</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Hiddemann</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Elkahloun</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Neilly</surname>, <given-names>M.B.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Larson</surname>, <given-names>R.A.</given-names>
+</string-name>, <string-name>
+<surname>Le Beau</surname>, <given-names>M.M.</given-names>
+</string-name>, <string-name>
+<surname>Caligiuri</surname>, <given-names>M.A.</given-names>
+</string-name>, <string-name>
+<surname>Dohner</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Bullinger</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>P.P.</given-names>
+</string-name>, <string-name>
+<surname>Delwel</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Marcucci</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Lowenberg</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Bloomfield</surname>, <given-names>C.D.</given-names>
+</string-name>, <string-name>
+<surname>Rowley</surname>, <given-names>J.D.</given-names>
+</string-name>, <string-name>
+<surname>Bohlander</surname>, <given-names>S.K.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Chen</surname>, <given-names>J.</given-names>
+</string-name> (<year>2013</year>) <article-title>Identification of a 24&#x02010;gene prognostic signature that improves the European LeukemiaNet risk classification of acute myeloid leukemia: an international collaborative study</article-title>. <source>Journal of Clinical Oncology</source>, <volume>31</volume>, <fpage>1172</fpage>&#x02013;<lpage>1181</lpage>.<pub-id pub-id-type="pmid">23382473</pub-id></mixed-citation></ref><ref id="bjh13836-bib-0020"><mixed-citation publication-type="journal" id="bjh13836-cit-0020">
+<string-name>
+<surname>Lin</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Sutherland</surname>, <given-names>D.R.</given-names>
+</string-name>, <string-name>
+<surname>Horsfall</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Totty</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Yeo</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Nayar</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>, <given-names>X.F.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Schuh</surname>, <given-names>A.C.</given-names>
+</string-name> (<year>2002</year>) <article-title>Cell surface antigen CD109 is a novel member of the alpha(2) macroglobulin/C3, C4, C5 family of thioester&#x02010;containing proteins</article-title>. <source>Blood</source>, <volume>99</volume>, <fpage>1683</fpage>&#x02013;<lpage>1691</lpage>.<pub-id pub-id-type="pmid">11861284</pub-id></mixed-citation></ref><ref id="bjh13836-bib-0021"><mixed-citation publication-type="journal" id="bjh13836-cit-0021">
+<string-name>
+<surname>Marcucci</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Yan</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Maharry</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Frankhouser</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Nicolet</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Metzeler</surname>, <given-names>K.H.</given-names>
+</string-name>, <string-name>
+<surname>Kohlschmidt</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Mrozek</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>, <given-names>Y.Z.</given-names>
+</string-name>, <string-name>
+<surname>Bucci</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Curfman</surname>, <given-names>J.P.</given-names>
+</string-name>, <string-name>
+<surname>Whitman</surname>, <given-names>S.P.</given-names>
+</string-name>, <string-name>
+<surname>Eisfeld</surname>, <given-names>A.K.</given-names>
+</string-name>, <string-name>
+<surname>Mendler</surname>, <given-names>J.H.</given-names>
+</string-name>, <string-name>
+<surname>Schwind</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Becker</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Bar</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Carroll</surname>, <given-names>A.J.</given-names>
+</string-name>, <string-name>
+<surname>Baer</surname>, <given-names>M.R.</given-names>
+</string-name>, <string-name>
+<surname>Wetzler</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Carter</surname>, <given-names>T.H.</given-names>
+</string-name>, <string-name>
+<surname>Powell</surname>, <given-names>B.L.</given-names>
+</string-name>, <string-name>
+<surname>Kolitz</surname>, <given-names>J.E.</given-names>
+</string-name>, <string-name>
+<surname>Byrd</surname>, <given-names>J.C.</given-names>
+</string-name>, <string-name>
+<surname>Plass</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Garzon</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Caligiuri</surname>, <given-names>M.A.</given-names>
+</string-name>, <string-name>
+<surname>Stone</surname>, <given-names>R.M.</given-names>
+</string-name>, <string-name>
+<surname>Volinia</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Bundschuh</surname>, <given-names>R.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Bloomfield</surname>, <given-names>C.D.</given-names>
+</string-name> (<year>2014</year>) <article-title>Epigenetics meets genetics in acute myeloid leukemia: clinical impact of a novel seven&#x02010;gene score</article-title>. <source>Journal of Clinical Oncology</source>, <volume>32</volume>, <fpage>548</fpage>&#x02013;<lpage>556</lpage>.<pub-id pub-id-type="pmid">24378410</pub-id></mixed-citation></ref><ref id="bjh13836-bib-0022"><mixed-citation publication-type="journal" id="bjh13836-cit-0022">
+<string-name>
+<surname>Metzeler</surname>, <given-names>K.H.</given-names>
+</string-name>, <string-name>
+<surname>Hummel</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Bloomfield</surname>, <given-names>C.D.</given-names>
+</string-name>, <string-name>
+<surname>Spiekermann</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Braess</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Sauerland</surname>, <given-names>M.C.</given-names>
+</string-name>, <string-name>
+<surname>Heinecke</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Radmacher</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Marcucci</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Whitman</surname>, <given-names>S.P.</given-names>
+</string-name>, <string-name>
+<surname>Maharry</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Paschka</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Larson</surname>, <given-names>R.A.</given-names>
+</string-name>, <string-name>
+<surname>Berdel</surname>, <given-names>W.E.</given-names>
+</string-name>, <string-name>
+<surname>Buchner</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Wormann</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Mansmann</surname>, <given-names>U.</given-names>
+</string-name>, <string-name>
+<surname>Hiddemann</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Bohlander</surname>, <given-names>S.K.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Buske</surname>, <given-names>C.</given-names>
+</string-name> (<year>2008</year>) <article-title>An 86&#x02010;probe&#x02010;set gene&#x02010;expression signature predicts survival in cytogenetically normal acute myeloid leukemia</article-title>. <source>Blood</source>, <volume>112</volume>, <fpage>4193</fpage>&#x02013;<lpage>4201</lpage>.<pub-id pub-id-type="pmid">18716133</pub-id></mixed-citation></ref><ref id="bjh13836-bib-0023"><mixed-citation publication-type="journal" id="bjh13836-cit-0023">
+<string-name>
+<surname>Meyer</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Rhein</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Schiedlmeier</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Kustikova</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Rudolph</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Kamino</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Neumann</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Wahlers</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Fehse</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Reuther</surname>, <given-names>G.W.</given-names>
+</string-name>, <string-name>
+<surname>Schlegelberger</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Ganser</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Baum</surname>, <given-names>C.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Li</surname>, <given-names>Z.</given-names>
+</string-name> (<year>2007</year>) <article-title>Remarkable leukemogenic potency and quality of a constitutively active neurotrophin receptor, deltaTrkA</article-title>. <source>Leukemia</source>, <volume>21</volume>, <fpage>2171</fpage>&#x02013;<lpage>2180</lpage>.<pub-id pub-id-type="pmid">17673903</pub-id></mixed-citation></ref><ref id="bjh13836-bib-0024"><mixed-citation publication-type="journal" id="bjh13836-cit-0024">
+<string-name>
+<surname>Neben</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Schnittger</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Brors</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Tews</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Kokocinski</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Haferlach</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Muller</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Hahn</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Hiddemann</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Eils</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Lichter</surname>, <given-names>P.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Schoch</surname>, <given-names>C.</given-names>
+</string-name> (<year>2005</year>) <article-title>Distinct gene expression patterns associated with FLT3&#x02010; and NRAS&#x02010;activating mutations in acute myeloid leukemia with normal karyotype</article-title>. <source>Oncogene</source>, <volume>24</volume>, <fpage>1580</fpage>&#x02013;<lpage>1588</lpage>.<pub-id pub-id-type="pmid">15674343</pub-id></mixed-citation></ref><ref id="bjh13836-bib-0025"><mixed-citation publication-type="journal" id="bjh13836-cit-0025">
+<string-name>
+<surname>Ostergaard</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Olesen</surname>, <given-names>L.H.</given-names>
+</string-name>, <string-name>
+<surname>Hasle</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Kjeldsen</surname>, <given-names>E.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Hokland</surname>, <given-names>P.</given-names>
+</string-name> (<year>2004</year>) <article-title>WT1 gene expression: an excellent tool for monitoring minimal residual disease in 70% of acute myeloid leukaemia patients &#x02010; results from a single&#x02010;centre study</article-title>. <source>British Journal of Haematology</source>, <volume>125</volume>, <fpage>590</fpage>&#x02013;<lpage>600</lpage>.<pub-id pub-id-type="pmid">15147374</pub-id></mixed-citation></ref><ref id="bjh13836-bib-0026"><mixed-citation publication-type="journal" id="bjh13836-cit-0026">
+<string-name>
+<surname>Rapaport</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Khanin</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Liang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Pirun</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Krek</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Zumbo</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Mason</surname>, <given-names>C.E.</given-names>
+</string-name>, <string-name>
+<surname>Socci</surname>, <given-names>N.D.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Betel</surname>, <given-names>D.</given-names>
+</string-name> (<year>2013</year>) <article-title>Comprehensive evaluation of differential gene expression analysis methods for RNA&#x02010;seq data</article-title>. <source>Genome Biology</source>, <volume>14</volume>, <fpage>R95</fpage>.<pub-id pub-id-type="pmid">24020486</pub-id></mixed-citation></ref><ref id="bjh13836-bib-0027"><mixed-citation publication-type="journal" id="bjh13836-cit-0027">
+<string-name>
+<surname>Rauscher</surname>, <given-names>F.J.</given-names>
+<suffix>3rd</suffix>
+</string-name>, <string-name>
+<surname>Morris</surname>, <given-names>J.F.</given-names>
+</string-name>, <string-name>
+<surname>Tournay</surname>, <given-names>O.E.</given-names>
+</string-name>, <string-name>
+<surname>Cook</surname>, <given-names>D.M.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Curran</surname>, <given-names>T.</given-names>
+</string-name> (<year>1990</year>) <article-title>Binding of the Wilms' tumor locus zinc finger protein to the EGR&#x02010;1 consensus sequence</article-title>. <source>Science</source>, <volume>250</volume>, <fpage>1259</fpage>&#x02013;<lpage>1262</lpage>.<pub-id pub-id-type="pmid">2244209</pub-id></mixed-citation></ref><ref id="bjh13836-bib-0028"><mixed-citation publication-type="journal" id="bjh13836-cit-0028">
+<string-name>
+<surname>Reich</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Liefeld</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Gould</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Lerner</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Tamayo</surname>, <given-names>P.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Mesirov</surname>, <given-names>J.P.</given-names>
+</string-name> (<year>2006</year>) <article-title>GenePattern 2&#x000b7;0</article-title>. <source>Nature Genetics</source>, <volume>38</volume>, <fpage>500</fpage>&#x02013;<lpage>501</lpage>.<pub-id pub-id-type="pmid">16642009</pub-id></mixed-citation></ref><ref id="bjh13836-bib-0029"><mixed-citation publication-type="journal" id="bjh13836-cit-0029">
+<string-name>
+<surname>Sutherland</surname>, <given-names>D.R.</given-names>
+</string-name>, <string-name>
+<surname>Yeo</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Ryan</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Mills</surname>, <given-names>G.B.</given-names>
+</string-name>, <string-name>
+<surname>Bailey</surname>, <given-names>D.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Baker</surname>, <given-names>M.A.</given-names>
+</string-name> (<year>1991</year>) <article-title>Identification of a cell&#x02010;surface antigen associated with activated T lymphoblasts and activated platelets</article-title>. <source>Blood</source>, <volume>77</volume>, <fpage>84</fpage>&#x02013;<lpage>93</lpage>.<pub-id pub-id-type="pmid">1984805</pub-id></mixed-citation></ref><ref id="bjh13836-bib-0030"><mixed-citation publication-type="book" id="bjh13836-cit-0030">
+<string-name>
+<surname>Swerdlow</surname>, <given-names>S.H.</given-names>
+</string-name>, <string-name>
+<surname>Campo</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Harris</surname>, <given-names>N.L.</given-names>
+</string-name>, <string-name>
+<surname>Jaffe</surname>, <given-names>E.S.</given-names>
+</string-name>, <string-name>
+<surname>Pileri</surname>, <given-names>S.A.</given-names>
+</string-name>, <string-name>
+<surname>Stein</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Thiele</surname>, <given-names>J.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Vardiman</surname>, <given-names>J.W.</given-names>
+</string-name> (<year>2008</year>) <source>WHO Classification of Tumours of Haematopoietic and Lymphoid Tissues</source>, <edition>4th edn</edition>
+<publisher-name>International Agency for Research on Cancer Press</publisher-name>, <publisher-loc>Lyon, France</publisher-loc>.</mixed-citation></ref><ref id="bjh13836-bib-0031"><mixed-citation publication-type="journal" id="bjh13836-cit-0031">
+<string-name>
+<surname>Tagliafico</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Tenedini</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Manfredini</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Grande</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Ferrari</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Roncaglia</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Bicciato</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Zini</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Salati</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Bianchi</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Gemelli</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Montanari</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Vignudelli</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Zanocco&#x02010;Marani</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Parenti</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Paolucci</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Martinelli</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Piccaluga</surname>, <given-names>P.P.</given-names>
+</string-name>, <string-name>
+<surname>Baccarani</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Specchia</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Torelli</surname>, <given-names>U.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Ferrari</surname>, <given-names>S.</given-names>
+</string-name> (<year>2006</year>) <article-title>Identification of a molecular signature predictive of sensitivity to differentiation induction in acute myeloid leukemia</article-title>. <source>Leukemia</source>, <volume>20</volume>, <fpage>1751</fpage>&#x02013;<lpage>1758</lpage>.<pub-id pub-id-type="pmid">16932344</pub-id></mixed-citation></ref><ref id="bjh13836-bib-0032"><mixed-citation publication-type="journal" id="bjh13836-cit-0032">
+<string-name>
+<surname>Tan</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Cang</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Ma</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Petrillo</surname>, <given-names>R.L.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Liu</surname>, <given-names>D.</given-names>
+</string-name> (<year>2010</year>) <article-title>Novel histone deacetylase inhibitors in clinical trials as anti&#x02010;cancer agents</article-title>. <source>Journal of Hematology &#x00026; Oncology</source>, <volume>3</volume>, <fpage>5</fpage>.<pub-id pub-id-type="pmid">20132536</pub-id></mixed-citation></ref><ref id="bjh13836-bib-0033"><mixed-citation publication-type="journal" id="bjh13836-cit-0033">
+<collab collab-type="authors">The Cancer Genome Atlas Research Network</collab>
+(<year>2013</year>). <article-title>Genomic and epigenomic landscapes of adult <italic>de novo</italic> acute myeloid leukemia</article-title>. <source>New England Journal of Medicine</source>
+<volume>368</volume>, <fpage>2059</fpage>&#x02013;<lpage>2074</lpage>.<pub-id pub-id-type="pmid">23634996</pub-id></mixed-citation></ref><ref id="bjh13836-bib-0034"><mixed-citation publication-type="journal" id="bjh13836-cit-0034">
+<string-name>
+<surname>Trka</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Kalinova</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Hrusak</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Zuna</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Krejci</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Madzo</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Sedlacek</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Vavra</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Michalova</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Jarosova</surname>, <given-names>M.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Stary</surname>, <given-names>J.</given-names>
+</string-name> (<year>2002</year>) <article-title>Real&#x02010;time quantitative PCR detection of WT1 gene expression in children with AML: prognostic significance, correlation with disease status and residual disease detection by flow cytometry</article-title>. <source>Leukemia</source>, <volume>16</volume>, <fpage>1381</fpage>&#x02013;<lpage>1389</lpage>.<pub-id pub-id-type="pmid">12094264</pub-id></mixed-citation></ref><ref id="bjh13836-bib-0035"><mixed-citation publication-type="journal" id="bjh13836-cit-0035">
+<string-name>
+<surname>Valk</surname>, <given-names>P.J.</given-names>
+</string-name>, <string-name>
+<surname>Verhaak</surname>, <given-names>R.G.</given-names>
+</string-name>, <string-name>
+<surname>Beijen</surname>, <given-names>M.A.</given-names>
+</string-name>, <string-name>
+<surname>Erpelinck</surname>, <given-names>C.A.</given-names>
+</string-name>, <string-name>
+<surname>Barjesteh van Waalwijk van Doorn&#x02010;Khosrovani</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Boer</surname>, <given-names>J.M.</given-names>
+</string-name>, <string-name>
+<surname>Beverloo</surname>, <given-names>H.B.</given-names>
+</string-name>, <string-name>
+<surname>Moorhouse</surname>, <given-names>M.J.</given-names>
+</string-name>, <string-name>
+<surname>van der Spek</surname>, <given-names>P.J.</given-names>
+</string-name>, <string-name>
+<surname>Lowenberg</surname>, <given-names>B.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Delwel</surname>, <given-names>R.</given-names>
+</string-name> (<year>2004</year>) <article-title>Prognostically useful gene&#x02010;expression profiles in acute myeloid leukemia</article-title>. <source>New England Journal of Medicine</source>, <volume>350</volume>, <fpage>1617</fpage>&#x02013;<lpage>1628</lpage>.<pub-id pub-id-type="pmid">15084694</pub-id></mixed-citation></ref><ref id="bjh13836-bib-0036"><mixed-citation publication-type="journal" id="bjh13836-cit-0036">
+<string-name>
+<surname>Verhaak</surname>, <given-names>R.G.</given-names>
+</string-name>, <string-name>
+<surname>Goudswaard</surname>, <given-names>C.S.</given-names>
+</string-name>, <string-name>
+<surname>van Putten</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Bijl</surname>, <given-names>M.A.</given-names>
+</string-name>, <string-name>
+<surname>Sanders</surname>, <given-names>M.A.</given-names>
+</string-name>, <string-name>
+<surname>Hugens</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Uitterlinden</surname>, <given-names>A.G.</given-names>
+</string-name>, <string-name>
+<surname>Erpelinck</surname>, <given-names>C.A.</given-names>
+</string-name>, <string-name>
+<surname>Delwel</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Lowenberg</surname>, <given-names>B.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Valk</surname>, <given-names>P.J.</given-names>
+</string-name> (<year>2005</year>) <article-title>Mutations in nucleophosmin (NPM1) in acute myeloid leukemia (AML): association with other gene abnormalities and previously established gene expression signatures and their favorable prognostic significance</article-title>. <source>Blood</source>, <volume>106</volume>, <fpage>3747</fpage>&#x02013;<lpage>3754</lpage>.<pub-id pub-id-type="pmid">16109776</pub-id></mixed-citation></ref><ref id="bjh13836-bib-0037"><mixed-citation publication-type="journal" id="bjh13836-cit-0037">
+<string-name>
+<surname>Verhaak</surname>, <given-names>R.G.</given-names>
+</string-name>, <string-name>
+<surname>Wouters</surname>, <given-names>B.J.</given-names>
+</string-name>, <string-name>
+<surname>Erpelinck</surname>, <given-names>C.A.</given-names>
+</string-name>, <string-name>
+<surname>Abbas</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Beverloo</surname>, <given-names>H.B.</given-names>
+</string-name>, <string-name>
+<surname>Lugthart</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Lowenberg</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Delwel</surname>, <given-names>R.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Valk</surname>, <given-names>P.J.</given-names>
+</string-name> (<year>2009</year>) <article-title>Prediction of molecular subtypes in acute myeloid leukemia based on gene expression profiling</article-title>. <source>Haematologica</source>, <volume>94</volume>, <fpage>131</fpage>&#x02013;<lpage>134</lpage>.<pub-id pub-id-type="pmid">18838472</pub-id></mixed-citation></ref><ref id="bjh13836-bib-0038"><mixed-citation publication-type="journal" id="bjh13836-cit-0038">
+<string-name>
+<surname>Vidovic</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Ullmark</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Rosberg</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Lennartsson</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Olofsson</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Nilsson</surname>, <given-names>B.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Gullberg</surname>, <given-names>U.</given-names>
+</string-name> (<year>2013</year>) <article-title>Leukemia associated mutant Wilms' tumor gene 1 protein promotes expansion of human hematopoietic progenitor cells</article-title>. <source>Leukemia Research</source>, <volume>37</volume>, <fpage>1341</fpage>&#x02013;<lpage>1349</lpage>.<pub-id pub-id-type="pmid">23871158</pub-id></mixed-citation></ref><ref id="bjh13836-bib-0039"><mixed-citation publication-type="journal" id="bjh13836-cit-0039">
+<string-name>
+<surname>Virappane</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Gale</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Hills</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Kakkas</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Summers</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Stevens</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Allen</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Green</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Quentmeier</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Drexler</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Burnett</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Linch</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Bonnet</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Lister</surname>, <given-names>T.A.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Fitzgibbon</surname>, <given-names>J.</given-names>
+</string-name> (<year>2008</year>) <article-title>Mutation of the Wilms' tumor 1 gene is a poor prognostic factor associated with chemotherapy resistance in normal karyotype acute myeloid leukemia: the United Kingdom Medical Research Council Adult Leukaemia Working Party</article-title>. <source>Journal of Clinical Oncology</source>, <volume>26</volume>, <fpage>5429</fpage>&#x02013;<lpage>5435</lpage>.<pub-id pub-id-type="pmid">18591546</pub-id></mixed-citation></ref><ref id="bjh13836-bib-0040"><mixed-citation publication-type="journal" id="bjh13836-cit-0040">
+<string-name>
+<surname>Wilson</surname>, <given-names>C.S.</given-names>
+</string-name>, <string-name>
+<surname>Davidson</surname>, <given-names>G.S.</given-names>
+</string-name>, <string-name>
+<surname>Martin</surname>, <given-names>S.B.</given-names>
+</string-name>, <string-name>
+<surname>Andries</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Potter</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Harvey</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Ar</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Kopecky</surname>, <given-names>K.J.</given-names>
+</string-name>, <string-name>
+<surname>Ankerst</surname>, <given-names>D.P.</given-names>
+</string-name>, <string-name>
+<surname>Gundacker</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Slovak</surname>, <given-names>M.L.</given-names>
+</string-name>, <string-name>
+<surname>Mosquera&#x02010;Caro</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>I.M.</given-names>
+</string-name>, <string-name>
+<surname>Stirewalt</surname>, <given-names>D.L.</given-names>
+</string-name>, <string-name>
+<surname>Murphy</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Schultz</surname>, <given-names>F.A.</given-names>
+</string-name>, <string-name>
+<surname>Kang</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Radich</surname>, <given-names>J.P.</given-names>
+</string-name>, <string-name>
+<surname>Appelbaum</surname>, <given-names>F.R.</given-names>
+</string-name>, <string-name>
+<surname>Atlas</surname>, <given-names>S.R.</given-names>
+</string-name>, <string-name>
+<surname>Godwin</surname>, <given-names>J.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Willman</surname>, <given-names>C.L.</given-names>
+</string-name> (<year>2006</year>) <article-title>Gene expression profiling of adult acute myeloid leukemia identifies novel biologic clusters for risk classification and outcome prediction</article-title>. <source>Blood</source>, <volume>108</volume>, <fpage>685</fpage>&#x02013;<lpage>696</lpage>.<pub-id pub-id-type="pmid">16597596</pub-id></mixed-citation></ref><ref id="bjh13836-bib-0041"><mixed-citation publication-type="journal" id="bjh13836-cit-0041">
+<string-name>
+<surname>Wouters</surname>, <given-names>B.J.</given-names>
+</string-name>, <string-name>
+<surname>Lowenberg</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Erpelinck&#x02010;Verschueren</surname>, <given-names>C.A.</given-names>
+</string-name>, <string-name>
+<surname>van Putten</surname>, <given-names>W.L.</given-names>
+</string-name>, <string-name>
+<surname>Valk</surname>, <given-names>P.J.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Delwel</surname>, <given-names>R.</given-names>
+</string-name> (<year>2009</year>) <article-title>Double CEBPA mutations, but not single CEBPA mutations, define a subgroup of acute myeloid leukemia with a distinctive gene expression profile that is uniquely associated with a favorable outcome</article-title>. <source>Blood</source>, <volume>113</volume>, <fpage>3088</fpage>&#x02013;<lpage>3091</lpage>.<pub-id pub-id-type="pmid">19171880</pub-id></mixed-citation></ref><ref id="bjh13836-bib-0042"><mixed-citation publication-type="journal" id="bjh13836-cit-0042">
+<string-name>
+<surname>Zhao</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Fung&#x02010;Leung</surname>, <given-names>W.P.</given-names>
+</string-name>, <string-name>
+<surname>Bittner</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Ngo</surname>, <given-names>K.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Liu</surname>, <given-names>X.</given-names>
+</string-name> (<year>2014</year>) <article-title>Comparison of RNA&#x02010;Seq and microarray in transcriptome profiling of activated T cells</article-title>. <source>PLoS ONE</source>, <volume>9</volume>, <fpage>e78644</fpage>.<pub-id pub-id-type="pmid">24454679</pub-id></mixed-citation></ref></ref-list></back></article>

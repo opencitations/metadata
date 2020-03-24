@@ -1,0 +1,867 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?properties manuscript?><front><journal-meta><journal-id journal-id-type="nlm-journal-id">101740247</journal-id><journal-id journal-id-type="pubmed-jr-id">48338</journal-id><journal-id journal-id-type="nlm-ta">AAS Open Res</journal-id><journal-id journal-id-type="iso-abbrev">AAS Open Res</journal-id><journal-title-group><journal-title>AAS open research</journal-title></journal-title-group><issn pub-type="epub">2515-9321</issn></journal-meta><article-meta><article-id pub-id-type="pmid">30714022</article-id><article-id pub-id-type="pmc">6358002</article-id><article-id pub-id-type="doi">10.12688/aasopenres.12832.1</article-id><article-id pub-id-type="manuscript">EMS80337</article-id><article-categories><subj-group subj-group-type="heading"><subject>Article</subject></subj-group></article-categories><title-group><article-title>The Collaborative African Genomics Network (CAfGEN): Applying Genomic
+technologies to probe host factors important to the progression of HIV and
+HIV-tuberculosis infection in sub-Saharan Africa</article-title><fn-group content-type="pub-status"><fn id="FN1"><p id="P1">[version 1; referees: 2 approved]</p></fn></fn-group></title-group><contrib-group><contrib contrib-type="author" corresp="no"><name><surname>Mboowa</surname><given-names>Gerald</given-names></name><role content-type="http://credit.casrai.org/">Data Curation</role><role content-type="http://credit.casrai.org/">Formal Analysis</role><role content-type="http://credit.casrai.org/">Writing &#x02013; Original Draft
+Preparation</role><role content-type="http://credit.casrai.org/">Writing &#x02013; Review &#x00026;
+Editing</role><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0001-8445-9414</contrib-id><xref ref-type="aff" rid="A1">1</xref><xref ref-type="aff" rid="A2">2</xref></contrib><contrib contrib-type="author" corresp="no"><name><surname>Mwesigwa</surname><given-names>Savannah</given-names></name><role content-type="http://credit.casrai.org/">Data Curation</role><role content-type="http://credit.casrai.org/">Formal Analysis</role><role content-type="http://credit.casrai.org/">Methodology</role><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0001-5466-2315</contrib-id><xref ref-type="aff" rid="A1">1</xref><xref ref-type="aff" rid="A2">2</xref></contrib><contrib contrib-type="author" corresp="no"><name><surname>Katagirya</surname><given-names>Eric</given-names></name><role content-type="http://credit.casrai.org/">Data Curation</role><role content-type="http://credit.casrai.org/">Formal Analysis</role><role content-type="http://credit.casrai.org/">Methodology</role><xref ref-type="aff" rid="A1">1</xref><xref ref-type="aff" rid="A2">2</xref></contrib><contrib contrib-type="author" corresp="no"><name><surname>Retshabile</surname><given-names>Gaone</given-names></name><role content-type="http://credit.casrai.org/">Data Curation</role><role content-type="http://credit.casrai.org/">Formal Analysis</role><role content-type="http://credit.casrai.org/">Methodology</role><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0003-1721-0963</contrib-id><xref ref-type="aff" rid="A3">3</xref></contrib><contrib contrib-type="author" corresp="no"><name><surname>Mlotshwa</surname><given-names>Busisiwe C.</given-names></name><role content-type="http://credit.casrai.org/">Data Curation</role><role content-type="http://credit.casrai.org/">Formal Analysis</role><role content-type="http://credit.casrai.org/">Methodology</role><xref ref-type="aff" rid="A3">3</xref></contrib><contrib contrib-type="author" corresp="no"><name><surname>Williams</surname><given-names>Lesedi</given-names></name><role content-type="http://credit.casrai.org/">Data Curation</role><role content-type="http://credit.casrai.org/">Formal Analysis</role><role content-type="http://credit.casrai.org/">Methodology</role><xref ref-type="aff" rid="A3">3</xref></contrib><contrib contrib-type="author" corresp="no"><name><surname>Kekitiinwa</surname><given-names>Adeodata</given-names></name><role content-type="http://credit.casrai.org/">Formal Analysis</role><role content-type="http://credit.casrai.org/">Funding Acquisition</role><role content-type="http://credit.casrai.org/">Investigation</role><role content-type="http://credit.casrai.org/">Project Administration</role><xref ref-type="aff" rid="A4">4</xref></contrib><contrib contrib-type="author" corresp="no"><name><surname>Kateete</surname><given-names>David</given-names></name><role content-type="http://credit.casrai.org/">Methodology</role><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0001-8075-3069</contrib-id><xref ref-type="aff" rid="A1">1</xref><xref ref-type="aff" rid="A2">2</xref></contrib><contrib contrib-type="author" corresp="no"><name><surname>Wampande</surname><given-names>Eddie</given-names></name><role content-type="http://credit.casrai.org/">Methodology</role><xref ref-type="aff" rid="A1">1</xref><xref ref-type="aff" rid="A2">2</xref><xref ref-type="aff" rid="A5">5</xref></contrib><contrib contrib-type="author" corresp="no"><name><surname>Wayengera</surname><given-names>Misaki</given-names></name><role content-type="http://credit.casrai.org/">Methodology</role><xref ref-type="aff" rid="A1">1</xref><xref ref-type="aff" rid="A2">2</xref></contrib><contrib contrib-type="author" corresp="no"><name><surname>Kintu</surname><given-names>Betty Nsangi</given-names></name><role content-type="http://credit.casrai.org/">Investigation</role><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0001-7602-6483</contrib-id><xref ref-type="aff" rid="A4">4</xref></contrib><contrib contrib-type="author" corresp="no"><name><surname>Kisitu</surname><given-names>Grace P.</given-names></name><role content-type="http://credit.casrai.org/">Investigation</role><xref ref-type="aff" rid="A4">4</xref></contrib><contrib contrib-type="author" corresp="no"><name><surname>Kyobe</surname><given-names>Samuel</given-names></name><role content-type="http://credit.casrai.org/">Methodology</role><role content-type="http://credit.casrai.org/">Project Administration</role><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0003-0444-5608</contrib-id><xref ref-type="aff" rid="A2">2</xref></contrib><contrib contrib-type="author" corresp="no"><name><surname>Brown</surname><given-names>Chester W.</given-names></name><role content-type="http://credit.casrai.org/">Conceptualization</role><role content-type="http://credit.casrai.org/">Methodology</role><xref ref-type="aff" rid="A6">6</xref><xref ref-type="aff" rid="A7">7</xref><xref ref-type="aff" rid="A8">8</xref></contrib><contrib contrib-type="author" corresp="no"><name><surname>Hanchard</surname><given-names>Neil A.</given-names></name><role content-type="http://credit.casrai.org/">Conceptualization</role><role content-type="http://credit.casrai.org/">Funding Acquisition</role><role content-type="http://credit.casrai.org/">Methodology</role><role content-type="http://credit.casrai.org/">Project Administration</role><role content-type="http://credit.casrai.org/">Writing &#x02013; Original Draft
+Preparation</role><role content-type="http://credit.casrai.org/">Writing &#x02013; Review &#x00026;
+Editing</role><xref ref-type="aff" rid="A9">9</xref><xref ref-type="aff" rid="A10">10</xref><xref ref-type="aff" rid="A11">11</xref></contrib><contrib contrib-type="author" corresp="no"><name><surname>Mardon</surname><given-names>Graeme</given-names></name><role content-type="http://credit.casrai.org/">Conceptualization</role><role content-type="http://credit.casrai.org/">Funding Acquisition</role><role content-type="http://credit.casrai.org/">Methodology</role><role content-type="http://credit.casrai.org/">Project Administration</role><role content-type="http://credit.casrai.org/">Writing &#x02013; Original Draft
+Preparation</role><role content-type="http://credit.casrai.org/">Writing &#x02013; Review &#x00026;
+Editing</role><xref ref-type="aff" rid="A9">9</xref><xref ref-type="aff" rid="A12">12</xref></contrib><contrib contrib-type="author" corresp="no"><name><surname>Joloba</surname><given-names>Moses</given-names></name><role content-type="http://credit.casrai.org/">Conceptualization</role><role content-type="http://credit.casrai.org/">Funding Acquisition</role><role content-type="http://credit.casrai.org/">Investigation</role><role content-type="http://credit.casrai.org/">Methodology</role><role content-type="http://credit.casrai.org/">Supervision</role><xref ref-type="aff" rid="A1">1</xref><xref ref-type="aff" rid="A2">2</xref></contrib><contrib contrib-type="author" corresp="no"><name><surname>Anabwani</surname><given-names>Gabriel</given-names></name><role content-type="http://credit.casrai.org/">Conceptualization</role><role content-type="http://credit.casrai.org/">Funding Acquisition</role><role content-type="http://credit.casrai.org/">Investigation</role><role content-type="http://credit.casrai.org/">Project Administration</role><xref ref-type="aff" rid="A13">13</xref><xref ref-type="aff" rid="A14">14</xref></contrib><contrib contrib-type="author" corresp="no"><name><surname>Pettitt</surname><given-names>Ed</given-names></name><role content-type="http://credit.casrai.org/">Methodology</role><role content-type="http://credit.casrai.org/">Project Administration</role><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-2502-1444</contrib-id><xref ref-type="aff" rid="A13">13</xref></contrib><contrib contrib-type="author" corresp="no"><name><surname>Tsimako-Johnstone</surname><given-names>Masego</given-names></name><role content-type="http://credit.casrai.org/">Conceptualization</role><xref ref-type="aff" rid="A3">3</xref></contrib><contrib contrib-type="author" corresp="no"><name><surname>Kasvosve</surname><given-names>Ishmael</given-names></name><role content-type="http://credit.casrai.org/">Conceptualization</role><xref ref-type="aff" rid="A15">15</xref></contrib><contrib contrib-type="author" corresp="no"><name><surname>Maplanka</surname><given-names>Koketso</given-names></name><role content-type="http://credit.casrai.org/">Investigation</role><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0001-5439-7080</contrib-id><xref ref-type="aff" rid="A3">3</xref></contrib><contrib contrib-type="author" corresp="no"><name><surname>Mpoloka</surname><given-names>Sununguko W.</given-names></name><role content-type="http://credit.casrai.org/">Conceptualization</role><role content-type="http://credit.casrai.org/">Writing &#x02013; Original Draft
+Preparation</role><role content-type="http://credit.casrai.org/">Writing &#x02013; Review &#x00026;
+Editing</role><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0003-0147-1819</contrib-id><xref ref-type="aff" rid="A3">3</xref></contrib><contrib contrib-type="author" corresp="no"><name><surname>Hlatshwayo</surname><given-names>Makhosazana</given-names></name><role content-type="http://credit.casrai.org/">Investigation</role><role content-type="http://credit.casrai.org/">Project Administration</role><xref ref-type="aff" rid="A14">14</xref></contrib><contrib contrib-type="author" corresp="yes"><name><surname>Matshaba</surname><given-names>Mogomotsi</given-names></name><role content-type="http://credit.casrai.org/">Conceptualization</role><role content-type="http://credit.casrai.org/">Funding Acquisition</role><role content-type="http://credit.casrai.org/">Project Administration</role><role content-type="http://credit.casrai.org/">Supervision</role><role content-type="http://credit.casrai.org/">Writing &#x02013; Original Draft
+Preparation</role><role content-type="http://credit.casrai.org/">Writing &#x02013; Review &#x00026;
+Editing</role><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-6441-1218</contrib-id><xref rid="C1" ref-type="corresp">a</xref><xref ref-type="aff" rid="A13">13</xref><xref ref-type="aff" rid="A16">16</xref></contrib><aff id="A1">
+<label>1</label>Department of Immunology and Molecular Biology, College of
+Health Sciences, Makerere University, Kampala, Uganda</aff><aff id="A2">
+<label>2</label>Department of Medical Microbiology, College of Health Sciences,
+Makerere University, Kampala, Uganda</aff><aff id="A3">
+<label>3</label>Department of Biological Sciences, Faculty of Sciences,
+University of Botswana, Gaborone, Botswana</aff><aff id="A4">
+<label>4</label>Baylor College of Medicine Children's Foundation-Uganda,
+Kampala, Uganda</aff><aff id="A5">
+<label>5</label>Department of Bio-molecular Resources, College of Veterinary
+Medicine, Makerere University, Kampala, Uganda</aff><aff id="A6">
+<label>6</label>Genetics Division, Department of Pediatrics , University of
+Tennessee Health Science Center, Memphis, Memphis, TN, USA</aff><aff id="A7">
+<label>7</label>Le Bonheur Children's Hospital, Memphis, Memphis, TN, USA</aff><aff id="A8">
+<label>8</label>St. Jude Children's Research Hospital, Memphis, TN, USA</aff><aff id="A9">
+<label>9</label>Department of Molecular and Human Genetics, Baylor College of
+Medicine, Houston, TX, USA</aff><aff id="A10">
+<label>10</label>Department of Pediatrics, Baylor College of Medicine, Houston,
+TX, USA</aff><aff id="A11">
+<label>11</label>ARS/USDA/Children's Nutrition Research Center, Department of
+Pediatrics, Baylor College of Medicine , Houston, TX, USA</aff><aff id="A12">
+<label>12</label>Department of Pathology and Immunology, Baylor College of
+Medicine, Houston, TX, USA</aff><aff id="A13">
+<label>13</label>Botswana-Baylor Children's Clinical Centre of Excellence,
+Gaborone, Botswana</aff><aff id="A14">
+<label>14</label>Baylor College of Medicine Children's Foundation-Swaziland,
+Mbabane, Swaziland</aff><aff id="A15">
+<label>15</label>Department of Medical Laboratory Sciences, University of
+Botswana, Gaborone, Botswana</aff><aff id="A16">
+<label>16</label>Pediatric Retrovirology, Department of Pediatrics, Baylor
+College of Medicine, Houston, TX, USA</aff></contrib-group><author-notes><corresp id="C1"><label>a</label><email xlink:href="mailto:mmatshaba@baylorbotswana.org.bw">mmatshaba@baylorbotswana.org.bw</email></corresp><fn fn-type="COI-statement" id="FN2"><p id="P2">
+<bold>Competing interests: </bold>Outside the submitted work, Misaki
+Wayengera works as a chief scientific officer at Restrizymes Biotherapeutics
+(U) LTD and Graeme Mardon is a 50% owner and President of GenetiVision
+Corporation. There are no competing financial interests. The other authors
+declare no conflict of interest. </p></fn></author-notes><pub-date pub-type="epub"><day>18</day><month>4</month><year>2018</year></pub-date><pub-date pub-type="pmc-release"><day>01</day><month>2</month><year>2019</year></pub-date><volume>1</volume><elocation-id>3</elocation-id><permissions><license xlink:href="http://creativecommons.org/licenses/by/4.0/"><license-p>This is an open access article distributed under the terms of the
+Creative Commons Attribution Licence, which permits unrestricted use,
+distribution, and reproduction in any medium, provided the original work is
+properly cited.</license-p></license></permissions><self-uri xlink:href="http://aasopenresearch.org/articles/1-3/v2"/><abstract><p id="P3">
+<bold>Background</bold>: The Human Heredity and Health in Africa consortium
+(H3Africa) was conceived to facilitate the application of genomics technologies
+to improve health across Africa. Here, we describe how the Collaborative African
+Genomics Network (<italic>CAfGEN)</italic> of the H3Africa consortium is using
+genomics to probe host genetic factors important to the progression of HIV and
+HIV-tuberculosis (TB) coinfection in sub-Saharan Africa.
+&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;</p><p id="P4">
+<bold>Methods</bold>: <italic>CAfGEN</italic> is an H3Africa collaborative
+centre comprising expertise from the University of Botswana; Makerere
+University; Baylor College of Medicine Children&#x02019;s Clinical Centers of
+Excellence (COEs) in Botswana, Uganda, and Swaziland; as well as Baylor College
+of Medicine, Texas. The COEs provide clinical expertise for community
+engagement, participant recruitment and sample collection while the three
+University settings facilitate processing and management of genomic samples and
+provide infrastructure and training opportunities to sustain genomics
+research.</p><p id="P5">
+<bold>Results</bold>: The project has focused on utilizing whole-exome
+sequencing to identify genetic variants contributing to extreme HIV disease
+progression phenotypes in children, as well as RNA sequencing and integrated
+genomics to identify host genetic factors associated with TB disease progression
+among HIV-positive children. These cohorts, developed using the COEs&#x02019;
+electronic medical records, are exceptionally well-phenotyped and present an
+unprecedented opportunity to assess genetic factors in individuals whose HIV was
+acquired by a different route than their adult counterparts in the context of a
+unique clinical course and disease pathophysiology.</p><p id="P6">
+<bold>Conclusions</bold>: Our approach offers the prospect of developing a
+critical mass of well-trained, highly-skilled, continent-based African genomic
+scientists. To ensure long term genomics research sustainability in Africa,
+<italic>CAfGEN </italic>contributes to a wide range of genomics capacity and
+infrastructure development on the continent, has laid a foundation for genomics
+graduate programs at its institutions, and continues to actively promote
+genomics research through innovative forms of community engagement brokered by
+partnerships with governments and academia to support genomics policy
+formulation.</p></abstract><kwd-group kwd-group-type="author"><kwd>Bioinformatics</kwd><kwd>Genetics</kwd><kwd>Genomics</kwd><kwd>HIV/AIDS</kwd><kwd>Pediatrics</kwd><kwd>Tuberculosis</kwd><kwd>Education</kwd><kwd>Development</kwd></kwd-group></article-meta></front><body><sec sec-type="intro" id="S1"><title>Introduction</title><p id="P7">In 2011, a group of scientists came together and conceived the white paper
+&#x0201c; <ext-link ext-link-type="uri" xlink:href="https://h3africa.org/images/PDF/h3africa_whitepaper.pdf">Harnessing Genomic Technologies Toward Improving Health in
+Africa: Opportunities and Challenges</ext-link>&#x0201d;. This white paper was
+used to solicit ideas from senior African scientists and scientists with extensive
+research experience in African populations, and ultimately led to the creation of
+the Human Heredity and Health in Africa (H3Africa) initiative. A major theme was to
+solicit suggestions for research priorities, infrastructure development, human
+resource training, and coalescing researchers working in Africa. The long-term goal
+of H3Africa was to increase the capacity to do cutting-edge genomic and biomedical
+research in Africa as a means of improving health<xref rid="R1" ref-type="bibr">1</xref>. To facilitate this, it became clear that there needed to be systemic
+improvements in the way African research was funded and how African scientists were
+trained. Currently, much research in Africa is funded through foreign granting
+mechanisms<xref rid="R2" ref-type="bibr">2</xref> and many PhD level scientists
+in Africa have received their training at foreign institutions<xref rid="R3" ref-type="bibr">3</xref>. Unfortunately, scientists often leave for training and
+do not return to Africa because of limited opportunities on the continent<xref rid="R4" ref-type="bibr">4</xref>. H3Africa was initiated, in part, to reverse
+this &#x02018;brain drain&#x02019; and has already made substantial strides towards
+this goal.</p><p id="P8">The completion of the Human Genome Project in 2003 catapulted efforts to use
+genetics to enhance our understanding of human diseases<xref rid="R5" ref-type="bibr">5</xref>. Key to this, is identifying and utilizing variation in
+the human genome that is associated with disease-specific onset, complications, or
+outcomes. Some inherited diseases, such as Sickle cell disease (SCD), are caused by
+relatively straightforward variation in a single-gene, while others, such as heart
+disease, are the result of a complex interplay of factors that can include a
+multitude of both genetic and environmental influences, acting to both increase or
+decrease susceptibility. Added to this are circumstances where there is
+inter-individual variation in infection susceptibility or resistance<xref rid="R6" ref-type="bibr">6</xref>,<xref rid="R7" ref-type="bibr">7</xref> or severity of
+infection<xref rid="R6" ref-type="bibr">6</xref>&#x02013;<xref rid="R8" ref-type="bibr">8</xref>, and host genetics can also play a major role in
+determining the most effective treatment for diseases such as cancer or predicting
+adverse reactions to certain drugs<xref rid="R9" ref-type="bibr">9</xref>.</p><p id="P9">Genetics and genomics have a particularly important role to play in
+biomedical research as DNA variation both directly and indirectly impacts disease
+outcomes<xref rid="R10" ref-type="bibr">10</xref>,<xref rid="R11" ref-type="bibr">11</xref>. Understanding this variation, therefore, has the
+potential to lead to a better understanding of the biology, physiology, and chemical
+pathways involved in disease and can help direct scientists to new areas of research
+that may result in better medications and treatment options. To date, this approach
+has yielded several pharmacogenomic biomarkers that have been translated into
+clinical practice, affecting the use of medications to improve quality of life for
+individuals on specific treatments<xref rid="R12" ref-type="bibr">12</xref>.
+Reflecting on the safety of antiretroviral medications; in sub-Saharan Africa,
+efavirenz forms the preferred first-line anti-retroviral therapy for those over the
+age of 3 years but adverse drug events have been reported. Additionally, some
+HIV-infected individuals of African origin are predisposed to developing adverse
+efavirenz-induced neuropsychiatric responses due to variants in
+<italic>CYP2B6</italic> that impair normal metabolism of efavirenz<xref rid="R13" ref-type="bibr">13</xref>. The <italic>CYP2B6*6</italic> allele occurs
+at a high frequency in people of African origin and is associated with high
+efavirenz concentrations and genotype-screening is recommended in these
+populations<xref rid="R14" ref-type="bibr">14</xref>. Genomic screening in
+populations has also identified the <italic>HLA-B*5701</italic> variant that
+predicts Abacavir hypersensitivity; assays for this variant are now routinely
+performed ahead of time to minimize drug associated reactions in the Western
+world<xref rid="R12" ref-type="bibr">12</xref>,<xref rid="R15" ref-type="bibr">15</xref>. Africa is classically considered to be the well-spring of modern
+humanity; and thus, comprises the greatest human genetic diversity among major world
+populations<xref rid="R10" ref-type="bibr">10</xref>&#x02013;<xref rid="R12" ref-type="bibr">12</xref>. In addition, Africa hosts a wide variety of
+pathogens, climates, lifestyles, and habitats, some of which are unique to the
+continent. These observations underscore the immense potential for learning more
+about human health and our environment through systematic study of the interplay of
+genetics and environment in African populations<xref rid="R11" ref-type="bibr">11</xref>. </p></sec><sec id="S2"><title>Genesis of the Collaborative African Genomics Network (
+<italic>CAfGEN</italic>)</title><p id="P10">Subsequent to the H3Africa white paper, a request for application (RFA) was
+released and collaborative centers applied for funding in health-related areas of
+research (see <ext-link ext-link-type="uri" xlink:href="https://grants.nih.gov/grants/guide/rfa-files/RFA-RM-11-008.html">NIH H3Africa grant page</ext-link>), including ;</p><list list-type="simple" id="L1"><list-item><label>1. </label><p id="P11">The genetic/environmental contributors to non-communicable disease
+in Africa</p></list-item><list-item><label>2. </label><p id="P12">The genetic/environmental contributors to communicable disease in
+Africa</p></list-item><list-item><label>3. </label><p id="P13">The contribution of the human microbiome to health and disease in
+Africa</p></list-item><list-item><label>4. </label><p id="P14">Mendelian diseases in Africa</p></list-item><list-item><label>5. </label><p id="P15">Pharmacogenomics</p></list-item><list-item><label>6. </label><p id="P16">AIDS and co-morbidities</p></list-item><list-item><label>7. </label><p id="P17">Genetic and genomic basis of HIV/AIDS disease, abuse of licit or
+illicit substances (including alcohol, tobacco, cannabis, stimulants,
+opiates), and related co-infections or co-morbidities.</p></list-item></list><p id="P18">This call proved to be the genesis for the formation of the Collaborative
+African Genomics Network - <italic>CAfGEN</italic>. <italic>CAfGEN</italic> aims to
+redress the scientific imbalance of genomics research of African paediatric
+populations. Our network incorporates six sites &#x02013; the Botswana, Uganda and
+Swaziland Children&#x02019;s Clinical Centres of Excellence (COEs); the University of
+Botswana; Makerere University; and Baylor College of Medicine in Houston, Texas. The
+<italic>CAfGEN</italic> research agenda includes:</p><list list-type="simple" id="L2"><list-item><label>1. </label><p id="P19">Recruitment of prospective and retrospective cohorts of HIV and
+HIV-TB infected children;</p></list-item><list-item><label>2. </label><p id="P20">Development of core genomics facilities within Africa for sample
+processing and storage;</p></list-item><list-item><label>3. </label><p id="P21">Candidate gene re-sequencing, HLA allelotyping and whole-exome
+sequencing (WES) of patients at the extremes of HIV disease progression;</p></list-item><list-item><label>4. </label><p id="P22">Integrated genomic analyses of active TB progression and associated
+clinical outcomes using expression quantitative trait loci (eQTL)
+analysis.</p></list-item></list><p id="P23">These projects are being undertaken in the context of an extensive training
+and career development plan that will also see significant upgrades in African human
+capital and genomics infrastructure<xref rid="R16" ref-type="bibr">16</xref>. In so
+doing, <italic>CAfGEN</italic> creates a unique, highly synergistic African alliance
+that is contributing novel and important mechanistic insights to paediatric HIV and
+HIV-TB disease progression<xref rid="R17" ref-type="bibr">17</xref> while
+establishing sustainable genomics technology, expertise, and capacity on the African
+continent.</p></sec><sec id="S3"><title>A genomics development framework for 21 <sup>st</sup> century Africa</title><p id="P24">
+<italic>CAfGEN</italic> seeks &#x0201c;to create a collaborative, multi-disciplinary,
+multi-institutional, inter- and intra-country network of African scientists,
+clinicians, and researchers using genomics approaches to study gene/environment
+interactions for HIV/AIDS, its co-morbidities, and other diseases among diverse
+paediatric African populations.&#x0201d; To meet the attendant challenges of
+accomplishing this mission, a highly collaborative, synergistic, network of
+institutions has been assembled.</p><p id="P25">Firstly, the project draws upon the extensive clinical and research
+experience of the Botswana, Swaziland and Uganda COEs - together the three COEs have
+&#x0003e;35 years of experience providing state-of-the-art care and treatment of
+paediatric HIV that extends to &#x0003e;20,000 HIV-infected children across Botswana,
+Swaziland and Uganda. The COEs are headquarters for countrywide research related to
+the care, treatment, and prevention of paediatric HIV/AIDS and co-occurring diseases
+and are affiliated with the Baylor International Pediatric AIDS Initiative (BIPAI) -
+a state-of the-art paediatric HIV/AIDS health care network that spans across 11
+African nations, including major centres in Malawi, Lesotho, and Tanzania, which
+have expressed strong interest in collaborating with <italic>CAfGEN</italic>. The
+COEs are the clinical backbone of <italic>CAfGEN</italic>; their expertise
+substantially mitigates the challenges of proper phenotyping and sample numbers
+needed for large-scale genomics.</p><p id="P26">To this backbone, we appended molecular genetics expertise at two
+universities that are closely (geographically and academically) related to the COEs:
+Makerere University, Uganda, one of the most prestigious academic universities in
+East Africa<xref rid="R18" ref-type="bibr">18</xref>, has extensive experience with
+infectious disease and genetic studies, including <italic>Mycobacterium
+tuberculosis</italic> and HIV; and the University of Botswana (UB), which has a
+growing expertise in human genetics and significant monetary and human investment in
+molecular genetics, bolstered by a multi-million dollar Medical Education
+Partnership Initiative (MEPI) grant, with which <italic>CAfGEN</italic> shared a
+Principal Investigator.</p><p id="P27">To further develop the genetic and genomic capabilities of the network, we
+partnered with Baylor College of Medicine in Houston, Texas, to afford trainees
+access to high-level genomics expertise, including hands-on laboratory experiences,
+didactic coursework, data analysis, and a variety of other educational
+activities<xref rid="R16" ref-type="bibr">16</xref>. These activities are then
+transferred to the home African countries and become rooted in the provision of new
+faculty with high-level training and expertise &#x02013; North-South collaboration
+for the 21<sup>st</sup> century.</p><p id="P28">The culmination of these centres, as shown in <xref rid="F1" ref-type="fig">Figure 1</xref> below, is the genesis for a unique African alliance using a
+highly synergistic approach to contribute novel and important mechanistic insights
+to disease progression in paediatric HIV and HIV-TB co-infection.</p></sec><sec id="S4"><title>Specific aims of <italic>CAfGEN</italic>
+</title><p id="P29">Disproportionately few advanced genetic and genomic studies have involved
+the indigenous peoples of Africa, and even fewer have included African paediatric
+populations<xref rid="R19" ref-type="bibr">19</xref>&#x02013;<xref rid="R21" ref-type="bibr">21</xref>. Yet, paradoxically, these populations collectively
+carry a large proportion of the human disease burden that results in significant
+mortality and morbidity. HIV/AIDS and TB &#x02013; HIV&#x02019;s most frequent
+co-morbidity &#x02013; exemplify this scientific disparity; together, HIV and HIV-TB
+result in more than 500,000 new childhood cases every year (see <ext-link ext-link-type="uri" xlink:href="http://www.un.org/millenniumgoals/pdf/MDG_FS_6_EN.pdf">UN report on combatting HIV/AIDS, Malaria and Other
+Diseases</ext-link>). Studies of host genetic factors underlying Long-Term
+Non-Progressors (LTNPs) of HIV infection have led to new therapies through the
+identification of loci that are important to <italic>in vivo</italic> control of
+virus pathogenicity<xref rid="R22" ref-type="bibr">22</xref>. Similarly, a detailed
+understanding of the temporal <italic>in vivo</italic> host molecular events
+occurring in the progression to active TB disease in the face of HIV co-infection,
+could significantly impact development of effective therapeutic strategies. Although
+genomic approaches have been used to identify host response pathways that are
+important to TB-disease progression, almost all of these studies were undertaken in
+non-African, adult populations. HIV-infected Africans and particularly children -
+who have a different route of acquisition, clinical course, and pathophysiology from
+their adult counterparts - have not been included, although they potentially have
+more to ultimately contribute and gain from any therapeutic advances.
+<italic>CAfGEN</italic> envisaged a project that encompassed 5 inter-related
+aims:</p><list list-type="simple" id="L3"><list-item><label/><p id="P30">
+<italic>Aim 1a</italic>: Recruit a cohort of well-phenotyped paediatric HIV
+and HIV-TB infected patients. Retrospectively recruit 500 LTNPs and 500
+rapid progressors (RPs) controls through the Electronic Medical Record
+(EMR).</p></list-item><list-item><label/><p id="P31">
+<italic>Aim 1b</italic>: Create a DNA and RNA bioarchive of HIV- and HIV-TB
+infected paediatric patients from blood and sputa</p></list-item><list-item><label/><p id="P32">
+<italic>Aim 2a</italic>: Evaluate the role of &#x02018;established&#x02019;
+HIV disease progression susceptibility loci in paediatric HIV by undertaking
+gene sequencing and allelotyping of candidate loci in RP and LTNP
+patients.</p></list-item><list-item><label/><p id="P33">
+<italic>Aim 2b</italic>: Identify novel host alleles influencing paediatric
+HIV disease progression by conducting whole-exome sequencing to identify
+variants that are associated with either RPs or LTNP.</p></list-item><list-item><label/><p id="P34">
+<italic>Aim 3a</italic>: Identify genes that show significant temporal
+differential expression with progression to active TB disease by performing
+RNA sequencing of paired samples taken from HIV co-infected children at
+baseline and again at the time of active TB disease progression.</p></list-item><list-item><label/><p id="P35">
+<italic>Aim 3b</italic>: Identify genes key to the progression to active TB
+by combining differential gene expression with SNP genotyping to identify
+expression quantitative trait loci (eQTL) and performing integrated genomic
+analyses of active TB disease and related clinical outcomes.</p></list-item><list-item><label/><p id="P36">
+<italic>Aim 4</italic>: Establish and enhance undergraduate, graduate, and
+faculty education in genetics/genomics and provide opportunities for long-
+and short-term training of scientists and technicians from African
+universities.</p></list-item><list-item><label/><p id="P37">
+<italic>Aim 5</italic>: Establish genetic and genomic technologies and
+supporting laboratory and physical infrastructure for large-scale
+genetic/genomic analyses of common diseases in Africa.</p></list-item></list><p id="P38">These strategic aims were designed to create independent, sustainable
+genomics facilities in Africa that recruit and train new scientists in genomics, who
+can then apply these technologies to solve widespread relevant problems in human
+diseases in Africa.</p></sec><sec sec-type="methods" id="S5"><title>Methods</title><sec id="S6"><title>Infrastructure development</title><p id="P39">The clinically important research goals of <italic>CAfGEN</italic> are
+set to uncover specific genetic markers and genes that reflect the greatest risk
+for progression in HIV disease and to gain new insights into the pathophysiology
+of HIV and HIV-TB coinfection, in order to ultimately facilitate development of
+new treatment strategies. The current lack of substantial work in these areas in
+the two main <italic>CAfGEN</italic> countries reflects a general maxim
+underlying the lack of sustainable genetic research in Africa - the dual
+deficiencies of too little expertise and supporting infrastructure. In keeping
+with the mission and vision of H3Africa, the <italic>CAfGEN</italic> approach to
+its primary research goals framed each project in the context of an opportunity
+to build sustainable genomics capacity and develop genomics infrastructure.
+Consequently, all <italic>CAfGEN</italic> research projects are interrelated and
+are deliberately designed to impart transferable expertise that stretches across
+the breadth of genetic and genomics studies: study design, Ethical Legal and
+Social Issues (ELSI), consent and sample collection, sample processing and
+storage, data generation and bioinformatics, statistical analysis of association
+studies and publication of results (<italic><xref rid="F2" ref-type="fig">Figure 2</xref>: illustrates the core branches
+of the network</italic>). Further, each project has a tangible upgrade in
+physical infrastructure and capacity. At the end of the grant period,
+<italic>CAfGEN</italic> researchers and clinicians will have been equipped
+with a solid understanding of how the rapidly changing world of genomics can be
+applied to answer the most pressing questions on African continent. Moreover,
+they are receiving the necessary equipment and facilities to design and
+implement future genomics studies in a culturally sensitive, sustainable fashion
+that engenders public trust, acceptance and avoids the pitfalls of some genomic
+research models of the past. The administrative personnel were trained in grants
+management and oversight equipping them with skills to administer large,
+multicenter research grants.</p></sec><sec id="S7"><title>Ethics and informed consent</title><p id="P40">Each participating institution had to undergo ethical review processes
+by the respective institutional review boards (IRBs), followed by the submission
+of the research protocol by the main applying institution, being the
+Botswana-Baylor Children&#x02019;s Clinical Centre of Excellence in Gaborone, to
+the Botswana Ministry of Health Research and Development Committee for ethical
+approval. IRB approvals were obtained for all participating institutions.</p><p id="P41">Written informed consent was sought from the participant and/or their
+parents or legal guardians. Consent forms were prepared in both English and the
+main local language at each study site (Luganda in Uganda and Setwana in
+Botswana). The parent or legal guardian of participants who were younger than
+the legal age of consent (18 years in Uganda and 21 years in Botswana) were
+provided written informed consent. Those who were older than the legal age of
+consent signed for themselves. Assent forms were prepared for children and
+adolescents aged between 12 and the legal age of consent (in addition to their
+parents/legal guardians&#x02019; written informed consents). All subjects were
+free to decline participation in the study and it was made clear that
+non-participation would not affect any aspect of medical care they were
+receiving.</p><p id="P42">While HIV infection and its comorbidities remain the central foci of the
+project, the broader <italic>CAfGEN</italic> goal is to empower new
+investigators with a wide array of skills that are required to examine any
+clinical problem that would be suitable for a genomics approach. We envisioned a
+critical mass of well-trained, highly knowledgeable, African human geneticists
+and genomicists each with a broad spectrum of expertise, the knowledge and
+support to secure outside funding, the ability to educate future generations of
+researchers, and the experience to collaboratively empower clinicians and
+researchers in a multi-disciplinary manner.</p></sec><sec id="S8"><title>Identification, selection and training of CAfGEN trainees</title><p id="P43">During the first award period of the grant (2014 to 2016), six trainees
+were identified - three each from Botswana and Uganda. Trainees were recruited
+through the University of Botswana and Makerere University via both internal and
+external advertising. Selection criteria included a postgraduate science degree,
+with preference given to those in the fields of genetics, cell biology,
+biostatistics, and computer science<xref rid="R16" ref-type="bibr">16</xref>.
+Candidates who were short-listed based on their academic background and an essay
+describing their motivation, as well as testimonials provided by three of their
+academic referees, were subsequently invited for oral interviews conducted by a
+panel of university staff. Potential scholarship recipients identified at this
+stage were required to successfully register with the university as PhD students
+and submit a research proposal based on the <italic>CAfGEN</italic> research
+objectives.</p><p id="P44">The selection process took approximately three months at each
+university. Trainees took graduate genomics and bioinformatics courses,
+seminars, and workshops that were not available at their home institutions. They
+also undertook laboratory rotations at selected BCM departments such as the
+United States Department of Agriculture (USDA)/Agricultural Research Service
+(ARS) Children&#x02019;s Nutrition Research Center, Human Genome Sequencing
+Center, Center for Statistical Genetics, RNA-Sequencing, as well as the
+Computational and Integrative Biomedical Research Center. In addition, they
+participated in the annual BCM&#x02019;s Department of Molecular and Human
+Genetics sponsored two-day retreats at Galveston, Texas where they each
+presented their PhD concepts and proposals. The trainees have published a
+peer-reviewed report detailing their perspective on training the next generation
+of African genomic scientists<xref rid="R16" ref-type="bibr">16</xref>. All the
+six students successfully completed more than two years of training at BCM and
+returned to their respective universities to continue with their PhD studies.
+Their home universities will assimilate them into genomics faculty positions on
+completion of their PhDs.</p><p id="P45">The two participating African universities have enthusiastically
+embraced genomics training fulfilling <italic>CAfGEN</italic>&#x02019;s long-term
+objectives. Tangible strides to nurture the era of genomics at the collaborating
+institutions have been realized already such as the inauguration of a new
+department of Immunology and Molecular biology at Makerere University; this is a
+home for the genomics and bioinformatics graduate programs for which
+<italic>CAfGEN</italic> laid the foundation stone.</p></sec><sec id="S9"><title>Recruitment of study participants</title><p id="P46">Initially, the COEs in Botswana and Uganda were involved in the study
+participant recruitment. A cohort of well-phenotyped paediatric HIV and HIV-TB
+infected patients was recruited retrospectively through the EMR, and consisted
+of 500 LTNPs and 500 RPs. In addition, we recruited HIV-positive children who
+also progressed to active TB disease. Swaziland COE was added later on to boost
+the enrolment in the TB case-control component of the study. Blood samples were
+drawn from the participants and sent to the two universities for the preparation
+of DNA and RNA.</p></sec><sec id="S10"><title>Power considerations and replication of results</title><p id="P47">The <italic>CAfGEN</italic> study is divided into discovery and
+replication phases. To provide a broad approximation of the power of our study,
+we made a number of assumptions: a) variants with estimated minor allele
+frequencies &#x0003e; 0.05; b) an alpha (&#x003b1;) value for statistical significance
+of <italic>p</italic> &#x0003c; 0.01; c) a genetic relative risk (GRR) of between two
+and four for LTNP-associated variants d) a log additive disease model. Under
+these assumptions and using the methods of Gauderman implemented in <ext-link ext-link-type="uri" xlink:href="http://biostats.usc.edu/cgi-bin/DownloadQuanto.pl">Quanto</ext-link> 1.2.4, where a sample size of 200
+cases and 200 controls had greater than 80% power to detect significant
+differences between groups at <italic>&#x003b2;</italic> = 0.80 discovery) of the
+study. Variants meeting an association threshold of <italic>p</italic> &#x0003c; 0.01
+are carried forward for targeted allele typing in 300 LTNPs and 300 RPs in the
+replication phase.</p></sec><sec id="S11"><title>Community engagement</title><p id="P48">Community engagement is a key requirement for the overall H3Africa goal
+of long-term sustainability and has been a prominent feature of the
+<italic>CAfGEN</italic> plan. We have used a variety of training and
+educational programs in the form of classroom lectures, workshops, and
+laboratory training as described below.</p><p id="P49">
+<italic>Classroom training:</italic>
+</p><list list-type="simple" id="L4"><list-item><label>a) </label><p id="P50">Ethics in Research and Informed Consent: emphasis on African
+populations. This lecture targeted health care professionals who were
+actively engaged with recruited patients for genomics research studies.
+Special emphasis was given to the challenges that confront carrying out
+such studies in African populations including informed consent and
+assent, stigmatization, and effectively conveying the potential impact
+of such research on the current and future health. This course has been
+included in the new genomics graduate programs at Makerere
+University.</p></list-item><list-item><label>b) </label><p id="P51">The importance of genomics to human health (community outreach).
+This lecture targeted community lay persons and emphasized basic
+concepts of heredity, genetics, and genomics, common community relevant
+human genetic conditions (e.g., albinism and Sickle cell disease), and
+the importance of genomics research to human health and research
+participants&#x02019; protections.</p></list-item></list><p id="P52">
+<italic>Workshops</italic>: A variety of practical workshops were carried out by
+the COEs to provide training to individuals within and outside the
+<italic>CAfGEN</italic> network. The workshops were administered by the COEs
+including specific expertise such as; a) sputum induction in the children, b)
+Laboratory procedures for HIV testing, c) collection and processing of whole
+blood samples for research studies, d) effective use of EMR for research
+studies, and e) effective counselling to maximize patient compliance and
+research study participation.</p><p id="P53">Other innovative community engagement activities included the production
+of <ext-link ext-link-type="uri" xlink:href="http://botswanabaylor.org/genome_adventures.html">Genome Adventures comic books</ext-link>. In these
+series; Kitso, a young man takes a journey with the superheroes to explore the
+relations of heredity and genetics as shown in <xref rid="F3" ref-type="fig">Figure 3</xref> below. These series featured on a wide range of social
+media platforms such as <ext-link ext-link-type="uri" xlink:href="https://genomeadventures.weebly.com/">Weebly</ext-link>, <ext-link ext-link-type="uri" xlink:href="https://www.facebook.com/genomeadventures">Facebook</ext-link>, <ext-link ext-link-type="uri" xlink:href="https://twitter.com/GenomeAdventure">Twitter</ext-link>, and <ext-link ext-link-type="uri" xlink:href="https://www.pinterest.co.uk/genomeadventure/">Pinterest</ext-link>. These books have been translated
+into several languages such as Setswana, Swahili, Luganda, Arabic, Hausa,
+French, and Portuguese. This project was funded jointly by the Wellcome Trust
+and the US National Institutes of Health initiatives.</p><p id="P54">We also shared close working relations with the Botswana Harvard AIDS
+Institute Partnership (BHP), a world-renowned institution of excellence in
+research and education pertinent to HIV/AIDS and other emerging public health
+challenges. The more than 20 years of collaborative research and training
+experience at BHP was highly valuable to <italic>CAfGEN.</italic> Their research
+areas include virology, molecular biology, immunology, human genetics,
+epidemiology, and social and behavioral issues relevant to the AIDS epidemic in
+Botswana and southern Africa. We further maintained routine interactions with
+the community leaders and institutional review boards and community leaders
+through community advisory boards made up of local community leaders.</p></sec><sec id="S12"><title>Genomic sample processing, bioarchiving, and shipping</title><p id="P55">Uniquely labeled blood samples were collected using PAXgene Blood DNA
+and RNA tubes at the COEs and transported to both the University of Botswana
+(Department of Biological Sciences, Faculty of Sciences) and Makerere University
+(Molecular Diagnostics laboratory, Department of Immunology and Molecular
+Biology) where genomic DNA and RNA was extracted. The team utilized the already
+existing molecular genetics expertise at these two universities to successfully
+perform extraction of high quality DNA and RNA for subsequent sequencing and
+genotyping. Samples were quantified using either a Nanodrop 2000
+spectrophotometer or a Qubit 2.0 Fluorimeter. Sample quality was assessed by
+agarose gel electrophoresis. Samples were stored in a -80&#x000b0;C freezer at the
+H3Africa Integrated Biorepository at Makerere University. Genomic DNA and RNA
+were shipped, as per the requirements of the Centers for Diseases Control and
+Prevention (CDC) and the International Air Transport Association (IATA), to the
+Human Genome Sequencing Center and the Children's Nutrition Research Center at
+BCM for WES and RNA sequencing, respectively. Aliquots of all samples are stored
+at the Biorepository at Makerere University.</p></sec></sec><sec id="S13"><title>Genomic data analyses and accomplishments</title><p id="P56">Following the completion of more than two years of didactic training in
+genomics and bioinformatics at BCM, <italic>CAfGEN</italic> trainees are currently
+analyzing the genomic data at their respective institutions utilizing local
+computing resources made possible by <italic>CAfGEN</italic> funding while they
+continue to receive both mentorship and supervision from their BCM mentors.</p><p id="P57">Trainees have focused on WES data analysis as part of their PhD requirement
+at the Universities in Uganda and Botswana. Analysis has revealed uncaptured genetic
+variation and distinct ancestry in the southern African population of Botswana<xref rid="R23" ref-type="bibr">23</xref>. Trainees contributed to a number of studies
+such as &#x0201c;Whole-exome sequencing of SCD patients with hyperhemolysis syndrome
+(HHS) suggests a role for rare variation in disease predisposition&#x0201d;. This
+study highlights a potential role for rare genetic defects in the development of HHS
+among adult SCD patients<xref rid="R24" ref-type="bibr">24</xref>, a disease
+important to African populations. This work was funded by the US National Blood
+Foundation and National Human Genome Research Institute. Trainees continue to
+analyse <italic>CAfGEN</italic> genomic data to answer their respective study
+objectives including roles of chemokines &#x00026; their ligands variant in HIV/AIDS
+disease progression from which the preliminary results suggest no role for
+chemokines and their cognate ligands in pediatric AIDS disease progression
+(unpublished data), interrogation of unmapped reads, rare and common variants in
+paediatric HIV/AIDS disease progression as well as RNA-Seq data analyses.</p><p id="P58">
+<italic>CAfGEN</italic> trainees at Makerere University coordinated
+H3ABioNet&#x02018;s Introduction to <ext-link ext-link-type="uri" xlink:href="https://training.h3abionet.org/IBT_2017/?page_id=2469">Bioinformatics three months&#x02019; on-line
+course</ext-link>. This course provides an introduction to the field of
+bioinformatics, with a focus on important bioinformatics tools and resources. The
+course attracted 56 participants and this was the first time it was offered at the
+University. <italic>CAfGEN</italic> trainees have made both oral and poster
+presentations during the International Society for Computational Biology (ISCB) and
+African Society for Bioinformatics and Computational Biology (ASBCB) at Entebbe,
+Uganda; from October 10 &#x02013; 13, 2017<xref rid="R25" ref-type="bibr">25</xref>.</p><p id="P59">The trainees have also cultivated collaborations and networks that are
+important for sustaining and development of genomics capacity in Africa. These
+include; Bridging Biobanking and Biomedical Research across Europe and Africa
+(B3Africa), this collaboration enabled Makerere University to receive eB3Kit
+-mini-computational server. The <ext-link ext-link-type="uri" xlink:href="http://www.b3africa.org/?page_id=1494">eB3Kit</ext-link> consists of 3 main components: A bioinformatics platform, an
+ethical and legal framework, a training component. This server has been very useful
+in the genomics trainings/workshops held at Makerere. It provides a linux
+environment which is remotely utilized by workshop participants.
+<italic>CAfGEN</italic> trainees have been able to apply for collaborative
+funding opportunities and awarded a fellowship by the <ext-link ext-link-type="uri" xlink:href="https://www.cambridge-africa.cam.ac.uk/initiatives/thrive/thrive-2-fellows/gerald-mboowa/">THRiVE Consortium</ext-link> (Training Health Researchers
+into Vocational Excellence in East Africa) also funded by the Wellcome Trust. The
+support covers the trainee&#x02019;s PhD related activities and six months of
+training in the department of Genetics at the University of Cambridge, in the
+UK.</p><p id="P60">Other networks that have been established by the trainees include the
+Makerere University &#x02013; Uganda Virus Research Institute (UVRI) Centre of
+Excellence for Infection and Immunity Research and Training
+(<italic>MUII-Plus</italic>). The MUII is passionate about the development of
+bioinformatics in Uganda. They have offered both bioinformatics grants and travel
+scholarships to the trainees to present their PhD work during the ISCB/ASCB at
+Entebbe in October, 2017. Trainees are also taking part in grant application
+processes at their home institutions. This is critical for sustainability of the
+genomics milestones attained through <italic>CAfGEN</italic> funding; trainees also
+continue to assist in external sequencing projects and genomic data analyses at
+their home institutions.</p><p id="P61">To develop pedagogical skills, trainees are equally involved in teaching
+undergraduate courses such as introduction to bioinformatics, fundamental genetics
+&#x00026; molecular biology for non-medical students and introduction to bioinformatics
+and medical genomics for MBChB (medical) students. This is an important strategy to
+ensure trainees retention as faculty as well as knowledge and skills transfer.</p></sec><sec id="S14"><title>Capacity building and infrastructure development</title><p id="P62">The <italic>CAfGEN</italic> project has enabled six PhD students to
+successfully complete their intensive genomics training at BCM. They are all being
+supported to complete their PhDs at their home institutions. The project allowed the
+purchase of both an ABI 3500 Capillary sequencer (Life Technologies, CA) and a MiSeq
+System (Illumina, San Diego, CA) for the University of Botswana and Makerere
+University, respectively. The acquisition of these instruments has already spurred
+new opportunities for genomics training and research at these institutions. In
+particular, the " <ext-link ext-link-type="uri" xlink:href="https://news.mak.ac.ug/2018/01/bioinformatics-next-generation-sequencing-techniques-short-course">Introduction to Bioinformatics and Next Generation
+Sequencing Techniques</ext-link>" workshop was funded by the World Bank through
+the African Higher Education Centres of Excellence Project (MAPRONANO ACE II) and
+attended by 52 researchers from Rwanda, Tanzania, Zambia, Ethiopia, Kenya, Malawi,
+and Uganda, the <ext-link ext-link-type="uri" xlink:href="http://cend.globalhealth.berkeley.edu/2017/05/06/alliance-global-health-science-makerere-university-2017-summer-workshop/">Bioinformatics RNA sequence data analysis
+workshop</ext-link> was funded by the Alliance for Global Health Science also
+attended by 19 participants from Uganda and Zimbabwe and one-year training program
+funded through the University of Georgia&#x02019;s &#x0201c;Computational and
+Molecular Epidemiology in TB and HIV in Uganda&#x0201d;. This mentorship program
+offers a unique training arrangement to students who have special interest in
+genomics and bioinformatics to attend weekly tutorials and practical sessions
+offered by faculty genomics mentors throughout the year. The program is currently
+training four students at Makerere University (D43TW010045-03).
+<italic>CAfGEN</italic> trainees are at the centre of these trainings and
+workshops.</p><p id="P63">The <italic>CAfGEN</italic> project has also procured and installed a server
+for bioinformatics at the Makerere University College of Health Sciences. The server
+is being used by students in the genomics mentorship programs and will soon be
+utilized by the genomics graduate programs at Makerere University.
+<italic>CAfGEN</italic> has already fostered many endeavors that are
+sustainable, productive, impactful, and transformative in both the satellite
+countries and the continent at large in constructing strong networks and strategies
+to achieve the goals of the H3Africa initiative. In addition to the above, other
+highlights include;</p><p id="P64">1. To ensure long-term, high-quality, sustainable human genetic and genomics
+studies in Africa, one of our principal investigators (Dr. Moses Joloba) received
+funding and set up the largest biorepository in East Africa, the Integrated
+Biorepository of H3Africa Uganda - IBRH3AU.</p><p id="P65">2. To ensure best practices governing <italic>CAfGEN</italic> and future
+genomics studies in Africa, our center at Makerere University was awarded an NIH U01
+grant entitled &#x0201c;Ethical and social issues in informed consent processes in
+African genomic research funding (Principal investigator: Dr. Erisa Sabakaki Mwaka,
+Makerere University College of Health Sciences, Uganda). This project aims to
+increase awareness and protection of the interests of research participants
+regarding ELSI (U01-HG009810-01). </p><p id="P66">3. The "Nurturing Genomics and Bioinformatics Research Capacity in Africa
+(BRecA)" program, which builds on the momentum of <italic>CAfGEN</italic>, was
+awarded to Dr. Kateete David and Dr. Graeme Mardon by the Fogarty International
+Center to establish sustainable genomics and bioinformatics graduate programs at
+Makerere University (U2RTW010672). Both masters and PhD graduate programs in
+Genomics and Bioinformatics are in the final stages of approval at Makerere.
+<italic>CAfGEN</italic> alumni are also highly active in these training
+programs.</p><p id="P67">4. <italic>CAfGEN</italic> trainees continue to be outstanding in so many
+ways including winning travel scholarship awards for both oral and poster
+presentations at different H3Africa consortium meetings, trainings, and workshops,
+in 2017 during this 10<sup>th</sup> H3A consortium meeting, a
+<italic>CAfGEN</italic> trainee excelled and was awarded the prize for the best
+poster presenter. Another trainee made both an oral and poster presentation during
+the ISCB/ASCB conference. They have presented their work at several other
+conferences such as the UCSF-Gladstone - Centers for AIDS Research (CFAR)
+9<sup>th</sup> East Africa Collaborative Scientific Symposium at the Infectious
+Diseases Institute in Kampala, Uganda on the 19 &#x02013; 20<sup>th</sup> of January
+2017. At the end of their training, we envisage a team of African human geneticists
+and genomicists who have a broad spectrum of expertise and knowledge that will
+enable them compete for and secure outside funding while they continue the cycle of
+educating future generations of researchers. </p><sec id="S15"><title>Challenges encountered</title><p id="P68">Implementing the <italic>CAfGEN</italic> project has not been without
+challenges, through which we have learnt valuable lessons. Retention of
+personnel has continued to be a problem at all levels of academia and
+<italic>CAfGEN</italic> has been no different as some of the
+<italic>CAfGEN</italic> personnel have since moved on to more lucrative job
+offers; delayed project approvals/renewals have also been a fact of life - the
+project required ethics approvals to be in place at all the involved
+institutions, although genomics studies are new territory for any of the local
+ethics/Institutional Review Boards. The broader H3Africa consortium was faced
+with similar issues, and this ultimately led to sponsored invitations to Head of
+Ethics committees/IRBs to attend H3Africa meetings in order to voice their
+concerns and engage in dialogue to mitigate any grievances. This process has
+paid significant dividends - green-lighting projects that were on hold for some
+time, and gaining a wider audience and appreciation for H3Africa protocols at
+the University and Ministry levels. Finally, communication and data transfer
+issues due to slow or absent internet connections continue to be a significant
+problem without an obvious solution thus far. Genomics generates large amounts
+of data, necessitating fast connections for analyses and data transfer; although
+increased bandwidth and speed are a priority for many African governments,
+progress on this front has been slow.</p></sec><sec id="S16"><title>Dissemination of findings</title><p id="P69">The findings of the <italic>CAfGEN</italic> project will be disseminated
+in open access peer reviewed journals as required by H3Africa publications
+policy. All data will be made available to the research community upon request
+as per the H3Africa Consortium Data Sharing, Access and Release (DSAR)
+Policy.</p></sec><sec id="S17"><title>Study status</title><p id="P70">The <italic>CAfGEN</italic> trainees are currently analyzing the genomic
+data (exome and RNA-Seq) as well as writing manuscripts as part of their PhD
+requirements at African institutions.</p></sec></sec><sec sec-type="conclusions" id="S18"><title>Conclusions</title><p id="P71">The opportunity offered by studying HIV and HIV-TB coinfection in children
+at the COEs and integrated genomics training in both Botswana and Uganda has
+permitted us to pioneer a new method of undertaking genomics and biomedical research
+in Africa whilst building sustainable expertise and infrastructure. This innovative
+approach has registered significant gains in achieving the goal of H3Africa.
+Furthermore, we have successfully ensured that the acquired genomics expertise is
+transferred to Africa as trainees returned to their home countries to take faculty
+positions, transfer skills and participate in genomics-driven research pertinent to
+African populations with a goal of improving health.</p><p id="P72">
+<italic>CAfGEN</italic> will continue to work hand in hand with the African
+academia, funding agencies, and governments to promote genomics training, research,
+and support genomics policy formulation, in pursuit of its long-term goal of
+becoming a major centre for large-scale genomic studies of paediatric HIV and
+associated co-morbidities in sub-Saharan Africa.</p></sec><sec sec-type="data-availability" id="S19"><title>Data availability</title><p id="P73">All data underlying the results are available as part of the article and no
+additional source data are required</p></sec></body><back><ack id="SA1"><title>Acknowledgments</title><p id="P74">We appreciate the contributions of the following <italic>CAfGEN</italic>
+institutions: Baylor College of Medicine, Houston, Texas; Baylor Children&#x02019;s
+Clinical Centers of Excellence in Botswana, Swaziland, Uganda; Makerere University,
+Kampala; and University of Botswana, Gaborone. We are also grateful to the H3Africa
+Consortium.</p><sec id="S20"><title>Grant Information</title><p id="P75">CAfGEN is funded by NIH grant 1U54AI110398. Gerald Mboowa is also
+supported through the DELTAS Africa Initiative grant
+#<award-id>DEL-15-011</award-id> to THRiVE-2 (the Training Health
+Researchers into Vocational Excellence in East Africa). The DELTAS Africa
+Initiative is an independent funding scheme of the African Academy of Sciences
+(AAS)&#x02019;s Alliance for Accelerating Excellence in Science in Africa (AESA)
+and supported by the New Partnership for Africa&#x02019;s Development Planning
+and Coordinating Agency (NEPAD Agency) with funding from the <funding-source>Wellcome Trust</funding-source> (WT) grant
+#<award-id>107742/Z/15/Z</award-id> and the UK government. Genome Adventure
+Comic Books were sponsored through the CAfGEN NIH grant and WT grant #
+105057/z/14/z. The views expressed in this publication are those of the
+author(s) and not necessarily those of AAS, NEPAD Agency, or Wellcome Trust.</p><p id="P76">
+<italic>The funders had no role in study design, data collection and analysis,
+decision to publish, or preparation of the manuscript.</italic>
+</p></sec></ack><ref-list><ref id="R1"><label>1</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>de Vries</surname><given-names>J</given-names></name><name><surname>Abayomi</surname><given-names>A</given-names></name><name><surname>Littler</surname><given-names>K</given-names></name><etal/></person-group>: <article-title>Addressing ethical issues in H3Africa
+research&#x02013;the views of research ethics committee
+members.</article-title>
+<source><italic>Hugo J.</italic></source>
+<year>2015</year>;<volume>9</volume>(<issue>1</issue>):<fpage>1</fpage>
+<pub-id pub-id-type="doi">10.1186/s11568-015-0006-6</pub-id>
+</mixed-citation></ref><ref id="R2"><label>2</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ochola</surname><given-names>LI</given-names></name><name><surname>Gitau</surname><given-names>E</given-names></name></person-group>: <article-title>Challenges in retaining research scientists
+beyond the doctoral level in Kenya.</article-title>
+<source><italic>PLoS Negl Trop Dis.</italic></source>
+<year>2009</year>;<volume>3</volume>(<issue>3</issue>):<fpage>e345</fpage>.
+<pub-id pub-id-type="doi">10.1371/journal.pntd.0000345</pub-id>
+<!--<pub-id pub-id-type="pmcid">2657202</pub-id>-->
+<pub-id pub-id-type="pmid">19333368</pub-id></mixed-citation></ref><ref id="R3"><label>3</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sewankambo</surname><given-names>N</given-names></name><name><surname>Tumwine</surname><given-names>JK</given-names></name><name><surname>Tomson</surname><given-names>G</given-names></name><etal/></person-group>: <article-title>Enabling dynamic partnerships through joint
+degrees between low- and high-income countries for capacity development in
+global health research: experience from the Karolinska Institutet/Makerere
+University partnership.</article-title>
+<source><italic>PLoS Med.</italic></source>
+<year>2015</year>;<volume>12</volume>(<issue>2</issue>):<fpage>e1001784</fpage>.
+<pub-id pub-id-type="doi">10.1371/journal.pmed.1001784</pub-id>
+<!--<pub-id pub-id-type="pmcid">4315568</pub-id>-->
+<pub-id pub-id-type="pmid">25646629</pub-id></mixed-citation></ref><ref id="R4"><label>4</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hagopian</surname><given-names>A</given-names></name><name><surname>Thompson</surname><given-names>MJ</given-names></name><name><surname>Fordyce</surname><given-names>M</given-names></name><etal/></person-group>: <article-title>The migration of physicians from sub-Saharan
+Africa to the United States of America: measures of the African brain
+drain.</article-title>
+<source><italic>Hum Resour Health.</italic></source>
+<year>2004</year>;<volume>2</volume>(<issue>1</issue>):<fpage>17</fpage>.
+<pub-id pub-id-type="doi">10.1186/1478-4491-2-17</pub-id>
+<!--<pub-id pub-id-type="pmcid">544595</pub-id>-->
+<pub-id pub-id-type="pmid">15598344</pub-id></mixed-citation></ref><ref id="R5"><label>5</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Naidoo</surname><given-names>N</given-names></name><name><surname>Pawitan</surname><given-names>Y</given-names></name><name><surname>Soong</surname><given-names>R</given-names></name><etal/></person-group>: <article-title>Human genetics and genomics a decade after the
+release of the draft sequence of the human genome.</article-title>
+<source><italic>Hum Genomics.</italic></source>
+<year>2011</year>;<volume>5</volume>(<issue>6</issue>):<fpage>577</fpage>&#x02013;<lpage>622</lpage>.
+<pub-id pub-id-type="doi">10.1186/1479-7364-5-6-577</pub-id>
+<!--<pub-id pub-id-type="pmcid">3525251</pub-id>-->
+<pub-id pub-id-type="pmid">22155605</pub-id></mixed-citation></ref><ref id="R6"><label>6</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Frodsham</surname><given-names>AJ</given-names></name><name><surname>Hill</surname><given-names>AV</given-names></name></person-group>: <article-title>Genetics of infectious diseases.</article-title>
+<source><italic>Hum Mol Genet.</italic></source>
+<year>2004</year>;<volume>13</volume>(<issue>suppl_
+2</issue>):<fpage>R187</fpage>&#x02013;<lpage>R194</lpage>.
+<pub-id pub-id-type="doi">10.1093/hmg/ddh225</pub-id>
+<pub-id pub-id-type="pmid">15358724</pub-id></mixed-citation></ref><ref id="R7"><label>7</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Burgner</surname><given-names>D</given-names></name><name><surname>Jamieson</surname><given-names>SE</given-names></name><name><surname>Blackwell</surname><given-names>JM</given-names></name></person-group>: <article-title>Genetic susceptibility to infectious diseases:
+big is beautiful, but will bigger be even better?</article-title>
+<source><italic>Lancet Infect Dis.</italic></source>
+<year>2006</year>;<volume>6</volume>(<issue>10</issue>):<fpage>653</fpage>&#x02013;<lpage>663</lpage>.
+<pub-id pub-id-type="doi">10.1016/S1473-3099(06)70601-6</pub-id>
+<!--<pub-id pub-id-type="pmcid">2330096</pub-id>-->
+<pub-id pub-id-type="pmid">17008174</pub-id></mixed-citation></ref><ref id="R8"><label>8</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Spagnuolo</surname><given-names>L</given-names></name><name><surname>De Simone</surname><given-names>M</given-names></name><name><surname>Lor&#x000e8;</surname><given-names>NI</given-names></name><etal/></person-group>: <article-title>The host genetic background defines diverse
+immune-reactivity and susceptibility to chronic <italic>Pseudomonas
+aeruginosa</italic> respiratory infection.</article-title>
+<source><italic>Sci Rep.</italic></source>
+<year>2016</year>;<volume>6</volume>: 36924.
+<pub-id pub-id-type="doi">10.1038/srep36924</pub-id>
+<!--<pub-id pub-id-type="pmcid">5111113</pub-id>-->
+<pub-id pub-id-type="pmid">27848994</pub-id></mixed-citation></ref><ref id="R9"><label>9</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Vogenberg</surname><given-names>FR</given-names></name><name><surname>Isaacson Barash</surname><given-names>C</given-names></name><name><surname>Pursel</surname><given-names>M</given-names></name></person-group>: <article-title>Personalized medicine: part 1: evolution and
+development into theranostics.</article-title>
+<source><italic>P T.</italic></source>
+<year>2010</year>;<volume>35</volume>(<issue>10</issue>):<fpage>560</fpage>&#x02013;<lpage>76</lpage>.
+<!--<pub-id pub-id-type="pmcid">2957753</pub-id>-->
+<pub-id pub-id-type="pmid">21037908</pub-id></mixed-citation></ref><ref id="R10"><label>10</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hofker</surname><given-names>MH</given-names></name><name><surname>Fu</surname><given-names>J</given-names></name><name><surname>Wijmenga</surname><given-names>C</given-names></name></person-group>: <article-title>The genome revolution and its role in
+understanding complex diseases.</article-title>
+<source><italic>Biochim Biophys Acta.</italic></source>
+<year>2014</year>;<volume>1842</volume>(<issue>10</issue>):<fpage>1889</fpage>&#x02013;<lpage>1895</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.bbadis.2014.05.002</pub-id>
+<pub-id pub-id-type="pmid">24834846</pub-id></mixed-citation></ref><ref id="R11"><label>11</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Fine</surname><given-names>MJ</given-names></name><name><surname>Ibrahim</surname><given-names>SA</given-names></name><name><surname>Thomas</surname><given-names>SB</given-names></name></person-group>: <article-title>The role of race and genetics in health
+disparities research.</article-title>
+<source><italic>Am J Public Health.</italic></source>
+<year>2005</year>;<volume>95</volume>(<issue>12</issue>):<fpage>2125</fpage>&#x02013;<lpage>8</lpage>.
+<pub-id pub-id-type="doi">10.2105/AJPH.2005.076588</pub-id>
+<!--<pub-id pub-id-type="pmcid">1449495</pub-id>-->
+<pub-id pub-id-type="pmid">16257933</pub-id></mixed-citation></ref><ref id="R12"><label>12</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Stocchi</surname><given-names>L</given-names></name><name><surname>Cascella</surname><given-names>R</given-names></name><name><surname>Zampatti</surname><given-names>S</given-names></name><etal/></person-group>: <article-title>The Pharmacogenomic HLA Biomarker Associated to
+Adverse Abacavir Reactions: Comparative Analysis of Different Genotyping
+Methods.</article-title>
+<source><italic>Curr Genomics.</italic></source>
+<year>2012</year>;<volume>13</volume>(<issue>4</issue>):<fpage>314</fpage>&#x02013;<lpage>320</lpage>.
+<pub-id pub-id-type="doi">10.2174/138920212800793311</pub-id>
+<!--<pub-id pub-id-type="pmcid">3394119</pub-id>-->
+<pub-id pub-id-type="pmid">23204921</pub-id></mixed-citation></ref><ref id="R13"><label>13</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Masimirembwa</surname><given-names>C</given-names></name><name><surname>Dandara</surname><given-names>C</given-names></name><name><surname>Leutscher</surname><given-names>PD</given-names></name></person-group>: <article-title>Rolling out Efavirenz for HIV Precision Medicine
+in Africa: Are We Ready for Pharmacovigilance and Tackling Neuropsychiatric
+Adverse Effects?</article-title>
+<source><italic>OMICS.</italic></source>
+<year>2016</year>;<volume>20</volume>(<issue>10</issue>):<fpage>575</fpage>&#x02013;<lpage>580</lpage>.
+<pub-id pub-id-type="doi">10.1089/omi.2016.0120</pub-id>
+<pub-id pub-id-type="pmid">27627692</pub-id></mixed-citation></ref><ref id="R14"><label>14</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Nyakutira</surname><given-names>C</given-names></name><name><surname>R&#x000f6;shammar</surname><given-names>D</given-names></name><name><surname>Chigutsa</surname><given-names>E</given-names></name><etal/></person-group>: <article-title>High prevalence of the <italic>CYP2B6</italic>
+516G&#x02192; T (* <italic>6</italic>) variant and effect on the population
+pharmacokinetics of efavirenz in HIV/AIDS outpatients in
+Zimbabwe.</article-title>
+<source><italic>Eur J Clin Pharmacol.</italic></source>
+<year>2008</year>;<volume>64</volume>(<issue>4</issue>):<fpage>357</fpage>&#x02013;<lpage>365</lpage>.
+<pub-id pub-id-type="doi">10.1007/s00228-007-0412-3</pub-id>
+<pub-id pub-id-type="pmid">18057928</pub-id></mixed-citation></ref><ref id="R15"><label>15</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ma</surname><given-names>JD</given-names></name><name><surname>Lee</surname><given-names>KC</given-names></name><name><surname>Kuo</surname><given-names>GM</given-names></name></person-group>: <article-title>HLA-B*5701 testing to predict abacavir
+hypersensitivity.</article-title>
+<source><italic>PLoS Curr.</italic></source>
+<year>2010</year>;<volume>2</volume>: RRN1203.
+<pub-id pub-id-type="doi">10.1371/currents.RRN1203</pub-id>
+<!--<pub-id pub-id-type="pmcid">3000684</pub-id>-->
+<pub-id pub-id-type="pmid">21151380</pub-id></mixed-citation></ref><ref id="R16"><label>16</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mlotshwa</surname><given-names>BC</given-names></name><name><surname>Mwesigwa</surname><given-names>S</given-names></name><name><surname>Mboowa</surname><given-names>G</given-names></name><etal/></person-group>: <article-title>The collaborative African genomics network
+training program: a trainee perspective on training the next generation of
+African scientists.</article-title>
+<source><italic>Genet Med.</italic></source>
+<year>2017</year>;<volume>19</volume>(<issue>7</issue>):<fpage>826</fpage>&#x02013;<lpage>833</lpage>.
+<pub-id pub-id-type="doi">10.1038/gim.2016.177</pub-id>
+<!--<pub-id pub-id-type="pmcid">5509501</pub-id>-->
+<pub-id pub-id-type="pmid">28383545</pub-id></mixed-citation></ref><ref id="R17"><label>17</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mboowa</surname><given-names>G</given-names></name><name><surname>Sserwadda</surname><given-names>I</given-names></name><name><surname>Amujal</surname><given-names>M</given-names></name><etal/></person-group>: <article-title>Human Genomic Loci Important in Common
+Infectious Diseases: Role of High-Throughput Sequencing and Genome-Wide
+Association Studies.</article-title>
+<source><italic>Can J Infect Dis Med Microbiol.</italic></source>
+<year>2018</year>;<volume>2018</volume>:<fpage>9</fpage>, 1875217. <pub-id pub-id-type="doi">10.1155/2018/1875217</pub-id>
+</mixed-citation></ref><ref id="R18"><label>18</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mbalinda</surname><given-names>SN</given-names></name><name><surname>Nabirye</surname><given-names>RC</given-names></name><name><surname>Ombeva</surname><given-names>EA</given-names></name><etal/></person-group>: <article-title>Nursing Partnership Activities, Components, and
+Outcomes: Health Volunteers Overseas in Uganda
+2001&#x02013;2016.</article-title>
+<source><italic>Front Public Health.</italic></source>
+<year>2017</year>;<volume>5</volume>:<fpage>173</fpage>.
+<pub-id pub-id-type="doi">10.3389/fpubh.2017.00173</pub-id>
+<!--<pub-id pub-id-type="pmcid">5509790</pub-id>-->
+<pub-id pub-id-type="pmid">28770193</pub-id></mixed-citation></ref><ref id="R19"><label>19</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Popejoy</surname><given-names>AB</given-names></name><name><surname>Fullerton</surname><given-names>SM</given-names></name></person-group>: <article-title>Genomics is failing on
+diversity.</article-title>
+<source><italic>Nature.</italic></source>
+<year>2016</year>;<volume>538</volume>(<issue>7624</issue>):<fpage>161</fpage>&#x02013;<lpage>164</lpage>.
+<pub-id pub-id-type="doi">10.1038/538161a</pub-id>
+<!--<pub-id pub-id-type="pmcid">5089703</pub-id>-->
+<pub-id pub-id-type="pmid">27734877</pub-id></mixed-citation></ref><ref id="R20"><label>20</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Need</surname><given-names>AC</given-names></name><name><surname>Goldstein</surname><given-names>DB</given-names></name></person-group>: <article-title>Next generation disparities in human genomics:
+concerns and remedies.</article-title>
+<source><italic>Trends Genet.</italic></source>
+<year>2009</year>;<volume>25</volume>(<issue>11</issue>):<fpage>489</fpage>&#x02013;<lpage>494</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.tig.2009.09.012</pub-id>
+<pub-id pub-id-type="pmid">19836853</pub-id></mixed-citation></ref><ref id="R21"><label>21</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Nordling</surname><given-names>L</given-names></name></person-group>: <article-title>How the genomics revolution could finally help
+Africa.</article-title>
+<source><italic>Nature.</italic></source>
+<year>2017</year>;<volume>544</volume>(<issue>7648</issue>):<fpage>20</fpage>&#x02013;<lpage>22</lpage>.
+<pub-id pub-id-type="doi">10.1038/544020a</pub-id>
+<pub-id pub-id-type="pmid">28383002</pub-id></mixed-citation></ref><ref id="R22"><label>22</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chapman</surname><given-names>SJ</given-names></name><name><surname> Hill</surname><given-names>AV</given-names></name></person-group>: <article-title>Human genetic susceptibility to infectious
+disease.</article-title>
+<source><italic>Nat Rev Genet.</italic></source>
+<year>2012</year>;<volume>13</volume>(<issue>3</issue>):<fpage>175</fpage>&#x02013;<lpage>88</lpage>.
+<pub-id pub-id-type="doi">10.1038/nrg3114</pub-id>
+<pub-id pub-id-type="pmid">22310894</pub-id></mixed-citation></ref><ref id="R23"><label>23</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Retshabile</surname><given-names>G</given-names></name><name><surname>Mlotshwa</surname><given-names>BC</given-names></name><name><surname>Williams</surname><given-names>L</given-names></name><etal/></person-group>: <article-title>Whole-exome Sequencing Reveals Uncaptured
+Variation and Distinct Ancestry in the Southern African Population of
+Botswana</article-title>. AJHG.
+Forthcoming.<year>2018</year>.</mixed-citation></ref><ref id="R24"><label>24</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mwesigwa</surname><given-names>S</given-names></name><name><surname>Moulds</surname><given-names>JM</given-names></name><name><surname>Chen</surname><given-names>A</given-names></name><etal/></person-group>: <article-title>Whole-exome sequencing of sickle cell disease
+patients with hyperhemolysis syndrome suggests a role for rare variation in
+disease predisposition.</article-title>
+<source><italic>Transfusion.</italic></source>
+<year>2018</year>;<volume>58</volume>(<issue>3</issue>):<fpage>726</fpage>&#x02013;<lpage>735</lpage>.
+<pub-id pub-id-type="doi">10.1111/trf.14431</pub-id>
+<!--<pub-id pub-id-type="pmcid">5847445</pub-id>-->
+<pub-id pub-id-type="pmid">29210071</pub-id></mixed-citation></ref><ref id="R25"><label>25</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rafael</surname><given-names>CN</given-names></name><name><surname>Ashano</surname><given-names>E</given-names></name><name><surname>Moosa</surname><given-names>Y</given-names></name><etal/></person-group>: <article-title>Highlights of the second ISCB Student Council
+Symposium in Africa, 2017 [version 1; referees: not peer
+reviewed].</article-title>
+<source><italic>F1000Res.</italic></source>
+<year>2017</year>;<volume>6</volume>: pii: ISCB Comm J-2183.
+<pub-id pub-id-type="doi">10.12688/f1000research.13463.1</pub-id>
+<!--<pub-id pub-id-type="pmcid">5749132</pub-id>-->
+<pub-id pub-id-type="pmid">29333232</pub-id></mixed-citation></ref></ref-list></back><floats-group><fig fig-type="figure" orientation="portrait" id="F1" position="float"><label>Figure 1. </label><caption><title>
+<italic>CAfGEN</italic> collaborating institutions.</title></caption><graphic xlink:href="emss-80337-f001"/></fig><fig fig-type="figure" orientation="portrait" id="F2" position="float"><label>Figure 2. </label><caption><title>CAfGEN Activities.</title></caption><graphic xlink:href="emss-80337-f002"/></fig><fig fig-type="figure" orientation="portrait" id="F3" position="float"><label>Figure 3. </label><caption><title>Genome adventures comics.</title></caption><graphic xlink:href="emss-80337-f003"/></fig></floats-group><sub-article id="REPORT26408" article-type="peer-review"><front-stub><title-group><article-title>Referee response for version 1</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>de Vries</surname><given-names>Jantina</given-names></name><xref ref-type="aff" rid="A18">2</xref><role>Referee</role><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0001-7192-2633</contrib-id></contrib><contrib contrib-type="author"><name><surname>Munung</surname><given-names>Syntia Nchangwi</given-names></name><xref ref-type="aff" rid="A17">1</xref><role>Co-referee</role></contrib><aff id="A17">
+<label>1</label>University of Cape Town (UCT), Cape Town, South Africa</aff><aff id="A18">
+<label>2</label>Department of Medicine, University of Cape Town&#x000a0;(UCT), Cape
+Town, South Africa</aff></contrib-group><author-notes><fn fn-type="COI-statement" id="FN3"><p id="P77">
+<bold>Competing interests: </bold>No competing interests were disclosed.</p></fn></author-notes><pub-date pub-type="epub"><day>21</day><month>5</month><year>2018</year></pub-date><custom-meta-group><custom-meta><meta-name>recommendation</meta-name><meta-value>approve</meta-value></custom-meta></custom-meta-group></front-stub><body><p id="P78">In this paper, Mbwoowa <italic>et al </italic>present the CafGEN project,
+and describe how it operates, what the pertinent challenges are, and how it has gone
+about community engagement. The paper illustrates that a well organised and funded
+collaborative genomics project in Africa can, in a short period of time, achieve a
+lot in terms of research capacity building. That is quite an encouraging and
+important message in the manuscript.&#x000a0;</p><p id="P79"> Major Comments:</p><p id="P80"> In both the abstract and in the introduction, you first mention H3Africa
+and then CafGEN, and we would suggest that you reverse that order. In doing that,
+you&#x02019;ll give more prominence to your own work &#x02013; a small but important
+change of focus. In the way you present your work, we think you should make it clear
+that CafGEN derives legitimacy from the pertinent scientific questions in this
+field, and not from H3Africa. H3Africa is the facilitator of CafGEN through funding,
+network building, and infrastructure &#x02013; it is not the reason that CafGEN
+exists though. <list list-type="bullet" id="L5"><list-item><p id="P81">In the same vein, it is not that interesting for an audience to
+know that &#x02018;a call for applications was issued&#x02019;. Rather,
+why don&#x02019;t you speak about the most important challenges in the
+field of (paediatric) HIV/AIDS research that motivated you to set up
+CafGEN? With a follow up section on how CafGEN will systematically
+tackle those questions. <list list-type="bullet" id="L6"><list-item><p id="P82">So in short, what we would suggest is that you
+review your entire first page of the manuscript, and cut out
+much of the current text, and rather introduce the context
+pertinent to CafGEN specifically. In a way, we would suggest
+re-writing your text to demonstrate (rather than state) that
+CafGEN is a &#x02018;unique, highly synergistic African
+alliance&#x02019;</p></list-item><list-item><p id="P83">One example of that is that it&#x02019;s only on pg 5
+of the current manuscript that you introduce the three
+Centers of Excellence that CafGEN work is premised on
+&#x02013; but isn&#x02019;t the collective experience in those
+centres (and a detailed understanding of the knowledge gaps
+derived thereof) the backbone to the collaboration? If so,
+then this should take centre stage in the article.</p></list-item><list-item><p id="P84">In a way, we propose that the text on Pg 6 achieves
+some of our suggestions above.</p></list-item></list>
+</p></list-item></list> &#x000a0;</p><p id="P85"> Minor comments:</p><p id="P86"> 1. One of the 6 CAFGEN sites is the Swaziland Children&#x02019;s Clinical
+Centres of Excellence (Page 4). But the article is silent on research and capacity
+building activities in this country/site, except that the Swaziland COE was added
+later on to boost the enrolment in the TB case-control component of the study (see
+page 8). It therefore appears that much of the capacity building and research
+activities took place in Uganda and Botswana and not Swaziland. Maybe the authors
+can add a few sentences on the capacity building and research activities at this
+site. If none, then maybe explain why that wasn&#x02019;t the case and the challenges
+they had in implementing capacity building and research in Swaziland.</p><p id="P87"> 2. Page 4: I think the use of heart disease as an example of an inherited
+disease may not be the best. Perhaps it is the way it is used in the sentence
+&#x02013; we would encourage the authors to review this sentence and the example and
+to perhaps to use another example or to reword the sentence.</p><p id="P88"> 3. Page 7. Consent forms where translated to Luganda and Setswana. Again,
+information for the Lesotho site is missing, though there was participant enrolment
+at the site. Please can you add information on consent, Recruitment/CE for the
+Lesotho site or otherwise explain how this site fits in with the other sites.</p><p id="P89"> 4. Page 8. Community engagement activities:The CAFGEN comic series is
+described as an innovative (maybe creative?) CE method (and we agree). The authors
+can maybe add a sentence or two on why they consider it innovative and also a few
+lines, in the discussion, on the advantages of this CE method for genomics research
+in Africa. This will benefit readers who are not familiar with CE in health research
+in Africa or the use of comics and social media for CE in health research in
+Africa.</p><p id="P90"> The first community engagement activity -- classroom training for health
+care workers may fit better in the section on &#x0201c;Capacity building and
+infrastructure development&#x0201d;. This is perhaps more an activity concerning
+training in research ethics for health care workers than a community engagement
+activity?</p><p id="P91">We have read this submission. We believe that we have an appropriate level
+of expertise to confirm that it is of an acceptable scientific standard.</p></body></sub-article><sub-article id="REPORT26342" article-type="peer-review"><front-stub><title-group><article-title>Referee response for version 1</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Hollox</surname><given-names>Edward J</given-names></name><xref ref-type="aff" rid="A19">1</xref><role>Referee</role><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-0115-2298</contrib-id></contrib><aff id="A19">
+<label>1</label>Department of Genetics and Genome Biology, University of
+Leicester, Leicester, UK</aff></contrib-group><author-notes><fn fn-type="COI-statement" id="FN4"><p id="P92">
+<bold>Competing interests: </bold>No competing interests were disclosed.</p></fn></author-notes><pub-date pub-type="epub"><day>30</day><month>4</month><year>2018</year></pub-date><custom-meta-group><custom-meta><meta-name>recommendation</meta-name><meta-value>approve</meta-value></custom-meta></custom-meta-group></front-stub><body><p id="P93">This paper describes the construction and aims of the Collaborative African
+Genomics Network (CAfGEN), with a focus on the training on a cohort of African
+genomics researchers, as well as investigating the host genetic factors that
+influence progression of HIV and HIV-tuberculosis co-infection in sub-Saharan
+Africa.</p><p id="P94"> This is a very useful document that describes the development of CafGEN,
+and provides information to other African genomics partnerships in approaches to
+build a collaboration that includes training and research. In particular, it
+highlights infrastructure and community engagement approaches, and identifies
+roadblocks to this, and potentially other, capacity-building programmes.</p><p id="P95"> I only have a few minor suggestions that would improve the manuscript.
+<list list-type="order" id="L7"><list-item><p id="P96">Page 4, paragraph 2. &#x0201c;Key to this, is
+identifying&#x0201d;. No comma needed.</p></list-item><list-item><p id="P97">Page 4, paragraph 2. &#x0201c;relatively straightforward
+variation in a single gene&#x0201d;. This sentence needs to be clarified,
+reworded, and perhaps this point should be expanded. Sickle cell disease
+is, as the authors will know, caused by a single variant in a single
+gene, there are other genetic disease that are caused by different
+variants in a single gene, and the complexity increases in a continuum
+to complex multifactorial disease. The sentence seems to suggest that it
+is either a single gene disease, or a complex disease. It also seems to
+suggest that heart disease is an inherited disease &#x000a0;&#x02013;
+I&#x02019;m sure this was not the intention of the authors but the
+sentence can be read this way.</p></list-item><list-item><p id="P98">Page 4, paragraph 3. &#x0201c;&#x02026; DNA variation both
+directly and indirectly impacts disease outcomes&#x0201d;. The previous
+paragraph discusses how DNA variation can directly affect disease
+outcomes, but the authors need to be more explicit how DNA variation
+indirectly affects disease outcomes.</p></list-item><list-item><p id="P99">Page 4, column 2, paragraph 1. &#x0201c;classically considered to
+be the wellspring of modern humanity&#x0201d;. This sentence is vague and
+should be rewritten. In particular, reconsider the use of the term
+&#x0201c;classically&#x0201d; as I don&#x02019;t think this is the case,
+and try to avoid the circularity in this sentence &#x02013; evidence for
+Africa being the origin of modern humans comes from the observed high
+levels of genetic diversity, while this sentence seems to suggest the
+inference is the other way around.</p></list-item><list-item><p id="P100">Page 4, column 2, paragraph 2. &#x0201c;After&#x0201d; is clearer
+than &#x0201c;Subsequent to&#x0201d;.</p></list-item><list-item><p id="P101">Page 6 column 1. It is not clear why some aims are split into 2
+&#x02013; a and b. Either combine these to make five aims, or give them
+different numbers to make 8 aims.</p></list-item><list-item><p id="P102">Page 6, aim 2a. It is not clear why &#x0201c;established&#x0201d;
+is in scare quotes. Do the authors mean that these loci are established
+in Europeans but not Africans? The authors should clarify this.</p></list-item><list-item><p id="P103">Page 7, paragraph 1. The second sentence is not clear.
+I&#x02019;d suggest rewording: &#x0201c;The parent or legal guardian
+provided written informed consent on behalf of participants who were
+younger than the legal age of consent (18 years in Uganda and 21 years
+in Botswana).&#x0201d;</p></list-item></list>
+</p><p id="P104">I have read this submission. I believe that I have an appropriate level of
+expertise to confirm that it is of an acceptable scientific standard.</p></body></sub-article></article>

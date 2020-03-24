@@ -1,0 +1,953 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="review-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Bone Res</journal-id><journal-id journal-id-type="iso-abbrev">Bone Res</journal-id><journal-title-group><journal-title>Bone Research</journal-title></journal-title-group><issn pub-type="ppub">2095-4700</issn><issn pub-type="epub">2095-6231</issn><publisher><publisher-name>Nature Publishing Group</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">26962464</article-id><article-id pub-id-type="pmc">4772471</article-id><article-id pub-id-type="pii">boneres201540</article-id><article-id pub-id-type="doi">10.1038/boneres.2015.40</article-id><article-categories><subj-group subj-group-type="heading"><subject>Review Article</subject></subj-group></article-categories><title-group><article-title>Current research on pharmacologic and regenerative therapies for osteoarthritis</article-title><alt-title alt-title-type="running">Potential new therapies for OA</alt-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Zhang</surname><given-names>Wei</given-names></name><xref ref-type="aff" rid="aff1">1</xref><xref ref-type="aff" rid="aff2">2</xref></contrib><contrib contrib-type="author"><name><surname>Ouyang</surname><given-names>Hongwei</given-names></name><xref ref-type="aff" rid="aff1">1</xref></contrib><contrib contrib-type="author"><name><surname>Dass</surname><given-names>Crispin R</given-names></name><xref ref-type="aff" rid="aff3">3</xref></contrib><contrib contrib-type="author"><name><surname>Xu</surname><given-names>Jiake</given-names></name><xref ref-type="aff" rid="aff2">2</xref><xref ref-type="corresp" rid="caf1">*</xref></contrib><aff id="aff1"><label>1</label>
+<institution>Center for Stem Cell and Tissue Engineering, School of Medicine, Zhejiang University</institution>, Hangzhou 310058, <country>China</country>
+</aff><aff id="aff2"><label>2</label>
+<institution>School of Pathology and Laboratory Medicine, The University of Western Australia</institution>, Perth WA 6009, <country>Australia</country>
+</aff><aff id="aff3"><label>3</label>
+<institution>School of Pharmacy, Building 306, Curtin University</institution>, Bentley, Perth WA 6102, <country>Australia</country>
+</aff></contrib-group><author-notes><corresp id="caf1"><label>*</label>
+(<email>jiake.xu@uwa.edu.au</email>)</corresp></author-notes><pub-date pub-type="epub"><day>01</day><month>03</month><year>2016</year></pub-date><pub-date pub-type="collection"><year>2016</year></pub-date><volume>4</volume><fpage>15040</fpage><lpage/><history><date date-type="received"><day>10</day><month>10</month><year>2015</year></date><date date-type="rev-recd"><day>05</day><month>12</month><year>2015</year></date><date date-type="accepted"><day>06</day><month>12</month><year>2015</year></date></history><permissions><copyright-statement>Copyright &#x000a9; 2016 Sichuan University</copyright-statement><copyright-year>2016</copyright-year><copyright-holder>Sichuan University</copyright-holder><license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/"><!--author-paid--><license-p>This work is licensed under a Creative Commons Attribution 4.0 International License. The images or other third party material in this article are included in the article&#x02019;s Creative Commons license, unless indicated otherwise in the credit line; if the material is not included under the Creative Commons license, users will need to obtain permission from the license holder to reproduce the material. To view a copy of this license, visit <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link></license-p></license></permissions><abstract><p>Osteoarthritis (OA) is a degenerative joint disorder commonly encountered in clinical practice, and is the leading cause of disability in elderly people. Due to the poor self-healing capacity of articular cartilage and lack of specific diagnostic biomarkers, OA is a challenging disease with limited treatment options. Traditional pharmacologic therapies such as acetaminophen, non-steroidal anti-inflammatory drugs, and opioids are effective in relieving pain but are incapable of reversing cartilage damage and are frequently associated with adverse events. Current research focuses on the development of new OA drugs (such as sprifermin/recombinant human fibroblast growth factor-18, tanezumab/monoclonal antibody against &#x003b2;-nerve growth factor), which aims for more effectiveness and less incidence of adverse effects than the traditional ones. Furthermore, regenerative therapies (such as autologous chondrocyte implantation (ACI), new generation of matrix-induced ACI, cell-free scaffolds, induced pluripotent stem cells (iPS cells or iPSCs), and endogenous cell homing) are also emerging as promising alternatives as they have potential to enhance cartilage repair, and ultimately restore healthy tissue. However, despite currently available therapies and research advances, there remain unmet medical needs in the treatment of OA. This review highlights current research progress on pharmacologic and regenerative therapies for OA including key advances and potential limitations.</p></abstract></article-meta></front><body><sec><title>Introduction</title><p>Osteoarthritis (OA), also known as degenerative joint disease, is characterized by cartilage degeneration and osseous overgrowth. OA is commonly encountered in today&#x02019;s clinical practice. The incidence of OA increases with age, and it is one of the most prevalent diseases in older people. In the USA alone, 10% of men and 13% of women aged 60 and older have been diagnosed with knee OA.<sup>
+<xref ref-type="bibr" rid="bib1">1</xref>
+</sup> The symptoms of OA include joint pain, swelling, tenderness, stiffness, and sometimes locking, which may lead to disability and severely affect the life quality of patients.<sup>
+<xref ref-type="bibr" rid="bib2">2</xref>
+</sup>
+</p><p>Due to the lack of self-healing capacity of articular cartilage, OA is among the most challenging joint diseases and there is currently no cure for it. The focus of treatment for OA is to reduce pain and improve function of the affected joints.<sup>
+<xref ref-type="bibr" rid="bib3">3</xref>
+</sup> Normally, applied pharmacologic therapy shows efficacy in pain relief but is frequently associated with adverse events.<sup>
+<xref ref-type="bibr" rid="bib4">4</xref>
+</sup> In recent years, emerging regenerative therapy has gained much attention as it can efficiently promote tissue repair and regeneration.<sup>
+<xref ref-type="bibr" rid="bib5">5</xref>
+</sup>
+</p><p>This review mainly focuses on the current pharmacologic and regenerative therapeutic approaches for OA treatment. It includes therapy that has been confirmed clinically effective and used for decades, as well as therapy that shows promise in preclinical research and can potentially be translated for future clinical application, offering a systematic overview of progress in OA treatment in relation to progress with pharmacologic and regenerative therapy.</p></sec><sec><title>Cartilage and OA</title><p>Articular cartilage is a typical hyaline cartilage that covers the ends of bones making up the joints in the body. It maintains smooth and frictionless movement, and dissipates stress in the joint. Articular cartilage is an avascular and aneural tissue; it consists primarily of chondrocytes and extracellular matrix including collagen type 2 and proteoglycans,<sup>
+<xref ref-type="bibr" rid="bib6">6</xref>
+</sup> which transmit loads, stabilize the matrix, and maintain a healthy cartilage microenvironment. Due to its load-bearing function, cartilage is highly susceptible to damage during sports activities, and wear and tear over time. First proposed by Hunter in 1742,<sup>
+<xref ref-type="bibr" rid="bib7">7</xref>
+</sup> it has long been recognized that cartilage defects cannot heal spontaneously. Researchers believe that the poor self-healing capacity is probably due to the poor blood supply and low metabolic activity in cartilage. If injured cartilage is not treated, it gets worse and affects surrounding tissue, and ultimately degenerates into OA.<sup>
+<xref ref-type="bibr" rid="bib8">8</xref>,<xref ref-type="bibr" rid="bib9">9</xref>
+</sup>
+</p><p>Microscopically, OA cartilage is characterized by loss of collagen and proteoglycans,<sup>
+<xref ref-type="bibr" rid="bib10">10</xref>,<xref ref-type="bibr" rid="bib11">11</xref>
+</sup> thus perturbing the extracellular matrix structure and impairing the biomechanical properties.<sup>
+<xref ref-type="bibr" rid="bib6">6</xref>
+</sup> Chondrocytes near the superficial layer form clusters, whereas in the deep and calcified layers, they undergo apoptotic death.<sup>
+<xref ref-type="bibr" rid="bib12 bib13 bib14">12&#x02013;14</xref>
+</sup> Chondrocyte proliferation is somewhat activated, but cannot resist the predominant catabolic activity.<sup>
+<xref ref-type="bibr" rid="bib12">12</xref>
+</sup> During disease progression, OA chondrocytes produce matrix-degrading enzymes including matrix metalloproteinase 13 (MMP13), which degrades collagen and A disintegrin, and metalloproteinase with thrombospondin motifs-5 (Adamts-5), which targets aggrecan.<sup>
+<xref ref-type="bibr" rid="bib15">15</xref>,<xref ref-type="bibr" rid="bib16">16</xref>
+</sup> The synthesis of degradative enzymes further exacerbates the breakdown of articular cartilage. The biomechanical and biochemical changes would together disrupt cartilage homeostasis and contribute to the pathogenesis of OA, which leads to joint space narrowing, painful cartilage destruction, and loss of function.</p><p>In addition to cartilage degeneration, OA usually affects all structures in the synovial joint. Aberrant hypertrophy and calcification are reported in several OA cases, which is similar to the terminal differentiation process during endochondral ossification.<sup>
+<xref ref-type="bibr" rid="bib15">15</xref>,<xref ref-type="bibr" rid="bib17">17</xref>,<xref ref-type="bibr" rid="bib18">18</xref>
+</sup> Osseous outgrowths called osteophytes often form at the joint margins.<sup>
+<xref ref-type="bibr" rid="bib19">19</xref>,<xref ref-type="bibr" rid="bib20">20</xref>
+</sup> Subchondral bone sclerosis,<sup>
+<xref ref-type="bibr" rid="bib21">21</xref>
+</sup> meniscal tear and extrusion,<sup>
+<xref ref-type="bibr" rid="bib22">22</xref>
+</sup> and synovial membrane inflammation (synovitis)<sup>
+<xref ref-type="bibr" rid="bib23">23</xref>
+</sup> may also occur due to the mechanical changes in OA cartilage, and make OA disease more debilitating (<xref ref-type="fig" rid="fig1">Figure 1</xref>).</p></sec><sec><title>Overview of OA treatment</title><p>According to the Osteoarthritis Research Society International (OARSI) and the American Academy of Orthopaedic Surgeons (AAOS), the mainstay of OA treatments involves physical measures, drug therapy, and surgery.<sup><xref ref-type="bibr" rid="bib3">3</xref>,<xref ref-type="bibr" rid="bib24">24</xref></sup> Physical therapy is a simple, everyday adjunctive treatment. Weight loss can adjust the imbalanced mechanical stress, lessen joint pain, and reduce OA risks.<sup><xref ref-type="bibr" rid="bib25 bib26 bib27">25&#x02013;27</xref></sup> Moderate exercises help strengthen muscles and may delay the progression of OA.<sup><xref ref-type="bibr" rid="bib28">28</xref>,<xref ref-type="bibr" rid="bib29">29</xref></sup> Alternative treatments such as spa, massage, and acupuncture are also beneficial but lack enough evidence to support efficacy.<sup><xref ref-type="bibr" rid="bib30">30</xref>,<xref ref-type="bibr" rid="bib31">31</xref></sup> Surgery is only considered for severe cases when conservative therapy is ineffective because of the invasive trauma and higher risks. Arthroscopic irrigation and debridement provide a certain degree of pain relief but are not beneficial for long-term recovery.<sup><xref ref-type="bibr" rid="bib32">32</xref>,<xref ref-type="bibr" rid="bib33">33</xref></sup> Drilling and microfracture techniques aim at penetrating the subchondral plate to induce bone marrow stromal cells for spontaneous repair, but the repaired tissue is inferior and consists of less durable fibrocartilage.<sup><xref ref-type="bibr" rid="bib34">34</xref>,<xref ref-type="bibr" rid="bib35">35</xref></sup> Total joint replacement/arthroplasty is regarded as the best orthopaedic surgery for advanced OA. It can potentially reduce pain and improve joint function. Unfortunately, arthroplasty is not recommended for young patients, as the artificial implant has a finite lifespan (usually 10&#x02013;15 years). In addition, the long-term results of arthroplasty differ significantly.<sup><xref ref-type="bibr" rid="bib36">36</xref>,<xref ref-type="bibr" rid="bib37">37</xref></sup>
+</p><p>Pharmaceutical therapy is the most commonly used OA treatment option aimed mainly at pain relief and anti-inflammation. The traditional OA drugs are limited to control OA symptoms, but none can reverse the damage in the OA joint. And, the traditional drugs are always overwhelmed by its high incidence of adverse effects. Studies of new OA drugs (mainly biologic agents) with more effectiveness and fewer side effects are underway. In addition, regenerative therapy holds the possibility of repairing and regenerating damaged or lost tissues to restore the original structure and function.<sup><xref ref-type="bibr" rid="bib38">38</xref></sup> It has already been applied in the orthopaedic clinic for several decades and promising outcomes have been achieved.<sup><xref ref-type="bibr" rid="bib5">5</xref>,<xref ref-type="bibr" rid="bib39">39</xref></sup> In recent years, pilot clinical studies, although few, show the usefulness of regenerative therapy in the treatment of OA, suggesting its potential to be translated from bench to bedside.<sup><xref ref-type="bibr" rid="bib40 bib41 bib42 bib43 bib44 bib45 bib46 bib47">40&#x02013;47</xref></sup> In the next sections, we would like to focus on the current pharmaceutical and regenerative therapies that have been clinically investigated, and that show safety and effectiveness in the management of OA.</p></sec><sec><title>Pharmacologic therapy</title><sec><title>Traditional OA drugs</title><p>There are mainly five kinds of medications commonly used in today&#x02019;s clinical treatment of OA: acetaminophen, non-steroidal anti-inflammatory drugs (NSAIDs), opioid analgesics, serotonin&#x02013;norepinephrine reuptake inhibitors (SNRIs), and intra-articular injections. As there has been a considerable amount of literature focusing on the traditional drugs, here we provide a brief updated overview. The recommendations of the AAOS, American College of Rheumatology (ACR) and OARSI are summarized in <xref rid="tbl1" ref-type="table">Table 1</xref>.</p><sec><title>Acetaminophen</title><p>Acetaminophen or paracetamol is an essential medicine as recognized by the World Health Organization, and is commonly used to reduce fever and relieve pains such as headache, muscle aches, backaches, and toothaches. Due to its relative safety and effectiveness, acetaminophen is recommended as the first-line oral analgesic for mild-to-moderate OA by most guidelines. According to ACR and OARSI guidelines, up to 4000&#x02009;mg per day is an effective initial treatment for mild-to-moderate knee or hip OA.<sup><xref ref-type="bibr" rid="bib3">3</xref>,<xref ref-type="bibr" rid="bib48">48</xref>,<xref ref-type="bibr" rid="bib49">49</xref></sup> Overdosing acetaminophen may be toxic to the liver.<sup><xref ref-type="bibr" rid="bib50">50</xref>,<xref ref-type="bibr" rid="bib51">51</xref></sup> Due to the risk of liver damage, on 13 January 2011, the US Food and Drug Administration (FDA) limited the amount of acetaminophen in prescription combination products to no &#x0003e;325&#x02009;mg per dosage unit.<sup><xref ref-type="bibr" rid="bib52">52</xref></sup> Consistent with the change made by the FDA, the latest 2013 AAOS guideline downgraded the acetaminophen recommendation level to inconclusive and reduced the daily dosage from 4&#x02009;000 to 3&#x02009;000&#x02009;mg.<sup><xref ref-type="bibr" rid="bib24">24</xref></sup> For patients with severe symptoms or who do not respond to acetaminophen, more potent drugs should be considered, such as NSAIDs.</p></sec><sec><title>NSAIDs</title><p>NSAIDs provide anti-inflammatory and analgesic effects, and have long been used as an important remedy for moderate-to-severe OA. Acetaminophen is not regarded as an NSAID as it has little anti-inflammatory effect. Some studies adopted meta-analysis to compare the safety and efficacy between acetaminophen and NSAIDs.<sup><xref ref-type="bibr" rid="bib53">53</xref>,<xref ref-type="bibr" rid="bib54">54</xref></sup> By analyzing eight randomized controlled trials (RCTs), NSAIDs were better overall than acetaminophen in terms of pain relief. Although the efficacy of NSAIDs for OA treatment has been well documented, the health concerns, however, greatly restrict their extensive application. It is estimated that the occurrence of adverse effects is ~30% in people taking NSAIDs.<sup><xref ref-type="bibr" rid="bib55">55</xref></sup> A total of 1%&#x02013;2% of people using NSAIDs develop gastrointestinal (GI) complications per year, which is much higher than that of people who do not use NSAIDs.<sup><xref ref-type="bibr" rid="bib56">56</xref>,<xref ref-type="bibr" rid="bib57">57</xref></sup> Although selective COX-2 inhibitors appeared safer than traditional NSAIDs, several commercial drugs have been placed under scrutiny or withdrawn by the FDA. The first approved COX-2 inhibitor Celecoxib (Celebrex, Pfizer, New York, NY, USA) received an FDA alert for the potential risk of serious adverse cardiovascular events.<sup><xref ref-type="bibr" rid="bib58">58</xref></sup> Rofecoxib (Vioxx, Merck, Kenilworth, NJ, USA) and Valdecoxib (Bextra, Pfizer, New York, NY, USA) were withdrawn from the market for associated cardiovascular risks and other side effects.<sup><xref ref-type="bibr" rid="bib59">59</xref>,<xref ref-type="bibr" rid="bib60">60</xref></sup> Therefore, there is a balance between the efficacy and safety of NSAIDs, and the benefit/risk ratio should be considered when taking these drugs. It is recommended by OARSI that NSAIDs be used at the minimum effective dose and prolonged use should be avoided as much as possible.<sup><xref ref-type="bibr" rid="bib3">3</xref></sup>
+</p></sec><sec><title>Opioid analgesics</title><p>Opioids are used for the management of moderate-to-severe pain when NSAIDs and acetaminophen are ineffective or contraindicated.<sup><xref ref-type="bibr" rid="bib3">3</xref></sup> There has been an increased use of opioids in OA treatment (31% opioid prescribed in 2003 to 40% in 2009),<sup><xref ref-type="bibr" rid="bib61">61</xref></sup> however, the frequent adverse effects associated with opioids, including nausea, vomiting, dizziness, constipation, sleepiness, tiredness, and headache, may outweigh the benefits in pain relief.<sup><xref ref-type="bibr" rid="bib62 bib63 bib64">62&#x02013;64</xref></sup> Opioid abuse is another potential risk of using these drugs. Routine use should be avoided, and low effective and tolerated doses are recommended.</p></sec><sec><title>SNRIs</title><p>SNRIs are primarily used in the treatment of depression and other mood disorders. In 2010, the FDA approved duloxetine, a selective SNRI, for the management of chronic musculoskeletal pain including OA.<sup><xref ref-type="bibr" rid="bib65">65</xref></sup> Duloxetine was considered an acceptable and favorable OA treatment based on the results from two double-blind, placebo-controlled RCTs.<sup><xref ref-type="bibr" rid="bib66">66</xref>,<xref ref-type="bibr" rid="bib67">67</xref></sup> It may be a promising and efficacious way to alleviate OA pain for patients who are unable to take other commonly used drugs. The FDA approval and ACR recommendation<sup><xref ref-type="bibr" rid="bib49">49</xref></sup> also confirm its value in clinical use. However, AAOS and OARSI have not included duloxetine in their OA management guidelines,<sup><xref ref-type="bibr" rid="bib3">3</xref>,<xref ref-type="bibr" rid="bib24">24</xref></sup> as more large-scale longitudinal studies to further investigate the safety and efficacy for OA treatment have to be performed.</p></sec><sec><title>Intra-articular injections</title><p>Intra-articular injection of corticosteroids and hyaluronic acid are selectively used in the treatment of OA. Corticosteroid injection is recommended by OARIS for patients with moderate-to-severe pain who do not respond to oral analgesic and anti-inflammatory agents.<sup><xref ref-type="bibr" rid="bib3">3</xref></sup> ACR and AAOS conditionally recommended corticosteroids for knee and/or for hip OA.<sup><xref ref-type="bibr" rid="bib24">24</xref>,<xref ref-type="bibr" rid="bib49">49</xref></sup> Hyaluronic acid is a component in both healthy and OA joint fluid. Intra-articular injection of hyaluronic acid is recommended by OARIS as a treatment option for knee or hip OA.<sup><xref ref-type="bibr" rid="bib3">3</xref></sup> However, the efficacy of hyaluronic acid injection varies. The 2013 edition of the AAOS guideline downgraded the recommendation on hyaluronic acid from an inconclusive level to a non-affirming level after excluding the evidence of lower strength.<sup><xref ref-type="bibr" rid="bib24">24</xref></sup>
+</p></sec></sec><sec><title>New OA drugs</title><p>The unsatisfactory effects and unacceptable side effects associated with traditional OA drugs warrant a continued search for potential new medications. Although few of them have received the regulatory approval for routine clinical use, a variety of new OA drugs have shown promising results in clinical trials (<xref rid="tbl2" ref-type="table">Table 2</xref>). On the basis of the potential therapeutic targets, they can be classified as chondrogenesis inducers, osteogenesis inhibitors, matrix degradation inhibitors, apoptosis inhibitors, and anti-inflammatory cytokines.<sup><xref ref-type="bibr" rid="bib68">68</xref></sup>
+</p><sec><title>Bone morphogenetic protein-7</title><p>Recombinant human bone morphogenetic protein-7 (BMP-7), also called osteogenic protein-1 (OP-1), was a FDA-approved biologic for the treatment of bone nonunions and spine fusion.<sup><xref ref-type="bibr" rid="bib69">69</xref></sup> A phase 1 safety and tolerability study first reported the use of BMP-7 in symptomatic knee OA.<sup><xref ref-type="bibr" rid="bib70">70</xref></sup> Thirty-three OA patients (mean age 60 years) were intra-articularly injected with four doses of BMP-7 or placebo. Participants who received 0.1 and 0.3&#x02009;mg of BMP-7 showed greater symptomatic improvement and higher OARSI response rate. No dose-limiting toxicity was found. Phase 2 study with 0.1 and 0.3&#x02009;mg dosing cohorts would be further conducted in future.</p></sec><sec><title>Interleukin-1&#x003b2;</title><p>Two randomized, double-blind, placebo-controlled studies attempted interleukin (IL)-1&#x003b2; inhibitor for knee OA treatment. One study administered IL-1&#x003b2; receptor antagonist intra-articularly in 160 patients,<sup><xref ref-type="bibr" rid="bib71">71</xref></sup> and the other injected AMG108, a IL-1&#x003b2; receptor antibody, subcutaneously and intravenously in 159 patients.<sup><xref ref-type="bibr" rid="bib72">72</xref></sup> Although IL-1&#x003b2; receptor antagonist/antibody was well tolerated, no significant clinical improvements were reported compared with placebo in either study.</p></sec><sec><title>&#x003b2;-Nerve growth factor</title><p>Tanezumab, a monoclonal antibody against &#x003b2;-nerve growth factor, has been tested clinically against OA. A proof-of-concept study of tanezumab was performed in 450 patients with knee OA.<sup><xref ref-type="bibr" rid="bib73">73</xref></sup> As compared with the placebo treatment, treatment with tanezumab significantly reduced knee pain while walking and improved the patients&#x02019; global assessment. However, 68% of patients receiving tanezumab were recorded with adverse events. Sixteen subjects developed rapidly progressive OA and required total joint replacements, prompting the FDA to request the suspension of the trials of tanezumab. However, from subsequent assessments, the risk of rapidly progressive OA with tanezumab was lower than that with tanezumab/NSAID combination therapy, and the rate of joint replacement was comparable between tanezumab monotherapy and placebo treatment.<sup><xref ref-type="bibr" rid="bib74">74</xref>,<xref ref-type="bibr" rid="bib75">75</xref></sup> Therefore, the FDA has agreed to continue the clinical trials of tanezumab in OA treatment in conjunction with appropriate safety monitoring.</p></sec><sec><title>Fibroblast growth factor</title><p>The ideal biologic agents for OA treatment should alleviate pain, relieve symptoms and restore the normal structure of the joint. To date, no structure-modifying treatment has yet been approved. A proof-of-concept study has been conducted to evaluate the efficacy and safety of intraarticular sprifermin (recombinant human fibroblast growth factor-18) to treat symptomatic knee OA with 180 patients. Sprifermin treatment significantly reduced the loss of total and lateral femorotibial cartilage thickness and volume, as well as the joint space width narrowing in the lateral femorotibial compartment in a dose-dependent manner. No significant difference in serious adverse events was recorded between groups.<sup><xref ref-type="bibr" rid="bib76">76</xref></sup> More basic and clinical studies should be performed to fully investigate this novel OA biologic drug.</p></sec><sec><title>Platelet-rich plasma</title><p>Relatively more studies have been reported regarding platelet-rich plasma (PRP), which contains several kinds of growth factors including transforming growth factor &#x003b2;1 (TGF-&#x003b2;1), platelet-derived growth factor, vascular endothelial growth factor, insulin-like growth factor-1, and hepatocyte growth factor.<sup><xref ref-type="bibr" rid="bib77">77</xref></sup> Wang-Saegusa <italic>et al.</italic><sup><xref ref-type="bibr" rid="bib78">78</xref></sup> treated 312 OA patients with total three intra-articular injections of autologous plasma rich in growth factors. After 6 months, statistically significant differences were seen in the following assessment instruments: visual analogue scale (VAS), SF-36, the Western Ontario and McMaster Universities Arthritis Index (WOMAC), and Lequesne Index. No adverse effects were observed. Positive trends and safety profile of PRP were also reported in other studies,<sup><xref ref-type="bibr" rid="bib79">79</xref>,<xref ref-type="bibr" rid="bib80">80</xref></sup> suggesting a feasible and potential treatment for OA.</p></sec><sec><title>Human serum albumin</title><p>Ampion, a &#x0003c;5&#x02009;kDa ultrafiltrate of human serum albumin, is currently being developed by Ampio Pharmaceuticals (Englewood, FL, USA) as an intra-articular injection to treat knee OA through suppressing pro-inflammatory cytokine production in T cells.<sup><xref ref-type="bibr" rid="bib81">81</xref>,<xref ref-type="bibr" rid="bib82">82</xref></sup> In 2014, Ampio Pharmaceuticals completed the phase 3 clinical trial for Ampion and achieved &#x02a7e;40% improvement in WOMAC pain and function compared with placebo controls at 20 weeks.<sup><xref ref-type="bibr" rid="bib83">83</xref></sup> A subsequent multiple injection clinical study for severe knee OA was completed in 2015 and assured that multiple injections of Ampion were safe and effective,<sup><xref ref-type="bibr" rid="bib84">84</xref></sup> showing much potential for future treatment of OA.</p></sec><sec><title>Methotrexate</title><p>Methotrexate, a chemotherapeutic drug normally used to treat rheumatoid arthritis, is being tested in OA treatment. The first open-label pilot study with 30 patients treated with oral methotrexate was conducted in 2011 and indicated an analgesic efficacy for methotrexate in knee OA.<sup><xref ref-type="bibr" rid="bib85">85</xref></sup> Thirteen of 30 (43%) participants achieved &#x02a7e;30% reduction in VAS pain score and OARSI responder criteria. A pragmatic phase 3 RCT with anticipated 160 participants was also conducted by this group from 2014 to 2015.<sup><xref ref-type="bibr" rid="bib86">86</xref>,<xref ref-type="bibr" rid="bib87">87</xref></sup> Although the study was completed, the actual efficacy has not yet been determined, as no published data were provided from this study.<sup><xref ref-type="bibr" rid="bib87">87</xref></sup> Another Egyptian group performed a randomized placebo-controlled trial with 144 patients to assess the efficacy of methotrexate in the treatment of symptomatic knee OA.<sup><xref ref-type="bibr" rid="bib88">88</xref></sup> After 28-week treatment, patients who received oral methotrexate showed significantly improvement in reducing pain and clinical synovitis compared with the placebo-treated group, indicating the dual benefit of methotrexate as a novel OA therapeutic option.</p></sec></sec></sec><sec><title>Regenerative therapy</title><sec><title>Cell therapy</title><p>From the 1980s, cell-based therapy has been applied for cartilage repair and has rapidly developed over the past 30 years.<sup><xref ref-type="bibr" rid="bib89">89</xref></sup> It offers a long-term solution to repair and regenerate cartilage, alleviate symptoms and finally delay OA progression. Currently, cell therapy is applicable to both mature cells and stem cells.</p><sec><title>Chondrocytes</title><p>First described by Brittberg <italic>et al.</italic>,<sup><xref ref-type="bibr" rid="bib90">90</xref></sup> autologous chondrocyte implantation/transplantation (ACI/ACT) is widely used in clinical practice and more than 15&#x02009;000 patients have received this treatment worldwide.<sup><xref ref-type="bibr" rid="bib91">91</xref></sup> ACI mainly includes three key steps.<sup><xref ref-type="bibr" rid="bib89">89</xref>,<xref ref-type="bibr" rid="bib92">92</xref></sup> First, a small mass of cartilage tissue (~150&#x02013;300&#x02009;mg) is collected from a healthy and less weight-bearing area during an arthroscopic biopsy procedure. Then, the extracellular matrix is enzymatically removed, and chondrocytes are isolated and cultured <italic>in vitro</italic> to acquire enough cells to reimplant. Finally, chondrocytes are implanted into the damaged area of the articular cartilage in a second open-knee procedure. On the basis of the various implantation methods, three generations of ACI have been developed in the past 20 years.<sup><xref ref-type="bibr" rid="bib92">92</xref></sup> The first generation adopts a piece of periosteum sutured over the prepared defect which is taken from the patient&#x02019;s tibia. Then, the chondrocyte suspension is injected under the periosteum, where it forms a bioreactive chamber to allow cell growth and maturation.<sup><xref ref-type="bibr" rid="bib90">90</xref></sup> The limitations of the first generation lie in the periosteal delamination and hypertrophy, which lead to the development of the second generation of ACI using a bilayer collagen membrane. This biomaterial-based membrane is also sutured over the defect and followed by cell suspension injected underneath. The advance in tissue engineering contributes tangibly to the third generation. Cultured chondrocytes are pre-seeded on a three-dimensional scaffold and trimmed to fit the defect size. The &#x02018;all-in-one&#x02019; composite is then implanted to the defect area with the fixation of fibrin glue. No periosteum or sutures are used in this method. Therefore, the third generation of ACI is also called matrix-induced autologous chondrocyte implantation/transplantation (MACI/MACT). MACI shows evident benefits over classic ACI as it reduces the surgical time, minimizes the fixation invasion and ensures even and long-term cell maintenance. More details about the scaffolds used in MACI will be discussed in the section &#x02018;tissue engineering&#x02019;.</p><p>The clinical outcomes of ACI have been well documented in full-thickness and osteochondral defect repair. In 1994, Brittberg <italic>et al.</italic>
+<sup><xref ref-type="bibr" rid="bib90">90</xref></sup> first performed classic ACI in 23 patients with full-thickness cartilage defects. Eighty-eight percent of patients with femoral condylar defects showed good or excellent results after 2-year transplantation, but only 28.6% of patients with patella injuries had a satisfying outcome at the 3-year time point. Postoperative arthroscopy revealed 11 out of the 15 biopsies showing hyaline-like cartilage. Long-term follow-ups were subsequently reported by the same group for up to 10 years.<sup><xref ref-type="bibr" rid="bib93">93</xref>,<xref ref-type="bibr" rid="bib94">94</xref></sup> Treatment for isolated femoral condyle defects and osteochondritis dissecans achieved ~90% good to excellent results. In addition, groups of patients with multiple and patella lesions demonstrated &#x0003e;65% good outcomes. Adverse effects were reported in 52 out of 101 patients.<sup><xref ref-type="bibr" rid="bib94">94</xref></sup> The most common complications were periosteal hypertrophy (26 patients) and intraarticular adhesions (10 patients). Overall, ACI can be regarded as a reasonable treatment for deep cartilage defects.</p><p>The commercial product Carticel (autologous cultured chondrocyte, manufacturer: Genzyme Biosurgery, Cambridge, MA, USA) was initially approved by the FDA in 1997 for the repair of symptomatic cartilage defects of the femoral condyle caused by acute or repetitive trauma.<sup><xref ref-type="bibr" rid="bib95">95</xref></sup> However, cartilage damage with generalized OA was an exclusion criterion for treatment.<sup><xref ref-type="bibr" rid="bib96">96</xref></sup> This is because ACI is applicable to localized cartilage defects surrounded by healthy cartilage. OA cartilage, however, often affects the adjacent areas and disturbs the homeostasis of the whole joint cavity. In this degenerative microenvironment, the implanted chondrocytes may undergo undesired dedifferentiation or apoptosis,<sup><xref ref-type="bibr" rid="bib97">97</xref>,<xref ref-type="bibr" rid="bib98">98</xref></sup> therefore undermining efficacy. In recent years, two trials tested the first-generation ACI for the more challenging OA disease.<sup><xref ref-type="bibr" rid="bib99">99</xref>,<xref ref-type="bibr" rid="bib100">100</xref></sup> Minas <italic>et al.</italic>
+<sup><xref ref-type="bibr" rid="bib100">100</xref></sup> performed classic ACI on 153 patients with early OA changes with a mean age of 37.3 and average defect size of 4.9&#x02009;cm<sup>2</sup>. At an average 5-year follow-up, treatment failure occurred in 12 knees that changed to joint arthroplasty. Among the patients considered without treatment failures, 92% experienced functional improvements, especially in the WOMAC pain and function scores. They concluded that ACI provided a plausible treatment for young OA patients and delayed the need for knee arthroplasty. Rosenberger <italic>et al.</italic> reported a case series of 56 patients older than 45 years, among which 32 patients were diagnosed with early degenerative changes (mean defect size 11.7&#x02009;cm<sup>2</sup>).<sup><xref ref-type="bibr" rid="bib99">99</xref></sup> At the latest available follow-up, 72% of patients of all defect categories and 81% of OA patients experienced good or excellent clinical improvements. Three out of 32 OA patients were considered treatment failures. Their favorable findings pointed to consider classic ACI as a therapy for older age groups.</p></sec><sec><title>Mesenchymal stem cells</title><p>Although no severe clinical safety issues have been associated with the ACI technique, there are still some problems including the limited cells available, multiple surgical procedures involved, <italic>in vitro</italic> chondrocyte dedifferentiation, and donor-site morbidity caused by cartilage harvest.<sup><xref ref-type="bibr" rid="bib101">101</xref>,<xref ref-type="bibr" rid="bib102">102</xref></sup> Mesenchymal stem cells (MSCs) are considered a potential cell source since they can be easily collected from various tissues such as bone marrow, adipose tissue, synovial membrane, and others, and have a high proliferation rate, chondro-differentiation capacity, and immunosuppressive activities.<sup><xref ref-type="bibr" rid="bib103 bib104 bib105">103&#x02013;105</xref></sup>
+</p><p>Bone marrow-derived MSCs (BM-MSCs) are the most attractive stem cells in regenerative medicine studies, and attempts have been made to use them for OA treatment. In 2011, Davatchi <italic>et al.</italic>
+<sup><xref ref-type="bibr" rid="bib40">40</xref></sup> published a preliminary report of four patients with moderate-to-severe knee OA. Autologous BM-MSCs were cultured for 4&#x02013;5 weeks, and 8&#x000d7;10<sup>6</sup>&#x02013;9&#x000d7;10<sup>6</sup> cells were injected into the knee joint. After 1-year follow-up, pain produced during walking was reduced in three patients. The number of stairs to climb to produce pain and pain on a VAS were improved in all four patients. As the physical parameters improved slightly, the results were encouraging, but not ideal. In another trail, Orozco <italic>et al.</italic>
+<sup><xref ref-type="bibr" rid="bib41">41</xref></sup> performed MSC therapy on 12 patients diagnosed with Kellgren and Lawrence grades II to IV knee OA. More BM-MSCs (40&#x000d7;10<sup>6</sup>) were intra-articularly injected. One-year follow-up indicated marked increase in VAS (69%), Lequesne (65%), and WOMAC (78%) pain indices. Cartilage quality was significantly improved in 11 of 12 patients as evidenced by T2 mapping quantification.</p><p>Choi&#x02019;s group tried to use adipose tissue-derived MSCs (AD-MSCs) to treat OA.<sup><xref ref-type="bibr" rid="bib42">42</xref>,<xref ref-type="bibr" rid="bib106">106</xref></sup> They proposed that AD-MSCs had an advantage over BM-MSCs as obtaining cells from bone marrow is difficult and painful, together with risks of complications. They collected the cells from the infrapatellar fat pad and prepared these with PRP. Twenty-five patients with knee OA received this intra-articular injection. It yielded improved clinical outcomes on the 1-year follow-up as shown by the Lysholm, Tegner activity scale, and VAS scores; but no significant difference was detected between the MSC-treated group and the control group, which consisted of injections of PRP alone.<sup><xref ref-type="bibr" rid="bib106">106</xref></sup> On 2-year follow-up to their previous study,<sup><xref ref-type="bibr" rid="bib42">42</xref></sup> WOMAC, Lysholm, and VAS pain scores were as well significantly improved when compared with the preoperative status. Magnetic resonance imaging (MRI) examination further confirmed the improvement in cartilage. However, no comparison between the treatment and control groups was shown. Thus, one cannot distinguish the effect of AD-MSCs from that of PRP and accurately investigate the efficacy of AD-MSCs on OA treatment.</p><p>Overall, the preliminary results demonstrated that MSC-based therapy is encouraging in reducing pain and improving the function of OA. More RCTs with a large number of patients and long-term follow-up are needed before full-scale clinical translation.</p></sec></sec><sec><title>Tissue engineering</title><p>Tissue engineering involves the use of cells, scaffolds, and bioactive factors to enhance tissue mechanical properties and promote cell migration, attachment, proliferation, and differentiation to the desired cell type. Tissue engineering therapy has shown a lot of promising outcomes in the treatment of cartilage defects.<sup><xref ref-type="bibr" rid="bib107">107</xref>,<xref ref-type="bibr" rid="bib108">108</xref></sup> For OA treatment, only a few results have been reported, though there is hope for the future.</p><sec><title>Cell-based scaffolds</title><p>Treatment with cell-based scaffolds involves tissue harvest and cell expansion procedures that are used in ACI or other forms of cell therapy. The cells are pre-seeded on the scaffold, and the composite is subsequently implanted into the defect area with or without fixation. The third-generation ACI (MACI) is one of the most extensively used techniques for the clinical treatment of cartilage defects. Many commercial products have been approved for scaffold-associated chondrocyte implantation for more than a decade in Europe and Australia, such as Chondro-Gide (a bilayer collagen type 1/3 scaffold, manufactured by Geistlich Biomaterials, Wolhusen, Switzerland), Hyaff-11 (a hyaluronan-based scaffold, manufactured by Fida Advanced Biopolymers, Abano Terme, Italy), and BioSeed-C (a synthetic polymer scaffold composed of fibrin, polyglycolic/polylactic acid, and polydioxanone, manufactured by BioTissue, Z&#x000fc;rich, Switzerland). In a case series published by Bauer <italic>et al.</italic>,<sup><xref ref-type="bibr" rid="bib43">43</xref></sup> 18 young patients suffering from medial knee OA (mean age 47 years) underwent high tibial osteotomy (HTO) combined with MACI using a collagen membrane scaffold (ACI-Maix Matricel GmbH, Herzogenrath, Germany). At the 5-year follow-up, the Knee Injury and Osteoarthritis Outcome Score (KOOS) was significantly improved. MRI results were improved at 24 and 48 months, but declined at the end point with only 33% good quality infill. No major complications but minor complications were found including patellar tendinitis. In another clinical trial, 79 patients with posttraumatic and focal OA cartilage defects were treated with autologous chondrocyte-seeded BioSeed-C scaffold. Clinical assessment was performed in 40 patients with 2-year follow-ups.<sup><xref ref-type="bibr" rid="bib44">44</xref></sup> The evaluated scores including International Knee Documentation Committee (IKDC) score, the Lysholm score, the Cincinnati knee score, and KOOS were all statistically significantly improved compared with preoperative values. Histological results showed good integration of the graft and newly formed cartilaginous tissue. In their subsequent 4-year follow-up with 19 patients of the cohort,<sup><xref ref-type="bibr" rid="bib45">45</xref></sup> the Lysholm score, IKDC score, and KOOS were further improved. MRI analysis revealed that 16 out of 19 patients experienced moderate to complete filling of the defects. These results showed that BioSeed-C is a potential therapeutic option for degenerative defects with stable effect. Although MACI technique has been reported with promising results for OA treatment in many trails, researchers demonstrated that MACI with Hyaff-11 scaffold was questionable for knee OA due to the poor performance and high failure rate. They treated 44 patients using MACI as a salvage procedure. After a 9-year mean follow-up, 27.3% treatment was considered to have failed. Almost half (47.7%) of the patients considered their condition unimproved and 39% would not choose this treatment again despite the significant improvement of IKDC and EQ-VAS scores. This long-term follow-up study indicated that the tissue-engineered cartilage implantation should be fully investigated before its application as a salvage procedure for the treatment of OA.</p></sec><sec><title>Cell-free scaffolds</title><p>Cell-free scaffolds are developed for one-stage procedure techniques, which can be either implanted alone to attract the endogenous cells or combined with biological products such as concentrated bone marrow or PRP.<sup><xref ref-type="bibr" rid="bib98">98</xref></sup> As exogenous cell transplantation is not required, it avoids the issues around the <italic>in vitro</italic> cell culture process, such as slow growth and aberrant differentiation.<sup><xref ref-type="bibr" rid="bib102">102</xref></sup> Clinical results of cell-free scaffolds on OA treatment are few. A case report documented a 46-year-old athletic patient with International Cartilage Repair Society (ICRS) grade IV degenerative chondral lesions treated with a three-layer nanostructured biomimetic scaffold (manufactured by Fin-Ceramica, Faenza, Italy) together with HTO.<sup><xref ref-type="bibr" rid="bib46">46</xref></sup> At 1-year follow-up, the patient was pain-free and returned to a satisfactory functional level. MRI analysis showed hyaline-like articular cartilage and non-visible subchondral oedema. An Italian group reported clinical improvements using PRP-enriched polyglycolic acid (PGA)-hyaluronan scaffold (chondrotissue, manufactured by BioTissue AG, Z&#x000fc;rich, Switzerland).<sup><xref ref-type="bibr" rid="bib47">47</xref></sup> Fifty-two patients suffering degenerative chondral defects were treated, among which, 47 patients had grade I&#x02013;III OA. The KOOS score was significantly increased, and histological staining revealed hyaline-like cartilage repair tissue at 1-year follow-up. The above two pilot studies confirmed the usefulness of cell-free scaffolds. However, an <italic>in vivo</italic> study using sheep OA model demonstrated that cell-free approaches were inferior to MACI by macroscopic and histological examinations.<sup><xref ref-type="bibr" rid="bib109">109</xref></sup> It remains to be seen whether cell-free scaffolds have more advantages over cell-seeded scaffolds in human studies.</p></sec><sec><title>Gene therapy</title><p>Gene therapy enables the spatiotemporal control and persistent synthesis of gene products at target sites. Several preclinical studies have confirmed its safety and efficacy, and implicated its prospects, but few clinical trials have been conducted and no gene products have been approved for OA treatment. At present, only TGF-&#x003b2; gene therapy has been clinically investigated in USA and Korea.<sup><xref ref-type="bibr" rid="bib110">110</xref></sup> This technique called TissueGene-C uses the retrovirally transduced allogeneic human chondrocytes overexpressing TGF-&#x003b2;1. Phase 1 and 2 trials have commenced, though results have not been published yet.<sup><xref ref-type="bibr" rid="bib111">111</xref>,<xref ref-type="bibr" rid="bib112">112</xref></sup> From the published results of phase 1 study with 12 advanced OA patients,<sup><xref ref-type="bibr" rid="bib113">113</xref></sup> only some minor injection site reactions but no serious adverse events were observed after 1 year post dosing. Knee evaluation scores showed a dose-dependent improvement of symptoms. Phase 2 data, only available in abstract form,<sup><xref ref-type="bibr" rid="bib114">114</xref></sup> suggested a significant improvement in IKDC, WOMAC, and VAS scores without severe adverse events after 6 months. The placebo-controlled, double-blind, randomized phase 3 study was just completed on August 2015 but no study results have been posted as yet.<sup><xref ref-type="bibr" rid="bib115">115</xref></sup> The above-mentioned regenerative therapies are briefly summarized in <xref ref-type="fig" rid="fig2">Figure 2</xref>.</p></sec></sec></sec><sec><title>Conclusion and future perspectives</title><p>In this review, we presented the current progress of pharmacologic and regenerative therapy for OA treatment. The traditional OA drugs are effective in reducing pain and inflammation but insufficient to slow, stop, or reverse the joint damage, and are frequently associated with adverse effects. New OA drugs such as biologic agents and chemotherapeutic drugs show more marked effects and fewer side effects, and look more promising than traditional OA drugs. Regenerative therapy is a novel strategy that has the potential to restore normal structure and function of damaged cartilage. At present, clinical studies in regenerative therapy are in its infancy with relatively rare and low-level evidence of success. Larger, random, controlled, and long-term follow-up studies are expected to take place in the coming years to confirm its safety and effectiveness. Although current pharmacologic and regenerative therapy show great promises, limitations still exist. Potential therapies may be developed by exploring more therapeutic targets and methods. The emerging targets that have been confirmed in preclinical animal studies are also summarized in <xref rid="tbl2" ref-type="table">Table 2</xref>.</p><sec><title>Inhibition of matrix degradation</title><p>As mentioned above, MMP13 and Adamts-5 are the main matrix-degrading enzymes that play a key role in the development of OA. In recent studies, MMP13 and Adamts-5 have been identified as downstream target genes involved in both &#x003b2;-catenin and TGF-&#x003b2; signaling pathways during OA development.<sup><xref ref-type="bibr" rid="bib116">116</xref>,<xref ref-type="bibr" rid="bib117">117</xref></sup> Wang <italic>et al.</italic>
+<sup><xref ref-type="bibr" rid="bib118">118</xref></sup> intraperitoneally injected CL82198, the MMP13 inhibitor in a murine model of injury-induced knee OA, which effectively decelerated OA progression, increased extracellular matrix production, and inhibited chondrocyte apoptosis. In another study performed by Chen <italic>et al.</italic>,<sup><xref ref-type="bibr" rid="bib119">119</xref></sup> Adamts-5 inhibitor (114810) and hyaluronic acid hydrogel were combined to treat rat OA knee joints and significantly prevented the progression of cartilage degeneration. In addition, Syndecan-4 was identified to control the activation of Adamts-5; therefore, the application of Syndecan-4-specific antibody could prevent proteoglycan loss and cartilage breakdown in a mouse OA model.<sup><xref ref-type="bibr" rid="bib120">120</xref></sup> However, the only clinical study with MMP inhibitor (PG-116800) for OA treatment resulted in termination due to musculoskeletal toxicity without clear benefit, suggesting more preclinical studies are needed to fully assess the safety and effectiveness of those matrix degradation inhibitors, and devise ways to improve efficacy.<sup><xref ref-type="bibr" rid="bib121">121</xref></sup>
+</p></sec><sec><title>Inhibition of hypertrophy and ossification</title><p>Current OA treatments aim to regenerate hyaline-like cartilage tissue. However, the repair tissue is often accompanied with undesirable chondrocyte hypertrophy and terminal differentiation, which cause matrix degradation and then impair the function of the repair tissue.<sup><xref ref-type="bibr" rid="bib122">122</xref>,<xref ref-type="bibr" rid="bib123">123</xref></sup> It has been well identified that parathyroid hormone-related protein (PTHrP) acts in conjunction with Indian hedgehog to inhibit chondrocyte hypertrophy and regulates endochondral ossification through a negative-feedback loop.<sup><xref ref-type="bibr" rid="bib124">124</xref>,<xref ref-type="bibr" rid="bib125">125</xref></sup> A recent study showed that systematic administration of recombinant human PTH (1&#x02013;34; teriparatide, Forteo), the homolog of PTHrP could effectively inhibit cartilage degeneration and aberrant chondrocyte maturation in a surgically induced mouse OA model.<sup><xref ref-type="bibr" rid="bib126">126</xref></sup> In our own study, we found that intra-articular injection of recombinant human PTHrP (1&#x02013;40) at 4&#x02013;6 weeks post injury together with the implantation of collagen-silk scaffold significantly suppress chondrocyte terminal differentiation and promote chondrogenesis, therefore improving cartilage repair and regeneration in a rabbit osteochondral defect model.<sup><xref ref-type="bibr" rid="bib123">123</xref></sup> It is also reported that the inhibition of the hedgehog signaling could block the formation of hypertrophic chondrocytes and ameliorate OA development using small molecular inhibitors.<sup><xref ref-type="bibr" rid="bib127">127</xref>,<xref ref-type="bibr" rid="bib128">128</xref></sup>
+</p></sec><sec><title>Target at subchondral bone</title><p>The therapeutic targets of most of today&#x02019;s OA research are the articular cartilage itself, it is worthwhile to include the search of novel targets in the subchondral bone, which markedly becomes thicker and disrupted the mechanical stability in OA joints. Inhibition of TGF-&#x003b2; activity in subchondral bone may hold promise for OA treatment. Cao and colleagues reported in 2013 that injection of TGF-&#x003b2; type I receptor inhibitor (SB-505124) or the implantation of an antibody to TGF-&#x003b2; (1D11) in alginate beads could attenuate disease in ACLT-induced OA mice/rat.<sup><xref ref-type="bibr" rid="bib129">129</xref></sup> The Wnt/&#x003b2;-catenin signaling pathway has been demonstrated to be involved in both cartilage and bone development.<sup><xref ref-type="bibr" rid="bib130">130</xref></sup> Overexpression of dickkopf-related protein-1, one of the Wnt antagonists, ameliorated the severity of OA in mice by inactivation of the Wnt/&#x003b2;-catenin signaling in subchondral bone.<sup><xref ref-type="bibr" rid="bib131">131</xref></sup> These results not only suggested a potential treatment approach for OA disease but also shifted the treatment target from cartilage surface to subchondral bone, considering that OA is a disease of the whole joint.</p></sec><sec><title>Pluripotent stem cells</title><p>Regarding cell therapy, pluripotent stem cells have unlimited self-renewal and chondrogenic differentiation capacity,<sup><xref ref-type="bibr" rid="bib132">132</xref></sup> offering an ideal cell source for cartilage repair and OA treatment compared with adult chondrocytes or MSCs. Embryonic stem cells (ESCs) are pluripotent stem cells derived from early mammalian embryos.<sup><xref ref-type="bibr" rid="bib133">133</xref></sup> ESC chondrogenesis can be achieved by <italic>in vitro</italic> culture supplemented with growth factors.<sup><xref ref-type="bibr" rid="bib134">134</xref>,<xref ref-type="bibr" rid="bib135">135</xref></sup> ESCs have been reported to improve cartilage repair in animal models.<sup><xref ref-type="bibr" rid="bib136">136</xref>,<xref ref-type="bibr" rid="bib137">137</xref></sup> In 2009, the US FDA approved the world&#x02019;s first clinical trial with human ESCs for the treatment of spinal cord injury,<sup><xref ref-type="bibr" rid="bib138">138</xref></sup> making it possible to translate ESCs for OA disease in the future.</p><p>Induced pluripotent stem cells (iPSCs) are another type of pluripotent stem cells generated directly from adult cells. iPSCs are more applicable than ESCs, as they can be derived from more donor tissues with less immunorejection, and have less ethical controversy.<sup><xref ref-type="bibr" rid="bib139">139</xref></sup> iPSCs have been successfully induced to differentiate into various cell types including chondrocytes.<sup><xref ref-type="bibr" rid="bib140 bib141 bib142 bib143">140&#x02013;143</xref></sup> Notably, Wei <italic>et al.</italic> generated iPSCs from human OA chondrocytes and then induced them towards chondrogenic differentiation, suggesting the potential of OA chondrocytes for OA treatment.<sup><xref ref-type="bibr" rid="bib143">143</xref></sup>
+</p></sec><sec><title>Endogenous cell homing</title><p>In terms of tissue-engineering strategies, more studies are now focusing on endogenous cell homing approaches. It aims at modifying a suitable microenvironment to recruit and mobilize the host cells from either the blood or a tissue-specific niche for self-repair. It avoids the costs, complexity, and risks involved in <italic>in vitro</italic> cell expansion and reimplant procedure, and is therefore regarded as a cost-effective and technically simpler alternative to current cell transplantation. The key factors to a successful cell homing process are the favorable cell niche that can be enhanced by excellent bioscaffolds, signaling biomolecules, and release technology.<sup><xref ref-type="bibr" rid="bib144">144</xref></sup> We have previously used a collagen type 1 scaffold containing stromal cell-derived factor-1 to create an <italic>in situ</italic> matrix environment.<sup><xref ref-type="bibr" rid="bib145">145</xref></sup> This microenvironment is conducive to the migration and adhesion of endogenous MSCs, thereby promoting the self-repair of partial thickness cartilage defects in a rabbit model. Another interesting study developed plasmid gene-activated osteochondral scaffold that could produce TGF-&#x003b2;1 for chondrogenic layer and BMP-2 for osteogenic layer.<sup><xref ref-type="bibr" rid="bib146">146</xref></sup> Endogenous BM-MSCs can be recruited and spatially controlled to simultaneously differentiate into chondro- and osteo-lineages within the scaffold. As OA usually affects complex tissues in the knee joint, this model may be exploited for future clinical treatment of OA disease.</p></sec></sec></body><back><ack><p>Dr Wei Zhang was a recipient of Endeavour Research Fellowship during her visit to School of Pathology and Laboratory Medicine, the University of Western Australia in 2014. This study was supported in part by NHMRC, and a grant from the Natural Science Foundation of China (NSFC; No. 81228013).</p></ack><notes><p>The authors declare no conflict of interest.</p></notes><ref-list><ref id="bib1"><mixed-citation publication-type="journal">
+Zhang Y
+, 
+Jordan JM
+. <article-title>Epidemiology of osteoarthritis</article-title>. <source>Clin Geriatr Med</source>
+<year>2010</year>; <volume>26</volume>: <fpage>355</fpage>&#x02013;369.<pub-id pub-id-type="pmid">20699159</pub-id></mixed-citation></ref><ref id="bib2"><mixed-citation publication-type="journal">
+Felson DT
+. <article-title>Clinical practice. osteoarthritis of the knee</article-title>. <source>N Engl J Med</source>
+<year>2006</year>; <volume>354</volume>: <fpage>841</fpage>&#x02013;848.<pub-id pub-id-type="pmid">16495396</pub-id></mixed-citation></ref><ref id="bib3"><mixed-citation publication-type="journal">
+Zhang W
+, 
+Moskowitz RW
+, 
+Nuki G
+et al. <article-title>OARSI recommendations for the management of hip and knee osteoarthritis, Part II: OARSI evidence-based, expert consensus guidelines</article-title>. <source>Osteoarthritis Cartilage</source>
+<year>2008</year>; <volume>16</volume>: <fpage>137</fpage>&#x02013;162.<pub-id pub-id-type="pmid">18279766</pub-id></mixed-citation></ref><ref id="bib4"><mixed-citation publication-type="journal">
+Hochberg MC
+, 
+Dougados M
+. <article-title>Pharmacological therapy of osteoarthritis</article-title>. <source>Best Pract Res Clin Rheumatol</source>
+<year>2001</year>; <volume>15</volume>: <fpage>583</fpage>&#x02013;593.<pub-id pub-id-type="pmid">11567541</pub-id></mixed-citation></ref><ref id="bib5"><mixed-citation publication-type="book">
+Lanza R
+, 
+Langer R
+, 
+Vacanti JP
+. <source>Principles of Tissue Engineering</source>. 3rd edn. Academic Press: Burlington, VT, USA. <year>2011</year>.</mixed-citation></ref><ref id="bib6"><mixed-citation publication-type="journal">
+Pearle AD
+, 
+Warren RF
+, 
+Rodeo SA
+. <article-title>Basic science of articular cartilage and osteoarthritis</article-title>. <source>Clin Sports Med</source>
+<year>2005</year>; <volume>24</volume>: <fpage>1</fpage>&#x02013;12.<pub-id pub-id-type="pmid">15636773</pub-id></mixed-citation></ref><ref id="bib7"><mixed-citation publication-type="journal">
+Hunter W
+. <article-title>Of the structure and diseases of articulating cartilages, by William Hunter, Surgeon</article-title>. <source>Phil. Trans</source>
+<year>1742</year>; <volume>42</volume>: <fpage>514</fpage>&#x02013;521.</mixed-citation></ref><ref id="bib8"><mixed-citation publication-type="journal">
+Gilbert JE
+. <article-title>Current treatment options for the restoration of articular cartilage</article-title>. <source>Am J Knee Surg</source>
+<year>1998</year>; <volume>11</volume>: <fpage>42</fpage>&#x02013;46.<pub-id pub-id-type="pmid">9533054</pub-id></mixed-citation></ref><ref id="bib9"><mixed-citation publication-type="journal">
+Hunziker EB
+. <article-title>Articular cartilage repair: basic science and clinical progress. A review of the current status and prospects</article-title>. <source>Osteoarthritis Cartilage</source>
+<year>2002</year>; <volume>10</volume>: <fpage>432</fpage>&#x02013;463.<pub-id pub-id-type="pmid">12056848</pub-id></mixed-citation></ref><ref id="bib10"><mixed-citation publication-type="journal">
+Brocklehurst R
+, 
+Bayliss MT
+, 
+Maroudas A
+et al. <article-title>The composition of normal and osteoarthritic articular cartilage from human knee joints. With special reference to unicompartmental replacement and osteotomy of the knee</article-title>. <source>J Bone Joint Surg Am</source>
+<year>1984</year>; <volume>66</volume>: <fpage>95</fpage>&#x02013;106.<pub-id pub-id-type="pmid">6690447</pub-id></mixed-citation></ref><ref id="bib11"><mixed-citation publication-type="journal">
+Venn M
+, 
+Maroudas A
+. <article-title>Chemical composition and swelling of normal and osteoarthrotic femoral head cartilage. I. Chemical composition</article-title>. <source>Ann Rheum Dis</source>
+<year>1977</year>; <volume>36</volume>: <fpage>121</fpage>&#x02013;129.<pub-id pub-id-type="pmid">856064</pub-id></mixed-citation></ref><ref id="bib12"><mixed-citation publication-type="journal">
+Sandell LJ
+, 
+Aigner T
+. <article-title>Articular cartilage and changes in arthritis. An introduction: cell biology of osteoarthritis</article-title>. <source>Arthritis Res</source>
+<year>2001</year>; <volume>3</volume>: <fpage>107</fpage>&#x02013;113.<pub-id pub-id-type="pmid">11178118</pub-id></mixed-citation></ref><ref id="bib13"><mixed-citation publication-type="journal">
+Khan IM
+, 
+Williams R
+, 
+Archer CW
+. <article-title>One flew over the progenitor's nest: migratory cells find a home in osteoarthritic cartilage</article-title>. <source>Cell Stem Cell</source>
+<year>2009</year>; <volume>4</volume>: <fpage>282</fpage>&#x02013;284.<pub-id pub-id-type="pmid">19341617</pub-id></mixed-citation></ref><ref id="bib14"><mixed-citation publication-type="journal">
+Del CMJ
+, 
+Loeser RF
+. <article-title>Cell death in osteoarthritis</article-title>. <source>Curr Rheumatol Rep</source>
+<year>2008</year>; <volume>10</volume>: <fpage>37</fpage>&#x02013;42.<pub-id pub-id-type="pmid">18457610</pub-id></mixed-citation></ref><ref id="bib15"><mixed-citation publication-type="journal">
+Dreier R
+. <article-title>Hypertrophic differentiation of chondrocytes in osteoarthritis: the developmental aspect of degenerative joint disorders</article-title>. <source>Arthritis Res Ther</source>
+<year>2010</year>; <volume>12</volume>: <fpage>216</fpage>.<pub-id pub-id-type="pmid">20959023</pub-id></mixed-citation></ref><ref id="bib16"><mixed-citation publication-type="journal">
+van den Berg WB
+. <article-title>Osteoarthritis year 2010 in review: pathomechanisms</article-title>. <source>Osteoarthritis Cartilage</source>
+<year>2011</year>; <volume>19</volume>: <fpage>338</fpage>&#x02013;341.<pub-id pub-id-type="pmid">21324370</pub-id></mixed-citation></ref><ref id="bib17"><mixed-citation publication-type="journal">
+Ea HK
+, 
+Nguyen C
+, 
+Bazin D
+et al. <article-title>Articular cartilage calcification in osteoarthritis: insights into crystal-induced stress</article-title>. <source>Arthritis Rheum</source>
+<year>2011</year>; <volume>63</volume>: <fpage>10</fpage>&#x02013;18.<pub-id pub-id-type="pmid">20862682</pub-id></mixed-citation></ref><ref id="bib18"><mixed-citation publication-type="journal">
+Fuerst M
+, 
+Bertrand J
+, 
+Lammers L
+et al. <article-title>Calcification of articular cartilage in human osteoarthritis</article-title>. <source>Arthritis Rheum</source>
+<year>2009</year>; <volume>60</volume>: <fpage>2694</fpage>&#x02013;2703.<pub-id pub-id-type="pmid">19714647</pub-id></mixed-citation></ref><ref id="bib19"><mixed-citation publication-type="journal">
+van der Kraan PM
+, 
+van den Berg WB
+. <article-title>Osteophytes: relevance and biology</article-title>. <source>Osteoarthritis Cartilage</source>
+<year>2007</year>; <volume>15</volume>: <fpage>237</fpage>&#x02013;244.<pub-id pub-id-type="pmid">17204437</pub-id></mixed-citation></ref><ref id="bib20"><mixed-citation publication-type="journal">
+Felson DT
+, 
+Gale DR
+, 
+Elon GM
+et al. <article-title>Osteophytes and progression of knee osteoarthritis</article-title>. <source>Rheumatology (Oxford)</source>
+<year>2005</year>; <volume>44</volume>: <fpage>100</fpage>&#x02013;104.<pub-id pub-id-type="pmid">15381791</pub-id></mixed-citation></ref><ref id="bib21"><mixed-citation publication-type="journal">
+Hayami T
+, 
+Pickarski M
+, 
+Zhuo Y
+et al. <article-title>Characterization of articular cartilage and subchondral bone changes in the rat anterior cruciate ligament transection and meniscectomized models of osteoarthritis</article-title>. <source>Bone</source>
+<year>2006</year>; <volume>38</volume>: <fpage>234</fpage>&#x02013;243.<pub-id pub-id-type="pmid">16185945</pub-id></mixed-citation></ref><ref id="bib22"><mixed-citation publication-type="journal">
+Dixon AS
+, 
+Jacoby RK
+, 
+Berry H
+et al. <article-title>Clinical trial of intra-articular injection of sodium hyaluronate in patients with osteoarthritis of the knee</article-title>. <source>Curr Med Res Opin</source>
+<year>1988</year>; <volume>11</volume>: <fpage>205</fpage>&#x02013;213.<pub-id pub-id-type="pmid">3063436</pub-id></mixed-citation></ref><ref id="bib23"><mixed-citation publication-type="journal">
+Benito MJ
+, 
+Veale DJ
+, 
+FitzGerald O
+et al. <article-title>Synovial tissue inflammation in early and late osteoarthritis</article-title>. <source>Ann Rheum Dis</source>
+<year>2005</year>; <volume>64</volume>: <fpage>1263</fpage>&#x02013;1267.<pub-id pub-id-type="pmid">15731292</pub-id></mixed-citation></ref><ref id="bib24"><mixed-citation publication-type="book">
+<source>Treatment of Osteoarthritis of the Knee</source>. 2nd edn. Rosemont: American Academy of Orthopaedic Surgeons, <year>2013</year>.</mixed-citation></ref><ref id="bib25"><mixed-citation publication-type="journal">
+Felson DT
+, 
+Zhang Y
+, 
+Hannan MT
+et al. <article-title>Risk factors for incident radiographic knee osteoarthritis in the elderly: the framingham study</article-title>. <source>Arthritis Rheum</source>
+<year>1997</year>; <volume>40</volume>: <fpage>728</fpage>&#x02013;733.<pub-id pub-id-type="pmid">9125257</pub-id></mixed-citation></ref><ref id="bib26"><mixed-citation publication-type="journal">
+Creamer P
+, 
+Hochberg MC
+. <article-title>Osteoarthritis</article-title>. <source>Lancet</source>
+<year>1997</year>; <volume>350</volume>: <fpage>503</fpage>&#x02013;508.<pub-id pub-id-type="pmid">9274595</pub-id></mixed-citation></ref><ref id="bib27"><mixed-citation publication-type="journal">
+Christensen R
+, 
+Astrup A
+, 
+Bliddal H
+. <article-title>Weight loss: the treatment of choice for knee osteoarthritis? A Randomized trial</article-title>. <source>Osteoarthritis Cartilage</source>
+<year>2005</year>; <volume>13</volume>: <fpage>20</fpage>&#x02013;27.<pub-id pub-id-type="pmid">15639633</pub-id></mixed-citation></ref><ref id="bib28"><mixed-citation publication-type="journal">
+Roddy E
+, 
+Zhang W
+, 
+Doherty M
+. <article-title>Aerobic walking or strengthening exercise for osteoarthritis of the knee? A systematic review</article-title>. <source>Ann Rheum Dis</source>
+<year>2005</year>; <volume>64</volume>: <fpage>544</fpage>&#x02013;548.<pub-id pub-id-type="pmid">15769914</pub-id></mixed-citation></ref><ref id="bib29"><mixed-citation publication-type="journal">
+van Baar ME
+, 
+Dekker J
+, 
+Oostendorp RA
+et al. <article-title>The effectiveness of exercise therapy in patients with osteoarthritis of the hip or knee: a randomized clinical trial</article-title>. <source>J Rheumatol</source>
+<year>1998</year>; <volume>25</volume>: <fpage>2432</fpage>&#x02013;2439.<pub-id pub-id-type="pmid">9858441</pub-id></mixed-citation></ref><ref id="bib30"><mixed-citation publication-type="journal">
+Ernst E
+, 
+Posadzki P
+. <article-title>Complementary and alternative medicine for rheumatoid arthritis and osteoarthritis: an overview of systematic reviews</article-title>. <source>Curr Pain Headache Rep</source>
+<year>2011</year>; <volume>15</volume>: <fpage>431</fpage>&#x02013;437.<pub-id pub-id-type="pmid">21979101</pub-id></mixed-citation></ref><ref id="bib31"><mixed-citation publication-type="journal">
+De Luigi AJ
+. <article-title>Complementary and alternative medicine in osteoarthritis</article-title>. <source>PM R</source>
+<year>2012</year>; <volume>4</volume>: <fpage>S122</fpage>&#x02013;S133.<pub-id pub-id-type="pmid">22632691</pub-id></mixed-citation></ref><ref id="bib32"><mixed-citation publication-type="journal">
+Dervin GF
+, 
+Stiell IG
+, 
+Rody K
+et al. <article-title>Effect of arthroscopic debridement for osteoarthritis of the knee on health-related quality of life</article-title>. <source>J Bone Joint Surg Am</source>
+<year>2003</year>; <volume>85-A</volume>: <fpage>10</fpage>&#x02013;19.<pub-id pub-id-type="pmid">12533566</pub-id></mixed-citation></ref><ref id="bib33"><mixed-citation publication-type="other">
+Laupattarakasem W
+, 
+Laopaiboon M
+, 
+Laupattarakasem P
+et al. <article-title>Arthroscopic debridement for knee osteoarthritis</article-title>. <source>Cochrane Database Syst Rev</source>
+<year>2008</year>, <fpage>D5118</fpage>.</mixed-citation></ref><ref id="bib34"><mixed-citation publication-type="journal">
+Knutsen G
+, 
+Drogset JO
+, 
+Engebretsen L
+et al. <article-title>A randomized trial comparing autologous chondrocyte implantation with microfracture. findings at five years</article-title>. <source>J Bone Joint Surg Am</source>
+<year>2007</year>; <volume>89</volume>: <fpage>2105</fpage>&#x02013;2112.<pub-id pub-id-type="pmid">17908884</pub-id></mixed-citation></ref><ref id="bib35"><mixed-citation publication-type="journal">
+Saris DB
+, 
+Vanlauwe J
+, 
+Victor J
+et al. <article-title>Characterized chondrocyte implantation results in better structural repair when treating symptomatic cartilage defects of the knee in a randomized controlled trial versus microfracture</article-title>. <source>Am J Sports Med</source>
+<year>2008</year>; <volume>36</volume>: <fpage>235</fpage>&#x02013;246.<pub-id pub-id-type="pmid">18202295</pub-id></mixed-citation></ref><ref id="bib36"><mixed-citation publication-type="journal">
+Malchau H
+, 
+Herberts P
+, 
+Eisler T
+et al. <article-title>The Swedish total hip replacement register</article-title>. <source>J Bone Joint Surg Am</source>
+<year>2002</year>; <volume>85-A</volume> Suppl 2: <fpage>2</fpage>&#x02013;20.</mixed-citation></ref><ref id="bib37"><mixed-citation publication-type="journal">
+Grayson CW
+, 
+Decker RC
+. <article-title>Total joint arthroplasty for persons with osteoarthritis</article-title>. <source>PM R</source>
+<year>2012</year>; <volume>4</volume>: <fpage>S97</fpage>&#x02013;S103.<pub-id pub-id-type="pmid">22632709</pub-id></mixed-citation></ref><ref id="bib38"><mixed-citation publication-type="journal">
+Mason C
+, 
+Dunnill P
+. <article-title>A brief definition of regenerative medicine</article-title>. <source>Regen Med</source>
+<year>2008</year>; <volume>3</volume>: <fpage>1</fpage>&#x02013;5.<pub-id pub-id-type="pmid">18154457</pub-id></mixed-citation></ref><ref id="bib39"><mixed-citation publication-type="journal">
+Tang QO
+, 
+Carasco CF
+, 
+Gamie Z
+et al. <article-title>Preclinical and clinical data for the use of mesenchymal stem cells in articular cartilage tissue engineering</article-title>. <source>Expert Opin Biol Ther</source>
+<year>2012</year>; <volume>12</volume>: <fpage>1361</fpage>&#x02013;1382.<pub-id pub-id-type="pmid">22784026</pub-id></mixed-citation></ref><ref id="bib40"><mixed-citation publication-type="journal">
+Davatchi F
+, 
+Abdollahi BS
+, 
+Mohyeddin M
+, 
+Shahram F
+, 
+Nikbin B
+. <article-title>Mesenchymal stem cell therapy for knee osteoarthritis. Preliminary report of four patients</article-title>. <source>Int J Rheum Dis</source>
+<year>2011</year>; <volume>14</volume>: <fpage>211</fpage>&#x02013;215.<pub-id pub-id-type="pmid">21518322</pub-id></mixed-citation></ref><ref id="bib41"><mixed-citation publication-type="journal">
+Orozco L
+, 
+Munar A
+, 
+Soler R
+et al. <article-title>Treatment of knee osteoarthritis with autologous mesenchymal stem cells: a pilot study</article-title>. <source>Transplantation</source>
+<year>2013</year>; <volume>95</volume>: <fpage>1535</fpage>&#x02013;1541.<pub-id pub-id-type="pmid">23680930</pub-id></mixed-citation></ref><ref id="bib42"><mixed-citation publication-type="journal">
+Koh YG
+, 
+Jo SB
+, 
+Kwon OR
+et al. <article-title>Mesenchymal stem cell injections improve symptoms of knee osteoarthritis</article-title>. <source>Arthroscopy</source>
+<year>2013</year>; <volume>29</volume>: <fpage>748</fpage>&#x02013;755.<pub-id pub-id-type="pmid">23375182</pub-id></mixed-citation></ref><ref id="bib43"><mixed-citation publication-type="journal">
+Bauer S
+, 
+Khan RJ
+, 
+Ebert JR
+et al. <article-title>Knee joint preservation with combined neutralising high tibial osteotomy (HTO) and matrix-induced autologous chondrocyte implantation (MACI) in younger patients with medial knee osteoarthritis: a case series with prospective clinical and MRI follow-up over 5 years</article-title>. <source>Knee</source>
+<year>2012</year>; <volume>19</volume>: <fpage>431</fpage>&#x02013;439.<pub-id pub-id-type="pmid">21782452</pub-id></mixed-citation></ref><ref id="bib44"><mixed-citation publication-type="journal">
+Ossendorf C
+, 
+Kaps C
+, 
+Kreuz PC
+et al. <article-title>Treatment of posttraumatic and focal osteoarthritic cartilage defects of the knee with autologous polymer-based three-dimensional chondrocyte grafts: 2-year clinical results</article-title>. <source>Arthritis Res Ther</source>
+<year>2007</year>; <volume>9</volume>: <fpage>R41</fpage>.<pub-id pub-id-type="pmid">17451597</pub-id></mixed-citation></ref><ref id="bib45"><mixed-citation publication-type="journal">
+Kreuz PC
+, 
+Muller S
+, 
+Ossendorf C
+et al. <article-title>Treatment of focal degenerative cartilage defects with polymer-based autologous chondrocyte grafts: four-year clinical results</article-title>. <source>Arthritis Res Ther</source>
+<year>2009</year>; <volume>11</volume>: <fpage>R33</fpage>.<pub-id pub-id-type="pmid">19265548</pub-id></mixed-citation></ref><ref id="bib46"><mixed-citation publication-type="journal">
+Kon E
+, 
+Delcogliano M
+, 
+Filardo G
+et al. <article-title>Novel nano-composite multi-layered biomaterial for the treatment of multifocal degenerative cartilage lesions</article-title>. <source>Knee Surg Sports Traumatol Arthrosc</source>
+<year>2009</year>; <volume>17</volume>: <fpage>1312</fpage>&#x02013;1315.<pub-id pub-id-type="pmid">19468711</pub-id></mixed-citation></ref><ref id="bib47"><mixed-citation publication-type="journal">
+Siclari A
+, 
+Mascaro G
+, 
+Gentili C
+et al. <article-title>A cell-free scaffold-based cartilage repair provides improved function hyaline-like repair at one year</article-title>. <source>Clin Orthop Relat Res</source>
+<year>2012</year>; <volume>470</volume>: <fpage>910</fpage>&#x02013;919.<pub-id pub-id-type="pmid">21965060</pub-id></mixed-citation></ref><ref id="bib48"><mixed-citation publication-type="journal">
+Zhang W
+, 
+Moskowitz RW
+, 
+Nuki G
+et al. <article-title>OARSI recommendations for the management of hip and knee osteoarthritis, part I: critical appraisal of existing treatment guidelines and systematic review of current research evidence</article-title>. <source>Osteoarthritis Cartilage</source>
+<year>2007</year>; <volume>15</volume>: <fpage>981</fpage>&#x02013;1000.<pub-id pub-id-type="pmid">17719803</pub-id></mixed-citation></ref><ref id="bib49"><mixed-citation publication-type="journal">
+Hochberg MC
+, 
+Altman RD
+, 
+April KT
+et al. <article-title>American College of Rheumatology 2012 recommendations for the use of nonpharmacologic and pharmacologic therapies in osteoarthritis of the hand, hip, and knee</article-title>. <source>Arthritis Care Res (Hoboken) 2012</source>
+<volume>64</volume>: <fpage>465</fpage>&#x02013;474.</mixed-citation></ref><ref id="bib50"><mixed-citation publication-type="journal">
+Schiodt FV
+, 
+Rochling FA
+, 
+Casey DL
+et al. <article-title>Acetaminophen toxicity in an urban county hospital</article-title>. <source>N Engl J Med</source>
+<year>1997</year>; <volume>337</volume>: <fpage>1112</fpage>&#x02013;1117.<pub-id pub-id-type="pmid">9329933</pub-id></mixed-citation></ref><ref id="bib51"><mixed-citation publication-type="journal">
+Black M
+. <article-title>Acetaminophen hepatotoxicity</article-title>. <source>Annu Rev Med</source>
+<year>1984</year>; <volume>35</volume>: <fpage>577</fpage>&#x02013;593.<pub-id pub-id-type="pmid">6372672</pub-id></mixed-citation></ref><ref id="bib52"><mixed-citation publication-type="other">
+US Food and Drug Administration. FDA Limits Acetaminophen in Prescription Combination Products; Requires Liver Toxicity Warnings. Silver Spring: FDA, 2011. Available at http://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm239894.htm. 25 September 2015.</mixed-citation></ref><ref id="bib53"><mixed-citation publication-type="journal">
+Zhang W
+, 
+Jones A
+, 
+Doherty M
+. <article-title>Does paracetamol (acetaminophen) reduce the pain of osteoarthritis? A meta-analysis of randomised controlled trials</article-title>. <source>Ann Rheum Dis</source>
+<year>2004</year>; <volume>63</volume>: <fpage>901</fpage>&#x02013;907.<pub-id pub-id-type="pmid">15020311</pub-id></mixed-citation></ref><ref id="bib54"><mixed-citation publication-type="other">
+Towheed TE
+, 
+Maxwell L
+, 
+Judd MG
+et al. <article-title>Acetaminophen for osteoarthritis</article-title>. <source>Cochrane Database Syst Rev</source>
+<year>2006</year>, <fpage>D4257</fpage>.</mixed-citation></ref><ref id="bib55"><mixed-citation publication-type="journal">
+Pirmohamed M
+, 
+James S
+, 
+Meakin S
+et al. <article-title>Adverse drug reactions as cause of admission to hospital: prospective analysis of 18 820 patients</article-title>. <source>BMJ</source>
+<year>2004</year>; <volume>329</volume>: <fpage>15</fpage>&#x02013;19.<pub-id pub-id-type="pmid">15231615</pub-id></mixed-citation></ref><ref id="bib56"><mixed-citation publication-type="journal">
+Garcia RL
+, 
+Jick H
+. <article-title>Risk of upper gastrointestinal bleeding and perforation associated with individual non-steroidal anti-inflammatory drugs</article-title>. <source>Lancet</source>
+<year>1994</year>; <volume>343</volume>: <fpage>769</fpage>&#x02013;772.<pub-id pub-id-type="pmid">7907735</pub-id></mixed-citation></ref><ref id="bib57"><mixed-citation publication-type="journal">
+Langman MJ
+, 
+Weil J
+, 
+Wainwright P
+et al. <article-title>Risks of bleeding peptic ulcer associated with individual non-steroidal anti-inflammatory drugs</article-title>. <source>Lancet</source>
+<year>1994</year>; <volume>343</volume>: <fpage>1075</fpage>&#x02013;1078.<pub-id pub-id-type="pmid">7909103</pub-id></mixed-citation></ref><ref id="bib58"><mixed-citation publication-type="other">
+US Food and Drug Administration Information for Healthcare Professionals: Celecoxib (marketed as Celebrex). Silver Spring: FDA, 2005. Available at http://www.fda.gov/Drugs/DrugSafety/PostmarketDrugSafetyInformationforPatientsandProviders/ucm124655.htm. 25 September 2015.</mixed-citation></ref><ref id="bib59"><mixed-citation publication-type="other">
+US Food and Drug Administration. FDA Public Health Advisory: Safety of Vioxx. Silver Spring: FDA, 2004. Available at http://www.fda.gov/drugs/drugsafety/postmarketdrugsafetyinformationforpatientsandproviders/ucm106274.htm. 25 September 2015.</mixed-citation></ref><ref id="bib60"><mixed-citation publication-type="other">
+US Food and Drug Administration. Information for Healthcare Professionals: Valdecoxib (marketed as Bextra). Silver Spring: FDA, 2005. Available at http://www.fda.gov/Drugs/DrugSafety/PostmarketDrugSafetyInformationforPatientsandProviders/ucm124649.htm. 25 September 2015.</mixed-citation></ref><ref id="bib61"><mixed-citation publication-type="journal">
+Wright EA
+, 
+Katz JN
+, 
+Abrams S
+et al. <article-title>Trends in prescription of opioids from 2003-2009 in persons with knee osteoarthritis</article-title>. <source>Arthritis Care Res (Hoboken)</source>
+<year>2014</year>; <volume>66</volume>: <fpage>1489</fpage>&#x02013;1495.<pub-id pub-id-type="pmid">24782079</pub-id></mixed-citation></ref><ref id="bib62"><mixed-citation publication-type="journal">
+Beaulieu AD
+, 
+Peloso PM
+, 
+Haraoui B
+et al. <article-title>Once-daily, controlled-release tramadol and sustained-release diclofenac relieve chronic pain due to osteoarthritis: a randomized controlled Trial</article-title>. <source>Pain Res Manag</source>
+<year>2008</year>; <volume>13</volume>: <fpage>103</fpage>&#x02013;110.<pub-id pub-id-type="pmid">18443672</pub-id></mixed-citation></ref><ref id="bib63"><mixed-citation publication-type="journal">
+Gana TJ
+, 
+Pascual ML
+, 
+Fleming RR
+et al. <article-title>Extended-release tramadol in the treatment of osteoarthritis: a multicenter, randomized, double-blind, placebo-controlled clinical trial</article-title>. <source>Curr Med Res Opin</source>
+<year>2006</year>; <volume>22</volume>: <fpage>1391</fpage>&#x02013;1401.<pub-id pub-id-type="pmid">16834838</pub-id></mixed-citation></ref><ref id="bib64"><mixed-citation publication-type="journal">
+DeLemos BP
+, 
+Xiang J
+, 
+Benson C
+et al. <article-title>Tramadol hydrochloride extended-release once-daily in the treatment of osteoarthritis of the knee and/or hip: a double-blind, randomized, dose-ranging trial</article-title>. <source>Am J Ther</source>
+<year>2011</year>; <volume>18</volume>: <fpage>216</fpage>&#x02013;226.<pub-id pub-id-type="pmid">20215961</pub-id></mixed-citation></ref><ref id="bib65"><mixed-citation publication-type="other">
+US Food and Drug Administration. FDA Clears Cymbalta to Treat Chronic Musculoskeletal Pain. Silver Spring: FDA, 2010. Available at http://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm232708.htm. 25 September 2015.</mixed-citation></ref><ref id="bib66"><mixed-citation publication-type="journal">
+Chappell AS
+, 
+Desaiah D
+, 
+Liu-Seifert H
+et al. <article-title>A double-blind, randomized, placebo-controlled study of the efficacy and safety of duloxetine for the treatment of chronic pain due to osteoarthritis of the knee</article-title>. <source>Pain Pract</source>
+<year>2011</year>; <volume>11</volume>: <fpage>33</fpage>&#x02013;41.<pub-id pub-id-type="pmid">20602715</pub-id></mixed-citation></ref><ref id="bib67"><mixed-citation publication-type="journal">
+Chappell AS
+, 
+Ossanna MJ
+, 
+Liu-Seifert H
+et al. <article-title>Duloxetine, a centrally acting analgesic, in the treatment of patients with osteoarthritis knee pain: a 13-week, randomized, placebo-controlled trial</article-title>. <source>Pain</source>
+<year>2009</year>; <volume>146</volume>: <fpage>253</fpage>&#x02013;260.<pub-id pub-id-type="pmid">19625125</pub-id></mixed-citation></ref><ref id="bib68"><mixed-citation publication-type="journal">
+Noth U
+, 
+Steinert AF
+, 
+Tuan RS
+. <article-title>Technology insight: adult mesenchymal stem cells for osteoarthritis therapy</article-title>. <source>Nat Clin Pract Rheumatol</source>
+<year>2008</year>; <volume>4</volume>: <fpage>371</fpage>&#x02013;380.<pub-id pub-id-type="pmid">18477997</pub-id></mixed-citation></ref><ref id="bib69"><mixed-citation publication-type="journal">
+Ong KL
+, 
+Villarraga ML
+, 
+Lau E
+et al. <article-title>Off-label use of bone morphogenetic proteins in the United States using administrative data</article-title>. <source>Spine (Phila Pa 1976)</source>
+<year>2010</year>; <volume>35</volume>: <fpage>1794</fpage>&#x02013;1800.<pub-id pub-id-type="pmid">20700081</pub-id></mixed-citation></ref><ref id="bib70"><mixed-citation publication-type="journal">
+Hunter DJ
+, 
+Pike MC
+, 
+Jonas BL
+et al. <article-title>Phase 1 Safety and tolerability study of BMP-7 in symptomatic knee osteoarthritis</article-title>. <source>BMC Musculoskelet Disord</source>
+<year>2010</year>; <volume>11</volume>: <fpage>232</fpage>.<pub-id pub-id-type="pmid">20932341</pub-id></mixed-citation></ref><ref id="bib71"><mixed-citation publication-type="journal">
+Chevalier X
+, 
+Goupille P
+, 
+Beaulieu AD
+et al. <article-title>Intraarticular injection of anakinra in osteoarthritis of the knee: a multicenter, randomized, double-blind, placebo-controlled study</article-title>. <source>Arthritis Rheum</source>
+<year>2009</year>; <volume>61</volume>: <fpage>344</fpage>&#x02013;352.<pub-id pub-id-type="pmid">19248129</pub-id></mixed-citation></ref><ref id="bib72"><mixed-citation publication-type="journal">
+Cohen SB
+, 
+Proudman S
+, 
+Kivitz AJ
+et al. <article-title>A randomized, double-blind study of AMG 108 (a fully human monoclonal antibody to IL-1R1) in patients with osteoarthritis of the knee</article-title>. <source>Arthritis Res Ther</source>
+<year>2011</year>; <volume>13</volume>: <fpage>R125</fpage>.<pub-id pub-id-type="pmid">21801403</pub-id></mixed-citation></ref><ref id="bib73"><mixed-citation publication-type="journal">
+Lane NE
+, 
+Schnitzer TJ
+, 
+Birbara CA
+et al. <article-title>Tanezumab for the treatment of pain from osteoarthritis of the knee</article-title>. <source>N Engl J Med</source>
+<year>2010</year>; <volume>363</volume>: <fpage>1521</fpage>&#x02013;1531.<pub-id pub-id-type="pmid">20942668</pub-id></mixed-citation></ref><ref id="bib74"><mixed-citation publication-type="other">
+US Food and Drug Administration. Tanezumab Arthritis Advisory Committee Briefing Document. Silver Spring: FDA, 2012. Available at http://www.fda.gov/downloads/AdvisoryCommittees/CommitteesMeetingMaterials/Drugs/ArthritisAdvisoryCommittee/UCM295205.pdf. 25 September 2015.</mixed-citation></ref><ref id="bib75"><mixed-citation publication-type="journal">
+Seidel MF
+, 
+Lane NE
+. <article-title>Control of arthritis pain with anti-nerve-growth factor: risk and benefit</article-title>. <source>Curr Rheumatol Rep</source>
+<year>2012</year>; <volume>14</volume>: <fpage>583</fpage>&#x02013;588.<pub-id pub-id-type="pmid">22948388</pub-id></mixed-citation></ref><ref id="bib76"><mixed-citation publication-type="journal">
+Lohmander LS
+, 
+Hellot S
+, 
+Dreher D
+et al. <article-title>Intraarticular sprifermin (recombinant human fibroblast growth factor 18) in knee osteoarthritis: a randomized, double-blind, placebo-controlled trial</article-title>. <source>Arthritis Rheumatol</source>
+<year>2014</year>; <volume>66</volume>: <fpage>1820</fpage>&#x02013;1831.<pub-id pub-id-type="pmid">24740822</pub-id></mixed-citation></ref><ref id="bib77"><mixed-citation publication-type="journal">
+S&#x000e1;nchez M
+, 
+Anitua E
+, 
+Azofra J
+et al. <article-title>Intra-articular injection of an autologous preparation rich in growth factors for the treatment of knee oa: a retrospective cohort study</article-title>. <source>Clin Exp Rheumatol</source>
+<year>2008</year>; <volume>26</volume>: <fpage>910</fpage>&#x02013;913.<pub-id pub-id-type="pmid">19032827</pub-id></mixed-citation></ref><ref id="bib78"><mixed-citation publication-type="journal">
+Wang-Saegusa A
+, 
+Cugat R
+, 
+Ares O
+et al. <article-title>Infiltration of plasma rich in growth factors for osteoarthritis of the knee short-term effects on function and quality of life</article-title>. <source>Arch Orthop Trauma Surg</source>
+<year>2011</year>; <volume>131</volume>: <fpage>311</fpage>&#x02013;317.<pub-id pub-id-type="pmid">20714903</pub-id></mixed-citation></ref><ref id="bib79"><mixed-citation publication-type="journal">
+Sampson S
+, 
+Reed M
+, 
+Silvers H
+et al. <article-title>Injection of platelet-rich plasma in patients with primary and secondary knee osteoarthritis: a pilot study</article-title>. <source>Am J Phys Med Rehabil</source>
+<year>2010</year>; <volume>89</volume>: <fpage>961</fpage>&#x02013;969.<pub-id pub-id-type="pmid">21403592</pub-id></mixed-citation></ref><ref id="bib80"><mixed-citation publication-type="journal">
+Kon E
+, 
+Buda R
+, 
+Filardo G
+et al. <article-title>Platelet-rich plasma: intra-articular knee injections produced favorable results on degenerative cartilage lesions</article-title>. <source>Knee Surg Sports Traumatol Arthrosc</source>
+<year>2010</year>; <volume>18</volume>: <fpage>472</fpage>&#x02013;479.<pub-id pub-id-type="pmid">19838676</pub-id></mixed-citation></ref><ref id="bib81"><mixed-citation publication-type="journal">
+Shimonkevitz R
+, 
+Thomas G
+, 
+Slone DS
+et al. <article-title>A diketopiperazine fragment of human serum albumin modulates t-lymphocyte cytokine production through Rap1</article-title>. <source>J Trauma</source>
+<year>2008</year>; <volume>64</volume>: <fpage>35</fpage>&#x02013;41.<pub-id pub-id-type="pmid">18188096</pub-id></mixed-citation></ref><ref id="bib82"><mixed-citation publication-type="journal">
+Bar-Or D
+, 
+Salottolo KM
+, 
+Loose H
+et al. <article-title>A randomized clinical trial to evaluate two doses of an intra-articular injection of LMWF-5A in adults with pain due to osteoarthritis of the knee</article-title>. <source>Plos One</source>
+<year>2014</year>; <volume>9</volume>: <fpage>e87910</fpage>.<pub-id pub-id-type="pmid">24498399</pub-id></mixed-citation></ref><ref id="bib83"><mixed-citation publication-type="other">
+Ampio Pharmaceuticals Inc. Results from the 20 Weeks Extension of the Ampion SPRING Study to be Presented at the Western Orthopedic Association Conference. Englewood: Ampio Pharmaceuticals Inc., 2014. Available at http://ampiopharma.com/news/results-20-weeks-extension-ampiontm-spring-study-presented-western-orthopedic-association-conference. 25 September 2015.</mixed-citation></ref><ref id="bib84"><mixed-citation publication-type="other">
+Ampio Pharmaceuticals Inc. Ampio Announces Top-Line Results of the Double-Blind Multiple Intra-Articular Injections (STRUT) Study of AmpionTM in Patients with Moderate to Severe Osteoarthritis of the Knee. Englewood: Ampio Pharmaceuticals Inc., 2015. Available at http://ampiopharma.com/news/ampio-announces-top-line-results-of-the-double-blind-multiple-intra-articular-injections-strut-study-of-ampion-in-patients-with-moderate-to-severe-osteoarthritis-of-the-knee/. 25 September 2015.</mixed-citation></ref><ref id="bib85"><mixed-citation publication-type="journal">
+Wenham CY
+, 
+Grainger AJ
+, 
+Hensor EM
+et al. <article-title>Methotrexate for pain relief in knee osteoarthritis: an open-label study</article-title>. <source>Rheumatology (Oxford)</source>
+<year>2013</year>; <volume>52</volume>: <fpage>888</fpage>&#x02013;892.<pub-id pub-id-type="pmid">23300331</pub-id></mixed-citation></ref><ref id="bib86"><mixed-citation publication-type="journal">
+Kingsbury SR
+, 
+Tharmanathan P
+, 
+Arden NK
+et al. <article-title>Pain reduction with oral methotrexate in knee osteoarthritis, a pragmatic phase iii trial of treatment effectiveness (PROMOTE): study protocol for a randomized controlled trial</article-title>. <source>Trials</source>
+<year>2015</year>; <volume>16</volume>: <fpage>77</fpage>.<pub-id pub-id-type="pmid">25872649</pub-id></mixed-citation></ref><ref id="bib87"><mixed-citation publication-type="other">
+ISRCTN Registry. Pain Reduction with Oral Methotrexate in Knee Osteoarthritis: A Pragmatic Phase III Trial of Treatment Effectiveness. London: BioMed Central, 2015. Available at http://www.controlled-trials.com/ISRCTN77854383. 25 September 2015.</mixed-citation></ref><ref id="bib88"><mixed-citation publication-type="other">
+Abou-Raya A
+, 
+Abou-Raya S
+, 
+Khadrawe T
+. <article-title>Methotrexate in the treatment of symptomatic knee osteoarthritis: randomised placebo-controlled trial</article-title>. <source>Ann Rheum Dis</source>
+<year>2014</year>. doi: 10.1136/annrheumdis-2013-204856. [Epub ahead of print].</mixed-citation></ref><ref id="bib89"><mixed-citation publication-type="journal">
+Jiang YZ
+, 
+Zhang SF
+, 
+Qi YY
+et al. <article-title>Cell transplantation for articular cartilage defects: principles of past, present, and future practice</article-title>. <source>Cell Transplant</source>
+<year>2011</year>; <volume>20</volume>: <fpage>593</fpage>&#x02013;607.<pub-id pub-id-type="pmid">20887665</pub-id></mixed-citation></ref><ref id="bib90"><mixed-citation publication-type="journal">
+Brittberg M
+, 
+Lindahl A
+, 
+Nilsson A
+et al. <article-title>Treatment of deep cartilage defects in the knee with autologous chondrocyte transplantation</article-title>. <source>N Engl J Med</source>
+<year>1994</year>; <volume>331</volume>: <fpage>889</fpage>&#x02013;895.<pub-id pub-id-type="pmid">8078550</pub-id></mixed-citation></ref><ref id="bib91"><mixed-citation publication-type="journal">
+Tuan RS
+. <article-title>A second-generation autologous chondrocyte implantation approach to the treatment of focal articular cartilage defects</article-title>. <source>Arthritis Res Ther</source>
+<year>2007</year>; <volume>9</volume>: <fpage>109</fpage>.<pub-id pub-id-type="pmid">18021426</pub-id></mixed-citation></ref><ref id="bib92"><mixed-citation publication-type="journal">
+Marlovits S
+, 
+Zeller P
+, 
+Singer P
+et al. <article-title>Cartilage repair: generations of autologous chondrocyte transplantation</article-title>. <source>Eur J Radiol</source>
+<year>2006</year>; <volume>57</volume>: <fpage>24</fpage>&#x02013;31.<pub-id pub-id-type="pmid">16188417</pub-id></mixed-citation></ref><ref id="bib93"><mixed-citation publication-type="journal">
+Peterson L
+, 
+Minas T
+, 
+Brittberg M
+et al. <article-title>Treatment of osteochondritis dissecans of the knee with autologous chondrocyte transplantation: results at two to ten years</article-title>. <source>J Bone Joint Surg Am</source>
+<year>2003</year>; <volume>85-A</volume> Suppl 2: <fpage>17</fpage>&#x02013;24.<pub-id pub-id-type="pmid">12721341</pub-id></mixed-citation></ref><ref id="bib94"><mixed-citation publication-type="other">
+Peterson L
+, 
+Minas T
+, 
+Brittberg M
+et al. <article-title>Two- to 9-year outcome after autologous chondrocyte transplantation of the knee</article-title>. <source>Clin Orthop Relat Res</source>
+<year>2000</year>: <fpage>212</fpage>&#x02013;234.</mixed-citation></ref><ref id="bib95"><mixed-citation publication-type="other">
+US Food and Drug Administration. 22 August 22 1997 Approval Letter&#x02014;Carticel. Rockville: FDA, 1997. Available at http://www.fda.gov/BiologicsBloodVaccines/CellularGeneTherapyProducts/ApprovedProducts/ucm171702.htm. 25 September 2015.</mixed-citation></ref><ref id="bib96"><mixed-citation publication-type="journal">
+Knutsen G
+, 
+Engebretsen L
+, 
+Ludvigsen TC
+et al. <article-title>Autologous chondrocyte implantation compared with microfracture in the knee. A randomized trial</article-title>. <source>J Bone Joint Surg Am</source>
+<year>2004</year>; <volume>86-A</volume>: <fpage>455</fpage>&#x02013;464.<pub-id pub-id-type="pmid">14996869</pub-id></mixed-citation></ref><ref id="bib97"><mixed-citation publication-type="journal">
+Marcacci M
+, 
+Kon E
+, 
+Grigolo B
+et al. <article-title>8.3 The clinician view</article-title>. <source>Osteoarthr Cartilage</source>
+<year>2007</year>; <volume>15</volume>: <fpage>B11</fpage>&#x02013;B13.</mixed-citation></ref><ref id="bib98"><mixed-citation publication-type="journal">
+Gomoll AH
+, 
+Filardo G
+, 
+de Girolamo L
+et al. <article-title>Surgical treatment for early osteoarthritis. Part I: cartilage repair procedures</article-title>. <source>Knee Surg Sports Traumatol Arthrosc</source>
+<year>2012</year>; <volume>20</volume>: <fpage>450</fpage>&#x02013;466.<pub-id pub-id-type="pmid">22113219</pub-id></mixed-citation></ref><ref id="bib99"><mixed-citation publication-type="journal">
+Rosenberger RE
+, 
+Gomoll AH
+, 
+Bryant T
+et al. <article-title>Repair of large chondral defects of the knee with autologous chondrocyte implantation in patients 45 years or older</article-title>. <source>Am J Sports Med</source>
+<year>2008</year>; <volume>36</volume>: <fpage>2336</fpage>&#x02013;2344.<pub-id pub-id-type="pmid">18725654</pub-id></mixed-citation></ref><ref id="bib100"><mixed-citation publication-type="journal">
+Minas T
+, 
+Gomoll AH
+, 
+Solhpour S
+et al. <article-title>Autologous chondrocyte implantation for joint preservation in patients with early osteoarthritis</article-title>. <source>Clin Orthop Relat Res</source>
+<year>2010</year>; <volume>468</volume>: <fpage>147</fpage>&#x02013;157.<pub-id pub-id-type="pmid">19653049</pub-id></mixed-citation></ref><ref id="bib101"><mixed-citation publication-type="journal">
+Matricali GA
+, 
+Dereymaeker GP
+, 
+Luyten FP
+. <article-title>Donor site morbidity after articular cartilage repair procedures: a review</article-title>. <source>Acta Orthop Belg</source>
+<year>2010</year>; <volume>76</volume>: <fpage>669</fpage>&#x02013;674.<pub-id pub-id-type="pmid">21138224</pub-id></mixed-citation></ref><ref id="bib102"><mixed-citation publication-type="journal">
+Schnabel M
+, 
+Marlovits S
+, 
+Eckhoff G
+et al. <article-title>Dedifferentiation-associated changes in morphology and gene expression in primary human articular chondrocytes in cell culture</article-title>. <source>Osteoarthritis Cartilage</source>
+<year>2002</year>; <volume>10</volume>: <fpage>62</fpage>&#x02013;70.<pub-id pub-id-type="pmid">11795984</pub-id></mixed-citation></ref><ref id="bib103"><mixed-citation publication-type="journal">
+Mackay AM
+, 
+Beck SC
+, 
+Murphy JM
+et al. <article-title>Chondrogenic differentiation of cultured human mesenchymal stem cells from marrow</article-title>. <source>Tissue Eng</source>
+<year>1998</year>; <volume>4</volume>: <fpage>415</fpage>&#x02013;428.<pub-id pub-id-type="pmid">9916173</pub-id></mixed-citation></ref><ref id="bib104"><mixed-citation publication-type="journal">
+Lee RH
+, 
+Kim B
+, 
+Choi I
+et al. <article-title>Characterization and expression analysis of mesenchymal stem cells from human bone marrow and adipose tissue</article-title>. <source>Cell Physiol Biochem</source>
+<year>2004</year>; <volume>14</volume>: <fpage>311</fpage>&#x02013;324.<pub-id pub-id-type="pmid">15319535</pub-id></mixed-citation></ref><ref id="bib105"><mixed-citation publication-type="journal">
+De Bari C
+, 
+Dell'Accio F
+, 
+Tylzanowski P
+et al. <article-title>Multipotent mesenchymal stem cells from adult human synovial membrane</article-title>. <source>Arthritis Rheum</source>
+<year>2001</year>; <volume>44</volume>: <fpage>1928</fpage>&#x02013;1942.<pub-id pub-id-type="pmid">11508446</pub-id></mixed-citation></ref><ref id="bib106"><mixed-citation publication-type="journal">
+Koh YG
+, 
+Choi YJ
+. <article-title>Infrapatellar fat pad-derived mesenchymal stem cell therapy for knee osteoarthritis</article-title>. <source>Knee</source>
+<year>2012</year>; <volume>19</volume>: <fpage>902</fpage>&#x02013;907.<pub-id pub-id-type="pmid">22583627</pub-id></mixed-citation></ref><ref id="bib107"><mixed-citation publication-type="journal">
+Temenoff JS
+, 
+Mikos AG
+. <article-title>Review: tissue engineering for regeneration of articular cartilage</article-title>. <source>Biomaterials</source>
+<year>2000</year>; <volume>21</volume>: <fpage>431</fpage>&#x02013;440.<pub-id pub-id-type="pmid">10674807</pub-id></mixed-citation></ref><ref id="bib108"><mixed-citation publication-type="journal">
+Daher RJ
+, 
+Chahine NO
+, 
+Greenberg AS
+et al. <article-title>New methods to diagnose and treat cartilage degeneration</article-title>. <source>Nat Rev Rheumatol</source>
+<year>2009</year>; <volume>5</volume>: <fpage>599</fpage>&#x02013;607.<pub-id pub-id-type="pmid">19786989</pub-id></mixed-citation></ref><ref id="bib109"><mixed-citation publication-type="journal">
+Schinhan M
+, 
+Gruber M
+, 
+Dorotka R
+et al. <article-title>Matrix-associated autologous chondrocyte transplantation in a compartmentalized early stage of osteoarthritis</article-title>. <source>Osteoarthritis Cartilage</source>
+<year>2013</year>; <volume>21</volume>: <fpage>217</fpage>&#x02013;225.<pub-id pub-id-type="pmid">23085709</pub-id></mixed-citation></ref><ref id="bib110"><mixed-citation publication-type="journal">
+Evans CH
+, 
+Ghivizzani SC
+, 
+Robbins PD
+. <article-title>Getting arthritis gene therapy into the clinic</article-title>. <source>Nat Rev Rheumatol</source>
+<year>2011</year>; <volume>7</volume>: <fpage>244</fpage>&#x02013;249.<pub-id pub-id-type="pmid">21135882</pub-id></mixed-citation></ref><ref id="bib111"><mixed-citation publication-type="other">
+US National Institutes of Health. Safety Study of TissueGene-C in Degenerative Joint Disease of the Knee (TGC-03-01). Bethesda: ClinicalTrials.gov, 2010. Available at http://clinicaltrials.gov/ct2/show/NCT00599248. 25 September 2015.</mixed-citation></ref><ref id="bib112"><mixed-citation publication-type="other">
+US National Institutes of Health. Efficacy and Safety Study of TissueGene-C to Degenerative Arthritis. Bethesda: ClinicalTrials.gov, 2015. Available at http://clinicaltrials.gov/ct2/show/NCT01671072. 25 September 2015.</mixed-citation></ref><ref id="bib113"><mixed-citation publication-type="journal">
+Ha CW
+, 
+Noh MJ
+, 
+Choi KB
+et al. <article-title>Initial phase I safety of retrovirally transduced human chondrocytes expressing transforming growth factor-beta-1 in degenerative arthritis patients</article-title>. <source>Cytotherapy</source>
+<year>2012</year>; <volume>14</volume>: <fpage>247</fpage>&#x02013;256.<pub-id pub-id-type="pmid">22242865</pub-id></mixed-citation></ref><ref id="bib114"><mixed-citation publication-type="journal">
+Ha C
+, 
+Park SH
+, 
+Cho JJ
+et al. <article-title>A phase IIA clinical study of tissuegene-C (TG-C) in patients with osteoarthritis</article-title>. <source>Osteoarthr Cartilage</source>
+<year>2012</year>; <volume>20</volume>: <fpage>S27</fpage>&#x02013;S28.</mixed-citation></ref><ref id="bib115"><mixed-citation publication-type="other">
+US National Institutes of Health. Efficacy and Safety Study of TissueGene-C to Degenerative Arthritis. Bethesda: ClinicalTrials.gov, 2015. Available at http://clinicaltrials.gov/ct2/show/NCT02072070. 25 September 2015.</mixed-citation></ref><ref id="bib116"><mixed-citation publication-type="journal">
+Zhu M
+, 
+Tang D
+, 
+Wu Q
+et al. <article-title>Activation of beta-catenin signaling in articular chondrocytes leads to osteoarthritis-like phenotype in adult beta-catenin conditional activation mice</article-title>. <source>J Bone Miner Res</source>
+<year>2009</year>; <volume>24</volume>: <fpage>12</fpage>&#x02013;21.<pub-id pub-id-type="pmid">18767925</pub-id></mixed-citation></ref><ref id="bib117"><mixed-citation publication-type="journal">
+Shen J
+, 
+Li J
+, 
+Wang B
+et al. <article-title>Deletion of the transforming growth factor beta receptor type ii gene in articular chondrocytes leads to a progressive osteoarthritis-like phenotype in mice</article-title>. <source>Arthritis Rheum</source>
+<year>2013</year>; <volume>65</volume>: <fpage>3107</fpage>&#x02013;3119.<pub-id pub-id-type="pmid">23982761</pub-id></mixed-citation></ref><ref id="bib118"><mixed-citation publication-type="journal">
+Wang M
+, 
+Sampson ER
+, 
+Jin H
+et al. <article-title>MMP13 is a critical target gene during the progression of osteoarthritis</article-title>. <source>Arthritis Res Ther</source>
+<year>2013</year>; <volume>15</volume>: <fpage>R5</fpage>.<pub-id pub-id-type="pmid">23298463</pub-id></mixed-citation></ref><ref id="bib119"><mixed-citation publication-type="journal">
+Chen P
+, 
+Zhu S
+, 
+Wang Y
+et al. <article-title>The amelioration of cartilage degeneration by ADAMTS-5 inhibitor delivered in a hyaluronic acid hydrogel</article-title>. <source>Biomaterials</source>
+<year>2014</year>; <volume>35</volume>: <fpage>2827</fpage>&#x02013;2836.<pub-id pub-id-type="pmid">24424207</pub-id></mixed-citation></ref><ref id="bib120"><mixed-citation publication-type="journal">
+Echtermeyer F
+, 
+Bertrand J
+, 
+Dreier R
+et al. <article-title>Syndecan-4 regulates ADAMTS-5 activation and cartilage breakdown in osteoarthritis</article-title>. <source>Nat Med</source>
+<year>2009</year>; <volume>15</volume>: <fpage>1072</fpage>&#x02013;1076.<pub-id pub-id-type="pmid">19684582</pub-id></mixed-citation></ref><ref id="bib121"><mixed-citation publication-type="journal">
+Krzeski P
+, 
+Buckland-Wright C
+, 
+Balint G
+et al. <article-title>Development of musculoskeletal toxicity without clear benefit after administration of PG-116800, a matrix metalloproteinase inhibitor, to patients with knee osteoarthritis: a randomized, 12-month, double-blind, placebo-controlled study</article-title>. <source>Arthritis Res Ther</source>
+<year>2007</year>; <volume>9</volume>: <fpage>R109</fpage>.<pub-id pub-id-type="pmid">17958901</pub-id></mixed-citation></ref><ref id="bib122"><mixed-citation publication-type="journal">
+Zhang W
+, 
+Chen J
+, 
+Zhang S
+et al. <article-title>Inhibitory function of parathyroid hormone-related protein on chondrocyte hypertrophy: the implication for articular cartilage repair</article-title>. <source>Arthritis Res Ther</source>
+<year>2012</year>; <volume>14</volume>: <fpage>221</fpage>.<pub-id pub-id-type="pmid">22971952</pub-id></mixed-citation></ref><ref id="bib123"><mixed-citation publication-type="journal">
+Zhang W
+, 
+Chen J
+, 
+Tao J
+et al. <article-title>The promotion of osteochondral repair by combined intra-articular injection of parathyroid hormone-related protein and implantation of a bi-layer collagen-silk scaffold</article-title>. <source>Biomaterials</source>
+<year>2013</year>; <volume>34</volume>: <fpage>6046</fpage>&#x02013;6057.<pub-id pub-id-type="pmid">23702148</pub-id></mixed-citation></ref><ref id="bib124"><mixed-citation publication-type="journal">
+Vortkamp A
+, 
+Lee K
+, 
+Lanske B
+et al. <article-title>Regulation of rate of cartilage differentiation by indian hedgehog and PTH-related protein</article-title>. <source>Science</source>
+<year>1996</year>; <volume>273</volume>: <fpage>613</fpage>&#x02013;622.<pub-id pub-id-type="pmid">8662546</pub-id></mixed-citation></ref><ref id="bib125"><mixed-citation publication-type="journal">
+Chung UI
+, 
+Lanske B
+, 
+Lee K
+et al. <article-title>The parathyroid hormone/parathyroid hormone-related peptide receptor coordinates endochondral bone development by directly controlling chondrocyte differentiation</article-title>. <source>Proc Natl Acad Sci USA</source>
+<year>1998</year>; <volume>95</volume>: <fpage>13030</fpage>&#x02013;13035.<pub-id pub-id-type="pmid">9789035</pub-id></mixed-citation></ref><ref id="bib126"><mixed-citation publication-type="journal">
+Sampson ER
+, 
+Hilton MJ
+, 
+Tian Y
+et al. <article-title>Teriparatide as a chondroregenerative therapy for injury-induced osteoarthritis</article-title>. <source>Sci Transl Med</source>
+<year>2011</year>; <volume>3</volume>: <fpage>101r</fpage>&#x02013;193r.</mixed-citation></ref><ref id="bib127"><mixed-citation publication-type="journal">
+Lin AC
+, 
+Seeto BL
+, 
+Bartoszko JM
+et al. <article-title>Modulating hedgehog signaling can attenuate the severity of osteoarthritis</article-title>. <source>Nat Med</source>
+<year>2009</year>; <volume>15</volume>: <fpage>1421</fpage>&#x02013;1425.<pub-id pub-id-type="pmid">19915594</pub-id></mixed-citation></ref><ref id="bib128"><mixed-citation publication-type="journal">
+Ruiz-Heiland G
+, 
+Horn A
+, 
+Zerr P
+et al. <article-title>Blockade of the hedgehog pathway inhibits osteophyte formation in arthritis</article-title>. <source>Ann Rheum Dis</source>
+<year>2012</year>; <volume>71</volume>: <fpage>400</fpage>&#x02013;407.<pub-id pub-id-type="pmid">22233602</pub-id></mixed-citation></ref><ref id="bib129"><mixed-citation publication-type="journal">
+Zhen G
+, 
+Wen C
+, 
+Jia X
+et al. <article-title>Inhibition of TGF-beta signaling in mesenchymal stem cells of subchondral bone attenuates osteoarthritis</article-title>. <source>Nat Med</source>
+<year>2013</year>; <volume>19</volume>: <fpage>704</fpage>&#x02013;712.<pub-id pub-id-type="pmid">23685840</pub-id></mixed-citation></ref><ref id="bib130"><mixed-citation publication-type="journal">
+Lories RJ
+, 
+Corr M
+, 
+Lane NE
+. <article-title>To Wnt or not to Wnt: the bone and joint health dilemma</article-title>. <source>Nat Rev Rheumatol</source>
+<year>2013</year>; <volume>9</volume>: <fpage>328</fpage>&#x02013;339.<pub-id pub-id-type="pmid">23459013</pub-id></mixed-citation></ref><ref id="bib131"><mixed-citation publication-type="journal">
+Funck-Brentano T
+, 
+Bouaziz W
+, 
+Marty C
+et al. <article-title>Dkk-1-mediated inhibition of Wnt signaling in bone ameliorates osteoarthritis in mice</article-title>. <source>Arthritis Rheumatol</source>
+<year>2014</year>; <volume>66</volume>: <fpage>3028</fpage>&#x02013;3039.<pub-id pub-id-type="pmid">25080367</pub-id></mixed-citation></ref><ref id="bib132"><mixed-citation publication-type="journal">
+Trounson A
+. <article-title>The production and directed differentiation of human embryonic stem cells</article-title>. <source>Endocr Rev</source>
+<year>2006</year>; <volume>27</volume>: <fpage>208</fpage>&#x02013;219.<pub-id pub-id-type="pmid">16434509</pub-id></mixed-citation></ref><ref id="bib133"><mixed-citation publication-type="journal">
+Thomson JA
+, 
+Itskovitz-Eldor J
+, 
+Shapiro SS
+et al. <article-title>Embryonic stem cell lines derived from human blastocysts</article-title>. <source>Science</source>
+<year>1998</year>; <volume>282</volume>: <fpage>1145</fpage>&#x02013;1147.<pub-id pub-id-type="pmid">9804556</pub-id></mixed-citation></ref><ref id="bib134"><mixed-citation publication-type="journal">
+Kramer J
+, 
+Hegert C
+, 
+Guan K
+et al. <article-title>Embryonic stem cell-derived chondrogenic differentiation in vitro: activation by BMP-2 and BMP-4</article-title>. <source>Mech Dev</source>
+<year>2000</year>; <volume>92</volume>: <fpage>193</fpage>&#x02013;205.<pub-id pub-id-type="pmid">10727858</pub-id></mixed-citation></ref><ref id="bib135"><mixed-citation publication-type="journal">
+Yang Z
+, 
+Sui L
+, 
+Toh WS
+et al. <article-title>Stage-dependent effect of TGF-beta1 on chondrogenic differentiation of human embryonic stem cells</article-title>. <source>Stem Cells Dev</source>
+<year>2009</year>; <volume>18</volume>: <fpage>929</fpage>&#x02013;940.<pub-id pub-id-type="pmid">18855519</pub-id></mixed-citation></ref><ref id="bib136"><mixed-citation publication-type="journal">
+Wakitani S
+, 
+Aoki H
+, 
+Harada Y
+et al. <article-title>Embryonic stem cells form articular cartilage, not teratomas, in osteochondral defects of rat joints</article-title>. <source>Cell Transplant</source>
+<year>2004</year>; <volume>13</volume>: <fpage>331</fpage>&#x02013;336.<pub-id pub-id-type="pmid">15468674</pub-id></mixed-citation></ref><ref id="bib137"><mixed-citation publication-type="journal">
+Dattena M
+, 
+Pilichi S
+, 
+Rocca S
+et al. <article-title>Sheep embryonic stem&#x02010;like cells transplanted in full&#x02010;thickness cartilage defects</article-title>. <source>J Tissue Eng Regen Med</source>
+<year>2009</year>; <volume>3</volume>: <fpage>175</fpage>&#x02013;187.<pub-id pub-id-type="pmid">19226519</pub-id></mixed-citation></ref><ref id="bib138"><mixed-citation publication-type="journal">
+Alper J
+. <article-title>Geron gets green light for human trial of ES cell-derived product</article-title>. <source>Nat Biotechnol</source>
+<year>2009</year>; <volume>27</volume>: <fpage>213</fpage>&#x02013;214.</mixed-citation></ref><ref id="bib139"><mixed-citation publication-type="journal">
+Hackett CH
+, 
+Fortier LA
+. <article-title>Embryonic stem cells and iPS cells: sources and characteristics</article-title>. <source>Vet Clin North Am Equine Pract</source>
+<year>2011</year>; <volume>27</volume>: <fpage>233</fpage>.<pub-id pub-id-type="pmid">21872756</pub-id></mixed-citation></ref><ref id="bib140"><mixed-citation publication-type="journal">
+Guzzo RM
+, 
+Gibson J
+, 
+Xu RH
+et al. <article-title>Efficient differentiation of human iPSC&#x02010;derived mesenchymal stem cells to chondroprogenitor cells</article-title>. <source>J Cell Biochem</source>
+<year>2013</year>; <volume>114</volume>: <fpage>480</fpage>&#x02013;490.<pub-id pub-id-type="pmid">22961870</pub-id></mixed-citation></ref><ref id="bib141"><mixed-citation publication-type="journal">
+Tashiro K
+, 
+Inamura M
+, 
+Kawabata K
+et al. <article-title>Efficient adipocyte and osteoblast differentiation from mouse induced pluripotent stem cells by adenoviral transduction</article-title>. <source>Stem Cells</source>
+<year>2009</year>; <volume>27</volume>: <fpage>1802</fpage>&#x02013;1811.<pub-id pub-id-type="pmid">19544436</pub-id></mixed-citation></ref><ref id="bib142"><mixed-citation publication-type="journal">
+Tanaka T
+, 
+Tohyama S
+, 
+Murata M
+et al. <article-title>In vitro pharmacologic testing using human induced pluripotent stem cell-derived cardiomyocytes</article-title>. <source>Biochem Biophys Res Commun</source>
+<year>2009</year>; <volume>385</volume>: <fpage>497</fpage>&#x02013;502.<pub-id pub-id-type="pmid">19464263</pub-id></mixed-citation></ref><ref id="bib143"><mixed-citation publication-type="journal">
+Wei Y
+, 
+Zeng W
+, 
+Wan R
+et al. <article-title>Chondrogenic differentiation of induced pluripotent stem cells from osteoarthritic chondrocytes in alginate matrix</article-title>. <source>Eur Cell Mater</source>
+<year>2012</year>; <volume>23</volume>: <fpage>1</fpage>&#x02013;12.<pub-id pub-id-type="pmid">22241609</pub-id></mixed-citation></ref><ref id="bib144"><mixed-citation publication-type="journal">
+Chen FM
+, 
+Wu LA
+, 
+Zhang M
+et al. <article-title>Homing of endogenous stem/progenitor cells for in situ tissue regeneration: Promises, strategies, and translational perspectives</article-title>. <source>Biomaterials</source>
+<year>2011</year>; <volume>32</volume>: <fpage>3189</fpage>&#x02013;3209.<pub-id pub-id-type="pmid">21300401</pub-id></mixed-citation></ref><ref id="bib145"><mixed-citation publication-type="journal">
+Zhang W
+, 
+Chen J
+, 
+Tao J
+et al. <article-title>The use of type 1 collagen scaffold containing stromal cell-derived factor-1 to create a matrix environment conducive to partial-thickness cartilage defects repair</article-title>. <source>Biomaterials</source>
+<year>2013</year>; <volume>34</volume>: <fpage>713</fpage>&#x02013;723.<pub-id pub-id-type="pmid">23107295</pub-id></mixed-citation></ref><ref id="bib146"><mixed-citation publication-type="journal">
+Chen J
+, 
+Chen H
+, 
+Li P
+et al. <article-title>Simultaneous regeneration of articular cartilage and subchondral bone <italic>in vivo</italic> using MSCs induced by a spatially controlled gene delivery system in bilayered integrated scaffolds</article-title>. <source>Biomaterials</source>
+<year>2011</year>; <volume>32</volume>: <fpage>4793</fpage>&#x02013;4805.<pub-id pub-id-type="pmid">21489619</pub-id></mixed-citation></ref></ref-list></back><floats-group><fig id="fig1"><label>Figure 1</label><caption><p>OA cartilage. (<bold>a</bold>) The changes of articular structure during OA progression. (<bold>b</bold>) Cellular responses in OA cartilage. OA, osteoarthritis.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="boneres201540-f1"/></fig><fig id="fig2"><label>Figure 2</label><caption><p>Current regenerative therapy for OA treatment. OA, osteoarthritis.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="boneres201540-f2"/></fig><table-wrap id="tbl1"><label>Table 1</label><caption><title>Current recommended OA drugs by AAOS, ACR, and OARSI<sup><xref ref-type="bibr" rid="bib3">3</xref>,<xref ref-type="bibr" rid="bib24">24</xref>,<xref ref-type="bibr" rid="bib48">48</xref>,<xref ref-type="bibr" rid="bib49">49</xref></sup>
+</title></caption><table frame="hsides" rules="groups" border="1"><colgroup><col align="left"/><col align="left"/></colgroup><thead valign="bottom"><tr><th align="left" valign="top" charoff="50">
+<italic>Drugs</italic>
+</th><th align="left" valign="top" charoff="50">
+<italic>Recommendations</italic>
+</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" charoff="50">Acetaminophen</td><td align="left" valign="top" charoff="50">AAOS: Inconclusively recommended for symptomatic knee OA with 3&#x02009;000&#x02009;mg per day (moderately recommended in the 2008 edition with up to 4&#x02009;000&#x02009;mg per day)&#x0000a;ACR: First-line drug up to 4&#x02009;000&#x02009;mg per day&#x0000a;OARSI: An effective initial oral analgesic for mild-to-moderate OA pain up to 4&#x02009;000&#x02009;mg per day</td></tr><tr><td align="left" valign="top" charoff="50">Non-selective NSAIDs</td><td align="left" valign="top" charoff="50">AAOS: Strongly recommended for symptomatic knee OA&#x0000a;ACR: Conditionally recommended for hand, knee, and hip OA&#x0000a;OARSI: Recommended for patients with symptomatic hip or knee OA at the lowest effective dose</td></tr><tr><td align="left" valign="top" charoff="50">Selective COX-2 inhibitors</td><td align="left" valign="top" charoff="50">AAOS: Strongly recommended for symptomatic knee OA&#x0000a;ACR: Conditionally recommended for hand, knee, and hip OA&#x0000a;OARSI: Recommended for patients with symptomatic hip or knee OA at the lowest effective dose</td></tr><tr><td align="left" valign="top" charoff="50">Opioid analgesics (tramadol)</td><td align="left" valign="top" charoff="50">AAOS: Strongly recommended for symptomatic knee OA&#x0000a;ACR: Conditionally recommend for hand, knee, and hip OA&#x0000a;OARSI: Consider use for the treatment of refractory pain in patients with hip or knee OA</td></tr><tr><td align="left" valign="top" charoff="50">SNRIs (duloxetine)</td><td align="left" valign="top" charoff="50">AAOS: Not included&#x0000a;ACR: Conditionally recommended for patients &#x02a7e;75&#x0000a;OARSI: Not included</td></tr><tr><td align="left" valign="top" charoff="50">Intra-articular corticosteroids</td><td align="left" valign="top" charoff="50">AAOS: Inconclusively recommended for symptomatic knee OA&#x0000a;ACR: Conditionally recommended for hip and knee OA&#x0000a;OARSI: For patients with moderate-to-severe pain who are not respond to oral analgesic and anti-inflammatory agents</td></tr><tr><td align="left" valign="top" charoff="50">Intra-articular hyaluronic acid</td><td align="left" valign="top" charoff="50">AAOS: No longer recommended (inconclusively recommended in the 2008 edition)&#x0000a;ACR: No recommendation&#x0000a;OARSI: May be useful in patients with knee or hip OA</td></tr></tbody></table><table-wrap-foot><fn id="t1-tfoot1"><p>ACR, American College of Rheumatology; AAOS, American Academy of Orthopaedic Surgeons; NSAIDs, non-steroidal anti-inflammatory drugs; OA, osteoarthritis; OARSI, Osteoarthritis Research Society International; SNRIs, serotonin&#x02013;norepinephrine reuptake inhibitor.</p></fn></table-wrap-foot></table-wrap><table-wrap id="tbl2"><label>Table 2</label><caption><title>New OA drugs and emerging therapeutics investigated in clinical studies (*) or preclinical animal studies</title></caption><table frame="hsides" rules="groups" border="1"><colgroup><col align="left"/><col align="left"/><col align="left"/></colgroup><thead valign="bottom"><tr><th align="left" valign="top" charoff="50">
+<italic>Mode of action</italic>
+</th><th align="left" valign="top" charoff="50">
+<italic>Targets</italic>
+</th><th align="left" valign="top" charoff="50">
+<italic>Potential therapeutics</italic>
+</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" charoff="50">Chondrogenic differentiation</td><td align="left" valign="top" charoff="50">BMP-7*&#x0000a;FGF*&#x0000a;PRP (containing several kinds of growth factors)*</td><td align="left" valign="top" charoff="50">rhBMP-7 (OP-1)<sup><xref ref-type="bibr" rid="bib70">70</xref></sup>
+&#x0000a;rhFGF-18 (sprifermin)<sup><xref ref-type="bibr" rid="bib76">76</xref></sup>
+&#x0000a;Autologous PRP<sup><xref ref-type="bibr" rid="bib78 bib79 bib80">78&#x02013;80</xref></sup>
+</td></tr><tr><td align="left" valign="top" charoff="50">Inhibition of hypertrophy and ossification</td><td align="left" valign="top" charoff="50">PTH/PTHrP receptor&#x0000a;Hedgehog signaling</td><td align="left" valign="top" charoff="50">rhPTH (1&#x02013;34) (teriparatide, Forteo),<sup><xref ref-type="bibr" rid="bib126">126</xref></sup> rhPTHrP (1&#x02013;40)<sup><xref ref-type="bibr" rid="bib123">123</xref></sup>
+&#x0000a;Smo inhibitor (HhAntag, LDE223)<sup><xref ref-type="bibr" rid="bib127">127</xref>,<xref ref-type="bibr" rid="bib128">128</xref></sup>
+</td></tr><tr><td align="left" valign="top" charoff="50">Inhibition of matrix degradation</td><td align="left" valign="top" charoff="50">MMP13&#x0000a;Adamts-5&#x0000a;Syndecan-4</td><td align="left" valign="top" charoff="50">MMP13 inhibitor (CL82198)<sup><xref ref-type="bibr" rid="bib118">118</xref></sup>
+&#x0000a;Adamts-5 inhibitor (114810)<sup><xref ref-type="bibr" rid="bib119">119</xref></sup>
+&#x0000a;Syndecan-4-specific antibody<sup><xref ref-type="bibr" rid="bib120">120</xref></sup>
+</td></tr><tr><td align="left" valign="top" charoff="50">Inhibition of inflammation</td><td align="left" valign="top" charoff="50">IL-1&#x003b2;*&#x0000a;HSA*&#x0000a;Methotrexate*</td><td align="left" valign="top" charoff="50">IL-1&#x003b2; receptor antagonist,<sup><xref ref-type="bibr" rid="bib71">71</xref></sup> IL-1&#x003b2; receptor antibody (AMG108)<sup><xref ref-type="bibr" rid="bib72">72</xref></sup>
+&#x0000a;a &#x0003c;5-kDa ultrafiltrate of HSA (Ampion)<sup><xref ref-type="bibr" rid="bib83">83</xref>,<xref ref-type="bibr" rid="bib84">84</xref></sup>
+&#x0000a;Methotrexate<sup><xref ref-type="bibr" rid="bib85 bib86 bib87 bib88">85&#x02013;88</xref></sup>
+</td></tr><tr><td align="left" valign="top" charoff="50">Reduction in pain</td><td align="left" valign="top" charoff="50">&#x003b2;-NGF*</td><td align="left" valign="top" charoff="50">Monoclonal antibody against &#x003b2;-NGF (Tanezumab)<sup><xref ref-type="bibr" rid="bib73 bib74 bib75">73&#x02013;75</xref></sup>
+</td></tr><tr><td align="left" valign="top" charoff="50">Subchondral bone</td><td align="left" valign="top" charoff="50">TGF-&#x003b2;&#x0000a;Wnt/b-catenin</td><td align="left" valign="top" charoff="50">TGF-&#x003b2; type I receptor inhibitor (SB-505124), TGF-&#x003b2; antibody (1D11)<sup><xref ref-type="bibr" rid="bib129">129</xref></sup>
+&#x0000a;Wnt antagonist (Dkk-1)<sup><xref ref-type="bibr" rid="bib131">131</xref></sup>
+</td></tr></tbody></table><table-wrap-foot><fn id="t2-tfoot1"><p>&#x003b2;-NGF, &#x003b2;-nerve growth factor; BMP-7, bone morphogenetic protein-7; OP-1, osteogenic protein-1; Dkk-1, dickkopf-related protein-1; FGF, fibroblast growth factor; HSA, human serum albumin; PTH, parathyroid hormone; PTHrP, parathyroid hormone-related protein; rhBMP-7, recombinant human BMP-7; rhFGF; recombinant human FGF; rhPTHrP; recombinant human PTHrP; MMP13, matrix metalloproteinase 13; OA, osteoarthritis; PRP, platelet-rich plasma; TGF-&#x003b2;, transforming growth factor-&#x003b2;.</p></fn></table-wrap-foot></table-wrap></floats-group></article>

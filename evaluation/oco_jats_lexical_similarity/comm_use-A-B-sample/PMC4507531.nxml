@@ -1,0 +1,404 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:ali="http://www.niso.org/schemas/ali/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Braz J Microbiol</journal-id><journal-id journal-id-type="iso-abbrev">Braz. J. Microbiol</journal-id><journal-id journal-id-type="publisher-id">bjm</journal-id><journal-title-group><journal-title>Brazilian Journal of Microbiology</journal-title></journal-title-group><issn pub-type="ppub">1517-8382</issn><issn pub-type="epub">1678-4405</issn><publisher><publisher-name>Sociedade Brasileira de Microbiologia</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">26273254</article-id><article-id pub-id-type="pmc">4507531</article-id><article-id pub-id-type="doi">10.1590/S1517-838246220140112</article-id><article-categories><subj-group subj-group-type="heading"><subject>Environmental Microbiology</subject></subj-group></article-categories><title-group><article-title>Biodegradation of kerosene: Study of growth optimization and
+metabolic fate of <italic>P. janthinellum</italic> SDX7</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Khan</surname><given-names>Shamiyan R.</given-names></name><xref ref-type="aff" rid="aff01">1</xref></contrib><contrib contrib-type="author"><name><surname>Nirmal</surname><given-names>J.I. Kumar</given-names></name><xref ref-type="aff" rid="aff01">1</xref><xref rid="c01" ref-type="corresp"/></contrib><contrib contrib-type="author"><name><surname>Kumar</surname><given-names>Rita N.</given-names></name><xref ref-type="aff" rid="aff02">2</xref></contrib><contrib contrib-type="author"><name><surname>Patel</surname><given-names>Jignasha G.</given-names></name><xref ref-type="aff" rid="aff01">1</xref></contrib></contrib-group><aff id="aff01"><label>1</label>Department of Environmental Science and
+Technology, Institute of Science and Technology for Advanced
+Studies and Research, Gujarat, India, Department of Environmental Science and
+Technology, Institute of Science and Technology for Advanced Studies and
+Research, Gujarat, India.</aff><aff id="aff02"><label>2</label>Department of Biological and Environmental
+Sciences, Natubhai V Patel College, Gujarat, India, Department of Biological and Environmental
+Sciences, Natubhai V Patel College, Gujarat, India.</aff><author-notes><corresp id="c01">Send correspondence to J.I.K. Nirmal. Department of Environmental
+Science and Technology, Institute of Science and Technology for Advanced Studies
+and Research, Gujarat, India. E-mail:
+<email>istares2005@yahoo.com</email>.</corresp><fn id="fn01" fn-type="other"><p>Associate Editor: Lara Dur&#x000e3;es Sette</p></fn></author-notes><pub-date pub-type="epub"><day>01</day><month>6</month><year>2015</year></pub-date><pub-date pub-type="collection"><month>6</month><year>2015</year></pub-date><volume>46</volume><issue>2</issue><fpage>397</fpage><lpage>406</lpage><history><date date-type="received"><day>06</day><month>2</month><year>2014</year></date><date date-type="accepted"><day>07</day><month>8</month><year>2014</year></date></history><permissions><copyright-statement>Copyright &#x000a9; 2015, Sociedade Brasileira de
+Microbiologia</copyright-statement><copyright-year>2015</copyright-year><license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/3.0/"><license-p>All the content of the journal, except where otherwise noted, is
+licensed under a Creative Commons License CC BY-NC.</license-p></license></permissions><abstract><p>
+<italic>Penicillum janthinellum</italic> SDX7 was isolated from aged petroleum
+hydrocarbon-affected soil at the site of Anand, Gujarat, India, and was tested
+for different pH, temperature, agitation and concentrations for optimal growth
+of the isolate that was capable of degrading upto 95%, 63% and 58% of 1%, 3% and
+5% kerosene, respectively, after a period of 16 days, at optimal growth
+conditions of pH 6.0, 30 &#x000b0;C and 180 rpm agitation. The GC/MS chromatograms
+revealed that the<italic>n</italic>-alkane fractions are easily degraded;
+however, the rate might be lower for branched alkanes,
+<italic>n</italic>-alkylaromatics, cyclic alkanes and polynuclear aromatics. The
+test doses caused a concentration-dependent depletion of carbohydrates of
+<italic>P. janthinellum</italic> SDX7 by 3% to 80%, proteins by 4% to 81%
+and amino acids by 8% to 95% upto 16 days of treatment. The optimal
+concentration of 3% kerosene resulted in the least reduction of the metabolites
+of <italic>P. janthinellum</italic> such as carbohydrates, proteins and amino
+acids with optimal growth compared to 5% and 1% (v/v) kerosene doses on the
+12<sup>th</sup> and 16<sup>th</sup> day of exposure. Phenols were found to
+be mounted by 43% to 66% at lower and higher concentrations during the
+experimental period. Fungal isolate <italic>P. janthinellum</italic> SDX7 was
+also tested for growth on various xenobiotic compounds.</p></abstract><kwd-group><kwd><italic>Penicillum janthinellum</italic> SDX7</kwd><kwd>optimal growth</kwd><kwd>metabolites</kwd><kwd>kerosene degradation</kwd></kwd-group><counts><fig-count count="6"/><table-count count="2"/><equation-count count="1"/><ref-count count="42"/><page-count count="10"/></counts></article-meta></front><body><sec sec-type="intro"><title>Introduction</title><p>Kerosene currently has several uses such as aircraft gas turbine and jet fuel for
+both commercial airlines and the military activities, as heating oil, and as a spray
+oil to combat insects on agricultural plants. Because of its availability compared
+to gasoline during wartime, commercial illuminating kerosene was the fuel chosen for
+the early jet engines. Consequently, the development of commercial jet aircraft
+following World War II focused primarily on the use of kerosene-type fuels (<xref rid="B10" ref-type="bibr">Irwin <italic>et al.</italic>, 1997</xref>). According
+to the US Coast Guard Emergency Response Notification System, kerosene is one of the
+most commonly spilled petroleum products containing paraffins (alkanes),
+cycloparaffins (cycloalkanes), aromatics, and olefins with carbon numbers
+betweenC9&#x02013;C20 (<xref rid="B10" ref-type="bibr">Irwin <italic>et al.</italic>,
+1997</xref>). Large amounts of spills and leaks of petroleum products such as
+gasoline, diesel, kerosene, and similar compounds have been refined and handled on
+land every year. Despite careful handling, there is a possibility of introduction
+into the soil environment. The penetration of hydrocarbons from the top of the soil
+into the subsoil leads to a direct risk of ground water contamination (<xref rid="B21" ref-type="bibr">Schinner and Margesin, 1997</xref>; <xref rid="B22" ref-type="bibr">Watkinson and Morgan, 1989</xref>). Although a significant
+proportion of the compounds in petroleum products are relatively innocuous, a number
+of lower molecular weight compounds are toxic or mutagenic and require remedial
+action to restrict environmental damage (<xref rid="B07" ref-type="bibr">Greer
+<italic>et al.</italic>, 2003</xref>)</p><p>Microorganisms are powerful alternatives to conventional methods in resolving
+environmental problems (<xref rid="B02" ref-type="bibr">Bento <italic>et
+al.</italic>, 2003</xref>). Bacteria, yeast and filamentous fungi have been
+reported as transforming agents due to their ability to degrade a wide range of
+pollutants because of their ubiquitous nature. Various bacterial genera that have
+been reported to contain hydrocarbon degrading species include <italic>Pseudomonas,
+Vibrio, Arthrobacter</italic> and <italic>Bacillus</italic> (<xref rid="B42" ref-type="bibr">Zajic, 1972</xref>; <xref rid="B35" ref-type="bibr">Snape
+<italic>et al.</italic>, 2001</xref>). Fungal degradation of defined single
+hydrocarbons as well as petroleum products has been performed by
+<italic>Penicillium, Candida, Fusarium, Aspergillus, Articulosporium</italic>
+(<xref rid="B38" ref-type="bibr">Sugiura <italic>et al.</italic>, 1997</xref>;
+<xref rid="B24" ref-type="bibr">Mukherji <italic>et al.</italic>, 2004</xref>).
+<xref rid="B26" ref-type="bibr">Kumar <italic>et al.</italic> (2013)</xref>
+performed biodegradation of high molecular weight PAHs such asphenanthrene and
+fluoranthene using cyanobacterial species - <italic>Aulosira fertilissima</italic>
+ghose. These organisms have been isolated in large numbers from many oil-polluted
+waters and soils but are found in lesser numbers in uncontaminated environments
+(<xref rid="B29" ref-type="bibr">Okoh, 2003</xref>). Biodegradation is
+considered to be a major mechanism for the removal of spilled petroleum hydrocarbons
+from the environment (<xref rid="B17" ref-type="bibr">Braddock and Lindstrom,
+2002</xref>). Therefore, it is necessary to perform laboratory feasibility tests
+to determine the effectiveness of biodegradation of kerosene due to the significant
+effect of the inherent capabilities of the microorganisms, by their ability to
+overcome the bioavailability limitations in multiphase environmental scenarios and
+by environmental factors such as pH, temperature, nutrients and electron acceptor
+availability (<xref rid="B24" ref-type="bibr">Mukherji <italic>et al.</italic>,
+2004</xref>; <xref rid="B39" ref-type="bibr">Trindade <italic>et al.</italic>,
+2005</xref>). Less is known about the biodegradability of petroleum commercial
+products such as kerosene (<xref rid="B06" ref-type="bibr">Gouda <italic>et
+al.</italic>, 2007</xref>). <xref rid="B33" ref-type="bibr">Shamiyan
+<italic>et al.</italic> (2013a</xref>, <xref rid="B34" ref-type="bibr">b)</xref> investigated the interactions of soil nutrients with Total Petroleum
+Hydrocarbons (TPH), with isolation and characterization of different
+petroleum-degrading fungal isolates. Moreover, no attempt has been made in the
+proposed work to establish the differential effects of various concentrations of
+kerosene on biochemical constituents of the fungal isolate <italic>Penicillium
+janthinellum</italic> SDX7 in liquid media during the biodegradation process.
+Hence, in the present investigation, an attempt has been made to optimize the fungal
+isolate at different conditions and its biochemical response during the petroleum
+hydrocarbon biodegradation of kerosene.</p></sec><sec sec-type="materials|methods"><title>Materials and Methods</title><sec><title>Fungal Isolate, Media and Culture Conditions</title><p>A fungal strain <italic>P. janthinellum</italic> SDX7 was isolated and screened
+from aged petroleum hydrocarbon-infected soil at the site of Anand, Gujarat,
+India, supporting the data of the TPH in the contaminated soil compared to the
+uncontaminated soil (garden soil). The isolate was identified as <italic>P.
+janthinellum</italic> SDX7 based on morphological and molecular (18S rRNA)
+methods, and the sequences were submitted to the National Center for
+Biotechnology Information (NCBI) gene bank under accession no. KC545842-KC545843
+(<xref rid="B34" ref-type="bibr">Shamiyan <italic>et al.</italic>,
+2013b</xref>). Two types of media were used for cultivation, Potato Dextrose
+Agar (PDA) media and for the optimization and degradation studies, Mineral Salt
+Medium (MSM) with the addition of various concentrations of kerosene as the sole
+carbon source. The liquid medium was sterilized at 121&#x000b0;C for 15 min before
+addition of the kerosene (<xref rid="B42" ref-type="bibr">Zajic and Supplisson,
+1972</xref>).</p></sec><sec><title>Preparation of standardized inocula</title><p>Axenic spore suspensions of <italic>P. janthinellum</italic> SDX7 of
+approximately 105 spores/mLwere grown by adding 15 mL of sterile distilled water
+to mature fungal colonies on PDA plates (4&#x02013;5 days) to dislodge the spores from
+the mycelium. These suspensions were then used to inoculate 100 mL MSM
+containing 3% (w/v) glucose in 500 mL Erlenmeyer flasks (<xref rid="B11" ref-type="bibr">Kendrick and Ratledge, 1996</xref>). The cultures were
+incubated at 30 &#x000b0;C in an incubator shaker operating at 180 rpm for 48 h. The
+resultant active growing cultures were aseptically washed three times with 300
+mL of sterile distilled water to remove remaining glucose fractions. This
+resulting culture was then used as the standard inoculum for further
+experiments.</p></sec><sec><title>Determination of optimal growth</title><p>The optimization study addresses different pH values, temperature, speed of
+agitation and kerosene concentration on <italic>P. janthinellum</italic> SDX7. A
+total of 10% (v/v) of standard inoculum was inoculated in each experiment and
+performed in triplicate. Biomass production (g/L) was used as an indicator for
+growth after 7 days of incubation. MSM medium with kerosene (without
+inoculation) was used as a control (<xref rid="B08" ref-type="bibr">Hamzah
+<italic>et al.</italic>, 2012</xref>).</p></sec><sec><title>Growth parameters</title><sec><title>pH</title><p>The influence of the pH of the initial medium on the fungal growth of
+<italic>P. janthinellum</italic> SDX7 was determined at pH 4.0, 5.0,
+6.0, 7.0, 8.0 and 9.0. Ten percent (v/v) standard inoculum was inoculated in
+a 500 mL Erlenmeyer flask containing 100 mL of MSM with the addition of 3%
+(v/v) kerosene and incubated at 30 &#x000b0;C in an orbital shaker at 180 rpm for 7
+days. The pH that promoted the highest biomass production (in terms of dry
+weight) was used for subsequent steps of the investigation.</p></sec><sec><title>Temperature</title><p>The effect of temperature on <italic>P. janthinellum</italic> SDX7 growth was
+studied at 20, 30 and 40 &#x000b0;C in the MSM medium with 3% (v/v) kerosene at the
+determined optimum pH and incubated in an orbital shaker at 180 rpm for 7
+days. The temperature that promoted the highest biomass production was used
+for the subsequent steps of the investigation.</p></sec><sec><title>Speed of agitation</title><p>The effect of different agitation at 130, 180 and 230 rpm during incubation
+on growth of <italic>P. janthinellum</italic> SDX7 was performed in the MSM
+medium with 3% (v/v) kerosene at optimum pH using an orbital shaker.
+Incubation was conducted at the determined optimum pH and temperature. The
+agitation speed that promoted the highest biomass production was used for
+the subsequent steps of the investigation.</p></sec><sec><title>Concentration of kerosene</title><p>The isolate of <italic>P. janthinellum</italic> SDX7 was grown in MSM
+prepared in accordance with the optimum nutrient parameters but supplemented
+with 1%, 3%, 5%, 10% and 20% (v/v) concentrations of kerosene and incubated
+at optimum pH, temperature and agitation speed for 7 days.</p></sec><sec><title>Dry weight measurement</title><p>The biomass of <italic>P. janthinellum</italic> SDX7 recovered by filtration
+using Whatman filter paper (No. 4) was washed with 100 mL chloroform to
+remove residual kerosene, then dried in the oven at 60 &#x000b0;C overnight, and
+cooled in a desiccators for 10&#x02013;20 min prior to weighing.</p></sec><sec><title>Determination of biodegradation activity</title><p>The determination of the biodegradation activity of <italic>Penicillum
+janthinellum</italic> SDX7 was performed in 100 mL of the MSM medium
+treated by lower 1%, optimal 3% and higher 5% concentrations of kerosene in
+a 500 mL Erlenmeyer flask and incubated at 30 &#x000b0;C and agitated at 180 rpm for
+16 days. The residual petroleum hydrocarbon was recovered by chloroform
+extraction at a ratio of 1:1 MSM medium: chloroform (<xref rid="B03" ref-type="bibr">Chaillan <italic>et al.</italic>, 2004</xref>). MSM
+without fungal inoculation was used as the control. Analysis of the fungal
+biodegradation activity was made using a computerized capillary gas
+chromatograph with flame ionization detector (GC/FID, Perkin Elmer-Auto
+System, SICART, V.V. Nagar) equipped with HP 3390A Integrator, split
+injector (split ratio 20/1) and flame ionization detector set at 300 &#x000b0;C. The
+carrier gas was nitrogen at a flow rate of 1.5 mL min<sup>&#x02212;1</sup>. The
+column was polydimethylsiloxane (length 30 m, internal diameter 0.32 mm,
+film thickness 0.25 &#x003bc;m). The temperature was programmed to increase from 60
+to 320 &#x000b0;C at 4 &#x000b0;C min<sup>&#x02212;1</sup>. The total petroleum hydrocarbon (TPH)
+degradation by <italic>P. janthinellum</italic> SDX7 isolate was calculated
+according to the following equation:</p><disp-formula id="e01"><label>(1)</label><mml:math id="m1"><mml:mrow><mml:mo>%</mml:mo><mml:mtext>B</mml:mtext><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:mn>100</mml:mn><mml:mi>&#x02009;</mml:mi><mml:mo stretchy="false">(</mml:mo><mml:mtext>TPHC</mml:mtext><mml:mo>-</mml:mo><mml:mtext>TPHI</mml:mtext><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mrow><mml:mtext>TPHC</mml:mtext></mml:mrow></mml:mfrac></mml:mrow></mml:math></disp-formula><p>where B is biodegradation, TPHC is the total petroleum hydrocarbon in the
+abiotic control (without fungal inoculation) and TPHI is the total petroleum
+hydrocarbon with inoculation (in this case with <italic>P.
+janthinellum</italic> SDX7).</p></sec><sec><title>GC/MS analysis</title><p>GC/MS spectra were acquired in the electron ionization mode (70 eV, nominal)
+scanning from <italic>m/z</italic> 30 to 650 s<sup>&#x02212;1</sup> and detected
+using an auto system XL GC apparatus (Perkin Elmer, SICART, V.V. Nagar). The
+column temperature was initially 80 &#x000b0;C, held for 5 min, then ramped from 80
+&#x000b0;C- 290 &#x000b0;C at 10 &#x000b0;C min<sup>&#x02212;1</sup>. Helium (1.0 mL min<sup>&#x02212;1</sup>) was
+used as the carrier gas. Both line and injector temperatures were set at 250
+&#x000b0;C. Each methanolic extract (1 &#x003bc;L) was injected in the split mode (1:40). MS
+conditions were EI + through a Perkin Elmer Turbo mass spectrometer as
+follows: ionization energy &#x02212;70 e V, nominal; scan rate, 1.6 scans/s;
+inter-scan delay, 0.01 s; source temperature, 250 &#x000b0;C; mass range, 30 to 650
+Daltons; solvent delay, 3.00 min. The gas chromatogram as reproduced by the
+mass spectrometer identified the mass spectrum scanned at each GC peak
+maximum. Data were thus obtained by comparing the mass spectra to those in
+the Wiley NIST/EPA/NIH Mass Spectral Library 2005.</p></sec><sec><title>Determination of metabolites</title><p>The variation in the metabolites was determined on the 4<sup>th</sup>,
+8<sup>th</sup>, 12<sup>th</sup> and 16<sup>th</sup> days by cultivating
+the <italic>P. janthinellum</italic> SDX7 culture under optimal conditions
+such as pH 6, temperature of 30 &#x000b0;C, speed of agitation at 180 rpm and
+addition of optimal 3% (v/v) with higher 5% and lower 1% (v/v) dose of
+kerosene. Total carbohydrate release was determined spectrophotometrically
+by the anthrone method using glucose as the standard (<xref rid="B09" ref-type="bibr">Hedge and Hofreitte, 1991</xref>). The protein content
+of the crude cell-free extract was estimated (<xref rid="B18" ref-type="bibr">Lowry <italic>et al.</italic>, 1951</xref>) using bovine
+serum albumin as the standard. An improved colorimetric determination of
+amino acids by the use of ninhydrin was performed (<xref rid="B15" ref-type="bibr">Lee and Takahashi, 1966</xref>). Phenol stress
+metabolites were estimated using Folin-Ciocalteu reagent (<xref rid="B19" ref-type="bibr">Malick and Singh, 1980</xref>). Each experiment was
+conducted in replicates of three and their &#x000b1; SE values were calculated.
+Multivariate analysis was performed using KY plot (2.0 beta) to estimate the
+correlation between metabolites.</p></sec><sec><title>Growth of P. janthinellum SDX7 on other xenobiotic compounds</title><p>Fungal isolate <italic>P. janthinellum</italic> SDX7 was also tested for its
+growth on various xenobiotic compounds, namely, diesel fuel, gasoline fuel,
+toluene, benzene, xylene, naphthalene, pyrene and phenanthrene at a
+concentration of 0.1% [(w/v)/ (v/v)] as a sole carbon source in MSM and
+incubated under optimized conditions (at 30 &#x000b0;C temperature and shaking
+conditions of 180 rpm). The samples were withdrawn after 7 days, and the
+biomass was estimated in the form of the dry weight (<xref rid="B05" ref-type="bibr">Gojgic <italic>et al.</italic>, 2012</xref>).</p></sec></sec></sec><sec><title>Results and Discussion</title><sec><title>Optimization of growth parameters</title><p>
+<italic>P. janthinellum</italic> SDX7 grew better under acidic conditions,
+showing optimal growth (0.38 g/L) at pH 6. Previous studies also reported that
+several fungal isolates such as <italic>Fusariumsolani</italic>, <italic>F.
+oxysporum</italic>, <italic>Trichodermaviride</italic> (<xref rid="B40" ref-type="bibr">Verdin <italic>et al.</italic>, 2004</xref>) and
+<italic>Aspergillus niger</italic> (<xref rid="B36" ref-type="bibr">Srivastava and Thakur, 2006</xref>) cultured in acidic MSM medium provided
+good growth. Although its growth was highest under acidic conditions, isolate
+<italic>P. janthinellum</italic> SDX7 was able to grow sparsely in a
+relatively wide range of pH values from 4.0 to 9.0, suggesting that this isolate
+could degrade kerosene under not only acidic but also under neutral and alkaline
+conditions (<xref rid="f01" ref-type="fig">Figure 1a</xref>). Among the
+parameters that could affect biomass production, temperature was generally
+considered to be the most important and limiting factor (<xref rid="B04" ref-type="bibr">Delille, 2004</xref>). The common incubation temperature for
+the growth of fungi such as <italic>A. niger</italic>, <italic>Fusarium sp.,
+Penicillium sp.</italic> and <italic>Graphium sp</italic>. is taken to be 30
+&#x000b0;C (<xref rid="B32" ref-type="bibr">Santos and Linardi, 2004</xref>). Moreover,
+in this study, <italic>P. janthinellum</italic> SDX7 cultured at different
+temperatures produced maximum biomass (0.38 g/L) when incubated at 30 &#x000b0;C
+compared to 20 &#x000b0;C and 40 &#x000b0;C, temperatures that resulted in the production of a
+maximum of 0.31 g/L and 0.33 g/L biomass, respectively (<xref rid="f01" ref-type="fig">Figure 1b</xref>). This difference may result from a greater
+production of enzymes and optimal growth conditions of the isolate for its
+kerosene degradation (<xref rid="B31" ref-type="bibr">Rohilla <italic>et
+al.</italic>, 2012</xref>). This range of temperatures makes this
+isolate suitable for use in bioremediation in tropical climates. <italic>P.
+janthinellum</italic> SDX7 showed an increase of biomass as the rate of
+agitation increased up to 180 rpm; biomass production was then reduced when the
+speed of agitation accelerated to 230 rpm (<xref rid="f01" ref-type="fig">Figure
+1c</xref>). Agitation influenced the tested fungi to absorb more nutrients
+by not only increasing the surface area of the microorganism for degradation of
+the kerosene oil hydrocarbons (<xref rid="B15" ref-type="bibr">Lee <italic>et
+al.</italic>, 1996</xref>) but also by booming the amount of dissolved
+oxygen in the cultivation medium (<xref rid="B30" ref-type="bibr">Purwanto
+<italic>et al.</italic>, 2009</xref>). Agitation speed has also been
+proven to be a critical factor influencing mycelial biomass (<xref rid="B08" ref-type="bibr">Hamzah <italic>et al.</italic>, 2012</xref>). <italic>P.
+janthinellum</italic> was found to grow in a wide range of kerosene
+concentrations. The production of biomass rose to 0.38 g/L in the presence of 3%
+(v/v) of kerosene on the 5<sup>th</sup> day. However, the production of biomass
+declined when the concentration of kerosene escalated beyond 3% (v/v) (<xref rid="f01" ref-type="fig">Figure 1d</xref>). Notably, minimal growth was
+found when the medium contained 10% and 20% kerosene doses.</p><fig id="f01" orientation="portrait" position="float"><label>Figure 1</label><caption><title>Optimal biomass production of <italic>P. janthinellum SDX7</italic>
+after 7 days of incubation.</title></caption><graphic xlink:href="1517-8382-bjm-46-2-397-gf01"/></fig></sec><sec><title>Biodegradation of kerosene</title><p>To determine the ability of <italic>P. janthinellum</italic> SDX7 to degrade
+kerosene, the total petroleum hydrocarbons were estimated at the end of the
+4<sup>th</sup> and the 16<sup>th</sup> day of treatment at 1%, 3% and 5%
+kerosene treatments. Where 1% v/v kerosene showed the highest degradation at 85%
+and 95%, followed by 3% kerosene treatment at 32% and 63% degradation and a 5%
+kerosene dose by 28% and 58% reduction on 4<sup>th</sup> and 16<sup>th</sup>
+day, respectively (<xref rid="f02" ref-type="fig">Figure 2</xref>). The
+biodegradation of kerosene was confirmed by the reduction in the area under the
+hydrocarbon peaks of the chromatograms when compared to that of the abiotic
+control (without organism), suggesting that the removal of kerosene hydrocarbon
+components ranged from 8 to 18 carbon atoms. In the chromatographic images of
+1%, 3% and 5% (v/v) kerosene doses in a liquid medium, the sharp and highest
+peak stands for the <italic>n</italic>-alkanes, and the peaks between them
+comprise the naphthenes and aromatics. <italic>P. janthinellum</italic> SDX7
+showed a reduction in the area under the hydrocarbon peaks corresponding to the
+carbon atoms (C8 to C18) when compared to the abiotic control in the case of the
+1%, 3% and 5% kerosene, where the lowest concentration of 1% displayed the
+highest reduction (<xref rid="f03" ref-type="fig">Figure 3</xref>) followed by
+3% (<xref rid="f04" ref-type="fig">Figure 4</xref>) and 5% (<xref rid="f05" ref-type="fig">Figure 5</xref>). The chromatograms showed that the
+<italic>n</italic>-alkane fractions are easily degraded by the tested fungal
+isolate as the days progress. However, the rate might be lower for branched
+alkanes followed by <italic>n</italic>-alkylaromatics, cyclic alkanes and
+polynuclear aromatics. The present results are in agreement with the findings
+obtained by <xref rid="B41" ref-type="bibr">Wang <italic>et al.</italic>
+(1998)</xref>, who studied the comparison of crude oil composition changes
+due to biodegradation and physical weathering using different fungal and
+bacterial isolates. Moreover, <xref rid="B25" ref-type="bibr">Nocentini
+<italic>et al.</italic> (2000)</xref> studied the biotreatability and
+feasibility of a bioremediation process by a bacterial species for a
+kerosene-contaminated soil. The results indicated that the <italic>P.
+janthinellum</italic> SDX7 isolate in this study is extremely efficient in
+degrading kerosene hydrocarbons. Our results also agreed very well with the
+findings of <xref rid="B20" ref-type="bibr">Mancera-L&#x000f3;pez <italic>et
+al.</italic> (2008)</xref>, who reported that the
+<italic>Penicillum</italic> genus was one of the major hydrocarbon-degrading
+groups.</p><fig id="f02" orientation="portrait" position="float"><label>Figure 2</label><caption><title>Degradation of different concentrations of kerosene after
+4<sup>th</sup> and 16<sup>th</sup> days by <italic>P. janthinellum
+SDX7.</italic>
+</title></caption><graphic xlink:href="1517-8382-bjm-46-2-397-gf02"/></fig><fig id="f03" orientation="portrait" position="float"><label>Figure 3</label><caption><title>GC/MS chromatograms of 1% (v/v) kerosene in MSM medium. (a) Abiotic
+control, (b) After 4 days of incubation with <italic>P. janthinellum
+SDX7</italic> strain, and (c) After 16 days incubation with
+<italic>P. janthinellum SDX7</italic> strain. The sharp and highest
+peaks stand for the <italic>n</italic>-alkanes, and the peaks between
+them comprise the naphthenes and aromatics.</title></caption><graphic xlink:href="1517-8382-bjm-46-2-397-gf03"/></fig><fig id="f04" orientation="portrait" position="float"><label>Figure 4</label><caption><title>GC/MS chromatograms of 3% (v/v) kerosene in MSM medium. (a) Abiotic
+control, (b) After 4 days of incubation with <italic>P. janthinellum
+SDX7</italic> strain, and (c) After 16 days incubation with
+<italic>P. janthinellum SDX7</italic> strain.</title></caption><graphic xlink:href="1517-8382-bjm-46-2-397-gf04"/></fig><fig id="f05" orientation="portrait" position="float"><label>Figure 5</label><caption><title>GC/MS chromatograms of 5% (v/v) kerosene in MSM medium. (a) Abiotic
+control, (b) After 4 days of incubation with <italic>P. janthinellum
+SDX7</italic> strain, and (c) After 16 days of incubation with
+<italic>P. janthinellum SDX7</italic> strain.</title></caption><graphic xlink:href="1517-8382-bjm-46-2-397-gf05"/></fig></sec><sec><title>Metabolites</title><p>Based on the inhibitory effects and growth arrest, the release of certain
+metabolic products such as carbohydrates, amino acids and proteins was affected
+at the earlier stage of kerosene applications, a result that is in agreement
+with the study of <xref rid="B26" ref-type="bibr">Kumar <italic>et al.</italic>
+(2013)</xref> who studied the impact of PAH exposure on certain
+cyanobacterial species. The level of total carbohydrates decreased after 12 to
+16 days in all the concentrations of kerosene-treated isolate. After the
+12<sup>th</sup> day of exposure, carbohydrate content ranged from 0.6
+mgmL<sup>&#x02212;15</sup> to 2.24 mgmL<sup>&#x02212;15</sup> and was significantly reduced
+by 50%, 11% and 76%, whereas a higher level of reduction was encountered after
+the 16<sup>th</sup> day by 59%, 24% and 80% at 1%, 3% and 5% kerosene exposures
+to <italic>P. janthinellum</italic> SDX7, respectively (<xref rid="f06" ref-type="fig">Figure 6a</xref>). A similar reduction in the carbohydrate
+content was recorded by <xref rid="B13" ref-type="bibr">Kumar <italic>et
+al.</italic> (2008)</xref> in nitrogen-fixing cyanobacteria when treated
+with endosulfan<italic>.</italic> Protein content fluctuated from 1.44
+mgmL<sup>&#x02212;15</sup> to 3.78 mgmL<sup>&#x02212;15</sup> and was inhibited by 46%, 13%
+and 67% on the 12<sup>th</sup> day (<xref rid="f06" ref-type="fig">Figure
+6b</xref>) and 70%, 48% and 81% after the 16<sup>th</sup> day, significantly
+at 1%, 3% and 5%, respectively, of kerosene-treated <italic>P.
+janthinellum</italic> SDX7 isolate as shown by <xref rid="B01" ref-type="bibr">Babu <italic>et al.</italic> (2001)</xref> and <xref rid="B14" ref-type="bibr">Laxmi <italic>et al.</italic> (2007)</xref> in
+response to lindane and organophosphorus on certain cyanobacterial species. At
+the end of the experiment after the 16<sup>th</sup> day, the highest reduction
+of amino acids in <italic>P. janthinellum</italic> SDX7 (by 95%) was observed
+when treated with 5% kerosene relative to the control, which ranged from 0.05
+mgmL<sup>&#x02212;15</sup> to 0.4 mgmL<sup>&#x02212;15</sup> (<xref rid="f06" ref-type="fig">Figure 6c</xref>). The optimal concentration of 3% kerosene showed less
+impact on the metabolite reduction. However, the greatest reduction observed at
+the higher concentration of 5% followed by the lower concentration of 1%
+kerosene showed results quite well correlated with the findings of <xref rid="B37" ref-type="bibr">Standyk <italic>et al.</italic> (1971)</xref>, who
+depicted concentration-dependent inhibition of amino acids and proteins at an
+earlier stage based on inhibitory effects and growth arrest in fresh water algae
+in response to pesticide treatments.</p><fig id="f06" orientation="portrait" position="float"><label>Figure 6</label><caption><title>Metabolic content in <italic>P. janthinellum SDX7</italic> treated
+with kerosene at different daily intervals.</title></caption><graphic xlink:href="1517-8382-bjm-46-2-397-gf06"/></fig><p>A more pronounced effect of kerosene on phenol content was observed on the tested
+fungal isolate. The release of the stress metabolite phenol was significantly
+stimulated after 4days of exposure, varying from 0.4 mgmL<sup>&#x02212;15</sup> to 0.64
+mgmL<sup>&#x02212;15</sup> and higher in all treated cultures compared to untreated
+isolate (<xref rid="f06" ref-type="fig">Figure 6d</xref>). The highest level of
+phenol was observed in 5% treated isolates, showing 61%, 63%, 65% and 66%
+increase on the 4<sup>th</sup>, 8<sup>th</sup>, 12<sup>th</sup> and
+16<sup>th</sup> days, respectively. Elevated levels of phenols might be due
+to the liberation of the phenolic compounds during gradual degradation of
+kerosene by hydrolysis or oxidation processes and release under stress
+conditions because of the catabolic activity of primary metabolites (<xref rid="B23" ref-type="bibr">Mostafa and Helling, 2002</xref>). <xref rid="B12" ref-type="bibr">Kumar and Kumar (2002)</xref> also suggested that the
+release of phenols due to applications of different concentrations of fungicide
+was higher than untreated cultures, possibly due to the accumulation of phenolic
+compounds from the larger polycyclic aromatic compounds.</p><p>A significant positive correlation between carbohydrates, proteins and amino
+acids (r = 0.88 to 0.94) was encountered, whereas a highly negative correlation
+was registered with phenols (r= &#x02212;0.48 to &#x02212;0.72) after 16 days of exposure to
+kerosene (<xref rid="t01" ref-type="table">Table 1</xref>).</p><table-wrap id="t01" orientation="portrait" position="float"><label>Table 1</label><caption><title>Correlation matrix for <italic>P. janthinellum</italic> SDX7 after
+16days of exposure to kerosene.</title></caption><table frame="hsides" rules="groups"><thead><tr><th valign="bottom" align="left" rowspan="1" colspan="1"/><th valign="bottom" align="center" rowspan="1" colspan="1">Carbohydrates</th><th valign="bottom" align="center" rowspan="1" colspan="1">Proteins</th><th valign="bottom" align="center" rowspan="1" colspan="1">Amino acids</th><th valign="bottom" align="center" rowspan="1" colspan="1">Phenols</th></tr></thead><tbody><tr><td valign="top" align="left" rowspan="1" colspan="1">Carbohydrates</td><td valign="top" align="center" rowspan="1" colspan="1">1</td><td valign="top" align="center" rowspan="1" colspan="1"/><td valign="top" align="center" rowspan="1" colspan="1"/><td valign="top" align="center" rowspan="1" colspan="1"/></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">Proteins</td><td valign="top" align="center" rowspan="1" colspan="1">0.88</td><td valign="top" align="center" rowspan="1" colspan="1">1</td><td valign="top" align="center" rowspan="1" colspan="1"/><td valign="top" align="center" rowspan="1" colspan="1"/></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">Amino acids</td><td valign="top" align="center" rowspan="1" colspan="1">0.88</td><td valign="top" align="center" rowspan="1" colspan="1">0.94</td><td valign="top" align="center" rowspan="1" colspan="1">1</td><td valign="top" align="center" rowspan="1" colspan="1"/></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">Phenols</td><td valign="top" align="center" rowspan="1" colspan="1">&#x02212;0.72</td><td valign="top" align="center" rowspan="1" colspan="1">&#x02212;0.56</td><td valign="top" align="center" rowspan="1" colspan="1">&#x02212;0.48</td><td valign="top" align="center" rowspan="1" colspan="1">1</td></tr></tbody></table></table-wrap></sec><sec><title>Growth of <italic>P. janthinellum</italic> SDX7 on various xenobiotic
+compounds</title><p>The efficiency of the fungal isolate in utilizing other xenobiotic compounds as
+the sole source of carbon is represented in <xref rid="t02" ref-type="table">Table 2</xref>. <italic>P. janthinellum</italic> SDX7 displayed a very high
+growth in the presence of kerosene, diesel and gasoline fuels. However, a
+moderate growth was encountered in case of naphthalene and poor growth was
+registered for phenanthrene, toluene, benzene and phenol. The isolate was not
+able to utilize the high molecular weight PAHs such as pyrene. Our results have
+been further substantiated by earlier studies of <xref rid="B28" ref-type="bibr">Okerentugba and Ezeronye (2003)</xref>, revealing the degradation of
+various xenobiotic compounds by <italic>P. janthinellum</italic> SDX7 based on
+the ability of utilizing these xenobiotic compounds as the sole source of
+carbon.</p><table-wrap id="t02" orientation="portrait" position="float"><label>Table 2</label><caption><title>Growth of kerosene-degrading <italic>P. janthinellum</italic> SDX7 in
+the presence of different xenobiotic compounds (0.1% [(v/v)/
+(w/v)].</title></caption><table frame="hsides" rules="groups"><thead><tr><th valign="bottom" align="left" rowspan="1" colspan="1">Substrate</th><th valign="bottom" align="center" rowspan="1" colspan="1">Growth profile</th></tr></thead><tbody><tr><td valign="top" align="left" rowspan="1" colspan="1">Kerosene</td><td valign="top" align="center" rowspan="1" colspan="1">+++</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">Diesel Fuel</td><td valign="top" align="center" rowspan="1" colspan="1">+++</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">Gasoline Fuel</td><td valign="top" align="center" rowspan="1" colspan="1">+++</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">Naphthalene</td><td valign="top" align="center" rowspan="1" colspan="1">++</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">Phenanthrene</td><td valign="top" align="center" rowspan="1" colspan="1">+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">Pyrene</td><td valign="top" align="center" rowspan="1" colspan="1">&#x02212;</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">Benzene</td><td valign="top" align="center" rowspan="1" colspan="1">+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">Phenol</td><td valign="top" align="center" rowspan="1" colspan="1">+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">Toluene</td><td valign="top" align="center" rowspan="1" colspan="1">+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">Xylene</td><td valign="top" align="center" rowspan="1" colspan="1">&#x02212;</td></tr></tbody></table><table-wrap-foot><fn id="TFN01"><p>+++ Very high growth, ++ moderate growth, + low growth, &#x02212; no
+growth.</p></fn></table-wrap-foot></table-wrap><p>The present investigation suggests that the fungal isolate <italic>P.
+janthinellum</italic> SDX7 employed in this study is extremely efficient in
+degrading kerosene, displaying a maximum degradation of 95% after 16 days under
+optimal growth conditions based on its ability to utilize kerosene. The optimal
+kerosene concentration of 3% showed the least reduction of the metabolites-
+carbohydrates, proteins and amino acids compared to the 1% and 5% (v/v) kerosene
+doses on the 12<sup>th</sup> and 16<sup>th</sup> days of exposure. Stress
+metabolite phenol was found to rise at lower and higher concentrations due to
+the inhibitory effect and growth retardation of the test organism in response to
+kerosene treatments. The highly efficient degradative ability of <italic>P.
+janthinellum</italic> SDX7 proved to be suitable for mycoremediation of
+kerosene-contaminated soil environments.</p></sec></sec></body><back><ack><title>Acknowledgments</title><p>One of the authors, Ms. Shamiyan Rahat Khan, is highly grateful to the University
+Grants Commission (UGC) for financial support for receiving the Maulan Azad
+Fellowship, and the authors are also thankful to the Sophisticated Instrumentation
+Centre for Advanced Research and Testing (SICART) for analysis of samples by GC.</p></ack><ref-list><title>References</title><ref id="B01"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Babu</surname><given-names>SG</given-names></name><name><surname>Hans</surname><given-names>RK</given-names></name><name><surname>Singh</surname><given-names>J</given-names></name><etal/></person-group><year>2001</year><article-title>Effect of lindane on the growth and metabolic activities of
+cyanobacteria</article-title><source>Ecotoxicol Environ Saf</source><volume>48</volume><fpage>219</fpage><lpage>221</lpage><pub-id pub-id-type="pmid">11161698</pub-id></element-citation></ref><ref id="B02"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bento</surname><given-names>FM</given-names></name><name><surname>Camargo</surname><given-names>FA</given-names></name><name><surname>Okeke</surname><given-names>B</given-names></name><etal/></person-group><year>2003</year><article-title>Bioremediation of soil contaminated by diesel oil</article-title><source>Braz J Microbiol</source><volume>34</volume><fpage>65</fpage><lpage>68</lpage></element-citation></ref><ref id="B03"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Chaillan</surname><given-names>F</given-names></name><name><surname>Fleche</surname><given-names>AL</given-names></name><name><surname>Bury</surname><given-names>E</given-names></name><etal/></person-group><year>2004</year><article-title>Identification and biodegradation potential of tropical aerobic
+hydrocarbon-degrading microorganisms</article-title><source>Res Microbiol</source><volume>155</volume><fpage>587</fpage><lpage>595</lpage><pub-id pub-id-type="pmid">15313261</pub-id></element-citation></ref><ref id="B04"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Delille</surname><given-names>D</given-names></name><name><surname>Coulan</surname><given-names>F</given-names></name><name><surname>Pelletier</surname><given-names>E</given-names></name></person-group><year>2004</year><article-title>Effects of temperature warming during a bioremediation study of
+natural and nutrient-amended hydrocarbon-contaminated sub-Antarctic
+soils</article-title><source>Cold Reg Sci Technol</source><volume>40</volume><fpage>61</fpage><lpage>70</lpage></element-citation></ref><ref id="B05"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gojgic-Cvijovic</surname><given-names>GD</given-names></name><name><surname>Milic</surname><given-names>JS</given-names></name><name><surname>Solevic</surname><given-names>TM</given-names></name><etal/></person-group><year>2012</year><article-title>Biodegradation of petroleum sludge and petroleum polluted soil by
+a bacterial consortium: a laboratory study</article-title><source>Biodegradation</source><volume>23</volume><fpage>1</fpage><lpage>14</lpage><pub-id pub-id-type="pmid">21604191</pub-id></element-citation></ref><ref id="B06"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gouda</surname><given-names>MK</given-names></name><name><surname>Omar</surname><given-names>SH</given-names></name><name><surname>Zohra</surname><given-names>A</given-names></name><etal/></person-group><year>2007</year><article-title>Nour Eldin Bioremediation of kerosene I: A case study in liquid
+media</article-title><source>Chemosphere</source><volume>69</volume><fpage>1807</fpage><lpage>1814</lpage><pub-id pub-id-type="pmid">17637467</pub-id></element-citation></ref><ref id="B07"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Greer</surname><given-names>CW</given-names></name><name><surname>Fortin</surname><given-names>N</given-names></name><name><surname>Roy</surname><given-names>R</given-names></name><etal/></person-group><year>2003</year><article-title>Indigenous sediment microbial activity in response to nutrient
+enrichment and plant growth following a controlled oil spill on a fresh
+water wetland</article-title><source>Bioremed J</source><volume>7</volume><fpage>69</fpage><lpage>80</lpage></element-citation></ref><ref id="B08"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hamzah</surname><given-names>A</given-names></name><name><surname>Zarin</surname><given-names>MA</given-names></name><name><surname>Hamid</surname><given-names>AA</given-names></name><etal/></person-group><year>2012</year><article-title>Optimal Physical and Nutrient Parameters for Growth of
+<italic>Trichoderma virens</italic> UKMP-1 M for Heavy Crude Oil
+Degradation</article-title><source>Sains Malaysiana</source><volume>41</volume><fpage>71</fpage><lpage>79</lpage></element-citation></ref><ref id="B09"><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Hedge</surname><given-names>JE</given-names></name><name><surname>Hofreitte</surname><given-names>BT</given-names></name></person-group><year>1991</year><chapter-title>Carbohydrates Chemistry</chapter-title><person-group person-group-type="editor"><name><surname>Sadasivam</surname><given-names>S</given-names></name><name><surname>Manickam</surname><given-names>A</given-names></name></person-group><source>Biochemical Methods for Agriculture Science</source><publisher-name>Wiley Eastern Ltd</publisher-name><size units="pages">8</size></element-citation></ref><ref id="B10"><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Irwin</surname><given-names>RJ</given-names></name><name><surname>Van Mouwerik</surname><given-names>M</given-names></name><name><surname>Stevens</surname><given-names>L</given-names></name><etal/></person-group><year>1997</year><chapter-title>Environmental Contaminants Encyclopedia</chapter-title><source>Kerosene Entry</source><publisher-name>National Park Service, Water Resources Division, Water Operating
+Branch</publisher-name><publisher-loc>Oakridge Drive, Suite Fort Collins</publisher-loc><size units="pages">42</size></element-citation></ref><ref id="B11"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kendrick</surname><given-names>A</given-names></name><name><surname>Ratledge</surname><given-names>C</given-names></name></person-group><year>1996</year><article-title>Cessation of polyunsaturated fatty acid formation in four
+selected filamentous fungi when grown on plant oil</article-title><source>J Am Oil Chem Soc</source><volume>73</volume><fpage>431</fpage><lpage>435</lpage></element-citation></ref><ref id="B12"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kumar</surname><given-names>NJI</given-names></name><name><surname>Kumar</surname><given-names>RN</given-names></name></person-group><year>2002</year><article-title>Some metabolic observations of Nostocmuscorum to herbicide
+Fluchloralin</article-title><source>Plant Arch</source><volume>2</volume><fpage>289</fpage><lpage>293</lpage></element-citation></ref><ref id="B13"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kumar</surname><given-names>S</given-names></name><name><surname>Khalid</surname><given-names>H</given-names></name><name><surname>Tasneem</surname><given-names>F</given-names></name></person-group><year>2008</year><article-title>Endosulfan induced biochemical changes in nitrogen-fixing
+cyanobacteria</article-title><source>Sci Total Environ</source><volume>403</volume><fpage>130</fpage><lpage>138</lpage><pub-id pub-id-type="pmid">18584851</pub-id></element-citation></ref><ref id="B14"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lakshmi</surname><given-names>PTV</given-names></name><name><surname>Annamalai</surname><given-names>A</given-names></name></person-group><year>2007</year><article-title>Biochemical studies on response of organo-phosphorus insecticide
+and release of extra cellular products by cyanobacteria</article-title><source>Res J Fisheries Hydrobiol</source><volume>2</volume><fpage>13</fpage><lpage>17</lpage></element-citation></ref><ref id="B15"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lee</surname><given-names>K</given-names></name><name><surname>Weise</surname><given-names>AM</given-names></name><name><surname>St-Pierre</surname><given-names>S</given-names></name></person-group><year>1996</year><article-title>Enhanced oil biodegradation with mineral fine
+interaction</article-title><source>Spill Sci Technol B</source><volume>3</volume><fpage>263</fpage><lpage>267</lpage></element-citation></ref><ref id="B16"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lee</surname><given-names>Y</given-names></name><name><surname>Takahasi</surname><given-names>T</given-names></name></person-group><year>1966</year><article-title>An Imported Colorimetric Determination of Amino acids with the
+use of Ninhydrin</article-title><source>Anal Biochem</source><volume>14</volume><fpage>71</fpage><lpage>77</lpage></element-citation></ref><ref id="B17"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lindstrom</surname><given-names>JE</given-names></name><name><surname>Braddock</surname><given-names>JF</given-names></name></person-group><year>2002</year><article-title>Biodegradation of petroleum hydrocarbons at low temperature in
+the presence of the dispersant Corexit 9500</article-title><source>Mar Pollut Bull</source><volume>44</volume><fpage>739</fpage><lpage>747</lpage><pub-id pub-id-type="pmid">12269476</pub-id></element-citation></ref><ref id="B18"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lowry</surname><given-names>OH</given-names></name><name><surname>Rosenbrough</surname><given-names>NH</given-names></name><name><surname>Farr</surname><given-names>AL</given-names></name><etal/></person-group><year>1951</year><article-title>Protein measurements with Folin Phenol Reagent</article-title><source>J Biol Chem1</source><volume>93</volume><fpage>265</fpage><lpage>275</lpage></element-citation></ref><ref id="B19"><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Malick</surname><given-names>CP</given-names></name><name><surname>Singh</surname><given-names>MB</given-names></name></person-group><year>1980</year><source>Plant enzymology and histo enzymology</source><publisher-name>Kalyani publishers</publisher-name><publisher-loc>New Delhi</publisher-loc></element-citation></ref><ref id="B20"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mancera-L&#x000f3;pez</surname><given-names>ME</given-names></name><name><surname>Esparza-Garc&#x000ed;a</surname><given-names>F</given-names></name><name><surname>Ch&#x000e1;vez-G&#x000f3;mez</surname><given-names>B</given-names></name><etal/></person-group><year>2008</year><article-title>Bioremediation of an aged hydrocarbon-contaminated soil by a
+combined system of biostimulation-bioaugmentation with filamentous
+fungi</article-title><source>Int Biodeterior Biodegradation</source><volume>61</volume><fpage>151</fpage><lpage>160</lpage></element-citation></ref><ref id="B21"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Margesin</surname><given-names>R</given-names></name><name><surname>Schinner</surname><given-names>F</given-names></name></person-group><year>1997</year><article-title>Bioremediation of diesel-oil contaminated alpine soils at low
+temperatures</article-title><source>Appl Microbiol Biot</source><volume>47</volume><fpage>462</fpage><lpage>468</lpage></element-citation></ref><ref id="B22"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Morgan</surname><given-names>P</given-names></name><name><surname>Watkinson</surname><given-names>RJ</given-names></name></person-group><year>1989</year><article-title>Hydrocarbon degradation and methods for soil
+biotreatment</article-title><source>CRC Crit Rev Biotechnol</source><volume>8</volume><fpage>305</fpage><lpage>333</lpage></element-citation></ref><ref id="B23"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mostafa</surname><given-names>FI</given-names></name><name><surname>Helling</surname><given-names>CS</given-names></name></person-group><year>2002</year><article-title>Impact of four Pesticides on the Growthand Metabolic Activities
+of Two Photosynthetic Algae</article-title><source>J Environ Sci Health</source><volume>37</volume><fpage>417</fpage><lpage>444</lpage></element-citation></ref><ref id="B24"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mukherji</surname><given-names>S</given-names></name><name><surname>Jagadevan</surname><given-names>S</given-names></name><name><surname>Mohapatra</surname><given-names>G</given-names></name><etal/></person-group><year>2004</year><article-title>Biodegradation of diesel oil by an Arabian Sea sediment culture
+isolated from the vicinity of an oil field</article-title><source>Bioresour Technol</source><volume>95</volume><fpage>281</fpage><lpage>286</lpage><pub-id pub-id-type="pmid">15288270</pub-id></element-citation></ref><ref id="B25"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Nocentini</surname><given-names>M</given-names></name><name><surname>Nocentini</surname><given-names>D</given-names></name><name><surname>Pinelli</surname><given-names>F</given-names></name><etal/></person-group><year>2000</year><article-title>Bioremediation of a soil contaminated by hydrocarbon mixtures:
+the residual concentration problem</article-title><source>Chemosphere</source><volume>41</volume><fpage>1115</fpage><lpage>1123</lpage><pub-id pub-id-type="pmid">10901236</pub-id></element-citation></ref><ref id="B26"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Nirmal Kumar</surname><given-names>JI</given-names></name><name><surname>Megha</surname><given-names>B</given-names></name><name><surname>Shamiyan</surname><given-names>RK</given-names></name></person-group><year>2013</year><article-title>Some intermediate bio-transformants during biodegradation of high
+molecular weight phenanthrene and fluoranthene by cyanobacterial species -
+<italic>Aulosira fertilissima</italic> ghose</article-title><source>Int J App Sci Biotechnol</source><volume>1</volume><fpage>97</fpage><lpage>105</lpage></element-citation></ref><ref id="B27"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Nirmal Kumar</surname><given-names>JI</given-names></name><name><surname>Jignasha</surname><given-names>GP</given-names></name><name><surname>Rita</surname><given-names>NK</given-names></name><etal/></person-group><year>2013</year><article-title>Chronic response of three different Cyanobacterial species on
+growth, pigment and metabolic variations to the high molecular
+weight</article-title><source>Polycyclic Aromatic Hydrocarbon- Pyrene Poly Aro Hydro</source><comment>(In Press)</comment></element-citation></ref><ref id="B28"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Okerentugba</surname><given-names>PD</given-names></name><name><surname>Ezeronye</surname><given-names>OU</given-names></name></person-group><year>2003</year><article-title>Petroleum degrading potentials of single and mixed microbial
+cultures isolated from rivers and refinery effluent in
+Nigeria</article-title><source>Afr J Biotechnol</source><volume>2</volume><fpage>288</fpage><lpage>292</lpage></element-citation></ref><ref id="B29"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Okoh</surname><given-names>AI</given-names></name></person-group><year>2003</year><article-title>Biodegradation of bonny light crude oil in soil microcosm by some
+bacterial strains isolated from crude flow stations saver pits in
+Nigeria</article-title><source>Afr J Biotechnol</source><volume>2</volume><fpage>104</fpage><lpage>108</lpage></element-citation></ref><ref id="B30"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Purwanto</surname><given-names>LA</given-names></name><name><surname>Ibrahim</surname><given-names>D</given-names></name><name><surname>Sudrajat</surname><given-names>H</given-names></name></person-group><year>2009</year><article-title>Effect of agitation speed on morphological changes in
+<italic>Aspergillus niger</italic> hyphae during production of
+tannase</article-title><source>World J Chem</source><volume>4</volume><fpage>34</fpage><lpage>38</lpage></element-citation></ref><ref id="B31"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rohilla</surname><given-names>SK</given-names></name><name><surname>Salar</surname><given-names>RK</given-names></name><name><surname>Kumar</surname><given-names>J</given-names></name></person-group><year>2012</year><article-title>Optimization of Physiochemical Parameters for Decolorization of
+Reactive Black HFGR Using Soil Fungus, <italic>Aspergillus
+allhabadii</italic> MTCC 9988</article-title><source>Int Biodeterior Biodegradation</source><volume>3</volume><fpage>1</fpage><lpage>5</lpage></element-citation></ref><ref id="B32"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Santos</surname><given-names>VL</given-names></name><name><surname>Linardi</surname><given-names>VR</given-names></name></person-group><year>2004</year><article-title>Biodegradation of phenol by a filamentous fungi isolated from
+industrial effluents-identification and degradation
+potential</article-title><source>Process Biochem</source><volume>39</volume><fpage>1001</fpage><lpage>1006</lpage></element-citation></ref><ref id="B33"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Shamiyan</surname><given-names>RK</given-names></name><name><surname>Nirmal</surname><given-names>KJI</given-names></name><name><surname>Rita</surname><given-names>NK</given-names></name><etal/></person-group><year>2013a</year><article-title>Physico-chemical properties, heavy metal enrichment and fungal
+characterization of aged Gasoline contaminated soil site in Anand, Gujarat,
+India</article-title><source>Environ Exp Biol</source><volume>11</volume><fpage>137</fpage><lpage>143</lpage></element-citation></ref><ref id="B34"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Shamiyan</surname><given-names>RK</given-names></name><name><surname>Nirmal</surname><given-names>KJI</given-names></name><name><surname>Rita</surname><given-names>NK</given-names></name><etal/></person-group><year>2013b</year><article-title>An assessment of physicochemical properties, heavy metal
+enrichment and fungal characterization of refined kerosene impacted soil in
+Anand, Gujarat, India</article-title><source>Int J Environ</source><comment>(In press)</comment></element-citation></ref><ref id="B35"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Snape</surname><given-names>I</given-names></name><name><surname>Riddle</surname><given-names>MJ</given-names></name><name><surname>Stark</surname><given-names>JS</given-names></name><etal/></person-group><year>2001</year><article-title>Management andremediation of contaminated sites at Casey
+station</article-title><source>Antart Polar Rec</source><volume>37</volume><fpage>199</fpage><lpage>214</lpage></element-citation></ref><ref id="B36"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Srivastava</surname><given-names>S</given-names></name><name><surname>Thakur</surname><given-names>IS</given-names></name></person-group><year>2006</year><article-title>Evaluation of bioremediation and detoxification potentiality of
+<italic>Aspergillus niger</italic> for removal of hexavalent chromium in
+soil microcosm</article-title><source>Soil Biol Biochem</source><volume>38</volume><fpage>1904</fpage><lpage>1911</lpage></element-citation></ref><ref id="B37"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Standyk</surname><given-names>V</given-names></name><name><surname>Camphell</surname><given-names>RS</given-names></name><name><surname>Johnsin</surname><given-names>T</given-names></name></person-group><year>1971</year><article-title>Pesticide effect on growth and C-14 assimilation in fresh water
+algae</article-title><source>Bullet Environ Cont Toxicol</source><volume>6</volume><fpage>1</fpage><lpage>8</lpage></element-citation></ref><ref id="B38"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sugiura</surname><given-names>K</given-names></name><name><surname>Ishihara</surname><given-names>M</given-names></name><name><surname>Shimauchi</surname><given-names>T</given-names></name><etal/></person-group><year>1997</year><article-title>Physicochemical properties and biodegradability of crude
+oil</article-title><source>Environ Sci Technol</source><volume>31</volume><fpage>45</fpage><lpage>51</lpage></element-citation></ref><ref id="B39"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Trindade</surname><given-names>PVO</given-names></name><name><surname>Sobral</surname><given-names>LG</given-names></name><name><surname>Rizzo</surname><given-names>ACL</given-names></name><etal/></person-group><year>2005</year><article-title>Bioremediation of a weathered and a recently oil-contaminated
+soils from Brazil: a comparison study</article-title><source>Chemosphere</source><volume>58</volume><fpage>515</fpage><lpage>522</lpage><pub-id pub-id-type="pmid">15620743</pub-id></element-citation></ref><ref id="B40"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Verdin</surname><given-names>A</given-names></name><name><surname>Sahraoui</surname><given-names>AL</given-names></name><name><surname>Durand</surname><given-names>R</given-names></name></person-group><year>2004</year><article-title>Degradation of benzo[a]pyrene by mitosporic fungi and
+extracellular oxidative enzymes</article-title><source>Int Biodeterior Biodegradation</source><volume>53</volume><fpage>65</fpage><lpage>70</lpage></element-citation></ref><ref id="B41"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wang</surname><given-names>Z</given-names></name><name><surname>Fingas</surname><given-names>M</given-names></name><name><surname>Blenkinsopp</surname><given-names>S</given-names></name><etal/></person-group><year>1998</year><article-title>Comparsion of oil composition changes due to biodegradation and
+physical weathering in different oils</article-title><source>J Chromatogr A</source><volume>809</volume><fpage>89</fpage><lpage>107</lpage><pub-id pub-id-type="pmid">9677713</pub-id></element-citation></ref><ref id="B42"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zajic</surname><given-names>E</given-names></name><name><surname>Supplisson</surname><given-names>B</given-names></name></person-group><year>1972</year><article-title>Emulsification and degradation of "Bunker C" fuel oil by
+microorganisms</article-title><source>Biotechnol Bioeng</source><volume>14</volume><fpage>31</fpage><lpage>43</lpage></element-citation></ref></ref-list></back></article>

@@ -1,0 +1,346 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:ali="http://www.niso.org/schemas/ali/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Braz J Microbiol</journal-id><journal-id journal-id-type="iso-abbrev">Braz. J. Microbiol</journal-id><journal-id journal-id-type="publisher-id">bjm</journal-id><journal-title-group><journal-title>Brazilian Journal of Microbiology</journal-title></journal-title-group><issn pub-type="ppub">1517-8382</issn><issn pub-type="epub">1678-4405</issn><publisher><publisher-name>Sociedade Brasileira de Microbiologia</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">26273284</article-id><article-id pub-id-type="pmc">4507561</article-id><article-id pub-id-type="doi">10.1590/S1517-838246246220131143</article-id><article-categories><subj-group subj-group-type="heading"><subject>Industrial Microbiology</subject></subj-group></article-categories><title-group><article-title>Enhanced production of prodigiosin by <italic>Serratia
+marcescens</italic> MO-1 using ram horn peptone</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Kurbanoglu</surname><given-names>Esabi Basaran</given-names></name><xref ref-type="aff" rid="aff01">1</xref></contrib><contrib contrib-type="author"><name><surname>Ozdal</surname><given-names>Murat</given-names></name><xref ref-type="aff" rid="aff01">1</xref><xref ref-type="aff" rid="aff02">2</xref><xref rid="c01" ref-type="corresp"/></contrib><contrib contrib-type="author"><name><surname>Ozdal</surname><given-names>Ozlem Gur</given-names></name><xref ref-type="aff" rid="aff01">1</xref></contrib><contrib contrib-type="author"><name><surname>Algur</surname><given-names>Omer Faruk</given-names></name><xref ref-type="aff" rid="aff01">1</xref></contrib></contrib-group><aff id="aff01"><label>1</label>Atat&#x000fc;rk University, Department of Biology, Faculty of Science, Ataturk University, Erzurum, Turkey, Department of Biology, Faculty of Science,
+Ataturk University, Erzurum, Turkey.</aff><aff id="aff02"><label>2</label>Atat&#x000fc;rk University, Department of Food, Ispir Hamza Polat Vocational
+School, Ataturk University, Erzurum, Turkey, Department of Food, Ispir Hamza Polat
+Vocational School, Ataturk University, Erzurum, Turkey.</aff><author-notes><corresp id="c01">Send correspondence to M. Ozdal. Department of Biology, Faculty of
+Science, Ataturk University, 25240 Erzurum, Turkey. E-mail:
+<email>murat.ozdal@yahoo.com</email>.</corresp><fn id="fn01" fn-type="other"><p>Associate Editor: Rosane Freitas Schwan</p></fn></author-notes><pub-date pub-type="epub"><day>01</day><month>6</month><year>2015</year></pub-date><pub-date pub-type="collection"><month>6</month><year>2015</year></pub-date><volume>46</volume><issue>2</issue><fpage>631</fpage><lpage>637</lpage><history><date date-type="received"><day>25</day><month>10</month><year>2013</year></date><date date-type="accepted"><day>07</day><month>10</month><year>2014</year></date></history><permissions><copyright-statement>Copyright &#x000a9; 2015, Sociedade Brasileira de
+Microbiologia</copyright-statement><copyright-year>2015</copyright-year><license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/3.0/"><license-p>All the content of the journal, except where otherwise noted, is
+licensed under a Creative Commons License CC BY-NC.</license-p></license></permissions><abstract><p>This work addresses the production of prodigiosin from ram horn peptone (RHP)
+using MO-1, a local isolate in submerged culture. First, a novel gram-negative
+and rod-shaped bacterial strain, MO-1, was isolated from the body of the
+grasshopper (<italic>Poecilemon tauricola</italic> Ramme 1951), which was
+collected from pesticide-contaminated fields. Sequence analysis of 16S rDNA
+classified the microbe as <italic>Serratia marcescens</italic>. The substrate
+utilization potential (BIOLOG) and fatty acid methyl ester profile (FAME) of
+<italic>S. marcescens</italic> were also determined. The effect of RHP on
+the production of prodigiosin by <italic>S. marcescens</italic> MO-1 was
+investigated, and the results showed that RHP supplementation promoted the
+growth of MO-1 and increased the production of prodigiosin. A concentration of
+0.4% (w/v) RHP resulted in the greatest yield of prodigiosin (277.74 mg/L) after
+48 h when mannitol was used as the sole source of carbon. The pigment yield was
+also influenced by the types of carbon sources and peptones. As a result, RHP
+was demonstrated to be a suitable substrate for prodigiosin production. These
+results revealed that prodigiosin could be produced efficiently by <italic>S.
+marcescens</italic> using RHP.</p></abstract><kwd-group><kwd>prodigiosin</kwd><kwd><italic>Serratia marcescens</italic></kwd><kwd>ram horn peptone</kwd><kwd>agricultural waste</kwd></kwd-group><counts><fig-count count="3"/><table-count count="4"/><equation-count count="0"/><ref-count count="32"/><page-count count="7"/></counts></article-meta></front><body><sec sec-type="intro"><title>Introduction</title><p>Natural pigments are synthesized by living organisms, such as plants, animals, fungi
+and bacteria. Prodigiosin (C<sub>20</sub>H<sub>25</sub>N<sub>3</sub>O) is a linear
+tripyrrole red pigment and bioactive secondary metabolite that accumulates on cell
+membranes and intracellular granules. Although <italic>S. marcescens</italic> is the
+major producer of prodigiosin, this pigment is also produced by other bacteria, such
+as <italic>Streptomyces coelicolor</italic>, <italic>S. lividans</italic>,
+<italic>Hahella chejuensi</italic>, <italic>Pseudovibrio denitriccans</italic>,
+<italic>Pseudoalteromonas rubra</italic>, P. denitrificans, <italic>Vibrio
+gazogenes</italic>, <italic>V. psychroerythreus</italic>, <italic>Serratia
+plymuthica</italic> and <italic>Zooshikella rubidus</italic> (<xref rid="B04" ref-type="bibr">D'Aoust and Gerber, 1974</xref>; <xref rid="B10" ref-type="bibr">Kim <italic>et al.</italic>, 2007</xref>; <xref rid="B15" ref-type="bibr">Lee
+<italic>et al.</italic>, 2011</xref>; <xref rid="B05" ref-type="bibr">El-Bondkly <italic>et al.</italic>, 2012</xref>).</p><p>Prodigiosins have recently received renewed attention for their antialgal,
+antibacterial, antifungal, antimalarial, antiprotozoal, anticancer,
+immunosuppressive, antiproliferative and UV-protective activities (<xref rid="B18" ref-type="bibr">Montaner and Perez-Thomas, 2001</xref>; <xref rid="B28" ref-type="bibr">Soto-Cerrato <italic>et al.</italic>, 2004</xref>; <xref rid="B02" ref-type="bibr">Boric <italic>et al.</italic>, 2011</xref>; <xref rid="B15" ref-type="bibr">Lee <italic>et al.</italic>, 2011</xref>; <xref rid="B20" ref-type="bibr">Park <italic>et al.</italic>, 2012</xref>); however,
+its insecticidal activity was also reported (<xref rid="B29" ref-type="bibr">Wang
+<italic>et al.</italic>, 2011</xref>). Because of its potential use in
+medical and textile applications (<xref rid="B25" ref-type="bibr">Siva <italic>et
+al.</italic>, 2012</xref>), prodigiosin is attracting an increasing
+interest.</p><p>The production of prodigiosin has been shown to be influenced by many factors, such
+as species type and environmental factors, including inorganic phosphate
+availability, dissolved oxygen level, light, media composition, temperature, pH and
+incubation time (<xref rid="B31" ref-type="bibr">Williams <italic>et al.</italic>,
+1971</xref>; <xref rid="B32" ref-type="bibr">Witney <italic>et al.</italic>,
+1977</xref>; <xref rid="B27" ref-type="bibr">Sol&#x000e9; <italic>et al.</italic>,
+1997</xref>; <xref rid="B26" ref-type="bibr">Slater <italic>et al.</italic>,
+2003</xref>; <xref rid="B29" ref-type="bibr">Wang <italic>et al.</italic>,
+2011</xref>; <xref rid="B23" ref-type="bibr">Ryazantseva <italic>et
+al</italic>,. 2012</xref>). A cost reduction in prodigiosin production could be
+achieved using inexpensive substrates. Potential substrates, such as vegetable oils
+(<xref rid="B07" ref-type="bibr">Giri <italic>et al.</italic>, 2004</xref>;
+<xref rid="B30" ref-type="bibr">Wei and Chen, 2005</xref>), ethanol (<xref rid="B03" ref-type="bibr">Cang <italic>et al.</italic>, 2000</xref>), cassava
+wastewater, corn steep liquor (<xref rid="B01" ref-type="bibr">Ara&#x000fa;jo <italic>et
+al.</italic>, 2010</xref>) and squid pen powder (<xref rid="B25" ref-type="bibr">Siva <italic>et al.</italic>, 2012</xref>), have been
+investigated.</p><p>Many studies demonstrated that inorganic nitrogen sources, especially ammonium salts,
+such as (NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>, NH<sub>4</sub>Cl,
+NH<sub>4</sub>NO<sub>3</sub> and also urea, inhibit the production of the
+pigment, because ammonium is a poor nitrogen atom donor and perhaps indicating the
+toxicity of ammonium salts towards the organism (<xref rid="B09" ref-type="bibr">Hejazi and Falkiner, 1997</xref>; <xref rid="B03" ref-type="bibr">Cang
+<italic>et al.</italic>, 2000</xref>). Therefore, there exists a need for
+new, available and cheap organic nitrogen sources. Moreover, organic nitrogen
+sources such as peptones contain different amino acids, which increase the
+production of prodigiosin. Ram horns, which largely consist of fibrous proteins, are
+significant waste products of the meat industry and are produced in many areas of
+the world. For example, the slaughterhouses in Turkey directly discharge
+approximately 600 tons of ram horns per year (<xref rid="B11" ref-type="bibr">Kurbanoglu, 2004a</xref>). In previous studies, the addition of ram horn
+hydrolysate to a substrate enhanced the production of citric acid (<xref rid="B13" ref-type="bibr">Kurbanoglu and Kurbanoglu, 2004</xref>), xanthan gum (<xref rid="B14" ref-type="bibr">Kurbanoglu and Kurbanoglu, 2007</xref>) and lactic
+acid (<xref rid="B12" ref-type="bibr">Kurbanoglu, 2004b</xref>). In the current
+study, RHP was added as a supplement during the production of prodigiosin. The aim
+of the present study was to utilize RHP (as a complete substrate and nitrogen
+source) in submerged culture for the production of prodigiosin by our local isolate,
+<italic>S. marcescens</italic> MO-1, to enhance prodigiosin production and
+reutilize this abundant animal waste.</p></sec><sec sec-type="materials|methods"><title>Materials and Methods</title><sec sec-type="materials"><title>Materials</title><p>The chemicals, culture media and media components used in this study were
+purchased from Oxoid (Basingstoke, UK), Sigma-Aldrich (St Louis, MO, USA), Merck
+(Darmstadt, Germany) and Difco (Detroit, MI, USA). All of the reagents used were
+of analytical grade. RHP was reproduced according to the method of <xref rid="B13" ref-type="bibr">Kurbanoglu and Kurbanoglu (2004)</xref>.</p></sec><sec><title>Isolation and identification of <italic>S. marcescens</italic> strain
+MO-1</title><p>
+<italic>S. marcescens</italic> MO-1 capable of producing chitinase was isolated
+by <xref rid="B19" ref-type="bibr">Okay <italic>et al.</italic> (2013)</xref>
+from fields contaminated with pesticides. Preliminary identification of MO-1 was
+performed using MIS (Microbial Identification System) to analyze the fatty acids
+and BIS (Biolog Identification System) to analyze the substrate utilization
+capacity. The analysis of the fatty acids of MO-1 was performed according to the
+method described by the manufacturer's manual (Sherlock Microbial Identification
+System version 4.0, MIDI, Inc., Newark, DE, USA). FAMEs were separated by GC
+with a fused-silica capillary column (25 m &#x000d7; 0.2 mm) with cross-linked 5% phenyl
+methyl silicone. The FAME profile of the bacterial strain was identified by
+comparing the commercial databases with the MIS software package. The BIOLOG
+tests were performed using substrate plates designed from gram-negative
+bacteria. MO-1 was verified by the analysis of the16S rDNA sequence (Refgen Life
+Sciences, Ankara, Turkey) which was compared with the National Center for
+Biotechnology Information (NCBI) database using the web-based BLAST program
+(<ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/BLAST">http://www.ncbi.nlm.nih.gov/BLAST</ext-link>) and
+resubmitted to GenBank (Accession Number: JX315621.2). The isolate was named as
+<italic>S. marcescens</italic> strain MO-1.</p></sec><sec><title>Media and culture conditions</title><p>One loop of cells grown on NA plates for two days was used to inoculate a 250 mL
+flask containing 50 mL of Nutrient Broth (NB; Merck). For prodigiosin
+production, the bacteria were grown in NB at 28 &#x000b0;C and 200 rpm for 18 h. One
+milliliter (2%) of culture was added to 50 mL of control and production media in
+a 250 mL flask and incubated in a shaker at 200 rpm and 28 &#x000b0;C. The control
+medium (CM) was composed of yeast extract 0.4% (w/v) and 1% (w/v) D-Mannitol. To
+determine the effects of RHP on prodigiosin production, 0.1&#x02013;0.6% (w/v) RHP were
+added to the CM. The pH was adjusted to 7 before autoclaving at 121 &#x000b0;C for 20
+min. Later, RHP was compared with three commercial peptones (tryptone (TP),
+bacto peptone (BP), fish peptone (FP) at the optimal RHP concentration. For the
+experiments exploring the effect of carbon sources on prodigiosin production,
+the mannitol in the CM was replaced by glycerol (1%, v/v) and glucose (1%,
+w/v).</p></sec><sec><title>Analytical methods</title><p>The prodigiosin content was measured using UV-spectrophotometry and was expressed
+in mg/L. For this purpose, the supernatant of the culture broth (1 mL) was
+centrifuged at 10,000 rpm for 10 min. The supernatant was discarded and the
+pellet was resuspended in acidified methanol (4.0 mL of 1 N HCI - 96.0 mL of
+methanol) to extract prodigiosin from the cells. The cell debris was removed by
+a second centrifugation step and the supernatant was transferred to a
+spectrophotometer cuvette for absorbance measurements. The prodigiosin content
+of the supernatant was measured by spectrophotometry at 535 nm and compared to a
+standard curve prepared with a prodigiosin extract (<xref rid="B07" ref-type="bibr">Giri <italic>et al.</italic>, 2004</xref>). The biomass was
+determined following centrifugation at 5,000 rpm for 20 min at 4 &#x000b0;C, drying the
+cell mass at 80 &#x000b0;C overnight and weighing the resulting dry cell biomass.</p></sec><sec><title>Statistical analysis</title><p>The statistical analyses of the data were performed using one-way analysis of
+variance (ANOVA). The level of significance was p &#x0003c; 0.05. All of the
+statistical analyses were performed using the SPSS 15.0 software program. All of
+the experiments were performed in triplicate and the standard deviation (&#x000b1;) was
+calculated.</p></sec></sec><sec><title>Results and Discussion</title><sec><title>Bacterial strain and its characterization</title><p>MO-1 formed red-pigmented smooth colonies on nutrient agar plates. Classical
+tests showed that it was a gram-negative, rod-shaped and mobile organism. The
+results of the MIS analysis identified the MO-1 as <italic>Serratia
+marcescens</italic> with a percentage of 96.25%. The cellular fatty acids of
+MO-1 and some other isolates (ZJ-C0701 and ZJ-S0801) are given in <xref rid="t01" ref-type="table">Table 1</xref>. As shown in <xref rid="t01" ref-type="table">Table 1</xref>, 18 different fatty acids were detected in
+the MO-1 strain. Fifteen of them (10:0; 10:0 3OH; 12:0; 12:0 20OH; 12:0 3OH;
+14:0; 14:0 2OH; 14:0 3OH; 15:0; 16:0; 16:0 3OH; 17:0; 17:0 cyclo; 18:0; and 19:0
+cyclo) are saturated fatty acids. Palmitic acid (16:0; n-hexadecanoic acid) had
+a higher relative mass compared to the remaining FAMEs, whereas 10:0; 12:0 2OH;
+15:0; 16:0 3OH; 17:0; and 18:0 were found to have quite low relative mass
+ratios. Except for the fatty acids 12:1 30H; 15:0; and 19:0 cyclo, all of the
+other fifteen fatty acids were present in the cells of the three isolates;
+however, 12:1 3OH; 15:0; and 19:0 cyclo fatty acids were only present in the
+strain MO-1. The BIOLOG Microplate assay showed that MO-1 is capable of using 79
+of the 95 substrates in the panel and confirmed that MO-1 displayed similarity
+to BIOLOG's standard identification. Partial reactions of the BIOLOG kit are
+presented in <xref rid="t02" ref-type="table">Table 2</xref>. Strain 90-166 and
+H02-A (<xref rid="B22" ref-type="bibr">Rascoe <italic>et al.</italic>,
+2003</xref>) had similar utilization reactions with MO-1 for some substrates
+on the Biolog plates. Finally, 1450 bp 16S ribosomal DNA sequence of the strain
+was BLAST searched (<ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/BLAST">http://www.ncbi.nlm.nih.gov/BLAST</ext-link>) and
+aligned with <italic>S. marcescens</italic> sequences. The sequence was
+deposited in GenBank with the accession number of JX315621.2. A phylogenetic
+tree was constructed based on the 16S rDNA sequences (<xref rid="f01" ref-type="fig">Figure 1</xref>). The isolate was named as <italic>S.
+marcescens</italic> strain MO-1.</p><table-wrap id="t01" orientation="portrait" position="float"><label>Table 1</label><caption><title>The percentage of fatty acids in the isolate of MO-1 and two other
+strains of <italic>S. marcescens.</italic>
+</title></caption><table frame="hsides" rules="groups"><thead><tr><th valign="bottom" align="left" rowspan="1" colspan="1">Fatty acids</th><th colspan="3" valign="bottom" align="center" rowspan="1">Strains</th></tr><tr><th valign="bottom" align="left" rowspan="1" colspan="1"/><th colspan="3" valign="bottom" align="left" rowspan="1">
+<hr/>
+</th></tr><tr><th valign="bottom" align="left" rowspan="1" colspan="1"/><th valign="bottom" align="center" rowspan="1" colspan="1">MO-1</th><th valign="bottom" align="center" rowspan="1" colspan="1">ZJ-0701<xref rid="TFN01" ref-type="table-fn">a</xref>
+</th><th valign="bottom" align="center" rowspan="1" colspan="1">ZJ-S0801<xref rid="TFN01" ref-type="table-fn">a</xref>
+</th></tr></thead><tbody><tr><td valign="top" align="left" rowspan="1" colspan="1">10:0</td><td valign="top" align="center" rowspan="1" colspan="1">0.31</td><td valign="top" align="center" rowspan="1" colspan="1">0.23</td><td valign="top" align="center" rowspan="1" colspan="1">0.25</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">10:0 3OH</td><td valign="top" align="center" rowspan="1" colspan="1">14.08</td><td valign="top" align="center" rowspan="1" colspan="1">3.01</td><td valign="top" align="center" rowspan="1" colspan="1">2.89</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">12:0</td><td valign="top" align="center" rowspan="1" colspan="1">1.61</td><td valign="top" align="center" rowspan="1" colspan="1">1.12</td><td valign="top" align="center" rowspan="1" colspan="1">1.38</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">12:0 2OH</td><td valign="top" align="center" rowspan="1" colspan="1">0.68</td><td valign="top" align="center" rowspan="1" colspan="1">0.40</td><td valign="top" align="center" rowspan="1" colspan="1">0.51</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">12:0 3OH</td><td valign="top" align="center" rowspan="1" colspan="1">4.29</td><td valign="top" align="center" rowspan="1" colspan="1">1.51</td><td valign="top" align="center" rowspan="1" colspan="1">1.35</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">12:1 3OH</td><td valign="top" align="center" rowspan="1" colspan="1">3.51</td><td valign="top" align="center" rowspan="1" colspan="1">0</td><td valign="top" align="center" rowspan="1" colspan="1">0</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">14:0</td><td valign="top" align="center" rowspan="1" colspan="1">4.50</td><td valign="top" align="center" rowspan="1" colspan="1">4.86</td><td valign="top" align="center" rowspan="1" colspan="1">5.12</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">14:0 2OH</td><td valign="top" align="center" rowspan="1" colspan="1">1.84</td><td valign="top" align="center" rowspan="1" colspan="1">3.80</td><td valign="top" align="center" rowspan="1" colspan="1">2.10</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">14:0 3OH</td><td valign="top" align="center" rowspan="1" colspan="1">6.40</td><td valign="top" align="center" rowspan="1" colspan="1">7.05</td><td valign="top" align="center" rowspan="1" colspan="1">8.12</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">15:0</td><td valign="top" align="center" rowspan="1" colspan="1">0.34</td><td valign="top" align="center" rowspan="1" colspan="1">0</td><td valign="top" align="center" rowspan="1" colspan="1">0</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">16:0</td><td valign="top" align="center" rowspan="1" colspan="1">25.62</td><td valign="top" align="center" rowspan="1" colspan="1">30.80</td><td valign="top" align="center" rowspan="1" colspan="1">28.55</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">16:0 3OH</td><td valign="top" align="center" rowspan="1" colspan="1">0.20</td><td valign="top" align="center" rowspan="1" colspan="1">0.18</td><td valign="top" align="center" rowspan="1" colspan="1">0.22</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">16:1 w7c</td><td valign="top" align="center" rowspan="1" colspan="1">11.78</td><td valign="top" align="center" rowspan="1" colspan="1">11.46</td><td valign="top" align="center" rowspan="1" colspan="1">12.20</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">17:0</td><td valign="top" align="center" rowspan="1" colspan="1">0.18</td><td valign="top" align="center" rowspan="1" colspan="1">1.19</td><td valign="top" align="center" rowspan="1" colspan="1">1.00</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">17:0 cyclo</td><td valign="top" align="center" rowspan="1" colspan="1">9.89</td><td valign="top" align="center" rowspan="1" colspan="1">15.26</td><td valign="top" align="center" rowspan="1" colspan="1">14.71</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">18:0</td><td valign="top" align="center" rowspan="1" colspan="1">0.26</td><td valign="top" align="center" rowspan="1" colspan="1">0.26</td><td valign="top" align="center" rowspan="1" colspan="1">1.20</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">18:1 w7c</td><td valign="top" align="center" rowspan="1" colspan="1">12.40</td><td valign="top" align="center" rowspan="1" colspan="1">15.12</td><td valign="top" align="center" rowspan="1" colspan="1">16.58</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">19:0 cyclo</td><td valign="top" align="center" rowspan="1" colspan="1">1.47</td><td valign="top" align="center" rowspan="1" colspan="1">0</td><td valign="top" align="center" rowspan="1" colspan="1">0</td></tr></tbody></table><table-wrap-foot><fn id="TFN01"><label>a</label><p>
+<xref rid="B17" ref-type="bibr">Li <italic>et al.</italic>,
+2011</xref>.</p></fn></table-wrap-foot></table-wrap><table-wrap id="t02" orientation="portrait" position="float"><label>Table 2</label><caption><title>Partial substrate utilization results of MO-1 and two other strains
+of <italic>S. marcescens</italic> using the BIOLOG Microplate.</title></caption><table frame="hsides" rules="groups"><thead><tr><th valign="bottom" align="left" rowspan="1" colspan="1">Substrats</th><th valign="bottom" align="center" rowspan="1" colspan="1">MO-1</th><th valign="bottom" align="center" rowspan="1" colspan="1">90-166<xref rid="TFN03" ref-type="table-fn">b</xref>
+</th><th valign="bottom" align="center" rowspan="1" colspan="1">H02-A<xref rid="TFN03" ref-type="table-fn">b</xref>
+</th></tr></thead><tbody><tr><td valign="top" align="left" rowspan="1" colspan="1">&#x003b1;-D-Lactose</td><td valign="top" align="center" rowspan="1" colspan="1">+</td><td valign="top" align="center" rowspan="1" colspan="1">&#x02212;</td><td valign="top" align="center" rowspan="1" colspan="1">+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">&#x003b1;-Hydroxybutric acid</td><td valign="top" align="center" rowspan="1" colspan="1">+</td><td valign="top" align="center" rowspan="1" colspan="1">&#x000b1;</td><td valign="top" align="center" rowspan="1" colspan="1">+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">&#x003b1;-Ketoglutaric acid</td><td valign="top" align="center" rowspan="1" colspan="1">+</td><td valign="top" align="center" rowspan="1" colspan="1">+</td><td valign="top" align="center" rowspan="1" colspan="1">+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">&#x003b2;-hydroxybuturic acid</td><td valign="top" align="center" rowspan="1" colspan="1">+</td><td valign="top" align="center" rowspan="1" colspan="1">+</td><td valign="top" align="center" rowspan="1" colspan="1">+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">Adonitol</td><td valign="top" align="center" rowspan="1" colspan="1">+</td><td valign="top" align="center" rowspan="1" colspan="1">+</td><td valign="top" align="center" rowspan="1" colspan="1">+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">Alaninamide</td><td valign="top" align="center" rowspan="1" colspan="1">+</td><td valign="top" align="center" rowspan="1" colspan="1">+</td><td valign="top" align="center" rowspan="1" colspan="1">+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">Bromosuccunic acid</td><td valign="top" align="center" rowspan="1" colspan="1">+</td><td valign="top" align="center" rowspan="1" colspan="1">+</td><td valign="top" align="center" rowspan="1" colspan="1">+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">Cellobiose</td><td valign="top" align="center" rowspan="1" colspan="1">&#x000b1;</td><td valign="top" align="center" rowspan="1" colspan="1">&#x000b1;</td><td valign="top" align="center" rowspan="1" colspan="1">+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">D, L-Lactic acid</td><td valign="top" align="center" rowspan="1" colspan="1">+</td><td valign="top" align="center" rowspan="1" colspan="1">+</td><td valign="top" align="center" rowspan="1" colspan="1">+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">D-Alanine</td><td valign="top" align="center" rowspan="1" colspan="1">+</td><td valign="top" align="center" rowspan="1" colspan="1">+</td><td valign="top" align="center" rowspan="1" colspan="1">+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">D-Arabitol</td><td valign="top" align="center" rowspan="1" colspan="1">&#x02212;</td><td valign="top" align="center" rowspan="1" colspan="1">+</td><td valign="top" align="center" rowspan="1" colspan="1">+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">D-Mellobiose</td><td valign="top" align="center" rowspan="1" colspan="1">+</td><td valign="top" align="center" rowspan="1" colspan="1">+</td><td valign="top" align="center" rowspan="1" colspan="1">+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">D-Serine</td><td valign="top" align="center" rowspan="1" colspan="1">+</td><td valign="top" align="center" rowspan="1" colspan="1">+</td><td valign="top" align="center" rowspan="1" colspan="1">+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">D-Sorbitol</td><td valign="top" align="center" rowspan="1" colspan="1">+</td><td valign="top" align="center" rowspan="1" colspan="1">&#x000b1;</td><td valign="top" align="center" rowspan="1" colspan="1">+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">Gentibiose</td><td valign="top" align="center" rowspan="1" colspan="1">+</td><td valign="top" align="center" rowspan="1" colspan="1">+</td><td valign="top" align="center" rowspan="1" colspan="1">+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">Glucuronamide</td><td valign="top" align="center" rowspan="1" colspan="1">+</td><td valign="top" align="center" rowspan="1" colspan="1">+</td><td valign="top" align="center" rowspan="1" colspan="1">+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">Hydroxy-L-Proline</td><td valign="top" align="center" rowspan="1" colspan="1">+</td><td valign="top" align="center" rowspan="1" colspan="1">+</td><td valign="top" align="center" rowspan="1" colspan="1">+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">i-Erythritol</td><td valign="top" align="center" rowspan="1" colspan="1">+</td><td valign="top" align="center" rowspan="1" colspan="1">+</td><td valign="top" align="center" rowspan="1" colspan="1">+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">L-Alanine</td><td valign="top" align="center" rowspan="1" colspan="1">+</td><td valign="top" align="center" rowspan="1" colspan="1">+</td><td valign="top" align="center" rowspan="1" colspan="1">+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">L-Alanyl glycine</td><td valign="top" align="center" rowspan="1" colspan="1">+</td><td valign="top" align="center" rowspan="1" colspan="1">+</td><td valign="top" align="center" rowspan="1" colspan="1">+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">L-Arabinose</td><td valign="top" align="center" rowspan="1" colspan="1">&#x02212;</td><td valign="top" align="center" rowspan="1" colspan="1">+</td><td valign="top" align="center" rowspan="1" colspan="1">+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">L-Aspartic acid</td><td valign="top" align="center" rowspan="1" colspan="1">+</td><td valign="top" align="center" rowspan="1" colspan="1">+</td><td valign="top" align="center" rowspan="1" colspan="1">+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">L-Fucose</td><td valign="top" align="center" rowspan="1" colspan="1">+</td><td valign="top" align="center" rowspan="1" colspan="1">+</td><td valign="top" align="center" rowspan="1" colspan="1">+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">L-Ornithine</td><td valign="top" align="center" rowspan="1" colspan="1">&#x02212;</td><td valign="top" align="center" rowspan="1" colspan="1">&#x000b1;</td><td valign="top" align="center" rowspan="1" colspan="1">+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">L-Phenylalanine</td><td valign="top" align="center" rowspan="1" colspan="1">+</td><td valign="top" align="center" rowspan="1" colspan="1">&#x000b1;</td><td valign="top" align="center" rowspan="1" colspan="1">&#x000b1;</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">m-Inositol</td><td valign="top" align="center" rowspan="1" colspan="1">+</td><td valign="top" align="center" rowspan="1" colspan="1">+</td><td valign="top" align="center" rowspan="1" colspan="1">+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">N-Acetyl-D-Galactosamine</td><td valign="top" align="center" rowspan="1" colspan="1">+</td><td valign="top" align="center" rowspan="1" colspan="1">+</td><td valign="top" align="center" rowspan="1" colspan="1">+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">Putrescine</td><td valign="top" align="center" rowspan="1" colspan="1">+</td><td valign="top" align="center" rowspan="1" colspan="1">+</td><td valign="top" align="center" rowspan="1" colspan="1">+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">Succinamic acid</td><td valign="top" align="center" rowspan="1" colspan="1">+</td><td valign="top" align="center" rowspan="1" colspan="1">+</td><td valign="top" align="center" rowspan="1" colspan="1">&#x000b1;</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">Thymidine</td><td valign="top" align="center" rowspan="1" colspan="1">+</td><td valign="top" align="center" rowspan="1" colspan="1">+</td><td valign="top" align="center" rowspan="1" colspan="1">+</td></tr></tbody></table><table-wrap-foot><fn id="TFN02"><p>+: positive result, -: negative results.</p></fn><fn id="TFN03"><label>b</label><p>
+<xref rid="B22" ref-type="bibr">Rascoe <italic>et al.</italic>,
+2003</xref>.</p></fn></table-wrap-foot></table-wrap><fig id="f01" orientation="portrait" position="float"><label>Figure 1</label><caption><title>Phylogenetic tree based on the 16s rDNA sequences of strain MO-1 and
+related species.</title></caption><graphic xlink:href="1517-8382-bjm-46-2-631-gf01"/></fig></sec><sec><title>Effect of RHP on the growth of MO-1 and its prodigiosin producing
+potential</title><p>The effects of RHP on the growth of MO-1 is summarized in <xref rid="f02" ref-type="fig">Figure 2</xref>. The results showed that the growth of MO-1
+was very low in the control medium (CM). For example, the maximum growth yield
+of MO-1 in the CM was 0.94 g/L for a 48 h growth period, whereas the addition of
+RHP to the substrate increased the biomass yield. When the effects of different
+RHP concentrations on growth were compared, the maximum growth promoting effect
+was observed with the application of 0.4% (w/v) RHP (2.54 g/L for a 48 h growth
+period); however, the growth yield decreased at RHP concentrations greater than
+0.5% and the lowest biomass yield (1.56 g/L) was obtained from the application
+of 0.1% (w/v) RHP (except for CM application).</p><fig id="f02" orientation="portrait" position="float"><label>Figure 2</label><caption><title>Comparison of the effect of RHP at various concentrations on biomass
+using mannitol as a carbon source. Culture conditions: initial pH 7.0,
+200 rpm, 28 &#x000b0;C.</title></caption><graphic xlink:href="1517-8382-bjm-46-2-631-gf02"/></fig><p>The effects of RHP on the production of prodigiosin are presented in <xref rid="f03" ref-type="fig">Figure 3</xref>. Prodigiosin is a known secondary
+metabolite that does not have a role in growth, development and reproduction, as
+do the primary metabolites, and is typically formed during the end or near the
+stationary phase of growth. Observed together, <xref rid="f02" ref-type="fig">Figures 2</xref> and <xref rid="f03" ref-type="fig">3</xref> reveal that
+the production of prodigiosin increases linearly between 12 and 36 h.
+Additionally, the characteristics of the production curve are similar to the
+production pattern of secondary metabolites. According to <xref rid="f02" ref-type="fig">Figures 2</xref> and <xref rid="f03" ref-type="fig">3</xref>,
+biomass and prodigiosin production increase with increasing RHP concentrations
+up to 0.4%; beyond 0.4% RHP concentrations (at 0.5 and 0.6% RHP) the productions
+decrease.</p><fig id="f03" orientation="portrait" position="float"><label>Figure 3</label><caption><title>Comparison of the effect of RHP at various concentrations on
+prodigiosin production. Culture conditions: initial pH 7.0, 200 rpm, 28
+&#x000b0;C.</title></caption><graphic xlink:href="1517-8382-bjm-46-2-631-gf03"/></fig><p>Similar to the growth of MO-1, the production of prodigiosin was significantly (p
+&#x0003c; 0.05) affected by the addition of RHP and the maximum prodigiosin yield
+(277.74 mg/L) was obtained with the application of 0.4% (w/v) RHP.</p><p>The yield produced with the application of 0.4% RHP was more than 7 times greater
+than that obtained in the CM (40.12 mg/L). This prodigiosin production promoting
+effect of RHP may be due to many factors related to the chemical composition of
+RHP. We previously analyzed (<xref rid="B13" ref-type="bibr">Kurbanoglu and
+Kurbanoglu, 2004</xref>) the chemical composition of RHP and determined that
+it is very rich in both organic and inorganic nutrients and contains many amino
+acids and inorganic materials (data are not given). Others have reported that
+some amino acids (alanine, serine, histidine, cystine, methionine, glutamate,
+tryptophan and proline) contribute to the formation of prodigiosin (<xref rid="B31" ref-type="bibr">Williams <italic>et al.</italic>, 1971</xref>;
+<xref rid="B21" ref-type="bibr">Qadri and Williams, 1973</xref>; <xref rid="B32" ref-type="bibr">Witney <italic>et al.</italic>, 1977</xref>). The
+results of our previous studies (<xref rid="B13" ref-type="bibr">Kurbanoglu and
+Kurbanoglu, 2004</xref>; <xref rid="B12" ref-type="bibr">Kurbanoglu
+2004b</xref>; <xref rid="B14" ref-type="bibr">Kurbanoglu and Kurbanoglu,
+2007</xref>) showed that RHP contains all of these amino acids at varying
+concentrations and is especially rich in alanine, cysteine, glutamate and
+proline.</p><p>Trace elements are known to have important effects on secondary metabolites. RHP
+also contains some of the trace elements such as Fe, Mn, Zn, Mg and Cu, and
+consequently offers a rich source for culture media. As a high concentration of
+phosphate is known to have an inhibitory effect on prodigiosin yield (<xref rid="B32" ref-type="bibr">Witney <italic>et al.</italic>, 1977</xref>) and
+RHP is poor in inorganic phosphate, we did not use phosphate salts in the
+preparation of RHP. In addition, some investigators have reported that Ca, Mg,
+K, Na, Cl (<xref rid="B16" ref-type="bibr">Lewis and Corpe, 1964</xref>) and Fe
+(<xref rid="B24" ref-type="bibr">Silverman and Munoz, 1973</xref>) ions are
+necessary for the pigmentation produced by <italic>S. marcescens</italic>. As a
+result, the prodigiosin production promoting effect of RHP may be due to its
+organic and inorganic richness.</p><p>The carbon/nitrogen ratio (C/N) of a substrate plays a vital role in the
+production of different metabolites. Some researchers reported that prodigiosin
+production may also be affected by the C/N ratio (<xref rid="B30" ref-type="bibr">Wei and Chen, 2005</xref>; <xref rid="B29" ref-type="bibr">Wang <italic>et al.</italic>, 2011</xref>; <xref rid="B25" ref-type="bibr">Siva <italic>et al.</italic>, 2012</xref>). As mentioned above, RHP is rich
+in amino acids, which are the main reservoir of nitrogen in living tissues and
+cells. For this reason, as the RHP ratio in the media increased, the C/N
+decreased. In the light of this information, we can speculate that the addition
+of 0.4% RHP to the CM may provide the proper C/N ratio for prodigiosin
+biosynthesis; however, RHP addition decreased both biomass and prodigiosin
+yields at concentrations above 0.4%. Our previous studies also showed that, at
+high concentrations, RHP decreased the production yields of citric acid (<xref rid="B13" ref-type="bibr">Kurbanoglu and Kurbanoglu, 2004</xref>), xanthan
+(<xref rid="B14" ref-type="bibr">Kurbanoglu and Kurbanoglu, 2007</xref>),
+and lactic acid (<xref rid="B12" ref-type="bibr">Kurbanoglu, 2004b</xref>). This
+inhibitive effect may be due to its high salt concentration and unknown toxic
+materials.</p></sec><sec><title>Effect of different peptones on the production of prodigiosin</title><p>The concentration and type of nitrogen sources are very important for the growth
+and pigment production of <italic>S. marcescens</italic>. Four peptones were
+tested for the production of prodigiosin (<xref rid="t03" ref-type="table">Table
+3</xref>). The production of prodigiosin in the culture medium by <italic>S.
+marcescens</italic> MO-1 using RHP was better than the prodigiosin
+production using TP, BP and FP under the same conditions (p &#x0003c; 0.05). <xref rid="B13" ref-type="bibr">Kurbanoglu and Kurbanoglu (2004)</xref> reported
+that the nitrogen contents of RHP, BP, TP and FP are 8.0, 13.8, 10 and 10.1
+(g/100 g), respectively. Chemical analysis of the peptones showed that FP, TP
+and BP were richer in nitrogen than RHP; however, the amino acid and rich
+mineral content of RHP stimulated cell growth and prodigiosin biosynthesis in
+<italic>S. marcescens</italic> MO-1. This result indicates that the
+nutrients in RHP are suitable for microbial growth and prodigiosin
+production.</p><table-wrap id="t03" orientation="portrait" position="float"><label>Table 3</label><caption><title>The effect of peptones on prodigiosin and biomass yields of
+<italic>S. marcescens</italic> MO1.</title></caption><table frame="hsides" rules="groups"><thead><tr><th valign="bottom" align="left" rowspan="1" colspan="1">Medium</th><th valign="bottom" align="center" rowspan="1" colspan="1">Biomass (g/L)</th><th valign="bottom" align="center" rowspan="1" colspan="1">PG (mg/L)</th></tr></thead><tbody><tr><td valign="top" align="left" rowspan="1" colspan="1">CM</td><td valign="top" align="center" rowspan="1" colspan="1">1.32 &#x000b1; 0.08<sup>c</sup>
+</td><td valign="top" align="center" rowspan="1" colspan="1">40.12 &#x000b1; 2.01<sup>e</sup>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">CM+RHP</td><td valign="top" align="center" rowspan="1" colspan="1">2.54 &#x000b1; 0.09<sup>a</sup>
+</td><td valign="top" align="center" rowspan="1" colspan="1">277.74 &#x000b1; 7.26<sup>a</sup>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">CM+FP</td><td valign="top" align="center" rowspan="1" colspan="1">2.48 &#x000b1; 0.07<sup>a</sup>,
+<sup>b</sup>
+</td><td valign="top" align="center" rowspan="1" colspan="1">232.49 &#x000b1; 5.6<sup>c</sup>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">CM+ TP</td><td valign="top" align="center" rowspan="1" colspan="1">2.31 &#x000b1; 0.07<sup>b</sup>
+</td><td valign="top" align="center" rowspan="1" colspan="1">213.14 &#x000b1; 11.49<sup>d</sup>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">CM+ BP</td><td valign="top" align="center" rowspan="1" colspan="1">2.62 &#x000b1; 0.14<sup>a</sup>
+</td><td valign="top" align="center" rowspan="1" colspan="1">252.02 &#x000b1; 8.95<sup>b</sup>
+</td></tr></tbody></table><table-wrap-foot><fn id="TFN04"><p>FP: Fish Peptone, TP: Tryptone, BP: Bacto Peptone.</p></fn><fn id="TFN05"><p>Culture conditions: Initial pH 7.0, 200 rpm, 28 &#x000b0;C, 48 h.</p></fn><fn id="TFN06"><p>Values with the same letter are not significant (p &#x0003c; 0.05).</p></fn></table-wrap-foot></table-wrap></sec><sec><title>Effect of different carbon sources on the production of prodigiosin</title><p>
+<italic>S. marcescens</italic> MO-1 demonstrated an ability to utilize different
+carbon sources for growth and prodigiosin production but to different extents
+(<xref rid="t04" ref-type="table">Table 4</xref>). When glucose was supplied
+as a carbon source, <italic>S. marcescens</italic> MO-1 significantly decreased
+the production of prodigiosin. Some carbon sources, such as glucose and maltose,
+had a repressive effect on prodigiosin synthesis because they lowered the pH of
+the medium or repressed catabolites (<xref rid="B06" ref-type="bibr">Gargallo
+<italic>et al.</italic>, 1987</xref>; <xref rid="B27" ref-type="bibr">Sole <italic>et al.</italic>, 1997</xref>). Moreover, in production medium
+containing glucose, <italic>S. marcescens</italic> may produce the
+glucose-6-phosphate dehydrogenase alloenzyme, which inhibits pigment production
+(<xref rid="B06" ref-type="bibr">Gargallo <italic>et al.</italic>,
+1987</xref>). <italic>S</italic>. <italic>marcescens</italic> grown on
+mineral media did not produce pigment when the carbon source was glucose or the
+nitrogen source was ammonium chloride, though proline was present in the medium
+(<xref rid="B09" ref-type="bibr">Hejazi and Falkiner, 1997</xref>). Glycerol
+and mannitol were used as carbon sources in a production medium, which resulted
+in a better yield of prodigiosin. In this study, <italic>S</italic>.
+<italic>marcescens</italic> produced 184.32 mg/L and 277.74 mg/L of
+prodigiosin in glycerol and mannitol containing medium, respectively (<xref rid="t04" ref-type="table">Table 4</xref>). Mannitol was found to be
+suitable for growth and prodigiosin production (<xref rid="B01" ref-type="bibr">Ara&#x000fa;jo <italic>et al.</italic>, 2010</xref>) instead of glycerol (p &#x0003c;
+0.05). Other studies have reported different results associated with prodigiosin
+production. <xref rid="B30" ref-type="bibr">Wei and Chen (2005)</xref> observed
+56-790 &#x003bc;g/mL of prodigiosin cultured in oil supplemented Luria-Bertani broth
+medium. The production of prodigiosin was reported in mutant <italic>S.
+marcescens</italic> 02 at a concentration of 96.5-583 mg/L (Tao <italic>et
+al.</italic>, 2005). Additionally, <xref rid="B08" ref-type="bibr">Gutierrez-Roman <italic>et al.</italic> (2012)</xref> reported a production
+of prodigiosin of 60 mg/L by <italic>S. marcescens</italic> CFFSUR-B2 cultivated
+in peanut medium.</p><table-wrap id="t04" orientation="portrait" position="float"><label>Table 4</label><caption><title>The effect of carbons on prodigiosin and biomass yields of <italic>S.
+marcescens</italic> MO1.</title></caption><table frame="hsides" rules="groups"><thead><tr><th valign="bottom" align="left" rowspan="1" colspan="1">Carbons (%1, w/v)</th><th valign="bottom" align="center" rowspan="1" colspan="1">Biomass (g/L)</th><th valign="bottom" align="center" rowspan="1" colspan="1">PG (mg/L)</th></tr></thead><tbody><tr><td valign="top" align="left" rowspan="1" colspan="1">Mannitol</td><td valign="top" align="center" rowspan="1" colspan="1">2.54 &#x000b1; 0.09<sup>a</sup>
+</td><td valign="top" align="center" rowspan="1" colspan="1">277.74 &#x000b1; 7.6<sup>a</sup>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">Glycerol</td><td valign="top" align="center" rowspan="1" colspan="1">2.32 &#x000b1; 0.05<sup>b</sup>
+</td><td valign="top" align="center" rowspan="1" colspan="1">184.32 &#x000b1; 5.9<sup>b</sup>
+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">Glucose</td><td valign="top" align="center" rowspan="1" colspan="1">2.07 &#x000b1; 0.11<sup>c</sup>
+</td><td valign="top" align="center" rowspan="1" colspan="1">6.35 &#x000b1; 1.6<sup>c</sup>
+</td></tr></tbody></table><table-wrap-foot><fn id="TFN07"><p>Culture conditions: Initial pH 7.0, 200 rpm, 28 &#x000b0;C, 48 h.</p></fn><fn id="TFN08"><p>Values with the same letter are not significant (p &#x0003c; 0.05).</p></fn></table-wrap-foot></table-wrap></sec></sec><sec sec-type="conclusions"><title>Conclusion</title><p>Organic nitrogen sources are known to be superior nitrogen sources for prodigiosin
+production compared to inorganic nitrogen sources. Therefore, there is a need for
+new, easily available and cheap organic nitrogen sources. Moreover, organic nitrogen
+sources, such as peptones contain different amino acids, which increase the
+production of prodigiosin production as described above. As is known, pollution
+continues to increase due to agricultural and industrial wastes. Consequently, these
+waste materials can be converted to highly valued commercial products, such as
+prodigiosin. The present study demonstrated that RHP significantly increased the
+production of prodigiosin from <italic>S. marcescens</italic> because of its high
+mineral and amino acid contents. Using RHP to produce prodigiosin can be
+cost-effective and environmentally beneficial.</p></sec></body><back><ref-list><title>References</title><ref id="B01"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ara&#x000fa;jo</surname><given-names>HW</given-names></name><name><surname>Fukushima</surname><given-names>K</given-names></name><name><surname>Takaki</surname><given-names>GM</given-names></name></person-group><year>2010</year><article-title>Prodigiosin production by <italic>Serratia marcescens</italic>
+UCP 1549 using renewable-resources as a low cost substrate</article-title><source>Molecules</source><volume>15</volume><fpage>6931</fpage><lpage>6940</lpage><pub-id pub-id-type="pmid">20938403</pub-id></element-citation></ref><ref id="B02"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Boric</surname><given-names>M</given-names></name><name><surname>Danevcic</surname><given-names>T</given-names></name><name><surname>Stopar</surname><given-names>D</given-names></name></person-group><year>2011</year><article-title>Prodigiosin from <italic>Vibrio</italic> sp. DSM 14379; a new
+UV-protective pigment</article-title><source>Microbiol Ecol</source><volume>62</volume><fpage>528</fpage><lpage>536</lpage></element-citation></ref><ref id="B03"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cang</surname><given-names>S</given-names></name><name><surname>Sanada</surname><given-names>M</given-names></name><name><surname>Johdo</surname><given-names>O</given-names></name><etal/></person-group><year>2000</year><article-title>High production of prodigiosin by <italic>Serratia
+marcescens</italic> grown on ethanol</article-title><source>Biotechnol Lett</source><volume>22</volume><fpage>1761</fpage><lpage>1765</lpage></element-citation></ref><ref id="B04"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>D'Aoust</surname><given-names>JY</given-names></name><name><surname>Gerber</surname><given-names>NN</given-names></name></person-group><year>1974</year><article-title>Isolation and purification of prodigiosin from <italic>Vibrio
+psychroerythrus</italic>
+</article-title><source>J Bacteriol</source><volume>118</volume><fpage>756</fpage><lpage>757</lpage><pub-id pub-id-type="pmid">4597458</pub-id></element-citation></ref><ref id="B05"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>El-Bondkly</surname><given-names>AAM</given-names></name><name><surname>El-Gendy</surname><given-names>MMM</given-names></name><name><surname>Bassyouni</surname><given-names>RH</given-names></name></person-group><year>2012</year><article-title>Overproduction and biological activity of prodigiosin-like
+pigments from recombinant fusant of endophytic marine
+<italic>Streptomyces</italic> species</article-title><source>Antonie van Leeuwenhoek</source><volume>102</volume><fpage>719</fpage><lpage>734</lpage><pub-id pub-id-type="pmid">22777253</pub-id></element-citation></ref><ref id="B06"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gargallo</surname><given-names>D</given-names></name><name><surname>Loren</surname><given-names>JG</given-names></name><name><surname>Guinea</surname><given-names>J</given-names></name><etal/></person-group><year>1987</year><article-title>Glucose-6-phosphate dehydrogenase alloenzymes and their
+relationship to pigmentation in <italic>Serratia
+marcescens</italic>
+</article-title><source>Appl Environ Microbiol</source><volume>53</volume><fpage>1983</fpage><lpage>1986</lpage><pub-id pub-id-type="pmid">3310889</pub-id></element-citation></ref><ref id="B07"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Giri</surname><given-names>AV</given-names></name><name><surname>Anandkumar</surname><given-names>N</given-names></name><name><surname>Muthukumaran</surname><given-names>G</given-names></name><etal/></person-group><year>2004</year><article-title>A novel medium for the enhanced cell growth and production of
+prodigiosin from <italic>Serratia marcescens</italic> isolated from
+soil</article-title><source>BMC Microbiol</source><volume>4</volume><fpage>11</fpage><lpage>18</lpage><pub-id pub-id-type="pmid">15113456</pub-id></element-citation></ref><ref id="B08"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Guti&#x000e9;rrez-Rom&#x000e1;n</surname><given-names>MI</given-names></name><name><surname>Holgu&#x000ed;n-Mel&#x000e9;ndez</surname><given-names>F</given-names></name><name><surname>Bello-Mendoza</surname><given-names>R</given-names></name><etal/></person-group><year>2012</year><article-title>Production of prodigiosin and chitinases by tropical
+<italic>Serratia marcescens</italic> strains with potential to control
+plant pathogens</article-title><source>World J Microbiol Biotechnol</source><volume>28</volume><fpage>145</fpage><lpage>153</lpage><pub-id pub-id-type="pmid">22806790</pub-id></element-citation></ref><ref id="B09"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hejazi</surname><given-names>A</given-names></name><name><surname>Falkiner</surname><given-names>FR</given-names></name></person-group><year>1997</year><article-title>Serratia marcescens</article-title><source>J Med Microbiol</source><volume>46</volume><fpage>903</fpage><lpage>912</lpage><pub-id pub-id-type="pmid">9368530</pub-id></element-citation></ref><ref id="B10"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kim</surname><given-names>D</given-names></name><name><surname>Lee</surname><given-names>JS</given-names></name><name><surname>Park</surname><given-names>YK</given-names></name><etal/></person-group><year>2007</year><article-title>Biosynthesis of antibiotic prodiginines in the marine bacterium
+<italic>Hahella chejuensis</italic> KCTC 2396</article-title><source>J Appl Microbiol</source><volume>102</volume><fpage>937</fpage><lpage>944</lpage><pub-id pub-id-type="pmid">17381736</pub-id></element-citation></ref><ref id="B11"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kurbanoglu</surname><given-names>EB</given-names></name></person-group><year>2004a</year><article-title>Enhancement of citric acid production with ram horn hydrolysate
+by <italic>Aspergillus niger</italic>
+</article-title><source>Biores Technol</source><volume>92</volume><fpage>97</fpage><lpage>101</lpage></element-citation></ref><ref id="B12"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kurbanoglu</surname><given-names>EB</given-names></name></person-group><year>2004b</year><article-title>Enhancement of lactic acid production with ram horn peptone by
+<italic>Lactobacillus casei</italic>
+</article-title><source>World J Microbiol Biotechnol</source><volume>20</volume><fpage>37</fpage><lpage>42</lpage></element-citation></ref><ref id="B13"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kurbanoglu</surname><given-names>EB</given-names></name><name><surname>Kurbanoglu</surname><given-names>NI</given-names></name></person-group><year>2004</year><article-title>Ram horn peptone as a source of citric acid production by
+<italic>Aspergillus niger</italic>, with a process</article-title><source>J Ind Microbiol Biotehnol</source><volume>131</volume><fpage>289</fpage><lpage>294</lpage></element-citation></ref><ref id="B14"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kurbanoglu</surname><given-names>EB</given-names></name><name><surname>Kurbanoglu</surname><given-names>NI</given-names></name></person-group><year>2007</year><article-title>Ram horn hydrolysate as enhancer of xanthan production in batch
+culture of <italic>Xanthomonas campestris</italic> EBK-4
+isolate</article-title><source>Process Biochem</source><volume>42</volume><fpage>1146</fpage><lpage>1149</lpage></element-citation></ref><ref id="B15"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lee</surname><given-names>JS</given-names></name><name><surname>Kim</surname><given-names>YS</given-names></name><name><surname>Park</surname><given-names>S</given-names></name><etal/></person-group><year>2011</year><article-title>Exceptional production of both prodigiosin and cycloprodigiosin
+as major metabolic constituents by a novel marine bacterium,
+<italic>Zooshikella rubidus</italic> S1-1</article-title><source>Appl Environ Microbiol</source><volume>77</volume><fpage>4967</fpage><lpage>4973</lpage><pub-id pub-id-type="pmid">21642414</pub-id></element-citation></ref><ref id="B16"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lewis</surname><given-names>SM</given-names></name><name><surname>Corpe</surname><given-names>WA</given-names></name></person-group><year>1964</year><article-title>Prodigiosin-producing bacteria from marine
+sources</article-title><source>Appl Microbiol</source><volume>12</volume><fpage>13</fpage><lpage>17</lpage><pub-id pub-id-type="pmid">14106932</pub-id></element-citation></ref><ref id="B17"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Li</surname><given-names>B</given-names></name><name><surname>Yu</surname><given-names>R</given-names></name><name><surname>Liu</surname><given-names>B</given-names></name><etal/></person-group><year>2011</year><article-title>Characterization and comparison of <italic>Serratia
+marcescens</italic> isolated from edible cactus and from silkworm for
+virulence potential and chitosan susceptibility</article-title><source>Braz J Microbiol</source><volume>42</volume><fpage>96</fpage><lpage>104</lpage><pub-id pub-id-type="pmid">24031610</pub-id></element-citation></ref><ref id="B18"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Montaner</surname><given-names>B</given-names></name><name><surname>Perez-Thomas</surname><given-names>R</given-names></name></person-group><year>2001</year><article-title>Prodigiosin induced apoptosis in human colon cancer
+cells</article-title><source>Life Sci</source><volume>68</volume><fpage>2025</fpage><lpage>2036</lpage><pub-id pub-id-type="pmid">11388704</pub-id></element-citation></ref><ref id="B19"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Okay</surname><given-names>S</given-names></name><name><surname>Ozdal</surname><given-names>M</given-names></name><name><surname>Kurbanoglu</surname><given-names>EB</given-names></name></person-group><year>2013</year><article-title>Characterization, antifungal activity and cell immobilization of
+a chitinase from <italic>Serratia marcescens</italic> MO-1</article-title><source>Turk J Biol</source><volume>37</volume><fpage>639</fpage><lpage>644</lpage></element-citation></ref><ref id="B20"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Park</surname><given-names>H</given-names></name><name><surname>Lee</surname><given-names>SG</given-names></name><name><surname>Kim</surname><given-names>TK</given-names></name><etal/></person-group><year>2012</year><article-title>Selection of extraction solvent and temperature effect on
+stability of the algicidal agent prodigiosin</article-title><source>Biotechnol Bioprocess Eng</source><volume>17</volume><fpage>1232</fpage><lpage>1237</lpage></element-citation></ref><ref id="B21"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Qadri</surname><given-names>SMH</given-names></name><name><surname>Williams</surname><given-names>RP</given-names></name></person-group><year>1973</year><article-title>Role of methionine in biosynthesis of prodigiosin by
+<italic>Serratia marcescens</italic>
+</article-title><source>J Bacteriol</source><volume>116</volume><fpage>1191</fpage><lpage>1198</lpage><pub-id pub-id-type="pmid">4201771</pub-id></element-citation></ref><ref id="B22"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rascoe</surname><given-names>J</given-names></name><name><surname>Berg</surname><given-names>M</given-names></name><name><surname>Melcher</surname><given-names>U</given-names></name><etal/></person-group><year>2003</year><article-title>Identification, phylogenetic analysis, and biological
+characterization of <italic>Serratia marcescens</italic> strains causing
+cucurbit yellow vine disease</article-title><source>Phytopathology</source><volume>93</volume><fpage>1233</fpage><lpage>1239</lpage><pub-id pub-id-type="pmid">18944322</pub-id></element-citation></ref><ref id="B23"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ryazantseva</surname><given-names>IN</given-names></name><name><surname>Saakov</surname><given-names>VS</given-names></name><name><surname>Andreyeva</surname><given-names>IN</given-names></name><etal/></person-group><year>2012</year><article-title>Response of pigmented <italic>Serratia marcescens</italic> to the
+illumination</article-title><source>J Photoch Photobio B</source><volume>106</volume><fpage>18</fpage><lpage>23</lpage></element-citation></ref><ref id="B24"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Silverman</surname><given-names>MP</given-names></name><name><surname>Munoz</surname><given-names>EF</given-names></name></person-group><year>1973</year><article-title>Effect of iron and salt on prodigiosin synthesis in
+<italic>Serratia marcescens</italic>
+</article-title><source>J Bacteriol</source><volume>114</volume><fpage>996</fpage><lpage>1006</lpage></element-citation></ref><ref id="B25"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Siva</surname><given-names>R</given-names></name><name><surname>Subha</surname><given-names>K</given-names></name><name><surname>Bhakta</surname><given-names>D</given-names></name><etal/></person-group><year>2012</year><article-title>Characterization and enhanced production of prodigiosin from the
+spoiled coconut</article-title><source>Appl Biochem Biotechnol</source><volume>166</volume><fpage>187</fpage><lpage>196</lpage><pub-id pub-id-type="pmid">22072139</pub-id></element-citation></ref><ref id="B26"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Slater</surname><given-names>H</given-names></name><name><surname>Crow</surname><given-names>MA</given-names></name><name><surname>Everson</surname><given-names>L</given-names></name><etal/></person-group><year>2003</year><article-title>Phosphate availability regulates biosynthesis of two antibiotics,
+prodigiosin and carbapenem, in <italic>Serratia</italic> via both
+quorum-sensing-dependent and-independent pathways</article-title><source>Mol Microbiol</source><volume>47</volume><fpage>303</fpage><lpage>320</lpage><pub-id pub-id-type="pmid">12519208</pub-id></element-citation></ref><ref id="B27"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sol&#x000e9;</surname><given-names>M</given-names></name><name><surname>Francia</surname><given-names>A</given-names></name><name><surname>Rius</surname><given-names>N</given-names></name><etal/></person-group><year>1997</year><article-title>The role of pH in the glucose effect on prodigiosin production by
+non-proliferating cells of <italic>Serratia
+marcescens</italic>
+</article-title><source>Lett Appl Microbiol</source><volume>25</volume><fpage>81</fpage><lpage>84</lpage></element-citation></ref><ref id="B28"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Soto-Cerrato</surname><given-names>V</given-names></name><name><surname>Llagostera</surname><given-names>E</given-names></name><name><surname>Montaner</surname><given-names>B</given-names></name><etal/></person-group><year>2004</year><article-title>Mitochondria-mediated apoptosis operating irrespective of
+multidrug resistance in breast cancer cells by the anticancer agent
+prodigiosin</article-title><source>Biochem Pharmacol</source><volume>68</volume><fpage>1345</fpage><lpage>1352</lpage><pub-id pub-id-type="pmid">15345324</pub-id></element-citation></ref><ref id="B29"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wang</surname><given-names>SL</given-names></name><name><surname>Wang</surname><given-names>CY</given-names></name><name><surname>Yen</surname><given-names>YH</given-names></name><etal/></person-group><year>2011</year><article-title>Enhanced production of insecticidal prodigiosin from
+<italic>Serratia marcescens</italic> TKU011 in media containing squid
+pen</article-title><source>Process Biochem</source><volume>47</volume><fpage>1684</fpage><lpage>1690</lpage></element-citation></ref><ref id="B30"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wei</surname><given-names>Y</given-names></name><name><surname>Chen</surname><given-names>WC</given-names></name></person-group><year>2005</year><article-title>Enhanced production of prodigiosin-like pigment from
+<italic>Serratia marcescens</italic> SM&#x00394;R by medium improvement and
+oil-supplementation strategies</article-title><source>J Biosci Bioeng</source><volume>99</volume><fpage>616</fpage><lpage>622</lpage><pub-id pub-id-type="pmid">16233840</pub-id></element-citation></ref><ref id="B31"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Williams</surname><given-names>RP</given-names></name><name><surname>Gott</surname><given-names>CL</given-names></name><name><surname>Qadri</surname><given-names>SMH</given-names></name></person-group><year>1971</year><article-title>Induction of pigmentation in nonproliferating cells of
+<italic>Serratia marcescens</italic> by addition of single amino
+acids</article-title><source>J Bacteriol</source><volume>106</volume><fpage>444</fpage><lpage>448</lpage><pub-id pub-id-type="pmid">4929860</pub-id></element-citation></ref><ref id="B32"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Witney</surname><given-names>FR</given-names></name><name><surname>Failia</surname><given-names>ML</given-names></name><name><surname>Weinberg</surname><given-names>ED</given-names></name></person-group><year>1977</year><article-title>Phosphate inhibition of secondary metabolism in <italic>Serratia
+marcescens</italic>
+</article-title><source>Appl Environ Microbiol</source><volume>33</volume><fpage>1042</fpage><lpage>1046</lpage><pub-id pub-id-type="pmid">18084</pub-id></element-citation></ref></ref-list></back></article>

@@ -1,0 +1,638 @@
+{
+    "Table Data Cell (NISO JATS table model)": {
+        "count": 404332,
+        "charoff": 4466,
+        "colspan": 278273,
+        "style": 7511,
+        "rowspan": 279229,
+        "valign": 191891,
+        "align": 353041,
+        "scope": 20796,
+        "content-type": 4,
+        "char": 35535
+    },
+    "Name of Person": {
+      "include":"True",
+      "count": 252640,
+        "name-style": 10406
+    },
+    "X (cross) Reference": {
+      "include":"True",
+      "count": 181724,
+        "id": 673,
+        "rid": 181724,
+        "ref-type": 181724
+    },
+    "Paragraph": {
+      "include":"True",
+      "count": 132438,
+        "id": 17504,
+        "content-type": 60
+    },
+    "{http://www.w3.org/1998/Math/MathML}mi": {
+        "count": 121402,
+        "mathsize": 2,
+        "mathvariant": 25454
+    },
+    "Italic": {
+        "count": 119641,
+        "toggle": 8
+    },
+    "{http://www.w3.org/1998/Math/MathML}mo": {
+        "count": 104117,
+        "linebreak": 4,
+        "mathvariant": 67,
+        "movablelimits": 445,
+        "rspace": 151,
+        "form": 1,
+        "stretchy": 42749,
+        "minsize": 576,
+        "fence": 7,
+        "lspace": 151,
+        "maxsize": 576
+    },
+    "Superscript": {
+        "count": 103192,
+        "arrange": 88
+    },
+    "Publication Identifier for a Cited Publication": {
+      "include":"True",
+      "count": 101258,
+        "pub-id-type": 101258
+    },
+    "Reference Item": {
+      "include":"True",
+      "count": 90192,
+        "id": 90192
+    },
+    "Source": {
+      "count": 84771,
+        "{http://www.w3.org/XML/1998/namespace}lang": 663
+    },
+    "Table Row (NISO JATS table model)": {
+        "count": 84621,
+        "valign": 106,
+        "style": 1431,
+        "align": 13
+    },
+    "First Page": {
+      "include":"True",
+      "count": 80753,
+        "seq": 22
+    },
+    "Person Group for a Cited Publication": {
+      "count": 65944,
+        "person-group-type": 65779
+    },
+    "Element Citation": {
+      "include":"True",
+      "count": 57034,
+        "id": 3574,
+        "publication-type": 57034
+    },
+    "Section": {
+      "include":"True",
+      "count": 43742,
+        "id": 17485,
+        "sec-type": 6084,
+        "disp-level": 11
+    },
+    "{http://www.w3.org/1998/Math/MathML}mn": {
+        "count": 42119,
+        "mathvariant": 123
+    },
+    "Mixed Citation": {
+      "include":"True",
+      "count": 33643,
+        "id": 2029,
+        "publication-type": 33600
+    },
+    "Table Header Cell (NISO JATS table model)": {
+        "count": 30366,
+        "charoff": 382,
+        "colspan": 19791,
+        "style": 597,
+        "rowspan": 19489,
+        "valign": 11847,
+        "align": 26078,
+        "scope": 7740,
+        "char": 161
+    },
+    "{http://www.w3.org/1998/Math/MathML}math": {
+        "count": 29591,
+        "display": 3543,
+        "alttext": 1,
+        "id": 29591,
+        "altimg": 144,
+        "overflow": 168
+    },
+    "TeX Math Equation": {
+        "count": 29223,
+        "id": 29223
+    },
+    "Formula, Inline": {
+        "count": 26085,
+        "id": 25783
+    },
+    "Graphic, Inline": {
+        "count": 25887,
+        "{http://www.w3.org/1999/xlink}href": 25887,
+        "id": 71,
+        "mimetype": 1,
+        "{http://www.w3.org/1999/xlink}title": 23
+    },
+    "Subscript": {
+        "count": 18161,
+        "arrange": 88
+    },
+    "Contributor": {
+        "count": 14876,
+        "id": 785,
+        "corresp": 1696,
+        "contrib-type": 14876,
+        "equal-contrib": 190
+    },
+    "Table Column (NISO JATS table model)": {
+        "count": 13485,
+        "style": 389,
+        "width": 12021,
+        "valign": 7,
+        "align": 842,
+        "span": 13150,
+        "char": 361
+    },
+    "External Link": {
+        "count": 12196,
+        "{http://www.w3.org/1999/xlink}href": 12196,
+        "{http://www.w3.org/1999/xlink}type": 2,
+        "specific-use": 1,
+        "id": 71,
+        "ext-link-type": 12196
+    },
+    "Graphic": {
+        "count": 10986,
+        "{http://www.w3.org/1999/xlink}href": 10986,
+        "position": 3759,
+        "orientation": 82,
+        "id": 3786,
+        "mimetype": 10
+    },
+    "Article Identifier": {
+      "include":"True",
+      "count": 10319,
+        "pub-id-type": 10319
+    },
+    "{http://www.w3.org/1998/Math/MathML}mtd": {
+        "count": 9273,
+        "columnalign": 6542
+    },
+    "Affiliation": {
+      "include":"True",
+      "count": 8427,
+        "id": 7673
+    },
+    "Footnote": {
+      "include":"True",
+      "count": 8336,
+        "id": 4968,
+        "fn-type": 2506
+    },
+    "Keyword": {
+      "include":"True",
+      "count": 7589,
+        "id": 190
+    },
+    "Journal Identifier": {
+      "include":"True",
+      "count": 7577,
+        "journal-id-type": 7577
+    },
+    "Figure": {
+        "count": 7229,
+        "position": 3062,
+        "fig-type": 1370,
+        "specific-use": 37,
+        "orientation": 2630,
+        "id": 7229,
+        "{http://www.w3.org/XML/1998/namespace}lang": 119
+    },
+    "Publication Date": {
+      "include":"True",
+      "count": 6536,
+        "iso-8601-date": 19,
+        "pub-type": 6536
+    },
+    "{http://www.w3.org/1998/Math/MathML}mspace": {
+        "count": 6390,
+        "width": 6390
+    },
+    "List Item": {
+        "count": 6355,
+        "id": 234
+    },
+    "Table (NISO JATS table model)": {
+      "include":"True",
+      "count": 5515,
+        "rules": 5515,
+        "style": 160,
+        "border": 76,
+        "frame": 5515,
+        "content-type": 15
+    },
+    "Table Body (NISO JATS table model)": {
+        "count": 5515,
+        "valign": 76,
+        "align": 21
+    },
+    "Table Wrapper": {
+        "count": 5491,
+        "position": 3758,
+        "specific-use": 86,
+        "orientation": 3028,
+        "id": 5491,
+        "{http://www.w3.org/XML/1998/namespace}lang": 66
+    },
+    "Table Header (NISO JATS table model)": {
+        "count": 5403,
+        "valign": 220,
+        "align": 21
+    },
+    "ISSN": {
+      "include":"True",
+      "count": 5285,
+        "pub-type": 5285
+    },
+    "{http://www.w3.org/1998/Math/MathML}mtext": {
+        "count": 5143,
+        "mathvariant": 177
+    },
+    "Date": {
+      "include":"True",
+      "count": 5120,
+        "date-type": 5117
+    },
+    "{http://www.w3.org/1998/Math/MathML}mtr": {
+        "count": 5085,
+        "columnalign": 20
+    },
+    "{http://www.w3.org/1998/Math/MathML}mfrac": {
+        "count": 4559,
+        "linethickness": 68
+    },
+    "Institution Name: in an Address": {
+        "count": 4530,
+        "content-type": 262
+    },
+    "{http://www.w3.org/1998/Math/MathML}mover": {
+        "count": 4065,
+        "accent": 3779
+    },
+    "{http://www.w3.org/1998/Math/MathML}mfenced": {
+        "count": 3912,
+        "separators": 1743,
+        "close": 3814,
+        "open": 3865
+    },
+    "Formula, Display": {
+        "count": 3730,
+        "id": 3694
+    },
+    "Email Address": {
+        "count": 3681,
+        "{http://www.w3.org/1999/xlink}href": 698
+    },
+    "Table Wrapper Footer": {
+        "count": 3489,
+        "id": 1
+    },
+    "Country: in an Address": {
+        "count": 3412,
+        "country": 224
+    },
+    "{http://www.w3.org/1998/Math/MathML}mtable": {
+        "count": 3387,
+        "displaystyle": 22,
+        "columnalign": 6,
+        "align": 1,
+        "columnspacing": 957
+    },
+    "Contributor Group": {
+      "count": 3134,
+        "content-type": 2
+    },
+    "Subject Group": {
+      "count": 2976,
+        "subj-group-type": 2969
+    },
+    "Collaborative (Group) Author": {
+      "count": 2974,
+        "collab-type": 59
+    },
+    "Body of the Document": {
+        "count": 2810,
+        "id": 1
+    },
+    "License Information": {
+      "include":"True",
+      "count": 2797,
+        "{http://www.w3.org/1999/xlink}href": 802,
+        "license-type": 2751
+    },
+    "Article": {
+      "include":"True",
+      "count": 2789,
+        "article-type": 2789,
+        "{http://www.w3.org/XML/1998/namespace}lang": 25
+    },
+    "Styled Special (Subject) Content": {
+      "count": 2640,
+        "style-type": 1218,
+        "style": 2640
+    },
+    "Reference List (Bibliographic)": {
+      "include":"True",
+      "count": 2449,
+        "id": 840,
+        "content-type": 40
+    },
+    "Copyright Statement": {
+      "include":"True",
+      "count": 2319,
+        "content-type": 41
+    },
+    "Abstract": {
+        "count": 2311,
+        "id": 875,
+        "abstract-type": 231
+    },
+    "Role or Function Title of Contributor": {
+      "include":"True",
+      "count": 2286,
+        "content-type": 230
+    },
+    "Translated Abstract": {
+        "count": 2142,
+        "{http://www.w3.org/XML/1998/namespace}lang": 2142
+    },
+    "Translated Title Group": {
+        "count": 2136,
+        "{http://www.w3.org/XML/1998/namespace}lang": 2136
+    },
+    "Translated Title": {
+      "include":"True",
+      "count": 2136,
+        "{http://www.w3.org/XML/1998/namespace}lang": 2136
+    },
+    "Institution Identifier": {
+      "include":"True",
+      "count": 2133,
+        "institution-id-type": 2125
+    },
+    "Address Line": {
+      "include":"True",
+      "count": 1788,
+        "content-type": 400
+    },
+    "Footnote Group": {
+        "count": 1773,
+        "id": 8,
+        "content-type": 6
+    },
+    "Table Column Group (NISO JATS table model)": {
+        "count": 1651,
+        "width": 60,
+        "span": 1575
+    },
+    "List": {
+        "count": 1625,
+        "id": 344,
+        "list-type": 1625
+    },
+    "citation": {
+      "include":"True",
+      "count": 1618,
+        "id": 949,
+        "citation-type": 1618
+    },
+    "Correspondence Information": {
+      "count": 1611,
+        "id": 1368
+    },
+    "Keyword Group": {
+      "count": 1589,
+        "id": 31,
+        "kwd-group-type": 92,
+        "{http://www.w3.org/XML/1998/namespace}lang": 684
+    },
+    "Definition List: Term": {
+        "count": 1558,
+        "id": 21
+    },
+    "Acknowledgments ": {
+      "include":"True",
+      "count": 1488,
+        "id": 96
+    },
+    "Alternate Title": {
+      "include":"True",
+      "count": 1197,
+        "alt-title-type": 1197
+    },
+    "Funding Source": {
+      "include":"True",
+      "count": 1177,
+        "id": 241,
+        "rid": 5
+    },
+    "Quote, Displayed": {
+        "count": 1174,
+        "content-type": 5
+    },
+    "Boxed Text": {
+      "include":"True",
+      "count": 1033,
+        "position": 1022,
+        "specific-use": 8,
+        "orientation": 829,
+        "id": 653,
+        "content-type": 226
+    },
+    "Notes": {
+      "count": 897,
+        "id": 12,
+        "notes-type": 631
+    },
+    "Award Group": {
+        "count": 861,
+        "id": 112,
+        "award-type": 36
+    },
+    "Award Identifier": {
+      "include":"True",
+      "count": 713,
+        "id": 6,
+        "rid": 6
+    },
+    "{http://www.w3.org/1998/Math/MathML}mstyle": {
+        "count": 685,
+        "mathsize": 103,
+        "displaystyle": 580,
+        "scriptlevel": 569
+    },
+    "Funding Group": {
+      "count": 672,
+        "specific-use": 10
+    },
+    "Supplementary Material Metadata": {
+      "include":"True",
+      "count": 664,
+        "id": 636,
+        "content-type": 664
+    },
+    "Media Object": {
+      "include":"True",
+      "count": 618,
+        "{http://www.w3.org/1999/xlink}href": 618,
+        "position": 50,
+        "{http://www.w3.org/1999/xlink}type": 38,
+        "orientation": 2,
+        "id": 55,
+        "mimetype": 54,
+        "{http://www.w3.org/1999/xlink}role": 7,
+        "mime-subtype": 54
+    },
+    "{http://www.w3.org/1998/Math/MathML}munder": {
+        "count": 589,
+        "accentunder": 19
+    },
+    "Named Special (Subject) Content": {
+      "count": 495,
+        "content-type": 495
+    },
+    "Contributor Identifier": {
+      "include":"True",
+      "count": 489,
+        "contrib-id-type": 489,
+        "authenticated": 188
+    },
+    "Appendix": {
+      "include":"True",
+      "count": 197,
+        "id": 195
+    },
+    "Alternate Text Name (for a figure, etc.)": {
+        "count": 194,
+        "id": 163
+    },
+    "Date within a Citation": {
+      "include":"True",
+      "count": 173,
+        "content-type": 138
+    },
+    "URI for This Same Article Online": {
+      "include":"True",
+      "count": 166,
+        "{http://www.w3.org/1999/xlink}href": 166,
+        "{http://www.w3.org/1999/xlink}type": 51,
+        "{http://www.w3.org/1999/xlink}title": 92,
+        "content-type": 48
+    },
+    "Underline": {
+        "count": 155,
+        "underline-style": 14
+    },
+    "Biography": {
+        "count": 153,
+        "id": 153
+    },
+    "Page Count": {
+      "include":"True",
+      "count": 125
+    },
+    "Object Identifier": {
+      "include":"True",
+      "count": 112,
+        "pub-id-type": 112
+    },
+    "Uniform Resource Identifier (URI)": {
+      "include":"True",
+      "count": 88,
+        "{http://www.w3.org/1999/xlink}href": 85,
+        "{http://www.w3.org/1999/xlink}type": 9,
+        "content-type": 2
+    },
+    "Inline Supplementary Material Metadata": {
+      "count": 73,
+        "{http://www.w3.org/1999/xlink}href": 73,
+        "{http://www.w3.org/1999/xlink}type": 1,
+        "id": 73,
+        "mimetype": 73,
+        "mime-subtype": 72,
+        "content-type": 73
+    },
+    "fig-count": {
+        "count": 63
+    },
+    "Table Count": {
+        "count": 63
+    },
+    "Related Article Information": {
+        "count": 48,
+        "{http://www.w3.org/1999/xlink}href": 48,
+        "issue": 12,
+        "related-article-type": 48,
+        "id": 48,
+        "vol": 23,
+        "page": 23,
+        "journal-id": 11,
+        "ext-link-type": 48
+    },
+    "Size": {
+      "include":"True",
+      "count": 45,
+        "units": 45
+    },
+    "Issue Identifier": {
+      "include":"True",
+      "count": 41,
+        "pub-id-type": 41
+    },
+    "Equation Count": {
+        "count": 40
+    },
+    "Reference Count": {
+        "count": 40
+    },
+    "Word Count": {
+        "count": 26
+    },
+    "Issue Title": {
+      "include":"True",
+      "count": 24,
+        "content-type": 1
+    },
+    "Sub-article": {
+        "count": 21,
+        "id": 21,
+        "article-type": 21
+    },
+    "Author Comment": {
+        "count": 10,
+        "content-type": 10
+    },
+    "Table Wrapper Group": {
+        "count": 3,
+        "id": 3,
+        "position": 3,
+        "orientation": 3
+    },
+    "Statement, Formal": {
+        "count": 3,
+        "id": 3
+    },
+    "Conference Information": {
+      "include":"True",
+      "count": 1,
+        "{http://www.w3.org/1999/xlink}href": 1
+    }
+}

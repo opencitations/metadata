@@ -1,0 +1,810 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Br J Haematol</journal-id><journal-id journal-id-type="iso-abbrev">Br. J. Haematol</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1365-2141</journal-id><journal-id journal-id-type="publisher-id">BJH</journal-id><journal-title-group><journal-title>British Journal of Haematology</journal-title></journal-title-group><issn pub-type="ppub">0007-1048</issn><issn pub-type="epub">1365-2141</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">26310606</article-id><article-id pub-id-type="pmc">4833193</article-id><article-id pub-id-type="doi">10.1111/bjh.13647</article-id><article-id pub-id-type="publisher-id">BJH13647</article-id><article-categories><subj-group subj-group-type="overline"><subject>Research Paper</subject></subj-group><subj-group subj-group-type="heading"><subject>Paediatrics</subject></subj-group></article-categories><title-group><article-title>Quantitative proteomic analysis reveals maturation as a mechanism underlying glucocorticoid resistance in B lineage <styled-content style="fixed-case">ALL</styled-content> and re&#x02010;sensitization by <styled-content style="fixed-case">JNK</styled-content> inhibition</article-title><alt-title alt-title-type="left-running-head">L. Nicholson <italic>et&#x000a0;al</italic></alt-title></title-group><contrib-group><contrib id="bjh13647-cr-0001" contrib-type="author"><name><surname>Nicholson</surname><given-names>Lindsay</given-names></name><xref ref-type="aff" rid="bjh13647-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="bjh13647-cr-0002" contrib-type="author"><name><surname>Evans</surname><given-names>Caroline A.</given-names></name><xref ref-type="aff" rid="bjh13647-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="bjh13647-cr-0003" contrib-type="author"><name><surname>Matheson</surname><given-names>Elizabeth</given-names></name><xref ref-type="aff" rid="bjh13647-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="bjh13647-cr-0004" contrib-type="author"><name><surname>Minto</surname><given-names>Lynne</given-names></name><xref ref-type="aff" rid="bjh13647-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="bjh13647-cr-0005" contrib-type="author"><name><surname>Keilty</surname><given-names>Christopher</given-names></name><xref ref-type="aff" rid="bjh13647-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="bjh13647-cr-0006" contrib-type="author"><name><surname>Sanichar</surname><given-names>Maryna</given-names></name><xref ref-type="aff" rid="bjh13647-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="bjh13647-cr-0007" contrib-type="author"><name><surname>Case</surname><given-names>Marian</given-names></name><xref ref-type="aff" rid="bjh13647-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="bjh13647-cr-0008" contrib-type="author"><name><surname>Schwab</surname><given-names>Claire</given-names></name><xref ref-type="aff" rid="bjh13647-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="bjh13647-cr-0009" contrib-type="author"><name><surname>Williamson</surname><given-names>Daniel</given-names></name><xref ref-type="aff" rid="bjh13647-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="bjh13647-cr-0010" contrib-type="author"><name><surname>Rainer</surname><given-names>Johannes</given-names></name><xref ref-type="aff" rid="bjh13647-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="bjh13647-cr-0011" contrib-type="author"><name><surname>Harrison</surname><given-names>Christine J.</given-names></name><xref ref-type="aff" rid="bjh13647-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="bjh13647-cr-0012" contrib-type="author"><name><surname>Kofler</surname><given-names>Reinhard</given-names></name><xref ref-type="aff" rid="bjh13647-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="bjh13647-cr-0013" contrib-type="author"><name><surname>Hall</surname><given-names>Andrew G.</given-names></name><xref ref-type="aff" rid="bjh13647-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="bjh13647-cr-0014" contrib-type="author"><name><surname>Redfern</surname><given-names>Christopher P. F.</given-names></name><xref ref-type="aff" rid="bjh13647-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="bjh13647-cr-0015" contrib-type="author"><name><surname>Whetton</surname><given-names>Anthony D.</given-names></name><xref ref-type="aff" rid="bjh13647-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="bjh13647-cr-0016" contrib-type="author" corresp="yes"><name><surname>Irving</surname><given-names>Julie A. E.</given-names></name><xref ref-type="aff" rid="bjh13647-aff-0001">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="bjh13647-aff-0001"><label><sup>1</sup></label><named-content content-type="organisation-division">Newcastle Cancer Centre at the Northern Institute for Cancer Research</named-content><institution>Newcastle University</institution><named-content content-type="city">Newcastle upon Tyne</named-content><country country="GB">UK</country></aff><aff id="bjh13647-aff-0002"><label><sup>2</sup></label><named-content content-type="organisation-division">Stem Cell and Leukaemia Proteomics Laboratory</named-content><named-content content-type="organisation-division">School of Cancer and Enabling Sciences</named-content><institution>Manchester Academic Health Science Centre</institution><institution>University of Manchester</institution><named-content content-type="city">Manchester</named-content><country country="GB">UK</country></aff><aff id="bjh13647-aff-0003"><label><sup>3</sup></label><institution>Tyrolean Cancer Research Institute</institution><named-content content-type="city">Innsbruck</named-content><country country="AT">Austria</country></aff><author-notes><corresp id="correspondenceTo"><label>*</label>
+Correspondence: Dr Julie Irving, Northern Institute for Cancer Research, Paul O'Gorman building, Framlington Place, Newcastle upon Tyne, Tyne and Wear NE2 4HH, UK.<break/>
+E&#x02010;mail: <email>j.a.e.irving@ncl.ac.uk</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>27</day><month>8</month><year>2015</year></pub-date><pub-date pub-type="ppub"><month>11</month><year>2015</year></pub-date><volume>171</volume><issue>4</issue><issue-id pub-id-type="doi">10.1111/bjh.2015.171.issue-4</issue-id><fpage>595</fpage><lpage>605</lpage><history><date date-type="received"><day>24</day><month>2</month><year>2015</year></date><date date-type="accepted"><day>01</day><month>7</month><year>2015</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> Copyright &#x000a9; 2015 John Wiley & Sons Ltd. <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2015 The Authors. <italic>British Journal of Haematology</italic> published by John Wiley &#x00026; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:BJH-171-595.pdf"/><abstract id="bjh13647-abs-0001"><title>Summary</title><p>Glucocorticoid (<styled-content style="fixed-case">GC</styled-content>) resistance is a continuing clinical problem in childhood acute lymphoblastic leukaemia (<styled-content style="fixed-case">ALL</styled-content>) but the underlying mechanisms remain unclear. A proteomic approach was used to compare profiles of the B&#x02010;lineage <styled-content style="fixed-case">ALL GC</styled-content>&#x02010;sensitive cell line, PreB 697, and its <styled-content style="fixed-case">GC</styled-content>&#x02010;resistant sub&#x02010;line, R3F9, pre&#x02010; and post&#x02010;dexamethasone exposure. <styled-content style="fixed-case">PAX</styled-content>5, a transcription factor critical to B&#x02010;cell development was differentially regulated in the PreB 697 compared to the R3F9 cell line in response to <styled-content style="fixed-case">GC</styled-content>. <styled-content style="fixed-case">PAX</styled-content>5 basal protein expression was less in R3F9 compared to its <styled-content style="fixed-case">GC</styled-content>&#x02010;sensitive parent and confirmed to be lower in other <styled-content style="fixed-case">GC</styled-content>&#x02010;resistant sub&#x02010;lines of Pre B 697 and was associated with a decreased expression of the <styled-content style="fixed-case">PAX</styled-content>5 transcriptional target, <styled-content style="fixed-case">CD</styled-content>19. Gene set enrichment analysis showed that increasing <styled-content style="fixed-case">GC</styled-content>&#x02010;resistance was associated with differentiation from preB&#x02010;<styled-content style="fixed-case">II</styled-content> to an immature B&#x02010;lymphocyte stage. <styled-content style="fixed-case">GC</styled-content>&#x02010;resistant sub&#x02010;lines were shown to have higher levels of phosphorylated <styled-content style="fixed-case">JNK</styled-content> compared to the parent line and <styled-content style="fixed-case">JNK</styled-content> inhibition caused re&#x02010;sensitization to <styled-content style="fixed-case">GC</styled-content>. Exploiting this maturation may be key to overcoming <styled-content style="fixed-case">GC</styled-content> resistance and targeting signalling pathways linked to the maturation state, such as <styled-content style="fixed-case">JNK</styled-content>, may be a novel approach.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="bjh13647-kwd-0001"><styled-content style="fixed-case">iTRAQ</styled-content> proteomics</kwd><kwd id="bjh13647-kwd-0002">glucocorticoid resistance</kwd><kwd id="bjh13647-kwd-0003">childhood acute lymphoblastic leukaemia</kwd><kwd id="bjh13647-kwd-0004">B cell differentiation</kwd><kwd id="bjh13647-kwd-0005"><styled-content style="fixed-case">JNK</styled-content> signalling</kwd></kwd-group><funding-group><award-group><funding-source>Leukaemia and Lymphoma Research</funding-source></award-group></funding-group><counts><page-count count="11"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>bjh13647</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>November 2015</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:4.9.1 mode:remove_FC converted:23.06.2016</meta-value></custom-meta></custom-meta-group></article-meta></front><body><p>Acute lymphoblastic leukaemia (ALL) is the most common cancer in children and is characterized by the clonal expansion of poorly differentiated lymphoid precursors within the bone marrow. The treatment of ALL is a highly complex protocol comprising several chemotherapeutic agents, of which glucocorticoids (GCs) are integral due to their ability to specifically induce apoptosis in immature lymphoid cells (Gaynon &#x00026; Carrel, <xref rid="bjh13647-bib-0009" ref-type="ref">1999</xref>). These effects are mediated by the glucocorticoid receptor (GR, encoded by NR3C1), a ligand&#x02010;activated transcription factor belonging to the nuclear receptor superfamily. Once bound to ligand, the GR translocates to the nucleus where it mediates GC&#x02010;induced cell death by transactivation or transrepression of target genes.</p><p>Although current chemotherapy protocols successfully cure most childhood ALL cases, treatment still fails approximately 15% (Pui <italic>et&#x000a0;al</italic>, <xref rid="bjh13647-bib-0031" ref-type="ref">2012</xref>). This treatment failure can often be attributed to the development of chemotherapy resistance and response to GCs <italic>in&#x000a0;vitro</italic> and <italic>in&#x000a0;vivo</italic> has been shown to be one of the most significant prognostic indicators of event outcome (Riehm <italic>et&#x000a0;al</italic>, <xref rid="bjh13647-bib-0035" ref-type="ref">1987</xref>; Reiter <italic>et&#x000a0;al</italic>, <xref rid="bjh13647-bib-0033" ref-type="ref">1994</xref>; Schrappe <italic>et&#x000a0;al</italic>, <xref rid="bjh13647-bib-0038" ref-type="ref">2000</xref>). GC&#x02010;resistance is a well&#x02010;documented feature of relapse, with leukaemic cells being up to 300&#x02010;fold more resistant to GC <italic>in&#x000a0;vitro</italic> compared to those at diagnosis (Klumper <italic>et&#x000a0;al</italic>, <xref rid="bjh13647-bib-0015" ref-type="ref">1995</xref>; Kaspers <italic>et&#x000a0;al</italic>, <xref rid="bjh13647-bib-0014" ref-type="ref">2005</xref>). Furthermore, leukaemic cells from high&#x02010;risk groups, such as T&#x02010;ALL, infant ALL and adult ALL, are more resistant to GCs <italic>in&#x000a0;vitro</italic> (Maung <italic>et&#x000a0;al</italic>, <xref rid="bjh13647-bib-0021" ref-type="ref">1995</xref>; Pieters <italic>et&#x000a0;al</italic>, <xref rid="bjh13647-bib-0029" ref-type="ref">1998</xref>). However, despite their important role of GC in all ALL treatment protocols, the mechanisms underlying GC resistance are poorly understood and remain a continuing clinical problem.</p><p>In most <italic>in&#x000a0;vitro</italic> cell line models of childhood ALL, such as Jurkat and CCRF&#x02010;CEM, a common cause of GC&#x02010;therapy resistance is mutation/deletion of the <italic>NR3C1</italic> gene (encoding GR), causing impaired receptor function (Powers <italic>et&#x000a0;al</italic>, <xref rid="bjh13647-bib-0030" ref-type="ref">1993</xref>; Hala <italic>et&#x000a0;al</italic>, <xref rid="bjh13647-bib-0010" ref-type="ref">1996</xref>; Schmidt <italic>et&#x000a0;al</italic>, <xref rid="bjh13647-bib-0037" ref-type="ref">2006</xref>). However, acquired somatic mutations or deletions of the <italic>NR3C1</italic> rarely occur in primary samples and thus, cannot account for most cases of GC&#x02010;insensitivity (Irving <italic>et&#x000a0;al</italic>, <xref rid="bjh13647-bib-0013" ref-type="ref">2005</xref>; Tissing <italic>et&#x000a0;al</italic>, <xref rid="bjh13647-bib-0040" ref-type="ref">2005</xref>; Kuster <italic>et&#x000a0;al</italic>, <xref rid="bjh13647-bib-0016" ref-type="ref">2011</xref>). Therefore, this opens up the possibility that understanding the mechanisms underlying GC&#x02010;resistance may allow its pharmacological reversal and improve outcome. Microarray analyses comparing gene expression profiles of GC&#x02010;sensitive &#x02018;<italic>versus</italic>&#x02019; GC&#x02010;resistant cell lines and primary ALL samples have yielded important, yet limited, information of the pathways leading to this drug insensitivity. A review by Schmidt <italic>et&#x000a0;al</italic> (<xref rid="bjh13647-bib-0036" ref-type="ref">2004</xref>) reported that although 900 different genes were identified as GC&#x02010;regulated, only 70 genes were reproduced in more than one publication. This suggests that RNA&#x02010;based methods may be limiting and there is growing evidence that levels of mRNA transcripts do not necessarily reflect protein amounts (Unwin <italic>et&#x000a0;al</italic>, <xref rid="bjh13647-bib-0042" ref-type="ref">2006</xref>).</p><p>Proteomic technologies are rapidly emerging as useful tools to gain insight into complex biological systems at the level of protein expression. One discovery proteomic approach uses isobaric Tags for Relative and Absolute Quantification (iTRAQ proteomics), coupled with two&#x02010;dimensional liquid chromatography/tandem mass spectrometry (LC&#x02010;LCMS/MS). The iTRAQ method relies on differentially labelling peptides from individual proteolytic digests by covalent binding of isobaric tags and allows identification and quantification of peptides in multiple samples in a single experiment (Unwin <italic>et&#x000a0;al</italic>, <xref rid="bjh13647-bib-0041" ref-type="ref">2005</xref>). Using this methodology, we compared a well&#x02010;characterized GC&#x02010;sensitive cell line, PreB 697, and a GC&#x02010;resistant sub&#x02010;clone (R3F9) in response to 24&#x02010;h exposure to a pharmacologically&#x02010;relevant dose of dexamethasone (0&#x000b7;1&#x000a0;&#x003bc;mol/l). We have previously shown that both cell lines recapitulate several features of GC&#x02010;resistant primary samples, including having two wild type <italic>NR3C1</italic> alleles<italic>,</italic> expressing equivalent levels of GR protein and undergoing GR nuclear translocation in response to Dex but with reduced induction of GR target genes in the resistant subline (Nicholson <italic>et&#x000a0;al</italic>, <xref rid="bjh13647-bib-0027" ref-type="ref">2010</xref>). We report that the critical mediator of B&#x02010;cell lineage commitment, PAX5, is differentially expressed between GC&#x02010;sensitive and GC&#x02010;resistant clones and is associated with maturation, JNK activation and that re&#x02010;sensitization to GC can be achieved by JNK inhibition.</p><sec id="bjh13647-sec-0002"><title>Materials and methods</title><sec id="bjh13647-sec-0003"><title>Cell lines</title><p>The PreB lineage childhood ALL cell line PreB 697 (recently re&#x02010;named EU&#x02010;3 by the original author (Zhou <italic>et&#x000a0;al</italic>, <xref rid="bjh13647-bib-0044" ref-type="ref">2002</xref>) and also referred to as &#x02018;697&#x02019; in cell line repositories) and its GC&#x02010;resistant descendents, R3C3, R3G7, R3F9, R4C10 and R3D11, were created by continuous culture in 10<sup>&#x02212;7</sup>mol/l dexamethasone for 3&#x02013;4&#x000a0;weeks (Schmidt <italic>et&#x000a0;al</italic>, <xref rid="bjh13647-bib-0037" ref-type="ref">2006</xref>). Dexamethasone GI<sub>50</sub> values (i.e. the dexamethasone concentration that results in 50% of maximal inhibition of cell proliferation) at 96&#x000a0;h, as measured by MTS (3&#x02010;(4,5&#x02010;dimethylthiazol&#x02010;2&#x02010;yl)&#x02010;5&#x02010;(3&#x02010;carboxymethoxyphenyl)&#x02010;2&#x02010;(4&#x02010;sulfophenyl)&#x02010;2H&#x02010;tetrazolium) assay, are 37&#x000a0;nmol/l (PreB 697), 86&#x000a0;nmol/l (R3C3), 1&#x000b7;32&#x000a0;&#x003bc;mol/l (R3G7), 1&#x000b7;43 &#x003bc;mol/l (R4C10) and &#x0003e;10&#x000a0;&#x003bc;mol/l (R3F9, R3D11). Other cell lines were obtained from European Collection of Cell Cultures (Salisbury, UK) or the American Tissue Culture Collection (Manassas, VA, USA) and all were cultured in RPMI 1640 medium (Invitrogen, Paisley, UK) supplemented with 10% (v/v) foetal bovine serum (Invitrogen) at 37&#x000b0;C and 5% (v/v) carbon dioxide. All cell lines were routinely tested for mycoplasma contamination using MycoAlert<sup>&#x000ae;</sup> (Lonza, Basel, Switzerland).</p></sec><sec id="bjh13647-sec-0004"><title>Proteomics methods</title><p>Detailed proteomic methods are shown in the supplementary material.</p></sec><sec id="bjh13647-sec-0005"><title>Western blotting</title><p>Whole cell lysates were prepared using cell lysis buffer (50&#x000a0;mmol/l Tris&#x02010;HCl, pH 7&#x000b7;5, 150&#x000a0;mmol/l NaCl, 1% Triton X&#x02010;100, 0&#x000b7;5% Na&#x02010;deoxycholate, 0&#x000b7;1% sodium dodecyl sulphate) supplemented with protease inhibitor cocktail (Roche, West Sussex, UK). Antibodies to detect PAX5 (E&#x02010;9) (Santa Cruz Biotechnology, Santa Cruz, CA, USA), &#x003b1;&#x02010;Tubulin (Sigma&#x02010;Aldrich), IRF4, phospho&#x02010;SAPK/JNK (Thr183/Tyr185), SAPK/JNK (all Cell Signaling Technology, Danvers, MA, USA) were used. Secondary antibodies used were horseradish peroxidase conjugates of either anti&#x02010;rabbit or anti&#x02010;mouse IgG (both Dako, Glostrup, Denmark). Quantification was carried out by imaging the enhanced chemiluminescence (ECL)&#x02010;plus exposed polyvinylidene difluoride membranes using the Fuji LAS&#x02010;3000 Luminescent Image Analyser System (Fujifilm, Tokyo, Japan) and analysing the intensity of the protein bands using an Automatic Image Data Analysis (AIDA) software image analysis program (Fujifilm). PAX5 basal protein levels in the cell lines were calculated by dividing the intensity of the PAX5 protein band by the intensity of the loading control, &#x003b1;&#x02010;tubulin, band, thereby normalizing for any loading inaccuracies.</p></sec><sec id="bjh13647-sec-0006"><title>Real&#x02010;time polymerase chain reaction (PCR)</title><p>Briefly, total RNA was extracted from cell pellets using the Qiagen RNeasy Mini kit (Qiagen, Crawley, UK) and cDNA synthesis was carried out using the Applied Biosystem High&#x02010;Capacity cDNA Reverse Transcriptase kit according to the manufacturer's instructions. Primers and probes for <italic>PAX5</italic> (Hs00277134_m1) and TATA&#x02010;binding protein (<italic>TBP</italic>) were purchased from Assays&#x02010;On&#x02010;Demand (Applied Biosystems, Warrington, UK). Samples were assayed in duplicate on three independent occasions with the ABI 7500 Fast Real&#x02010;Time PCR System (Applied Biosystems) using the TaqMan<sup>&#x000ae;</sup>universal PCR MasterMix (Applied Biosystems). To quantify mRNA levels the 2<sup>&#x02212;&#x00394;CT</sup> or 2<sup>&#x02212;&#x00394;&#x00394;CT</sup> method was used with <italic>TBP</italic> as the endogenous control, as indicated.</p></sec><sec id="bjh13647-sec-0007"><title>
+<italic>PAX5</italic> copy number analysis with quantitative genomic PCR</title><p>This assay was performed as described in An <italic>et&#x000a0;al</italic> (<xref rid="bjh13647-bib-0001" ref-type="ref">2008</xref>) with <italic>ATP10A</italic> as the control gene. Briefly, 5&#x02010;point standard curves ranging from 150&#x000a0;ng to 1&#x000a0;ng/reaction were constructed using normal human genomic DNA and amplified for the 3 target <italic>PAX5</italic> exons (exons 3, 6, and 8) and control <italic>ATP10</italic> gene. Assays were performed in duplicate with 50&#x000a0;ng of genomic DNA from each cell line per 20&#x000a0;&#x003bc;l reaction, using an ABI 7500 Fast Real&#x02010;Time PCR System (Applied Biosystems). <italic>PAX5</italic> gene dosage for each exon was calculated by dividing the value obtained for <italic>PAX5</italic> by the corresponding value for <italic>ATP10A</italic>.</p></sec><sec id="bjh13647-sec-0008"><title>Mutational screening</title><p>
+<italic>PAX5</italic> exons 2&#x02010;10 were mutationally screened by direct DNA sequencing. Briefly, genomic DNA was extracted from cell lines using the Qiagen Mini kit (Qiagen) and amplified by PCR. Primer sequences and annealing temperatures are shown in Table&#x000a0;SI. DNA sequencing was performed by purifying 100&#x000a0;&#x003bc;l of PCR product using a QIAquick PCR Purification kit (Qiagen) with a final elution volume of 30&#x000a0;&#x003bc;l and then sequenced using both forward and reverse primers with the ABI Version 3 BigDye Terminator Cycle Sequencing kit and analysed on an ABI Prism DNA sequencer (Applied Biosystems).</p></sec><sec id="bjh13647-sec-0009"><title>Multiplex ligation&#x02010;dependent probe amplification (MLPA)</title><p>Cell line DNA was analysed using the SALSA MLPA kit P335&#x02010;A2 (MRC Holland, Amsterdam, Netherlands) as described previously (Schwab <italic>et&#x000a0;al</italic>, <xref rid="bjh13647-bib-0039" ref-type="ref">2010</xref>). Relative copy number was obtained after normalization of peaks against known normal control samples extracted by the same method. Values between 0&#x000b7;75 and 1&#x000b7;3 were considered to be within the normal range. Values below 0&#x000b7;75 or above 1&#x000b7;3 indicated loss or gain, respectively. A value below 0&#x000b7;25 indicated biallelic loss. These values correspond to copy numbers of 1, 3+ or 0, respectively, with 2 being the normal copy number.</p></sec><sec id="bjh13647-sec-0010"><title>
+<italic>In vitro</italic> drug sensitivity</title><p>Cells were plated out in triplicate at 2&#x000a0;&#x000d7;&#x000a0;10<sup>5</sup>&#x000a0;cells/ml into 96&#x02010;well plates and treated with dexamethasone to a range of final concentrations, as indicated, either alone, or in combination with 5&#x000a0;&#x003bc;mol/l JNK inhibitor, SP600125 (Selleckchem, distributed via Stratech Scientific Ltd, Suffolk, UK) or 2&#x02010;5&#x000a0;nmol/l Bortezomib (Selleckchem). Following a 96&#x02010;h drug exposure, cytotoxicity was assessed using the CellTiter 96 Aqueous One kit (Promega, Southampton, UK), also known as MTS assay, which assesses the capacity of cells to reduce formazan and thus is a measure of metabolically active cells. The resulting absorbances were averaged and expressed as a percentage of the control vehicle. Survival curves were plotted using GraphPad Prism software (GraphPad software Inc., San Diego, CA, USA). Drug interactions were assessed using the Chou&#x02010;Talalay method, which is based on the median effect equation (Chou &#x00026; Talalay, <xref rid="bjh13647-bib-0005" ref-type="ref">1984</xref>).</p></sec><sec id="bjh13647-sec-0011"><title>Flow cytometry</title><p>Cell surface CD antigen expression: Cells were stained with directly conjugated antibodies to CD19&#x02010;allophycocyanin (APC) and CD10&#x02010;phycoerythrin (PE) or the corresponding isotype control. Ten thousand events for each sample were acquired using a FACSCalibur flow cytometer (BD Biosciences, Oxford, UK) and analysed using CellQuest software (BD Biosciences) on three independent occasions.</p><sec id="bjh13647-sec-0012"><title>Annexin V assays for apoptosis</title><p>Cells were stained with Annexin V (Abcam, Cambridge, UK) and evaluated for apoptosis by flow cytometry following the manufacturer's protocol. Ten thousand events for each sample were acquired using a FACSCalibur flow cytometer (BD Biosciences) and analysed using CellQuest software (BD Biosciences).</p></sec></sec><sec id="bjh13647-sec-0013"><title>Exon array and gene set enrichment analysis (GSEA)</title><p>Total RNA was harvested and extracted using the Qiagen RNeasy Mini kit according to the manufacturer's intructions and subjected to expression profiling using Affymetrix Human Exon 1.0 ST GeneChips (Affymetrix, Santa Clara, CA, USA). Exon microarray hybridization and pre&#x02010;processing was carried out as previously described (Rainer <italic>et&#x000a0;al</italic>, <xref rid="bjh13647-bib-0032" ref-type="ref">2012</xref>). Raw and pre&#x02010;processed microarray data has been deposited in Gene Expression Omnibus, accession number GSE63335. GSEA was performed using the standalone application (Broad Institute, Cambridge, MA, USA) and MSIGDB library C2.v3.1 (<ext-link ext-link-type="uri" xlink:href="http://www.broadinstitute.org/gsea/msigdb/index.jsp">http://www.broadinstitute.org/gsea/msigdb/index.jsp</ext-link>). Genes were pre&#x02010;ranked according to their Pearson correlation with 50% inhibitory concentration (IC<sub>50</sub>) values for individual PreB 697 cell lines.</p></sec><sec id="bjh13647-sec-0014"><title>Statistical analysis</title><p>Graph plotting and statistical analyses were performed using GraphPad Prism version 4 (GraphPad software Inc.). Each experiment was repeated at least three times, unless indicated. The <italic>P</italic> values were calculated using a two&#x02010;tailed paired Student's <italic>t</italic> test or two&#x02010;way ANOVA where appropriate. Statistical significance was defined as a <italic>P</italic> value &#x02264;0&#x000b7;05.</p></sec></sec><sec id="bjh13647-sec-0015"><title>Results</title><sec id="bjh13647-sec-0016"><title>iTRAQ quantitative analysis identifies differences in PAX5 protein levels between GC&#x02010;sensitive PreB 697 cell line and GC&#x02010;resistant R3F9 cell line in response to 24&#x02010;h Dexamethasone exposure</title><p>To identify differentially expressed, low abundance, nuclear proteins related to GC&#x02010;resistance, nuclear lysates from untreated and dexamethasone&#x02010;treated (DEX) or ethanol control vehicle (CV) were prepared from PreB 697 and R3F9 cells. Lysates were labelled with a distinct isobaric tag for relative quantification and analysed by two dimensional liquid chromatography/tandem mass spectrometry (PreB 697&#x000a0;+&#x000a0;CV&#x000a0;=&#x000a0;114 isobaric tag, PreB 697&#x000a0;+&#x000a0;DEX&#x000a0;=&#x000a0;115, R3F9&#x000a0;+&#x000a0;CV&#x000a0;=&#x000a0;116 and R3F9&#x000a0;+&#x000a0;DEX&#x000a0;=&#x000a0;117). In total, 811 unique proteins were identified at greater than 95% confidence, most of which did not show any differential expression between samples (Tables SII and SIII).</p><p>Ratios were calculated for dexamethasone&#x02010;treated &#x02018;<italic>versus</italic>&#x02019; control vehicle for each cell line. Data mining of the Excel spreadsheets (see Tables SIIA, B and SIIIA, B) identified a number of proteins differentially expressed between cell lines and treated &#x02018;<italic>versus</italic>&#x02019; control. Figure&#x000a0;<xref rid="bjh13647-fig-0001" ref-type="fig">1</xref>A&#x02010;D shows the expression of proteins involved in different cellular processes that were either up&#x02010; or down&#x02010;regulated after dexamethasone&#x02010;treatment in the PreB 697 (Fig&#x000a0;<xref rid="bjh13647-fig-0001" ref-type="fig">1</xref>A and B, respectively) and R3F9 (Fig&#x000a0;<xref rid="bjh13647-fig-0001" ref-type="fig">1</xref>C and D, respectively). Unsurprisingly, given the use of nuclear lysates, the biological function that showed the biggest protein change in each comparison was nucleoside, nucleotide and nucleic acid metabolism. Within this group, the top 2 proteins found to be differentially upregulated in the GC&#x02010;sensitive parental cell line compared to the resistant sub&#x02010;line was SMAD4 (<italic>P</italic>&#x000a0;=&#x000a0;0&#x000b7;001) and PAX5 (<italic>P</italic>&#x000a0;=&#x000a0;0&#x000b7;02). For PAX5, a single peptide (amino acid sequence: ANLASPTADIGSSVPGPQSYPIVTGR) was identified in all four samples (697 Dex: 697 CV, iTRAQ ratio of 1&#x000b7;81, <italic>P</italic>&#x000a0;=&#x000a0;0&#x000b7;02, compared to 0&#x000b7;90, <italic>P</italic>&#x000a0;=&#x000a0;0&#x000b7;14, for R3F9, Figure&#x000a0;S1 and Table&#x000a0;SIV). A second B cell transcription factor, IRF4, based on two peptide sequences (LFDTQQFLSELQAFAHHGR and LITAHVEPLLAR) was also identified to be differentially unregulated in the GC&#x02010;sensitive cell line, but did not achieve statistical significance (697 Dex: 697 CV, iTRAQ ratio of 1&#x000b7;39, <italic>P</italic>&#x000a0;=&#x000a0;0&#x000b7;19), while the IRF4 levels in the treated R3F9 cell line remained unchanged (Dex: R3F9 CV, iTRAQ ratio of 1&#x000b7;02, <italic>P</italic>&#x000a0;=&#x000a0;0&#x000b7;84). This differential upregulation of IRF4 and PAX5 in response to GC in the sensitive compared to the resistant line was verified by Western blot (Fig&#x000a0;<xref rid="bjh13647-fig-0002" ref-type="fig">2</xref> and Figure&#x000a0;S2). Conversely, for SMAD4, differential upregulation could not be confirmed by Western analyses (data not shown).</p><fig fig-type="Figure" xml:lang="en" id="bjh13647-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Protein changes in PreB 697 and R3F9 cells in response to dexamethasone treatment. Proteins that showed significant changes (Up and Down) in expression levels in response to 24&#x000a0;h 0&#x000b7;1&#x000a0;&#x003bc;mol/l dexamethasone&#x02010;treatment in PreB 697 (A, B) and R3F9 (C, D) cells, classed according to biological function by entering their protein identification numbers into the <styled-content style="fixed-case">PANTHER</styled-content> (Protein Analysis Through Evolutionary Relationships) classification system.</p></caption><graphic id="nlm-graphic-1" xlink:href="BJH-171-595-g001"/></fig><fig fig-type="Figure" xml:lang="en" id="bjh13647-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>
+<styled-content style="fixed-case">GC</styled-content>&#x02010;resistant sub&#x02010;clones express lower <styled-content style="fixed-case">PAX</styled-content>5 protein levels. (A) Differential induction of <italic><styled-content style="fixed-case">PAX</styled-content>5 </italic>
+<styled-content style="fixed-case">mRNA</styled-content> and <styled-content style="fixed-case">PAX</styled-content>5 protein in PreB 697 compared to R3F9 cells in response to 0&#x000b7;1&#x000a0;&#x003bc;mol/l dexamethasone exposure. Cell lines were treated with either control vehicle (<styled-content style="fixed-case">CV</styled-content>) or 0&#x000b7;1&#x000a0;&#x003bc;mol/l dexamethasone for 6 and 24&#x000a0;h before harvesting for protein and <styled-content style="fixed-case">RNA</styled-content>. Upper panel: equal amounts of whole cell lysate extracted from cell pellets at the 24&#x02010;h time point were subjected to Western blotting and probed with anti&#x02010;<styled-content style="fixed-case">PAX</styled-content>5 and anti&#x02010;&#x003b1;&#x02010;tubulin antibodies. The blot is representative of three independent experiments. Lower panel: Quantification of <italic><styled-content style="fixed-case">PAX</styled-content>5 </italic>
+<styled-content style="fixed-case">mRNA</styled-content> expression by quantitative real&#x02010;time <styled-content style="fixed-case">PCR</styled-content>, levels were normalized to an endogenous control, <italic><styled-content style="fixed-case">TBP</styled-content></italic>, by the 2<sup>&#x02212;&#x00394;Ct</sup> method. The histogram shows mean&#x000a0;&#x000b1;&#x000a0;<styled-content style="fixed-case">SEM</styled-content> from at least three independent experiments. (B) <styled-content style="fixed-case">GC</styled-content>&#x02010;resistant sub&#x02010;clones express lower <styled-content style="fixed-case">PAX</styled-content>5 protein levels. Upper panel: Protein was extracted from each of the indicated cell lines and equal amounts of whole cell lysate were subjected to Western blotting and probed with anti&#x02010;<styled-content style="fixed-case">PAX</styled-content>5 and anti&#x02010;&#x003b1;&#x02010;tubulin antibodies. Lower panel: Densitometry was performed to determine the expression of <styled-content style="fixed-case">PAX</styled-content>5 protein in each of the cell lines. This was calculated by dividing the intensity of the <styled-content style="fixed-case">PAX</styled-content>5 band over that of the loading control, &#x003b1;&#x02010;tubulin. The histogram shows mean&#x000a0;&#x000b1;&#x000a0;<styled-content style="fixed-case">SEM</styled-content> from three independent experiments.</p></caption><graphic id="nlm-graphic-3" xlink:href="BJH-171-595-g002"/></fig><p>Parallel real&#x02010;time quantitative reverse transcription PCR (RQ&#x02010;PCR) and Western blotting analyses showed that PreB 697 cells significantly upregulated PAX5 in response to dexamethasone, both at the mRNA (<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0&#x000b7;016, 0 vs. 24&#x000a0;h by Student's <italic>t</italic>&#x02010;test) and protein level at 24&#x000a0;h, while R3F9 cell line failed to upregulate PAX5 significantly at either the mRNA (<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0&#x000b7;299) or protein level (Fig&#x000a0;<xref rid="bjh13647-fig-0002" ref-type="fig">2</xref>A). Importantly, it was noted that R3F9 had a reduced PAX5 protein expression at a basal, untreated level, in comparison to its GC&#x02010;sensitive parental cell line. Other GC&#x02010;resistant sub lines derived from PreB 697 previously characterized for GC sensitivity and GR status (Nicholson <italic>et&#x000a0;al</italic>, <xref rid="bjh13647-bib-0027" ref-type="ref">2010</xref>) including R3C3, R3G7, R3F9 and R4C10, (GI<sub>50</sub> range 86&#x000b7;1&#x000a0;nmol/l to &#x0003e;10&#x000a0;&#x003bc;mol/l; GR wild type; normal GR levels) also showed reduced basal and induced PAX5 levels, relative to the GC&#x02010;sensitive parent (Fig&#x000a0;<xref rid="bjh13647-fig-0002" ref-type="fig">2</xref>B and Figure&#x000a0;S3). An exception was R3D11 (GI<sub>50</sub>&#x000a0;&#x0003e;&#x000a0;10&#x000a0;&#x003bc;mol/l; GR wild type) but this cell line, as we have previously shown, is GR deficient (Nicholson <italic>et&#x000a0;al</italic>, <xref rid="bjh13647-bib-0027" ref-type="ref">2010</xref>). These data suggest that the B cell transcription factors, PAX5 and IRF4, are transcriptional targets of GR and that lower PAX5 basal protein expression is associated with a GC&#x02010;resistant phenotype.</p></sec><sec id="bjh13647-sec-0017"><title>Lower PAX5 protein levels in GC&#x02010;resistant sub&#x02010;clones is a post&#x02010;transcriptional effect that has functional consequences</title><p>Recent studies have shown that <italic>PAX5</italic> inactivation, most commonly due to deletion or point mutation, is a frequent occurrence in B&#x02010;progenitor cases of ALL and results in a corresponding loss or disruption of the PAX5 protein (Mullighan <italic>et&#x000a0;al</italic>, <xref rid="bjh13647-bib-0023" ref-type="ref">2007</xref>). Thus, to investigate likely mechanisms for decreased expression of PAX5 protein in the GC&#x02010;resistant sub&#x02010;lines, RQ&#x02010;PCR for gene copy number and mutational screening of all coding exons was performed in PreB 697 and its GC&#x02010;resistant derivatives. There was no evidence for decreased allele copy number in the resistant lines (exon 3, <italic>P&#x000a0;</italic>=&#x000a0;&#x02265;0&#x000b7;232; exon 6, <italic>P</italic>&#x000a0;=&#x000a0;&#x02265;0&#x000b7;468; exon 8, <italic>P</italic>&#x000a0;=&#x000a0;&#x02265;0&#x000b7;242) (Fig&#x000a0;<xref rid="bjh13647-fig-0003" ref-type="fig">3</xref>A, B and C, respectively) and mutational screening found no evidence for acquired mutations in the resistant lines. The identification of a common single nucleotide polymorphism (rs2297105) in exon 2, found to be heterozygous in all lines, is further evidence that GC&#x02010;resistant sub lines, like the parent line, have two intact wild type <italic>PAX5</italic> alleles and MLPA also detected a normal copy number for <italic>PAX5</italic> along with <italic>IKZF1, CDKN2A/B, ETV6, BTG1, RB1</italic> and the PAR1 region in all 6 cell lines. <italic>EBF1</italic> showed gain (3&#x02010;5 copies) in exons 10, 14, and 16 but showed a normal copy number for exon 1 for all 6 cell lines (Figure&#x000a0;S4).</p><fig fig-type="Figure" xml:lang="en" id="bjh13647-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Lower <styled-content style="fixed-case">PAX</styled-content>5 levels in <styled-content style="fixed-case">GC</styled-content>&#x02010;resistant sub&#x02010;clones is post&#x02010;transcriptional and functional. (A&#x02013;C) Quantification of <italic><styled-content style="fixed-case">PAX</styled-content>5</italic> gene expression by real&#x02010;time genomic <styled-content style="fixed-case">PCR</styled-content> to assess copy number loss. Levels of <italic><styled-content style="fixed-case">PAX</styled-content>5</italic> exons 3, 6 and 8 were quantified and <styled-content style="fixed-case">PCR</styled-content> results were expressed as a ratio of <italic><styled-content style="fixed-case">PAX</styled-content>5/<styled-content style="fixed-case">ATP</styled-content>10A</italic>. Ratios of less than 0&#x000b7;7 defined a deletion. (D) Quantification of basal <italic><styled-content style="fixed-case">PAX</styled-content>5 </italic>
+<styled-content style="fixed-case">mRNA</styled-content> expression by quantitative real&#x02010;time <styled-content style="fixed-case">PCR</styled-content>. Levels were normalized to an endogenous control, <italic><styled-content style="fixed-case">TBP</styled-content></italic>, by the 2<sup>&#x02212;&#x00394;Ct</sup> method. The histogram shows mean&#x000a0;&#x000b1;&#x000a0;<styled-content style="fixed-case">SEM</styled-content> from at least three independent experiments. (E) <styled-content style="fixed-case">FACS</styled-content> analysis of <styled-content style="fixed-case">CD</styled-content>19 expression in the <styled-content style="fixed-case">GC</styled-content>&#x02010;sensitive, PreB 697, and four <styled-content style="fixed-case">GC</styled-content>&#x02010;resistant &#x02018;R&#x02019; clones. Data plotted are the mean fluorescence intensity (<styled-content style="fixed-case">MFI</styled-content>) and is the ratio between the <styled-content style="fixed-case">CD</styled-content>19 <styled-content style="fixed-case">MFI</styled-content> and isotype control <styled-content style="fixed-case">MFI</styled-content>. Error bars represent the <styled-content style="fixed-case">SEM</styled-content> of triplicate experiments; statistical significance was assessed with a paired <italic>t</italic> test *<italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0&#x000b7;05, <italic>**P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0&#x000b7;005.</p></caption><graphic id="nlm-graphic-5" xlink:href="BJH-171-595-g003"/></fig><p>RQ&#x02010;RT&#x02010;PCR of <italic>PAX5</italic> showed that mRNA levels were similar in all cell lines (<italic>p</italic>&#x000a0;=&#x000a0;&#x0003e;0&#x000b7;2251) (Fig&#x000a0;<xref rid="bjh13647-fig-0003" ref-type="fig">3</xref>D), suggesting that the reduced PAX5 protein level in GC&#x02010;resistant sub&#x02010;lines is post&#x02010;transcriptional. Protein stability experiments showed no apparent difference in the half&#x02010;life of the PAX5 protein in GC&#x02010;sensitive compared to GC&#x02010;resistant cell lines (Figure&#x000a0;S5). To assess the functional consequences of lower PAX5 protein levels, the principal transcriptional target of PAX5, CD19, was assessed by flow cytometry (Fig&#x000a0;<xref rid="bjh13647-fig-0003" ref-type="fig">3</xref>E). As expected, the parental cell line, PreB 697, had the highest level of CD19 expression, with lower levels in 3 out of the 4 GC&#x02010;resistant sub&#x02010;lines, which was statistically significant for R3F9 and R3C3 (<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0&#x000b7;023 and 0&#x000b7;007, respectively) but not for R3G7 (<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0&#x000b7;219). Again, the GR&#x02010;deficient RD11 cell line with normal levels of PAX5 had similar CD19 levels to the GC&#x02010;sensitive parent.</p></sec><sec id="bjh13647-sec-0018"><title>GC resistance is associated with increased B&#x02010;cell maturity in the PreB 697 cell line model</title><p>As PAX5 is integral to B&#x02010;cell commitment and differentiation, we investigated whether the reduced levels of PAX5 are a reflection of an altered maturation state by using gene expression arrays. GSEA was used to analyse the state of differentiation of GC&#x02010;resistant sub&#x02010;lines and genes were ranked according to the correlation of gene expression with dexamethasone IC<sub>50</sub> values for the individual sub&#x02010;lines. A set of genes whose expression describes the transition from a preB&#x02010;II differentiation state to immature B&#x02010;lymphocytes, was significantly enriched in the GC&#x02010;resistant sub&#x02010;lines; Normalized Enrichment Score&#x000a0;=&#x000a0;1&#x000b7;96, <italic>P</italic>&#x000a0;=&#x000a0;0&#x000b7;001, <italic>q</italic>&#x000a0;=&#x000a0;0&#x000b7;16 (Fig&#x000a0;<xref rid="bjh13647-fig-0004" ref-type="fig">4</xref>).(Hoffmann <italic>et&#x000a0;al</italic>, <xref rid="bjh13647-bib-0011" ref-type="ref">2002</xref>) Thus increasing GC&#x02010;resistance is coupled to a single step in B cell maturation and was further confirmed by additional immunophenotyping that demonstrated a significant decrease in CD10 basal expression in 3 of 4 GC resistant sub lines (Figure&#x000a0;S6; <italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0&#x000b7;005). All cell lines were found to be negative for CD20 expression, a mature B cell differentiation marker, and also the stem cell marker, CD34 (data not shown).</p><fig fig-type="Figure" xml:lang="en" id="bjh13647-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>
+<styled-content style="fixed-case">GSEA</styled-content> reveals a more mature B&#x02010;cell gene expression pattern in the <styled-content style="fixed-case">GC</styled-content>&#x02010;resistant clones. Plot showing significant enrichment in <styled-content style="fixed-case">GC</styled-content>&#x02010;resistant sub&#x02010;clones of PreB 697 of a set of genes whose expression is upregulated during the transition from pre&#x02010;<styled-content style="fixed-case">BII</styled-content> to immature B&#x02010;lymphocytes. Vertical lines show the position in ranking of genes of individual genes in the gene set. <styled-content style="fixed-case">NES</styled-content>, Normalized Enrichment Score.</p></caption><graphic id="nlm-graphic-7" xlink:href="BJH-171-595-g004"/></fig></sec><sec id="bjh13647-sec-0019"><title>GC resistance is associated with JNK activation and inhibition re&#x02010;sensitizes GC response</title><p>Given that activation of the JNK pathway has been associated with GC resistance (Miller <italic>et&#x000a0;al</italic>, <xref rid="bjh13647-bib-0022" ref-type="ref">2007</xref>; Garza <italic>et&#x000a0;al</italic>, <xref rid="bjh13647-bib-0008" ref-type="ref">2009</xref>) and degradation of proteins (Leung <italic>et&#x000a0;al</italic>, <xref rid="bjh13647-bib-0017" ref-type="ref">2008</xref>), we assessed levels of phosphorylated JNK (pJNK) both basally and in response to dexamethasone in PreB 697 and R3F9 cells. Basal levels of pJNK were significantly elevated in the GC&#x02010;resistant cell line compared to the PreB 697 cells (Fig&#x000a0;<xref rid="bjh13647-fig-0005" ref-type="fig">5</xref>A) and GC reduced the low level pJNK in these sensitive but not resistant cells. Higher basal pJNK levels were also evident in the other GC&#x02010;resistant cell lines (Figure&#x000a0;S7). Using a non&#x02010;toxic dose (5&#x000a0;&#x003bc;mol/l, Figure&#x000a0;S8) of the pan&#x02010;specific JNK inhibitor, SP600125 in combination with dexamethasone, there was a 30&#x02010;fold increase in GC sensitivity in R3F9 cells, with an IC<sub>50</sub> of &#x0003e;10&#x000a0;&#x003bc;mol/l lowering to 273&#x000a0;nmol/l (<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0&#x000b7;0001) and a modest sensitization was also seen in the sensitive parent line, 80&#x02013;24&#x000a0;nmol/l (<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0&#x000b7;0001) (Fig&#x000a0;<xref rid="bjh13647-fig-0005" ref-type="fig">5</xref>B and C). The combination index in R3F9 was indicative of strong synergy and this sensitization was also seen in other GC resistant cell lines (Figure&#x000a0;S9) and was associated with increased numbers of apoptotic cells, as measured by annexin V binding (Fig&#x000a0;<xref rid="bjh13647-fig-0005" ref-type="fig">5</xref>D and E) and JNK inhibition (Fig&#x000a0;<xref rid="bjh13647-fig-0005" ref-type="fig">5</xref>F). In addition, SP600125 alone increased levels of PAX5 in all cell lines (Fig&#x000a0;<xref rid="bjh13647-fig-0005" ref-type="fig">5</xref>G), suggesting a link between JNK activation, PAX5 levels, maturation and GC resistance. The proteasome inhibitor, Bortezomib was not able to mirror these effects (Figure&#x000a0;S10).</p><fig fig-type="Figure" xml:lang="en" id="bjh13647-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>
+<styled-content style="fixed-case">JNK</styled-content> signalling is aberrant in <styled-content style="fixed-case">GC</styled-content>&#x02010;resistant clones and inhibition can re&#x02010;sensitize. Western analyses of PreB 697 and R3F9 cells treated with Dexamethasone (Dex) or control vehicle (<styled-content style="fixed-case">CV</styled-content>) (A). Protein was extracted from each of the indicated cell lines and equal amounts of whole cell lysate were probed using antibodies targeting phosphorylated <styled-content style="fixed-case">JNK</styled-content> (p&#x02010;<styled-content style="fixed-case">JNK</styled-content>) and <styled-content style="fixed-case">JNK</styled-content>. <styled-content style="fixed-case">GC</styled-content>&#x02010;sensitive (PreB697, B) and &#x02010;resistant (R3F9, C) cells were cultured for 96&#x000a0;h with a range of dexamethasone concentrations (1&#x000a0;nm&#x02013;10&#x000a0;&#x003bc;mol/l) in the presence (broken line) or absence (solid line) of 5&#x000a0;&#x003bc;mol/l <styled-content style="fixed-case">JNK</styled-content> inhibitor <styled-content style="fixed-case">SP</styled-content>600125 (<styled-content style="fixed-case">JNK</styled-content>i). Error bars represent <styled-content style="fixed-case">SEM</styled-content> for <italic>n</italic>&#x000a0;=&#x000a0;3 assays. PreB 697(D) and R3F9 (E) cells were treated with control vehicle, 100&#x000a0;nmol/l dexamethasone, 5&#x000a0;&#x003bc;mol/l <styled-content style="fixed-case">JNK</styled-content> inhibitor or a combination of Dex and <styled-content style="fixed-case">JNK</styled-content> inhibitor for 48 or 72&#x000a0;h before measuring the level of apoptosis by Annexin V staining and flow cytometry. Values represent the mean&#x000a0;&#x000b1;&#x000a0;<styled-content style="fixed-case">SEM</styled-content> of a minimum of three independent experiments. R3F9 cell lines were treated with either control vehicle or 5&#x000a0;&#x003bc;mol/l <styled-content style="fixed-case">JNK</styled-content> inhibitor for the times shown and whole cell lysates were subjected to Western blotting and probed using antibodies targeting <styled-content style="fixed-case">pJNK</styled-content> and <styled-content style="fixed-case">JNK</styled-content> (F). All sublines were treated with either control vehicle or 5&#x000a0;&#x003bc;mol/l <styled-content style="fixed-case">JNK</styled-content> inhibitor and analysed by Western analyses for <styled-content style="fixed-case">PAX</styled-content>5 expression, with &#x003b1;&#x02010;tubulin serving as a loading control (G). <styled-content style="fixed-case">GI</styled-content>
+<sub>50</sub>, drug concentration that results in 50% of maximal inhibition of cell proliferation.</p></caption><graphic id="nlm-graphic-9" xlink:href="BJH-171-595-g005"/></fig><p>As JNK activation has also been associated with GC resistance in T ALL, (Miller <italic>et&#x000a0;al</italic>, <xref rid="bjh13647-bib-0022" ref-type="ref">2007</xref>) we explored GC sensitization by JNK inhibition in a panel of T ALL lines and found significant sensitization in all four cell lines (Figure&#x000a0;S11).</p></sec></sec><sec id="bjh13647-sec-0020"><title>Discussion</title><p>This is the first study to couple a discovery proteomic/mass spectrometry approach with a GC&#x02010;resistant ALL model system. It has identified differential expression of PAX5, both basally and in response to GC, in a GC&#x02010;sensitive compared to GC&#x02010;resistant sub&#x02010;line. Importantly, this finding was subsequently confirmed in additional GC&#x02010;resistant sub&#x02010;lines. The PAX family of transcription factors have a DNA&#x02010;binding paired&#x02010;box and homeobox domain and act as crucial regulators of tissue development, cell proliferation, migration and survival. PAX5 is the only member to be expressed within the haematopoietic system and is indispensable in the commitment of early lymphoid progenitors to the B&#x02010;cell lineage and maintenance of B&#x02010;cell identity (Cobaleda <italic>et&#x000a0;al</italic>, <xref rid="bjh13647-bib-0006" ref-type="ref">2007</xref>; Nutt &#x00026; Kee, <xref rid="bjh13647-bib-0028" ref-type="ref">2007</xref>). Its role as a tumour suppressor in leukaemogenesis has recently gained prominence in that <italic>PAX5</italic> inactivation has been shown to be one of the most common genetic alterations in pre&#x02010;B ALL and results in a reversible differentiation block (Mullighan <italic>et&#x000a0;al</italic>, <xref rid="bjh13647-bib-0023" ref-type="ref">2007</xref>, <xref rid="bjh13647-bib-0024" ref-type="ref">2008</xref>, <xref rid="bjh13647-bib-0025" ref-type="ref">2009</xref>; Nebral <italic>et&#x000a0;al</italic>, <xref rid="bjh13647-bib-0026" ref-type="ref">2009</xref>; Liu <italic>et&#x000a0;al</italic>, <xref rid="bjh13647-bib-0020" ref-type="ref">2014</xref>).</p><p>The lower basal PAX5 levels in GC&#x02010;resistant lines, together with gene expression profiling and lowering CD19 and CD10 are indicative of increased B cell maturation that the sub lines have acquired to evade GC&#x02010;induced apoptosis. The maturation state of a B cell has an inverse relationship with sensitivity to both synthetic and endogenous GCs, with early B&#x02010;cell progenitors readily undergoing apoptosis compared to more mature B cells (Lill&#x02010;Elghanian <italic>et&#x000a0;al</italic>, <xref rid="bjh13647-bib-0018" ref-type="ref">2002</xref>; Igarashi <italic>et&#x000a0;al</italic>, <xref rid="bjh13647-bib-0012" ref-type="ref">2005</xref>). Physiologically, this may serve to regulate steady&#x02010;state lymphopoiesis (Lill&#x02010;Elghanian <italic>et&#x000a0;al</italic>, <xref rid="bjh13647-bib-0018" ref-type="ref">2002</xref>), as well as controlling positive selection in thymocytes to prevent autoreactive T&#x02010;cells (Vacchio &#x00026; Ashwell, <xref rid="bjh13647-bib-0043" ref-type="ref">1997</xref>). Although our study focuses on cell lines and not primary cells, this phenomenon of GC&#x02010;resistance maturation has been observed in clinical samples: Rhein <italic>et&#x000a0;al</italic> (<xref rid="bjh13647-bib-0034" ref-type="ref">2007</xref>) showed that ALL cells persisting <italic>in&#x000a0;vivo</italic> after 8&#x000a0;d of GC&#x02010;monotherapy had acquired a more mature B&#x02010;cell phenotype and, in a study by Dworzak <italic>et&#x000a0;al</italic> (<xref rid="bjh13647-bib-0007" ref-type="ref">2008</xref>), CD20, a B cell differentiation antigen, was upregulated after prednisolone exposure in residual blasts in some patients. An important difference we show here is that the maturation was a subtle one&#x02010;step progression from preB&#x02010;II towards immature B&#x02010;lymphocytes, but prior to upregulation of CD20. While we have investigated acquired GC resistance, it is also possible that maturation influences primary GC response as a study of gene expression profiling of leukaemia cells from children with a poor prednisolone response <italic>in&#x000a0;vivo</italic> showed lower levels of genes important in B&#x02010;cell development, prior to treatment. (Cario <italic>et&#x000a0;al</italic>, <xref rid="bjh13647-bib-0004" ref-type="ref">2008</xref>).</p><p>The increased maturation state in GC resistance sublines was associated with reduced PAX5 levels and enhanced JNK signalling. While little is known about the regulation of PAX5 protein levels, our data implicates the JNK pathway in modifying PAX5 protein levels and indeed other PAX family members have been shown to be substrates of JNK (Cai <italic>et&#x000a0;al</italic>, <xref rid="bjh13647-bib-0003" ref-type="ref">2003</xref>; Boutet <italic>et&#x000a0;al</italic>, <xref rid="bjh13647-bib-0002" ref-type="ref">2007</xref>). JNK inhibition significantly sensitized very resistant ALL cells to GC by 30&#x02010;fold and reduced the GI<sub>50</sub> of these cells to clinically achievable dexamethasone levels and at concentrations that clearly inhibited JNK signalling. In T&#x02010;ALL cells, JNK activation has also been shown to be associated with etoposide resistance through a mechanism that involved direct phosphorylation of Bim(EL) (also termed BCL2L11) by JNK, which triggered proteasomal degradation; JNK inhibitors were similarly able to re&#x02010;sensitize to this drug (Leung <italic>et&#x000a0;al</italic>, <xref rid="bjh13647-bib-0017" ref-type="ref">2008</xref>). Thus, our observed GC&#x02010;resensitization by JNK inhibition may be similarly mediated through direct phosphorylation of Bim, and may also co&#x02010;sensitize to other chemotherapeutics agents. Miller <italic>et&#x000a0;al</italic> (<xref rid="bjh13647-bib-0022" ref-type="ref">2007</xref>) also implicated JNK activation levels in determining GC response in T ALL cells, which we confirm. They showed the mechanism to involve modulation of GR transcriptional activity by JNK. Thus, JNK inhibition, or a key downstream JNK target, may allow GC sensitization in both B&#x02010; and T&#x02010;lineage ALL<bold>.</bold> Our data adds to the increasing evidence that MAPK pathways modulate GC response in ALL cells and, more recently, anisomycin, a protein synthesis inhibitor and p38 (also termed MAPK14) agonist, was shown to resensitize GC response via activation of both p38 and JNK (Miller <italic>et&#x000a0;al</italic>, <xref rid="bjh13647-bib-0022" ref-type="ref">2007</xref>; Garza <italic>et&#x000a0;al</italic>, <xref rid="bjh13647-bib-0008" ref-type="ref">2009</xref>; Liu <italic>et&#x000a0;al</italic>, <xref rid="bjh13647-bib-0019" ref-type="ref">2013</xref>).</p><p>In conclusion, we report the first study to use discovery proteomics to investigate GC&#x02010;resistance in a childhood ALL cell line model and identify subtle single step maturation as a recurrent mechanism in a cell line model. Exploiting this maturation may be key to overcoming GC resistance and might involve antibody therapies, such as Rituximab, if CD20 is induced (Dworzak <italic>et&#x000a0;al</italic>, <xref rid="bjh13647-bib-0007" ref-type="ref">2008</xref>) or, as we show, targeting signalling pathways linked to the maturation state, such as JNK.</p></sec><sec id="bjh13647-sec-0022"><title>Author contributions</title><p>J.A.E.I., C.P., F.R., A.W. and L.N. conceived and gained funding for the study. All authors performed research and analysed data. L.N. and J.A.E.I. drafted the article and all authors critically appraised and approved the final version.</p></sec><sec id="bjh13647-sec-0023"><title>Conflict of interest disclosure</title><p>The authors declare no competing financial interests.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data"><caption><p>
+<bold>Figure&#x000a0;S1.</bold> Representative tandem mass spectrum for PAX&#x02010;5 protein (peptide sequence:ANLASPTPADIGSSVPGPQSYPIVTGR). 932.8, triply charged ion. The inset shows the peak area at the low mass/charge (m/z) region with the iTRAQ reporter ions.</p><p>
+<bold>Figure&#x000a0;S2.</bold> Differential induction of IRF4 protein in PreB 697 compared to R3F9 cell lines in response to dexamethasone exposure.</p><p>
+<bold>Figure&#x000a0;S3.</bold> Reduced induction of PAX5 in GC&#x02010;resistant sublines.</p><p>
+<bold>Figure&#x000a0;S4.</bold> MLPA result for the R3C3 cell line using the MRC Holland P335&#x02010;IKZF1 ALL kit.</p><p>
+<bold>Figure&#x000a0;S5.</bold> PAX5 protein stability in GC sensitive and resistant sublines.</p><p>
+<bold>Figure&#x000a0;S6.</bold> CD10 expression is lower in GC resistant sub lines.</p><p>
+<bold>Figure&#x000a0;S7.</bold> Phospho&#x02010;JNK levels are higher basally in GC&#x02010;resistance sub lines.</p><p>
+<bold>Figure&#x000a0;S8.</bold> Determining a non&#x02010;toxic dose of JNKi.</p><p>
+<bold>Figure&#x000a0;S9.</bold> JNK inhibition significantly sensitises to dexamethasone in PreB 697 GC resistant sublines lines and is synergistic.</p><p>
+<bold>Figure&#x000a0;S10.</bold> Bortezomib does not mimic JNKi in GC resensitisation.</p><p>
+<bold>Figure&#x000a0;S11.</bold> JNK inhibition significantly sensitises to dexamethasone in T&#x02010;ALL cell lines.</p><p>
+<bold>Table&#x000a0;SI.</bold> PAX5 Primer sequences.</p><p>
+<bold>Table&#x000a0;SII.</bold> (A) List of differentially up&#x02010;regulated proteins in PreB 697 in response to 24&#x000a0;h dexamethasone exposure as quantified in iTRAQ experiment. (B) List of differentially down&#x02010;regulated proteins in PreB 697 in response to 24&#x000a0;h dexamethasone exposure as quantified in iTRAQ experiment.</p><p>
+<bold>Table&#x000a0;SIII.</bold> (A) List of differentially up&#x02010;regulated proteins in R3F9 in response to 24&#x000a0;h dexamethasone exposure as quantified in iTRAQ experiment. (B) List of differentially down&#x02010;regulated proteins in R3F9 in response to 24&#x000a0;h dexamethasone exposure as quantified in iTRAQ experiment.</p><p>
+<bold>Table&#x000a0;SIV.</bold> PAX5 protein identification based on a single peptide.</p></caption><media xlink:href="BJH-171-595-s001.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="bjh13647-sec-0021"><title>Acknowledgements</title><p>This work was supported by grants from Leukaemia and Lymphoma Research (London, United Kingdom) (ADW, JAEI, AH). We gratefully acknowledge Lee Lancashire for the preliminary analysis of the iTRAQ dataset.</p></ack><ref-list content-type="cited-references" id="bjh13647-bibl-0001"><title>References</title><ref id="bjh13647-bib-0001"><mixed-citation publication-type="journal" id="bjh13647-cit-0001">
+<string-name>
+<surname>An</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>Wright</surname>, <given-names>S.L.</given-names>
+</string-name>, <string-name>
+<surname>Konn</surname>, <given-names>Z.J.</given-names>
+</string-name>, <string-name>
+<surname>Matheson</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Minto</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Moorman</surname>, <given-names>A.V.</given-names>
+</string-name>, <string-name>
+<surname>Parker</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Griffiths</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Ross</surname>, <given-names>F.M.</given-names>
+</string-name>, <string-name>
+<surname>Davies</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Hall</surname>, <given-names>A.G.</given-names>
+</string-name>, <string-name>
+<surname>Harrison</surname>, <given-names>C.J.</given-names>
+</string-name>, <string-name>
+<surname>Irving</surname>, <given-names>J.A.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Strefford</surname>, <given-names>J.C.</given-names>
+</string-name> (<year>2008</year>) <article-title>Variable breakpoints target PAX5 in patients with dicentric chromosomes: a model for the basis of unbalanced translocations in cancer</article-title>. <source>Proceedings of the National Academy of Sciences of the United States of America</source>, <volume>105</volume>, <fpage>17050</fpage>&#x02013;<lpage>17054</lpage>.<pub-id pub-id-type="pmid">18957548</pub-id></mixed-citation></ref><ref id="bjh13647-bib-0002"><mixed-citation publication-type="journal" id="bjh13647-cit-0002">
+<string-name>
+<surname>Boutet</surname>, <given-names>S.C.</given-names>
+</string-name>, <string-name>
+<surname>Disatnik</surname>, <given-names>M.H.</given-names>
+</string-name>, <string-name>
+<surname>Chan</surname>, <given-names>L.S.</given-names>
+</string-name>, <string-name>
+<surname>Iori</surname>, <given-names>K.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Rando</surname>, <given-names>T.A.</given-names>
+</string-name> (<year>2007</year>) <article-title>Regulation of Pax3 by proteasomal degradation of monoubiquitinated protein in skeletal muscle progenitors</article-title>. <source>Cell</source>, <volume>130</volume>, <fpage>349</fpage>&#x02013;<lpage>362</lpage>.<pub-id pub-id-type="pmid">17662948</pub-id></mixed-citation></ref><ref id="bjh13647-bib-0003"><mixed-citation publication-type="journal" id="bjh13647-cit-0003">
+<string-name>
+<surname>Cai</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Brophy</surname>, <given-names>P.D.</given-names>
+</string-name>, <string-name>
+<surname>Levitan</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Stifani</surname>, <given-names>S.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Dressler</surname>, <given-names>G.R.</given-names>
+</string-name> (<year>2003</year>) <article-title>Groucho suppresses Pax2 transactivation by inhibition of JNK&#x02010;mediated phosphorylation</article-title>. <source>EMBO Journal</source>, <volume>22</volume>, <fpage>5522</fpage>&#x02013;<lpage>5529</lpage>.<pub-id pub-id-type="pmid">14532124</pub-id></mixed-citation></ref><ref id="bjh13647-bib-0004"><mixed-citation publication-type="journal" id="bjh13647-cit-0004">
+<string-name>
+<surname>Cario</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Fetz</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Bretscher</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Moricke</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Schrauder</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Stanulla</surname>, <given-names>M.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Schrappe</surname>, <given-names>M.</given-names>
+</string-name> (<year>2008</year>) <article-title>Initial leukemic gene expression profiles of patients with poor <italic>in&#x000a0;vivo</italic> prednisone response are similar to those of blasts persisting under prednisone treatment in childhood acute lymphoblastic leukemia</article-title>. <source>Annals of Hematology</source>, <volume>87</volume>, <fpage>709</fpage>&#x02013;<lpage>716</lpage>.<pub-id pub-id-type="pmid">18521602</pub-id></mixed-citation></ref><ref id="bjh13647-bib-0005"><mixed-citation publication-type="journal" id="bjh13647-cit-0005">
+<string-name>
+<surname>Chou</surname>, <given-names>T.C.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Talalay</surname>, <given-names>P.</given-names>
+</string-name> (<year>1984</year>) <article-title>Quantitative analysis of dose&#x02010;effect relationships: the combined effects of multiple drugs or enzyme inhibitors</article-title>. <source>Advances in Enzyme Regulation</source>, <volume>22</volume>, <fpage>27</fpage>&#x02013;<lpage>55</lpage>.<pub-id pub-id-type="pmid">6382953</pub-id></mixed-citation></ref><ref id="bjh13647-bib-0006"><mixed-citation publication-type="journal" id="bjh13647-cit-0006">
+<string-name>
+<surname>Cobaleda</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Schebesta</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Delogu</surname>, <given-names>A.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Busslinger</surname>, <given-names>M.</given-names>
+</string-name> (<year>2007</year>) <article-title>Pax5: the guardian of B cell identity and function</article-title>. <source>Nature Immunology</source>, <volume>8</volume>, <fpage>463</fpage>&#x02013;<lpage>470</lpage>.<pub-id pub-id-type="pmid">17440452</pub-id></mixed-citation></ref><ref id="bjh13647-bib-0007"><mixed-citation publication-type="journal" id="bjh13647-cit-0007">
+<string-name>
+<surname>Dworzak</surname>, <given-names>M.N.</given-names>
+</string-name>, <string-name>
+<surname>Schumich</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Printz</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Potschger</surname>, <given-names>U.</given-names>
+</string-name>, <string-name>
+<surname>Husak</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Attarbaschi</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Basso</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Gaipa</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Ratei</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Mann</surname>, <given-names>G.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Gadner</surname>, <given-names>H.</given-names>
+</string-name> (<year>2008</year>) <article-title>CD20 up&#x02010;regulation in pediatric B&#x02010;cell precursor acute lymphoblastic leukemia during induction treatment: setting the stage for anti&#x02010;CD20 directed immunotherapy</article-title>. <source>Blood</source>, <volume>112</volume>, <fpage>3982</fpage>&#x02013;<lpage>3988</lpage>.<pub-id pub-id-type="pmid">18780832</pub-id></mixed-citation></ref><ref id="bjh13647-bib-0008"><mixed-citation publication-type="journal" id="bjh13647-cit-0008">
+<string-name>
+<surname>Garza</surname>, <given-names>A.S.</given-names>
+</string-name>, <string-name>
+<surname>Miller</surname>, <given-names>A.L.</given-names>
+</string-name>, <string-name>
+<surname>Johnson</surname>, <given-names>B.H.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Thompson</surname>, <given-names>E.B.</given-names>
+</string-name> (<year>2009</year>) <article-title>Converting cell lines representing hematological malignancies from glucocorticoid&#x02010;resistant to glucocorticoid&#x02010;sensitive: signaling pathway interactions</article-title>. <source>Leukemia Research</source>, <volume>33</volume>, <fpage>717</fpage>&#x02013;<lpage>727</lpage>.<pub-id pub-id-type="pmid">19012965</pub-id></mixed-citation></ref><ref id="bjh13647-bib-0009"><mixed-citation publication-type="journal" id="bjh13647-cit-0009">
+<string-name>
+<surname>Gaynon</surname>, <given-names>P.S.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Carrel</surname>, <given-names>A.L.</given-names>
+</string-name> (<year>1999</year>) <article-title>Glucocorticosteroid therapy in childhood acute lymphoblastic leukemia</article-title>. <source>Advances in Experimental Medicine and Biology</source>, <volume>457</volume>, <fpage>593</fpage>&#x02013;<lpage>605</lpage>.<pub-id pub-id-type="pmid">10500839</pub-id></mixed-citation></ref><ref id="bjh13647-bib-0010"><mixed-citation publication-type="journal" id="bjh13647-cit-0010">
+<string-name>
+<surname>Hala</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Hartmann</surname>, <given-names>B.L.</given-names>
+</string-name>, <string-name>
+<surname>Bock</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Geley</surname>, <given-names>S.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Kofler</surname>, <given-names>R.</given-names>
+</string-name> (<year>1996</year>) <article-title>Glucocorticoid&#x02010;receptor&#x02010;gene defects and resistance to glucocorticoid&#x02010;induced apoptosis in human leukemic cell lines</article-title>. <source>International Journal of Cancer</source>, <volume>68</volume>, <fpage>663</fpage>&#x02013;<lpage>668</lpage>.<pub-id pub-id-type="pmid">8938150</pub-id></mixed-citation></ref><ref id="bjh13647-bib-0011"><mixed-citation publication-type="journal" id="bjh13647-cit-0011">
+<string-name>
+<surname>Hoffmann</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Seidl</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Neeb</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Rolink</surname>, <given-names>A.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Melchers</surname>, <given-names>F.</given-names>
+</string-name> (<year>2002</year>) <article-title>Changes in gene expression profiles in developing B cells of murine bone marrow</article-title>. <source>Genome Research</source>, <volume>12</volume>, <fpage>98</fpage>&#x02013;<lpage>111</lpage>.<pub-id pub-id-type="pmid">11779835</pub-id></mixed-citation></ref><ref id="bjh13647-bib-0012"><mixed-citation publication-type="journal" id="bjh13647-cit-0012">
+<string-name>
+<surname>Igarashi</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Medina</surname>, <given-names>K.L.</given-names>
+</string-name>, <string-name>
+<surname>Yokota</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Rossi</surname>, <given-names>M.I.</given-names>
+</string-name>, <string-name>
+<surname>Sakaguchi</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Comp</surname>, <given-names>P.C.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Kincade</surname>, <given-names>P.W.</given-names>
+</string-name> (<year>2005</year>) <article-title>Early lymphoid progenitors in mouse and man are highly sensitive to glucocorticoids</article-title>. <source>International Immunology</source>, <volume>17</volume>, <fpage>501</fpage>&#x02013;<lpage>511</lpage>.<pub-id pub-id-type="pmid">15746243</pub-id></mixed-citation></ref><ref id="bjh13647-bib-0013"><mixed-citation publication-type="journal" id="bjh13647-cit-0013">
+<string-name>
+<surname>Irving</surname>, <given-names>J.A.</given-names>
+</string-name>, <string-name>
+<surname>Minto</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Bailey</surname>, <given-names>S.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Hall</surname>, <given-names>A.G.</given-names>
+</string-name> (<year>2005</year>) <article-title>Loss of heterozygosity and somatic mutations of the glucocorticoid receptor gene are rarely found at relapse in pediatric acute lymphoblastic leukemia but may occur in a subpopulation early in the disease course</article-title>. <source>Cancer Research</source>, <volume>65</volume>, <fpage>9712</fpage>&#x02013;<lpage>9718</lpage>.<pub-id pub-id-type="pmid">16266991</pub-id></mixed-citation></ref><ref id="bjh13647-bib-0014"><mixed-citation publication-type="journal" id="bjh13647-cit-0014">
+<string-name>
+<surname>Kaspers</surname>, <given-names>G.J.</given-names>
+</string-name>, <string-name>
+<surname>Wijnands</surname>, <given-names>J.J.</given-names>
+</string-name>, <string-name>
+<surname>Hartmann</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Huismans</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Loonen</surname>, <given-names>A.H.</given-names>
+</string-name>, <string-name>
+<surname>Stackelberg</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Henze</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Pieters</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Hahlen</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Van Wering</surname>, <given-names>E.R.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Veerman</surname>, <given-names>A.J.</given-names>
+</string-name> (<year>2005</year>) <article-title>Immunophenotypic cell lineage and <italic>in&#x000a0;vitro</italic> cellular drug resistance in childhood relapsed acute lymphoblastic leukaemia</article-title>. <source>European Journal of Cancer</source>, <volume>41</volume>, <fpage>1300</fpage>&#x02013;<lpage>1303</lpage>.<pub-id pub-id-type="pmid">15869873</pub-id></mixed-citation></ref><ref id="bjh13647-bib-0015"><mixed-citation publication-type="journal" id="bjh13647-cit-0015">
+<string-name>
+<surname>Klumper</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Pieters</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Veerman</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Huismans</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Loonen</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Hahlen</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Kaspers</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>van Wering</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Hartmann</surname>, <given-names>R.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Henze</surname>, <given-names>G.</given-names>
+</string-name> (<year>1995</year>) <article-title>
+<italic>In vitro</italic> cellular drug resistance in children with relapsed/refractory acute lymphoblastic leukemia</article-title>. <source>Blood</source>, <volume>86</volume>, <fpage>3861</fpage>&#x02013;<lpage>3868</lpage>.<pub-id pub-id-type="pmid">7579354</pub-id></mixed-citation></ref><ref id="bjh13647-bib-0016"><mixed-citation publication-type="journal" id="bjh13647-cit-0016">
+<string-name>
+<surname>Kuster</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Grausenburger</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Fuka</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Kaindl</surname>, <given-names>U.</given-names>
+</string-name>, <string-name>
+<surname>Krapf</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Inthal</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Mann</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Kauer</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Rainer</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Kofler</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Hall</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Metzler</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Meyer</surname>, <given-names>L.H.</given-names>
+</string-name>, <string-name>
+<surname>Meyer</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Harbott</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Marschalek</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Strehl</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Haas</surname>, <given-names>O.A.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Panzer&#x02010;Grumayer</surname>, <given-names>R.</given-names>
+</string-name> (<year>2011</year>) <article-title>ETV6/RUNX1&#x02010;positive relapses evolve from an ancestral clone and frequently acquire deletions of genes implicated in glucocorticoid signaling</article-title>. <source>Blood</source>, <volume>117</volume>, <fpage>2658</fpage>&#x02013;<lpage>2667</lpage>.<pub-id pub-id-type="pmid">21224468</pub-id></mixed-citation></ref><ref id="bjh13647-bib-0017"><mixed-citation publication-type="journal" id="bjh13647-cit-0017">
+<string-name>
+<surname>Leung</surname>, <given-names>K.T.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>K.K.</given-names>
+</string-name>, <string-name>
+<surname>Sun</surname>, <given-names>S.S.</given-names>
+</string-name>, <string-name>
+<surname>Chan</surname>, <given-names>P.K.</given-names>
+</string-name>, <string-name>
+<surname>Ooi</surname>, <given-names>V.E.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Chiu</surname>, <given-names>L.C.</given-names>
+</string-name> (<year>2008</year>) <article-title>Activation of the JNK pathway promotes phosphorylation and degradation of BimEL&#x02013;a novel mechanism of chemoresistance in T&#x02010;cell acute lymphoblastic leukemia</article-title>. <source>Carcinogenesis</source>, <volume>29</volume>, <fpage>544</fpage>&#x02013;<lpage>551</lpage>.<pub-id pub-id-type="pmid">18174237</pub-id></mixed-citation></ref><ref id="bjh13647-bib-0018"><mixed-citation publication-type="journal" id="bjh13647-cit-0018">
+<string-name>
+<surname>Lill&#x02010;Elghanian</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Schwartz</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>King</surname>, <given-names>L.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Fraker</surname>, <given-names>P.</given-names>
+</string-name> (<year>2002</year>) <article-title>Glucocorticoid&#x02010;induced apoptosis in early B cells from human bone marrow</article-title>. <source>Experimental Biology and Medicine</source>, <volume>227</volume>, <fpage>763</fpage>&#x02013;<lpage>770</lpage>.<pub-id pub-id-type="pmid">12324655</pub-id></mixed-citation></ref><ref id="bjh13647-bib-0019"><mixed-citation publication-type="journal" id="bjh13647-cit-0019">
+<string-name>
+<surname>Liu</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Ge</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>Gu</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Guo</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Ma</surname>, <given-names>Z.G.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Zhu</surname>, <given-names>Y.P.</given-names>
+</string-name> (<year>2013</year>) <article-title>Anisomycin induces apoptosis of glucocorticoid resistant acute lymphoblastic leukemia CEM&#x02010;C1 cells via activation of mitogen&#x02010;activated protein kinases p38 and JNK</article-title>. <source>Neoplasma</source>, <volume>60</volume>, <fpage>101</fpage>&#x02013;<lpage>110</lpage>.<pub-id pub-id-type="pmid">23067223</pub-id></mixed-citation></ref><ref id="bjh13647-bib-0020"><mixed-citation publication-type="journal" id="bjh13647-cit-0020">
+<string-name>
+<surname>Liu</surname>, <given-names>G.J.</given-names>
+</string-name>, <string-name>
+<surname>Cimmino</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Jude</surname>, <given-names>J.G.</given-names>
+</string-name>, <string-name>
+<surname>Hu</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Witkowski</surname>, <given-names>M.T.</given-names>
+</string-name>, <string-name>
+<surname>McKenzie</surname>, <given-names>M.D.</given-names>
+</string-name>, <string-name>
+<surname>Kartal&#x02010;Kaess</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Best</surname>, <given-names>S.A.</given-names>
+</string-name>, <string-name>
+<surname>Tuohey</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Liao</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Shi</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Mullighan</surname>, <given-names>C.G.</given-names>
+</string-name>, <string-name>
+<surname>Farrar</surname>, <given-names>M.A.</given-names>
+</string-name>, <string-name>
+<surname>Nutt</surname>, <given-names>S.L.</given-names>
+</string-name>, <string-name>
+<surname>Smyth</surname>, <given-names>G.K.</given-names>
+</string-name>, <string-name>
+<surname>Zuber</surname>, <given-names>J.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Dickins</surname>, <given-names>R.A.</given-names>
+</string-name> (<year>2014</year>) <article-title>Pax5 loss imposes a reversible differentiation block in B&#x02010;progenitor acute lymphoblastic leukemia</article-title>. <source>Genes &#x00026; Development</source>, <volume>28</volume>, <fpage>1337</fpage>&#x02013;<lpage>1350</lpage>.<pub-id pub-id-type="pmid">24939936</pub-id></mixed-citation></ref><ref id="bjh13647-bib-0021"><mixed-citation publication-type="journal" id="bjh13647-cit-0021">
+<string-name>
+<surname>Maung</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Reid</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Matheson</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Taylor</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Procter</surname>, <given-names>S.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Hall</surname>, <given-names>A.</given-names>
+</string-name> (<year>1995</year>) <article-title>Corticosteroid resistance is increased in lymphoblasts from adults compared with children: preliminary results of <italic>in&#x000a0;vitro</italic> drug sensitivity study in adults with acute lymphoblastic leukaemia</article-title>. <source>British Journal of Haematology</source>, <volume>91</volume>, <fpage>93</fpage>&#x02013;<lpage>100</lpage>.<pub-id pub-id-type="pmid">7577660</pub-id></mixed-citation></ref><ref id="bjh13647-bib-0022"><mixed-citation publication-type="journal" id="bjh13647-cit-0022">
+<string-name>
+<surname>Miller</surname>, <given-names>A.L.</given-names>
+</string-name>, <string-name>
+<surname>Garza</surname>, <given-names>A.S.</given-names>
+</string-name>, <string-name>
+<surname>Johnson</surname>, <given-names>B.H.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Thompson</surname>, <given-names>E.B.</given-names>
+</string-name> (<year>2007</year>) <article-title>Pathway interactions between MAPKs, mTOR, PKA, and the glucocorticoid receptor in lymphoid cells</article-title>. <source>Cancer Cell International</source>, <volume>7</volume>, <fpage>3</fpage>.<pub-id pub-id-type="pmid">17391526</pub-id></mixed-citation></ref><ref id="bjh13647-bib-0023"><mixed-citation publication-type="journal" id="bjh13647-cit-0023">
+<string-name>
+<surname>Mullighan</surname>, <given-names>C.G.</given-names>
+</string-name>, <string-name>
+<surname>Goorha</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Radtke</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Miller</surname>, <given-names>C.B.</given-names>
+</string-name>, <string-name>
+<surname>Coustan&#x02010;Smith</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Dalton</surname>, <given-names>J.D.</given-names>
+</string-name>, <string-name>
+<surname>Girtman</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Mathew</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Ma</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Pounds</surname>, <given-names>S.B.</given-names>
+</string-name>, <string-name>
+<surname>Su</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Pui</surname>, <given-names>C.H.</given-names>
+</string-name>, <string-name>
+<surname>Relling</surname>, <given-names>M.V.</given-names>
+</string-name>, <string-name>
+<surname>Evans</surname>, <given-names>W.E.</given-names>
+</string-name>, <string-name>
+<surname>Shurtleff</surname>, <given-names>S.A.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Downing</surname>, <given-names>J.R.</given-names>
+</string-name> (<year>2007</year>) <article-title>Genome&#x02010;wide analysis of genetic alterations in acute lymphoblastic leukaemia</article-title>. <source>Nature</source>, <volume>446</volume>, <fpage>758</fpage>&#x02013;<lpage>764</lpage>.<pub-id pub-id-type="pmid">17344859</pub-id></mixed-citation></ref><ref id="bjh13647-bib-0024"><mixed-citation publication-type="journal" id="bjh13647-cit-0024">
+<string-name>
+<surname>Mullighan</surname>, <given-names>C.G.</given-names>
+</string-name>, <string-name>
+<surname>Phillips</surname>, <given-names>L.A.</given-names>
+</string-name>, <string-name>
+<surname>Su</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Ma</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Miller</surname>, <given-names>C.B.</given-names>
+</string-name>, <string-name>
+<surname>Shurtleff</surname>, <given-names>S.A.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Downing</surname>, <given-names>J.R.</given-names>
+</string-name> (<year>2008</year>) <article-title>Genomic analysis of the clonal origins of relapsed acute lymphoblastic leukemia</article-title>. <source>Science</source>, <volume>322</volume>, <fpage>1377</fpage>&#x02013;<lpage>1380</lpage>.<pub-id pub-id-type="pmid">19039135</pub-id></mixed-citation></ref><ref id="bjh13647-bib-0025"><mixed-citation publication-type="journal" id="bjh13647-cit-0025">
+<string-name>
+<surname>Mullighan</surname>, <given-names>C.G.</given-names>
+</string-name>, <string-name>
+<surname>Su</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Radtke</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Phillips</surname>, <given-names>L.A.</given-names>
+</string-name>, <string-name>
+<surname>Miller</surname>, <given-names>C.B.</given-names>
+</string-name>, <string-name>
+<surname>Ma</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Cheng</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Schulman</surname>, <given-names>B.A.</given-names>
+</string-name>, <string-name>
+<surname>Harvey</surname>, <given-names>R.C.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>I.M.</given-names>
+</string-name>, <string-name>
+<surname>Clifford</surname>, <given-names>R.J.</given-names>
+</string-name>, <string-name>
+<surname>Carroll</surname>, <given-names>W.L.</given-names>
+</string-name>, <string-name>
+<surname>Reaman</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Bowman</surname>, <given-names>W.P.</given-names>
+</string-name>, <string-name>
+<surname>Devidas</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Gerhard</surname>, <given-names>D.S.</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Relling</surname>, <given-names>M.V.</given-names>
+</string-name>, <string-name>
+<surname>Shurtleff</surname>, <given-names>S.A.</given-names>
+</string-name>, <string-name>
+<surname>Campana</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Borowitz</surname>, <given-names>M.J.</given-names>
+</string-name>, <string-name>
+<surname>Pui</surname>, <given-names>C.H.</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Hunger</surname>, <given-names>S.P.</given-names>
+</string-name>, <string-name>
+<surname>Willman</surname>, <given-names>C.L.</given-names>
+</string-name>, <string-name>
+<surname>Downing</surname>, <given-names>J.R.</given-names>
+</string-name> &#x00026; <collab collab-type="authors">Children's Oncology Group</collab>
+(<year>2009</year>) <article-title>Deletion of IKZF1 and prognosis in acute lymphoblastic leukemia</article-title>. <source>New England Journal of Medicine</source>, <volume>360</volume>, <fpage>470</fpage>&#x02013;<lpage>480</lpage>.<pub-id pub-id-type="pmid">19129520</pub-id></mixed-citation></ref><ref id="bjh13647-bib-0026"><mixed-citation publication-type="journal" id="bjh13647-cit-0026">
+<string-name>
+<surname>Nebral</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Denk</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Attarbaschi</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Konig</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Mann</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Haas</surname>, <given-names>O.A.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Strehl</surname>, <given-names>S.</given-names>
+</string-name> (<year>2009</year>) <article-title>Incidence and diversity of PAX5 fusion genes in childhood acute lymphoblastic leukemia</article-title>. <source>Leukemia</source>, <volume>23</volume>, <fpage>134</fpage>&#x02013;<lpage>143</lpage>.<pub-id pub-id-type="pmid">19020546</pub-id></mixed-citation></ref><ref id="bjh13647-bib-0027"><mixed-citation publication-type="journal" id="bjh13647-cit-0027">
+<string-name>
+<surname>Nicholson</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Hall</surname>, <given-names>A.G.</given-names>
+</string-name>, <string-name>
+<surname>Redfern</surname>, <given-names>C.P.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Irving</surname>, <given-names>J.</given-names>
+</string-name> (<year>2010</year>) <article-title>NFkappaB modulators in a model of glucocorticoid resistant, childhood acute lymphoblastic leukemia</article-title>. <source>Leukemia Research</source>, <volume>34</volume>, <fpage>1366</fpage>&#x02013;<lpage>1373</lpage>.<pub-id pub-id-type="pmid">20106524</pub-id></mixed-citation></ref><ref id="bjh13647-bib-0028"><mixed-citation publication-type="journal" id="bjh13647-cit-0028">
+<string-name>
+<surname>Nutt</surname>, <given-names>S.L.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Kee</surname>, <given-names>B.L.</given-names>
+</string-name> (<year>2007</year>) <article-title>The transcriptional regulation of B cell lineage commitment</article-title>. <source>Immunity</source>, <volume>26</volume>, <fpage>715</fpage>&#x02013;<lpage>725</lpage>.<pub-id pub-id-type="pmid">17582344</pub-id></mixed-citation></ref><ref id="bjh13647-bib-0029"><mixed-citation publication-type="journal" id="bjh13647-cit-0029">
+<string-name>
+<surname>Pieters</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>den Boer</surname>, <given-names>M.L.</given-names>
+</string-name>, <string-name>
+<surname>Durian</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Janka</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Schmiegelow</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Kaspers</surname>, <given-names>G.J.</given-names>
+</string-name>, <string-name>
+<surname>van Wering</surname>, <given-names>E.R.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Veerman</surname>, <given-names>A.J.</given-names>
+</string-name> (<year>1998</year>) <article-title>Relation between age, immunophenotype and <italic>in&#x000a0;vitro</italic> drug resistance in 395 children with acute lymphoblastic leukemia&#x02013;implications for treatment of infants</article-title>. <source>Leukemia</source>, <volume>12</volume>, <fpage>1344</fpage>&#x02013;<lpage>1348</lpage>.<pub-id pub-id-type="pmid">9737681</pub-id></mixed-citation></ref><ref id="bjh13647-bib-0030"><mixed-citation publication-type="journal" id="bjh13647-cit-0030">
+<string-name>
+<surname>Powers</surname>, <given-names>J.H.</given-names>
+</string-name>, <string-name>
+<surname>Hillmann</surname>, <given-names>A.G.</given-names>
+</string-name>, <string-name>
+<surname>Tang</surname>, <given-names>D.C.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Harmon</surname>, <given-names>J.M.</given-names>
+</string-name> (<year>1993</year>) <article-title>Cloning and expression of mutant glucocorticoid receptors from glucocorticoid&#x02010;sensitive and &#x02010;resistant human leukemic cells</article-title>. <source>Cancer Research</source>, <volume>53</volume>, <fpage>4059</fpage>&#x02013;<lpage>4065</lpage>.<pub-id pub-id-type="pmid">8358735</pub-id></mixed-citation></ref><ref id="bjh13647-bib-0031"><mixed-citation publication-type="journal" id="bjh13647-cit-0031">
+<string-name>
+<surname>Pui</surname>, <given-names>C.H.</given-names>
+</string-name>, <string-name>
+<surname>Mullighan</surname>, <given-names>C.G.</given-names>
+</string-name>, <string-name>
+<surname>Evans</surname>, <given-names>W.E.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Relling</surname>, <given-names>M.V.</given-names>
+</string-name> (<year>2012</year>) <article-title>Pediatric acute lymphoblastic leukemia: where are we going and how do we get there?</article-title>
+<source>Blood</source>, <volume>120</volume>, <fpage>1165</fpage>&#x02013;<lpage>1174</lpage>.<pub-id pub-id-type="pmid">22730540</pub-id></mixed-citation></ref><ref id="bjh13647-bib-0032"><mixed-citation publication-type="journal" id="bjh13647-cit-0032">
+<string-name>
+<surname>Rainer</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Lelong</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Bindreither</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Mantinger</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Ploner</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Geley</surname>, <given-names>S.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Kofler</surname>, <given-names>R.</given-names>
+</string-name> (<year>2012</year>) <article-title>Research resource: transcriptional response to glucocorticoids in childhood acute lymphoblastic leukemia</article-title>. <source>Molecular Endocrinology</source>, <volume>26</volume>, <fpage>178</fpage>&#x02013;<lpage>193</lpage>.<pub-id pub-id-type="pmid">22074950</pub-id></mixed-citation></ref><ref id="bjh13647-bib-0033"><mixed-citation publication-type="journal" id="bjh13647-cit-0033">
+<string-name>
+<surname>Reiter</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Schrappe</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Ludwig</surname>, <given-names>W.D.</given-names>
+</string-name>, <string-name>
+<surname>Hiddemann</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Sauter</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Henze</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Zimmermann</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Lampert</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Havers</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Niethammer</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Odenwald</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Ritter</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Mann</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Welte</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Gadner</surname>, <given-names>H.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Riehm</surname>, <given-names>H.</given-names>
+</string-name> (<year>1994</year>) <article-title>Chemotherapy in 998 unselected childhood acute lymphoblastic leukemia patients. Results and conclusions of the multicenter trial ALL&#x02010;BFM 86</article-title>. <source>Blood</source>, <volume>84</volume>, <fpage>3122</fpage>&#x02013;<lpage>3133</lpage>.<pub-id pub-id-type="pmid">7949185</pub-id></mixed-citation></ref><ref id="bjh13647-bib-0034"><mixed-citation publication-type="journal" id="bjh13647-cit-0034">
+<string-name>
+<surname>Rhein</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Scheid</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Ratei</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Hagemeier</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Seeger</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Kirschner&#x02010;Schwabe</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Moericke</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Schrappe</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Spang</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Ludwig</surname>, <given-names>W.D.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Karawajew</surname>, <given-names>L.</given-names>
+</string-name> (<year>2007</year>) <article-title>Gene expression shift towards normal B cells, decreased proliferative capacity and distinct surface receptors characterize leukemic blasts persisting during induction therapy in childhood acute lymphoblastic leukemia</article-title>. <source>Leukemia</source>, <volume>21</volume>, <fpage>897</fpage>&#x02013;<lpage>905</lpage>.<pub-id pub-id-type="pmid">17330098</pub-id></mixed-citation></ref><ref id="bjh13647-bib-0035"><mixed-citation publication-type="journal" id="bjh13647-cit-0035">
+<string-name>
+<surname>Riehm</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Reiter</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Schrappe</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Berthold</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Dopfer</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Gerein</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Ludwig</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Ritter</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Stollmann</surname>, <given-names>B.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Henze</surname>, <given-names>G.</given-names>
+</string-name> (<year>1987</year>) <article-title>Corticosteroid&#x02010;dependent reduction of leukocyte count in blood as a prognostic factor in acute lymphoblastic leukemia in childhood (therapy study ALL&#x02010;BFM 83)</article-title>. <source>Klinische Padiatrie</source>, <volume>199</volume>, <fpage>151</fpage>&#x02013;<lpage>160</lpage>.<pub-id pub-id-type="pmid">3306129</pub-id></mixed-citation></ref><ref id="bjh13647-bib-0036"><mixed-citation publication-type="journal" id="bjh13647-cit-0036">
+<string-name>
+<surname>Schmidt</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Rainer</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Ploner</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Presul</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Riml</surname>, <given-names>S.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Kofler</surname>, <given-names>R.</given-names>
+</string-name> (<year>2004</year>) <article-title>Glucocorticoid&#x02010;induced apoptosis and glucocorticoid resistance: molecular mechanisms and clinical relevance</article-title>. <source>Cell Death and Differentiation</source>, <volume>11</volume>, <fpage>S45</fpage>&#x02013;<lpage>S55</lpage>.<pub-id pub-id-type="pmid">15243581</pub-id></mixed-citation></ref><ref id="bjh13647-bib-0037"><mixed-citation publication-type="journal" id="bjh13647-cit-0037">
+<string-name>
+<surname>Schmidt</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Irving</surname>, <given-names>J.A.</given-names>
+</string-name>, <string-name>
+<surname>Minto</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Matheson</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Nicholson</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Ploner</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Parson</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Kofler</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Amort</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Erdel</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Hall</surname>, <given-names>A.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Kofler</surname>, <given-names>R.</given-names>
+</string-name> (<year>2006</year>) <article-title>Glucocorticoid resistance in two key models of acute lymphoblastic leukemia occurs at the level of the glucocorticoid receptor</article-title>. <source>FASEB Journal</source>, <volume>20</volume>, <fpage>2600</fpage>&#x02013;<lpage>2602</lpage>.<pub-id pub-id-type="pmid">17077285</pub-id></mixed-citation></ref><ref id="bjh13647-bib-0038"><mixed-citation publication-type="journal" id="bjh13647-cit-0038">
+<string-name>
+<surname>Schrappe</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Reiter</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Zimmermann</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Harbott</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Ludwig</surname>, <given-names>W.D.</given-names>
+</string-name>, <string-name>
+<surname>Henze</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Gadner</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Odenwald</surname>, <given-names>E.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Riehm</surname>, <given-names>H.</given-names>
+</string-name> (<year>2000</year>) <article-title>Long&#x02010;term results of four consecutive trials in childhood ALL performed by the ALL&#x02010;BFM study group from 1981 to 1995. Berlin&#x02010;Frankfurt&#x02010;Munster</article-title>. <source>Leukemia</source>, <volume>14</volume>, <fpage>2205</fpage>&#x02013;<lpage>2222</lpage>.<pub-id pub-id-type="pmid">11187912</pub-id></mixed-citation></ref><ref id="bjh13647-bib-0039"><mixed-citation publication-type="journal" id="bjh13647-cit-0039">
+<string-name>
+<surname>Schwab</surname>, <given-names>C.J.</given-names>
+</string-name>, <string-name>
+<surname>Jones</surname>, <given-names>L.R.</given-names>
+</string-name>, <string-name>
+<surname>Morrison</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Ryan</surname>, <given-names>S.L.</given-names>
+</string-name>, <string-name>
+<surname>Yigittop</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Schouten</surname>, <given-names>J.P.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Harrison</surname>, <given-names>C.J.</given-names>
+</string-name> (<year>2010</year>) <article-title>Evaluation of multiplex ligation&#x02010;dependent probe amplification as a method for the detection of copy number abnormalities in B&#x02010;cell precursor acute lymphoblastic leukemia</article-title>. <source>Genes Chromosomes Cancer</source>, <volume>49</volume>, <fpage>1104</fpage>&#x02013;<lpage>1113</lpage>.<pub-id pub-id-type="pmid">20815030</pub-id></mixed-citation></ref><ref id="bjh13647-bib-0040"><mixed-citation publication-type="journal" id="bjh13647-cit-0040">
+<string-name>
+<surname>Tissing</surname>, <given-names>W.J.</given-names>
+</string-name>, <string-name>
+<surname>Meijerink</surname>, <given-names>J.P.</given-names>
+</string-name>, <string-name>
+<surname>den Boer</surname>, <given-names>M.L.</given-names>
+</string-name>, <string-name>
+<surname>Brinkhof</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>van Rossum</surname>, <given-names>E.F.</given-names>
+</string-name>, <string-name>
+<surname>van Wering</surname>, <given-names>E.R.</given-names>
+</string-name>, <string-name>
+<surname>Koper</surname>, <given-names>J.W.</given-names>
+</string-name>, <string-name>
+<surname>Sonneveld</surname>, <given-names>P.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Pieters</surname>, <given-names>R.</given-names>
+</string-name> (<year>2005</year>) <article-title>Genetic variations in the glucocorticoid receptor gene are not related to glucocorticoid resistance in childhood acute lymphoblastic leukemia</article-title>. <source>Clinical Cancer Research</source>, <volume>11</volume>, <fpage>6050</fpage>&#x02013;<lpage>6056</lpage>.<pub-id pub-id-type="pmid">16115950</pub-id></mixed-citation></ref><ref id="bjh13647-bib-0041"><mixed-citation publication-type="journal" id="bjh13647-cit-0041">
+<string-name>
+<surname>Unwin</surname>, <given-names>R.D.</given-names>
+</string-name>, <string-name>
+<surname>Pierce</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Watson</surname>, <given-names>R.B.</given-names>
+</string-name>, <string-name>
+<surname>Sternberg</surname>, <given-names>D.W.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Whetton</surname>, <given-names>A.D.</given-names>
+</string-name> (<year>2005</year>) <article-title>Quantitative proteomic analysis using isobaric protein tags enables rapid comparison of changes in transcript and protein levels in transformed cells</article-title>. <source>Molecular &#x00026; Cellular Proteomics: MCP</source>, <volume>4</volume>, <fpage>924</fpage>&#x02013;<lpage>935</lpage>.<pub-id pub-id-type="pmid">15849271</pub-id></mixed-citation></ref><ref id="bjh13647-bib-0042"><mixed-citation publication-type="journal" id="bjh13647-cit-0042">
+<string-name>
+<surname>Unwin</surname>, <given-names>R.D.</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>, <given-names>D.L.</given-names>
+</string-name>, <string-name>
+<surname>Blinco</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Wilson</surname>, <given-names>C.L.</given-names>
+</string-name>, <string-name>
+<surname>Miller</surname>, <given-names>C.J.</given-names>
+</string-name>, <string-name>
+<surname>Evans</surname>, <given-names>C.A.</given-names>
+</string-name>, <string-name>
+<surname>Jaworska</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Baldwin</surname>, <given-names>S.A.</given-names>
+</string-name>, <string-name>
+<surname>Barnes</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Pierce</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Spooncer</surname>, <given-names>E.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Whetton</surname>, <given-names>A.D.</given-names>
+</string-name> (<year>2006</year>) <article-title>Quantitative proteomics reveals posttranslational control as a regulatory factor in primary hematopoietic stem cells</article-title>. <source>Blood</source>, <volume>107</volume>, <fpage>4687</fpage>&#x02013;<lpage>4694</lpage>.<pub-id pub-id-type="pmid">16507774</pub-id></mixed-citation></ref><ref id="bjh13647-bib-0043"><mixed-citation publication-type="journal" id="bjh13647-cit-0043">
+<string-name>
+<surname>Vacchio</surname>, <given-names>M.S.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Ashwell</surname>, <given-names>J.D.</given-names>
+</string-name> (<year>1997</year>) <article-title>Thymus&#x02010;derived glucocorticoids regulate antigen&#x02010;specific positive selection</article-title>. <source>Journal of Experimental Medicine</source>, <volume>185</volume>, <fpage>2033</fpage>&#x02013;<lpage>2038</lpage>.<pub-id pub-id-type="pmid">9166432</pub-id></mixed-citation></ref><ref id="bjh13647-bib-0044"><mixed-citation publication-type="journal" id="bjh13647-cit-0044">
+<string-name>
+<surname>Zhou</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Gu</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Woods</surname>, <given-names>W.G.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Findley</surname>, <given-names>H.W.</given-names>
+</string-name> (<year>2002</year>) <article-title>DNA damage induces a novel p53&#x02010;survivin signaling pathway regulating cell cycle and apoptosis in acute lymphoblastic leukemia cells</article-title>. <source>Journal of Pharmacology and Experimental Therapeutics</source>, <volume>303</volume>, <fpage>124</fpage>&#x02013;<lpage>131</lpage>.<pub-id pub-id-type="pmid">12235242</pub-id></mixed-citation></ref></ref-list></back></article>

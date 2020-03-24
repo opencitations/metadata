@@ -1,0 +1,481 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:ali="http://www.niso.org/schemas/ali/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Braz J Microbiol</journal-id><journal-id journal-id-type="iso-abbrev">Braz. J. Microbiol</journal-id><journal-id journal-id-type="publisher-id">bjm</journal-id><journal-title-group><journal-title>Brazilian Journal of Microbiology</journal-title></journal-title-group><issn pub-type="ppub">1517-8382</issn><issn pub-type="epub">1678-4405</issn><publisher><publisher-name>Sociedade Brasileira de Microbiologia</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">26273258</article-id><article-id pub-id-type="pmc">4507535</article-id><article-id pub-id-type="doi">10.1590/S1517-838246220140211</article-id><article-categories><subj-group subj-group-type="heading"><subject>Environmental Microbiology</subject></subj-group></article-categories><title-group><article-title>Isolation and 2,4-D-degrading characteristics of <italic>Cupriavidus
+campinensis</italic> BJ71</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Han</surname><given-names>Lizhen</given-names></name><xref ref-type="aff" rid="aff01">1</xref><xref ref-type="aff" rid="aff02">2</xref><xref ref-type="aff" rid="aff03">3</xref></contrib><contrib contrib-type="author"><name><surname>Zhao</surname><given-names>Degang</given-names></name><xref ref-type="aff" rid="aff01">1</xref><xref ref-type="aff" rid="aff02">2</xref><xref ref-type="aff" rid="aff03">3</xref><xref rid="c01" ref-type="corresp"/></contrib><contrib contrib-type="author"><name><surname>Li</surname><given-names>Cuicui</given-names></name><xref ref-type="aff" rid="aff02">2</xref><xref ref-type="aff" rid="aff03">3</xref></contrib></contrib-group><aff id="aff01"><label>1</label>The Key Laboratory of Plant Resources
+Conservation and Germplasm Innovation in Mountainous Region, Ministry of Education, Guiyang, China, The Key Laboratory of Plant Resources
+Conservation and Germplasm Innovation in Mountainous Region, Ministry of
+Education, Guiyang, China.</aff><aff id="aff02"><label>2</label>Guizhou University, College of Life Sciences, Guizhou University, Guiyang, China, College of Life Sciences, Guizhou University,
+Guiyang, China.</aff><aff id="aff03"><label>3</label>Guizhou University, Institute of Agro-Bioengineering, Guizhou University, Guiyang, China, Institute of Agro-Bioengineering, Guizhou
+University, Guiyang, China.</aff><author-notes><corresp id="c01">Send correspondence to D. Zhao. The Key Laboratory of Plant
+Resources Conservation and Germplasm Innovation in Mountainous Region, Guizhou
+University, 550025 Guiyang, China. E-mail:
+<email>dgzhao@gzu.edu.cn</email>.</corresp><fn id="fn01" fn-type="other"><p>Associate Editor: Lara Dures Sette</p></fn></author-notes><pub-date pub-type="epub"><day>01</day><month>6</month><year>2015</year></pub-date><pub-date pub-type="collection"><month>6</month><year>2015</year></pub-date><volume>46</volume><issue>2</issue><fpage>433</fpage><lpage>441</lpage><history><date date-type="received"><day>09</day><month>3</month><year>2014</year></date><date date-type="accepted"><day>30</day><month>10</month><year>2014</year></date></history><permissions><copyright-statement>Copyright &#x000a9; 2015, Sociedade Brasileira de
+Microbiologia</copyright-statement><copyright-year>2015</copyright-year><license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/3.0/"><license-p>All the content of the journal, except where otherwise noted, is
+licensed under a Creative Commons License CC BY-NC.</license-p></license></permissions><abstract><p>An indigenous bacterial strain capable of utilizing 2,4-dichlorophenoxyacetic
+acid as the sole carbon and energy source was isolated from a soil used for
+grown wheat with a long-term history of herbicide use in Beijing, China. The
+strain BJ71 was identified as <italic>Cupriavidus campinensis</italic> based on
+its 16S rRNA sequence analysis and morphological, physiological, and biochemical
+characteristics. The degradation characteristics of strain BJ71 were evaluated.
+The optimal conditions for 2,4-D degradation were as follows: pH 7.0, 30 &#x000b0;C, 3%
+(v/v) inoculum size, and an initial 2,4-D concentration of 350 mg
+L<sup>&#x02212;1</sup>. Up to 99.57% of the 2,4-D was degraded under optimal conditions
+after 6 days of incubation. Strain BJ71 was also able to degrade quizalofop and
+fluroxypyr. This is the first report of a 2,4-D-degrader containing
+<italic>tfdA</italic> gene that can utilize these two herbicides. In a
+biodegradation experiment, 87.13% and 42.53% of 2,4-D (initial concentration,
+350 mg kg<sup>&#x02212;1</sup>) was degraded in non-sterile and sterilized soil
+inoculated with BJ71, respectively, after 14 days. The 2,4-D degradation was
+more rapid in a soil microcosm including BJ71 than in a soil microcosm without
+BJ71. These results indicate that strain BJ71 is a potential candidate for the
+bioremediation of soil contaminated with the herbicide 2,4-D.</p></abstract><kwd-group><kwd>2,4-D-degrading bacterial strain</kwd><kwd>bioremediation</kwd><kwd><italic>Cupriavidus campinensis</italic> BJ71</kwd><kwd>degradation characteristics</kwd></kwd-group><counts><fig-count count="6"/><table-count count="0"/><equation-count count="0"/><ref-count count="51"/><page-count count="9"/></counts></article-meta></front><body><sec sec-type="intro"><title>Introduction</title><p>The post-emergence systemic herbicide 2,4-dichlorophenoxyacetic acid (2,4-D) has been
+widely used to control dicotyledonous weeds in cereal and grass crops for more than
+60 years. Although this herbicide has a short half-life in soil and aquatic
+environments, its extensive use is a cause for concern because of the potential
+threat to the environment and human health (<xref rid="B02" ref-type="bibr">Chinalia
+<italic>et al.</italic>, 2007</xref>). The WHO (World Health Organization)
+has classified 2,4-D as a hormonal herbicide with level II toxicity. It is
+considered to be a carcinogenic agent affecting the liver and heart. It also affects
+the central nervous system, leading to convulsions (<xref rid="B09" ref-type="bibr">Garc'a <italic>et al.</italic>, 2006</xref>; <xref rid="B28" ref-type="bibr">Maloney and Waxman, 1999</xref>). Because of the relatively high water
+solubility and low soil-absorption coefficient of the free acid of 2,4-D, it often
+contaminates the environment when it enters streams, rivers, or lakes after drainage
+of agricultural lands (<xref rid="B01" ref-type="bibr">Chinalia and Killham,
+2006</xref>; <xref rid="B06" ref-type="bibr">El-Bestawy and Hans-Jorgen,
+2007</xref>; <xref rid="B23" ref-type="bibr">Lane, 1991</xref>). Most of the
+2,4-D-degrading bacteria characterized to date are members of genera belonging to
+the &#x003b2; and &#x003b3; subdivisions of the class Proteobacteria, and have been isolated from
+2,4-D-treated environments (<xref rid="B11" ref-type="bibr">Gonzalez <italic>et
+al.</italic>, 2012</xref>; <xref rid="B19" ref-type="bibr">Kamagata
+<italic>et al.</italic>, 1997</xref>; <xref rid="B25" ref-type="bibr">Lee
+<italic>et al.</italic>, 2005</xref>). The best-described pathway for 2,4-D
+degradation is the plasmid-encoded pathway of the bacterium <italic>Ralstonia
+eutropha</italic> (formerly <italic>Alcaligenes eutrophus</italic>,
+<italic>Waustersia eutropha</italic>) strain JMP134 (<xref rid="B07" ref-type="bibr">Fukumori and Hausinger, 1993a</xref>; <xref rid="B08" ref-type="bibr">Fukumori and Hausinger, 1993b</xref>; <xref rid="B42" ref-type="bibr">Streber <italic>et al.</italic>, 1987</xref>). Despite the many
+attempts to increase the biodegradation of 2,4-D by bioaugmentation of soils with
+degrading strains, no significant increases in pollutant removal compared with that
+in uninoculated soil have been achieved (S&#x000e1;nchez <italic>et al.</italic>, 1994). The
+introduced strains do not always survive well in the soil environment because of
+various stresses, including competition with indigenous microorganisms (<xref rid="B30" ref-type="bibr">Manzano <italic>et al.</italic>, 2007</xref>; <xref rid="B31" ref-type="bibr">Marr&#x000f3;n-Montiel <italic>et al.</italic>, 2006</xref>).
+For successful bioremediation of herbicide-contaminated soil, it is necessary to
+construct a unique niche for the desired microbes so that they can be productively
+exploited (<xref rid="B38" ref-type="bibr">Singh, 2008</xref>). Hence, the use of
+native 2,4-D degrading microorganisms is a feasible strategy for the bioremediation
+of polluted sites. The purpose of this study was to isolate an indigenous 2,4-D
+degrading strain using enrichment techniques, and to evaluate the degradation
+characteristics of the strain under different conditions. Our long-term goal is to
+isolate and characterize an indigenous 2,4-D degrading strain for bioaugmentation
+during <italic>in situ</italic> clean-up of sites polluted with 2,4-D in China.</p></sec><sec sec-type="materials|methods"><title>Materials and Methods</title><sec><title>Chemicals</title><p>2,4-D, 2-methyl-4-chloro-phenoxyacetic acid (MCPA), mecoprop (99% purity), and
+eosin B were purchased from Sigma-Aldrich (St. Louis, MO, USA). Ringers solution
+was purchased from Oxoid (Basingstoke, UK). Quizalofop, fluroxypyr, and all
+other chemicals were of analytical grade or higher purity.</p></sec><sec><title>Enrichment and isolation of 2,4-D-degrading bacteria</title><p>Soils used for enrichment of 2,4-D-degrading bacteria were collected from wheat
+fields in Beijing (40&#x000b0;25&#x02032;40&#x02033; N, 116&#x000b0;82&#x02032;79&#x02033; E), Henan Province (34&#x000b0;20&#x02032;34&#x02033; N,
+114&#x000b0;15&#x02032;07&#x02033; E), and Qinghai Province (36&#x000b0;92&#x02032;15&#x02033; N, 101&#x000b0;67&#x02032;20&#x02033; E), China. These
+soils have been exposed to 2,4-D for at least 10 years. Ten grams of each soil
+was inoculated into an Erlenmeyer flask (250 mL) containing 100 mL minimal salt
+medium (MSM; containing MgSO<sub>4</sub> 0.2 g L<sup>&#x02212;1</sup>,
+(NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub> 0.5 g L<sup>&#x02212;1</sup>,
+KH<sub>2</sub>PO<sub>4</sub> 0.5 g L<sup>&#x02212;1</sup>,
+K<sub>2</sub>HPO<sub>4</sub> 1.5 g L<sup>&#x02212;1</sup>, Na<sub>2</sub>EDTA 0.12 g
+L<sup>&#x02212;1</sup>, NaOH 0.02 g L<sup>&#x02212;1</sup>, ZnSO<sub>4</sub> 0.004 g
+L<sup>&#x02212;1</sup>, CuSO<sub>4</sub> 0.001 g L<sup>&#x02212;1</sup>,
+Na<sub>2</sub>SO<sub>4</sub> 0.0001 g L<sup>&#x02212;1</sup>,
+Na<sub>2</sub>MoO<sub>4</sub> 0.001 g L<sup>&#x02212;1</sup>, CoCl<sub>2</sub>
+0.0001 g L<sup>&#x02212;1</sup>, MnSO<sub>4</sub> 0.0004 g L<sup>&#x02212;1</sup>, and 0.5 mL
+concentrated H<sub>2</sub>SO<sub>4</sub>, pH 7.0) (<xref rid="B39" ref-type="bibr">Smejkal <italic>et al.</italic>, 2001a</xref>), which was
+supplemented with 500 mg L<sup>&#x02212;1</sup> 2,4-D as the sole carbon and energy
+source. The flasks were incubated at 30 &#x000b0;C for 7 days in a rotary shaker at 150
+rpm. Then, 10 mL enrichment culture showing degradation of 2,4-D was transferred
+to 100 mL fresh MSM containing 500 mg L<sup>&#x02212;1</sup> 2,4-D and further incubated
+for 7 days. Four rounds of enrichment were performed and the final enrichment
+cultures were serially diluted and spread on MSM plates containing 500 mg
+L<sup>&#x02212;1</sup> 2,4-D. After incubation at 30 &#x000b0;C for 4 days, single colonies
+with different morphologies were selected for further analysis of their
+degradation abilities. For each strain, the extent of degradation was determined
+by quantifying the amount of 2,4-D remaining in the culture by high-performance
+liquid chromatography (HPLC). One strain isolated from Beijing, designated as
+BJ71, degraded 2,4-D very quickly and showed the highest degradation rate of
+2,4-D among the isolated strains. This strain was selected for further
+investigation. Isolates were stored frozen in 15% glycerol at &#x02212;80 &#x000b0;C until
+analysis.</p></sec><sec><title>Identification and characterization of strain BJ71</title><p>Strain BJ71 was identified based on its 16S rRNA gene sequence analysis and
+morphological, physiological, and biochemical tests. Morphological,
+physiological, and biochemical tests were conducted according to Bergey's Manual
+of Systematic Bacteriology (<xref rid="B10" ref-type="bibr">Garrity <italic>et
+al.</italic>, 2004</xref>) and related documents (<xref rid="B47" ref-type="bibr">Vandamme and Coenye, 2004</xref>; <xref rid="B48" ref-type="bibr">Vaneechoutte <italic>et al.</italic>, 2004</xref>).
+Microscopic observation was performed with an HITACHI S3400N scanning electron
+microscope (Hitachi, Tokyo, Japan) at 20 kV. Samples were prepared for scanning
+electron microscopy by fixing bacterial colonies in 2.5% glutaraldehyde solution
+with SEMpore (Hitachi). The samples were lyophilized and coated with gold prior
+to microscopic observations. Total genomic DNA was extracted with an E.Z.N.A.
+Bacterial DNA Kit (Omega Bio-Tek, Doraville, GA, USA) according to the
+manufacturer's instructions. The 16S rRNA genes were amplified from the
+extracted genomic DNA using the universal primers 27f
+(5&#x02032;-AGAGTTTGATCMTGGCTCAG-3&#x02032;) and 1492r (5&#x02032;-TACGGYTACCTTGTTACGACTT-3&#x02032;) as
+described previously (<xref rid="B23" ref-type="bibr">Lane, 1991</xref>). Each
+polymerase chain reaction (PCR) mixture contained 1 &#x000d7; Premix Taq (Ex Taq
+Version, Takara Bio, Shiga, Japan), 0.4 &#x003bc;M each primer, and ~50 ng template DNA.
+The PCR amplification conditions were as follows: 95 &#x000b0;C for 5 min; followed by
+35 cycles of 95 &#x000b0;C for 45 s, 55 &#x000b0;C for 45 s, and 72 &#x000b0;C for 90 s. To ensure
+complete elongation, a final step of 72 &#x000b0;C for 7 min was performed. Reactions
+were performed in a MyCycler Thermocycler (BioRad, Hercules, CA, USA). The PCR
+products were sequenced by Takara (Dalian, China). The identification of
+phylogenetic neighbors was initially carried out using the BLASTN program
+against the database containing type strains with valid published prokaryotic
+names, acquired from the EzTaxon-e server (<ext-link ext-link-type="uri" xlink:href="http://eztaxon-e.ezbiocloud.net">http://eztaxon-e.ezbiocloud.net</ext-link>) (<xref rid="B21" ref-type="bibr">Kim <italic>et al.</italic>, 2012</xref>). Different 16S
+rRNA gene sequences from GenBank were aligned using CLUSTALW version 2.0 (<xref rid="B24" ref-type="bibr">Larkin <italic>et al.</italic>, 2007</xref>). A
+phylogenetic tree was created using the neighbor-joining method with MEGA5.0
+software (<xref rid="B44" ref-type="bibr">Tamura <italic>et al.</italic>,
+2011</xref>). A bootstrap analysis based on 1000 replicates was used to
+place confidence estimates on the tree.</p></sec><sec><title>Growth and 2,4-D-degradation conditions</title><p>Strain BJ71 was pre-cultured overnight in Luria-Bertani (LB) medium supplemented
+with 500 mg L<sup>&#x02212;1</sup> 2,4-D. The cells were harvested by centrifugation at
+6,000 g for 5 min, and then washed with sterilized MSM. For all experiments, the
+cell concentration of the inoculum was adjusted to an OD<sub>420</sub> of 0.1
+(corresponding to 4.6 &#x000d7; 10<sup>7</sup> cells mL<sup>&#x02212;1</sup>) when inoculated
+into 150 mL MSM (pH 7.0) containing 2,4-D as the sole carbon source in a 250-mL
+Erlenmeyer flask. Flasks were incubated with shaking at 150 rpm on a rotary
+shaker. For controls, uninoculated media were maintained and tested in the same
+manner as described above. Culture samples were extracted at 24-h intervals to
+measure cell growth and the amount of 2,4-D remaining, as described below. We
+examined the effects of initial 2,4-D concentration (200, 350, 500, 650, and 800
+mg L<sup>&#x02212;1</sup>), culture temperature (22, 26, 30, and 34 &#x000b0;C), inoculum size
+(1%, 3%, 5%, 7%, and 10%), medium pH (5.0, 6.0, 7.0, 8.0, 9.0, and 10.0), and
+liquid medium volume (50, 100, 120, 150 mL) on cell growth and 2,4-D
+biodegradation. All experiments were independently performed in triplicate. Cell
+growth was quantified by measuring the absorbance of the sample at 420 nm using
+a Beckman DU640 spectrophotometer (<xref rid="B40" ref-type="bibr">Smejkal
+<italic>et al.</italic>, 2001b</xref>). The degradation rate was
+analyzed by determining the amount of 2,4-D remaining in the culture medium by
+HPLC. We used a Waters 600 HPLC system equipped with a C18 reverse-phase column
+with methanol &#x02212; 0.1% H<sub>3</sub>PO<sub>4</sub> (60:40) as the eluent. A
+decrease in the value of A<sub>230</sub> at an elution time of ~5.5 min
+indicated 2,4-D metabolism. A standard curve of 2,4-D was used to calculate the
+percentage of degradation. Cultures were preprocessed according to the method of
+<xref rid="B43" ref-type="bibr">Suwa <italic>et al.</italic>
+(1996)</xref>.</p></sec><sec><title>Detection of substrate degradation by strain BJ71</title><p>Strain BJ71 was precultured to an optical density of 0.6&#x02013;1.0 (OD<sub>420</sub>)
+and then serially diluted in 1/4 Ringers solution. The 10<sup>&#x02212;5</sup> dilution
+of this culture was plated onto modified Loos agar plates containing
+(NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub> 0.1 g L<sup>&#x02212;1</sup>, eosin B
+0.04 g L<sup>&#x02212;1</sup>, yeast extract 0.25 g L<sup>&#x02212;1</sup>, Na<sub>2</sub>EDTA
+0.12 g L<sup>&#x02212;1</sup>, NaOH 0.02 g L<sup>&#x02212;1</sup>, ZnSO<sub>4</sub> 0.004 g
+L<sup>&#x02212;1</sup>, CuSO<sub>4</sub> 0.001 g L<sup>&#x02212;1</sup>,
+Na<sub>2</sub>SO<sub>4</sub> 0.0001 g L<sup>&#x02212;1</sup>,
+Na<sub>2</sub>MoO<sub>4</sub> 0.001 g L<sup>&#x02212;1</sup>, CoCl<sub>2</sub>
+0.0001 g L<sup>&#x02212;1</sup>, MnSO<sub>4</sub> 0.0004 g L<sup>&#x02212;1</sup>, 0.5 mL
+H<sub>2</sub>SO<sub>4</sub>, and 10 mL 1% (w/v) alkaline methylene blue
+solution. Separate carbon sources (MCPA, mecoprop, quizalofop, or fluroxypyr)
+were added at concentrations of 3 mmol L<sup>&#x02212;1</sup>. Plates were set up in
+triplicate and incubated for 4 days at 25 &#x000b0;C. This method was described by <xref rid="B40" ref-type="bibr">Smejkal <italic>et al.</italic> (2001b</xref>;
+<xref rid="B41" ref-type="bibr">2003)</xref>.</p></sec><sec><title>Soil microcosm degradation experiments</title><p>Organic agricultural topsoil, classified as a loamy soil with 14% clay, 32% silt,
+54% sand, and 2.34% carbon (pH 6.9) was collected from a farm (N 26&#x000b0;25&#x02032;59&#x02033; E
+106&#x000b0;40&#x02032;16&#x02033;) (Guizhou, China), and then sieved (pore size, 2 mm) and air dried.
+The soil had not been exposed to 2,4-D previously. Soil (200 g) was added to
+500-mL wide-mouth glass jars covered with aluminum foil. Control soils were
+sterilized by autoclaving (121 &#x000b0;C, 20 min) on 3 different days before starting
+the microcosm experiments. The soil used in the microcosm experiments was
+supplemented with 2,4-D at a final concentration of 350 mg kg<sup>&#x02212;1</sup>.
+Strain BJ71 was grown at 30 &#x000b0;C in LB with 2,4-D (500 mg L<sup>&#x02212;1</sup>),
+harvested by centrifugation, washed twice, and then resuspended in sodium
+phosphate buffer. The soil samples were incubated for 1 day to equilibrate, and
+then inoculated with freshly grown cultures at a cell density of 7 &#x000d7;
+10<sup>7</sup> cfu g<sup>&#x02212;1</sup> soil. Sterilized controls containing the
+same amount of 2,4-D were run simultaneously under identical conditions. After
+all amendments were added, the moisture content of soil was adjusted with water
+to 75% of the water-holding capacity. The soil was shaken every week to enhance
+O<sub>2</sub> availability. Soil microcosms were incubated at 30 &#x000b0;C in the
+dark to prevent photodegradation of 2,4-D during the 42-day experiment. All
+experiments were conducted with three replicates. The concentration of 2,4-D in
+the soils was determined by HPLC according to the method of <xref rid="B16" ref-type="bibr">Holben <italic>et al.</italic> (1992)</xref>.</p></sec><sec><title>Statistical analysis</title><p>Data were analyzed using one-way analysis of variance and multiple comparisons
+were performed with Duncan's multiple range test using SPSS software for Windows
+(version 19.0).</p></sec></sec><sec sec-type="results"><title>Results</title><sec><title>Isolation and screening of 2,4-D-degrading bacterial strains</title><p>We isolated 22 strains of 2,4-D-degrading bacteria by picking colonies with
+differing morphologies. All the strains were able to utilize 2,4-D as the sole
+carbon and energy source. Of the 22 strains, 13 degraded more than 60% of the
+initial 2,4-D (500 mg L<sup>&#x02212;1</sup>) during 1 week of incubation at 30 &#x000b0;C.
+Sequence analyses showed that the genomes of these strains contained the
+conserved sequence of a class I <italic>tfdA</italic> gene (<xref rid="B13" ref-type="bibr">Han <italic>et al.</italic>, 2014</xref>). The BJ71 strain
+accumulated the largest biomass and showed the most complete degradation of
+2,4-D among these 2,4-D-degrading strains. Therefore, BJ71 was selected for
+further investigation.</p></sec><sec><title>Identification of strain BJ71</title><p>According to the observation of cell morphology and physiological and
+biochemicala tests, BJ71 is a motile, Gram-negative rod-shaped bacterium that
+forms opalescent colonies (<xref rid="f01" ref-type="fig">Figure 1</xref>) with
+oxidase and catalase activities. The bacterium showed positive results in urease
+and nitrate reduction tests, but negative results in tests for glucose
+fermentation and indole and citrate utilization. The 16S rRNA sequence of strain
+BJ71 (1,390 bp) was compared with bacterial 16S rRNA sequences in GenBank.
+Phylogenetic neighbors were identified by BLASTN searches against the database
+containing type strains with valid published prokaryotic names, acquired from
+the EzTaxon-e server. The 16S rRNA gene sequence of strain BJ71 showed 100%
+similarity to that of <italic>Cupriavidus campinensis</italic> WS2<sup>T</sup>
+(GenBank accession nos. AF312020) (<xref rid="f02" ref-type="fig">Figure
+2</xref>). <italic>C. campinensis</italic> is a new species assigned in
+2001. A metal-resistant type strain, WS2<sup>T</sup>, was isolated from a
+zinc-desertified area in Belgium (<xref rid="B12" ref-type="bibr">Goris
+<italic>et al.</italic>, 2001</xref>).</p><fig id="f01" orientation="portrait" position="float"><label>Figure 1</label><caption><title>Colonies and cells of strain BJ71. (A) Photograph of BJ71 colonies on
+LB agar plate (B) Scanning electron micrograph of BJ71 cells.</title></caption><graphic xlink:href="1517-8382-bjm-46-2-433-gf01"/></fig><fig id="f02" orientation="portrait" position="float"><label>Figure 2</label><caption><title>NJ tree based on 16S rRNA gene (1,390 bp) sequences showing the
+phylogenetic relationship between strain BJ71 and other related species
+in genera <italic>Ralstonia</italic> and <italic>Wautersia</italic> sp.
+GenBank accession number are in parentheses. Bootstrap values are based
+on 1,000 resampled datasets. All major branches were conserved in the
+maximum-parsimony tree. <italic>Burkholderia andropogoni</italic> ATCC
+23061<sup>T</sup> (X67037) served as the outgroup. Scale bar
+indicates number of nucleotide changes per base position
+analyzed.</title></caption><graphic xlink:href="1517-8382-bjm-46-2-433-gf02"/></fig><p>Based on its 16S rRNA gene sequence analysis and its morphological,
+physiological, and biochemical characteristics, strain BJ71 was identified as
+<italic>Cupriavidus campinensis.</italic> The nucleotide sequence of the 16S
+rRNA gene of strain BJ71 has been deposited in GenBank under the accession
+number KF997830.</p></sec><sec><title>Effect of environmental factors on growth and 2,4-D degradation of strain
+BJ71</title><p>We investigated the effect of different initial 2,4-D concentrations on 2,4-D
+degradation by strain BJ71 (<xref rid="f03" ref-type="fig">Figure 3</xref>).
+Strain BJ71 degraded 2,4-D quickly at low substrate concentrations (200 and 350
+mg L<sup>&#x02212;1</sup>), and showed almost complete degradation of 200 mg
+L<sup>&#x02212;1</sup> 2,4-D in 3 days. When the initial 2,4-D concentration was 350
+mg L<sup>&#x02212;1</sup>, BJ71 degraded 90% of the 2,4-D after 4 days. BJ71 was also
+able to degrade 2,4-D at high concentrations in MSM (94.08% of 500 mg
+L<sup>&#x02212;1</sup> and 61% of 800 mg L<sup>&#x02212;1</sup> after 7 days of incubation).
+We also investigated the effects of other factors on the 2,4-D degradation rate
+of strain BJ71 (<xref rid="f04" ref-type="fig">Figure 4</xref>). Among six
+different pHs, pH 7.0 was optimal for 2,4-D degradation by BJ71. This strain was
+well-adapted to a wide range of pHs and was able to degrade up to 40% of the
+2,4-D at pH 5.0&#x02013;10.0. Temperature is a major environmental factor affecting
+degradation. The biodegradation rate was approximately 8.49% at the highest
+temperature tested (34 &#x000b0;C), and 98.98% at 30 &#x000b0;C. The optimum inoculum size was
+3.0%. The degradation rate decreased when the inoculum size was too low or too
+high because of insufficient inoculum or nutrient limitation, respectively.
+There was no significant effect of different medium volumes on the 2,4-D
+degradation rate.</p><fig id="f03" orientation="portrait" position="float"><label>Figure 3</label><caption><title>Effect of initial 2,4-D concentration on degradation of 2,4-D by
+strain BJ71. Incubation conditions were as follows: pH 7.0, final cell
+density at 420 nm adjusted to 0.1. Cells were inoculated into 150 mL MSM
+(pH 7.0) in a 250-mL flask at 30 &#x000b0;C and grown with shaking at 150 rpm on
+a rotary shaker. Standard errors are within 5% of the mean.</title></caption><graphic xlink:href="1517-8382-bjm-46-2-433-gf03"/></fig><fig id="f04" orientation="portrait" position="float"><label>Figure 4</label><caption><title>Effects of environmental conditions on degradation rate of 2,4-D by
+strain BJ71. Effects of pH (a), temperature (b), inoculum size (c), and
+medium volume (d) on 2,4-D degradation. For all experiments, final
+density of cells at 420 nm was adjusted to 0.1. Cells were inoculated
+into 150 mL MSM (pH 7.0) containing 350 mg L<sup>&#x02212;1</sup> 2,4-D in a
+250-mL Erlenmeyer flask before incubation at 30 &#x000b0;C with shaking at 150
+rpm, unless otherwise stated. All data were obtained at 120 h of
+incubation. Values shown are means of duplicate experiments. Error bars
+indicate standard deviation (SD). * indicates significant difference
+(Duncan's test, p &#x0003c; 0.05).</title></caption><graphic xlink:href="1517-8382-bjm-46-2-433-gf04"/></fig><p>The optimal conditions for 2,4-D biodegradation by strain BJ71 were as follows:
+initial pH of 7.0, incubation temperature of 30 &#x000b0;C, inoculum size of 3.0% (v/v),
+and an initial 2,4-D concentration of 350 mg L<sup>&#x02212;1</sup>. The typical growth
+of strain BJ71 was consistent with the degradation curves under optimal
+conditions (<xref rid="f05" ref-type="fig">Figure 5</xref>). Up to 99.57% of the
+2,4-D was degraded by strain BJ71 under these optimum conditions after 6 days of
+incubation.</p><fig id="f05" orientation="portrait" position="float"><label>Figure 5</label><caption><title>Amount of 2,4-D remaining and cell growth during degradation of 2,4-D
+by strain BJ71. Incubation conditions were as follows: pH 7.0, final
+cell density at 420 nm adjusted to 0.1. Cells were inoculated into 150
+mL MSM (pH 7.0) containing 350 mg L<sup>&#x02212;1</sup> 2,4-D in a 250-mL
+Erlenmeyer flask at 30 &#x000b0;C and shaker at 150 rpm. Standard errors are
+within 5% of the mean.</title></caption><graphic xlink:href="1517-8382-bjm-46-2-433-gf05"/></fig></sec><sec><title>Analysis of substrate range</title><p>It has been reported that growth on Modified Loos medium can reveal microbial
+dehalogenation of herbicide compounds, during which there is a cleavage of the
+aromatic ring (<xref rid="B41" ref-type="bibr">Smejkal <italic>et al.</italic>,
+2003</xref>). BJ71 was grown on this medium supplemented with 3 mmol of
+several other herbicides including mecoprop, MCPA, quizalofop, and fluroxypyr.
+After 4 days of incubation, dark violet colonies were observed on the plates of
+Modified Loos medium containing 2,4-D, quizalofop and fluroxypyr. Therefore,
+BJ71 was able to grow on media containing the herbicides quizalofop and
+fluroxypyr, but not on media containing MCPA or mecoprop.</p></sec><sec><title>Degradation of 2,4-D in soil</title><p>We evaluated the patterns of degradation in non-sterilized and sterilized soils,
+with and without strain BJ71 (<xref rid="f06" ref-type="fig">Figure 6</xref>).
+In non-sterile soil inoculated with strain BJ71, the degradation rate was
+markedly higher than in the other treatments after 42 days of incubation at 30
+&#x000b0;C. After 14 days of incubation, 87.13% and 42.53% of 2,4-D (initial
+concentration of 350 mg kg<sup>&#x02212;1</sup>) were degraded in non-sterile and
+sterilized soil inoculated with the strain BJ71, respectively. In non-sterile
+control without strain BJ71, the removal rate was only 7.34%. There was no
+degradation of 2,4-D in control sterilized soil, which contained 350 mg
+kg<sup>&#x02212;1</sup> 2,4-D but no inoculant (data not shown). The decrease in
+2,4-D concentrations in soil lacking BJ71 indicated that other indigenous
+microorganisms showed some 2,4-D degrading ability. Strain BJ71 enhanced the
+degradation of 2,4-D when present with other indigenous microorganisms in the
+soil. The isolated <italic>C. campinensis</italic> BJ71 strain has been
+deposited in the China Centre for Type Culture Collection (Accession number
+CCTCC M 2014006).</p><fig id="f06" orientation="portrait" position="float"><label>Figure 6</label><caption><title>Degradation of 350 mg kg<sup>&#x02212;1</sup> 2,4-D in soil inoculated with
+strain BJ71. Soil in microcosm degradation experiments contained 2,4-D
+at 350 mg L<sup>&#x02212;1</sup>, and was inoculated with BJ71 at a cell density
+of 7 &#x000d7; 10<sup>7</sup> cfu g<sup>&#x02212;1</sup> soil. Soil microcosms were
+incubated at 30 &#x000b0;C for 42 days in darkness to prevent photodegradation
+of 2,4-D. Values shown are the mean of three replicates. Standard errors
+are within 5% of mean value.</title></caption><graphic xlink:href="1517-8382-bjm-46-2-433-gf06"/></fig></sec></sec><sec sec-type="discussion"><title>Discussion</title><p>In this study, we isolated an indigenous 2,4-D degrading bacterium from a polluted
+wheat field in Beijing, China. The strain was identified as <italic>C.
+campinensis</italic> based on its 16S rRNA gene sequence analysis and its
+physiological features. In previous studies, several types of 2,4-D-degrading
+bacteria were isolated from 2,4-D-treated environments. These bacteria have been
+categorized into three groups based on their degradation enzymes and physiological
+properties. The first group consists of copiotrophic bacteria belonging to the &#x003b2; and
+&#x003b3; subdivisions of the class Proteobacteria, and includes species in the genera
+<italic>Achromobacter</italic>, <italic>Burkholderia</italic>,
+<italic>Delftia</italic>, <italic>Halomonas</italic>,
+<italic>Pseudomonas</italic>, <italic>Ralstonia</italic>,
+<italic>Rhodoferax</italic>, and <italic>Variovorax</italic>. Their
+2,4-D-catabolizing enzymes are encoded by genes homologous to <italic>tfdA</italic>,
+which encodes an Fe(II)/&#x003b1;-ketoglutarate-dependent dioxygenase that converts 2,4-D
+into 2,4-dichlorophenol. The <italic>tfdA</italic> gene is initially found in
+<italic>R. eutropha</italic> JMP134 (Gonzalez <italic>et al.</italic>, 201;
+<xref rid="B25" ref-type="bibr">Lee <italic>et al.</italic>, 2005</xref>, <xref rid="B46" ref-type="bibr">Vallaeys <italic>et al.</italic>, 1999</xref>). The
+second group consists of members of the &#x003b1;-Proteobacteria, closely related to
+<italic>Bradyrhizobium</italic> sp. (<xref rid="B17" ref-type="bibr">Itoh
+<italic>et al.</italic>, 2000</xref>; <xref rid="B19" ref-type="bibr">Kamagata <italic>et al.</italic>, 1997</xref>). Members of the third group are
+copiotrophic &#x003b1;-Proteobacteria in the genus <italic>Sphingomonas</italic> (<xref rid="B32" ref-type="bibr">McGowan <italic>et al.</italic>, 1998</xref>; <xref rid="B43" ref-type="bibr">Suwa <italic>et al.</italic>, 1996</xref>). These
+strains, which include <italic>Delftia acidovorans</italic> MC1,
+<italic>Rhodoferax</italic> sp. P230, and <italic>Sphingobium
+herbicidovorans</italic> MH, contain <italic>sdpA</italic> or
+<italic>rdpA</italic> genes, which encode products that can cleave enantiomers
+of racemic compounds (<xref rid="B33" ref-type="bibr">Mller <italic>et al.</italic>,
+2006</xref>; <xref rid="B36" ref-type="bibr">Schleinitz <italic>et al.</italic>,
+2004</xref>; <xref rid="B49" ref-type="bibr">Westendorf <italic>et al.</italic>,
+2006</xref>). These 2,4-D-degrading isolates have been well characterized in
+previous studies. The degradation capacity of strain BJ71 was greater than those
+reported for <italic>Sphingomonas agrestis</italic> strain 58-1 (<xref rid="B37" ref-type="bibr">Shimojo <italic>et al.</italic>, 2009</xref>) and three other
+strains; <italic>Burkholderia cepacia</italic> DS-1, <italic>Pseudomonas</italic>
+sp. DS-2, and <italic>Sphingomonas paucimobilis</italic> DS-3 (<xref rid="B05" ref-type="bibr">Cycon <italic>et al.</italic>, 2011</xref>). The 2,4-D
+degradation ability of strain BJ71 in medium containing 2,4-D was comparable to
+those reported for <italic>C. pampae</italic> CPDB6<sup>T</sup> (<xref rid="B04" ref-type="bibr">Cuadrado <italic>et al.</italic>, 2010</xref>) and
+<italic>Halomonadaceae</italic> sp. I-18 (<xref rid="B29" ref-type="bibr">Maltseva <italic>et al.</italic>, 1996</xref>). The 2,4-D degradation
+efficiency of strain BJ71 was greater than that of <italic>C. necator</italic>
+JMP134, the most intensively studied chloroaromatic-degrading microorganism to date.
+When grown on medium containing 250 mg L<sup>&#x02212;1</sup> of 2,4-D as the sole carbon
+and energy source, JMP134 showed a maximum 2,4-D degradation rate of 70% after 10
+days of incubation (<xref rid="B26" ref-type="bibr">Lerch <italic>et al.</italic>,
+2007</xref>). A <italic>Delftia</italic> species isolated from a polluted river
+in Argentina was able to degrade 200 mg L<sup>&#x02212;1</sup> of 2,4-D in 28 h and remove
+99.0% of the pollutant, whereas <italic>C. necator</italic> EMA-G isolated from
+agricultural soil in Argentina degraded 250 mg L<sup>&#x02212;1</sup> 2,4-D in less than 1
+day (<xref rid="B11" ref-type="bibr">Gonzale <italic>et al.</italic>, 2012</xref>;
+<xref rid="B51" ref-type="bibr">Zabaloy and G&#x000f3;mez, 2013</xref>). <italic>B.
+cepacia</italic> YK-2 and a strain of <italic>P. putida</italic> isolated from
+the Jordan Valley completely degraded 500 mg L<sup>&#x02212;1</sup> 2,4-D within 28 and 45
+h, respectively (<xref rid="B03" ref-type="bibr">Cho <italic>et al.</italic>,
+2002</xref>; <xref rid="B20" ref-type="bibr">Khalil, 2003</xref>). The 2,4-D
+degradation efficiency of these strains in shaking culture with higher
+concentrations of 2,4-D or in soil microcosms was not reported. In this study, BJ71
+in liquid culture showed a degradation rate of up to 60% after 7 days of incubation
+when grown on medium containing 800 mg L<sup>&#x02212;1</sup> 2,4-D.</p><p>Many 2,4-D-degrading strains do not have wide substrate specificity for
+chlorophenoxyalkanoic herbicides, and are limited to 2,4-D as a growth substrate
+(<xref rid="B15" ref-type="bibr">Hoffman <italic>et al.</italic>, 1996</xref>;
+<xref rid="B18" ref-type="bibr">Ka <italic>et al.</italic>, 1994</xref>). We
+screened an expanded set of structurally related herbicides, and unexpectedly found
+that this 2,4-D-degrading <italic>C. campinensis</italic> BJ71 strain could also
+degrade quizalofop and fluroxypyr. The mechanism of action of these herbicides is
+entirely different from that of 2,4-D. Quizalofop is in the aryloxyphenoxypropionate
+(AOPP) class of potent grass-selective herbicides, and fluroxypyr consists of
+pyridyloxyacetate compounds. <xref rid="B50" ref-type="bibr">Wright <italic>et
+al.</italic> (2010)</xref> reported that AAD-1 (synonymous with RdpA in
+<italic>S. herbicidivorans</italic>) has the unique ability to
+enantioselectively cleave R-quizalofop, and that AAD-12, (synonymous with SdpA from
+<italic>D. acidovorans</italic>) can degrade fluroxypyr. However, there have
+been no other reports in the literature of 2,4-D-degraders containing the
+<italic>tfdA</italic> gene that are able to degrade fluroxypyr and quizalofop.
+Recently, we cloned the entire <italic>tfdA</italic> gene of <italic>C.
+campinensis</italic> strain BJ71 (GenBank accession number: KJ028765). The
+sequence of the <italic>tfdA</italic> gene from <italic>C. campinensis</italic> BJ71
+shows some differences from that of <italic>C. necator</italic> JMP134 (<xref rid="B14" ref-type="bibr">Han <italic>et al.</italic>, 2015</xref>). To our
+knowledge, this is the first report of a 2,4-D degrader containing the
+<italic>tfdA</italic> that can degrade several different synthetic auxins
+(2,4-D, fluroxypyr, and the aryloxyphenoxypropionate herbicide quizalofop). Because
+of these characteristics, this strain has great potential for bioremediation of
+these herbicides in polluted environments.</p><p>For successful bioremediation, it is important to identify and isolate appropriate
+microbial strains, and to ensure their survival and activity after their release
+into the target habitat. A key factor in the failure of bioaugmentation strategies
+is the rapid decline of the population of introduced cells. The introduced strain
+may face intense competition, predation, or parasitism in the natural environment.
+The most suitable candidate for bioaugmentation is an autochthonous strain that is
+able to survive long-term in the target habitat, and continuously degrade the
+contaminant (<xref rid="B34" ref-type="bibr">Ramos <italic>et al.</italic>,
+1991</xref>; <xref rid="B45" ref-type="bibr">Thompson <italic>et al.</italic>,
+2005</xref>). It has been reported that the batch culture method used to enrich
+and isolate bacteria is highly selective for fast-growing copiotrophic microbes, and
+that the isolation of <italic>Cupriavidus</italic> sp. from the most dilute positive
+MPN tubes may reflect its dominance in the 2,4-D degrading community in soil (<xref rid="B27" ref-type="bibr">Macur <italic>et al.</italic>, 2007</xref>; <xref rid="B51" ref-type="bibr">Zabaloy and G&#x000f3;mez, 2013</xref>). Our results show that
+<italic>Cupriavidus</italic> sp. BJ71, isolated from a polluted wheat field in
+China, can rapidly degrade 2,4-D in liquid medium. The biodegradation of 2,4-D was
+much more rapid in 2,4-D (350 mg kg<sup>&#x02212;1</sup>)-treated soil inoculated with BJ71
+than in soil without this strain. These results suggest that <italic>C.
+campinensis</italic> BJ71 could be a suitable candidate for bioaugmentation for
+<italic>in situ</italic> clean-up strategies. Because it is an indigenous
+organism, it is more likely to survive than are other non-indigenous bacteria when
+introduced into polluted soil and water environments in China.</p></sec></body><back><ack><title>Acknowledgments</title><p>This work was supported by the Foundation of the National Transgenic Major Project of
+China (2013ZX08010-003, 2014ZX0801008B-002) and the Province Science Project in
+Guizhou (J [2013] 2123).</p></ack><ref-list><title>References</title><ref id="B01"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Chinalia</surname><given-names>FA</given-names></name><name><surname>Killham</surname><given-names>KS</given-names></name></person-group><year>2006</year><article-title>2,4-Dichlorophenoxyacetic acid (2,4-D) biodegradation in river
+sediments of northeast-Scotland and its effect on the microbial communities
+(PLFA and DGGE)</article-title><source>Chemosphere</source><volume>64</volume><fpage>1675</fpage><lpage>1683</lpage><pub-id pub-id-type="pmid">16488464</pub-id></element-citation></ref><ref id="B02"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Chinalia</surname><given-names>FA</given-names></name><name><surname>Regali-Seleghin</surname><given-names>MH</given-names></name><name><surname>Correa</surname><given-names>EM</given-names></name></person-group><year>2007</year><article-title>2,4-D toxicity: cause, effect and control</article-title><source>Terrestrial and Aquatic Environmental Toxicology</source><volume>1</volume><fpage>24</fpage><lpage>33</lpage></element-citation></ref><ref id="B03"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cho</surname><given-names>YS</given-names></name><name><surname>Kahng</surname><given-names>HY</given-names></name><name><surname>Kim</surname><given-names>CK</given-names></name><etal/></person-group><year>2002</year><article-title>Physiological and cellular response of the 2,4-D degrading
+bacterium, <italic>Burkholderia cepacia</italic> YK-2, to the
+phenoxyherbicides 2,4-D and 2,4,5-T</article-title><source>Curr Microbiol</source><volume>45</volume><fpage>415</fpage><lpage>422</lpage><pub-id pub-id-type="pmid">12402082</pub-id></element-citation></ref><ref id="B04"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cuadrado</surname><given-names>V</given-names></name><name><surname>Gomila</surname><given-names>M</given-names></name><name><surname>Merini</surname><given-names>L</given-names></name><etal/></person-group><year>2010</year><article-title>
+<italic>Cupriavidus pampae</italic> sp. nov., a novel
+herbicide-degrading bacterium isolated from agricultural
+soil</article-title><source>Int J Syst Evol Microbiol</source><volume>60</volume><fpage>2606</fpage><lpage>2612</lpage><pub-id pub-id-type="pmid">20023053</pub-id></element-citation></ref><ref id="B05"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cycon</surname><given-names>M</given-names></name><name><surname>Zmijowska</surname><given-names>A</given-names></name><name><surname>Piotrowska-Seget</surname><given-names>Z</given-names></name></person-group><year>2011</year><article-title>Biodegradation kinetics of 2,4-D by bacterial strains isolated
+from soil</article-title><source>Cent Eur J Biol</source><volume>6</volume><fpage>188</fpage><lpage>198</lpage></element-citation></ref><ref id="B06"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>El-Bestawy</surname><given-names>E</given-names></name><name><surname>Hans-Jorgen</surname><given-names>A</given-names></name></person-group><year>2007</year><article-title>Effect of nutrient amendments and sterilization on mineralization
+and/or biodegradation of <sup>14</sup>C-labeled MCPP by soil bacteria under
+aerobic conditions</article-title><source>Int Biodeterior Biodegradation</source><volume>59</volume><fpage>193</fpage><lpage>201</lpage></element-citation></ref><ref id="B07"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Fukumori</surname><given-names>F</given-names></name><name><surname>Hausinger</surname><given-names>RP</given-names></name></person-group><year>1993a</year><article-title>
+<italic>Alcaligenes eutrophus</italic> JMP134
+"2,4-dichlorophenoxyacetate monooxygenase" is an &#x003b1;-ketoglutarate-dependent
+dioxygenase</article-title><source>J Bacteriol</source><volume>175</volume><fpage>2083</fpage><lpage>2086</lpage><pub-id pub-id-type="pmid">8458850</pub-id></element-citation></ref><ref id="B08"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Fukumori</surname><given-names>F</given-names></name><name><surname>Hausinger</surname><given-names>RP</given-names></name></person-group><year>1993b</year><article-title>Purification and characterization of
+2,4-dichlorophenoxyacetate/&#x003b1;-ketoglutarate dioxygenase</article-title><source>J Biol Chem</source><volume>268</volume><fpage>24311</fpage><lpage>24317</lpage><pub-id pub-id-type="pmid">8226980</pub-id></element-citation></ref><ref id="B09"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Garc'a</surname><given-names>GB</given-names></name><name><surname>Konjuh</surname><given-names>C</given-names></name><name><surname>Duffard</surname><given-names>RO</given-names></name><etal/></person-group><year>2006</year><article-title>Dopamine-&#x003b2;-hydroxylase immunohistochemical study in the locus
+coeruleus of neonate rats exposed to 2,4-dichlorophenoxyacetic acid through
+mother's milk</article-title><source>Drug Chem Toxicol</source><volume>29</volume><fpage>435</fpage><lpage>442</lpage><pub-id pub-id-type="pmid">16931444</pub-id></element-citation></ref><ref id="B10"><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Garrity</surname><given-names>GM</given-names></name><name><surname>Bell</surname><given-names>JA</given-names></name><name><surname>Lilburn</surname><given-names>TG</given-names></name></person-group><year>2004</year><source>Taxonomic outline of the prokaryotes Bergey's Manual of Systematic
+Bacteriology (second edition)</source><publisher-name>Springer</publisher-name><publisher-loc>New York Berlin Heidelberg</publisher-loc><pub-id pub-id-type="doi">10.1007/bergeysoutline200405</pub-id></element-citation></ref><ref id="B11"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gonzalez</surname><given-names>AJ</given-names></name><name><surname>Gallego</surname><given-names>A</given-names></name><name><surname>Gemini</surname><given-names>VL</given-names></name><etal/></person-group><year>2012</year><article-title>Degradation and detoxification of the herbicide
+2,4-dichlorophenoxyacetic acid (2,4-D) by an indigenous
+<italic>Delftia</italic> sp. strain in batch and continuous
+systems</article-title><source>Int Biodeterior Biodegradation</source><volume>66</volume><fpage>8</fpage><lpage>13</lpage></element-citation></ref><ref id="B12"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Goris</surname><given-names>J</given-names></name><name><surname>De Vos</surname><given-names>P</given-names></name><name><surname>Coenye</surname><given-names>T</given-names></name><etal/></person-group><year>2001</year><article-title>Classification of metal-resistant bacteria from industrial
+biotopes as <italic>Ralstonia campinensis</italic> sp. nov.,
+<italic>Ralstonia metallidurans</italic> sp. nov. and <italic>Ralstonia
+basilensis</italic> Steinle <italic>et al</italic>., 1998
+emend</article-title><source>Int J Syst Evol Microbiol</source><volume>51</volume><fpage>1773</fpage><lpage>1782</lpage><pub-id pub-id-type="pmid">11594608</pub-id></element-citation></ref><ref id="B13"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Han</surname><given-names>L</given-names></name><name><surname>Liu</surname><given-names>Y</given-names></name><name><surname>He</surname><given-names>A</given-names></name><etal/></person-group><year>2014</year><article-title>16S rRNA gene phylogey and <italic>tfdA</italic> gene analysis of
+2,4-D-degrading bacteria isolated in China</article-title><source>World J Microbiol Biotechnol</source><pub-id pub-id-type="doi">10.1007/s11274-014-1680-6</pub-id></element-citation></ref><ref id="B14"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Han</surname><given-names>L</given-names></name><name><surname>Liu</surname><given-names>Y</given-names></name><name><surname>Li</surname><given-names>C</given-names></name><etal/></person-group><year>2015</year><article-title>Cloning, expression, characterization and mutational analysis of
+the <italic>tfdA</italic> gene from <italic>Cupriavidus campinensis</italic>
+BJ71</article-title><source>World J Microbiol Biotechnol</source><pub-id pub-id-type="doi">10.1007/s11274-015-1852-z</pub-id></element-citation></ref><ref id="B15"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hoffman</surname><given-names>D</given-names></name><name><surname>Mller</surname><given-names>RH</given-names></name><name><surname>Kiesel</surname><given-names>B</given-names></name><etal/></person-group><year>1996</year><article-title>Isolation and characterization of an alkaliphilic bacterium
+capable of growing on 2,4-dichlorophenoxyacetic acid and
+4-chloro-2-methylphenoxyacetic acid</article-title><source>Acta Biotechnologica</source><volume>16</volume><fpage>121</fpage><lpage>131</lpage></element-citation></ref><ref id="B16"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Holben</surname><given-names>WE</given-names></name><name><surname>Schroeter</surname><given-names>BM</given-names></name><name><surname>Calabrese</surname><given-names>VGM</given-names></name><etal/></person-group><year>1992</year><article-title>Gene probe analysis of soil microbial populations selected by
+amended with 2,4-dichlorophenoxyacetic acid</article-title><source>Appl Environ Microbiol</source><volume>58</volume><fpage>3941</fpage><lpage>3948</lpage><pub-id pub-id-type="pmid">1476437</pub-id></element-citation></ref><ref id="B17"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Itoh</surname><given-names>K</given-names></name><name><surname>Kanda</surname><given-names>R</given-names></name><name><surname>Momoda</surname><given-names>Y</given-names></name><etal/></person-group><year>2000</year><article-title>Presence of 2,4-D-catabolizing bacteria in a Japanese arable soil
+that belong to BANA
+(<italic>Bradyrhizobium-Agromonas-Nitrobacter-Afipia</italic>) cluster
+in &#x003b1;-Proteobacteria</article-title><source>Microbes Environ</source><volume>15</volume><fpage>113</fpage><lpage>117</lpage></element-citation></ref><ref id="B18"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ka</surname><given-names>JO</given-names></name><name><surname>Holben</surname><given-names>WE</given-names></name><name><surname>Tiedje</surname><given-names>JM</given-names></name></person-group><year>1994</year><article-title>Genetic and phenotypic diversity of 2,4-dichlorophenoxyacetic
+acid (2,4-D)-degrading bacteria isolated from 2,4-D-treated field
+soils</article-title><source>Appl Environ Microbiol</source><volume>60</volume><fpage>1106</fpage><lpage>1115</lpage><pub-id pub-id-type="pmid">8017907</pub-id></element-citation></ref><ref id="B19"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kamagata</surname><given-names>Y</given-names></name><name><surname>Fulthorpe</surname><given-names>RR</given-names></name><name><surname>Tamura</surname><given-names>K</given-names></name><etal/></person-group><year>1997</year><article-title>Pristine environments harbor a new group of oligotrophic
+2,4-dichlorophenoxyacetic acid-degrading bacteria</article-title><source>Appl Environ Microbiol</source><volume>63</volume><fpage>2266</fpage><lpage>2272</lpage><pub-id pub-id-type="pmid">9172346</pub-id></element-citation></ref><ref id="B20"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Khalil</surname><given-names>AB</given-names></name></person-group><year>2003</year><article-title>Isolation and characterization of 2,4-dichlorophenoxyacetic acid
+degrading organisms from soil in Jordan Valley</article-title><source>Biotechnology</source><volume>2</volume><fpage>73</fpage><lpage>85</lpage></element-citation></ref><ref id="B21"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kim</surname><given-names>OS</given-names></name><name><surname>Cho</surname><given-names>YJ</given-names></name><name><surname>Lee</surname><given-names>K</given-names></name><etal/></person-group><year>2012</year><article-title>Introducing EzTaxon-e: a prokaryotic 16S rRNA gene sequence
+database with phylotypes that represent uncultured species</article-title><source>Int J Syst Evol Microbiol</source><volume>62</volume><fpage>716</fpage><lpage>721</lpage><pub-id pub-id-type="pmid">22140171</pub-id></element-citation></ref><ref id="B22"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lagan&#x000e1;</surname><given-names>A</given-names></name><name><surname>Bacaloni</surname><given-names>A</given-names></name><name><surname>De Leva</surname><given-names>I</given-names></name><etal/></person-group><year>2002</year><article-title>Occurrence and determination of herbicides and their major
+transformation products in environmental waters</article-title><source>Anal Chim Acta</source><volume>462</volume><fpage>187</fpage><lpage>198</lpage></element-citation></ref><ref id="B23"><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Lane</surname><given-names>DJ</given-names></name></person-group><year>1991</year><chapter-title>16S/23S rRNA sequencing</chapter-title><person-group person-group-type="editor"><name><surname>Stackebrandt</surname><given-names>E</given-names></name><name><surname>Goodfellow</surname><given-names>M</given-names></name></person-group><source>Nucleic Acid Techniques in Bacterial Systematics</source><publisher-name>Wiley</publisher-name><publisher-loc>New York</publisher-loc><fpage>115</fpage><lpage>175</lpage></element-citation></ref><ref id="B24"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Larkin</surname><given-names>MA</given-names></name><name><surname>Blackshields</surname><given-names>G</given-names></name><name><surname>Brown</surname><given-names>NP</given-names></name><etal/></person-group><year>2007</year><article-title>Clustal W and Clustal X version 2.0</article-title><source>Bioinformatics</source><volume>23</volume><fpage>2947</fpage><lpage>2948</lpage><pub-id pub-id-type="pmid">17846036</pub-id></element-citation></ref><ref id="B25"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lee</surname><given-names>T</given-names></name><name><surname>Kurata</surname><given-names>S</given-names></name><name><surname>Nakatsu</surname><given-names>C</given-names></name><etal/></person-group><year>2005</year><article-title>Molecular analysis of bacterial community based on 16S rDNA and
+functional genes in activated sludge enriched with 2,4-dichlorophenoxyacetic
+acid (2,4-D) under different cultural conditions</article-title><source>Microb Ecol</source><volume>49</volume><fpage>151</fpage><lpage>162</lpage><pub-id pub-id-type="pmid">15883866</pub-id></element-citation></ref><ref id="B26"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lerch</surname><given-names>TZ</given-names></name><name><surname>Dignac</surname><given-names>MF</given-names></name><name><surname>Barriuso</surname><given-names>E</given-names></name><etal/></person-group><year>2007</year><article-title>Tracing 2,4-D metabolism in <italic>Cupriavidus necator</italic>
+JMP134 with <sup>13</sup>C-labelling technique and fatty acid
+profiling</article-title><source>J Microbiol Methods</source><volume>71</volume><fpage>162</fpage><lpage>174</lpage><pub-id pub-id-type="pmid">17884209</pub-id></element-citation></ref><ref id="B27"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Macur</surname><given-names>RE</given-names></name><name><surname>Wheeler</surname><given-names>JT</given-names></name><name><surname>Burr</surname><given-names>MD</given-names></name><etal/></person-group><year>2007</year><article-title>Impacts of 2,4-D application on soil microbial community and on
+populations associated with 2,4-D degradation</article-title><source>Microbiol Res</source><volume>162</volume><fpage>37</fpage><lpage>45</lpage><pub-id pub-id-type="pmid">16814534</pub-id></element-citation></ref><ref id="B28"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Maloney</surname><given-names>EK</given-names></name><name><surname>Waxman</surname><given-names>DJ</given-names></name></person-group><year>1999</year><article-title>Trans-activation of PPARalpha and PPARgamma by structurally
+diverse environmental chemicals</article-title><source>Toxicol Appl Pharmacol</source><volume>161</volume><fpage>209</fpage><lpage>218</lpage><pub-id pub-id-type="pmid">10581215</pub-id></element-citation></ref><ref id="B29"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Maltseva</surname><given-names>O</given-names></name><name><surname>McGowan</surname><given-names>C</given-names></name><name><surname>Fulthorpe</surname><given-names>R</given-names></name><etal/></person-group><year>1996</year><article-title>Degradation of 2,4-dichlorophenoxyacetic acid by haloalkaliphilic
+bacteria</article-title><source>Microbiology</source><volume>142</volume><fpage>1115</fpage><lpage>1122</lpage><pub-id pub-id-type="pmid">8704953</pub-id></element-citation></ref><ref id="B30"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Manzano</surname><given-names>M</given-names></name><name><surname>Mor&#x000e1;n</surname><given-names>AC</given-names></name><name><surname>Tesser</surname><given-names>B</given-names></name><etal/></person-group><year>2007</year><article-title>Role of eukaryotic microbiota in soil survival and catabolic
+performance of the 2,4-D herbicide degrading bacteria <italic>Cupriavidus
+necator</italic> JMP134</article-title><source>Antonie Van Leeuwenhoek</source><volume>91</volume><fpage>115</fpage><lpage>126</lpage><pub-id pub-id-type="pmid">17043913</pub-id></element-citation></ref><ref id="B31"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Marr&#x000f3;n-Montiel</surname><given-names>E</given-names></name><name><surname>Ordaz-Ruiz</surname><given-names>N</given-names></name><name><surname>Rubio-Granados</surname><given-names>C</given-names></name><etal/></person-group><year>2006</year><article-title>2,4-D-degrading bacterial comsortium isolation kinetic
+characterization in batch and continuous culture and application for
+bioaugmenting an activated sludge microbial community</article-title><source>Process Biochem</source><volume>41</volume><fpage>1521</fpage><lpage>1528</lpage></element-citation></ref><ref id="B32"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>McGowan</surname><given-names>C</given-names></name><name><surname>Fulthorpe</surname><given-names>R</given-names></name><name><surname>Wright</surname><given-names>A</given-names></name><etal/></person-group><year>1998</year><article-title>Evidence for interspecies gene transfer in the evolution of
+2,4-dichlorophenoxyacetic acid degraders</article-title><source>Appl Environ Microbiol</source><volume>64</volume><fpage>4089</fpage><lpage>4092</lpage><pub-id pub-id-type="pmid">9758850</pub-id></element-citation></ref><ref id="B33"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mller</surname><given-names>TA</given-names></name><name><surname>Fleischmann</surname><given-names>T</given-names></name><name><surname>van der Meer</surname><given-names>JR</given-names></name><etal/></person-group><year>2006</year><article-title>Purification and characterization of two enantioselective
+&#x003b1;-ketoglutarate-dependent dioxygenases, RdpA and SdpA, from
+<italic>Sphingomonas herbicidovorans</italic> MH</article-title><source>Appl Environ Microbiol</source><volume>72</volume><fpage>4853</fpage><lpage>4861</lpage><pub-id pub-id-type="pmid">16820480</pub-id></element-citation></ref><ref id="B34"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ramos</surname><given-names>JL</given-names></name><name><surname>Duque</surname><given-names>E</given-names></name><name><surname>Ramos-Gonzalez</surname><given-names>MI</given-names></name></person-group><year>1991</year><article-title>Survival in soils of an herbicide-resistant <italic>Pseudomonas
+putida</italic> strain bearing a recombinant TOL plasmid</article-title><source>Appl Environ Microbiol</source><volume>57</volume><fpage>260</fpage><lpage>266</lpage><pub-id pub-id-type="pmid">2036014</pub-id></element-citation></ref><ref id="B35"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>S&#x000e1;nchez</surname><given-names>MA</given-names></name><name><surname>V&#x000e1;squez</surname><given-names>M</given-names></name><name><surname>Gonz&#x000e1;lez</surname><given-names>B</given-names></name></person-group><year>2004</year><article-title>A previously unexposed forest soil microbial community degrades
+high levels of the pollutant 2,4,6-trichlorophenol</article-title><source>Appl Environ Microbiol</source><volume>70</volume><fpage>7567</fpage><lpage>7570</lpage><pub-id pub-id-type="pmid">15574963</pub-id></element-citation></ref><ref id="B36"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Schleinitz</surname><given-names>KM</given-names></name><name><surname>Kleinsteuber</surname><given-names>S</given-names></name><name><surname>Vallaeys</surname><given-names>T</given-names></name><etal/></person-group><year>2004</year><article-title>Localization and characterization of two novel genes encoding
+stereospecific dioxygenases catalyzing 2(2,4-dichlorophenoxy)propionate
+cleavage in <italic>Delftia acidovorans</italic> MC1</article-title><source>Appl Environ Microbiol</source><volume>70</volume><fpage>5357</fpage><lpage>5365</lpage><pub-id pub-id-type="pmid">15345421</pub-id></element-citation></ref><ref id="B37"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Shimojo</surname><given-names>M</given-names></name><name><surname>Kawakami</surname><given-names>M</given-names></name><name><surname>Amada</surname><given-names>K</given-names></name></person-group><year>2009</year><article-title>Analysis of genes encoding the 2,4-dichlorophenoxyacetic
+acid-degrading enzyme from <italic>Sphingomonas agrestis</italic>
+58-1</article-title><source>J Biosci Bioeng</source><volume>108</volume><fpage>56</fpage><lpage>59</lpage><pub-id pub-id-type="pmid">19577193</pub-id></element-citation></ref><ref id="B38"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Singh</surname><given-names>DK</given-names></name></person-group><year>2008</year><article-title>Biodegradation and bioremediation of pesticide in soil: concept,
+method and recent developments</article-title><source>Indian J Microbiol</source><volume>48</volume><fpage>35</fpage><lpage>40</lpage><pub-id pub-id-type="pmid">23100698</pub-id></element-citation></ref><ref id="B39"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Smejkal</surname><given-names>CW</given-names></name><name><surname>Vallaeys</surname><given-names>T</given-names></name><name><surname>Seymour</surname><given-names>FA</given-names></name><etal/></person-group><year>2001a</year><article-title>Characterization of (R/S)-mecoprop
+[2-(2-methyl-4-chlorophenoxy)propionic acid]-degrading
+<italic>Alcaligenes</italic> sp. CS1 and <italic>Ralstonia</italic> sp.
+CS2 isolated from agricultural soils</article-title><source>Environ Microbiol</source><volume>3</volume><fpage>288</fpage><lpage>293</lpage><pub-id pub-id-type="pmid">11359515</pub-id></element-citation></ref><ref id="B40"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Smejkal</surname><given-names>CW</given-names></name><name><surname>Vallaeys</surname><given-names>T</given-names></name><name><surname>Burton</surname><given-names>SK</given-names></name><etal/></person-group><year>2001b</year><article-title>A rapid method to screen degradation ability in
+chlorophenoxyalkanoic acid herbicide-degrading bacteria</article-title><source>Lett Appl Microbiol</source><volume>32</volume><fpage>273</fpage><lpage>277</lpage><pub-id pub-id-type="pmid">11298940</pub-id></element-citation></ref><ref id="B41"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Smejkal</surname><given-names>CW</given-names></name><name><surname>Seymour</surname><given-names>FA</given-names></name><name><surname>Burton</surname><given-names>SK</given-names></name><etal/></person-group><year>2003</year><article-title>Characterisation of bacterial cultures enriched on the
+chlorophenoxyalkanoic acid herbicides 4-(2,4-dichlorophenoxy) butyric acid
+and 4-(4-chloro-2-methylphenoxy) butyric acid</article-title><source>J Ind Microbiol Biotechnol</source><volume>30</volume><fpage>561</fpage><lpage>567</lpage><pub-id pub-id-type="pmid">14513383</pub-id></element-citation></ref><ref id="B42"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Streber</surname><given-names>WR</given-names></name><name><surname>Timmis</surname><given-names>KN</given-names></name><name><surname>Zenk</surname><given-names>MH</given-names></name></person-group><year>1987</year><article-title>Analysis, cloning, and high-level expressions of
+2,4-dichlorophenoxyacetate monooxygenase gene <italic>tfdA</italic> of
+<italic>Alcaligenes eutrophus</italic> JMP134</article-title><source>J Bacteriol</source><volume>169</volume><fpage>2950</fpage><lpage>2955</lpage><pub-id pub-id-type="pmid">3036764</pub-id></element-citation></ref><ref id="B43"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Suwa</surname><given-names>Y</given-names></name><name><surname>Wright</surname><given-names>AD</given-names></name><name><surname>Fukimori</surname><given-names>F</given-names></name><etal/></person-group><year>1996</year><article-title>Characterization of a chromosomally encoded
+2,4-dichlorophenoxyacetic acid/&#x003b1;-ketoglutarate dioxygenase from
+<italic>Burkholderia</italic> sp. strain RASC</article-title><source>Appl Environ Microbiol</source><volume>62</volume><fpage>2464</fpage><lpage>2469</lpage><pub-id pub-id-type="pmid">8779585</pub-id></element-citation></ref><ref id="B44"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Tamura</surname><given-names>K</given-names></name><name><surname>Peterson</surname><given-names>D</given-names></name><name><surname>Peterson</surname><given-names>N</given-names></name><etal/></person-group><year>2011</year><article-title>MEGA5: Molecular evolutionary genetics analysis using maximum
+likelihood, evolutionary distance, and maximum parsimony
+methods</article-title><source>Mol Biol Evol</source><volume>28</volume><fpage>2731</fpage><lpage>2739</lpage><pub-id pub-id-type="pmid">21546353</pub-id></element-citation></ref><ref id="B45"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Thompson</surname><given-names>I</given-names></name><name><surname>van der Gast</surname><given-names>CJ</given-names></name><name><surname>Ciric</surname><given-names>L</given-names></name><etal/></person-group><year>2005</year><article-title>Bioaugmentation for bioremediation: the challenge of strain
+selection</article-title><source>Environ Microbiol</source><volume>7</volume><fpage>909</fpage><lpage>915</lpage><pub-id pub-id-type="pmid">15946288</pub-id></element-citation></ref><ref id="B46"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Vallaeys</surname><given-names>T</given-names></name><name><surname>Courde</surname><given-names>L</given-names></name><name><surname>McGowan</surname><given-names>C</given-names></name><etal/></person-group><year>1999</year><article-title>Phylogenetic analyses indicate independent recruitment of diverse
+gene cassettes during assemblage of the 2,4-D catabolic
+pathway</article-title><source>FEMS Microbiol Ecol</source><volume>28</volume><fpage>373</fpage><lpage>382</lpage></element-citation></ref><ref id="B47"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Vandamme</surname><given-names>P</given-names></name><name><surname>Coenye</surname><given-names>T</given-names></name></person-group><year>2004</year><article-title>Taxonomy of the genus <italic>Cupriavidus</italic>: a tale of
+lost and found</article-title><source>Int J Syst Evol Microbiol</source><volume>54</volume><fpage>2285</fpage><lpage>2289</lpage><pub-id pub-id-type="pmid">15545472</pub-id></element-citation></ref><ref id="B48"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Vaneechoutte</surname><given-names>M</given-names></name><name><surname>K?mpfer</surname><given-names>P</given-names></name><name><surname>De Baere</surname><given-names>T</given-names></name><etal/></person-group><year>2004</year><article-title>
+<italic>Wautersia</italic> gen. nov., a novel genus accommodating
+the phylogenetic lineage including <italic>Ralstonia eutropha</italic> and
+related species, and proposal of <italic>Ralstonia</italic>
+[<italic>Pseudomonas</italic>] <italic>syzygii</italic> (Roberts
+<italic>et al</italic>., 1990) comb. nov</article-title><source>Int J Syst Evol Microbiol</source><volume>54</volume><fpage>317</fpage><lpage>327</lpage><pub-id pub-id-type="pmid">15023939</pub-id></element-citation></ref><ref id="B49"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Westendorf</surname><given-names>A</given-names></name><name><surname>Benndorf</surname><given-names>D</given-names></name><name><surname>Pribyl</surname><given-names>T</given-names></name><etal/></person-group><year>2006</year><article-title>Kinetic traits and enzyme form patterns of
+(R)-2-(2,4-dichlorophenoxy)propionate/&#x003b1;-ketoglutarate dioxygenase (RdpA)
+after expression in different bacterial strains</article-title><source>Eng Life Sci</source><volume>6</volume><fpage>552</fpage><lpage>559</lpage></element-citation></ref><ref id="B50"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wright</surname><given-names>TR</given-names></name><name><surname>Shan</surname><given-names>G</given-names></name><name><surname>Walsh</surname><given-names>TA</given-names></name><etal/></person-group><year>2010</year><article-title>Robust crop resistance to broadleaf and grass herbicides provided
+by aryloxyalkanoate dioxygenase transgenes</article-title><source>PNAS</source><volume>107</volume><fpage>20240</fpage><lpage>20245</lpage><pub-id pub-id-type="pmid">21059954</pub-id></element-citation></ref><ref id="B51"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zabaloy</surname><given-names>MC</given-names></name><name><surname>G&#x000f3;mez</surname><given-names>MA</given-names></name></person-group><year>2013</year><article-title>Isolation and characterization of indigenous 2,4-D herbicide
+degrading bacteria from an agricultural soil in proximity of Sauce Grande
+River, Argentina</article-title><source>Ann Microbiol</source><pub-id pub-id-type="doi">10.1007/s13213-013-0731-9</pub-id></element-citation></ref></ref-list></back></article>

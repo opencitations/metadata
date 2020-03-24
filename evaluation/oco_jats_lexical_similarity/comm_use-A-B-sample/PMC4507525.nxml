@@ -1,0 +1,424 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:ali="http://www.niso.org/schemas/ali/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Braz J Microbiol</journal-id><journal-id journal-id-type="iso-abbrev">Braz. J. Microbiol</journal-id><journal-id journal-id-type="publisher-id">bjm</journal-id><journal-title-group><journal-title>Brazilian Journal of Microbiology</journal-title></journal-title-group><issn pub-type="ppub">1517-8382</issn><issn pub-type="epub">1678-4405</issn><publisher><publisher-name>Sociedade Brasileira de Microbiologia</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">26273248</article-id><article-id pub-id-type="pmc">4507525</article-id><article-id pub-id-type="doi">10.1590/S1517-838246220130316</article-id><article-categories><subj-group subj-group-type="heading"><subject>Environmental Microbiology</subject></subj-group></article-categories><title-group><article-title>Halotolerant bacteria in the S&#x000e3;o Paulo Zoo composting process and
+their hydrolases and bioproducts</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Oliveira</surname><given-names>Lilian C.G.</given-names></name><xref ref-type="aff" rid="aff01">1</xref></contrib><contrib contrib-type="author"><name><surname>Ramos</surname><given-names>Patricia Locosque</given-names></name><xref ref-type="aff" rid="aff01">1</xref><xref ref-type="aff" rid="aff03">3</xref></contrib><contrib contrib-type="author"><name><surname>Marem</surname><given-names>Alyne</given-names></name><xref ref-type="aff" rid="aff01">1</xref></contrib><contrib contrib-type="author"><name><surname>Kondo</surname><given-names>Marcia Y.</given-names></name><xref ref-type="aff" rid="aff01">1</xref></contrib><contrib contrib-type="author"><name><surname>Rocha</surname><given-names>Rafael C.S.</given-names></name><xref ref-type="aff" rid="aff01">1</xref><xref ref-type="aff" rid="aff04">4</xref></contrib><contrib contrib-type="author"><name><surname>Bertolini</surname><given-names>Thiago</given-names></name><xref ref-type="aff" rid="aff01">1</xref></contrib><contrib contrib-type="author"><name><surname>Silveira</surname><given-names>Marghuel A.V.</given-names></name><xref ref-type="aff" rid="aff02">2</xref></contrib><contrib contrib-type="author"><name><surname>da Cruz</surname><given-names>Jo&#x000e3;o Batista</given-names></name><xref ref-type="aff" rid="aff03">3</xref></contrib><contrib contrib-type="author"><name><surname>de Vasconcellos</surname><given-names>Suzan Pantaroto</given-names></name><xref ref-type="aff" rid="aff02">2</xref><xref ref-type="aff" rid="aff03">3</xref></contrib><contrib contrib-type="author"><name><surname>Juliano</surname><given-names>Luiz</given-names></name><xref ref-type="aff" rid="aff01">1</xref><xref ref-type="aff" rid="aff03">3</xref><xref rid="c01" ref-type="corresp"/></contrib><contrib contrib-type="author"><name><surname>Okamoto</surname><given-names>Debora N.</given-names></name><xref ref-type="aff" rid="aff01">1</xref></contrib></contrib-group><aff id="aff01"><label>1</label>Universidade Federal de S&#x000e3;o
+Paulo, Departamento de Biof&#x000ed;sica, Escola Paulista de Medicina, Universidade Federal de S&#x000e3;o Paulo, S&#x000e3;o Paulo, SP, Brasil, Departamento de Biof&#x000ed;sica, Escola Paulista de
+Medicina, Universidade Federal de S&#x000e3;o Paulo, S&#x000e3;o Paulo, SP,
+Brazil.</aff><aff id="aff02"><label>2</label>Universidade Federal de S&#x000e3;o
+Paulo, Departamento de Ci&#x000ea;ncias
+Biol&#x000f3;gicas, Universidade Federal de S&#x000e3;o Paulo, Diadema, SP, Brasil, Departamento de Ci&#x000ea;ncias Biol&#x000f3;gicas,
+Universidade Federal de S&#x000e3;o Paulo, Diadema, SP, Brazil.</aff><aff id="aff03"><label>3</label>Laborat&#x000f3;rio de Microbiologia
+Aplicada, Funda&#x000e7;&#x000e3;o Parque Zool&#x000f3;gico de S&#x000e3;o
+Paulo, S&#x000e3;o Paulo, SP, Brasil, Laborat&#x000f3;rio de Microbiologia Aplicada, Funda&#x000e7;&#x000e3;o
+Parque Zool&#x000f3;gico de S&#x000e3;o Paulo, S&#x000e3;o Paulo, SP, Brazil.</aff><aff id="aff04"><label>4</label>Koppert Biological Systems, Itapetininga, SP, Brasil, Koppert Biological Systems, Itapetininga, SP,
+Brazil.</aff><author-notes><corresp id="c01">Send correspondence to L. Juliano. Departamento de Biof&#x000ed;sica,
+Escola Paulista de Medicina, Universidade Federal de S&#x000e3;o Paulo, Rua Tr&#x000ea;s de Maio
+100, 04044-020 S&#x000e3;o Paulo, SP, Brazil. E-mail:
+<email>ljuliano@terra.com.br</email>.</corresp><fn id="fn01" fn-type="other"><p>Associate Editor: Cynthia Can&#x000ea;do da Silva</p></fn></author-notes><pub-date pub-type="epub"><day>01</day><month>6</month><year>2015</year></pub-date><pub-date pub-type="collection"><month>6</month><year>2015</year></pub-date><volume>46</volume><issue>2</issue><fpage>347</fpage><lpage>354</lpage><history><date date-type="received"><day>20</day><month>3</month><year>2013</year></date><date date-type="accepted"><day>15</day><month>8</month><year>2014</year></date></history><permissions><copyright-statement>Copyright &#x000a9; 2015, Sociedade Brasileira de
+Microbiologia</copyright-statement><copyright-year>2015</copyright-year><license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/3.0/"><license-p>All the content of the journal, except where otherwise noted, is
+licensed under a Creative Commons License CC BY-NC.</license-p></license></permissions><abstract><p>Halophilic microorganisms are able to grow in the presence of salt and are also
+excellent source of enzymes and biotechnological products, such as
+exopolysaccharides (EPSs) and polyhydroxyalkanoates (PHAs). Salt-tolerant
+bacteria were screened in the Organic Composting Production Unit (OCPU) of S&#x000e3;o
+Paulo Zoological Park Foundation, which processes 4 ton/day of organic residues
+including plant matter from the Atlantic Rain Forest, animal manure and
+carcasses and mud from water treatment. Among the screened microorganisms, eight
+halotolerant bacteria grew at NaCl concentrations up to 4 M. These cultures were
+classified based on phylogenetic characteristics and comparative partial 16S
+rRNA gene sequence analysis as belonging to the genera
+<italic>Staphylococcus</italic>, <italic>Bacillus</italic> and
+<italic>Brevibacterium</italic>. The results of this study describe the
+ability of these halotolerant bacteria to produce some classes of hydrolases,
+namely, lipases, proteases, amylases and cellulases, and biopolymers. The strain
+characterized as of <italic>Brevibacterium avium</italic> presented cellulase
+and amylase activities up to 4 M NaCl and also produced EPSs and PHAs. These
+results indicate the biotechnological potential of certain microorganisms
+recovered from the composting process, including halotolerant species, which
+have the ability to produce enzymes and biopolymers, offering new perspectives
+for environmental and industrial applications.</p></abstract><kwd-group><kwd>halophilic</kwd><kwd>protease</kwd><kwd>lipase</kwd><kwd>amylase</kwd><kwd>cellulase</kwd></kwd-group><counts><fig-count count="2"/><table-count count="2"/><equation-count count="0"/><ref-count count="41"/><page-count count="8"/></counts></article-meta></front><body><sec sec-type="intro"><title>Introduction</title><p>The biocatalysts required in several industrial processes exhibit optimal activities
+at high ranges of salt concentration, pH and temperature. Halophiles are excellent
+sources of such enzymes and are found in nearly all major microbial clades,
+including prokaryotic (Bacteria and Archaea) and eukaryotic forms; two categories
+have been defined: halotolerant microorganisms that are adapted in live at high
+salinity, and halophiles that require salinity for growth. Halotolerant species tend
+to live in areas of salinity, such as hypersaline lakes, coastal dunes, saline
+deserts and salt seas (<xref rid="B35" ref-type="bibr">Ventosa and Nieto,
+1995</xref>).</p><p>Halophilic enzymes perform the same enzyme function as their non-halophilic
+counterparts but require 1&#x02013;4 M salt concentrations for their full activity and
+stability. In addition, these enzymes typically demonstrate a large excess of acidic
+amino acids compared to basic residues (<xref rid="B07" ref-type="bibr">Enache and
+Kamekura, 2010</xref>).</p><p>Proteases constitute approximately 66% of the total enzymes employed in
+biotechnological and commercial processes (<xref rid="B12" ref-type="bibr">Gupta
+<italic>et al.</italic>, 2002</xref>), and the moderately halophilic aerobic
+bacteria of genera <italic>Bacillus</italic>, <italic>Pseudomonas</italic>,
+<italic>Halomonas</italic> and <italic>Serratia</italic> are important sources
+of proteases (<xref rid="B36" ref-type="bibr">Ventosa <italic>et al.</italic>,
+1998</xref>). Amylases are extensively studied due to their potential
+application in the food, detergent, paper and pharmaceutical industries,
+representing approximately 25% of the total enzymes in the industrial market. The
+extracellular production of &#x003b2;-amylase by halophilic <italic>Halobacillus</italic>
+sp. LY9 and of two &#x003b1;-amylases from <italic>Chromohalobacter</italic> sp. has been
+reported (<xref rid="B15" ref-type="bibr">Li and Yu, 2011</xref>; <xref rid="B26" ref-type="bibr">Prakash <italic>et al.</italic>, 2009</xref>). Cellulases also
+have industrial application, including the generation of bioethanol and in the
+textile industry, and a halotolerant cellulase was characterized in a soil
+metagenome analysis (<xref rid="B37" ref-type="bibr">Voget <italic>et al.</italic>,
+2006</xref>). Lipolytic enzymes are of particular industrial interest, and their
+identification in halophilic bacteria has been reported and recently reviewed (<xref rid="B11" ref-type="bibr">Gomez <italic>et al.</italic>, 2012</xref>).
+Exopolysaccharides (EPSs) and polyhydroxyalkanoates (PHAs) are biotechnological
+products that were identified and produced from halophilic/halotolerant
+microorganisms (<xref rid="B14" ref-type="bibr">Legat <italic>et al.</italic>,
+2010</xref>; <xref rid="B16" ref-type="bibr">Litchfield, 2012</xref>).</p><p>In this sense, the Organic Composting Production Unit (OCPU) of SPZPF is a potential
+source of microorganisms, as demonstrated by an OCPU metagenomic analysis, which
+revealed a diversity of biomass degradation functions and organisms (<xref rid="B18" ref-type="bibr">Martins <italic>et al.</italic>, 2013</xref>). The composting
+process is predominantly aerobic, with organic residues being degraded by
+microorganisms, generating a humus-like material. In recent years, composting has
+attracted attention as a viable and environmentally adequate alternative for the
+treatment of organic waste. The initial phase of composting is thought to be the
+most dynamic part of the process and is characterized by a rapid increase in
+temperature, a large change in pH, and the degradation of simple organic compounds
+(<xref rid="B31" ref-type="bibr">Schloss <italic>et al.</italic>, 2003</xref>).
+A detailed comparison of the bacterial diversity from different composting plants
+revealed a large difference at both the species and strain levels (<xref rid="B23" ref-type="bibr">Partanen <italic>et al.</italic>, 2010</xref>).</p><p>This paper reports the screening of the composting process of OCPU at SPZPF for
+bacteria in the presence of a range of NaCl concentrations and also the evaluation
+of their potential for the production hydrolases and biopolymers. To date, the
+microbial diversity of this ecosystem has not been explored, particularly with
+regard to the screening of halotolerant microorganisms.</p></sec><sec sec-type="materials|methods"><title>Material and Methods</title><sec><title>Bacterial strains and isolation of DNA</title><sec><title>Composting process</title><p>The composting process was conducted in the SPZPF OCPU in 2.5 &#x000d7; 2.0 &#x000d7; 1.6 m
+(length&#x000d7;width&#x000d7;height) cells, as shown in <xref rid="f01" ref-type="fig">Figure 1</xref>. The piles were formed by organic residues including
+food, droppings and excreta, the beds of native and exotic wild animals,
+carcasses and wood chips from gardening. The pile has decomposition phases
+that were considered active degradation (before aeration) and mature compost
+(after aeration). Pile aeration was achieved by the mechanical turning of
+the material after 50 to 60 days of composting. The temperature of the pile
+was monitored at five different points (four sides and one center). The
+average temperature of the pile at the time of collection was 50 &#x000b0;C.</p><fig id="f01" orientation="portrait" position="float"><label>Figure 1</label><caption><title>Partial view of the Organic Composting Production Unit (OCPU) of
+S&#x000e3;o Paulo Zoological Park Foundation. (A) Aerobic composting process
+in the thermophilic phase; (B) grinding of plant matter from the
+Atlantic Rain Forest; (C) maturation phase of the composting
+process.</title></caption><graphic xlink:href="1517-8382-bjm-46-2-347-gf01"/></fig></sec><sec><title>Microbial isolation</title><p>Compost samples (10 g) were collected from the piles and diluted in 90 mL of
+sterile water. Serial dilutions (&#x02212;2, &#x02212;4 and &#x02212;6) were performed and spread on
+agar plates of two selective halophilic media: JCM n&#x000ba; 377 medium (10% [w/v]
+NaCl, 0.5% [w/v] casamino acids, 0.5% [w/v] yeast extract, 0.2% [w/v] KCl,
+0.3% [w/v] sodium citrate, 2% [w/v] MgSO<sub>4</sub>&#x02022;7H<sub>2</sub>O, 0.036%
+[w/v] FeCl<sub>2</sub> 4H<sub>2</sub>O, 0.00036% [w/v] MnCl<sub>2</sub>
+4H<sub>2</sub>O and 2% [w/v] agar, pH 7.2) and YPC medium (0.5% [w/v]
+yeast extract, 0.1% [w/v] peptone and 0.1% [w/v] casamino acids with 60%
+[v/v] of salt water solution 24% [w/v] NaCl, 3% [w/v] MgCl<sub>2</sub>
+6H<sub>2</sub>O, 3.5% [w/v] MgSO<sub>4</sub>&#x02022;7H<sub>2</sub>O, 0.1% [w/v]
+KCl, 20 mM Tris HCl pH 7.5 and 3 mM CaCl<sub>2</sub>) and incubated at 30,
+37 and 42 &#x000b0;C. After 24 or 48 h, the colonies were selected and transferred
+separately to obtain purified colonies.</p></sec></sec><sec><title>Screening of secreted extracellular hydrolytic activities</title><p>Enzymatic agar plate assays were performed to detect the presence of
+extracellular hydrolases. All media were adjusted to pH 7.3, and NaCl was added
+to obtain a salt concentration in the range of 0&#x02013;4 M. The composition of the
+media used is described below.</p><sec><title>Determination of extracellular amylase activity</title><p>Amylolytic activity on plates was determined qualitatively using a previously
+described method (<xref rid="B24" ref-type="bibr">Pascon <italic>et
+al.</italic>, 2011</xref>), which was modified for halophilic
+microorganisms by adding NaCl in the medium. After incubation at 37 &#x000b0;C for 5
+days, the plates were exposed to iodine crystals for 5 min to reveal the
+starch degradation zone that indicates amylolytic activity.</p></sec><sec><title>Determination of extracellular protease activity</title><p>The cultures were screened in JCM n&#x000ba; 377 medium and YPC medium supplemented
+with 1% skim milk for the determination of protein hydrolytic activity.
+Clear zones around the colonies after 7 days were taken as evidence of
+proteolytic activity.</p></sec><sec><title>Determination of extracellular lipase activity</title><p>Lipase production by the isolated microorganisms was evaluated in nutrient
+agar tributyrin medium (NAT), which consisted of 1.3% nutrient broth, 1%
+tributyrin and 2% agar (<xref rid="B01" ref-type="bibr">Ben-Gigirey
+<italic>et al.</italic>, 2000</xref>). After incubation at 37 &#x000b0;C for
+7 days, the hydrolytic zones around the bacterial colonies were considered
+an indication of lipase production.</p></sec><sec><title>Determination of extracellular cellulase activity</title><p>Cellulase activity was screened on a solid medium containing carboxymethyl
+cellulose (CMC) (<xref rid="B27" ref-type="bibr">Rohban <italic>et
+al.</italic>, 2009</xref>). After incubation at 37 &#x000b0;C for 7 days,
+the plates were flooded with 0.1% Congo red solution. The clear zone around
+colonies indicated cellulolytic activity.</p></sec></sec><sec><title>Screening of polyhydroxyalkanoates and exopolysaccharides</title><sec><title>Detection of polyhydroxyalkanoate (PHA)-producing microorganisms</title><p>The isolates were evaluated in mineral medium (<xref rid="B30" ref-type="bibr">Schlegel <italic>et al.</italic>, 1970</xref>) with 2.5
+M NaCl and containing glucose, xylose or octanoic acid as the carbon source.
+Glucose is known to be a carbon source for the production of
+short-chain-length PHAs, whereas octanoic acid produces medium-chain-length
+PHAs. Sugarcane bagasse contains xylose, and its excess is a promising
+substrate for producing by-products, such as second-generation bioethanol
+and PHAs (<xref rid="B17" ref-type="bibr">Lopes <italic>et al.</italic>,
+2009</xref>). After 24 h of incubation (30 &#x000b0;C), the isolated strains
+were evaluated for their ability to grow on these carbon sources; the
+isolates were stained with Sudan Black B after 72 h to verify their
+potential to produce PHAs<italic>.</italic>
+</p></sec><sec><title>Detection of exopolysaccharide (EPS) producers</title><p>The isolates were cultivated in Bushnell Haas Salt Medium (50 mL) containing
+2.5 M NaCl with glycerol as sole the carbon source for the microbial growth.
+After incubation for 5 days at 30 &#x000b0;C in a rotary shaker (150 rpm), the
+cultures were centrifuged at 8,200 &#x000d7; <italic>g</italic> for 15 min (4 &#x000b0;C).
+The emulsification index (E24) of the supernatant was evaluated according to
+the method described by <xref rid="B09" ref-type="bibr">Fleck <italic>et
+al.</italic> (2000)</xref> using hexadecane as a hydrophobic model
+compound. The chemical composition of EPSs precipitated from the supernatant
+with ethanol up to 70% was dialyzed against pure water, and carbohydrates,
+proteins and uronic acids were quantified in the retained high molecular
+weight fraction, as reported (<xref rid="B33" ref-type="bibr">Tanasupawat
+<italic>et al.</italic>, 2010</xref>).</p></sec></sec><sec><title>Bacterial identification</title><sec><title>Mass spectrometry</title><p>The isolated microorganisms were treated with ethanol/formic acid for content
+extraction, following a previously described protocol (<xref rid="B24" ref-type="bibr">Pascon <italic>et al.</italic>, 2011</xref>).
+Measurements were conducted with a Microflex LT mass spectrometer (Bruker
+Daltonics) using FlexControl software (version 3.0, Bruker Daltonics) in the
+positive linear mode (laser frequency, 20 Hz; ion source 1 voltage, 20 kV;
+ion source 2 voltage, 18.6 kV; lens voltage, 7.5 kV; mass range, 2000 to 20
+000 Da). For each spectrum, 240 shots in 50-shot steps from different
+positions of the target spot (automatic mode) were collected and analyzed.
+The spectra were internally calibrated using <italic>Escherichia
+coli</italic> ribosomal proteins. The raw spectra were imported into the
+BioTyper software (version 2.0, Bruker Daltonics) and processed by standard
+pattern matching with default settings; the results were reported in a
+ranking table.</p></sec><sec><title>Amplification and sequencing of 16S rRNA gene fragment</title><p>DNA (30&#x02013;50 ng) from each strain was incubated in a 50-&#x003bc;L reaction mixture
+containing 2 mM MgCl<sub>2</sub>, 200 &#x003bc;M dNTPs, 0.3 &#x003bc;M universal primer 27f
+(5-AGAGTTGATCCTGGCTCAG-3), 0.3 &#x003bc;M 1525r (5-AAGGAGGTGWTCCARCC-3) and 2 U
+<italic>Taq</italic> DNA polymerase (Invitrogen) in the recommended
+buffer. Amplification was performed in a Veriti 96 well Thermal Cycler
+(Applied Biosystems) with an initial temperature at 94 &#x000b0;C for 2 min, 30
+cycles at 94 &#x000b0;C for 1 min, 55 &#x000b0;C for 1 min and 72 &#x000b0;C for 3 min. A final
+extension at 72 &#x000b0;C was included for 10 min. The PCR products were purified
+with a GFX PCR DNA and gel band purification kit (GE Healthcare), and the
+sequence analysis was performed using a 3500 Genetic Analyzer Sequencer
+(Applied Biosystems). Subsequently, 5.0 &#x003bc;L purified PCR product was mixed
+with 4.0 &#x003bc;L of BigDye v. 3.1 (Applied Biosystems) and 1.0 &#x003bc;L sequencing
+primer (0.5 &#x003bc;mol). The primers used in the sequencing reactions were 27f
+(<xref rid="B06" ref-type="bibr">Dojka <italic>et al.</italic>,
+1998</xref>), 782r (5ACCAGGGTATCTAATCCTGT3) (<xref rid="B05" ref-type="bibr">Chun and Goodfellow, 1995</xref>) and 1401r
+(5CGGTGTGTACAAGACC C3) (<xref rid="B20" ref-type="bibr">N&#x000fc;bel <italic>et
+al.</italic>, 1996</xref>). The sequencing program consisted of 25
+cycles at 95 &#x000b0;C for 20 s, 50 &#x000b0;C for 15 s and 60 &#x000b0;C for 60 s. The 16S rRNA
+gene sequence of all the analyzed strains was compared to bacterial
+sequences deposited in GenBank. Sequences with similarity were retrieved,
+and the consensus sequences were aligned using CLUSTALW with MEGA 5.05.
+EzTaxon tools (<ext-link ext-link-type="uri" xlink:href="http://147.47.212.35:8080/">http://147.47.212.35:8080/</ext-link>) were further
+employed to confirm the similarities, and phylogenetic trees were
+constructed based on neighbor-joining, maximum-likelihood and
+maximum-parsimony methods. The resulting tree topologies were evaluated by a
+bootstrap analysis based on 1000 replicates.</p></sec></sec><sec><title>Nucleotide sequence accession numbers</title><p>The sequenced strains SR5-6, SR5-7, SR5-12, YPC-6, YPC-8, YPC-11, YPC-13 and
+YPC-15 were deposited in GenBank under accession numbers JX154082, JX154083,
+JX154084, JX154085, JX154086, JX154087, JX154088 and JX154089, respectively.</p></sec></sec><sec><title>Results and Discussion</title><sec><title>Identification of halophilic strains</title><p>The isolated bacteria were obtained from the composting process during the
+turning stage (60<sup>th</sup> day). Eight out of eleven halophilic isolates in
+2.5 M NaCl from the composting process were subjected to a MALDI-TOF mass
+spectrometry analysis, which indicated that the genera of all isolates were Gram
+positive, which was confirmed by Gram staining. These procedures ensured and
+confirmed the purity of the isolates. The 16S rRNA gene sequences of eight
+strains (&#x0003e; than 1300 bp) were compared with those previously deposited in
+GenBank. The neighbor-joining and maximum-likelihood trees showed the taxonomic
+position of these strains, which were affiliated with <italic>Bacillus</italic>,
+<italic>Staphylococcus</italic> and <italic>Brevibacterium</italic> genera
+(<xref rid="f02" ref-type="fig">Figure 2</xref>)<italic>.</italic>
+</p><fig id="f02" orientation="portrait" position="float"><label>Figure 2</label><caption><title>Phylogenetic tree showing the position of the halotolerant isolates,
+as based on a partial 16S rRNA gene sequence comparison obtained by
+neighbor-joining and maximum-likelihood trees. The nucleotide sequence
+accession numbers were deposited in GenBank, as described in Material
+and Methods.</title></caption><graphic xlink:href="1517-8382-bjm-46-2-347-gf02"/></fig><p>Strain SR5-7 showed high 16S rRNA gene sequence similarity to
+<italic>Bacillus</italic> when compared with the 184 different species of
+this genus. However, based on the similarity matrix of the 16S rRNA gene, this
+isolate did not show 100% similarity with any of the species already reported.
+The species of <italic>Bacillus</italic> described as halophilic to date are as
+follows: <italic>B. hemicentroti</italic> (<xref rid="B02" ref-type="bibr">Chen
+<italic>et al.</italic>, 2011</xref>); <italic>B. humanensis</italic>
+(<xref rid="B02" ref-type="bibr">Chen <italic>et al.</italic>, 2011</xref>);
+<italic>B. xianensis</italic> (<xref rid="B29" ref-type="bibr">Sanchez-Porro
+<italic>et al.</italic>, 2003</xref>; <xref rid="B30" ref-type="bibr">Schlegel <italic>et al.</italic>, 1970</xref>); <italic>B.
+alkaliphilic</italic> (<xref rid="B40" ref-type="bibr">Zhang <italic>et
+al.</italic>, 2012</xref>); <italic>B. halochares</italic> (<xref rid="B22" ref-type="bibr">Pappa <italic>et al.</italic>, 2010</xref>);
+<italic>B. chungangensis</italic> (<xref rid="B04" ref-type="bibr">Cho
+<italic>et al.</italic>, 2010</xref>) and <italic>B. subtilis</italic>
+(<xref rid="B32" ref-type="bibr">Takenaka <italic>et al.</italic>,
+2011</xref>). Thus, the possibility that a new species of halophilic
+<italic>Bacillus</italic> was isolated from a compost process is
+noteworthy.</p><p>The YPC-11 strain was identified as <italic>Brevibacterium avium</italic> (100%
+similarity). An EzTaxon analysis confirmed that this strain shared 100% 16S rRNA
+gene sequence similarity with <italic>B. avium</italic> and 99.97% with
+<italic>Brevibacterium epidermidis</italic>, the only halotolerant bacterium
+(<xref rid="B19" ref-type="bibr">Nagata and Wang, 2005</xref>) described in
+the genus <italic>Brevibacterium</italic>.</p><p>Strains SR5-12, SR5-6, YPC-6, YPC-8, YPC-13 and YPC-15 were classified as members
+of the <italic>Staphylococcus</italic> genus. The isolates SR5-12 and SR5-6
+showed 100% 16S rRNA gene sequence similarity with <italic>S. lentus</italic>
+and <italic>S. sciuri</italic>, respectively, a result that was confirmed by
+EzTaxon. However, to date, these species have not been described as high salt
+concentration-tolerant bacteria, with the only species of
+<italic>Staphylococcus</italic> known as halophilic being
+<italic>Staphylococcus equorum</italic> (<xref rid="B08" ref-type="bibr">Essghaier <italic>et al.</italic>, 2009</xref>).</p><p>All the selected isolates were deposited at the S&#x000e3;o Paulo Zoo Park Culture
+Collection (SPZSP-CCol).</p></sec><sec><title>Salt tolerance and growth of halophilic isolates</title><p>All the bacteria isolated in 2.5 M NaCl were tested for their ability to grow at
+different salt concentrations. A slowing of bacterial growth was observed in the
+presence of high salt concentrations, as indicated by the time (in days)
+required for detecting the presence of bacteria in the culture medium (<xref rid="t01" ref-type="table">Table 1</xref>). <italic>Staphylococcus</italic>
+strains SR5-12, YPC-6, SR5-6 and YPC-8 showed similar growth behavior from 0 to
+4.0 M NaCl. Strain YPC-13 had the slowest growth at high salinity, and strain
+YPC-15 grew preferentially at 2.5 M NaCl or higher. <italic>Bacillus</italic>
+strains SR5-7 and YPC-11 (affiliated with <italic>B. avium</italic>) exhibited a
+preference for growing in a culture medium containing 0.5 to 2.0 M NaCl but
+failed to grow in 4.0 M NaCl. It is important to note that although all of these
+bacteria tolerated high salinities (2.5 M NaCl or higher), they are not strictly
+halophilic bacteria. According to <xref rid="B13" ref-type="bibr">Kushner
+(1978)</xref>, bacteria that are able to grow in the absence of salt as well
+as in the presence of relatively high salt concentrations are designated
+halotolerant or extremely halotolerant if growth extends above 2.5 M. Based on
+this classification, seven out of the eight isolated microorganisms isolated
+from composting process were halotolerant or extremely halotolerant. It should
+be noted that the salt requirement and tolerance of many species vary according
+to the growth conditions, such as temperature and medium composition.</p><table-wrap id="t01" orientation="portrait" position="float"><label>Table 1</label><caption><title>Different types of hydrolytic activities, amylase (A), cellulase (C),
+lipase (L) and protease (P), found in the eight strains isolated from
+OCPU at the 0 &#x02013; 4.0 M NaCl concentration range.</title></caption><table frame="hsides" rules="groups"><thead><tr><th valign="bottom" align="left" rowspan="1" colspan="1"/><th colspan="2" valign="bottom" align="center" rowspan="1">SR5-6
+(<italic>Staphylococcus</italic> sp.)</th><th colspan="2" valign="bottom" align="center" rowspan="1">SR5-7
+(<italic>Bacillus</italic> sp.)</th><th colspan="2" valign="bottom" align="center" rowspan="1">SR5-12 (<italic>S.
+lentus</italic>)</th><th colspan="2" valign="bottom" align="center" rowspan="1">YPC-6
+(<italic>Staphylococcus</italic> sp<italic>.</italic>)</th><th colspan="2" valign="bottom" align="center" rowspan="1">YPC-8
+(<italic>Staphylococcus</italic> sp<italic>.</italic>)</th><th colspan="2" valign="bottom" align="center" rowspan="1">YPC-11 (<italic>B.
+avium</italic>)</th><th colspan="2" valign="bottom" align="center" rowspan="1">YPC-13
+(<italic>Staphylococcus</italic> sp.)</th><th colspan="2" valign="bottom" align="center" rowspan="1">YPC-15
+(<italic>Staphylococcus</italic> sp.)</th></tr><tr><th valign="bottom" align="left" rowspan="1" colspan="1"/><th colspan="2" valign="bottom" align="left" rowspan="1">
+<hr/>
+</th><th colspan="2" valign="bottom" align="left" rowspan="1">
+<hr/>
+</th><th colspan="2" valign="bottom" align="left" rowspan="1">
+<hr/>
+</th><th colspan="2" valign="bottom" align="left" rowspan="1">
+<hr/>
+</th><th colspan="2" valign="bottom" align="left" rowspan="1">
+<hr/>
+</th><th colspan="2" valign="bottom" align="left" rowspan="1">
+<hr/>
+</th><th colspan="2" valign="bottom" align="left" rowspan="1">
+<hr/>
+</th><th colspan="2" valign="bottom" align="left" rowspan="1">
+<hr/>
+</th></tr><tr><th valign="bottom" align="left" rowspan="1" colspan="1">[NaCl]</th><th valign="bottom" align="center" rowspan="1" colspan="1">Days</th><th valign="bottom" align="center" rowspan="1" colspan="1">Hydrolase</th><th valign="bottom" align="center" rowspan="1" colspan="1">Days</th><th valign="bottom" align="center" rowspan="1" colspan="1">Hydrolase</th><th valign="bottom" align="center" rowspan="1" colspan="1">Days</th><th valign="bottom" align="center" rowspan="1" colspan="1">Hydrolase</th><th valign="bottom" align="center" rowspan="1" colspan="1">Days</th><th valign="bottom" align="center" rowspan="1" colspan="1">Hydrolase</th><th valign="bottom" align="center" rowspan="1" colspan="1">Days</th><th valign="bottom" align="center" rowspan="1" colspan="1">Hydrolase</th><th valign="bottom" align="center" rowspan="1" colspan="1">Days</th><th valign="bottom" align="center" rowspan="1" colspan="1">Hydrolase</th><th valign="bottom" align="center" rowspan="1" colspan="1">Days</th><th valign="bottom" align="center" rowspan="1" colspan="1">Hydrolase</th><th valign="bottom" align="center" rowspan="1" colspan="1">Days</th><th valign="bottom" align="center" rowspan="1" colspan="1">Hydrolase</th></tr></thead><tbody><tr><td valign="top" align="left" rowspan="1" colspan="1">0 M</td><td valign="top" align="center" rowspan="1" colspan="1">1</td><td valign="top" align="center" rowspan="1" colspan="1">Nd</td><td valign="top" align="center" rowspan="1" colspan="1">1</td><td valign="top" align="center" rowspan="1" colspan="1">L, P</td><td valign="top" align="center" rowspan="1" colspan="1">1</td><td valign="top" align="center" rowspan="1" colspan="1">L, P</td><td valign="top" align="center" rowspan="1" colspan="1">1</td><td valign="top" align="center" rowspan="1" colspan="1">Nd</td><td valign="top" align="center" rowspan="1" colspan="1">2</td><td valign="top" align="center" rowspan="1" colspan="1">L</td><td valign="top" align="center" rowspan="1" colspan="1">2</td><td valign="top" align="center" rowspan="1" colspan="1">A, C</td><td valign="top" align="center" rowspan="1" colspan="1">2</td><td valign="top" align="center" rowspan="1" colspan="1">Nd</td><td valign="top" align="center" rowspan="1" colspan="1">4</td><td valign="top" align="center" rowspan="1" colspan="1">A, C, L</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">0.5 M</td><td valign="top" align="center" rowspan="1" colspan="1">1</td><td valign="top" align="center" rowspan="1" colspan="1">L</td><td valign="top" align="center" rowspan="1" colspan="1">1</td><td valign="top" align="center" rowspan="1" colspan="1">L, P</td><td valign="top" align="center" rowspan="1" colspan="1">1</td><td valign="top" align="center" rowspan="1" colspan="1">L</td><td valign="top" align="center" rowspan="1" colspan="1">1</td><td valign="top" align="center" rowspan="1" colspan="1">Nd</td><td valign="top" align="center" rowspan="1" colspan="1">2</td><td valign="top" align="center" rowspan="1" colspan="1">L</td><td valign="top" align="center" rowspan="1" colspan="1">2</td><td valign="top" align="center" rowspan="1" colspan="1">A, C</td><td valign="top" align="center" rowspan="1" colspan="1">2</td><td valign="top" align="center" rowspan="1" colspan="1">Nd</td><td valign="top" align="center" rowspan="1" colspan="1">0</td><td valign="top" align="center" rowspan="1" colspan="1">Nd</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">1.0 M</td><td valign="top" align="center" rowspan="1" colspan="1">1</td><td valign="top" align="center" rowspan="1" colspan="1">Nd</td><td valign="top" align="center" rowspan="1" colspan="1">1</td><td valign="top" align="center" rowspan="1" colspan="1">L</td><td valign="top" align="center" rowspan="1" colspan="1">1</td><td valign="top" align="center" rowspan="1" colspan="1">L</td><td valign="top" align="center" rowspan="1" colspan="1">1</td><td valign="top" align="center" rowspan="1" colspan="1">Nd</td><td valign="top" align="center" rowspan="1" colspan="1">2</td><td valign="top" align="center" rowspan="1" colspan="1">L</td><td valign="top" align="center" rowspan="1" colspan="1">2</td><td valign="top" align="center" rowspan="1" colspan="1">A, C</td><td valign="top" align="center" rowspan="1" colspan="1">2</td><td valign="top" align="center" rowspan="1" colspan="1">Nd</td><td valign="top" align="center" rowspan="1" colspan="1">0</td><td valign="top" align="center" rowspan="1" colspan="1">Nd</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">1.5 M</td><td valign="top" align="center" rowspan="1" colspan="1">1</td><td valign="top" align="center" rowspan="1" colspan="1">Nd</td><td valign="top" align="center" rowspan="1" colspan="1">1</td><td valign="top" align="center" rowspan="1" colspan="1">L</td><td valign="top" align="center" rowspan="1" colspan="1">1</td><td valign="top" align="center" rowspan="1" colspan="1">Nd</td><td valign="top" align="center" rowspan="1" colspan="1">1</td><td valign="top" align="center" rowspan="1" colspan="1">Nd</td><td valign="top" align="center" rowspan="1" colspan="1">2</td><td valign="top" align="center" rowspan="1" colspan="1">L</td><td valign="top" align="center" rowspan="1" colspan="1">2</td><td valign="top" align="center" rowspan="1" colspan="1">A, C</td><td valign="top" align="center" rowspan="1" colspan="1">2</td><td valign="top" align="center" rowspan="1" colspan="1">Nd</td><td valign="top" align="center" rowspan="1" colspan="1">0</td><td valign="top" align="center" rowspan="1" colspan="1">Nd</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">2.0 M</td><td valign="top" align="center" rowspan="1" colspan="1">1</td><td valign="top" align="center" rowspan="1" colspan="1">Nd</td><td valign="top" align="center" rowspan="1" colspan="1">1</td><td valign="top" align="center" rowspan="1" colspan="1">L</td><td valign="top" align="center" rowspan="1" colspan="1">1</td><td valign="top" align="center" rowspan="1" colspan="1">Nd</td><td valign="top" align="center" rowspan="1" colspan="1">1</td><td valign="top" align="center" rowspan="1" colspan="1">Nd</td><td valign="top" align="center" rowspan="1" colspan="1">2</td><td valign="top" align="center" rowspan="1" colspan="1">L</td><td valign="top" align="center" rowspan="1" colspan="1">3</td><td valign="top" align="center" rowspan="1" colspan="1">A, C</td><td valign="top" align="center" rowspan="1" colspan="1">3</td><td valign="top" align="center" rowspan="1" colspan="1">Nd</td><td valign="top" align="center" rowspan="1" colspan="1">1</td><td valign="top" align="center" rowspan="1" colspan="1">A, C</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">2.5 M</td><td valign="top" align="center" rowspan="1" colspan="1">1</td><td valign="top" align="center" rowspan="1" colspan="1">Nd</td><td valign="top" align="center" rowspan="1" colspan="1">2</td><td valign="top" align="center" rowspan="1" colspan="1">Nd</td><td valign="top" align="center" rowspan="1" colspan="1">2</td><td valign="top" align="center" rowspan="1" colspan="1">Nd</td><td valign="top" align="center" rowspan="1" colspan="1">2</td><td valign="top" align="center" rowspan="1" colspan="1">Nd</td><td valign="top" align="center" rowspan="1" colspan="1">2</td><td valign="top" align="center" rowspan="1" colspan="1">L</td><td valign="top" align="center" rowspan="1" colspan="1">4</td><td valign="top" align="center" rowspan="1" colspan="1">A, C</td><td valign="top" align="center" rowspan="1" colspan="1">7</td><td valign="top" align="center" rowspan="1" colspan="1">Nd</td><td valign="top" align="center" rowspan="1" colspan="1">2</td><td valign="top" align="center" rowspan="1" colspan="1">A, C</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">3.0 M</td><td valign="top" align="center" rowspan="1" colspan="1">2</td><td valign="top" align="center" rowspan="1" colspan="1">Nd</td><td valign="top" align="center" rowspan="1" colspan="1">2</td><td valign="top" align="center" rowspan="1" colspan="1">Nd</td><td valign="top" align="center" rowspan="1" colspan="1">2</td><td valign="top" align="center" rowspan="1" colspan="1">Nd</td><td valign="top" align="center" rowspan="1" colspan="1">2</td><td valign="top" align="center" rowspan="1" colspan="1">Nd</td><td valign="top" align="center" rowspan="1" colspan="1">2</td><td valign="top" align="center" rowspan="1" colspan="1">Nd</td><td valign="top" align="center" rowspan="1" colspan="1">7</td><td valign="top" align="center" rowspan="1" colspan="1">A, C</td><td valign="top" align="center" rowspan="1" colspan="1">7</td><td valign="top" align="center" rowspan="1" colspan="1">Nd</td><td valign="top" align="center" rowspan="1" colspan="1">2</td><td valign="top" align="center" rowspan="1" colspan="1">A, C</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">3.5 M</td><td valign="top" align="center" rowspan="1" colspan="1">4</td><td valign="top" align="center" rowspan="1" colspan="1">Nd</td><td valign="top" align="center" rowspan="1" colspan="1">2</td><td valign="top" align="center" rowspan="1" colspan="1">Nd</td><td valign="top" align="center" rowspan="1" colspan="1">2</td><td valign="top" align="center" rowspan="1" colspan="1">Nd</td><td valign="top" align="center" rowspan="1" colspan="1">3</td><td valign="top" align="center" rowspan="1" colspan="1">Nd</td><td valign="top" align="center" rowspan="1" colspan="1">3</td><td valign="top" align="center" rowspan="1" colspan="1">Nd</td><td valign="top" align="center" rowspan="1" colspan="1">21</td><td valign="top" align="center" rowspan="1" colspan="1">A, C</td><td valign="top" align="center" rowspan="1" colspan="1">21</td><td valign="top" align="center" rowspan="1" colspan="1">Nd</td><td valign="top" align="center" rowspan="1" colspan="1">3</td><td valign="top" align="center" rowspan="1" colspan="1">A, C</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">4.0 M</td><td valign="top" align="center" rowspan="1" colspan="1">7</td><td valign="top" align="center" rowspan="1" colspan="1">Nd</td><td valign="top" align="center" rowspan="1" colspan="1">-</td><td valign="top" align="center" rowspan="1" colspan="1">Nd</td><td valign="top" align="center" rowspan="1" colspan="1">4</td><td valign="top" align="center" rowspan="1" colspan="1">Nd</td><td valign="top" align="center" rowspan="1" colspan="1">4</td><td valign="top" align="center" rowspan="1" colspan="1">Nd</td><td valign="top" align="center" rowspan="1" colspan="1">4</td><td valign="top" align="center" rowspan="1" colspan="1">Nd</td><td valign="top" align="center" rowspan="1" colspan="1">21</td><td valign="top" align="center" rowspan="1" colspan="1">A, C</td><td valign="top" align="center" rowspan="1" colspan="1">21</td><td valign="top" align="center" rowspan="1" colspan="1">Nd</td><td valign="top" align="center" rowspan="1" colspan="1">3</td><td valign="top" align="center" rowspan="1" colspan="1">A, C</td></tr></tbody></table><table-wrap-foot><fn id="TFN01"><p>The assays were performed as described in Material and Methods. Days:
+Time in days that visible growth was observed, considering zero to
+be the day of inoculation. (Nd): Hydrolytic activity not
+detected.</p></fn></table-wrap-foot></table-wrap><p>Several bacteria of <italic>Bacillus</italic>, <italic>Halobacillus</italic> and
+<italic>Staphylococcus</italic> have been found in saline environments, such
+as Salt Plains National Wildlife Refuge, Great Salt Plains of Oklahoma, a
+Bolivian hypersaline lake, deep-sea sediments and tropical marine sediments
+(<xref rid="B36" ref-type="bibr">Ventosa <italic>et al.</italic>,
+1998</xref>). Some species of <italic>Bacillus</italic> sp. are salt
+tolerant and are important degraders of organic pollutants. Examples include
+<italic>Bacillus cereus</italic>, which degrades 1,3-dichlorobenzene
+derivatives from town-gas industrial influent (<xref rid="B38" ref-type="bibr">Wang <italic>et al.</italic>, 2003</xref>), and <italic>Bacillus
+subtilis</italic>, which degrades p-aminobenzene from textile industry
+wastewater (<xref rid="B41" ref-type="bibr">Zissi <italic>et al.</italic>,
+1997</xref>).</p></sec><sec><title>Hydrolytic activities of halotolerant isolates</title><p>The SR5-6, SR5-7, SR5-12, YPC-8, YPC-11 and YPC-15 strains were found to be
+moderate halophilic microorganisms and showed combined cellulolytic, amylolytic,
+lipolytic and proteolytic activities (<xref rid="t01" ref-type="table">Table
+1</xref>). These strains have potential biotechnological applications with
+respect to their ability to produce different hydrolases (<xref rid="B27" ref-type="bibr">Rohban <italic>et al.</italic>, 2009</xref>). In contrast,
+no hydrolytic activity was observed for YPC-6 and YPC-13.</p><p>Only YPC-11 (affiliated with <italic>B. avium</italic>) presented amylase and
+cellulase hydrolytic activities from 0 to 4 M NaCl. Members of the genus
+<italic>Bacillus</italic> are well known enzyme producers, and many
+industrial processes utilize species belonging to this genus for the commercial
+production of enzymes (<xref rid="B34" ref-type="bibr">Vasconcellos <italic>et
+al.</italic>, 2011</xref>). The strain SR5-7 (affiliated with
+<italic>Bacillus</italic>) produced lipase and protease in 2.0 M and 0.5 M
+NaCl, respectively. It is interesting to note that the lipase producers reported
+thus far are limited to representatives of the genera
+<italic>Salinivibrio</italic>, <italic>Halomonas</italic> and
+<italic>Bacillus-Salibacillus</italic> (<xref rid="B29" ref-type="bibr">Sanchez-Porro <italic>et al.</italic>, 2003</xref>).</p></sec><sec><title>Polyhydroxyalkanoate (PHA) producers</title><p>All the isolates were evaluated using a medium with nitrogen limitation and
+different carbon sources (<xref rid="t02" ref-type="table">Table 2</xref>). The
+isolates grew better with glucose as the sole carbon source compared to xylose
+and octanoic acid. The isolates YPC-13 (affiliated with
+<italic>Bacillus</italic> sp.), SR5-7 (affiliated with
+<italic>Bacillus</italic> sp.) and YPC-15 (affiliated with
+<italic>Staphylococcus</italic> sp.) accumulated PHAs in presence of
+octanoic acid, xylose and glucose, respectively. The genus
+<italic>Bacillus</italic> is known as a producer of PHAs (<xref rid="B17" ref-type="bibr">Lopes <italic>et al.</italic>, 2009</xref>), and
+<italic>Staphylococcus epidermidis</italic>, which was isolated from sesame
+oil, presented the ability to produce poly-3-hydroxybutyrate (<xref rid="B39" ref-type="bibr">Wong <italic>et al.</italic>, 2000</xref>). The strain
+YPC-11 (affiliated with <italic>B. avium</italic>) was detected as a potential
+producer of biopolymers using octanoic acid and xylose. This result is in
+accordance with the previous observation that <italic>Brevibacterium
+casei</italic> (SRKP2 strain) could produce PHAs in a medium containing
+dairy industrial waste, yeast extract and sea water (<xref rid="B21" ref-type="bibr">Pandian <italic>et al.</italic>, 2009</xref>). Halotolerant
+microbes are important for the biotechnology industry due to their advantages
+for use in sterilization processes and the control of contaminants; the
+PHA-producing halophilic microorganisms have recently been reviewed (<xref rid="B25" ref-type="bibr">Poli <italic>et al.</italic>, 2011</xref>). The
+production of PHAs using xylose is an alternative strategy to produce
+economically competitive PHAs using agro-industrial products such as sugarcane
+molasses and bagasse (<xref rid="B11" ref-type="bibr">Gomez <italic>et
+al.</italic>, 2012</xref>).</p><table-wrap id="t02" orientation="portrait" position="float"><label>Table 2</label><caption><title>Analysis of isolates for the ability to produce EPSs in mineral
+medium and PHAs using different carbon sources in the presence of 2.5 M
+NaCl.</title></caption><table frame="hsides" rules="groups"><thead><tr><th valign="bottom" align="left" rowspan="1" colspan="1"/><th valign="bottom" align="center" rowspan="1" colspan="1">SR-6
+(<italic>Staphylococcus</italic> sp.)</th><th valign="bottom" align="center" rowspan="1" colspan="1">SR-7 (<italic>Bacillus</italic>
+sp.)</th><th valign="bottom" align="center" rowspan="1" colspan="1">SR-12 (<italic>S.
+lentus</italic>)</th><th valign="bottom" align="center" rowspan="1" colspan="1">YPC-6
+(<italic>Staphylococcus</italic> sp.)</th><th valign="bottom" align="center" rowspan="1" colspan="1">YPC-8
+(<italic>Staphylococcus</italic> sp.)</th><th valign="bottom" align="center" rowspan="1" colspan="1">YPC-11 (<italic>B.
+avium</italic>)</th><th valign="bottom" align="center" rowspan="1" colspan="1">YPC-13
+(<italic>Staphylococcus</italic> sp.)</th><th valign="bottom" align="center" rowspan="1" colspan="1">YPC-15
+(<italic>Staphylococcus</italic> sp.)</th></tr></thead><tbody><tr><td valign="top" align="left" rowspan="1" colspan="1">EPS (E24)</td><td valign="top" align="center" rowspan="1" colspan="1">58%</td><td valign="top" align="center" rowspan="1" colspan="1">50%</td><td valign="top" align="center" rowspan="1" colspan="1">51%</td><td valign="top" align="center" rowspan="1" colspan="1">53%</td><td valign="top" align="center" rowspan="1" colspan="1">50%</td><td valign="top" align="center" rowspan="1" colspan="1">55%</td><td valign="top" align="center" rowspan="1" colspan="1">55%</td><td valign="top" align="center" rowspan="1" colspan="1">55%</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">PHA</td><td valign="top" align="center" rowspan="1" colspan="1">Nd</td><td valign="top" align="center" rowspan="1" colspan="1">Xylose (+)</td><td valign="top" align="center" rowspan="1" colspan="1">Nd</td><td valign="top" align="center" rowspan="1" colspan="1">Nd</td><td valign="top" align="center" rowspan="1" colspan="1">Nd</td><td valign="top" align="center" rowspan="1" colspan="1">Xylose (+) Octanoic acid (+)</td><td valign="top" align="center" rowspan="1" colspan="1">Octanoic acid (+)</td><td valign="top" align="center" rowspan="1" colspan="1">Glucose (+)</td></tr></tbody></table><table-wrap-foot><fn id="TFN02"><p>(E24): Emulsification indexes of the isolates in a mineral medium
+containing 2.5 M NaCl, as described in Materials and Methods.</p></fn><fn id="TFN03"><p>(+): indicates that PHAs were detected when using the indicated
+carbon source.</p></fn><fn id="TFN04"><p>(Nd): PHA production not detected.</p></fn></table-wrap-foot></table-wrap></sec><sec><title>EPS production and emulsification potential</title><p>Microbial exopolymers (EPSs) correspond to compounds produced by microorganisms
+to solubilize essential nutrients for their survival or to promote their
+adherence onto surfaces (<xref rid="B28" ref-type="bibr">Ron and Rosenber,
+2002</xref>). The use of glycerol as a sole carbon source and 2.5 M NaCl
+resulted in EPS values up to 60% of the emulsification index (E24) of hexadecane
+(<xref rid="t02" ref-type="table">Table 2</xref>). A colorimetric analysis
+showed that the biosurfactant produced by the evaluated halotolerant strains
+were mainly composed of carbohydrates (95%) but also contained proteins (0.5%)
+and uronic acids (4.5%) in their composition. A similar EPS composition was also
+reported in halophilic Archaea strains (<xref rid="B25" ref-type="bibr">Poli
+<italic>et al.</italic>, 2011</xref>).</p></sec></sec><sec sec-type="conclusions"><title>Conclusion</title><p>Screens for halotolerant or halophilic microorganisms in non-saline environments are
+scarce as is the detection of extracellular enzymes. This study found eight isolates
+from an organic residue composting process that showed the ability to tolerate a
+wide range of salinity. Some of these strains presented combined hydrolytic ability
+in the presence of NaCl. The possibility of these microorganisms, particularly
+YPC-11 (affiliated with <italic>B. avium</italic>), to produce EPSs and PHAs in the
+presence of 2.5 M NaCl can offer new biotechnological and bioremediation
+perspectives for the treatment of oilfield wastes as well as in MEOR
+(microbial-enhanced oil recovery) processes. The performance of the halotolerant
+isolates in the present work were not compared to other already known and classic
+halophilic microorganisms, and this should be performed in future work.</p></sec></body><back><ack><title>Acknowledgments</title><p>This study was supported by the Brazilian research agencies Funda&#x000e7;&#x000e3;o de Amparo a
+Pesquisa do Estado de S&#x000e3;o Paulo (FAPESP - 2009/52030-5) and Conselho Nacional de
+Desenvolvimento Cient&#x000ed;fico e Tecnol&#x000f3;gico (CNPq - 471340/2011-1). The authors would
+like to express their gratitude to Funda&#x000e7;&#x000e3;o Parque Zool&#x000f3;gico de S&#x000e3;o Paulo for
+providing the material from its composting facility and to recognize the relevant
+participation and support of Mr. Robson Carlos Santos and Mr. Carlos Augusto
+Magalh&#x000e3;es Batista, at Funda&#x000e7;&#x000e3;o Parque Zool&#x000f3;gico de S&#x000e3;o Paulo, in the composting unit
+processes.</p></ack><ref-list><title>References</title><ref id="B01"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ben-Gigirey</surname><given-names>B</given-names></name><name><surname>de Sousa</surname><given-names>JMVB</given-names></name><name><surname>Villa</surname><given-names>TG</given-names></name><etal/></person-group><year>2000</year><article-title>Characterization of biogenic amine-producing
+<italic>Stenotrophomonas maltophilia</italic> strains isolated from
+white muscle of fresh and frozen albacore tuna</article-title><source>Int J Food Microbiol</source><volume>57</volume><fpage>19</fpage><lpage>31</lpage></element-citation></ref><ref id="B02"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Chen</surname><given-names>YG</given-names></name><name><surname>Hao</surname><given-names>DF</given-names></name><name><surname>Chen</surname><given-names>QH</given-names></name><etal/></person-group><year>2011</year><article-title>Bacillus hunanensis sp nov., a slightly halophilic bacterium
+isolated from non-saline forest soil</article-title><source>Antonie Van Leeuwenhoek Int J Genet Mol Microbiol</source><volume>99</volume><fpage>481</fpage><lpage>488</lpage></element-citation></ref><ref id="B03"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Chen</surname><given-names>YG</given-names></name><name><surname>Zhang</surname><given-names>YQ</given-names></name><name><surname>He</surname><given-names>JW</given-names></name><etal/></person-group><year>2011</year><article-title>
+<italic>Bacillus hemicentroti</italic> sp. nov., a moderate
+halophile isolated from a sea urchin</article-title><source>Int J Syst Evol Microbiol</source><volume>61</volume><fpage>2950</fpage><lpage>2955</lpage><pub-id pub-id-type="pmid">21278416</pub-id></element-citation></ref><ref id="B04"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cho</surname><given-names>SL</given-names></name><name><surname>Jung</surname><given-names>MY</given-names></name><name><surname>Park</surname><given-names>MH</given-names></name><etal/></person-group><year>2010</year><article-title>
+<italic>Bacillus chungangensis</italic> sp. nov., a halophilic
+species isolated from sea sand</article-title><source>Int J Syst Evol Microbiol</source><volume>60</volume><fpage>1349</fpage><lpage>1352</lpage><pub-id pub-id-type="pmid">19667364</pub-id></element-citation></ref><ref id="B05"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Chun</surname><given-names>J</given-names></name><name><surname>Goodfellow</surname><given-names>M</given-names></name></person-group><year>1995</year><article-title>A phylogenetic analysis of the genus <italic>Norcadia</italic>
+with 16S rDNA gene sequences</article-title><source>Int J Syst Bacteriol</source><volume>45</volume><fpage>240</fpage><lpage>245</lpage><pub-id pub-id-type="pmid">7537058</pub-id></element-citation></ref><ref id="B06"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Dojka</surname><given-names>MA</given-names></name><name><surname>Hugenholtz</surname><given-names>P</given-names></name><name><surname>Haack</surname><given-names>SK</given-names></name><etal/></person-group><year>1998</year><article-title>Microbial diversity in a hydrocarbon-and
+chlorinated-solvent-contaminated aquifer undergoing intrinsic
+bioremediation</article-title><source>Appl Environ Microbiol</source><volume>64</volume><fpage>3869</fpage><lpage>3877</lpage><pub-id pub-id-type="pmid">9758812</pub-id></element-citation></ref><ref id="B07"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Enache</surname><given-names>M</given-names></name><name><surname>Kamekura</surname><given-names>M</given-names></name></person-group><year>2010</year><article-title>Hydrolytic enzymes of halophilic microorganisms and their
+economic values</article-title><source>Rom J Biochem</source><volume>47</volume><fpage>47</fpage><lpage>59</lpage></element-citation></ref><ref id="B08"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Essghaier</surname><given-names>B</given-names></name><name><surname>Fardeau</surname><given-names>ML</given-names></name><name><surname>Cayol</surname><given-names>JL</given-names></name><etal/></person-group><year>2009</year><article-title>Biological control of grey mould in strawberry fruits by
+halophilic bacteria</article-title><source>J Appl Microbiol</source><volume>106</volume><fpage>833</fpage><lpage>846</lpage><pub-id pub-id-type="pmid">19191973</pub-id></element-citation></ref><ref id="B09"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Fleck</surname><given-names>LC</given-names></name><name><surname>Bicca</surname><given-names>FC</given-names></name><name><surname>Ayub</surname><given-names>MAZ</given-names></name></person-group><year>2000</year><article-title>Physiological aspects of hydrocarbon emulsification, metal
+resistance and DNA profile of biodegrading bacteria isolated from oil
+polluted sites</article-title><source>Biotechnol Lett</source><volume>22</volume><fpage>285</fpage><lpage>289</lpage></element-citation></ref><ref id="B10"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Fuci&#x000f1;os</surname><given-names>P</given-names></name><name><surname>Gonzalez</surname><given-names>R</given-names></name><name><surname>Atanes</surname><given-names>E</given-names></name><etal/></person-group><year>2012</year><article-title>Lipases and esterases from extremophiles: overview and case
+example of the production and purification of an esterase from
+<italic>Thermus thermophilus</italic> HB27</article-title><source>Methods Mol Biol</source><volume>861</volume><fpage>239</fpage><lpage>266</lpage><pub-id pub-id-type="pmid">22426723</pub-id></element-citation></ref><ref id="B11"><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Gomez</surname><given-names>J</given-names></name><name><surname>Mendez</surname><given-names>B</given-names></name><name><surname>Nikel</surname><given-names>P</given-names></name><etal/></person-group><year>2012</year><chapter-title>Making Green polymers even greener: Towards sustainable
+production of polyhydroxyalkanoates from agroindustrial
+by-products</chapter-title><person-group person-group-type="editor"><name><surname>Petre</surname><given-names>M</given-names></name></person-group><source>Adv Appl Biotechnol</source><publisher-name>InTech Publisher</publisher-name><fpage>41</fpage><lpage>62</lpage></element-citation></ref><ref id="B12"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gupta</surname><given-names>R</given-names></name><name><surname>Beg</surname><given-names>QK</given-names></name><name><surname>Lorenz</surname><given-names>P</given-names></name></person-group><year>2002</year><article-title>Bacterial alkaline proteases: molecular approaches and industrial
+applications</article-title><source>Appl Microbiol Biotechnol</source><volume>59</volume><fpage>15</fpage><lpage>32</lpage><pub-id pub-id-type="pmid">12073127</pub-id></element-citation></ref><ref id="B13"><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Kushner</surname><given-names>DJ</given-names></name></person-group><year>1978</year><source>Life in High Salt and Solute Concentrations: Halophilic
+Bacteria</source><publisher-name>Academic Press</publisher-name><publisher-loc>London</publisher-loc></element-citation></ref><ref id="B14"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Legat</surname><given-names>A</given-names></name><name><surname>Gruber</surname><given-names>C</given-names></name><name><surname>Zangger</surname><given-names>K</given-names></name><etal/></person-group><year>2010</year><article-title>Identification of polyhydroxyalkanoates in Halococcus and other
+haloarchaeal species</article-title><source>Appl Microbiol Biotechnol</source><volume>87</volume><fpage>1119</fpage><lpage>1127</lpage><pub-id pub-id-type="pmid">20437233</pub-id></element-citation></ref><ref id="B15"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Li</surname><given-names>X</given-names></name><name><surname>Yu</surname><given-names>HY</given-names></name></person-group><year>2011</year><article-title>Extracellular production of beta-amylase by a halophilic isolate,
+<italic>Halobacillus</italic> sp. LY9</article-title><source>J Ind Microbiol Biotechnol</source><volume>38</volume><fpage>1837</fpage><lpage>1843</lpage><pub-id pub-id-type="pmid">21505914</pub-id></element-citation></ref><ref id="B16"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Litchfield</surname><given-names>CD</given-names></name></person-group><year>2012</year><article-title>Potential for industrial products from the halophilic
+Archaea</article-title><source>J Ind Microbiol Biotechnol</source><volume>38</volume><fpage>1635</fpage><lpage>1647</lpage><pub-id pub-id-type="pmid">21853327</pub-id></element-citation></ref><ref id="B17"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lopes</surname><given-names>MSG</given-names></name><name><surname>Rocha</surname><given-names>RCS</given-names></name><name><surname>Zanotto</surname><given-names>SP</given-names></name><etal/></person-group><year>2009</year><article-title>Screening of bacteria to produce polyhydroxyalkanoates from
+xylose</article-title><source>World J Microbiol Biotechnol</source><volume>25</volume><fpage>1751</fpage><lpage>1756</lpage></element-citation></ref><ref id="B18"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Martins</surname><given-names>LF</given-names></name><name><surname>Antunes</surname><given-names>LP</given-names></name><name><surname>Pascon</surname><given-names>RC</given-names></name><etal/></person-group><year>2013</year><article-title>Metagenomic analysis of a tropical composting operation at the
+S&#x000e3;o Paulo zoo park reveals diversity of biomass degradation functions and
+organisms</article-title><source>PLoS One</source><volume>8</volume><fpage>e61928</fpage><pub-id pub-id-type="pmid">23637931</pub-id></element-citation></ref><ref id="B19"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Nagata</surname><given-names>S</given-names></name><name><surname>Wang</surname><given-names>CX</given-names></name></person-group><year>2005</year><article-title>Efficient utilization of ectoine by halophilic Brevibacterium
+species and Escherichia coli subjected to osmotic down shock</article-title><source>J Biosci Bioeng</source><volume>99</volume><fpage>61</fpage><lpage>67</lpage><pub-id pub-id-type="pmid">16233755</pub-id></element-citation></ref><ref id="B20"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>N&#x000fc;bel</surname><given-names>U</given-names></name><name><surname>Engelen</surname><given-names>B</given-names></name><name><surname>Felske</surname><given-names>A</given-names></name><etal/></person-group><year>1996</year><article-title>Sequence heterogeneities of genes encoding 16S rRNAs in
+Paenibacillus polymyxadetected by temperature gradient gel
+electrophoresis</article-title><source>J Bacteriol</source><volume>178</volume><fpage>5636</fpage><lpage>5643</lpage><pub-id pub-id-type="pmid">8824607</pub-id></element-citation></ref><ref id="B21"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Pandian</surname><given-names>SRK</given-names></name><name><surname>Deepak</surname><given-names>V</given-names></name><name><surname>Kalishwaralal</surname><given-names>K</given-names></name><etal/></person-group><year>2009</year><article-title>Synthesis of PHB nanoparticles from optimized medium utilizing
+dairy industrial waste using <italic>Brevibacterium casei</italic> SRKP2: A
+green chemistry approach</article-title><source>Colloids Surf B-Biointerfaces</source><volume>74</volume><fpage>266</fpage><lpage>273</lpage><pub-id pub-id-type="pmid">19700268</pub-id></element-citation></ref><ref id="B22"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Pappa</surname><given-names>A</given-names></name><name><surname>Sanchez-Porro</surname><given-names>C</given-names></name><name><surname>Lazoura</surname><given-names>P</given-names></name><etal/></person-group><year>2010</year><article-title>
+<italic>Bacillus halochares</italic> sp. nov., a halophilic
+bacterium isolated from a solar saltern</article-title><source>Int J Syst Evol Microbiol</source><volume>60</volume><fpage>1432</fpage><lpage>1436</lpage><pub-id pub-id-type="pmid">19671720</pub-id></element-citation></ref><ref id="B23"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Partanen</surname><given-names>P</given-names></name><name><surname>Hultman</surname><given-names>J</given-names></name><name><surname>Paulin</surname><given-names>L</given-names></name><etal/></person-group><year>2010</year><article-title>Bacterial diversity at different stages of the composting
+process</article-title><source>BMC Microbiol</source><volume>10</volume><fpage>1</fpage><lpage>11</lpage><pub-id pub-id-type="pmid">20051107</pub-id></element-citation></ref><ref id="B24"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Pascon</surname><given-names>RC</given-names></name><name><surname>Bergamo</surname><given-names>RF</given-names></name><name><surname>Spinelli</surname><given-names>RX</given-names></name><etal/></person-group><year>2011</year><article-title>Amylolytic Microorganism from S&#x000e3;o Paulo Zoo Composting:
+Isolation, Identification, and Amylase Production</article-title><source>Enzym Res</source><volume>2011</volume><fpage>679624</fpage></element-citation></ref><ref id="B25"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Poli</surname><given-names>A</given-names></name><name><surname>Di Donato</surname><given-names>P</given-names></name><name><surname>Abbamondi</surname><given-names>GR</given-names></name><etal/></person-group><year>2011</year><article-title>Synthesis, Production, and Biotechnological Applications of
+Exopolysaccharides and Polyhydroxyalkanoates by Archaea</article-title><source>Archaea</source><volume>2011</volume><fpage>693253</fpage><pub-id pub-id-type="pmid">22007151</pub-id></element-citation></ref><ref id="B26"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Prakash</surname><given-names>B</given-names></name><name><surname>Vidyasagar</surname><given-names>M</given-names></name><name><surname>Madhukumar</surname><given-names>MS</given-names></name><etal/></person-group><year>2009</year><article-title>Production, purification, and characterization of two extremely
+halotolerant, thermostable, and alkali-stable alpha-amylases from
+<italic>Chromohalobacter</italic> sp TVSP 101</article-title><source>Process Biochem</source><volume>44</volume><fpage>210</fpage><lpage>215</lpage></element-citation></ref><ref id="B27"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rohban</surname><given-names>R</given-names></name><name><surname>Amoozegar</surname><given-names>MA</given-names></name><name><surname>Ventosa</surname><given-names>A</given-names></name></person-group><year>2009</year><article-title>Screening and isolation of halophilic bacteria producing
+extracellular hydrolases from Howz Soltan Lake, Iran</article-title><source>J Ind Microbiol Biotechnol</source><volume>36</volume><fpage>333</fpage><lpage>340</lpage><pub-id pub-id-type="pmid">19037673</pub-id></element-citation></ref><ref id="B28"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ron</surname><given-names>EZ</given-names></name><name><surname>Rosenberg</surname><given-names>E</given-names></name></person-group><year>2002</year><article-title>Biosurfactants and oil bioremediation</article-title><source>Curr Opin Biotechnol</source><volume>13</volume><fpage>249</fpage><lpage>252</lpage><pub-id pub-id-type="pmid">12180101</pub-id></element-citation></ref><ref id="B29"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sanchez-Porro</surname><given-names>C</given-names></name><name><surname>Martin</surname><given-names>S</given-names></name><name><surname>Mellado</surname><given-names>E</given-names></name><name><surname>Ventosa</surname><given-names>A</given-names></name></person-group><year>2003</year><article-title>Diversity of moderately halophilic bacteria producing
+extracellular hydrolytic enzymes</article-title><source>J Appl Microbiol</source><volume>94</volume><fpage>295</fpage><lpage>300</lpage><pub-id pub-id-type="pmid">12534822</pub-id></element-citation></ref><ref id="B30"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Schlegel</surname><given-names>HG</given-names></name><name><surname>Lafferty</surname><given-names>R</given-names></name><name><surname>Krauss</surname><given-names>I</given-names></name></person-group><year>1970</year><article-title>Isolation of mutants not accumulating poly-beta-hydroxybutyric
+acid</article-title><source>Arch F&#x000fc;r Mikrobiol</source><volume>71</volume><fpage>283</fpage><lpage>294</lpage></element-citation></ref><ref id="B31"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Schloss</surname><given-names>PD</given-names></name><name><surname>Hay</surname><given-names>AG</given-names></name><name><surname>Wilson</surname><given-names>DB</given-names></name><etal/></person-group><year>2003</year><article-title>Tracking temporal changes of bacterial community fingerprints
+during the initial stages of composting</article-title><source>FEMS Microbiol Ecol</source><volume>46</volume><fpage>1</fpage><lpage>9</lpage><pub-id pub-id-type="pmid">19719577</pub-id></element-citation></ref><ref id="B32"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Takenaka</surname><given-names>S</given-names></name><name><surname>Yoshida</surname><given-names>N</given-names></name><name><surname>Yoshida</surname><given-names>K</given-names></name><etal/></person-group><year>2011</year><article-title>Molecular cloning and sequence analysis of two distinct
+halotolerant extracellular proteases from <italic>Bacillus subtilis</italic>
+FP-133</article-title><source>Biosci Biotechnol Biochem</source><volume>75</volume><fpage>148</fpage><lpage>151</lpage><pub-id pub-id-type="pmid">21228481</pub-id></element-citation></ref><ref id="B33"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Tanasupawat</surname><given-names>S</given-names></name><name><surname>Chamroensaksri</surname><given-names>N</given-names></name><name><surname>Kudo</surname><given-names>T</given-names></name><etal/></person-group><year>2010</year><article-title>Identification of moderately halophilic bacteria from Thai
+fermented fish (pla-ra) and proposal of <italic>Virgibacillus
+siamensis</italic> sp. nov</article-title><source>J Gen Appl Microbiol</source><volume>56</volume><fpage>369</fpage><lpage>379</lpage><pub-id pub-id-type="pmid">21099133</pub-id></element-citation></ref><ref id="B34"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Vasconcellos</surname><given-names>SP</given-names></name><name><surname>Dellagnezze</surname><given-names>BM</given-names></name><name><surname>Wieland</surname><given-names>A</given-names></name><etal/></person-group><year>2011</year><article-title>The potential for hydrocarbon biodegradation and production of
+extracellular polymeric substances by aerobic bacteria isolated from a
+Brazilian petroleum reservoir</article-title><source>World J Microbiol Biotechnol</source><volume>27</volume><fpage>1513</fpage><lpage>1518</lpage><pub-id pub-id-type="pmid">25187151</pub-id></element-citation></ref><ref id="B35"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ventosa</surname><given-names>A</given-names></name><name><surname>Nieto</surname><given-names>JJ</given-names></name></person-group><year>1995</year><article-title>Biotecnological applications and potentialities of halophilic
+microrganisms</article-title><source>World J Microbiol Biotechnol</source><volume>11</volume><fpage>85</fpage><lpage>94</lpage><pub-id pub-id-type="pmid">24414413</pub-id></element-citation></ref><ref id="B36"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ventosa</surname><given-names>A</given-names></name><name><surname>Nieto</surname><given-names>JJ</given-names></name><name><surname>Oren</surname><given-names>A</given-names></name></person-group><year>1998</year><article-title>Biology of moderately halophilic aerobic bacteria</article-title><source>Microbiol Mol Biol Rev</source><volume>62</volume><fpage>504</fpage><lpage>544</lpage><pub-id pub-id-type="pmid">9618450</pub-id></element-citation></ref><ref id="B37"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Voget</surname><given-names>S</given-names></name><name><surname>Steele</surname><given-names>HL</given-names></name><name><surname>Streit</surname><given-names>WR</given-names></name></person-group><year>2006</year><article-title>Characterization of a metagenome-derived halotolerant
+cellulase</article-title><source>J Biotechnol</source><volume>126</volume><fpage>26</fpage><lpage>36</lpage><pub-id pub-id-type="pmid">16584799</pub-id></element-citation></ref><ref id="B38"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wang</surname><given-names>L</given-names></name><name><surname>Zhou</surname><given-names>Q</given-names></name><name><surname>Zhang</surname><given-names>BS</given-names></name><etal/></person-group><year>2003</year><article-title>The biodegradation of 1,3-dichlorobenzene by an adapted strain
+<italic>Bacillus cereus</italic> PF-11 derived from town-gas industrial
+effluent</article-title><source>J Environ Sci Health Part A</source><volume>38</volume><fpage>1837</fpage><lpage>1848</lpage></element-citation></ref><ref id="B39"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wong</surname><given-names>AL</given-names></name><name><surname>Chua</surname><given-names>H</given-names></name><name><surname>Yu</surname><given-names>pH</given-names></name></person-group><year>2000</year><article-title>Microbial production of polyhydroxyalkanoates by bacteria
+isolated from oil wastes</article-title><source>Appl Biochem Biotechnol</source><volume>84&#x02013;86</volume><fpage>843</fpage><lpage>857</lpage></element-citation></ref><ref id="B40"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zhang</surname><given-names>GM</given-names></name><name><surname>Li</surname><given-names>SY</given-names></name><name><surname>Xue</surname><given-names>YF</given-names></name><etal/></person-group><year>2012</year><article-title>Effects of salts on activity of halophilic cellulase with
+glucomannanase activity isolated from alkaliphilic and halophilic
+<italic>Bacillus</italic> sp. BG-CS10</article-title><source>Extremophiles</source><volume>16</volume><fpage>35</fpage><lpage>43</lpage><pub-id pub-id-type="pmid">22012583</pub-id></element-citation></ref><ref id="B41"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zissi</surname><given-names>U</given-names></name><name><surname>Lyberatos</surname><given-names>G</given-names></name><name><surname>Pavlou</surname><given-names>S</given-names></name></person-group><year>1997</year><article-title>Biodegradation of p-aminoazobenzene by <italic>Bacillus
+subtilis</italic> under aerobic conditions</article-title><source>J Ind Microbiol Biotechnol</source><volume>19</volume><fpage>49</fpage><lpage>55</lpage></element-citation></ref></ref-list></back></article>

@@ -1,0 +1,943 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Br J Haematol</journal-id><journal-id journal-id-type="iso-abbrev">Br. J. Haematol</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1365-2141</journal-id><journal-id journal-id-type="publisher-id">BJH</journal-id><journal-title-group><journal-title>British Journal of Haematology</journal-title></journal-title-group><issn pub-type="ppub">0007-1048</issn><issn pub-type="epub">1365-2141</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">27151266</article-id><article-id pub-id-type="pmc">4995732</article-id><article-id pub-id-type="doi">10.1111/bjh.14132</article-id><article-id pub-id-type="publisher-id">BJH14132</article-id><article-categories><subj-group subj-group-type="overline"><subject>Research Paper</subject></subj-group><subj-group subj-group-type="heading"><subject>Haematological Malignancy</subject></subj-group></article-categories><title-group><article-title>The morphology of CLL revisited: the clinical significance of prolymphocytes and correlations with prognostic/molecular markers in the LRF CLL4 trial</article-title><alt-title alt-title-type="left-running-head">D. Oscier <italic>et&#x000a0;al</italic></alt-title></title-group><contrib-group><contrib id="bjh14132-cr-0001" contrib-type="author"><name><surname>Oscier</surname><given-names>David</given-names></name><xref ref-type="aff" rid="bjh14132-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="bjh14132-cr-0002" contrib-type="author"><name><surname>Else</surname><given-names>Monica</given-names></name><xref ref-type="aff" rid="bjh14132-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="bjh14132-cr-0003" contrib-type="author"><name><surname>Matutes</surname><given-names>Estella</given-names></name><xref ref-type="aff" rid="bjh14132-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="bjh14132-cr-0004" contrib-type="author"><name><surname>Morilla</surname><given-names>Ricardo</given-names></name><xref ref-type="aff" rid="bjh14132-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="bjh14132-cr-0005" contrib-type="author"><name><surname>Strefford</surname><given-names>Jonathan C.</given-names></name><xref ref-type="aff" rid="bjh14132-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="bjh14132-cr-0006" contrib-type="author" corresp="yes"><name><surname>Catovsky</surname><given-names>Daniel</given-names></name><xref ref-type="aff" rid="bjh14132-aff-0002">
+<sup>2</sup>
+</xref></contrib></contrib-group><aff id="bjh14132-aff-0001"><label><sup>1</sup></label><named-content content-type="organisation-division">Department of Molecular Pathology</named-content><institution>Royal Bournemouth Hospital</institution><named-content content-type="city">Bournemouth</named-content><country country="GB">UK</country></aff><aff id="bjh14132-aff-0002"><label><sup>2</sup></label><named-content content-type="organisation-division">Division of Molecular Pathology</named-content><institution>The Institute of Cancer Research</institution><named-content content-type="city">London</named-content><country country="GB">UK</country></aff><aff id="bjh14132-aff-0003"><label><sup>3</sup></label><named-content content-type="organisation-division">Cancer Sciences</named-content><named-content content-type="organisation-division">Faculty of Medicine</named-content><institution>University of Southampton</institution><named-content content-type="city">Southampton</named-content><country country="GB">UK</country></aff><author-notes><corresp id="correspondenceTo"><label>*</label>
+Correspondence: Daniel Catovsky, Division of Molecular Pathology, The Institute of Cancer Research, 15 Cotswold Road, Sutton SM2 5NG, UK.<break/>
+E&#x02010;mail: <email>daniel.catovsky@icr.ac.uk</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>06</day><month>5</month><year>2016</year></pub-date><pub-date pub-type="ppub"><month>9</month><year>2016</year></pub-date><volume>174</volume><issue>5</issue><issue-id pub-id-type="doi">10.1111/bjh.2016.174.issue-5</issue-id><fpage>767</fpage><lpage>775</lpage><history><date date-type="received"><day>01</day><month>2</month><year>2016</year></date><date date-type="accepted"><day>20</day><month>3</month><year>2016</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> Copyright &#x000a9; 2016 John Wiley & Sons Ltd <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2016 The Authors. <italic>British Journal of Haematology</italic> published by John Wiley &#x00026; Sons Ltd</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:BJH-174-767.pdf"/><abstract id="bjh14132-abs-0001"><title>Summary</title><p>Historically, an increase in the percentage and number of circulating prolymphocytes in chronic lymphocytic leukaemia (<styled-content style="fixed-case">CLL</styled-content>) has been associated with strong expression of surface immunoglobulin, trisomy 12 and a poor outcome. This study re&#x02010;examines the biological and clinical significance of increased peripheral blood prolymphocytes in 508 patients at entry into the randomized <styled-content style="fixed-case">UK</styled-content> Leukaemia Research Fund <styled-content style="fixed-case">CLL</styled-content>4 trial. It also investigates the associations between increased prolymphocytes and a comprehensive array of biomarkers. 270 patients (53%) had &#x0003c;5% prolymphocytes, 167 (33%) had 5&#x02013;9%, 60 (12%) had 10&#x02013;14% and 11 (2%) had &#x02265;15% prolymphocytes. We show that a higher proportion of prolymphocytes (&#x02265;10%) was independently associated with <italic><styled-content style="fixed-case">NOTCH</styled-content>1</italic> mutations (<italic>P</italic>&#x000a0;=&#x000a0;0&#x000b7;006), absence of 13q deletion (<italic>P</italic>&#x000a0;=&#x000a0;0&#x000b7;001), high <styled-content style="fixed-case">CD</styled-content>38 expression (<italic>P</italic>&#x000a0;=&#x000a0;0&#x000b7;02) and unmutated <italic><styled-content style="fixed-case">IGHV</styled-content></italic> genes (<italic>P</italic>&#x000a0;=&#x000a0;0&#x000b7;01). Deaths due to Richter syndrome were significantly more common amongst patients who had &#x02265;10% vs &#x0003c;10% prolymphocytes (13% vs 2%) respectively (<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0&#x000b7;0001). &#x02265;10% prolymphocytes was also associated with a shorter progression&#x02010;free survival (Hazard ratio [<styled-content style="fixed-case">HR</styled-content>] 1&#x000b7;50 [95% confidence interval [<styled-content style="fixed-case">CI</styled-content>]: 1&#x000b7;16&#x02013;1&#x000b7;93], <italic>P</italic>&#x000a0;=&#x000a0;0&#x000b7;002) and overall survival (<styled-content style="fixed-case">HR</styled-content> 1&#x000b7;99 [95% <styled-content style="fixed-case">CI</styled-content>: 1&#x000b7;53&#x02013;2&#x000b7;59], <italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0&#x000b7;0001). Our data support the routine examination of blood films in <styled-content style="fixed-case">CLL</styled-content> and suggest that a finding of an increased proportion of prolymphocytes may be a trigger for further evaluation of clinical and laboratory features of progressive disease.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="bjh14132-kwd-0001">Chronic lymphocytic leukaemia</kwd><kwd id="bjh14132-kwd-0002">prolymphocytes</kwd><kwd id="bjh14132-kwd-0003">prognostic markers</kwd><kwd id="bjh14132-kwd-0004">molecular markers</kwd><kwd id="bjh14132-kwd-0005">morphology</kwd></kwd-group><funding-group><award-group><funding-source>Arbib Charitable Fund</funding-source></award-group></funding-group><funding-group><award-group><funding-source>Kay Kendall Leukaemia Fund</funding-source><award-id>KKL584</award-id></award-group></funding-group><funding-group><award-group><funding-source>Bloodwise</funding-source><award-id>11052</award-id><award-id>12050</award-id></award-group></funding-group><funding-group><award-group><funding-source>Wessex Medical Research</funding-source></award-group></funding-group><funding-group><award-group><funding-source>Cancer Research UK</funding-source><award-id>C328/A2738</award-id><award-id>C328/A2737</award-id></award-group></funding-group><funding-group><award-group><funding-source>Schering Health Care (UK)</funding-source></award-group></funding-group><funding-group><award-group><funding-source>Schering AG (Germany)</funding-source></award-group></funding-group><counts><page-count count="9"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>bjh14132</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>September 2016</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:4.9.4 mode:remove_FC converted:24.08.2016</meta-value></custom-meta></custom-meta-group></article-meta></front><body><p>Although peripheral blood lymphocytes in chronic lymphocytic leukaemia (CLL) are typically small with clumped chromatin and scanty cytoplasm, it has long been recognized that a subset of patients present with, or acquire, an increased percentage of lymphocytes that are larger with more abundant cytoplasm, nuclear irregularities, lymphoplasmacytoid features and/or one or more prominent nucleoli.</p><p>Early studies evaluating the clinical significance of lymphocyte morphology were confounded by difficulties in distinguishing CLL from other chronic lymphoproliferative disorders and gave disparate results (Peterson <italic>et&#x000a0;al</italic>, <xref rid="bjh14132-bib-0026" ref-type="ref">1975</xref>; Dubner <italic>et&#x000a0;al</italic>, <xref rid="bjh14132-bib-0008" ref-type="ref">1978</xref>). However, following the initial observation that increasing refractoriness to treatment may be accompanied by the appearance of prolymphocytes in the blood (Enno <italic>et&#x000a0;al</italic>, <xref rid="bjh14132-bib-0009" ref-type="ref">1979</xref>), a detailed analysis of 300 cases with either CLL (<italic>n</italic>&#x000a0;=&#x000a0;258) or B&#x02010;cell prolymphocytic leukaemia (PLL) (<italic>n</italic>&#x000a0;=&#x000a0;42) identified &#x0003e;55% circulating prolymphocytes as a defining diagnostic criterion for PLL, and CLL cases with 11&#x02013;55% circulating prolymphocytes (CLL/PL) as having clinical features intermediate between typical CLL and prolymphocytic leukaemia; namely a higher incidence of splenomegaly and higher intensity of surface immunoglobulin expression (SmIg) than in typical CLL (Melo <italic>et&#x000a0;al</italic>, <xref rid="bjh14132-bib-0018" ref-type="ref">1986</xref>). Within the CLL/PL group, those patients with an absolute prolymphocyte count of &#x02265;15&#x000a0;&#x000d7;&#x000a0;10<sup>9</sup>/l were shown to have a shorter overall survival (OS) than those with a lower absolute prolymphocyte count (Melo <italic>et&#x000a0;al</italic>, <xref rid="bjh14132-bib-0019" ref-type="ref">1987</xref>).</p><p>Although the adverse prognostic significance of increased prolymphocytes was subsequently confirmed in other studies (Scott <italic>et&#x000a0;al</italic>, <xref rid="bjh14132-bib-0030" ref-type="ref">1987</xref>; Vallesp&#x000ed; <italic>et&#x000a0;al</italic>, <xref rid="bjh14132-bib-0032" ref-type="ref">1991</xref>; Criel <italic>et&#x000a0;al</italic>, <xref rid="bjh14132-bib-0005" ref-type="ref">1997</xref>; Oscier <italic>et&#x000a0;al</italic>, <xref rid="bjh14132-bib-0022" ref-type="ref">1997</xref>), the role of morphological examination of blood films in CLL as a guide to prognosis has diminished with the discovery of multiple newer biomarkers.</p><p>The Leukaemia Research Fund (LRF) CLL4 trial randomized previously untreated patients to either chlorambucil or fludarabine, alone or in combination with cyclophosphamide (FC) (Catovsky <italic>et&#x000a0;al</italic>, <xref rid="bjh14132-bib-0003" ref-type="ref">2007</xref>). At randomization, differential white blood cell counts were performed and this has provided an opportunity to re&#x02010;evaluate both the prognostic significance of nucleolated cells (prolymphocytes and immunoblasts) regarding progression&#x02010;free survival (PFS) and OS as well as their correlation with established and recently identified prognostic markers. We found that increased prolymphocytes were associated with markers of poor prognosis and predicted a shorter PFS and OS.</p><sec id="bjh14132-sec-0002"><title>Patients and methods</title><p>In the LRF CLL4 trial 777 patients were randomized between February 1999 and October 2004 to receive chlorambucil, fludarabine or FC. The patients were previously untreated, 25% having Binet stage A&#x02010;progressive disease, 45% stage B and 30% stage C. The male:female ratio was 3:1 and the median age was 65&#x000a0;years (range 35&#x02013;86&#x000a0;years). Clinical follow&#x02010;up was to 31 October 2010, and follow&#x02010;up for OS for UK patients was to January 2015 (median 11&#x000b7;8&#x000a0;years; range 10&#x000b7;2&#x02013;15&#x000b7;9&#x000a0;years). In the UK, the deaths of CLL trial patients are flagged and reported to the Clinical Trial Service Unit at Oxford. For 44 surviving patients resident outside the UK, for whom this information was not available, OS was censored at 31 October 2010.</p><p>Differential white blood cell counts were performed on slides stained with May Grunwald Giemsa from blood samples taken at trial entry in 508 patients. A total of 200 cells were scored in patients with lymphocyte counts below 25&#x000a0;&#x000d7;&#x000a0;10<sup>9</sup>/l and 300 cells in the remaining cases. Lymphoid cells were classified according to the criteria of Melo <italic>et&#x000a0;al</italic> (<xref rid="bjh14132-bib-0018" ref-type="ref">1986</xref>). Specifically, prolymphocytes were defined as large cells (&#x0003e;2 erythrocytes) with clumped chromatin, a large prominent vesicular nucleolus and usually abundant cytoplasm. Immunoblasts were larger (&#x0003e;3 erythrocytes) with finely dispersed chromatin, large and usually &#x0003e;1 nucleoli, and deeply basophilic cytoplasm (Fig&#x000a0;<xref rid="bjh14132-fig-0001" ref-type="fig">1</xref>). When present, immunoblasts were rare and were included within the prolymphocyte count.</p><fig fig-type="Figure" xml:lang="en" id="bjh14132-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Morphological appearances of chronic lymphocytic leukaemia (<styled-content style="fixed-case">CLL</styled-content>) and <styled-content style="fixed-case">CLL</styled-content> with &#x0003e;10% circulating prolymphocytes (<styled-content style="fixed-case">CLL</styled-content>/<styled-content style="fixed-case">PL</styled-content>). (A) Typical <styled-content style="fixed-case">CLL</styled-content>. The majority of cells are small with clumped chromatin. (B) Typical <styled-content style="fixed-case">CLL</styled-content>/<styled-content style="fixed-case">PL</styled-content>. There is a mixture of prolymphocytes and typical <styled-content style="fixed-case">CLL</styled-content> lymphocytes. (C) Typical <styled-content style="fixed-case">CLL</styled-content>/<styled-content style="fixed-case">PL</styled-content> showing small lymphocytes, prolymphocytes and an immunoblast. (D) Typical B&#x02010;cell prolymphocytic leukaemia (B&#x02010;<styled-content style="fixed-case">PLL</styled-content>). The majority of cells have condensed non&#x02010;clumped chromatin and a single vesicular nucleolus. This panel is shown here for comparative purposes only, to illustrate the similar morphology of the prolymphocytes in B&#x02010;<styled-content style="fixed-case">PLL</styled-content> to those seen in panels B and C. The majority of cells in B&#x02010;<styled-content style="fixed-case">PLL</styled-content> are prolymphocytes and no small lymphocytes are seen. The usual &#x0201c;<styled-content style="fixed-case">CLL</styled-content> score&#x0201d; is 0&#x02013;1. B&#x02010;<styled-content style="fixed-case">PLL</styled-content> is a distinct disorder and does not arise from a pre&#x02010;existing <styled-content style="fixed-case">CLL</styled-content>. Magnification: panels A, B and C &#x000d7;100; panel D &#x000d7;60.</p></caption><graphic id="nlm-graphic-1" xlink:href="BJH-174-767-g001"/></fig><p>The choice of cut&#x02010;off to define an increase in prolymphocytes was based on previous studies of the clinical and biological features of CLL cases with increased prolymphocytes. To determine associations with other variables a 10% cut&#x02010;off was used, as this defines the distinction between CLL and CLL/PL. To evaluate the impact on clinical outcome, both a 10% cut&#x02010;off and an absolute prolymphocyte count of &#x02265;15&#x000a0;&#x000d7;&#x000a0;10<sup>9</sup>/l were used, as the latter was found to be the best discriminator of outcome within CLL/PL (Melo <italic>et&#x000a0;al</italic>, <xref rid="bjh14132-bib-0019" ref-type="ref">1987</xref>). The clinical value of a 10% cut&#x02010;off was also confirmed in our analysis of PFS and OS (see <xref rid="bjh14132-sec-0003" ref-type="sec">results</xref>).</p><p>Immunophenotypic analysis was performed centrally by flow cytometry using a panel of monoclonal antibodies: CD5, CD19, CD20, CD23, CD79b, FMC7, and surface light chain immunoglobulins, enabling a CLL score to be derived (Moreau <italic>et&#x000a0;al</italic>, <xref rid="bjh14132-bib-0020" ref-type="ref">1997</xref>). All cases with a low score were also reviewed. Those cases with a phenotype lacking expression of CD23 or CD5, probably reflecting prolonged transit in the postal system or an alternative diagnosis, were only included if lymphocyte morphology was typical of CLL and fluorescent <italic>in&#x000a0;situ</italic> hybridization (FISH) for t(11;14) was negative, particularly in CD23 negative cases. Data on the following markers were available: FISH to detect 11q, 13q, 17p deletions and trisomy 12, <italic>IGHV</italic> mutation status, CD38, ZAP70 and <italic>CLLU1</italic> expression, serum beta&#x02010;2 microglobulin (B2M), <italic>TP53</italic>,<italic> SF3B1</italic> and <italic>NOTCH1</italic> mutations and telomere length as reported elsewhere, together with a full description of the cut&#x02010;offs used to define positivity (Oscier <italic>et&#x000a0;al</italic>, <xref rid="bjh14132-bib-0023" ref-type="ref">2010</xref>, <xref rid="bjh14132-bib-0024" ref-type="ref">2013</xref>; Gonzalez <italic>et&#x000a0;al</italic>, <xref rid="bjh14132-bib-0012" ref-type="ref">2011</xref>, <xref rid="bjh14132-bib-0013" ref-type="ref">2013</xref>; Strefford <italic>et&#x000a0;al</italic>, <xref rid="bjh14132-bib-0031" ref-type="ref">2015</xref>).</p><p>The LRF CLL4 trial was registered as an International Standard Randomized Trial, number ISRCTN58585610 and was approved by a UK multicentre research ethics committee. The trial followed the UK Medical Research Council guidelines for good clinical practice. All patients provided written informed consent. All authors had access to the primary clinical trial data. The main trial endpoints have been previously reported (Catovsky <italic>et&#x000a0;al</italic>, <xref rid="bjh14132-bib-0003" ref-type="ref">2007</xref>).</p><p>Survival was estimated by the Kaplan&#x02010;Meier method. OS was calculated from randomization to death from any cause. PFS was estimated from the time of randomization to relapse needing further treatment, progression or death from any cause. For non&#x02010;responders (NR) and those with progressive disease (PD), date of progression was when NR/PD was recorded. Multivariate analyses were performed by means of stepwise generalized linear modelling and the Cox proportional hazards model. Values of <italic>P</italic>&#x000a0;&#x02264;&#x000a0;0&#x000b7;05 (two sided) were considered significant. Analyses were performed using the STATISTICA software from StatSoft, a subsidiary of Dell, Inc. (Tulsa, OK, USA).</p></sec><sec id="bjh14132-sec-0003"><title>Results</title><p>Of 508 assessable patients, 270 (53%) had &#x0003c;5% prolymphocytes, 167 (33%) had 5&#x02013;9%, 60 (12%) had 10&#x02013;14% and 11 (2%) had &#x02265;15% prolymphocytes. Among the 504 patients in whom an absolute lymphocyte count was available, the absolute prolymphocyte count was &#x0003c;15&#x000a0;&#x000d7;&#x000a0;10<sup>9</sup>/l in 442 (88%) and &#x02265;15&#x000a0;&#x000d7;&#x000a0;10<sup>9</sup>/l in 62 (12%) patients. These groups were equally distributed between the three trial arms. There was a tendency for younger patients, those with stage B disease, a low white blood count, 11q deletion or high <italic>CLLU1</italic> expression to be moderately under&#x02010;represented amongst the 508 trial patients who had prolymphocyte data, but otherwise the clinical and molecular characteristics of this subset were the same as those of the 269 patients without available prolymphocyte data (Table&#x000a0;SI). Thus the subset with prolymphocyte data was broadly representative of the trial as a whole.</p><sec id="bjh14132-sec-0004"><title>Association of increased prolymphocytes with immunophenotype</title><p>Eighty&#x02010;eight per cent of patients had a CLL score of 4 or 5 and 7% had a score of 3. There was no correlation between the CLL score and the percentage of prolymphocytes. However there was a significant association between &#x02265;10% prolymphocytes and strong expression of SmIg (<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0&#x000b7;0001). There was no association between a higher proportion of prolymphocytes and any of the other immunophenotypic markers that comprise the CLL score (Table&#x000a0;<xref rid="bjh14132-tbl-0001" ref-type="table-wrap">1</xref>).</p><table-wrap id="bjh14132-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>The association between the proportion of prolymphocytes and the CLL score components (atypical phenotypes are shown in bold)</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">CLL score component</th><th align="left" valign="top" rowspan="1" colspan="1">Patients (<italic>n</italic>)</th><th align="left" valign="top" rowspan="1" colspan="1">&#x02265;10% prolymphocytes (%)</th><th align="left" valign="top" rowspan="1" colspan="1">&#x02265;15% prolymphocytes (%)</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic>P</italic>&#x02010;value (&#x02265;10%)</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">FMC7 negative</td><td align="left" rowspan="1" colspan="1">403</td><td align="left" rowspan="1" colspan="1">59 (15)</td><td align="left" rowspan="1" colspan="1">7 (2)</td><td align="left" rowspan="2" colspan="1">NS</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>FMC7 positive</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>91</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>10 (11)</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>3 (3)</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">SmIg weak</td><td align="left" rowspan="1" colspan="1">371</td><td align="left" rowspan="1" colspan="1">37 (10)</td><td align="left" rowspan="1" colspan="1">5 (1)</td><td align="left" rowspan="2" colspan="1">&#x0003c;0&#x000b7;0001<xref ref-type="fn" rid="bjh14132-note-0002">a</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>SmIg strong</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>123</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>32 (26)</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>5 (4)</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">CD23 positive</td><td align="left" rowspan="1" colspan="1">462</td><td align="left" rowspan="1" colspan="1">67 (14&#x000b7;5)</td><td align="left" rowspan="1" colspan="1">10 (2)</td><td align="left" rowspan="2" colspan="1">NS</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>CD23 negative</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>32</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>2 (6)</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>0 (0)</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">CD79b weak</td><td align="left" rowspan="1" colspan="1">437</td><td align="left" rowspan="1" colspan="1">59 (13&#x000b7;5)</td><td align="left" rowspan="1" colspan="1">9 (2)</td><td align="left" rowspan="2" colspan="1">NS</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>CD79b strong</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>57</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>10 (18)</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>1 (2)</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">CD5 positive</td><td align="left" rowspan="1" colspan="1">490</td><td align="left" rowspan="1" colspan="1">69 (14)</td><td align="left" rowspan="1" colspan="1">10 (2)</td><td align="left" rowspan="2" colspan="1">NS</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>CD5 negative</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>4</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>0 (0)</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>0 (0)</bold>
+</td></tr></tbody></table><table-wrap-foot><fn id="bjh14132-note-0001"><p>CLL, chronic lymphocytic leukaemia.</p></fn><fn id="bjh14132-note-0002"><label>a</label><p>When CD5&#x02010;negative and CD23&#x02010;negative cases are excluded, the relationship between surface immunoglobulin (SmIg) expression and &#x02265;10% proplymphocytes remains (10% weak vs 27% strong; <italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0&#x000b7;0001).</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec id="bjh14132-sec-0005"><title>Association of increased prolymphocytes with other clinical and laboratory features</title><p>Table&#x000a0;<xref rid="bjh14132-tbl-0002" ref-type="table-wrap">2</xref> summarizes the degree of association between &#x02265;10% prolymphocytes and other clinical and laboratory features. No associations were found with treatment arm, age, Binet stage, the presence of lymphadenopathy or splenomegaly, <italic>TP53</italic> deletion or mutation, deletion of 11q, <italic>SF3B1</italic> mutation or ZAP70 expression. Because the variables were available in different sub&#x02010;sets of patients, multivariate analysis of the significant variables was performed in consecutive stages, beginning with only the variables that were available from the majority (<italic>n</italic>&#x000a0;=&#x000a0;460) of the 508 patients with prolymphocyte data. Absolute prolymphocyte count was not included because of its close relationship, by definition, to % prolymphocytes. Gender, white blood count, 13q deletion and trisomy 12 were each independently significant in this first stage. We then modelled the other significant variables (Table&#x000a0;<xref rid="bjh14132-tbl-0002" ref-type="table-wrap">2</xref>) one at a time together with the above four variables. Those which retained independent significance were taken forward to a final model (<italic>n</italic>&#x000a0;=&#x000a0;256) which included gender, white blood cell count, <italic>IGHV</italic> mutation status, 13q deletion, trisomy 12, <italic>NOTCH1</italic> mutation and CD38 expression. Four variables were independently associated with percentage of prolymphocytes (Table&#x000a0;<xref rid="bjh14132-tbl-0003" ref-type="table-wrap">3</xref>).</p><table-wrap id="bjh14132-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>The association of baseline demographic and molecular categorical variables with % prolymphocytes (cut&#x02010;off 10%)</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" colspan="2" valign="top" rowspan="1">Variable</th><th align="left" valign="top" rowspan="1" colspan="1">Assessable patients (<italic>n</italic>)</th><th align="left" valign="top" rowspan="1" colspan="1">&#x02265;10% prolymphocytes (%)</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic>P</italic>&#x02010;value<xref ref-type="fn" rid="bjh14132-note-0007">d</xref>
+</th></tr></thead><tbody><tr><td align="left" rowspan="3" colspan="1">Randomized first&#x02010;line treatment<xref ref-type="fn" rid="bjh14132-note-0009">f</xref>
+</td><td align="left" rowspan="1" colspan="1">Chlorambucil</td><td align="left" rowspan="1" colspan="1">256</td><td align="left" rowspan="1" colspan="1">34 (13)</td><td align="left" rowspan="3" colspan="1">NS</td></tr><tr><td align="left" rowspan="1" colspan="1">Fludarabine</td><td align="left" rowspan="1" colspan="1">127</td><td align="left" rowspan="1" colspan="1">22 (17)</td></tr><tr><td align="left" rowspan="1" colspan="1">FC</td><td align="left" rowspan="1" colspan="1">125</td><td align="left" rowspan="1" colspan="1">15 (12)</td></tr><tr><td align="left" rowspan="2" colspan="1">Gender<xref ref-type="fn" rid="bjh14132-note-0009">f</xref>
+</td><td align="left" rowspan="1" colspan="1">Female</td><td align="left" rowspan="1" colspan="1">137</td><td align="left" rowspan="1" colspan="1">11 (8)</td><td align="left" rowspan="2" colspan="1">0&#x000b7;02</td></tr><tr><td align="left" rowspan="1" colspan="1">Male</td><td align="left" rowspan="1" colspan="1">371</td><td align="left" rowspan="1" colspan="1">60 (16)</td></tr><tr><td align="left" rowspan="3" colspan="1">Age group (years)</td><td align="left" rowspan="1" colspan="1">&#x0003c;60</td><td align="left" rowspan="1" colspan="1">154</td><td align="left" rowspan="1" colspan="1">20 (13)</td><td align="left" rowspan="3" colspan="1">NS</td></tr><tr><td align="left" rowspan="1" colspan="1">60&#x02013;69</td><td align="left" rowspan="1" colspan="1">201</td><td align="left" rowspan="1" colspan="1">26 (13)</td></tr><tr><td align="left" rowspan="1" colspan="1">70+</td><td align="left" rowspan="1" colspan="1">153</td><td align="left" rowspan="1" colspan="1">25 (16)</td></tr><tr><td align="left" rowspan="3" colspan="1">Disease stage (Binet)</td><td align="left" rowspan="1" colspan="1">A progressive</td><td align="left" rowspan="1" colspan="1">139</td><td align="left" rowspan="1" colspan="1">18 (13)</td><td align="left" rowspan="3" colspan="1">NS</td></tr><tr><td align="left" rowspan="1" colspan="1">B</td><td align="left" rowspan="1" colspan="1">216</td><td align="left" rowspan="1" colspan="1">35 (16)</td></tr><tr><td align="left" rowspan="1" colspan="1">C</td><td align="left" rowspan="1" colspan="1">153</td><td align="left" rowspan="1" colspan="1">18 (12)</td></tr><tr><td align="left" rowspan="2" colspan="1">Splenomegaly</td><td align="left" rowspan="1" colspan="1">No</td><td align="left" rowspan="1" colspan="1">221</td><td align="left" rowspan="1" colspan="1">26 (12)</td><td align="left" rowspan="2" colspan="1">NS</td></tr><tr><td align="left" rowspan="1" colspan="1">Yes</td><td align="left" rowspan="1" colspan="1">287</td><td align="left" rowspan="1" colspan="1">45 (16)</td></tr><tr><td align="left" rowspan="2" colspan="1">Lymphadenopathy</td><td align="left" rowspan="1" colspan="1">No</td><td align="left" rowspan="1" colspan="1">85</td><td align="left" rowspan="1" colspan="1">12 (14)</td><td align="left" rowspan="2" colspan="1">NS</td></tr><tr><td align="left" rowspan="1" colspan="1">Yes</td><td align="left" rowspan="1" colspan="1">423</td><td align="left" rowspan="1" colspan="1">59 (14)</td></tr><tr><td align="left" rowspan="2" colspan="1">White blood cell count (cut&#x02010;off 100&#x000a0;&#x000d7;&#x000a0;10<sup>9</sup>/l)<xref ref-type="fn" rid="bjh14132-note-0009">f</xref>
+</td><td align="left" rowspan="1" colspan="1">Low</td><td align="left" rowspan="1" colspan="1">256</td><td align="left" rowspan="1" colspan="1">26 (10)</td><td align="left" rowspan="2" colspan="1">0&#x000b7;02</td></tr><tr><td align="left" rowspan="1" colspan="1">High</td><td align="left" rowspan="1" colspan="1">246</td><td align="left" rowspan="1" colspan="1">43 (17)</td></tr><tr><td align="left" rowspan="2" colspan="1">
+<italic>IGHV</italic> mutation status (cut&#x02010;off 98%<xref ref-type="fn" rid="bjh14132-note-0004">a</xref>)<xref ref-type="fn" rid="bjh14132-note-0009">f</xref>
+</td><td align="left" rowspan="1" colspan="1">Mutated</td><td align="left" rowspan="1" colspan="1">163</td><td align="left" rowspan="1" colspan="1">10 (6)</td><td align="left" rowspan="2" colspan="1">&#x0003c;0&#x000b7;0001</td></tr><tr><td align="left" rowspan="1" colspan="1">Unmutated</td><td align="left" rowspan="1" colspan="1">257</td><td align="left" rowspan="1" colspan="1">53 (21)</td></tr><tr><td align="left" rowspan="2" colspan="1">&#x003b2;&#x02010;2 microglobulin (cut&#x02010;off 4&#x000a0;mg/l<xref ref-type="fn" rid="bjh14132-note-0004">a</xref>)<xref ref-type="fn" rid="bjh14132-note-0009">f</xref>
+</td><td align="left" rowspan="1" colspan="1">Low</td><td align="left" rowspan="1" colspan="1">201</td><td align="left" rowspan="1" colspan="1">19 (9)</td><td align="left" rowspan="2" colspan="1">0&#x000b7;004</td></tr><tr><td align="left" rowspan="1" colspan="1">High</td><td align="left" rowspan="1" colspan="1">169</td><td align="left" rowspan="1" colspan="1">34 (20)</td></tr><tr><td align="left" rowspan="2" colspan="1">
+<italic>TP53</italic> deletion (cut&#x02010;off 10%<xref ref-type="fn" rid="bjh14132-note-0004">a</xref>) or mutation</td><td align="left" rowspan="1" colspan="1">No</td><td align="left" rowspan="1" colspan="1">426</td><td align="left" rowspan="1" colspan="1">60 (14)</td><td align="left" rowspan="2" colspan="1">NS</td></tr><tr><td align="left" rowspan="1" colspan="1">Yes</td><td align="left" rowspan="1" colspan="1">41</td><td align="left" rowspan="1" colspan="1">9 (22)</td></tr><tr><td align="left" rowspan="2" colspan="1">11q deletion</td><td align="left" rowspan="1" colspan="1">No</td><td align="left" rowspan="1" colspan="1">380</td><td align="left" rowspan="1" colspan="1">59 (16)</td><td align="left" rowspan="2" colspan="1">NS</td></tr><tr><td align="left" rowspan="1" colspan="1">Yes</td><td align="left" rowspan="1" colspan="1">86</td><td align="left" rowspan="1" colspan="1">9 (10)</td></tr><tr><td align="left" rowspan="2" colspan="1">13q deletion<xref ref-type="fn" rid="bjh14132-note-0009">f</xref>
+</td><td align="left" rowspan="1" colspan="1">No</td><td align="left" rowspan="1" colspan="1">195</td><td align="left" rowspan="1" colspan="1">43 (22)</td><td align="left" rowspan="2" colspan="1">0&#x000b7;0001</td></tr><tr><td align="left" rowspan="1" colspan="1">Yes</td><td align="left" rowspan="1" colspan="1">271</td><td align="left" rowspan="1" colspan="1">25 (9)</td></tr><tr><td align="left" rowspan="2" colspan="1">Trisomy 12<xref ref-type="fn" rid="bjh14132-note-0009">f</xref>
+</td><td align="left" rowspan="1" colspan="1">No</td><td align="left" rowspan="1" colspan="1">389</td><td align="left" rowspan="1" colspan="1">47 (12)</td><td align="left" rowspan="2" colspan="1">0&#x000b7;0006</td></tr><tr><td align="left" rowspan="1" colspan="1">Yes</td><td align="left" rowspan="1" colspan="1">77</td><td align="left" rowspan="1" colspan="1">21 (27)</td></tr><tr><td align="left" rowspan="2" colspan="1">
+<italic>NOTCH1</italic> mutation<xref ref-type="fn" rid="bjh14132-note-0009">f</xref>
+</td><td align="left" rowspan="1" colspan="1">No</td><td align="left" rowspan="1" colspan="1">327</td><td align="left" rowspan="1" colspan="1">39 (12)</td><td align="left" rowspan="2" colspan="1">&#x0003c;0&#x000b7;0001<xref ref-type="fn" rid="bjh14132-note-0008">e</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Yes</td><td align="left" rowspan="1" colspan="1">39</td><td align="left" rowspan="1" colspan="1">16 (41)</td></tr><tr><td align="left" rowspan="2" colspan="1">
+<italic>SF3B1</italic> mutation </td><td align="left" rowspan="1" colspan="1">No</td><td align="left" rowspan="1" colspan="1">284</td><td align="left" rowspan="1" colspan="1">43 (15)</td><td align="left" rowspan="2" colspan="1">NS</td></tr><tr><td align="left" rowspan="1" colspan="1">Yes</td><td align="left" rowspan="1" colspan="1">60</td><td align="left" rowspan="1" colspan="1">13 (22)</td></tr><tr><td align="left" rowspan="2" colspan="1">
+<italic>CLLU1</italic> expression (cut&#x02010;off RQ 40<xref ref-type="fn" rid="bjh14132-note-0005">b</xref>)<xref ref-type="fn" rid="bjh14132-note-0009">f</xref>
+</td><td align="left" rowspan="1" colspan="1">Low</td><td align="left" rowspan="1" colspan="1">203</td><td align="left" rowspan="1" colspan="1">17 (8)</td><td align="left" rowspan="2" colspan="1">0&#x000b7;0002</td></tr><tr><td align="left" rowspan="1" colspan="1">High</td><td align="left" rowspan="1" colspan="1">194</td><td align="left" rowspan="1" colspan="1">42 (22)</td></tr><tr><td align="left" rowspan="2" colspan="1">CD38 expression (cut&#x02010;off 7%<xref ref-type="fn" rid="bjh14132-note-0004">a</xref>)<xref ref-type="fn" rid="bjh14132-note-0009">f</xref>
+</td><td align="left" rowspan="1" colspan="1">Negative</td><td align="left" rowspan="1" colspan="1">163</td><td align="left" rowspan="1" colspan="1">5 (3)</td><td align="left" rowspan="2" colspan="1">&#x0003c;0&#x000b7;0001</td></tr><tr><td align="left" rowspan="1" colspan="1">Positive</td><td align="left" rowspan="1" colspan="1">257</td><td align="left" rowspan="1" colspan="1">54 (21)</td></tr><tr><td align="left" rowspan="2" colspan="1">ZAP70 expression (cut&#x02010;off 10%<xref ref-type="fn" rid="bjh14132-note-0004">a</xref>)</td><td align="left" rowspan="1" colspan="1">Negative</td><td align="left" rowspan="1" colspan="1">191</td><td align="left" rowspan="1" colspan="1">22 (12)</td><td align="left" rowspan="2" colspan="1">NS</td></tr><tr><td align="left" rowspan="1" colspan="1">Positive</td><td align="left" rowspan="1" colspan="1">179</td><td align="left" rowspan="1" colspan="1">31 (17)</td></tr><tr><td align="left" rowspan="3" colspan="1">Telomere length<xref ref-type="fn" rid="bjh14132-note-0006">c</xref>, <xref ref-type="fn" rid="bjh14132-note-0009">f</xref>
+</td><td align="left" rowspan="1" colspan="1">Long</td><td align="left" rowspan="1" colspan="1">79</td><td align="left" rowspan="1" colspan="1">4 (5)</td><td align="left" rowspan="3" colspan="1">0&#x000b7;009</td></tr><tr><td align="left" rowspan="1" colspan="1">Intermediate</td><td align="left" rowspan="1" colspan="1">79</td><td align="left" rowspan="1" colspan="1">13 (16)</td></tr><tr><td align="left" rowspan="1" colspan="1">Short</td><td align="left" rowspan="1" colspan="1">146</td><td align="left" rowspan="1" colspan="1">30 (21)</td></tr><tr><td align="left" rowspan="2" colspan="1">Absolute prolymphocyte count &#x02265;15&#x000a0;&#x000d7;&#x000a0;10<sup>9</sup>/l</td><td align="left" rowspan="1" colspan="1">No</td><td align="left" rowspan="1" colspan="1">442</td><td align="left" rowspan="1" colspan="1">33 (7)</td><td align="left" rowspan="2" colspan="1">&#x0003c;0&#x000b7;0001<xref ref-type="fn" rid="bjh14132-note-0008">e</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Yes</td><td align="left" rowspan="1" colspan="1">62</td><td align="left" rowspan="1" colspan="1">36 (58)</td></tr></tbody></table><table-wrap-foot><fn id="bjh14132-note-0003"><p>FC, fludarabine with cyclophosphamide.</p></fn><fn id="bjh14132-note-0004"><label>a</label><p>Oscier <italic>et&#x000a0;al</italic> (<xref rid="bjh14132-bib-0023" ref-type="ref">2010</xref>)</p></fn><fn id="bjh14132-note-0005"><label>b</label><p>Gonzalez <italic>et&#x000a0;al</italic> (<xref rid="bjh14132-bib-0013" ref-type="ref">2013</xref>); RQ &#x02013; real time relative quantification</p></fn><fn id="bjh14132-note-0006"><label>c</label><p>Cut&#x02010;offs defined in Strefford <italic>et&#x000a0;al</italic> (<xref rid="bjh14132-bib-0031" ref-type="ref">2015</xref>)</p></fn><fn id="bjh14132-note-0007"><label>d</label><p>Chi&#x02010;squared test.</p></fn><fn id="bjh14132-note-0008"><label>e</label><p>&#x02265;15% vs &#x0003c;15% prolymphocytes also significant: <italic>Notch1 P</italic>&#x000a0;=&#x000a0;0&#x000b7;002; absolute prolymphocyte count <italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0&#x000b7;0001</p></fn><fn id="bjh14132-note-0009"><label>f</label><p>Included in multivariate analysis</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><table-wrap id="bjh14132-tbl-0003" xml:lang="en" orientation="portrait" position="float"><label>Table 3</label><caption><p>Variables associated with &#x02265;10% prolymphocytes in multivariate analysis</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Variable</th><th align="left" valign="top" rowspan="1" colspan="1">Odds Ratio</th><th align="left" valign="top" rowspan="1" colspan="1">Lower 95% CL</th><th align="left" valign="top" rowspan="1" colspan="1">Upper 95% CL</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic>P</italic>
+</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">
+<italic>NOTCH1</italic> mutation</td><td align="left" rowspan="1" colspan="1">3.88</td><td align="left" rowspan="1" colspan="1">1.46</td><td align="left" rowspan="1" colspan="1">10.30</td><td align="left" rowspan="1" colspan="1">0.006</td></tr><tr><td align="left" rowspan="1" colspan="1">Absence of 13q deletion</td><td align="left" rowspan="1" colspan="1">4.41</td><td align="left" rowspan="1" colspan="1">1.82</td><td align="left" rowspan="1" colspan="1">10.69</td><td align="left" rowspan="1" colspan="1">0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">Positive CD38 expression</td><td align="left" rowspan="1" colspan="1">6.48</td><td align="left" rowspan="1" colspan="1">1.44</td><td align="left" rowspan="1" colspan="1">29.25</td><td align="left" rowspan="1" colspan="1">0.02</td></tr><tr><td align="left" rowspan="1" colspan="1">Unmutated <italic>IGHV</italic> genes</td><td align="left" rowspan="1" colspan="1">5.02</td><td align="left" rowspan="1" colspan="1">1.39</td><td align="left" rowspan="1" colspan="1">18.17</td><td align="left" rowspan="1" colspan="1">0.01</td></tr></tbody></table><table-wrap-foot><fn id="bjh14132-note-0010"><p>CL, confidence limit.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec id="bjh14132-sec-0006"><title>Association of increased prolymphocytes with outcome</title><p>There was no significant difference in first&#x02010;line overall response rate (74% vs 80%, <italic>P</italic>&#x000a0;=&#x000a0;0&#x000b7;3) or first line CR rate (17% vs 18%, <italic>P</italic>&#x000a0;=&#x000a0;0&#x000b7;9) for patients with &#x02265;10% vs &#x0003c;10% prolymphocytes respectively.</p><p>PFS following initial treatment was worse for patients with &#x02265;10% prolymphocytes (Hazard ratio [HR] 1&#x000b7;50 [95% confidence interval (CI): 1&#x000b7;16&#x02013;1&#x000b7;93], <italic>P</italic>&#x000a0;=&#x000a0;0&#x000b7;002) (Fig&#x000a0;<xref rid="bjh14132-fig-0002" ref-type="fig">2</xref>A) and for those with &#x02265;15&#x000a0;&#x000d7;&#x000a0;10<sup>9</sup>/l prolymphocytes (HR 1&#x000b7;45 [95% CI: 1&#x000b7;11&#x02013;1&#x000b7;91], 0&#x000b7;007) (Fig&#x000a0;<xref rid="bjh14132-fig-0002" ref-type="fig">2</xref>B). The 5&#x02010;year PFS was 4% (95% CI: 0&#x02013;9%) for patients with &#x02265;10% prolymphocytes vs 17% (14&#x02013;21%) for those with &#x0003c;10% prolymphocytes. OS was also worse for patients with &#x02265;10% prolymphocytes (HR 1&#x000b7;99 [95%CI: 1&#x000b7;53&#x02013;2&#x000b7;59], <italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0&#x000b7;0001) (Fig&#x000a0;<xref rid="bjh14132-fig-0002" ref-type="fig">2</xref>C), and for those with &#x02265;15&#x000a0;&#x000d7;&#x000a0;10<sup>9</sup>/l prolymphocytes (HR 1&#x000b7;53 [95% CI: 1&#x000b7;15 &#x02013; 2&#x000b7;04], <italic>P</italic>&#x000a0;=&#x000a0;0&#x000b7;004) (Fig&#x000a0;<xref rid="bjh14132-fig-0002" ref-type="fig">2</xref>D). OS at 10&#x000a0;years was 3% (0&#x02013;7%) vs 30% (26&#x02013;35%) for patients with &#x02265;10% vs &#x0003c;10% prolymphocytes respectively. The adverse prognostic significance of &#x02265;10% prolymphocytes for both PFS and OS was evident in each arm of the trial (Figure&#x000a0;S1).</p><fig fig-type="Figure" xml:lang="en" id="bjh14132-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Survival (A) Progression&#x02010;free survival by &#x0003c;10% vs &#x02265;10% prolymphocytes. (B) Progression&#x02010;free survival by absolute prolymphocyte count. (C) Overall survival by &#x0003c;10% vs &#x02265;10% prolymphocytes (D) Overall survival by absolute prolymphocyte count.</p></caption><graphic id="nlm-graphic-3" xlink:href="BJH-174-767-g002"/></fig><p>Given that the choice of a 10% cut&#x02010;off to define increased prolymphocytes was based on historical data, we then compared the PFS and OS for each of four groups defined by % prolymphocytes ranging from &#x0003c;5% to &#x02265;15% (Fig&#x000a0;<xref rid="bjh14132-fig-0003" ref-type="fig">3</xref>). This shows a significant reduction in both PFS and OS compared to cases with &#x0003c;5% prolymphocytes, irrespective of whether the cut&#x02010;off was 5% (PFS <italic>P</italic>&#x000a0;=&#x000a0;0&#x000b7;0004, OS <italic>P</italic>&#x000a0;=&#x000a0;0&#x000b7;0006) or 10% (PFS <italic>P</italic>&#x000a0;=&#x000a0;0&#x000b7;006, OS <italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0&#x000b7;0001), but provides no support for a cut&#x02010;off of &#x0003e;15% (PFS <italic>P</italic>&#x000a0;=&#x000a0;0&#x000b7;3, OS <italic>P</italic>&#x000a0;=&#x000a0;0&#x000b7;07) which represents only 2% of cases.</p><fig fig-type="Figure" xml:lang="en" id="bjh14132-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Determining the optimum cut&#x02010;off for % prolymphocytes. (A) Progression&#x02010;free survival by % prolymphocytes. (B) Overall survival by % prolymphocytes.</p></caption><graphic id="nlm-graphic-5" xlink:href="BJH-174-767-g003"/></fig><p>Only 8/71 (11%) patients with &#x02265;10% prolymphocytes received no further treatment during the clinical follow&#x02010;up period of the trial (median 7&#x000a0;years, range 6&#x02013;12&#x000a0;years) compared with 146/437 (33%) of those with &#x0003c;10% prolymphocytes (<italic>P</italic>&#x000a0;=&#x000a0;0&#x000b7;0002). Two or more further lines of treatment were given to 37/71 (52%) patients with &#x02265;10% prolymphocytes, but to only 134/437 (31%) patients with &#x0003c;10% prolymphocytes (<italic>P</italic>&#x000a0;=&#x000a0;0&#x000b7;0004).</p><p>To date 17/508 patients (3%) have died as a result of Richter syndrome. Such deaths were significantly more common amongst patients who had &#x02265;10% prolymphocytes at randomization (9/71, 13%) vs those with &#x0003c;10% prolymphocytes (8/437, 2%; <italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0&#x000b7;0001).</p><p>As with the analysis of factors associated with % prolymphocytes, the multivariate analysis to determine whether % prolymphocytes was independently associated with survival was carried out in three stages, using Cox regression analysis. &#x02265;10% prolymphocytes was an independent predictor of PFS in the first&#x02010;stage model (<italic>n</italic>&#x000a0;=&#x000a0;465), as were also randomized treatment, gender, 11q deletion and <italic>TP53</italic> deletion/mutation. Adding in the variables from the smaller subsets one at a time, &#x02265;10% prolymphocytes remained an independent predictor of PFS when, in addition to the above first&#x02010;stage variables, the model also included any one of the following: ZAP70, <italic>NOTCH1</italic>,<italic> SF3B1</italic> or telomere length, but not when it included any of <italic>IGHV</italic> mutational status, B2M, CD38 or <italic>CLLU1</italic> expression. When all the significant variables from the second stage were included together in a final model (<italic>n</italic>&#x000a0;=&#x000a0;120), % prolymphocytes was no longer an independent predictor of PFS.</p><p>&#x02265;10% prolymphocytes was an independent predictor of OS in the first&#x02010;stage model (<italic>n</italic>&#x000a0;=&#x000a0;465), as were also disease stage, age, 11q and 13q deletion, and <italic>TP53</italic> deletion/mutation. Adding in the variables from the smaller subsets one at a time, &#x02265;10% prolymphocytes remained an independent predictor of OS when, in addition to the above first&#x02010;stage variables, the model also included any one of the following: <italic>IGHV</italic> mutational status, B2M, CD38, ZAP70 or <italic>CLLU1</italic> expression, <italic>NOTCH1</italic> or <italic>SF3B1</italic> mutations or telomere length. When all the significant variables from the second stage were included together in a final model (<italic>n</italic>&#x000a0;=&#x000a0;121), % prolymphocytes was no longer an independent predictor of OS.</p></sec></sec><sec id="bjh14132-sec-0007"><title>Discussion</title><p>This is the first study to evaluate the clinical significance of increased circulating prolymphocytes in CLL within the context of a randomized chemotherapy trial and demonstrates that &#x02265;10% prolymphocytes and an absolute prolymphocyte count of &#x02265;15&#x000a0;&#x000d7;&#x000a0;10<sup>9</sup>/l are associated with a shorter PFS and OS in univariate analysis. Independent significance of &#x02265;10% prolymphocytes is lost in multivariate analysis, although it retains significance for OS in models that include either <italic>IGHV</italic> mutational status or B2M, which we previously showed to be independent markers of outcome in the LRF CLL4 trial (Oscier <italic>et&#x000a0;al</italic>, <xref rid="bjh14132-bib-0023" ref-type="ref">2010</xref>). We also noted that patients with &#x02265;10% prolymphocytes were significantly more likely to require second or third line treatments and to die from Richter transformation, although the latter observation requires confirmation in a larger study.</p><p>We were able to confirm in this large cohort of patients the previously documented associations between increased prolymphocytes, strong expression of SmIg and trisomy 12, and, for the first time, we document associations with male gender, elevated B2M, unmutated <italic>IGHV</italic> genes, high CD38 and <italic>CLLU1</italic> expression, short telomere length, <italic>NOTCH1</italic> mutations and absence of 13q deletion. Interestingly, and not expected, in a multivariate analysis only unmutated <italic>IGHV</italic> genes, high CD38 expression, <italic>NOTCH1</italic> mutations and absence of 13q deletion, but not trisomy 12, were independently associated with &#x02265;10% prolymphocytes. The association with <italic>NOTCH1</italic> mutations may become stronger once samples are screened for 3&#x02032; non&#x02010;coding mutations (Puente <italic>et&#x000a0;al</italic>, <xref rid="bjh14132-bib-0027" ref-type="ref">2015</xref>).</p><p>Melo <italic>et&#x000a0;al</italic> (<xref rid="bjh14132-bib-0018" ref-type="ref">1986</xref>) raised the question as to &#x02018;whether the phenomenon of prolymphocytoid transformation in CLL represents the release into the peripheral blood of cells in the mitotic phase of the cell cycle, or whether the prolymphocytes belong to a subclone with a growth advantage&#x02019;. With regard to the first possibility, it has subsequently become clear that CLL cells recirculate between secondary lymphoid organs and peripheral blood and the latter contains subpopulations of resting or recently proliferating CLL cells which differ in their expression of surface receptors such as CD38, CD5 and CXCR4.(Calissano <italic>et&#x000a0;al</italic>, <xref rid="bjh14132-bib-0002" ref-type="ref">2011</xref>; Cuthill <italic>et&#x000a0;al</italic>, <xref rid="bjh14132-bib-0006" ref-type="ref">2015</xref>). Within secondary lymphoid organs, CLL cells divide within proliferation centres composed both of tumour cells and components of the tissue microenvironment, such as T cells, monocyte&#x02010;derived nurse like cells and stromal cells, with which they interact. (Herishanu <italic>et&#x000a0;al</italic>, <xref rid="bjh14132-bib-0015" ref-type="ref">2011</xref>; ten Hacken &#x00026; Burger, <xref rid="bjh14132-bib-0014" ref-type="ref">2014</xref>). Tumour cells within proliferation centres contain medium&#x02010;sized and large lymphoid cells comprising prolymphocytes and immunoblasts whose histological features mirror the morphology of circulating prolymphocytes and immunoblasts (Herreros <italic>et&#x000a0;al</italic>, <xref rid="bjh14132-bib-0016" ref-type="ref">2010</xref>). Immunohistochemical studies show that the large tumour cells within proliferation centres show increased expression of Ki67, CD20, CD23, CD38, IRF4, survivin (BIRC5), BCL2 and MYC compared to small lymphocytes outside proliferation centres, and upregulate NOTCH, CD40 and BAFF signalling pathways leading to NF&#x02010;kB activation (Patten <italic>et&#x000a0;al</italic>, <xref rid="bjh14132-bib-0025" ref-type="ref">2008</xref>; Gin&#x000e9; <italic>et&#x000a0;al</italic>, <xref rid="bjh14132-bib-0011" ref-type="ref">2010</xref>; Herreros <italic>et&#x000a0;al</italic>, <xref rid="bjh14132-bib-0016" ref-type="ref">2010</xref>; Gibson <italic>et&#x000a0;al</italic>, <xref rid="bjh14132-bib-0010" ref-type="ref">2015</xref>; Onaindia <italic>et&#x000a0;al</italic>, <xref rid="bjh14132-bib-0021" ref-type="ref">2015</xref>). Gin&#x000e9; <italic>et&#x000a0;al</italic> (<xref rid="bjh14132-bib-0011" ref-type="ref">2010</xref>) studied tissue biopsies, mainly from lymph nodes, in 100 CLL patients of whom 73% had suspected Richter transformation. Twenty&#x02010;eight per cent had expanded or confluent proliferation centres, which were associated with short survival. Ciccone <italic>et&#x000a0;al</italic> (<xref rid="bjh14132-bib-0004" ref-type="ref">2012</xref>) noted a similar association between confluent proliferation centres and short survival in a study of lymph node biopsies in 183 CLL patients. Neither of these studies reviewed lymphocyte morphology in the peripheral blood but, if the emergence of prolymphocytes into the blood represents the egress of cells from proliferation centres with a similar morphological appearance, then both a raised prolymphocyte count and an increase in a subpopulation with the immunophenotype of proliferating cells would be anticipated in these cases.</p><p>There are no data to confirm the second possibility that prolymphocytes represent a subclone. However, FISH analysis of proliferation centres and their surrounding areas of small lymphocytes showed a higher incidence of copy number abnormalities within the proliferation centres (Balogh <italic>et&#x000a0;al</italic>, <xref rid="bjh14132-bib-0001" ref-type="ref">2011</xref>). More recently, screening of concurrent blood and lymph node samples for genomic mutations and copy number chromosomal abnormalities identified cases with clonal driver mutations within lymph nodes that were only detected in the blood as small circulating subclones (Del Giudice <italic>et&#x000a0;al</italic>, <xref rid="bjh14132-bib-0007" ref-type="ref">2016</xref>). This supports the concept that mutations arise within a proliferative tissue compartment and raises the possibility that the circulating subclones may be enriched within cells with a &#x02018;proliferative&#x02019; immunophenotype and/or those with prolymphocytic morphology.</p><p>The association between increased prolymphocytes and <italic>NOTCH1</italic> mutations is a novel and unexpected finding. Circulating CLL cells with trisomy 12 have increased expression of the surface integrins CD11a, CD11b and CD18, which are down&#x02010;regulated in the presence of <italic>NOTCH1</italic> mutations (Riches <italic>et&#x000a0;al</italic>, <xref rid="bjh14132-bib-0029" ref-type="ref">2014</xref>). The rare cases of CLL with a <italic>MYC</italic> translocation (Huh <italic>et&#x000a0;al</italic>, <xref rid="bjh14132-bib-0017" ref-type="ref">2008</xref>; Put <italic>et&#x000a0;al</italic>, <xref rid="bjh14132-bib-0028" ref-type="ref">2012</xref>) have been shown to be associated with increased circulating prolymphocytes and although speculative, it is possible that these genomic abnormalities could facilitate the exit of prolymphocytes into the peripheral blood.</p><p>Regardless of the biology of prolymphocytes and the reasons for their appearance in the peripheral blood, our study confirms and extends earlier reports of their adverse prognostic significance. Although flow cytometric analysis has become an essential tool in the diagnostic evaluation of CLL and morphological expertise is less widespread, the distinction between cells with or without prominent nucleoli in a well&#x02010;made blood film is relatively straightforward. Moreover, we noted that even &#x02265;5% prolymphocytes were associated with a poorer outcome, and the higher cut&#x02010;offs used in this study to define increased prolymphocytes clearly distinguish cases with typical morphology from those with CLL/PL. Depending on the clinical context, increased prolymphocytes at diagnosis or during the course of the disease may be a harbinger of progressive disease and may warrant further clinical and laboratory evaluation.</p></sec><sec id="bjh14132-sec-0009"><title>Author contributions</title><p>DC was the principal investigator and takes primary responsibility for the paper; EM and DC evaluated lymphocyte morphology; RM performed flow cytometry, DO and JS undertook the core research on prognostic factors, ME performed the statistical analyses; DC, DO and ME wrote the paper.</p></sec><sec id="bjh14132-sec-0010"><title>Conflict of interest</title><p>The authors have no conflict of interests.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data"><caption><p>
+<bold>Fig S1.</bold> Survival by % prolymphocytes (pl) within each treatment arm A: Progression&#x02010;free survival B: Overall survival.</p><p>
+<bold>Table&#x000a0;SI.</bold> Prolymphocyte data availability by patient/disease characteristics</p></caption><media xlink:href="BJH-174-767-s001.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="bjh14132-sec-0008"><title>Acknowledgements</title><p>The authors would like to thank David Gonzalez, Alison Morilla, Vasantha Brito&#x02010;Babapulle, Zadie Davis, Matthew Rose&#x02010;Zerilli and Jade Forster who performed the laboratory studies for the trial, as well as all the participating medical staff and patients. The trial was funded by a core grant from Bloodwise. ME was supported by the Arbib Charitable Fund. Laboratory studies were supported by the Kay Kendall Leukaemia Fund (KKL584), Bloodwise (11052, 12050), Wessex Medical Research, Cancer Research UK (C328/A2738 and C328/A2737) and an educational grant from Schering Health Care (UK) and Schering AG (Germany).</p></ack><ref-list content-type="cited-references" id="bjh14132-bibl-0001"><title>References</title><ref id="bjh14132-bib-0001"><mixed-citation publication-type="journal" id="bjh14132-cit-0001">
+<string-name>
+<surname>Balogh</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Reiniger</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Rajnai</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Csomor</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Szepesi</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Balogh</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>De&#x000e1;k</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Gagyi</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>B&#x000f6;d&#x000f6;r</surname>, <given-names>C.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Matolcsy</surname>, <given-names>A.</given-names>
+</string-name> (<year>2011</year>) <article-title>High rate of neoplastic cells with genetic abnormalities in proliferation centers of chronic lymphocytic leukemia</article-title>. <source>Leukemia &#x00026; Lymphoma</source>, <volume>52</volume>, <fpage>1080</fpage>&#x02013;<lpage>1084</lpage>.<pub-id pub-id-type="pmid">21417824</pub-id></mixed-citation></ref><ref id="bjh14132-bib-0002"><mixed-citation publication-type="journal" id="bjh14132-cit-0002">
+<string-name>
+<surname>Calissano</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Damle</surname>, <given-names>R.N.</given-names>
+</string-name>, <string-name>
+<surname>Marsilio</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Yan</surname>, <given-names>X.J.</given-names>
+</string-name>, <string-name>
+<surname>Yancopoulos</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Hayes</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Emson</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Murphy</surname>, <given-names>E.J.</given-names>
+</string-name>, <string-name>
+<surname>Hellerstein</surname>, <given-names>M.K.</given-names>
+</string-name>, <string-name>
+<surname>Sison</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Kaufman</surname>, <given-names>M.S.</given-names>
+</string-name>, <string-name>
+<surname>Kolitz</surname>, <given-names>J.E.</given-names>
+</string-name>, <string-name>
+<surname>Allen</surname>, <given-names>S.L.</given-names>
+</string-name>, <string-name>
+<surname>Rai</surname>, <given-names>K.R.</given-names>
+</string-name>, <string-name>
+<surname>Ivanovic</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Dozmorov</surname>, <given-names>I.M.</given-names>
+</string-name>, <string-name>
+<surname>Roa</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Scharff</surname>, <given-names>M.D.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>W.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Chiorazzi</surname>, <given-names>N.</given-names>
+</string-name> (<year>2011</year>) <article-title>Intraclonal complexity in chronic lymphocytic leukemia: fractions enriched in recently born/divided and older/quiescent cells</article-title>. <source>Molecular Medicine</source>, <volume>17</volume>, <fpage>1374</fpage>&#x02013;<lpage>1382</lpage>.<pub-id pub-id-type="pmid">21968788</pub-id></mixed-citation></ref><ref id="bjh14132-bib-0003"><mixed-citation publication-type="journal" id="bjh14132-cit-0003">
+<string-name>
+<surname>Catovsky</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Richards</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Matutes</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Oscier</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Dyer</surname>, <given-names>M.J.</given-names>
+</string-name>, <string-name>
+<surname>Bezares</surname>, <given-names>R.F.</given-names>
+</string-name>, <string-name>
+<surname>Pettitt</surname>, <given-names>A.R.</given-names>
+</string-name>, <string-name>
+<surname>Hamblin</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Milligan</surname>, <given-names>D.W.</given-names>
+</string-name>, <string-name>
+<surname>Child</surname>, <given-names>J.A.</given-names>
+</string-name>, <string-name>
+<surname>Hamilton</surname>, <given-names>M.S.</given-names>
+</string-name>, <string-name>
+<surname>Dearden</surname>, <given-names>C.E.</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>, <given-names>A.G.</given-names>
+</string-name>, <string-name>
+<surname>Bosanquet</surname>, <given-names>A.G.</given-names>
+</string-name>, <string-name>
+<surname>Davis</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Brito&#x02010;Babapulle</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Else</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Wade</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Hillmen</surname>, <given-names>P.</given-names>
+</string-name>, <collab collab-type="authors">UK National Cancer Research Institute (NCRI) Haematological Oncology Clinical Studies Group; NCRI Chronic Lymphocytic Leukaemia Working Group</collab>
+(<year>2007</year>) <article-title>Assessment of fludarabine plus cyclophosphamide for patients with chronic lymphocytic leukaemia (the LRF CLL4 Trial): a randomised controlled trial</article-title>. <source>Lancet</source>, <volume>370</volume>, <fpage>230</fpage>&#x02013;<lpage>239</lpage>.<pub-id pub-id-type="pmid">17658394</pub-id></mixed-citation></ref><ref id="bjh14132-bib-0004"><mixed-citation publication-type="journal" id="bjh14132-cit-0004">
+<string-name>
+<surname>Ciccone</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Agostinelli</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Rigolin</surname>, <given-names>G.M.</given-names>
+</string-name>, <string-name>
+<surname>Piccaluga</surname>, <given-names>P.P.</given-names>
+</string-name>, <string-name>
+<surname>Cavazzini</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Righi</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Sista</surname>, <given-names>M.T.</given-names>
+</string-name>, <string-name>
+<surname>Sofritti</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Rizzotto</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Sabattini</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Fioritoni</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Falorio</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Stelitano</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Olivieri</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Attolico</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Brugiatelli</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Zinzani</surname>, <given-names>P.L.</given-names>
+</string-name>, <string-name>
+<surname>Saccenti</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Capello</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Negrini</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Cuneo</surname>, <given-names>A.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Pileri</surname>, <given-names>S.</given-names>
+</string-name> (<year>2012</year>) <article-title>Proliferation centers in chronic lymphocytic leukemia: correlation with cytogenetic and clinicobiological features in consecutive patients analyzed on tissue microarrays</article-title>. <source>Leukemia</source>, <volume>26</volume>, <fpage>499</fpage>&#x02013;<lpage>508</lpage>.<pub-id pub-id-type="pmid">21941366</pub-id></mixed-citation></ref><ref id="bjh14132-bib-0005"><mixed-citation publication-type="journal" id="bjh14132-cit-0005">
+<string-name>
+<surname>Criel</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Verhoef</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Vlietinck</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Mecucci</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Billiet</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Michaux</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Meeus</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Louwagie</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Van Orshoven</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Van Hoof</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Boogaerts</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Van den Berghe</surname>, <given-names>H.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>De Wolf&#x02010;Peeters</surname>, <given-names>C.</given-names>
+</string-name> (<year>1997</year>) <article-title>Further characterization of morphologically defined typical and atypical CLL: a clinical, immunophenotypic, cytogenetic and prognostic study on 390 cases</article-title>. <source>British Journal of Haematology</source>, <volume>97</volume>, <fpage>383</fpage>&#x02013;<lpage>391</lpage>.<pub-id pub-id-type="pmid">9163605</pub-id></mixed-citation></ref><ref id="bjh14132-bib-0006"><mixed-citation publication-type="journal" id="bjh14132-cit-0006">
+<string-name>
+<surname>Cuthill</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Buggins</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Coulter</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Patten</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Macallan</surname>, <given-names>D.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Devereux</surname>, <given-names>S</given-names>
+</string-name>. (<year>2015</year>) <article-title>In&#x02010;vivo labelling studies in patients with chronic lymphocytic leukemia studies demonstrate the existence of apparently distinct subpopulations that differ in phenotype and proliferative capacity</article-title>. <source>Blood</source>, <volume>126</volume>, 615 (Abstract).</mixed-citation></ref><ref id="bjh14132-bib-0007"><mixed-citation publication-type="journal" id="bjh14132-cit-0007">
+<string-name>
+<surname>Del Giudice</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Marinelli</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Bonina</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Messina</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Chiaretti</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Ilari</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Cafforio</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Raponi</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Mauro</surname>, <given-names>F.R.</given-names>
+</string-name>, <string-name>
+<surname>Di Maio</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>De Propris</surname>, <given-names>M.S.</given-names>
+</string-name>, <string-name>
+<surname>Nanni</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Ciardullo</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Rossi</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Gaidano</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Guarini</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Rabadan</surname>, <given-names>R.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Fo&#x000e0;</surname>, <given-names>R.</given-names>
+</string-name> (<year>2016</year>) <article-title>Inter&#x02010; and intra&#x02010;patient clonal and subclonal heterogeneity of chronic lymphocytic leukaemia: evidences from circulating and lymph nodal compartments</article-title>. <source>British Journal of Haematology</source>, <volume>172</volume>, <fpage>371</fpage>&#x02013;<lpage>383</lpage>.<pub-id pub-id-type="pmid">26597680</pub-id></mixed-citation></ref><ref id="bjh14132-bib-0008"><mixed-citation publication-type="journal" id="bjh14132-cit-0008">
+<string-name>
+<surname>Dubner</surname>, <given-names>H.N.</given-names>
+</string-name>, <string-name>
+<surname>Crowley</surname>, <given-names>J.J.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Schilling</surname>, <given-names>R.F.</given-names>
+</string-name> (<year>1978</year>) <article-title>Prognostic value of nucleoli and cell size in chronic lymphocytic leukemia</article-title>. <source>American Journal of Hematology</source>, <volume>4</volume>, <fpage>337</fpage>&#x02013;<lpage>341</lpage>.<pub-id pub-id-type="pmid">717395</pub-id></mixed-citation></ref><ref id="bjh14132-bib-0009"><mixed-citation publication-type="journal" id="bjh14132-cit-0009">
+<string-name>
+<surname>Enno</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Catovsky</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>O'Brien</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Cherchi</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Kumaran</surname>, <given-names>T.O.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Galton</surname>, <given-names>D.A.</given-names>
+</string-name> (<year>1979</year>) <article-title>&#x02018;Prolymphocytoid&#x02019; transformation of chronic lymphocytic leukaemia</article-title>. <source>British Journal of Haematology</source>, <volume>41</volume>, <fpage>9</fpage>&#x02013;<lpage>18</lpage>.<pub-id pub-id-type="pmid">420739</pub-id></mixed-citation></ref><ref id="bjh14132-bib-0010"><mixed-citation publication-type="journal" id="bjh14132-cit-0010">
+<string-name>
+<surname>Gibson</surname>, <given-names>SE.</given-names>
+</string-name>, <string-name>
+<surname>Leeman&#x02010;Neill</surname>, <given-names>R.J.</given-names>
+</string-name>, <string-name>
+<surname>Jain</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Piao</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Cieply</surname>, <given-names>K.M.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Swerdlow</surname>, <given-names>S.H</given-names>
+</string-name>. (<year>2015</year>) <article-title>Proliferation centres of chronic lymphocytic leukaemia/small lymphocytic lymphoma have enhanced expression of MYC protein, which does not result from rearrangement or gain of the <italic>MYC</italic> gene</article-title>. <source>British Journal of Haematology</source>, Nov 16. doi: <ext-link ext-link-type="doi" xlink:href="10.1111/bjh.13844">10.1111/bjh.13844</ext-link> [Epub ahead of print]</mixed-citation></ref><ref id="bjh14132-bib-0011"><mixed-citation publication-type="journal" id="bjh14132-cit-0011">
+<string-name>
+<surname>Gin&#x000e9;</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Martinez</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Villamor</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>L&#x000f3;pez&#x02010;Guillermo</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Camos</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Martinez</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Esteve</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Calvo</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Munta&#x000f1;ola</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Abrisqueta</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Rozman</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Rozman</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Bosch</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Campo</surname>, <given-names>E.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Montserrat</surname>, <given-names>E.</given-names>
+</string-name> (<year>2010</year>) <article-title>Expanded and highly active proliferation centers identify a histological subtype of chronic lymphocytic leukemia (&#x0201c;accelerated&#x0201d; chronic lymphocytic leukemia) with aggressive clinical behavior</article-title>. <source>Haematologica</source>, <volume>95</volume>, <fpage>1526</fpage>&#x02013;<lpage>1533</lpage>.<pub-id pub-id-type="pmid">20421272</pub-id></mixed-citation></ref><ref id="bjh14132-bib-0012"><mixed-citation publication-type="journal" id="bjh14132-cit-0012">
+<string-name>
+<surname>Gonzalez</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Martinez</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Wade</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Hockley</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Oscier</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Matutes</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Dearden</surname>, <given-names>C.E.</given-names>
+</string-name>, <string-name>
+<surname>Richards</surname>, <given-names>S.M.</given-names>
+</string-name>, <string-name>
+<surname>Catovsky</surname>, <given-names>D.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Morgan</surname>, <given-names>G.J.</given-names>
+</string-name> (<year>2011</year>) <article-title>Mutational status of the <italic>TP53</italic> gene as a predictor of response and survival in patients with chronic lymphocytic leukemia: results from the LRF CLL4 trial</article-title>. <source>Journal of Clinical Oncology</source>, <volume>29</volume>, <fpage>2223</fpage>&#x02013;<lpage>2229</lpage>.<pub-id pub-id-type="pmid">21483000</pub-id></mixed-citation></ref><ref id="bjh14132-bib-0013"><mixed-citation publication-type="journal" id="bjh14132-cit-0013">
+<string-name>
+<surname>Gonzalez</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Else</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Wren</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Usai</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Buhl</surname>, <given-names>A.M.</given-names>
+</string-name>, <string-name>
+<surname>Parker</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Oscier</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Morgan</surname>, <given-names>G.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Catovsky</surname>, <given-names>D.</given-names>
+</string-name> (<year>2013</year>) <article-title>
+<italic>CLLU1</italic> expression has prognostic value in chronic lymphocytic leukemia after first&#x02010;line therapy in younger patients and in those with mutated IGHV genes</article-title>. <source>Haematologica</source>, <volume>98</volume>, <fpage>274</fpage>&#x02013;<lpage>278</lpage>.<pub-id pub-id-type="pmid">22899580</pub-id></mixed-citation></ref><ref id="bjh14132-bib-0014"><mixed-citation publication-type="journal" id="bjh14132-cit-0014">
+<string-name>
+<surname>ten Hacken</surname>, <given-names>E.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Burger</surname>, <given-names>J.A.</given-names>
+</string-name> (<year>2014</year>) <article-title>Molecular pathways: targeting the microenvironment in chronic lymphocytic leukemia&#x02013;focus on the B&#x02010;cell receptor</article-title>. <source>Clinical Cancer Research</source>, <volume>20</volume>, <fpage>548</fpage>&#x02013;<lpage>556</lpage>.<pub-id pub-id-type="pmid">24323900</pub-id></mixed-citation></ref><ref id="bjh14132-bib-0015"><mixed-citation publication-type="journal" id="bjh14132-cit-0015">
+<string-name>
+<surname>Herishanu</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>P&#x000e9;rez&#x02010;Gal&#x000e1;n</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Biancotto</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Pittaluga</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Vire</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Gibellini</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Njuguna</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Stennett</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Raghavachari</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>McCoy</surname>, <given-names>J.P.</given-names>
+</string-name>, <string-name>
+<surname>Raffeld</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Stetler&#x02010;Stevenson</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Yuan</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Sherry</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Arthur</surname>, <given-names>D.C.</given-names>
+</string-name>, <string-name>
+<surname>Maric</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>White</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Marti</surname>, <given-names>G.E.</given-names>
+</string-name>, <string-name>
+<surname>Munson</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Wilson</surname>, <given-names>W.H.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Wiestner</surname>, <given-names>A.</given-names>
+</string-name> (<year>2011</year>) <article-title>The lymph node microenvironment promotes B&#x02010;cell receptor signaling, NF&#x02010;kappaB activation, and tumor proliferation in chronic lymphocytic leukemia</article-title>. <source>Blood</source>, <volume>117</volume>, <fpage>563</fpage>&#x02013;<lpage>574</lpage>.<pub-id pub-id-type="pmid">20940416</pub-id></mixed-citation></ref><ref id="bjh14132-bib-0016"><mixed-citation publication-type="journal" id="bjh14132-cit-0016">
+<string-name>
+<surname>Herreros</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Rodr&#x000ed;guez&#x02010;Pinilla</surname>, <given-names>S.M.</given-names>
+</string-name>, <string-name>
+<surname>Pajares</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Mart&#x000ed;nez&#x02010;G&#x000f3;nzalez</surname>, <given-names>M.A.</given-names>
+</string-name>, <string-name>
+<surname>Ramos</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Munoz</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Montes&#x02010;Moreno</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Lozano</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>S&#x000e1;nchez&#x02010;Verde</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Roncador</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>S&#x000e1;nchez&#x02010;Beato</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>de Otazu</surname>, <given-names>R.D.</given-names>
+</string-name>, <string-name>
+<surname>P&#x000e9;rez&#x02010;Guillermo</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Mestre</surname>, <given-names>M.J.</given-names>
+</string-name>, <string-name>
+<surname>Bellas</surname>, <given-names>C.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Piris</surname>, <given-names>M.A.</given-names>
+</string-name> (<year>2010</year>) <article-title>Proliferation centers in chronic lymphocytic leukemia: the niche where NF&#x02010;kappaB activation takes place</article-title>. <source>Leukemia</source>, <volume>24</volume>, <fpage>872</fpage>&#x02013;<lpage>876</lpage>.<pub-id pub-id-type="pmid">20072150</pub-id></mixed-citation></ref><ref id="bjh14132-bib-0017"><mixed-citation publication-type="journal" id="bjh14132-cit-0017">
+<string-name>
+<surname>Huh</surname>, <given-names>Y.O.</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>, <given-names>K.I.</given-names>
+</string-name>, <string-name>
+<surname>Vega</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Schlette</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Yin</surname>, <given-names>C.C.</given-names>
+</string-name>, <string-name>
+<surname>Keating</surname>, <given-names>M.J.</given-names>
+</string-name>, <string-name>
+<surname>Luthra</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Medeiros</surname>, <given-names>L.J.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Abruzzo</surname>, <given-names>L.V.</given-names>
+</string-name> (<year>2008</year>) <article-title>MYC translocation in chronic lymphocytic leukaemia is associated with increased prolymphocytes and a poor prognosis</article-title>. <source>British Journal of Haematology</source>, <volume>142</volume>, <fpage>36</fpage>&#x02013;<lpage>44</lpage>.<pub-id pub-id-type="pmid">18477041</pub-id></mixed-citation></ref><ref id="bjh14132-bib-0018"><mixed-citation publication-type="journal" id="bjh14132-cit-0018">
+<string-name>
+<surname>Melo</surname>, <given-names>J.V.</given-names>
+</string-name>, <string-name>
+<surname>Catovsky</surname>, <given-names>D.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Galton</surname>, <given-names>D.A.</given-names>
+</string-name> (<year>1986</year>) <article-title>The relationship between chronic lymphocytic leukaemia and prolymphocytic leukaemia. I. Clinical and laboratory features of 300 patients and characterization of an intermediate group</article-title>. <source>British Journal of Haematology</source>, <volume>63</volume>, <fpage>377</fpage>&#x02013;<lpage>387</lpage>.<pub-id pub-id-type="pmid">3487341</pub-id></mixed-citation></ref><ref id="bjh14132-bib-0019"><mixed-citation publication-type="journal" id="bjh14132-cit-0019">
+<string-name>
+<surname>Melo</surname>, <given-names>J.V.</given-names>
+</string-name>, <string-name>
+<surname>Catovsky</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Gregory</surname>, <given-names>W.M.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Galton</surname>, <given-names>D.A.</given-names>
+</string-name> (<year>1987</year>) <article-title>The relationship between chronic lymphocytic leukaemia and prolymphocytic leukaemia. IV. Analysis of survival and prognostic features</article-title>. <source>British Journal of Haematology</source>, <volume>65</volume>, <fpage>23</fpage>&#x02013;<lpage>29</lpage>.<pub-id pub-id-type="pmid">3468997</pub-id></mixed-citation></ref><ref id="bjh14132-bib-0020"><mixed-citation publication-type="journal" id="bjh14132-cit-0020">
+<string-name>
+<surname>Moreau</surname>, <given-names>E.J.</given-names>
+</string-name>, <string-name>
+<surname>Matutes</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>A'Hern</surname>, <given-names>R.P.</given-names>
+</string-name>, <string-name>
+<surname>Morilla</surname>, <given-names>A.M.</given-names>
+</string-name>, <string-name>
+<surname>Morilla</surname>, <given-names>R.M.</given-names>
+</string-name>, <string-name>
+<surname>Owusu&#x02010;Ankomah</surname>, <given-names>K.A.</given-names>
+</string-name>, <string-name>
+<surname>Seon</surname>, <given-names>B.K.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Catovsky</surname>, <given-names>D.</given-names>
+</string-name> (<year>1997</year>) <article-title>Improvement of the chronic lymphocytic leukemia scoring system with the monoclonal antibody SN8 (CD79b)</article-title>. <source>American Journal of Clinical Pathology</source>, <volume>108</volume>, <fpage>378</fpage>&#x02013;<lpage>382</lpage>.<pub-id pub-id-type="pmid">9322589</pub-id></mixed-citation></ref><ref id="bjh14132-bib-0021"><mixed-citation publication-type="journal" id="bjh14132-cit-0021">
+<string-name>
+<surname>Onaindia</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>G&#x000f3;mez</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Piris&#x02010;Villaespesa</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Mart&#x000ed;nez&#x02010;Laperche</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Cereceda</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Montes&#x02010;Moreno</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Batlle</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>de Villambrosia</surname>, <given-names>S.G.</given-names>
+</string-name>, <string-name>
+<surname>Poll&#x000e1;n</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Mart&#x000ed;n&#x02010;Acosta</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Gonz&#x000e1;lez&#x02010;Rinc&#x000f3;n</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Menarguez</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Alv&#x000e9;s</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Rodriguez&#x02010;Pinilla</surname>, <given-names>S.M.</given-names>
+</string-name>, <string-name>
+<surname>Garc&#x000ed;a</surname>, <given-names>J.F.</given-names>
+</string-name>, <string-name>
+<surname>Mollejo</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Fraga</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Garc&#x000ed;a&#x02010;Marco</surname>, <given-names>J.A.</given-names>
+</string-name>, <string-name>
+<surname>Piris</surname>, <given-names>M.A.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>S&#x000e1;nchez&#x02010;Beato</surname>, <given-names>M.</given-names>
+</string-name> (<year>2015</year>) <article-title>Chronic lymphocytic leukemia cells in lymph nodes show frequent NOTCH1 activation</article-title>. <source>Haematologica</source>, <volume>100</volume>, <fpage>e200</fpage>&#x02013;<lpage>e203</lpage>.<pub-id pub-id-type="pmid">25552700</pub-id></mixed-citation></ref><ref id="bjh14132-bib-0022"><mixed-citation publication-type="journal" id="bjh14132-cit-0022">
+<string-name>
+<surname>Oscier</surname>, <given-names>D.G.</given-names>
+</string-name>, <string-name>
+<surname>Matutes</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Copplestone</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Pickering</surname>, <given-names>R.M.</given-names>
+</string-name>, <string-name>
+<surname>Chapman</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Gillingham</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Catovsky</surname>, <given-names>D.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Hamblin</surname>, <given-names>T.J.</given-names>
+</string-name> (<year>1997</year>) <article-title>Atypical lymphocyte morphology: an adverse prognostic factor for disease progression in stage A CLL independent of trisomy 12</article-title>. <source>British Journal of Haematology</source>, <volume>98</volume>, <fpage>934</fpage>&#x02013;<lpage>939</lpage>.<pub-id pub-id-type="pmid">9326192</pub-id></mixed-citation></ref><ref id="bjh14132-bib-0023"><mixed-citation publication-type="journal" id="bjh14132-cit-0023">
+<string-name>
+<surname>Oscier</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Wade</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Davis</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Morilla</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Best</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Richards</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Else</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Matutes</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Catovsky</surname>, <given-names>D.</given-names>
+</string-name>, <collab collab-type="authors">Chronic Lymphocytic Leukaemia Working Group, UK National Cancer Research Institute</collab>
+(<year>2010</year>) <article-title>Prognostic factors identified three risk groups in the LRF CLL4 trial, independent of treatment allocation</article-title>. <source>Haematologica</source>, <volume>95</volume>, <fpage>1705</fpage>&#x02013;<lpage>1712</lpage>.<pub-id pub-id-type="pmid">20511662</pub-id></mixed-citation></ref><ref id="bjh14132-bib-0024"><mixed-citation publication-type="journal" id="bjh14132-cit-0024">
+<string-name>
+<surname>Oscier</surname>, <given-names>D.G.</given-names>
+</string-name>, <string-name>
+<surname>Rose&#x02010;Zerilli</surname>, <given-names>M.J.</given-names>
+</string-name>, <string-name>
+<surname>Winkelmann</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Gonzalez de Castro</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Gomez</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Forster</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Parker</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Parker</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Gardiner</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Collins</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Else</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Cross</surname>, <given-names>N.C.</given-names>
+</string-name>, <string-name>
+<surname>Catovsky</surname>, <given-names>D.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Strefford</surname>, <given-names>J.C.</given-names>
+</string-name> (<year>2013</year>) <article-title>The clinical significance of <italic>NOTCH1</italic> and <italic>SF3B1</italic> mutations in the UK LRF CLL4 trial</article-title>. <source>Blood</source>, <volume>121</volume>, <fpage>468</fpage>&#x02013;<lpage>475</lpage>.<pub-id pub-id-type="pmid">23086750</pub-id></mixed-citation></ref><ref id="bjh14132-bib-0025"><mixed-citation publication-type="journal" id="bjh14132-cit-0025">
+<string-name>
+<surname>Patten</surname>, <given-names>P.E.</given-names>
+</string-name>, <string-name>
+<surname>Buggins</surname>, <given-names>A.G.</given-names>
+</string-name>, <string-name>
+<surname>Richards</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Wotherspoon</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Salisbury</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Mufti</surname>, <given-names>G.J.</given-names>
+</string-name>, <string-name>
+<surname>Hamblin</surname>, <given-names>T.J.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Devereux</surname>, <given-names>S.</given-names>
+</string-name> (<year>2008</year>) <article-title>CD38 expression in chronic lymphocytic leukemia is regulated by the tumor microenvironment</article-title>. <source>Blood</source>, <volume>111</volume>, <fpage>5173</fpage>&#x02013;<lpage>5181</lpage>.<pub-id pub-id-type="pmid">18326821</pub-id></mixed-citation></ref><ref id="bjh14132-bib-0026"><mixed-citation publication-type="journal" id="bjh14132-cit-0026">
+<string-name>
+<surname>Peterson</surname>, <given-names>L.C.</given-names>
+</string-name>, <string-name>
+<surname>Bloomfield</surname>, <given-names>C.D.</given-names>
+</string-name>, <string-name>
+<surname>Sundberg</surname>, <given-names>R.D.</given-names>
+</string-name>, <string-name>
+<surname>Gajl&#x02010;Peczalska</surname>, <given-names>K.J.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Brunning</surname>, <given-names>R.D.</given-names>
+</string-name> (<year>1975</year>) <article-title>Morphology of chronic lymphocytic leukemia and its relationship to survival</article-title>. <source>American Journal of Medicine</source>, <volume>59</volume>, <fpage>316</fpage>&#x02013;<lpage>324</lpage>.<pub-id pub-id-type="pmid">1080632</pub-id></mixed-citation></ref><ref id="bjh14132-bib-0027"><mixed-citation publication-type="journal" id="bjh14132-cit-0027">
+<string-name>
+<surname>Puente</surname>, <given-names>X.S.</given-names>
+</string-name>, <string-name>
+<surname>Be&#x000e0;</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Vald&#x000e9;s&#x02010;Mas</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Villamor</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Guti&#x000e9;rrez&#x02010;Abril</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Mart&#x000ed;n&#x02010;Subero</surname>, <given-names>J.I.</given-names>
+</string-name>, <string-name>
+<surname>Munar</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Rubio&#x02010;P&#x000e9;rez</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Jares</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Aymerich</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Baumann</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Beekman</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Belver</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Carrio</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Castellano</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Clot</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Colado</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Colomer</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Costa</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Delgado</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Enjuanes</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Estivill</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Ferrando</surname>, <given-names>A.A.</given-names>
+</string-name>, <string-name>
+<surname>Gelp&#x000ed;</surname>, <given-names>J.L.</given-names>
+</string-name>, <string-name>
+<surname>Gonz&#x000e1;lez</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Gonz&#x000e1;lez</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Gonz&#x000e1;lez</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Gut</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Hern&#x000e1;ndez&#x02010;Rivas</surname>, <given-names>J.M.</given-names>
+</string-name>, <string-name>
+<surname>L&#x000f3;pez&#x02010;Guerra</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Mart&#x000ed;n&#x02010;Garc&#x000ed;a</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Navarro</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Nicol&#x000e1;s</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Orozco</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Payer</surname>, <given-names>&#x000c1;.R.</given-names>
+</string-name>, <string-name>
+<surname>Pinyol</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Pisano</surname>, <given-names>D.G.</given-names>
+</string-name>, <string-name>
+<surname>Puente</surname>, <given-names>D.A.</given-names>
+</string-name>, <string-name>
+<surname>Queir&#x000f3;s</surname>, <given-names>A.C.</given-names>
+</string-name>, <string-name>
+<surname>Quesada</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Romeo&#x02010;Casabona</surname>, <given-names>C.M.</given-names>
+</string-name>, <string-name>
+<surname>Royo</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Royo</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Rozman</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Russi&#x000f1;ol</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Salaverr&#x000ed;a</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Stamatopoulos</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Stunnenberg</surname>, <given-names>H.G.</given-names>
+</string-name>, <string-name>
+<surname>Tamborero</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Terol</surname>, <given-names>M.J.</given-names>
+</string-name>, <string-name>
+<surname>Valencia</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>L&#x000f3;pez&#x02010;Bigas</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Torrents</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Gut</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>L&#x000f3;pez&#x02010;Guillermo</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>L&#x000f3;pez&#x02010;Ot&#x000ed;n</surname>, <given-names>C.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Campo</surname>, <given-names>E.</given-names>
+</string-name> (<year>2015</year>) <article-title>Non&#x02010;coding recurrent mutations in chronic lymphocytic leukaemia</article-title>. <source>Nature</source>, <volume>526</volume>, <fpage>519</fpage>&#x02013;<lpage>524</lpage>.<pub-id pub-id-type="pmid">26200345</pub-id></mixed-citation></ref><ref id="bjh14132-bib-0028"><mixed-citation publication-type="journal" id="bjh14132-cit-0028">
+<string-name>
+<surname>Put</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Van Roosbroeck</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Konings</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Meeus</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Brusselmans</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Rack</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Gervais</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Nguyen&#x02010;Khac</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Chapiro</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Radford&#x02010;Weiss</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Struski</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Dastugue</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Gachard</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Lefebvre</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Barin</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Eclache</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Fert&#x02010;Ferrer</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Laibe</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Mozziconacci</surname>, <given-names>M.J.</given-names>
+</string-name>, <string-name>
+<surname>Quilichini</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Poirel</surname>, <given-names>H.A.</given-names>
+</string-name>, <string-name>
+<surname>Wlodarska</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Hagemeijer</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Moreau</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Vandenberghe</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Michaux</surname>, <given-names>L.</given-names>
+</string-name> &#x00026; <collab collab-type="authors">BCGHo and the GFCH</collab>
+(<year>2012</year>) <article-title>Chronic lymphocytic leukemia and prolymphocytic leukemia with MYC translocations: a subgroup with an aggressive disease course</article-title>. <source>Annals of Hematology</source>, <volume>91</volume>, <fpage>863</fpage>&#x02013;<lpage>873</lpage>.<pub-id pub-id-type="pmid">22205151</pub-id></mixed-citation></ref><ref id="bjh14132-bib-0029"><mixed-citation publication-type="journal" id="bjh14132-cit-0029">
+<string-name>
+<surname>Riches</surname>, <given-names>J.C.</given-names>
+</string-name>, <string-name>
+<surname>O'Donovan</surname>, <given-names>C.J.</given-names>
+</string-name>, <string-name>
+<surname>Kingdon</surname>, <given-names>S.J.</given-names>
+</string-name>, <string-name>
+<surname>McClanahan</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Clear</surname>, <given-names>A.J.</given-names>
+</string-name>, <string-name>
+<surname>Neuberg</surname>, <given-names>D.S.</given-names>
+</string-name>, <string-name>
+<surname>Werner</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Croce</surname>, <given-names>C.M.</given-names>
+</string-name>, <string-name>
+<surname>Ramsay</surname>, <given-names>A.G.</given-names>
+</string-name>, <string-name>
+<surname>Rassenti</surname>, <given-names>L.Z.</given-names>
+</string-name>, <string-name>
+<surname>Kipps</surname>, <given-names>T.J.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Gribben</surname>, <given-names>J.G.</given-names>
+</string-name> (<year>2014</year>) <article-title>Trisomy 12 chronic lymphocytic leukemia cells exhibit upregulation of integrin signaling that is modulated by <italic>NOTCH1</italic> mutations</article-title>. <source>Blood</source>, <volume>123</volume>, <fpage>4101</fpage>&#x02013;<lpage>4110</lpage>.<pub-id pub-id-type="pmid">24829201</pub-id></mixed-citation></ref><ref id="bjh14132-bib-0030"><mixed-citation publication-type="journal" id="bjh14132-cit-0030">
+<string-name>
+<surname>Scott</surname>, <given-names>C.S.</given-names>
+</string-name>, <string-name>
+<surname>Limbert</surname>, <given-names>H.J.</given-names>
+</string-name>, <string-name>
+<surname>Roberts</surname>, <given-names>B.E.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Stark</surname>, <given-names>A.N.</given-names>
+</string-name> (<year>1987</year>) <article-title>Prolymphocytoid variants of chronic lymphocytic leukaemia: an immunological and morphological survey</article-title>. <source>Leukemia Research</source>, <volume>11</volume>, <fpage>135</fpage>&#x02013;<lpage>140</lpage>.<pub-id pub-id-type="pmid">2950280</pub-id></mixed-citation></ref><ref id="bjh14132-bib-0031"><mixed-citation publication-type="journal" id="bjh14132-cit-0031">
+<string-name>
+<surname>Strefford</surname>, <given-names>J.C.</given-names>
+</string-name>, <string-name>
+<surname>Kadalayil</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Forster</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Rose&#x02010;Zerilli</surname>, <given-names>M.J.</given-names>
+</string-name>, <string-name>
+<surname>Parker</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>, <given-names>T.T.</given-names>
+</string-name>, <string-name>
+<surname>Heppel</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Norris</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Gardiner</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Davies</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Gonzalez de Castro</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Else</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Steele</surname>, <given-names>A.J.</given-names>
+</string-name>, <string-name>
+<surname>Parker</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Stankovic</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Pepper</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Fegan</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Baird</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Collins</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Catovsky</surname>, <given-names>D.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Oscier</surname>, <given-names>D.G.</given-names>
+</string-name> (<year>2015</year>) <article-title>Telomere length predicts progression and overall survival in chronic lymphocytic leukemia: data from the UK LRF CLL4 trial</article-title>. <source>Leukemia</source>, <volume>29</volume>, <fpage>2411</fpage>&#x02013;<lpage>2414</lpage>.<pub-id pub-id-type="pmid">26256637</pub-id></mixed-citation></ref><ref id="bjh14132-bib-0032"><mixed-citation publication-type="journal" id="bjh14132-cit-0032">
+<string-name>
+<surname>Vallesp&#x000ed;</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Montserrat</surname>, <given-names>E.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Sanz</surname>, <given-names>M.A.</given-names>
+</string-name> (<year>1991</year>) <article-title>Chronic lymphocytic leukaemia: prognostic value of lymphocyte morphological subtypes. A multivariate survival analysis in 146 patients</article-title>. <source>British Journal of Haematology</source>, <volume>77</volume>, <fpage>478</fpage>&#x02013;<lpage>485</lpage>.<pub-id pub-id-type="pmid">2025572</pub-id></mixed-citation></ref></ref-list></back></article>

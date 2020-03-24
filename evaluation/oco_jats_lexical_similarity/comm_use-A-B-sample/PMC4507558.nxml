@@ -1,0 +1,327 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:ali="http://www.niso.org/schemas/ali/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="case-report"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Braz J Microbiol</journal-id><journal-id journal-id-type="iso-abbrev">Braz. J. Microbiol</journal-id><journal-id journal-id-type="publisher-id">bjm</journal-id><journal-title-group><journal-title>Brazilian Journal of Microbiology</journal-title></journal-title-group><issn pub-type="ppub">1517-8382</issn><issn pub-type="epub">1678-4405</issn><publisher><publisher-name>Sociedade Brasileira de Microbiologia</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">26273281</article-id><article-id pub-id-type="pmc">4507558</article-id><article-id pub-id-type="doi">10.1590/S1517-838246246220130209</article-id><article-categories><subj-group subj-group-type="heading"><subject>Microbial Physiology</subject></subj-group></article-categories><title-group><article-title>Oleanolic acid and ursolic acid inhibit peptidoglycan biosynthesis in
+<italic>Streptococcus mutans</italic> UA159</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Park</surname><given-names>Soon-Nang</given-names></name><xref ref-type="aff" rid="aff01">1</xref></contrib><contrib contrib-type="author"><name><surname>Ahn</surname><given-names>Sug-Joon</given-names></name><xref ref-type="aff" rid="aff02">2</xref></contrib><contrib contrib-type="author"><name><surname>Kook</surname><given-names>Joong-Ki</given-names></name><xref ref-type="aff" rid="aff01">1</xref><xref rid="c01" ref-type="corresp"/></contrib></contrib-group><aff id="aff01"><label>1</label>Korean Collection for Oral Microbiology and
+Department of Oral Biochemistry, School of Dentistry, Chosun University, Gwangju, &#x0003e;Republic of Korea, Korean Collection for Oral Microbiology and
+Department of Oral Biochemistry, School of Dentistry, Chosun University,
+Gwangju, Republic of Korea.</aff><aff id="aff02"><label>2</label>Seoul National University, School of Dentistry, Seoul National University, Seoul, &#x0003e;Republic of Korea, Dental Research Institute, School of Dentistry,
+Seoul National University, Seoul, Republic of Korea.</aff><author-notes><corresp id="c01">Send correspondence to J.-K. Kook. Korean Collection for Oral
+Microbiology and Department of Oral Biochemistry, School of Dentistry, Chosun
+University, 309 Pilmun-daero, 501-759 Dong-Gu, Gwangju, Republic of Korea.
+E-mail: <email>jkkook@chosun.ac.kr</email>.</corresp><fn id="fn01" fn-type="other"><p>Associate Editor: Luis Henrique Souza Guimar&#x000e3;es</p></fn></author-notes><pub-date pub-type="epub"><day>01</day><month>6</month><year>2015</year></pub-date><pub-date pub-type="collection"><month>6</month><year>2015</year></pub-date><volume>46</volume><issue>2</issue><fpage>613</fpage><lpage>617</lpage><history><date date-type="received"><day>23</day><month>2</month><year>2013</year></date><date date-type="accepted"><day>29</day><month>10</month><year>2014</year></date></history><permissions><copyright-statement>Copyright &#x000a9; 2015, Sociedade Brasileira de
+Microbiologia</copyright-statement><copyright-year>2015</copyright-year><license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/3.0/"><license-p>All the content of the journal, except where otherwise noted, is
+licensed under a Creative Commons License CC BY-NC.</license-p></license></permissions><abstract><p>In this study, we revealed that OA and UA significantly inhibited the expression
+of most genes related to peptidoglycan biosynthesis in <italic>S.
+mutans</italic> UA159. To the best of our knowledge, this is the first
+report to introduce the antimicrobial mechanism of OA and UA against <italic>S.
+mutans</italic>.</p></abstract><kwd-group><kwd>ursolic acid</kwd><kwd>oleanolic acid</kwd><kwd>peptidoglycan biosynthesis</kwd><kwd><italic>Streptococcus mutans</italic> UA159</kwd></kwd-group><counts><fig-count count="1"/><table-count count="1"/><equation-count count="1"/><ref-count count="13"/><page-count count="5"/></counts></article-meta></front><body><p>Ursolic acid (UA, (3&#x003b2;)-hydroxy-urs-12-en-28-oic acid), oleanolic acid (OA,
+3&#x003b2;-3-hydroxyolean-12-en-28-oic acid), and betulinic acid (BA,
+3&#x003b2;-3-hydroxy-lup-20(29)-en-28-oic acid) are derivatives of triterpenoid saponins (<xref rid="B11" ref-type="bibr">Liu, 1995</xref>; <xref rid="B04" ref-type="bibr">Fontanay
+<italic>et al.</italic>, 2008</xref>). These compounds are naturally found in a
+large variety of vegetables, medicinal herbs, and plants that have been investigated for
+antibacterial activity (<xref rid="B04" ref-type="bibr">Fontanay <italic>et
+al.</italic>, 2008</xref>). The antimicrobial activity of OA and UA is stronger than
+that of BA (<xref rid="B04" ref-type="bibr">Fontanay <italic>et al.</italic>,
+2008</xref>). OA and UA inhibit growth of Gram-positive bacteria but not
+Gram-negative bacteria (<xref rid="B04" ref-type="bibr">Fontanay <italic>et
+al.</italic>, 2008</xref>), but their antimicrobial mechanism is unknown.
+Previously, we reported that OA and UA have strong antimicrobial activity against
+<italic>Streptococcus mutans</italic> (<xref rid="B08" ref-type="bibr">Kim
+<italic>et al.</italic>, 2010</xref>; <xref rid="B09" ref-type="bibr">Kim
+<italic>et al.</italic>, 2011</xref>) but BA had no antimicrobial activity
+against <italic>S. mutans</italic> (data not shown). One of the characteristic
+differences between Gram-positive and Gram-negative bacteria is the thickness of the
+peptidoglycan layer. Considering this difference, it has been suggested that the
+mechanism of OA and UA antimicrobial activity may be related to inhibition of
+peptidoglycan biosynthesis (<xref rid="B06" ref-type="bibr">Horiuchi <italic>et
+al.</italic>, 2007</xref>). Thus, the objective of this study was to investigate
+the effect of BA, OA, and UA on peptidoglycan biosynthesis in <italic>S. mutans</italic>
+UA 159 using the quantitative real-time polymerase chain reaction (qPCR) method to
+identify the antimicrobial mechanism against <italic>S. mutans</italic>.</p><p>
+<italic>S. mutans</italic> UA159 was a kind gift from Dr. Robert A. Burne, Department of
+Oral Biology, College of Dentistry, University of Florida. The strain was cultured in
+brain heart infusion (BHI) broth (Difco, Lab., Detroit, MI, USA) or on BHI agar plates
+in a 37 &#x000b0;C incubator.</p><p>Overnight cultures (1 mL) of <italic>S. mutans</italic> UA 159 were transferred to 9 mL
+BHI broth and grown at 37 &#x000b0;C to the mid-log phase (OD<sub>600</sub> = 0.35). UA (Sigma,
+St. Louis, MO, USA), OA (Sigma), or BA (Sigma) solutions were added to each tube to a
+final concentration of 64 &#x003bc;g/mL. The bacterial culture solutions were incubated in a 37
+&#x000b0;C incubator for 90 min and then harvested by centrifugation at 10,000 &#x000d7;
+<italic>g</italic> for 10 min at 4 &#x000b0;C. After discarding the supernatant, liquid
+nitrogen was immediately added to the tube. The frozen bacterial pellets were
+homogenized using a mortar and pestle (Smile Science, Seoul, Korea). Total RNAs were
+extracted from the homogenized bacteria following the manufacturer's instructions of the
+RNAqueous<sup>&#x000ae;</sup> kit (Ambion, Austin, TX, USA). DNase I treatment was conducted
+to completely remove the bacterial genomic DNAs using a TURBO DNA-<italic>free</italic>&#x02122;
+Kit (Ambion) according to the manufacturer's protocol. RNA concentration was determined
+at 260 nm 280 nm with a UV spectrophotometer (Ultrospec 2000, Pharmacia Biotech.,
+UK).</p><p>We consulted the KEGG pathway database to determine the target genes related to
+<italic>S. mutans</italic> UA159 peptidoglycan biosynthesis (KEGG pathway). qPCR
+primers were designed based on the nucleotide sequences of the target genes (GenBank
+accession no. AE014133.2) using the MegAlign and PrimerSelect programs (Lasergene&#x02122; 8.0,
+DNAStar, Inc., Madison, WI, USA) (<xref rid="t01" ref-type="table">Table 1</xref>). The
+qPCR primers were synthesized by Bioneer Co. (Daejeon, Korea).</p><table-wrap id="t01" orientation="portrait" position="float"><label>Table 1</label><caption><title>Quantitative real-time polymerase chain reaction (qPCR) primers used in this
+study.</title></caption><table frame="hsides" rules="groups"><thead><tr><th valign="bottom" align="left" rowspan="1" colspan="1">Genes</th><th valign="bottom" align="left" rowspan="1" colspan="1">Primer names and oligonucleotide sequences
+(5 &#x02013; &#x0003e; 3)</th><th valign="bottom" align="center" rowspan="1" colspan="1">Size of amplicon (bp)</th></tr></thead><tbody><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>glmU</italic>
+</td><td valign="top" align="left" rowspan="1" colspan="1">UA159-glmU-F:
+TGATCCTTTCGGTTATGGTCGTAT<break/>UA159-glmU-R:
+CGTTCCCGTGTTAATTTCTTTGA</td><td valign="top" align="center" rowspan="1" colspan="1">118</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>murA</italic>
+</td><td valign="top" align="left" rowspan="1" colspan="1">UA159-murA-F1:
+CCTCCGGGCATAGAAACCTTAG<break/>UA159-murA-R1:
+ATTTTAGATGTGGCTCCTTATGAA</td><td valign="top" align="center" rowspan="1" colspan="1">110</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>murB</italic>
+</td><td valign="top" align="left" rowspan="1" colspan="1">UA159-murB-F1:
+CGAGATATGCGCTTTGGTT<break/>UA159-murB-R1: AACGCTGCATTTCCTGACTG</td><td valign="top" align="center" rowspan="1" colspan="1">121</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>murC</italic>
+</td><td valign="top" align="left" rowspan="1" colspan="1">UA159-murC-F1:
+GGTAACCATTTTCGAGAGCATAGG<break/>UA159-murC-R1:
+ACACGGATTGGAAAAAGCAGGAA</td><td valign="top" align="center" rowspan="1" colspan="1">140</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>murC2</italic>
+</td><td valign="top" align="left" rowspan="1" colspan="1">UA159-murC2-F:
+CAAATGGATCGTTACGGTGAAAT<break/>UA159-murC2-R:
+TTGGCGTTAAAGAGTGGGCTATC</td><td valign="top" align="center" rowspan="1" colspan="1">116</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>murD</italic>
+</td><td valign="top" align="left" rowspan="1" colspan="1">UA159-murD-F:
+TCAAACGCAGGCAAAGATTATTC<break/>UA159-murD-R:
+TTTCAACATTATGGCTTCCTGGTA</td><td valign="top" align="center" rowspan="1" colspan="1">143</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>murE</italic>
+</td><td valign="top" align="left" rowspan="1" colspan="1">UA159-murE-F1:
+CGTCCGGCCATGATTTCTACCA<break/>UA159-murE-R1:
+GCTCTCGGGGGTTGTTAGTTTTGA</td><td valign="top" align="center" rowspan="1" colspan="1">81</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>alr</italic>
+</td><td valign="top" align="left" rowspan="1" colspan="1">UA159-alr-F:
+AGAAGGCGGGAGCGACTG<break/>UA159-alr-R: CAATTGACTGATAAGGGTGGTAAA</td><td valign="top" align="center" rowspan="1" colspan="1">116</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>ddI</italic>
+</td><td valign="top" align="left" rowspan="1" colspan="1">UA159- D-Ala-F:
+AGATGTGGCTTTTTATGATTACGA<break/>UA159- D-Ala-R:
+AAAGTCCACAGCAGCCCAAAGT</td><td valign="top" align="center" rowspan="1" colspan="1">146</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>murI</italic>
+</td><td valign="top" align="left" rowspan="1" colspan="1">UA159-murI-F:
+AATGGGCCGTAAAAGTGGATAATG<break/>UA159-murI-R: TGCCCCAAATTTGTTCCTAT</td><td valign="top" align="center" rowspan="1" colspan="1">147</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>murF</italic>
+</td><td valign="top" align="left" rowspan="1" colspan="1">UA159-murF-F1:
+GGTGCTGGCAGATATGAAAGAAT<break/>UA159-murF-R1:
+AGTGGTCCAAAAAGAAAAATACGA</td><td valign="top" align="center" rowspan="1" colspan="1">111</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>bacA</italic>
+</td><td valign="top" align="left" rowspan="1" colspan="1">UA159-bacA-F:
+AACGGCCTTTTTCATTGGTCTG<break/>UA159-bacA-R: GTTGCGACTTGCCGACTGG</td><td valign="top" align="center" rowspan="1" colspan="1">114</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>mraY</italic>
+</td><td valign="top" align="left" rowspan="1" colspan="1">UA159-mraY-F:
+CTTTGCATTTGGGCGTGTTTTA<break/>UA159-mraY-R: GAAGCCAAGCCATCAATACCATC</td><td valign="top" align="center" rowspan="1" colspan="1">100</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>murG</italic>
+</td><td valign="top" align="left" rowspan="1" colspan="1">UA159-murG-F:
+AAGGTGGGTTTGTTTCAGTTCC<break/>UA159-murG-R: GCAATTCGGTTAGCCAGTCC</td><td valign="top" align="center" rowspan="1" colspan="1">106</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>murM</italic>
+</td><td valign="top" align="left" rowspan="1" colspan="1">SM159-murM-F:
+TATTTTTGGCAGTACGGATGGAT<break/>SM159-murM-R: ATGGCTGGGACAAACAAGTGA</td><td valign="top" align="center" rowspan="1" colspan="1">131</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>murN</italic>
+</td><td valign="top" align="left" rowspan="1" colspan="1">UA159-murN-F:
+AAACAAAGAGACTGCCTGCTAAGA<break/>UA159-murN-R:
+AAAACCAATTGCGTGAACTGTC</td><td valign="top" align="center" rowspan="1" colspan="1">123</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>pbp1a</italic>
+</td><td valign="top" align="left" rowspan="1" colspan="1">UA159-pbp1a-F:
+TTGATGCCGCTGGATTAGATACTG<break/>UA159-pbp1a-R:
+CACTGCTGGCACCATACTTTTGTT</td><td valign="top" align="center" rowspan="1" colspan="1">132</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>pbp1b</italic>
+</td><td valign="top" align="left" rowspan="1" colspan="1">UA159-pbp1b-F:
+ATGGTGCTTCTCTTGATGATG<break/>UA159-pbp1b-R: CAAAGGCGTGATTATTCTGAT</td><td valign="top" align="center" rowspan="1" colspan="1">132</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>pbp2a</italic>
+</td><td valign="top" align="left" rowspan="1" colspan="1">UA159-pbp2a-F:
+TATGTTGAAGGGTCCGGGTATCTA<break/>UA159-pbp2a-R: CGGTTCCCCATTCCCACTTT</td><td valign="top" align="center" rowspan="1" colspan="1">150</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>pbp2b</italic>
+</td><td valign="top" align="left" rowspan="1" colspan="1">UA159-pbp2b-F1:
+ACCGCGTTGGAACATCTTATCT<break/>UA159-pbp2b-R1:
+TAGTCCCTTTGGCAGTGGTCTTA</td><td valign="top" align="center" rowspan="1" colspan="1">129</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>pbp2X</italic>
+</td><td valign="top" align="left" rowspan="1" colspan="1">UA159-pbp2X-F:
+AAAGACGGACAAGTGACCTACCAA<break/>UA159-pbp2X-R:
+CCATCTGCGTTTCCAAATAAGTCT</td><td valign="top" align="center" rowspan="1" colspan="1">145</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>dacA</italic>
+</td><td valign="top" align="left" rowspan="1" colspan="1">UA159-dacA-F:
+GTACCGCCAACTTTTTCAGC<break/>UA159-dacA-R: CAGCGCCAGCAATGTCC</td><td valign="top" align="center" rowspan="1" colspan="1">120</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">16S rDNA</td><td valign="top" align="left" rowspan="1" colspan="1">SM159-16S -F:
+CACACCGCCCGTCACACCAC<break/>SM159-16S -R: CCAGCCGCACCTTCCGATACG</td><td valign="top" align="center" rowspan="1" colspan="1">137</td></tr></tbody></table><table-wrap-foot><fn id="TFN01"><p>
+<italic>glmU</italic>, UDP-<italic>N</italic>-acetylglucosamine
+pyrophosphorylase gene; <italic>murA</italic>,
+UDP-<italic>N</italic>-acetylglucosamine 1-carboxyvinyltransferase gene;
+<italic>murB</italic>,
+UDP-<italic>N</italic>-acetylenolpyruvoylglucosamine reductase gene;
+<italic>murC</italic>, UDP-<italic>N</italic>-acetyl muramate-alanine
+ligase gene; <italic>murC2</italic>, UDP-<italic>N</italic>-acetylmuramyl
+tripeptide synthetase gene; <italic>murD</italic>,
+UDP-<italic>N</italic>-acetylmuramoyl-L-alanyl-D-glutamate synthetase gene;
+<italic>murE</italic>,
+UDP-<italic>N</italic>-acetylmuramoyl-L-alanyl-D-glutamate-L-lysine ligase
+gene; <italic>alr</italic>, alanine racemase gene; <italic>ddI</italic>,
+D-alanine-D-alanine ligase gene; <italic>murI</italic>, glutamate racemase
+gene; <italic>murF</italic>,
+UDP-<italic>N</italic>-acetylmuramoyl-tripeptide&#x02014;D-alanyl-D-alanine ligase
+gene; <italic>bacA</italic>, undecaprenyl pyrophosphate phosphatase gene;
+<italic>mraY</italic>,
+phospho-<italic>N</italic>-acetylmuramoyl-pentapeptide-transferase gene;
+<italic>murG</italic>, undecaprenyldiphospho-muramoylpentapeptide
+beta-<italic>N</italic>-acetylglucosaminyltransferase gene;
+<italic>murM</italic>,
+UDP-<italic>N</italic>-acetylmuramoylpentapeptide-lysine
+N6-alanyltransferase gene; <italic>murN</italic>, alanine adding enzyme
+gene; <italic>pbp1a</italic>, penicillin binding protein 1a gene;
+<italic>pbp1b</italic>, penicillin binding protein 1b gene;
+<italic>pbp2a</italic>, penicillin binding protein 2a gene;
+<italic>pbp2b</italic>, penicillin binding protein 2b gene;
+<italic>pbp2X</italic>, penicillin binding protein 2&#x000d7; gene;
+<italic>dacA</italic>, serine-type D-Ala-D-Ala carboxypeptidase
+(DD-transpeptidase, DacA) gene; 16S rDNA, 16S ribosomal RNA gene.</p></fn></table-wrap-foot></table-wrap><p>First-strand cDNAs synthesis was performed with 4 &#x003bc;g of total RNA, random hexamers, and
+an <italic>AccuPower</italic>
+<sup>&#x000ae;</sup>
+<italic>RocketScript</italic>&#x02122; RT PreMix (Bioneer Co., Deajeon, Korea) using the
+<italic>Exicycler</italic>&#x02122; 96 Real-Time Quantitative Thermal Block (Bioneer Co.)
+and following the manufacturer's protocol. qPCR was performed with the
+AccuPower<sup>&#x000ae;</sup>
+<italic>GreenStar</italic>&#x02122; qPCR PreMix (Bioneer Co.) using the
+<italic>Exicycler</italic>&#x02122; 96 Real-Time Quantitative Thermal Block. Each PCR
+reaction was performed in a total volume of 20 &#x003bc;L containing 1 &#x003bc;L each of the forward
+and reverse primers (final concentration, 500 nM each), 0.63 &#x003bc;L cDNA, and the
+appropriate dose of sterilized DNase-RNase-free water in PreMix PCR tubes. The qPCR
+conditions were initial denaturation at 95 &#x000b0;C for 3 min, 40 cycles of denaturation at 95
+&#x000b0;C for 15 sec, primer annealing and extension at 55 &#x000b0;C for 15 sec, and final cooling at
+25 &#x000b0;C for 1 min. Each qPCR reaction was performed in triplicate.</p><p>The expression levels of each target gene in the group were normalized with those of 16S
+rDNA. The normalized expression of each gene (N) was determined as:</p><disp-formula id="e01"><mml:math id="m1"><mml:mrow><mml:mtext>N</mml:mtext><mml:mo>=</mml:mo><mml:msup><mml:mrow><mml:mn>2</mml:mn></mml:mrow><mml:mi mathvariant="normal">&#x00394;</mml:mi></mml:msup><mml:mtext>Ct</mml:mtext><mml:mo>=</mml:mo><mml:msup><mml:mrow><mml:mn>2</mml:mn></mml:mrow><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mtext>Ct&#x02009;value&#x02009;of&#x02009;the&#x02009;target&#x02009;gene&#x02009;-&#x02009;Ct&#x02009;value&#x02009;of&#x02009;</mml:mtext><mml:mn>16</mml:mn><mml:mtext>S&#x02009;rDNA</mml:mtext><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:msup></mml:mrow></mml:math></disp-formula><p>Relative expression of the target genes between each experimental group (BA, OA, or UA)
+and the negative control group (1% DMSO) was calculated as [N of each experimental group
+(BA, OA, or UA)/N of the negative control group].</p><p>Data are expressed as mean &#x000b1; standard deviation. Independent sample two-tailed
+<italic>t</italic>-tests were conducted to calculate the <italic>p</italic>-values
+using SPSS version 12 software (SPSS Inc., USA). A p-value &#x02264; 0.05 was considered
+statistically significant.</p><p>We determined the BA, OA, and UA concentration of 64 &#x003bc;g/mL by investigating the
+antimicrobial mechanism against <italic>S. mutans</italic> UA159 by calculating the
+growth curve at 16, 32, and 64 &#x003bc;g/mL BA, OA, and UA for 60, 90, 120, and 180 min in
+<italic>S. mutans</italic> UA159 at the mid-log phase (OD<sub>600</sub> = 0.35). The
+growth of <italic>S. mutans</italic> UA159 was in a static (inhibited) state at
+concentrations of 64 and 32 &#x003bc;g/mL of OA and UA, but in the exponential state at
+concentrations of 64 and 32 &#x003bc;g/mL in the BA-treated and control groups (data not shown).
+We decided to further explore using 64 &#x003bc;g/mL BA, OA, and UA.</p><p>The synthesis of UDP-<italic>N</italic>-acetylglucosamine (UDP-GlcNAc) and
+UDP-<italic>N</italic>-actetylmuramic acid (UDP-MurNAc), the building blocks of
+peptidoglycan, is the first phase of first stage (stage I) of intracellular
+peptidoglycan assembly (<xref rid="B02" ref-type="bibr">Bugg and Walsh, 1992</xref>).
+UDP-GlcNAc is synthesized from GlcNAc-1-P by UDP-<italic>N</italic>-acetylglucosamine
+pyrophosphorylase (GlmU). UDP-MurNAc is synthesized from UDP-GlcNAc by
+UDP-<italic>N</italic>-acetylglucosamine 1-carboxyvinyltransferase (MurA) and
+UDP-<italic>N</italic>-acetylenolpyruvoylglucosamine reductase (MurB) (<xref rid="B02" ref-type="bibr">Bugg and Walsh, 1992</xref>). The data showed that UA and
+OA, but not BA, significantly downregulated <italic>glmU</italic>,
+<italic>murA</italic>, and <italic>murB</italic> expression (<xref rid="f01" ref-type="fig">Figure 1A</xref>). Interestingly, <italic>glmU</italic> was
+overexpressed by a factor of two in the BA-treated group compared to that in the control
+group. The second phase of stage I of peptidoglycan biosynthesis is the assembly of the
+UDP-MurNAc-pentapeptide (<xref rid="B02" ref-type="bibr">Bugg and Walsh, 1992</xref>).
+The D-amino acids, D-alanine, D-glutamate, and DL-diaminopimelate, occur in
+peptidoglycan (<xref rid="B02" ref-type="bibr">Bugg and Walsh, 1992</xref>). For
+<italic>S. mutans</italic> UA159, D-alanine and D-glutamate are catalyzed by alanine
+racemase (Alr) and glutamate racemase (MurI), respectively (the KEEG pathway).
+Biosynthesis of DL-diaminopimelate (DL-DAP) is catalyzed by DAP epimerase or meso-DAP
+D-dehydrogenase (<xref rid="B02" ref-type="bibr">Bugg and Walsh, 1992</xref>). These
+genes are missing in <italic>S. mutans</italic> UA159, even though
+UDP-<italic>N</italic>-acetylmuramyl tripeptide synthetase (MurC2) which catalyzes
+adding DL-DAP to UDP-MurNAc-L-alanine-D-glutamate occurs (KEEG Pathway). The reason for
+the discrepancy is unclear, but it is possible that DL-DAP is synthesized through an
+unknown pathway or that DL-DAP is not used in peptidoglycan synthesis in <italic>S.
+mutans</italic> UA159. Generally, DL-DAP is added as the third residue in the
+pentapeptide of Gram-negative bacteria and some Gram-positive bacteria, whereas lysine
+is added in other Gram-positive bacteria (<ext-link ext-link-type="uri" xlink:href="http://www.enzyme-database.org/reaction/polysacc/PepGly1.html">http://www.enzyme-database.org/reaction/polysacc/PepGly1.html</ext-link>). Using
+these D-amino acids and D-Ala-D-Ala formed by D-alanine-D-alanine ligase (DdI), two
+types of UDP-MurNAc-pentapeptide, UDP-MurNAc-L-Ala-&#x003b3;-D-Glu-DL-DAP-D-Ala-D-Ala
+(UDP-MurNAc-pentapeptide I) and UDP-MurNAc-L-Ala-&#x003b3;-D-Glu-DL-DAP-D-Ala-D-Ala
+(UDP-MurNAc-pentapeptide II) are synthesized by UDP-<italic>N</italic>-acetyl
+muramate-alanine ligase (MurC),
+UDP-<italic>N</italic>-acetylmuramoyl-L-alanyl-D-glutamate synthetase (MurD), MurC2 or
+UDP-<italic>N</italic>-acetylmuramoyl-L-alanyl-D-glutamate-L-lysine ligase (MurE),
+and UDP-<italic>N</italic>-acetylmuramoyl-tripeptide-D-alanyl-D-alanine ligase (MurF)
+(the KEGG Pathway). The data showed that second stage-related genes were downregulated
+by OA and UA, but <italic>murE</italic> was downregulated only by BA (<xref rid="f01" ref-type="fig">Figure 1A</xref>). These results reveal that OA and UA inhibited
+expression from the first stages of <italic>S. mutans</italic> UA159 peptidoglycan
+biosynthesis, whereas BA induced overexpression of UDP-GlcNAc, the first substrate for
+peptidoglycan synthesis.</p><fig id="f01" orientation="portrait" position="float"><label>Figure 1</label><caption><title>Relative expression of genes related to peptidoglycan biosynthesis, (A) stage
+I and (B) stage II and III, in <italic>Streptococcus mutans</italic> UA159
+following treatment with betulinic acid (BA), oleanolic acid (OA), or ursolic
+acid (UA). <italic>glmU</italic>, UDP-N-acetylglucosamine pyrophosphorylase;
+<italic>murA</italic>, UDP-N-acetylglucosamine 1-carboxyvinyltransferase;
+<italic>murB</italic>, UDP-N-acetylenolpyruvoylglucosamine reductase;
+<italic>murC</italic>, UDP-N-acetyl muramate-alanine ligase;
+<italic>murC2</italic>, UDP-N-acetylmuramyl tripeptide synthetase;
+<italic>murD</italic>, UDP-N-acetylmuramoyl-L-alanyl-D-glutamate synthetase;
+<italic>murE</italic>, UDP-N-acetylmuramoyl-L-alanyl-D-glutamate-L-lysine
+ligase; <italic>alr</italic>, alanine racemase; <italic>ddI</italic>,
+D-alanine-D-alanine ligase; <italic>murI</italic>, glutamate racemase;
+<italic>murF</italic>, UDP-N-acetylmuramoyl-tripeptide&#x02014;D-alanyl-D-alanine
+ligase; <italic>bacA</italic>, undecaprenyl pyrophosphate phosphatase;
+<italic>mraY</italic>, phospho-N-acetylmuramoyl-pentapeptide-transferase;
+<italic>murG</italic>, undecaprenyldiphospho-muramoylpentapeptide
+beta-N-acetylglucosaminyltransferase; <italic>murM</italic>,
+UDP-N-acetylmuramoylpentapeptide-lysine N6-alanyltransferase;
+<italic>murN</italic>, alanine adding enzyme; <italic>pbp1a</italic>,
+penicillin binding protein 1a; <italic>pbp1b</italic>, penicillin binding
+protein 1b; <italic>pbp2a</italic>, penicillin binding protein 2a;
+<italic>pbp2b</italic>, penicillin binding protein 2b;
+<italic>pbp2x</italic>, penicillin binding protein 2x,
+<italic>dacA</italic>, serine-type D-Ala-D-Ala carboxypeptidase
+(DD-transpeptidase, DacA). <sup>*</sup>p &#x02264; 0.05, significantly downregulated or
+upregulated compared with the control group.</title></caption><graphic xlink:href="1517-8382-bjm-46-2-613-gf01"/></fig><p>The second stage (stage II) of peptidoglycan biosynthesis is transport of the
+MurNAc-pentapeptide portion of the UDP-MurNAc-pentapeptide across the cytoplasmic
+membrane by a undecaprenyl lipid carrier, undecaprenyl phosphate (UP), which is
+synthesized from undecaprenyl pyrophosphate (UPP) by undecaprenyl pyrophosphate
+phosphatase (BacA) (<xref rid="B05" ref-type="bibr">Higashi <italic>et al.</italic>,
+1970</xref>; <xref rid="B01" ref-type="bibr">Bouhss <italic>et al.</italic>,
+2008</xref>). The coupling of UDP-MurNAc-pentapeptide to UP to produce
+UPP-MurNAc-pentapeptide (Lipid I) and UMP is catalyzed by
+phospho-<italic>N</italic>-acetylmuramoyl-pentapeptide-transferase (MraY). Then, another
+glucosamine residue, GlcNAc, is attached to Lipid I by
+undecaprenyldiphospho-muramoylpentapeptide
+beta-<italic>N</italic>-acetylglucosaminyltransferase (MurG) and forms
+UPP-MurNAc-(GlcNAc)-pentapeptide (Lipid II). 2 L-Alanine (L-Ala) is added to
+UDP-MurNAc-(GlcNAc)-L-Ala-&#x003b3;-D-Glu-L-Lys-D-Ala-D-Ala by
+UDP-<italic>N</italic>-acetylmuramoylpentapeptide-lysine N6-alanyltransferase (MurM) and
+another alanine-adding enzyme (MurN) to form
+UDP-MurNAc-(GlcNAc)-L-Ala-&#x003b3;-D-Glu-L-Lys-(L-Ala)<sub>2</sub>-D-Ala-D-Ala (the KEGG
+pathway). The data showed that OA and UA significantly inhibited expression of
+<italic>bacA</italic>, <italic>mraY</italic>, <italic>murG</italic>,
+<italic>murM</italic>, and <italic>murN</italic> and that BA also downregulated
+these genes, except <italic>murM</italic> and <italic>murN</italic> (<xref rid="f01" ref-type="fig">Figure 1B</xref>). These findings reveal that OA, UA, and BA
+inhibited translocation of the MurNAc-pentapeptide, an intermediate or monomer of
+peptidoglycan in the cell wall.</p><p>The last stage (stage III) of peptidoglycan biosynthesis is transglycosylation,
+transpeptidation, and trimming of the peptidoglycan, which are catalyzed by
+penicillin-binding proteins (PBPs) and transpeptidase (<xref rid="B13" ref-type="bibr">Pinho <italic>et al.</italic>, 2001</xref>; <xref rid="B10" ref-type="bibr">Lee
+<italic>et al.</italic>, 2003</xref>; <xref rid="B12" ref-type="bibr">Mainardi
+<italic>et al.</italic>, 2005</xref>; <xref rid="B03" ref-type="bibr">Fan
+<italic>et al.</italic>, 2007</xref>). <italic>S. mutans</italic> UA159 has five
+PBPs such as PBP1a, PBP1b, PBP2a, PBP2b, and PBP2X, as well as serine-type D-Ala-D-Ala
+carboxypeptidase (DacA), which is involved in the last stage of peptidoglycan
+biosynthesis (the KEEG pathway). The data showed that these genes, except PBP1a and
+PBP1b, were downregulated 52&#x02013;85% and 31&#x02013;56% in the OA and UA groups compared to those in
+the control group. Our qPCR data showed that OA and UA significantly downregulated the
+PBP genes, except <italic>pbp1a</italic> and <italic>pbp1b</italic>, whereas BA
+significantly upregulated these genes, except <italic>pbp1b</italic> and
+<italic>pbp2a</italic> (<xref rid="f01" ref-type="fig">Figure 1B</xref>). These
+results indicate that OA and UA inhibit polymerization between a newly synthesized
+peptidoglycan monomer and the existing peptidoglycan, and that BA increased
+polymerization in <italic>S. mutans</italic> UA159.</p><p>In summary, OA and UA inhibited the expression of peptidoglycan biosynthesis-related
+genes of <italic>S. mutans</italic> UA159 at the transcriptional level which might be
+the one of the antimicrobial mechanism of OA and UA against <italic>S.
+mutans</italic>.</p></body><back><ack><title>Acknowledgments</title><p>This study was supported by a grant from the Korea Healthcare Technology R&#x00026;D
+Project, Ministry for Health, Welfare and Family Affairs, Republic of Korea
+(A091074).</p></ack><ref-list><title>References</title><ref id="B01"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bouhss</surname><given-names>A</given-names></name><name><surname>Trunkfield</surname><given-names>AE</given-names></name><name><surname>Bugg</surname><given-names>TD</given-names></name><etal/></person-group><year>2008</year><article-title>The biosynthesis of peptidoglycan lipid-linked
+intermediates</article-title><source>FEMS Microbiol Rev</source><volume>32</volume><fpage>208</fpage><lpage>233</lpage><pub-id pub-id-type="pmid">18081839</pub-id></element-citation></ref><ref id="B02"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bugg</surname><given-names>TD</given-names></name><name><surname>Walsh</surname><given-names>CT</given-names></name></person-group><year>1992</year><article-title>Intracellular steps of bacterial cell wall peptidoglycan
+biosynthesis: enzymology, antibiotics, and antibiotic
+resistance</article-title><source>Nat Prod Rep</source><volume>9</volume><fpage>199</fpage><lpage>215</lpage><pub-id pub-id-type="pmid">1436736</pub-id></element-citation></ref><ref id="B03"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Fan</surname><given-names>X</given-names></name><name><surname>Liu</surname><given-names>Y</given-names></name><name><surname>Smith</surname><given-names>D</given-names></name><etal/></person-group><year>2007</year><article-title>Diversity of penicillin-binding proteins. Resistance factor FmtA
+of <italic>Staphylococcus aureus</italic>
+</article-title><source>J Biol Chem</source><volume>282</volume><fpage>35143</fpage><lpage>35152</lpage><pub-id pub-id-type="pmid">17925392</pub-id></element-citation></ref><ref id="B04"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Fontanay</surname><given-names>S</given-names></name><name><surname>Grare</surname><given-names>M</given-names></name><name><surname>Mayer</surname><given-names>J</given-names></name><etal/></person-group><year>2008</year><article-title>Ursolic, oleanolic and betulinic acids: antibacterial spectra and
+selectivity indexes</article-title><source>J Ethnopharmacol</source><volume>120</volume><fpage>272</fpage><lpage>276</lpage><pub-id pub-id-type="pmid">18835348</pub-id></element-citation></ref><ref id="B05"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Higashi</surname><given-names>Y</given-names></name><name><surname>Strominger</surname><given-names>JL</given-names></name><name><surname>Sweeley</surname><given-names>CC</given-names></name></person-group><year>1970</year><article-title>Biosynthesis of the peptidoglycan of bacterial cell walls. XXI.
+Isolation of free C55-isoprenoid alcohol and of lipid intermediates in
+peptidoglycan synthesis from <italic>Staphylococcus
+aureus</italic>
+</article-title><source>J Biol Chem</source><volume>245</volume><fpage>3697</fpage><lpage>3702</lpage><pub-id pub-id-type="pmid">4248530</pub-id></element-citation></ref><ref id="B06"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Horiuchi</surname><given-names>K</given-names></name><name><surname>Shiota</surname><given-names>S</given-names></name><name><surname>Hatano</surname><given-names>T</given-names></name><etal/></person-group><year>2007</year><article-title>Antimicrobial activity of oleanolic acid from Salvia officinalis
+and related compounds on vancomycin-resistant enterococci
+(VRE)</article-title><source>Biol Pharm Bull</source><volume>30</volume><fpage>1147</fpage><lpage>1149</lpage><pub-id pub-id-type="pmid">17541170</pub-id></element-citation></ref><ref id="B07"><element-citation publication-type="webpage"><person-group person-group-type="author"><collab>KEGG Pathway</collab></person-group><year>2013</year><source>Peptidoglycan biosynthesis - <italic>Streptococcus mutans</italic>
+UA159</source><comment>Available at: <ext-link ext-link-type="uri" xlink:href="http://www.genome.jp/kegg-bin/show_pathway?smu00550">http://www.genome.jp/kegg-bin/show_pathway?smu00550</ext-link></comment><date-in-citation>Accessed 5 March 2014</date-in-citation></element-citation></ref><ref id="B08"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kim</surname><given-names>MJ</given-names></name><name><surname>Kim</surname><given-names>CS</given-names></name><name><surname>Ha</surname><given-names>WH</given-names></name><etal/></person-group><year>2010</year><article-title>Antimicrobial effects of oleanolic acid against
+<italic>Streptococcus mutans</italic> and <italic>Streptococcus
+sobrinus</italic> isolated from a Korean population</article-title><source>Int J Oral Biol</source><volume>35</volume><fpage>191</fpage><lpage>195</lpage></element-citation></ref><ref id="B09"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kim</surname><given-names>MJ</given-names></name><name><surname>Kim</surname><given-names>CS</given-names></name><name><surname>Park</surname><given-names>JY</given-names></name><etal/></person-group><year>2011</year><article-title>Antimicrobial effects of ursolic acid against mutans streptococci
+isolated from Koreans</article-title><source>Int J Oral Biol</source><volume>36</volume><fpage>7</fpage><lpage>11</lpage></element-citation></ref><ref id="B10"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lee</surname><given-names>M</given-names></name><name><surname>Hesek</surname><given-names>D</given-names></name><name><surname>Suvorov</surname><given-names>M</given-names></name><etal/></person-group><year>2003</year><article-title>A mechanism-based inhibitor targeting the DD-transpeptidase
+activity of bacterial penicillin-binding proteins</article-title><source>J Am Chem Soc</source><volume>125</volume><fpage>16322</fpage><lpage>16326</lpage><pub-id pub-id-type="pmid">14692773</pub-id></element-citation></ref><ref id="B11"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Liu</surname><given-names>J</given-names></name></person-group><year>1995</year><article-title>Pharmacology of oleanolic acid and ursolic acid</article-title><source>J Ethnopharmacol</source><volume>49</volume><fpage>57</fpage><lpage>68</lpage><pub-id pub-id-type="pmid">8847885</pub-id></element-citation></ref><ref id="B12"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mainardi</surname><given-names>JL</given-names></name><name><surname>Fourgeaud</surname><given-names>M</given-names></name><name><surname>Hugonnet</surname><given-names>JE</given-names></name><etal/></person-group><year>2005</year><article-title>A novel peptidoglycan cross-linking enzyme for a
+beta-lactam-resistant transpeptidation pathway</article-title><source>J Biol Chem</source><volume>280</volume><fpage>38146</fpage><lpage>38152</lpage><pub-id pub-id-type="pmid">16144833</pub-id></element-citation></ref><ref id="B13"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Pinho</surname><given-names>MG</given-names></name><name><surname>Filipe</surname><given-names>SR</given-names></name><name><surname>de Lencastre</surname><given-names>H</given-names></name><etal/></person-group><year>2001</year><article-title>Complementation of the essential peptidoglycan transpeptidase
+function of penicillin-binding protein 2 (PBP2) by the drug resistance
+protein PBP2A in <italic>Staphylococcus aureus</italic>
+</article-title><source>J Bacteriol</source><volume>183</volume><fpage>6525</fpage><lpage>6531</lpage><pub-id pub-id-type="pmid">11673420</pub-id></element-citation></ref></ref-list></back></article>

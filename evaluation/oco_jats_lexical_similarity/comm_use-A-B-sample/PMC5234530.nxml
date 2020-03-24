@@ -1,0 +1,584 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">3 Biotech</journal-id><journal-id journal-id-type="iso-abbrev">3 Biotech</journal-id><journal-title-group><journal-title>3 Biotech</journal-title></journal-title-group><issn pub-type="epub">2190-5738</issn><publisher><publisher-name>Springer Berlin Heidelberg</publisher-name><publisher-loc>Berlin/Heidelberg</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">28330313</article-id><article-id pub-id-type="pmc">5234530</article-id><article-id pub-id-type="publisher-id">561</article-id><article-id pub-id-type="doi">10.1007/s13205-016-0561-0</article-id><article-categories><subj-group subj-group-type="heading"><subject>Original Article</subject></subj-group></article-categories><title-group><article-title>Optimization of process parameters for
+enhanced production of Jamun juice using Pectinase (<italic>Aspergillus aculeatus)</italic> enzyme and its characterization</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Ghosh</surname><given-names>Payel</given-names></name><xref ref-type="aff" rid="Aff1"/></contrib><contrib contrib-type="author" corresp="yes"><name><surname>Pradhan</surname><given-names>Rama Chandra</given-names></name><address><phone>+91 661 2462904</phone><email>pradhanrc@nitrkl.ac.in</email></address><xref ref-type="aff" rid="Aff1"/></contrib><contrib contrib-type="author"><name><surname>Mishra</surname><given-names>Sabyasachi</given-names></name><xref ref-type="aff" rid="Aff1"/></contrib><aff id="Aff1">Department of Food Process Engineering, National Institute of Technology, Rourkela, Rourkela, 769008 Odisha India </aff></contrib-group><pub-date pub-type="epub"><day>12</day><month>11</month><year>2016</year></pub-date><pub-date pub-type="pmc-release"><day>12</day><month>11</month><year>2016</year></pub-date><pub-date pub-type="ppub"><month>12</month><year>2016</year></pub-date><volume>6</volume><issue>2</issue><elocation-id>241</elocation-id><history><date date-type="received"><day>11</day><month>7</month><year>2016</year></date><date date-type="accepted"><day>1</day><month>11</month><year>2016</year></date></history><permissions><copyright-statement>&#x000a9; The Author(s) 2016</copyright-statement><license license-type="OpenAccess"><license-p>
+<bold>Open Access</bold>This article is distributed under the
+terms of the Creative Commons Attribution 4.0 International License (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>), which permits unrestricted use, distribution, and reproduction in
+any medium, provided you give appropriate credit to the original author(s) and the
+source, provide a link to the Creative Commons license, and indicate if changes
+were made.</license-p></license></permissions><abstract id="Abs1"><p>Jamun fruit comprises of seed and thick pulp. The pectin&#x02013;protein bond
+of the thick pulp creates difficulty in making juice. Clear Jamun juice is not
+available in the market, so there is a need for extraction of juice with maximum
+yield. The goal of this research is to obtain high yield of clarified juice with the
+help of Pectinase (<italic>Aspergillus aculeatus</italic>) enzyme.
+The study was conducted at different enzyme concentration (0.01&#x02013;0.1%), time duration
+(40&#x02013;120&#x000a0;min), and temperature (30&#x02013;50&#x000a0;&#x000b0;C). Various physical and chemical parameters,
+such as yield, turbidity, viscosity, clarity, colour, polyphenol, protein, TSS, and
+total solid, were measured as dependent variables. Process optimization has been
+done using Box&#x02013;Behnken design. Optimization has been done for maximum yield
+percentage, <italic>L</italic>* value, <italic>a</italic>* value, protein, and polyphenol content, and minimum values for
+turbidity, viscosity, clarity, <italic>b</italic>* value, TSS, and
+total solid content. The suggested parameters for extraction of juice were at 0.05%
+enzyme concentration at 44&#x000a0;&#x000b0;C for 80&#x000a0;min. In a large-scale production, extraction of
+juice by Pectinase (<italic>Aspergillus aculeatus</italic>) has a
+significance importance due to its high yield as well as nutritional values.</p></abstract><kwd-group xml:lang="en"><title>Keywords</title><kwd>Jamun fruits</kwd><kwd>Enzymatic extraction</kwd><kwd><italic>Aspergillus aculeatus</italic></kwd><kwd>Optimization</kwd><kwd>Box-Behnken design</kwd></kwd-group><custom-meta-group><custom-meta><meta-name>issue-copyright-statement</meta-name><meta-value>&#x000a9; King Abdulaziz City for Science and
+Technology 2016</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec id="Sec1"><title>Introduction</title><p>Fruits are known for their excellent antioxidant properties,
+therapeutic value, and nutrient enrichment. Jamun (Indian Blackberry) is a tropical
+natural product, with its antidiabetic properties, which helps in the transformation
+of starch or sugar into vitality. It is rich in iron and subsequently helps in the
+purification of blood (Sehwag and Das <xref ref-type="bibr" rid="CR19">2015</xref>; Mahesh and Satish <xref ref-type="bibr" rid="CR13">2008</xref>; Jabeen and Javaid <xref ref-type="bibr" rid="CR6">2010</xref>). Preservation of fresh produced samples over long time is
+energy consuming and expensive. After harvest, the nutritional and quality
+attributes of fresh juicy fruit, such as Jamun, get deteriorate as it comes in
+contact with surrounding of physical and microbial environment. Low yield and low
+extraction efficiency of Jamun juice have been attributed to chemical structure of
+the fruit system. Exploration of the structural make up of Jamun fruit has indicated
+that the presence of higher pectin and tannin content and storage linkage between
+protein and pectin molecules has resulted in hindrance for extraction efficiency. In
+case of perishable fruit system, such as Jamun, there is a need for the development
+of novel strategies for proper processing to get higher juice yield so as to achieve
+continuous supply. Meanwhile, the application of enzymes for enhancing the yield and
+extraction efficiency has been given wide range of commercial importance.</p><p>In the beverage industry, enzymatic juice extraction process followed
+by clarification and membrane separation is considered as an advanced step for
+concentration of juice. However, a very few studies have been done on clarification
+of natural product with enzymatic pre-treatment particularly for tropical fruit
+juices (Rai et al. <xref ref-type="bibr" rid="CR16">2004</xref>; Sin et al.
+<xref ref-type="bibr" rid="CR23">2006</xref>). In the process of enzymatic
+pre-treatment for juice clarification, hydrolysis of pectic substances is impacted
+by few components, for example, enzyme concentration, incubation time, and
+incubation temperature (Rai et al. <xref ref-type="bibr" rid="CR16">2004</xref>; Sin et al. <xref ref-type="bibr" rid="CR23">2006</xref>).</p><p>In case of fruit juice depectinization and to increase the product
+yield, several enzymes have been used as a pre-treatment. Several studies have
+reported on pectinases enzyme for depectinization which could effectively clarify
+the fruit juices (Tastan and Baysal <xref ref-type="bibr" rid="CR27">2015</xref>; Domingues et al. <xref ref-type="bibr" rid="CR4">2012</xref>; Tu et al. <xref ref-type="bibr" rid="CR28">2013</xref>;
+Maktouf et al. <xref ref-type="bibr" rid="CR14">2014</xref>). A particular
+enzyme with various strains also acts differently. For example, pectinase obtained
+from <italic>Aspergillus Niger</italic> will act on a biological
+system in a certain manner where pectinase obtained from <italic>Aspergillus aculeatus</italic> will work in differently. Therefore, many
+studies with different strains also reported for various fruits (Ghosh et al.
+<xref ref-type="bibr" rid="CR5">2016</xref>; Sharma et al. <xref ref-type="bibr" rid="CR22">2015</xref>; Tapre and Jain <xref ref-type="bibr" rid="CR26">2014</xref>; Landbo et al. <xref ref-type="bibr" rid="CR10">2007</xref>; Pinelo et al. <xref ref-type="bibr" rid="CR15">2010</xref>; Lee et al. <xref ref-type="bibr" rid="CR11">2006</xref>;
+Landbo and Meyer <xref ref-type="bibr" rid="CR9">2004</xref>; Sandri et al.
+<xref ref-type="bibr" rid="CR18">2014</xref>).</p><p>Response surface Methodology (RSM) is a statistical and mathematical
+tool valuable for breaking down the total impacts of several independent variables
+and responses (Box and Draper <xref ref-type="bibr" rid="CR3">1987</xref>). One
+of the types for RSM is known as Box&#x02013;Behnken design (does not contain an embedded
+factorial or fractional factorial design) which do not have axial points, thus, can
+be sure that all design points fall within your safe operating zone. Box&#x02013;Behnken
+designs also ensure that all factors are not set at their high levels at the same
+time. This procedure is more functional contrasted with hypothetical models. It
+emerges from trial approach which incorporates intelligent impacts of the variables,
+and inevitably, it portrays the general impacts of the parameters on the procedure
+(Bas and Boyaci <xref ref-type="bibr" rid="CR2">2007</xref>). The most ideal
+approach to picture the impact of the independent variables on the reliant ones is
+to draw response surface plots of the model. In this manner, a response surface
+trial plan was esteemed to be most suitable method for the present
+examination.</p><p>The objectives of this study is to optimize the enzyme concentration,
+incubation time, and temperature for juice extraction and clarification from Jamun
+fruit with the help of commercial pectinase (<italic>Aspergillus
+aculeatus</italic>) using the response surface methodology (RSM). The second
+objective is to characterise the physico-chemical properties, such as viscosity,
+turbidity, yield, clarity, colour, total polyphenol, protein concentration, TSS, and
+total solid in the fresh product, as well as the treated samples.</p></sec><sec id="Sec2"><title>Materials and methods</title><sec id="Sec3"><title>Jamun fruit sample</title><p>Fresh ripen Jamun (locally called as <italic>Ram
+Jamun</italic>) was obtained from Rourkela, Odisha, India. Due to high
+perishable nature of Jamun fruits, the samples were manually washed (water with 2%
+CaCl<sub>2</sub>), cleaned, and then packed in polythene bags. The
+cleaned samples were stored at &#x02212;20&#x000a0;&#x000b1;&#x000a0;1&#x000a0;&#x000b0;C for further study (Benherlal
+<xref ref-type="bibr" rid="CR001">2010</xref>).</p></sec><sec id="Sec4"><title>Pectinase enzyme and chemicals</title><p>The enzyme pectinase (Commercial Name: Pectinex Ultra SPL; activity
+3800 units/ml) from <italic>Aspergillus aculeatus,</italic> and
+Folin&#x02013;Ciocalteu reagent was procured from Sigma-Aldrich, Bangalore, India.
+Hydrazine sulphate, potassium sodium tartrate, and hexamine LR grade were
+purchased from HiMediaPvt. Ltd., Mumbai, India. Copper (II) sulphate pentahydrate
+was collected from Merck, Mumbai, India. Bovine serum albumin (BSA) and Gallic
+acid standard were purchased from Otto Chemie Pvt. Ltd, Mumbai, India.</p></sec><sec id="Sec5"><title>Method of Jamun juice extraction</title><p>The cleaned Jamun samples from deep freezer were taken out and
+washed and clean to avoid microbial contaminations, and other foreign particles,
+if any. Then, the samples were allowed to warm up at room temperature for 3&#x000a0;h. To
+avoid bitterness of juice, seeds were manually removed from the samples. Collected
+pulp of the fruit sample then mixed using a grinder (Bajaj Mixer, India).
+Afterwards, the grinded pulp was poured in beakers. As per the experimental
+design, the pectinase enzyme was added with the mentioned temperature and
+time.</p></sec><sec id="Sec6"><title>Enzymatic treatment</title><p>As mentioned in Table&#x000a0;<xref rid="Tab1" ref-type="table">1</xref>
+(experimental design), 100&#x000a0;g of homogenised pulp was treated with enzyme. The
+independent parameters, such as incubation temperature <italic>X</italic>
+<sub>1</sub> (30&#x02013;50&#x000a0;&#x000b0;C), enzyme concentration, <italic>X</italic>
+<sub>2</sub> (0.01&#x02013;0.1 w/v, %), and incubation time, <italic>X</italic>
+<sub>3</sub> (40&#x02013;120&#x000a0;min), were considered. An incubated orbital
+shaker (REMI Laboratory Instrument, Mumbai, India) at 120&#x000a0;rpm was used for
+vigorous mixing of enzymatic treated pulp at particular temperature and time.
+Then, the suspension was kept at &#x02212;2&#x000a0;&#x000b0;C for 5&#x000a0;min for inactivation of the enzyme
+(Molinari and Silva <xref ref-type="bibr" rid="CR002">1997</xref>; Sandri et
+al. <xref ref-type="bibr" rid="CR003">2011</xref>). A muslin cloth was used
+to filtrate the juice. The filtrate was taken for further analysis of different
+physico-chemical properties. One sample was kept without any enzymatic treatment,
+known as control sample.<table-wrap id="Tab1"><label>Table&#x000a0;1</label><caption><p>Properties of raw Jamun juice without enzymatic
+treatment</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left">Property</th><th align="left">Yield (%)</th><th align="left">Viscosity (mPaS)</th><th align="left">Turbidity (NTU)</th><th align="left">Clarity (%T)</th><th align="left">
+<italic>L</italic>
+</th><th align="left">
+<italic>a</italic>*</th><th align="left">
+<italic>b</italic>*</th><th align="left">Protein (mg/g)</th><th align="left">Polyphenol (mg GAE/g)</th><th align="left">TSS (&#x000b0;B)</th><th align="left">Total solid (%)</th></tr></thead><tbody><tr><td align="left">Raw Juice</td><td char="." align="char">65</td><td char="." align="char">1.21</td><td char="." align="char">116</td><td char="." align="char">0.165</td><td char="." align="char">5.76</td><td char="." align="char">2.65</td><td char="." align="char">&#x02212;1.61</td><td char="." align="char">132.70</td><td char="." align="char">89.08</td><td char="." align="char">13</td><td char="." align="char">12.94</td></tr></tbody></table></table-wrap>
+</p></sec><sec id="Sec7"><title>Characterisation of juice</title><p>Physical parameters, such as viscosity, turbidity, yield, clarity,
+and colour, and chemical parameters, such as protein, polyphenol, TSS, and total
+solid, were determined as response parameters. A viscometer and a digital
+turbidity-meter were used to measure the viscosity and turbidity of juice,
+respectively (Sin et al. <xref ref-type="bibr" rid="CR23">2006</xref>). The
+treated pulp was passed through muslin cloth (Shahnawaz and Sheikh <xref ref-type="bibr" rid="CR21">2011</xref>). The percent juice content of Jamun was
+given as:<disp-formula id="Equa"><alternatives><tex-math id="M1">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\text{Percentage Juice content}} = \frac{{{\text{Volume of filtrate }}\left( {\text{ml}} \right)}}{{{\text{Weight of the pulp }}\left( {\text{g}} \right)}} \times 100.$$\end{document}</tex-math><mml:math id="M2" display="block"><mml:mrow><mml:mrow><mml:mtext>Percentage Juice content</mml:mtext></mml:mrow><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:mrow><mml:mtext>Volume of filtrate</mml:mtext><mml:mspace width="0.333333em"/></mml:mrow><mml:mfenced close=")" open="("><mml:mtext>ml</mml:mtext></mml:mfenced></mml:mrow><mml:mrow><mml:mrow><mml:mtext>Weight of the pulp</mml:mtext><mml:mspace width="0.333333em"/></mml:mrow><mml:mfenced close=")" open="("><mml:mtext>g</mml:mtext></mml:mfenced></mml:mrow></mml:mfrac><mml:mo>&#x000d7;</mml:mo><mml:mn>100</mml:mn><mml:mo>.</mml:mo></mml:mrow></mml:math><graphic xlink:href="13205_2016_561_Article_Equa.gif" position="anchor"/></alternatives></disp-formula>
+</p><p>Clarity of the juice was determined by transmittance (%T) at 660&#x000a0;nm
+(Rai et al. <xref ref-type="bibr" rid="CR004">2006</xref>) and total phenolic
+substance was measured by the Folin&#x02013;Ciocalteu method at 650&#x000a0;nm (% absorbance)
+(Singleton et al. <xref ref-type="bibr" rid="CR24">1999</xref>) using a
+spectrophotometer (Systronics India Ltd). A Hunter colorimeter (Colorflex EZ, USA)
+was used for measurements of juice colour {<italic>L</italic>*
+(brightness/darkness), <italic>a</italic>*(redness/greenness),
+<italic>b</italic>* (yellowness/blueness)} (Rai et al.
+<xref ref-type="bibr" rid="CR004">2006</xref>). Protein concentration was
+measured with Bovine Serum Albumin (BSA) as the standard according to method
+described by Lowry et al. (<xref ref-type="bibr" rid="CR12">1951</xref>). An
+Abbe-type refractometer (&#x000b0;B) was used to measure the total soluble sugar (TSS) in
+the sample. Total solid was measured by weight difference (Sagu et al.
+<xref ref-type="bibr" rid="CR17">2014</xref>).</p></sec><sec id="Sec8"><title>Experimental setup</title><p>Box&#x02013;Behnken Design was considered to optimise the treatment and
+extraction conditions for Jamun juice. The Design Expert Software (Version
+8.0.7.1) was used for optimisation of independent variables.</p><p>For the enzymatic treatment of juice, the key elements are
+incubation temperature, enzyme concentration, and incubation time, which coded as
+X1, X2, and X3, respectively. Box-Behnken Design setup was taken to analyse on the
+combined impact of these three variables. Total 17 experiments with 5 replications
+at the center point were designed through software. Tables&#x000a0;<xref rid="Tab2" ref-type="table">2</xref> and <xref rid="Tab3" ref-type="table">3</xref> show
+the real and coded values of the experiments, respectively. The effects of
+variables in terms of linear, quadratic, and interaction terms can be explain by
+mathematical model as shown below:<disp-formula id="Equb"><alternatives><tex-math id="M3">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$Y \, = \, b_{0} + \, \sum \, b_{1} X_{1} + \, \sum \, b_{11} X_{1}^{2} + \, \sum \, b_{12} X_{1} X_{2}$$\end{document}</tex-math><mml:math id="M4" display="block"><mml:mrow><mml:mi>Y</mml:mi><mml:mspace width="0.166667em"/><mml:mo>=</mml:mo><mml:mspace width="0.166667em"/><mml:msub><mml:mi>b</mml:mi><mml:mn>0</mml:mn></mml:msub><mml:mo>+</mml:mo><mml:mspace width="0.166667em"/><mml:mo>&#x02211;</mml:mo><mml:mspace width="0.166667em"/><mml:msub><mml:mi>b</mml:mi><mml:mn>1</mml:mn></mml:msub><mml:msub><mml:mi>X</mml:mi><mml:mn>1</mml:mn></mml:msub><mml:mo>+</mml:mo><mml:mspace width="0.166667em"/><mml:mo>&#x02211;</mml:mo><mml:mspace width="0.166667em"/><mml:msub><mml:mi>b</mml:mi><mml:mn>11</mml:mn></mml:msub><mml:msubsup><mml:mi>X</mml:mi><mml:mrow><mml:mn>1</mml:mn></mml:mrow><mml:mn>2</mml:mn></mml:msubsup><mml:mo>+</mml:mo><mml:mspace width="0.166667em"/><mml:mo>&#x02211;</mml:mo><mml:mspace width="0.166667em"/><mml:msub><mml:mi>b</mml:mi><mml:mn>12</mml:mn></mml:msub><mml:msub><mml:mi>X</mml:mi><mml:mn>1</mml:mn></mml:msub><mml:msub><mml:mi>X</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mrow></mml:math><graphic xlink:href="13205_2016_561_Article_Equb.gif" position="anchor"/></alternatives></disp-formula>where <italic>Y</italic> the experimental responses;
+<italic>X</italic>
+<sub>1</sub> and <italic>X</italic>
+<sub>2</sub> the levels of variables; <italic>b</italic>
+<sub>0</sub> the constant; <italic>b</italic>
+<sub>1</sub> the linear coefficient; <italic>b</italic>
+<sub>11</sub> the quadratic term; and <italic>b</italic>
+<sub>12</sub> the coefficient of the interaction terms.<table-wrap id="Tab2"><label>Table&#x000a0;2</label><caption><p>Box&#x02013;Behnken design: real variables and experimental responses
+(physical parameters)</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left" rowspan="3">Exp. no.</th><th align="left" colspan="3">Real variables</th><th align="left" colspan="14">Experimental responses</th></tr><tr><th align="left" rowspan="2">X<sub>1</sub> (&#x000b0;C)</th><th align="left" rowspan="2">X<sub>2</sub> (%)</th><th align="left" rowspan="2">X<sub>3</sub> (min)</th><th align="left" colspan="2">Yield (%)</th><th align="left" colspan="2">Clarity (%T)</th><th align="left" colspan="2">Turbidity (NTU)</th><th align="left" colspan="2">Viscosity (mPaS)</th><th align="left" colspan="2">
+<italic>L</italic>* value</th><th align="left" colspan="2">
+<italic>a</italic>* value</th><th align="left" colspan="2">
+<italic>b</italic>* value</th></tr><tr><th align="left">Act</th><th align="left">Pre</th><th align="left">Act</th><th align="left">Pre</th><th align="left">Act</th><th align="left">Pre</th><th align="left">Act</th><th align="left">Pre</th><th align="left">Act</th><th align="left">Pre</th><th align="left">Act</th><th align="left">Pre</th><th align="left">Act</th><th align="left">Pre</th></tr></thead><tbody><tr><td align="left">1</td><td char="." align="char">30</td><td char="." align="char">0.01</td><td char="." align="char">80</td><td char="." align="char">76</td><td char="." align="char">75.75</td><td char="." align="char">78.33</td><td char="." align="char">76.84</td><td char="." align="char">14.9</td><td char="." align="char">14.70</td><td char="." align="char">1.086</td><td char="." align="char">1.08</td><td char="." align="char">1.17</td><td char="." align="char">1.11</td><td char="." align="char">0.81</td><td char="." align="char">0.83</td><td char="." align="char">&#x02212;0.37</td><td char="." align="char">&#x02212;0.32</td></tr><tr><td align="left">2</td><td char="." align="char">50</td><td char="." align="char">0.01</td><td char="." align="char">80</td><td char="." align="char">77</td><td char="." align="char">76.75</td><td char="." align="char">66.40</td><td char="." align="char">67.99</td><td char="." align="char">46.8</td><td char="." align="char">46.74</td><td char="." align="char">1.092</td><td char="." align="char">1.09</td><td char="." align="char">0.53</td><td char="." align="char">0.45</td><td char="." align="char">1.11</td><td char="." align="char">1.11</td><td char="." align="char">&#x02212;0.20</td><td char="." align="char">&#x02212;0.19</td></tr><tr><td align="left">3</td><td char="." align="char">30</td><td char="." align="char">0.10</td><td char="." align="char">80</td><td char="." align="char">78</td><td char="." align="char">78.25</td><td char="." align="char">72.97</td><td char="." align="char">71.38</td><td char="." align="char">20.65</td><td char="." align="char">20.71</td><td char="." align="char">1.100</td><td char="." align="char">1.11</td><td char="." align="char">0.68</td><td char="." align="char">0.77</td><td char="." align="char">1.01</td><td char="." align="char">1.01</td><td char="." align="char">&#x02212;0.18</td><td char="." align="char">&#x02212;0.19</td></tr><tr><td align="left">4</td><td char="." align="char">50</td><td char="." align="char">0.10</td><td char="." align="char">80</td><td char="." align="char">79</td><td char="." align="char">79.25</td><td char="." align="char">68.63</td><td char="." align="char">70.13</td><td char="." align="char">45.30</td><td char="." align="char">45.50</td><td char="." align="char">1.077</td><td char="." align="char">1.08</td><td char="." align="char">0.55</td><td char="." align="char">0.61</td><td char="." align="char">1.02</td><td char="." align="char">1.00</td><td char="." align="char">&#x02212;0.21</td><td char="." align="char">&#x02212;0.27</td></tr><tr><td align="left">5</td><td char="." align="char">30</td><td char="." align="char">0.06</td><td char="." align="char">40</td><td char="." align="char">79</td><td char="." align="char">79.50</td><td char="." align="char">68.60</td><td char="." align="char">70.70</td><td char="." align="char">19.65</td><td char="." align="char">19.61</td><td char="." align="char">1.086</td><td char="." align="char">1.10</td><td char="." align="char">0.93</td><td char="." align="char">0.92</td><td char="." align="char">0.93</td><td char="." align="char">0.90</td><td char="." align="char">&#x02212;0.16</td><td char="." align="char">&#x02212;0.18</td></tr><tr><td align="left">6</td><td char="." align="char">50</td><td char="." align="char">0.06</td><td char="." align="char">40</td><td char="." align="char">81</td><td char="." align="char">81.50</td><td char="." align="char">70.33</td><td char="." align="char">69.15</td><td char="." align="char">46.80</td><td char="." align="char">46.62</td><td char="." align="char">1.071</td><td char="." align="char">1.08</td><td char="." align="char">0.55</td><td char="." align="char">0.56</td><td char="." align="char">1.15</td><td char="." align="char">1.14</td><td char="." align="char">&#x02212;0.18</td><td char="." align="char">&#x02212;0.16</td></tr><tr><td align="left">7</td><td char="." align="char">30</td><td char="." align="char">0.06</td><td char="." align="char">120</td><td char="." align="char">80</td><td char="." align="char">79.50</td><td char="." align="char">74.30</td><td char="." align="char">75.48</td><td char="." align="char">18.95</td><td char="." align="char">19.13</td><td char="." align="char">1.100</td><td char="." align="char">1.09</td><td char="." align="char">1.00</td><td char="." align="char">0.99</td><td char="." align="char">0.98</td><td char="." align="char">0.99</td><td char="." align="char">&#x02212;0.19</td><td char="." align="char">&#x02212;0.21</td></tr><tr><td align="left">8</td><td char="." align="char">50</td><td char="." align="char">0.06</td><td char="." align="char">120</td><td char="." align="char">80</td><td char="." align="char">79.50</td><td char="." align="char">68.83</td><td char="." align="char">66.93</td><td char="." align="char">48.90</td><td char="." align="char">48.94</td><td char="." align="char">1.100</td><td char="." align="char">1.09</td><td char="." align="char">0.52</td><td char="." align="char">0.53</td><td char="." align="char">0.99</td><td char="." align="char">1.03</td><td char="." align="char">&#x02212;0.21</td><td char="." align="char">&#x02212;0.19</td></tr><tr><td align="left">9</td><td char="." align="char">40</td><td char="." align="char">0.01</td><td char="." align="char">40</td><td char="." align="char">82</td><td char="." align="char">81.75</td><td char="." align="char">77.30</td><td char="." align="char">76.89</td><td char="." align="char">13.50</td><td char="." align="char">13.74</td><td char="." align="char">1.071</td><td char="." align="char">1.07</td><td char="." align="char">0.89</td><td char="." align="char">0.96</td><td char="." align="char">0.69</td><td char="." align="char">0.71</td><td char="." align="char">&#x02212;0.15</td><td char="." align="char">&#x02212;0.18</td></tr><tr><td align="left">10</td><td char="." align="char">40</td><td char="." align="char">0.10</td><td char="." align="char">40</td><td char="." align="char">85</td><td char="." align="char">84.25</td><td char="." align="char">77.13</td><td char="." align="char">76.82</td><td char="." align="char">12.90</td><td char="." align="char">12.88</td><td char="." align="char">1.086</td><td char="." align="char">1.07</td><td char="." align="char">0.92</td><td char="." align="char">0.84</td><td char="." align="char">0.64</td><td char="." align="char">0.67</td><td char="." align="char">&#x02212;0.16</td><td char="." align="char">&#x02212;0.13</td></tr><tr><td align="left">11</td><td char="." align="char">40</td><td char="." align="char">0.01</td><td char="." align="char">120</td><td char="." align="char">80</td><td char="." align="char">80.75</td><td char="." align="char">79.43</td><td char="." align="char">79.75</td><td char="." align="char">11.40</td><td char="." align="char">11.42</td><td char="." align="char">1.041</td><td char="." align="char">1.06</td><td char="." align="char">0.87</td><td char="." align="char">0.95</td><td char="." align="char">0.66</td><td char="." align="char">0.62</td><td char="." align="char">&#x02212;0.15</td><td char="." align="char">&#x02212;0.18</td></tr><tr><td align="left">12</td><td char="." align="char">40</td><td char="." align="char">0.10</td><td char="." align="char">120</td><td char="." align="char">83</td><td char="." align="char">83.25</td><td char="." align="char">76.10</td><td char="." align="char">76.51</td><td char="." align="char">17.30</td><td char="." align="char">17.06</td><td char="." align="char">1.071</td><td char="." align="char">1.08</td><td char="." align="char">0.97</td><td char="." align="char">0.89</td><td char="." align="char">0.75</td><td char="." align="char">0.73</td><td char="." align="char">&#x02212;0.21</td><td char="." align="char">&#x02212;0.18</td></tr><tr><td align="left">13</td><td char="." align="char">40</td><td char="." align="char">0.06</td><td char="." align="char">80</td><td char="." align="char">74</td><td char="." align="char">73.80</td><td char="." align="char">29.47</td><td char="." align="char">29.29</td><td char="." align="char">32.10</td><td char="." align="char">32.36</td><td char="." align="char">1.101</td><td char="." align="char">1.10</td><td char="." align="char">2.13</td><td char="." align="char">2.31</td><td char="." align="char">3.22</td><td char="." align="char">3.21</td><td char="." align="char">&#x02212;1.40</td><td char="." align="char">&#x02212;1.21</td></tr><tr><td align="left">14</td><td char="." align="char">40</td><td char="." align="char">0.06</td><td char="." align="char">80</td><td char="." align="char">74</td><td char="." align="char">73.80</td><td char="." align="char">29.43</td><td char="." align="char">29.29</td><td char="." align="char">32.40</td><td char="." align="char">32.36</td><td char="." align="char">1.100</td><td char="." align="char">1.10</td><td char="." align="char">2.18</td><td char="." align="char">2.31</td><td char="." align="char">3.24</td><td char="." align="char">3.21</td><td char="." align="char">&#x02212;1.15</td><td char="." align="char">&#x02212;1.21</td></tr><tr><td align="left">15</td><td char="." align="char">40</td><td char="." align="char">0.06</td><td char="." align="char">80</td><td char="." align="char">74</td><td char="." align="char">73.80</td><td char="." align="char">29.03</td><td char="." align="char">29.29</td><td char="." align="char">32.10</td><td char="." align="char">32.36</td><td char="." align="char">1.086</td><td char="." align="char">1.10</td><td char="." align="char">2.51</td><td char="." align="char">2.31</td><td char="." align="char">3.13</td><td char="." align="char">3.21</td><td char="." align="char">&#x02212;1.10</td><td char="." align="char">&#x02212;1.21</td></tr><tr><td align="left">16</td><td char="." align="char">40</td><td char="." align="char">0.06</td><td char="." align="char">80</td><td char="." align="char">74</td><td char="." align="char">73.80</td><td char="." align="char">29.33</td><td char="." align="char">29.29</td><td char="." align="char">32.60</td><td char="." align="char">32.36</td><td char="." align="char">1.100</td><td char="." align="char">1.10</td><td char="." align="char">2.54</td><td char="." align="char">2.31</td><td char="." align="char">3.24</td><td char="." align="char">3.21</td><td char="." align="char">&#x02212;1.27</td><td char="." align="char">&#x02212;1.21</td></tr><tr><td align="left">17</td><td char="." align="char">40</td><td char="." align="char">0.06</td><td char="." align="char">80</td><td char="." align="char">73</td><td char="." align="char">73.80</td><td char="." align="char">29.17</td><td char="." align="char">29.29</td><td char="." align="char">32.60</td><td char="." align="char">32.36</td><td char="." align="char">1.100</td><td char="." align="char">1.10</td><td char="." align="char">2.19</td><td char="." align="char">2.31</td><td char="." align="char">3.21</td><td char="." align="char">3.21</td><td char="." align="char">&#x02212;1.13</td><td char="." align="char">&#x02212;1.21</td></tr></tbody></table></table-wrap>
+<table-wrap id="Tab3"><label>Table&#x000a0;3</label><caption><p>Box&#x02013;Behnken design: real variables and experimental responses
+(chemical parameters)</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left" rowspan="3">Exp. no.</th><th align="left" colspan="3">Coded variables</th><th align="left" colspan="8">Experimental responses</th></tr><tr><th align="left" rowspan="2">
+<italic>x</italic>
+<sub>1</sub>
+</th><th align="left" rowspan="2">
+<italic>x</italic>
+<sub>2</sub>
+</th><th align="left" rowspan="2">
+<italic>x</italic>
+<sub>3</sub>
+</th><th align="left" colspan="2">Protein (mg/g)</th><th align="left" colspan="2">Polyphenol (mg GAE/g)</th><th align="left" colspan="2">TSS (&#x000b0;B)</th><th align="left" colspan="2">Total solid (%)</th></tr><tr><th align="left">Act</th><th align="left">Pre</th><th align="left">Act</th><th align="left">Pre</th><th align="left">Act</th><th align="left">Pre</th><th align="left">Act</th><th align="left">Pre</th></tr></thead><tbody><tr><td align="left">1</td><td char="." align="char">&#x02212;1</td><td char="." align="char">&#x02212;1</td><td char="." align="char">0</td><td char="." align="char">368.02</td><td char="." align="char">375.47</td><td char="." align="char">111.34</td><td char="." align="char">110.08</td><td char="." align="char">13.00</td><td char="." align="char">13.02</td><td char="." align="char">15.64</td><td char="." align="char">15.59</td></tr><tr><td align="left">2</td><td char="." align="char">1</td><td char="." align="char">&#x02212;1</td><td char="." align="char">0</td><td char="." align="char">139.40</td><td char="." align="char">142.25</td><td char="." align="char">130.58</td><td char="." align="char">128.68</td><td char="." align="char">13.20</td><td char="." align="char">13.23</td><td char="." align="char">15.96</td><td char="." align="char">15.44</td></tr><tr><td align="left">3</td><td char="." align="char">&#x02212;1</td><td char="." align="char">1</td><td char="." align="char">0</td><td char="." align="char">394.99</td><td char="." align="char">392.14</td><td char="." align="char">119.25</td><td char="." align="char">121.14</td><td char="." align="char">13.30</td><td char="." align="char">13.17</td><td char="." align="char">15.42</td><td char="." align="char">15.45</td></tr><tr><td align="left">4</td><td char="." align="char">1</td><td char="." align="char">1</td><td char="." align="char">0</td><td char="." align="char">179.19</td><td char="." align="char">171.74</td><td char="." align="char">121.92</td><td char="." align="char">123.18</td><td char="." align="char">13.10</td><td char="." align="char">13.17</td><td char="." align="char">15.64</td><td char="." align="char">15.69</td></tr><tr><td align="left">5</td><td char="." align="char">&#x02212;1</td><td char="." align="char">0</td><td char="." align="char">&#x02212;1</td><td char="." align="char">409.30</td><td char="." align="char">403.89</td><td char="." align="char">113.81</td><td char="." align="char">111.68</td><td char="." align="char">13.20</td><td char="." align="char">13.15</td><td char="." align="char">14.66</td><td char="." align="char">14.65</td></tr><tr><td align="left">6</td><td char="." align="char">1</td><td char="." align="char">0</td><td char="." align="char">&#x02212;1</td><td char="." align="char">127.70</td><td char="." align="char">126.89</td><td char="." align="char">118.31</td><td char="." align="char">116.82</td><td char="." align="char">13.00</td><td char="." align="char">12.98</td><td char="." align="char">14.51</td><td char="." align="char">14.47</td></tr><tr><td align="left">7</td><td char="." align="char">&#x02212;1</td><td char="." align="char">0</td><td char="." align="char">1</td><td char="." align="char">356.16</td><td char="." align="char">356.97</td><td char="." align="char">116.02</td><td char="." align="char">117.52</td><td char="." align="char">13.00</td><td char="." align="char">13.03</td><td char="." align="char">14.63</td><td char="." align="char">14.68</td></tr><tr><td align="left">8</td><td char="." align="char">1</td><td char="." align="char">0</td><td char="." align="char">1</td><td char="." align="char">174.94</td><td char="." align="char">180.35</td><td char="." align="char">130.88</td><td char="." align="char">133.01</td><td char="." align="char">13.40</td><td char="." align="char">13.43</td><td char="." align="char">14.93</td><td char="." align="char">14.98</td></tr><tr><td align="left">9</td><td char="." align="char">0</td><td char="." align="char">&#x02212;1</td><td char="." align="char">&#x02212;1</td><td char="." align="char">159.09</td><td char="." align="char">157.05</td><td char="." align="char">99.44</td><td char="." align="char">102.83</td><td char="." align="char">12.40</td><td char="." align="char">12.40</td><td char="." align="char">13.99</td><td char="." align="char">14.07</td></tr><tr><td align="left">10</td><td char="." align="char">0</td><td char="." align="char">1</td><td char="." align="char">&#x02212;1</td><td char="." align="char">166.59</td><td char="." align="char">174.84</td><td char="." align="char">112.90</td><td char="." align="char">113.13</td><td char="." align="char">12.60</td><td char="." align="char">12.65</td><td char="." align="char">14.11</td><td char="." align="char">14.10</td></tr><tr><td align="left">11</td><td char="." align="char">0</td><td char="." align="char">&#x02212;1</td><td char="." align="char">1</td><td char="." align="char">163.29</td><td char="." align="char">155.03</td><td char="." align="char">121.60</td><td char="." align="char">121.37</td><td char="." align="char">12.80</td><td char="." align="char">12.75</td><td char="." align="char">14.29</td><td char="." align="char">14.30</td></tr><tr><td align="left">12</td><td char="." align="char">0</td><td char="." align="char">1</td><td char="." align="char">1</td><td char="." align="char">181.37</td><td char="." align="char">183.41</td><td char="." align="char">120.02</td><td char="." align="char">116.63</td><td char="." align="char">12.60</td><td char="." align="char">12.60</td><td char="." align="char">14.45</td><td char="." align="char">14.37</td></tr><tr><td align="left">13</td><td char="." align="char">0</td><td char="." align="char">0</td><td char="." align="char">0</td><td char="." align="char">108.18</td><td char="." align="char">106.12</td><td char="." align="char">121.47</td><td char="." align="char">118.19</td><td char="." align="char">12.40</td><td char="." align="char">12.46</td><td char="." align="char">14.05</td><td char="." align="char">14.29</td></tr><tr><td align="left">14</td><td char="." align="char">0</td><td char="." align="char">0</td><td char="." align="char">0</td><td char="." align="char">105.31</td><td char="." align="char">106.12</td><td char="." align="char">118.35</td><td char="." align="char">118.19</td><td char="." align="char">12.30</td><td char="." align="char">12.46</td><td char="." align="char">14.03</td><td char="." align="char">14.29</td></tr><tr><td align="left">15</td><td char="." align="char">0</td><td char="." align="char">0</td><td char="." align="char">0</td><td char="." align="char">107.81</td><td char="." align="char">106.12</td><td char="." align="char">117.29</td><td char="." align="char">118.19</td><td char="." align="char">12.60</td><td char="." align="char">12.46</td><td char="." align="char">14.58</td><td char="." align="char">14.29</td></tr><tr><td align="left">16</td><td char="." align="char">0</td><td char="." align="char">0</td><td char="." align="char">0</td><td char="." align="char">104.30</td><td char="." align="char">106.12</td><td char="." align="char">116.47</td><td char="." align="char">118.19</td><td char="." align="char">12.60</td><td char="." align="char">12.46</td><td char="." align="char">14.55</td><td char="." align="char">14.29</td></tr><tr><td align="left">17</td><td char="." align="char">0</td><td char="." align="char">0</td><td char="." align="char">0</td><td char="." align="char">104.99</td><td char="." align="char">106.12</td><td char="." align="char">117.38</td><td char="." align="char">118.19</td><td char="." align="char">12.40</td><td char="." align="char">12.46</td><td char="." align="char">14.23</td><td char="." align="char">14.29</td></tr></tbody></table></table-wrap>
+</p><p>Analysis of variance (ANOVA) was considered to validate the model.
+Three-dimensional plots were obtained by changing the variables, i.e., one
+variable constant at the center point and changing the other two variables within
+the experimental range. Different responses namely viscosity, turbidity, yield,
+clarity, colour, protein concentration, polyphenol, TSS, and total solid were
+selected. The model equations with the help of contour plots are used to describe
+the individual and cumulative effects on the responses.</p></sec></sec><sec id="Sec9"><title>Results and discussions</title><p>Properties of fresh Jamun juice (with no treatment) are tabulated in
+Table&#x000a0;<xref rid="Tab1" ref-type="table">1</xref>. Response Surface Methodology
+(RSM) Box&#x02013;Behnken outline was considered for enhancing the parameter for
+physico-chemical properties of Jamun juice. Effect of three variables (incubation
+time, temperature, and concentration) on the exploratory variables, i.e., physical
+properties (yield, viscosity, turbidity, clarity, and colour) and chemical
+properties (protein, polyphenol, TSS and total solid) is mentioned in
+Tables&#x000a0;<xref rid="Tab2" ref-type="table">2</xref> and <xref rid="Tab3" ref-type="table">3</xref>, separately. The analysis of variance (ANOVA) for every reactions
+demonstrated that the proposed models can clarify more than 90% trial perceptions as
+a component of independent variables. The proposed model was sufficient with
+agreeable estimations of <italic>R</italic>
+<sup>2</sup>.</p><p>The yield of the juice ranges from 73 to 85&#x000a0;ml. Table&#x000a0;<xref rid="Tab2" ref-type="table">2</xref> represents the actual and predicted values of the
+juice yield. As mentioned in Table&#x000a0;<xref rid="Tab4" ref-type="table">4</xref>
+temperature (<italic>A</italic>) (<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;0.0001) and concentration (<italic>B</italic>) (<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;0.0001) have a positive
+linear effect, whereas time (<italic>C</italic>) (<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;0.0001) has a negative linear effect. All the
+quadratic parameters possess positive effect (<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;0.001). The quadratic model obtained for regression analysis for
+yield in terms of coded levels of variables or the Jamun juice is given
+below<disp-formula id="Equc"><alternatives><tex-math id="M5">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\begin{aligned} {\text{Yield }}\left( \% \right) &#x00026; = 73.80 \, + \, 0.50A \, + \, 1.25B \, - \, 0.50C \, + \, 0.60A^{2} + \, 3.10B^{2} \\ &#x00026; \quad + 5.60C^{2} + \, 0.001AB \, - 0.50AC \, + \, 0.001BC. \\ \end{aligned}$$\end{document}</tex-math><mml:math id="M6" display="block"><mml:mrow><mml:mtable columnspacing="0.5ex"><mml:mtr><mml:mtd columnalign="right"><mml:mrow><mml:mrow><mml:mtext>Yield</mml:mtext><mml:mspace width="0.333333em"/></mml:mrow><mml:mfenced close=")" open="("><mml:mo>%</mml:mo></mml:mfenced></mml:mrow></mml:mtd><mml:mtd columnalign="left"><mml:mrow><mml:mo>=</mml:mo><mml:mn>73.80</mml:mn><mml:mspace width="0.166667em"/><mml:mo>+</mml:mo><mml:mspace width="0.166667em"/><mml:mn>0.50</mml:mn><mml:mi>A</mml:mi><mml:mspace width="0.166667em"/><mml:mo>+</mml:mo><mml:mspace width="0.166667em"/><mml:mn>1.25</mml:mn><mml:mi>B</mml:mi><mml:mspace width="0.166667em"/><mml:mo>-</mml:mo><mml:mspace width="0.166667em"/><mml:mn>0.50</mml:mn><mml:mi>C</mml:mi><mml:mspace width="0.166667em"/><mml:mo>+</mml:mo><mml:mspace width="0.166667em"/><mml:mn>0.60</mml:mn><mml:msup><mml:mi>A</mml:mi><mml:mn>2</mml:mn></mml:msup><mml:mo>+</mml:mo><mml:mspace width="0.166667em"/><mml:mn>3.10</mml:mn><mml:msup><mml:mi>B</mml:mi><mml:mn>2</mml:mn></mml:msup></mml:mrow></mml:mtd></mml:mtr><mml:mtr><mml:mtd columnalign="right"><mml:mrow/></mml:mtd><mml:mtd columnalign="left"><mml:mrow><mml:mspace width="1em"/><mml:mo>+</mml:mo><mml:mn>5.60</mml:mn><mml:msup><mml:mi>C</mml:mi><mml:mn>2</mml:mn></mml:msup><mml:mo>+</mml:mo><mml:mspace width="0.166667em"/><mml:mn>0.001</mml:mn><mml:mi>A</mml:mi><mml:mi>B</mml:mi><mml:mspace width="0.166667em"/><mml:mo>-</mml:mo><mml:mn>0.50</mml:mn><mml:mi>A</mml:mi><mml:mi>C</mml:mi><mml:mspace width="0.166667em"/><mml:mo>+</mml:mo><mml:mspace width="0.166667em"/><mml:mn>0.001</mml:mn><mml:mi>B</mml:mi><mml:mi>C</mml:mi><mml:mo>.</mml:mo></mml:mrow></mml:mtd></mml:mtr><mml:mtr><mml:mtd columnalign="right"><mml:mrow/></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:math><graphic xlink:href="13205_2016_561_Article_Equc.gif" position="anchor"/></alternatives></disp-formula>
+<table-wrap id="Tab4"><label>Table&#x000a0;4</label><caption><p>Regression coefficients and <italic>R</italic>
+<sup>2</sup> value for all dependent variables for enzymatic
+clarified Jamun Juice</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left">Regression coefficient</th><th align="left">Yield (%)</th><th align="left">Viscosity (mPaS)</th><th align="left">Turbidity (NTU)</th><th align="left">Clarity (%T)</th><th align="left">
+<italic>L</italic>
+</th><th align="left">
+<italic>a</italic>*</th><th align="left">
+<italic>b</italic>*</th><th align="left">Protein (mg/g)</th><th align="left">Polyphenol (mgGAE/g)</th><th align="left">TSS (&#x000b0;B)</th><th align="left">Total solid (%)</th></tr></thead><tbody><tr><td align="left">
+<italic>b</italic>
+<sub>0</sub>
+</td><td char="." align="char">73.80</td><td align="left">1.10</td><td char="." align="char">32.36</td><td char="." align="char">29.29</td><td char="." align="char">2.31</td><td align="left">3.21</td><td align="left">&#x02212;1.21</td><td char="." align="char">106.12</td><td char="." align="char">118.19</td><td char="." align="char">12.46</td><td align="left">14.29</td></tr><tr><td align="left">
+<italic>A</italic> (Temp.)</td><td char="." align="char">0.50</td><td align="left">&#x02212;4.6&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02212;3</sup>
+</td><td char="." align="char">14.21</td><td char="." align="char">&#x02212;2.53</td><td char="." align="char">&#x02212;0.21</td><td align="left">0.069</td><td align="left">0.012</td><td char="." align="char">&#x02212;113.40</td><td char="." align="char">5.16</td><td char="." align="char">0.050</td><td align="left">0.022</td></tr><tr><td align="left">
+<italic>B</italic> (Conc.)</td><td char="." align="char">1.25</td><td align="left">5.59&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02212;3</sup>
+</td><td char="." align="char">1.19</td><td char="." align="char">&#x02212;0.83</td><td char="." align="char">&#x02212;0.043</td><td align="left">0.018</td><td align="left">0.014</td><td char="." align="char">11.54</td><td char="." align="char">1.39</td><td char="." align="char">0.025</td><td align="left">0.027</td></tr><tr><td align="left">
+<italic>C</italic> (Time)</td><td char="." align="char">&#x02212;0.50</td><td align="left">0.001</td><td char="." align="char">0.46</td><td char="." align="char">0.64</td><td char="." align="char">0.10</td><td align="left">&#x02212;5&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02212;3</sup>
+</td><td align="left">&#x02212;0.014</td><td char="." align="char">1.64</td><td char="." align="char">5.51</td><td char="." align="char">0.075</td><td align="left">0.13</td></tr><tr><td align="left">
+<italic>A</italic>
+<sup>2</sup>
+</td><td char="." align="char">0.06</td><td align="left">6.71&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02212;3</sup>
+</td><td char="." align="char">9.68</td><td char="." align="char">17.69</td><td char="." align="char">&#x02212;0.87</td><td align="left">&#x02212;0.95</td><td align="left">0.48</td><td char="." align="char">131.86</td><td char="." align="char">4.42</td><td char="." align="char">0.62</td><td align="left">0.86</td></tr><tr><td align="left">
+<italic>B</italic>
+<sup>2</sup>
+</td><td char="." align="char">3.10</td><td align="left">&#x02212;0.016</td><td char="." align="char">&#x02212;10.12</td><td char="." align="char">24.61</td><td char="." align="char">&#x02212;0.71</td><td align="left">&#x02212;1.28</td><td align="left">0.49</td><td char="." align="char">32.42</td><td char="." align="char">&#x02212;1.84</td><td char="." align="char">0.07</td><td align="left">0.39</td></tr><tr><td align="left">
+<italic>C</italic>
+<sup>2</sup>
+</td><td char="." align="char">5.60</td><td align="left">&#x02212;0.015</td><td char="." align="char">&#x02212;8.46</td><td char="." align="char">23.59</td><td char="." align="char">&#x02212;0.69</td><td align="left">&#x02212;1.25</td><td align="left">0.55</td><td char="." align="char">29.04</td><td char="." align="char">&#x02212;2.86</td><td char="." align="char">0.07</td><td align="left">&#x02212;0.47</td></tr><tr><td align="left">
+<italic>AB</italic>
+</td><td char="." align="char">0.011</td><td align="left">&#x02212;7.4&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02212;3</sup>
+</td><td char="." align="char">&#x02212;1.81</td><td char="." align="char">1.90</td><td char="." align="char">0.13</td><td align="left">&#x02212;0.073</td><td align="left">&#x02212;0.051</td><td char="." align="char">3.20</td><td char="." align="char">&#x02212;4.14</td><td char="." align="char">&#x02212;0.05</td><td align="left">0.099</td></tr><tr><td align="left">
+<italic>AC</italic>
+</td><td char="." align="char">&#x02212;0.50</td><td align="left">3.71&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02212;3</sup>
+</td><td char="." align="char">0.70</td><td char="." align="char">&#x02212;1.75</td><td char="." align="char">&#x02212;0.025</td><td align="left">&#x02212;0.052</td><td align="left">&#x02212;8.33&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02212;4</sup>
+</td><td char="." align="char">25.09</td><td char="." align="char">2.59</td><td char="." align="char">0.15</td><td align="left">0.11</td></tr><tr><td align="left">
+<italic>BC</italic>
+</td><td char="." align="char">0.002</td><td align="left">3.72&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02212;3</sup>
+</td><td char="." align="char">1.62</td><td char="." align="char">&#x02212;0.79</td><td char="." align="char">0.016</td><td align="left">0.037</td><td align="left">&#x02212;0.013</td><td char="." align="char">2.65</td><td char="." align="char">&#x02212;3.76</td><td char="." align="char">&#x02212;0.10</td><td align="left">9.75&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02212;3</sup>
+</td></tr><tr><td align="left">
+<italic>R</italic>
+<sup>2</sup>
+</td><td char="." align="char">0.984</td><td align="left">0.870</td><td char="." align="char">0.99</td><td char="." align="char">0.997</td><td char="." align="char">0.976</td><td align="left">0.999</td><td align="left">0.98</td><td char="." align="char">0.998</td><td char="." align="char">0.9231</td><td char="." align="char">0.959</td><td align="left">0.941</td></tr></tbody></table></table-wrap>
+</p><p>The fit model was also expressed by coefficient of determination
+(<italic>R</italic>
+<sup>2</sup>) and found to be 98.4% with an adjusted <italic>R</italic>
+<sup>2</sup> value of 96.35%. From the above equation as well as
+Fig.&#x000a0;<xref rid="Fig1" ref-type="fig">1</xref>a, it is observed that with increase
+in concentration of enzyme dosage yield will also increase as it degrades the
+binding pectinase and protein bonding. Figure&#x000a0;<xref rid="Fig1" ref-type="fig">1</xref>b represents that the interaction effect of time and concentration
+has the highest effect on the yield of the Jamun juice. With a highest concentration
+of 0.1% and nominal time, i.e., 40&#x000a0;min gives the highest yield at 40&#x000a0;&#x000b0;C. Similar
+trend of data obtained by Surajbhan et al. (<xref ref-type="bibr" rid="CR25">2012</xref>).<fig id="Fig1"><label>Fig.&#x000a0;1</label><caption><p>3D Response surface plots for yield, clarity, and turbidity as a
+function of temperature and enzyme concentration (<bold>a</bold>, <bold>c</bold>, <bold>e</bold>) and enzyme concentration and time (<bold>b</bold>, <bold>d</bold>, <bold>f</bold>)</p></caption><graphic xlink:href="13205_2016_561_Fig1_HTML" id="MO4"/></fig>
+</p><p>The clarity of the juice ranges from 30 to 80% (%T).
+Table&#x000a0;<xref rid="Tab2" ref-type="table">2</xref> represents the actual as well as
+predicted values of clarity of the clarified juice. It can be observed that the
+juice clarity is minimum at the centre point of experiments. Clarity is one of the
+most important parameters for the clarified juice. Market trends shows that the
+maximum the value of the clarity, the more acceptability of the juice by the
+consumer. From Table&#x000a0;<xref rid="Tab4" ref-type="table">4</xref>, it is seen that the
+temperature (<italic>A</italic>) and enzyme concentration
+(<italic>B</italic>) have a linear negative effect, whereas time
+(<italic>C</italic>) as a positive linear effect. All the
+quadratic effects are positive in nature, but interaction terms have a negative
+effect. The regression equation for clarity of juice with respect to temperature
+(<italic>A</italic>), concentration (<italic>B</italic>), and time (<italic>C</italic>) in terms of their
+real value is given as follows:<disp-formula id="Equd"><alternatives><tex-math id="M7">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\begin{aligned} {\text{Clarity }}\left( {\% \, T} \right) &#x00026; = \, 29.29 - 2.53A \, + \, 0.83B + 0.64C + 17.69A^{2} + 24.61B^{2} \\ &#x00026; \quad + \, 23.59C^{2} + \, 1.9AB - 1.75AC - 0.79BC. \\ \end{aligned}$$\end{document}</tex-math><mml:math id="M8" display="block"><mml:mrow><mml:mtable columnspacing="0.5ex"><mml:mtr><mml:mtd columnalign="right"><mml:mrow><mml:mrow><mml:mtext>Clarity</mml:mtext><mml:mspace width="0.333333em"/></mml:mrow><mml:mfenced close=")" open="(" separators=""><mml:mrow><mml:mo>%</mml:mo><mml:mspace width="0.166667em"/><mml:mi>T</mml:mi></mml:mrow></mml:mfenced></mml:mrow></mml:mtd><mml:mtd columnalign="left"><mml:mrow><mml:mo>=</mml:mo><mml:mspace width="0.166667em"/><mml:mn>29.29</mml:mn><mml:mo>-</mml:mo><mml:mn>2.53</mml:mn><mml:mi>A</mml:mi><mml:mspace width="0.166667em"/><mml:mo>+</mml:mo><mml:mspace width="0.166667em"/><mml:mn>0.83</mml:mn><mml:mi>B</mml:mi><mml:mo>+</mml:mo><mml:mn>0.64</mml:mn><mml:mi>C</mml:mi><mml:mo>+</mml:mo><mml:mn>17.69</mml:mn><mml:msup><mml:mi>A</mml:mi><mml:mn>2</mml:mn></mml:msup><mml:mo>+</mml:mo><mml:mn>24.61</mml:mn><mml:msup><mml:mi>B</mml:mi><mml:mn>2</mml:mn></mml:msup></mml:mrow></mml:mtd></mml:mtr><mml:mtr><mml:mtd columnalign="right"><mml:mrow/></mml:mtd><mml:mtd columnalign="left"><mml:mrow><mml:mspace width="1em"/><mml:mo>+</mml:mo><mml:mspace width="0.166667em"/><mml:mn>23.59</mml:mn><mml:msup><mml:mi>C</mml:mi><mml:mn>2</mml:mn></mml:msup><mml:mo>+</mml:mo><mml:mspace width="0.166667em"/><mml:mn>1.9</mml:mn><mml:mi>A</mml:mi><mml:mi>B</mml:mi><mml:mo>-</mml:mo><mml:mn>1.75</mml:mn><mml:mi>A</mml:mi><mml:mi>C</mml:mi><mml:mo>-</mml:mo><mml:mn>0.79</mml:mn><mml:mi>B</mml:mi><mml:mi>C</mml:mi><mml:mo>.</mml:mo></mml:mrow></mml:mtd></mml:mtr><mml:mtr><mml:mtd columnalign="right"><mml:mrow/></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:math><graphic xlink:href="13205_2016_561_Article_Equd.gif" position="anchor"/></alternatives></disp-formula>
+</p><p>The coefficient of determination (<italic>R</italic>
+<sup>2</sup>) for the above equation is 0.99 which implies that the
+regression model can analyse 99% of data variability. The same trend has been
+followed where changes in the interaction affect temperature&#x02014;enzyme concentration
+Fig.&#x000a0;<xref rid="Fig1" ref-type="fig">1</xref>c and time&#x02014;temperature first
+decrease the clarity and then increase. Figure&#x000a0;<xref rid="Fig1" ref-type="fig">1</xref>d shows the time&#x02013;concentration interaction helped to obtain the
+maximum clarity as with the increasing concentration. At a certain temperature when
+the time increases, the clarification of juices will be more than the less time. At
+a lower concentration of enzyme dosage and maximum time, clarity is maximum. Similar
+trend has been noticed by Lee et al. (<xref ref-type="bibr" rid="CR11">2006</xref>) and Shah and Nath (<xref ref-type="bibr" rid="CR20">2007</xref>) for clarification of banana and litchi juice, respectively.
+Whereas Abdullah et al. (<xref ref-type="bibr" rid="CR1">2007</xref>) observed
+a different trend in clarity of carambola juice.</p><p>Turbidity ranges from 12 to 47 NTU. Turbidity is considered as one of
+the major parameter for the clarification process. The lower the value of the
+turbidity, the acceptability will be more. From Table&#x000a0;<xref rid="Tab4" ref-type="table">4</xref>, it is clearly observed that three factors temperature (<italic>A</italic>) (<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;0.0001),
+enzyme concentration (<italic>B</italic>) (<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;0.0001), and time (<italic>C</italic>)
+(<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;0.0001) all have a positive linear
+effect, but in case of quadratic terms except temperature (<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;0.001), concentration and time have negative effect (<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;0.001). The regression equation for turbidity with
+respect to temperature (<italic>A</italic>), concentration
+(<italic>B</italic>), and time (<italic>C</italic>) can be represented as:<disp-formula id="Eque"><alternatives><tex-math id="M9">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\begin{aligned} {\text{Turbidity }}\left( {\% {\text{ NTU}}} \right) &#x00026;= { 32}. 3 6 + { 14}. 2 1 {A} + { 1}. 1 9 {B} \\ &#x00026;\quad + 0. 4 6 {C} + { 9}. 6 8 {A}^{ 2} {-}{ 1}0. 1 2 {B}^{ 2} {-}{ 8}. 4 6 {C}^{ 2} \\ &#x00026;\quad - { 1}. 8 1 {AB} + \, 0. 70{AC} + { 1}. 6 3 {BC} . \end{aligned}$$\end{document}</tex-math><mml:math id="M10" display="block"><mml:mrow><mml:mtable columnspacing="0.5ex"><mml:mtr><mml:mtd columnalign="right"><mml:mrow><mml:mrow><mml:mtext>Turbidity</mml:mtext><mml:mspace width="0.333333em"/></mml:mrow><mml:mfenced close=")" open="(" separators=""><mml:mrow><mml:mo>%</mml:mo><mml:mrow><mml:mspace width="0.333333em"/><mml:mtext>NTU</mml:mtext></mml:mrow></mml:mrow></mml:mfenced></mml:mrow></mml:mtd><mml:mtd columnalign="left"><mml:mrow><mml:mo>=</mml:mo><mml:mn>32.36</mml:mn><mml:mo>+</mml:mo><mml:mn>14.21</mml:mn><mml:mi>A</mml:mi><mml:mo>+</mml:mo><mml:mn>1.19</mml:mn><mml:mi>B</mml:mi></mml:mrow></mml:mtd></mml:mtr><mml:mtr><mml:mtd columnalign="right"><mml:mrow/></mml:mtd><mml:mtd columnalign="left"><mml:mrow><mml:mspace width="1em"/><mml:mo>+</mml:mo><mml:mn>0.46</mml:mn><mml:mi>C</mml:mi><mml:mo>+</mml:mo><mml:mn>9.68</mml:mn><mml:msup><mml:mrow><mml:mi>A</mml:mi></mml:mrow><mml:mn>2</mml:mn></mml:msup><mml:mo>-</mml:mo><mml:mn>10.12</mml:mn><mml:msup><mml:mrow><mml:mi>B</mml:mi></mml:mrow><mml:mn>2</mml:mn></mml:msup><mml:mo>-</mml:mo><mml:mn>8.46</mml:mn><mml:msup><mml:mrow><mml:mi>C</mml:mi></mml:mrow><mml:mn>2</mml:mn></mml:msup></mml:mrow></mml:mtd></mml:mtr><mml:mtr><mml:mtd columnalign="right"><mml:mrow/></mml:mtd><mml:mtd columnalign="left"><mml:mrow><mml:mspace width="1em"/><mml:mo>-</mml:mo><mml:mn>1.81</mml:mn><mml:mrow><mml:mi>A</mml:mi><mml:mi>B</mml:mi></mml:mrow><mml:mo>+</mml:mo><mml:mspace width="0.166667em"/><mml:mn>0.70</mml:mn><mml:mrow><mml:mi>A</mml:mi><mml:mi>C</mml:mi></mml:mrow><mml:mo>+</mml:mo><mml:mn>1.63</mml:mn><mml:mrow><mml:mi>B</mml:mi><mml:mi>C</mml:mi></mml:mrow><mml:mo>.</mml:mo></mml:mrow></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:math><graphic xlink:href="13205_2016_561_Article_Eque.gif" position="anchor"/></alternatives></disp-formula>
+</p><p>The interaction term has no significant value. The <italic>R</italic>
+<sup>2</sup> value for the above equation is 0.99 which implies that
+the model can analyse 99% of data variability. From Fig.&#x000a0;<xref rid="Fig1" ref-type="fig">1</xref>e, it is observed that positive slope is obtained with the
+interaction effect of concentration and temperature. With the increase in
+temperature and concentration, turbidity also increases. In case of
+Fig.&#x000a0;<xref rid="Fig1" ref-type="fig">1</xref>f, interaction effect of time and
+concentration has a different trend. With respect to time as the concentration of
+enzyme increased, turbidity value also increases, but after a certain period, it
+started decreasing. Similar trend had obtained by Abdullah et al. (<xref ref-type="bibr" rid="CR1">2007</xref>) and Lee et al. (<xref ref-type="bibr" rid="CR11">2006</xref>) for clarification of carambola juice and
+banana juice with a positive linear coefficient and negative quadratic coefficients.
+Pinelo et al. (<xref ref-type="bibr" rid="CR15">2010</xref>) descried that the
+turbidity of the cherry juice clarification has a similar trend with the values of
+the recent data. The results for clarity and turbidity are supporting the data with
+each other. From the centre point, clarity is low which represents that turbidity
+will be high at that point.</p><p>It is seen from Table&#x000a0;<xref rid="Tab4" ref-type="table">4</xref> that
+the viscosity was affected by all the three parameters, such as temperature
+(<italic>A</italic>) (<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;0.0001) has a negative linear effect, and concentration
+(<italic>B</italic>) (<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;0.001) and time (<italic>C</italic>) (<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;0.001) have a positive linear effect. Quadratic
+effect is positive in case of temperature. The regression model for viscosity with
+respect to temperature (<italic>A</italic>), concentration
+(<italic>B</italic>), and time (<italic>C</italic>) can be represented as:<disp-formula id="Equf"><alternatives><tex-math id="M11">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\begin{aligned} {\text{Viscosity }}\left( {\text{mPaS}} \right) &#x00026; = \, 1.1 - 4.6 \times 10^{ - 3} A + 5.59 \times 10^{ - 3} B + 0.001C + 6.71 \times 10^{ - 3} A^{2} - 0.016B^{2} - 0.015C^{2} \\ &#x00026; \quad - 7.40 \times 10^{ - 3} AB + 3.71 \times 10^{ - 3} AC + 3.72 \times 10^{ - 3} BC. \\ \end{aligned}$$\end{document}</tex-math><mml:math id="M12" display="block"><mml:mrow><mml:mtable columnspacing="0.5ex"><mml:mtr><mml:mtd columnalign="right"><mml:mrow><mml:mrow><mml:mtext>Viscosity</mml:mtext><mml:mspace width="0.333333em"/></mml:mrow><mml:mfenced close=")" open="("><mml:mtext>mPaS</mml:mtext></mml:mfenced></mml:mrow></mml:mtd><mml:mtd columnalign="left"><mml:mrow><mml:mo>=</mml:mo><mml:mspace width="0.166667em"/><mml:mn>1.1</mml:mn><mml:mo>-</mml:mo><mml:mn>4.6</mml:mn><mml:mo>&#x000d7;</mml:mo><mml:msup><mml:mn>10</mml:mn><mml:mrow><mml:mo>-</mml:mo><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mi>A</mml:mi><mml:mo>+</mml:mo><mml:mn>5.59</mml:mn><mml:mo>&#x000d7;</mml:mo><mml:msup><mml:mn>10</mml:mn><mml:mrow><mml:mo>-</mml:mo><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mi>B</mml:mi><mml:mo>+</mml:mo><mml:mn>0.001</mml:mn><mml:mi>C</mml:mi><mml:mo>+</mml:mo><mml:mn>6.71</mml:mn><mml:mo>&#x000d7;</mml:mo><mml:msup><mml:mn>10</mml:mn><mml:mrow><mml:mo>-</mml:mo><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:msup><mml:mi>A</mml:mi><mml:mn>2</mml:mn></mml:msup><mml:mo>-</mml:mo><mml:mn>0.016</mml:mn><mml:msup><mml:mi>B</mml:mi><mml:mn>2</mml:mn></mml:msup><mml:mo>-</mml:mo><mml:mn>0.015</mml:mn><mml:msup><mml:mi>C</mml:mi><mml:mn>2</mml:mn></mml:msup></mml:mrow></mml:mtd></mml:mtr><mml:mtr><mml:mtd columnalign="right"><mml:mrow/></mml:mtd><mml:mtd columnalign="left"><mml:mrow><mml:mspace width="1em"/><mml:mo>-</mml:mo><mml:mn>7.40</mml:mn><mml:mo>&#x000d7;</mml:mo><mml:msup><mml:mn>10</mml:mn><mml:mrow><mml:mo>-</mml:mo><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mi>A</mml:mi><mml:mi>B</mml:mi><mml:mo>+</mml:mo><mml:mn>3.71</mml:mn><mml:mo>&#x000d7;</mml:mo><mml:msup><mml:mn>10</mml:mn><mml:mrow><mml:mo>-</mml:mo><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mi>A</mml:mi><mml:mi>C</mml:mi><mml:mo>+</mml:mo><mml:mn>3.72</mml:mn><mml:mo>&#x000d7;</mml:mo><mml:msup><mml:mn>10</mml:mn><mml:mrow><mml:mo>-</mml:mo><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mi>B</mml:mi><mml:mi>C</mml:mi><mml:mo>.</mml:mo></mml:mrow></mml:mtd></mml:mtr><mml:mtr><mml:mtd columnalign="right"><mml:mrow/></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:math><graphic xlink:href="13205_2016_561_Article_Equf.gif" position="anchor"/></alternatives></disp-formula>
+</p><p>The <italic>R</italic>
+<sup>2</sup> value for the above equation is 0.87 which implies that
+the regression model can analyse 87% of data variability for viscosity.
+Figure&#x000a0;<xref rid="Fig2" ref-type="fig">2</xref>a represents that as temperature
+and concentration decreases, viscosity decreases and become constant at its maximum
+level. Again from Fig.&#x000a0;<xref rid="Fig2" ref-type="fig">2</xref>a, it is seen that
+enzyme concentration is directly proportional to viscosity. Pectin forms gel
+structure which increases the viscosity at high temperature. However, at temperature
+between 30 and 40&#x000a0;&#x000b0;C, the water holding capacity of pectin is reduced which results
+in lower viscosity (Kittur et al. <xref ref-type="bibr" rid="CR8">2003</xref>).
+Figure&#x000a0;<xref rid="Fig2" ref-type="fig">2</xref>b gave a perfect concave nature of
+the graph which implies that concentration of the enzyme has the main effect on the
+viscosity of the juice.<fig id="Fig2"><label>Fig.&#x000a0;2</label><caption><p>3D Response surface plots for viscosity and protein as a function
+of temperature and enzyme concentration (<bold>a</bold>,
+<bold>c</bold>) and enzyme concentration and time
+(<bold>b</bold>, <bold>d</bold>)</p></caption><graphic xlink:href="13205_2016_561_Fig2_HTML" id="MO8"/></fig>
+</p><p>Colour is divided into three different parameters where <italic>L</italic>* value represents the lightness and darkness of the
+juice, positive <italic>a</italic>* value represents the redness
+and negative <italic>b</italic>* value represents the blueness of
+the juice. The negative the colour of the <italic>b</italic>*
+value characteristics, colour of the jamun juice can be obtained. From
+Table&#x000a0;<xref rid="Tab4" ref-type="table">4</xref>, in case of <italic>L</italic>*, temperature (<italic>A</italic>)
+(<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;0.0001) and concentration (<italic>B</italic>) (<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;0.0001)
+have a negative linear and quadratic value, whereas interaction terms (<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;0.05) are positive in nature. For <italic>a</italic>* value, temperature (<italic>A</italic>) (<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;0.0001) and
+concentration (B) (<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;0.0001) have a positive
+value, but time (C) (<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;0.0001) has a
+negative slope. The quadratic values for all the parameter (<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;0.001) possess negative value. In case of <italic>b</italic>* value, temperature (<italic>A</italic>) (<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;0.0001) and
+concentration (<italic>B</italic>) (<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;0.0001) have a positive linear effect, but time (<italic>C</italic>) (<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;0.0001) has
+a negative linear effect. All the quadratic effects (<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;0.001) are positive, but the interaction terms are (<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;0.05) are negative in nature. The regression model
+for colour is given as<disp-formula id="Equg"><alternatives><tex-math id="M13">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\begin{aligned} L* \, &#x00026; = \, 2.31 - 0.20A - 0.043B + 0.01C - 0.87A^{2} \\ &#x00026;\quad - 0.71B^{2} - 0.69C^{2} + 0.13AB - 0.02AC + 0.015BC \\ a* \, &#x00026; = \, 3.21 + 0.069A + 0.018B{-}5 \times 10^{ - 3} C - 0.95A^{2} \\ &#x00026;\quad - 1.28B^{2} - 1.25C^{2} - 0.073AB - 0.052AC - 0.037BC \\ b* \, &#x00026; = \, - 1.21 + 0.012A + 0.014B{-}0.014C + 0.48A^{2} \\ &#x00026;\quad + 0.49B^{2} + 0.55C^{2} - 0.051AB - 8.33 \times 10^{ - 4} AC \\ &#x00026;\quad - 0.013BC. \\ \end{aligned}$$\end{document}</tex-math><mml:math id="M14" display="block"><mml:mrow><mml:mtable columnspacing="0.5ex"><mml:mtr><mml:mtd columnalign="right"><mml:mrow><mml:mi>L</mml:mi><mml:mrow/><mml:mo>&#x02217;</mml:mo><mml:mspace width="0.166667em"/></mml:mrow></mml:mtd><mml:mtd columnalign="left"><mml:mrow><mml:mo>=</mml:mo><mml:mspace width="0.166667em"/><mml:mn>2.31</mml:mn><mml:mo>-</mml:mo><mml:mn>0.20</mml:mn><mml:mi>A</mml:mi><mml:mo>-</mml:mo><mml:mn>0.043</mml:mn><mml:mi>B</mml:mi><mml:mo>+</mml:mo><mml:mn>0.01</mml:mn><mml:mi>C</mml:mi><mml:mo>-</mml:mo><mml:mn>0.87</mml:mn><mml:msup><mml:mi>A</mml:mi><mml:mn>2</mml:mn></mml:msup></mml:mrow></mml:mtd></mml:mtr><mml:mtr><mml:mtd columnalign="right"><mml:mrow/></mml:mtd><mml:mtd columnalign="left"><mml:mrow><mml:mspace width="1em"/><mml:mo>-</mml:mo><mml:mn>0.71</mml:mn><mml:msup><mml:mi>B</mml:mi><mml:mn>2</mml:mn></mml:msup><mml:mo>-</mml:mo><mml:mn>0.69</mml:mn><mml:msup><mml:mi>C</mml:mi><mml:mn>2</mml:mn></mml:msup><mml:mo>+</mml:mo><mml:mn>0.13</mml:mn><mml:mi>A</mml:mi><mml:mi>B</mml:mi><mml:mo>-</mml:mo><mml:mn>0.02</mml:mn><mml:mi>A</mml:mi><mml:mi>C</mml:mi><mml:mo>+</mml:mo><mml:mn>0.015</mml:mn><mml:mi>B</mml:mi><mml:mi>C</mml:mi></mml:mrow></mml:mtd></mml:mtr><mml:mtr><mml:mtd columnalign="right"><mml:mrow><mml:mrow/><mml:mi>a</mml:mi><mml:mrow/><mml:mo>&#x02217;</mml:mo><mml:mspace width="0.166667em"/></mml:mrow></mml:mtd><mml:mtd columnalign="left"><mml:mrow><mml:mo>=</mml:mo><mml:mspace width="0.166667em"/><mml:mn>3.21</mml:mn><mml:mo>+</mml:mo><mml:mn>0.069</mml:mn><mml:mi>A</mml:mi><mml:mo>+</mml:mo><mml:mn>0.018</mml:mn><mml:mi>B</mml:mi><mml:mo>-</mml:mo><mml:mn>5</mml:mn><mml:mo>&#x000d7;</mml:mo><mml:msup><mml:mn>10</mml:mn><mml:mrow><mml:mo>-</mml:mo><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mi>C</mml:mi><mml:mo>-</mml:mo><mml:mn>0.95</mml:mn><mml:msup><mml:mi>A</mml:mi><mml:mn>2</mml:mn></mml:msup></mml:mrow></mml:mtd></mml:mtr><mml:mtr><mml:mtd columnalign="right"><mml:mrow/></mml:mtd><mml:mtd columnalign="left"><mml:mrow><mml:mspace width="1em"/><mml:mo>-</mml:mo><mml:mn>1.28</mml:mn><mml:msup><mml:mi>B</mml:mi><mml:mn>2</mml:mn></mml:msup><mml:mo>-</mml:mo><mml:mn>1.25</mml:mn><mml:msup><mml:mi>C</mml:mi><mml:mn>2</mml:mn></mml:msup><mml:mo>-</mml:mo><mml:mn>0.073</mml:mn><mml:mi>A</mml:mi><mml:mi>B</mml:mi><mml:mo>-</mml:mo><mml:mn>0.052</mml:mn><mml:mi>A</mml:mi><mml:mi>C</mml:mi><mml:mo>-</mml:mo><mml:mn>0.037</mml:mn><mml:mi>B</mml:mi><mml:mi>C</mml:mi></mml:mrow></mml:mtd></mml:mtr><mml:mtr><mml:mtd columnalign="right"><mml:mrow><mml:mrow/><mml:mi>b</mml:mi><mml:mrow/><mml:mo>&#x02217;</mml:mo><mml:mspace width="0.166667em"/></mml:mrow></mml:mtd><mml:mtd columnalign="left"><mml:mrow><mml:mo>=</mml:mo><mml:mspace width="0.166667em"/><mml:mo>-</mml:mo><mml:mn>1.21</mml:mn><mml:mo>+</mml:mo><mml:mn>0.012</mml:mn><mml:mi>A</mml:mi><mml:mo>+</mml:mo><mml:mn>0.014</mml:mn><mml:mi>B</mml:mi><mml:mo>-</mml:mo><mml:mn>0.014</mml:mn><mml:mi>C</mml:mi><mml:mo>+</mml:mo><mml:mn>0.48</mml:mn><mml:msup><mml:mi>A</mml:mi><mml:mn>2</mml:mn></mml:msup></mml:mrow></mml:mtd></mml:mtr><mml:mtr><mml:mtd columnalign="right"><mml:mrow/></mml:mtd><mml:mtd columnalign="left"><mml:mrow><mml:mspace width="1em"/><mml:mo>+</mml:mo><mml:mn>0.49</mml:mn><mml:msup><mml:mi>B</mml:mi><mml:mn>2</mml:mn></mml:msup><mml:mo>+</mml:mo><mml:mn>0.55</mml:mn><mml:msup><mml:mi>C</mml:mi><mml:mn>2</mml:mn></mml:msup><mml:mo>-</mml:mo><mml:mn>0.051</mml:mn><mml:mi>A</mml:mi><mml:mi>B</mml:mi><mml:mo>-</mml:mo><mml:mn>8.33</mml:mn><mml:mo>&#x000d7;</mml:mo><mml:msup><mml:mn>10</mml:mn><mml:mrow><mml:mo>-</mml:mo><mml:mn>4</mml:mn></mml:mrow></mml:msup><mml:mi>A</mml:mi><mml:mi>C</mml:mi></mml:mrow></mml:mtd></mml:mtr><mml:mtr><mml:mtd columnalign="right"><mml:mrow/></mml:mtd><mml:mtd columnalign="left"><mml:mrow><mml:mspace width="1em"/><mml:mo>-</mml:mo><mml:mn>0.013</mml:mn><mml:mi>B</mml:mi><mml:mi>C</mml:mi><mml:mo>.</mml:mo></mml:mrow></mml:mtd></mml:mtr><mml:mtr><mml:mtd columnalign="right"><mml:mrow/></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:math><graphic xlink:href="13205_2016_561_Article_Equg.gif" position="anchor"/></alternatives></disp-formula>
+</p><p>The <italic>R</italic>
+<sup>2</sup> value for <italic>L</italic>*,
+<italic>a</italic>*, and <italic>b</italic>*
+equations is 0.97, 0.99, and 0.98, respectively which implies that the model can
+analyse 97, 99, and 98% of data variability. From Fig.&#x000a0;<xref rid="Fig3" ref-type="fig">3</xref>a, as the increase in concentration and temperature, there is no
+significant changes in value, but in a combined effect, L* value decreases
+significantly. The same trend is observed from Fig.&#x000a0;<xref rid="Fig3" ref-type="fig">3</xref>b, so it can be concluded that time has a positive trend which can
+increase lightness of the clarified juice. This result can be justified by the
+results obtained from the clarity values. Similar trend in the <italic>L</italic>* value is obtained by Abdullah et al. (<xref ref-type="bibr" rid="CR1">2007</xref>). In case of <italic>a</italic>* value from Fig.&#x000a0;<xref rid="Fig3" ref-type="fig">3</xref>c, as the
+temperature and concentration increased at first, the value of<italic> a</italic>* will increase and then it hinders. With the
+combination of both the value decreases. The highest value for the redness obtained
+at the centre point with a value of 3.24. For <italic>b</italic>*
+value Fig.&#x000a0;<xref rid="Fig3" ref-type="fig">3</xref>e, f shows that with respect of
+independent variables, the value decreases up to 0.06% concentration, 40&#x000a0;&#x000b0;C
+temperature, and 80&#x000a0;min, and then the value shoots up. The more negative the value,
+the original colour of Jamun juice can be obtained. The most negative value obtained
+at the centre point with &#x02212;1.4.<fig id="Fig3"><label>Fig.&#x000a0;3</label><caption><p>3D Response surface plots for colour values (<italic>L</italic>*, <italic>a</italic>*,
+<italic>b</italic>*) as a function of temperature and
+enzyme concentration (<bold>a</bold>, <bold>c</bold>, <bold>e</bold>) and enzyme
+concentration and time (<bold>b</bold>, <bold>d</bold>, <bold>f</bold>)</p></caption><graphic xlink:href="13205_2016_561_Fig3_HTML" id="MO10"/></fig>
+</p><p>Denaturation of protein&#x02013;pectin bond is one of the major process
+mechanisms for the clarification of the juice. Increase of the amount of protein in
+the clarified juice signifies a proper clarification process. Ranges of protein
+content is in between 105 and 409&#x000a0;mg/g. Table&#x000a0;<xref rid="Tab4" ref-type="table">4</xref> signifies that only temperature (<italic>A</italic>) (<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;0.0001) has a linear
+negative effect, whereas time (<italic>C</italic>) and enzyme
+concentration (<italic>B</italic>) (<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;0.0001) have positive linear slope. The quadratic terms
+(<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;0.001) also have a positive effect with
+a positive interaction effect. The regression model representing the effect of
+temperature, enzymatic concentration, and time on Jamun juice in terms of their real
+value is given as<disp-formula id="Equh"><alternatives><tex-math id="M15">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\begin{aligned} {\text{Protein}}\left( {{\text{mg}}/{\text{g}}} \right) &#x00026; = 106.12{-}113.4A + 11.54B{-}1.64C \\ &#x00026;\quad {-}131.86A^{2} + 32.42B^{2} - 29.04C^{2} \\ &#x00026; \quad {-}3.20AB + 25.09AC - 2.65BC. \\ \end{aligned}$$\end{document}</tex-math><mml:math id="M16" display="block"><mml:mrow><mml:mtable columnspacing="0.5ex"><mml:mtr><mml:mtd columnalign="right"><mml:mrow><mml:mtext>Protein</mml:mtext><mml:mfenced close=")" open="(" separators=""><mml:mrow><mml:mtext>mg</mml:mtext><mml:mo stretchy="false">/</mml:mo><mml:mtext>g</mml:mtext></mml:mrow></mml:mfenced></mml:mrow></mml:mtd><mml:mtd columnalign="left"><mml:mrow><mml:mo>=</mml:mo><mml:mn>106.12</mml:mn><mml:mo>-</mml:mo><mml:mn>113.4</mml:mn><mml:mi>A</mml:mi><mml:mo>+</mml:mo><mml:mn>11.54</mml:mn><mml:mi>B</mml:mi><mml:mo>-</mml:mo><mml:mn>1.64</mml:mn><mml:mi>C</mml:mi></mml:mrow></mml:mtd></mml:mtr><mml:mtr><mml:mtd columnalign="right"><mml:mrow/></mml:mtd><mml:mtd columnalign="left"><mml:mrow><mml:mspace width="1em"/><mml:mo>-</mml:mo><mml:mn>131.86</mml:mn><mml:msup><mml:mi>A</mml:mi><mml:mn>2</mml:mn></mml:msup><mml:mo>+</mml:mo><mml:mn>32.42</mml:mn><mml:msup><mml:mi>B</mml:mi><mml:mn>2</mml:mn></mml:msup><mml:mo>-</mml:mo><mml:mn>29.04</mml:mn><mml:msup><mml:mi>C</mml:mi><mml:mn>2</mml:mn></mml:msup></mml:mrow></mml:mtd></mml:mtr><mml:mtr><mml:mtd columnalign="right"><mml:mrow/></mml:mtd><mml:mtd columnalign="left"><mml:mrow><mml:mspace width="1em"/><mml:mo>-</mml:mo><mml:mn>3.20</mml:mn><mml:mi>A</mml:mi><mml:mi>B</mml:mi><mml:mo>+</mml:mo><mml:mn>25.09</mml:mn><mml:mi>A</mml:mi><mml:mi>C</mml:mi><mml:mo>-</mml:mo><mml:mn>2.65</mml:mn><mml:mi>B</mml:mi><mml:mi>C</mml:mi><mml:mo>.</mml:mo></mml:mrow></mml:mtd></mml:mtr><mml:mtr><mml:mtd columnalign="right"><mml:mrow/></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:math><graphic xlink:href="13205_2016_561_Article_Equh.gif" position="anchor"/></alternatives></disp-formula>
+</p><p>The coefficient of determination (<italic>R</italic>
+<sup>2</sup>) for the fit model was determined as 0.99 which
+indicates that the regression model is able to explain 99% of the variability of the
+data. Figure&#x000a0;<xref rid="Fig2" ref-type="fig">2</xref>c shows that as the
+temperature increases, amount of protein decreases but when the concentration of
+enzymatic dosage goes up amount of protein content increases. As the enzyme used in
+this study obtained from a strain, <italic>Aspergillus
+aculeatus</italic> has a particular effective time zone where it can give its
+best result. Figure&#x000a0;<xref rid="Fig2" ref-type="fig">2</xref>d shows that time has a
+positive slope but not significant. Therefore, it can be concluded that
+concentration of the enzyme has the maximum effect on the protein amount and then
+time also has a significant role. At lowest temperature 30&#x000a0;&#x000b0;C with 0.06%
+concentration with 40&#x000a0;min treatment time, maximum retention of the protein content
+409.30&#x000a0;mg/g had obtained.</p><p>Phenol is one of the major components in Jamun with the effect of
+enzyme concentration and time&#x02013;temperature effect. Extraction of phenol content
+increases in the clarified juice. As the clarification process varies with the
+parameters, the amount of polyphenol ranges between 99 and 130&#x000a0;mgGAE/g. In case of
+polyphenol, all the independent parameter temperature (<italic>A</italic>) (<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;0.0001), enzyme
+concentration (<italic>B</italic>), and time (<italic>C</italic>) (<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;0.0001)
+have positive linear effect with a negative quadratic effect for enzyme
+concentration (<italic>B</italic>) and time (<italic>C</italic>) (<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;0.001). The
+interaction effects are also negative (<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;0.05). The regression model for polyphenol with the coded value
+can be represented as<disp-formula id="Equi"><alternatives><tex-math id="M17">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\begin{aligned} &#x00026;{\text{Polyphenol}}\left( {{\text{mg GAE}}/{\text{g}}} \right)\\ &#x00026;\quad = 118.19 + 5.16A + 1.39B \\ &#x00026;\qquad + 5.51C + 4.42A^{2} - 1.84B^{2} \\ &#x00026; \qquad - 2.8C^{2} - 4.14AB + 2.59AC - 3.76BC. \\ \end{aligned}$$\end{document}</tex-math><mml:math id="M18" display="block"><mml:mrow><mml:mtable columnspacing="0.5ex"><mml:mtr><mml:mtd/><mml:mtd columnalign="left"><mml:mrow><mml:mtext>Polyphenol</mml:mtext><mml:mfenced close=")" open="(" separators=""><mml:mrow><mml:mrow><mml:mtext>mg GAE</mml:mtext></mml:mrow><mml:mo stretchy="false">/</mml:mo><mml:mtext>g</mml:mtext></mml:mrow></mml:mfenced></mml:mrow></mml:mtd></mml:mtr><mml:mtr><mml:mtd columnalign="right"><mml:mrow/></mml:mtd><mml:mtd columnalign="left"><mml:mrow><mml:mspace width="1em"/><mml:mo>=</mml:mo><mml:mn>118.19</mml:mn><mml:mo>+</mml:mo><mml:mn>5.16</mml:mn><mml:mi>A</mml:mi><mml:mo>+</mml:mo><mml:mn>1.39</mml:mn><mml:mi>B</mml:mi></mml:mrow></mml:mtd></mml:mtr><mml:mtr><mml:mtd columnalign="right"><mml:mrow/></mml:mtd><mml:mtd columnalign="left"><mml:mrow><mml:mspace width="2em"/><mml:mo>+</mml:mo><mml:mn>5.51</mml:mn><mml:mi>C</mml:mi><mml:mo>+</mml:mo><mml:mn>4.42</mml:mn><mml:msup><mml:mi>A</mml:mi><mml:mn>2</mml:mn></mml:msup><mml:mo>-</mml:mo><mml:mn>1.84</mml:mn><mml:msup><mml:mi>B</mml:mi><mml:mn>2</mml:mn></mml:msup></mml:mrow></mml:mtd></mml:mtr><mml:mtr><mml:mtd columnalign="right"><mml:mrow/></mml:mtd><mml:mtd columnalign="left"><mml:mrow><mml:mspace width="2em"/><mml:mo>-</mml:mo><mml:mn>2.8</mml:mn><mml:msup><mml:mi>C</mml:mi><mml:mn>2</mml:mn></mml:msup><mml:mo>-</mml:mo><mml:mn>4.14</mml:mn><mml:mi>A</mml:mi><mml:mi>B</mml:mi><mml:mo>+</mml:mo><mml:mn>2.59</mml:mn><mml:mi>A</mml:mi><mml:mi>C</mml:mi><mml:mo>-</mml:mo><mml:mn>3.76</mml:mn><mml:mi>B</mml:mi><mml:mi>C</mml:mi><mml:mo>.</mml:mo></mml:mrow></mml:mtd></mml:mtr><mml:mtr><mml:mtd columnalign="right"><mml:mrow/></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:math><graphic xlink:href="13205_2016_561_Article_Equi.gif" position="anchor"/></alternatives></disp-formula>
+</p><p>The values for coefficient of determination (<italic>R</italic>
+<sup>2</sup>) are 0.92, which indicates that the regression model is
+able to explain 92% of variability of the polyphenol concentration of the Jamun
+juice. Figure&#x000a0;<xref rid="Fig4" ref-type="fig">4</xref>a shows that enhancing of
+concentration and temperature will also enhance the polyphenol value, but in
+combined interaction, the value increases up to a level and then follows the
+decreasing trend. From Fig.&#x000a0;<xref rid="Fig4" ref-type="fig">4</xref>b, combined
+effect of enzyme concentration and time has negative effect. Increasing of time and
+temperature will increase the polyphenol content and interaction effect will
+increase the polyphenol value at its maximum which signifies the coefficient of
+interaction value of <italic>A</italic> and <italic>C</italic> is positive. Therefore, it can be conclude that
+time&#x02013;temperature effect is playing the major role in case of polyphenol activities.
+At 50&#x000a0;&#x000b0;C with 0.06% concentration and 120&#x000a0;min incubation time, highest polyphenol
+content can be obtained 130.8&#x000a0;mgGAE/g.<fig id="Fig4"><label>Fig.&#x000a0;4</label><caption><p>3D Response surface plots for polyphenol, TSS, and total solid as
+a function of temperature and enzyme concentration (<bold>a</bold>, <bold>c</bold>, <bold>e</bold>) and enzyme concentration and time (<bold>b</bold>, <bold>d</bold>, <bold>f</bold>)</p></caption><graphic xlink:href="13205_2016_561_Fig4_HTML" id="MO13"/></fig>
+</p><p>Total soluble solid or sugar present in the juice will be another
+important nutritional parameter for the clarified process. Table&#x000a0;<xref rid="Tab4" ref-type="table">4</xref> clearly shows that temperature (<italic>A</italic>), enzyme concentration (<italic>B</italic>), and time (<italic>C</italic>) (<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;0.0001) have positive linear effect with a
+positive quadratic effect. The interaction effects are negative (<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;0.05) at significant level. The regression model
+for TSS with the coded value can be represented as<disp-formula id="Equj"><alternatives><tex-math id="M19">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\begin{aligned} {\text{TSS }}\left( {^{ \circ } {\text{B}}} \right) &#x00026;= 12.46 + 0.05A + 0.025B + 0.075C + 0.62A^{2} \\ &#x00026; \quad + 0.07B^{2} + 0.71C^{2} - 0.05AB + 0.15AC - 0.10BC. \\ \end{aligned}$$\end{document}</tex-math><mml:math id="M20" display="block"><mml:mrow><mml:mtable columnspacing="0.5ex"><mml:mtr><mml:mtd columnalign="right"><mml:mrow><mml:mrow><mml:mtext>TSS</mml:mtext><mml:mspace width="0.333333em"/></mml:mrow><mml:mfenced close=")" open="(" separators=""><mml:mrow><mml:msup><mml:mrow/><mml:mo>&#x02218;</mml:mo></mml:msup><mml:mtext>B</mml:mtext></mml:mrow></mml:mfenced></mml:mrow></mml:mtd><mml:mtd columnalign="left"><mml:mrow><mml:mo>=</mml:mo><mml:mn>12.46</mml:mn><mml:mo>+</mml:mo><mml:mn>0.05</mml:mn><mml:mi>A</mml:mi><mml:mo>+</mml:mo><mml:mn>0.025</mml:mn><mml:mi>B</mml:mi><mml:mo>+</mml:mo><mml:mn>0.075</mml:mn><mml:mi>C</mml:mi><mml:mo>+</mml:mo><mml:mn>0.62</mml:mn><mml:msup><mml:mi>A</mml:mi><mml:mn>2</mml:mn></mml:msup></mml:mrow></mml:mtd></mml:mtr><mml:mtr><mml:mtd columnalign="right"><mml:mrow/></mml:mtd><mml:mtd columnalign="left"><mml:mrow><mml:mspace width="1em"/><mml:mo>+</mml:mo><mml:mn>0.07</mml:mn><mml:msup><mml:mi>B</mml:mi><mml:mn>2</mml:mn></mml:msup><mml:mo>+</mml:mo><mml:mn>0.71</mml:mn><mml:msup><mml:mi>C</mml:mi><mml:mn>2</mml:mn></mml:msup><mml:mo>-</mml:mo><mml:mn>0.05</mml:mn><mml:mi>A</mml:mi><mml:mi>B</mml:mi><mml:mo>+</mml:mo><mml:mn>0.15</mml:mn><mml:mi>A</mml:mi><mml:mi>C</mml:mi><mml:mo>-</mml:mo><mml:mn>0.10</mml:mn><mml:mi>B</mml:mi><mml:mi>C</mml:mi><mml:mo>.</mml:mo></mml:mrow></mml:mtd></mml:mtr><mml:mtr><mml:mtd columnalign="right"><mml:mrow/></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:math><graphic xlink:href="13205_2016_561_Article_Equj.gif" position="anchor"/></alternatives></disp-formula>
+</p><p>The values for coefficient of determination (<italic>R</italic>
+<sup>2</sup>) are 0.95, which indicates that the model can explain
+95% of variability of the TSS of the Jamun juice. From Fig.&#x000a0;<xref rid="Fig4" ref-type="fig">4</xref>c, a perfect convex quadratic curve has obtained where
+increase in concentration enhances the values of the TSS, but temperature acts first
+in a decreasing trend, then it increases up. From Fig.&#x000a0;<xref rid="Fig4" ref-type="fig">4</xref>d, it can conclude that time has a positive inclination on TSS
+values, whereas interaction effect of time and concentration of enzyme has almost a
+linear trend. Concentration and temperature play the major roles in changing the TSS
+value. At a temperature of 40&#x000a0;&#x000b0;C with 0.01% concentration, TSS value is minimum
+12.4&#x000a0;&#x000b0;B.</p><p>Clarified juice should contain less amount of total solid. Therefore,
+measurement of total solid can quantify the process of clarification. The ranges of
+total solid content in the experimental setup were 13.9&#x02013;15.6%. From
+Table&#x000a0;<xref rid="Tab4" ref-type="table">4</xref>, it is clearly visible that
+temperature (<italic>A</italic>), enzyme concentration (<italic>B</italic>), and time (<italic>C</italic>)
+(<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;0.0001) have positive linear effect,
+and in case of quadratic effect, time (<italic>C</italic>)
+(<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;0.0001) has negative trend. Interaction
+effects also have positive impact. The regression model for total solid with the
+coded value can be represent as<disp-formula id="Equk"><alternatives><tex-math id="M21">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\begin{aligned} &#x00026;{\text{Total solid }}\left( \% \right) \\ &#x00026;\quad = 14.29 + 0.022A + 0.027B + 0.13C + 0.86A^{2} + 0.39B^{2} \\ &#x00026; \qquad - 0.47C^{2} + 0.099AB + 0.11AC + 9.75 \times 10^{ - 3} BC. \\ \end{aligned}$$\end{document}</tex-math><mml:math id="M22" display="block"><mml:mrow><mml:mtable columnspacing="0.5ex"><mml:mtr><mml:mtd/><mml:mtd columnalign="left"><mml:mrow><mml:mrow><mml:mtext>Total solid</mml:mtext><mml:mspace width="0.333333em"/></mml:mrow><mml:mfenced close=")" open="("><mml:mo>%</mml:mo></mml:mfenced></mml:mrow></mml:mtd></mml:mtr><mml:mtr><mml:mtd columnalign="right"><mml:mrow/></mml:mtd><mml:mtd columnalign="left"><mml:mrow><mml:mspace width="1em"/><mml:mo>=</mml:mo><mml:mn>14.29</mml:mn><mml:mo>+</mml:mo><mml:mn>0.022</mml:mn><mml:mi>A</mml:mi><mml:mo>+</mml:mo><mml:mn>0.027</mml:mn><mml:mi>B</mml:mi><mml:mo>+</mml:mo><mml:mn>0.13</mml:mn><mml:mi>C</mml:mi><mml:mo>+</mml:mo><mml:mn>0.86</mml:mn><mml:msup><mml:mi>A</mml:mi><mml:mn>2</mml:mn></mml:msup><mml:mo>+</mml:mo><mml:mn>0.39</mml:mn><mml:msup><mml:mi>B</mml:mi><mml:mn>2</mml:mn></mml:msup></mml:mrow></mml:mtd></mml:mtr><mml:mtr><mml:mtd columnalign="right"><mml:mrow/></mml:mtd><mml:mtd columnalign="left"><mml:mrow><mml:mspace width="2em"/><mml:mo>-</mml:mo><mml:mn>0.47</mml:mn><mml:msup><mml:mi>C</mml:mi><mml:mn>2</mml:mn></mml:msup><mml:mo>+</mml:mo><mml:mn>0.099</mml:mn><mml:mi>A</mml:mi><mml:mi>B</mml:mi><mml:mo>+</mml:mo><mml:mn>0.11</mml:mn><mml:mi>A</mml:mi><mml:mi>C</mml:mi><mml:mo>+</mml:mo><mml:mn>9.75</mml:mn><mml:mo>&#x000d7;</mml:mo><mml:msup><mml:mn>10</mml:mn><mml:mrow><mml:mo>-</mml:mo><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mi>B</mml:mi><mml:mi>C</mml:mi><mml:mo>.</mml:mo></mml:mrow></mml:mtd></mml:mtr><mml:mtr><mml:mtd columnalign="right"><mml:mrow/></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:math><graphic xlink:href="13205_2016_561_Article_Equk.gif" position="anchor"/></alternatives></disp-formula>
+</p><p>The coefficient of determination (<italic>R</italic>
+<sup>2</sup>) is 0.94, which indicates that the model can explain
+94% of variability of the total solid content of the Jamun juice. From
+Fig.&#x000a0;<xref rid="Fig4" ref-type="fig">4</xref>e, it can be said that concentration
+of enzyme has a direct positive approach where in case of temperature, total solid
+value decreases up to 40&#x000a0;&#x000b0;C and then it increases again. As the time increases, the
+value of TS enhances, but interaction of time&#x02013;temperature combination decreases the
+total solid in the mid ranges. Coagulation of protein polyphenol takes place at this
+time. From Fig.&#x000a0;<xref rid="Fig4" ref-type="fig">4</xref>f, it can be concluded that
+interaction effect of time and concentration has a negative approach to the TS. The
+least value for the TS (13.9%) obtained at 40&#x000a0;&#x000b0;C with 0.01% concentration at 40&#x000a0;min
+of time.</p></sec><sec id="Sec10"><title>Conclusion</title><p>The optimum conditions for clarification and extractions were
+determined on the basis of high yield percent, <italic>L</italic>*
+value, <italic>a</italic>* value, protein, and polyphenol content
+and lower values for turbidity, viscosity, clarity, <italic>b</italic>* value, TSS, and total solid content. According to the
+optimised-dependent parameters, the incubation temperature should be 40&#x000a0;&#x000b0;C with
+80&#x000a0;min and the concentration of enzyme will be 0.05% (w/v). At the optimised
+condition, the value of major parameters was turbidity: 32.21 NTU; clarity: 74.39%
+T; viscosity: 1.07 mPaS; polyphenol: 115.31&#x000a0;mg GAE/g; protein: 102.43&#x000a0;mg/g; yield:
+75%; TSS: 12.4&#x000a0;&#x000b0;B; total solid: 13.97%; <italic>L</italic>*: 2.34;
+<italic>a</italic>*: 3.25, <italic>b</italic>*: &#x02212;1.30. For the clarification process, 3D contour plots with the help
+of RSM signify better understanding of the results.</p></sec></body><back><notes notes-type="COI-statement"><title>Compliance with ethical standards</title><sec id="FPar1"><title>Conflict of interest</title><p>The authors declare that there is no conflict of interest on
+publication of this article.</p></sec></notes><ref-list id="Bib1"><title>References</title><ref id="CR1"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Abdullah</surname><given-names>AL</given-names></name><name><surname>Sulaiman</surname><given-names>NM</given-names></name><name><surname>Aroua</surname><given-names>MK</given-names></name><name><surname>Noor</surname><given-names>MMM</given-names></name></person-group><article-title>Response surface optimization of conditions for
+clarification of carambola fruit juice using a commercial enzyme</article-title><source>J Food Eng</source><year>2007</year><volume>81</volume><issue>1</issue><fpage>65</fpage><lpage>71</lpage><pub-id pub-id-type="doi">10.1016/j.jfoodeng.2006.10.013</pub-id></element-citation></ref><ref id="CR2"><mixed-citation publication-type="other">Bas D, Boyaci IH (2007) Modeling and optimization I: usability of
+response surface methodology. J Food Eng 78(5):836&#x02013;845</mixed-citation></ref><ref id="CR001"><mixed-citation publication-type="other">Benherlal PS (2010) Investigation on bioactive phytochemicals of
+jamun (Syzygium cumini) fruit. Dissertation, Coachin University of Science and
+Technology, Thiruvanthapuram, Kerala, India</mixed-citation></ref><ref id="CR3"><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Box</surname><given-names>GEP</given-names></name><name><surname>Draper</surname><given-names>NR</given-names></name></person-group><source>Empirical model-building and response surfaces</source><year>1987</year><publisher-loc>New York</publisher-loc><publisher-name>Wiley</publisher-name></element-citation></ref><ref id="CR4"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Domingues</surname><given-names>RCC</given-names></name><name><surname>Junior</surname><given-names>SBF</given-names></name><name><surname>Silva</surname><given-names>RB</given-names></name><name><surname>Cardoso</surname><given-names>VL</given-names></name><name><surname>Reis</surname><given-names>MHM</given-names></name></person-group><article-title>Clarification of passion fruit juice with chitosan:
+Effects of coagulation process variables and comparison with centrifugation and
+enzymatic treatments</article-title><source>Process Biochem</source><year>2012</year><volume>47</volume><issue>3</issue><fpage>467</fpage><lpage>471</lpage><pub-id pub-id-type="doi">10.1016/j.procbio.2011.12.002</pub-id></element-citation></ref><ref id="CR5"><mixed-citation publication-type="other">Ghosh P, Pradhan RC, Mishra S (2016) Low&#x02010;temperature extraction of
+Jamun juice (Indian Black Berry) and optimization of enzymatic clarification using
+Box&#x02010;Behnken design.&#x000a0;J Food Proc Eng (<bold>in press)</bold></mixed-citation></ref><ref id="CR6"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Jabeen</surname><given-names>K</given-names></name><name><surname>Javaid</surname><given-names>A</given-names></name></person-group><article-title>Antifungal activity of Syzygiumcumini against
+Ascochytarabiei&#x02014;the cause of chickpea blight</article-title><source>Nat Prod Res</source><year>2010</year><volume>24</volume><issue>12</issue><fpage>1158</fpage><lpage>1167</lpage><pub-id pub-id-type="doi">10.1080/14786410902941154</pub-id><pub-id pub-id-type="pmid">19588279</pub-id></element-citation></ref><ref id="CR8"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kittur</surname><given-names>FS</given-names></name><name><surname>Kumar</surname><given-names>ABV</given-names></name><name><surname>Tharanathan</surname><given-names>RN</given-names></name></person-group><article-title>Low molecular weight chitosans&#x02014;preparation by
+depolymerization with <italic>Aspergillus niger</italic>
+pectinase, and characterization</article-title><source>Carbohydr Res</source><year>2003</year><volume>338</volume><issue>12</issue><fpage>1283</fpage><lpage>1290</lpage><pub-id pub-id-type="doi">10.1016/S0008-6215(03)00175-7</pub-id><pub-id pub-id-type="pmid">12791281</pub-id></element-citation></ref><ref id="CR9"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Landbo</surname><given-names>AK</given-names></name><name><surname>Meyer</surname><given-names>AS</given-names></name></person-group><article-title>Effects of different enzymatic maceration treatments
+on enhancement of anthocyanins and other phenolics in black currant
+juice</article-title><source>Innov Food Sci Emerg Technol</source><year>2004</year><volume>5</volume><issue>4</issue><fpage>503</fpage><lpage>513</lpage><pub-id pub-id-type="doi">10.1016/j.ifset.2004.08.003</pub-id></element-citation></ref><ref id="CR10"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Landbo</surname><given-names>AK</given-names></name><name><surname>Kaack</surname><given-names>K</given-names></name><name><surname>Meyer</surname><given-names>AS</given-names></name></person-group><article-title>Statistically designed two step response surface
+optimization of enzymatic prepress treatment to increase juice yield and lower
+turbidity of elderberry juice</article-title><source>Innov Food Sci Emerg Technol</source><year>2007</year><volume>8</volume><issue>1</issue><fpage>135</fpage><lpage>142</lpage><pub-id pub-id-type="doi">10.1016/j.ifset.2006.08.006</pub-id></element-citation></ref><ref id="CR11"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lee</surname><given-names>WC</given-names></name><name><surname>Yusof</surname><given-names>S</given-names></name><name><surname>Hamid</surname><given-names>NSA</given-names></name><name><surname>Baharin</surname><given-names>BS</given-names></name></person-group><article-title>Optimizing conditions for enzymatic clarification of
+banana juice using response surface methodology (RSM)</article-title><source>J Food Eng</source><year>2006</year><volume>73</volume><fpage>55</fpage><lpage>63</lpage><pub-id pub-id-type="doi">10.1016/j.jfoodeng.2005.01.005</pub-id></element-citation></ref><ref id="CR12"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lowry</surname><given-names>OH</given-names></name><name><surname>Rosebroughi</surname><given-names>NJ</given-names></name><name><surname>Farr</surname><given-names>AL</given-names></name><name><surname>All</surname><given-names>RJ</given-names></name></person-group><article-title>Protein measurement with the folin phenol
+reagent</article-title><source>J Biol Chem</source><year>1951</year><volume>193</volume><fpage>265</fpage><lpage>275</lpage><pub-id pub-id-type="pmid">14907713</pub-id></element-citation></ref><ref id="CR13"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mahesh</surname><given-names>B</given-names></name><name><surname>Satish</surname><given-names>S</given-names></name></person-group><article-title>Antimicrobial activity of some important medicinal
+plant against plant and human pathogens</article-title><source>World J Agric Sci</source><year>2008</year><volume>4</volume><issue>5</issue><fpage>839</fpage><lpage>843</lpage></element-citation></ref><ref id="CR14"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Maktouf</surname><given-names>S</given-names></name><name><surname>Neifar</surname><given-names>M</given-names></name><name><surname>Drira</surname><given-names>SJ</given-names></name><name><surname>Baklouti</surname><given-names>S</given-names></name><name><surname>Fendri</surname><given-names>M</given-names></name><name><surname>Ch&#x000e2;abouni</surname><given-names>SE</given-names></name></person-group><article-title>Lemon juice clarification using fungal pectinolytic
+enzymes coupled to membrane ultrafiltration</article-title><source>Food Bioprod Process</source><year>2014</year><volume>92</volume><issue>1</issue><fpage>14</fpage><lpage>19</lpage><pub-id pub-id-type="doi">10.1016/j.fbp.2013.07.003</pub-id></element-citation></ref><ref id="CR002"><mixed-citation publication-type="other">Molinari AF, Silva CLM (1997) Freezing and storage of orange juice:
+effects on pectinesterase activity and quality. In: Process optimisation and
+minimal processing of foods, proceedings of 3rd main meetings, Leuven Catholic
+University, Leuven, Belgium, pp 7&#x02013;14</mixed-citation></ref><ref id="CR15"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Pinelo</surname><given-names>M</given-names></name><name><surname>Zeuner</surname><given-names>B</given-names></name><name><surname>Meyer</surname><given-names>AS</given-names></name></person-group><article-title>Juice clarification by protease and pectinase
+treatments indicates new roles of pectin and protein in cherry juice
+turbidity</article-title><source>Food Bioprod Process</source><year>2010</year><volume>88</volume><issue>2</issue><fpage>259</fpage><lpage>265</lpage><pub-id pub-id-type="doi">10.1016/j.fbp.2009.03.005</pub-id></element-citation></ref><ref id="CR004"><mixed-citation publication-type="other">Rai P, Rai C, Majumdar GC, Dasgupta S, DE S (2006) Resistance in
+series model for ultrafiltration of mosambi (Citrus sinensis (L.) Osbeck) juice in
+a stirred continuous mode. J Membrane Sci 283:116&#x02013;122</mixed-citation></ref><ref id="CR16"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rai</surname><given-names>P</given-names></name><name><surname>Majumdar</surname><given-names>GC</given-names></name><name><surname>Gupta</surname><given-names>SD</given-names></name></person-group><article-title>Optimizing pectinase usage in pretreatment of mosambi
+juice for clarification by response surface methodology</article-title><source>J Food Eng</source><year>2004</year><volume>64</volume><fpage>397</fpage><lpage>403</lpage><pub-id pub-id-type="doi">10.1016/j.jfoodeng.2003.11.008</pub-id></element-citation></ref><ref id="CR17"><mixed-citation publication-type="other">Sagu ST, Nso EJ, Karmakar S, De S (2014) Optimisation of low
+temperature extraction of banana juice using commercial pectinase. Food Chem
+151:182&#x02013;190</mixed-citation></ref><ref id="CR003"><mixed-citation publication-type="other">Sandri IG, Fontana RC, Barfknecht DMDE, Silveira MM (2011)
+Clarification of fruit juices by fungal pectinases. LWT-Food Sci Technol
+44:2217&#x02013;2222</mixed-citation></ref><ref id="CR18"><mixed-citation publication-type="other">Sandri IG, Piemolini-Barreto LT, Fontana RC, Silveira MMD (2014)
+Application of enzymatic preparations to produce ara&#x000e7;&#x000e1; pulp and juice. Food Sci
+Technol (Campinas) 34(4):657&#x02013;662</mixed-citation></ref><ref id="CR19"><mixed-citation publication-type="other">Sehwag S, Das M (2015) Nutritive, therapeutic and processing
+aspects of Jamun, Syzygiumcuminii (L.) Skeels-An overview.&#x000a0;Indian J Nat Prod
+Resour 5(4):295&#x02013;307</mixed-citation></ref><ref id="CR20"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Shah</surname><given-names>NS</given-names></name><name><surname>Nath</surname><given-names>N</given-names></name></person-group><article-title>Optimization of an enzyme assisted process for juice
+extraction and clarification from Litchis (Litchi ChinensisSonn.)</article-title><source>Int J Food Eng</source><year>2007</year><volume>3</volume><issue>2</issue><fpage>1</fpage><lpage>7</lpage><pub-id pub-id-type="doi">10.2202/1556-3758.1099</pub-id></element-citation></ref><ref id="CR21"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Shahnawaz</surname><given-names>M</given-names></name><name><surname>Sheikh</surname><given-names>SA</given-names></name></person-group><article-title>Physicochemical characteristics of Jamun
+fruit</article-title><source>J Hortic For</source><year>2011</year><volume>3</volume><fpage>301</fpage><lpage>306</lpage></element-citation></ref><ref id="CR22"><mixed-citation publication-type="other">Sharma HP, Patel H, Sugandha (2015) Enzymatic extraction and
+clarification of juice from various fruits&#x02014;a review. Crit Rev Food Sci Nutr
+2(1):1&#x02013;14</mixed-citation></ref><ref id="CR23"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sin</surname><given-names>HN</given-names></name><name><surname>Yusof</surname><given-names>S</given-names></name><name><surname>Sheikh</surname><given-names>AHN</given-names></name><name><surname>Abd. Rahman</surname><given-names>R</given-names></name></person-group><article-title>Optimization of enzymatic clarification of sapodilla
+juice using response surface methodology</article-title><source>J Food Eng</source><year>2006</year><volume>73</volume><fpage>313</fpage><lpage>319</lpage><pub-id pub-id-type="doi">10.1016/j.jfoodeng.2005.01.031</pub-id></element-citation></ref><ref id="CR24"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Singleton</surname><given-names>VL</given-names></name><name><surname>Orthofer</surname><given-names>R</given-names></name><name><surname>Lamuela-Raventos</surname><given-names>RM</given-names></name></person-group><article-title>Analysis of total phenols and other oxidation
+substrates and antioxidants by means of folin-ciocalteu reagent</article-title><source>Methods Enzymol</source><year>1999</year><volume>299</volume><fpage>152</fpage><lpage>178</lpage><pub-id pub-id-type="doi">10.1016/S0076-6879(99)99017-1</pub-id></element-citation></ref><ref id="CR25"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Surajbhan</surname><given-names>S</given-names></name><name><surname>Singh</surname><given-names>A</given-names></name><name><surname>Joshi</surname><given-names>C</given-names></name><name><surname>Rodrigues</surname><given-names>L</given-names></name></person-group><article-title>Extraction and optimization of guava juice by using
+response surface methodology</article-title><source>Am J Food Technol</source><year>2012</year><volume>7</volume><fpage>326</fpage><lpage>339</lpage><pub-id pub-id-type="doi">10.3923/ajft.2012.326.339</pub-id></element-citation></ref><ref id="CR26"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Tapre</surname><given-names>AR</given-names></name><name><surname>Jain</surname><given-names>RK</given-names></name></person-group><article-title>Pectinases: Enzymes for fruit processing
+industry</article-title><source>Int Food Res J</source><year>2014</year><volume>21</volume><issue>2</issue><fpage>447</fpage><lpage>453</lpage></element-citation></ref><ref id="CR27"><mixed-citation publication-type="other">Tastan O, Baysal T (2015) Clarification of pomegranate juice with
+chitosan: changes on quality characteristics during storage. Food Chem
+180:211&#x02013;218</mixed-citation></ref><ref id="CR28"><mixed-citation publication-type="other">Tu T, Meng K, Bai Y, Shi P, Luo H, Wang Y, Yao B (2013) High-yield
+production of a low-temperature-active polygalacturonase for papaya juice
+clarification. Food Chem 141(3):2974&#x02013;2981</mixed-citation></ref></ref-list></back></article>

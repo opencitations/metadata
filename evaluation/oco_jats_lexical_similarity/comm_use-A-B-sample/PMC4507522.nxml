@@ -1,0 +1,567 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:ali="http://www.niso.org/schemas/ali/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="review-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Braz J Microbiol</journal-id><journal-id journal-id-type="iso-abbrev">Braz. J. Microbiol</journal-id><journal-id journal-id-type="publisher-id">bjm</journal-id><journal-title-group><journal-title>Brazilian Journal of Microbiology</journal-title></journal-title-group><issn pub-type="ppub">1517-8382</issn><issn pub-type="epub">1678-4405</issn><publisher><publisher-name>Sociedade Brasileira de Microbiologia</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">26273245</article-id><article-id pub-id-type="pmc">4507522</article-id><article-id pub-id-type="doi">10.1590/S1517-838246220130963</article-id><article-categories><subj-group subj-group-type="heading"><subject>Review</subject></subj-group></article-categories><title-group><article-title>Psychrotrophic bacteria in milk: How much do we really
+know?</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>de Oliveira</surname><given-names>Gislene B.</given-names></name><xref ref-type="aff" rid="aff01">1</xref><xref rid="c01" ref-type="corresp"/></contrib><contrib contrib-type="author"><name><surname>Favarin</surname><given-names>Luciana</given-names></name><xref ref-type="aff" rid="aff01">1</xref></contrib><contrib contrib-type="author"><name><surname>Luchese</surname><given-names>Rosa H.</given-names></name><xref ref-type="aff" rid="aff01">1</xref></contrib><contrib contrib-type="author"><name><surname>McIntosh</surname><given-names>Douglas</given-names></name><xref ref-type="aff" rid="aff02">2</xref></contrib></contrib-group><aff id="aff01"><label>1</label>Universidade Federal Rural do Rio de
+Janeiro, Ci&#x000ea;ncia e Tecnologia de Alimentos, Universidade Federal Rural do Rio de
+Janeiro, Serop&#x000e9;dica, RJ, Brasil, Ci&#x000ea;ncia e Tecnologia de Alimentos, Universidade
+Federal Rural do Rio de Janeiro, Serop&#x000e9;dica, RJ, Brazil.</aff><aff id="aff02"><label>2</label>Universidade Federal Rural do Rio de
+Janeiro, Parasitologia Veterin&#x000e1;ria, Universidade Federal Rural do Rio de
+Janeiro, Serop&#x000e9;dica, RJ, Brasil, Parasitologia Veterin&#x000e1;ria, Universidade Federal
+Rural do Rio de Janeiro, Serop&#x000e9;dica, RJ, Brazil.</aff><author-notes><corresp id="c01">Send correspondence to G.B. Oliveira. Ci&#x000ea;ncia e Tecnologia de
+Alimentos, Universidade Federal Rural do Rio de Janeiro, Serop&#x000e9;dica, RJ, Brazil.
+E-mail: <email>gbremer@hotmail.com</email>,
+<email>gbremer@ufrrj.br</email>.</corresp><fn id="fn01" fn-type="other"><p>Associate Editor Elaine Cristina Pereira De Martinis</p></fn></author-notes><pub-date pub-type="epub"><day>01</day><month>6</month><year>2015</year></pub-date><pub-date pub-type="collection"><month>6</month><year>2015</year></pub-date><volume>46</volume><issue>2</issue><fpage>313</fpage><lpage>321</lpage><history><date date-type="received"><day>09</day><month>9</month><year>2013</year></date><date date-type="accepted"><day>19</day><month>12</month><year>2014</year></date></history><permissions><copyright-statement>Copyright &#x000a9; 2015, Sociedade Brasileira de
+Microbiologia</copyright-statement><copyright-year>2015</copyright-year><license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/3.0/"><license-p>All the content of the journal, except where otherwise noted, is
+licensed under a Creative Commons License CC BY-NC.</license-p></license></permissions><abstract><p>The occurrence of psychrotrophic bacteria in raw milk is studied worldwide due to
+the difficulties associated with controlling their growth during cold storage
+and the consequent negative effects upon fluid milk or dairy products. Among the
+psychrotrophic bacteria, the genus <italic>Pseudomonas</italic> (represented
+primarily by <italic>P. fluorescens</italic>) has been highlighted as the cause
+of numerous defects in dairy products. In light of its perceived predominance,
+this species has frequently been chosen as a model organism to assess the
+effects of psychrotrophic bacteria on milk or to evaluate the efficacy of
+control measures. However, recent findings derived from the application of
+molecular biological techniques have exposed a number of deficiencies in our
+knowledge of the biology of milk-associated psychrotrophs. Furthermore, it has
+been revealed that microbe to microbe communication plays a significant role in
+determining both the identities and the extent to which different groups of
+microbes develop during cold storage. The application of molecular
+identification methods has exposed errors in the classification of members of
+the genus <italic>Pseudomonas</italic> isolated from cold stored milk and has
+stimulated a reevaluation of the presumed status of <italic>P.
+fluorescens</italic> as the predominant milk-associated psychrotrophic
+species. This article presents a succinct review of data from studies on
+psychrotrophic bacteria in milk, some of which contest established theories in
+relation to the microbiology of cold stored raw milk, and poses the question:
+how much do we really know?</p></abstract><kwd-group><kwd>microbiology</kwd><kwd><italic>Pseudomonas</italic></kwd><kwd>dairy products</kwd><kwd>microbial identification</kwd></kwd-group><counts><fig-count count="0"/><table-count count="0"/><equation-count count="0"/><ref-count count="65"/><page-count count="9"/></counts></article-meta></front><body><sec sec-type="intro"><title>Introduction</title><p>The term psychrotrophs (also denominated psychrotolerant) refers to microorganisms
+that have the ability to grow at low temperatures but have optimal and maximal
+growth temperatures above 15 and 20 &#x000b0;C, respectively (<xref rid="B40" ref-type="bibr">Moyer and Morita, 2007</xref>). This characteristic makes these
+microbes especially significant with regard to food spoilage and safety, given that
+the storage of many foods at cold temperatures is a routine practice during
+production, transportation, processing and post-purchase (<xref rid="B06" ref-type="bibr">Beales, 2004</xref>; <xref rid="B55" ref-type="bibr">Russell,
+2002</xref>).</p><p>Raw milk provides a physicochemical environment that is favourable for the
+multiplication of a broad spectrum of microorganisms, including a range of
+psychrotrophic bacterial species (predominantly members of the genus
+<italic>Pseudomonas</italic>) that contaminate milk during collection and/or
+processing (<xref rid="B39" ref-type="bibr">Mcphee and Griffiths, 2011</xref>; <xref rid="B47" ref-type="bibr">Pinto <italic>et al.</italic>, 2006</xref>; <xref rid="B60" ref-type="bibr">S&#x000f8;rhaug and Stepaniak, 1997</xref>).</p><p>Although the pasteurisation of raw milk decreases its microbial load, the efficiency
+of the process and the resulting quality of the dairy products are directly
+influenced by the microbiological quality of the raw milk (<xref rid="B42" ref-type="bibr">N&#x000f6;rnberg <italic>et al.</italic>, 2010</xref>). Rigorous hygiene
+standards employed to reduce the possibility of exogenous contamination coupled with
+low storage temperatures to control the growth of mesophilic organisms are essential
+components of the microbial control strategies employed with raw fluid milk (<xref rid="B05" ref-type="bibr">Barbano <italic>et al.</italic>, 2006</xref>).
+Approaches including enclosed pipeline milk systems, better sanitary design of
+equipment, cleaner cows, and more effective "cleaning in place" coupled with the
+rapid cooling of raw milk using in-line plate coolers prior to storage in bulk tanks
+have been shown to reduce the growth of contaminating bacteria (<xref rid="B05" ref-type="bibr">Barbano <italic>et al.</italic>, 2006</xref>).</p><p>The presence and subsequent replication of populations of psychrotrophs may lead to
+the spoilage of milk (<xref rid="B06" ref-type="bibr">Beales, 2004</xref>; <xref rid="B42" ref-type="bibr">N&#x000f6;rnberg <italic>et al.</italic>, 2010</xref>; <xref rid="B47" ref-type="bibr">Pinto <italic>et al.</italic>, 2006</xref>). Because
+the economic impact of this group of microbes upon the global dairy industry is
+substantial, psychrotrophic bacteria have been and continue to be studied
+extensively with the main objectives of developing effective control measures and
+establishing regulations to ensure the quality and safety of milk and dairy products
+(<xref rid="B39" ref-type="bibr">Mcphee and Griffiths, 2011</xref>).</p><p>Despite the existence of an extensive body of published data, based on the results of
+recent studies it would be fair to state that numerous gaps exist in our
+understanding of the biology of the psychrotrophic bacteria of importance for the
+dairy industry. The continued development of molecular tools for bacterial
+identification and their application to the analysis of microbial population
+structures and ecology in milk and dairy products has revealed the presence of
+psychrotrophic bacteria undetected by the use of traditional culture-based
+approaches (<xref rid="B02" ref-type="bibr">Almeida and Araujo, 2013</xref>; <xref rid="B37" ref-type="bibr">Marchand <italic>et al.</italic>, 2009b</xref>; <xref rid="B52" ref-type="bibr">Raats <italic>et al.</italic>, 2011</xref>).
+Similarly, molecular methods have highlighted discrepancies in the identification of
+the psychrotrophic species associated with the spoilage of cold stored milk,
+particularly with regard to the taxonomically complex genus
+<italic>Pseudomonas</italic> (<xref rid="B39" ref-type="bibr">Mcphee and
+Griffiths, 2011</xref>).</p><p>The majority of studies on milk-associated psychrotrophs have focused on individual
+isolates grown as planktonic cultures (readily culturable). However, there is an
+increasing recognition that such approaches overlook potential interactions and
+cross-talk between different species of psychrotrophic bacteria, many of which are
+non-culturable, that are present within the biofilms that develop in milk storage
+and processing environments and that may exert an influence on milk quality and
+safety (<xref rid="B10" ref-type="bibr">Cleto <italic>et al.</italic>, 2012</xref>;
+<xref rid="B35" ref-type="bibr">Marchand <italic>et al.</italic>,
+2012</xref>).</p><p>This current mini-review sought to collate and evaluate the findings of recent
+studies on psychrotrophic bacteria of importance to the dairy industry and to
+demonstrate that the activities of psychrotrophic bacteria in milk are more
+extensive and more complex than was previously thought.</p></sec><sec><title>Biochemical Basis for Psychrotrophic Growth</title><p>Temperatures influence bacterial growth rates by affecting the conformation of
+cellular macromolecules and other constituents, thereby determining the rates of
+intracellular enzymatic reactions that are crucial for viability (<xref rid="B06" ref-type="bibr">Beales, 2004</xref>; <xref rid="B20" ref-type="bibr">Fonseca
+<italic>et al.</italic>, 2011</xref>; <xref rid="B55" ref-type="bibr">Russell, 2002</xref>). Hence, the adaptation of the cell to low temperatures
+requires enzymes that are active in this condition (<xref rid="B08" ref-type="bibr">Chattopadhyay, 2006</xref>).</p><p>Under low temperature growth conditions psychrotrophic bacteria synthesise
+phospholipids and neutral lipids containing increased proportions of unsaturated
+fatty acids, resulting in a reduction in the melting point of the lipids. This
+phenomenon serves to maintain their fluidity, thus allowing the continued
+functionality, solute transport, secretion of extracellular enzymes and fluidity of
+the membrane (<xref rid="B06" ref-type="bibr">Beales, 2004</xref>; <xref rid="B27" ref-type="bibr">Jay, 2005</xref>)</p><p>Indeed, transcriptomic analysis of <italic>Pseudomonas putida</italic> strain KT2440
+revealed that the expression of at least 266 genes (nearly 5% of the genome) was
+modified during low temperature growth in comparison to cells grown at 30 &#x000b0;C.
+Several of these changes seemed to be directed towards neutralising problems created
+by low temperatures, such as increased protein misfolding, increased stability of
+DNA/RNA secondary structures, reduced membrane fluidity and reduced growth rates
+(<xref rid="B20" ref-type="bibr">Fonseca <italic>et al.</italic>,
+2011</xref>).</p></sec><sec><title>Psychrotrophic Bacteria in Milk</title><p>Refrigeration alone or in combination with other methods such as the addition of
+preservatives is the most commonly used means of preserving food, including milk and
+dairy products (<xref rid="B06" ref-type="bibr">Beales, 2004</xref>). The current
+trend in the dairy industries is to reduce the frequency of milk collection; thus,
+the refrigerated storage of milk has been lengthened from two to five days prior to
+heat treatment (<xref rid="B43" ref-type="bibr">O'brien and Guinee, 2011</xref>).
+This practice has been stimulated in part by a desire for a 5-day work week and in
+response to a decreased milk supply at certain times of the year (<xref rid="B39" ref-type="bibr">Mcphee and Griffiths, 2011</xref>).</p><p>The procedure of cooling and the subsequent refrigerated storage of raw milk
+effectively controls the development of populations of mesophilic spoilage organisms
+while at the same time providing a selective advantage for the growth of
+psychrotrophic bacteria (<xref rid="B05" ref-type="bibr">Barbano <italic>et
+al.</italic>, 2006</xref>; <xref rid="B13" ref-type="bibr">De Jonghe
+<italic>et al.</italic>, 2011</xref>; <xref rid="B56" ref-type="bibr">Samarzija <italic>et al.</italic>, 2012</xref>). According to <xref rid="B60" ref-type="bibr">S&#x000f8;rhaug and Stepaniak (1997)</xref> and <xref rid="B39" ref-type="bibr">Mcphee and Griffiths (2011)</xref>, the cultivable
+psychrotrophic bacteria in milk are represented predominantly by Gram-negative
+genera including <italic>Pseudomonas</italic>, <italic>Achromobacter</italic>,
+<italic>Aeromonas</italic>, <italic>Serratia</italic>,
+<italic>Alcaligenes</italic>, <italic>Chromobacterium</italic> and
+<italic>Flavobacterium</italic> spp., and at much lower numbers by Gram-positive
+genera including <italic>Bacillus</italic>, <italic>Clostridium</italic>,
+<italic>Corynebacterium</italic>, <italic>Streptococcus, Lactobacillus</italic>
+and <italic>Microbacterium</italic> spp.</p><p>Interestingly, milk freshly drawn from the udder often does not contain detectable
+populations of culturable psychrotrophic bacteria. However, these populations
+develop over time in virtually all cold stored raw milk, a feature that reduces the
+normal refrigerated storage life to less than 5 d (<xref rid="B09" ref-type="bibr">Chen <italic>et al.</italic>, 2003</xref>; <xref rid="B32" ref-type="bibr">Ma
+<italic>et al.</italic>, 2003</xref>; <xref rid="B39" ref-type="bibr">Mcphee
+and Griffiths, 2011</xref>; <xref rid="B52" ref-type="bibr">Raats <italic>et
+al.</italic>, 2011</xref>). The average counts of psychrotrophic aerobic
+bacteria in milk silos at several dairies in southwest Scotland were reported to be
+1.3 &#x000d7; 10<sup>5</sup> cfu mL<sup>&#x02212;1</sup>. The majority of the bacteria present were
+Pseudomonads (70.2%), but Enterobacteriaceae (7.7%), Gram-positive bacteria (6.9%),
+and other Gram-negative, rod-shaped organisms were also isolated (<xref rid="B39" ref-type="bibr">Mcphee and Griffiths, 2011</xref>). Following storage for a
+further 48 h at 6 &#x000b0;C, the psychrotrophic counts increased by two log cycles to 1.3 &#x000d7;
+10<sup>7</sup> cfu mL<sup>&#x02212;1</sup>.</p><p>In addition to growing at low temperatures, a variety of psychrotrophic bacterial
+species (primarily represented by pseudomonads) found in raw milk produce
+heat-stable proteases (<xref rid="B31" ref-type="bibr">Liu <italic>et al.</italic>,
+2007</xref>) and lipases (<xref rid="B09" ref-type="bibr">Chen <italic>et
+al.</italic>, 2003</xref>), generally during the late log or early
+stationary growth phases when the cell density is high. Many of the produced enzymes
+retain significant activity after pasteurisation (72&#x02013;75 &#x000b0;C/15&#x02013;20 s) and even UHT
+treatment (130&#x02013;150 &#x000b0;C/2&#x02013;4 s), and may subsequently degrade proteins and fats present
+in the processed products (<xref rid="B05" ref-type="bibr">Barbano <italic>et
+al.</italic>, 2006</xref>; <xref rid="B13" ref-type="bibr">De Jonghe
+<italic>et al.</italic>, 2011</xref>; <xref rid="B16" ref-type="bibr">Dunstall <italic>et al.</italic>, 2005</xref>).</p><p>A reduction in cheese yield and tainting are the two most frequently reported
+negative effects in cheese production that are attributed to psychrotrophic-derived
+enzymes (<xref rid="B39" ref-type="bibr">Mcphee and Griffiths, 2011</xref>). Less
+frequently reported effects include the alteration of starter activity and/or growth
+rates and rennet coagulation times (<xref rid="B12" ref-type="bibr">Datta and Deeth,
+2001</xref>; <xref rid="B33" ref-type="bibr">Mankai <italic>et al.</italic>,
+2012</xref>). Reduced yields in cheese production occur mainly because soluble
+casein degradation products (peptides and amino acids) may be lost into the whey
+instead of forming part of the curd (<xref rid="B39" ref-type="bibr">Mcphee and
+Griffiths, 2011</xref>). The tainting problems are due to the action of
+proteases, which generate bitter flavours, and lipases, which hydrolyse milk fat
+yielding free fatty acids (FFAS) and generate strong flavours that in the majority
+of cases are considered undesirable (<xref rid="B14" ref-type="bibr">Deeth,
+2006</xref>; <xref rid="B33" ref-type="bibr">Mankai <italic>et al.</italic>,
+2012</xref>).</p><p>&#x02018;Age gelation' of UHT milk is an irreversible phenomenon characterised by a change in
+the physical state that is manifested by a rise in viscosity of more than 10 mPa.S
+(at 20 &#x000b0;C), followed by the formation of a gel and loss of fluidity (<xref rid="B12" ref-type="bibr">Datta and Deeth, 2001</xref>). According to <xref rid="B60" ref-type="bibr">S&#x000f8;rhaug and Stepaniak (1997)</xref>, a psychrotrophic population
+of 5.5 log cfu mL<sup>&#x02212;1</sup> in raw milk causes UHT milk gelation after 20 weeks
+of storage, while populations between 6.9 and 7.2 logs will cause the same effect
+between 2 and 10 weeks.</p></sec><sec><title>Biofilm Formation</title><p>The procedures of cooling and refrigeration of milk are not guarantees of quality.
+The first point of control is to ensure that raw milk is obtained under sanitary
+conditions designed to minimise contamination (<xref rid="B06" ref-type="bibr">Beales, 2004</xref>). The second point of control is dependent on the adequate
+cleaning and disinfection of all of the equipment used for the collection,
+transport, and storage of refrigerated raw milk. This step is necessary to prevent
+fouling with milk film, which can support the growth of bacteria as multi-species
+biofilms that represent a source of contamination for any subsequent batches of milk
+(<xref rid="B39" ref-type="bibr">Mcphee and Griffiths, 2011</xref>; <xref rid="B46" ref-type="bibr">Perin <italic>et al.</italic>, 2012</xref>).</p><p>Biofilms are surface-associated bacterial communities that are embedded in a matrix
+of self-produced polymeric substances (EPSs) consisting of nucleic acids,
+polysaccharides, lipids and proteins resulting from the successful attachment and
+subsequent growth of microorganisms on a surface (<xref rid="B35" ref-type="bibr">Marchand <italic>et al.</italic>, 2012</xref>; <xref rid="B62" ref-type="bibr">Toyofuku <italic>et al.</italic>, 2012</xref>). In nature biofilms can be
+composed of a single species, but more commonly they comprise a consortium of
+species (<xref rid="B58" ref-type="bibr">Skandamis and Nychas, 2012</xref>). The
+critical stages for biofilm development are adherence, proliferation, and the
+dispersion phases (<xref rid="B29" ref-type="bibr">Li and Tian, 2012</xref>). Each
+of these stages includes reinforcement by or modulation of the extracellular matrix.
+However, the functionality of biofilms depends on a complex web of symbiotic
+interactions and factors, including pH, nutrient availability, quorum sensing
+molecules, the presence of organic and inorganic compounds and temperature (<xref rid="B04" ref-type="bibr">Bai and Rai, 2011</xref>; <xref rid="B44" ref-type="bibr">Oliveira <italic>et al.</italic>, 2010</xref>). Biofilms are the
+predominant form of growth for bacteria in the majority of environments, including
+food processing settings (<xref rid="B04" ref-type="bibr">Bai and Rai, 2011</xref>;
+<xref rid="B10" ref-type="bibr">Cleto <italic>et al.</italic>, 2012</xref>).
+More recently, the production of spoiling enzymes by bacteria present in biofilms
+has also been studied (<xref rid="B61" ref-type="bibr">Teh <italic>et al.</italic>,
+2014</xref>).</p><p>Many <italic>Pseudomonas</italic> species utilise biofilm formation during plant
+colonisation to enhance persistence, resulting in the production of a variety of
+biofilm matrix molecules (<xref rid="B34" ref-type="bibr">Mann and Wozniak,
+2012</xref>). An intriguing feature of milk-spoiling
+<italic>Pseudomonas</italic> recovered from biofilms is their ability to alter
+phenotypes via the process of phase variation (<xref rid="B35" ref-type="bibr">Marchand <italic>et al.</italic>, 2012</xref>). Through this process,
+high-frequency phenotypic switching is mediated by mutation, reorganisation, or
+modification of the genome (<xref rid="B63" ref-type="bibr">Van Den Broek <italic>et
+al.</italic>, 2005</xref>), contributing to the survival of the biofilm
+population during environmental stresses such as temperature fluctuations and
+frequent exposure to sanitizers during the cleaning of dairy processing and storage
+equipment (<xref rid="B35" ref-type="bibr">Marchand <italic>et al.</italic>,
+2012</xref>). The limited experimental data generated to date indicates that the
+traditional approach of studying milk spoilage organisms as planktonic monocultures
+has most likely served to distort and misdirect our understanding of spoilage
+processes <italic>in situ</italic>, and future studies would undoubtedly benefit
+from experimental approaches designed to mimic the biofilms found in bulk storage
+and processing systems.</p></sec><sec><title>Quorum Sensing and Metabolic Regulation</title><p>Bacteria communicate with each other using chemical signalling molecules when
+specific cell densities are reached via a process termed quorum sensing (<xref rid="B22" ref-type="bibr">Fuqua <italic>et al.</italic>, 1994</xref>; <xref rid="B31" ref-type="bibr">Liu <italic>et al.</italic>, 2007</xref>). As a
+consequence of this process gene expression can either be activated or repressed,
+and the behaviour of populations of single cells are synchronised in a manner
+similar to multi-cellular organisms (<xref rid="B04" ref-type="bibr">Bai and Rai,
+2011</xref>; <xref rid="B59" ref-type="bibr">Smith <italic>et al.</italic>,
+2004</xref>). Cell density-dependent signalling systems in bacteria control a
+range of phenotypic traits, including biofilm development, bioluminescence, cell
+differentiation, competence for DNA uptake, pigment production, conjugal plasmid
+transfer, production of degradative extracellular enzymes, sporulation, toxin
+production and virulence gene expression (<xref rid="B28" ref-type="bibr">Lazdunski
+<italic>et al.</italic>, 2004</xref>; <xref rid="B29" ref-type="bibr">Li and
+Tian, 2012</xref>).</p><p>N-acyl-homoserine lactones (AHLs) are quorum sensing signalling molecules that are
+produced by a wide range of Gram-negative bacteria, including <italic>P.
+fluorescens</italic> (<xref rid="B07" ref-type="bibr">Cha <italic>et
+al.</italic>, 1998</xref>; <xref rid="B31" ref-type="bibr">Liu <italic>et
+al.</italic>, 2007</xref>). The production of various AHLs in both raw and
+pasteurised milk by psychrotrophic <italic>Pseudomonas</italic> spp. indicates that
+quorum sensing may play a role in the spoilage of milk and dairy products (<xref rid="B49" ref-type="bibr">Pinto <italic>et al.</italic>, 2007</xref>).
+Coincidentally, the production of extracellular proteases in <italic>P.
+fluorescens</italic> is associated with the high cell density that is typically
+encountered towards the end of the exponential phase of growth (<xref rid="B04" ref-type="bibr">Bai and Rai, 2011</xref>). The stimulation of protease
+production by milk-associated strains of <italic>P. fluorescens</italic> in response
+to the addition of AHL has been reported (<xref rid="B31" ref-type="bibr">Liu
+<italic>et al.</italic>, 2007</xref>); the authors concluded that the
+spoiling ability of psychrotrophic <italic>P. fluorescens</italic> was correlated
+with the ability to produce AHLs, which served to regulate the expression of
+extracellular proteases.</p><p>In contrast, <xref rid="B30" ref-type="bibr">Liu <italic>et al.</italic>
+(2006)</xref> demonstrated that AHLs did not act as regulators of proteolytic
+activity during the spoilage of aerobically chill-stored proteinaceous raw foods
+including milk. In a subsequent study, <xref rid="B48" ref-type="bibr">Pinto
+<italic>et al.</italic> (2010)</xref> did not detect AHL signals in the
+supernatants of late-exponential or stationary phase broth cultures of <italic>P.
+fluorescens</italic> strain 07A isolated from milk. The authors subsequently
+added synthetic AHLs or bacterial extracts containing natural AHLs to O7A cultures
+and found no evidence of effects upon either growth or proteolytic activity,
+suggesting that quorum sensing (at least via AHLs) did not regulate protease
+production in strain 07A.</p><p>The role of AHLs as promoters of biofilm formation in <italic>P. fluorescens</italic>
+strain B52 cultures was investigated by <xref rid="B01" ref-type="bibr">Allison
+<italic>et al.</italic> (1998)</xref>. The addition of
+<italic>N</italic>-acyl-hexanoyl homoserine lactone to fresh growth medium enhanced
+biofilm production in a manner similar to that observed when supernatants from 2 day
+old cultures of B52 were employed as the initial growth medium. Interestingly,
+analysis of the spent medium using an <italic>Agrobacter tumefaciens</italic>
+indicator strain failed to detect AHLs. Nevertheless, the authors concluded that
+<italic>P. fluorescens</italic> was capable of reacting to the presence of short
+chain (C6) exogenous homoserines, and speculated that strain B52 produced its own
+signalling molecule that likely possessed a longer (&#x0003e; C8) fatty acyl chain that
+could not be detected in the <italic>A. tumefaciens</italic> bioassay.</p><p>Although quorum sensing signalling molecules have been detected in cold stored milk
+and milk derivatives, their exact role in the spoilage process is still not clear
+and further work on this topic is clearly warranted (<xref rid="B04" ref-type="bibr">Bai and Rai, 2011</xref>). Specifically, the topic of inter-species
+communication via broad range signalling molecules (<italic>e.g.</italic>,
+autoinducer AI-2 (<xref rid="B58" ref-type="bibr">Skandamis and Nychas,
+2012</xref>)) has received limited attention to date, but is thought to represent a
+pivotal process in the development of multi-species biofilms and the coordinated
+expression of spoilage enzymes (<xref rid="B29" ref-type="bibr">Li and Tian,
+2012</xref>).</p></sec><sec><title>
+<italic>Pseudomonas</italic> in Milk</title><p>The genus <italic>Pseudomonas</italic> is the most heterogeneous and ecologically
+significant group of known bacteria. Owing to the fact that the nutritional
+requirements of <italic>Pseudomonas</italic> spp. are very simple, representatives
+of the genus have been detected in virtually all natural habitats
+(<italic>e.g.</italic>, soil, house dust, fresh water and clouds), and have also
+been isolated from clinical instruments, aseptic solutions, cosmetics and medical
+products (<xref rid="B21" ref-type="bibr">Franzetti and Scarpellini, 2007</xref>).
+As such, it is not surprising that members of the genus <italic>Pseudomonas</italic>
+have long been recognised as the predominant group of psychrotrophic bacteria
+recovered from spoiled refrigerated milk (<xref rid="B09" ref-type="bibr">Chen
+<italic>et al.</italic>, 2003</xref>). Among the pseudomonads, <italic>P.
+fluorescens</italic> is generally considered to be the principal spoilage agent
+of stored milk (<xref rid="B39" ref-type="bibr">Mcphee and Griffiths, 2011</xref>;
+<xref rid="B41" ref-type="bibr">Munsch-Alatossava and Alatossava,
+2006</xref>).</p><p>The efficient cold adaption of the psychrotrophic pseudomonads is believed to be
+linked to the possession of elevated levels (between 59 to 72%) of unsaturated
+lipids in their cell membranes that impart the ability to efficiently maintain
+membrane functionality (specifically solute transport and the secretion of
+extracellular enzymes) at refrigeration temperatures (<xref rid="B20" ref-type="bibr">Fonseca <italic>et al.</italic>, 2011</xref>; <xref rid="B27" ref-type="bibr">Jay, 2005</xref>). Furthermore, these species are able to
+proliferate in milk, an environment where the concentration of free iron is low, due
+to the production of the diffusible fluorescent pigment pyoverdine, which acts as a
+siderophore, allowing the bacteria to effectively sequester iron from lactoferrin
+(<xref rid="B39" ref-type="bibr">Mcphee and Griffiths, 2011</xref>).</p><p>
+<xref rid="B13" ref-type="bibr">De Jonghe <italic>et al.</italic> (2011)</xref>
+examined the growth of psychrotrophic pseudomonads in raw milk under conditions that
+simulated prolonged storage (4 days on the farm, 8 hours in transport and 24 hours
+of storage at the dairy plant) at suboptimal (6 &#x000b0;C) and optimal (4 &#x000b0;C) storage
+temperatures. The numbers of <italic>Pseudomonas</italic> were similar during the
+first 72 h of storage at either temperature. However, by the end of the experiment,
+a striking difference of 2 log cfu mL<sup>&#x02212;1</sup> was reported between the optimal
+and suboptimal storage conditions. Moreover, <italic>Pseudomonas</italic> counts
+reached the same levels as the total aerobic plate counts by the end of the
+experiment (10<sup>6</sup> and 10<sup>8</sup> cfu mL<sup>&#x02212;1</sup> for optimally and
+sub-optimally cooled milk, respectively). Unfortunately, direct comparisons between
+the work of <xref rid="B13" ref-type="bibr">De Jonghe <italic>et al.</italic>
+(2011)</xref> and similar studies (<italic>e.g.</italic>, <xref rid="B38" ref-type="bibr">Martin <italic>et al.</italic>, 2011</xref>) are difficult to
+perform due to methodological differences and the specific strains investigated. In
+this context, the importance of the choice of strain was highlighted in the work of
+<xref rid="B26" ref-type="bibr">Jaspe <italic>et al.</italic> (1995)</xref>,
+which demonstrated that <italic>Pseudomonas</italic> spp. isolated from milk that
+had been stored at 7 &#x000b0;C for three days grew ten times faster at 7 &#x000b0;C, had 1000-fold
+more proteolytic activity, and were 280-fold more lipolytic than
+<italic>Pseudomonas</italic> spp. isolated from freshly drawn milk.</p><p>Phenotypic analysis of microorganisms isolated from raw milk by <xref rid="B39" ref-type="bibr">Mcphee and Griffiths (2011)</xref> demonstrated that <italic>P.
+fluorescens</italic> biovar I (32.1% of isolates), <italic>P. fragi</italic>
+(29.6%), <italic>P. lundensis</italic> (19.8%), and <italic>P. fluorescens</italic>
+biovar III (17.3%) were the most commonly isolated species, while <xref rid="B36" ref-type="bibr">Marchand <italic>et al.</italic> (2009a)</xref> demonstrated
+that <italic>P. lundensis</italic> and <italic>P. fragi</italic> were the
+predominant milk spoilers in Belgian raw milk samples.</p><p>Similarly, <xref rid="B25" ref-type="bibr">He <italic>et al.</italic> (2009)</xref>
+found that pseudomonads predominated in cold stored pasteurised milk at 10 and 5
+days before expiration as well as on the expiration day, although they also detected
+significant numbers of <italic>Streptococcus</italic> spp. and
+<italic>Buttiauxella</italic> spp. in all samples. Pseudomonads also
+predominated in the microbiota cultured from the crevices of cleaned devices sampled
+at a milk processing plant, demonstrating their potential roles as post-collection
+contaminants (<xref rid="B10" ref-type="bibr">Cleto <italic>et al.</italic>,
+2012</xref>). The ability of this group of microbes to resist cleaning is linked
+to the fact that many species are effective biofilm producers (<xref rid="B04" ref-type="bibr">Bai and Rai, 2011</xref>; <xref rid="B57" ref-type="bibr">Sim&#x000f5;es
+<italic>et al.</italic>, 2008</xref>). The complex and multi-layered
+structures of biofilms allow the bacterial communities to live in a sessile and
+protected environment. Yet, when population densities in the biofilms become high,
+bacteria are released into the environment, providing a continuous source of
+planktonic bacteria capable of replication within milk (<xref rid="B04" ref-type="bibr">Bai and Rai, 2011</xref>).</p></sec><sec><title>
+<italic>Pseudomonas</italic> spp.: Misidentification</title><p>A study of raw milk samples obtained along the cold chain of milk transportation
+(from farm, trucks, and silos) in Finland demonstrated that the majority (88%) of
+the isolated bacteria were psychrotrophic (<xref rid="B41" ref-type="bibr">Munsch-Alatossava and Alatossava, 2006</xref>). The authors employed two
+commercial phenotypic identification systems (API-20NE and BIOLOG GN2) and reported
+difficulties in obtaining confident identification of many of the isolates. This was
+particularly the case for fluorescent pigment-producing pseudomonads, where the
+biochemical results were considered to be doubtful. In view of this controversy, the
+authors recommended the use of genotypic identification systems in future
+studies.</p><p>A comparative evaluation of phenotypic and genotypic methods for the identification
+of 102 food-associated psychrotrophic <italic>Pseudomonas</italic> spp. clearly
+demonstrated that molecular methods provided superior results (<xref rid="B21" ref-type="bibr">Franzetti and Scarpellini, 2007</xref>). In this study,
+phenotypic data identified the bacteria as <italic>P. fluorescens</italic> or
+<italic>P. putida,</italic> with a single strain identified as <italic>P.
+aeruginosa</italic>. In contrast, sequencing of 16S rDNA in combination with
+restriction fragment length polymorphism (RFLP) analyses resulted in the
+identification of the bacteria as <italic>P. jessenii</italic>, <italic>P.
+orientalis</italic>, <italic>P. migulae</italic> and <italic>P.
+chicorii,</italic> and also confirmed the phenotypic data for the <italic>P.
+aeruginosa</italic> isolate.</p><p>The study of <xref rid="B24" ref-type="bibr">Hantsis-Zacharov and Halpern
+(2007)</xref> evaluated 264 bacteria collected from raw milk during different
+seasons. They reported the presence of representatives of seven classes of bacteria
+(<italic>Gammaproteobacteria</italic>, <italic>Bacilli</italic>,
+<italic>Actinobacteria</italic>, <italic>Alphaproteobacteria</italic>,
+<italic>Betaproteobacteria</italic>, <italic>Flavobacteria</italic> and
+<italic>Sphingobacteria</italic>), with 20% of the isolates considered to be
+novel species. <italic>Pseudomonas</italic> and <italic>Acinetobacter</italic> were
+recorded as the predominant genera among the Gram-negatives, with 33 and 29
+isolates, respectively. Sequencing of the gene encoding 16S rRNA identified the
+majority (15) of the isolates as <italic>P. putida</italic>, and demonstrated the
+presence of the novel milk-associated species <italic>P. sinxantha</italic>,
+<italic>P. brenneri</italic> and <italic>P. veronii</italic>.</p><p>
+<xref rid="B36" ref-type="bibr">Marchand <italic>et al.</italic> (2009a)</xref>
+employed a polyphasic approach including molecular methods for the identification of
+the predominant producers of heat-resistant proteases in raw milk in Belgium.
+<italic>P. fragi</italic> and <italic>P. lundensis</italic> represented 53% of
+the producers of heat-resistant proteases, with <italic>P. fluorescens</italic>
+representing a minority of the isolates. The authors recommended the increased
+application of genotypic identification methods to ensure accuracy, and they also
+called for a revision of the taxonomic status of <italic>P. fluorescens</italic>.
+Furthermore, they considered it likely that misidentification of many proteolytic
+isolates as <italic>P. fluorescens</italic> in earlier studies using phenotypic
+characterisation had led to an overestimation of the importance of this species as a
+milk spoiler.</p><p>A further example of the difficulties associated with the identification of milk
+spoiling <italic>Pseudomonas</italic> species was provided by the study of <xref rid="B11" ref-type="bibr">Corr&#x000ea;a <italic>et al.</italic> (2011)</xref>. Using
+phenotypic methods, the authors identified the highly proteolytic
+<italic>Pseudomonas</italic> strain 1A4R as either <italic>P. asplenii</italic>
+or <italic>P. jenssenii</italic>. The subsequent application of 16S rDNA sequencing
+revealed a level of 99% nucleotide sequence homology with <italic>P.
+koreensis</italic>, which forms part of the so-called <italic>P.
+jenssenii</italic> group. In view of the divergent data, strain 1A4R was
+classified as a <italic>Pseudomonas</italic> sp. belonging to the <italic>P.
+jenssenii</italic> group.</p><p>Improvements in identification at the species and sub-species levels should become
+possible through the use of highly specific typing methods such as the Multilocus
+Sequence Typing (MLST) scheme developed by <xref rid="B03" ref-type="bibr">Andreani
+<italic>et al.</italic> (2014)</xref> for the characterisation of the
+<italic>P. fluorescens</italic> group. However, it should be noted that the
+elevated costs of such sequencing-based methods is likely to limit their use, at
+least in the short term, to academic studies.</p></sec><sec><title>Use of Molecular Tools to Elucidate the Ecology of Psychrotrophic
+Bacteria</title><p>Indigenous bacterial communities in raw milk, including potentially lipolytic and
+proteolytic psychrotrophs, are already present when the milk arrives at the dairy
+plant, making the rapid and accurate identification of the raw milk microbiota a
+necessary prerequisite for the elaboration of methods to circumvent spoilage (<xref rid="B64" ref-type="bibr">Van Der Vossen and Hofstra, 1996</xref>). Based on the
+observation that initial psychrotrophic counts of milk are frequently very low
+(<xref rid="B39" ref-type="bibr">Mcphee and Griffiths, 2011</xref>), more
+sensitive and efficient methods to evaluate the bacterial quality of raw milk are
+required to identify the causes of reduced shelf life and the deterioration of
+technological properties of milk during storage (<xref rid="B50" ref-type="bibr">Quigley <italic>et al.</italic>, 2013</xref>).</p><p>Traditional microbiological approaches to the study of psychrotrophs in milk based on
+phenotypic characterisation are time consuming, lack discriminatory power and
+sensitivity and are often ineffective in establishing a causal relationship between
+the contamination of the finished product and the environmental source (<xref rid="B15" ref-type="bibr">Dogan and Boor, 2003</xref>; <xref rid="B54" ref-type="bibr">Rasolofo <italic>et al.</italic>, 2010</xref>). Furthermore, the
+inability to discriminate between closely related organisms can lead to
+misidentification, and the slow turnaround time of the results makes phenotypic
+testing useful mainly for retrospective evaluation (<xref rid="B17" ref-type="bibr">Ercolini, 2004</xref>; <xref rid="B52" ref-type="bibr">Raats <italic>et
+al.</italic>, 2011</xref>).</p><p>Molecular analyses of microbes offer some advantages over phenotypic methods,
+including speed and the ability to provide precise identification of microorganisms
+from the genus to the strain level, depending on the system used. The discrimination
+between subspecies and strains is helpful for investigating the routes and sources
+of contamination (<xref rid="B17" ref-type="bibr">Ercolini, 2004</xref>; <xref rid="B54" ref-type="bibr">Rasolofo <italic>et al.</italic>, 2010</xref>).
+Molecular methods can be culture-dependent (nucleic acids are recovered from
+cultured microbes) or culture-independent (total bacterial DNA/RNA is extracted
+directly from an environmental sample, thereby providing information for the
+components of the microbiota that are unable to grow under laboratory conditions)
+(<xref rid="B17" ref-type="bibr">Ercolini, 2004</xref>; <xref rid="B18" ref-type="bibr">Ercolini, 2013</xref>; <xref rid="B50" ref-type="bibr">Quigley
+<italic>et al.</italic>, 2013</xref>; <xref rid="B52" ref-type="bibr">Raats
+<italic>et al.</italic>, 2011</xref>).</p><p>The concept of viable but non-culturable (VBNC) bacteria refers to bacteria with
+metabolic activity and the ability to reproduce under suitable conditions, but which
+lack the capability to produce visible growth under standard conditions. Interest in
+the role of VBNC in food spoilage has increased due to the observation that some
+disinfection procedures such as pasteurisation of milk and chlorination of water can
+cause bacteria to switch to the VBNC form (<xref rid="B45" ref-type="bibr">Ozcakir,
+2007</xref>).</p><p>High-throughput sequencing of 16S rDNA and real-time quantitative PCR (qPCR) analysis
+were used in combination with flow cytometry to examine the microbial content of raw
+and pasteurised cow milk (<xref rid="B50" ref-type="bibr">Quigley <italic>et
+al.</italic>, 2013</xref>). In contrast to findings from culture-based
+studies (<xref rid="B53" ref-type="bibr">Ranieri <italic>et al.</italic>,
+2009</xref>), the use of culture-independent methods demonstrated that the
+pasteurisation process resulted in an overall reduction in the number of
+pseudomonads rather than their complete elimination. Interestingly, the presence of
+pseudomonads in pasteurised milk has traditionally been considered to be the result
+of post-pasteurisation contamination (<xref rid="B65" ref-type="bibr">Van Tassell
+<italic>et al.</italic>, 2012</xref>). However, it is worth considering that
+the survival and subsequent transition from VBNC to fully viable cells may explain,
+at least in part, the frequent isolation of this genus from pasteurised milk.</p><p>
+<xref rid="B51" ref-type="bibr">Quigley <italic>et al.</italic> (2011)</xref>
+recently reviewed several culture-dependent and -independent methods applicable to
+milk and cheese. Among the culture-independent methods, denaturing gradient gel
+electrophoresis (DGGE) based on the separation of complex mixtures of PCR amplicons
+of the same size but with different nucleotide sequences has emerged as the most
+commonly used fingerprinting technique applied to the study of populations of
+psychrotrophic bacteria associated with milk and dairy products (<xref rid="B17" ref-type="bibr">Ercolini, 2004</xref>; <xref rid="B52" ref-type="bibr">Raats
+<italic>et al.</italic>, 2011</xref>; <xref rid="B54" ref-type="bibr">Rasolofo <italic>et al.</italic>, 2010</xref>). This technology provides a
+convenient means to obtain a comprehensive overview of the microbial populations in
+milk during cold storage, has confirmed the predominance of
+<italic>Pseudomonas</italic> spp. in pasteurised milk samples during their shelf
+life and has revealed a greater level of species diversity among the pseudomonads
+than had been previously indicated by culture-dependent methods (<xref rid="B25" ref-type="bibr">He <italic>et al.</italic>, 2009</xref>; <xref rid="B52" ref-type="bibr">Raats <italic>et al.</italic>, 2011</xref>). Furthermore, the
+application of DGGE to raw milk samples from three farm bulk tanks and three dairy
+plant silo tanks in Israel clearly demonstrated that refrigeration served to reduce
+the microbial diversity of raw milk, and showed that the predominance of
+<italic>Pseudomonas</italic> species was actually the end result of complex
+microbial successions that varied depending on the source of the milk (<xref rid="B52" ref-type="bibr">Raats <italic>et al.</italic>, 2011</xref>). In the
+case of farm samples, Gram-positive bacteria represented by the classes
+<italic>Actinobacteria</italic> and <italic>Bacilli</italic> predominated at the
+time of collection and were gradually overgrown by <italic>Pseudomonas</italic>
+species. In contrast, dairy plant tank samples were initially dominated by a variety
+of Gram-negative bacteria belonging to the <italic>Gammaproteobacteria</italic>
+class, with <italic>Pseudomonas</italic> and <italic>Acinetobacter</italic> species
+predominating within 48 h of refrigeration (<xref rid="B52" ref-type="bibr">Raats
+<italic>et al.</italic>, 2011</xref>). The predominance of psychrotolerant
+members of the class <italic>Actinobacter</italic> in the farm samples and their
+presence at lower levels in the silo samples was in agreement with data from
+DGGE-based examinations of raw milk samples in Canada (<xref rid="B54" ref-type="bibr">Rasolofo <italic>et al.</italic>, 2010</xref>) and of raw milk
+and fresh curd used for Fontina cheese production in Italy (<xref rid="B23" ref-type="bibr">Giannino <italic>et al.</italic>, 2009</xref>). Interestingly,
+cultivable and milk-associated members of this class of bacteria were previously
+reported to possess the ability to secrete heat-stable proteolytic and lipolytic
+enzymes (<xref rid="B24" ref-type="bibr">Hantsis-Zacharov and Halpern, 2007</xref>).
+Hence, it is possible that these bacteria may play a role in the spoilage processes
+during the early stages post-milk collection or may even be involved in the
+degradation of proteins and fats present in processed dairy products.</p><p>An alternative molecular fingerprinting method called random amplified polymorphic
+DNA-polymerase chain reaction (RAPD-PCR) was applied to 66 bacterial isolates from
+cold stored raw milk prior to nucleotide sequence analysis of the gene encoding the
+16S ribosomal RNA (<xref rid="B19" ref-type="bibr">Ercolini <italic>et al.</italic>,
+2009</xref>). In agreement with the results obtained with DGGE, this approach
+identified <italic>Pseudomonas</italic> spp. as the most common contaminant, but
+also identified <italic>Hafnia alvei</italic>, <italic>Serratia marcersens</italic>,
+<italic>Citrobacter freundii</italic>, <italic>Staphylococcus</italic> and
+<italic>Lactococcus</italic>.</p></sec><sec sec-type="conclusions"><title>Conclusion</title><p>The role of pseudomonads and primarily <italic>P. fluorescens</italic> as the
+predominant psychrotrophs associated with the spoilage of cold stored milk and
+milk-derived products has been established through a long history of culture-based
+studies. However, these types of studies are often limited to the phenotypic
+characterisation of the most abundant isolates following their isolation as pure
+cultures. The validity of this approach has been questioned by recent findings using
+nucleotide sequence-based identification methods, which have shown that the
+diversity of <italic>Pseudomonas</italic> species involved in milk spoilage is much
+wider than was previously thought. Moreover, real time molecular analysis of
+microbial communities has shown that psychrotrophic species other than
+<italic>Pseudomonas</italic> predominate in milk during the early stages
+post-collection, and that the activities of those communities may play a role in the
+subsequent spoilage of milk.</p><p>The emergence of molecular methods has provided a new means with which to obtain an
+accurate global view of the microbial communities in milk. The application of these
+methods has revealed potential roles for genera other than
+<italic>Pseudomonas</italic> as important agents of milk spoilage at
+refrigeration temperatures. Moreover, it is likely that the mixed bacterial
+populations that are often present in the form of biofilms collaborate in the
+spoilage process via mechanisms based on quorum sensing. The practical implications
+for these essentially preliminary findings have yet to be elucidated. However, it is
+clear that the continued study of milk-associated psychrotrophs is required and
+should be encouraged in order to enhance and improve existing control methods and to
+help ensure the quality and safety of milk and milk-derived foodstuffs.</p></sec></body><back><ref-list><title>References</title><ref id="B01"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Allison</surname><given-names>DG</given-names></name><name><surname>Ruiz</surname><given-names>B</given-names></name><name><surname>Sanjose</surname><given-names>C</given-names></name><etal/></person-group><year>1998</year><article-title>Extracellular products as mediators of the formation and
+detachment of <italic>Pseudomonas fluorescens</italic>
+biofilms</article-title><source>FEMS Microbiol Lett</source><volume>167</volume><fpage>179</fpage><lpage>184</lpage><pub-id pub-id-type="pmid">9867469</pub-id></element-citation></ref><ref id="B02"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Almeida</surname><given-names>LA</given-names></name><name><surname>Araujo</surname><given-names>R</given-names></name></person-group><year>2013</year><article-title>Highlights on molecular identification of closely related
+species</article-title><source>Infect Genet Evol</source><volume>13</volume><fpage>67</fpage><lpage>75</lpage><pub-id pub-id-type="pmid">22982158</pub-id></element-citation></ref><ref id="B03"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Andreani</surname><given-names>NA</given-names></name><name><surname>Martino</surname><given-names>ME</given-names></name><name><surname>Fasolato</surname><given-names>L</given-names></name><etal/></person-group><year>2014</year><article-title>Tracking the blue: a MLST approach to characterise the
+<italic>Pseudomonas fluorescens</italic> group</article-title><source>Food Microbiol</source><volume>39</volume><fpage>116</fpage><lpage>126</lpage><pub-id pub-id-type="pmid">24387861</pub-id></element-citation></ref><ref id="B04"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bai</surname><given-names>AJ</given-names></name><name><surname>Rai</surname><given-names>VR</given-names></name></person-group><year>2011</year><article-title>Bacterial quorum sensing and food industry</article-title><source>Compr Rev Food Sci F</source><volume>10</volume><fpage>183</fpage><lpage>193</lpage></element-citation></ref><ref id="B05"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Barbano</surname><given-names>DM</given-names></name><name><surname>Ma</surname><given-names>Y</given-names></name><name><surname>Santos</surname><given-names>MV</given-names></name></person-group><year>2006</year><article-title>Influence of raw milk quality on fluid milk shelf
+life</article-title><source>J Dairy Sci</source><volume>89</volume><fpage>E15</fpage><lpage>E19</lpage><pub-id pub-id-type="pmid">16527874</pub-id></element-citation></ref><ref id="B06"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Beales</surname><given-names>N</given-names></name></person-group><year>2004</year><article-title>Adaptation of microorganisms to cold temperatures, weak acid
+preservatives, low pH, and osmotic stress: a review</article-title><source>Compr Rev Food Sci F</source><volume>3</volume><fpage>1</fpage><lpage>20</lpage></element-citation></ref><ref id="B07"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cha</surname><given-names>C</given-names></name><name><surname>Gao</surname><given-names>P</given-names></name><name><surname>Chen</surname><given-names>YC</given-names></name><etal/></person-group><year>1998</year><article-title>Production of acyl-homoserine lactone quorum-sensing signals by
+gram negative plant-associated bacteria</article-title><source>MPMI</source><volume>11</volume><fpage>1119</fpage><lpage>1129</lpage><pub-id pub-id-type="pmid">9805399</pub-id></element-citation></ref><ref id="B08"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Chattopadhyay</surname><given-names>MK</given-names></name></person-group><year>2006</year><article-title>Mechanism of bacterial adaptation to low
+temperature</article-title><source>J Biosci</source><volume>31</volume><fpage>157</fpage><lpage>165</lpage><pub-id pub-id-type="pmid">16595884</pub-id></element-citation></ref><ref id="B09"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Chen</surname><given-names>L</given-names></name><name><surname>Daniel</surname><given-names>RM</given-names></name><name><surname>Coolbear</surname><given-names>T</given-names></name></person-group><year>2003</year><article-title>Detection and impact of protease and lipase activities in milk
+and milk powders</article-title><source>Int Dairy J</source><volume>13</volume><fpage>255</fpage><lpage>275</lpage></element-citation></ref><ref id="B10"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cleto</surname><given-names>S</given-names></name><name><surname>Matos</surname><given-names>S</given-names></name><name><surname>Kluskens</surname><given-names>L</given-names></name><etal/></person-group><year>2012</year><article-title>Characterization of contaminants from a sanitized milk processing
+plant</article-title><source>PLoS ONE</source><volume>7</volume><fpage>1</fpage><lpage>8</lpage></element-citation></ref><ref id="B11"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Corr&#x000ea;a</surname><given-names>APF</given-names></name><name><surname>Daroit</surname><given-names>DJ</given-names></name><name><surname>Velho</surname><given-names>RV</given-names></name><etal/></person-group><year>2011</year><article-title>Hydrolytic potential of a psychrotrophic
+<italic>Pseudomonas</italic> isolated from refrigerated raw
+milk</article-title><source>Braz J Microbiol</source><volume>42</volume><fpage>1479</fpage><lpage>1484</lpage><pub-id pub-id-type="pmid">24031781</pub-id></element-citation></ref><ref id="B12"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Datta</surname><given-names>N</given-names></name><name><surname>Deeth</surname><given-names>HC</given-names></name></person-group><year>2001</year><article-title>Age Gelation of UHT Milk - A Review</article-title><source>Food Bioprod Process</source><volume>79</volume><fpage>197</fpage><lpage>210</lpage></element-citation></ref><ref id="B13"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>De Jonghe</surname><given-names>V</given-names></name><name><surname>Coorevits</surname><given-names>A</given-names></name><name><surname>Van Hoorde</surname><given-names>K</given-names></name><etal/></person-group><year>2011</year><article-title>Influence of storage conditions on the growth of
+<italic>Pseudomonas</italic> species in refrigerated raw
+milk</article-title><source>Appl Environ Microbiol</source><volume>77</volume><fpage>460</fpage><lpage>470</lpage><pub-id pub-id-type="pmid">21115713</pub-id></element-citation></ref><ref id="B14"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Deeth</surname><given-names>HC</given-names></name></person-group><year>2006</year><article-title>Lipoprotein lipase and lipolysis in milk</article-title><source>Int Dairy J</source><volume>16</volume><fpage>555</fpage><lpage>562</lpage></element-citation></ref><ref id="B15"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Dogan</surname><given-names>B</given-names></name><name><surname>Boor</surname><given-names>KJ</given-names></name></person-group><year>2003</year><article-title>Genetic diversity and spoilage potentials among
+<italic>Pseudomonas</italic> spp. isolated from fluid milk products and
+dairy processing plants</article-title><source>Appl Environ Microbiol</source><volume>69</volume><fpage>130</fpage><lpage>138</lpage><pub-id pub-id-type="pmid">12513987</pub-id></element-citation></ref><ref id="B16"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Dunstall</surname><given-names>G</given-names></name><name><surname>Rowe</surname><given-names>MT</given-names></name><name><surname>Wisdom</surname><given-names>GB</given-names></name><etal/></person-group><year>2005</year><article-title>Effect of quorum sensing agents on the growth kinetics of
+<italic>Pseudomonas</italic> spp. of raw milk origin</article-title><source>J Dairy Res</source><volume>72</volume><fpage>276</fpage><lpage>280</lpage><pub-id pub-id-type="pmid">16174357</pub-id></element-citation></ref><ref id="B17"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ercolini</surname><given-names>D</given-names></name></person-group><year>2004</year><article-title>PCR-DGGE fingerprinting: novel strategies for detection of
+microbes in food</article-title><source>J Microbiol Methods</source><volume>56</volume><fpage>297</fpage><lpage>314</lpage><pub-id pub-id-type="pmid">14967221</pub-id></element-citation></ref><ref id="B18"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ercolini</surname><given-names>D</given-names></name></person-group><year>2013</year><article-title>High-throughput sequencing and metagenomics: moving forward in
+the culture-independent analysis of food microbial ecology</article-title><source>Appl Environ Microbiol</source><volume>79</volume><fpage>3148</fpage><lpage>3155</lpage><pub-id pub-id-type="pmid">23475615</pub-id></element-citation></ref><ref id="B19"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ercolini</surname><given-names>D</given-names></name><name><surname>Russo</surname><given-names>F</given-names></name><name><surname>Ferrocino</surname><given-names>I</given-names></name><etal/></person-group><year>2009</year><article-title>Molecular identification of mesophilic and psychrotrophic
+bacteria from raw cow's milk</article-title><source>Food Microbiol</source><volume>26</volume><fpage>228</fpage><lpage>231</lpage><pub-id pub-id-type="pmid">19171267</pub-id></element-citation></ref><ref id="B20"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Fonseca</surname><given-names>P</given-names></name><name><surname>Moreno</surname><given-names>R</given-names></name><name><surname>Rojo</surname><given-names>F</given-names></name></person-group><year>2011</year><article-title>Growth of <italic>Pseudomonas putida</italic> at low temperature:
+global transcriptomic and proteomic analyses</article-title><source>Environ Microbiol Rep</source><volume>3</volume><fpage>329</fpage><lpage>339</lpage><pub-id pub-id-type="pmid">23761279</pub-id></element-citation></ref><ref id="B21"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Franzetti</surname><given-names>L</given-names></name><name><surname>Scarpellini</surname><given-names>M</given-names></name></person-group><year>2007</year><article-title>Characterisation of <italic>Pseudomonas</italic> spp. isolated
+from foods</article-title><source>Ann Microbiol</source><volume>57</volume><fpage>39</fpage><lpage>47</lpage></element-citation></ref><ref id="B22"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Fuqua</surname><given-names>WC</given-names></name><name><surname>Winans</surname><given-names>SC</given-names></name><name><surname>Greenberg</surname><given-names>EP</given-names></name></person-group><year>1994</year><article-title>Quorum sensing in bacteria: the LuxR-LuxI family of cell
+density-responsive transcriptional regulators</article-title><source>J Bacteriol</source><volume>176</volume><fpage>269</fpage><lpage>275</lpage><pub-id pub-id-type="pmid">8288518</pub-id></element-citation></ref><ref id="B23"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Giannino</surname><given-names>ML</given-names></name><name><surname>Marzotto</surname><given-names>M</given-names></name><name><surname>Dellaglio</surname><given-names>F</given-names></name><etal/></person-group><year>2009</year><article-title>Study of microbial diversity in raw milk and fresh curd used for
+Fontina cheese production by culture-independent methods</article-title><source>Int J Food Microbiol</source><volume>130</volume><fpage>188</fpage><lpage>195</lpage><pub-id pub-id-type="pmid">19232767</pub-id></element-citation></ref><ref id="B24"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hantsis-Zacharov</surname><given-names>E</given-names></name><name><surname>Halpern</surname><given-names>M</given-names></name></person-group><year>2007</year><article-title>Culturable psychrotrophic bacterial communities in raw milk and
+their proteolytic and lipolytic traits</article-title><source>Appl Environ Microbiol</source><volume>73</volume><fpage>7162</fpage><lpage>7168</lpage><pub-id pub-id-type="pmid">17890340</pub-id></element-citation></ref><ref id="B25"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>He</surname><given-names>H</given-names></name><name><surname>Dong</surname><given-names>J</given-names></name><name><surname>Lee</surname><given-names>CN</given-names></name><etal/></person-group><year>2009</year><article-title>Molecular analysis of spoilage-related bacteria in pasteurized
+milk during refrigeration by PCR and denaturing gradient gel
+electrophoresis</article-title><source>J Food Prot</source><volume>72</volume><fpage>572</fpage><lpage>577</lpage><pub-id pub-id-type="pmid">19343946</pub-id></element-citation></ref><ref id="B26"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Jaspe</surname><given-names>A</given-names></name><name><surname>Oviedo</surname><given-names>P</given-names></name><name><surname>Fernandez</surname><given-names>L</given-names></name><etal/></person-group><year>1995</year><article-title>Cooling raw milk: change in the spoilage potential of
+contaminating <italic>Pseudomonas</italic>
+</article-title><source>J Food Prot</source><volume>58</volume><fpage>915</fpage><lpage>921</lpage></element-citation></ref><ref id="B27"><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Jay</surname><given-names>MJ</given-names></name></person-group><year>2005</year><source>Microbiologia de Alimentos</source><edition>6 ed</edition><publisher-name>Artmed</publisher-name><publisher-loc>Porto Alegre</publisher-loc><size units="pages">711</size><volume>I</volume></element-citation></ref><ref id="B28"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lazdunski</surname><given-names>AM</given-names></name><name><surname>Ventre</surname><given-names>I</given-names></name><name><surname>Sturgis</surname><given-names>JN</given-names></name></person-group><year>2004</year><article-title>Regulatory circuits and communication in Gram-negative
+bacteria</article-title><source>Nat Rev Microbiol</source><volume>2</volume><fpage>581</fpage><lpage>592</lpage><pub-id pub-id-type="pmid">15197393</pub-id></element-citation></ref><ref id="B29"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Li</surname><given-names>Y-H</given-names></name><name><surname>Tian</surname><given-names>X</given-names></name></person-group><year>2012</year><article-title>Quorum sensing and bacterial social interactions in
+biofilms</article-title><source>Sensors</source><volume>12</volume><fpage>2519</fpage><lpage>2538</lpage><pub-id pub-id-type="pmid">22736963</pub-id></element-citation></ref><ref id="B30"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Liu</surname><given-names>M</given-names></name><name><surname>Gray</surname><given-names>JM</given-names></name><name><surname>Griffiths</surname><given-names>MW</given-names></name></person-group><year>2006</year><article-title>Occurrence of proteolytic activity and N-acyl-homoserine lactone
+signals in the spoilage of aerobically chill-stored proteinaceous raw
+foods</article-title><source>J Food Prot</source><volume>69</volume><fpage>2729</fpage><lpage>2737</lpage><pub-id pub-id-type="pmid">17133818</pub-id></element-citation></ref><ref id="B31"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Liu</surname><given-names>M</given-names></name><name><surname>Wang</surname><given-names>H</given-names></name><name><surname>Griffiths</surname><given-names>M</given-names></name></person-group><year>2007</year><article-title>Regulation of alkaline metalloprotease promoter by N-acyl
+homoserine lactone quorum sensing in <italic>Pseudomonas
+fluorescens</italic>
+</article-title><source>J Appl Microbiol</source><volume>103</volume><fpage>2174</fpage><lpage>2184</lpage><pub-id pub-id-type="pmid">18045400</pub-id></element-citation></ref><ref id="B32"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ma</surname><given-names>Y</given-names></name><name><surname>Barbano</surname><given-names>DM</given-names></name><name><surname>Santos</surname><given-names>M</given-names></name></person-group><year>2003</year><article-title>Effect of CO2 addition to raw milk on proteolysis and lipolysis
+at 4 &#x000b0;C</article-title><source>J Dairy Sci</source><volume>86</volume><fpage>1616</fpage><lpage>1631</lpage><pub-id pub-id-type="pmid">12778572</pub-id></element-citation></ref><ref id="B33"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mankai</surname><given-names>M</given-names></name><name><surname>Boulares</surname><given-names>M</given-names></name><name><surname>Ben Moussa</surname><given-names>O</given-names></name><etal/></person-group><year>2012</year><article-title>The effect of refrigerated storage of raw milk on the
+physicochemical and microbiological quality of Tunisian semihard Gouda-type
+cheese during ripening</article-title><source>Int J Dairy Technol</source><volume>65</volume><fpage>250</fpage><lpage>259</lpage></element-citation></ref><ref id="B34"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mann</surname><given-names>EE</given-names></name><name><surname>Wozniak</surname><given-names>DJ</given-names></name></person-group><year>2012</year><article-title>
+<italic>Pseudomonas</italic> biofilm matrix composition and niche
+biology</article-title><source>FEMS Microbiol Rev</source><volume>36</volume><fpage>893</fpage><lpage>916</lpage><pub-id pub-id-type="pmid">22212072</pub-id></element-citation></ref><ref id="B35"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Marchand</surname><given-names>S</given-names></name><name><surname>De Block</surname><given-names>J</given-names></name><name><surname>De Jonghe</surname><given-names>V</given-names></name><etal/></person-group><year>2012</year><article-title>Biofilm formation in milk production and processing environments;
+influence on milk quality and safety</article-title><source>Compr Rev Food Sci F</source><volume>11</volume><fpage>133</fpage><lpage>147</lpage></element-citation></ref><ref id="B36"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Marchand</surname><given-names>S</given-names></name><name><surname>Heylen</surname><given-names>K</given-names></name><name><surname>Messens</surname><given-names>W</given-names></name><etal/></person-group><year>2009a</year><article-title>Seasonal influence on heat-resistant proteolytic capacity of
+<italic>Pseudomonas lundensis</italic> and <italic>Pseudomonas
+fragi</italic>, predominant milk spoilers isolated from Belgian raw milk
+samples</article-title><source>Environ Microbiol</source><volume>11</volume><fpage>467</fpage><lpage>482</lpage><pub-id pub-id-type="pmid">19196277</pub-id></element-citation></ref><ref id="B37"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Marchand</surname><given-names>S</given-names></name><name><surname>Vandriesche</surname><given-names>G</given-names></name><name><surname>Coorevits</surname><given-names>A</given-names></name><etal/></person-group><year>2009b</year><article-title>Heterogeneity of heat-resistant proteases from milk
+<italic>Pseudomonas</italic> species</article-title><source>Int J Food Microbiol</source><volume>133</volume><fpage>68</fpage><lpage>77</lpage><pub-id pub-id-type="pmid">19481283</pub-id></element-citation></ref><ref id="B38"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Martin</surname><given-names>NH</given-names></name><name><surname>Ranieri</surname><given-names>ML</given-names></name><name><surname>Murphy</surname><given-names>SC</given-names></name><etal/></person-group><year>2011</year><article-title>Results from raw milk microbiological tests do not predict the
+shelf-life performance of commercially pasteurized fluid
+milk</article-title><source>J Dairy Sci</source><volume>94</volume><fpage>1211</fpage><lpage>1222</lpage><pub-id pub-id-type="pmid">21338787</pub-id></element-citation></ref><ref id="B39"><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Mcphee</surname><given-names>JD</given-names></name><name><surname>Griffiths</surname><given-names>MW</given-names></name></person-group><year>2011</year><chapter-title>Psychrotrophic bacteria <italic>Pseudomonas</italic>
+spp</chapter-title><person-group person-group-type="editor"><name><surname>John</surname><given-names>WF</given-names></name></person-group><source>Encyclopedia of Dairy Sciences</source><edition>Second Edition</edition><publisher-name>Academic Press</publisher-name><publisher-loc>San Diego</publisher-loc><fpage>379</fpage><lpage>383</lpage></element-citation></ref><ref id="B40"><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Moyer</surname><given-names>CL</given-names></name><name><surname>Morita</surname><given-names>RY</given-names></name></person-group><year>2007</year><chapter-title>Psychrophiles and psychrotrophs</chapter-title><person-group person-group-type="editor"><name><surname>Morita</surname><given-names>RY</given-names></name></person-group><source>Encyclopedia of Life Sciences</source><publisher-name>John Wiley &#x00026; Sons Ltd</publisher-name><publisher-loc>Chichester</publisher-loc><fpage>1</fpage><lpage>6</lpage></element-citation></ref><ref id="B41"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Munsch-Alatossava</surname><given-names>P</given-names></name><name><surname>Alatossava</surname><given-names>T</given-names></name></person-group><year>2006</year><article-title>Phenotypic characterization of raw milk-associated psychrotrophic
+bacteria</article-title><source>Microbiol Res</source><volume>161</volume><fpage>334</fpage><lpage>346</lpage><pub-id pub-id-type="pmid">16459065</pub-id></element-citation></ref><ref id="B42"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>N&#x000f6;rnberg</surname><given-names>MFBL</given-names></name><name><surname>Friedrich</surname><given-names>RSC</given-names></name><name><surname>Weiss</surname><given-names>RDN</given-names></name><etal/></person-group><year>2010</year><article-title>Proteolytic activity among psychrotrophic bacteria isolated from
+refrigerated raw milk</article-title><source>Int J Dairy Technol</source><volume>63</volume><fpage>41</fpage><lpage>46</lpage></element-citation></ref><ref id="B43"><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>O'brien</surname><given-names>B</given-names></name><name><surname>Guinee</surname><given-names>TP</given-names></name></person-group><year>2011</year><chapter-title>Milk Seasonal effects on processing properties of cows'
+milk</chapter-title><person-group person-group-type="editor"><name><surname>Fuquay</surname><given-names>JW</given-names></name></person-group><source>Encyclopedia of Dairy Sciences</source><edition>Second Edition</edition><publisher-name>Academic Press</publisher-name><publisher-loc>San Diego</publisher-loc><fpage>598</fpage><lpage>606</lpage></element-citation></ref><ref id="B44"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Oliveira</surname><given-names>MMM</given-names></name><name><surname>Brugnera</surname><given-names>DF</given-names></name><name><surname>Piccoli</surname><given-names>RH</given-names></name></person-group><year>2010</year><article-title>Biofilmes microbianos na ind&#x000fa;stria de alimentos: Uma
+revis&#x000e3;o</article-title><source>Rev Inst Adolfo Lutz</source><volume>69</volume><fpage>277</fpage><lpage>284</lpage></element-citation></ref><ref id="B45"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ozcakir</surname><given-names>O</given-names></name></person-group><year>2007</year><article-title>Viable but non-culturable form of bacteria</article-title><source>Mikrobiyol Bul</source><volume>41</volume><fpage>477</fpage><lpage>484</lpage><pub-id pub-id-type="pmid">17933263</pub-id></element-citation></ref><ref id="B46"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Perin</surname><given-names>LM</given-names></name><name><surname>Moraes</surname><given-names>PM</given-names></name><name><surname>Almeida</surname><given-names>MV</given-names></name><etal/></person-group><year>2012</year><article-title>Interference of storage temperatures in the development of
+mesophilic, psychrotrophic, lipolytic and proteolytic microbiota of raw
+milk</article-title><source>Semin-Cienc Agrar</source><volume>33</volume><fpage>333</fpage><lpage>342</lpage></element-citation></ref><ref id="B47"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Pinto</surname><given-names>CLO</given-names></name><name><surname>Martins</surname><given-names>ML</given-names></name><name><surname>Vanetti</surname><given-names>MCD</given-names></name></person-group><year>2006</year><article-title>Qualidade microbiol&#x000f3;gica de leite cru refrigerado e isolamento de
+bact&#x000e9;rias psicrotr&#x000f3;ficas proteol&#x000ed;ticas</article-title><source>Food Sci Technol (Campinas)</source><volume>26</volume><fpage>645</fpage><lpage>651</lpage></element-citation></ref><ref id="B48"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Pinto</surname><given-names>UM</given-names></name><name><surname>Costa</surname><given-names>ED</given-names></name><name><surname>Mantovani</surname><given-names>HC</given-names></name><etal/></person-group><year>2010</year><article-title>The proteolytic activity of <italic>Pseudomonas
+fluorescens</italic> 07A isolated from milk is not regulated by quorum
+sensing signals</article-title><source>Braz J Microbiol</source><volume>41</volume><fpage>91</fpage><lpage>96</lpage><pub-id pub-id-type="pmid">24031468</pub-id></element-citation></ref><ref id="B49"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Pinto</surname><given-names>UM</given-names></name><name><surname>De Souza Viana</surname><given-names>E</given-names></name><name><surname>Martins</surname><given-names>ML</given-names></name><etal/></person-group><year>2007</year><article-title>Detection of acylated homoserine lactones in gram-negative
+proteolytic psychrotrophic bacteria isolated from cooled raw
+milk</article-title><source>Food Control</source><volume>18</volume><fpage>1322</fpage><lpage>1327</lpage></element-citation></ref><ref id="B50"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Quigley</surname><given-names>L</given-names></name><name><surname>McCarthy</surname><given-names>R</given-names></name><name><surname>O'Sullivan</surname><given-names>O</given-names></name><etal/></person-group><year>2013</year><article-title>The microbial content of raw and pasteurized cow milk as
+determined by molecular approaches</article-title><source>J Dairy Sci</source><volume>96</volume><fpage>4928</fpage><lpage>4937</lpage><pub-id pub-id-type="pmid">23746589</pub-id></element-citation></ref><ref id="B51"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Quigley</surname><given-names>L</given-names></name><name><surname>O'Sullivan</surname></name><name><surname>Beresford</surname><given-names>TP</given-names></name><etal/></person-group><year>2011</year><article-title>Molecular approaches to analysing the microbial composition of
+raw milk and raw milk cheese</article-title><source>Int J Food Microbiol</source><volume>150</volume><fpage>81</fpage><lpage>94</lpage><pub-id pub-id-type="pmid">21868118</pub-id></element-citation></ref><ref id="B52"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Raats</surname><given-names>D</given-names></name><name><surname>Offek</surname><given-names>M</given-names></name><name><surname>Minz</surname><given-names>D</given-names></name><etal/></person-group><year>2011</year><article-title>Molecular analysis of bacterial communities in raw cow milk and
+the impact of refrigeration on its structure and dynamics</article-title><source>Food Microbiol</source><volume>28</volume><fpage>465</fpage><lpage>471</lpage><pub-id pub-id-type="pmid">21356452</pub-id></element-citation></ref><ref id="B53"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ranieri</surname><given-names>ML</given-names></name><name><surname>Huck</surname><given-names>JR</given-names></name><name><surname>Sonnen</surname><given-names>M</given-names></name><etal/></person-group><year>2009</year><article-title>High temperature, short time pasteurization temperatures
+inversely affect bacterial numbers during refrigerated storage of
+pasteurized fluid milk</article-title><source>J Dairy Sci</source><volume>92</volume><fpage>4823</fpage><lpage>4832</lpage><pub-id pub-id-type="pmid">19762797</pub-id></element-citation></ref><ref id="B54"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rasolofo</surname><given-names>EA</given-names></name><name><surname>St-Gelais</surname><given-names>D</given-names></name><name><surname>Lapointe</surname><given-names>G</given-names></name><etal/></person-group><year>2010</year><article-title>Molecular analysis of bacterial population structure and dynamics
+during cold storage of untreated and treated milk</article-title><source>Int J Food Microbiol</source><volume>138</volume><fpage>108</fpage><lpage>118</lpage><pub-id pub-id-type="pmid">20137820</pub-id></element-citation></ref><ref id="B55"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Russell</surname><given-names>NJ</given-names></name></person-group><year>2002</year><article-title>Bacterial membranes: the effects of chill storage and food
+processing. An overview</article-title><source>Int J Food Microbiol</source><volume>79</volume><fpage>27</fpage><lpage>34</lpage><pub-id pub-id-type="pmid">12382682</pub-id></element-citation></ref><ref id="B56"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Samarzija</surname><given-names>D</given-names></name><name><surname>Zamberlin</surname><given-names>S</given-names></name><name><surname>Pogacic</surname><given-names>T</given-names></name></person-group><year>2012</year><article-title>Psychrotrophic bacteria and their negative effects on milk and
+dairy products quality</article-title><source>Mljekarstvo</source><volume>62</volume><fpage>77</fpage><lpage>95</lpage></element-citation></ref><ref id="B57"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sim&#x000f5;es</surname><given-names>M</given-names></name><name><surname>Sim&#x000f5;es</surname><given-names>LC</given-names></name><name><surname>Vieira</surname><given-names>MJ</given-names></name></person-group><year>2008</year><article-title>Physiology and behavior of <italic>Pseudomonas
+fluorescens</italic> single and dual strain biofilms under diverse
+hydrodynamics stresses</article-title><source>Int J Food Microbiol</source><volume>128</volume><fpage>309</fpage><lpage>316</lpage><pub-id pub-id-type="pmid">18951643</pub-id></element-citation></ref><ref id="B58"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Skandamis</surname><given-names>PN</given-names></name><name><surname>Nychas</surname><given-names>GJ</given-names></name></person-group><year>2012</year><article-title>Quorum sensing in the context of food
+microbiology</article-title><source>Appl Environ Microbiol</source><volume>78</volume><fpage>5473</fpage><lpage>5482</lpage><pub-id pub-id-type="pmid">22706047</pub-id></element-citation></ref><ref id="B59"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Smith</surname><given-names>JL</given-names></name><name><surname>Fratamico</surname><given-names>PM</given-names></name><name><surname>Novak</surname><given-names>JS</given-names></name></person-group><year>2004</year><article-title>Quorum sensing: a primer for food microbiologists</article-title><source>J Food Prot</source><volume>67</volume><fpage>1053</fpage><lpage>1070</lpage><pub-id pub-id-type="pmid">15151251</pub-id></element-citation></ref><ref id="B60"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>S&#x000f8;rhaug</surname><given-names>T</given-names></name><name><surname>Stepaniak</surname><given-names>L</given-names></name></person-group><year>1997</year><article-title>Psychrotrophs and their enzymes in milk and dairy products:
+quality aspects</article-title><source>Trends Food Sci Tech</source><volume>8</volume><fpage>35</fpage><lpage>41</lpage></element-citation></ref><ref id="B61"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Teh</surname><given-names>KH</given-names></name><name><surname>Flint</surname><given-names>S</given-names></name><name><surname>Palmer</surname><given-names>J</given-names></name><etal/></person-group><year>2014</year><article-title>Biofilm - An unrecognised source of spoilage enzymes in dairy
+products?</article-title><source>Int Dairy J</source><volume>34</volume><fpage>32</fpage><lpage>40</lpage></element-citation></ref><ref id="B62"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Toyofuku</surname><given-names>M</given-names></name><name><surname>Roschitzki</surname><given-names>B</given-names></name><name><surname>Riedel</surname><given-names>K</given-names></name><etal/></person-group><year>2012</year><article-title>Identification of proteins associated with the
+<italic>Pseudomonas aeruginosa</italic> biofilm extracellular
+matrix</article-title><source>J Proteome Res</source><volume>11</volume><fpage>4906</fpage><lpage>4915</lpage><pub-id pub-id-type="pmid">22909304</pub-id></element-citation></ref><ref id="B63"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Van Den Broek</surname><given-names>D</given-names></name><name><surname>Chin-a-Woeng</surname><given-names>TFC</given-names></name><name><surname>Bloemberg</surname><given-names>GV</given-names></name><etal/></person-group><year>2005</year><article-title>Molecular nature of spontaneous modifications in gacS which cause
+colony phase variation in <italic>Pseudomonas</italic> sp. strain
+pcl1171</article-title><source>J Bacteriol</source><volume>187</volume><fpage>593</fpage><lpage>600</lpage><pub-id pub-id-type="pmid">15629930</pub-id></element-citation></ref><ref id="B64"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Van Der Vossen</surname><given-names>JMBM</given-names></name><name><surname>Hofstra</surname><given-names>H</given-names></name></person-group><year>1996</year><article-title>DNA based typing, identification and detection systems for food
+spoilage microorganisms: development and implementation</article-title><source>Int J Food Microbiol</source><volume>33</volume><fpage>35</fpage><lpage>49</lpage><pub-id pub-id-type="pmid">8913808</pub-id></element-citation></ref><ref id="B65"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Van Tassell</surname><given-names>JA</given-names></name><name><surname>Martin</surname><given-names>NH</given-names></name><name><surname>Murphy</surname><given-names>SC</given-names></name><etal/></person-group><year>2012</year><article-title>Evaluation of various selective media for the detection of
+<italic>Pseudomonas</italic> species in pasteurized milk</article-title><source>J Dairy Sci</source><volume>95</volume><fpage>1568</fpage><lpage>1574</lpage><pub-id pub-id-type="pmid">22365238</pub-id></element-citation></ref></ref-list></back></article>

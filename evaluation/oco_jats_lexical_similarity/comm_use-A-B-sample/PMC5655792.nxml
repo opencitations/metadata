@@ -1,0 +1,955 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Br J Haematol</journal-id><journal-id journal-id-type="iso-abbrev">Br. J. Haematol</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1365-2141</journal-id><journal-id journal-id-type="publisher-id">BJH</journal-id><journal-title-group><journal-title>British Journal of Haematology</journal-title></journal-title-group><issn pub-type="ppub">0007-1048</issn><issn pub-type="epub">1365-2141</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">28707321</article-id><article-id pub-id-type="pmc">5655792</article-id><article-id pub-id-type="doi">10.1111/bjh.14833</article-id><article-id pub-id-type="publisher-id">BJH14833</article-id><article-categories><subj-group subj-group-type="overline"><subject>Research Paper</subject></subj-group><subj-group subj-group-type="heading"><subject>Haematological Malignancy</subject></subj-group></article-categories><title-group><article-title>Expansion of <italic><styled-content style="fixed-case">BCR</styled-content>/<styled-content style="fixed-case">ABL</styled-content>1</italic>
+<sup>+</sup> cells requires <styled-content style="fixed-case">PAK</styled-content>2 but not <styled-content style="fixed-case">PAK</styled-content>1</article-title><alt-title alt-title-type="left-running-head">L. Edlinger <italic>et&#x000a0;al</italic></alt-title></title-group><contrib-group><contrib id="bjh14833-cr-0001" contrib-type="author"><name><surname>Edlinger</surname><given-names>Leo</given-names></name><xref ref-type="aff" rid="bjh14833-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="bjh14833-cr-0002" contrib-type="author"><name><surname>Berger&#x02010;Becvar</surname><given-names>Angelika</given-names></name><xref ref-type="aff" rid="bjh14833-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="bjh14833-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="bjh14833-cr-0003" contrib-type="author"><name><surname>Menzl</surname><given-names>Ingeborg</given-names></name><xref ref-type="aff" rid="bjh14833-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="bjh14833-cr-0004" contrib-type="author"><name><surname>Hoermann</surname><given-names>Gregor</given-names></name><xref ref-type="aff" rid="bjh14833-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="bjh14833-cr-0005" contrib-type="author"><name><surname>Greiner</surname><given-names>Georg</given-names></name><xref ref-type="aff" rid="bjh14833-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="bjh14833-cr-0006" contrib-type="author"><name><surname>Grundschober</surname><given-names>Eva</given-names></name><xref ref-type="aff" rid="bjh14833-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="bjh14833-cr-0007" contrib-type="author"><name><surname>Bago&#x02010;Horvath</surname><given-names>Zsuzsanna</given-names></name><xref ref-type="aff" rid="bjh14833-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="bjh14833-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="bjh14833-cr-0008" contrib-type="author"><name><surname>Al&#x02010;Zoughbi</surname><given-names>Wael</given-names></name><xref ref-type="aff" rid="bjh14833-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="bjh14833-cr-0009" contrib-type="author"><name><surname>Hoefler</surname><given-names>Gerald</given-names></name><xref ref-type="aff" rid="bjh14833-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="bjh14833-cr-0010" contrib-type="author"><name><surname>Brostjan</surname><given-names>Christine</given-names></name><xref ref-type="aff" rid="bjh14833-aff-0006">
+<sup>6</sup>
+</xref></contrib><contrib id="bjh14833-cr-0011" contrib-type="author"><name><surname>Gille</surname><given-names>Lars</given-names></name><xref ref-type="aff" rid="bjh14833-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="bjh14833-cr-0012" contrib-type="author"><name><surname>Moriggl</surname><given-names>Richard</given-names></name><xref ref-type="aff" rid="bjh14833-aff-0007">
+<sup>7</sup>
+</xref><xref ref-type="aff" rid="bjh14833-aff-0008">
+<sup>8</sup>
+</xref></contrib><contrib id="bjh14833-cr-0013" contrib-type="author"><name><surname>Spittler</surname><given-names>Andreas</given-names></name><xref ref-type="aff" rid="bjh14833-aff-0009">
+<sup>9</sup>
+</xref></contrib><contrib id="bjh14833-cr-0014" contrib-type="author"><name><surname>Sexl</surname><given-names>Veronika</given-names></name><xref ref-type="aff" rid="bjh14833-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="bjh14833-cr-0015" contrib-type="author" corresp="yes"><name><surname>Hoelbl&#x02010;Kovacic</surname><given-names>Andrea</given-names></name><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-6219-8794</contrib-id><address><email>andrea.hoelbl@vetmeduni.ac.at</email></address><xref ref-type="aff" rid="bjh14833-aff-0001">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="bjh14833-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Institute of Pharmacology and Toxicology</named-content>
+<named-content content-type="organisation-division">Department of Biomedical Sciences</named-content>
+<institution>University of Veterinary Medicine Vienna</institution>
+<named-content content-type="city">Vienna</named-content>
+<country country="AT">Austria</country>
+</aff><aff id="bjh14833-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Department of Chemical and Physical Sciences</named-content>
+<institution>University of Toronto Mississauga</institution>
+<named-content content-type="city">Mississauga</named-content>
+<named-content content-type="country-part">ON</named-content>
+<country country="CA">Canada</country>
+</aff><aff id="bjh14833-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Department of Laboratory Medicine</named-content>
+<institution>Medical University of Vienna</institution>
+<named-content content-type="city">Vienna</named-content>
+<country country="AT">Austria</country>
+</aff><aff id="bjh14833-aff-0004">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">Clinical Institute of Pathology</named-content>
+<institution>Medical University of Vienna</institution>
+<named-content content-type="city">Vienna</named-content>
+<country country="AT">Austria</country>
+</aff><aff id="bjh14833-aff-0005">
+<label><sup>5</sup></label>
+<named-content content-type="organisation-division">Institute of Pathology</named-content>
+<institution>Medical University of Graz</institution>
+<named-content content-type="city">Graz</named-content>
+<country country="AT">Austria</country>
+</aff><aff id="bjh14833-aff-0006">
+<label><sup>6</sup></label>
+<named-content content-type="organisation-division">Department of Surgery</named-content>
+<named-content content-type="organisation-division">Research Laboratories</named-content>
+<institution>Medical University of Vienna</institution>
+<institution>Vienna General Hospital</institution>
+<named-content content-type="city">Vienna</named-content>
+<country country="AT">Austria</country>
+</aff><aff id="bjh14833-aff-0007">
+<label><sup>7</sup></label>
+<institution>Ludwig Boltzmann Institute for Cancer Research (LBI&#x02010;CR)</institution>
+<named-content content-type="city">Vienna</named-content>
+<country country="AT">Austria</country>
+</aff><aff id="bjh14833-aff-0008">
+<label><sup>8</sup></label>
+<named-content content-type="organisation-division">Institute of Animal Breeding and Genetics</named-content>
+<institution>University of Veterinary Medicine Vienna</institution>
+<named-content content-type="city">Vienna</named-content>
+<country country="AT">Austria</country>
+</aff><aff id="bjh14833-aff-0009">
+<label><sup>9</sup></label>
+<named-content content-type="organisation-division">Core Facility Flow Cytometry &#x00026; Department of Surgery</named-content>
+<named-content content-type="organisation-division">Research Laboratories</named-content>
+<institution>Medical University of Vienna</institution>
+<named-content content-type="city">Vienna</named-content>
+<country country="AT">Austria</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label>
+Correspondence: Andrea Hoelbl&#x02010;Kovacic, Institute of Pharmacology and Toxicology, Department of Biomedical Sciences, University of Veterinary Medicine Vienna (Vetmeduni Vienna), Veterinaerplatz 1, A&#x02010;1210 Vienna, Austria.<break/>
+E&#x02010;mail: <email>andrea.hoelbl@vetmeduni.ac.at</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>14</day><month>7</month><year>2017</year></pub-date><pub-date pub-type="ppub"><month>10</month><year>2017</year></pub-date><volume>179</volume><issue>2</issue><issue-id pub-id-type="doi">10.1111/bjh.2017.179.issue-2</issue-id><fpage>229</fpage><lpage>241</lpage><history><date date-type="received"><day>23</day><month>2</month><year>2017</year></date><date date-type="accepted"><day>30</day><month>5</month><year>2017</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> Copyright &#x000a9; 2017 John Wiley & Sons Ltd <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2017 The Authors. <italic>British Journal of Haematology</italic> published by John Wiley &#x00026; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:BJH-179-229.pdf"/><abstract id="bjh14833-abs-0001"><title>Summary</title><p>The p21&#x02010;activated kinases (<styled-content style="fixed-case">PAK</styled-content>s) are key nodes in oncogenic signalling pathways controlling growth, survival, and motility of cancer cells. Their activity is increased in many human cancers and is associated with poor prognosis. To date, <styled-content style="fixed-case">PAK</styled-content> deregulation has mainly been studied in solid tumours, where <styled-content style="fixed-case">PAK</styled-content>1 and <styled-content style="fixed-case">PAK</styled-content>4 are the main isoforms deregulated. We show that <styled-content style="fixed-case">PAK</styled-content>1 and <styled-content style="fixed-case">PAK</styled-content>2 are the critical isoforms in a <italic><styled-content style="fixed-case">BCR</styled-content>/<styled-content style="fixed-case">ABL</styled-content>1</italic>
+<sup>+</sup> haematopoietic malignancy. In suspension, leukaemic cells deficient for <styled-content style="fixed-case">PAK</styled-content>1 and <styled-content style="fixed-case">PAK</styled-content>2 undergo apoptosis, while the loss of either protein is well tolerated. Transfer of medium conditioned by sh<styled-content style="fixed-case">PAK</styled-content>2&#x02010; but not sh<styled-content style="fixed-case">PAK</styled-content>1&#x02010;expressing leukaemic cells interferes with endothelial cell growth. We found that leukaemic cells produce exosomes containing <styled-content style="fixed-case">PAK</styled-content>2. Transfer of isolated exosomes supports endothelial cell proliferation. In parallel, we found that leukaemic cells explicitly require <styled-content style="fixed-case">PAK</styled-content>2 to grow towards an extracellular matrix. <styled-content style="fixed-case">PAK</styled-content>2&#x02010;deficient cells fail to form colonies in methylcellulose and to induce lymphomas <italic>in&#x000a0;vivo</italic>. <styled-content style="fixed-case">PAK</styled-content>2 might therefore be the critical isoform in leukaemic cells by controlling tumour growth in a dual manner: vascularization via exosome&#x02010;mediated transfer to endothelial cells and remodelling of the extracellular matrix. This finding suggests that the <styled-content style="fixed-case">PAK</styled-content>2 isoform represents a promising target for the treatment of haematological diseases.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="bjh14833-kwd-0001"><styled-content style="fixed-case">PAK</styled-content>2</kwd><kwd id="bjh14833-kwd-0002"><italic><styled-content style="fixed-case">BCR</styled-content>/<styled-content style="fixed-case">ABL</styled-content>1</italic></kwd><kwd id="bjh14833-kwd-0003"><styled-content style="fixed-case">CML</styled-content></kwd><kwd id="bjh14833-kwd-0004">lymphoma</kwd><kwd id="bjh14833-kwd-0005">p21&#x02010;activated kinases</kwd><kwd id="bjh14833-kwd-0006">exosomes</kwd></kwd-group><funding-group><award-group><funding-source>Austrian Science Fund</funding-source><award-id>FWF P&#x02010;24295&#x02010;B23</award-id><award-id>FWF&#x02010;SFB 28</award-id><award-id>FWF&#x02010;SFB F47</award-id></award-group></funding-group><counts><fig-count count="6"/><table-count count="0"/><page-count count="13"/><word-count count="7190"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>bjh14833</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>October 2017</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:5.2.1 mode:remove_FC converted:25.10.2017</meta-value></custom-meta></custom-meta-group></article-meta><notes><fn-group id="bjh14833-ntgp-0001"><fn fn-type="equal" id="bjh14833-note-1001"><p>L.E. and A.BB. contributed equally to the study.</p></fn></fn-group></notes></front><body><p>The p21&#x02010;activated kinases (PAKs) are conserved non&#x02010;receptor serine/threonine kinases integrating a variety of signalling pathways in biological processes, such as proliferation, apoptosis, cytoskeletal structure, and cellular motility (Hofmann <italic>et&#x000a0;al</italic>, <xref rid="bjh14833-bib-0016" ref-type="ref">2004</xref>; Kumar <italic>et&#x000a0;al</italic>, <xref rid="bjh14833-bib-0023" ref-type="ref">2006</xref>; Radu <italic>et&#x000a0;al</italic>, <xref rid="bjh14833-bib-0032" ref-type="ref">2014</xref>; Rane &#x00026; Minden, <xref rid="bjh14833-bib-0034" ref-type="ref">2014</xref>). PAKs are divided into group I PAKs (PAK1, PAK2, and PAK3) and group II PAKs (PAK4, PAK5, and PAK6) based on their sequence, function, and regulation. Originally, PAKs were discovered as effector proteins of the Rho GTPases Cdc42 and Rac1. However, in the last few decades, PAKs have gained increasing attention in tumour biology.</p><p>PAKs act downstream of oncoproteins as regulators of tumour&#x02010;specific signalling pathways (Hofmann <italic>et&#x000a0;al</italic>, <xref rid="bjh14833-bib-0016" ref-type="ref">2004</xref>; Kumar <italic>et&#x000a0;al</italic>, <xref rid="bjh14833-bib-0023" ref-type="ref">2006</xref>; Radu <italic>et&#x000a0;al</italic>, <xref rid="bjh14833-bib-0032" ref-type="ref">2014</xref>; Rane &#x00026; Minden, <xref rid="bjh14833-bib-0034" ref-type="ref">2014</xref>). In human cancer, PAK1 is the most frequently described and studied isoform (Kumar <italic>et&#x000a0;al</italic>, <xref rid="bjh14833-bib-0023" ref-type="ref">2006</xref>). Its increased activity can be caused by elevated protein levels, hyperactivation of GTPases, or downregulated expression of endogenous inhibitors (Kumar <italic>et&#x000a0;al</italic>, <xref rid="bjh14833-bib-0023" ref-type="ref">2006</xref>; Radu <italic>et&#x000a0;al</italic>, <xref rid="bjh14833-bib-0032" ref-type="ref">2014</xref>; Rane &#x00026; Minden, <xref rid="bjh14833-bib-0034" ref-type="ref">2014</xref>). Late stage tumours of tissues, such as brain, breast, ovary, pancreas, or colon, display increased PAK1 activity (Kumar <italic>et&#x000a0;al</italic>, <xref rid="bjh14833-bib-0023" ref-type="ref">2006</xref>). In a murine MCF&#x02010;7 breast cancer model, PAK1 promoted proliferation and anchorage&#x02010;independent growth (Adam <italic>et&#x000a0;al</italic>, <xref rid="bjh14833-bib-0001" ref-type="ref">2000</xref>). However, in recent years, mounting evidence suggests that other PAK members also contribute to tumour formation and progression (Kumar <italic>et&#x000a0;al</italic>, <xref rid="bjh14833-bib-0023" ref-type="ref">2006</xref>; Radu <italic>et&#x000a0;al</italic>, <xref rid="bjh14833-bib-0032" ref-type="ref">2014</xref>; Rane &#x00026; Minden, <xref rid="bjh14833-bib-0034" ref-type="ref">2014</xref>). Gene amplification or increased levels of PAK4 were found in pancreatic cancer cells and are linked to anchorage&#x02010;independent cancer&#x02010;cell growth (Mahlam&#x000e4;ki <italic>et&#x000a0;al</italic>, <xref rid="bjh14833-bib-0025" ref-type="ref">2004</xref>).</p><p>Less is known about the role of PAK2 in cancer despite its pronounced ability to regulate apoptosis. In this regard, PAK2 is unique among PAK isoforms as it can positively or negatively influence apoptosis (Huang <italic>et&#x000a0;al</italic>, <xref rid="bjh14833-bib-0018" ref-type="ref">2003</xref>, <xref rid="bjh14833-bib-0019" ref-type="ref">2004</xref>; Kumar <italic>et&#x000a0;al</italic>, <xref rid="bjh14833-bib-0023" ref-type="ref">2006</xref>; Radu <italic>et&#x000a0;al</italic>, <xref rid="bjh14833-bib-0032" ref-type="ref">2014</xref>). These latter properties qualify PAK2 as a tumour promoter.</p><p>PAK2 is a close homologue of PAK1. However, knockout mice revealed distinct functions for either kinase. Upon loss of PAK1, mice display reduced mast cell degranulation and disturbed glucose homeostasis (Allen <italic>et&#x000a0;al</italic>, <xref rid="bjh14833-bib-0003" ref-type="ref">2009</xref>; Wang <italic>et&#x000a0;al</italic>, <xref rid="bjh14833-bib-0042" ref-type="ref">2011</xref>; Rane &#x00026; Minden, <xref rid="bjh14833-bib-0034" ref-type="ref">2014</xref>). Mice deficient for PAK2 die on embryonic day E8.5 due to defects in endothelial development (Hofmann <italic>et&#x000a0;al</italic>, <xref rid="bjh14833-bib-0016" ref-type="ref">2004</xref>; Radu <italic>et&#x000a0;al</italic>, <xref rid="bjh14833-bib-0033" ref-type="ref">2015</xref>). In adult mice, conditional deletion of PAK2 led to increased vascular permeability (Radu <italic>et&#x000a0;al</italic>, <xref rid="bjh14833-bib-0033" ref-type="ref">2015</xref>).</p><p>In haematopoietic tumours, disease&#x02010;promoting roles have been implicated for PAK1 and PAK2. The level and the activity of PAK1 are increased in myelodysplastic syndrome (MDS) (Pandolfi <italic>et&#x000a0;al</italic>, <xref rid="bjh14833-bib-0029" ref-type="ref">2015</xref>), and a gain in <italic>PAK1</italic> gene copy number was found in cutaneous T cell lymphoma (mycosis fungoides/Sezary syndrome) (Mao <italic>et&#x000a0;al</italic>, <xref rid="bjh14833-bib-0026" ref-type="ref">2003</xref>). The level of PAK2 is increased in mantle cell lymphoma (MCL) and in activated B&#x02010;cell like diffuse large B cell lymphoma (ABC&#x02010;like DLBCL) that harbour 3q29 amplifications. The gain of 3q29 is associated with poor prognosis (Be&#x000e0; <italic>et&#x000a0;al</italic>, <xref rid="bjh14833-bib-0005" ref-type="ref">2004</xref>; Bea <italic>et&#x000a0;al</italic>, <xref rid="bjh14833-bib-0004" ref-type="ref">2005</xref>; Salaverria <italic>et&#x000a0;al</italic>, <xref rid="bjh14833-bib-0036" ref-type="ref">2007</xref>). In <italic>BCR/ABL1</italic>
+<sup>+</sup> leukaemia, PAK1 and PAK2 are upstream regulators of the transcription factor STAT5 &#x02013; a key node for initiation and maintenance of disease (Hoelbl <italic>et&#x000a0;al</italic>, <xref rid="bjh14833-bib-0014" ref-type="ref">2006</xref>, <xref rid="bjh14833-bib-0015" ref-type="ref">2010</xref>; Friedbichler <italic>et&#x000a0;al</italic>, <xref rid="bjh14833-bib-0011" ref-type="ref">2010</xref>; Berger <italic>et&#x000a0;al</italic>, <xref rid="bjh14833-bib-0006" ref-type="ref">2014</xref>).</p><p>Here, we studied the individual roles of PAK1 and PAK2 in <italic>BCR/ABL1</italic>
+<sup>+</sup> leukaemia. Using a combination of <italic>in silico</italic> and loss of function studies <italic>in&#x000a0;vitro</italic> and <italic>in&#x000a0;vivo</italic>, we identified PAK2 as the dominant PAK isoform controlling leukaemic cell survival.</p><sec id="bjh14833-sec-0002"><title>Materials and methods</title><sec id="bjh14833-sec-0003"><title>Mice</title><p>NSG mice (NOD.Cg&#x02010;<italic>Prkdc</italic>
+<sup><italic>scid</italic></sup>
+<italic>Il2rg</italic>tm<sup><italic>1Wjl</italic></sup>/SzJ; The Jackson Laboratory, Bar Harbor, ME, USA) were maintained at the University of Veterinary Medicine Vienna. All animal experiments were approved by the local ethics committee and conform to Austrian law (license BMWFW&#x02010;68.205/0112&#x02010;WF/V/3b/2016).</p></sec><sec id="bjh14833-sec-0004"><title>Cell culture</title><p>The human <italic>BCR/ABL1</italic>
+<sup>+</sup> KU812 cell line was cultured in RPMI medium (Sigma&#x02010;Aldrich, St. Louis, MO, USA) supplemented with 10% fetal calf serum (FCS), 50&#x000a0;&#x003bc;mol/l 2&#x02010;mercaptoethanol, 100&#x000a0;u/ml penicillin, and 100&#x000a0;&#x003bc;g/ml streptomycin (PAA Laboratories GmbH, Pasching, Austria). Human Umbilical Vein Endothelial Cells (HUVEC) cells were cultured in M199 medium (Sigma&#x02010;Aldrich) supplemented with 20% FCS, 100&#x000a0;u/ml penicillin, 100&#x000a0;&#x003bc;g/ml streptomycin (PAA), 0&#x000b7;5&#x000a0;&#x003bc;g/ml amphotericin B, 2&#x000a0;u/ml heparin, 2&#x000a0;mmol/l <sc>l</sc>&#x02010;glutamine, and 100&#x000a0;&#x003bc;g/ml endothelial cell growth supplement. HEK293T packaging cells and murine embryonic fibroblasts (MEFs) were cultured in Dulbecco's modified Eagle's medium (DMEM; Sigma&#x02010;Aldrich) supplemented with 10% FCS, 100&#x000a0;u/ml penicillin, and 100&#x000a0;&#x003bc;g/ml streptomycin (PAA).</p></sec><sec id="bjh14833-sec-0005"><title>shRNA&#x02010;mediated knockdown</title><p>Lentiviral shRNA vectors GIPZ (encoding shPAK1 and eGFP) and pLKO.1 (encoding shPAK2 and mCherry) were prepared according to the manufacturer's instructions (Thermo Scientific, Waltham, MA, USA). Two non&#x02010;targeting shRDM (RHS6848 and RHS4346) vectors were used as controls. The target sequences of the vectors are as follows: shPAK1_V3LHS_347245 (5&#x02032;&#x02010;CCAGAGGTTGTGACACGAA&#x02010;3&#x02032;), shPAK1_ V2LHS_152621 (5&#x02032;&#x02010;CCAAGAAAGAGCTGATTAT&#x02010;3&#x02032;), shPAK2_TRCN0000002115 (5&#x02032;&#x02010; CTCTAGGAACCAAAGTGATTT&#x02010;3&#x02032;), and shPAK2_TRCN0000002116 (5&#x02032;&#x02010; CAGACCTCCAATATCACCAAA&#x02010;3&#x02032;). HEK293T packaging cells were transfected with shRNA constructs as described before (Greiner <italic>et&#x000a0;al</italic>, <xref rid="bjh14833-bib-0013" ref-type="ref">2017</xref>). Virus&#x02010;containing supernatant was used to transduce <italic>BCR/ABL1</italic>
+<sup>+</sup> KU812 cells. Combined knockdown of PAK1 and PAK2 was obtained by serial transduction of KU812 cells.</p></sec><sec id="bjh14833-sec-0006"><title>Subcutaneous transplantation of leukaemic cells</title><p>NSG mice were subcutaneously (s.c.) injected with 10<sup>5</sup> KU812 cells (shRDM, shPAK1, shPAK2, shPAK1/2). After 3&#x000a0;weeks, tumour nodules were palpable and tumour size was measured every other day with a slide caliper and calculated using the formula: <italic>a</italic>&#x000a0;&#x000d7;&#x000a0;<italic>b</italic>/2 (<italic>a</italic>: length of tumour; <italic>b</italic>: tumour width). After 36&#x000a0;days, mice were sacrificed, and tumour weights were determined.</p></sec><sec id="bjh14833-sec-0007"><title>Immunoblotting</title><p>Whole&#x02010;cell lysates were harvested as described previously (Berger <italic>et&#x000a0;al</italic>, <xref rid="bjh14833-bib-0006" ref-type="ref">2014</xref>). Proteins were separated on a 7% sodium dodecyl sulphate polyacrylamide gel and transferred to nitrocellulose membranes. The following antibodies were used for immunoblotting: HSC&#x02010;70 (B&#x02010;6) (SC&#x02010;7298), &#x003b2;&#x02010;Actin (AC&#x02010;15) (SC&#x02010;69879) (Santa Cruz Technology, Dallas, TX, USA), PAK1 (2602), PAK2 (2608), Alix (3A9) (2171), pCRKL<sup>Y207</sup> (3181), pSTAT5<sup>Y694</sup> (C11C5) (9359) (Cell Signaling, Danvers, MA, USA). Chemiluminescent visualisation of the bands was performed with a Chemidoc MP imaging system device after incubation of the membranes with Clarity Western enhanced chemiluminescence reagent (Bio&#x02010;Rad, Hercules, CA, USA).</p></sec><sec id="bjh14833-sec-0008"><title>Imatinib treatment</title><p>KU812 cells (10<sup>6</sup>: 25&#x000a0;&#x000d7;&#x000a0;10<sup>4</sup>&#x000a0;cells/ml) were seeded in six&#x02010;well dishes. Imatinib tyrosine kinase inhibitor (Selleck Chemicals, Munich, Germany) was added at a 2&#x02010;&#x003bc;mol/l concentration (dissolved in 0&#x000b7;02% dimethyl sulfoxide, DMSO), while 0&#x000b7;02% DMSO served as negative control. Treated cells were incubated at 37&#x000b0;C and 5% CO<sub>2</sub>, harvested, washed with phosphate&#x02010;buffered saline (PBS), and immediately lysed as described previously (Schuster <italic>et&#x000a0;al</italic>, <xref rid="bjh14833-bib-0038" ref-type="ref">2007</xref>).</p></sec><sec id="bjh14833-sec-0009"><title>Exosome isolation and flow cytometry</title><p>KU812 cells and MEFs were washed three times with PBS and then cultured for 36&#x000a0;h before exosome isolation. Conditioned media were harvested (120&#x000a0;ml) and centrifuged (480&#x000a0;&#x000d7;&#x000a0;<italic><bold>g</bold></italic> for 5&#x000a0;min, 2000&#x000a0;&#x000d7;&#x000a0;<italic><bold>g</bold></italic> for 10&#x000a0;min, 10&#x000a0;000&#x000a0;&#x000d7;&#x000a0;<italic><bold>g</bold></italic> for 30&#x000a0;min, all steps at 4&#x000b0;C) as described previously (Th&#x000e9;ry <italic>et&#x000a0;al</italic>, <xref rid="bjh14833-bib-0041" ref-type="ref">2006</xref>; Ji <italic>et&#x000a0;al</italic>, <xref rid="bjh14833-bib-0020" ref-type="ref">2013</xref>). Crude exosomes were isolated by repeated ultracentrifugation (100&#x000a0;000&#x000a0;&#x000d7;&#x000a0;<italic><bold>g</bold></italic> for 60&#x000a0;min at 4&#x000b0;C, twice) as described previously (Th&#x000e9;ry <italic>et&#x000a0;al</italic>, <xref rid="bjh14833-bib-0041" ref-type="ref">2006</xref>).</p><p>For flow cytometry, exosomes were labelled with anti&#x02010;CD63&#x02010;fluorescein isothicyanate (FITC) (561924; BD Biosciences, San Jose, CA, USA) and anti&#x02010;CD81&#x02010;allophycocyanin (APC) (561958; BD Biosciences) and analysed on a MoFlo Astrios device using Summit v6.2 software (Beckman Coulter, Brea, CA, USA). Before labelling, antibodies were centrifuged at 45&#x000a0;000&#x000a0;&#x000d7;&#x000a0;<italic><bold>g</bold></italic> for 5&#x000a0;min to exclude antibody aggregates. For assessment of size calibration, silica beads (100, 500, and 1000&#x000a0;nm; Kisker Biotech, Steinfurt, Germany) with a refractory index near to biological material were recorded. 100&#x000a0;nm silica beads clearly discriminated from laser noise. For exosome analysis, events overlaying laser noise were excluded. An effect of swarm/coincidence was excluded as pooled, single&#x02010;stained exosomes did not show any signs of double positivity.</p></sec><sec id="bjh14833-sec-0010"><title>Quantitative real&#x02010;time polymerase chain reaction and angiogenesis array</title><p>RNA was isolated from KU812 (shRDM, shPAK1, shPAK2) cells using the peqGOLD TriFast reagent (Peqlab, Erlangen, Germany). RNA was transcribed with the iSCRIPT cDNA synthesis kit (Bio&#x02010;Rad). Quantitative real&#x02010;time PCR was performed on a MyiQ2 cycler (Bio&#x02010;Rad) with SsoAdvanced SYBR GreenSupermix (Bio&#x02010;Rad). Following primers were used: human <italic>PAK1</italic>: fwd (5&#x02032;&#x02010;3&#x02032;) GCTGTTCTGGATGTGTTGGA, rev (5&#x02032;&#x02010;3&#x02032;) TTCTGAAACTGGTGGCACTG, human <italic>PAK2</italic>: fwd (5&#x02032;&#x02010;3&#x02032;) TGAGCAGAGCAAACGCAGTA, rev (5&#x02032;&#x02010;3&#x02032;) GTACAAGGCCCTCAAGGGAT, and human <italic>RPLP0</italic>: fwd (5&#x02032;&#x02010;3&#x02032;) GAGGGTGTCCGCAATGTT, rev (5&#x02032;&#x02010;3&#x02032;) TTGACCTTTTCAGCAAGTGGGAAG. Target gene expression was normalized to <italic>RPLP0</italic>.</p><p>For the evaluation of deregulated angiogenic factors, we applied a RT&#x000b2; Profiler&#x02122; PCR Array Human Angiogenic Growth Factors (PAHS&#x02010;072Z; Qiagen, Hilden, Germany) according to the manufacturer's instructions.</p></sec><sec id="bjh14833-sec-0011"><title>Growth curve</title><p>High&#x02010;purity sorted cells were plated on a 6&#x02010;well dish. Cell numbers were counted using a haemocytometer.</p></sec><sec id="bjh14833-sec-0012"><title>Histology</title><p>Subcutaneous tumours were paraformaldehyde&#x02010;fixed, paraffin&#x02010;embedded, and stained with Haematoxylin/Eosin and anti&#x02010;Cleaved Caspase&#x02010;3 (D175) (9661; Cell Signaling). The sections were scanned and photographed with a Zeiss AxioImager Z1 (Zeiss, Oberkochen, Germany). Quantification was performed using HistoQuest software (TissueGnostics GmbH, Vienna, Austria) and GraphPad Prism software (GraphPad Software, Inc., San Diego, CA, USA). For the labeling of CD31, sections were incubated with an anti&#x02010;CD31 antibody (MA1&#x02010;40074; Thermo Scientific). Visualization was performed using an Envision horseradish peroxidase (HRP) Polymer System (Dako, Santa Clara, CA, USA). Analyses were performed with a Nikon Eclipse 80i microscope (Nikon, Amsterdam, The Netherlands) supplied with camera. Images were captured using NIS&#x02010;Elements D software (Nikon). For blood vessel density evaluation, labelled sections were scanned using ScanScope<sup>&#x000ae;</sup> AT System (Aperio, Vista, CA, USA) and CD31 positive tumour blood vessels area was calculated using Definiens Tissue Studio software (Definiens, Munich, Germany).</p></sec><sec id="bjh14833-sec-0013"><title>Scratch assay</title><p>HUVEC cells (5&#x000a0;&#x000d7;&#x000a0;10<sup>5</sup>) were seeded in 6&#x02010;well dishes coated with 2% gelatine. In parallel, 10<sup>6</sup>/ml KU812 cells were seeded without FCS and grown overnight. On the next day, supernatants of KU812 cells were collected and poured on HUVEC cells. A plastic pipette tip was used to scratch the confluent monolayer. Gap closure was monitored every 12&#x000a0;h using a CKX41SF microscope and a DP21 digital camera (both from Olympus, Hamburg, Germany). Quantification of the invaded area was performed with ImageJ software (NIH, Bethesda, MD, USA). For the scratch assay in the presence of isolated exosomes, exosomes derived from 2&#x000a0;&#x000d7;&#x000a0;10<sup>8</sup> KU812 cells were administered to 10<sup>5</sup> HUVEC cells in 12&#x02010;well dishes. Exosome&#x02010;free supernatant was harvested after the first ultracentrifugation.</p></sec><sec id="bjh14833-sec-0014"><title>Soft&#x02010;agar assay</title><p>10<sup>3</sup> KU812 cells were seeded in methylcellulose without supplement of cytokines (MethoCult, 03231; STEMCELL Technologies, Vancouver, BC, Canada). Colonies were counted after 14&#x000a0;days and photographed using a CKX41SF microscope and a DP21 digital camera (both from Olympus). Single colonies were picked for quantitative real&#x02010;time polymerase chain reaction (qPCR).</p></sec><sec id="bjh14833-sec-0015"><title>Flow cytometry analysis, antibodies, and cell sorting</title><p>Single&#x02010;cell suspensions were analysed by a BD FACS Canto II flow cytometer equipped with 488, 633, and 405&#x000a0;nm lasers using FACS Diva software (Becton Dickinson, Franklin Lakes, NJ, USA) as described before (Berger <italic>et&#x000a0;al</italic>, <xref rid="bjh14833-bib-0006" ref-type="ref">2014</xref>). Propidium iodide (PI) and apoptosis stainings were performed as described previously (Berger <italic>et&#x000a0;al</italic>, <xref rid="bjh14833-bib-0006" ref-type="ref">2014</xref>) and according to manufacturer's instructions (Annexin V Apoptosis Detection Kit eFluor<sup>&#x000ae;</sup> 450, 88&#x02010;8006; eBioscience, San Diego, CA, USA). eGFP<sup>+</sup> or mCherry<sup>+</sup> KU812 cells were high&#x02010;purity FACS sorted on a FACS Aria III equipped with a 488&#x000a0;nm laser at 4&#x000b0;C (Becton Dickinson). Exosomes were stained with anti&#x02010;CD63&#x02010;FITC (561924; BD Biosciences) and anti&#x02010;CD81&#x02010;APC (561958; BD Biosciences).</p></sec><sec id="bjh14833-sec-0016"><title>Bioinformatic analysis</title><p>Bioinformatic analyses were performed with the publicly available database SurvExpress (<ext-link ext-link-type="uri" xlink:href="http://bioinformatica.mty.itesm.mx:8080/Biomatec/SurvivaX.jsp">http://bioinformatica.mty.itesm.mx:8080/Biomatec/SurvivaX.jsp</ext-link>; Aguirre&#x02010;Gamboa <italic>et&#x000a0;al</italic>, <xref rid="bjh14833-bib-0002" ref-type="ref">2013</xref>). Patients suffering from different haematological disease entities were divided into low&#x02010; and high&#x02010;risk groups according to Aguirre&#x02010;Gamboa <italic>et&#x000a0;al</italic> (<xref rid="bjh14833-bib-0002" ref-type="ref">2013</xref>), and levels of <italic>PAK1</italic> and <italic>PAK2</italic> expression were assessed. Expression of <italic>PAK1&#x02010;6</italic> was assessed with the publicly available software Genevestigator (<ext-link ext-link-type="uri" xlink:href="https://genevestigator.com/gv/">https://genevestigator.com/gv/</ext-link>; Hruz <italic>et&#x000a0;al</italic>, <xref rid="bjh14833-bib-0017" ref-type="ref">2008</xref>). Only disease categories with &#x02265;20 samples were included, and the top 20 hits were shown.</p></sec><sec id="bjh14833-sec-0017"><title>Statistical analyses</title><p>Student's <italic>t</italic>&#x02010;test, one&#x02010;way <sc>anova</sc> (followed by Tukey multiple comparison test), and assessment of half maximal effective concentration (EC50) values were performed using GraphPad Prism software version 5.04 and 6.02 (GraphPad Software, Inc.). Statistical significance is indicated for each experiment specifically (*<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0&#x000b7;05; **<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0&#x000b7;01; ***<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0&#x000b7;001).</p></sec></sec><sec id="bjh14833-sec-0018"><title>Results</title><sec id="bjh14833-sec-0019"><title>Elevated levels of PAK1 and PAK2 in high&#x02010;risk groups of haematological patients</title><p>We performed <italic>in silico</italic> analyses of a publicly available database providing expression data of patients that are assigned to a low&#x02010; or a high&#x02010;risk group (SurvExpress; <ext-link ext-link-type="uri" xlink:href="http://bioinformatica.mty.itesm.mx:8080/Biomatec/SurvivaX.jsp">http://bioinformatica.mty.itesm.mx:8080/Biomatec/SurvivaX.jsp</ext-link>; Aguirre&#x02010;Gamboa <italic>et&#x000a0;al</italic>, <xref rid="bjh14833-bib-0002" ref-type="ref">2013</xref>). SurvExpress data revealed that levels of <italic>PAK2</italic> are significantly elevated in high&#x02010;risk groups of patients suffering from Burkitt lymphoma (BL), multiple myeloma (MM), diffuse large B&#x02010;cell lymphoma (DLBCL), and mantle cell lymphoma (MCL) (Figs&#x000a0;<xref rid="bjh14833-fig-0001" ref-type="fig">1</xref>A and <xref rid="bjh14833-sup-0001" ref-type="supplementary-material">S1</xref>A). The significances of expressions between low&#x02010; and high&#x02010;risk groups are more pronounced with regard to levels of <italic>PAK2</italic> than to <italic>PAK1</italic> (the <italic>P</italic>&#x02010;values differing 1&#x000b7;10&#x000a0;&#x000d7;&#x000a0;10<sup>24</sup> fold (BL), 3&#x000b7;25&#x000a0;&#x000d7;&#x000a0;10<sup>66</sup> fold (MM), and 9&#x000b7;25&#x000a0;&#x000d7;&#x000a0;10<sup>16</sup> fold (DLBCL); Fig&#x000a0;<xref rid="bjh14833-fig-0001" ref-type="fig">1</xref>A). In contrast, and in line with the proposed role of PAK1 in AML pathogenesis, levels of <italic>PAK1</italic> are significantly upregulated in a high&#x02010;risk group of AML patients (Pandolfi <italic>et&#x000a0;al</italic>, <xref rid="bjh14833-bib-0029" ref-type="ref">2015</xref>), whereas levels of <italic>PAK2</italic> are downregulated (Fig <xref rid="bjh14833-sup-0001" ref-type="supplementary-material">S1</xref>B).</p><fig fig-type="Figure" xml:lang="en" id="bjh14833-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Levels of <italic><styled-content style="fixed-case">PAK</styled-content>1</italic> and <italic><styled-content style="fixed-case">PAK</styled-content>2</italic> in low&#x02010; and high&#x02010;risk groups. (A) Expression of <italic><styled-content style="fixed-case">PAK</styled-content>1</italic> and <italic><styled-content style="fixed-case">PAK</styled-content>2</italic> in low&#x02010; and high&#x02010;risk patients suffering from Burkitt lymphoma, multiple myeloma, and diffuse large B&#x02010;cell lymphoma [SurvExpress database (Aguirre&#x02010;Gamboa <italic>et&#x000a0;al</italic>, <xref rid="bjh14833-bib-0002" ref-type="ref">2013</xref>)]. <italic>P</italic>&#x02010;values indicate statistical significance in expression between low&#x02010; and high&#x02010;risk groups. (B, C) Expression of <italic>PAK1</italic> and <italic>PAK2</italic> in haematological diseases according to the Genevestigator database (Hruz <italic>et&#x000a0;al</italic>, <xref rid="bjh14833-bib-0017" ref-type="ref">2008</xref>). Asterisks mark samples of <italic><styled-content style="fixed-case">BCR</styled-content>/<styled-content style="fixed-case">ABL</styled-content>1</italic>
+<sup>+</sup> chronic myeloid leukaemia. <styled-content style="fixed-case">BCR</styled-content>/<styled-content style="fixed-case">ABL</styled-content>:<italic><styled-content style="fixed-case">BCR</styled-content>/<styled-content style="fixed-case">ABL</styled-content>1</italic> fusion gene; <styled-content style="fixed-case">MLL</styled-content>: mixed&#x02010;lineage leukaemia gene, now termed <italic><styled-content style="fixed-case">KMT</styled-content>2A; </italic>
+<styled-content style="fixed-case">NOS</styled-content>: not otherwise specified.</p></caption><graphic id="nlm-graphic-1" xlink:href="BJH-179-229-g001"/></fig><p>As expression data in chronic myeloid leukaemia (CML) or acute lymphoblastic leukaemia (ALL) are not covered by the SurvExpress database, we switched to a different platform (Genevestigator; <ext-link ext-link-type="uri" xlink:href="https://genevestigator.com/gv/">https://genevestigator.com/gv/</ext-link>; Hruz <italic>et&#x000a0;al</italic>, <xref rid="bjh14833-bib-0017" ref-type="ref">2008</xref>) which provides data of <italic>BCR/ABL1</italic>&#x02010;driven diseases. This platform allows the ranking of haematopoietic diseases based on the expression level of a given gene. Diseases with a sample size of at least 20 were included in the analysis. Some observations from the SurvExpress database were recapitulated: MM and MCL are identified among the top 20 diseases ranked according to levels of <italic>PAK1</italic> or <italic>PAK2</italic>. Of note, <italic>PAK1</italic> and <italic>PAK2</italic> [but not <italic>PAK3</italic>,<italic> PAK4</italic>,<italic> PAK5</italic> (<italic>PAK7</italic>), and <italic>PAK6</italic>] are highly expressed in CML and B&#x02010;ALL (Figs&#x000a0;<xref rid="bjh14833-fig-0001" ref-type="fig">1</xref>B,C and <xref rid="bjh14833-sup-0002" ref-type="supplementary-material">S2</xref>A&#x02013;D). These <italic>in silico</italic> analyses indicate a privileged role of PAK1 and/or PAK2 in the pathogenesis of <italic>BCR/ABL1</italic>&#x02010;driven diseases and prompted us to investigate the consequences of PAK1 and PAK2 loss in a <italic>BCR/ABL1</italic>
+<sup>+</sup> disease model.</p></sec><sec id="bjh14833-sec-0020"><title>Combined loss of PAK1 and PAK2 blocks leukaemic cell growth <italic>in&#x000a0;vitro</italic>
+</title><p>We used the <italic>BCR/ABL1</italic>
+<sup>+</sup> KU812 cell line, a widely used system for the study of molecular mechanisms underlying CML pathogenesis (Kishi, <xref rid="bjh14833-bib-0022" ref-type="ref">1985</xref>; Blom <italic>et&#x000a0;al</italic>, <xref rid="bjh14833-bib-0007" ref-type="ref">1992</xref>). We deliberately embarked on a CML and not an ALL cell line model as <italic>PAK1</italic> and <italic>PAK2</italic> expression was more prominently upregulated in CML (Fig&#x000a0;<xref rid="bjh14833-fig-0001" ref-type="fig">1</xref>B and C). To test whether <italic>BCR/ABL1</italic> interferes with PAK1 or PAK2 expression, we treated KU812 cells with the BCR/ABL1 kinase inhibitor Imatinib. No changes in PAK1 and PAK2 levels were detectable (Fig <xref rid="bjh14833-sup-0003" ref-type="supplementary-material">S3</xref>). Stable knockdown of <italic>PAK1</italic>,<italic> PAK2</italic>, or both genes was achieved using an established, miR30&#x02010;shRNA&#x02010;based system (Zuber <italic>et&#x000a0;al</italic>, <xref rid="bjh14833-bib-0044" ref-type="ref">2011</xref>; Fellmann <italic>et&#x000a0;al</italic>, <xref rid="bjh14833-bib-0009" ref-type="ref">2013</xref>; Putz <italic>et&#x000a0;al</italic>, <xref rid="bjh14833-bib-0030" ref-type="ref">2013</xref>, <xref rid="bjh14833-bib-0031" ref-type="ref">2014</xref>; Berger <italic>et&#x000a0;al</italic>, <xref rid="bjh14833-bib-0006" ref-type="ref">2014</xref>; Scheicher <italic>et&#x000a0;al</italic>, <xref rid="bjh14833-bib-0037" ref-type="ref">2015</xref>). Knockdown efficiencies were verified by qPCR and immunoblotting (Fig&#x000a0;<xref rid="bjh14833-fig-0002" ref-type="fig">2</xref>A and B). For double knockdown, KU812 cells were first transduced with an shPAK1 construct, then high&#x02010;purity sorted, and finally transduced with an shPAK2&#x02010;encoding construct. Whereas KU812 cells either expressing shPAK1 or shPAK2 readily grew out, we failed &#x02013; despite repeated efforts &#x02013; to generate KU812 cells that tolerated knockdown of both <italic>PAK1</italic> and <italic>PAK2</italic> (Fig&#x000a0;<xref rid="bjh14833-fig-0002" ref-type="fig">2</xref>C). Apoptotic cells were significantly increased upon <italic>PAK1/2</italic> double knockdown (Fig&#x000a0;<xref rid="bjh14833-fig-0002" ref-type="fig">2</xref>D).</p><fig fig-type="Figure" xml:lang="en" id="bjh14833-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Combined knockdown of <italic><styled-content style="fixed-case">PAK</styled-content>1</italic> and <italic><styled-content style="fixed-case">PAK</styled-content>2</italic> leads to cell death in human <italic><styled-content style="fixed-case">BCR</styled-content>/<styled-content style="fixed-case">ABL</styled-content>1</italic>
+<sup>+</sup>
+<styled-content style="fixed-case">KU</styled-content>812 cells. (A) Knockdown of <italic><styled-content style="fixed-case">PAK</styled-content>1</italic> or <italic><styled-content style="fixed-case">PAK</styled-content>2</italic> in <styled-content style="fixed-case">KU</styled-content>812 cells confirmed by <styled-content style="fixed-case">qPCR</styled-content> (<italic>n</italic>&#x000a0;=&#x000a0;3). Rel. expr. comp.: Relative expression compared. (B) Immunoblotting of <styled-content style="fixed-case">KU</styled-content>812 cells expressing sh<styled-content style="fixed-case">RDM</styled-content>, sh<styled-content style="fixed-case">PAK</styled-content>1, or sh<styled-content style="fixed-case">PAK</styled-content>2. <styled-content style="fixed-case">HSC</styled-content>70 served as loading control. (C) Growth curves of <styled-content style="fixed-case">KU</styled-content>812 cells expressing sh<styled-content style="fixed-case">RDM</styled-content>, sh<styled-content style="fixed-case">PAK</styled-content>1, sh<styled-content style="fixed-case">PAK</styled-content>2, or sh<styled-content style="fixed-case">PAK</styled-content>1/2 (experiment in triplicates). (D) Frequencies of Annexin V<sup>+</sup> cells determined by <styled-content style="fixed-case">FACS</styled-content> on day 11 after high&#x02010;purity sorting of vector&#x02010;positive cells (<italic>n</italic>&#x000a0;=&#x000a0;3). Graphs represent means&#x000a0;&#x000b1;&#x000a0;<styled-content style="fixed-case">SEM</styled-content>. (E) Serum withdrawal of <styled-content style="fixed-case">KU</styled-content>812 cells expressing sh<styled-content style="fixed-case">RDM</styled-content>, sh<styled-content style="fixed-case">PAK</styled-content>1, or sh<styled-content style="fixed-case">PAK</styled-content>2 (<italic>n</italic>&#x000a0;=&#x000a0;3). <styled-content style="fixed-case">FCS</styled-content>, fetal calf serum.</p></caption><graphic id="nlm-graphic-3" xlink:href="BJH-179-229-g002"/></fig><p>Cell cycle progression of shPAK1 and shPAK2 KU812 cells was assessed by propidium iodide (PI) staining and revealed a significantly reduced S&#x02010;phase in shPAK2 cells (Fig <xref rid="bjh14833-sup-0004" ref-type="supplementary-material">S4</xref>A and B). This defect did not translate into a different kinetic when performing growth curves (Fig&#x000a0;<xref rid="bjh14833-fig-0002" ref-type="fig">2</xref>C). To test whether the loss of PAK1 or PAK2 sensitizes cells for apoptosis, we performed a serum withdrawal assay. shPAK1&#x02010;, shPAK2&#x02010;, or random shRNA&#x02010;(shRDM&#x02010;)expressing KU812 cells were subjected to decreasing doses of FCS, and the frequency of cell death was determined. No changes were observed upon loss of PAK1 or PAK2 (EC50 of shRDM: 5&#x000b7;498%, shPAK1: 5&#x000b7;490%, shPAK2: 5&#x000b7;502%) (Fig&#x000a0;<xref rid="bjh14833-fig-0002" ref-type="fig">2</xref>E). To sum up, our observations indicate that the individual loss of PAK1 or PAK2 is well tolerated whereas the combined loss of both proteins is incompatible with survival of <italic>BCR/ABL1</italic>
+<sup>+</sup> cells <italic>in&#x000a0;vitro</italic>.</p></sec><sec id="bjh14833-sec-0021"><title>PAK2 but not PAK1 is required for growth in a factor&#x02010;free soft agar</title><p>PAKs have been well described to integrate signals from the environment to mediate cell adhesion, cytoskeletal architecture, and proliferation (Hofmann <italic>et&#x000a0;al</italic>, <xref rid="bjh14833-bib-0016" ref-type="ref">2004</xref>; Kumar <italic>et&#x000a0;al</italic>, <xref rid="bjh14833-bib-0023" ref-type="ref">2006</xref>; Li <italic>et&#x000a0;al</italic>, <xref rid="bjh14833-bib-0024" ref-type="ref">2011</xref>; Radu <italic>et&#x000a0;al</italic>, <xref rid="bjh14833-bib-0032" ref-type="ref">2014</xref>; Rane &#x00026; Minden, <xref rid="bjh14833-bib-0034" ref-type="ref">2014</xref>). We tested the requirement for PAK1 and PAK2 in colony formation and performed methylcellulose assays. To obviate a potential mechanism that might counter&#x02010;regulate efficient knockdown, we performed these experiments immediately after sorting of shPAK1&#x02010; or shPAK2&#x02010;expressing cells. Colony numbers of shPAK2&#x02010;expressing cells were significantly reduced after 14&#x000a0;days (Fig&#x000a0;<xref rid="bjh14833-fig-0003" ref-type="fig">3</xref>A and B). In contrast, the knockdown of <italic>PAK1</italic> resulted in a mild decrease of colony numbers, which failed to reach the level of significance (Fig&#x000a0;<xref rid="bjh14833-fig-0003" ref-type="fig">3</xref>B). We noted that the few colonies in the shPAK2 setup had regained <italic>PAK2</italic> expression (Fig&#x000a0;<xref rid="bjh14833-fig-0003" ref-type="fig">3</xref>C). These data suggest that PAK2 is required for growth in a soft&#x02010;agar assay, an effect that cannot be compensated for by PAK1. Only upregulation of PAK2 in an shPAK2 background allows colony formation.</p><fig fig-type="Figure" xml:lang="en" id="bjh14833-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>
+<italic><styled-content style="fixed-case">PAK</styled-content>2</italic> knockdown decreases colony formation. (A) Colony formation assays of <styled-content style="fixed-case">KU</styled-content>812 cells expressing sh<styled-content style="fixed-case">RDM</styled-content>, sh<styled-content style="fixed-case">PAK</styled-content>1, or sh<styled-content style="fixed-case">PAK</styled-content>2 (<italic>n</italic>&#x000a0;=&#x000a0;4). (B) Quantification of colonies depicted in (A). Graphs represent means&#x000a0;&#x000b1;&#x000a0;<styled-content style="fixed-case">SEM</styled-content>. (C) Expression of <italic><styled-content style="fixed-case">PAK</styled-content>1</italic> and <italic><styled-content style="fixed-case">PAK</styled-content>2</italic> in single sh<styled-content style="fixed-case">PAK</styled-content>2<sup>+</sup> colonies. Rel. expr. comp.: Relative expression compared.</p></caption><graphic id="nlm-graphic-5" xlink:href="BJH-179-229-g003"/></fig></sec><sec id="bjh14833-sec-0022"><title>Loss of PAKs in leukaemic cells affects endothelial cell growth/proliferation</title><p>PAKs have been implicated in angiogenesis (Radu <italic>et&#x000a0;al</italic>, <xref rid="bjh14833-bib-0032" ref-type="ref">2014</xref>, <xref rid="bjh14833-bib-0033" ref-type="ref">2015</xref>), and we tested whether PAK1 or PAK2 in leukaemic cells influences surrounding endothelial tissue. We performed an <italic>in&#x000a0;vitro</italic> wound&#x02010;healing assay using human endothelial cells (HUVEC). HUVEC cells were grown to confluency, harmed by a scratch, and allowed to recover in the presence of conditioned medium (derived from KU812 cells expressing either the shPAK1 or the shPAK2 construct). The presence of &#x02018;shPAK1 supernatant&#x02019; interfered with healing of the scratch after 6 and 12&#x000a0;h, but not after 24&#x000a0;h (Fig&#x000a0;<xref rid="bjh14833-fig-0004" ref-type="fig">4</xref>A and B). The effect of the &#x02018; shPAK2 supernatant&#x02019; was even more pronounced as no efficient scratch healing was achieved within 24&#x000a0;h (Fig&#x000a0;<xref rid="bjh14833-fig-0004" ref-type="fig">4</xref>C and D). From these data, we conclude that PAK2 and, to a lesser extent, PAK1 expression in leukaemic cells controls/delays the proliferation of surrounding endothelial cells, suggesting an <italic>in&#x000a0;vivo</italic> role in tumour angiogenesis.</p><fig fig-type="Figure" xml:lang="en" id="bjh14833-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Knockdown of <italic><styled-content style="fixed-case">PAK</styled-content>2</italic> in human <italic><styled-content style="fixed-case">BCR</styled-content>/<styled-content style="fixed-case">ABL</styled-content>1</italic>
+<sup>+</sup>
+<styled-content style="fixed-case">KU</styled-content>812 cells interferes with endothelial cell growth. (A, C) Representative images of wound&#x02010;healing assays. Widths of scratches are indicated by black lines. (B, D) Quantification of the invaded area at indicated time points. Graphs represent means&#x000a0;&#x000b1;&#x000a0;<styled-content style="fixed-case">SEM</styled-content> (<italic>n</italic>&#x000a0;=&#x000a0;6).</p></caption><graphic id="nlm-graphic-7" xlink:href="BJH-179-229-g004"/></fig></sec><sec id="bjh14833-sec-0023"><title>KU812 cells produce exosomes that contain PAK2</title><p>To understand how leukaemic cell&#x02010;derived PAK expression impacts on endothelial cell growth via their supernatant, we tested the following ideas: First, PAK2 might regulate the transcription of angiogenic factors, which are secreted into the supernatant and interfere with endothelial cell proliferation. Alternatively, PAK2 may be contained in exosomes derived from KU812 cells, which fuse with endothelial cells. Thereby, PAK2 might directly regulate angiogenesis as described in a different cellular system (Gopal <italic>et&#x000a0;al</italic>, <xref rid="bjh14833-bib-0012" ref-type="ref">2016</xref>).</p><p>To test the first hypothesis, we performed a gene expression array that covered 84 genes involved in angiogenesis. We found a significant number of genes that interfere with angiogenesis or vascularization to be upregulated in shPAK2&#x02010;expressing KU812 cells (such as <italic>TIMP1</italic>,<italic> BTG1</italic>,<italic> THBS1</italic>,<italic> IL12A</italic>,<italic> IL12B,</italic> or <italic>TIMP4</italic>; Fig <xref rid="bjh14833-sup-0005" ref-type="supplementary-material">S5</xref>). We also found downregulation of e.g. the angiogenic sprouting promoting factor <italic>TNF</italic> (data not shown).</p><p>In parallel, we investigated whether KU812 cells produce exosomes. Exosomes were isolated using a standard ultracentrifugation&#x02010;based method, and their presence was verified using two different approaches. We pioneered and detected KU812 cell&#x02010;derived exosomes using a high resolution flow cytometer that allows resolving particles down to 0&#x000b7;1&#x000a0;&#x003bc;m. Exosomes either occur in isolation (size of 30&#x02013;150&#x000a0;nm) or as clusters (Zomer <italic>et&#x000a0;al</italic>, <xref rid="bjh14833-bib-0043" ref-type="ref">2010</xref>; Paggetti <italic>et&#x000a0;al</italic>, <xref rid="bjh14833-bib-0028" ref-type="ref">2015</xref>). In line with this concept, we assessed exosome marker expression (CD81, CD63) on two different populations: particles of 100&#x02013;200&#x000a0;nm and of ~1&#x000a0;&#x003bc;m size (Fig&#x000a0;<xref rid="bjh14833-fig-0005" ref-type="fig">5</xref>A). We identified positive staining in both populations. As the shifts of the &#x02018;100&#x02013;200&#x000a0;nm particle&#x02019; fraction were mild (most presumably a result of lower possible fluorescence intensity per particle due to the small size), we also assessed geometric mean values (Fig&#x000a0;<xref rid="bjh14833-fig-0005" ref-type="fig">5</xref>B). Geometric means of CD63 and CD81 expression shifted significantly compared to unstained exosomes. A complete set of controls is available in Fig <xref rid="bjh14833-sup-0006" ref-type="supplementary-material">S6</xref>.</p><fig fig-type="Figure" xml:lang="en" id="bjh14833-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>Human <italic><styled-content style="fixed-case">BCR</styled-content>/<styled-content style="fixed-case">ABL</styled-content>1</italic>
+<sup>+</sup>
+<styled-content style="fixed-case">KU</styled-content>812 cells produce exosomes that carry <styled-content style="fixed-case">PAK</styled-content>2. (A) Flow cytometry of isolated exosomes (ultracentrifugation&#x02010;based method). Single exosomes (100&#x02013;200&#x000a0;nm particles) and clusters of exosomes (~1&#x000a0;&#x003bc;m particles) were stained for exosome markers <styled-content style="fixed-case">CD</styled-content>63 and <styled-content style="fixed-case">CD</styled-content>81. (B) Geometric means of unstained and <styled-content style="fixed-case">CD</styled-content>61 or <styled-content style="fixed-case">CD</styled-content>83 positive populations in both fractions. (C) Immunoblotting of isolated exosomes for the exosome marker <styled-content style="fixed-case">ALIX</styled-content> and for <styled-content style="fixed-case">PAK</styled-content>2. (D) Representative pictures of wound&#x02010;healing assays in the presence of isolated exosomes (ultracentrifugation&#x02010;based method) or exosome&#x02010;deprived supernatant. Widths of scratches are indicated by black lines. (E) Quantification of the invaded area at indicated time points. Graphs represent means&#x000a0;&#x000b1;&#x000a0;<styled-content style="fixed-case">SEM</styled-content> (<italic>n</italic>&#x000a0;=&#x000a0;3). <styled-content style="fixed-case">FCS</styled-content>, fetal calf serum; <styled-content style="fixed-case">SN</styled-content>, supernatant; <styled-content style="fixed-case">UC</styled-content>, ultracentrifugation; w/o, without.</p></caption><graphic id="nlm-graphic-9" xlink:href="BJH-179-229-g005"/></fig><p>The identity of the isolated exosomes was also confirmed by immunoblotting for the exosome marker ALIX. Of note, we detected that these exosomes contain PAK2 (Fig&#x000a0;<xref rid="bjh14833-fig-0005" ref-type="fig">5</xref>C). In line with the concept that PAK2 confers proliferation of endothelial cells, we found that these PAK2&#x02010;containing exosomes accelerate scratch healing, whereas exosome&#x02010;deprived supernatant hardly showed any effect (Fig&#x000a0;<xref rid="bjh14833-fig-0005" ref-type="fig">5</xref>D and&#x000a0;E).</p></sec><sec id="bjh14833-sec-0024"><title>PAK2 but not PAK1 is required for lymphoma growth in mice</title><p>We performed <italic>in&#x000a0;vivo</italic> studies and used NOD.Cg&#x02010;<italic>Prkdc</italic>
+<sup><italic>scid</italic></sup>
+<italic>Il2rg</italic>
+<sup><italic>tm1Wjl</italic></sup>/SzJ (NSG) mice in a xenotransplantation setting (Fig&#x000a0;<xref rid="bjh14833-fig-0006" ref-type="fig">6</xref>A). NSG mice lack the adaptive immune system, permit engraftment of human cells, and are ideally suited for studying tumour&#x02010;cell intrinsic effects <italic>in&#x000a0;vivo</italic> (Shultz <italic>et&#x000a0;al</italic>, <xref rid="bjh14833-bib-0039" ref-type="ref">2005</xref>, <xref rid="bjh14833-bib-0040" ref-type="ref">2007</xref>). High&#x02010;purity sorted shRDM&#x02010;, shPAK1&#x02010;, shPAK2&#x02010;, or shPAK1/2&#x02010;expressing KU812 cells were injected subcutaneously. Tumour volume was measured every 2&#x02013;3&#x000a0;days over a period of 36&#x000a0;days. Tumour size in mice that had received shRDM&#x02010; or shPAK1&#x02010;expressing cells gradually increased up to 0&#x000b7;35&#x000a0;&#x000b1;&#x000a0;0&#x000b7;14&#x000a0;cm&#x000b3; (shRDM) / 0&#x000b7;43&#x000a0;&#x000b1;&#x000a0;0&#x000b7;12&#x000a0;cm<sup>3</sup> (shPAK1) within 36&#x000a0;days. In line with the inability to form stable cell lines <italic>in&#x000a0;vitro</italic>, the shPAK1&#x02010;expressing cells lost their tumourigenic potential upon additional loss of PAK2 (Fig&#x000a0;<xref rid="bjh14833-fig-0006" ref-type="fig">6</xref>B). The single loss of PAK2 sufficed to interfere with tumour development (Fig&#x000a0;<xref rid="bjh14833-fig-0006" ref-type="fig">6</xref>B). However, after a latency of 32&#x000a0;days, small tumours (0&#x000b7;01&#x000a0;&#x000b1;&#x000a0;0&#x000b7;01&#x000a0;cm&#x000b3;) arose (0&#x000b7;04&#x000a0;&#x000b1;&#x000a0;0&#x000b7;02&#x000a0;cm&#x000b3; after 36&#x000a0;days) in the shPAK2 cohort. shPAK1/2&#x02010;expressing KU812 cells failed to form tumours. Hence, we failed to harvest biological material to perform further studies on histology or expression levels. We proceeded with the shRDM and shPAK1 cohorts for further analyses. Levels of PAK1 remained low throughout tumour development <italic>in&#x000a0;vivo</italic> (Fig&#x000a0;<xref rid="bjh14833-fig-0006" ref-type="fig">6</xref>C). Histological sections of tumours showed comparable levels of blood vessel density in the shRDM cohort (2144&#x000a0;&#x000b1;&#x000a0;341/mm&#x000b2;) and the shPAK1 cohort (2126&#x000a0;&#x000b1;&#x000a0;598/mm&#x000b2;) as determined by CD31 staining (Fig&#x000a0;<xref rid="bjh14833-fig-0006" ref-type="fig">6</xref>D). In addition, there was no significant difference with regard to apoptotic cells within tumour tissue between shRDM (84&#x000a0;&#x000b1;&#x000a0;13/mm&#x000b2;) and shPAK1 cohorts (69&#x000a0;&#x000b1;&#x000a0;11/mm&#x000b2;) (Fig&#x000a0;<xref rid="bjh14833-fig-0006" ref-type="fig">6</xref>E).</p><fig fig-type="Figure" xml:lang="en" id="bjh14833-fig-0006" orientation="portrait" position="float"><label>Figure 6</label><caption><p>Loss of <italic><styled-content style="fixed-case">PAK</styled-content>2</italic> abrogates tumour formation of human <italic><styled-content style="fixed-case">BCR</styled-content>/<styled-content style="fixed-case">ABL</styled-content>1</italic>
+<sup>+</sup>
+<styled-content style="fixed-case">KU</styled-content>812 cells <italic>in&#x000a0;vivo</italic>. (A) Scheme&#x000a0;of experimental setup. Mice were injected subcutaneously with 10<sup>5</sup>
+<styled-content style="fixed-case">KU</styled-content>812 cells per flank, and solid tumours were dissected after 36&#x000a0;days. (B) Tumour volumes over a period of 36&#x000a0;days. (C) Protein levels of <styled-content style="fixed-case">PAK</styled-content>1 in <italic>ex&#x02010;vivo</italic> derived tumour samples as determined by immunoblotting. (D) Immunohistochemical staining for <styled-content style="fixed-case">CD</styled-content>31 (blood vessel density) in subcutaneous tumours. (E) Immunohistochemical staining for Cleaved Caspase&#x02010;3 in subcutaneous tumours.</p></caption><graphic id="nlm-graphic-11" xlink:href="BJH-179-229-g006"/></fig></sec></sec><sec id="bjh14833-sec-0025"><title>Discussion</title><p>Our study identifies PAK2 as key molecule for tumour cell growth and proliferation of endothelial tissue. Expression of PAK2 in leukaemic cells facilitates tumour development <italic>in&#x000a0;vivo</italic>, formation of colonies <italic>in&#x000a0;vitro</italic>, and endothelial cell proliferation. These abilities are not shared by its homologue PAK1.</p><p>Two independent sets of data support the unique role of PAK2 in tumourigenesis. PAK2&#x02010;deficient KU812 cells failed to grow in growth factor&#x02010;free soft agar &#x02013; the few arising colonies showing compensatory upregulation of <italic>PAK2</italic>. Secondly, lymphoma formation <italic>in&#x000a0;vivo</italic> was significantly impaired upon loss of PAK2. The defect in colony formation could be explained in two ways. KU812 cells require a certain cytokine or growth factor concentration that is continuously provided in suspension culture but not in a semi&#x02010;solid soft agar system. Alternatively, they are independent from extracellular factors but express factors that &#x02018;cut&#x02019; the extracellular matrix (ECM) to allow expansion and colony formation. The latter concept is in line with the described roles of PAK1 and PAK2 in ECM remodelling: PAK1 enhances the expression of matrix metalloproteinase (MMP)1 and MMP3 in breast cancer cells and thereby supports the degradation of the extratumoural matrix (Rider <italic>et&#x000a0;al</italic>, <xref rid="bjh14833-bib-0035" ref-type="ref">2013</xref>). PAK2 increases the motility of ovarian cancer cells by enhancing breakdown of collagen type I (Flate &#x00026; Stalvey, <xref rid="bjh14833-bib-0010" ref-type="ref">2014</xref>). Our data support the latter concept because inhibitors for metalloproteinases (<italic>TIMP1</italic>,<italic> TIMP4</italic>) are increased upon knockdown of <italic>PAK2</italic>.</p><p>Our observation regarding the pivotal role of PAK2 in colony formation is shared by other groups studying different tumour types. Human prostatic adenocarcinoma cells and skin epidermal cells that are subjected to epidermal growth factor&#x02010;induced transformation show reduced colony formation upon loss of PAK2 (Li <italic>et&#x000a0;al</italic>, <xref rid="bjh14833-bib-0024" ref-type="ref">2011</xref>; Jiang <italic>et&#x000a0;al</italic>, <xref rid="bjh14833-bib-0021" ref-type="ref">2015</xref>).</p><p>Tumour&#x02010;derived PAK2 may act in a dual manner: it provides angiogenic factors by intracellular signalling, and it is shipped from the tumour to the endothelium via exosomes. Our study might unite two previous and independent observations: (i) leukaemic cells form exosomes (as shown for B&#x02010;CLL cells, Paggetti <italic>et&#x000a0;al</italic>, <xref rid="bjh14833-bib-0028" ref-type="ref">2015</xref>) and (ii) PAK2 can be packaged into exosomes (as shown for MDCK cells, Gopal <italic>et&#x000a0;al</italic>, <xref rid="bjh14833-bib-0012" ref-type="ref">2016</xref>). We show here, for the first time, that the CML cell line KU812 also produces exosomes and that PAK2 is packaged into these particles. We show that the administration of these particles then mobilizes endothelial cells and increases gap closure.</p><p>Of note, the defect in colony formation and in mobilization of endothelial cells translated to the inability to form solid tumours <italic>in&#x000a0;vivo</italic>. This parallelism suggests that results derived from a soft&#x02010;agar assay are predictive for effects on tumour formation <italic>in&#x000a0;vivo</italic> and underscores the importance of soft&#x02010;agar assays as screening models for lymphomagenesis. In methylcellulose, important features of tumour cells are requested: the breakdown of the ECM and invasion into the surrounding tissue, which is not necessary when cells grow in suspension culture.</p><p>Our data suggest that PAK2 (but not PAK1) is required for these processes in haematopoietic tumour cells. The significance of PAK2 might be explained by its involvement in multiple pathways with the potential to drive ECM remodelling and motility of cancer cells, including those featuring cytoskeletal effector proteins (Misra <italic>et&#x000a0;al</italic>, <xref rid="bjh14833-bib-0027" ref-type="ref">2005</xref>; Kumar <italic>et&#x000a0;al</italic>, <xref rid="bjh14833-bib-0023" ref-type="ref">2006</xref>; Chen <italic>et&#x000a0;al</italic>, <xref rid="bjh14833-bib-0008" ref-type="ref">2009</xref>; Flate &#x00026; Stalvey, <xref rid="bjh14833-bib-0010" ref-type="ref">2014</xref>; Radu <italic>et&#x000a0;al</italic>, <xref rid="bjh14833-bib-0032" ref-type="ref">2014</xref>).</p><p>Without the challenge of a surrounding matrix, PAK1 and PAK2 appear to compensate for each other. Cell cycle progression is mildly affected upon loss of PAK2, which is in line with a reduced mitotic timing (Jiang <italic>et&#x000a0;al</italic>, <xref rid="bjh14833-bib-0021" ref-type="ref">2015</xref>). However, this defect did not translate into differences in growth curve kinetics, suggesting compensation by PAK1. Consistent with this interpretation, the combined loss of PAK1 and PAK2 abrogated leukaemic cell growth <italic>in&#x000a0;vitro</italic>. The unique role of PAK2 in haematopoietic tumour development only becomes apparent upon growing towards the resistance of a surrounding tissue.</p><p>The presence of PAK2 regulates haematopoietic tumour growth <italic>in&#x000a0;vivo</italic> and cannot be compensated for by PAK1. This observation indicates that a compensatory upregulation of PAK1 upon a PAK2&#x02010;directed therapy will not interfere with therapeutic success. It may be valuable to assess the mutational status and levels of <italic>PAK2</italic> in patients suffering from haematopoietic diseases, focussing on lymphomas. Over&#x02010;activation of PAK2 might be indicative of an invasive, highly aggressive phenotype. A better understanding of the individual roles of PAK proteins in haematopoietic tumours may foster the development of precision medicine strategies.</p></sec><sec id="bjh14833-sec-0027"><title>Author contributions</title><p>L.E. and A.BB. contributed equally to the study. L.E., A.BB., L.G., V.S., A.HK. designed the study. L.E. and A.BB. performed the experiments and collected the data. L.E., A.BB., I.M., Z.BH., W.AZ., A.S., V.S., A.HK. analysed and interpreted the data. G. Hoermann, G.G., E.G., G. Hoefler, C.B., L.G., R.M., A.S. provided essential resources. R.M. and A.S. critically revised the paper. L.E., A.BB., V.S., A.HK. wrote the manuscript and critically revised the paper.</p></sec><sec id="bjh14833-sec-0028"><title>Competing interests</title><p>The authors have no competing interests.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="bjh14833-sup-0001"><caption><p>
+<bold>Fig S1.</bold> Expression of <italic>PAK1</italic> and <italic>PAK2</italic> in MCL and AML.</p></caption><media xlink:href="BJH-179-229-s001.tif"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="bjh14833-sup-0002"><caption><p>
+<bold>Fig S2.</bold> Expression of <italic>PAK3</italic>,<italic> PAK4</italic>,<italic> PAK5 (7)</italic>, and <italic>PAK6</italic> in haematological diseases.</p></caption><media xlink:href="BJH-179-229-s002.tif"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="bjh14833-sup-0003"><caption><p>
+<bold>Fig S3.</bold> Imatinib treatment of human <italic>BCR/ABL1</italic>
+<sup>+</sup> KU812 cells.</p></caption><media xlink:href="BJH-179-229-s003.tif"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="bjh14833-sup-0004"><caption><p>
+<bold>Fig S4.</bold> Cell cycle analysis of human <italic>BCR/ABL1</italic>
+<sup>+</sup> KU812 cells.</p></caption><media xlink:href="BJH-179-229-s004.tif"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="bjh14833-sup-0005"><caption><p>
+<bold>Fig S5.</bold> Array for genes regulating angiogenesis.</p></caption><media xlink:href="BJH-179-229-s005.tif"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="bjh14833-sup-0006"><caption><p>
+<bold>Fig S6.</bold> Controls for setup of flow cytometry (exosome detection).</p></caption><media xlink:href="BJH-179-229-s006.tif"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="bjh14833-sup-0007"><caption><p>&#x000a0;</p></caption><media xlink:href="BJH-179-229-s007.zip"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="bjh14833-sec-0026"><title>Acknowledgements</title><p>We thank Peter Valent for valuable scientific input and Graham Tebb for scientific discussions and revision of the manuscript. We thank Sabina Baumgartner&#x02010;Parzer and Johann Wojta for providing HUVEC cells. For technical support, we want to thank Sabine Fajmann, Philipp Jodl, Silvia Schauer, Safia Zahma, Michaela Schlederer, and our mouse facility team. This work was supported by the Austrian Science Fund (FWF P&#x02010;24295&#x02010;B23 to A.HK., FWF&#x02010;SFB 28 to V.S., R.M., and FWF&#x02010;SFB F47 to V.S. and R.M.).</p></ack><ref-list content-type="cited-references" id="bjh14833-bibl-0001"><title>References</title><ref id="bjh14833-bib-0001"><mixed-citation publication-type="journal" id="bjh14833-cit-0001">
+<string-name>
+<surname>Adam</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Vadlamudi</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Mandal</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Chernoff</surname>, <given-names>J.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Kumar</surname>, <given-names>R.</given-names>
+</string-name> (<year>2000</year>) <article-title>Regulation of microfilament reorganization and invasiveness of breast cancer cells by kinase dead p21&#x02010;activated kinase&#x02010;1</article-title>. <source>Journal of Biological Chemistry</source>, <volume>275</volume>, <fpage>12041</fpage>&#x02013;<lpage>12050</lpage>.<pub-id pub-id-type="pmid">10766836</pub-id></mixed-citation></ref><ref id="bjh14833-bib-0002"><mixed-citation publication-type="journal" id="bjh14833-cit-0002">
+<string-name>
+<surname>Aguirre&#x02010;Gamboa</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Gomez&#x02010;Rueda</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Mart&#x000ed;nez&#x02010;Ledesma</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Mart&#x000ed;nez&#x02010;Torteya</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Chacolla&#x02010;Huaringa</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Rodriguez&#x02010;Barrientos</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Tamez&#x02010;Pe&#x000f1;a</surname>, <given-names>J.G.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Trevi&#x000f1;o</surname>, <given-names>V.</given-names>
+</string-name> (<year>2013</year>) <article-title>SurvExpress: an online biomarker validation tool and database for cancer gene expression data using survival analysis</article-title>. <source>PLoS ONE</source>, <volume>8</volume>, <fpage>e74250</fpage>.<pub-id pub-id-type="pmid">24066126</pub-id></mixed-citation></ref><ref id="bjh14833-bib-0003"><mixed-citation publication-type="journal" id="bjh14833-cit-0003">
+<string-name>
+<surname>Allen</surname>, <given-names>J.D.</given-names>
+</string-name>, <string-name>
+<surname>Jaffer</surname>, <given-names>Z.M.</given-names>
+</string-name>, <string-name>
+<surname>Park</surname>, <given-names>S.J.</given-names>
+</string-name>, <string-name>
+<surname>Burgin</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Hofmann</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Sells</surname>, <given-names>M.A.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Derr&#x02010;Yellin</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Michels</surname>, <given-names>E.G.</given-names>
+</string-name>, <string-name>
+<surname>McDaniel</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Bessler</surname>, <given-names>W.K.</given-names>
+</string-name>, <string-name>
+<surname>Ingram</surname>, <given-names>D.A.</given-names>
+</string-name>, <string-name>
+<surname>Atkinson</surname>, <given-names>S.J.</given-names>
+</string-name>, <string-name>
+<surname>Travers</surname>, <given-names>J.B.</given-names>
+</string-name>, <string-name>
+<surname>Chernoff</surname>, <given-names>J.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Clapp</surname>, <given-names>D.W.</given-names>
+</string-name> (<year>2009</year>) <article-title>P21&#x02010;activated kinase regulates mast cell degranulation via effects on calcium mobilization and cytoskeletal dynamics</article-title>. <source>Blood</source>, <volume>113</volume>, <fpage>2695</fpage>&#x02013;<lpage>2705</lpage>.<pub-id pub-id-type="pmid">19124833</pub-id></mixed-citation></ref><ref id="bjh14833-bib-0004"><mixed-citation publication-type="journal" id="bjh14833-cit-0004">
+<string-name>
+<surname>Bea</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Zettl</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Wright</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Salaverria</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Jehn</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Moreno</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Burek</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Ott</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Puig</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Lopez&#x02010;Guillermo</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Chan</surname>, <given-names>W.C.</given-names>
+</string-name>, <string-name>
+<surname>Greiner</surname>, <given-names>T.C.</given-names>
+</string-name>, <string-name>
+<surname>Weisenburger</surname>, <given-names>D.D.</given-names>
+</string-name>, <string-name>
+<surname>Armitage</surname>, <given-names>J.O.</given-names>
+</string-name>, <string-name>
+<surname>Gascoyne</surname>, <given-names>R.D.</given-names>
+</string-name>, <string-name>
+<surname>Connors</surname>, <given-names>J.M.</given-names>
+</string-name>, <string-name>
+<surname>Grogan</surname>, <given-names>T.M.</given-names>
+</string-name>, <string-name>
+<surname>Braziel</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Fisher</surname>, <given-names>R.I.</given-names>
+</string-name>, <string-name>
+<surname>Smeland</surname>, <given-names>E.B.</given-names>
+</string-name>, <string-name>
+<surname>Kvaloy</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Holte</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Delabie</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Simon</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Powell</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Wilson</surname>, <given-names>W.H.</given-names>
+</string-name>, <string-name>
+<surname>Jaffe</surname>, <given-names>E.S.</given-names>
+</string-name>, <string-name>
+<surname>Montserrat</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Muller&#x02010;Hermelink</surname>, <given-names>H.K.</given-names>
+</string-name>, <string-name>
+<surname>Staudt</surname>, <given-names>L.M.</given-names>
+</string-name>, <string-name>
+<surname>Campo</surname>, <given-names>E.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Rosenwald</surname>, <given-names>A.</given-names>
+</string-name> (<year>2005</year>) <article-title>Diffuse large B&#x02010;cell lymphoma subgroups have distinct genetic profiles that influence tumor biology and improve gene&#x02010;expression&#x02010;based survival prediction</article-title>. <source>Blood</source>, <volume>106</volume>, <fpage>3183</fpage>&#x02013;<lpage>3190</lpage>.<pub-id pub-id-type="pmid">16046532</pub-id></mixed-citation></ref><ref id="bjh14833-bib-0005"><mixed-citation publication-type="journal" id="bjh14833-cit-0005">
+<string-name>
+<surname>Be&#x000e0;</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Colomo</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>L&#x000f3;pez&#x02010;Guillermo</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Salaverria</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Puig</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Pinyol</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Rives</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Montserrat</surname>, <given-names>E.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Campo</surname>, <given-names>E.</given-names>
+</string-name> (<year>2004</year>) <article-title>Clinicopathologic significance and prognostic value of chromosomal imbalances in diffuse large B&#x02010;cell lymphomas</article-title>. <source>Journal of Clinical Oncology</source>, <volume>22</volume>, <fpage>3498</fpage>&#x02013;<lpage>3506</lpage>.<pub-id pub-id-type="pmid">15337798</pub-id></mixed-citation></ref><ref id="bjh14833-bib-0006"><mixed-citation publication-type="journal" id="bjh14833-cit-0006">
+<string-name>
+<surname>Berger</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Hoelbl&#x02010;Kovacic</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Bourgeais</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Hoefling</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Warsch</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Grundschober</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Uras</surname>, <given-names>I.Z.</given-names>
+</string-name>, <string-name>
+<surname>Menzl</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Putz</surname>, <given-names>E.M.</given-names>
+</string-name>, <string-name>
+<surname>Hoermann</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Schuster</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Fajmann</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Leitner</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Kubicek</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Moriggl</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Gouilleux</surname>, <given-names>F.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Sexl</surname>, <given-names>V.</given-names>
+</string-name> (<year>2014</year>) <article-title>PAK&#x02010;dependent STAT5 serine phosphorylation is required for BCR&#x02010;ABL&#x02010;induced leukemogenesis</article-title>. <source>Leukemia</source>, <volume>28</volume>, <fpage>629</fpage>&#x02013;<lpage>641</lpage>.<pub-id pub-id-type="pmid">24263804</pub-id></mixed-citation></ref><ref id="bjh14833-bib-0007"><mixed-citation publication-type="journal" id="bjh14833-cit-0007">
+<string-name>
+<surname>Blom</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Aveskogh</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Nilsson</surname>, <given-names>K.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Hellman</surname>, <given-names>L.</given-names>
+</string-name> (<year>1992</year>) <article-title>Phenotypic characterization of KU812, a cell line identified as an immature human basophilic leukocyte</article-title>. <source>European Journal of Immunology</source>, <volume>22</volume>, <fpage>2025</fpage>&#x02013;<lpage>2032</lpage>.<pub-id pub-id-type="pmid">1639103</pub-id></mixed-citation></ref><ref id="bjh14833-bib-0008"><mixed-citation publication-type="journal" id="bjh14833-cit-0008">
+<string-name>
+<surname>Chen</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Lu</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>Fearns</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>John</surname>, <given-names>I.R.Y.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Lee</surname>, <given-names>J.D.</given-names>
+</string-name> (<year>2009</year>) <article-title>Combined Integrin phosphoproteomic analyses and small interfering RNA&#x02010;based functional screening identify key regulators for cancer cell adhesion and migration</article-title>. <source>Cancer Research</source>, <volume>69</volume>, <fpage>3713</fpage>&#x02013;<lpage>3720</lpage>.<pub-id pub-id-type="pmid">19351860</pub-id></mixed-citation></ref><ref id="bjh14833-bib-0009"><mixed-citation publication-type="journal" id="bjh14833-cit-0009">
+<string-name>
+<surname>Fellmann</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Hoffmann</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Sridhar</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Hopfgartner</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Muhar</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Roth</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Lai</surname>, <given-names>D.Y.</given-names>
+</string-name>, <string-name>
+<surname>Barbosa</surname>, <given-names>I.A.M.</given-names>
+</string-name>, <string-name>
+<surname>Kwon</surname>, <given-names>J.S.</given-names>
+</string-name>, <string-name>
+<surname>Guan</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Sinha</surname>, <given-names>N.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Zuber</surname>, <given-names>J.</given-names>
+</string-name> (<year>2013</year>) <article-title>An optimized microRNA backbone for effective single&#x02010;copy RNAi</article-title>. <source>Cell Reports</source>, <volume>5</volume>, <fpage>1704</fpage>&#x02013;<lpage>1713</lpage>.<pub-id pub-id-type="pmid">24332856</pub-id></mixed-citation></ref><ref id="bjh14833-bib-0010"><mixed-citation publication-type="journal" id="bjh14833-cit-0010">
+<string-name>
+<surname>Flate</surname>, <given-names>E.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Stalvey</surname>, <given-names>J.R.D.</given-names>
+</string-name> (<year>2014</year>) <article-title>Motility of select ovarian cancer cell lines: effect of extracellular matrix proteins and the involvement of PAK2</article-title>. <source>International Journal of Oncology</source>, <volume>45</volume>, <fpage>1401</fpage>&#x02013;<lpage>1411</lpage>.<pub-id pub-id-type="pmid">25050916</pub-id></mixed-citation></ref><ref id="bjh14833-bib-0011"><mixed-citation publication-type="journal" id="bjh14833-cit-0011">
+<string-name>
+<surname>Friedbichler</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Kerenyi</surname>, <given-names>M.A.</given-names>
+</string-name>, <string-name>
+<surname>Kovacic</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Hoelbl</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Yahiaoui</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Sexl</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>M&#x000fc;llner</surname>, <given-names>E.W.</given-names>
+</string-name>, <string-name>
+<surname>Fajmann</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Cerny&#x02010;Reiterer</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Valent</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Beug</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Gouilleux</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Bunting</surname>, <given-names>K.D.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Moriggl</surname>, <given-names>R.</given-names>
+</string-name> (<year>2010</year>) <article-title>Stat5a serine 725 and 779 phosphorylation is a prerequisite for hematopoietic transformation</article-title>. <source>Blood</source>, <volume>116</volume>, <fpage>1548</fpage>&#x02013;<lpage>1558</lpage>.<pub-id pub-id-type="pmid">20508164</pub-id></mixed-citation></ref><ref id="bjh14833-bib-0012"><mixed-citation publication-type="journal" id="bjh14833-cit-0012">
+<string-name>
+<surname>Gopal</surname>, <given-names>S.K.</given-names>
+</string-name>, <string-name>
+<surname>Greening</surname>, <given-names>D.W.</given-names>
+</string-name>, <string-name>
+<surname>Hanssen</surname>, <given-names>E.G.</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>, <given-names>H.&#x02010;J.</given-names>
+</string-name>, <string-name>
+<surname>Simpson</surname>, <given-names>R.J.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Mathias</surname>, <given-names>R.A.</given-names>
+</string-name> (<year>2016</year>) <article-title>Oncogenic epithelial cell&#x02010;derived exosomes containing Rac1 and PAK2 induce angiogenesis in recipient endothelial cells</article-title>. <source>Oncotarget</source>, <volume>7</volume>, <fpage>19709</fpage>&#x02013;<lpage>19722</lpage>.<pub-id pub-id-type="pmid">26919098</pub-id></mixed-citation></ref><ref id="bjh14833-bib-0013"><mixed-citation publication-type="journal" id="bjh14833-cit-0013">
+<string-name>
+<surname>Greiner</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Witzeneder</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Berger</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Schmetterer</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Eisenwort</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Schiefer</surname>, <given-names>A.I.</given-names>
+</string-name>, <string-name>
+<surname>Roos</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Popow&#x02010;Kraupp</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Ullauer</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Zuber</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Sexl</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Kenner</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Sperr</surname>, <given-names>W.R.</given-names>
+</string-name>, <string-name>
+<surname>Valent</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Mayerhofer</surname>, <given-names>M.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Hoermann</surname>, <given-names>G.</given-names>
+</string-name> (<year>2017</year>) <article-title>CCL2 is a KIT D816V&#x02013;dependent modulator of the bone marrow microenvironment in systemic mastocytosis</article-title>. <source>Blood</source>, <volume>129</volume>, <fpage>371</fpage>&#x02013;<lpage>382</lpage>.<pub-id pub-id-type="pmid">27856463</pub-id></mixed-citation></ref><ref id="bjh14833-bib-0014"><mixed-citation publication-type="journal" id="bjh14833-cit-0014">
+<string-name>
+<surname>Hoelbl</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Kovacic</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Kerenyi</surname>, <given-names>M.A.</given-names>
+</string-name>, <string-name>
+<surname>Simma</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Warsch</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Cui</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Beug</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Hennighausen</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Moriggl</surname>, <given-names>R.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Sexl</surname>, <given-names>V.</given-names>
+</string-name> (<year>2006</year>) <article-title>Clarifying the role of Stat5 in lymphoid development and Abelson&#x02010;induced transformation</article-title>. <source>Blood</source>, <volume>107</volume>, <fpage>4898</fpage>&#x02013;<lpage>4906</lpage>.<pub-id pub-id-type="pmid">16493008</pub-id></mixed-citation></ref><ref id="bjh14833-bib-0015"><mixed-citation publication-type="journal" id="bjh14833-cit-0015">
+<string-name>
+<surname>Hoelbl</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Schuster</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Kovacic</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Wickre</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Hoelzl</surname>, <given-names>M.A.</given-names>
+</string-name>, <string-name>
+<surname>Fajmann</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Grebien</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Warsch</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Stengl</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Hennighausen</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Poli</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Beug</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Moriggl</surname>, <given-names>R.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Sexl</surname>, <given-names>V.</given-names>
+</string-name> (<year>2010</year>) <article-title>Stat5 is indispensable for the maintenance of Bcr/Abl&#x02010;positive leukaemia</article-title>. <source>EMBO Molecular Medicine</source>, <volume>2</volume>, <fpage>98</fpage>&#x02013;<lpage>110</lpage>.<pub-id pub-id-type="pmid">20201032</pub-id></mixed-citation></ref><ref id="bjh14833-bib-0016"><mixed-citation publication-type="journal" id="bjh14833-cit-0016">
+<string-name>
+<surname>Hofmann</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Shepelev</surname>, <given-names>M.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Chernoff</surname>, <given-names>J.</given-names>
+</string-name> (<year>2004</year>) <article-title>The genetics of Pak</article-title>. <source>Journal of Cell Science</source>, <volume>117</volume>, <fpage>4343</fpage>&#x02013;<lpage>4354</lpage>.<pub-id pub-id-type="pmid">15331659</pub-id></mixed-citation></ref><ref id="bjh14833-bib-0017"><mixed-citation publication-type="journal" id="bjh14833-cit-0017">
+<string-name>
+<surname>Hruz</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Laule</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Szabo</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Wessendorp</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Bleuler</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Oertle</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Widmayer</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Gruissem</surname>, <given-names>W.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Zimmermann</surname>, <given-names>P.</given-names>
+</string-name> (<year>2008</year>) <article-title>Genevestigator v3: a reference expression database for the meta&#x02010;analysis of transcriptomes</article-title>. <source>Advances in Bioinformatics</source>, <volume>2008</volume>, <fpage>420747</fpage>.<pub-id pub-id-type="pmid">19956698</pub-id></mixed-citation></ref><ref id="bjh14833-bib-0018"><mixed-citation publication-type="journal" id="bjh14833-cit-0018">
+<string-name>
+<surname>Huang</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Ling</surname>, <given-names>J.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Traugh</surname>, <given-names>J.A.</given-names>
+</string-name> (<year>2003</year>) <article-title>Localization of p21&#x02010;activated protein kinase gamma&#x02010;PAK/Pak2 in the endoplasmic reticulum is required for induction of cytostasis</article-title>. <source>The Journal of Biological Chemistry</source>, <volume>278</volume>, <fpage>13101</fpage>&#x02013;<lpage>13109</lpage>.<pub-id pub-id-type="pmid">12560339</pub-id></mixed-citation></ref><ref id="bjh14833-bib-0019"><mixed-citation publication-type="journal" id="bjh14833-cit-0019">
+<string-name>
+<surname>Huang</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Traugh</surname>, <given-names>J.A.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Bishop</surname>, <given-names>J.M.</given-names>
+</string-name> (<year>2004</year>) <article-title>Negative control of the Myc protein by the stress&#x02010;responsive kinase Pak2</article-title>. <source>Molecular and Cellular Biology</source>, <volume>24</volume>, <fpage>1582</fpage>&#x02013;<lpage>1594</lpage>.<pub-id pub-id-type="pmid">14749374</pub-id></mixed-citation></ref><ref id="bjh14833-bib-0020"><mixed-citation publication-type="journal" id="bjh14833-cit-0020">
+<string-name>
+<surname>Ji</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Greening</surname>, <given-names>D.W.</given-names>
+</string-name>, <string-name>
+<surname>Barnes</surname>, <given-names>T.W.</given-names>
+</string-name>, <string-name>
+<surname>Lim</surname>, <given-names>J.W.</given-names>
+</string-name>, <string-name>
+<surname>Tauro</surname>, <given-names>B.J.</given-names>
+</string-name>, <string-name>
+<surname>Rai</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Adda</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Mathivanan</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Xue</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>, <given-names>H.J.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Simpson</surname>, <given-names>R.J.</given-names>
+</string-name> (<year>2013</year>) <article-title>Proteome profiling of exosomes derived from human primary and metastatic colorectal cancer cells reveal differential expression of key metastatic factors and signal transduction components</article-title>. <source>Proteomics</source>, <volume>13</volume>, <fpage>1672</fpage>&#x02013;<lpage>1686</lpage>.<pub-id pub-id-type="pmid">23585443</pub-id></mixed-citation></ref><ref id="bjh14833-bib-0021"><mixed-citation publication-type="journal" id="bjh14833-cit-0021">
+<string-name>
+<surname>Jiang</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Hjorth&#x02010;Jensen</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Hekmat</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Iglesias&#x02010;Gato</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Kruse</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Wei</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Ke</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Yan</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Niu</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Olsen</surname>, <given-names>J.V.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Flores&#x02010;Morales</surname>, <given-names>A.</given-names>
+</string-name> (<year>2015</year>) <article-title>In vivo quantitative phosphoproteomic profiling identifies novel regulators of castration&#x02010;resistant prostate cancer growth</article-title>. <source>Oncogene</source>, <volume>34</volume>, <fpage>2764</fpage>&#x02013;<lpage>2776</lpage>.<pub-id pub-id-type="pmid">25065596</pub-id></mixed-citation></ref><ref id="bjh14833-bib-0022"><mixed-citation publication-type="journal" id="bjh14833-cit-0022">
+<string-name>
+<surname>Kishi</surname>, <given-names>K.</given-names>
+</string-name> (<year>1985</year>) <article-title>A new leukemia cell line with philadelphia chromosome characterized as basophil precursors</article-title>. <source>Leukemia Research</source>, <volume>9</volume>, <fpage>381</fpage>&#x02013;<lpage>390</lpage>.<pub-id pub-id-type="pmid">3858609</pub-id></mixed-citation></ref><ref id="bjh14833-bib-0023"><mixed-citation publication-type="journal" id="bjh14833-cit-0023">
+<string-name>
+<surname>Kumar</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Gururaj</surname>, <given-names>A.E.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Barnes</surname>, <given-names>C.J.</given-names>
+</string-name> (<year>2006</year>) <article-title>p21&#x02010;activated kinases in cancer</article-title>. <source>Nature Reviews. Cancer</source>, <volume>6</volume>, <fpage>459</fpage>&#x02013;<lpage>471</lpage>.<pub-id pub-id-type="pmid">16723992</pub-id></mixed-citation></ref><ref id="bjh14833-bib-0024"><mixed-citation publication-type="journal" id="bjh14833-cit-0024">
+<string-name>
+<surname>Li</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Wen</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Zykova</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Peng</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Ma</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Shi</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Dong</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Bode</surname>, <given-names>A.M.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Dong</surname>, <given-names>Z.</given-names>
+</string-name> (<year>2011</year>) <article-title>P21&#x02010;activated protein kinase (PAK2)&#x02010;mediated c&#x02010;jun phosphorylation at 5 threonine sites promotes cell transformation</article-title>. <source>Carcinogenesis</source>, <volume>32</volume>, <fpage>659</fpage>&#x02013;<lpage>666</lpage>.<pub-id pub-id-type="pmid">21177766</pub-id></mixed-citation></ref><ref id="bjh14833-bib-0025"><mixed-citation publication-type="journal" id="bjh14833-cit-0025">
+<string-name>
+<surname>Mahlam&#x000e4;ki</surname>, <given-names>E.H.</given-names>
+</string-name>, <string-name>
+<surname>Kauraniemi</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Monni</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Wolf</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Hautaniemi</surname>, <given-names>S.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Kallioniemi</surname>, <given-names>A.</given-names>
+</string-name> (<year>2004</year>) <article-title>High&#x02010;resolution genomic and expression profiling reveals 105 putative amplification target genes in pancreatic cancer</article-title>. <source>Neoplasia</source>, <volume>6</volume>, <fpage>432</fpage>&#x02013;<lpage>439</lpage>.<pub-id pub-id-type="pmid">15548351</pub-id></mixed-citation></ref><ref id="bjh14833-bib-0026"><mixed-citation publication-type="journal" id="bjh14833-cit-0026">
+<string-name>
+<surname>Mao</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Orchard</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Lillington</surname>, <given-names>D.M.</given-names>
+</string-name>, <string-name>
+<surname>Russell&#x02010;Jones</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Young</surname>, <given-names>B.D.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Whittaker</surname>, <given-names>S.J.</given-names>
+</string-name> (<year>2003</year>) <article-title>Amplification and overexpression of JUNB is associated with primary cutaneous T&#x02010;cell lymphomas</article-title>. <source>Blood</source>, <volume>101</volume>, <fpage>1513</fpage>&#x02013;<lpage>1519</lpage>.<pub-id pub-id-type="pmid">12393503</pub-id></mixed-citation></ref><ref id="bjh14833-bib-0027"><mixed-citation publication-type="journal" id="bjh14833-cit-0027">
+<string-name>
+<surname>Misra</surname>, <given-names>U.K.</given-names>
+</string-name>, <string-name>
+<surname>Deedwania</surname>, <given-names>R.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Pizzo</surname>, <given-names>S.V.</given-names>
+</string-name> (<year>2005</year>) <article-title>Binding of activated alpha2&#x02010;macroglobulin to its cell surface receptor GRP78 in 1&#x02010;LN prostate cancer cells regulates PAK&#x02010;2&#x02010;dependent activation of LIMK</article-title>. <source>Journal of Biological Chemistry</source>, <volume>280</volume>, <fpage>26278</fpage>&#x02013;<lpage>26286</lpage>.<pub-id pub-id-type="pmid">15908432</pub-id></mixed-citation></ref><ref id="bjh14833-bib-0028"><mixed-citation publication-type="journal" id="bjh14833-cit-0028">
+<string-name>
+<surname>Paggetti</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Haderk</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Seiffert</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Janji</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Distler</surname>, <given-names>U.</given-names>
+</string-name>, <string-name>
+<surname>Ammerlaan</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>, <given-names>Y.J.</given-names>
+</string-name>, <string-name>
+<surname>Adam</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Lichter</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Solary</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Berchem</surname>, <given-names>G.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Moussay</surname>, <given-names>E.</given-names>
+</string-name> (<year>2015</year>) <article-title>Exosomes released by chronic lymphocytic leukemia cells induce the transition of stromal cells into cancer&#x02010;associated fibroblasts</article-title>. <source>Blood</source>, <volume>126</volume>, <fpage>1106</fpage>&#x02013;<lpage>1117</lpage>.<pub-id pub-id-type="pmid">26100252</pub-id></mixed-citation></ref><ref id="bjh14833-bib-0029"><mixed-citation publication-type="journal" id="bjh14833-cit-0029">
+<string-name>
+<surname>Pandolfi</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Stanley</surname>, <given-names>R.F.</given-names>
+</string-name>, <string-name>
+<surname>Yu</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Bartholdy</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Pendurti</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Gritsman</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Boultwood</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Chernoff</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Verma</surname>, <given-names>A.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Steidl</surname>, <given-names>U.</given-names>
+</string-name> (<year>2015</year>) <article-title>PAK1 is a therapeutic target in acute myeloid leukemia and myelodysplastic syndrome</article-title>. <source>Blood</source>, <volume>126</volume>, <fpage>1118</fpage>&#x02013;<lpage>1127</lpage>.<pub-id pub-id-type="pmid">26170031</pub-id></mixed-citation></ref><ref id="bjh14833-bib-0030"><mixed-citation publication-type="journal" id="bjh14833-cit-0030">
+<string-name>
+<surname>Putz</surname>, <given-names>E.M.</given-names>
+</string-name>, <string-name>
+<surname>Gotthardt</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Hoermann</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Csiszar</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Wirth</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Berger</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Straka</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Rigler</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Wallner</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Jamieson</surname>, <given-names>A.M.</given-names>
+</string-name>, <string-name>
+<surname>Pickl</surname>, <given-names>W.F.</given-names>
+</string-name>, <string-name>
+<surname>Zebedin&#x02010;Brandl</surname>, <given-names>E.M.</given-names>
+</string-name>, <string-name>
+<surname>M&#x000fc;ller</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Decker</surname>, <given-names>T.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Sexl</surname>, <given-names>V.</given-names>
+</string-name> (<year>2013</year>) <article-title>CDK8&#x02010;mediated STAT1&#x02010;S727 phosphorylation restrains NK cell cytotoxicity and tumor surveillance</article-title>. <source>Cell Reports</source>, <volume>4</volume>, <fpage>437</fpage>&#x02013;<lpage>444</lpage>.<pub-id pub-id-type="pmid">23933255</pub-id></mixed-citation></ref><ref id="bjh14833-bib-0031"><mixed-citation publication-type="journal" id="bjh14833-cit-0031">
+<string-name>
+<surname>Putz</surname>, <given-names>E.M.</given-names>
+</string-name>, <string-name>
+<surname>Hoelzl</surname>, <given-names>M.A.</given-names>
+</string-name>, <string-name>
+<surname>Baeck</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Bago&#x02010;Horvath</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Schuster</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Reichholf</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Kern</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Aberger</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Sexl</surname>, <given-names>V.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Hoelbl&#x02010;Kovacic</surname>, <given-names>A.</given-names>
+</string-name> (<year>2014</year>) <article-title>Loss of STAT3 in lymphoma relaxes NK cell&#x02010;mediated tumor surveillance</article-title>. <source>Cancers</source>, <volume>6</volume>, <fpage>193</fpage>&#x02013;<lpage>210</lpage>.<pub-id pub-id-type="pmid">24473086</pub-id></mixed-citation></ref><ref id="bjh14833-bib-0032"><mixed-citation publication-type="journal" id="bjh14833-cit-0032">
+<string-name>
+<surname>Radu</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Semenova</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Kosoff</surname>, <given-names>R.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Chernoff</surname>, <given-names>J.</given-names>
+</string-name> (<year>2014</year>) <article-title>PAK signalling during the development and progression of cancer</article-title>. <source>Nature Reviews Cancer</source>, <volume>14</volume>, <fpage>13</fpage>&#x02013;<lpage>25</lpage>.<pub-id pub-id-type="pmid">24505617</pub-id></mixed-citation></ref><ref id="bjh14833-bib-0033"><mixed-citation publication-type="journal" id="bjh14833-cit-0033">
+<string-name>
+<surname>Radu</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Lyle</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Hoeflich</surname>, <given-names>K.P.</given-names>
+</string-name>, <string-name>
+<surname>Villamar&#x02010;Cruz</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Koeppen</surname>, <given-names>H.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Chernoff</surname>, <given-names>J.</given-names>
+</string-name> (<year>2015</year>) <article-title>p21&#x02010;activated kinase 2 regulates endothelial development and function through the Bmk1/Erk5 pathway</article-title>. <source>Molecular and Cellular Biology</source>, <volume>35</volume>, <fpage>3990</fpage>&#x02013;<lpage>4005</lpage>.<pub-id pub-id-type="pmid">26391956</pub-id></mixed-citation></ref><ref id="bjh14833-bib-0034"><mixed-citation publication-type="journal" id="bjh14833-cit-0034">
+<string-name>
+<surname>Rane</surname>, <given-names>C.K.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Minden</surname>, <given-names>A.</given-names>
+</string-name> (<year>2014</year>) <article-title>P21 activated kinases: structure, regulation, and functions</article-title>. <source>Small GTPases</source>, <volume>5</volume>, <fpage>e28003</fpage>.<pub-id pub-id-type="pmid">24658305</pub-id></mixed-citation></ref><ref id="bjh14833-bib-0035"><mixed-citation publication-type="journal" id="bjh14833-cit-0035">
+<string-name>
+<surname>Rider</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Oladimeji</surname>, <given-names>P.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Diakonova</surname>, <given-names>M.</given-names>
+</string-name> (<year>2013</year>) <article-title>PAK1 regulates breast cancer cell invasion through secretion of matrix metalloproteinases in response to prolactin and three&#x02010;dimensional collagen IV</article-title>. <source>Molecular Endocrinology</source>, <volume>27</volume>, <fpage>1048</fpage>&#x02013;<lpage>1064</lpage>.<pub-id pub-id-type="pmid">23744893</pub-id></mixed-citation></ref><ref id="bjh14833-bib-0036"><mixed-citation publication-type="journal" id="bjh14833-cit-0036">
+<string-name>
+<surname>Salaverria</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Zettl</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Be&#x000e0;</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Moreno</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Valls</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Hartmann</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Ott</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Wright</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Lopez&#x02010;Guillermo</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Chan</surname>, <given-names>W.C.</given-names>
+</string-name>, <string-name>
+<surname>Weisenburger</surname>, <given-names>D.D.</given-names>
+</string-name>, <string-name>
+<surname>Gascoyne</surname>, <given-names>R.D.</given-names>
+</string-name>, <string-name>
+<surname>Grogan</surname>, <given-names>T.M.</given-names>
+</string-name>, <string-name>
+<surname>Delabie</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Jaffe</surname>, <given-names>E.S.</given-names>
+</string-name>, <string-name>
+<surname>Montserrat</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Muller&#x02010;Hermelink</surname>, <given-names>H.K.</given-names>
+</string-name>, <string-name>
+<surname>Staudt</surname>, <given-names>L.M.</given-names>
+</string-name>, <string-name>
+<surname>Rosenwald</surname>, <given-names>A.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Campo</surname>, <given-names>E.</given-names>
+</string-name> (<year>2007</year>) <article-title>Specific secondary genetic alterations in mantle cell lymphoma provide prognostic information independent of the gene expression&#x02010;based proliferation signature</article-title>. <source>Journal of Clinical Oncology</source>, <volume>25</volume>, <fpage>1216</fpage>&#x02013;<lpage>1222</lpage>.<pub-id pub-id-type="pmid">17296973</pub-id></mixed-citation></ref><ref id="bjh14833-bib-0037"><mixed-citation publication-type="journal" id="bjh14833-cit-0037">
+<string-name>
+<surname>Scheicher</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Hoelbl&#x02010;Kovacic</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Bellutti</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Tigan</surname>, <given-names>A.S.</given-names>
+</string-name>, <string-name>
+<surname>Prchal&#x02010;Murphy</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Heller</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Schneckenleithner</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Salazar&#x02010;Roa</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Zochbauer&#x02010;Muller</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Zuber</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Malumbres</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Kollmann</surname>, <given-names>K.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Sexl</surname>, <given-names>V.</given-names>
+</string-name> (<year>2015</year>) <article-title>CDK6 as a key regulator of hematopoietic and leukemic stem cell activation</article-title>. <source>Blood</source>, <volume>125</volume>, <fpage>90</fpage>&#x02013;<lpage>101</lpage>.<pub-id pub-id-type="pmid">25342715</pub-id></mixed-citation></ref><ref id="bjh14833-bib-0038"><mixed-citation publication-type="journal" id="bjh14833-cit-0038">
+<string-name>
+<surname>Schuster</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Hendry</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Byers</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Lynham</surname>, <given-names>S.F.</given-names>
+</string-name>, <string-name>
+<surname>Ward</surname>, <given-names>M.A.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>John</surname>, <given-names>S.</given-names>
+</string-name> (<year>2007</year>) <article-title>Purification and identification of the STAT5 protease in myeloid cells</article-title>. <source>Biochemical Journal</source>, <volume>404</volume>, <fpage>81</fpage>&#x02013;<lpage>87</lpage>.<pub-id pub-id-type="pmid">17300217</pub-id></mixed-citation></ref><ref id="bjh14833-bib-0039"><mixed-citation publication-type="journal" id="bjh14833-cit-0039">
+<string-name>
+<surname>Shultz</surname>, <given-names>L.D.</given-names>
+</string-name>, <string-name>
+<surname>Lyons</surname>, <given-names>B.L.</given-names>
+</string-name>, <string-name>
+<surname>Burzenski</surname>, <given-names>L.M.</given-names>
+</string-name>, <string-name>
+<surname>Gott</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Chaleff</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Kotb</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Gillies</surname>, <given-names>S.D.</given-names>
+</string-name>, <string-name>
+<surname>King</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Mangada</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Greiner</surname>, <given-names>D.L.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Handgretinger</surname>, <given-names>R.</given-names>
+</string-name> (<year>2005</year>) <article-title>Human lymphoid and myeloid cell development in NOD/LtSz&#x02010;scid IL2R null mice engrafted with mobilized human hemopoietic stem cells</article-title>. <source>Journal of Immunology</source>, <volume>174</volume>, <fpage>6477</fpage>&#x02013;<lpage>6489</lpage>.</mixed-citation></ref><ref id="bjh14833-bib-0040"><mixed-citation publication-type="journal" id="bjh14833-cit-0040">
+<string-name>
+<surname>Shultz</surname>, <given-names>L.D.</given-names>
+</string-name>, <string-name>
+<surname>Ishikawa</surname>, <given-names>F.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Greiner</surname>, <given-names>D.L.</given-names>
+</string-name> (<year>2007</year>) <article-title>Humanized mice in translational biomedical research</article-title>. <source>Nature Reviews Immunology</source>, <volume>7</volume>, <fpage>118</fpage>&#x02013;<lpage>130</lpage>.</mixed-citation></ref><ref id="bjh14833-bib-0041"><mixed-citation publication-type="journal" id="bjh14833-cit-0041">
+<string-name>
+<surname>Th&#x000e9;ry</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Amigorena</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Raposo</surname>, <given-names>G.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Clayton</surname>, <given-names>A.</given-names>
+</string-name> (<year>2006</year>) <article-title>Isolation and characterization of exosomes from cell culture supernatants and biological fluids</article-title>. <source>Current Protocols in Cell Biology</source>, Chapter 3: Unit 3.22, <fpage>3.22.1</fpage>&#x02013;<lpage>3.22.29</lpage>.<pub-id pub-id-type="pmid">18228482</pub-id></mixed-citation></ref><ref id="bjh14833-bib-0042"><mixed-citation publication-type="journal" id="bjh14833-cit-0042">
+<string-name>
+<surname>Wang</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Oh</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Clapp</surname>, <given-names>D.W.</given-names>
+</string-name>, <string-name>
+<surname>Chernoff</surname>, <given-names>J.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Thurmond</surname>, <given-names>D.C.</given-names>
+</string-name> (<year>2011</year>) <article-title>Inhibition or ablation of p21&#x02010;activated kinase (PAK1) disrupts glucose homeostatic mechanisms in&#x000a0;vivo</article-title>. <source>Journal of Biological Chemistry</source>, <volume>286</volume>, <fpage>41359</fpage>&#x02013;<lpage>41367</lpage>.<pub-id pub-id-type="pmid">21969371</pub-id></mixed-citation></ref><ref id="bjh14833-bib-0043"><mixed-citation publication-type="journal" id="bjh14833-cit-0043">
+<string-name>
+<surname>Zomer</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Vendrig</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Hopmans</surname>, <given-names>E.S.</given-names>
+</string-name>, <string-name>
+<surname>van Eijndhoven</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Middeldorp</surname>, <given-names>J.M.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Pegtel</surname>, <given-names>D.M.</given-names>
+</string-name> (<year>2010</year>) <article-title>Exosomes: fit to deliver small RNA</article-title>. <source>Communicative &#x00026; Integrative Biology</source>, <volume>3</volume>, <fpage>447</fpage>&#x02013;<lpage>450</lpage>.<pub-id pub-id-type="pmid">21057637</pub-id></mixed-citation></ref><ref id="bjh14833-bib-0044"><mixed-citation publication-type="journal" id="bjh14833-cit-0044">
+<string-name>
+<surname>Zuber</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>McJunkin</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Fellmann</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Dow</surname>, <given-names>L.E.</given-names>
+</string-name>, <string-name>
+<surname>Taylor</surname>, <given-names>M.J.</given-names>
+</string-name>, <string-name>
+<surname>Hannon</surname>, <given-names>G.J.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Lowe</surname>, <given-names>S.W.</given-names>
+</string-name> (<year>2011</year>) <article-title>Toolkit for evaluating genes required for proliferation and survival using tetracycline&#x02010;regulated RNAi</article-title>. <source>Nature Biotechnology</source>, <volume>29</volume>, <fpage>79</fpage>&#x02013;<lpage>83</lpage>.</mixed-citation></ref></ref-list></back></article>

@@ -1,0 +1,828 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Bone Res</journal-id><journal-id journal-id-type="iso-abbrev">Bone Res</journal-id><journal-title-group><journal-title>Bone Research</journal-title></journal-title-group><issn pub-type="ppub">2095-4700</issn><issn pub-type="epub">2095-6231</issn><publisher><publisher-name>Nature Publishing Group</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">26962465</article-id><article-id pub-id-type="pmc">4772748</article-id><article-id pub-id-type="pii">boneres201542</article-id><article-id pub-id-type="doi">10.1038/boneres.2015.42</article-id><article-categories><subj-group subj-group-type="heading"><subject>Article</subject></subj-group></article-categories><title-group><article-title>Characterization of genetically engineered mouse models carrying Col2a1-cre-induced deletions of Lrp5 and/or Lrp6</article-title><alt-title alt-title-type="running">Genetically engineered mouse models</alt-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Schumacher</surname><given-names>Cassie A</given-names></name><xref ref-type="aff" rid="aff1">1</xref><xref ref-type="author-notes" rid="note1">&#x02217;</xref></contrib><contrib contrib-type="author"><name><surname>Joiner</surname><given-names>Danese M</given-names></name><xref ref-type="aff" rid="aff1">1</xref><xref ref-type="author-notes" rid="note1">&#x02217;</xref></contrib><contrib contrib-type="author"><name><surname>Less</surname><given-names>Kennen D</given-names></name><xref ref-type="aff" rid="aff1">1</xref></contrib><contrib contrib-type="author"><name><surname>Drewry</surname><given-names>Melissa Oosterhouse</given-names></name><xref ref-type="aff" rid="aff1">1</xref></contrib><contrib contrib-type="author"><name><surname>Williams</surname><given-names>Bart O</given-names></name><xref ref-type="aff" rid="aff1">1</xref><xref ref-type="corresp" rid="caf1">*</xref></contrib><aff id="aff1"><label>1</label>
+<institution>Center for Cancer and Cell Biology, Program in Skeletal Disease and Tumor Microenvironment, Van Andel Research Institute</institution>, Grand Rapids MI 49503, <country>USA</country>
+</aff></contrib-group><author-notes><corresp id="caf1"><label>*</label>
+(<email>bart.williams@vai.org</email>)</corresp><fn fn-type="present-address" id="note1"><label>&#x02217;</label><p>These authors contribute equally to this work.</p></fn></author-notes><pub-date pub-type="epub"><day>01</day><month>03</month><year>2016</year></pub-date><pub-date pub-type="collection"><year>2016</year></pub-date><volume>4</volume><fpage>15042</fpage><lpage/><history><date date-type="received"><day>27</day><month>11</month><year>2015</year></date><date date-type="rev-recd"><day>22</day><month>12</month><year>2015</year></date><date date-type="accepted"><day>23</day><month>12</month><year>2015</year></date></history><permissions><copyright-statement>Copyright &#x000a9; 2016 Sichuan University</copyright-statement><copyright-year>2016</copyright-year><copyright-holder>Sichuan University</copyright-holder><license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/"><!--author-paid--><license-p>This work is licensed under a Creative Commons Attribution 4.0 International License. The images or other third party material in this article are included in the article&#x02019;s Creative Commons license, unless indicated otherwise in the credit line; if the material is not included under the Creative Commons license, users will need to obtain permission from the license holder to reproduce the material. To view a copy of this license, visit <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link></license-p></license></permissions><abstract><p>Mice carrying <italic>Collagen2a1-cre</italic>-mediated deletions of Lrp5 and/or Lrp6 were created and characterized. Mice lacking either gene alone were viable and fertile with normal knee morphology. Mice in which both Lrp5 and Lrp6 were conditionally ablated via <italic>Collagen2a1</italic>-cre-mediated deletion displayed severe defects in skeletal development during embryogenesis. In addition, adult mice carrying <italic>Collagen2a1-cre</italic>-mediated deletions of Lrp5 and/or Lrp6 displayed low bone mass suggesting that the Collagen2a1-cre transgene was active in cells that subsequently differentiated into osteoblasts. In both embryonic skeletal development and establishment of adult bone mass, Lrp5 and Lrp6 carry out redundant functions.</p></abstract></article-meta></front><body><sec><title>Introduction</title><p>The Wnt/&#x003b2;-catenin signaling pathway affects cell migration, proliferation, and differentiation and is a key regulator of skeletal development.<sup><xref ref-type="bibr" rid="bib1">1</xref></sup> This pathway is initiated when a Wnt ligand engages a receptor complex that includes a member of the Frizzled family of seven-transmembrane receptors and either low-density lipoprotein-related receptor 5 (Lrp5) or Lrp6.<sup><xref ref-type="bibr" rid="bib2">2</xref></sup> This results in the phosphorylation of the carboxyl terminus of Lrp5 or Lrp6, creating a binding site for Axin. Axin is a component of a multiprotein complex that also includes the Adenomatous polyposis coli protein and the serine/threonine protein kinase glycogen synthase kinase 3 (GSK3). In the absence of Wnt, this complex facilitates the GSK3-dependent phosphorylation of &#x003b2;-catenin, targeting it for ubiquitin-dependent proteolysis. Binding of Axin to the phosphorylated carboxyl terminus of Lrp5/6 inhibits GSK3 activity toward &#x003b2;-catenin, resulting in stabilization of &#x003b2;-catenin in the cytoplasm. &#x003b2;-catenin is then available to enter the nucleus where it complexes with members of the LEF/TCF family of DNA-binding proteins and induces the activation of target gene promoters.</p><p>Numerous studies have indicated that alterations in Wnt/&#x003b2;-catenin levels can influence chondrocyte differentiation and/or function.<sup><xref ref-type="bibr" rid="bib3 bib4 bib5 bib6 bib7 bib8 bib9 bib10 bib11">3&#x02013;11</xref></sup> For example, ectopic expression of &#x003b2;-catenin in chondrocyte lineage cells inhibits chondrocyte differentiation. Increased levels of canonical Wnt/&#x003b2;-catenin signaling may inhibit Sox9 expression and activity thus reducing chondrocyte differentiation.<sup><xref ref-type="bibr" rid="bib12">12</xref></sup> In addition, both increased and decreased &#x003b2;-catenin signaling has been observed in degenerative osteoarthritis (OA) models.<sup><xref ref-type="bibr" rid="bib13 bib14 bib15 bib16 bib17 bib18">13&#x02013;18</xref></sup> Lrp5 mRNA and protein is increased in cells from human OA patients and Lrp5 polymorphisms analyzed as a group were correlated with human OA.<sup><xref ref-type="bibr" rid="bib19 bib20 bib21 bib22 bib23">19&#x02013;23</xref></sup></p><p>During the last decade, we and others have utilized genetically engineered mouse models to gain insight into the roles of components of the Wnt pathway in skeletal development (reviewed in ref. <xref ref-type="bibr" rid="bib1">1</xref>). Germline deletion of Lrp6 leads to neonatal lethality associated with defects in the axial skeletal and limbs.<sup><xref ref-type="bibr" rid="bib24">24</xref></sup> Tissue-specific and heterozygous mutations that inactivate Lrp6 early in development produce skeletal phenotypes that are typically more severe than those in mice with mutations in Lrp5.<sup><xref ref-type="bibr" rid="bib24 bib25 bib26">24&#x02013;26</xref></sup> Gaining insight into how Wnt/&#x003b2;-catenin signaling influences the development and function of normal cartilage will provide insight into utilizing Lrp5/6 as therapeutic targets for OA.<sup><xref ref-type="bibr" rid="bib27">27</xref>,<xref ref-type="bibr" rid="bib28">28</xref></sup></p><p>In this study, we examined the effect of loss of Lrp5 and Lrp6 function in Collagen2a1 expressing cells and their descendants in both developing and adult mouse skeletons. We used the cre-lox system in which cre was driven by the Col2a1 promoter,<sup><xref ref-type="bibr" rid="bib29">29</xref></sup> which is expressed by chondrocytes and osteoblast progenitors and has been used in a variety of animal models to achieve tissue-specific gene expression in chondrocytes.<sup><xref ref-type="bibr" rid="bib7">7</xref></sup><sup>,</sup><sup><xref ref-type="bibr" rid="bib30">30</xref></sup> We generated mice with single conditional knockout mutations in either <italic>Lrp5</italic> or <italic>Lrp6</italic> and mice with combined mutations in <italic>Lrp5</italic> and <italic>Lrp6</italic>.</p></sec><sec><title>Materials and methods</title><sec><title>Mouse strains</title><p><italic>Lrp5</italic><sup><italic>flox</italic></sup>, <italic>Lrp6</italic><sup><italic>flox</italic></sup>, <italic>Col2a1-cre</italic>, and <italic>mT/mG</italic> mice have been described previously.<sup><xref ref-type="bibr" rid="bib29">29</xref>,<xref ref-type="bibr" rid="bib31 bib32 bib33">31&#x02013;33</xref></sup> All experiments were done in compliance with the Guidelines for the Care and Use of Animals for Scientific Research.<sup><xref ref-type="bibr" rid="bib34">34</xref></sup> The Institutional Animal Care and Use Committee of the Van Andel Research Institute approved all experimental procedures.</p></sec><sec><title>PCR-based genotyping</title><p>Genomic DNA was extracted from tail biopsies using an AutoGenprep 960 automated DNA isolation system (AutoGen Inc., Holliston, MA, USA). PCR-based strategies were then used to genotype the mice (details available upon request).<sup><xref ref-type="bibr" rid="bib35">35</xref></sup> For allele-specific PCR, genomic DNA was extracted from various tissue types of mice using DNeasy Blood and Tissue Kit (Qiagen, Hilden, Germany).</p></sec><sec><title>Whole-Mount Skeletal Staining</title><p>Whole-mount skeletal staining of embryos was performed according to McLeod with modifications.<sup><xref ref-type="bibr" rid="bib36">36</xref></sup> Briefly, skin and viscera were removed and embryos were placed in 95% EtOH for 1&#x02013;2 days. Embryos (E18.5) were then placed in acetone for 1 day and then stained with alizarin red (0.1% alizarin red S in 95% EtOH) and alcian blue (0.3% alcian blue 8GX in 70% EtOH) for 3 days at 37&#x02009;&#x000b0;C. Embryos were then dipped in dH<sub>2</sub>O, cleared in 1% aqueous KOH until nearly all of the soft tissue was gone, cleared in 80% 1% KOH/20% glycerol, cleared in 50% 1% KOH/50% glycerol, cleared in 20% 1% KOH/80% glycerol, and finally transferred to 100% glycerol for storage.</p></sec><sec><title>Histology</title><p>To investigate the effect of Lrp5/6 loss of function driven by the Col2 promoter during embryonic development and in adult bone and cartilage, limbs from E16.5, E17.5, and E18.5 embryos Lrp5/6 mutant and WT mice and knees from 6-month-old male and female <italic>Col2-cre;Lrp5</italic><sup><italic>Fl/Fl</italic></sup>, <italic>Col2-cre;Lrp6</italic><sup><italic>Fl/Fl</italic></sup>, <italic>Col2-cre;Lrp5</italic><sup><italic>Fl/+</italic></sup><italic>;Lrp6</italic><sup><italic>Fl/+</italic></sup>, <italic>Col2-cre;Lrp5</italic><sup><italic>Fl/FL</italic></sup><italic>;Lrp6</italic><sup><italic>Fl/+</italic></sup>, and <italic>Col2-cre;Lrp5</italic><sup><italic>Fl/+</italic></sup><italic>;Lrp6</italic><sup><italic>Fl/FL</italic></sup> mice and respective WT littermates were fixed in 10% neutral buffered formalin for 48&#x02009;h and decalcified with Immunocal (Decal Chemical Corporation, Tallman, NY, USA) for 48&#x02009;h. Samples were infiltrated with an alcohol series, cleared with xylene, and infiltrated with paraffin. Samples were embedded on edge into a paraffin mold using the Leica Embedding center, sectioned at 5&#x02009;&#x003bc;m using a microtome, collected onto glass slides, deparaffinized, and hydrated in distilled water. Sagittal knee sections were stained with Safranin O (0.1% Safranin O in distilled water) and Fast Green (0.05% Fast Green FCF in distilled water), and counterstained with Hematoxylin. Sections from embryos were stained with pentachrome according to the Movat method. Sections were imaged with a Nikon Eclipse 55i microscope and Nikon Digital Sight camera (Nikon, Melville, NY, USA).</p></sec><sec><title>DEXA</title><p>Mice were anesthetized via inhalation of 2% isoflurane (TW Medical Veterinary Supply) with oxygen (1.0&#x02009;L&#x000b7;min<sup>&#x02212;1</sup>) for 10&#x02009;min prior to imaging and during the procedure (&#x02a7d;5&#x02009;min). The mice were placed on a specimen tray in a PIXImus II bone densitometer (GE Lunar) for analysis. Bone mineral density (BMD) was calculated by the PIXImus software based on the active bone area in the subcranial region within the total body image and specifically in the femur, humerus, and axial skeleton.</p></sec><sec><title>Microcomputed tomography</title><p>Trabecular and cortical BMD and architecture were assessed after collecting samples at 6 months of age using standardized methods<sup><xref ref-type="bibr" rid="bib37">37</xref></sup> at the distal femoral metaphysis and femoral midshaft, respectively, using a desktop SkyScan 1172 microCT imaging system (SkyScan, Kontich, Germany). Scans were acquired using a 13.3-&#x003bc;m<sup>3</sup> isotropic voxel size, with 130 CT slices evaluated at the distal femur and 230 CT slices at the femoral midshaft. For trabecular and cortical bone analyses, fixed thresholds of 85 and 113, respectively, were used to determine the mineralized bone fraction. These values were calculated by averaging together all individual threshold levels. Individual CT slices were reconstructed with SkyScan reconstruction software and data were analyzed with CTan(Comprehensive TeX Archive Network). The region of interest of trabecular bone was drawn manually a few voxels away from the endocortical surface. The SkyScan was calibrated daily to hydroxyapatite cores of known density.</p></sec></sec><sec><title>Results</title><sec><title>Generation of mice carrying Col2-cre-mediated deletions in Lrp5 and/or Lrp6</title><p>A detailed summary of the mouse strains and genetic backgrounds associated with this study is provided in <xref rid="tbl1" ref-type="table">Table 1</xref>. Mouse strains carrying floxed alleles of <italic>Lrp5</italic> and <italic>Lrp6</italic> have been previously described and have no deficit in Lrp5 or Lrp6 function in the absence of exposure to cre recombinase.<sup><xref ref-type="bibr" rid="bib31">31</xref></sup><sup>,</sup><sup><xref ref-type="bibr" rid="bib35">35</xref></sup> These strains were crossed to mice expressing the cre recombinase under the control of the <italic>Collagen2A1</italic> promoter (<italic>Col2-cre</italic>).<sup><xref ref-type="bibr" rid="bib29">29</xref></sup> This process generated mice with several potential genotypes. <italic>Col2-cre</italic> expressing mice homozygous for either <italic>Lrp5</italic><sup><italic>flox</italic></sup> (<italic>Col2-cre;Lrp5</italic><sup><italic>Fl/Fl</italic></sup>) or <italic>Lrp6</italic><sup><italic>flox</italic></sup> (<italic>Col2-cre;Lrp6</italic><sup><italic>Fl/Fl</italic></sup>) were viable and fertile. In addition, mice carrying several different combinations of <italic>Col2-cre</italic>-induced in Lrp5 and Lrp6 were also viable. Mice heterozygous for both <italic>Lrp5</italic><sup><italic>flox</italic></sup> and <italic>Lrp6</italic><sup><italic>flox</italic></sup> (<italic>Col2-cre;Lrp5</italic><sup><italic>Fl/+</italic></sup><italic>;Lrp6</italic><sup><italic>Fl/+</italic>)</sup> or heterozygous for one such allele and homozygous for the other (<italic>Col2-cre;Lrp5</italic><sup><italic>Fl/FL</italic></sup><italic>;Lrp6</italic><sup><italic>Fl/+</italic></sup> or <italic>Col2-cre;Lrp5</italic><sup><italic>Fl/+</italic></sup><italic>;Lrp6</italic><sup><italic>Fl/FL</italic></sup> were all viable and fertile. In contrast, mice homozygous for Col2-mediated deletion of both Lrp5 and Lrp6 (<italic>Col2-cre;Lrp5</italic><sup><italic>Fl/FL</italic></sup><italic>;Lrp6</italic><sup><italic>Fl/FL</italic></sup>) died <italic>in utero</italic> or shortly after birth. Mice lacking the <italic>Col2-cre</italic> transgene are considered WT and used as controls for these studies as the Lrp5 and Lrp6 loci function normally in the absence of cre (<xref ref-type="fig" rid="fig1">Figure 1</xref>). A summary of the nomenclature used in the text and in the figures for the genotypic cohorts of mice in this study is provided in <xref rid="tbl2" ref-type="table">Table 2</xref>.</p></sec><sec><title>Assessment of Col2-cre activity</title><p>To confirm the pattern of <italic>Col2-cre</italic> activity, allele-specific PCR was performed. In <italic>Col2-cre;Lrp5</italic><sup><italic>Fl/FL</italic></sup> mice, PCR products specifically derived from alleles that had undergone cre-mediated recombination were detected in the ribs, femur, and cartilage. In <italic>Col2-cre;Lrp6</italic><sup><italic>Fl/FL</italic></sup> mice, mutant bands were detected in the tail, ribs, femur, and cartilage (<xref ref-type="fig" rid="fig1">Figure 1a</xref>). To further confirm activity, we crossed <italic>Col2-cre</italic> transgenic mice to a strain carrying the mT/mG cre reporter.<sup><xref ref-type="bibr" rid="bib33">33</xref></sup> In the mT/mG mice, loxP sites are present around the tdTomato (mT) expression cassette. In the absence of Cre-mediated recombination, the tomato protein is expressed in all tissues which, as a result, display red fluorescence. Upon exposure to cre, recombination excises the mT expression cassette, allowing expression of green fluorescent protein (GFP). GFP expression, indicative of Cre recombination, was detected in hypertrophic chondrocytes and both trabecular and cortical bone regions of <italic>Col2-cre</italic>-expressing mice (<xref ref-type="fig" rid="fig1">Figure 1b</xref>).</p></sec><sec><title>Col2-cre;Lrp5<sup>Fl/FL</sup>;Lrp6<sup>Fl/FL</sup> mice have skeletal abnormalities during development</title><p>Once it was apparent that <italic>Col2-cre;Lrp5</italic><sup><italic>Fl/FL</italic></sup><italic>;Lrp6</italic><sup><italic>Fl/FL</italic></sup> mice did not survive beyond birth, we set up timed matings and collected embryos at e18.5. To assess differences in skeletal development, whole mount staining of embryos with Alizarin Red and Alcian Blue was performed. We did not observe any gross differences between control embryos and mice homozygous for conditional deletion of either Lrp5 (<italic>Col2-cre;Lrp5</italic><sup><italic>Fl/FL</italic></sup>) or Lrp6 <italic>Col2-cre;Lrp6</italic><sup><italic>Fl/FL</italic></sup>; data not shown). In contrast, gross differences in skeletal morphology were observed between <italic>Col2-cre;Lrp5</italic><sup><italic>Fl/FL</italic></sup><italic>;Lrp6</italic><sup><italic>Fl/FL</italic></sup> and WT littermates at this stage (<xref ref-type="fig" rid="fig2">Figure 2</xref>). In <italic>Col2-cre;Lrp5</italic><sup><italic>Fl/FL</italic></sup><italic>;Lrp6</italic><sup><italic>Fl/FL</italic></sup> embryos, the supraoccipital bone was not mineralized; and the dorsal arches of the C1 vertebrae and C2 vertebrae were underdeveloped (<xref ref-type="fig" rid="fig3">Figure 3a and 3b</xref>). These mutant embryos had smaller exoccipial bones, little cartilage ossification in the primordium body of the hyoid bone, and a gap within vertebrae (<xref ref-type="fig" rid="fig3">Figure 3a and 3b</xref>). A lack of bone growth and fusion was observed in the palate and reduced membranous ossification of the nasal bone was also observed in <italic>Col2-cre;Lrp5</italic><sup><italic>Fl/FL</italic></sup><italic>;Lrp6</italic><sup><italic>Fl/FL</italic></sup> embryos. A lack of nasal bone ossification and growth was apparent in addition to limited growth and ossification of the palatine bone, and underdevelopment and irregular shape of basisphenoid bone (<xref ref-type="fig" rid="fig3">Figure 3a and b</xref>). There were smaller projections of the vertebrae and reduced mineralization within the spine and ribs (<xref ref-type="fig" rid="fig3">Figure 3c</xref>) of <italic>Col2-cre;Lrp5</italic><sup><italic>Fl/FL</italic></sup><italic>;Lrp6</italic><sup><italic>Fl/FL</italic></sup> embryos.</p></sec><sec><title>Col2-cre;Lrp5<sup>Fl/FL</sup>;Lrp6<sup>Fl/FL</sup> mice have altered cartilaginous zones during development</title><p>Limbs from E18.5 <italic>Col2-cre;Lrp5</italic><sup><italic>Fl/FL</italic></sup><italic>;Lrp6</italic><sup><italic>Fl/FL</italic></sup> embryos were bowed with the hypertrophic zone extending further from the growth plate. This was associated with increased alcian blue staining (<xref ref-type="fig" rid="fig4">Figure 4</xref>). This phenotype is similar to that seen in <italic>Dermo1-cre;Lrp5</italic><sup><italic>Fl/FL</italic></sup><italic>;Lrp6</italic><sup><italic>Fl/FL</italic></sup> embryos.<sup><xref ref-type="bibr" rid="bib31">31</xref></sup></p></sec><sec><title>Adult <italic>Col2-cre;Lrp5</italic><sup><italic>Fl/FL</italic></sup> or <italic>Col2-cre;Lrp6</italic><sup><italic>Fl/FL</italic></sup> mice and mice with combinatorial deletions of <italic>Lrp5</italic> and <italic>Lrp6</italic> have low bone mass</title><p>To assess the effect of <italic>Col2-cre</italic>-induced loss of Lrp5 or Lrp6 on adult bone at 6 months of age, dual X-ray absorbtiometry was carried out to measure total body BMD. This demonstrated that BMD was significantly lower for male and female <italic>Col2-cre;Lrp5</italic><sup><italic>Fl/FL</italic></sup> and <italic>Col2-cre;Lrp6</italic><sup><italic>Fl/FL</italic></sup> mice relative to control littermates (<xref ref-type="fig" rid="fig5">Figure 5</xref>). Total body BMD was also significantly reduced in male and female <italic>Col2-cre;Lrp5</italic><sup><italic>Fl/+</italic></sup><italic>;Lrp6</italic><sup><italic>Fl/+</italic></sup>, <italic>Col2-cre;Lrp5</italic><sup><italic>Fl/FL</italic></sup><italic>;Lrp6</italic><sup><italic>Fl/+</italic></sup>, and <italic>Col2-cre;Lrp5</italic><sup><italic>Fl/+</italic></sup><italic>;Lrp6</italic><sup><italic>Fl/FL</italic></sup> mice compared with WT littermates (<xref ref-type="fig" rid="fig5">Figure 5</xref>).</p><p>A qualitative reduction in trabecular number and bone volume fraction, and an increase in trabecular spacing were observed in the distal femur of <italic>Col2-cre;Lrp5</italic><sup><italic>Fl/FL</italic></sup>, <italic>Col2-cre;Lrp6</italic><sup><italic>Fl/FL</italic></sup>, <italic>Col2-cre;Lrp5</italic><sup><italic>Fl/+</italic></sup><italic>;Lrp6</italic><sup><italic>Fl/+</italic></sup>, <italic>Col2-cre;Lrp5</italic><sup><italic>Fl/FL</italic></sup><italic>;Lrp6</italic><sup><italic>Fl/+</italic></sup>, and <italic>Col2-cre;Lrp5</italic><sup><italic>Fl/+</italic></sup><italic>;Lrp6</italic><sup><italic>Fl/FL</italic></sup> mice compared with WT littermates (<xref ref-type="fig" rid="fig5">Figure 5</xref>). Compared with respective WT littermates cortical cross sectional area and cortical thickness was significantly lower for male and female <italic>Col2-cre;Lrp5</italic><sup><italic>Fl/FL</italic></sup> and <italic>Col2-cre;Lrp6</italic><sup><italic>Fl/FL</italic></sup> (<xref rid="tbl3" ref-type="table">Table 3</xref>). Cortical mineral density was significantly lower for female <italic>Col2-cre;Lrp5</italic><sup><italic>Fl/FL</italic></sup> and <italic>Col2-cre;Lrp6</italic><sup><italic>Fl/FL</italic></sup> mice compared with WT (<xref rid="tbl3" ref-type="table">Table 3</xref>). Cortical thickness and mineral density were significantly lower for male and female mice with mutations in both Lrp5 and Lrp6 (<xref rid="tbl3" ref-type="table">Table 3</xref>). Cortical cross sectional area was significantly lower for all female mice with mutations in both Lrp5 and Lrp6 and male <italic>Col2-cre;Lrp5</italic><sup><italic>Fl/FL</italic></sup><italic>;Lrp6</italic><sup><italic>Fl/+</italic></sup> mice compared with respective WT mice (<xref rid="tbl3" ref-type="table">Table 3</xref>). Compared with respective WT littermates, trabecular bone volume fraction and number were significantly lower and separation significantly higher for <italic>Col2-cre;Lrp5</italic><sup><italic>Fl/FL</italic></sup> and <italic>Col2-cre;Lrp6</italic><sup><italic>Fl/FL</italic></sup> male and female mice (<xref rid="tbl3" ref-type="table">Table 3</xref>). Trabecular thickness was significantly lower for male <italic>Col2-cre;Lrp5</italic><sup><italic>Fl/FL</italic></sup> mice compared with WT (<xref rid="tbl3" ref-type="table">Table 3</xref>). Compared with respective WT littermates, trabecular bone volume fraction and number were significantly lower and separation higher for male and female <italic>Col2-cre;Lrp5</italic><sup><italic>Fl/FL</italic></sup><italic>;Lrp6</italic><sup><italic>Fl/+</italic></sup> and <italic>Col2-cre;Lrp5</italic><sup><italic>Fl/+</italic></sup><italic>;Lrp6</italic><sup><italic>Fl/FL</italic></sup> mice (<xref rid="tbl3" ref-type="table">Table 3</xref>). Trabecular thickness was significantly lower in female <italic>Col2-cre;Lrp5</italic><sup><italic>Fl/FL</italic></sup><italic>;Lrp6</italic><sup><italic>Fl/+</italic></sup> and <italic>Col2-cre;Lrp5</italic><sup><italic>Fl/+</italic></sup><italic>;Lrp6</italic><sup><italic>Fl/FL</italic></sup> mice and male <italic>Col2-cre;Lrp5</italic><sup><italic>Fl/FL</italic></sup><italic>;Lrp6</italic><sup><italic>Fl/+</italic></sup> mice compared with WT (<xref rid="tbl3" ref-type="table">Table 3</xref>).</p></sec><sec><title>Adult mice with Col2-cre single Lrp5 or Lrp6 loss of function and double combinations of heterozygous and complete loss of Lrp5/6 function have normal articular cartilage and subchondral bone in knee joints</title><p>There were no gross morphological differences in knee joints between WT and mutant mice. Safranin O staining intensity was slightly reduced in articular cartilage from <italic>Col2-cre;Lrp5</italic><sup><italic>Fl/FL</italic></sup><italic>;Lrp6</italic><sup><italic>Fl/+</italic></sup> and <italic>Col2-cre;Lrp5</italic><sup><italic>Fl/+</italic></sup><italic>;Lrp6</italic><sup><italic>Fl/FL</italic></sup> mice compared with littermates (<xref ref-type="fig" rid="fig6">Figure 6</xref>). The tidemark was well preserved in all mice and there was no obvious difference in cartilage thickness (<xref ref-type="fig" rid="fig6">Figure 6</xref>). Upon microcomputed tomography (microCT), knee joint subchondral bone morphology also appeared similar between mutant mice and WT littermates and there was no pathological evidence of degenerative joint diseases including subchondral bone erosion or osteophyte formation (<xref ref-type="fig" rid="fig7">Figure 7</xref>).</p></sec></sec><sec><title>Discussion</title><p>Studies have linked Wnt/&#x003b2;-catenin signaling to degenerative joint disease in humans and mice.<sup><xref ref-type="bibr" rid="bib19">19</xref>,<xref ref-type="bibr" rid="bib23">23</xref>,<xref ref-type="bibr" rid="bib38 bib39 bib40 bib41 bib42 bib43">38&#x02013;43</xref></sup> The fact that <italic>Col2-cre</italic>-mediated deletion of <italic>Lrp5</italic> results in normal appearing knee joints is not surprising given that global deletion of <italic>Lrp5</italic> was previously shown to not alter skeletal morphogenesis.<sup><xref ref-type="bibr" rid="bib25">25</xref>,<xref ref-type="bibr" rid="bib44 bib45 bib46">44&#x02013;46</xref></sup> However, homozygosity for an inactivating allele of <italic>Lrp6</italic> results in neonatal lethality,<sup><xref ref-type="bibr" rid="bib24">24</xref></sup> so it was previously not possible to evaluate the effects of loss of Lrp6 on the adult knee. <italic>Col2-cre</italic>-mediated deletion of Lrp6 did not result in any discernable knee phenotype. Furthermore, mice in which either Lrp5 or Lrp6 were homozygously deleted with <italic>Col2-cre</italic>, whereas the other gene was heterozygously deleted also displayed normal knee morphology. As homozygous deletion of both genes results in embryonic lethality,<sup><xref ref-type="bibr" rid="bib26">26</xref></sup> it is not possible to assess the effects of double deletion on the adult knee in mice carrying global deletions. We feel this is consistent with the idea that it is likely that retention of at least one allele of either Lrp5 or Lrp6 within the descendants of <italic>Col2-cre</italic> expressing cells is sufficient to mediate normal joint development. Alternatively, it is also possible that signaling from either Lrp5 or Lrp6 is not required for normal joint development. The use of chondrocyte-specific cre drivers that can be controlled temporally to induce simultaneous loss of both genes may be a way to fully discern between these two possibilities.</p><p>The presence of decreased bone mass in mice carrying deletions in Lrp5 and Lrp6 is consistent with previous observations that mutations in one of both of these genes within the osteochondral lineage cause reductions in bone mass.<sup><xref ref-type="bibr" rid="bib1">1</xref></sup><sup>,</sup><sup><xref ref-type="bibr" rid="bib25">25</xref></sup><sup>,</sup><sup><xref ref-type="bibr" rid="bib31">31</xref></sup><sup>,</sup><sup><xref ref-type="bibr" rid="bib35">35</xref></sup><sup>,</sup><sup><xref ref-type="bibr" rid="bib45">45</xref></sup><sup>,</sup><sup><xref ref-type="bibr" rid="bib47">47</xref></sup> We did not carry out detailed histomorphometry in the context of these studies, but previously work showed that mice carrying OCN-cre-mediated deletions of either <italic>Lrp5</italic> or <italic>Lrp6</italic> developed osteopenia<sup><xref ref-type="bibr" rid="bib35">35</xref></sup> and therefore speculate that this could be the underlying mechanism for the reduced bone mass observed.</p><p>An alternative model in which Lrp5 functions to control bone mass via regulating the production of serotonin from enterchromaffin cells of the cells of the duodenum has also been proposed.<sup><xref ref-type="bibr" rid="bib48 bib49 bib50">48&#x02013;50</xref></sup> However, this latter model has been debated.<sup><xref ref-type="bibr" rid="bib51 bib52 bib53 bib54">51&#x02013;54</xref></sup> In any event, reductions in bone mass caused by loss of Lrp5 and/or Lrp6 in the descendants of <italic>Col2-cre</italic>-expressing cells could be either owing to widespread leakiness of the <italic>Col2-cre</italic> transgene within osteoblasts or reflect significant contribution of <italic>Col2-cre</italic> expressing cells to the osteoblast lineage found in the mature skeleton.</p><p>Although a detailed assessment of body composition was not part of this study, we did not observe differences in body weight that might be of interest for future studies. Assessment of the mice at the time of DEXA analysis demonstrated that both male (12% decrease) and female (9% decrease) <italic>Col2-cre;Lrp5</italic><sup><italic>Fl/FL</italic></sup> mice weighed significantly less than their WT counterparts. <italic>Col2-cre;Lrp6</italic><sup><italic>Fl/FL</italic></sup> female mice also weighed significantly less than controls (17% reduction), whereas male mice displayed a downward trend (4% decrease) that did not reach statistical significance. Whether this is related to relative changes in lean body mass and/or energy expenditure<sup><xref ref-type="bibr" rid="bib55">55</xref></sup> could be assessed in future studies.</p><p>The observation that Lrp5 and Lrp6 act in an overlapping and/or redundant manner within the descendants of <italic>Col2-cre</italic> expressing cells is consistent with observations in a wide variety of other cell types and tissues. These include mice carrying global deletions in the two genes as well as mice in which both genes are deleted in cells derived from the following cre drivers: <italic>Osteocalcin-cre</italic> (mature osteoblasts and osteocytes),<sup><xref ref-type="bibr" rid="bib35">35</xref></sup>
+<italic>Dermo1-cre</italic> (osteochondral progenitors),<sup><xref ref-type="bibr" rid="bib31">31</xref></sup> and <italic>Albumin-cre</italic> (hepatocytes).<sup><xref ref-type="bibr" rid="bib56">56</xref></sup> Future work will evaluate how Lrp5 and Lrp6 coordinately regulate downstream signaling pathways from Wnt ligands<sup><xref ref-type="bibr" rid="bib32">32</xref></sup><sup>,</sup><sup><xref ref-type="bibr" rid="bib57">57</xref>,<xref ref-type="bibr" rid="bib58">58</xref></sup> that are necessary for normal development in skeletal tissues.</p></sec></body><back><ack><p>We thank other members of the Williams Laboratory for helpful suggestions and assistance with genotyping. In addition, we thank the staffs of the VARI Vivarium and the VARI Pathology and Biorepository Core. This work was supported by the Van Andel Research Institute and by NIH/NIAMS R01 grant AR053293 to BOW.</p></ack><ref-list><ref id="bib1"><mixed-citation publication-type="journal">
+Maupin KA
+, 
+Droscha CJ
+, 
+Williams BO
+. <article-title>A comprehensive overview of skeletal phenotypes associated with alterations in Wnt/beta-catenin signaling in humans and mice</article-title>. <source>Bone Res</source>
+<year>2013</year>; <volume>1</volume>: <fpage>27</fpage>&#x02013;71.<pub-id pub-id-type="pmid">26273492</pub-id></mixed-citation></ref><ref id="bib2"><mixed-citation publication-type="journal">
+Joiner DM
+, 
+Ke J
+, 
+Zhong Z
+et al. <article-title>LRP5 and LRP6 in development and disease</article-title>. <source>Trends Endocrinol Metab</source>
+<year>2013</year>; <volume>24</volume>: <fpage>31</fpage>&#x02013;39.<pub-id pub-id-type="pmid">23245947</pub-id></mixed-citation></ref><ref id="bib3"><mixed-citation publication-type="journal">
+Yuan X
+, 
+Liu H
+, 
+Huang H
+et al. <article-title>The key role of canonical Wnt/beta-catenin signaling in cartilage chondrocytes</article-title>. <source>Curr Drug Targets</source>
+<year>2015</year>; <volume>17</volume>: <fpage>475</fpage>&#x02013;485.</mixed-citation></ref><ref id="bib4"><mixed-citation publication-type="journal">
+Shin Y
+, 
+Huh YH
+, 
+Kim K
+et al. <article-title>Low-density lipoprotein receptor-related protein 5 governs Wnt-mediated osteoarthritic cartilage destruction</article-title>. <source>Arthritis Res Ther</source>
+<year>2014</year>; <volume>16</volume>: <fpage>R37</fpage>.<pub-id pub-id-type="pmid">24479426</pub-id></mixed-citation></ref><ref id="bib5"><mixed-citation publication-type="journal">
+Maruyama T
+, 
+Jiang M
+, 
+Hsu W
+. <article-title>Gpr177, a novel locus for bone mineral density and osteoporosis, regulates osteogenesis and chondrogenesis in skeletal development</article-title>. <source>J Bone Miner Res</source>
+<year>2013</year>; <volume>28</volume>: <fpage>1150</fpage>&#x02013;1159.<pub-id pub-id-type="pmid">23188710</pub-id></mixed-citation></ref><ref id="bib6"><mixed-citation publication-type="journal">
+Dao DY
+, 
+Jonason JH
+, 
+Zhang Y
+et al. <article-title>Cartilage-specific beta-catenin signaling regulates chondrocyte maturation, generation of ossification centers, and perichondrial bone formation during skeletal development</article-title>. <source>J Bone Miner Res</source>
+<year>2012</year>; <volume>27</volume>: <fpage>1680</fpage>&#x02013;1694.<pub-id pub-id-type="pmid">22508079</pub-id></mixed-citation></ref><ref id="bib7"><mixed-citation publication-type="journal">
+Rodda SJ
+, 
+McMahon AP
+. <article-title>Distinct roles for Hedgehog and canonical Wnt signaling in specification, differentiation and maintenance of osteoblast progenitors</article-title>. <source>Development</source>
+<year>2006</year>; <volume>133</volume>: <fpage>3231</fpage>&#x02013;3244.<pub-id pub-id-type="pmid">16854976</pub-id></mixed-citation></ref><ref id="bib8"><mixed-citation publication-type="journal">
+Spater D
+, 
+Hill TP
+, 
+O'Sullivan RJ
+et al. <article-title>Wnt9a signaling is required for joint integrity and regulation of Ihh during chondrogenesis</article-title>. <source>Development</source>
+<year>2006</year>; <volume>133</volume>: <fpage>3039</fpage>&#x02013;3049.<pub-id pub-id-type="pmid">16818445</pub-id></mixed-citation></ref><ref id="bib9"><mixed-citation publication-type="journal">
+Akiyama H
+, 
+Lyons JP
+, 
+Mori-Akiyama Y
+et al. <article-title>Interactions between Sox9 and beta-catenin control chondrocyte differentiation</article-title>. <source>Genes Dev</source>
+<year>2004</year>; <volume>18</volume>: <fpage>1072</fpage>&#x02013;1087.<pub-id pub-id-type="pmid">15132997</pub-id></mixed-citation></ref><ref id="bib10"><mixed-citation publication-type="journal">
+Kitagaki J
+, 
+Iwamoto M
+, 
+Liu JG
+et al. <article-title>Activation of beta-catenin-LEF/TCF signal pathway in chondrocytes stimulates ectopic endochondral ossification</article-title>. <source>Osteoarthritis Cartilage</source>
+<year>2003</year>; <volume>11</volume>: <fpage>36</fpage>&#x02013;43.<pub-id pub-id-type="pmid">12505485</pub-id></mixed-citation></ref><ref id="bib11"><mixed-citation publication-type="journal">
+Hartmann C
+, 
+Tabin CJ
+. <article-title>Dual roles of Wnt signaling during chondrogenesis in the chicken limb</article-title>. <source>Development</source>
+<year>2000</year>; <volume>127</volume>: <fpage>3141</fpage>&#x02013;3159.<pub-id pub-id-type="pmid">10862751</pub-id></mixed-citation></ref><ref id="bib12"><mixed-citation publication-type="journal">
+Miclea RL
+, 
+Karperien M
+, 
+Bosch CA
+et al. <article-title>Adenomatous polyposis coli-mediated control of beta-catenin is essential for both chondrogenic and osteogenic differentiation of skeletal precursors. BMC</article-title>. <source>Dev Biol</source>
+<year>2009</year>; <volume>9</volume>: <fpage>26</fpage>.</mixed-citation></ref><ref id="bib13"><mixed-citation publication-type="journal">
+Lodewyckx L
+, 
+Luyten FP
+, 
+Lories RJ
+. <article-title>Genetic deletion of low-density lipoprotein receptor-related protein 5 increases cartilage degradation in instability-induced osteoarthritis</article-title>. <source>Rheumatology (Oxford)</source>
+<year>2012</year>; <volume>51</volume>: <fpage>1973</fpage>&#x02013;1978.<pub-id pub-id-type="pmid">22850184</pub-id></mixed-citation></ref><ref id="bib14"><mixed-citation publication-type="journal">
+Joiner DM
+, 
+Less KD
+, 
+Van Wieren EM
+et al. <article-title>Heterozygosity for an inactivating mutation in low-density lipoprotein-related receptor 6 (Lrp6) increases osteoarthritis severity in mice after ligament and meniscus injury</article-title>. <source>Osteoarthritis Cartilage</source>
+<year>2013</year>; <volume>21</volume>: <fpage>1576</fpage>&#x02013;1585.<pub-id pub-id-type="pmid">23756208</pub-id></mixed-citation></ref><ref id="bib15"><mixed-citation publication-type="journal">
+Funck-Brentano T
+, 
+Bouaziz W
+, 
+Marty C
+et al. <article-title>Dkk-1-mediated inhibition of Wnt signaling in bone ameliorates osteoarthritis in mice</article-title>. <source>Arthritis Rheumatol</source>
+<year>2014</year>; <volume>66</volume>: <fpage>3028</fpage>&#x02013;3039.<pub-id pub-id-type="pmid">25080367</pub-id></mixed-citation></ref><ref id="bib16"><mixed-citation publication-type="journal">
+Blom AB
+, 
+Brockbank SM
+, 
+van Lent PL
+et al. <article-title>Involvement of the Wnt signaling pathway in experimental and human osteoarthritis: prominent role of Wnt-induced signaling protein 1</article-title>. <source>Arthritis Rheum</source>
+<year>2009</year>; <volume>60</volume>: <fpage>501</fpage>&#x02013;512.<pub-id pub-id-type="pmid">19180479</pub-id></mixed-citation></ref><ref id="bib17"><mixed-citation publication-type="journal">
+Zhu M
+, 
+Tang D
+, 
+Wu Q
+et al. <article-title>Activation of beta-catenin signaling in articular chondrocytes leads to osteoarthritis-like phenotype in adult beta-catenin conditional activation mice</article-title>. <source>J Bone Miner Res</source>
+<year>2009</year>; <volume>24</volume>: <fpage>12</fpage>&#x02013;21.<pub-id pub-id-type="pmid">18767925</pub-id></mixed-citation></ref><ref id="bib18"><mixed-citation publication-type="journal">
+Zhu M
+, 
+Chen M
+, 
+Zuscik M
+et al. <article-title>Inhibition of beta-catenin signaling in articular chondrocytes results in articular cartilage destruction</article-title>. <source>Arthritis Rheum</source>
+<year>2008</year>; <volume>58</volume>: <fpage>2053</fpage>&#x02013;2064.<pub-id pub-id-type="pmid">18576323</pub-id></mixed-citation></ref><ref id="bib19"><mixed-citation publication-type="journal">
+Papathanasiou I
+, 
+Malizos KN
+, 
+Tsezou A
+. <article-title>Low-density lipoprotein receptor-related protein 5 (LRP5) expression in human osteoarthritic chondrocytes</article-title>. <source>J Orthop Res</source>
+<year>2010</year>; <volume>28</volume>: <fpage>348</fpage>&#x02013;353.<pub-id pub-id-type="pmid">19810105</pub-id></mixed-citation></ref><ref id="bib20"><mixed-citation publication-type="journal">
+Velasco J
+, 
+Zarrabeitia MT
+, 
+Prieto JR
+et al. <article-title>Wnt pathway genes in osteoporosis and osteoarthritis: differential expression and genetic association study</article-title>. <source>Osteoporos Int</source>
+<year>2010</year>; <volume>21</volume>: <fpage>109</fpage>&#x02013;118.<pub-id pub-id-type="pmid">19373426</pub-id></mixed-citation></ref><ref id="bib21"><mixed-citation publication-type="journal">
+Kerkhof JM
+, 
+Uitterlinden AG
+, 
+Valdes AM
+et al. <article-title>Radiographic osteoarthritis at three joint sites and FRZB, LRP5, and LRP6 polymorphisms in two population-based cohorts</article-title>. <source>Osteoarthritis Cartilage</source>
+<year>2008</year>; <volume>16</volume>: <fpage>1141</fpage>&#x02013;1149.<pub-id pub-id-type="pmid">18406176</pub-id></mixed-citation></ref><ref id="bib22"><mixed-citation publication-type="journal">
+Urano T
+, 
+Shiraki M
+, 
+Narusawa K
+et al. <article-title>Q89R polymorphism in the LDL receptor-related protein 5 gene is associated with spinal osteoarthritis in postmenopausal Japanese women</article-title>. <source>Spine (Phila Pa 1976)</source>
+<year>2007</year>; <volume>32</volume>: <fpage>25</fpage>&#x02013;29.<pub-id pub-id-type="pmid">17202888</pub-id></mixed-citation></ref><ref id="bib23"><mixed-citation publication-type="journal">
+Smith AJ
+, 
+Gidley J
+, 
+Sandy JR
+et al. <article-title>Haplotypes of the low-density lipoprotein receptor-related protein 5 (LRP5) gene: are they a risk factor in osteoarthritis?</article-title>
+<source>Osteoarthritis Cartilage</source>
+<year>2005</year>; <volume>13</volume>: <fpage>608</fpage>&#x02013;613.<pub-id pub-id-type="pmid">15979013</pub-id></mixed-citation></ref><ref id="bib24"><mixed-citation publication-type="journal">
+Pinson KI
+, 
+Brennan J
+, 
+Monkley S
+et al. <article-title>An LDL-receptor-related protein mediates Wnt signalling in mice</article-title>. <source>Nature</source>
+<year>2000</year>; <volume>407</volume>: <fpage>535</fpage>&#x02013;538.<pub-id pub-id-type="pmid">11029008</pub-id></mixed-citation></ref><ref id="bib25"><mixed-citation publication-type="journal">
+Holmen SL
+, 
+Giambernardi TA
+, 
+Zylstra CR
+et al. <article-title>Decreased BMD and limb deformities in mice carrying mutations in both Lrp5 and Lrp6</article-title>. <source>J Bone Miner Res</source>
+<year>2004</year>; <volume>19</volume>: <fpage>2033</fpage>&#x02013;2040.<pub-id pub-id-type="pmid">15537447</pub-id></mixed-citation></ref><ref id="bib26"><mixed-citation publication-type="journal">
+Kelly OG
+, 
+Pinson KI
+, 
+Skarnes WC
+. <article-title>The Wnt co-receptors Lrp5 and Lrp6 are essential for gastrulation in mice</article-title>. <source>Development</source>
+<year>2004</year>; <volume>131</volume>: <fpage>2803</fpage>&#x02013;2815.<pub-id pub-id-type="pmid">15142971</pub-id></mixed-citation></ref><ref id="bib27"><mixed-citation publication-type="journal">
+Bondeson J
+. <article-title>Are we moving in the right direction with osteoarthritis drug discovery?</article-title>
+<source>Expert Opin Ther Targets</source>
+<year>2011</year>; <volume>15</volume>: <fpage>1355</fpage>&#x02013;1368.<pub-id pub-id-type="pmid">22087738</pub-id></mixed-citation></ref><ref id="bib28"><mixed-citation publication-type="journal">
+Schett G
+, 
+Zwerina J
+, 
+David JP
+. <article-title>The role of Wnt proteins in arthritis</article-title>. <source>Nat Clin Pract Rheumatol</source>
+<year>2008</year>; <volume>4</volume>: <fpage>473</fpage>&#x02013;480.<pub-id pub-id-type="pmid">18756273</pub-id></mixed-citation></ref><ref id="bib29"><mixed-citation publication-type="journal">
+Ovchinnikov DA
+, 
+Deng JM
+, 
+Ogunrinu G
+et al. <article-title>Col2a1-directed expression of Cre recombinase in differentiating chondrocytes in transgenic mice</article-title>. <source>Genesis</source>
+<year>2000</year>; <volume>26</volume>: <fpage>145</fpage>&#x02013;146.<pub-id pub-id-type="pmid">10686612</pub-id></mixed-citation></ref><ref id="bib30"><mixed-citation publication-type="journal">
+Wu Q
+, 
+Zhu M
+, 
+Rosier RN
+et al. <article-title>Beta-catenin, cartilage, and osteoarthritis</article-title>. <source>Ann N Y Acad Sci</source>
+<year>2010</year>; <volume>1192</volume>: <fpage>344</fpage>&#x02013;350.<pub-id pub-id-type="pmid">20392258</pub-id></mixed-citation></ref><ref id="bib31"><mixed-citation publication-type="journal">
+Joeng KS
+, 
+Schumacher CA
+, 
+Zylstra-Diegel CR
+et al. <article-title>Lrp5 and Lrp6 redundantly control skeletal development in the mouse embryo</article-title>. <source>Dev Biol</source>
+<year>2011</year>; <volume>359</volume>: <fpage>222</fpage>&#x02013;229.<pub-id pub-id-type="pmid">21924256</pub-id></mixed-citation></ref><ref id="bib32"><mixed-citation publication-type="journal">
+Zhong Z
+, 
+Zylstra-Diegel CR
+, 
+Schumacher CA
+et al. <article-title>Wntless functions in mature osteoblasts to regulate bone mass</article-title>. <source>Proc Natl Acad Sci USA</source>
+<year>2012</year>; <volume>109</volume>: <fpage>E2197</fpage>&#x02013;E2204.<pub-id pub-id-type="pmid">22745162</pub-id></mixed-citation></ref><ref id="bib33"><mixed-citation publication-type="journal">
+Muzumdar MD
+, 
+Tasic B
+, 
+Miyamichi K
+et al. <article-title>A global double-fluorescent Cre reporter mouse</article-title>. <source>Genesis</source>
+<year>2007</year>; <volume>45</volume>: <fpage>593</fpage>&#x02013;605.<pub-id pub-id-type="pmid">17868096</pub-id></mixed-citation></ref><ref id="bib34"><mixed-citation publication-type="other">
+Research NACfLA. Guidelines on the Care and Use of Animals for Scientific Purposes. Available at http://wwwavagovsg/NR/rdonlyres/C64255C0-3933-4EBC-B869-84621A9BF682/13557/Attach3AnimalsforScientificPurposesPDFE2204 (serial on the Internet) <year>2004</year>.</mixed-citation></ref><ref id="bib35"><mixed-citation publication-type="journal">
+Riddle RC
+, 
+Diegel CR
+, 
+Leslie JM
+et al. <article-title>Lrp5 and Lrp6 exert overlapping functions in osteoblasts during postnatal bone acquisition</article-title>. <source>PLoS ONE</source>
+<year>2013</year>; <volume>8</volume>: <fpage>e63323</fpage>.<pub-id pub-id-type="pmid">23675479</pub-id></mixed-citation></ref><ref id="bib36"><mixed-citation publication-type="journal">
+McLeod MJ
+. <article-title>Differential staining of cartilage and bone in whole mouse fetuses by alcian blue and alizarin red S</article-title>. <source>Teratology</source>
+<year>1980</year>; <volume>22</volume>: <fpage>299</fpage>&#x02013;301.<pub-id pub-id-type="pmid">6165088</pub-id></mixed-citation></ref><ref id="bib37"><mixed-citation publication-type="journal">
+Bouxsein ML
+, 
+Boyd SK
+, 
+Christiansen BA
+et al. <article-title>Guidelines for assessment of bone microstructure in rodents using micro-computed tomography</article-title>. <source>J Bone Miner Res</source>
+<year>2010</year>; <volume>25</volume>: <fpage>1468</fpage>&#x02013;1486.<pub-id pub-id-type="pmid">20533309</pub-id></mixed-citation></ref><ref id="bib38"><mixed-citation publication-type="journal">
+Zhu M
+, 
+Tang D
+, 
+Wu Q
+et al. <article-title>Activation of -catenin signaling in articular chondrocytes leads to osteoarthritis-like phenotype in adult -catenin conditional activation mice</article-title>. <source>Journal Bone Miner Res</source>
+<year>2009</year>; <volume>24</volume>: <fpage>12</fpage>&#x02013;21.<pub-id pub-id-type="pmid">18767925</pub-id></mixed-citation></ref><ref id="bib39"><mixed-citation publication-type="journal">
+Zhu M
+, 
+Chen M
+, 
+Zuscik M
+et al. <article-title>Inhibition of catenin signaling in articular chondrocytes results in articular cartilage destruction</article-title>. <source>Arthritis Rheum</source>
+<year>2008</year>; <volume>58</volume>: <fpage>2053</fpage>&#x02013;2064.<pub-id pub-id-type="pmid">18576323</pub-id></mixed-citation></ref><ref id="bib40"><mixed-citation publication-type="journal">
+Kawaguchi H
+. <article-title>Regulation of osteoarthritis development by Wnt&#x02013; catenin signaling through the endochondral ossification process</article-title>. <source>Journal Bone Miner Res</source>
+<year>2009</year>; <volume>24</volume>: <fpage>8</fpage>&#x02013;11.<pub-id pub-id-type="pmid">19016582</pub-id></mixed-citation></ref><ref id="bib41"><mixed-citation publication-type="journal">
+Weng LH
+, 
+Wang CJ
+, 
+Ko JY
+et al. <article-title>Control of Dkk-1 ameliorates chondrocyte apoptosis, cartilage destruction, and subchondral bone deterioration in osteoarthritic knees</article-title>. <source>Arthritis Rheum</source>
+<year>2010</year>; <volume>62</volume>: <fpage>1393</fpage>&#x02013;1402.<pub-id pub-id-type="pmid">20131282</pub-id></mixed-citation></ref><ref id="bib42"><mixed-citation publication-type="journal">
+Wang M
+, 
+Tang D
+, 
+Shu B
+et al. <article-title>Conditional activation of beta-catenin signaling in mice leads to severe defects in intervertebral disc tissue</article-title>. <source>Arthritis Rheum</source>
+<year>2012</year>; <volume>64</volume>: <fpage>2611</fpage>&#x02013;2623.<pub-id pub-id-type="pmid">22422036</pub-id></mixed-citation></ref><ref id="bib43"><mixed-citation publication-type="journal">
+Velasco J
+, 
+Zarrabeitia M
+, 
+Prieto J
+et al. <article-title>Wnt pathway genes in osteoporosis and osteoarthritis: differential expression and genetic association study</article-title>. <source>Osteoporos Int</source>
+<volume>21</volume>: <fpage>109</fpage>&#x02013;118.<pub-id pub-id-type="pmid">19373426</pub-id></mixed-citation></ref><ref id="bib44"><mixed-citation publication-type="journal">
+Iwaniec UT
+, 
+Wronski TJ
+, 
+Liu J
+et al. <article-title>PTH stimulates bone formation in mice deficient in Lrp5</article-title>. <source>J Bone Miner Res</source>
+<year>2007</year>; <volume>22</volume>: <fpage>394</fpage>&#x02013;402.<pub-id pub-id-type="pmid">17147489</pub-id></mixed-citation></ref><ref id="bib45"><mixed-citation publication-type="journal">
+Kato M
+, 
+Patel MS
+, 
+Levasseur R
+et al. <article-title>Cbfa1-independent decrease in osteoblast proliferation, osteopenia, and persistent embryonic eye vascularization in mice deficient in Lrp5, a Wnt coreceptor</article-title>. <source>J Cell Biol</source>
+<year>2002</year>; <volume>157</volume>: <fpage>303</fpage>&#x02013;314.<pub-id pub-id-type="pmid">11956231</pub-id></mixed-citation></ref><ref id="bib46"><mixed-citation publication-type="journal">
+Fujino T
+, 
+Asaba H
+, 
+Kang MJ
+et al. <article-title>Low-density lipoprotein receptor-related protein 5 (LRP5) is essential for normal cholesterol metabolism and glucose-induced insulin secretion</article-title>. <source>Proc Natl Acad Sci USA</source>
+<year>2003</year>; <volume>100</volume>: <fpage>229</fpage>&#x02013;234.<pub-id pub-id-type="pmid">12509515</pub-id></mixed-citation></ref><ref id="bib47"><mixed-citation publication-type="journal">
+Li C
+, 
+Williams BO
+, 
+Cao X
+et al. <article-title>LRP6 in mesenchymal stem cells is required for bone formation during bone growth and bone remodeling</article-title>. <source>Bone Res</source>
+<year>2014</year>; <volume>2</volume>: <fpage>14006</fpage>.<pub-id pub-id-type="pmid">26273519</pub-id></mixed-citation></ref><ref id="bib48"><mixed-citation publication-type="journal">
+Kode A
+, 
+Obri A
+, 
+Paone R
+et al. <article-title>Lrp5 regulation of bone mass and serotonin synthesis in the gut</article-title>. <source>Nat Med</source>
+<year>2014</year>; <volume>20</volume>: <fpage>1228</fpage>&#x02013;1229.<pub-id pub-id-type="pmid">25375916</pub-id></mixed-citation></ref><ref id="bib49"><mixed-citation publication-type="journal">
+Yadav VK
+, 
+Ryu JH
+, 
+Suda N
+et al. <article-title>Lrp5 controls bone formation by inhibiting serotonin synthesis in the duodenum</article-title>. <source>Cell</source>
+<year>2008</year>; <volume>135</volume>: <fpage>825</fpage>&#x02013;837.<pub-id pub-id-type="pmid">19041748</pub-id></mixed-citation></ref><ref id="bib50"><mixed-citation publication-type="journal">
+Williams BO
+, 
+Insogna KL
+. <article-title>Where Wnts went: the exploding field of Lrp5 and Lrp6 signaling in bone</article-title>. <source>J Bone Miner Res</source>
+<year>2009</year>; <volume>24</volume>: <fpage>171</fpage>&#x02013;178.<pub-id pub-id-type="pmid">19072724</pub-id></mixed-citation></ref><ref id="bib51"><mixed-citation publication-type="journal">
+Cui Y
+, 
+Niziolek PJ
+, 
+MacDonald BT
+et al. <article-title>Reply to Lrp5 regulation of bone mass and gut serotonin synthesis</article-title>. <source>Nat Med</source>
+<year>2014</year>; <volume>20</volume>: <fpage>1229</fpage>&#x02013;1230.<pub-id pub-id-type="pmid">25375917</pub-id></mixed-citation></ref><ref id="bib52"><mixed-citation publication-type="journal">
+Cui Y
+, 
+Niziolek PJ
+, 
+MacDonald BT
+et al. <article-title>Lrp5 functions in bone to regulate bone mass</article-title>. <source>Nat Med</source>
+<year>2011</year>; <volume>17</volume>: <fpage>684</fpage>&#x02013;691.<pub-id pub-id-type="pmid">21602802</pub-id></mixed-citation></ref><ref id="bib53"><mixed-citation publication-type="journal">
+Brommage R
+. <article-title>Genetic approaches to identifying novel osteoporosis drug targets</article-title>. <source>J Cell Biochem</source>
+<year>2015</year>; <volume>116</volume>: <fpage>2139</fpage>&#x02013;2145.<pub-id pub-id-type="pmid">25833316</pub-id></mixed-citation></ref><ref id="bib54"><mixed-citation publication-type="journal">
+Lee GS
+, 
+Simpson C
+, 
+Sun BH
+et al. <article-title>Measurement of plasma, serum, and platelet serotonin in individuals with high bone mass and mutations in LRP5</article-title>. <source>J Bone Miner Res</source>
+<year>2014</year>; <volume>29</volume>: <fpage>976</fpage>&#x02013;981.<pub-id pub-id-type="pmid">24038240</pub-id></mixed-citation></ref><ref id="bib55"><mixed-citation publication-type="journal">
+Frey JL
+, 
+Li Z
+, 
+Ellis JM
+et al. <article-title>Wnt-Lrp5 signaling regulates fatty acid metabolism in the osteoblast</article-title>. <source>Mol Cell Biol</source>
+<year>2015</year>; <volume>35</volume>: <fpage>1979</fpage>&#x02013;1991.<pub-id pub-id-type="pmid">25802278</pub-id></mixed-citation></ref><ref id="bib56"><mixed-citation publication-type="journal">
+Yang J
+, 
+Mowry LE
+, 
+Nejak-Bowen KN
+et al. <article-title>beta-catenin signaling in murine liver zonation and regeneration: a Wnt-Wnt situation!</article-title>. <source>Hepatology</source>
+<year>2014</year>; <volume>60</volume>: <fpage>964</fpage>&#x02013;976.<pub-id pub-id-type="pmid">24700412</pub-id></mixed-citation></ref><ref id="bib57"><mixed-citation publication-type="journal">
+Zhong ZA
+, 
+Zahatnansky J
+, 
+Snider J
+et al. <article-title>Wntless spatially regulates bone development through beta-catenin-dependent and independent mechanisms</article-title>. <source>Dev Dyn</source>
+<year>2015</year>; <volume>244</volume>: <fpage>1347</fpage>&#x02013;1355.<pub-id pub-id-type="pmid">26249818</pub-id></mixed-citation></ref><ref id="bib58"><mixed-citation publication-type="journal">
+Fu J
+, 
+Ivy Yu HM
+, 
+Maruyama T
+et al. <article-title>Gpr177/mouse Wntless is essential for Wnt-mediated craniofacial and brain development</article-title>. <source>Dev Dyn</source>
+<year>2011</year>; <volume>240</volume>: <fpage>365</fpage>&#x02013;371.<pub-id pub-id-type="pmid">21246653</pub-id></mixed-citation></ref></ref-list></back><floats-group><fig id="fig1"><label>Figure 1</label><caption><p>Evaluating <italic>Col2-cre</italic> activity and tissue-specific deletion of Lrp5 and Lrp6. (<bold>a</bold>) Allele-specific PCR was used to assess where cre-mediated activity resulted in an inactivated allele of Lrp5 or Lrp6 (mutant) and where the floxed allele remained intact (flox). The <italic>Col2-cre</italic>-Lrp5cKO mutant band was detected in the rib, femur, and cartilage, whereas the <italic>Col2-cre</italic>-Lrp6cKO mutant band was detected in the rib, femur, cartilage, and tail. (<bold>b</bold>) <italic>Col2-cre</italic> expressing mice were crossed to the mTmG reporter strain. The presence of Tomato protein (red fluoresence) marks cells that have not undergone cre-mediated recombination of the reporter gene, whereas the expression of GFP (green) is indicative of cells derived from <italic>Col2-cre</italic> expressing cells. The left panel demonstrates red (top) and green (top) fluoresence in sections from the femur of a <italic>Col2-cre</italic>;mtmG mouse (TG/+;ki/+), whereas the right panel shows the same staining for a femur from a control littermate (+/+;ki/+). The middle panel is a higher power view of a combination of the images in the left panels.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="boneres201542-f1"/></fig><fig id="fig2"><label>Figure 2</label><caption><p><italic>Col2-cre;Lrp5</italic><sup><italic>Fl/FL</italic></sup><italic>;Lrp6</italic><sup><italic>Fl/FL</italic></sup> (5cKO6cKO) embryos have significant defects in mineralization. E18.5 alizarin red and alcian blue stains of the entire skeleton (sagittal view) (left panels), top view of the spine and ribs (middle panel); and back of the cranium (right panels).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="boneres201542-f2"/></fig><fig id="fig3"><label>Figure 3</label><caption><p>Higher magnification views of <italic>Col2-cre</italic>;Lrp5<sup>Fl/FL</sup>;Lrp6<sup>Fl/FL</sup> (5cKO;6cKO) embryo mineralization defects. (<bold>a</bold>) E18.5 alizarin red and alcian blue stain of a top view of the skull with the supraoccipital bone removed; view from the underside of the skull; and top view of the skull looking down at the mouse nasal cavity. (<bold>b</bold>) E18.5 alizarin red and alcian blue stains of the skull and top cervical vertebra; base of the skull and cervical vertebra; and posterior view of the skull with the supraoccipital bone removed. Specific areas are noted in <bold>a</bold> and <bold>b</bold> by the following notations: a. Supraoccipital bone; b. Dorsal arch of the first cervical vertebrae (C1); c. C2 vertebra; d. Abnormal vertebral structure; e. Exocipital bone; f. Dorsal arch; g. C2 vertebrae; h. Cartilage primordium of body of hyoid bone. i. Basisphenoid bone; j. Basioccipital bone; k. Palatine bone; l. nasal bone; m. Putative extension of nasal bone; n. Dorsal arch of C1 vertebrae. (<bold>c</bold>) Representative example of alizarin red and alcian blue stains of the spine and ribs from a 5cKO6cKO E18.5 embryo and a WT littermate. WT, wild type.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="boneres201542-f3"/></fig><fig id="fig4"><label>Figure 4</label><caption><p><italic>Col2-cre;Lrp5</italic><sup><italic>Fl/FL</italic></sup><italic>;Lrp6</italic><sup><italic>Fl/FL</italic></sup> (5cKO;6cKO) mice have altered cartilaginous zones during development. Cartilage (blue) in pentachrome stained femur (left panels) and tibia (right panels) sections from E18.5 5cKO6cKO (bottom panels) and WT littermates (top panels). Boxed regions are shown at higher magnification. WT, wild type.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="boneres201542-f4"/></fig><fig id="fig5"><label>Figure 5</label><caption><p>Adult <italic>Col2-cre;Lrp5</italic><sup><italic>Fl/FL</italic></sup> (5cKO) or <italic>Col2-cre;Lrp6</italic><sup><italic>Fl/FL</italic></sup> (6cKO) mice and mice with combinatorial deletions of <italic>Lrp5</italic> and <italic>Lrp6</italic> have low bone mass at six months of age. (<bold>a</bold>) Whole-body bone mineral content DEXA measurements (mean&#x000b1;s.d.) for male and female mice with single Lrp5 and single Lrp6 conditional loss of function mutations driven by <italic>Col2-cre</italic> and respective WT littermates; **<italic>P</italic>&#x0003c;0.01 compared to WT littermates. (<bold>b</bold>) Whole-body bone mineral density DEXA measurements (mean&#x000b1;s.d.) for male and female mice with single Lrp5 and single Lrp6 conditional loss of function mutations driven by <italic>Col2-cre</italic> and respective WT littermates; **<italic>P</italic>&#x0003c;0.01 and *<italic>P</italic>=0.01 compared to WT littermates. (<bold>c</bold>) Whole-body bone mineral content DEXA measurements (mean&#x000b1;s.d.) for male and female mice with double combinations of Lrp5 and Lrp6 conditional knockout or heterozygous loss of function mutation driven by <italic>Col2-cre</italic> and respective WT littermates; **<italic>P</italic>&#x0003c;0.01 compared with WT littermates. (<bold>d</bold>) Whole-body bone mineral density DEXA measurements (mean&#x000b1;s.d.) for male and female mice with combinations of Lrp5 and Lrp6 conditional knockout or heterozygous loss of function mutation driven by <italic>Col2-cre</italic> and respective WT littermates; **<italic>P</italic>&#x0003c;0.01 compared with WT littermates. (<bold>e</bold>) MicroCT cross sectional images of trabecular and cortical bone from male and female mice with single Lrp5 and single Lrp6 conditional knockout mutation driven by <italic>Col2-cre</italic> and of respective WT littermates. (<bold>f</bold>) MicroCT cross sectional images of trabecular and cortical bone from male and female mice with combinations of Lrp5 and Lrp6 conditional homozygous knockout or heterozygous loss of function mutations and of WT littermates. BMC, bone mineral content; BMD, bone mineral density.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="boneres201542-f5"/></fig><fig id="fig6"><label>Figure 6</label><caption><p>Adult mice carrying <italic>Col2-cre</italic>-mediated deletions of Lrp5 and/or Lrp6 display normal knee joints Safranin O/fast green stained sagittal sections of the articular cartilage of knee joints from male and female <italic>Col2-cre</italic>5cKO, <italic>Col2-cre</italic>6cKO, <italic>Col2-cre</italic>5cHET6cHET, <italic>Col2-cre</italic> 5cKO6cHET, <italic>Col2-cre</italic>5cHET6cKO, and wild-type littermate mice at 6 months of age (4&#x000d7;).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="boneres201542-f6"/></fig><fig id="fig7"><label>Figure 7</label><caption><p>Adult mice carrying <italic>Col2-cre</italic>-mediated deletions of Lrp5 and/or Lrp6 have normal knee joints after evaluation by microCT. (Left) 3D reconstructed micro CT images of the knee joints from male and female <italic>Col2-cre</italic>5cKO, <italic>Col2-cre</italic>6cKO, and WT littermate mice. (Right) 3D reconstructed micro CT images of the knee joints from male and female <italic>Col2-cre</italic>5cHET6cHET, <italic>Col2-cre</italic> 5cKO6cHET, <italic>Col2-cre</italic>5cHET6cKO and WT littermate mice. WT, wild type.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="boneres201542-f7"/></fig><table-wrap id="tbl1"><label>Table 1</label><caption><title>Mouse strains used in this work</title></caption><table frame="hsides" rules="groups" border="1"><colgroup><col align="left"/><col align="left"/><col align="char" char="."/><col align="left"/><col align="center"/></colgroup><thead valign="bottom"><tr><th align="left" valign="top" charoff="50"><italic>Nomenclature</italic>
+</th><th align="left" valign="top" charoff="50"><italic>Extended allele name</italic>
+</th><th align="center" valign="top" char="." charoff="50">
+<italic>JAX database stock #</italic>
+</th><th align="left" valign="top" charoff="50"><italic>Genetic background</italic>
+</th><th align="center" valign="top" charoff="50">
+<italic>References</italic>
+</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" charoff="50"><italic>Col2-cre</italic>
+</td><td align="left" valign="top" charoff="50">Tg(Col2a1cre)1Bhr/J</td><td align="char" valign="top" char="." charoff="50">003554</td><td align="left" valign="top" charoff="50">C57Bl/6&#x02009;J; SJL</td><td align="center" valign="top" charoff="50"><sup><xref ref-type="bibr" rid="bib29">29</xref></sup></td></tr><tr><td align="left" valign="top" charoff="50">Lrp5flox</td><td align="left" valign="top" charoff="50"><italic>Lrp5</italic><sup><italic>tm1.1Vari</italic></sup>/J</td><td align="char" valign="top" char="." charoff="50">026269</td><td align="left" valign="top" charoff="50">129/SvJ; C57Bl/6&#x02009;J</td><td align="center" valign="top" charoff="50"><sup><xref ref-type="bibr" rid="bib31">31</xref></sup></td></tr><tr><td align="left" valign="top" charoff="50">Lrp6flox</td><td align="left" valign="top" charoff="50"><italic>Lrp6</italic><sup><italic>tm1.1Vari</italic></sup>/J</td><td align="char" valign="top" char="." charoff="50">026267</td><td align="left" valign="top" charoff="50">129/SvJ; C57Bl/6&#x02009;J</td><td align="center" valign="top" charoff="50"><sup><xref ref-type="bibr" rid="bib31">31</xref></sup></td></tr><tr><td align="left" valign="top" charoff="50">Mt/mG</td><td align="left" valign="top" charoff="50"><italic>Gt(ROSA)26Sor</italic><sup><italic>tm4(ACTB-tdTomato,-EGFP)Luo</italic></sup>/J</td><td align="char" valign="top" char="." charoff="50">007576</td><td align="left" valign="top" charoff="50">129X1/SvJ</td><td align="center" valign="top" charoff="50"><sup><xref ref-type="bibr" rid="bib33">33</xref></sup></td></tr></tbody></table><table-wrap-foot><fn id="t1-tfoot1"><p>WT, wild type.</p></fn><fn id="t1-tfoot2"><p>In each case, the nomenclature used in this study is listed, followed by the strain name and stock number for each strain at the Jackson Laboratories (JAX).</p></fn></table-wrap-foot></table-wrap><table-wrap id="tbl2"><label>Table 2</label><caption><title>Summary of nomenclature for genetically engineered mice characterized in this study</title></caption><table frame="hsides" rules="groups" border="1"><colgroup><col align="left"/><col align="left"/><col align="left"/><col align="left"/><col align="left"/><col align="left"/></colgroup><thead valign="bottom"><tr><th align="left" valign="top" charoff="50"><italic>Nomenclature</italic>
+</th><th align="left" valign="top" charoff="50"><italic>Abbreviation in figures</italic>
+</th><th align="left" valign="top" charoff="50"><italic>Col2-cre genotype</italic>
+</th><th align="left" valign="top" charoff="50"><italic>Lrp5</italic><sup><italic>Flox</italic></sup><italic>genotype</italic>
+</th><th align="left" valign="top" charoff="50"><italic>Lrp6</italic><sup><italic>Flox</italic></sup><italic>genotype</italic>
+</th><th align="left" valign="top" charoff="50"><italic>Survival</italic>
+</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" charoff="50">Control</td><td align="left" valign="top" charoff="50">WT</td><td align="left" valign="top" charoff="50">+/+</td><td align="left" valign="top" charoff="50">All</td><td align="left" valign="top" charoff="50">All</td><td align="left" valign="top" charoff="50">Viable</td></tr><tr><td align="left" valign="top" charoff="50"><italic>Col2-cre</italic>;Lrp5<sup>Fl/FL</sup></td><td align="left" valign="top" charoff="50">5cKO</td><td align="left" valign="top" charoff="50">TG/+</td><td align="left" valign="top" charoff="50">Flox/Flox</td><td align="left" valign="top" charoff="50">+/+</td><td align="left" valign="top" charoff="50">Viable</td></tr><tr><td align="left" valign="top" charoff="50"><italic>Col2-cre</italic>;Lrp6<sup>Fl/FL</sup></td><td align="left" valign="top" charoff="50">6cKO</td><td align="left" valign="top" charoff="50">TG/+</td><td align="left" valign="top" charoff="50">+/+</td><td align="left" valign="top" charoff="50">Flox/Flox</td><td align="left" valign="top" charoff="50">Viable</td></tr><tr><td align="left" valign="top" charoff="50"><italic>Col2-cre</italic>;Lrp5<sup>Fl/+</sup>;Lrp6<sup>Fl/+</sup></td><td align="left" valign="top" charoff="50">5cHET6cHET</td><td align="left" valign="top" charoff="50">TG/+</td><td align="left" valign="top" charoff="50">Flox/+</td><td align="left" valign="top" charoff="50">Flox/+</td><td align="left" valign="top" charoff="50">Viable</td></tr><tr><td align="left" valign="top" charoff="50"><italic>Col2-cre</italic>;Lrp5<sup>Fl/FL</sup>;Lrp6<sup>Fl/+</sup></td><td align="left" valign="top" charoff="50">5cKO6cHET</td><td align="left" valign="top" charoff="50">TG/+</td><td align="left" valign="top" charoff="50">Flox/Flox</td><td align="left" valign="top" charoff="50">Flox/+</td><td align="left" valign="top" charoff="50">Viable</td></tr><tr><td align="left" valign="top" charoff="50"><italic>Col2-cre</italic>;Lrp5<sup>Fl/+</sup>;Lrp6<sup>Fl/FL</sup></td><td align="left" valign="top" charoff="50">5cHET6cKO</td><td align="left" valign="top" charoff="50">TG/+</td><td align="left" valign="top" charoff="50">Flox/+</td><td align="left" valign="top" charoff="50">Flox/Flox</td><td align="left" valign="top" charoff="50">Viable</td></tr><tr><td align="left" valign="top" charoff="50"><italic>Col2-cre</italic>;Lrp5<sup>Fl/FL</sup>;Lrp6<sup>Fl/FL</sup></td><td align="left" valign="top" charoff="50">5cKO6cKO</td><td align="left" valign="top" charoff="50">TG/+</td><td align="left" valign="top" charoff="50">Flox/Flox</td><td align="left" valign="top" charoff="50">Flox/Flox</td><td align="left" valign="top" charoff="50">Neonatal lethal</td></tr></tbody></table><table-wrap-foot><fn id="t2-tfoot1"><p>WT, wild type.</p></fn><fn id="t2-tfoot2"><p>A &#x0201c;+&#x0201d; is indicative of an unmodified (wild type) locus. A designation of &#x0201c;TG&#x0201d; denotes that a mouse is carrying the <italic>Col2-cre</italic> transgene while &#x0201c;Flox&#x0201d; indicates the presence of an allele of a gene that can be inactivated upon exposure to cre recombinase. The abbreviations used in the figures to refer to the different genotypes is also shown.</p></fn></table-wrap-foot></table-wrap><table-wrap id="tbl3"><label>Table 3</label><caption><title>Average microCT cortical and trabecular bone geometrical measurements on samples from mice at 6 months of age</title></caption><table frame="hsides" rules="groups" border="1"><colgroup><col align="left"/><col align="char" char="."/><col align="center"/><col align="char" char="."/><col align="char" char="."/><col align="char" char="."/><col align="char" char="."/><col align="char" char="."/><col align="char" char="."/><col align="char" char="."/><col align="char" char="."/><col align="center"/><col align="center"/><col align="center"/><col align="center"/><col align="center"/><col align="center"/></colgroup><thead valign="bottom"><tr><th align="left" valign="top" charoff="50">
+</th><th colspan="4" align="center" valign="top" char="." charoff="50">Lrp5<hr/></th><th colspan="4" align="center" valign="top" char="." charoff="50">Lrp6<hr/></th><th colspan="7" align="center" valign="top" char="." charoff="50">Lrp5Lrp6<hr/></th><td>&#x000a0;</td></tr><tr><th align="left" valign="top" charoff="50">
+</th><td>&#x000a0;</td><th colspan="2" align="center" valign="top" charoff="50">Male<hr/></th><th colspan="2" align="center" valign="top" char="." charoff="50">Female<hr/></th><th colspan="2" align="center" valign="top" char="." charoff="50">Male<hr/></th><th colspan="2" align="center" valign="top" char="." charoff="50">Female<hr/></th><th colspan="4" align="center" valign="top" char="." charoff="50">Male<hr/></th><th colspan="3" align="center" valign="top" charoff="50">Female<hr/></th></tr><tr><th align="left" valign="top" charoff="50">Bone</th><th align="center" valign="top" char="." charoff="50">WT&#x0000a;10</th><th align="center" valign="top" charoff="50">cKO&#x0000a;10</th><th align="center" valign="top" char="." charoff="50">WT&#x0000a;10</th><th align="center" valign="top" char="." charoff="50">cKO&#x0000a;10</th><th align="center" valign="top" char="." charoff="50">WT&#x0000a;10</th><th align="center" valign="top" char="." charoff="50">cKO&#x0000a;10</th><th align="center" valign="top" char="." charoff="50">WT&#x0000a;10</th><th align="center" valign="top" char="." charoff="50">cKO&#x0000a;10</th><th align="center" valign="top" char="." charoff="50">WT&#x0000a;10</th><th align="center" valign="top" char="." charoff="50">cHETcHET&#x0000a;10</th><th align="center" valign="top" charoff="50">cKOcHET&#x0000a;9</th><th align="center" valign="top" charoff="50">cHETcKO&#x0000a;6</th><th align="center" valign="top" charoff="50">WT&#x0000a;10</th><th align="center" valign="top" charoff="50">cHETcHET&#x0000a;10</th><th align="center" valign="top" charoff="50">cKOcHET&#x0000a;12</th><th align="center" valign="top" charoff="50">cHETcKO&#x0000a;10</th></tr></thead><tbody valign="top"><tr><td colspan="17" align="left" valign="top" charoff="50">
+<italic>Trabecular bone</italic>
+<hr/></td></tr><tr><td align="left" valign="top" charoff="50">&#x02003;Percent bone volume/%</td><td align="char" valign="top" char="." charoff="50">
+<bold>20.114</bold>
+</td><td align="center" valign="top" charoff="50">
+<bold>6.447</bold>
+</td><td align="char" valign="top" char="." charoff="50">
+<bold>13.676</bold>
+</td><td align="char" valign="top" char="." charoff="50">
+<bold>8.212</bold>
+</td><td align="char" valign="top" char="." charoff="50">
+<bold>15.602</bold>
+</td><td align="char" valign="top" char="." charoff="50">
+<bold>7.024</bold>
+</td><td align="char" valign="top" char="." charoff="50">
+<bold>9.561</bold>
+</td><td align="char" valign="top" char="." charoff="50">
+<bold>5.506</bold>
+</td><td align="char" valign="top" char="." charoff="50">
+<bold>12.762</bold>
+</td><td align="char" valign="top" char="." charoff="50">
+<bold>10.362</bold>
+</td><td align="center" valign="top" charoff="50">
+<bold>2.206</bold>
+</td><td align="center" valign="top" charoff="50">
+<bold>3.945</bold>
+</td><td align="center" valign="top" charoff="50">
+<bold>12.050</bold>
+</td><td align="center" valign="top" charoff="50">
+<bold>7.049</bold>
+</td><td align="center" valign="top" charoff="50">
+<bold>4.385</bold>
+</td><td align="center" valign="top" charoff="50">
+<bold>4.880</bold>
+</td></tr><tr><td align="left" valign="top" charoff="50">&#x02003;Standard deviation</td><td align="char" valign="top" char="." charoff="50">4.345</td><td align="center" valign="top" charoff="50">3.552</td><td align="char" valign="top" char="." charoff="50">3.204</td><td align="char" valign="top" char="." charoff="50">2.099</td><td align="char" valign="top" char="." charoff="50">6.054</td><td align="char" valign="top" char="." charoff="50">3.918</td><td align="char" valign="top" char="." charoff="50">2.717</td><td align="char" valign="top" char="." charoff="50">1.981</td><td align="char" valign="top" char="." charoff="50">4.268</td><td align="char" valign="top" char="." charoff="50">5.338</td><td align="center" valign="top" charoff="50">0.545</td><td align="center" valign="top" charoff="50">1.579</td><td align="center" valign="top" charoff="50">2.067</td><td align="center" valign="top" charoff="50">1.814</td><td align="center" valign="top" charoff="50">2.751</td><td align="center" valign="top" charoff="50">1.646</td></tr><tr><td align="left" valign="top" charoff="50">&#x02003;<italic>P</italic> value</td><td align="char" valign="top" char="." charoff="50">
+</td><td align="center" valign="top" charoff="50">
+<bold>1.1E&#x02212;06**</bold>
+</td><td align="char" valign="top" char="." charoff="50">
+</td><td align="center" valign="top" char="." charoff="50">
+<bold>6.14E&#x02212;04**</bold>
+</td><td align="char" valign="top" char="." charoff="50">
+<bold>0.032</bold>
+</td><td align="center" valign="top" char="." charoff="50">
+<bold>0.004**</bold>
+</td><td align="char" valign="top" char="." charoff="50">
+</td><td align="center" valign="top" char="." charoff="50">
+<bold>0.002**</bold>
+</td><td align="char" valign="top" char="." charoff="50">
+</td><td align="char" valign="top" char="." charoff="50">
+<bold>0.307</bold>
+</td><td align="center" valign="top" charoff="50">
+<bold>3.56E&#x02212;05**</bold>
+</td><td align="center" valign="top" charoff="50">
+<bold>1.05E&#x02212;04**</bold>
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+<bold>3.72E&#x02212;05**</bold>
+</td><td align="center" valign="top" charoff="50">
+<bold>7.16E&#x02212;07**</bold>
+</td><td align="center" valign="top" charoff="50">
+<bold>2.71E&#x02212;07**</bold>
+</td></tr><tr><td align="left" valign="top" charoff="50">&#x02003;Trabecular thickness/mm</td><td align="char" valign="top" char="." charoff="50">
+<bold>0.033</bold>
+</td><td align="center" valign="top" charoff="50">
+<bold>0.026</bold>
+</td><td align="char" valign="top" char="." charoff="50">
+<bold>0.029</bold>
+</td><td align="char" valign="top" char="." charoff="50">
+<bold>0.027</bold>
+</td><td align="char" valign="top" char="." charoff="50">
+<bold>0.032</bold>
+</td><td align="char" valign="top" char="." charoff="50">
+<bold>0.028</bold>
+</td><td align="char" valign="top" char="." charoff="50">
+<bold>0.030</bold>
+</td><td align="char" valign="top" char="." charoff="50">
+<bold>0.029</bold>
+</td><td align="char" valign="top" char="." charoff="50">
+<bold>0.031</bold>
+</td><td align="char" valign="top" char="." charoff="50">
+<bold>0.032</bold>
+</td><td align="center" valign="top" charoff="50">
+<bold>0.026</bold>
+</td><td align="center" valign="top" charoff="50">
+<bold>0.030</bold>
+</td><td align="center" valign="top" charoff="50">
+<bold>0.034</bold>
+</td><td align="center" valign="top" charoff="50">
+<bold>0.032</bold>
+</td><td align="center" valign="top" charoff="50">
+<bold>0.027</bold>
+</td><td align="center" valign="top" charoff="50">
+<bold>0.028</bold>
+</td></tr><tr><td align="left" valign="top" charoff="50">&#x02003;Standard deviation</td><td align="char" valign="top" char="." charoff="50">0.003</td><td align="center" valign="top" charoff="50">0.004</td><td align="char" valign="top" char="." charoff="50">0.003</td><td align="char" valign="top" char="." charoff="50">0.002</td><td align="char" valign="top" char="." charoff="50">0.004</td><td align="char" valign="top" char="." charoff="50">0.004</td><td align="char" valign="top" char="." charoff="50">0.001</td><td align="char" valign="top" char="." charoff="50">0.003</td><td align="char" valign="top" char="." charoff="50">0.005</td><td align="char" valign="top" char="." charoff="50">0.006</td><td align="center" valign="top" charoff="50">0.002</td><td align="center" valign="top" charoff="50">0.005</td><td align="center" valign="top" charoff="50">0.003</td><td align="center" valign="top" charoff="50">0.003</td><td align="center" valign="top" charoff="50">0.003</td><td align="center" valign="top" charoff="50">0.002</td></tr><tr><td align="left" valign="top" charoff="50">&#x02003;<italic>P</italic> value</td><td align="char" valign="top" char="." charoff="50">
+</td><td align="center" valign="top" charoff="50">
+<bold>2.54E&#x02212;04**</bold>
+</td><td align="char" valign="top" char="." charoff="50">
+</td><td align="char" valign="top" char="." charoff="50">
+<bold>0.180</bold>
+</td><td align="char" valign="top" char="." charoff="50">
+</td><td align="char" valign="top" char="." charoff="50">
+<bold>0.075</bold>
+</td><td align="char" valign="top" char="." charoff="50">
+</td><td align="char" valign="top" char="." charoff="50">
+<bold>0.158</bold>
+</td><td align="char" valign="top" char="." charoff="50">
+</td><td align="char" valign="top" char="." charoff="50">
+<bold>0.678</bold>
+</td><td align="center" valign="top" charoff="50">
+<bold>0.008**</bold>
+</td><td align="center" valign="top" charoff="50">
+<bold>0.791</bold>
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+<bold>0.228</bold>
+</td><td align="center" valign="top" charoff="50">
+<bold>7.34E&#x02212;05**</bold>
+</td><td align="center" valign="top" charoff="50">
+<bold>9.12E&#x02212;05**</bold>
+</td></tr><tr><td align="left" valign="top" charoff="50">&#x02003;Trabecular separation/mm</td><td align="char" valign="top" char="." charoff="50">
+<bold>0.136</bold>
+</td><td align="center" valign="top" charoff="50">
+<bold>0.452</bold>
+</td><td align="char" valign="top" char="." charoff="50">
+<bold>0.192</bold>
+</td><td align="char" valign="top" char="." charoff="50">
+<bold>0.326</bold>
+</td><td align="char" valign="top" char="." charoff="50">
+<bold>0.190</bold>
+</td><td align="char" valign="top" char="." charoff="50">
+<bold>0.448</bold>
+</td><td align="char" valign="top" char="." charoff="50">
+<bold>0.312</bold>
+</td><td align="char" valign="top" char="." charoff="50">
+<bold>0.552</bold>
+</td><td align="char" valign="top" char="." charoff="50">
+<bold>0.236</bold>
+</td><td align="char" valign="top" char="." charoff="50">
+<bold>0.342</bold>
+</td><td align="center" valign="top" charoff="50">
+<bold>1.197</bold>
+</td><td align="center" valign="top" charoff="50">
+<bold>0.834</bold>
+</td><td align="center" valign="top" charoff="50">
+<bold>0.254</bold>
+</td><td align="center" valign="top" charoff="50">
+<bold>0.452</bold>
+</td><td align="center" valign="top" charoff="50">
+<bold>0.986</bold>
+</td><td align="center" valign="top" charoff="50">
+<bold>0.601</bold>
+</td></tr><tr><td align="left" valign="top" charoff="50">&#x02003;Standard deviation</td><td align="char" valign="top" char="." charoff="50">0.023</td><td align="center" valign="top" charoff="50">0.170</td><td align="char" valign="top" char="." charoff="50">0.048</td><td align="char" valign="top" char="." charoff="50">0.085</td><td align="char" valign="top" char="." charoff="50">0.051</td><td align="char" valign="top" char="." charoff="50">0.169</td><td align="char" valign="top" char="." charoff="50">0.086</td><td align="char" valign="top" char="." charoff="50">0.178</td><td align="char" valign="top" char="." charoff="50">0.080</td><td align="char" valign="top" char="." charoff="50">0.145</td><td align="center" valign="top" charoff="50">0.288</td><td align="center" valign="top" charoff="50">0.280</td><td align="center" valign="top" charoff="50">0.045</td><td align="center" valign="top" charoff="50">0.114</td><td align="center" valign="top" charoff="50">0.860</td><td align="center" valign="top" charoff="50">0.201</td></tr><tr><td align="left" valign="top" charoff="50">&#x02003;<italic>P</italic> value</td><td align="char" valign="top" char="." charoff="50">
+</td><td align="center" valign="top" charoff="50">
+<bold>3.29E&#x02212;04**</bold>
+</td><td align="char" valign="top" char="." charoff="50">
+</td><td align="center" valign="top" char="." charoff="50">
+<bold>0.001**</bold>
+</td><td align="char" valign="top" char="." charoff="50">
+</td><td align="center" valign="top" char="." charoff="50">
+<bold>0.001**</bold>
+</td><td align="char" valign="top" char="." charoff="50">
+</td><td align="center" valign="top" char="." charoff="50">
+<bold>0.003**</bold>
+</td><td align="char" valign="top" char="." charoff="50">
+</td><td align="char" valign="top" char="." charoff="50">
+<bold>0.075</bold>
+</td><td align="center" valign="top" charoff="50">
+<bold>7.11E&#x02212;06**</bold>
+</td><td align="center" valign="top" charoff="50">
+<bold>0.004**</bold>
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+<bold>4.30E&#x02212;04**</bold>
+</td><td align="center" valign="top" charoff="50">
+<bold>0.017*</bold>
+</td><td align="center" valign="top" charoff="50">
+<bold>5.16E&#x02212;04**</bold>
+</td></tr><tr><td align="left" valign="top" charoff="50">&#x02003;Trabecular number/mm<sup>&#x02212;1</sup>
+</td><td align="char" valign="top" char="." charoff="50">
+<bold>5.992</bold>
+</td><td align="center" valign="top" charoff="50">
+<bold>2.374</bold>
+</td><td align="char" valign="top" char="." charoff="50">
+<bold>4.671</bold>
+</td><td align="char" valign="top" char="." charoff="50">
+<bold>2.983</bold>
+</td><td align="char" valign="top" char="." charoff="50">
+<bold>4.780</bold>
+</td><td align="char" valign="top" char="." charoff="50">
+<bold>2.408</bold>
+</td><td align="char" valign="top" char="." charoff="50">
+<bold>3.137</bold>
+</td><td align="char" valign="top" char="." charoff="50">
+<bold>1.887</bold>
+</td><td align="char" valign="top" char="." charoff="50">
+<bold>4.063</bold>
+</td><td align="char" valign="top" char="." charoff="50">
+<bold>3.040</bold>
+</td><td align="center" valign="top" charoff="50">
+<bold>0.860</bold>
+</td><td align="center" valign="top" charoff="50">
+<bold>1.266</bold>
+</td><td align="center" valign="top" charoff="50">
+<bold>3.537</bold>
+</td><td align="center" valign="top" charoff="50">
+<bold>2.165</bold>
+</td><td align="center" valign="top" charoff="50">
+<bold>1.553</bold>
+</td><td align="center" valign="top" charoff="50">
+<bold>1.788</bold>
+</td></tr><tr><td align="left" valign="top" charoff="50">&#x02003;Standard deviation</td><td align="char" valign="top" char="." charoff="50">0.782</td><td align="center" valign="top" charoff="50">0.919</td><td align="char" valign="top" char="." charoff="50">0.735</td><td align="char" valign="top" char="." charoff="50">0.670</td><td align="char" valign="top" char="." charoff="50">1.182</td><td align="char" valign="top" char="." charoff="50">0.940</td><td align="char" valign="top" char="." charoff="50">0.885</td><td align="char" valign="top" char="." charoff="50">0.582</td><td align="char" valign="top" char="." charoff="50">1.110</td><td align="char" valign="top" char="." charoff="50">1.023</td><td align="center" valign="top" charoff="50">0.183</td><td align="center" valign="top" charoff="50">0.357</td><td align="center" valign="top" charoff="50">0.437</td><td align="center" valign="top" charoff="50">0.461</td><td align="center" valign="top" charoff="50">0.894</td><td align="center" valign="top" charoff="50">0.675</td></tr><tr><td align="left" valign="top" charoff="50">&#x02003;<italic>P</italic> value</td><td align="char" valign="top" char="." charoff="50">
+</td><td align="center" valign="top" charoff="50">
+<bold>5.5E&#x02212;08**</bold>
+</td><td align="char" valign="top" char="." charoff="50">
+</td><td align="center" valign="top" char="." charoff="50">
+<bold>7.83E&#x02212;05**</bold>
+</td><td align="char" valign="top" char="." charoff="50">
+</td><td align="center" valign="top" char="." charoff="50">
+<bold>0.000**</bold>
+</td><td align="char" valign="top" char="." charoff="50">
+</td><td align="center" valign="top" char="." charoff="50">
+<bold>0.003**</bold>
+</td><td align="char" valign="top" char="." charoff="50">
+</td><td align="char" valign="top" char="." charoff="50">
+<bold>0.057</bold>
+</td><td align="center" valign="top" charoff="50">
+<bold>9.06E&#x02212;06**</bold>
+</td><td align="center" valign="top" charoff="50">
+<bold>1.61E&#x02212;05**</bold>
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+<bold>4.36E&#x02212;06**</bold>
+</td><td align="center" valign="top" charoff="50">
+<bold>6.34E&#x02212;06**</bold>
+</td><td align="center" valign="top" charoff="50">
+<bold>8.39E&#x02212;06**</bold>
+</td></tr><tr><td align="left" valign="top" charoff="50">
+</td><td align="char" valign="top" char="." charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="char" valign="top" char="." charoff="50">
+</td><td align="char" valign="top" char="." charoff="50">
+</td><td align="char" valign="top" char="." charoff="50">
+</td><td align="char" valign="top" char="." charoff="50">
+</td><td align="char" valign="top" char="." charoff="50">
+</td><td align="char" valign="top" char="." charoff="50">
+</td><td align="char" valign="top" char="." charoff="50">
+</td><td align="char" valign="top" char="." charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+</td></tr><tr><td colspan="17" align="left" valign="top" charoff="50">
+<italic>Cortical bone</italic>
+<hr/></td></tr><tr><td align="left" valign="top" charoff="50">&#x02003;Mean total crossectional bone area/mm<sup>2</sup>
+</td><td align="char" valign="top" char="." charoff="50">
+<bold>0.988</bold>
+</td><td align="center" valign="top" charoff="50">
+<bold>0.726</bold>
+</td><td align="char" valign="top" char="." charoff="50">
+<bold>0.920</bold>
+</td><td align="char" valign="top" char="." charoff="50">
+<bold>0.720</bold>
+</td><td align="char" valign="top" char="." charoff="50">
+<bold>0.955</bold>
+</td><td align="char" valign="top" char="." charoff="50">
+<bold>0.826</bold>
+</td><td align="char" valign="top" char="." charoff="50">
+<bold>0.861</bold>
+</td><td align="char" valign="top" char="." charoff="50">
+<bold>0.713</bold>
+</td><td align="char" valign="top" char="." charoff="50">
+<bold>0.913</bold>
+</td><td align="char" valign="top" char="." charoff="50">
+<bold>0.882</bold>
+</td><td align="center" valign="top" charoff="50">
+<bold>0.646</bold>
+</td><td align="center" valign="top" charoff="50">
+<bold>0.776</bold>
+</td><td align="center" valign="top" charoff="50">
+<bold>0.944</bold>
+</td><td align="center" valign="top" charoff="50">
+<bold>0.842</bold>
+</td><td align="center" valign="top" charoff="50">
+<bold>0.629</bold>
+</td><td align="center" valign="top" charoff="50">
+<bold>0.676</bold>
+</td></tr><tr><td align="left" valign="top" charoff="50">&#x02003;Standard deviation</td><td align="char" valign="top" char="." charoff="50">0.076</td><td align="center" valign="top" charoff="50">0.121</td><td align="char" valign="top" char="." charoff="50">0.057</td><td align="char" valign="top" char="." charoff="50">0.071</td><td align="char" valign="top" char="." charoff="50">0.066</td><td align="char" valign="top" char="." charoff="50">0.080</td><td align="char" valign="top" char="." charoff="50">0.052</td><td align="char" valign="top" char="." charoff="50">0.083</td><td align="char" valign="top" char="." charoff="50">0.085</td><td align="char" valign="top" char="." charoff="50">0.112</td><td align="center" valign="top" charoff="50">0.077</td><td align="center" valign="top" charoff="50">0.141</td><td align="center" valign="top" charoff="50">0.060</td><td align="center" valign="top" charoff="50">0.054</td><td align="center" valign="top" charoff="50">0.080</td><td align="center" valign="top" charoff="50">0.041</td></tr><tr><td align="left" valign="top" charoff="50">&#x02003;<italic>P</italic> value</td><td align="char" valign="top" char="." charoff="50">
+</td><td align="center" valign="top" charoff="50">
+<bold>5.86E&#x02212;05**</bold>
+</td><td align="char" valign="top" char="." charoff="50">
+</td><td align="center" valign="top" char="." charoff="50">
+<bold>4.33E&#x02212;06**</bold>
+</td><td align="char" valign="top" char="." charoff="50">
+</td><td align="center" valign="top" char="." charoff="50">
+<bold>0.002**</bold>
+</td><td align="char" valign="top" char="." charoff="50">
+</td><td align="center" valign="top" char="." charoff="50">
+<bold>4.04E&#x02212;04**</bold>
+</td><td align="char" valign="top" char="." charoff="50">
+</td><td align="char" valign="top" char="." charoff="50">
+<bold>0.512</bold>
+</td><td align="center" valign="top" charoff="50">
+<bold>3.24E&#x02212;06**</bold>
+</td><td align="center" valign="top" charoff="50">
+<bold>0.089</bold>
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+<bold>0.001**</bold>
+</td><td align="center" valign="top" charoff="50">
+<bold>3.42E&#x02212;09**</bold>
+</td><td align="center" valign="top" charoff="50">
+<bold>7.92E&#x02212;09**</bold>
+</td></tr><tr><td align="left" valign="top" charoff="50">&#x02003;Crossectional thickness/mm</td><td align="char" valign="top" char="." charoff="50">
+<bold>0.229</bold>
+</td><td align="center" valign="top" charoff="50">
+<bold>0.191</bold>
+</td><td align="char" valign="top" char="." charoff="50">
+<bold>0.230</bold>
+</td><td align="char" valign="top" char="." charoff="50">
+<bold>0.193</bold>
+</td><td align="char" valign="top" char="." charoff="50">
+<bold>0.210</bold>
+</td><td align="char" valign="top" char="." charoff="50">
+<bold>0.201</bold>
+</td><td align="char" valign="top" char="." charoff="50">
+<bold>0.212</bold>
+</td><td align="char" valign="top" char="." charoff="50">
+<bold>0.195</bold>
+</td><td align="char" valign="top" char="." charoff="50">
+<bold>0.205</bold>
+</td><td align="char" valign="top" char="." charoff="50">
+<bold>0.189</bold>
+</td><td align="center" valign="top" charoff="50">
+<bold>0.161</bold>
+</td><td align="center" valign="top" charoff="50">
+<bold>0.188</bold>
+</td><td align="center" valign="top" charoff="50">
+<bold>0.225</bold>
+</td><td align="center" valign="top" charoff="50">
+<bold>0.208</bold>
+</td><td align="center" valign="top" charoff="50">
+<bold>0.168</bold>
+</td><td align="center" valign="top" charoff="50">
+<bold>0.183</bold>
+</td></tr><tr><td align="left" valign="top" charoff="50">&#x02003;Standard deviation</td><td align="char" valign="top" char="." charoff="50">0.009</td><td align="center" valign="top" charoff="50">0.017</td><td align="char" valign="top" char="." charoff="50">0.007</td><td align="char" valign="top" char="." charoff="50">0.010</td><td align="char" valign="top" char="." charoff="50">0.010</td><td align="char" valign="top" char="." charoff="50">0.009</td><td align="char" valign="top" char="." charoff="50">0.007</td><td align="char" valign="top" char="." charoff="50">0.012</td><td align="char" valign="top" char="." charoff="50">0.010</td><td align="char" valign="top" char="." charoff="50">0.009</td><td align="center" valign="top" charoff="50">0.010</td><td align="center" valign="top" charoff="50">0.015</td><td align="center" valign="top" charoff="50">0.012</td><td align="center" valign="top" charoff="50">0.008</td><td align="center" valign="top" charoff="50">0.017</td><td align="center" valign="top" charoff="50">0.007</td></tr><tr><td align="left" valign="top" charoff="50">&#x02003;<italic>P</italic> value</td><td align="char" valign="top" char="." charoff="50">
+</td><td align="center" valign="top" charoff="50">
+<bold>3.18E&#x02212;05**</bold>
+</td><td align="char" valign="top" char="." charoff="50">
+</td><td align="center" valign="top" char="." charoff="50">
+<bold>5.27E&#x02212;08**</bold>
+</td><td align="char" valign="top" char="." charoff="50">
+</td><td align="char" valign="top" char="." charoff="50">
+<bold>0.071</bold>
+</td><td align="char" valign="top" char="." charoff="50">
+</td><td align="center" valign="top" char="." charoff="50">
+<bold>0.002**</bold>
+</td><td align="char" valign="top" char="." charoff="50">
+</td><td align="center" valign="top" char="." charoff="50">
+<bold>0.002**</bold>
+</td><td align="center" valign="top" charoff="50">
+<bold>5.52E&#x02212;08**</bold>
+</td><td align="center" valign="top" charoff="50">
+<bold>0.050*</bold>
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+<bold>0.003**</bold>
+</td><td align="center" valign="top" charoff="50">
+<bold>3.36E&#x02212;08**</bold>
+</td><td align="center" valign="top" charoff="50">
+<bold>2.61E&#x02212;07**</bold>
+</td></tr><tr><td align="left" valign="top" charoff="50">&#x02003;Mineral density/(g&#x000b7;cm<sup>&#x02212;2</sup>)</td><td align="char" valign="top" char="." charoff="50">1.151</td><td align="center" valign="top" charoff="50">1.122</td><td align="char" valign="top" char="." charoff="50">
+<bold>1.160</bold>
+</td><td align="char" valign="top" char="." charoff="50">
+<bold>1.124</bold>
+</td><td align="char" valign="top" char="." charoff="50">
+<bold>1.109</bold>
+</td><td align="char" valign="top" char="." charoff="50">
+<bold>1.107</bold>
+</td><td align="char" valign="top" char="." charoff="50">
+<bold>1.135</bold>
+</td><td align="char" valign="top" char="." charoff="50">
+<bold>1.119</bold>
+</td><td align="char" valign="top" char="." charoff="50">
+<bold>1.170</bold>
+</td><td align="char" valign="top" char="." charoff="50">
+<bold>1.087</bold>
+</td><td align="center" valign="top" charoff="50">
+<bold>1.078</bold>
+</td><td align="center" valign="top" charoff="50">
+<bold>1.103</bold>
+</td><td align="center" valign="top" charoff="50">
+<bold>1.189</bold>
+</td><td align="center" valign="top" charoff="50">
+<bold>1.136</bold>
+</td><td align="center" valign="top" charoff="50">
+<bold>1.087</bold>
+</td><td align="center" valign="top" charoff="50">
+<bold>1.103</bold>
+</td></tr><tr><td align="left" valign="top" charoff="50">&#x02003;Standard deviation</td><td align="char" valign="top" char="." charoff="50">0.038</td><td align="center" valign="top" charoff="50">0.037</td><td align="char" valign="top" char="." charoff="50">0.021</td><td align="char" valign="top" char="." charoff="50">0.020</td><td align="char" valign="top" char="." charoff="50">0.030</td><td align="char" valign="top" char="." charoff="50">0.027</td><td align="char" valign="top" char="." charoff="50">0.013</td><td align="char" valign="top" char="." charoff="50">0.018</td><td align="char" valign="top" char="." charoff="50">0.040</td><td align="char" valign="top" char="." charoff="50">0.034</td><td align="center" valign="top" charoff="50">0.029</td><td align="center" valign="top" charoff="50">0.043</td><td align="center" valign="top" charoff="50">0.045</td><td align="center" valign="top" charoff="50">0.020</td><td align="center" valign="top" charoff="50">0.065</td><td align="center" valign="top" charoff="50">0.015</td></tr><tr><td align="left" valign="top" charoff="50">&#x02003;<italic>P</italic> value</td><td align="char" valign="top" char="." charoff="50">
+</td><td align="center" valign="top" charoff="50">
+<bold>0.117</bold>
+</td><td align="char" valign="top" char="." charoff="50">
+</td><td align="center" valign="top" char="." charoff="50">
+<bold>0.001**</bold>
+</td><td align="char" valign="top" char="." charoff="50">
+</td><td align="char" valign="top" char="." charoff="50">
+<bold>0.926</bold>
+</td><td align="char" valign="top" char="." charoff="50">
+</td><td align="center" valign="top" char="." charoff="50">
+<bold>0.052*</bold>
+</td><td align="char" valign="top" char="." charoff="50">
+</td><td align="center" valign="top" char="." charoff="50">
+<bold>1.77E&#x02212;04**</bold>
+</td><td align="center" valign="top" charoff="50">
+<bold>4.48E&#x02212;05**</bold>
+</td><td align="center" valign="top" charoff="50">
+<bold>0.017*</bold>
+</td><td align="center" valign="top" charoff="50">
+</td><td align="center" valign="top" charoff="50">
+<bold>0.007**</bold>
+</td><td align="center" valign="top" charoff="50">
+<bold>5.32E&#x02212;04**</bold>
+</td><td align="center" valign="top" charoff="50">
+<bold>2.24E&#x02212;04**</bold>
+</td></tr></tbody></table><table-wrap-foot><fn id="t3-tfoot1"><p>Abbreviation: WT, wild type.</p></fn><fn id="t3-tfoot2"><p><italic>P</italic>-values were calculated with respect to WT littermates; *<italic>P</italic>&#x0003c;0.05 and **<italic>P</italic>&#x0003c;0.01.</p></fn></table-wrap-foot></table-wrap></floats-group></article>

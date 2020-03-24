@@ -1,0 +1,421 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:ali="http://www.niso.org/schemas/ali/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Braz J Microbiol</journal-id><journal-id journal-id-type="iso-abbrev">Braz. J. Microbiol</journal-id><journal-id journal-id-type="publisher-id">bjm</journal-id><journal-title-group><journal-title>Brazilian Journal of Microbiology</journal-title></journal-title-group><issn pub-type="ppub">1517-8382</issn><issn pub-type="epub">1678-4405</issn><publisher><publisher-name>Sociedade Brasileira de Microbiologia</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">26273282</article-id><article-id pub-id-type="pmc">4507559</article-id><article-id pub-id-type="doi">10.1590/S1517-838246220131206</article-id><article-categories><subj-group subj-group-type="heading"><subject>Genetics and Molecular Microbiology</subject></subj-group></article-categories><title-group><article-title>LAMP technology: Rapid identification of <italic>Brucella</italic>
+and <italic>Mycobacterium avium</italic> subsp.
+<italic>paratuberculosis</italic>
+</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Trangoni</surname><given-names>Marcos D.</given-names></name><xref ref-type="aff" rid="aff01">1</xref></contrib><contrib contrib-type="author"><name><surname>Gioffr&#x000e9;</surname><given-names>Andrea K.</given-names></name><xref ref-type="aff" rid="aff01">1</xref></contrib><contrib contrib-type="author"><name><surname>Cer&#x000f3;n Cucchi</surname><given-names>Mar&#x000ed;a E.</given-names></name><xref ref-type="aff" rid="aff02">2</xref></contrib><contrib contrib-type="author"><name><surname>Caimi</surname><given-names>Karina C.</given-names></name><xref ref-type="aff" rid="aff01">1</xref></contrib><contrib contrib-type="author"><name><surname>Ruybal</surname><given-names>Paula</given-names></name><xref ref-type="aff" rid="aff01">1</xref></contrib><contrib contrib-type="author"><name><surname>Zum&#x000e1;rraga</surname><given-names>Mart&#x000ed;n J.</given-names></name><xref ref-type="aff" rid="aff01">1</xref></contrib><contrib contrib-type="author"><name><surname>Cravero</surname><given-names>Silvio L.</given-names></name><xref ref-type="aff" rid="aff01">1</xref><xref rid="c01" ref-type="corresp"/></contrib></contrib-group><aff id="aff01"><label>1</label>Instituto Nacional de Tecnolog&#x000ed;a
+Agropecuaria, National Agricultural Technology
+Institute, Buenos Aires, Argentina, Institute of Biotechnology, Centre of Agronomy
+and Veterinary Sciences, National Agricultural Technology Institute, Buenos
+Aires, Argentina.</aff><aff id="aff02"><label>2</label>Instituto Nacional de Tecnolog&#x000ed;a
+Agropecuaria, National Agricultural Technology
+Institute, Buenos Aires, Argentina, Institute of Pathobiology, Centre of Agronomy
+and Veterinary Sciences, National Agricultural Technology Institute, Buenos
+Aires, Argentina.</aff><author-notes><corresp id="c01">Send correspondence to: S.L. Cravero. Institute of Biotechnology,
+Centre of Agronomy and Veterinary Sciences, National Agricultural Technology
+Institute, N. Repetto y de Los Reseros s/n. B1712 WAA Hurlingham, Buenos Aires,
+Argentina. E-mail: <email>cravero.silvio@inta.gob.ar</email>.</corresp><fn id="fn01" fn-type="other"><p>Associate Editor: Rodrigo da Silva Galhardo</p></fn></author-notes><pub-date pub-type="epub"><day>01</day><month>6</month><year>2015</year></pub-date><pub-date pub-type="collection"><month>6</month><year>2015</year></pub-date><volume>46</volume><issue>2</issue><fpage>619</fpage><lpage>626</lpage><history><date date-type="received"><day>13</day><month>11</month><year>2013</year></date><date date-type="accepted"><day>14</day><month>9</month><year>2014</year></date></history><permissions><copyright-statement>Copyright &#x000a9; 2015, Sociedade Brasileira de
+Microbiologia</copyright-statement><copyright-year>2015</copyright-year><license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/3.0/"><license-p>All the content of the journal, except where otherwise noted, is
+licensed under a Creative Commons License CC BY-NC.</license-p></license></permissions><abstract><p>In this study, we developed new sets of primers to detect
+<italic>Brucella</italic> spp. and <italic>M</italic>.
+<italic>avium</italic> subsp. <italic>paratuberculosis</italic> (MAP)
+through isothermal amplification. We selected a previously well-characterized
+target gene, <italic>bscp</italic>31, specific for <italic>Brucella</italic>
+spp. and IS<italic>900</italic> for MAP. The limits of detection using the
+loop-mediated isothermal amplification (LAMP) protocols described herein were
+similar to those of conventional PCR targeting the same sequences.
+Hydroxynaphtol blue and SYBR Green<sup>TM</sup> allowed direct naked-eye
+detection with identical sensitivity as agarose gel electrophoresis. We included
+the LAMP-based protocol in a rapid identification scheme of the respective
+pathogens, and all tested isolates were correctly identified within 2 to 3 h. In
+addition, both protocols were suitable for specifically identifying the
+respective pathogens; in the case of <italic>Brucella</italic>, it also allowed
+the identification of all the biovars tested. We conclude that LAMP is a
+suitable rapid molecular typing tool that could help to shorten the time
+required to identify insidious bacteria in low-complexity laboratories, mainly
+in developing countries.</p></abstract><kwd-group><kwd>loop-mediated isothermal amplification</kwd><kwd>molecular typing</kwd><kwd>brucellosis</kwd><kwd>paratuberculosis</kwd></kwd-group><counts><fig-count count="3"/><table-count count="2"/><equation-count count="0"/><ref-count count="31"/><page-count count="8"/></counts></article-meta></front><body><sec sec-type="intro"><title>Introduction</title><p>Brucellosis and paratuberculosis are diseases caused bacterial pathogens of
+veterinary concern (<xref rid="B16" ref-type="bibr">Manning and Collins,
+2001</xref>; <xref rid="B26" ref-type="bibr">Samartino and Enright, 1993</xref>).
+Brucellosis is clearly defined as a zoonotic disease. In Santa Fe province, which
+accounts for 32% of milk production in Argentina, the cumulative incidence rate of
+zoonoses in rural veterinarians (1964&#x02013;2008) was reported to be 34.1%, with a
+brucellosis frequency of 29.1% (<xref rid="B18" ref-type="bibr">Molineri <italic>et
+al.</italic>, 2013</xref>). However, the role of <italic>Mycobacterium
+avium</italic> subsp. <italic>paratuberculosis</italic>, the causal agent of
+paratuberculosis, in Crohn's disease in humans is currently under discussion (<xref rid="B06" ref-type="bibr">Das and Seril, 2012</xref>; <xref rid="B13" ref-type="bibr">Kuenstner, 2012</xref>).</p><p>Brucellosis is caused by facultative intracellular pathogens of the
+<italic>Brucella</italic> genus, and domestic and wild animals are considered
+natural reservoirs of the disease. <italic>Brucella melitensi</italic>s,
+<italic>Brucella abortus</italic> and <italic>Brucella suis</italic> also induce
+human disease, and rare but persisting cases of human brucellosis caused by
+<italic>Brucella canis</italic> and <italic>Brucella</italic> species of marine
+mammals have also been recognized (<xref rid="B24" ref-type="bibr">Pappas <italic>et
+al.</italic>, 2005</xref>).</p><p>
+<italic>M. avium</italic> subsp. <italic>paratuberculosis</italic> (MAP) belongs to
+the <italic>M. avium-intracellulare</italic> complex (MAC), comprising two species,
+<italic>M. intracellulare</italic> and <italic>M. avium</italic>, and the
+subspecies <italic>M. avium</italic> subsp<italic>. avium, M. avium</italic> subsp.
+<italic>hominisuiss</italic>, <italic>M. avium</italic> subsp.
+<italic>silvaticum</italic> and MAP (<xref rid="B17" ref-type="bibr">Mijs
+<italic>et al.</italic>, 2002</xref>)<italic>.</italic> MAC members possess
+properties that enable them to grow in natural biotopes without losing their
+pathogenicity for certain hosts (<xref rid="B03" ref-type="bibr">Biet <italic>et
+al.</italic>, 2005</xref>). MAP causes chronic progressive enteritis in
+ruminants, which is known as paratuberculosis or Johne's disease (<xref rid="B05" ref-type="bibr">Chiodini <italic>et al.</italic>, 1984</xref>; <xref rid="B14" ref-type="bibr">Larsen <italic>et al.</italic>, 1975</xref>).</p><p>The traditional methods for detecting these pathogens are largely based on phenotypic
+traits, and the diagnosis of brucellosis and paratuberculosis involves
+bacteriological culture, histopathology and serological tests such as enzyme-linked
+immunosorbent assay (ELISA)-based techniques and agglutination tests (<xref rid="B10" ref-type="bibr">Gall <italic>et al.</italic>, 2008</xref>; <xref rid="B16" ref-type="bibr">Manning and Collins, 2001</xref>). However, the
+isolation of the pathogen is required to confirm the diagnosis, a process that is
+time consuming, especially for MAP, which requires long periods (up to two months)
+to develop in culture media. Molecular biology techniques have allowed the sensitive
+diagnosis of different bacteria through the application of nucleic acid
+amplification, which minimizes the requirement of biosafety conditions. In addition
+to contributing to the diagnosis, nucleic acid amplification provides an accurate
+molecular tool for identification at the species or subspecies level. The polymerase
+chain reaction (PCR) is the main nucleic acid amplification method currently used,
+and it is expected that this technique will eventually supersede many of the
+classical direct methods of infectious agent detection (<xref rid="B23" ref-type="bibr">OIE, 2008</xref>). Indeed, high sensitivity, specificity and
+rapidity are the major advantages of PCR over other nucleic acid-based techniques.
+Nonetheless, PCR requires basic equipment, such as thermocyclers, electrophoretic
+systems and PCR-product detection systems, and the lack of such equipment often
+limits its use in developing countries.</p><p>The loop-mediated isothermal amplification (LAMP) technique is characterized by its
+simplicity because the entire process of amplification and detection is performed in
+a single step in which the reaction components are subjected to isothermal
+conditions (<xref rid="B20" ref-type="bibr">Nagamine <italic>et al.</italic>,
+2002</xref>; <xref rid="B21" ref-type="bibr">Notomi <italic>et al.</italic>,
+2000</xref>), which requires less specialized equipment than conventional PCR
+technologies. Therefore, LAMP is accessible for laboratories in developing
+countries.</p><p>The LAMP method is based on the isothermal strand-displacement activity of the
+<italic>Bacillus subtilis-</italic>derived <italic>Bst</italic> DNA polymerase.
+This enzyme when combined with four target-specific primers renders the
+single-temperature amplification of a highly specific fragment from a DNA template
+at amounts greater than those of an equivalent PCR (<xref rid="B20" ref-type="bibr">Nagamine <italic>et al.</italic>, 2002</xref>; <xref rid="B21" ref-type="bibr">Notomi <italic>et al.</italic>, 2000</xref>). Furthermore, this higher
+amplification efficiency allows straightforward visual detection by colorimetric
+methods (<xref rid="B11" ref-type="bibr">Goto <italic>et al.</italic>, 2009</xref>;
+<xref rid="B25" ref-type="bibr">Parida <italic>et al.</italic>,
+2008</xref>).</p><p>Many studies have referred to LAMP as a successful and promissory alternative for the
+sensitive and specific detection of human and veterinary pathogens (<xref rid="B02" ref-type="bibr">Barkway <italic>et al.</italic>, 2011</xref>; <xref rid="B07" ref-type="bibr">Dukes <italic>et al.</italic>, 2006</xref>; <xref rid="B27" ref-type="bibr">Savan <italic>et al.</italic>, 2004</xref>; <xref rid="B28" ref-type="bibr">Sirichaisinthop <italic>et al.</italic>, 2011</xref>; <xref rid="B30" ref-type="bibr">Wang <italic>et al.</italic>, 2012</xref>; <xref rid="B31" ref-type="bibr">Zhang <italic>et al.</italic>, 2013</xref>). The main
+objective of the present study was to develop and apply a LAMP strategy for the
+specific detection of <italic>Brucella</italic> spp. and MAP, important bacterial
+pathogens in Argentina, to simplify diagnosis. The purpose of this strategy focuses
+on lowering the reaction time and equipment costs for bacterial detection.</p></sec><sec sec-type="materials|methods"><title>Materials and Methods</title><sec><title>Bacterial strains and growth conditions</title><p>To standardize the LAMP protocols, we used a <italic>B. abortus</italic> S2308
+strain and a wild-type MAP isolate, which was previously typed by conventional
+methods in our laboratory.</p><p>The <italic>B. abortus</italic> S2308 colonies were obtained from tryptose agar
+plates and grown in 2.5 mL tryptic soy broth (Difco BD, USA) at 200 rpm for 48 h
+at 37 &#x000b0;C.</p><p>The MAP isolate was first confirmed by insertion sequence <italic>900</italic>
+(IS<italic>900</italic>) and F57 PCR and then grown in 7H9 liquid medium
+(Difco, BD, USA) supplemented with 0.2% mycobactin J (Allied Monitor, Fayette,
+MO USA).</p><p>To evaluate the specificity of the LAMP assay and to test the performance of the
+LAMP protocol in crude lysates, we employed strains from the different hosts and
+sources listed in Results section. <italic>Ochrobactrum anthropi</italic> DNA
+was also evaluated as a negative control. All of the isolates belong to the INTA
+strain collection.</p></sec><sec><title>DNA extraction from reference strain cultures and wild-type isolates</title><sec><title>High-quality DNA extraction from reference strains</title><p>Chromosomal DNA of high quality was obtained to test the detection limit. DNA
+extraction from <italic>B. abortus</italic> S2308 was performed as
+follows<italic>.</italic> A 2.5 mL aliquot of culture was lysed with 30
+&#x003bc;L of 25 mg/mL proteinase K (Promega, WI, USA) and 126 &#x003bc;L of 10% sodium
+dodecyl sulfate (SDS) for 2 h at 60 &#x000b0;C. The DNA was precipitated by adding
+0.1 volumes of 3 M sodium acetate (pH 5.3) and 0.6 volumes of isopropanol
+and then removed with a sterile loop. The DNA was washed twice in 70%
+ethanol and suspended in 600 &#x003bc;L of Tris-EDTA (TE) buffer (10 mM Tris-HCl pH
+8, 1 mM EDTA). A second step of precipitation and purification was
+performed. Finally, the DNA was suspended in 100 &#x003bc;L of TE. DNA extraction
+from the MAP culture was performed as previously described (<xref rid="B29" ref-type="bibr">van Embden <italic>et al.</italic>,
+1992</xref>)<italic>.</italic> The DNA integrity was assessed by 0.8%
+agarose gel electrophoresis and then quantitated using a Nanodrop ND-1000
+spectrophotometer (Thermo Fisher Scientific, DE, USA). Ten-fold serial DNA
+dilutions were performed with sterile distilled water, and 1 &#x003bc;L of each
+dilution was used as the template for amplification.</p></sec><sec><title>Rapid DNA extraction from wild-type isolates</title><p>Cell lysis was performed by physical treatment. A loopful of growth from a
+solid medium or a 0.5&#x02013;1 mL aliquot devoid of medium by centrifugation was
+suspended in 200 &#x003bc;L of distilled water. The sample was boiled and
+subsequently frozen twice for 10 min each. Finally, the sample was subjected
+to a brief centrifugation at 12,000 &#x000d7; <italic>g</italic>, and 5 &#x003bc;L of the
+supernatant was used as the template for amplification.</p></sec></sec><sec><title>Target genes and primer design</title><p>Target sequences that are traditionally used to identify
+<italic>Brucella</italic> spp. and MAP were selected. The LAMP primers were
+designed to target the <italic>bscp</italic>31 gene from
+<italic>Brucella</italic> spp. (<xref rid="B01" ref-type="bibr">Baily
+<italic>et al.</italic>, 1992</xref>) and IS<italic>900</italic> from
+MAP (<xref rid="B12" ref-type="bibr">Green <italic>et al.</italic>,
+1989</xref>). Complete LAMP primer sets, including both loop primers for each
+selected sequence, were designed using Primer Explorer V4 software (<ext-link ext-link-type="uri" xlink:href="http://primerexplorer.jp/elamp4.0.0/index.html">http://primerexplorer.jp/elamp4.0.0/index.html</ext-link>). The primer
+sequences are listed in <xref rid="t01" ref-type="table">Table 1</xref>.</p><table-wrap id="t01" orientation="portrait" position="float"><label>Table 1</label><caption><title>LAMP primers designed in this study.</title></caption><table frame="hsides" rules="groups"><thead><tr><th valign="top" align="left" rowspan="1" colspan="1">Target organism (Protocol)</th><th valign="top" align="center" rowspan="1" colspan="1">Target sequence</th><th valign="top" align="center" rowspan="1" colspan="1">Primer</th><th valign="top" align="left" rowspan="1" colspan="1">Sequence (5&#x02032; to 3&#x02032;)</th><th valign="top" align="center" rowspan="1" colspan="1">Length</th><th valign="top" align="center" rowspan="1" colspan="1">LAMP T (&#x000b0;C)</th></tr></thead><tbody><tr><td rowspan="6" valign="top" align="left" colspan="1">
+<italic>Brucella</italic>
+spp. (Bru-LAMP)</td><td rowspan="6" valign="top" align="center" colspan="1">
+<italic>bcsp</italic>31</td><td valign="top" align="center" rowspan="1" colspan="1">F3-Bru</td><td valign="top" align="left" rowspan="1" colspan="1">CAGACGTTGCCTATTGGGC</td><td valign="top" align="center" rowspan="1" colspan="1">19-mer</td><td valign="top" align="center" rowspan="1" colspan="1">60</td></tr><tr><td valign="top" align="center" rowspan="1" colspan="1">B3-Bru</td><td valign="top" align="left" rowspan="1" colspan="1">GGCTCATCCAGCGAAACG</td><td valign="top" align="center" rowspan="1" colspan="1">18-mer</td><td valign="top" align="center" rowspan="1" colspan="1"/></tr><tr><td valign="top" align="center" rowspan="1" colspan="1">FIP-Bru</td><td valign="top" align="left" rowspan="1" colspan="1">CGGGTAAAGCGTCGCCAGAAGTTTT-GCACCGGCCTTTATGATGG</td><td valign="top" align="center" rowspan="1" colspan="1">44-mer</td><td valign="top" align="center" rowspan="1" colspan="1"/></tr><tr><td valign="top" align="center" rowspan="1" colspan="1">BIP-Bru</td><td valign="top" align="left" rowspan="1" colspan="1">ACGATCCATATCGTTGCGCGTTTTT-GCTTGCCTTTCAGGTCTGC</td><td valign="top" align="center" rowspan="1" colspan="1">44-mer</td><td valign="top" align="center" rowspan="1" colspan="1"/></tr><tr><td valign="top" align="center" rowspan="1" colspan="1">LF-Bru</td><td valign="top" align="left" rowspan="1" colspan="1">CGCAAATCTTCCACCTTGCC</td><td valign="top" align="center" rowspan="1" colspan="1">20-mer</td><td valign="top" align="center" rowspan="1" colspan="1"/></tr><tr><td valign="top" align="center" rowspan="1" colspan="1">LR-Bru</td><td valign="top" align="left" rowspan="1" colspan="1">GGATGCAAACATCAAATCGGTC</td><td valign="top" align="center" rowspan="1" colspan="1">22-mer</td><td valign="top" align="center" rowspan="1" colspan="1"/></tr><tr><td rowspan="6" valign="top" align="left" colspan="1">
+<italic>M. avium</italic>
+subsp. <italic>paratuberculosis</italic> (MAP-LAMP)</td><td rowspan="6" valign="top" align="center" colspan="1">IS<italic>900</italic>
+</td><td valign="top" align="center" rowspan="1" colspan="1">F3-MAP</td><td valign="top" align="left" rowspan="1" colspan="1">CGCAACGCCGATACCGT</td><td valign="top" align="center" rowspan="1" colspan="1">17-mer</td><td valign="top" align="center" rowspan="1" colspan="1">65</td></tr><tr><td valign="top" align="center" rowspan="1" colspan="1">B3-MAP</td><td valign="top" align="left" rowspan="1" colspan="1">CCCAGGATGACGCCGAA</td><td valign="top" align="center" rowspan="1" colspan="1">17-mer</td><td valign="top" align="center" rowspan="1" colspan="1"/></tr><tr><td valign="top" align="center" rowspan="1" colspan="1">FIP-MAP</td><td valign="top" align="left" rowspan="1" colspan="1">CATCACCTCCTTGGCCAGGC-CCGCTAACGCCCAACAC</td><td valign="top" align="center" rowspan="1" colspan="1">37-mer</td><td valign="top" align="center" rowspan="1" colspan="1"/></tr><tr><td valign="top" align="center" rowspan="1" colspan="1">BIP-MAP</td><td valign="top" align="left" rowspan="1" colspan="1">GCGACACCGACGCGATGAT-TCCGGGCATGCTCAGGA</td><td valign="top" align="center" rowspan="1" colspan="1">36-mer</td><td valign="top" align="center" rowspan="1" colspan="1"/></tr><tr><td valign="top" align="center" rowspan="1" colspan="1">LF-MAP</td><td valign="top" align="left" rowspan="1" colspan="1">AGTGGCCGCCAGTTGTTG</td><td valign="top" align="center" rowspan="1" colspan="1">18-mer</td><td valign="top" align="center" rowspan="1" colspan="1"/></tr><tr><td valign="top" align="center" rowspan="1" colspan="1">LR-MAP</td><td valign="top" align="left" rowspan="1" colspan="1">ACCGCCACGCCGAAATC</td><td valign="top" align="center" rowspan="1" colspan="1">17-mer</td><td valign="top" align="center" rowspan="1" colspan="1"/></tr></tbody></table></table-wrap></sec><sec><title>LAMP reaction and detection</title><p>LAMP assays for <italic>Brucella</italic> spp. and MAP (Bru-LAMP and MAP-LAMP,
+respectively) were performed in a final reaction volume of 25 &#x003bc;L with 1.4 mM
+dNTPs (Promega, WI, USA), 8 mM SO<sub>4</sub>Mg, 0.8 M betaine (Sigma-Aldrich,
+MO, USA) and 8 U of <italic>Bst</italic> DNA Polymerase (New England Biolabs,
+MA, USA). The LAMP reactions also contained 1.6 &#x003bc;M of FIP and BIP primers, 0.16
+&#x003bc;M of F3 and B3 primers, 0.8 &#x003bc;M of LF and LR primers and the corresponding DNA
+as the template. The templates consisted of 1 &#x003bc;L of high-quality DNA or 5 &#x003bc;L of
+the supernatant of the cell lysate obtained by the rapid DNA extraction method.
+The reaction tubes were incubated in different equipment (MyCycler thermocycler
+(Bio-Rad, CA, USA) and a thermal bath) to evaluate the robustness of the
+amplification method. For the MyCycler thermocycler, the tubes were incubated
+for 60 min at 60 &#x000b0;C and then for 5 min at 80 &#x000b0;C. The incubation using the
+thermal bath was for 60 min at 60 &#x000b0;C. For MAP-LAMP, the incubation temperature
+was 65 &#x000b0;C instead of 60 &#x000b0;C due to the characteristic high GC content of
+mycobacterial genomes. The LAMP amplicons were visualized by different
+strategies: a) 2% agarose gel electrophoresis, staining with 0.5 &#x003bc;g/mL of
+ethidium bromide and visualization under ultraviolet (UV) light; b) naked-eye
+inspection by colorimetric methods such as SYBR Green<sup>TM</sup> staining and
+hydroxy naphthol blue (HNB). For SYBR Green<sup>TM</sup> staining, 1 &#x003bc;L of 1/10
+SYBR Green<sup>TM</sup> I (Invitrogen, CA, USA) solution was added directly to
+each reaction tube after incubation, and the DNA was visualized under UV light.
+For HNB (JT Baker, USA) staining, a final concentration of 120 &#x003bc;M was utilized.
+HNB was added prior to amplification (<xref rid="B11" ref-type="bibr">Goto
+<italic>et al.</italic>, 2009</xref>).</p></sec><sec><title>PCR amplification</title><p>The reactions were performed with primers B4/B5 for <italic>Brucella</italic>
+spp. (B4/B5 PCR) and S204/S749 for MAP (IS<italic>900</italic> PCR), as
+previously described (<xref rid="B01" ref-type="bibr">Baily <italic>et
+al.</italic>, 1992</xref>; <xref rid="B08" ref-type="bibr">Englund
+<italic>et al.</italic>, 1999</xref>). The amplification reactions were
+performed in a final volume of 25 &#x003bc;L with 1.25 U of Taq DNA Polymerase (Promega,
+WI, USA), 200 &#x003bc;M dNTPs (Promega, WI, USA), 0.5 &#x003bc;M of each primer and 1 &#x003bc;L of
+high-quality DNA or 5 &#x003bc;L of the supernatant of the cell lysates obtained during
+the rapid DNA extraction method. The reactions consisted of an initial
+denaturation step at 95 &#x000b0;C for 5 min, followed by 35 amplification cycles and a
+final extension step at 72 &#x000b0;C for 10 min. The amplification cycles comprised a
+first step at 94 &#x000b0;C for 1 min, an annealing step at 60 &#x000b0;C for
+<italic>Brucella</italic> spp. or 59 &#x000b0;C for MAP for 1 min and an extension
+step at 72 &#x000b0;C for 1 min. The PCRs were performed in a MyCycler thermocycler
+(Bio-Rad, CA, USA). The sizes of the PCR products (223 bp and 563 bp,
+respectively) were determined by comparison with a molecular weight marker using
+1.5% agarose gel electrophoresis, ethidium bromide staining (0.5 &#x003bc;g/mL) and UV
+light visualization.</p></sec></sec><sec sec-type="results"><title>Results</title><sec><title>Detection limit and specificity of LAMP <italic>vs.</italic> PCR</title><p>After confirming amplification using the novel sets of primers, we determined the
+detection limit by 10-fold serial dilutions of purified genomic DNA. Positive
+LAMP reactions were confirmed by the appearance of a ladder-like pattern on
+agarose gels stained with ethidium bromide; positive PCRs were confirmed by
+specific size amplicon visualization. The detection limit of Bru-LAMP and
+MAP-LAMP were 50 fg and 100 fg per reaction, respectively (<xref rid="f01" ref-type="fig">Figures 1b</xref> and <xref rid="f02" ref-type="fig">2b</xref>). The sensitivities reached by all the LAMP protocols were in
+accordance with those obtained with PCR targeting the same genes; however, the
+last point detected by PCR was barely observed (<xref rid="f01" ref-type="fig">Figures 1a</xref> and <xref rid="f02" ref-type="fig">2a</xref>).</p><fig id="f01" orientation="portrait" position="float"><label>Figure 1</label><caption><title>Comparative analytical sensitivity of Bru-LAMP and PCR. Agarose gel
+electrophoresis and direct naked-eye detection. 1a) B4/B5 PCR, 1.5%
+agarose gel. 1b) Bru-LAMP, 2% agarose gel. 1c) Bru-LAMP SYBR
+Green<sup>TM</sup>. 1d) Bru-LAMP, HNB. Serial DNA dilution of
+<italic>Brucella abortus</italic> S2308 (from 50 pg to 5 fg); C1,
+<italic>Ochrobactrum anthropi</italic> DNA; C2, internal PCR/LAMP
+negative control (water). MM: 100 bp molecular marker (Promega).</title></caption><graphic xlink:href="1517-8382-bjm-46-2-619-gf01"/></fig><p>The specificity of the Bru-LAMP protocol was determined using DNA from
+<italic>Ochrobactrum anthropi</italic>, a phylogenetically related
+bacterium, as the control. No evidence of cross-reactivity was detected with the
+control DNA tested by PCR (<xref rid="f01" ref-type="fig">Figure 1a</xref>) or
+LAMP (<xref rid="f01" ref-type="fig">Figure 1b</xref>).</p><p>The specificity of the MAP-LAMP protocol was evaluated using cell lysates from
+<italic>M. bovis, M. avium</italic> subsp<italic>. avium, M. gordonae, M.
+scrofulaceum, M. porcinum,</italic> and two phylogenetically related
+bacteria, <italic>Nocardia farcinica</italic> and <italic>Nocardia
+testacea</italic>. Interestingly, a specific amplification of MAP was
+obtained when using the MAP-LAMP protocol designed in this study (<xref rid="t02" ref-type="table">Table 2</xref>).</p><table-wrap id="t02" orientation="portrait" position="float"><label>Table 2</label><caption><title>LAMP performance and specificity evaluated using cell lysate samples
+from cultures of different bacteria.</title></caption><table frame="hsides" rules="groups"><thead><tr><th valign="bottom" align="left" rowspan="1" colspan="1">Bacteria (number of isolates
+tested)<xref rid="TFN01" ref-type="table-fn">a</xref>
+</th><th valign="bottom" align="center" rowspan="1" colspan="1">Host/source</th><th valign="bottom" align="center" rowspan="1" colspan="1">PCR<xref rid="TFN02" ref-type="table-fn">b</xref>
+</th><th valign="bottom" align="center" rowspan="1" colspan="1">LAMP<xref rid="TFN03" ref-type="table-fn">c</xref>
+</th></tr></thead><tbody><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>M. avium</italic> subsp.
+<italic>paratuberculosis</italic> (16)</td><td valign="top" align="center" rowspan="1" colspan="1">cattle sheep</td><td valign="top" align="center" rowspan="1" colspan="1">+</td><td valign="top" align="center" rowspan="1" colspan="1">+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>M. avium</italic> subsp.
+<italic>avium</italic> (4)</td><td valign="top" align="center" rowspan="1" colspan="1">cattle, dog, swine and human</td><td valign="top" align="center" rowspan="1" colspan="1">&#x02212;</td><td valign="top" align="center" rowspan="1" colspan="1">&#x02212;</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>M. bovis</italic> (5)</td><td valign="top" align="center" rowspan="1" colspan="1">cattle</td><td valign="top" align="center" rowspan="1" colspan="1">&#x02212;</td><td valign="top" align="center" rowspan="1" colspan="1">&#x02212;</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>M. gordonae</italic> types 2,
+3, 9 (3)</td><td valign="top" align="center" rowspan="1" colspan="1">water</td><td valign="top" align="center" rowspan="1" colspan="1">&#x02212;</td><td valign="top" align="center" rowspan="1" colspan="1">&#x02212;</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>M. scrofulaceum</italic>
+(1)</td><td valign="top" align="center" rowspan="1" colspan="1">human</td><td valign="top" align="center" rowspan="1" colspan="1">&#x02212;</td><td valign="top" align="center" rowspan="1" colspan="1">&#x02212;</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>M. porcinum</italic> (1)</td><td valign="top" align="center" rowspan="1" colspan="1">cattle</td><td valign="top" align="center" rowspan="1" colspan="1">&#x02212;</td><td valign="top" align="center" rowspan="1" colspan="1">&#x02212;</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>Nocardia farcinica</italic>
+(1) <italic>Nocardia testacea</italic> (1)</td><td valign="top" align="center" rowspan="1" colspan="1">cattle</td><td valign="top" align="center" rowspan="1" colspan="1">&#x02212;</td><td valign="top" align="center" rowspan="1" colspan="1">&#x02212;</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>B. abortus</italic> biovars 1,
+2, 3, 4, 5, 6, 9 (7)</td><td valign="top" align="center" rowspan="1" colspan="1">reference strains</td><td valign="top" align="center" rowspan="1" colspan="1">+</td><td valign="top" align="center" rowspan="1" colspan="1">+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>B. melitensis</italic> biovars
+1, 2, 3 (3)</td><td valign="top" align="center" rowspan="1" colspan="1">reference strains</td><td valign="top" align="center" rowspan="1" colspan="1">+</td><td valign="top" align="center" rowspan="1" colspan="1">+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>B. suis</italic> biovars 1, 2,
+3, 4, 5 (5)</td><td valign="top" align="center" rowspan="1" colspan="1">reference strains</td><td valign="top" align="center" rowspan="1" colspan="1">+</td><td valign="top" align="center" rowspan="1" colspan="1">+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>B. ovis</italic> (REO 198
+strain) (1)</td><td valign="top" align="center" rowspan="1" colspan="1">reference strain</td><td valign="top" align="center" rowspan="1" colspan="1">+</td><td valign="top" align="center" rowspan="1" colspan="1">+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>B. canis</italic> (RM6/66
+strain) (1)</td><td valign="top" align="center" rowspan="1" colspan="1">reference strain</td><td valign="top" align="center" rowspan="1" colspan="1">+</td><td valign="top" align="center" rowspan="1" colspan="1">+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>B. cetaceae</italic> (1)</td><td valign="top" align="center" rowspan="1" colspan="1">reference strain</td><td valign="top" align="center" rowspan="1" colspan="1">+</td><td valign="top" align="center" rowspan="1" colspan="1">+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>B. pinnipedialis</italic>
+(1)</td><td valign="top" align="center" rowspan="1" colspan="1">reference strain</td><td valign="top" align="center" rowspan="1" colspan="1">+</td><td valign="top" align="center" rowspan="1" colspan="1">+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>B. abortus</italic> biovar 1
+(7)</td><td valign="top" align="center" rowspan="1" colspan="1">cattle, human</td><td valign="top" align="center" rowspan="1" colspan="1">+</td><td valign="top" align="center" rowspan="1" colspan="1">+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>B. melitensis</italic> biovar
+1 (7)</td><td valign="top" align="center" rowspan="1" colspan="1">goat, human</td><td valign="top" align="center" rowspan="1" colspan="1">+</td><td valign="top" align="center" rowspan="1" colspan="1">+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>B. suis</italic> biovar 1
+(5)</td><td valign="top" align="center" rowspan="1" colspan="1">Swine, human</td><td valign="top" align="center" rowspan="1" colspan="1">+</td><td valign="top" align="center" rowspan="1" colspan="1">+</td></tr><tr><td valign="top" align="left" rowspan="1" colspan="1">
+<italic>B. cetaceae</italic> (1)</td><td valign="top" align="center" rowspan="1" colspan="1">whale</td><td valign="top" align="center" rowspan="1" colspan="1">+</td><td valign="top" align="center" rowspan="1" colspan="1">+</td></tr></tbody></table><table-wrap-foot><fn id="TFN01"><label>a</label><p>71 samples were evaluated.</p></fn><fn id="TFN02"><label>b</label><p>
+<italic>Mycobacterium</italic> spp. and <italic>Nocardia</italic>
+spp. isolates were processed by IS<italic>900</italic> PCR.
+<italic>Brucella</italic> spp. were processed by B4/B5 PCR.</p></fn><fn id="TFN03"><label>c</label><p>Samples were processed according to the corresponding LAMP protocols.
+The end-point was evaluated by SYBR Green<sup>TM</sup> (naked-eye).
+The same results were obtained by UV visualization.</p></fn></table-wrap-foot></table-wrap></sec><sec><title>End-point detection of LAMP products by single staining</title><p>The end-point detection of the products of LAMP amplification was performed by
+naked-eye inspection by fluorescent staining for nucleic acid detection. For
+SYBR Green<sup>TM</sup>, a dilution of the original orange color indicates a
+negative result, whereas a fluorescent green color indicates a positive
+amplification. For HNB, a violet or sky-blue color indicates a negative or a
+positive result, respectively. All the direct end-point detections showed the
+same sensitivity (<xref rid="f01" ref-type="fig">Figures 1c&#x02013;d</xref> and <xref rid="f02" ref-type="fig">2c&#x02013;d</xref>).</p><fig id="f02" orientation="portrait" position="float"><label>Figure 2</label><caption><title>Comparative analytical sensitivity of MAP-LAMP and PCR. Agarose gel
+electrophoresis and direct naked-eye detection. 1a)
+IS<italic>900</italic> PCR, 1.5% agarose gel. 1b) MAP-LAMP, 2%
+agarose gel. 1c) MAP-LAMP, SYBR Green<sup>TM</sup>. 1d) MAP-LAMP, HNB.
+Serial DNA dilution of <italic>M. avium</italic> subsp.
+<italic>paratuberculosis</italic> (from 1 ng to 10 fg); C1,
+<italic>M. avium</italic> subsp. <italic>avium</italic> DNA; C2,
+internal PCR/LAMP negative control (water). MM: 100 bp molecular marker
+(Promega).</title></caption><graphic xlink:href="1517-8382-bjm-46-2-619-gf02"/></fig></sec><sec><title>Usefulness of LAMP in molecular typing schemes</title><p>Next, we evaluated the potential of LAMP as part of a rapid molecular typing
+scheme using non-purified DNA as the template. For this purpose, we tested 16
+MAP field isolates and 20 <italic>Brucella</italic> spp. isolates along with 17
+reference strains. As an example, <xref rid="f03" ref-type="fig">Figure 3</xref>
+shows how the MAP cultures were processed.</p><fig id="f03" orientation="portrait" position="float"><label>Figure 3</label><caption><title>A proposed workflow for rapid identification of microorganisms
+through LAMP: Identification of MAP as an example. The estimated times
+are relative to the sample number.</title></caption><graphic xlink:href="1517-8382-bjm-46-2-619-gf03"/></fig><p>All the samples tested by the MAP-LAMP protocol were identified as MAP according
+to IS<italic>900</italic> PCR (<xref rid="t02" ref-type="table">Table 2</xref>).
+Additionally, cell lysates of <italic>Nocardia</italic> spp. and <italic>M.
+avium</italic> subsp. <italic>avium</italic>, an atypical mycobacteria, were
+also assessed; as expected, the results were negative (<xref rid="t02" ref-type="table">Table 2</xref>). The results obtained for all the samples
+were the same, regardless of the equipment employed (thermostatic water bath or
+thermocycler) (data not shown). The same protocol was adapted for
+<italic>Brucella</italic>, and the correct identification of the genus was
+achieved, regardless of the species or serovar tested (<xref rid="t02" ref-type="table">Table 2</xref>). Thus, a correct identification of the
+isolate could be obtained in less than 3 h, which demonstrates the suitability
+of applying LAMP as a routine protocol.</p></sec></sec><sec sec-type="discussion"><title>Discussion</title><p>We aimed to develop LAMP-based protocols for the specific and sensitive detection of
+two bacterial pathogens. To this end, we designed primers and tested LAMP
+sensitivity using three different methods for end-point determination: agarose gel
+electrophoresis, SYBR Green<sup>TM</sup> and hydroxynaphthol blue.</p><p>In our study, we specifically designed LAMP primers for the identification of
+<italic>Brucella</italic> spp. using <italic>bcsp</italic>31 as the target
+sequence. This gene encodes the 31 kDa <italic>Brucella</italic> cell surface
+salt-extractable protein (BCSP) and is highly conserved in the genus
+<italic>Brucella</italic> (<xref rid="B01" ref-type="bibr">Baily <italic>et
+al.</italic>, 1992</xref>; <xref rid="B04" ref-type="bibr">Bricker,
+2002</xref>). <xref rid="B22" ref-type="bibr">Ohtsuki <italic>et al.</italic>
+(2008)</xref> first reported the identification of <italic>Brucella</italic>
+spp. using two LAMP primer sets targeting the same gene. The detection limit
+obtained in our study with the <italic>Brucella</italic> genus-specific LAMP was
+similar to that obtained by <xref rid="B22" ref-type="bibr">Ohtsuki <italic>et
+al.</italic> (2008)</xref>. Another LAMP for the identification of members
+of this genus with a higher sensitivity has been previously described; however, a
+different gene, which codes for the 25 kDa outer membrane protein (Omp25), was
+selected as the target (<xref rid="B15" ref-type="bibr">Lin <italic>et al.</italic>,
+2011</xref>).</p><p>Primer design is the most important factor affecting the performance of LAMP.
+However, further optimization of the protocol may be needed to improve the
+sensitivity of the test. Taking into account that the LAMP reaction combines 6 to 8
+different regions, a highly specific amplification product is expected.</p><p>We obtained a detection limit with the MAP-LAMP protocol that was similar to that
+obtained by <xref rid="B09" ref-type="bibr">Enosawa <italic>et al.</italic>
+(2003)</xref>, who targeted the same sequence. In the present study, we tested
+the specificity of the MAP primer set with DNA from closely related mycobacteria,
+such as <italic>M. avium</italic> subsp. <italic>avium</italic>, or <italic>M.
+bovis</italic>, another important mycobacterial pathogen of veterinary concern.
+Although the MAP-LAMP developed in our study proved to be discriminative for
+subspecies determination, some nonspecific amplification with <italic>M.
+scrofulaceum</italic> strains has been reported using LAMP targeting
+IS<italic>900</italic> (<xref rid="B09" ref-type="bibr">Enosawa <italic>et
+al.</italic>, 2003</xref>). We herein demonstrated that the MAP-LAMP
+protocol was suitable, even for a panel of atypical mycobacteria, including
+<italic>M. scrofulaceum</italic>, or <italic>Nocardia</italic> spp., a closely
+related genus.</p><p>The comparative results between the PCR and novel LAMP protocols reported here
+demonstrate that isothermal amplification can achieve the same sensitivity as
+conventional PCR, regardless of the pathogen. This is consistent with previous
+comparative analyses in which LAMP reached the same sensitivity, or even higher
+levels, as nested-PCR and real-time PCR (<xref rid="B09" ref-type="bibr">Enosawa
+<italic>et al.</italic>, 2003</xref>; Lin <italic>et al.</italic>, 2009).
+Hence, the high processivity of the isothermal amplification yields a detectable
+product faster than conventional PCR, which is a hallmark of this method.</p><p>It is important to note that the methodology used for product detection could bias
+the sensitivity. The PCR detection limit is established by the presence of specific
+bands on agarose gel electrophoresis, which depends not only on the concentration of
+the amplicon obtained but on several other factors. For instance, the concentration
+of ethidium bromide, the sensitivity of the detection system and image processing
+(if available), among other factors, may alter the results. However, as we showed in
+this study, the threshold at which the LAMP reaction changes from positive to
+negative is abrupt and, as a consequence, the end-point determination is
+accurate.</p><p>LAMP not only leads to the isothermal amplification of DNA in a stoichiometric
+reaction (<xref rid="B21" ref-type="bibr">Notomi <italic>et al.</italic>,
+2000</xref>) but also to the variation of by-products. For instance, the
+increased formation of magnesium pyrophosphate (<xref rid="B19" ref-type="bibr">Mori
+<italic>et al.</italic>, 2001</xref>) and the subsequent reduction in the
+concentration of magnesium cations can be titrated by HNB (<xref rid="B11" ref-type="bibr">Goto <italic>et al.</italic>, 2009</xref>). Although the
+visualization of magnesium pyrophosphate precipitate is a simple end-point detection
+strategy (<xref rid="B19" ref-type="bibr">Mori <italic>et al.</italic>,
+2001</xref>), the sensitivity of this technique is lower than that of fluorometric
+and colorimetric methods and often requires the use of a centrifugation step to
+facilitate the visualization of the precipitate or trained technicians.</p><p>Considering that an ideal detection method must fit certain criteria, such as
+sensitivity, reproducibility and an accessible cost, it is important to know the
+performance of the different methods available in the laboratory. As the use of SYBR
+Green<sup>TM</sup> or HNB shows better reproducibility, we selected this method
+to compare the relative sensitivity to that of agarose gel electrophoresis. The
+comparative sensitivity achieved by both methods was similar in all the LAMP
+protocols tested. The direct determination of the end-point, however, was easier
+when the SYBR Green<sup>TM</sup> method was performed, even without an
+UV-transilluminator. Although a method of choice, SYBR Green<sup>TM</sup> requires
+the opening of the reaction tubes after amplification; which can result in
+carry-over contamination, and the risk of amplicon contamination limits its
+application to those laboratory settings in which LAMP is used as a non-routine
+practice. A lower color contrast between positive and negative amplification was
+observed when the HNB method was used; however, the sensitivity obtained in each
+assay was the same as the other studied methods. Therefore, the HNB method is more
+suitable for laboratories in which LAMP is frequently used due to its low risk of
+contamination.</p><p>To achieve a scheme that allows the rapid identification of bacterial pathogens, we
+coupled the LAMP protocol to a simple step of cell lysis that enabled us to easily
+release DNA from cultures. This approach allowed a significant reduction in the time
+required for identification compared to the traditionally time-consuming protocols
+that involve DNA extraction and conventional PCR. Importantly, the reduction in the
+complexity of the protocols could also help to expand the use of molecular biology
+techniques to laboratories that have not yet adopted DNA-based techniques.</p><p>The evaluation of pathogen detection directly from clinical samples certainly
+constitutes a challenge, and a LAMP method tested using a wide panel of field
+samples could be a useful tool to diagnose diseases that impact production systems.
+Finally, LAMP is a simple, rapid, low-cost genetic testing technology that is
+specific and sensitive. This technology can be coupled to schemes with typing
+purposes and could contribute to the conventional methods used for the
+identification of <italic>Brucella</italic> spp. and MAP in non-sophisticated
+laboratories, especially in developing countries.</p></sec></body><back><ack><title>Acknowledgments</title><p>The authors would like to thank Bernardo Sioya for his excellent technical assistance
+and Dr. Julia Sabio y Garc&#x000ed;a for critical reading of the manuscript. MT holds a
+doctoral fellowship from INTA. AG, KC and PR are career members of CONICET. This
+study was supported by National Institute of Agricultural Technology (INTA) grants
+AEGR2412 and AERG 52-232121.</p></ack><ref-list><title>References</title><ref id="B01"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Baily</surname><given-names>GG</given-names></name><name><surname>Krahn</surname><given-names>JB</given-names></name><name><surname>Drasar</surname><given-names>BS</given-names></name><etal/></person-group><year>1992</year><article-title>Detection of <italic>Brucella melitensis</italic> and
+<italic>Brucella abortus</italic> by DNA amplification</article-title><source>J Trop Med Hyg</source><volume>95</volume><fpage>271</fpage><lpage>275</lpage><pub-id pub-id-type="pmid">1495123</pub-id></element-citation></ref><ref id="B02"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Barkway</surname><given-names>CP</given-names></name><name><surname>Pocock</surname><given-names>RL</given-names></name><name><surname>Vrba</surname><given-names>V</given-names></name><etal/></person-group><year>2011</year><article-title>Loop-mediated isothermal amplification (LAMP) assays for the
+species-specific detection of Eimeria that infect chickens</article-title><source>BMC Vet Res</source><volume>7</volume><fpage>67</fpage><pub-id pub-id-type="pmid">22053893</pub-id></element-citation></ref><ref id="B03"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Biet</surname><given-names>F</given-names></name><name><surname>Boschiroli</surname><given-names>ML</given-names></name><name><surname>Thorel</surname><given-names>MF</given-names></name><etal/></person-group><year>2005</year><article-title>Zoonotic aspects of <italic>Mycobacterium bovis</italic> and
+<italic>Mycobacterium avium</italic>-<italic>intracellulare</italic>
+complex (MAC)</article-title><source>Vet Res</source><volume>36</volume><fpage>411</fpage><lpage>436</lpage><pub-id pub-id-type="pmid">15845232</pub-id></element-citation></ref><ref id="B04"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bricker</surname><given-names>BJ</given-names></name></person-group><year>2002</year><article-title>PCR as a diagnostic tool for brucellosis</article-title><source>Veterinary Microbiol</source><volume>90</volume><fpage>435</fpage><lpage>446</lpage></element-citation></ref><ref id="B05"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Chiodini</surname><given-names>RJ</given-names></name><name><surname>Van Kruiningen</surname><given-names>HJ</given-names></name><name><surname>Merkal</surname><given-names>RS</given-names></name></person-group><year>1984</year><article-title>Ruminant paratuberculosis (Johne's disease): the current status
+and future prospects</article-title><source>Cornell Vet</source><volume>74</volume><fpage>218</fpage><lpage>262</lpage><pub-id pub-id-type="pmid">6375961</pub-id></element-citation></ref><ref id="B06"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Das</surname><given-names>KM</given-names></name><name><surname>Seril</surname><given-names>DN</given-names></name></person-group><year>2012</year><article-title>
+<italic>Mycobacterium avium</italic> subspecies
+<italic>paratuberculosis</italic> in Crohn's disease: the puzzle
+continues</article-title><source>J Clin Gastroenterol</source><volume>46</volume><fpage>627</fpage><lpage>628</lpage><pub-id pub-id-type="pmid">22874806</pub-id></element-citation></ref><ref id="B07"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Dukes</surname><given-names>JP</given-names></name><name><surname>King</surname><given-names>DP</given-names></name><name><surname>Alexandersen</surname><given-names>S</given-names></name></person-group><year>2006</year><article-title>Novel reverse transcription loop-mediated isothermal
+amplification for rapid detection of foot-and-mouth disease
+virus</article-title><source>Arch Virol</source><volume>151</volume><fpage>1093</fpage><lpage>1106</lpage><pub-id pub-id-type="pmid">16453084</pub-id></element-citation></ref><ref id="B08"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Englund</surname><given-names>S</given-names></name><name><surname>Ballagi-Pordany</surname><given-names>A</given-names></name><name><surname>Bolske</surname><given-names>G</given-names></name><etal/></person-group><year>1999</year><article-title>Single PCR and nested PCR with a mimic molecule for detection of
+<italic>Mycobacterium avium</italic> subsp.
+<italic>paratuberculosis</italic>
+</article-title><source>Diagn Microbiol Infect Dis</source><volume>33</volume><fpage>163</fpage><lpage>171</lpage><pub-id pub-id-type="pmid">10092965</pub-id></element-citation></ref><ref id="B09"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Enosawa</surname><given-names>M</given-names></name><name><surname>Kageyama</surname><given-names>S</given-names></name><name><surname>Sawai</surname><given-names>K</given-names></name><etal/></person-group><year>2003</year><article-title>Use of loop-mediated isothermal amplification of the
+IS<italic>900</italic> sequence for rapid detection of cultured
+<italic>Mycobacterium avium</italic> subsp.
+<italic>paratuberculosis</italic>
+</article-title><source>J Clin Microbiol</source><volume>41</volume><fpage>4359</fpage><lpage>4365</lpage><pub-id pub-id-type="pmid">12958269</pub-id></element-citation></ref><ref id="B10"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gall</surname><given-names>D</given-names></name><name><surname>Nielsen</surname><given-names>K</given-names></name><name><surname>Nicola</surname><given-names>A</given-names></name><etal/></person-group><year>2008</year><article-title>A proficiency testing method for detecting antibodies against
+<italic>Brucella abortus</italic> in quantitative and qualitative
+serological tests</article-title><source>Rev Sci Tech</source><volume>27</volume><fpage>819</fpage><lpage>828</lpage><pub-id pub-id-type="pmid">19284049</pub-id></element-citation></ref><ref id="B11"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Goto</surname><given-names>M</given-names></name><name><surname>Honda</surname><given-names>E</given-names></name><name><surname>Ogura</surname><given-names>A</given-names></name><etal/></person-group><year>2009</year><article-title>Colorimetric detection of loop-mediated isothermal amplification
+reaction by using hydroxy naphthol blue</article-title><source>Bio Techniques</source><volume>46</volume><fpage>167</fpage><lpage>172</lpage></element-citation></ref><ref id="B12"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Green</surname><given-names>EP</given-names></name><name><surname>Tizard</surname><given-names>ML</given-names></name><name><surname>Moss</surname><given-names>MT</given-names></name><etal/></person-group><year>1989</year><article-title>Sequence and characteristics of IS<italic>900</italic>, an
+insertion element identified in a human Crohn's disease isolate of
+<italic>Mycobacterium paratuberculosis</italic>
+</article-title><source>Nucleic Acids Res</source><volume>17</volume><fpage>9063</fpage><lpage>9073</lpage><pub-id pub-id-type="pmid">2555783</pub-id></element-citation></ref><ref id="B13"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kuenstner</surname><given-names>JT</given-names></name></person-group><year>2012</year><article-title>
+<italic>Mycobacterium avium paratuberculosis</italic> and Crohn's
+Disease: an association requiring more research</article-title><source>J Crohn's Colitis</source><volume>6</volume><fpage>393</fpage><pub-id pub-id-type="pmid">22405182</pub-id></element-citation></ref><ref id="B14"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Larsen</surname><given-names>AB</given-names></name><name><surname>Merkal</surname><given-names>RS</given-names></name><name><surname>Cutlip</surname><given-names>RC</given-names></name></person-group><year>1975</year><article-title>Age of cattle as related to resistance to infection with
+<italic>Mycobacterium paratuberculosis</italic>
+</article-title><source>Am J Vet Res</source><volume>36</volume><fpage>255</fpage><lpage>257</lpage><pub-id pub-id-type="pmid">1115424</pub-id></element-citation></ref><ref id="B15"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lin</surname><given-names>GZ</given-names></name><name><surname>Zheng</surname><given-names>FY</given-names></name><name><surname>Zhou</surname><given-names>JZ</given-names></name><etal/></person-group><year>2011</year><article-title>Loop-mediated isothermal amplification assay targeting the
+<italic>omp</italic>25 gene for rapid detection of
+<italic>Brucella</italic> spp</article-title><source>Mol Cell Probes</source><volume>25</volume><fpage>126</fpage><lpage>129</lpage><pub-id pub-id-type="pmid">21232598</pub-id></element-citation></ref><ref id="B16"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Manning</surname><given-names>EJ</given-names></name><name><surname>Collins</surname><given-names>MT</given-names></name></person-group><year>2001</year><article-title>
+<italic>Mycobacterium avium</italic> subsp.
+<italic>paratuberculosis</italic>: pathogen, pathogenesis and
+diagnosis</article-title><source>Rev Sci Tech</source><volume>20</volume><fpage>133</fpage><lpage>150</lpage><pub-id pub-id-type="pmid">11288509</pub-id></element-citation></ref><ref id="B17"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mijs</surname><given-names>W</given-names></name><name><surname>de Haas</surname><given-names>P</given-names></name><name><surname>Rossau</surname><given-names>R</given-names></name><etal/></person-group><year>2002</year><article-title>Molecular evidence to support a proposal to reserve the
+designation <italic>Mycobacterium avium</italic> subsp.
+<italic>avium</italic> for bird-type isolates and &#x02018;<italic>M.
+avium</italic> subsp. <italic>hominissuis</italic>&#x02018; for the
+human/porcine type of <italic>M. avium</italic>
+</article-title><source>Int J Syst Evol Microbiol</source><volume>52</volume><fpage>1505</fpage><lpage>1518</lpage><pub-id pub-id-type="pmid">12361252</pub-id></element-citation></ref><ref id="B18"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Molineri</surname><given-names>A</given-names></name><name><surname>Signorini</surname><given-names>ML</given-names></name><name><surname>Perez</surname><given-names>L</given-names></name><etal/></person-group><year>2013</year><article-title>Zoonoses in rural veterinarians in the central region of
+Argentina</article-title><source>Aust J Rural Health</source><volume>21</volume><fpage>285</fpage><lpage>290</lpage><pub-id pub-id-type="pmid">24118152</pub-id></element-citation></ref><ref id="B19"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mori</surname><given-names>Y</given-names></name><name><surname>Nagamine</surname><given-names>K</given-names></name><name><surname>Tomita</surname><given-names>N</given-names></name><etal/></person-group><year>2001</year><article-title>Detection of loop-mediated isothermal amplification reaction by
+turbidity derived from magnesium pyrophosphate formation</article-title><source>Biochem Biophys Res Commun</source><volume>289</volume><fpage>150</fpage><lpage>154</lpage><pub-id pub-id-type="pmid">11708792</pub-id></element-citation></ref><ref id="B20"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Nagamine</surname><given-names>K</given-names></name><name><surname>Hase</surname><given-names>T</given-names></name><name><surname>Notomi</surname><given-names>T</given-names></name></person-group><year>2002</year><article-title>Accelerated reaction by loop-mediated isothermal amplification
+using loop primers</article-title><source>Mol Cell Probes</source><volume>16</volume><fpage>223</fpage><lpage>229</lpage><pub-id pub-id-type="pmid">12144774</pub-id></element-citation></ref><ref id="B21"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Notomi</surname><given-names>T</given-names></name><name><surname>Okayama</surname><given-names>H</given-names></name><name><surname>Masubuchi</surname><given-names>H</given-names></name><etal/></person-group><year>2000</year><article-title>Loop-mediated isothermal amplification of DNA</article-title><source>Nucleic Acids Res</source><volume>28</volume><fpage>E63</fpage><pub-id pub-id-type="pmid">10871386</pub-id></element-citation></ref><ref id="B22"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ohtsuki</surname><given-names>R</given-names></name><name><surname>Kawamoto</surname><given-names>K</given-names></name><name><surname>Kato</surname><given-names>Y</given-names></name><etal/></person-group><year>2008</year><article-title>Rapid detection of <italic>Brucella</italic> spp. by the
+loop-mediated isothermal amplification method</article-title><source>J Appl Microbiol</source><volume>104</volume><fpage>1815</fpage><lpage>1823</lpage><pub-id pub-id-type="pmid">18248366</pub-id></element-citation></ref><ref id="B23"><element-citation publication-type="book"><person-group person-group-type="author"><collab>OIE</collab></person-group><year>2008</year><chapter-title>Validation and quality control of PCR methods for the diagnosis
+of infectious disease</chapter-title><source>Manual of diagnostic tests and vaccines for terrestrial animals</source><person-group person-group-type="author"><collab collab-type="editor">Commission OBS</collab></person-group><fpage>46</fpage><lpage>55</lpage></element-citation></ref><ref id="B24"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Pappas</surname><given-names>G</given-names></name><name><surname>Akritidis</surname><given-names>N</given-names></name><name><surname>Bosilkovski</surname><given-names>M</given-names></name><etal/></person-group><year>2005</year><article-title>Brucellosis</article-title><source>N Engl J Med</source><volume>352</volume><fpage>2325</fpage><lpage>2336</lpage><pub-id pub-id-type="pmid">15930423</pub-id></element-citation></ref><ref id="B25"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Parida</surname><given-names>M</given-names></name><name><surname>Sannarangaiah</surname><given-names>S</given-names></name><name><surname>Dash</surname><given-names>PK</given-names></name><etal/></person-group><year>2008</year><article-title>Loop mediated isothermal amplification (LAMP): a new generation
+of innovative gene amplification technique; perspectives in clinical
+diagnosis of infectious diseases</article-title><source>Rev Med Virol</source><volume>18</volume><fpage>407</fpage><lpage>421</lpage><pub-id pub-id-type="pmid">18716992</pub-id></element-citation></ref><ref id="B26"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Samartino</surname><given-names>LE</given-names></name><name><surname>Enright</surname><given-names>FM</given-names></name></person-group><year>1993</year><article-title>Pathogenesis of abortion of bovine brucellosis</article-title><source>Comp Immunol Microbiol Infect Dis</source><volume>16</volume><fpage>95</fpage><lpage>101</lpage><pub-id pub-id-type="pmid">8319440</pub-id></element-citation></ref><ref id="B27"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Savan</surname><given-names>R</given-names></name><name><surname>Igarashi</surname><given-names>A</given-names></name><name><surname>Matsuoka</surname><given-names>S</given-names></name><etal/></person-group><year>2004</year><article-title>Sensitive and rapid detection of edwardsiellosis in fish by a
+loop-mediated isothermal amplification method</article-title><source>Appl Environ Microbiol</source><volume>70</volume><fpage>621</fpage><lpage>624</lpage><pub-id pub-id-type="pmid">14711699</pub-id></element-citation></ref><ref id="B28"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sirichaisinthop</surname><given-names>J</given-names></name><name><surname>Buates</surname><given-names>S</given-names></name><name><surname>Watanabe</surname><given-names>R</given-names></name><etal/></person-group><year>2011</year><article-title>Evaluation of loop-mediated isothermal amplification (LAMP) for
+malaria diagnosis in a field setting</article-title><source>Am J Trop Med Hyg</source><volume>85</volume><fpage>594</fpage><lpage>596</lpage><pub-id pub-id-type="pmid">21976556</pub-id></element-citation></ref><ref id="B29"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>van Embden</surname><given-names>JD</given-names></name><name><surname>van Soolingen</surname><given-names>D</given-names></name><name><surname>Small</surname><given-names>PM</given-names></name><etal/></person-group><year>1992</year><article-title>Genetic markers for the epidemiology of
+tuberculosis</article-title><source>Res Microbiol</source><volume>143</volume><fpage>385</fpage><lpage>391</lpage><pub-id pub-id-type="pmid">1360692</pub-id></element-citation></ref><ref id="B30"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wang</surname><given-names>F</given-names></name><name><surname>Jiang</surname><given-names>L</given-names></name><name><surname>Ge</surname><given-names>B</given-names></name></person-group><year>2012</year><article-title>Loop-mediated isothermal amplification assays for detecting shiga
+toxin-producing <italic>Escherichia coli</italic> in ground beef and human
+stools</article-title><source>J Clin Microbiol</source><volume>50</volume><fpage>91</fpage><lpage>97</lpage><pub-id pub-id-type="pmid">22031701</pub-id></element-citation></ref><ref id="B31"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zhang</surname><given-names>W</given-names></name><name><surname>Meng</surname><given-names>X</given-names></name><name><surname>Wang</surname><given-names>J</given-names></name></person-group><year>2013</year><article-title>Sensitive and rapid detection of <italic>Trueperella
+pyogenes</italic> using loop-mediated isothermal amplification
+method</article-title><source>J Microbiol Methods</source><volume>93</volume><fpage>124</fpage><lpage>126</lpage><pub-id pub-id-type="pmid">23517678</pub-id></element-citation></ref></ref-list></back></article>

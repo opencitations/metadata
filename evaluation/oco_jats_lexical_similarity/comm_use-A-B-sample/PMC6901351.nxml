@@ -1,0 +1,934 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?properties manuscript?><front><journal-meta><journal-id journal-id-type="nlm-journal-id">101740247</journal-id><journal-id journal-id-type="nlm-ta">AAS Open Res</journal-id><journal-id journal-id-type="iso-abbrev">AAS Open Res</journal-id><journal-title-group><journal-title>AAS open research</journal-title></journal-title-group><issn pub-type="epub">2515-9321</issn></journal-meta><article-meta><article-id pub-id-type="pmid">31819922</article-id><article-id pub-id-type="pmc">6901351</article-id><article-id pub-id-type="manuscript">EMS85042</article-id><article-id pub-id-type="doi">10.12688/aasopenres.12972.2</article-id><article-categories><subj-group subj-group-type="heading"><subject>Article</subject></subj-group></article-categories><title-group><article-title>Risk assessment for the implementation of controlled human
+<italic>Schistosoma mansoni</italic> infection trials in
+Uganda</article-title><fn-group content-type="pub-status"><fn id="FN1"><p id="P1">[version 2; peer review: 2 approved]</p></fn></fn-group></title-group><contrib-group><contrib contrib-type="author" corresp="no"><name><surname>Koopman</surname><given-names>Jan Pieter</given-names></name><role content-type="http://credit.casrai.org/">Conceptualization</role><role content-type="http://credit.casrai.org/">Methodology</role><role content-type="http://credit.casrai.org/">Writing &#x02013; Original Draft
+Preparation</role><role content-type="http://credit.casrai.org/">Writing &#x02013; Review &#x00026;
+Editing</role><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0003-1335-9402</contrib-id><xref ref-type="aff" rid="A1">1</xref></contrib><contrib contrib-type="author" corresp="no"><name><surname>Egesa</surname><given-names>Moses</given-names></name><role content-type="http://credit.casrai.org/">Conceptualization</role><role content-type="http://credit.casrai.org/">Methodology</role><role content-type="http://credit.casrai.org/">Writing &#x02013; Original Draft
+Preparation</role><role content-type="http://credit.casrai.org/">Writing &#x02013; Review &#x00026;
+Editing</role><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0001-5136-868X</contrib-id><xref ref-type="aff" rid="A2">2</xref></contrib><contrib contrib-type="author" corresp="no"><name><surname>Wajja</surname><given-names>Anne</given-names></name><role content-type="http://credit.casrai.org/">Validation</role><role content-type="http://credit.casrai.org/">Writing &#x02013; Review &#x00026;
+Editing</role><xref ref-type="aff" rid="A3">3</xref></contrib><contrib contrib-type="author" corresp="no"><name><surname>Adriko</surname><given-names>Moses</given-names></name><role content-type="http://credit.casrai.org/">Validation</role><role content-type="http://credit.casrai.org/">Writing &#x02013; Review &#x00026;
+Editing</role><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0001-9748-1207</contrib-id><xref ref-type="aff" rid="A4">4</xref></contrib><contrib contrib-type="author" corresp="no"><name><surname>Nassuuna</surname><given-names>Jacent</given-names></name><role content-type="http://credit.casrai.org/">Validation</role><role content-type="http://credit.casrai.org/">Writing &#x02013; Review &#x00026;
+Editing</role><xref ref-type="aff" rid="A3">3</xref></contrib><contrib contrib-type="author" corresp="no"><name><surname>Nkurunungi</surname><given-names>Gyaviira</given-names></name><role content-type="http://credit.casrai.org/">Validation</role><role content-type="http://credit.casrai.org/">Writing &#x02013; Review &#x00026;
+Editing</role><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0003-4062-9105</contrib-id><xref ref-type="aff" rid="A3">3</xref></contrib><contrib contrib-type="author" corresp="no"><name><surname>Driciru</surname><given-names>Emmanuella</given-names></name><role content-type="http://credit.casrai.org/">Validation</role><role content-type="http://credit.casrai.org/">Writing &#x02013; Review &#x00026;
+Editing</role><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0003-1146-1964</contrib-id><xref ref-type="aff" rid="A3">3</xref></contrib><contrib contrib-type="author" corresp="no"><name><surname>van Willigen</surname><given-names>Gijsbert</given-names></name><role content-type="http://credit.casrai.org/">Validation</role><role content-type="http://credit.casrai.org/">Writing &#x02013; Original Draft
+Preparation</role><role content-type="http://credit.casrai.org/">Writing &#x02013; Review &#x00026;
+Editing</role><xref ref-type="aff" rid="A5">5</xref></contrib><contrib contrib-type="author" corresp="no"><name><surname>Cose</surname><given-names>Stephen</given-names></name><role content-type="http://credit.casrai.org/">Validation</role><role content-type="http://credit.casrai.org/">Writing &#x02013; Review &#x00026;
+Editing</role><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-5156-037X</contrib-id><xref ref-type="aff" rid="A3">3</xref><xref ref-type="aff" rid="A6">6</xref></contrib><contrib contrib-type="author" corresp="no"><name><surname>Yazdanbakhsh</surname><given-names>Maria</given-names></name><role content-type="http://credit.casrai.org/">Validation</role><role content-type="http://credit.casrai.org/">Writing &#x02013; Review &#x00026;
+Editing</role><xref ref-type="aff" rid="A1">1</xref></contrib><contrib contrib-type="author" corresp="no"><name><surname>Kaleebu</surname><given-names>Pontiano</given-names></name><role content-type="http://credit.casrai.org/">Validation</role><role content-type="http://credit.casrai.org/">Writing &#x02013; Review &#x00026;
+Editing</role><xref ref-type="aff" rid="A3">3</xref></contrib><contrib contrib-type="author" corresp="no"><name><surname>Kabatereine</surname><given-names>Narcis</given-names></name><role content-type="http://credit.casrai.org/">Validation</role><role content-type="http://credit.casrai.org/">Writing &#x02013; Review &#x00026;
+Editing</role><xref ref-type="aff" rid="A4">4</xref></contrib><contrib contrib-type="author" corresp="no"><name><surname>Tukahebwa</surname><given-names>Edridah</given-names></name><role content-type="http://credit.casrai.org/">Validation</role><role content-type="http://credit.casrai.org/">Writing &#x02013; Review &#x00026;
+Editing</role><xref ref-type="aff" rid="A4">4</xref></contrib><contrib contrib-type="author" corresp="no" equal-contrib="yes"><name><surname>Roestenberg</surname><given-names>Meta</given-names></name><role content-type="http://credit.casrai.org/">Conceptualization</role><role content-type="http://credit.casrai.org/">Funding Acquisition</role><role content-type="http://credit.casrai.org/">Methodology</role><role content-type="http://credit.casrai.org/">Validation</role><role content-type="http://credit.casrai.org/">Writing &#x02013; Original Draft
+Preparation</role><role content-type="http://credit.casrai.org/">Writing &#x02013; Review &#x00026;
+Editing</role><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-5052-2830</contrib-id><xref ref-type="aff" rid="A1">1</xref></contrib><contrib contrib-type="author" corresp="yes" equal-contrib="yes"><name><surname>Elliott</surname><given-names>Alison M.</given-names></name><role content-type="http://credit.casrai.org/">Conceptualization</role><role content-type="http://credit.casrai.org/">Funding Acquisition</role><role content-type="http://credit.casrai.org/">Methodology</role><role content-type="http://credit.casrai.org/">Writing &#x02013; Original Draft
+Preparation</role><role content-type="http://credit.casrai.org/">Writing &#x02013; Review &#x00026;
+Editing</role><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0003-2818-9549</contrib-id><xref rid="C1" ref-type="corresp">a</xref><xref ref-type="aff" rid="A3">3</xref><xref ref-type="aff" rid="A6">6</xref></contrib><aff id="A1">
+<label>1</label>Department of Parasitology, Leiden University Medical Center,
+Leiden, The Netherlands</aff><aff id="A2">
+<label>2</label>Uganda Virus Research Institute, Entebbe, Uganda</aff><aff id="A3">
+<label>3</label>Medical Research Council/Uganda Virus Research Institute and
+London School of Hygiene &#x00026; Tropical Medicine Uganda Research Unit, Entebbe,
+Uganda</aff><aff id="A4">
+<label>4</label>Vector Control Division, Ministry of Health of Uganda, Kampala,
+Uganda</aff><aff id="A5">
+<label>5</label>Department of Health, Safety and the Environment, Leiden
+University Medical Center, Leiden, The Netherlands</aff><aff id="A6">
+<label>6</label>Clinical Research Department, London School of Hygiene &#x00026;
+Tropical Medicine, London, UK</aff></contrib-group><author-notes><corresp id="C1"><label>a</label><email xlink:href="mailto:alison.elliott@mrcuganda.org">alison.elliott@mrcuganda.org</email></corresp><fn fn-type="COI-statement" id="FN2"><p id="P2">
+<bold>Competing interests: </bold>The authors have declared no personal
+financial competing interests. However, we are working collaboratively to
+develop the CHI-S for implementation in Uganda, and therefore have research
+goals with potential to influence our approach to this risk assessment. This
+is, in part, our motivation for publishing it on an open peer review
+platform.</p></fn></author-notes><pub-date pub-type="epub"><day>13</day><month>8</month><year>2019</year></pub-date><pub-date pub-type="pmc-release"><day>09</day><month>12</month><year>2019</year></pub-date><volume>2</volume><elocation-id>17</elocation-id><permissions><license xlink:href="http://creativecommons.org/licenses/by/4.0/"><license-p>This is an open access article distributed under the terms of the
+Creative Commons Attribution Licence, which permits unrestricted use,
+distribution, and reproduction in any medium, provided the original work is
+properly cited.</license-p></license></permissions><self-uri xlink:href="https://aasopenresearch.org/articles/2-17"/><abstract><p id="P3">Schistosomiasis is a parasitic infection highly prevalent in sub-Saharan
+Africa, and a significant cause of morbidity; it is a priority for vaccine
+development. A controlled human infection model for <italic>Schistosoma
+mansoni</italic> (CHI-S) with potential to accelerate vaccine development
+has been developed among na&#x000ef;ve volunteers in the Netherlands. Because
+responses both to infections and candidate vaccines are likely to differ between
+endemic and non-endemic settings, we propose to establish a CHI-S in Uganda
+where <italic>Schistosoma mansoni </italic>is endemic. As part of a
+&#x0201c;road-map&#x0201d; to this goal, we have undertaken a risk assessment. We
+identified risks related to importing of laboratory vector snails and
+schistosome strains from the Netherlands to Uganda; exposure to natural
+infection in endemic settings concurrently with CHI-S studies, and unfamiliarity
+of the community with the nature, risks and rationale for CHI. Mitigating
+strategies are proposed. With careful implementation of the latter, we believe
+that CHI-S can be implemented safely in Uganda. Our reflections are presented
+here to promote feedback and discussion.</p></abstract><kwd-group kwd-group-type="author"><kwd>Schistosoma mansoni</kwd><kwd>Controlled Human Infection Studies</kwd><kwd>Uganda</kwd><kwd>risk assessment</kwd></kwd-group></article-meta><notes notes-type="version-changes"><sec sec-type="version-changes" id="S1"><label>Revised</label><title>Amendments from Version 1</title><p id="P4">We would like to thank the reviewers for their insightful discussion and
+useful comments. In this revised version we have made the following changes to
+address the reviewer&#x02019;s comments: 1. The risk score for death of snails in
+table 1 was corrected 2. Information on the scoring of risks was attached to
+each table 3. The issue of variable <italic>Schistosoma mansoni
+</italic>infection susceptibility in Ugandan snails is mentioned in both option
+2 and 3 4. Under option 3: a paragraph was added on procedures for cloning a
+Ugandan strain for CHI-S 5. Under option 3: the sentence on dose-finding was
+removed, because all three options would need dose-finding to balance
+tolerability and attack rate 6. In &#x02018;Natural infection during trial
+period&#x02019; we clarified the sentence on female single-sex models and on the
+risk of introducing a hybridised strain into the environment 7. A paragraph was
+added on remuneration for participating in the trial and the risks associated
+(also added to table 5).</p></sec></notes></front><body><sec id="S2"><title>Background</title><p id="P5">Schistosomiasis is a parasitic infection affecting approximately 230 million
+people worldwide<xref rid="R1" ref-type="bibr">1</xref>. Infection is caused by
+trematodes (flukes) of the genus <italic>Schistosoma.</italic> Because the infection
+is responsible for considerable morbidity worldwide, particularly in Africa,
+schistosomiasis was recently listed among the top 10 infections for which a vaccine
+should urgently be developed<xref rid="R2" ref-type="bibr">2</xref>.</p><p id="P6">Controlled human infection (CHI) studies are an important tool for vaccine
+development. They provide a platform to safely and swiftly test vaccine candidates
+for the pathogen in question. Furthermore, they can contribute to understanding
+host-pathogen interactions and help to unravel the nature of protective immunity.
+They have been used successfully for a substantial number of infectious diseases,
+including malaria, dengue, and influenza<xref rid="R3" ref-type="bibr">3</xref>. A
+CHI model has now been developed for schistosomiasis at Leiden University Medical
+Center, where Dutch volunteers with no previous exposure to schistosomiasis
+participated<xref rid="R3" ref-type="bibr">3</xref>. However, the response to
+schistosome infection, and to candidate vaccines, is likely to be different in
+endemic countries. In such settings multiple differences in environmental exposures,
+as well as prior exposure to schistosomes, drive differences in both the innate and
+adaptive immune responses which determine infection susceptibility and vaccine
+responses<xref rid="R4" ref-type="bibr">4</xref>,<xref rid="R5" ref-type="bibr">5</xref>.</p><p id="P7">We are therefore working towards the establishment of a controlled human
+infection model for schistosomiasis in Uganda, where <italic>Schistosoma
+mansoni</italic> is highly endemic. Almost 30% of the population is estimated to
+be infected<xref rid="R6" ref-type="bibr">6</xref>, with half the population at
+risk<xref rid="R7" ref-type="bibr">7</xref>. As a first step we held a
+stakeholders&#x02019; meeting in Uganda in November 2017, and we published the
+meeting report and resultant road-map for the implementation process<xref rid="R8" ref-type="bibr">8</xref>. A key element of the road-map was to undertake a risk
+assessment. This document therefore aims to provide an assessment of risks that may
+arise before, during and after start of a controlled human infection model with
+<italic>Schistosoma mansoni</italic> (CHI-S) in Uganda.</p><p id="P8">Male and female schistosomes live in the mesenteric or perivesical veins of
+their human host, where they mate and produce eggs. These eggs are either released
+into the environment through faeces and urine or stay within the host tissue where
+they induce inflammation. When the excreted eggs reach fresh water, they hatch and
+release miracidia that can then infect a suitable snail host. Infected snails are
+able to shed larvae, called cercariae, which infect humans. The Leiden University
+Medical Center (LUMC) CHI-S exposed healthy na&#x000ef;ve volunteers to increasing
+doses of male cercariae to study the tolerability of such a controlled human
+infection model. This male-only model avoids the risk of pathology caused by
+schistosome eggs. To generate the infectious cercariae for a male-only CHI-S,
+individual laboratory-reared freshwater snails are infected, each with a single
+miracidium. Clonal replication follows, such that thousands of single-sex cercariae
+are subsequently shed by the snail. The sex of the cercariae can be determined by
+PCR, and the appropriate number of cercariae can be prepared for dermal infection.
+Because snails shed thousands of cercariae over a period of weeks, every time they
+are exposed to light, it is possible to first perform quality control (QC) testing
+on every batch (e.g. to assess the viability, sex and bioburden of the cercariae).
+Following principles set forward in good manufacturing practices (GMP) guidelines,
+the cercariae and their excipients are produced and tested for consistent quality
+according to predefined criteria. Only when compliant, is the cercariae batch
+released for clinical use. To this date, 17 people have been exposed to <italic>S.
+mansoni</italic> cercariae during CHI-S studies in Leiden.</p><p id="P9">In terms of the technical aspects of shipping infectious material to Uganda,
+culturing the infectious material in Uganda and preparing the infectious cercariae,
+we have considered three options. </p><p id="P10">
+<bold>Option 1: Shipping of parasites and snails from the Netherlands to
+Uganda.</bold> In this scenario, <italic>S. mansoni</italic> parasites and
+snails would be shipped from Leiden (The Netherlands) for preparation of the
+cercariae for human infection in Uganda. From a technical perspective, the easiest
+approach to rapid implementation of CHI-S in Uganda would be to produce and release
+the infectious snails in Leiden and subsequently ship them to Uganda. In Uganda, a
+further snail shedding would be used to generate the infectious cercariae.
+Alternatively, <italic>S. mansoni</italic> parasites (for example in the form of
+<italic>S. mansoni</italic> eggs contained in a rodent liver) could be shipped
+separately from uninfected snails, which would mitigate shipment risks.</p><p id="P11">The CHI-S model in Leiden uses a schistosome strain which has been genotyped
+and has been mapped to be of Puerto Rican origin<xref rid="R3" ref-type="bibr">3</xref>. Because this strain has been laboratory adapted and kept in the
+Leiden facility since 1955, it has the advantage of its known virulence in animals,
+experience of its effects in the Dutch human volunteers, and its sensitivity to
+praziquantel. As well, the Leiden model uses <italic>Biomphalaria glabrata</italic>
+snails which are not indigenous to Uganda (Appendix 1 [Extended data<xref rid="R9" ref-type="bibr">9</xref>]). Therefore, the ecological risks of accidental
+release of schistosomes or snails or into the environment have to be considered.</p><p id="P12">
+<bold>Option 2: Shipping of parasites from The Netherlands followed by use of local
+Ugandan snails.</bold> This scenario would involve transporting only <italic>S.
+mansoni</italic> parasites (Puerto-Rican strain), then using local snail species
+such as <italic>B. choanomphala</italic> (from Lake Victoria) or <italic>B.
+stanleyi</italic> (from Lake Albert) to produce cercariae in Uganda<xref rid="R10" ref-type="bibr">10</xref>. Advantages, as in option 1, would be the
+fact that the parasite strain has been characterized in both animals and humans,
+which decreases its potential risk for the volunteers. Disadvantages would be
+possible technical hurdles to be overcome to establish a local snail colony and
+achieve successful infection with release of infectious <italic>S. mansoni</italic>
+cercariae. However, expertise in these processes already exists in Uganda<xref rid="R10" ref-type="bibr">10</xref>, subject to laboratory renovations and staff
+training to ensure compliance with GMP principles. This option would also be
+relatively simple to implement.</p><p id="P13">
+<bold>Option 3: Using local Ugandan parasites and local Ugandan snails.</bold> In
+this scenario the full <italic>S. mansoni</italic> laboratory life cycle would be
+established in Uganda, using a local snail species and starting with a new
+<italic>S. mansoni</italic> strain, and a rodent mammalian host. Although the
+risk of clinically unexpected, unwanted side effects, or of relative resistance to
+praziquantel treatment, might be higher when using the local strain of <italic>S.
+mansoni</italic>, the ecological risk would be lowest.</p><p id="P14">All options require preparation of the cercariae for human infection under
+strict Quality Assurance and controlled conditions in Uganda with adherence to Good
+Manufacturing Guidelines. In Leiden, procedures were developed based on GMP
+principles contained in the European Commission directive 2003/94/ EC, with the
+infectious cercariae considered as an &#x0201c;auxiliary medicinal product&#x0201d;.
+Details of the procedures have been published<xref rid="R3" ref-type="bibr">3</xref>. These include production in a biosafety level 3 facility, governed by
+stringent standard operating procedures including for quality control, logging and
+monitoring; production and counting of infectious cercariae by two independent
+technologists; and antibiotic treatment and microbiological bioburden testing to
+ensure that the cercarial product is free of pathogens with potential to harm CHI
+volunteers. Equivalent procedures and quality control will be needed in Uganda in
+order to implement CHI-S.</p><p id="P15">In this document we address risks associated with CHI-S in Uganda on three
+different levels: i) the introduction of new species (the transport of snails, the
+snail culture facilities, the potential for ecological harm as a result of importing
+snails), ii) the introduction of a new schistosome strain into Uganda, and iii)
+clinical trial risks common to all options (natural infection during the trial
+period, and the risks to volunteers resulting from the controlled infection).</p></sec><sec id="S3"><title>Risk assessment methods</title><p id="P16">We identified risks and potential approaches to mitigation based on relevant
+literature, experience from the Leiden CHI-S model, stakeholder discussions, and
+discussion with experts. The level of risk and effectiveness of proposed controls
+was determined by consensus between the authors. The inherent risk was defined as
+the risk before putting controls in place, calculated as the product of the
+likelihood and impact scores. The residual risk was similarly calculated, based on
+likelihood and impact scores after controls have been put in place. Mitigating
+controls could reduce the residual risk score by reducing the likelihood of an event
+occurring, or by reducing the impact if it should occur. Likelihood was scored as
+almost certain/common, 5; likely, 4; possible, 3; unlikely, 2; rare, 1. Impact was
+scored as critical, 5; major, 4; moderate, 3; minor, 2; insignificant 1. Resulting
+risk scores of 18&#x02013;25 were considered high, and unacceptable. Resulting risk
+scores in the range of 9&#x02013;17 were considered moderate, with further controls
+desirable if possible, and caution required if implemented at this risk level.
+Resulting scores of 0&#x02013;8 were considered low, and usually acceptable.</p></sec><sec id="S4"><title>Option 1: Shipping of parasites and snails from the Netherlands to Uganda</title><p id="P17">According to our first idea, infected snails would be shipped. The WHO
+report &#x02018;Guidance on regulations for the Transport of Infectious Substances
+2017&#x02013;2018&#x02019;<xref rid="R11" ref-type="bibr">11</xref> provides
+information on how to adequately transport infectious substances. In accordance with
+these guidelines, shipment of <italic>S. mansoni</italic> infected snails falls
+under &#x02018;CATEGORY B, INFECTIOUS SUBSTANCES&#x02019; (UN3373). Shipment of live
+snails is a time-sensitive undertaking and therefore can only be facilitated by air
+shipment. Infectious substances cannot be carried on as hand-luggage. Transport of
+infectious substances are subjected to International Air Transport Association
+(IATA) requirements. Packaging of Category B substances need to comply with rules
+set out in the P650 packaging instruction<xref rid="R11" ref-type="bibr">11</xref>.
+This involves triple packaging and proper marking and documentation. Upon arrival in
+Uganda, it would be crucial for the package to clear customs as quickly as possible
+so that snails arrive in good condition. In order to achieve this, the customs
+office should be notified about the arrival of the shipment. In collaboration with
+the customs officer, all required documentation should be prepared in advance and
+approval for import of the products should be sought.</p><p id="P18">Alternatively, snails and <italic>Schistosoma</italic> parasites would be
+shipped separately. Uninfected snails can be shipped more easily because this
+shipment does not have to comply with the regulations for the transport of
+infectious substances. Similar to the previous option, shipment should clear customs
+as soon as possible. These snails could be kept to reproduce in the Ugandan
+laboratory to sustain their life cycle.</p><p id="P19">A second shipment would contain <italic>Schistosoma</italic> parasites.
+There are two ways in which this material can be transported (still under the
+&#x02018;CATEGORY B, INFECTIOUS SUBSTANCES&#x02019; (UN3373)):</p><p id="P20">1) Within a living host such as a Schistosoma-infected hamster. These
+animals can shed <italic>Schistosoma</italic> eggs that can be used to infect the
+snails.</p><p id="P21">2) Within a preserved liver sample kept on medium from a
+<italic>Schistosoma</italic>-infected hamster. This liver sample contains
+<italic>Schistosoma</italic> eggs. Upon arrival in Uganda, further processing of
+the sample provides miracidia which can be used to infect the snails. Test shipments
+should be scheduled to determine the feasibility of such transports and the
+conditions in which the liver sample should be shipped. From previous experiments in
+Leiden, the preserved liver sample can be used to infect snails for up to one week
+after being harvested.</p><p id="P22">Risks associated with shipping of parasites and snails from the Netherlands
+to Uganda, and mitigating strategies, are summarized in <xref rid="T1" ref-type="table">Table 1</xref>.</p></sec><sec id="S5"><title>Option 1: snail culture facilities; potential ecological harm</title><p id="P24">To house the <italic>Biomphalaria glabrata</italic> snails in Uganda, they
+would need to be kept in strict quarantine. <italic>B. glabrata</italic> are not a
+naturally occurring snail host in Uganda, and should therefore not spread to the
+environment. In order to house snails, an incubator, or room temperature, set and
+monitored at 28&#x000b0;C is needed. The incubator (if used) door should be fully
+closed when the laboratory is not in use. Precautionary measures to contain the
+snails to the facility should be taken and include physical barriers, such as rooms
+with closed doors and windows. The snail culture basins and water drainage system
+should be covered with fine mesh to prevent escape (appendix 1 [Extended data<xref rid="R9" ref-type="bibr">9</xref>]). In addition, access to the laboratory
+should be controlled and restricted to the research team. The incubator (if used)
+should preferably be positioned away from the door. Additional security measures
+could be a double door to create a sluice. Appendix 2 (Extended data<xref rid="R9" ref-type="bibr">9</xref>) lists precautionary measures that should to be taken
+when working with schistosomes. Standard operating procedures (SOPs) will be
+exchanged with LUMC and reviewed to fit the Ugandan facility. These SOPs deal with
+culture processes as well as the disposal of infectious material.</p><p id="P25">In case a single snail would accidentally be released into the environment,
+it is capable of reproducing in the absence of an opposite-sex snail using
+self-insemination<xref rid="R12" ref-type="bibr">12</xref>. This ability poses
+an ecological hazard where a single snail could develop into a colony. In addition,
+snails can be transported over large distances attached to birds and can survive dry
+conditions for up to two months. This snail itself is not endemic in Uganda,
+although previously this species has been held at the Vector Control Division of the
+Ministry of Health for a different project. The consequences of accidental
+introduction of this new species are difficult to predict, however it may result in
+the following (Appendix 1 [Extended data<xref rid="R9" ref-type="bibr">9</xref>]):</p><list list-type="simple" id="L1"><list-item><label>1)</label><p id="P26"> Interspecific hybridization between <italic>B. glabrata</italic>
+and local <italic>Biomphalaria</italic> species</p></list-item><list-item><label>2)</label><p id="P27"> Uncontrolled spread due to lack of natural enemies, competitors or
+pathogens</p></list-item><list-item><label>3)</label><p id="P28"> Altered <italic>S. mansoni</italic> dynamics, because of
+potentially higher susceptibility of <italic>B. glabrata</italic> for
+<italic>S. mansoni</italic> infection</p></list-item></list><p id="P29">Spread to the environment of <italic>B. glabrata</italic> may go unnoticed,
+because of its similar morphology to endemic snail species.</p><p id="P30">Risks associated with culture of <italic>B. glabrata</italic> in Uganda, and
+mitigating strategies, are summarised in <xref rid="T2" ref-type="table">Table
+2</xref>.</p></sec><sec id="S6"><title>Option 2: transport of <italic>S. mansoni</italic> infectious material and use of
+local snail species for cercarial production</title><p id="P32">This approach only requires transport of <italic>S. mansoni</italic>
+infectious material. This would use the second transport approach described in
+option 1, within a preserved liver sample from a schistosomiasis-infected hamster.
+The same regulatory guidelines for transporting infectious material apply. With
+regard to Ugandan snail species, there is variability between snail species in
+susceptibility to <italic>S. mansoni</italic> infection; however, there is
+experience of conducting infection of local species at the Vector Control
+Division<xref rid="R10" ref-type="bibr">10</xref>, so this is expected to be
+feasible. A major advantage of this approach is that the potential ecological and
+genetic risks related to introduction of a non-endemic snail species can be
+avoided.</p></sec><sec id="S7"><title>Option 3: re-establishing the full <italic>S. mansoni</italic> laboratory life
+cycle in Uganda, using a local snail species and <italic>S. mansoni</italic>
+strain</title><p id="P33">The alternative to shipping infectious material and snails from The
+Netherlands is to re-establish the full laboratory life cycle of <italic>S.
+mansoni</italic> using Ugandan snail species and Ugandan isolates of <italic>S.
+mansoni</italic>. The life-cycle has been maintained in the past at the Vector
+Control Division of the Ministry of Health, but is not currently available. The
+advantages of using a Ugandan life cycle include reducing the environmental risk
+associated with non-endemic snail species and schistosome strains. In addition, this
+model would be most representative of the field infections in Uganda. Similar to
+option 2, although susceptibility to <italic>S mansoni</italic> infection varies
+between snail species, we do not expect this to be an issue, because the Vector
+Control Division has experience in infecting local species. There are however
+several challenges with using Ugandan snails and isolates. With regard to the new
+schistosome laboratory strain, the characteristics of this would be unknown in terms
+of virulence and susceptibility to praziquantel treatment. Determining these
+characteristics would not be simple, since validated tests for schistosome
+resistance are currently not available. In addition, the new isolate would not be
+clonal and variability within the newly collected schistosome population might
+result in variable responses in the host, and to drug treatment. An inbred Ugandan
+strain could be achieved by crossing clonal males and clonal females to produce a
+single F1 generation and subsequently cloning the offspring through snails followed
+by another crossing. This procedure would need to be repeated several times to be
+able to generate a reasonably monomorphic strain. This process would be laborious
+and time-consuming and might also result in quite atypical parasites, not
+necessarily representative of the Ugandan population of schistosomes in general.
+Ugandan populations have been exposed to regular praziquantel treatment for over a
+decade, so there is a risk that the initial isolates would include individuals with
+relative praziquantel resistance<xref rid="R13" ref-type="bibr">13</xref> and could
+not be established with certainty in the initial stages of the above process.
+Starting with a more diverse selection of cercariae would generate a more
+representative laboratory population of Ugandan schistosomes, but would mean that
+the characteristics of any particular clone (notably pathogenicity or praziquantel
+resistance) selected for CHI-S would be unpredictable.</p><p id="P34">Options 1, 2 and 3 all require the establishment of facilities in Uganda for
+production of the infectious cercariae under GMP principles, in order to ensure high
+quality, reproducible infectious doses. Option 3 requires also the establishment of
+suitable, specific pathogen free animal facilities to house the rodents (hamsters or
+mice) that will provide the mammalian hosts in the laboratory life cycle. Risks
+associated with these elements are also considered here (<xref rid="T3" ref-type="table">Table 3</xref>).</p></sec><sec id="S8"><title>Natural infection during trial period</title><p id="P36">The single-sex <italic>S. mansoni</italic> challenge has been designed to
+prevent the occurrence of egg-associated morbidity. In the current model, volunteers
+participating in the trial will be infected using only male cercariae which
+penetrate the skin and result in patent infection. In future, a single-sex female
+cercariae model may also be used to infect volunteers. The sex of the male cercariae
+can be determined using a specifically designed multiplex real-time PCR which has
+been described elsewhere<xref rid="R3" ref-type="bibr">3</xref>. Once infected,
+individuals should avoid any exposure to contaminated water. If a subject were to be
+naturally infected over the course of the study, this might lead to mixed, male and
+female, infections, with mating of the schistosomes resulting in egg production that
+causes morbidity. If the Puerto Rican strain used in Leiden is imported for use in
+Uganda, mating and (if adequate sanitation is not used) excretion of eggs into the
+environment could alter the genetic make-up of Ugandan schistosome populations, with
+unknown consequences. However, given the fact that the Puerto Rican strain has been
+kept in rodents for &#x0003e;60 years, it seems likely that fitness in humans will be, if
+anything, lower than Ugandan human strains. Moreover, given that the Puerto-Rican
+strain is relatively inbred after prolonged passage in the laboratory, and was shown
+to be praziquantel-sensitive in the CHI-S, hybridisation with Ugandan schistosome
+populations is unlikely to result in increased praziquantel resistance or
+virulence.</p><p id="P37">The chance of natural infection can be limited by choosing a study
+population which does not come into contact with freshwater. However, this would
+over-restrict recruitment from the true target population, which is people at risk
+of <italic>S. mansoni</italic> infection. Options to minimise this risk among
+volunteers from the preferred target population include the following:</p><list list-type="simple" id="L2"><list-item><label>1)</label><p id="P38"> The feasibility of avoiding fresh water may be surveyed using
+questionnaires in a pilot study at the field site and the information used
+to select volunteers least at risk of re-exposure, and to make provisions to
+support volunteers to avoid re-exposure.</p></list-item><list-item><label>2)</label><p id="P39"> While selecting subjects, the investigator may ask whether the
+subject is likely to spend time in, or to travel to, areas where the risk of
+contracting a natural infection is high. If so, once again it should be
+stressed that contact with fresh water should be avoided; volunteers
+unlikely to achieve this would be excluded.</p></list-item><list-item><label>3)</label><p id="P40"> Apart from providing information to the volunteer and raising
+awareness of this issue, frequent testing for eggs in stool and urine
+samples may be performed by microscopy (and PCR). Eggs can be found
+5&#x02013;7 weeks after mixed male and female infection<xref rid="R1" ref-type="bibr">1</xref>. <italic>S. mansoni</italic> eggs in stool
+would indicate a concomitant natural infection, which would necessitate
+immediate treatment of the volunteer with praziquantel. However, stool
+microscopy and PCR is likely to be unreliable given variable egg excretion
+and the low sensitivity of stool examination for eggs<xref rid="R14" ref-type="bibr">14</xref>.</p></list-item><list-item><label>4)</label><p id="P41"> In those trials in which natural infection may be a considerable
+risk, testing using plasma circulating anodic antigen (CAA) may be conducted
+weekly from the outset of the trial. Both natural and experimental
+infections may then be terminated as soon as patent infection has been
+detected (e.g. at ~7 weeks post controlled human infection, when CAA levels
+&#x0003e; 1pg/mL). Early abrogation of the infection will prevent mating and egg
+laying. There would be modest drawbacks to the resulting data, because it
+would not be possible to study the dynamics of antigen excretion over time
+and quantitation of infection would be less accurate.</p></list-item><list-item><label>5)</label><p id="P42"> Alternatively, volunteers may be displaced to a non-endemic region
+for the study duration. However, the prolonged, seven to 12-week
+&#x0201c;admission&#x0201d; required for the CHI-S would be a major burden and
+inconvenience, as opposed to the relatively short-duration (24 days) for
+malaria CHI studies where such approach has been employed<xref rid="R15" ref-type="bibr">15</xref>. The possibility of volunteers absconding
+during the study, given the long duration, might be significant, abrogating
+the value of such an approach. Additionally, this would have cost
+implications, in terms of providing suitable accommodation and compensation
+for loss of income.</p></list-item></list><p id="P43">Risks associated with natural infection during the CHI-S, and mitigating
+strategies, are summarised in <xref rid="T4" ref-type="table">Table 4</xref>.</p></sec><sec id="S9"><title>Risks to volunteers resulting from the controlled human infection</title><p id="P46">Controlled infection with <italic>S. mansoni</italic> has been successfully
+performed in 17 Dutch volunteers. Although the single sex infection does not cause
+egg-related morbidity in volunteers, it may cause symptoms in response to the
+infection. These include dermatitis due to the percutaneous penetration of the
+cercariae and an acute schistosomiasis as a consequence of a systemic
+hypersensitivity response<xref rid="R16" ref-type="bibr">16</xref>. Severe acute
+schistosomiasis syndrome (Katayama fever) may present with symptoms such as fever,
+fatigue, myalgia, malaise, non-productive cough, eosinophilia and patchy infiltrates
+on chest radiography. In Leiden, several volunteers reported with systemic symptoms
+which seemed to be an acute schistosomiasis syndrome, with one volunteer presenting
+with prolonged symptoms of Katayama fever<xref rid="R16" ref-type="bibr">16</xref>.
+In addition, one volunteer presented with peri-orbital oedema which lasted one day,
+and may have been related to the infection<xref rid="R16" ref-type="bibr">16</xref>.
+Such symptoms can be treated symptomatically and all recovered. Both these
+volunteers had received the highest dose of cercariae (30 cercariae) used in Leiden.
+The risk of severe symptoms can be minimised by dose escalation in modest
+increments. The impact can be reduced by careful monitoring, provision of
+symptomatic relief and abrogation of infection by treatment if necessary. Frequent
+follow up visits need to be scheduled throughout the trial to discuss adverse events
+and conduct clinical assessments of the study volunteers. Safety laboratory tests
+need to be routinely performed. Volunteers can also experience side effects related
+to the praziquantel treatment. Common side effects include nausea, dizziness, and
+fatigue. Volunteers can be reassured that these symptoms are well recognised and
+transient. Their severity can be reduced by taking praziquantel after food.
+Symptomatic relief can be provided when required.</p><p id="P47">The 2017 stakeholders&#x02019; meeting identified community engagement to
+ensure proper understanding of the CHI-S as an essential basis for ethical conduct
+of a CHI study. CHI is a novel concept in Uganda, where CHI have not been undertaken
+in the past and understanding of medical research, in general, is at a low level.
+The idea of a &#x0201c;medical&#x0201d; procedure being undertaken which is expected
+to cause symptoms, and undertaken for the greater, rather than an individual, good
+needs careful explanation. Rumours and misunderstandings have the potential to
+critically affect the work, and to have an adverse effect also on other
+institutional research activities. Engagement with national and community leaders,
+work with community advisory boards who can identify, and help to address,
+misinformation; effective education of volunteers to a full understanding of the
+expected effects of the CHI (and reasons for undertaking it) will all be essential
+to the smooth and safe running of these projects. Experiences from the first malaria
+CHI in Kenya give helpful guidance as to which issues are particularly relevant to
+participants and may require careful explanation<xref rid="R17" ref-type="bibr">17</xref>.</p><p id="P48">Volunteers will receive remuneration for participating in the trial to
+reimburse for expenses and compensate for time and burden of participation. Careful
+consideration will need to be given to determine the exact amount of the
+remuneration to avoid coercion. Recent remuneration guidelines from Malawi can help
+to calculate the amount<xref rid="R18" ref-type="bibr">18</xref>. In addition,
+formative research is currently being undertaken to explore within the target
+community what remuneration would be considered appropriate and acceptable.</p><p id="P49">Risks related to volunteers and communities during the CHI-S, and mitigating
+strategies, are summarised in <xref rid="T5" ref-type="table">Table 5</xref>.</p></sec><sec sec-type="discussion" id="S10"><title>Discussion</title><p id="P51">In this document we have reflected on the potential risks involved in
+establishing a controlled human infection model for schistosomiasis in Uganda. The
+opinions expressed and risk scores allocated have been arrived at by discussion
+between the authors and are therefore subjective. In submitting this document to
+open peer review through the African Academy of Sciences Open Research Platform we
+welcome discussion of these issues.</p><p id="P52">Based on the assessments made, our own reflections and proposed plans are as
+follows.</p><p id="P53">First, we have decided not to pursue the option of importing <italic>B.
+glabrata</italic> snails from the Netherlands to Uganda. Although the proposed
+controls were estimated to reduce the risk or establishing a colony outside the
+laboratory to low, it seems unnecessary to incur them. Since snail species endemic
+to Uganda are susceptible to <italic>S. mansoni</italic> infection we expect that
+option 2 will work. </p><p id="P54">Second, we propose to further pursue the option of using the Puerto Rican
+laboratory strain of <italic>S. mansoni</italic> in the CHI-S in Uganda. We consider
+that the recognised virulence and praziquantel susceptibility profile of this strain
+makes it the safest option for CHI-S and have decided to have safety prevail over
+the ecological risk. The long-term in-breeding of the laboratory strain is an asset
+in this regard, making the characteristics of each clone of male cercariae
+reasonably predictable, and the strain possibly less fit as compared to circulating
+Ugandan strains. We also believe that the ecological risk of possible spread of the
+Puerto Rican strain of Sm will be minimized with the proposed measures.</p><p id="P55">To generate infectious cercariae for human infection and challenge studies
+following the principles of GMP it will be essential to establish a suitably
+controlled snail facility in Uganda. For sustainability (to avoid the need of
+repeated shipping of infectious material from the Netherlands) it will also be
+necessary to establish a specific pathogen free animal facility to house the
+mammalian host and complete the laboratory life cycle.</p><p id="P56">With regard to the selection of volunteers, and avoidance of natural
+infection during the CHI-S, current activities include engagement with relevant
+Ugandan communities which are potential settings for recruitment of volunteers. As
+part of the engagement, options for avoidance are being explored. Our current view
+is that careful volunteer selection, close follow up and immediate abrogation of
+infection (on detection of CAA) will be preferable to 12-week
+&#x0201c;admissions&#x0201d;; but views from the communities will influence our future
+approach.</p><p id="P57">Controlled human infections with known pathogens inevitably involve risks
+and possibly the burden of symptoms. Available mitigations in several examples
+reduced our risk scores only to moderate, rather than low: for example, symptomatic
+treatment and early abrogation of infection cannot reduce the likelihood of symptoms
+below common, but can reduce the impact of the symptoms. Such areas emphasise the
+need for caution &#x02013; for example, small group sizes and carefully monitored
+dose-escalation approaches.</p><p id="P58">We realize that symptoms may be different among Ugandan volunteers than
+among Dutch volunteers. Particularly, Katayama fever is considered less likely to
+occur in subjects from endemic, compared to subjects from non-endemic settings<xref rid="R1" ref-type="bibr">1</xref>. Nevertheless, we shall provide full
+information to potential volunteers about symptoms predicted from the literature,
+and those which occurred previously in the Dutch volunteers. We are currently
+piloting educational materials, volunteer information sheets, and tests of
+comprehension in order to ensure that Ugandan volunteers can be enrolled with
+genuine understanding and fully informed consent. As well, we shall work with
+community leaders and advisors to ensure optimal understanding of the work, and to
+mitigate the impact of rumours about the work which are likely to arise.</p><p id="P59">We conclude that, with careful risk management, CHI-S can be safely
+implemented in Uganda with a view to accelerating vaccine development against this
+important communicable disease.</p></sec><sec id="S11"><title>DisclaimerData availability</title><sec id="S12"><title>Underlying data</title><p id="P60">No data are associated with this article.</p></sec><sec id="S13"><title>Extended data</title><p id="P61">Open Science Framework: Controlled Human Infection Model &#x02013;
+Schistosomiasis. <ext-link ext-link-type="uri" xlink:href="https://dx.doi.org/10.17605/OSF.IO/53GT9">https://doi.org/10.17605/OSF.IO/53GT9</ext-link><xref rid="R9" ref-type="bibr">9</xref>
+</p><p id="P62">This project contains the following extended data:</p><list list-type="bullet" id="L3"><list-item><p id="P63"> Appendix 1.docx (risk assessment report addressing the intended
+transfer to and culturing of the snail <italic>Biomphalaria
+glabrata</italic> in Uganda)</p></list-item><list-item><p id="P64"> Appendix 2.docx (Summary of safety precautions for working with
+Schistosoma)</p></list-item></list><p id="P65">Data are available under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/publicdomain/zero/1.0/">Creative Commons Zero "No rights reserved" data
+waiver</ext-link> (CC0 1.0 Public domain dedication).</p></sec></sec></body><back><ack id="SA1"><title>Acknowledgements</title><p id="P66">We thank Dr A. J. de Winter of the Naturalis Biodiversity Center, Leiden,
+The Netherlands for his expert contribution on snail biology and we thank Dr. M.
+Berriman of Wellcome Trust Sanger Institute, Cambridge, UK for his expert
+contribution on the parasite.</p><sec id="SA2"><title>Grant Information</title><p id="PF1">The work was supported by a pump-priming grant from the HIC-Vac network.
+The HIC-Vac network is supported by the GCRF Networks in Vaccines Research &#x00026;
+Development, which is co-funded by the <funding-source>Medical Research Council</funding-source> (MRC) and the <funding-source>Biotechnology and Biological Sciences Research
+Council</funding-source> (BBSRC). This UK funded award is part of the EDCTP2
+programme supported by the European Union. The work also benefited from
+facilities provided and maintained by the Makerere University-Uganda Virus
+Research Institute Centre of Excellence for Infection and Immunity Research and
+Training (MUII). MUII is supported through the DELTAS Africa Initiative
+[107743]. The DELTAS Africa Initiative is an independent funding scheme of the
+African Academy of Sciences (AAS), Alliance for Accelerating Excellence in
+Science in Africa (AESA), and supported by the New Partnership for
+Africa&#x02019;s Development Planning and Coordinating Agency (NEPAD Agency) with
+funding from the <funding-source>Wellcome
+Trust</funding-source> [<award-id>107743</award-id>] and the UK Government.
+AME is a fellow of the African Academy of Sciences.</p><p id="PF2">
+<italic>The funders had no role in study design, data collection and analysis,
+decision to publish, or preparation of the manuscript.</italic>
+</p></sec></ack><ref-list><ref id="R1"><label>1</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Colley</surname><given-names>DG</given-names></name><name><surname>Bustinduy</surname><given-names>AL</given-names></name><name><surname>Secor</surname><given-names>WE</given-names></name><etal/></person-group>: <article-title>Human schistosomiasis.</article-title>
+<source><italic>Lancet.</italic></source>
+<year>2014</year>;<volume>383</volume>(<issue>9936</issue>):<fpage>2253</fpage>&#x02013;<lpage>64</lpage>.
+<pub-id pub-id-type="doi">10.1016/S0140-6736(13)61949-2</pub-id>
+<!--<pub-id pub-id-type="pmcid">4672382</pub-id>-->
+<pub-id pub-id-type="pmid">24698483</pub-id></mixed-citation></ref><ref id="R2"><label>2</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cohen</surname><given-names>J</given-names></name></person-group>: <article-title>Unfilled Vials.</article-title>
+<source><italic>Science.</italic></source>
+<year>2016</year>;<volume>351</volume>(<issue>6268</issue>):<fpage>16</fpage>&#x02013;<lpage>9</lpage>.
+<pub-id pub-id-type="doi">10.1126/science.351.6268.16</pub-id>
+<pub-id pub-id-type="pmid">26721985</pub-id></mixed-citation></ref><ref id="R3"><label>3</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Janse</surname><given-names>JJ</given-names></name><name><surname>Langenberg</surname><given-names>MCC</given-names></name><name><surname>Kos-Van Oosterhoud</surname><given-names>J</given-names></name><etal/></person-group>: <article-title>Establishing the Production of Male
+<italic>Schistosoma mansoni</italic> Cercariae for a Controlled Human
+Infection Model.</article-title>
+<source><italic>J Infect Dis.</italic></source>
+<year>2018</year>;<volume>218</volume>(<issue>7</issue>):<fpage>1142</fpage>&#x02013;<lpage>6</lpage>.
+<pub-id pub-id-type="doi">10.1093/infdis/jiy275</pub-id>
+<pub-id pub-id-type="pmid">29905805</pub-id></mixed-citation></ref><ref id="R4"><label>4</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Muyanja</surname><given-names>E</given-names></name><name><surname>Ssemaganda</surname><given-names>A</given-names></name><name><surname>Ngauv</surname><given-names>P</given-names></name><etal/></person-group>: <article-title>Immune activation alters cellular and humoral
+responses to yellow fever 17D vaccine.</article-title>
+<source><italic>J Clin Invest.</italic></source>
+<year>2014</year>;<volume>124</volume>(<issue>7</issue>):<fpage>3147</fpage>&#x02013;<lpage>58</lpage>.
+<pub-id pub-id-type="doi">10.1172/JCI75429</pub-id>
+<!--<pub-id pub-id-type="pmcid">4071376</pub-id>-->
+<pub-id pub-id-type="pmid">24911151</pub-id></mixed-citation></ref><ref id="R5"><label>5</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Black</surname><given-names>CL</given-names></name><name><surname>Mwinzi</surname><given-names>PN</given-names></name><name><surname>Muok</surname><given-names>EM</given-names></name><etal/></person-group>: <article-title>Influence of exposure history on the immunology
+and development of resistance to human Schistosomiasis
+mansoni.</article-title>
+<source><italic>PLoS Negl Trop Dis.</italic></source>
+<year>2010</year>;<volume>4</volume>(<issue>3</issue>):<fpage>e637</fpage>.
+<pub-id pub-id-type="doi">10.1371/journal.pntd.0000637</pub-id>
+<!--<pub-id pub-id-type="pmcid">2843635</pub-id>-->
+<pub-id pub-id-type="pmid">20351784</pub-id></mixed-citation></ref><ref id="R6"><label>6</label><mixed-citation publication-type="journal">
+<collab>PMA2020</collab>: <article-title>Schistosomiasis
+Monitoring in Uganda Round 2, October&#x02013;December
+2017</article-title>.<year>2017</year>
+<ext-link ext-link-type="uri" xlink:href="https://www.pma2020.org/sites/default/files/Schistosomiasis_Brief-Round%202.pdf">Reference Source</ext-link>
+</mixed-citation></ref><ref id="R7"><label>7</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Loewenberg</surname><given-names>S</given-names></name></person-group>: <article-title>Uganda's struggle with
+schistosomiasis.</article-title>
+<source><italic>Lancet.</italic></source>
+<year>2014</year>;<volume>383</volume>(<issue>9930</issue>):<fpage>1707</fpage>&#x02013;<lpage>8</lpage>.
+<pub-id pub-id-type="doi">10.1016/S0140-6736(14)60817-5</pub-id>
+<pub-id pub-id-type="pmid">24843875</pub-id></mixed-citation></ref><ref id="R8"><label>8</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Elliott</surname><given-names>AM</given-names></name><name><surname>Roestenberg</surname><given-names>M</given-names></name><name><surname>Wajja</surname><given-names>A</given-names></name><etal/></person-group>: <article-title>Ethical and scientific considerations on the
+establishment of a controlled human infection model for schistosomiasis in
+Uganda: report of a stakeholders&#x02019; meeting held in Entebbe, Uganda.
+[version 1; peer review: 2 approved].</article-title>
+<source><italic>AAS Open Res.</italic></source>
+<year>2018</year>;<volume>1</volume>:<fpage>2</fpage>.
+<pub-id pub-id-type="doi">10.12688/aasopenres.12841.1</pub-id>
+<!--<pub-id pub-id-type="pmcid">6358001</pub-id>-->
+<pub-id pub-id-type="pmid">30714021</pub-id></mixed-citation></ref><ref id="R9"><label>9</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cose</surname><given-names>S</given-names></name></person-group>: <article-title>Controlled Human Infection Model -
+Schistosomiasis</article-title>.<year>2019</year>
+<pub-id pub-id-type="doi">10.17605/OSF.IO/53GT9</pub-id>
+</mixed-citation></ref><ref id="R10"><label>10</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Adriko</surname><given-names>M</given-names></name><name><surname>Standley</surname><given-names>C</given-names></name><name><surname>Tinkitina</surname><given-names>B</given-names></name><etal/></person-group>: <article-title>Compatibility of Ugandan <italic>Schistosoma
+mansoni</italic> isolates with <italic>Biomphalaria</italic> snail
+species from lake Albert and lake Victoria.</article-title>
+<source><italic>Acta Tropdol.</italic></source>
+<year>2013</year>;<volume>128</volume>(<issue>2</issue>):<fpage>303</fpage>&#x02013;<lpage>8</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.actatropica.2013.02.014</pub-id>
+<pub-id pub-id-type="pmid">23454225</pub-id></mixed-citation></ref><ref id="R11"><label>11</label><mixed-citation publication-type="journal">
+<collab>WHO</collab>: <article-title>Guidance on regulations
+for the transport of infectious substances 2017-2018</article-title>.
+Geneva, Switzerland: World Health Organization; 2017. Licence: CC BY-NC-SA 3.0
+IGO.2017. Accessed 23rd May 2019. <ext-link ext-link-type="uri" xlink:href="https://www.who.int/ihr/publications/WHO-WHE-CPI-2017.8/en/">Reference Source</ext-link>
+</mixed-citation></ref><ref id="R12"><label>12</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Jarne</surname><given-names>P</given-names></name><name><surname>Finot</surname><given-names>L</given-names></name><name><surname>Delay</surname><given-names>B</given-names></name><etal/></person-group>: <article-title>Self-Fertilization Versus Cross-Fertilization in
+the Hermaphroditic Freshwater Snail <italic>Bulinus
+Globosus</italic>.</article-title>
+<source><italic>Evolution.</italic></source>
+<year>1991</year>;<volume>45</volume>(<issue>5</issue>):<fpage>1136</fpage>&#x02013;<lpage>46</lpage>.
+<pub-id pub-id-type="doi">10.1111/j.1558-5646.1991.tb04380.x</pub-id>
+<pub-id pub-id-type="pmid">28564176</pub-id></mixed-citation></ref><ref id="R13"><label>13</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Crellen</surname><given-names>T</given-names></name><name><surname>Walker</surname><given-names>M</given-names></name><name><surname>Lamberton</surname><given-names>PH</given-names></name><etal/></person-group>: <article-title>Reduced Efficacy of Praziquantel Against
+Schistosoma mansoni Is Associated With Multiple Rounds of Mass Drug
+Administration.</article-title>
+<source><italic>Clin Infect Dis.</italic></source>
+<year>2016</year>;<volume>63</volume>(<issue>9</issue>):<fpage>1151</fpage>&#x02013;<lpage>9</lpage>.
+<pub-id pub-id-type="doi">10.1093/cid/ciw506</pub-id>
+<!--<pub-id pub-id-type="pmcid">5064161</pub-id>-->
+<pub-id pub-id-type="pmid">27470241</pub-id></mixed-citation></ref><ref id="R14"><label>14</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Barenbold</surname><given-names>O</given-names></name><name><surname>Raso</surname><given-names>G</given-names></name><name><surname>Coulibaly</surname><given-names>JT</given-names></name><etal/></person-group>: <article-title>Estimating sensitivity of the Kato-Katz
+technique for the diagnosis of <italic>Schistosoma mansoni</italic> and
+hookworm in relation to infection intensity.</article-title>
+<source><italic>PLoS Negl Trop Dis.</italic></source>
+<year>2017</year>;<volume>11</volume>(<issue>10</issue>):<fpage>e0005953</fpage>.
+<pub-id pub-id-type="doi">10.1371/journal.pntd.0005953</pub-id>
+<!--<pub-id pub-id-type="pmcid">5643140</pub-id>-->
+<pub-id pub-id-type="pmid">28976979</pub-id></mixed-citation></ref><ref id="R15"><label>15</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Njue</surname><given-names>M</given-names></name><name><surname>Njuguna</surname><given-names>P</given-names></name><name><surname>Kapulu</surname><given-names>MC</given-names></name><etal/></person-group>: <article-title>Ethical considerations in Controlled Human
+Malaria Infection studies in low resource settings: Experiences and
+perceptions of study participants in a malaria Challenge study in Kenya
+[version 2; peer review: 2 approved].</article-title>
+<source><italic>Wellcome Open Res.</italic></source>
+<year>2018</year>;<volume>3</volume>:<fpage>39</fpage>.
+<pub-id pub-id-type="doi">10.12688/wellcomeopenres.14439.2</pub-id>
+<!--<pub-id pub-id-type="pmcid">5954342.2</pub-id>-->
+<pub-id pub-id-type="pmid">29806038</pub-id></mixed-citation></ref><ref id="R16"><label>16</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Langenberg</surname><given-names>MCC</given-names></name><name><surname>Hoogerwerf</surname><given-names>MA</given-names></name><name><surname>Janse</surname><given-names>JJ</given-names></name><etal/></person-group>: <article-title>Katayama Syndrome Without <italic>Schistosoma
+mansoni</italic> Eggs.</article-title>
+<source><italic>Ann Intern Med.</italic></source>
+<year>2019</year>.
+<pub-id pub-id-type="doi">10.7326/L18-0438</pub-id>
+<pub-id pub-id-type="pmid">30615787</pub-id></mixed-citation></ref><ref id="R17"><label>17</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hodgson</surname><given-names>SH</given-names></name><name><surname>Juma</surname><given-names>E</given-names></name><name><surname>Salim</surname><given-names>A</given-names></name><etal/></person-group>: <article-title>Lessons learnt from the first controlled human
+malaria infection study conducted in Nairobi, Kenya.</article-title>
+<source><italic>Malar J.</italic></source>
+<year>2015</year>;<volume>14</volume>:<fpage>182</fpage>.
+<pub-id pub-id-type="doi">10.1186/s12936-015-0671-x</pub-id>
+<!--<pub-id pub-id-type="pmcid">4416324</pub-id>-->
+<pub-id pub-id-type="pmid">25927522</pub-id></mixed-citation></ref><ref id="R18"><label>18</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gordon</surname><given-names>SB</given-names></name><name><surname>Chinula</surname><given-names>L</given-names></name><name><surname>Chilima</surname><given-names>B</given-names></name><etal/></person-group>: <article-title>A Malawi guideline for research study
+participant remuneration.</article-title>
+<source><italic> Wellcome Open Res.</italic></source>
+<year>2018</year>;<volume>3</volume>:<fpage>141</fpage>.
+<pub-id pub-id-type="doi">10.12688/wellcomeopenres.14668.2</pub-id>
+<!--<pub-id pub-id-type="pmcid">6329041</pub-id>-->
+<pub-id pub-id-type="pmid">30662959</pub-id></mixed-citation></ref></ref-list></back><floats-group><table-wrap orientation="portrait" id="T1" position="float"><label>Table 1. </label><caption><title>Risks associated with shipping of <italic>Schistosoma mansoni</italic>
+parasites and <italic>Biomphalaria glabrata</italic> snails.</title></caption><table frame="hsides" rules="groups" content-type="article-table"><thead><tr><th align="left" rowspan="2" valign="top" colspan="1">Risk</th><th align="left" colspan="2" valign="top" rowspan="1">Inherent risk
+score</th><th align="left" rowspan="2" valign="top" colspan="1">Total <break/>inherent
+risk</th><th align="left" rowspan="2" valign="top" colspan="1">Controls</th><th align="left" colspan="2" valign="top" rowspan="1">Residual risk
+score</th><th align="left" rowspan="2" valign="top" colspan="1">Total risk
+<break/>post control</th></tr><tr><th align="left" valign="top" rowspan="1" colspan="1">Likelihood</th><th align="left" valign="top" rowspan="1" colspan="1">Impact</th><th align="left" valign="top" rowspan="1" colspan="1">Likelihood</th><th align="left" valign="top" rowspan="1" colspan="1">Impact</th></tr></thead><tbody><tr><td align="left" valign="top" rowspan="1" colspan="1">Death of snails in
+<break/>transport</td><td align="left" valign="top" rowspan="1" colspan="1">Likely</td><td align="left" valign="top" rowspan="1" colspan="1">Critical</td><td align="left" style=":background-color: #FF0000;" valign="top" rowspan="1" colspan="1">20</td><td align="left" valign="top" rowspan="1" colspan="1">Pilot transport with
+low numbers <break/>of snails to optimize transport
+<break/>conditions</td><td align="left" valign="top" rowspan="1" colspan="1">Possible </td><td align="left" valign="top" rowspan="1" colspan="1">Critical</td><td align="left" style=":background-color: #FFFF00;" valign="top" rowspan="1" colspan="1">15</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Delays in customs
+<break/>clearance</td><td align="left" valign="top" rowspan="1" colspan="1">Likely</td><td align="left" valign="top" rowspan="1" colspan="1">Major</td><td align="left" style=":background-color: #FFFF00;" valign="top" rowspan="1" colspan="1">16</td><td align="left" valign="top" rowspan="1" colspan="1">Contacting customs
+<break/>officials to discuss required <break/>documentations and
+preparing <break/>documents prior to shipment</td><td align="left" valign="top" rowspan="1" colspan="1">Possible</td><td align="left" valign="top" rowspan="1" colspan="1">Major</td><td align="left" style=":background-color: #FFFF00;" valign="top" rowspan="1" colspan="1">12</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Spill of infectious
+<break/>materials and non- <break/>indigenous snail species</td><td align="left" valign="top" rowspan="1" colspan="1">Possible</td><td align="left" valign="top" rowspan="1" colspan="1">Major</td><td align="left" style=":background-color: #FFFF00;" valign="top" rowspan="1" colspan="1">12</td><td align="left" valign="top" rowspan="1" colspan="1">Proper packaging</td><td align="left" valign="top" rowspan="1" colspan="1">Unlikely</td><td align="left" valign="top" rowspan="1" colspan="1">Moderate</td><td align="left" style=":background-color: #00B050;" valign="top" rowspan="1" colspan="1">6</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Establishment of a <break/>
+<italic>B. glabrata</italic> colony <break/>outside laboratory
+facility</td><td align="left" valign="top" rowspan="1" colspan="1">Possible</td><td align="left" valign="top" rowspan="1" colspan="1">Critical</td><td align="left" style=":background-color: #FFFF00;" valign="top" rowspan="1" colspan="1">15</td><td align="left" valign="top" rowspan="1" colspan="1">Proper packaging</td><td align="left" valign="top" rowspan="1" colspan="1">Rare </td><td align="left" valign="top" rowspan="1" colspan="1">Critical</td><td align="left" style=":background-color: #00B050;" valign="top" rowspan="1" colspan="1">5</td></tr></tbody></table><table-wrap-foot><fn id="TFN3"><p id="P23">Likelihood was scored as almost certain/common, 5; likely, 4;
+possible, 3; unlikely, 2; rare, 1. Impact was scored as critical, 5; major,
+4; moderate, 3; minor, 2; insignificant 1.</p></fn></table-wrap-foot></table-wrap><table-wrap orientation="portrait" id="T2" position="float"><label>Table 2. </label><caption><title>Risks associated with snail culture facilities.</title></caption><table frame="hsides" rules="groups" content-type="article-table"><thead><tr><th align="left" rowspan="2" valign="top" colspan="1">Risk</th><th align="left" colspan="2" valign="top" rowspan="1">Inherent risk
+score</th><th align="left" rowspan="2" valign="top" colspan="1">Total <break/>inherent
+risk</th><th align="left" rowspan="2" valign="top" colspan="1">Controls</th><th align="left" colspan="2" valign="top" rowspan="1">Residual risk
+score</th><th align="left" rowspan="2" valign="top" colspan="1">Total risk
+<break/>post control</th></tr><tr><th align="left" valign="top" rowspan="1" colspan="1">Likelihood</th><th align="left" valign="top" rowspan="1" colspan="1">Impact</th><th align="left" valign="top" rowspan="1" colspan="1">Likelihood</th><th align="left" valign="top" rowspan="1" colspan="1">Impact</th></tr></thead><tbody><tr><td align="left" valign="top" rowspan="1" colspan="1">Spread of
+<italic>Biomphalaria</italic>
+<break/>
+<italic>glabrata</italic> snail to environment</td><td align="left" valign="top" rowspan="1" colspan="1">Possible</td><td align="left" valign="top" rowspan="1" colspan="1">Critical</td><td align="left" style=":background-color: #FFFF00;" valign="top" rowspan="1" colspan="1">15</td><td align="left" valign="top" rowspan="1" colspan="1">1)&#x000a0;&#x000a0;Precautionary measures <break/>for snail housing facility
+<break/>including physical barriers <break/>and restricted access
+<break/>2)&#x000a0;&#x000a0;Use of SOPs regarding <break/>disposal of
+infectious <break/>material and non- <break/>indigenous snail
+species</td><td align="left" valign="top" rowspan="1" colspan="1">Rare</td><td align="left" valign="top" rowspan="1" colspan="1">Critical</td><td align="left" style=":background-color: #00B050;" valign="top" rowspan="1" colspan="1">5</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Establishment of a
+<italic>B. glabrata</italic>
+<break/>colony outside laboratory <break/>facility</td><td align="left" valign="top" rowspan="1" colspan="1">Possible</td><td align="left" valign="top" rowspan="1" colspan="1">Critical</td><td align="left" style=":background-color: #FFFF00;" valign="top" rowspan="1" colspan="1">15</td><td align="left" valign="top" rowspan="1" colspan="1">1)&#x000a0;&#x000a0;Development of <break/>containment strategies</td><td align="left" valign="top" rowspan="1" colspan="1">Rare </td><td align="left" valign="top" rowspan="1" colspan="1">Critical</td><td align="left" style=":background-color: #00B050;" valign="top" rowspan="1" colspan="1">5</td></tr></tbody></table><table-wrap-foot><fn id="TFN4"><p id="P31">Likelihood was scored as almost certain/common, 5; likely, 4;
+possible, 3; unlikely, 2; rare, 1. Impact was scored as critical, 5; major,
+4; moderate, 3; minor, 2; insignificant 1.</p></fn></table-wrap-foot></table-wrap><table-wrap orientation="portrait" id="T3" position="float"><label>Table 3. </label><caption><title>Risks associated with re-establishing Uganda <italic>Schistosoma
+mansoni</italic> life cycle.</title></caption><table frame="hsides" rules="groups" content-type="article-table"><thead><tr><th align="left" rowspan="2" valign="top" colspan="1">Risk</th><th align="left" colspan="2" valign="top" rowspan="1">Inherent risk
+score</th><th align="left" rowspan="2" valign="top" colspan="1">Total <break/>inherent
+<break/>risk</th><th align="left" rowspan="2" valign="top" colspan="1">Controls</th><th align="left" colspan="2" valign="top" rowspan="1">Residual risk
+score</th><th align="left" rowspan="2" valign="top" colspan="1">Total <break/>risk
+post <break/>control</th></tr><tr><th align="left" valign="top" rowspan="1" colspan="1">Likelihood</th><th align="left" valign="top" rowspan="1" colspan="1">Impact</th><th align="left" valign="top" rowspan="1" colspan="1">Likelihood</th><th align="left" valign="top" rowspan="1" colspan="1">Impact</th></tr></thead><tbody><tr><td align="left" valign="top" rowspan="1" colspan="1">New isolates of
+<italic>S. mansoni</italic>
+<break/>from the Ugandan population <break/>might exhibit variable
+<break/>praziquantel susceptibility, or <break/>praziquantel
+resistance</td><td align="left" valign="top" rowspan="1" colspan="1">Possible</td><td align="left" valign="top" rowspan="1" colspan="1">Critical</td><td align="left" style=":background-color: #FFFF00;" valign="top" rowspan="1" colspan="1">15</td><td align="left" valign="top" rowspan="1" colspan="1">1)&#x000a0;&#x000a0;Test new
+isolates for praziquantel <break/>susceptibility <italic>in
+vitro</italic> and in an <break/>animal model before use in CHI</td><td align="left" valign="top" rowspan="1" colspan="1">Unlikely</td><td align="left" valign="top" rowspan="1" colspan="1">Critical</td><td align="left" style=":background-color: #FFFF00;" valign="top" rowspan="1" colspan="1">10</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">New isolates of
+<italic>S. mansoni</italic>
+<break/>from the Ugandan population <break/>might exhibit unexpected
+<break/>virulence</td><td align="left" valign="top" rowspan="1" colspan="1">Possible</td><td align="left" valign="top" rowspan="1" colspan="1">Critical</td><td align="left" style=":background-color: #FFFF00;" valign="top" rowspan="1" colspan="1">15</td><td align="left" valign="top" rowspan="1" colspan="1">1)&#x000a0;&#x000a0;Test new
+isolates for relative <break/>virulence in an animal model
+<break/>before use in CHI</td><td align="left" valign="top" rowspan="1" colspan="1">Unlikely</td><td align="left" valign="top" rowspan="1" colspan="1">Critical</td><td align="left" style=":background-color: #FFFF00;" valign="top" rowspan="1" colspan="1">10</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Production processes
+based <break/>on GMP principles for single- <break/>sex infectious
+cercariae not <break/>established in Uganda</td><td align="left" valign="top" rowspan="1" colspan="1">Possible</td><td align="left" valign="top" rowspan="1" colspan="1">Critical</td><td align="left" style=":background-color: #FFFF00;" valign="top" rowspan="1" colspan="1">15</td><td align="left" valign="top" rowspan="1" colspan="1">1)&#x000a0;&#x000a0;Development of appropriate <break/>animal and snail
+facilities <break/>2)&#x000a0;&#x000a0;Training of Ugandan staff
+<break/>3)&#x000a0;&#x000a0;Monitoring and review by <break/>experienced LUMC
+collaborators <break/>4)&#x000a0;&#x000a0;Monitoring and review by
+<break/>Ugandan regulators</td><td align="left" valign="top" rowspan="1" colspan="1">Rare </td><td align="left" valign="top" rowspan="1" colspan="1">Critical</td><td align="left" style=":background-color: #00B050;" valign="top" rowspan="1" colspan="1">5</td></tr></tbody></table><table-wrap-foot><fn id="TFN5"><p id="P35">Likelihood was scored as almost certain/common, 5; likely, 4;
+possible, 3; unlikely, 2; rare, 1. Impact was scored as critical, 5; major,
+4; moderate, 3; minor, 2; insignificant 1.</p></fn></table-wrap-foot></table-wrap><table-wrap orientation="portrait" id="T4" position="float"><label>Table 4. </label><caption><title>Risks associated with natural infection during trial period.</title></caption><table frame="hsides" rules="groups" content-type="article-table"><thead><tr><th align="left" rowspan="2" valign="top" colspan="1">Risk</th><th align="left" colspan="2" valign="top" rowspan="1">Inherent risk
+score</th><th align="left" rowspan="2" valign="top" colspan="1">Total <break/>inherent
+<break/>risk</th><th align="left" rowspan="2" valign="top" colspan="1">Controls</th><th align="left" colspan="2" valign="top" rowspan="1">Residual risk
+score</th><th align="left" rowspan="2" valign="top" colspan="1">Total <break/>risk
+post <break/>control</th></tr><tr><th align="left" valign="top" rowspan="1" colspan="1">Likelihood</th><th align="left" valign="top" rowspan="1" colspan="1">Impact</th><th align="left" valign="top" rowspan="1" colspan="1">Likelihood</th><th align="left" valign="top" rowspan="1" colspan="1">Impact</th></tr></thead><tbody><tr><td align="left" valign="top" rowspan="1" colspan="1">Mixed sex
+<break/>infection <break/>in trial <break/>volunteers </td><td align="left" valign="top" rowspan="1" colspan="1">Likely</td><td align="left" valign="top" rowspan="1" colspan="1">Moderate <xref rid="P45" ref-type="other">*</xref>
+</td><td align="left" style=":background-color: #FFFF00;" valign="top" rowspan="1" colspan="1">12</td><td align="left" valign="top" rowspan="1" colspan="1">1)&#x000a0;&#x000a0;Avoidance of fresh water bodies during trial
+<break/>period <break/>2)&#x000a0;&#x000a0;Pilot survey to establish
+feasibility of fresh <break/>water avoidance
+<break/>3)&#x000a0;&#x000a0;Selection of trial volunteers with low risk of
+<break/>contracting natural infection <break/>4)&#x000a0;&#x000a0;Abrogation
+of infection as soon as the trial <break/>endpoint has been reached
+(e.g. CAA&#x0003e; 1 pg/mL) <break/>5)&#x000a0;&#x000a0;Displacement of volunteers
+to non-endemic <break/>setting with excellent water and sanitation
+<break/>facilities</td><td align="left" valign="top" rowspan="1" colspan="1">Rare</td><td align="left" valign="top" rowspan="1" colspan="1">Moderate</td><td align="left" style=":background-color: #00B050;" valign="top" rowspan="1" colspan="1">3</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Mixed sex
+<break/>infection <break/>in trial <break/>volunteers <break/>leading to
+<break/>release of <break/>Puerto Rican <break/>strain into
+<break/>environment </td><td align="left" valign="top" rowspan="1" colspan="1">Likely</td><td align="left" valign="top" rowspan="1" colspan="1">Moderate</td><td align="left" style=":background-color: #FFFF00;" valign="top" rowspan="1" colspan="1">12</td><td align="left" valign="top" rowspan="1" colspan="1">1)&#x000a0;&#x000a0;Full
+clearance of infections before trial starts
+<break/>2)&#x000a0;&#x000a0;Continuous screening for egg production
+<break/>3)&#x000a0;&#x000a0;Abrogation of infection as soon as the trial
+<break/>endpoint has been reached (e.g. CAA&#x0003e; 1 pg/mL)
+<break/>4)&#x000a0;&#x000a0;Displacement of volunteers to non-endemic
+<break/>setting with excellent water and sanitation
+<break/>facilities.</td><td align="left" valign="top" rowspan="1" colspan="1">Rare</td><td align="left" valign="top" rowspan="1" colspan="1">Moderate</td><td align="left" style=":background-color: #00B050;" valign="top" rowspan="1" colspan="1">3</td></tr></tbody></table><table-wrap-foot><fn id="TFN6"><p id="P44">Likelihood was scored as almost certain/common, 5; likely, 4;
+possible, 3; unlikely, 2; rare, 1. Impact was scored as critical, 5; major,
+4; moderate, 3; minor, 2; insignificant 1.</p><p id="P45">* The impact of natural co-infection on morbidity is classed as
+moderate (rather than major or critical) since volunteers who acquire such
+an infection would presumably be at risk of mixed-sex natural infections as
+a result of their usual behaviours and occupation. The risk of egg-related
+morbidity due to the presence of male worms from the CHI-S would therefore
+add little to the risk resulting from exposure to natural infection. CAA -
+circulating anodic antigen</p></fn></table-wrap-foot></table-wrap><table-wrap orientation="portrait" id="T5" position="float"><label>Table 5. </label><caption><title>Risks associated with controlled human infection with <italic>Schistosoma
+mansoni</italic>.</title></caption><table frame="hsides" rules="groups" content-type="article-table"><thead><tr><th align="left" rowspan="2" valign="top" colspan="1">Risk</th><th align="left" colspan="2" valign="top" rowspan="1">Inherent risk
+score</th><th align="left" rowspan="2" valign="top" colspan="1">Total <break/>inherent
+<break/>risk</th><th align="left" rowspan="2" valign="top" colspan="1">Controls</th><th align="left" colspan="2" valign="top" rowspan="1">Residual risk
+score</th><th align="left" rowspan="2" valign="top" colspan="1">Total <break/>risk
+post <break/>control</th></tr><tr><th align="left" valign="top" rowspan="1" colspan="1">Likelihood</th><th align="left" valign="top" rowspan="1" colspan="1">Impact</th><th align="left" valign="top" rowspan="1" colspan="1">Likelihood</th><th align="left" valign="top" rowspan="1" colspan="1">Impact</th></tr></thead><tbody><tr><td align="left" valign="top" rowspan="1" colspan="1"> Symptoms related
+<break/>to infection</td><td align="left" valign="top" rowspan="1" colspan="1">Common</td><td align="left" valign="top" rowspan="1" colspan="1">Major</td><td align="left" style=":background-color: #FF0000;" valign="top" rowspan="1" colspan="1">20</td><td align="left" valign="top" rowspan="1" colspan="1">1)&#x000a0;&#x000a0;Slow
+dose escalation in modest <break/>increments
+<break/>2)&#x000a0;&#x000a0;Frequent follow up visits and collection of
+<break/>adverse events. <break/>3)&#x000a0;&#x000a0;Clinical assessment and
+routine safety <break/>lab. <break/>4)&#x000a0;&#x000a0;Symptomatic treatment
+with <break/>corticosteroids or abrogating infection <break/>with
+praziquantel (which kills adult <break/>worms) if needed.
+<break/>5)&#x000a0;&#x000a0;Abrogate infection with artesunate (which
+<break/>kills immature forms)</td><td align="left" valign="top" rowspan="1" colspan="1">Common</td><td align="left" valign="top" rowspan="1" colspan="1">Moderate</td><td align="left" style=":background-color: #FFFF00;" valign="top" rowspan="1" colspan="1">15</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Symptoms related
+<break/>to treatment with <break/>praziquantel</td><td align="left" valign="top" rowspan="1" colspan="1">Common</td><td align="left" valign="top" rowspan="1" colspan="1">Moderate</td><td align="left" style=":background-color: #FFFF00;" valign="top" rowspan="1" colspan="1">15</td><td align="left" valign="top" rowspan="1" colspan="1">1)&#x000a0;&#x000a0;Take
+praziquantel with food <break/>2)&#x000a0;&#x000a0;Clinical assessment,
+reassurance, <break/>symptomatic relief if needed</td><td align="left" valign="top" rowspan="1" colspan="1">Common</td><td align="left" valign="top" rowspan="1" colspan="1">Minor</td><td align="left" style=":background-color: #FFFF00;" valign="top" rowspan="1" colspan="1">10</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Misunderstanding
+<break/>of the nature of <break/>CHI-S studies</td><td align="left" valign="top" rowspan="1" colspan="1">Likely</td><td align="left" valign="top" rowspan="1" colspan="1">Critical</td><td align="left" style=":background-color: #FF0000;" valign="top" rowspan="1" colspan="1">20</td><td align="left" valign="top" rowspan="1" colspan="1">1)&#x000a0;&#x000a0;Education of community leaders, opinion <break/>makers
+and regulators <break/>2)&#x000a0;&#x000a0;Work with community advisory board
+<break/>3)&#x000a0;&#x000a0;Education of potential volunteers using
+<break/>tested materials <break/>4)&#x000a0;&#x000a0;Informed consent verified
+with tests of <break/>comprehension</td><td align="left" valign="top" rowspan="1" colspan="1">Possible</td><td align="left" valign="top" rowspan="1" colspan="1">Major</td><td align="left" style=":background-color: #FFFF00;" valign="top" rowspan="1" colspan="1">12</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Inappropriate
+<break/>remuneration <break/>leading to coerced
+<break/>participation</td><td align="left" valign="top" rowspan="1" colspan="1">Possible</td><td align="left" valign="top" rowspan="1" colspan="1">Moderate</td><td align="left" style=":background-color: #00B050;" valign="top" rowspan="1" colspan="1">9</td><td align="left" valign="top" rowspan="1" colspan="1">1) Formative research
+to determine <break/>appropriate remuneration</td><td align="left" valign="top" rowspan="1" colspan="1">Unlikely</td><td align="left" valign="top" rowspan="1" colspan="1">Moderate</td><td align="left" style=":background-color: #00B050;" valign="top" rowspan="1" colspan="1">6</td></tr></tbody></table><table-wrap-foot><fn id="TFN7"><p id="P50">Likelihood was scored as almost certain/common, 5; likely, 4;
+possible, 3; unlikely, 2; rare, 1. Impact was scored as critical, 5; major,
+4; moderate, 3; minor, 2; insignificant 1.</p></fn></table-wrap-foot></table-wrap></floats-group><sub-article id="REPORT27120" article-type="peer-review"><front-stub><article-id pub-id-type="doi">10.21956/aasopenres.14072.r27120</article-id><title-group><article-title>Reviewer response for version 2</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Harn</surname><given-names>Donald</given-names></name><xref ref-type="aff" rid="A7">1</xref><role>Referee</role></contrib><aff id="A7">
+<label>1</label>Department of Infectious Diseases, College of Veterinary
+Medicine, Center for Tropical and Emerging Global Diseases, University of
+Georgia, Athens, GA, USA</aff></contrib-group><author-notes><fn fn-type="COI-statement" id="FN8"><p id="P67">
+<bold>Competing interests: </bold>No competing interests were disclosed.</p></fn></author-notes><pub-date pub-type="epub"><day>21</day><month>8</month><year>2019</year></pub-date><permissions><license xlink:href="http://creativecommons.org/licenses/by/4.0/"><license-p>This is an open access peer review report distributed under the terms
+of the Creative Commons Attribution Licence, which permits unrestricted use,
+distribution, and reproduction in any medium, provided the original work is
+properly cited.</license-p></license></permissions><custom-meta-group><custom-meta><meta-name>recommendation</meta-name><meta-value>approve</meta-value></custom-meta></custom-meta-group></front-stub><body><p id="P68">I confirm that I have read this submission and believe that I have an
+appropriate level of expertise to confirm that it is of an acceptable scientific
+standard.</p></body></sub-article><sub-article id="REPORT26958" article-type="peer-review"><front-stub><article-id pub-id-type="doi">10.21956/aasopenres.14053.r26958</article-id><title-group><article-title>Reviewer response for version 1</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Harn</surname><given-names>Donald</given-names></name><xref ref-type="aff" rid="A8">1</xref><role>Referee</role></contrib><aff id="A8">
+<label>1</label>Department of Infectious Diseases, College of Veterinary
+Medicine, Center for Tropical and Emerging Global Diseases, University of
+Georgia, Athens, GA, USA</aff></contrib-group><author-notes><fn fn-type="COI-statement" id="FN9"><p id="P69">
+<bold>Competing interests: </bold>No competing interests were disclosed.</p></fn></author-notes><pub-date pub-type="epub"><day>26</day><month>6</month><year>2019</year></pub-date><permissions><license xlink:href="http://creativecommons.org/licenses/by/4.0/"><license-p>This is an open access peer review report distributed under the terms
+of the Creative Commons Attribution Licence, which permits unrestricted use,
+distribution, and reproduction in any medium, provided the original work is
+properly cited.</license-p></license></permissions><custom-meta-group><custom-meta><meta-name>recommendation</meta-name><meta-value>approve-with-reservations</meta-value></custom-meta></custom-meta-group></front-stub><body><p id="P70">Overall, the authors have put together 3 different scenarios that would
+eventually provide for controlled human infections with male schistosomes in Uganda.
+The authors present good rationale for why such CHI may be valuable for vaccine
+trials, and I generally agree with their rationale.&#x000a0;</p><p id="P71"> The authors produced a document that attempts to summarize the risks
+associated with each scenario and how they would be reduced if proper interventions
+were imposed. Overall, a nicely written paper that concludes that &#x0201c;Option
+2&#x0201d; introducing the Puerto Rican strain of&#x000a0; <italic>Schistosoma
+mansoni</italic>into Ugandan labs, and possibly the ecology, is the best way
+forward. I disagree with this assessment as outlined here and feel that the more
+costly (initially) &#x0201c;Option 3&#x0201d; is the best way forward to minimize
+unknown potential ecological risks.&#x000a0;</p><p id="P72"> A few things concern me. One, the authors state &#x0201c;The level of risk
+and effectiveness of proposed controls was determined by consensus between the
+authors.&#x0201d; Some of these authors were involved in establishing CHI in Dutch
+volunteers in Leiden. However, I am concerned with the level of expertise the
+authors have in ecology or ecologic modeling to accurately assess the likelihood of
+introduction of new parasite or snail into the environment, and the impact of such
+new species into the Ugandan environment?</p><p id="P73"> For Option 3 the authors state&#x0201c;There are however several challenges
+with using Ugandan snails and isolates. With regard to Ugandan snail species, there
+is variability between snail species in susceptibility to S. mansoni
+infection;&#x0201d;&#x000a0;&#x000a0;Wouldn&#x02019;t this concern be the same for option
+2.?</p><p id="P74"> Also under Option 3, the authors state &#x0201c;With regard to the new
+schistosome laboratory strain, the characteristics of this would be unknown in terms
+of virulence and susceptibility to praziquantel treatment. Determining these
+characteristics would not be simple, since validated tests for schistosome
+resistance are currently not available. In addition, the new isolate would not be
+clonal and variability within the newly collected schistosome population might
+result in variable responses in the host, and to drug treatment. In addition,
+dose-finding studies would start from scratch to find the balance between
+tolerability and attack rate.&#x0201d;</p><p id="P75"> I find all of these arguments not justifiable. Determining susceptibility
+to PZQ in their animal model is straightforward and they can do this. They can
+easily produce a clone or clones of schistosomes to initiate these studies. Yes,
+infectious dose studies will have to start from scratch, but in reality, as this is
+an endemic population, not Dutch volunteers, this will have to be done with Ugandans
+anyway.</p><p id="P76"> In the &#x0201c;Natural Infection during trial period&#x0201d; the authors
+note that at some point they may introduce female cercariae infections. Are they
+implying single-sex female cercariae infections? Later in this section the authors
+note that infected individuals should avoid any contact with schistosome
+contaminated water. How feasible is this? Much of the risk here will depend on the
+residence of the cohorts for the Ugandan CHI trials. If the volunteers are urban,
+with little to no chance of encountering contaminated water, this point is moot and
+perhaps the authors have considered this as a likely way to mitigate this potential
+problem.</p><p id="P77"> General, the Tables are informative. I may have missed this but, it is not
+clear to me how the authors determined the reduced &#x0201c;Total risk post
+control&#x0201d; score? We can see large swings in score from initial &#x0201c;Total
+inherent risk&#x0201d; to the score for &#x0201c;Total risk post control&#x0201d; but
+do not have a numerical rationale mentioned or discussed for why this lower
+score.</p><p id="P78"> Minor:</p><p id="P79"> Potent should be patent</p><p id="P80"> Hybridisation with local schistosome population unlikely to result in
+praziquantel resistance? Maybe true, but you still have created a hybrid
+parasite.</p><p id="P81"> Under &#x0201c;Option 1: snail culture facilities, potential ecological
+harm&#x0201d; page 5, first paragraph, line 4 should be corrected to read
+&#x0201c;access to the laboratory should&#x000a0;
+<bold>be</bold>&#x000a0;controlled&#x02026;&#x0201d;</p><p id="P82">I confirm that I have read this submission and believe that I have an
+appropriate level of expertise to confirm that it is of an acceptable scientific
+standard, however I have significant reservations, as outlined above.</p></body><sub-article id="COMMENT3117" article-type="peer-review"><front-stub><contrib-group><contrib contrib-type="author"><name><surname>Elliott</surname><given-names>Alison</given-names></name><aff id="A9">Uganda Virus Research Institute, Uganda</aff></contrib></contrib-group><author-notes><fn fn-type="COI-statement" id="FN10"><p id="P83">
+<bold>Competing interests: </bold>No competing interests were
+disclosed.</p></fn></author-notes><pub-date pub-type="epub"><day>5</day><month>8</month><year>2019</year></pub-date></front-stub><body><p id="P84">
+<bold>We thank Dr Harn for his review.&#x000a0; Our response is as follows.</bold>
+</p><p id="P85"> Comment. The authors produced a document that attempts to summarize the
+risks associated with each scenario and how they would be reduced if proper
+interventions were imposed. Overall, a nicely written paper that concludes that
+&#x0201c;Option 2&#x0201d; introducing the Puerto Rican strain of Schistosoma
+mansoni into Ugandan labs, and possibly the ecology, is the best way forward. I
+disagree with this assessment as outlined here and feel that the more costly
+(initially) &#x0201c;Option 3&#x0201d; is the best way forward to minimize unknown
+potential ecological risks.</p><p id="P86"> Response. We agree that the choice between the safety concerns on the
+one hand and the ecological risk on the other, is a challenging one. We also
+understand from this comment that we have not been clear about why, on balance,
+we prefer option 2. We have extended the paragraph in the discussion on this
+decision to be more specific about why this is our current preference.</p><p id="P87"> Comment. A few things concern me. One, the authors state &#x0201c;The
+level of risk and effectiveness of proposed controls was determined by consensus
+between the authors.&#x0201d; Some of these authors were involved in establishing
+CHI in Dutch volunteers in Leiden. However, I am concerned with the level of
+expertise the authors have in ecology or ecologic modeling to accurately assess
+the likelihood of introduction of new parasite or snail into the environment,
+and the impact of such new species into the Ugandan environment?</p><p id="P88"> Response. We agree that we, the authors, have little experience in
+assessment of ecological risks. For these parts of the risk assessment, we
+therefore consulted relevant ecologists and geneticists including Dr A. J. de
+Winter (Naturalis Biodiversity Center, Leiden, The Netherlands) regarding the
+snails and Dr. M. Berriman (Wellcome Trust Sanger Institute, UK) regarding the
+parasite. To make this clear, we have better outlined the considerations. With
+his permission, we have added Dr. Berriman to the acknowledgements.</p><p id="P89"> Comment. For Option 3 the authors state &#x0201c;There are however
+several challenges with using Ugandan snails and isolates. With regard to
+Ugandan snail species, there is variability between snail species in
+susceptibility to S. mansoni infection;&#x0201d;&#x000a0; Wouldn&#x02019;t this
+concern be the same for option 2.?</p><p id="P90"> Response. This is correct. We have adjusted accordingly and mention
+this concern for option 2 as well.</p><p id="P91"> Comment. Also under Option 3, the authors state &#x0201c;With regard to
+the new schistosome laboratory strain, the characteristics of this would be
+unknown in terms of virulence and susceptibility to praziquantel treatment.
+Determining these characteristics would not be simple, since validated tests for
+schistosome resistance are currently not available. In addition, the new isolate
+would not be clonal and variability within the newly collected schistosome
+population might result in variable responses in the host, and to drug
+treatment. In addition, dose-finding studies would start from scratch to find
+the balance between tolerability and attack rate.&#x0201d;</p><p id="P92"> I find all of these arguments not justifiable. Determining
+susceptibility to PZQ in their animal model is straightforward and they can do
+this. They can easily produce a clone or clones of schistosomes to initiate
+these studies. Yes, infectious dose studies will have to start from scratch, but
+in reality, as this is an endemic population, not Dutch volunteers, this will
+have to be done with Ugandans anyway.</p><p id="P93"> Response. We agree that an inbred population of Ugandan schistosomes
+could be established in a rodent model, but are not confident that it would be
+straightforward. Many generations of crossing following initial infection with a
+clone of males and a clone of females would be required to produce a monomorphic
+strain. Initiating the strain with a single clone of males and a single clone of
+females would minimise variability, but might also result in quite atypical
+parasites, not necessarily representative of the Ugandan population of
+schistosomes in general.&#x000a0; Starting with a more diverse selection of
+cercariae would generate a more representative laboratory population of Ugandan
+schistosomes, but would mean that the characteristics of any particular clone
+(notably pathogenicity or praziquantel resistance) selected for CHI-S would be
+unpredictable. &#x000a0;</p><p id="P94"> Indeed our greatest concern is the potential for praziquantel
+resistance. Ugandan populations have been exposed to regular praziquantel
+treatment for over a decade, so there is a risk that the initial isolates would
+include individuals with relative praziquantel resistance<sup>1</sup>&#x000a0;
+which&#x000a0;could not be established with certainty in the initial stages of the
+above process.&#x000a0; While we agree that some testing could be done in animals
+the pharmacokinetics and pharmacodynamics of praziquantel are complex and
+different between rodents and humans.<sup>2,3</sup>
+</p><p id="P95"> With regards to the dose-finding study, we agree that this would be the
+case for any of the three options and therefore removed this sentence.</p><p id="P96"> Comment. In the &#x0201c;Natural Infection during trial period&#x0201d;
+the authors note that at some point they may introduce female cercariae
+infections. Are they implying single-sex female cercariae infections? Later in
+this section the authors note that infected individuals should avoid any contact
+with schistosome contaminated water. How feasible is this? Much of the risk here
+will depend on the residence of the cohorts for the Ugandan CHI trials. If the
+volunteers are urban, with little to no chance of encountering contaminated
+water, this point is moot and perhaps the authors have considered this as a
+likely way to mitigate this potential problem.</p><p id="P97"> Response. We have clarified the sentence on female cercariae &#x02013;
+we indeed plan on developing a single-sex female model in the future.</p><p id="P98"> With regard to avoiding contact with contaminated water, the location
+we are considering to recruit volunteers for this work is a peri-urban fishing
+village close to Entebbe, well known to the research team, where many communal
+taps are available to provide an alternative water source. In addition, it will
+be possible to select volunteers who have access to adequate sanitation. We thus
+envision that it will be feasible to avoid any lake contact for these
+inhabitants. Through surveys and group discussions, we are currently assessing
+possible strategies to incentivise the use of tap water &#x02013; for example,
+making it freely available for study participants. We hope that this will allow
+participation from the true target population i.e. people with previous exposure
+to <italic>Schistosoma mansoni</italic>.</p><p id="P99"> Comment. General, the Tables are informative. I may have missed this
+but, it is not clear to me how the authors determined the reduced &#x0201c;Total
+risk post control&#x0201d; score? We can see large swings in score from initial
+&#x0201c;Total inherent risk&#x0201d; to the score for &#x0201c;Total risk post
+control&#x0201d; but do not have a numerical rationale mentioned or discussed for
+why this lower score.</p><p id="P100"> Response. The inherent risk was defined as the risk before putting
+controls in place, calculated as the product of the likelihood and impact
+scores. The residual risk was similarly calculated, based on likelihood and
+impact scores after controls have been put in place. The difference in the
+calculated scores is based on the degree to which the proposed controls are
+expected to alter either the likelihood of the event happening, or the impact of
+the event, should it happen. We have added the scores to the legend of the
+tables for clarity.</p><p id="P101"> Comment. Potent should be patent</p><p id="P102"> Response. We have changed this.</p><p id="P103"> Comment. Hybridisation with local schistosome population unlikely to
+result in praziquantel resistance? Maybe true, but you still have created a
+hybrid parasite.</p><p id="P104"> Response. This is true. We have added a sentence to include this
+concern.</p><p id="P105"> Comment. Under &#x0201c;Option 1: snail culture facilities, potential
+ecological harm&#x0201d; page 5, first paragraph, line 4 should be corrected to
+read &#x0201c;access to the laboratory should be controlled&#x02026;&#x0201d;</p><p id="P106"> Response. We have corrected this.</p><p id="P107">
+<bold>References</bold>
+</p><p id="P108"> 1.&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0; Crellen T, Walker
+M, Lamberton PH, Kabatereine NB, Tukahebwa EM, Cotton JA, et al. Reduced
+Efficacy of Praziquantel Against Schistosoma mansoni Is Associated With Multiple
+Rounds of Mass Drug Administration. Clin Infect Dis. 2016 Nov 1;63(9):1151-9</p><p id="P109"> 2.&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0; Abla N, Keiser J,
+Vargas M, Reimers N, Haas H, Spangenberg T. Evaluation of the
+pharmacokinetic-pharmacodynamic relationship of praziquantel in the Schistosoma
+mansoni mouse model. PLoS Negl Trop Dis. 2017 Sep;11(9):e0005942</p><p id="P110"> 3.&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0; Bustinduy AL,
+Waterhouse D, de Sousa-Figueiredo JC, Roberts SA, Atuhaire A, Van Dam GJ, et al.
+Population Pharmacokinetics and Pharmacodynamics of Praziquantel in Ugandan
+Children with Intestinal Schistosomiasis: Higher Dosages Are Required for
+Maximal Efficacy. MBio. 2016 Aug 9;7(4)</p></body></sub-article></sub-article><sub-article id="REPORT27005" article-type="peer-review"><front-stub><article-id pub-id-type="doi">10.21956/aasopenres.14053.r27005</article-id><title-group><article-title>Reviewer response for version 1</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Meiring</surname><given-names>James E.</given-names></name><xref ref-type="aff" rid="A10">1</xref><xref ref-type="aff" rid="A11">2</xref><role>Referee</role><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0001-9183-5174</contrib-id></contrib><aff id="A10">
+<label>1</label>Malawi-Liverpool Wellcome Trust Clinical Research Programme,
+Blantyre, Malawi</aff><aff id="A11">
+<label>2</label>Oxford Vaccine Group, Oxford University, Oxford, UK</aff></contrib-group><author-notes><fn fn-type="COI-statement" id="FN11"><p id="P111">
+<bold>Competing interests: </bold>No competing interests were disclosed.</p></fn></author-notes><pub-date pub-type="epub"><day>17</day><month>6</month><year>2019</year></pub-date><permissions><license xlink:href="http://creativecommons.org/licenses/by/4.0/"><license-p>This is an open access peer review report distributed under the terms
+of the Creative Commons Attribution Licence, which permits unrestricted use,
+distribution, and reproduction in any medium, provided the original work is
+properly cited.</license-p></license></permissions><custom-meta-group><custom-meta><meta-name>recommendation</meta-name><meta-value>approve</meta-value></custom-meta></custom-meta-group></front-stub><body><p id="P112">This is a well written, and referenced letter outlining the risk
+assessments for&#x000a0;setting up CHI-S in Uganda. The authors should be commended
+for&#x000a0;a very thorough approach to the topic, highlighting all areas of risk, from
+shipment and&#x000a0;storage of infectious diseases and animal hosts through to the
+community-based responses to CHI-S and possible impact on other research
+activity.</p><p id="P114"> In addition to what is presented here, I&#x000a0;think it might be helpful
+for the authors to outline their thinking on expectations for
+financial&#x000a0;reimbursement for participants who go through the trial in Uganda,
+and if there are any risks attached to this, as discussed in Gordon, S et al. 2018
+published in Wellcome Open Research<xref rid="R19" ref-type="bibr">1</xref>.</p><p id="P116"> It may also be beneficial to consult the literature for other examples of
+CHI&#x000a0;studies that have been moved from non-endemic, high income countries to
+endemic sites. Although the individual risks may be different, the general lessons
+may be applicable and helpful.</p><p id="P117">I confirm that I have read this submission and believe that I have an
+appropriate level of expertise to confirm that it is of an acceptable scientific
+standard.</p></body><back><ref-list><title>References</title><ref id="R19"><label>1</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gordon</surname><given-names>SB</given-names></name><etal/></person-group>: <article-title>A Malawi
+guideline for research study participant remuneration.</article-title>
+<source><italic>Wellcome Open Res</italic></source>.<year>2018</year>;<volume>3</volume>:
+<fpage>141</fpage>
+<pub-id pub-id-type="doi">10.12688/wellcomeopenres.14668.2</pub-id>
+<pub-id pub-id-type="pmid">30662959</pub-id></mixed-citation></ref></ref-list></back><sub-article id="COMMENT3116" article-type="peer-review"><front-stub><contrib-group><contrib contrib-type="author"><name><surname>Elliott</surname><given-names>Alison</given-names></name><aff id="A12">Uganda Virus Research Institute, Uganda</aff></contrib></contrib-group><author-notes><fn fn-type="COI-statement" id="FN12"><p id="P118">
+<bold>Competing interests: </bold>No competing interests were
+disclosed.</p></fn></author-notes><pub-date pub-type="epub"><day>5</day><month>8</month><year>2019</year></pub-date></front-stub><body><p id="P119">Comment: In addition to what is presented here, I think it might be
+helpful for the authors to outline their thinking on expectations for financial
+reimbursement for participants who go through the trial in Uganda, and if there
+are any risks attached to this, as discussed in Gordon, S et al. 2018 published
+in Wellcome Open Research.</p><p id="P120">Response: We agree that the financial reimbursement is an important
+topic for debate. We have thus added a paragraph on this matter and included it
+in the table with risks related to the controlled human infection with
+<italic>Sm.</italic>
+</p><p id="P121">Comment: It may also be beneficial to consult the literature for other
+examples of CHI studies that have been moved from non-endemic, high income
+countries to endemic sites. Although the individual risks may be different, the
+general lessons may be applicable and helpful.</p><p id="P122">Response: We agree that it will be essential to interact with
+experienced researchers who have implemented CHI studies in LMIC. We added
+reference to this important topic by addressing a paper on the first malaria CHI
+in Kenya that describes issues that are also applicable for our CHI-S.</p></body></sub-article></sub-article></article>
