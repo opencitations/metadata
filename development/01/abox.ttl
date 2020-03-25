@@ -1,0 +1,63 @@
+@prefix : <https://w3id.org/oco/data/> .
+@prefix oco: <https://w3id.org/oco/ontology/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+# Linking to the main ontology
+<https://w3id.org/oco/ontology/oco-abox> a owl:Ontology ;
+    owl:imports <https://w3id.org/oco/ontology> .
+
+:10.7717-peerj.4375 a oco:Text ;
+    oco:hasPart
+      :bohannon-2016-be ,
+      :greshake-2017-be ,
+      :list-1
+      :bohannon-2016-rp-2 .
+
+
+:bohannon-2016-be a oco:BibliographicReference ;
+    oco:references :bohannon-2016 .
+
+:greshake-2017-be a oco:BibliographicReference ;
+    oco:references :greshake-2017 .
+
+:list-1 a oco:InTextReferencePointerList ;
+    oco:contains
+      :bohannon-2016-rp-1 ,
+      :greshake-2017-rp-1 ;
+    oco:hasIdentifier :list-1-id .
+
+:bohannon-2016-rp-2 a oco:InTextReferencePointer ;
+    oco:denotes :bohannon-2016-be ;
+    oco:hasIdentifier :bohannon-2016-rp-2-id .
+
+:bohannon-2016 a oco:Text .
+
+:greshake-2017 a oco:Text .
+
+:bohannon-2016-rp-1 a oco:InTextReferencePointer ;
+    oco:denotes :bohannon-2016-be ;
+    oco:hasIdentifier :bohannon-2016-rp-1-id .
+
+:greshake-2017-rp-1 a oco:InTextReferencePointer ;
+    oco:denotes :greshake-2017-be ;
+    oco:hasIdentifier :greshake-2017-rp-1-id .
+
+:list-1-id a oco:Identifier ;
+	rdf:value "substring(string('/article/sec[1]/p[1]'),198,32)"^^xsd:string ;
+    oco:hasIdentifierScheme :xpath .
+
+:bohannon-2016-rp-2-id a oco:Identifier ;
+    rdf:value "/article/sec[3]/p[4]/xref[1]"^^xsd:string ;
+    oco:hasIdentifierScheme :xpath .
+
+:bohannon-2016-rp-1-id a oco:Identifier ;
+    rdf:value "/article/sec[1]/p[1]/xref[1]"^^xsd:string ;
+    oco:hasIdentifierScheme :xpath .
+
+:greshake-2017-rp-1-id a oco:Identifier ;
+    rdf:value "/article/sec[1]/p[1]/xref[2]"^^xsd:string ;
+    oco:hasIdentifierScheme :xpath .
+
+:xpath a oco:IdentifierScheme .

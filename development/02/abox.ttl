@@ -1,0 +1,49 @@
+@prefix : <https://w3id.org/oco/data/> .
+@prefix oco: <https://w3id.org/oco/ontology/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+# Linking to the main ontology
+<https://w3id.org/oco/ontology/oco-abox> a owl:Ontology ;
+    owl:imports <https://w3id.org/oco/ontology> .
+
+:10.7717-peerj.4375 a oco:Text ;
+    oco:hasPart
+      :section-1 ,
+      :section-3 .
+
+:section-1 a oco:Section ;
+    oco:hasPart :section-1-p-1 .
+
+:section-3 a oco:Section ;
+    oco:hasPart :section-3-p-4 .
+
+:section-1-p-1 a oco:Paragraph ;
+    oco:hasPart :section-1-p-1-sent-6 .
+
+:section-3-p-4 a oco:Paragraph ;
+    oco:hasPart :section-3-p-4-sent-26 .
+
+:section-1-p-1-sent-6 a oco:Sentence ;
+    oco:isContextOf :list-1 .
+
+:section-3-p-4-sent-26 a oco:Sentence ;
+    oco:isContextOf :bohannon-2016-rp-2 .
+
+:list-1 a oco:InTextReferencePointerList ;
+    oco:hasContext :section-1-p-1-sent-6 ;
+    oco:hasContent "(Bohannon, 2016; Greshake, 2017)"^^xsd:string ;
+    oco:contains
+      :bohannon-2016-rp-1 ,
+      :greshake-2017-rp-1 .
+
+:bohannon-2016-rp-2 a oco:InTextReferencePointer ;
+    oco:hasContent "(Bohannon, 2016)"^^xsd:string ;
+    oco:hasContext :section-3-p-4-sent-26 .
+
+:bohannon-2016-rp-1 a oco:InTextReferencePointer ;
+    oco:hasContent "Bohannon, 2016"^^xsd:string .
+
+:greshake-2017-rp-1 a oco:InTextReferencePointer ;
+    oco:hasContent "Greshake, 2017"^^xsd:string .

@@ -1,5 +1,8 @@
 # glossary of terms 2
 
+## In-text reference pointer
+A textual device denoting a single bibliographic reference that is embedded in the text of a document within the context of a particular sentence or text chunk.
+
 ## Discourse Element
 Document components, both structural (e.g. block, inline, paragraph, section, chapter, table, caption, footnote, title) and rhetorical (e.g. introduction, discussion, acknowledgements, reference list, figure, appendix).
 
@@ -27,6 +30,12 @@ A piece of text, e.g. the content of a table cell, defined by a start point and 
 ## Sentence
 An expression in natural language forming a single grammatical unit.
 
+## Contains
+The hierarchical relation between elements, e.g. between a list of pointers and each single pointer included in the list.
+
+## Has part
+The hierarchical relation between contents, e.g. texts and bibliographic references.
+
 ## Has context
 The textual context (e.g. a sentence or a paragraph) of a particular in-text reference pointer, this context typically providing the rhetorical motivation for the existence of that citation.
 
@@ -35,6 +44,3 @@ Specifies the textual content of a particular FRBR expression, such as a sentenc
 
 ## Has title
 The title attributed to a particular FRBR expression, such as a section of an article.
-
-## Part
-The hierarchical relation between FRBR expressions.

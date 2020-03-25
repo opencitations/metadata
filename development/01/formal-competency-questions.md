@@ -30,7 +30,7 @@ Given a paper X, list (1) all the cited bibliographic references, and (2) their 
 ```
 SELECT distinct ?plLit ?pl ?rpLit ?rp ?beLit
 WHERE {
-  <https://w3id.org/oc/ccc/br/0701> frbr:part ?be.
+  <https://w3id.org/oc/br/0701> frbr:part ?be.
   ?be a biro:BibliographicReference ; c4o:hasContent ?beLit .
   ?rp c4o:denotes ?be .
   OPTIONAL {?rp c4o:hasContent ?rpLit. }
@@ -42,12 +42,12 @@ ORDER BY ?plLit ?rpLit
 
 ## CQ1.2. Counting of in-text reference pointers
 
-Count the number of times a publication is cited in a paper X (i.e. the number of in-text reference pointers that denote the same bibliographic reference).
+Return bibliographic references and the number of times it is cited in a publication (i.e. the number of in-text reference pointers that denote the same bibliographic reference).
 
 ```
 SELECT (COUNT(distinct ?rp) as ?count) ?beLit
 WHERE {
-  <https://w3id.org/oc/ccc/br/0701> frbr:part ?be.
+  <https://w3id.org/oc/br/0701> frbr:part ?be.
   ?be a biro:BibliographicReference ; c4o:hasContent ?beLit .
   ?rp c4o:denotes ?be .
 }

@@ -1,0 +1,43 @@
+@prefix : <https://w3id.org/oco/data/> .
+@prefix oco: <https://w3id.org/oco/ontology/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+# Linking to the main ontology
+<https://w3id.org/oco/ontology/oco-abox> a owl:Ontology ;
+    owl:imports <https://w3id.org/oco/ontology> .
+
+:annotation-1 a oco:Annotation ;
+    oco:annotatedBy :agent-1 ;
+    oco:hasBody :citation-1 .
+
+:annotation-2 a oco:Annotation ;
+    oco:annotatedBy :agent-1 ;
+    oco:hasBody :citation-2 .
+
+:agent-1 a oco:Agent .
+
+:citation-1 a oco:Citation ;
+    oco:hasCitingEntity :10.7717-peerj.4375 ;
+    oco:hasCitedEntity :bohannon-2016 ;
+    oco:hasCitationCharacterisation :citesAsEvidence .
+
+:citation-2 a oco:Citation ;
+    oco:hasCitingEntity :10.7717-peerj.4375 ;
+    oco:hasCitedEntity :bohannon-2016 ;
+    oco:hasCitationCharacterisation :citesAsMetadataSource .
+
+:10.7717-peerj.4375 a oco:Text .
+
+:bohannon-2016 a oco:Text .
+
+:citesAsEvidence a oco:CitationFunction .
+
+:citesAsMetadataSource a oco:CitationFunction .
+
+:bohannon-2016-rp-1 a oco:InTextReferencePointer ;
+    oco:hasAnnotation :annotation-1 .
+
+:bohannon-2016-rp-2 a oco:InTextReferencePointer ;
+    oco:hasAnnotation :annotation-2 .

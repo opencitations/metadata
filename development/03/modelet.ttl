@@ -1,0 +1,111 @@
+@prefix : <https://w3id.org/oc/ontology/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@base <https://w3id.org/oc/ontology/> .
+
+<https://w3id.org/oc/ontology/> rdf:type owl:Ontology ;
+                                 owl:versionIRI <https://w3id.org/oc/ontology/2019-09-19> .
+
+#################################################################
+#    Object Properties
+#################################################################
+
+###  https://w3id.org/oc/ontology/annotatedBy
+:annotatedBy rdf:type owl:ObjectProperty ;
+             rdfs:domain :Annotation ;
+             rdfs:range :Agent ;
+             rdfs:comment "The agent who created such annotation – who can be the author of the paper containing the in-text reference pointer, a reader or a software agent." ,
+                          "annotated by" .
+
+
+###  https://w3id.org/oc/ontology/hasAnnotation
+:hasAnnotation rdf:type owl:ObjectProperty ;
+               rdfs:domain :BibliographicReference ,
+                           :InTextReferencePointer ;
+               rdfs:range :Annotation ;
+               rdfs:comment "The relation between the in-text reference pointer or bibliographic reference and the annotation to which it is relevant." ,
+                            "has annotation" .
+
+
+###  https://w3id.org/oc/ontology/hasBody
+:hasBody rdf:type owl:ObjectProperty ;
+         rdfs:domain :Annotation ;
+         rdfs:range :Citation ;
+         rdfs:comment "The body of the annotation describing a specific citation from the citing paper to the cited paper, further annotated with a citation function." ,
+                      "has body" .
+
+
+###  https://w3id.org/oc/ontology/hasCitationCharacterisation
+:hasCitationCharacterisation rdf:type owl:ObjectProperty ;
+                             rdfs:domain :Citation ;
+                             rdfs:range :CitationFunction ;
+                             rdfs:comment "The characterisation of a citation with its function." ;
+                             rdfs:label "has citation characterisation" .
+
+
+###  https://w3id.org/oc/ontology/hasCitedEntity
+:hasCitedEntity rdf:type owl:ObjectProperty ;
+                rdfs:domain :Citation ;
+                rdfs:range :Text ;
+                rdfs:comment "Two papers (or generic resources) that are linked by means of a citation. The reference to the cited entity appears in the citing entity, the body text of which includes one or more in-text reference pointers to that reference for the cited paper." ,
+                             "has cited entity" .
+
+
+###  https://w3id.org/oc/ontology/hasCitingEntity
+:hasCitingEntity rdf:type owl:ObjectProperty ;
+                 rdfs:domain :Citation ;
+                 rdfs:range :Text ;
+                 rdfs:comment "Two papers (or generic resources) that are linked by means of a citation. The reference to the cited entity appears in the citing entity, the body text of which includes one or more in-text reference pointers to that reference for the cited paper." ,
+                              "has citing entity" .
+
+
+#################################################################
+#    Classes
+#################################################################
+
+###  https://w3id.org/oc/ontology/Agent
+:Agent rdf:type owl:Class ;
+       rdfs:comment "A responsible entity for some activity, e.g. an annotation." ;
+       rdfs:label "Agent" .
+
+
+###  https://w3id.org/oc/ontology/Annotation
+:Annotation rdf:type owl:Class ;
+            rdfs:comment "Allows one to annotate each in-text reference pointer with a paper with the particular citation function it conveys." ;
+            rdfs:label "Annotation" .
+
+
+###  https://w3id.org/oc/ontology/BibliographicReference
+:BibliographicReference rdf:type owl:Class ;
+                        rdfs:comment "A standard entry in a published work, typically an item within the work’s bibliographic reference list, which refers the reader to an original source of published information referenced or cited by an author in the main body of the text." ;
+                        rdfs:label "Bibliographic reference" .
+
+
+###  https://w3id.org/oc/ontology/Citation
+:Citation rdf:type owl:Class ;
+          rdfs:comment "A directional conceptual link between two papers – or, more generally, two published resources – where one (the citing paper) cites another one (i.e., the cited paper). Such a citation may be characterized according to a particular citation function." ;
+          rdfs:label "Citation" .
+
+
+###  https://w3id.org/oc/ontology/CitationFunction
+:CitationFunction rdf:type owl:Class ;
+                  rdfs:comment "Several citations to the same article could be instantiated in the same text, by means of two or more in-text reference pointers. Such citations could express different functions." ;
+                  rdfs:label "Citation function" .
+
+
+###  https://w3id.org/oc/ontology/InTextReferencePointer
+:InTextReferencePointer rdf:type owl:Class ;
+                        rdfs:comment "A textual device denoting a single bibliographic reference that is embedded in the text of a document within the context of a particular sentence or text chunk." ;
+                        rdfs:label "In-text reference pointer" .
+
+
+###  https://w3id.org/oc/ontology/Text
+:Text rdf:type owl:Class ;
+      rdfs:comment "The textual content of a published work." ;
+      rdfs:label "Text" .
+
+
+###  Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi

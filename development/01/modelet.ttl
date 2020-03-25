@@ -1,0 +1,106 @@
+@prefix : <https://w3id.org/oc/ontology#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@base <https://w3id.org/oc/ontology> .
+
+<https://w3id.org/oc/ontology> rdf:type owl:Ontology ;
+                                owl:versionIRI <https://w3id.org/oc/ontology/2019-09-19> .
+
+#################################################################
+#    Object Properties
+#################################################################
+
+###  https://w3id.org/oc/ontology/contains
+<https://w3id.org/oc/ontology/contains> rdf:type owl:ObjectProperty ;
+                                        rdfs:domain <https://w3id.org/oc/ontology/InTextReferencePointer> ;
+                                        rdfs:range <https://w3id.org/oc/ontology/InTextReferencePointersList> ;
+                                        rdfs:comment "The hierarchical relation between elements, e.g. between a list of pointers and each single pointer included in the list." ;
+                                        rdfs:label "contains" .
+
+
+###  https://w3id.org/oc/ontology/denotes
+<https://w3id.org/oc/ontology/denotes> rdf:type owl:ObjectProperty ;
+                                       rdfs:domain <https://w3id.org/oc/ontology/InTextReferencePointersList> ;
+                                       rdfs:range <https://w3id.org/oc/ontology/BibliographicReference> ;
+                                       rdfs:comment "The relation between an in-text reference pointer and the bibliographic reference to which it is relevant." ;
+                                       rdfs:label "denotes" .
+
+
+###  https://w3id.org/oc/ontology/hasIdentifier
+<https://w3id.org/oc/ontology/hasIdentifier> rdf:type owl:ObjectProperty ;
+                                             rdfs:range <https://w3id.org/oc/ontology/Identifier> ;
+                                             rdfs:label "has identifier" .
+
+
+###  https://w3id.org/oc/ontology/hasIdentifierScheme
+<https://w3id.org/oc/ontology/hasIdentifierScheme> rdf:type owl:ObjectProperty ;
+                                                   rdfs:domain <https://w3id.org/oc/ontology/Identifier> ;
+                                                   rdfs:range <https://w3id.org/oc/ontology/IdentifierScheme> ;
+                                                   rdfs:label "has identifier scheme" .
+
+
+###  https://w3id.org/oc/ontology/hasNext
+<https://w3id.org/oc/ontology/hasNext> rdf:type owl:ObjectProperty ;
+                                       rdfs:comment "The relation between elements in a sequence, e.g. between reference pointers included in a list." ;
+                                       rdfs:label "has next" .
+
+
+###  https://w3id.org/oc/ontology/hasPart
+<https://w3id.org/oc/ontology/hasPart> rdf:type owl:ObjectProperty ;
+                                       rdfs:domain <https://w3id.org/oc/ontology/Text> ;
+                                       rdfs:comment "The hierarchical relation between contents, e.g. texts and bibliographic references." ;
+                                       rdfs:label "has part" .
+
+
+###  https://w3id.org/oc/ontology/references
+<https://w3id.org/oc/ontology/references> rdf:type owl:ObjectProperty ;
+                                          rdfs:domain <https://w3id.org/oc/ontology/BibliographicReference> ;
+                                          rdfs:range <https://w3id.org/oc/ontology/Text> ;
+                                          rdfs:comment "The relation between a bibliographic reference and the publication being referenced." ;
+                                          rdfs:label "references" .
+
+
+#################################################################
+#    Classes
+#################################################################
+
+###  https://w3id.org/oc/ontology/BibliographicReference
+<https://w3id.org/oc/ontology/BibliographicReference> rdf:type owl:Class ;
+                                                      rdfs:comment "A standard entry in a published work, typically an item within the work’s bibliographic reference list, which refers the reader to an original source of published information referenced or cited by an author in the main body of the text." ,
+                                                                   "Bibliographic reference" .
+
+
+###  https://w3id.org/oc/ontology/Identifier
+<https://w3id.org/oc/ontology/Identifier> rdf:type owl:Class ;
+                                          rdfs:comment "A string identifying an entity." ;
+                                          rdfs:label "Identifier" .
+
+
+###  https://w3id.org/oc/ontology/IdentifierScheme
+<https://w3id.org/oc/ontology/IdentifierScheme> rdf:type owl:Class ;
+                                                rdfs:comment "The scheme an identifier conforms to, e.g. XPath syntax." ;
+                                                rdfs:label "Identifier scheme" .
+
+
+###  https://w3id.org/oc/ontology/InTextReferencePointer
+<https://w3id.org/oc/ontology/InTextReferencePointer> rdf:type owl:Class ;
+                                                      rdfs:comment "A list containing only in-text reference pointers denoting the specific bibliographic references to which the list pertains." ;
+                                                      rdfs:label "In-text reference pointers list" .
+
+
+###  https://w3id.org/oc/ontology/InTextReferencePointersList
+<https://w3id.org/oc/ontology/InTextReferencePointersList> rdf:type owl:Class ;
+                                                           rdfs:comment "A textual device denoting a single bibliographic reference that is embedded in the text of a document within the context of a particular sentence or text chunk." ;
+                                                           rdfs:label "In-text reference pointer" .
+
+
+###  https://w3id.org/oc/ontology/Text
+<https://w3id.org/oc/ontology/Text> rdf:type owl:Class ;
+                                    rdfs:comment "The textual content of a published work." ;
+                                    rdfs:label "Text" .
+
+
+###  Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi

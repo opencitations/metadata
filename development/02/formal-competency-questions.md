@@ -25,7 +25,7 @@ prefix xsd: <http://www.w3.org/2001/XMLSchema#>
 
 ## CQ2.1. Document components in which pointers occur
 
-Given a document X, for each reference, retrieve all the document components (section/paragraph/sentence/text chunk) wherein in-text reference pointers are located.
+Given a document X, for in-text reference pointers, retrieve all the document components (section/paragraph/sentence/text chunk) wherein they are located.
 
 ```
 SELECT DISTINCT ?rp ?sent (group_concat(distinct ?des; separator="; ") as ?parents) ?beLit
@@ -40,9 +40,9 @@ GROUP BY ?rp ?sent ?parents ?beLit
 ORDER BY ?beLit
 ```
 
-## CQ2.2. Bibliographic references co-cited in the same document component
+## CQ2.2. In-text reference pointers co-cited in the same document component
 
-List all the bibliographic references in the document X that are cited within a particular document component (e.g. sentence or text chunk).
+List all the in-text reference pointers in the document X grouped by the same document component (e.g. sentence or text chunk).
 
 ```
 SELECT DISTINCT ?rp ?sent (group_concat(distinct ?des; separator="; ") as ?parents) ?beLit

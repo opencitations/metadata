@@ -5,7 +5,7 @@ In-text references and lists of in-text references
 
 ## Description
 
-Basic operations on in-text references, like retrieve all the in-text reference pointers, retrieve all related bibliographic references, identify whether reference pointers appear in lists or alone, and count the number of times a bibliographic reference is cited in the text (i.e. the number of reference pointers).
+Basic operations on in-text references, like retrieve all the in-text reference pointers that appear in a text, retrieve all related bibliographic references, identify whether reference pointers appear in lists or alone, and count the number of times a bibliographic reference is cited in the text (i.e. the number of reference pointers).
 
 Pointers and lists can be identified with respect to the XML document by means of a XPath selector.
 

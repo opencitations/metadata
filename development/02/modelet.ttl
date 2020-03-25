@@ -1,0 +1,136 @@
+@prefix : <https://w3id.org/oc/ontology#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@base <https://w3id.org/oc/ontology> .
+
+<https://w3id.org/oc/ontology> rdf:type owl:Ontology ;
+                                owl:versionIRI <https://w3id.org/oc/ontology/2019-09-19> .
+
+#################################################################
+#    Object Properties
+#################################################################
+
+###  https://w3id.org/oc/ontology/contains
+<https://w3id.org/oc/ontology/contains> rdf:type owl:ObjectProperty ;
+                                        rdfs:domain <https://w3id.org/oc/ontology/InTextTeferencePointersList> ;
+                                        rdfs:range <https://w3id.org/oc/ontology/InTextReferencePointer> ;
+                                        rdfs:comment "The hierarchical relation between elements, e.g. between a list of pointers and each single pointer included in the list." ;
+                                        rdfs:label "contains" .
+
+
+###  https://w3id.org/oc/ontology/hasContext
+<https://w3id.org/oc/ontology/hasContext> rdf:type owl:ObjectProperty ;
+                                          rdfs:domain <https://w3id.org/oc/ontology/InTextReferencePointer> ,
+                                                      <https://w3id.org/oc/ontology/InTextTeferencePointersList> ;
+                                          rdfs:range <https://w3id.org/oc/ontology/DiscourseElement> ;
+                                          rdfs:comment "The textual context (e.g. a sentence or a paragraph) of a particular in-text reference pointer, this context typically providing the rhetorical motivation for the existence of that citation." ;
+                                          rdfs:label "has context" .
+
+
+###  https://w3id.org/oc/ontology/hasPart
+<https://w3id.org/oc/ontology/hasPart> rdf:type owl:ObjectProperty ;
+                                       rdfs:domain <https://w3id.org/oc/ontology/DiscourseElement> ;
+                                       rdfs:range <https://w3id.org/oc/ontology/DiscourseElement> ;
+                                       rdfs:comment "The hierarchical relation between contents, e.g. texts and bibliographic references." ;
+                                       rdfs:label "has part" .
+
+
+#################################################################
+#    Data properties
+#################################################################
+
+###  https://w3id.org/oc/ontology/hasContent
+<https://w3id.org/oc/ontology/hasContent> rdf:type owl:DatatypeProperty ;
+                                          rdfs:domain <https://w3id.org/oc/ontology/InTextReferencePointer> ,
+                                                      <https://w3id.org/oc/ontology/InTextTeferencePointersList> ;
+                                          rdfs:comment "Specifies the textual content of a particular FRBR expression, such as a sentence, a paragraph, or a section of an article." ;
+                                          rdfs:label "has content" .
+
+
+###  https://w3id.org/oc/ontology/hasTitle
+<https://w3id.org/oc/ontology/hasTitle> rdf:type owl:DatatypeProperty ;
+                                        rdfs:domain <https://w3id.org/oc/ontology/DiscourseElement> ;
+                                        rdfs:comment "Specifies the textual content of a particular FRBR expression, such as a sentence, a paragraph, or a section of an article." ;
+                                        rdfs:label "has title" .
+
+
+#################################################################
+#    Classes
+#################################################################
+
+###  https://w3id.org/oc/ontology/Caption
+<https://w3id.org/oc/ontology/Caption> rdf:type owl:Class ;
+                                       rdfs:subClassOf <https://w3id.org/oc/ontology/DiscourseElement> ;
+                                       rdfs:comment "Text accompanying another item, such as a picture." ;
+                                       rdfs:label "Caption" .
+
+
+###  https://w3id.org/oc/ontology/DiscourseElement
+<https://w3id.org/oc/ontology/DiscourseElement> rdf:type owl:Class ;
+                                                rdfs:comment "Document components, both structural (e.g. block, inline, paragraph, section, chapter, table, caption, footnote, title) and rhetorical (e.g. introduction, discussion, acknowledgements, reference list, figure, appendix)." ;
+                                                rdfs:label "Discourse element" .
+
+
+###  https://w3id.org/oc/ontology/Footnote
+<https://w3id.org/oc/ontology/Footnote> rdf:type owl:Class ;
+                                        rdfs:subClassOf <https://w3id.org/oc/ontology/DiscourseElement> ;
+                                        rdfs:comment "A structure within a sentence that permits the author to make a comment or to cite another publication in support of the text, or both. A footnote is normally flagged by a superscript number immediately following that portion of the text to which it relates. For convenience of reading, the text of the footnote is usually printed at the bottom of the page or at the end of a text. Note that, depending upon publication type, references may be all located within footnotes, rather than within a reference list." ;
+                                        rdfs:label "Footnote" .
+
+
+###  https://w3id.org/oc/ontology/InTextReferencePointer
+<https://w3id.org/oc/ontology/InTextReferencePointer> rdf:type owl:Class ;
+                                                      rdfs:label "In-text reference pointer" .
+
+
+###  https://w3id.org/oc/ontology/InTextTeferencePointersList
+<https://w3id.org/oc/ontology/InTextTeferencePointersList> rdf:type owl:Class ;
+                                                           rdfs:label "In-text reference pointers list" .
+
+
+###  https://w3id.org/oc/ontology/Paragraph
+<https://w3id.org/oc/ontology/Paragraph> rdf:type owl:Class ;
+                                         rdfs:subClassOf <https://w3id.org/oc/ontology/DiscourseElement> ;
+                                         rdfs:comment "A self-contained unit of discourse that deals with a particular point or idea. Paragraphs contains one or more sentences. The start of a paragraph is indicated by beginning on a new line, which may be indented or separated by a small vertical space from the preceding paragraph." ;
+                                         rdfs:label "Paragraph" .
+
+
+###  https://w3id.org/oc/ontology/Section
+<https://w3id.org/oc/ontology/Section> rdf:type owl:Class ;
+                                       rdfs:subClassOf <https://w3id.org/oc/ontology/DiscourseElement> ;
+                                       rdfs:comment "A logical division of the text, usually numbered and/or titled, which may contain subsections." ;
+                                       rdfs:label "Section" .
+
+
+###  https://w3id.org/oc/ontology/Sentence
+<https://w3id.org/oc/ontology/Sentence> rdf:type owl:Class ;
+                                        rdfs:subClassOf <https://w3id.org/oc/ontology/DiscourseElement> ;
+                                        rdfs:comment "An expression in natural language forming a single grammatical unit." ;
+                                        rdfs:label "Sentence" .
+
+
+###  https://w3id.org/oc/ontology/Table
+<https://w3id.org/oc/ontology/Table> rdf:type owl:Class ;
+                                     rdfs:subClassOf <https://w3id.org/oc/ontology/DiscourseElement> ;
+                                     rdfs:comment "A set of data arranged in cells within rows and columns." ;
+                                     rdfs:label "Table" .
+
+
+###  https://w3id.org/oc/ontology/TextChunk
+<https://w3id.org/oc/ontology/TextChunk> rdf:type owl:Class ;
+                                         rdfs:subClassOf <https://w3id.org/oc/ontology/DiscourseElement> ;
+                                         rdfs:comment "A piece of text, e.g. the content of a table cell, defined by a start point and an end point." ;
+                                         rdfs:label "Text chunk" .
+
+
+###  https://w3id.org/oc/ontology/Title
+<https://w3id.org/oc/ontology/Title> rdf:type owl:Class ;
+                                     rdfs:subClassOf <https://w3id.org/oc/ontology/DiscourseElement> ;
+                                     rdfs:comment "A word, phrase or sentence that precedes and indicates the subject of a document or a document component - e.g., a book, a report, a news article, a chapter, a section or a table." ;
+                                     rdfs:label "Title" .
+
+
+###  Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi
