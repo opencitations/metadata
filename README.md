@@ -15,7 +15,7 @@ The OpenCitations Data Model. arXiv
 
 Authors' contributions and roles are specified according to the [CrediT taxonomy](https://casrai.org/credit/)  
 
- * Marilena Daquino (Conceptualization, Data curation, Formal analysis, Investigation, Methodology, Software, Writing – original draft)
+ * Marilena Daquino (Conceptualization, Data curation, Formal analysis, Investigation, Methodology, Software, Writing – original draft). She is responsible for writing Section "Background" and section "Analysis of OCDM reusability"
  * Silvio Peroni (Conceptualization, Investigation, Methodology, Software, Data curation, Supervision, Funding acquisition, Project administration, Writing – original draft)
  * David Shotton (Conceptualization, Investigation, Methodology, Supervision, Funding acquisition, Project administration, Writing – original draft)
  * Giovanni Colavizza (Investigation, Resources, Validation, Writing – review & editing)
