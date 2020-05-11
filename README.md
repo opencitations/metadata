@@ -7,7 +7,10 @@ The repository includes documentation related to OpenCitations Data model (OCDM)
 To cite this work please use:
 
 ```
-Daquino, Marilena, Silvio Peroni, David Shotton, Giovanni Colavizza, Behnam Ghavimi, Anne Lauscher, Philipp Mayr-Schlegel, Matteo Romanello, Philipp Zumstein. 2020. The OpenCitations Data Model. arXiv
+Daquino, Marilena, Silvio Peroni, David Shotton,
+Giovanni Colavizza, Behnam Ghavimi, Anne Lauscher,
+Philipp Mayr-Schlegel, Matteo Romanello, Philipp Zumstein. 2020.
+The OpenCitations Data Model. arXiv
 ```
 
 Authors' contributions and roles are specified according to the [CrediT taxonomy](https://casrai.org/credit/)  
@@ -22,11 +25,12 @@ Authors' contributions and roles are specified according to the [CrediT taxonomy
  * Matteo Romanello (Investigation, Resources, Validation, Writing – review & editing)
  * Philipp Zumstein (Investigation, Resources, Validation, Writing – review & editing)
 
-## acknowledgments
 
-Ludo Waltman (Funding acquisition, Supervision, Writing – review & editing)
-Vincent Larivière (Funding acquisition, Supervision)
-Ivan Heibi (Data curation, Formal analysis, Software)
+## Acknowledgments
+
+ * Ludo Waltman (Funding acquisition, Supervision, Writing – review & editing)
+ * Vincent Larivière (Funding acquisition, Supervision)
+ * Ivan Heibi (Data curation, Formal analysis, Software)
 
 ## References
 
