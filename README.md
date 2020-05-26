@@ -10,7 +10,7 @@ To cite this work please use:
 Daquino, Marilena, Silvio Peroni, David Shotton,
 Giovanni Colavizza, Behnam Ghavimi, Anne Lauscher,
 Philipp Mayr-Schlegel, Matteo Romanello, Philipp Zumstein. 2020.
-The OpenCitations Data Model. arXiv:3193124
+The OpenCitations Data Model. arXiv: http://arxiv.org/abs/2005.11981
 ```
 
 Authors' contributions and roles are specified according to the [CrediT taxonomy](https://casrai.org/credit/)  
