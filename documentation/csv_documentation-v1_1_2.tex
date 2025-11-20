@@ -1,0 +1,216 @@
+\documentclass{article}
+\usepackage{rotating}
+\usepackage{hyperref}
+\usepackage{float}
+\usepackage[T1]{fontenc}
+\usepackage{lscape}
+\hypersetup{
+    colorlinks=true,
+    linkcolor = blue,
+    urlcolor  = blue,
+    citecolor = blue,
+    anchorcolor = blue
+}
+
+\title{How to produce well-formed CSV files for OpenCitations}
+\date{}
+\author{} 
+
+\begin{document}
+
+\maketitle
+
+OpenCitations processes two types of CSV files, one for metadata and one for citations. Section \ref{s_metadata} illustrates the former's syntax, Section \ref{s_citations} the latter.
+
+\section{Metadata}\label{s_metadata}
+
+Table \ref{metadata_csv} shows an example of a well-formed CSV file containing metadata. It is structured according to a table of 11 columns, where each line corresponds to a specific document.
+
+The 11 keys corresponding to the 11 columns are:
+
+\begin{itemize}
+  \item \textbf{id}. The cell contains the IDs for the document described within the line. There may be one or more IDs, and they are separated by a single space (Unicode Character “SPACE”, U+0020). Each ID is built as follows:
+  \begin{center}ID abbreviation + ``:'' + ID value\end{center}
+  For example ``doi:10.3233/ds-170012'' indicates a DOI identifier with value ``10.3233/ds-170012''.
+
+  Supported ID abbreviations: ``arxiv'', ``doi'', ``issn'', ``isbn'', ``jid'', ``openalex'', ``pmid'', ``pmcid'', ``wikidata'', and ``wikipedia''.
+  \item \textbf{title}. The value corresponding to the document's title is expressed simply by a text string.
+  \item \textbf{author}. The cell contains the data referring to the authors of the document. They are separated by a semicolon plus a single space. An author is described according to the following structure:
+  \begin{center}Family Name + ``,'' + `` '' + Given Name + `` '' + ``['' + IDs + ``]''\end{center}
+  The authors' IDs inside square brackets are indicated using the same structure adopted in the ``id'' column.
+  \begin{center}e.g. ``Peroni, Silvio [orcid:0000-0003-0530-4305]''\end{center}
+
+  The ID abbreviations currently supported in this cell are ``orcid'', ``viaf'', and ``wikidata''.
+  
+  If there are no IDs, there will be no square brackets either. The author's given name is not mandatory. However, the final comma will be present to indicate the incompleteness of this information (e.g. ``Peroni, [orcid:0000-0003-0530- 4305]'')
+  \item \textbf{pub\_date}. This cell contains the date of publication of the document described in the row. The date is defined according to \href{https://www.iso.org/iso-8601-date-and-time-format.html}{ISO 86014}, the ISO standard for ``Representation of dates and times'':
+  \begin{center}YYYY-MM-DD\end{center}
+  YYYY indicates a four-digit year, from 0000 through 9999. MM indicates a two-digit month of the year, from 01 through 12. DD represents a two-digit day of that month, from 01 through 31. Year, month and day are separated with a hyphen ``-''(Unicode Character ``HYPHEN-MINUS'', U+002D), as required by the standard. It is mandatory to specify at least the publication year. On the other hand, month and day are not required. However, if the day is specified, the month must be specified.
+  \item \textbf{venue}. The cell contains information about the venue, i.e. the bibliographical resource to which the document belongs. For example, if a row describes the metadata of a journal article, the venue will be the journal to which that article belongs. The venue is described as follows:
+  \begin{center}Venue Title + `` '' + ``['' + IDs + ``]''\end{center}
+  The venue's IDs inside square brackets are indicated using the same structure adopted in the ``id'' column. If there are no identifiers, the square brackets are not necessary.
+  \item \textbf{volume}. This cell is only required if the entity described in the row is contained within a journal volume. The volume sequence identifier (e.g. a number) to which the entity belongs is stored here. One or more volumes constitute a journal.
+  \item \textbf{issue}. This value is only needed if the journal article described in the row is contained within a journal issue. The issue sequence identifier (e.g. a number) to which the entity belongs is stored here. One or more issues constitute a volume of the journal.
+  \item \textbf{page}. This key describes the page range of the resource described in the row. The value is composed of 2 numbers, first and last page respectively, divided by a hyphen ``-''(Unicode Character ``HYPHEN-MINUS'', U+002D).
+  \item \textbf{type}. The string contained in this box identifies the type of resource described in the row. Here is a complete list of the currently supported bibliographic resource types: abstract, archival document, audio document, book, book chapter, book part, book section, book series, book set, computer program, data file, dataset, data management plan, dissertation, editorial, edited book, journal, journal article, journal editorial, journal issue, journal volume, newspaper, newspaper article, newspaper issue, monograph, peer review, preprint, presentation, proceedings, proceedings article, proceedings series, reference book, reference entry, report, report series, retraction notice, standard, series, standard series, and web content.
+  \item \textbf{publisher}. This cell describes the entity responsible for making the resource available. The publisher information is structured in the following way:
+  \begin{center}Publisher name + `` '' + ``['' + IDs + ``]''\end{center}
+
+  The ID abbreviations currently supported in this cell are ``crossref'' and ``ror''.
+
+  Square brackets should not be entered if there is no ID.
+  \item \textbf{editor}. Since it is a human role like the author, the editor is described the same way as an author.
+\end{itemize}
+
+\begin{landscape}
+\begin{table}[p]
+\centering
+\caption{A sample of ten documents characterized by their corresponding metadata attributes}
+\label{metadata_csv}
+\resizebox{\columnwidth}{!}{
+\begin{tabular}{lllllllllll}
+\hline
+\textbf{id} & \textbf{title} & \textbf{author} & \textbf{pub\_date} & \textbf{venue} & \textbf{volume} & \textbf{issue} & \textbf{page} & \textbf{type} & \textbf{publisher} & \textbf{editor} \\ \hline
+doi:10.1007/978-3-030-00668-6\_8 & The SPAR Ontologies & \begin{tabular}[c]{@{}l@{}}Peroni, Silvio {[}orcid:0000-0003-0530-4305{]}; \\ Shotton, David {[}orcid:0000-0001-5506-523X{]}\end{tabular} & 2018 & \begin{tabular}[c]{@{}l@{}}17th ISWC \\ {[}doi:10.1007/978-3-030-00668-6{]}\end{tabular} &  &  & 119-136 & book chapter & \begin{tabular}[c]{@{}l@{}}Springer International \\ Publishing \\ {[}crossref:297{]}\end{tabular} &  \\ \hline
+doi:10.3233/DS-170012 & Automating semantic publishing & Peroni, Silvio {[}orcid:0000-0003-0530-4305{]} & 2017 & \begin{tabular}[c]{@{}l@{}}Data Science \\ {[}issn:2451-8484 issn:2451-8492{]}\end{tabular} & 1 & 1-2 & 155-173 & journal article & \begin{tabular}[c]{@{}l@{}}IOS Press \\ {[}crossref:7437{]}\end{tabular} &  \\ \hline
+\begin{tabular}[c]{@{}l@{}}doi:10.1007/978-3-476-00160-3 \\ isbn:9783476021144 \\ isbn:9783476001603\end{tabular} & Literatur &  & 2005 &  &  &  &  & book & \begin{tabular}[c]{@{}l@{}}Springer Science and \\ Business Media LLC \\ {[}crossref:297{]}\end{tabular} & Gfrereis, Heike \\ \hline
+\begin{tabular}[c]{@{}l@{}}doi:10.1057/9780230316645 \\ isbn:9780230276604 \\ isbn:9780230316645\end{tabular} & New Waves in Philosophy of Law &  & 2011 &  &  &  &  & book & \begin{tabular}[c]{@{}l@{}}Springer Science and \\ Business Media LLC \\ {[}crossref:297{]}\end{tabular} & Mar, Maksymilian Del \\ \hline
+\begin{tabular}[c]{@{}l@{}}doi:10.4324/9781003115830 \\ isbn:9781003115830\end{tabular} & Governing Savages & Markus, Andrew & 2020-07-31 &  &  &  &  & book & \begin{tabular}[c]{@{}l@{}}Informa UK Limited \\ {[}crossref:301{]}\end{tabular} &  \\ \hline
+\begin{tabular}[c]{@{}l@{}}doi:10.1515/9781503600836 \\ isbn:9781503600836\end{tabular} & Newsworthy & Barbas, Samantha & 2020-06-24 &  &  &  &  & book & \begin{tabular}[c]{@{}l@{}}Walter de Gruyter GmbH \\ {[}crossref:374{]}\end{tabular} &  \\ \hline
+doi:10.1134/s0018151x17020055 & \begin{tabular}[c]{@{}l@{}}On the theory of \\ convection of electrons in metals\end{tabular} & Gladkov, S. O. & 2017-05 & \begin{tabular}[c]{@{}l@{}}High Temperature \\ {[}issn:0018-151X issn:1608-3156{]}\end{tabular} & 55 & 3 & 321-325 & journal article & \begin{tabular}[c]{@{}l@{}}Pleiades Publishing Ltd \\ {[}crossref:137{]}\end{tabular} &  \\ \hline
+doi:10.1134/s0018151x17050029 & Stability of boiling shock & Avdeev, A. A. & 2017-09 & \begin{tabular}[c]{@{}l@{}}High Temperature \\ {[}issn:0018-151X issn:1608-3156{]}\end{tabular} & 55 & 5 & 753-760 & journal article & \begin{tabular}[c]{@{}l@{}}Pleiades Publishing Ltd \\ {[}crossref:137{]}\end{tabular} &  \\ \hline
+doi:10.1134/s0018151x17050224 & \begin{tabular}[c]{@{}l@{}}The high-temperature \\ and radiative effect on concrete\end{tabular} & Zhakin, A. I. & 2017-09 & \begin{tabular}[c]{@{}l@{}}High Temperature \\ {[}issn:0018-151X issn:1608-3156{]}\end{tabular} & 55 & 5 & 767-776 & journal article & \begin{tabular}[c]{@{}l@{}}Pleiades Publishing Ltd \\ {[}crossref:137{]}\end{tabular} &  \\ \hline
+doi:10.1134/s0018151x18010169 & \begin{tabular}[c]{@{}l@{}}Relaxation of Rayleigh \\ and Lorentz Gases in Shock Waves\end{tabular} & Skrebkov, O. V. & 2018-01 & \begin{tabular}[c]{@{}l@{}}High Temperature \\ {[}issn:0018-151X issn:1608-3156{]}\end{tabular} & 56 & 1 & 77-83 & journal article & \begin{tabular}[c]{@{}l@{}}Pleiades Publishing Ltd \\ {[}crossref:137{]}\end{tabular} &  \\ \hline
+\end{tabular}}
+\end{table}
+\end{landscape}
+
+\subsection{Mandatory fields}\label{metadata_mandatory_fields}
+
+If there are one or more ids and the volume or the issue is specified, then it is mandatory also to specify the venue and type, which must be one of ``journal article'', ``journal volume'' or ``journal issue''. In all other cases, the presence of one or more ids makes all other fields optional.
+Conversely, if the ``id'' field is empty, there are mandatory fields that vary depending on the resource type:
+
+\begin{itemize}
+    \item The fields ``title'', ``pub\_date'', and ``author'' (or ``editor'') are mandatory for the resources of type abstract, archival document, audio document, book, computer program, data management plan, dataset (or data file), dissertation, edited book, editorial, journal article, journal editorial, monograph, newspaper article, other, peer review, posted content (or web content), preprint, presentation, proceedings article, reference book, report, and retraction notice. Moreover, this information is compulsory if the "type" field is empty.
+    \item Only the ``title'' field is required for the resources of type book series, book set, journal, newspaper, proceedings, proceedings series, report series, standard, and standard series.
+    \item Regarding the resources of journal volume type, the fields ``venue'' and ``volume'', or ``venue'' and ``title'', are mandatory. Conversely, as for resources of journal issue type and newspaper issue type, the fields ``venue'' and ``issue'', or ``venue'' and ``title'', are mandatory.
+\end{itemize}
+
+Table \ref{mandatory_fields_metadata} summarizes the listed rules.
+
+\begin{table}[p]
+\caption{Summary of mandatory fields in a metadata CSV. ``M'' is an abbreviation for mandatory. ``OR'' is always present in pairs and means that at least one element of the pair is compulsory.}
+\label{mandatory_fields_metadata}
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{lllllllllll}
+\hline
+\textbf{id} &
+  \textbf{type} &
+  \textbf{title} &
+  \textbf{author} &
+  \textbf{pub\_date} &
+  \textbf{venue} &
+  \textbf{volume} &
+  \textbf{issue} &
+  \textbf{page} &
+  \textbf{publisher} &
+  \textbf{editor} \\ \hline
+ & abstract                        & M & OR & M &   &   &   &  &  & OR \\ \hline
+ & archival document               & M & OR & M &   &   &   &  &  & OR \\ \hline
+ & audio document                  & M & OR & M &   &   &   &  &  & OR \\ \hline
+ & book                            & M & OR & M &   &   &   &  &  & OR \\ \hline
+ & computer program                & M & OR & M &   &   &   &  &  & OR \\ \hline
+ & data management plan            & M & OR & M &   &   &   &  &  & OR \\ \hline
+ & dataset (or data file)          & M & OR & M &   &   &   &  &  & OR \\ \hline
+ & dissertation                    & M & OR & M &   &   &   &  &  & OR \\ \hline
+ & edited book                     & M & OR & M &   &   &   &  &  & OR \\ \hline
+ & editorial                       & M & OR & M &   &   &   &  &  & OR \\ \hline
+ & journal article                 & M & OR & M &   &   &   &  &  & OR \\ \hline
+ & journal editorial               & M & OR & M &   &   &   &  &  & OR \\ \hline
+ & monograph                       & M & OR & M &   &   &   &  &  & OR \\ \hline
+ & newspaper article               & M & OR & M &   &   &   &  &  & OR \\ \hline
+ & other                           & M & OR & M &   &   &   &  &  & OR \\ \hline
+ & peer review                     & M & OR & M &   &   &   &  &  & OR \\ \hline
+ & posted content (or web content) & M & OR & M &   &   &   &  &  & OR \\ \hline
+ & preprint                        & M & OR & M &   &   &   &  &  & OR \\ \hline
+ & presentation                    & M & OR & M &   &   &   &  &  & OR \\ \hline
+ & proceedings article             & M & OR & M &   &   &   &  &  & OR \\ \hline
+ & reference book                  & M & OR & M &   &   &   &  &  & OR \\ \hline
+ & report                          & M & OR & M &   &   &   &  &  & OR \\ \hline
+ & retraction notice               & M & OR & M &   &   &   &  &  & OR \\ \hline
+ & book chapter                    & M &   &   & M &   &   &  &  &   \\ \hline
+ & book part                       & M &   &   & M &   &   &  &  &   \\ \hline
+ & book section                    & M &   &   & M &   &   &  &  &   \\ \hline
+ & book track                      & M &   &   & M &   &   &  &  &   \\ \hline
+ & component                       & M &   &   & M &   &   &  &  &   \\ \hline
+ & reference entry                 & M &   &   & M &   &   &  &  &   \\ \hline
+ & book series                     & M &   &   &   &   &   &  &  &   \\ \hline
+ & book set                        & M &   &   &   &   &   &  &  &   \\ \hline
+ & journal                         & M &   &   &   &   &   &  &  &   \\ \hline
+ & newspaper                       & M &   &   &   &   &   &  &  &   \\ \hline
+ & proceedings                     & M &   &   &   &   &   &  &  &   \\ \hline
+ & proceedings series              & M &   &   &   &   &   &  &  &   \\ \hline
+ & report series                   & M &   &   &   &   &   &  &  &   \\ \hline
+ & standard                        & M &   &   &   &   &   &  &  &   \\ \hline
+ & standard series                 & M &   &   &   &   &   &  &  &   \\ \hline
+ & journal issue                   & OR &   &   & M &   & OR &  &  &   \\ \hline
+ & newspaper issue                 & OR &   &   & M &   & OR &  &  &   \\ \hline
+ & journal volume                  & OR &   &   & M & OR &   &  &  &   \\ \hline
+\end{tabular}%
+}
+\end{table}
+
+\begin{table}[!htb]
+\centering
+\caption{Additional mandatory fields when id is not specified. If volume or issue is specified for these resource types, then venue must also be mandatory.}
+\label{mandatory_fields_no_id}
+\begin{tabular}{lll}
+\hline
+\textbf{Resource type} & \textbf{If volume specified} & \textbf{If issue specified} \\ \hline
+editorial & venue required & venue required \\ \hline
+journal editorial & venue required & venue required \\ \hline
+journal article & venue required & venue required \\ \hline
+journal volume & venue required & - \\ \hline
+journal issue & - & venue required \\ \hline
+newspaper article & - & venue required \\ \hline
+newspaper issue & - & venue required \\ \hline
+\end{tabular}
+\end{table}
+
+\section{Citations}\label{s_citations}
+
+Table \ref{citations_csv} shows an example of a well-formed CSV file containing citations. It is structured according to a table of 2 columns, where each line corresponds to a specific citation.
+
+The 2 keys corresponding to the 2 columns are:
+
+\begin{itemize}
+    \item \textbf{citing\_id} (mandatory). This cell contains the identifier of the citing document. The identifier consists of a schema value pair, separated by a semicolon without spaces:
+        \begin{center}ID abbreviation + ``:'' + ID value\end{center}
+    For example ``pmid:23636598'' indicates a PubMed identifier with value ``23636598''.
+
+  Supported ID abbreviations: ``arxiv'', ``doi'', ``issn'', ``isbn'', ``jid'', ``openalex'', ``pmid'', ``pmcid'', ``wikidata'', and ``wikipedia''.
+    \item \textbf{cited\_id} (mandatory). This cell contains the identifier of the cited document. It follows the same rules specified for the ``citing\_id'' field.
+\end{itemize}
+
+
+\begin{table}[ht]
+\centering
+\caption{A sample of ten citations characterized by their related attributes}
+\label{citations_csv}
+\begin{tabular}{ll}
+\hline
+\textbf{citing\_id} & \textbf{cited\_id} \\ \hline
+doi:10.1016/j.websem.2012.08.001 & doi:10.1087/2009202 \\ \hline
+doi:10.1016/j.websem.2012.08.001 & doi:10.1371/journal.pcbi.1000361 \\ \hline
+doi:10.1016/j.websem.2012.08.001 & doi:10.1007/978-3-642-33876-2\_35 \\ \hline
+doi:10.1016/j.websem.2012.08.001 & doi:10.1186/2041-1480-1-S1-S6 \\ \hline
+doi:10.1016/j.websem.2012.08.001 & doi:10.1145/945645.945664 \\ \hline
+pmid:23636598 & pmid:19151427 \\ \hline
+pmid:23636598 & pmid:19782561 \\ \hline
+pmid:23636598 & pmid:18686754 \\ \hline
+pmid:23636598 & pmid:15890079 \\ \hline
+pmid:23636598 & pmid:18191757 \\ \hline
+\end{tabular}
+\end{table}
+
+\end{document}
