@@ -19,6 +19,13 @@
     "gre": "https://w3id.org/oc/corpus/re/",
     "grp": "https://w3id.org/oc/corpus/rp/",
 
+    "ar": "https://w3id.org/oc/meta/ar/",
+    "br": "https://w3id.org/oc/meta/br/",
+    "id": "https://w3id.org/oc/meta/id/",
+    "pa": "https://w3id.org/oc/meta/prov/pa/",
+    "ra": "https://w3id.org/oc/meta/ra/",
+    "re": "https://w3id.org/oc/meta/re/",
+
     "application": "https://w3id.org/spar/mediatype/application/",
     "biro": "http://purl.org/spar/biro/",
     "co": "http://purl.org/co/",
@@ -105,7 +112,6 @@
     "presentation": "fabio:Presentation",
     "print_format": "fabio:PrintObject",
     "proceedings": "fabio:AcademicProceedings",
-    "proceedings_series": "fabio:Series",
     "provenance_agent": "prov:Agent",
     "reference_book": "fabio:ReferenceBook",
     "reference_entry": "fabio:ReferenceEntry",
@@ -183,7 +189,7 @@
     "fpage": "prism:startingPage",
     "generated": { "@id": "prov:generatedAtTime", "@type": "xsd:dateTime" },
     "gname": "foaf:givenName",
-    "id": "literal:hasLiteralValue",
+    "literal_value": "literal:hasLiteralValue",
     "invalidated": { "@id": "prov:invalidatedAtTime", "@type": "xsd:dateTime" },
     "keyword": "dcat:keyword",
     "label": "rdfs:label",
@@ -264,8 +270,6 @@
     "viaf": "datacite:viaf",
     "wikidata": "datacite:wikidata",
     "wikipedia": "datacite:wikipedia",
-    "xhtml": "application:xhtml+xml",
-    "xpath": "datacite:local-resource-identifier-scheme",
-    "xmlid": "datacite:local-resource-identifier-scheme"
+    "xhtml": "application:xhtml+xml"
   }
 }
