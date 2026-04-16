@@ -46,10 +46,6 @@
     "void": "http://rdfs.org/ns/void#",
     "xsd": "http://www.w3.org/2001/XMLSchema#",
 
-    "iri": "@id",
-    "a": "@type",
-    "value": "@value",
-
     "affiliation_self_citation": "cito:AffiliationSelfCitation",
     "agent": "foaf:Agent",
     "author_network_self_citation": "cito:AuthorNetworkSelfCitation",
