@@ -172,9 +172,11 @@
     "webpage": { "@id": "dcat:landingPage", "@type": "@vocab" },
 
     "byte": { "@id": "dcat:byteSize", "@type": "xsd:decimal" },
-    "citation_creation_date": "cito:hasCitationCreationDate",
+    "citation_date": { "@id": "cito:hasCitationCreationDate", "@type": "xsd:date" },
     "citation_time_span": { "@id": "cito:hasCitationTimeSpan", "@type": "xsd:duration" },
-    "date": { "@id": "prism:publicationDate", "@type": "xsd:gYear" },
+    "citation_year": { "@id": "cito:hasCitationCreationDate", "@type": "xsd:gYear" },
+    "citation_year_month": { "@id": "cito:hasCitationCreationDate", "@type": "xsd:gYearMonth" },
+    "date": { "@id": "prism:publicationDate", "@type": "xsd:date" },
     "description": "dcterms:description",
     "edition": "prism:edition",
     "fname": "foaf:familyName",
@@ -194,6 +196,8 @@
     "subtitle": "fabio:hasSubtitle",
     "title": "dcterms:title",
     "update_action": "oco:hasUpdateQuery",
+    "year": { "@id": "prism:publicationDate", "@type": "xsd:gYear" },
+    "year_month": { "@id": "prism:publicationDate", "@type": "xsd:gYearMonth" },
 
     "ark": "datacite:ark",
     "arxiv": "datacite:arxiv",
@@ -262,10 +266,6 @@
     "wikipedia": "datacite:wikipedia",
     "xhtml": "application:xhtml+xml",
     "xpath": "datacite:local-resource-identifier-scheme",
-    "xmlid": "datacite:local-resource-identifier-scheme",
-
-    "year": "xsd:gYear",
-    "year_month": "xsd:gYearMonth",
-    "year_month_day": "xsd:date"
+    "xmlid": "datacite:local-resource-identifier-scheme"
   }
 }
